@@ -1,5 +1,6 @@
 """
-Snapshot every open Polymarket market's resolution rules and record what changed.
+Snapshot the resolution rules of every open Polymarket market that lives 30
+days or longer, count all of them, and record what changed.
 
 Runs daily in GitHub Actions. Each run:
 
@@ -41,8 +42,8 @@ RUNS = ARCHIVE / "runs.log"
 STATS = ARCHIVE / "stats.json"
 STATS_MD = ROOT / "STATS.md"
 LATE_SIGHTING_DAYS = 2   # first_seen - createdAt beyond this is an enumeration gap
-MIN_LIFETIME_DAYS = 7    # markets that live less than this (templated hourly/daily series) are
-                         # counted in stats but not archived; see README
+MIN_LIFETIME_DAYS = 30   # markets that live less than this (templated hourly, daily and weekly
+                         # series) are counted in stats but not archived; see README
 
 
 def _now() -> datetime:

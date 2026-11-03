@@ -2,7 +2,8 @@
 
 Measured behaviour of Polymarket's Gamma API, a client that enumerates every
 open market instead of stopping at the undocumented offset wall, and a daily
-archive of every market's resolution rules with change history.
+archive of resolution rules, with change history, for every market that
+lives 30 days or longer (statistics cover all of them).
 
 ## When an agent should use this repository
 

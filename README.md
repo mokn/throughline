@@ -24,7 +24,9 @@ plain pagination   (closed=false, walk offset until 422)      2,100 markets
 partitioned        (bisect by end_date, walk every slice)   238,661 markets
 ```
 
-Measured 2026-11-03 (16,670 requests). Most of the 238,661 are templated
+Measured 2026-11-03 (16,670 requests, sequential). A second, paced run three
+hours later found 235,919 in 4,602 requests and 31 minutes; the difference is
+within a day's churn of short-lived markets. Most of the 238,661 are templated
 short-lived series (hourly and daily crypto price markets, per-game sports
 markets); more than 2,100 of them end on a single day. `python3 run.py`
 re-measures it. [`GOTCHAS.md`](GOTCHAS.md)
@@ -63,11 +65,19 @@ open market, hashes each one's rules, and commits:
 | [`STATS.md`](STATS.md) | statistics over the whole open set, regenerated each run |
 
 Every open market is counted in the statistics, but only markets that live
-seven days or longer are archived. The rest are templated hourly and daily
-series (crypto price ticks, per-game sports lines) whose rules are generated
-from a fixed form; archiving them would add roughly 200,000 files a day and
-say nothing a single example does not. The exact number of archived versus
-counted markets is on the first line of each run in `archive/runs.log`.
+30 days or longer are archived. The rest are templated hourly, daily and
+weekly series (crypto price ticks, per-game and per-map sports lines) whose
+rules are generated from a fixed form, and archiving them would say nothing a
+single example does not. Measured on the 2026-11-03 dump:
+
+| Lifetime scope | Markets | Rules text | New per day (last week) |
+|---|---|---|---|
+| every open market | 235,919 | 393 MB | up to 19,700 |
+| 7 days or longer | 181,500 | 272 MB | 1,100 to 19,700 |
+| **30 days or longer** (archived) | **43,176** | **55 MB** | **90 to 720** |
+
+The exact number of archived versus counted markets is on each line of
+`archive/runs.log`.
 
 The archive checks itself. A market whose `createdAt` is more than two days
 before the archive first saw it is listed under "late first sightings" in that

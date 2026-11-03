@@ -39,7 +39,9 @@ Plain pagination therefore tops out at 2,100 rows.
 Walking `closed=false` with `limit=100` from offset 0 until the 422 yields
 2,100 markets. Partitioning the same query by `end_date_min`/`end_date_max`
 and walking each slice to exhaustion yields **238,661** distinct open markets
-(measured 2026-11-03, 16,670 requests). `gamma.Gamma.markets_all()` bisects
+(measured 2026-11-03, 16,670 requests sequentially; a paced concurrent run
+three hours later found 235,919 in 4,602 requests and 31 minutes).
+`gamma.Gamma.markets_all()` bisects
 the end-date axis until every slice exhausts below the wall; `run.py` prints
 both numbers side by side.
 

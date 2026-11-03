@@ -63,7 +63,7 @@ class FakeGamma:
         return 200, json.dumps(rows[offset:offset + limit]).encode()
 
 
-def _mk(i: int, end: str, start: str = "2026-01-01T00:00:00Z", closed: bool = False) -> dict:
+def _mk(i: int, end: str, start: str = "2025-06-01T00:00:00Z", closed: bool = False) -> dict:
     return {"id": str(i), "conditionId": f"0x{i:064x}", "slug": f"m-{i}", "question": f"Q{i}",
             "description": f"rules {i}", "endDate": end, "startDate": start, "closed": closed,
             "createdAt": start, "outcomes": '["Yes", "No"]', "outcomePrices": '["0.5", "0.5"]',
@@ -311,7 +311,7 @@ class WatcherTests(unittest.TestCase):
         import tempfile, pathlib, watch
         ms = _spread(30)
         for m in ms[:10]:
-            m["endDate"] = "2026-01-01T06:00:00Z"      # six hours after createdAt
+            m["endDate"] = "2025-06-01T06:00:00Z"      # six hours after createdAt
         tmp = pathlib.Path(tempfile.mkdtemp())
         watch.ARCHIVE, watch.INDEX_DIR = tmp, tmp / "index"
         watch.RULES, watch.CHANGES, watch.RUNS = tmp / "rules", tmp / "changes", tmp / "runs.log"
