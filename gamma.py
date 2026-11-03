@@ -117,13 +117,51 @@ def normalize(market: dict[str, Any]) -> dict[str, Any]:
 
 
 class Gamma:
-    def __init__(self, fetch: Fetch | None = None, base: str = BASE, retries: int = 4,
-                 progress: Callable[[int], None] | None = None) -> None:
+    """Client. ``rate`` is a client-side ceiling in requests per second, shared
+    across threads; the API answers 429 to sustained bursts well above it and
+    the client then halves its own rate, recovering slowly after a run of
+    successes. ``clock``/``sleep`` are injectable for tests."""
+
+    def __init__(self, fetch: Fetch | None = None, base: str = BASE, retries: int = 6,
+                 progress: Callable[[int], None] | None = None, rate: float = 8.0,
+                 clock: Callable[[], float] = time.monotonic,
+                 sleep: Callable[[float], None] = time.sleep) -> None:
         self._fetch = fetch or self._http
         self._base = base.rstrip("/")
         self._retries = retries
         self._progress = progress
+        self._clock, self._sleep = clock, sleep
+        self._rate0 = self._rate = float(rate)
+        self._tokens = float(rate)
+        self._last = clock()
+        self._lock = threading.Lock()
+        self._ok_streak = 0
         self.requests = 0
+        self.rate_limited = 0
+
+    def _acquire(self) -> None:
+        """Token bucket; callers queue in order when the bucket is empty."""
+        with self._lock:
+            now = self._clock()
+            self._tokens = min(self._rate, self._tokens + (now - self._last) * self._rate)
+            self._last = now
+            self._tokens -= 1
+            wait = max(0.0, -self._tokens / self._rate)
+        if wait > 0:
+            self._sleep(wait)
+
+    def _throttle(self) -> None:
+        with self._lock:
+            self.rate_limited += 1
+            self._ok_streak = 0
+            self._rate = max(0.5, self._rate / 2)
+            self._tokens = min(self._tokens, 0.0)
+
+    def _recover(self) -> None:
+        with self._lock:
+            self._ok_streak += 1
+            if self._ok_streak % 200 == 0 and self._rate < self._rate0:
+                self._rate = min(self._rate0, self._rate * 1.25)
 
     # -- transport -----------------------------------------------------------
 
@@ -142,15 +180,24 @@ class Gamma:
         clean = {k: v for k, v in params.items() if v is not None}
         url = f"{self._base}{path}?{urllib.parse.urlencode(clean)}" if clean else f"{self._base}{path}"
         for attempt in range(self._retries + 1):
-            self.requests += 1
-            if self._progress and self.requests % 50 == 0:
-                self._progress(self.requests)
+            self._acquire()
+            with self._lock:
+                self.requests += 1
+                n = self.requests
+            if self._progress and n % 50 == 0:
+                self._progress(n)
             status, body = self._fetch(url)
             if status == 200:
+                self._recover()
                 return json.loads(body)
-            if status == 0 or status == 429 or status >= 500:
+            if status == 429:
+                self._throttle()
                 if attempt < self._retries:
-                    time.sleep(2 ** attempt)
+                    self._sleep(max(5.0, 2.0 ** attempt))
+                    continue
+            elif status == 0 or status >= 500:
+                if attempt < self._retries:
+                    self._sleep(2.0 ** attempt)
                     continue
             raise GammaError(status, body[:200].decode("utf-8", "replace"))
         raise GammaError(0, "unreachable")
@@ -195,7 +242,7 @@ class Gamma:
             if offset > MAX_OFFSET:
                 return rows, False
 
-    def markets_all(self, *, closed: bool = False, workers: int = 6) -> dict[str, dict[str, Any]]:
+    def markets_all(self, *, closed: bool = False, workers: int = 4) -> dict[str, dict[str, Any]]:
         """Every reachable market, keyed by condition ID, or raise.
 
         Bisects the end-date axis. Each slice is probed at offset 0 and at the

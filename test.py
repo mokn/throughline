@@ -81,6 +81,18 @@ def _spread(n: int, year_from: int = 2026, year_to: int = 2029) -> list[dict]:
 
 # -- offline ------------------------------------------------------------------
 
+if "--live" not in sys.argv:
+    # Offline tests drive a fake transport; the token bucket would only slow
+    # them down. Tests that exercise the bucket pass rate/clock/sleep explicitly.
+    _real_init = gamma.Gamma.__init__
+
+    def _fast_init(self, *a, **k):
+        k.setdefault("rate", float("inf"))
+        k.setdefault("sleep", lambda s: None)
+        _real_init(self, *a, **k)
+
+    gamma.Gamma.__init__ = _fast_init
+
 class SlugTests(unittest.TestCase):
     def test_forms(self) -> None:
         for s in ("abc", "/event/abc", "https://polymarket.com/event/abc?tid=1",
@@ -161,6 +173,49 @@ class TransportTests(unittest.TestCase):
         g = gamma.Gamma(fetch=lambda u: (seen.append(u), (200, b"[]"))[1])
         g._get("/markets", limit=1, slug=None)
         self.assertNotIn("slug", seen[0])
+
+
+class RateLimitTests(unittest.TestCase):
+    def _clocked(self, fetch, rate):
+        t = {"now": 0.0, "slept": 0.0}
+        def clock(): return t["now"]
+        def sleep(s): t["slept"] += s; t["now"] += s
+        return gamma.Gamma(fetch=fetch, rate=rate, clock=clock, sleep=sleep), t
+
+    def test_bucket_paces_requests_to_the_rate(self) -> None:
+        g, t = self._clocked(FakeGamma(_spread(10)), rate=10)
+        for _ in range(30):
+            g._get("/markets", limit=1)
+        # 30 requests at 10/s with a 10-token burst: ~2 seconds of waiting
+        self.assertAlmostEqual(t["slept"], 2.0, delta=0.15)
+
+    def test_429_halves_the_rate_and_is_retried(self) -> None:
+        calls = {"n": 0}
+        def fetch(url):
+            calls["n"] += 1
+            return (429, b"") if calls["n"] == 1 else (200, b"[]")
+        g, t = self._clocked(fetch, rate=8)
+        self.assertEqual(g._get("/markets", limit=1), [])
+        self.assertEqual(g.rate_limited, 1)
+        self.assertEqual(g._rate, 4.0)
+        self.assertGreaterEqual(t["slept"], 5.0)
+
+    def test_429_recovers_after_a_run_of_successes(self) -> None:
+        calls = {"n": 0}
+        def fetch(url):
+            calls["n"] += 1
+            return (429, b"") if calls["n"] == 1 else (200, b"[]")
+        g, _ = self._clocked(fetch, rate=8)
+        for _ in range(201):
+            g._get("/markets", limit=1)
+        self.assertEqual(g._rate, 5.0)       # 4.0 * 1.25 after 200 OKs
+
+    def test_persistent_429_raises(self) -> None:
+        g, _ = self._clocked(lambda url: (429, b""), rate=8)
+        with self.assertRaises(gamma.GammaError) as cm:
+            g._get("/markets", limit=1)
+        self.assertEqual(cm.exception.status, 429)
+        self.assertEqual(g.rate_limited, 7)
 
 
 class EnumerationTests(unittest.TestCase):

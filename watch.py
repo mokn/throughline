@@ -142,6 +142,7 @@ def run(dry_run: bool = False) -> int:
             rec["last_seen_open"] = stamp   # resolved, closed, or dropped out of the open set
 
     line = (f"{stamp} ok markets={len(markets)} archived={len(archived)} requests={g.requests} "
+            f"rate_limited={g.rate_limited} "
             f"new={len(new)} changed={len(changed)} late_first_sighting={len(late)} "
             f"seconds={int((_now() - started).total_seconds())}")
     if dry_run:
