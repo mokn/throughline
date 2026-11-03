@@ -13,6 +13,7 @@ from __future__ import annotations
 import json
 import sys
 import unittest
+from datetime import datetime, timedelta, timezone
 import urllib.parse
 from unittest import mock
 
@@ -53,6 +54,8 @@ class FakeGamma:
         for axis in ("end_date", "start_date"):
             field = "endDate" if axis == "end_date" else "startDate"
             lo, hi = q.get(f"{axis}_min"), q.get(f"{axis}_max")
+            if lo and hi and lo >= hi:    # the real API: equal bounds are "invalid time range"
+                return 422, b'{"type":"validation error","error":"error validating query argument \"end_date\": invalid time range"}'
             if lo:
                 rows = [m for m in rows if m.get(field) and m[field] >= lo]
             if hi:
@@ -331,9 +334,16 @@ class LiveGotchaTests(unittest.TestCase):
     def test_3_date_filters_genuinely_filter_and_are_inclusive(self) -> None:
         m = self.g._get("/markets", limit=1, closed="false")[0]
         end = m["endDate"]
-        rows = self.g._get("/markets", limit=100, closed="false", end_date_min=end, end_date_max=end)
-        self.assertTrue(all(r["endDate"] == end for r in rows))
-        self.assertIn(m["conditionId"], {r["conditionId"] for r in rows})
+        t = gamma._epoch(end)
+        with self.assertRaises(gamma.GammaError) as cm:     # equal bounds are rejected
+            self.g._get("/markets", limit=1, closed="false", end_date_min=end, end_date_max=end)
+        self.assertEqual(cm.exception.status, 422)
+        # min inclusive: [end, end+1s] contains the market; max inclusive: [end-1s, end] does too
+        for lo, hi in ((t, t + 1), (t - 1, t)):
+            rows = self.g._get("/markets", limit=100, closed="false",
+                               end_date_min=gamma._iso(lo), end_date_max=gamma._iso(hi))
+            self.assertTrue(all(gamma._epoch(r["endDate"]) in (lo, hi) for r in rows))
+            self.assertIn(m["conditionId"], {r["conditionId"] for r in rows})
 
     def test_4_unknown_params_are_ignored(self) -> None:
         base = [r["id"] for r in self.g._get("/markets", limit=5, closed="false")]
@@ -356,7 +366,7 @@ class LiveGotchaTests(unittest.TestCase):
         self.assertIsInstance(m.get("description"), str)
         self.assertFalse({k for k in m if "revision" in k.lower() or "history" in k.lower()})
 
-    def test_8_partitioned_beats_plain(self) -> None:
+    def test_8_plain_walk_hits_the_wall(self) -> None:
         plain = 0
         try:
             for _ in gamma.Gamma().markets_plain():
@@ -364,8 +374,32 @@ class LiveGotchaTests(unittest.TestCase):
         except gamma.TruncatedEnumeration:
             pass
         self.assertEqual(plain, gamma.MAX_OFFSET + gamma.MAX_LIMIT)
-        everything = gamma.Gamma().markets_all()
-        self.assertGreater(len(everything), plain * 2)
+
+    def test_9_one_day_slice_exceeds_the_wall(self) -> None:
+        # GOTCHAS item 3: the day after the measurement date alone held more
+        # than 2,100 open markets. Any day with a full page at the wall proves
+        # that plain pagination cannot be complete. Scan the next 14 days.
+        g = gamma.Gamma()
+        today = datetime.now(timezone.utc).date()
+        for d in range(1, 15):
+            day = today + timedelta(days=d)
+            rows = g._get("/markets", limit=gamma.MAX_LIMIT, offset=gamma.MAX_OFFSET, closed="false",
+                          end_date_min=f"{day}T00:00:00Z", end_date_max=f"{day}T23:59:59Z")
+            if len(rows) == gamma.MAX_LIMIT:
+                return
+        self.fail("no single day in the next 14 held more than 2,100 open markets")
+
+    def test_10_closed_false_includes_past_end_dates(self) -> None:
+        now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        rows = gamma.Gamma()._get("/markets", limit=5, closed="false", end_date_max=now)
+        self.assertTrue(rows)
+        self.assertTrue(all(m["closed"] is False for m in rows))
+
+    def test_11_active_is_not_a_filter(self) -> None:
+        g = gamma.Gamma()
+        base = [m["id"] for m in g._get("/markets", limit=5, closed="false")]
+        for extra in ({"active": "true"}, {"active": "false"}, {"archived": "true"}):
+            self.assertEqual([m["id"] for m in g._get("/markets", limit=5, closed="false", **extra)], base)
 
 
 if __name__ == "__main__":

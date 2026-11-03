@@ -68,6 +68,17 @@ $ curl -s 'https://gamma-api.polymarket.com/markets?limit=3&closed=false&end_dat
 562802 2026-11-04T04:59:00Z
 ```
 
+Equal bounds are rejected, so a single instant needs a one-second window:
+
+```
+$ curl -s 'https://gamma-api.polymarket.com/markets?limit=1&closed=false&end_date_min=2026-11-04T04:59:00Z&end_date_max=2026-11-04T04:59:00Z'
+{"type":"validation error","error":"error validating query argument \"end_date\": invalid time range"}
+$ curl -s 'https://gamma-api.polymarket.com/markets?limit=1&closed=false&end_date_min=2026-11-04T04:59:00Z&end_date_max=2026-11-04T04:59:01Z' | python3 -c 'import json,sys;[print(m["id"],m["endDate"]) for m in json.load(sys.stdin)]'
+562793 2026-11-04T04:59:00Z
+$ curl -s 'https://gamma-api.polymarket.com/markets?limit=1&closed=false&end_date_min=2026-11-04T04:58:59Z&end_date_max=2026-11-04T04:59:00Z' | python3 -c 'import json,sys;[print(m["id"],m["endDate"]) for m in json.load(sys.stdin)]'
+562793 2026-11-04T04:59:00Z
+```
+
 `start_date_min`/`start_date_max` also filter, and `markets_all()` falls back
 to them if a single end-date instant ever holds more than 2,100 markets.
 Markets with no `endDate` cannot be reached by date filters; `markets_all()`
