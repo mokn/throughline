@@ -89,8 +89,8 @@ made against. This archive is what keeps that hash meaningful after an edit.
 | `rules.py` | `python3 rules.py <market url>` prints the rules and their sha256 |
 | `watch.py`, `stats.py` | The daily job and its statistics |
 | `run.py` | Paste-and-run demonstration of the pagination gap |
-| `test.py` | 30 offline tests against a fake that reproduces the gotchas; `--live` for the real API |
-| [`throughline/`](throughline/) | Reference client for the Throughline feed, encoding the published contract |
+| `test.py` | 26 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
+| [`throughline/`](throughline/) | Reference clients for the Throughline feed, Python and JavaScript, encoding the published contract |
 | `llms.txt` | Pointer file for coding agents |
 
 ## Throughline's contract, in brief
@@ -110,8 +110,9 @@ set is not narrowed by any volume, price or liquidity filter. A separate
 coverage endpoint distinguishes a quiet market from a broken pipeline.
 
 The contract is [`ThroughlinePublicationV3`](throughline/schema/upsert-single.json)
-and is not frozen; the [reference client](throughline/) enforces its
-change-stream semantics and `throughline/CHANGELOG.md` lists breaking changes.
+and is not frozen; the [reference clients](throughline/) (Python, stdlib only;
+JavaScript, no dependencies) enforce its change-stream semantics and
+`throughline/CHANGELOG.md` lists breaking changes.
 Full description: <https://throughline.markets/api>.
 
 ## Contributing

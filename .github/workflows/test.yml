@@ -18,3 +18,13 @@ jobs:
           python-version: "3.12"
       - run: python3 test.py
       - run: python3 -I throughline/tests/test_client.py
+
+  js:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: "20"
+      - run: node --test throughline/js/tests/
