@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "cursor": 1,
+      "envelope": {
+        "schema": "ThroughlinePublicationV3",
+        "stream_id": "test_stream",
+        "sequence": 1,
+        "operation": "upsert",
+        "record_id": "d8d7ed58df866df1ad9484d1613d09844839fef1cda249e947a29817d5c03bcb",
+        "record": {
+          "report_id": "report-1",
+          "source_revision_id": "revision-1",
+          "source_revision_kind": "captured_feed_revision",
+          "publisher": "Example News",
+          "title": "Illustrative ceasefire negotiations scheduled",
+          "url": "https://news.example/article",
+          "language": "en",
+          "published_at": "2026-11-03T12:00:00Z",
+          "received_at": "2026-11-03T12:00:03Z",
+          "source_clock_status": "reported",
+          "captured_content": "summary",
+          "publisher_completeness": "unknown",
+          "market": {
+            "venue": "polymarket",
+            "condition_id": "0x1111111111111111111111111111111111111111111111111111111111111111",
+            "title": "Illustrative ceasefire by deadline?",
+            "url": null,
+            "rules_sha256": "2222222222222222222222222222222222222222222222222222222222222222",
+            "deadline_at": null
+          },
+          "relevance": {
+            "stage": "scout",
+            "assessed_at": "2026-11-03T12:00:15Z",
+            "verdict": "relevant",
+            "novelty": "new",
+            "why_relevant": null,
+            "explanation_kind": "unavailable"
+          },
+          "analysis": null,
+          "evidence": [
+            {
+              "report_id": "report-1",
+              "source_revision_id": "revision-1",
+              "url": "https://news.example/article"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "next_cursor": 1,
+  "has_more": false
+}
