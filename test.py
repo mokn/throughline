@@ -249,35 +249,58 @@ class StatsTests(unittest.TestCase):
 
 
 class WatcherTests(unittest.TestCase):
-    def test_runs_detect_change_and_dry_run_writes_nothing(self) -> None:
+    def test_short_lived_markets_counted_but_not_archived(self) -> None:
         import tempfile, pathlib, watch
-        ms = _spread(120)
+        ms = _spread(30)
+        for m in ms[:10]:
+            m["endDate"] = "2026-01-01T06:00:00Z"      # six hours after createdAt
         tmp = pathlib.Path(tempfile.mkdtemp())
-        watch.ARCHIVE, watch.INDEX = tmp, tmp / "index.json"
+        watch.ARCHIVE, watch.INDEX_DIR = tmp, tmp / "index"
         watch.RULES, watch.CHANGES, watch.RUNS = tmp / "rules", tmp / "changes", tmp / "runs.log"
         watch.STATS, watch.STATS_MD = tmp / "stats.json", tmp / "STATS.md"
         real = gamma.Gamma
         watch.gamma.Gamma = lambda: real(fetch=FakeGamma(ms))
         try:
             self.assertEqual(watch.run(), 0)
-            idx = json.loads(watch.INDEX.read_text())
+            self.assertEqual(len(watch._load_index()), 20)
+            st = json.loads(watch.STATS.read_text())
+            self.assertEqual(st["open_markets"], 30)
+            self.assertEqual(st["archived"], 20)
+            self.assertEqual(st["lifetime"]["<1 day"], 10)
+            self.assertIn("markets=30 archived=20", watch.RUNS.read_text())
+        finally:
+            watch.gamma.Gamma = real
+
+    def test_runs_detect_change_and_dry_run_writes_nothing(self) -> None:
+        import tempfile, pathlib, watch
+        ms = _spread(120)
+        tmp = pathlib.Path(tempfile.mkdtemp())
+        watch.ARCHIVE, watch.INDEX_DIR = tmp, tmp / "index"
+        watch.RULES, watch.CHANGES, watch.RUNS = tmp / "rules", tmp / "changes", tmp / "runs.log"
+        watch.STATS, watch.STATS_MD = tmp / "stats.json", tmp / "STATS.md"
+        real = gamma.Gamma
+        watch.gamma.Gamma = lambda: real(fetch=FakeGamma(ms))
+        try:
+            self.assertEqual(watch.run(), 0)
+            idx = watch._load_index()
             self.assertEqual(len(idx), 120)
-            self.assertEqual(len(list(watch.RULES.iterdir())), 120)
+            self.assertEqual(sum(1 for _ in watch.RULES.rglob("*.txt")), 120)
+            self.assertGreater(len(list(watch.INDEX_DIR.glob("*.json"))), 1)
             self.assertEqual(len(watch.RUNS.read_text().splitlines()), 1)
             self.assertFalse(watch.CHANGES.exists())
             self.assertEqual(json.loads(watch.STATS.read_text())["open_markets"], 120)
             self.assertIn("| Open markets | **120** |", watch.STATS_MD.read_text())
             ms[5]["description"] = "rules 5, edited"
             self.assertEqual(watch.run(), 0)
-            idx = json.loads(watch.INDEX.read_text())
+            idx = watch._load_index()
             self.assertEqual(idx[ms[5]["conditionId"]]["revisions"], 2)
             md = next(watch.CHANGES.iterdir()).read_text()
             self.assertIn("rules 5\n", md)
             self.assertIn("rules 5, edited", md)
             self.assertEqual(len(watch.RUNS.read_text().splitlines()), 2)
-            before = watch.INDEX.read_text()
+            before = json.dumps(watch._load_index(), sort_keys=True)
             self.assertEqual(watch.run(dry_run=True), 0)
-            self.assertEqual(watch.INDEX.read_text(), before)
+            self.assertEqual(json.dumps(watch._load_index(), sort_keys=True), before)
         finally:
             watch.gamma.Gamma = real
 

@@ -34,7 +34,15 @@ def compute(markets: dict[str, dict[str, Any]], stamp: str) -> dict[str, Any]:
     volume_zero = 0
     volume_buckets: Counter[str] = Counter()
     ends_past = 0
+    lifetime: Counter[str] = Counter()
     for m in markets.values():
+        c0, e0 = gamma._epoch(m.get("createdAt") or ""), gamma._epoch(m.get("endDate") or "")
+        if c0 is None or e0 is None:
+            lifetime["unknown"] += 1
+        else:
+            d = (e0 - c0) / 86400
+            lifetime["<1 day" if d < 1 else "1-7 days" if d < 7 else "7-30 days" if d < 30
+                     else "30-365 days" if d < 365 else ">1 year"] += 1
         end = m.get("endDate") or ""
         by_end_month[end[:7] if end else "none"] += 1
         e = gamma._epoch(end)
@@ -68,6 +76,7 @@ def compute(markets: dict[str, dict[str, Any]], stamp: str) -> dict[str, Any]:
         "created_last_30d": created_30d,
         "end_date_in_past_but_open": ends_past,
         "by_end_month": dict(sorted(by_end_month.items())),
+        "lifetime": {k: lifetime[k] for k in ("<1 day", "1-7 days", "7-30 days", "30-365 days", ">1 year", "unknown")},
         "description_chars": {"p10": _pct(desc_len, .1), "p50": _pct(desc_len, .5),
                               "p90": _pct(desc_len, .9), "max": max(desc_len, default=0),
                               "total": sum(desc_len)},
@@ -99,9 +108,14 @@ def render(s: dict[str, Any], index: dict[str, Any] | None = None) -> str:
          f"| Markets with zero volume | {s['volume']['zero']:,} ({pc(s['volume']['zero'])}) |",
          f"| Total volume (USD, as reported) | {s['volume']['total_usd']:,} |",
          ""]
+    if "archived" in s:
+        L += [f"| Archived (lifetime ≥ {s['min_lifetime_days']} days) | {s['archived']:,} ({pc(s['archived'])}) |"]
     if index:
         rev = sum(1 for r in index.values() if r.get("revisions", 1) > 1)
-        L += [f"| Markets whose rules changed since the archive began | {rev:,} |", ""]
+        L += [f"| Archived markets whose rules changed since the archive began | {rev:,} |"]
+    L += ["", "## Market lifetime (end date minus creation)", "", "| lifetime | markets |", "|---|---|"]
+    L += [f"| {k} | {v:,} |" for k, v in s["lifetime"].items()]
+    L += [""]
     d = s["description_chars"]
     L += ["## Resolution text length (characters)", "",
           "| p10 | median | p90 | max | total |", "|---|---|---|---|---|",

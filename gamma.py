@@ -8,8 +8,9 @@ following, none of which is documented:
 1. ``limit`` is silently clamped to 100. Ask for 500, get 100 rows and HTTP 200.
 2. ``offset`` returns HTTP 422 above roughly 2000, and adding filters does not
    move the wall. Plain pagination therefore stops at ~2100 markets.
-3. Those ~2100 are about a quarter of the open markets. Partitioning the walk
-   by ``end_date_min``/``end_date_max`` found 8400+ distinct open markets.
+3. Those ~2100 are under 1% of the open markets. Partitioning the walk by
+   ``end_date_min``/``end_date_max`` found 238,661 distinct open markets.
+   ``active`` and ``archived`` are not filters; ``closed`` is.
 4. Unknown query parameters are ignored, not rejected. ``id_min=…`` returns
    HTTP 200 and the unfiltered result set.
 5. ``outcomes``, ``outcomePrices``, ``clobTokenIds`` and ``umaResolutionStatuses``
@@ -21,15 +22,18 @@ following, none of which is documented:
 The guiding rule here is: never return a partial answer that looks complete.
 Enumeration either covers every reachable market or raises.
 
-Stdlib only. No credentials. See GOTCHAS.md for the probes behind each claim.
+Stdlib only. No credentials. See GOTCHAS.md for the probes behind each claim
+(ten items; this list is the short version).
 """
 from __future__ import annotations
 
 import json
+import threading
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from typing import Any, Callable, Iterator
 
@@ -191,47 +195,92 @@ class Gamma:
             if offset > MAX_OFFSET:
                 return rows, False
 
-    def _partition(self, lo: int, hi: int, axis: str, out: dict[str, dict[str, Any]], **filters: Any) -> None:
-        rows, complete = self._walk(**{f"{axis}_min": _iso(lo), f"{axis}_max": _iso(hi)}, **filters)
-        for m in rows:
-            key = m.get("conditionId") or m.get("id")
-            if key:
-                out[key] = m
-        if complete:
-            return
-        if hi - lo > _MIN_SLICE_SECONDS:
-            mid = (lo + hi) // 2
-            self._partition(lo, mid, axis, out, **filters)
-            self._partition(mid + 1, hi, axis, out, **filters)   # both bounds inclusive
-            return
-        if axis == "end_date":
-            # One minute of end dates still holds >2000 markets: slice by start date inside it.
-            self._partition(_EPOCH_LO, _EPOCH_HI, "start_date", out,
-                            end_date_min=_iso(lo), end_date_max=_iso(hi), **filters)
-            return
-        raise TruncatedEnumeration(
-            f"more than {MAX_OFFSET + MAX_LIMIT} markets share end_date "
-            f"{filters.get('end_date_min')}..{filters.get('end_date_max')} and start_date "
-            f"{_iso(lo)}..{_iso(hi)}; the API offers no finer partition"
-        )
-
-    def markets_all(self, *, closed: bool = False) -> dict[str, dict[str, Any]]:
+    def markets_all(self, *, closed: bool = False, workers: int = 6) -> dict[str, dict[str, Any]]:
         """Every reachable market, keyed by condition ID, or raise.
 
-        Partitions the end-date axis by bisection until every slice exhausts
-        below the offset wall, then unions a plain walk of the first 2000 so
-        markets without an end date (which date filters cannot reach) are
-        included when they sort early. Raises TruncatedEnumeration rather than
-        returning a subset.
+        Bisects the end-date axis. Each slice is probed at offset 0 and at the
+        offset wall before anything is walked, so an oversized slice costs two
+        requests, not twenty-one. Slices are processed concurrently. Markets
+        without an end date cannot be reached by date filters; the first 2,000
+        rows of a plain walk are unioned in so those are included when they
+        sort early. Raises TruncatedEnumeration rather than returning a subset.
         """
         out: dict[str, dict[str, Any]] = {}
-        self._partition(_EPOCH_LO, _EPOCH_HI, "end_date", out, closed=_b(closed))
-        plain, _ = self._walk(closed=_b(closed))
+        lock = threading.Lock()
+        base = {"closed": _b(closed)}
+
+        def add(rows: list[dict[str, Any]]) -> None:
+            with lock:
+                for m in rows:
+                    key = m.get("conditionId") or m.get("id")
+                    if key:
+                        out[key] = m
+
+        with ThreadPoolExecutor(max_workers=workers) as pool:
+            pending: set = set()
+
+            def submit(lo: int, hi: int, axis: str, filters: dict[str, Any]) -> None:
+                pending.add(pool.submit(node, lo, hi, axis, filters))
+
+            def node(lo: int, hi: int, axis: str, filters: dict[str, Any]) -> None:
+                f = {**filters, f"{axis}_min": _iso(lo), f"{axis}_max": _iso(hi)}
+                first = self._get("/markets", limit=MAX_LIMIT, offset=0, **f)
+                add(first)
+                if len(first) < MAX_LIMIT:
+                    return
+                last = self._get("/markets", limit=MAX_LIMIT, offset=MAX_OFFSET, **f)
+                if len(last) == MAX_LIMIT:
+                    # more than the wall allows: split instead of walking
+                    if hi - lo > _MIN_SLICE_SECONDS:
+                        mid = (lo + hi) // 2
+                        with lock:
+                            submit(lo, mid, axis, filters)
+                            submit(mid + 1, hi, axis, filters)   # both bounds inclusive
+                    elif axis == "end_date":
+                        with lock:
+                            submit(_EPOCH_LO, _EPOCH_HI, "start_date",
+                                   {**filters, "end_date_min": _iso(lo), "end_date_max": _iso(hi)})
+                    else:
+                        raise TruncatedEnumeration(
+                            f"more than {MAX_OFFSET + MAX_LIMIT} markets share end_date "
+                            f"{filters.get('end_date_min')}..{filters.get('end_date_max')} and start_date "
+                            f"{_iso(lo)}..{_iso(hi)}; the API offers no finer partition")
+                    return
+                add(last)
+                self._pages(f, add)
+
+            with lock:
+                submit(_EPOCH_LO, _EPOCH_HI, "end_date", base)
+            while True:
+                with lock:
+                    if not pending:
+                        break
+                    snapshot = set(pending)
+                done = next(as_completed(snapshot))
+                with lock:
+                    pending.discard(done)
+                done.result()   # re-raise GammaError / TruncatedEnumeration
+
+        plain, _ = self._walk(**base)
         for m in plain:
             key = m.get("conditionId") or m.get("id")
             if key:
                 out.setdefault(key, m)
         return out
+
+    def _pages(self, filters: dict[str, Any], add: Callable[[list[dict[str, Any]]], None],
+               batch: int = 4) -> None:
+        """Fetch offsets 100..1900 of a slice known to fit under the wall, a few
+        at a time, stopping at the first short page."""
+        offsets = list(range(MAX_LIMIT, MAX_OFFSET, MAX_LIMIT))
+        with ThreadPoolExecutor(max_workers=batch) as pool:
+            for i in range(0, len(offsets), batch):
+                chunk = offsets[i:i + batch]
+                pages = list(pool.map(lambda o: self._get("/markets", limit=MAX_LIMIT, offset=o, **filters), chunk))
+                for pg in pages:
+                    add(pg)
+                if any(len(pg) < MAX_LIMIT for pg in pages):
+                    return
 
     def markets_plain(self, *, closed: bool = False) -> Iterator[dict[str, Any]]:
         """The naive walk, for comparison. Stops at the wall and says so."""

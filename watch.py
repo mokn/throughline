@@ -6,8 +6,8 @@ Runs daily in GitHub Actions. Each run:
 1. Enumerates every open market (partitioned, so it does not stop at the
    offset wall).
 2. Hashes each market's ``description``.
-3. Compares against archive/index.json from the previous run.
-4. Writes archive/rules/<conditionId>.txt for new or changed rules, and
+3. Compares against archive/index/<shard>.json from the previous run.
+4. Writes archive/rules/<shard>/<conditionId>.txt for new or changed rules, and
    archive/changes/<date>.md listing every change with before/after text.
 5. Appends one line to archive/runs.log whether or not anything changed, so a
    gap in the log is visible as a gap.
@@ -34,23 +34,50 @@ from rules import rules_hash
 
 ROOT = Path(__file__).resolve().parent
 ARCHIVE = ROOT / "archive"
-INDEX = ARCHIVE / "index.json"
+INDEX_DIR = ARCHIVE / "index"
 RULES = ARCHIVE / "rules"
 CHANGES = ARCHIVE / "changes"
 RUNS = ARCHIVE / "runs.log"
 STATS = ARCHIVE / "stats.json"
 STATS_MD = ROOT / "STATS.md"
 LATE_SIGHTING_DAYS = 2   # first_seen - createdAt beyond this is an enumeration gap
+MIN_LIFETIME_DAYS = 7    # markets that live less than this (templated hourly/daily series) are
+                         # counted in stats but not archived; see README
 
 
 def _now() -> datetime:
     return datetime.now(timezone.utc)
 
 
+def _shard(cid: str) -> str:
+    """Two trailing hex chars of the condition ID: 256 shards of ~1,000 markets each."""
+    tail = cid[-2:].lower()
+    return tail if len(tail) == 2 and all(c in "0123456789abcdef" for c in tail) else "xx"
+
+
 def _load_index() -> dict:
-    if INDEX.exists():
-        return json.loads(INDEX.read_text())
-    return {}
+    index: dict = {}
+    if INDEX_DIR.exists():
+        for f in sorted(INDEX_DIR.glob("*.json")):
+            index.update(json.loads(f.read_text()))
+    return index
+
+
+def _save_index(index: dict) -> None:
+    INDEX_DIR.mkdir(parents=True, exist_ok=True)
+    shards: dict[str, dict] = {}
+    for cid, rec in index.items():
+        shards.setdefault(_shard(cid), {})[cid] = rec
+    for sh, recs in shards.items():
+        (INDEX_DIR / f"{sh}.json").write_text(json.dumps(recs, indent=1, sort_keys=True) + "\n")
+
+
+def _rules_path(cid: str) -> Path:
+    return RULES / _shard(cid) / f"{cid}.txt"
+
+
+def lifetime_days(m: dict) -> float | None:
+    return _days_between(m.get("createdAt"), m.get("endDate") or "")
 
 
 def _days_between(a: str | None, b: str) -> float | None:
@@ -76,7 +103,9 @@ def run(dry_run: bool = False) -> int:
 
     index = _load_index()
     new, changed, late = [], [], []
-    for cid, m in sorted(markets.items()):
+    archived = {cid: m for cid, m in markets.items()
+                if (lifetime_days(m) or 0) >= MIN_LIFETIME_DAYS or not m.get("endDate")}
+    for cid, m in sorted(archived.items()):
         h = rules_hash(m.get("description"))
         prev = index.get(cid)
         if prev is None:
@@ -96,7 +125,7 @@ def run(dry_run: bool = False) -> int:
             if not dry_run:
                 _write_rules(cid, m.get("description"))
         elif prev["sha256"] != h:
-            before = (RULES / f"{cid}.txt").read_text() if (RULES / f"{cid}.txt").exists() else ""
+            before = _rules_path(cid).read_text() if _rules_path(cid).exists() else ""
             changed.append((cid, prev, before, m.get("description") or ""))
             prev["sha256"] = h
             prev["last_changed"] = stamp
@@ -105,14 +134,14 @@ def run(dry_run: bool = False) -> int:
             if not dry_run:
                 _write_rules(cid, m.get("description"))
 
-    seen_now = set(markets)
+    seen_now = set(archived)
     for cid, rec in index.items():
         if cid in seen_now:
             rec.pop("last_seen_open", None)
         elif "last_seen_open" not in rec:
             rec["last_seen_open"] = stamp   # resolved, closed, or dropped out of the open set
 
-    line = (f"{stamp} ok markets={len(markets)} requests={g.requests} "
+    line = (f"{stamp} ok markets={len(markets)} archived={len(archived)} requests={g.requests} "
             f"new={len(new)} changed={len(changed)} late_first_sighting={len(late)} "
             f"seconds={int((_now() - started).total_seconds())}")
     if dry_run:
@@ -122,8 +151,10 @@ def run(dry_run: bool = False) -> int:
         return 0
 
     ARCHIVE.mkdir(exist_ok=True)
-    INDEX.write_text(json.dumps(index, indent=1, sort_keys=True) + "\n")
+    _save_index(index)
     st = stats.compute(markets, stamp)
+    st["archived"] = len(archived)
+    st["min_lifetime_days"] = MIN_LIFETIME_DAYS
     STATS.write_text(json.dumps(st, indent=1) + "\n")
     STATS_MD.write_text(stats.render(st, index))
     if changed or late:
@@ -135,8 +166,9 @@ def run(dry_run: bool = False) -> int:
 
 
 def _write_rules(cid: str, description: str | None) -> None:
-    RULES.mkdir(parents=True, exist_ok=True)
-    (RULES / f"{cid}.txt").write_text(description or "")
+    path = _rules_path(cid)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(description or "")
 
 
 def _write_changes(today: str, stamp: str, changed: list, late: list, index: dict) -> None:
