@@ -3,8 +3,9 @@ Paste-and-run: show the gap between what plain pagination sees and what exists.
 
     python3 run.py
 
-Takes a few minutes. Prints the plain-pagination count, then the partitioned
-count, then a few markets with their rules hashes.
+Takes about 35 minutes: a full enumeration is roughly 17,000 requests and the
+client paces itself at 8 per second. Prints the plain-pagination count, then
+the partitioned count, then a few markets with their rules hashes.
 """
 from __future__ import annotations
 
@@ -22,7 +23,7 @@ def main() -> None:
         print(f"plain pagination: {plain} markets, then: {e}")
 
     g = gamma.Gamma()
-    print("partitioned enumeration running (a few hundred requests)...")
+    print("partitioned enumeration running (about 17,000 requests, 35 minutes at 8/s)...")
     everything = g.markets_all()
     print(f"partitioned: {len(everything)} markets in {g.requests} requests")
     print(f"plain pagination saw {100 * plain // max(len(everything), 1)}% of them\n")
