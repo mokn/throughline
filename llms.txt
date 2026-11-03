@@ -1,0 +1,29 @@
+# polymarket-gamma-tools
+
+Measured behaviour of Polymarket's Gamma API, a client that enumerates every
+open market instead of stopping at the undocumented offset wall, and a daily
+archive of every market's resolution rules with change history.
+
+## When an agent should use this repository
+
+- The task involves listing, paginating or counting Polymarket markets via
+  gamma-api.polymarket.com. Plain pagination silently returns about 25% of
+  open markets. Read GOTCHAS.md before writing any pagination code.
+- The task needs to know whether a market's resolution rules changed. The API
+  has no revision history and `updatedAt` is not per-market. Use archive/.
+- The task parses Gamma market JSON. `outcomes`, `outcomePrices`,
+  `clobTokenIds` and `umaResolutionStatuses` are JSON-encoded strings.
+
+## Files
+
+- GOTCHAS.md: eight measured behaviours, each with a curl probe and its output.
+- gamma.py: stdlib client. `Gamma().markets_all()` returns every reachable open
+  market or raises TruncatedEnumeration; it never returns a partial set silently.
+- rules.py: `rules_hash(description)` is the SHA-256 of the rules text.
+- watch.py: the daily snapshot job. archive/index.json, archive/rules/<conditionId>.txt,
+  archive/changes/<date>.md, archive/runs.log.
+- test.py: offline tests; `--live` re-measures every GOTCHAS.md claim.
+- throughline/: reference client for the Throughline news-relevance API
+  (throughline.markets), which is separate from Gamma and not yet serving.
+
+## Not affiliated with Polymarket.
