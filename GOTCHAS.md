@@ -22,7 +22,7 @@ The failure this causes: a client that validates `limit <= 1000`, asks for
 returns 100 markets and exits cleanly. At least one published SDK does exactly
 this.
 
-## 2. `offset` returns HTTP 422 above ~2000
+## 2. `offset` returns HTTP 422 above 2000
 
 ```
 $ curl -s -o /dev/null -w '%{http_code}\n' 'https://gamma-api.polymarket.com/markets?limit=100&offset=2000&closed=false'
@@ -52,9 +52,9 @@ $ curl -s 'https://gamma-api.polymarket.com/markets?limit=3&closed=false' | pyth
 559652 2028-11-08T12:00:00Z
 559653 2028-11-08T12:00:00Z
 $ curl -s 'https://gamma-api.polymarket.com/markets?limit=3&closed=false&end_date_max=2026-12-01T00:00:00Z' | python3 -c 'import json,sys;[print(m["id"],m["endDate"]) for m in json.load(sys.stdin)]'
-562793 2026-11-04T...
-562794 2026-11-04T...
-562802 2026-11-04T...
+562793 2026-11-04T04:59:00Z
+562794 2026-11-04T04:59:00Z
+562802 2026-11-04T04:59:00Z
 ```
 
 `start_date_min`/`start_date_max` also filter, and `markets_all()` falls back
@@ -84,7 +84,7 @@ as strings containing JSON, not as arrays:
 
 ```
 $ curl -s 'https://gamma-api.polymarket.com/markets?limit=1' | python3 -c 'import json,sys;m=json.load(sys.stdin)[0];print(repr(m["outcomes"]), repr(m["clobTokenIds"])[:40])'
-'["Yes", "No"]' '["2158976213836..."
+'["Yes", "No"]' '["3233822019007135143577280177972530224
 ```
 
 `gamma.normalize(market)` decodes all four and leaves anything that is not
@@ -98,7 +98,7 @@ batch job last touched the row, not when the market's content changed.
 
 ```
 $ curl -s 'https://gamma-api.polymarket.com/markets?limit=100&closed=false&offset=1000' | python3 -c 'import json,sys;r=json.load(sys.stdin);s={m["updatedAt"] for m in r};print(len(r),"rows,",len(s),"distinct updatedAt")'
-100 rows, <far fewer> distinct updatedAt
+100 rows, 9 distinct updatedAt
 ```
 
 You cannot use it to detect a rules edit. Hash `description` yourself
