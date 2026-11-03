@@ -221,6 +221,33 @@ class RulesTests(unittest.TestCase):
         self.assertEqual(set(fp), {"conditionId", "slug", "question", "sha256", "createdAt", "endDate"})
 
 
+class StatsTests(unittest.TestCase):
+    def test_compute_and_render(self) -> None:
+        import stats
+        ms = {m["conditionId"]: m for m in _spread(40)}
+        ms[next(iter(ms))]["description"] = ""
+        ms[next(iter(ms))]["negRisk"] = True
+        ms[next(iter(ms))]["volumeNum"] = "2500"
+        s = stats.compute(ms, "2026-06-01T00:00:00Z")
+        self.assertEqual(s["open_markets"], 40)
+        self.assertEqual(s["plain_pagination_sees"], 40)
+        self.assertEqual(s["empty_description"], 1)
+        self.assertEqual(s["neg_risk"], 1)
+        self.assertEqual(s["volume"]["buckets"]["1k-10k"], 1)
+        self.assertEqual(s["volume"]["zero"], 39)
+        self.assertEqual(s["outcomes_count"], {"2": 40})
+        self.assertEqual(sum(s["by_end_month"].values()), 40)
+        md = stats.render(s, {"a": {"revisions": 2}, "b": {"revisions": 1}})
+        self.assertIn("| Open markets | **40** |", md)
+        self.assertIn("rules changed since the archive began | 1 |", md)
+
+    def test_empty_set(self) -> None:
+        import stats
+        s = stats.compute({}, "2026-06-01T00:00:00Z")
+        self.assertEqual(s["open_markets"], 0)
+        self.assertIn("n/a", stats.render(s))
+
+
 class WatcherTests(unittest.TestCase):
     def test_runs_detect_change_and_dry_run_writes_nothing(self) -> None:
         import tempfile, pathlib, watch
@@ -228,6 +255,7 @@ class WatcherTests(unittest.TestCase):
         tmp = pathlib.Path(tempfile.mkdtemp())
         watch.ARCHIVE, watch.INDEX = tmp, tmp / "index.json"
         watch.RULES, watch.CHANGES, watch.RUNS = tmp / "rules", tmp / "changes", tmp / "runs.log"
+        watch.STATS, watch.STATS_MD = tmp / "stats.json", tmp / "STATS.md"
         real = gamma.Gamma
         watch.gamma.Gamma = lambda: real(fetch=FakeGamma(ms))
         try:
@@ -237,6 +265,8 @@ class WatcherTests(unittest.TestCase):
             self.assertEqual(len(list(watch.RULES.iterdir())), 120)
             self.assertEqual(len(watch.RUNS.read_text().splitlines()), 1)
             self.assertFalse(watch.CHANGES.exists())
+            self.assertEqual(json.loads(watch.STATS.read_text())["open_markets"], 120)
+            self.assertIn("| Open markets | **120** |", watch.STATS_MD.read_text())
             ms[5]["description"] = "rules 5, edited"
             self.assertEqual(watch.run(), 0)
             idx = json.loads(watch.INDEX.read_text())

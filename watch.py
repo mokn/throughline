@@ -29,6 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import gamma
+import stats
 from rules import rules_hash
 
 ROOT = Path(__file__).resolve().parent
@@ -37,6 +38,8 @@ INDEX = ARCHIVE / "index.json"
 RULES = ARCHIVE / "rules"
 CHANGES = ARCHIVE / "changes"
 RUNS = ARCHIVE / "runs.log"
+STATS = ARCHIVE / "stats.json"
+STATS_MD = ROOT / "STATS.md"
 LATE_SIGHTING_DAYS = 2   # first_seen - createdAt beyond this is an enumeration gap
 
 
@@ -120,6 +123,9 @@ def run(dry_run: bool = False) -> int:
 
     ARCHIVE.mkdir(exist_ok=True)
     INDEX.write_text(json.dumps(index, indent=1, sort_keys=True) + "\n")
+    st = stats.compute(markets, stamp)
+    STATS.write_text(json.dumps(st, indent=1) + "\n")
+    STATS_MD.write_text(stats.render(st, index))
     if changed or late:
         CHANGES.mkdir(exist_ok=True)
         _write_changes(today, stamp, changed, late, index)
