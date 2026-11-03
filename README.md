@@ -87,9 +87,10 @@ made against. This archive is what keeps that hash meaningful after an edit.
 | [`GOTCHAS.md`](GOTCHAS.md) | Ten measured Gamma behaviours with probes |
 | `gamma.py` | Client: partitioned enumeration, `TruncatedEnumeration` instead of a silent subset |
 | `rules.py` | `python3 rules.py <market url>` prints the rules and their sha256 |
+| `history.py` | `python3 history.py <market url>` replays every archived revision from git; `--verify <sha256>` says when that text was live |
 | `watch.py`, `stats.py` | The daily job and its statistics |
 | `run.py` | Paste-and-run demonstration of the pagination gap |
-| `test.py` | 26 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
+| `test.py` | 31 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
 | [`throughline/`](throughline/) | Reference clients for the Throughline feed, Python and JavaScript, encoding the published contract |
 | `llms.txt` | Pointer file for coding agents |
 

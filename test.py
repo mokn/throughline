@@ -363,6 +363,100 @@ class WatcherTests(unittest.TestCase):
             watch.gamma.Gamma = real
 
 
+class HistoryTests(unittest.TestCase):
+    """history.py replays revisions from git; the archive lives in a temp repo."""
+
+    def setUp(self) -> None:
+        import tempfile, pathlib, subprocess, watch
+        self.tmp = pathlib.Path(tempfile.mkdtemp())
+        subprocess.run(["git", "init", "-q", "-b", "main"], cwd=self.tmp, check=True)
+        subprocess.run(["git", "config", "user.email", "t@example.invalid"], cwd=self.tmp, check=True)
+        subprocess.run(["git", "config", "user.name", "t"], cwd=self.tmp, check=True)
+        a = self.tmp / "archive"
+        watch.ARCHIVE, watch.INDEX_DIR = a, a / "index"
+        watch.RULES, watch.CHANGES, watch.RUNS = a / "rules", a / "changes", a / "runs.log"
+        watch.STATS, watch.STATS_MD = a / "stats.json", self.tmp / "STATS.md"
+        self.ms = _spread(12)
+        self.real = gamma.Gamma
+        watch.gamma.Gamma = lambda: self.real(fetch=FakeGamma(self.ms))
+
+    def tearDown(self) -> None:
+        import watch
+        watch.gamma.Gamma = self.real
+
+    def _commit(self, msg: str) -> None:
+        import subprocess
+        subprocess.run(["git", "add", "-A"], cwd=self.tmp, check=True)
+        subprocess.run(["git", "commit", "-q", "-m", msg], cwd=self.tmp, check=True)
+
+    def test_find_by_cid_slug_and_url(self) -> None:
+        import history, watch
+        self.assertEqual(watch.run(), 0)
+        cid, slug = self.ms[3]["conditionId"], self.ms[3]["slug"]
+        self.assertEqual(history.find(cid)[0], cid)
+        self.assertEqual(history.find(slug)[0], cid)
+        self.assertEqual(history.find(f"https://polymarket.com/market/{slug}?tid=1")[0], cid)
+        self.assertIsNone(history.find("0xnotamarket"))
+        self.assertIsNone(history.find("https://polymarket.com/event/nope"))
+
+    def test_revisions_follow_git_history_and_verify_finds_old_hash(self) -> None:
+        import history, watch
+        from rules import rules_hash
+        cid = self.ms[5]["conditionId"]
+        self.assertEqual(watch.run(), 0)
+        self._commit("run 1")
+        first = rules_hash(self.ms[5]["description"])
+        self.ms[5]["description"] = "rules 5, edited"
+        self.assertEqual(watch.run(), 0)
+        self._commit("run 2")
+        revs = history.revisions(cid, root=self.tmp)
+        self.assertEqual([r["sha256"] for r in revs], [first, rules_hash("rules 5, edited")])
+        self.assertEqual(revs[0]["text"], "rules 5")
+        self.assertTrue(all(r["date"] for r in revs))
+        self.assertEqual(len(history.verify(cid, first.upper(), root=self.tmp)), 1)
+        self.assertEqual(history.verify(cid, "0" * 64, root=self.tmp), [])
+        # an unchanged file does not produce a phantom revision
+        self.assertEqual(watch.run(), 0)
+        self._commit("run 3")
+        self.assertEqual(len(history.revisions(cid, root=self.tmp)), 2)
+
+    def test_uncommitted_working_tree_revision_is_listed(self) -> None:
+        import history, watch
+        cid = self.ms[0]["conditionId"]
+        self.assertEqual(watch.run(), 0)
+        self._commit("run 1")
+        self.ms[0]["description"] = "live edit"
+        self.assertEqual(watch.run(), 0)
+        revs = history.revisions(cid, root=self.tmp)
+        self.assertEqual(len(revs), 2)
+        self.assertEqual(revs[-1]["commit"], "(working tree)")
+        self.assertEqual(revs[-1]["text"], "live edit")
+
+    def test_never_archived_market(self) -> None:
+        import history
+        self.assertEqual(history.revisions("0x" + "ab" * 32, root=self.tmp), [])
+
+    def test_cli(self) -> None:
+        import history, watch, io, contextlib
+        self.assertEqual(watch.run(), 0)
+        self._commit("run 1")
+        cid = self.ms[2]["conditionId"]
+        history.ROOT = self.tmp
+        out = io.StringIO()
+        with contextlib.redirect_stdout(out):
+            self.assertEqual(history.main(["history.py", cid]), 0)
+        self.assertIn("--- revision 1", out.getvalue())
+        self.assertIn("rules 2", out.getvalue())
+        with contextlib.redirect_stdout(io.StringIO()):
+            self.assertEqual(history.main(["history.py", "0xmissing"]), 1)
+            self.assertEqual(history.main(["history.py", cid, "--verify", "0" * 64]), 1)
+            self.assertEqual(history.main(["history.py", cid, "--verify"]), 2)
+            self.assertEqual(history.main(["history.py"]), 2)
+        from rules import rules_hash
+        with contextlib.redirect_stdout(io.StringIO()):
+            self.assertEqual(history.main(["history.py", cid, "--verify", rules_hash("rules 2")]), 0)
+
+
 # -- live ---------------------------------------------------------------------
 
 @unittest.skipUnless(LIVE, "pass --live")
