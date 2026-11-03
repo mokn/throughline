@@ -113,10 +113,12 @@ def normalize(market: dict[str, Any]) -> dict[str, Any]:
 
 
 class Gamma:
-    def __init__(self, fetch: Fetch | None = None, base: str = BASE, retries: int = 4) -> None:
+    def __init__(self, fetch: Fetch | None = None, base: str = BASE, retries: int = 4,
+                 progress: Callable[[int], None] | None = None) -> None:
         self._fetch = fetch or self._http
         self._base = base.rstrip("/")
         self._retries = retries
+        self._progress = progress
         self.requests = 0
 
     # -- transport -----------------------------------------------------------
@@ -129,16 +131,20 @@ class Gamma:
                 return r.status, r.read()
         except urllib.error.HTTPError as e:
             return e.code, e.read()
+        except (urllib.error.URLError, TimeoutError, OSError) as e:
+            return 0, str(e).encode()      # status 0 = no response; retried like a 5xx
 
     def _get(self, path: str, **params: Any) -> Any:
         clean = {k: v for k, v in params.items() if v is not None}
         url = f"{self._base}{path}?{urllib.parse.urlencode(clean)}" if clean else f"{self._base}{path}"
         for attempt in range(self._retries + 1):
             self.requests += 1
+            if self._progress and self.requests % 50 == 0:
+                self._progress(self.requests)
             status, body = self._fetch(url)
             if status == 200:
                 return json.loads(body)
-            if status == 429 or status >= 500:
+            if status == 0 or status == 429 or status >= 500:
                 if attempt < self._retries:
                     time.sleep(2 ** attempt)
                     continue

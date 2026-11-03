@@ -14,6 +14,7 @@ import json
 import sys
 import unittest
 import urllib.parse
+from unittest import mock
 
 import gamma
 from rules import rules_hash, fingerprint
@@ -125,6 +126,23 @@ class TransportTests(unittest.TestCase):
             g._get("/markets")
         self.assertEqual(cm.exception.status, 503)
         self.assertEqual(len(calls), 3)
+
+    def test_network_error_retried_then_raises_status_0(self) -> None:
+        calls = []
+        def fetch(url: str) -> tuple[int, bytes]:
+            calls.append(url)
+            return 0, b"The read operation timed out"
+        with self.assertRaises(gamma.GammaError) as cm:
+            gamma.Gamma(fetch=fetch, retries=3)._get("/markets")
+        self.assertEqual(cm.exception.status, 0)
+        self.assertEqual(len(calls), 4)
+
+    def test_http_transport_maps_timeout_to_status_0(self) -> None:
+        import socket
+        with mock.patch("gamma.urllib.request.urlopen", side_effect=socket.timeout("timed out")):
+            status, body = gamma.Gamma._http("https://example.invalid/x")
+        self.assertEqual(status, 0)
+        self.assertIn(b"timed out", body)
 
     def test_4xx_not_retried(self) -> None:
         calls = []
