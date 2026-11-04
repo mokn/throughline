@@ -41,7 +41,8 @@ The feed's <code>updated</code> stamp moves with every run, so a feed that stops
 means the watcher stopped, not that nothing changed.</p>
 <p>The archive, the client that enumerates every open market, the statistics and the
 code behind this page are at <a href="{repo}">{repo}</a>. Not affiliated with Polymarket.
-Published by <a href="https://throughline.markets">Throughline</a>.</p>
+Published by <a href="https://throughline.markets">Throughline</a>, whose operator also
+trades on Polymarket; nothing here is a position or a recommendation.</p>
 </body>
 </html>
 """
