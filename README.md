@@ -104,6 +104,36 @@ about edits before that.
 Throughline publishes, with every match, a hash of the rule text the match was
 made against. This archive is what keeps that hash meaningful after an edit.
 
+## For agents: the MCP server
+
+[`mcp_server.py`](mcp_server.py) exposes all of the above as seven tools over
+the Model Context Protocol, stdlib only, stdio transport. Register it with
+whatever runs your agent:
+
+```
+claude mcp add throughline -- python3 /path/to/throughline/mcp_server.py
+```
+
+Cursor, Claude Desktop, Windsurf and Zed take the same command in their JSON:
+
+```json
+{"mcpServers": {"throughline": {"command": "python3",
+                                "args": ["/path/to/throughline/mcp_server.py"]}}}
+```
+
+| Tool | Does | Network |
+|---|---|---|
+| `market` | one market by URL, slug or conditionId: question, outcomes, prices, dates, rules text, rules sha256, whether the archive tracks it and whether its rules changed since | live |
+| `event_markets` | every market under an event URL | live |
+| `rules_history` | every archived revision of a market's rules, with dates and hashes | none |
+| `verify_rules_hash` | whether a sha256 matches any archived revision, and when that text was live | none |
+| `search_archive` | substring search over the question and slug of every archived market | none |
+| `recent_rule_changes` | the latest rule edits as unified diffs | none |
+| `archive_stats` | the latest sweep's statistics and the watcher's last run line | none |
+
+The offline tools read the archive in your checkout, so `git pull` is how they
+stay current. `python3 mcp_server.py --tools` prints the tool list.
+
 ## Layout
 
 | Path | What |
@@ -113,9 +143,10 @@ made against. This archive is what keeps that hash meaningful after an edit.
 | `rules.py` | `python3 rules.py <market url>` prints the rules and their sha256 |
 | `history.py` | `python3 history.py <market url>` replays every archived revision from git; `--verify <sha256>` says when that text was live |
 | `watch.py`, `stats.py` | The daily job and its statistics |
+| `mcp_server.py` | MCP server: the seven tools above, stdio, no dependencies |
 | `feed.py`, `site.py` | Build `archive/feed.xml` and the one-page site that serves it; `feed.py --show` prints recent rule diffs |
 | `run.py` | Paste-and-run demonstration of the pagination gap |
-| `test.py` | 38 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
+| `test.py` | 44 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
 | [`throughline/`](throughline/) | Reference clients for the Throughline feed, Python and JavaScript, encoding the published contract |
 | `llms.txt` | Pointer file for coding agents |
 

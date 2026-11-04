@@ -44,8 +44,12 @@ class FakeGamma:
         if path == "/markets" and "slug" in q:
             rows = [m for m in self.markets if m["slug"] == q["slug"]]
             return 200, json.dumps(rows[:1]).encode()
+        if path == "/markets" and "condition_ids" in q:
+            rows = [m for m in self.markets if m["conditionId"] == q["condition_ids"]]
+            return 200, json.dumps(rows[:1]).encode()
         if path == "/events":
-            return 200, b"[]"
+            rows = [e for e in getattr(self, "events", []) if e["slug"] == q.get("slug")]
+            return 200, json.dumps(rows[:1]).encode()
         offset = int(q.get("offset", 0))
         limit = min(int(q.get("limit", 100)), 100)      # measured clamp
         if offset > gamma.MAX_OFFSET:
@@ -514,8 +518,8 @@ class SiteTests(unittest.TestCase):
         self.assertIn("Last watcher run: <code>never</code>", html)
 
 
-class HistoryTests(unittest.TestCase):
-    """history.py replays revisions from git; the archive lives in a temp repo."""
+class ArchiveFixture(unittest.TestCase):
+    """A temp git repo holding an archive built by watch.run() over a fake Gamma."""
 
     def setUp(self) -> None:
         import tempfile, pathlib, subprocess, watch
@@ -540,6 +544,10 @@ class HistoryTests(unittest.TestCase):
         import subprocess
         subprocess.run(["git", "add", "-A"], cwd=self.tmp, check=True)
         subprocess.run(["git", "commit", "-q", "-m", msg], cwd=self.tmp, check=True)
+
+
+class HistoryTests(ArchiveFixture):
+    """history.py replays revisions from git."""
 
     def test_find_by_cid_slug_and_url(self) -> None:
         import history, watch
@@ -607,6 +615,162 @@ class HistoryTests(unittest.TestCase):
         from rules import rules_hash
         with contextlib.redirect_stdout(io.StringIO()):
             self.assertEqual(history.main(["history.py", cid, "--verify", rules_hash("rules 2")]), 0)
+
+
+class McpTests(ArchiveFixture):
+    """mcp_server.py over a temp archive (same fixture as HistoryTests) and a fake Gamma."""
+
+    def _server(self):
+        import mcp_server
+        return mcp_server.Server(gamma_factory=lambda: self.real(fetch=FakeGamma(self.ms)), root=self.tmp)
+
+    def _call(self, srv, name, **args):
+        r = srv.handle({"jsonrpc": "2.0", "id": 9, "method": "tools/call",
+                        "params": {"name": name, "arguments": args}})
+        return r
+
+    def test_protocol_handshake_and_errors(self) -> None:
+        import mcp_server
+        srv = self._server()
+        r = srv.handle({"jsonrpc": "2.0", "id": 1, "method": "initialize",
+                        "params": {"protocolVersion": "2025-03-26", "capabilities": {}, "clientInfo": {"name": "t"}}})
+        self.assertEqual(r["result"]["protocolVersion"], "2025-03-26")
+        self.assertEqual(r["result"]["serverInfo"]["name"], "throughline")
+        self.assertIn("tools", r["result"]["capabilities"])
+        r = srv.handle({"jsonrpc": "2.0", "id": 2, "method": "initialize", "params": {"protocolVersion": "1999-01-01"}})
+        self.assertEqual(r["result"]["protocolVersion"], mcp_server.PROTOCOL_VERSIONS[0])
+        self.assertIsNone(srv.handle({"jsonrpc": "2.0", "method": "notifications/initialized"}))
+        self.assertEqual(srv.handle({"jsonrpc": "2.0", "id": 3, "method": "ping"})["result"], {})
+        names = [t["name"] for t in srv.handle({"jsonrpc": "2.0", "id": 4, "method": "tools/list"})["result"]["tools"]]
+        self.assertEqual(names, ["market", "event_markets", "rules_history", "verify_rules_hash",
+                                 "search_archive", "recent_rule_changes", "archive_stats"])
+        for t in mcp_server.TOOLS:
+            self.assertEqual(t["inputSchema"]["type"], "object")
+            self.assertTrue(hasattr(srv, f"tool_{t['name']}"))
+        self.assertEqual(srv.handle({"jsonrpc": "2.0", "id": 5, "method": "nope"})["error"]["code"], -32601)
+        self.assertEqual(srv.handle({"id": 6, "method": "ping"})["error"]["code"], -32600)
+        self.assertEqual(srv.handle([1, 2])["error"]["code"], -32600)
+        self.assertEqual(self._call(srv, "tool_market", ref="x")["error"]["code"], -32602)
+        self.assertEqual(self._call(srv, "market")["error"]["code"], -32602)
+        self.assertEqual(self._call(srv, "market", ref="a", extra=1)["error"]["code"], -32602)
+        self.assertEqual(self._call(srv, "verify_rules_hash", ref="a", sha256="zz")["error"]["code"], -32602)
+        self.assertEqual(self._call(srv, "search_archive", query="  ")["error"]["code"], -32602)
+
+    def test_market_live_lookup_by_slug_and_condition_id(self) -> None:
+        import watch
+        self.assertEqual(watch.run(), 0)
+        self._commit("seed")
+        srv = self._server()
+        m = self.ms[4]
+        for ref in (m["slug"], f"https://polymarket.com/market/{m['slug']}", m["conditionId"], m["conditionId"].upper()):
+            r = self._call(srv, "market", ref=ref)
+            self.assertFalse(r["result"]["isError"], ref)
+            d = r["result"]["structuredContent"]
+            self.assertTrue(d["found"], ref)
+            self.assertEqual(d["conditionId"], m["conditionId"])
+            self.assertEqual(d["outcomes"], ["Yes", "No"])
+            self.assertEqual(d["rules"], "rules 4")
+            self.assertEqual(d["rules_sha256"], rules_hash("rules 4"))
+            self.assertTrue(d["archived"])
+            self.assertFalse(d["rules_changed_since_archived"])
+        self.assertEqual(json.loads(r["result"]["content"][0]["text"])["slug"], m["slug"])
+        m["description"] = "rules 4, edited live"
+        d = self._call(srv, "market", ref=m["slug"])["result"]["structuredContent"]
+        self.assertTrue(d["rules_changed_since_archived"])
+        d = self._call(srv, "market", ref="no-such-market")["result"]["structuredContent"]
+        self.assertFalse(d["found"])
+
+    def test_event_markets_and_market_on_an_event_ref(self) -> None:
+        srv = self._server()
+        fake = FakeGamma(self.ms)
+        fake.events = [{"slug": "big-event", "title": "Big", "markets": self.ms[:3]}]
+        srv._gamma = self.real(fetch=fake)
+        d = self._call(srv, "event_markets", ref="https://polymarket.com/event/big-event")["result"]["structuredContent"]
+        self.assertTrue(d["found"])
+        self.assertEqual([x["slug"] for x in d["markets"]], ["m-0", "m-1", "m-2"])
+        d = self._call(srv, "market", ref="big-event")["result"]["structuredContent"]
+        self.assertFalse(d["found"])
+        self.assertEqual(len(d["conditionIds"]), 3)
+        self.assertFalse(self._call(srv, "event_markets", ref="nope")["result"]["structuredContent"]["found"])
+
+    def test_history_verify_search_changes_and_stats_are_offline(self) -> None:
+        import watch
+        self.assertEqual(watch.run(), 0)
+        self._commit("day 1")
+        self.ms[2]["description"] = "rules 2, edited"
+        self.assertEqual(watch.run(), 0)
+        self._commit("day 2")
+        srv = self._server()
+        srv._gamma_factory = lambda: (_ for _ in ()).throw(AssertionError("network used"))
+        cid = self.ms[2]["conditionId"]
+        d = self._call(srv, "rules_history", ref=self.ms[2]["slug"])["result"]["structuredContent"]
+        self.assertTrue(d["archived"])
+        self.assertEqual([r["text"] for r in d["revisions"]], ["rules 2", "rules 2, edited"])
+        self.assertEqual(d["index"]["revisions"], 2)
+        self.assertFalse(self._call(srv, "rules_history", ref="0xnot")["result"]["structuredContent"]["archived"])
+        d = self._call(srv, "verify_rules_hash", ref=cid, sha256=rules_hash("rules 2").upper())["result"]["structuredContent"]
+        self.assertTrue(d["match"]); self.assertFalse(d["current"])
+        self.assertEqual(d["matches"][0]["sha256"], rules_hash("rules 2"))
+        self.assertNotIn("text", d["matches"][0])
+        d = self._call(srv, "verify_rules_hash", ref=cid, sha256=rules_hash("rules 2, edited"))["result"]["structuredContent"]
+        self.assertTrue(d["match"]); self.assertTrue(d["current"])
+        d = self._call(srv, "verify_rules_hash", ref=cid, sha256="0" * 64)["result"]["structuredContent"]
+        self.assertFalse(d["match"])
+        d = self._call(srv, "verify_rules_hash", ref="0xnot", sha256="0" * 64)["result"]["structuredContent"]
+        self.assertFalse(d["archived"])
+        d = self._call(srv, "search_archive", query="q1")["result"]["structuredContent"]
+        self.assertEqual(d["total"], 3)          # Q1, Q10, Q11
+        self.assertEqual([x["slug"] for x in d["markets"]], ["m-1", "m-10", "m-11"])
+        d = self._call(srv, "search_archive", query="M-1", limit=1)["result"]["structuredContent"]
+        self.assertEqual((d["total"], d["returned"], len(d["markets"])), (3, 1, 1))
+        self.assertEqual(self._call(srv, "search_archive", query="zzz")["result"]["structuredContent"]["total"], 0)
+        d = self._call(srv, "recent_rule_changes")["result"]["structuredContent"]
+        self.assertEqual(len(d["changes"]), 1)
+        self.assertEqual(d["changes"][0]["conditionId"], cid)
+        self.assertIn("-rules 2\n+rules 2, edited", d["changes"][0]["diff"])
+        d = self._call(srv, "archive_stats")["result"]["structuredContent"]
+        self.assertTrue(d["available"])
+        self.assertEqual(d["stats"]["open_markets"], 12)
+        self.assertEqual(d["runs"], 2)
+        self.assertEqual(d["archived_markets"], 12)
+        self.assertIn("changed=1", d["last_run"])
+
+    def test_gamma_failure_is_a_tool_error_not_a_protocol_error(self) -> None:
+        srv = self._server()
+        srv._gamma = self.real(fetch=lambda url: (500, b"boom"), retries=1)
+        r = self._call(srv, "market", ref="m-1")
+        self.assertIn("result", r)
+        self.assertTrue(r["result"]["isError"])
+        self.assertIn("Gamma API error", r["result"]["content"][0]["text"])
+        srv2 = self._server()
+        srv2.tool_archive_stats = lambda: 1 / 0
+        r = self._call(srv2, "archive_stats")
+        self.assertTrue(r["result"]["isError"])
+        self.assertIn("ZeroDivisionError", r["result"]["content"][0]["text"])
+
+    def test_stdio_framing_in_a_subprocess(self) -> None:
+        import subprocess
+        root = pathlib.Path(__file__).resolve().parent
+        lines = [
+            json.dumps({"jsonrpc": "2.0", "id": 1, "method": "initialize",
+                        "params": {"protocolVersion": "2025-06-18", "capabilities": {}, "clientInfo": {"name": "t", "version": "0"}}}),
+            json.dumps({"jsonrpc": "2.0", "method": "notifications/initialized"}),
+            "",
+            "{not json",
+            json.dumps({"jsonrpc": "2.0", "id": 2, "method": "ping"}),
+            json.dumps({"jsonrpc": "2.0", "id": 3, "method": "tools/list"}),
+        ]
+        r = subprocess.run([sys.executable, str(root / "mcp_server.py")], input="\n".join(lines) + "\n",
+                           capture_output=True, text=True, timeout=60)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        out = [json.loads(l) for l in r.stdout.splitlines()]
+        self.assertEqual([o.get("id") for o in out], [1, None, 2, 3])
+        self.assertEqual(out[0]["result"]["protocolVersion"], "2025-06-18")
+        self.assertEqual(out[1]["error"]["code"], -32700)
+        self.assertEqual(len(out[3]["result"]["tools"]), 7)
+        r = subprocess.run([sys.executable, str(root / "mcp_server.py"), "--tools"], capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0)
+        self.assertIn("verify_rules_hash:", r.stdout)
 
 
 # -- live ---------------------------------------------------------------------

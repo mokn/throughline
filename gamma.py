@@ -99,6 +99,11 @@ def slug_of(url_or_slug: str) -> str:
     return parts[-1] if parts else ""
 
 
+def is_condition_id(ref: str) -> bool:
+    r = ref.strip().lower()
+    return len(r) == 66 and r.startswith("0x") and all(c in "0123456789abcdef" for c in r[2:])
+
+
 def normalize(market: dict[str, Any]) -> dict[str, Any]:
     """Decode the string-JSON fields in place-safe copy.
 
@@ -208,6 +213,18 @@ class Gamma:
         slug = slug_of(url_or_slug)
         rows = self._get("/markets", slug=slug, limit=1)
         return rows[0] if rows else None
+
+    def market(self, ref: str) -> dict[str, Any] | None:
+        """One market by URL, slug or condition ID (``condition_ids`` is a real filter)."""
+        if is_condition_id(ref):
+            rows = self._get("/markets", condition_ids=ref.lower(), limit=1)
+            return rows[0] if rows else None
+        return self.market_by_slug(ref)
+
+    def event(self, url_or_slug: str) -> dict[str, Any] | None:
+        """One event by URL or slug, with its ``markets`` list."""
+        ev = self._get("/events", slug=slug_of(url_or_slug), limit=1)
+        return ev[0] if ev else None
 
     def condition_ids(self, url_or_slug: str) -> list[str]:
         """Resolve a market or event URL to condition IDs.
