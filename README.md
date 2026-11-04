@@ -104,6 +104,12 @@ about edits before that.
 Throughline publishes, with every match, a hash of the rule text the match was
 made against. This archive is what keeps that hash meaningful after an edit.
 
+To get the whole archive without cloning it, a weekly [release](https://github.com/mokn/throughline/releases)
+tagged `dump-<date>` carries every archived market with its current rules as
+gzipped JSON Lines (about 17 MB), every recorded edit the same way, the
+statistics file and a `SHA256SUMS`. `python3 dump.py` builds the same files
+locally. The twelve most recent snapshots are kept; git keeps the history.
+
 ## For agents: the MCP server
 
 [`mcp_server.py`](mcp_server.py) exposes all of the above as seven tools over
@@ -144,9 +150,10 @@ stay current. `python3 mcp_server.py --tools` prints the tool list.
 | `history.py` | `python3 history.py <market url>` replays every archived revision from git; `--verify <sha256>` says when that text was live |
 | `watch.py`, `stats.py` | The daily job and its statistics |
 | `mcp_server.py` | MCP server: the seven tools above, stdio, no dependencies |
+| `dump.py` | Builds the weekly snapshot that the `dump-<date>` releases carry |
 | `feed.py`, `site.py` | Build `archive/feed.xml` and the one-page site that serves it; `feed.py --show` prints recent rule diffs |
 | `run.py` | Paste-and-run demonstration of the pagination gap |
-| `test.py` | 44 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
+| `test.py` | 47 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
 | [`throughline/`](throughline/) | Reference clients for the Throughline feed, Python and JavaScript, encoding the published contract |
 | `llms.txt` | Pointer file for coding agents |
 

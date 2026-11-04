@@ -773,6 +773,85 @@ class McpTests(ArchiveFixture):
         self.assertIn("verify_rules_hash:", r.stdout)
 
 
+class DumpTests(ArchiveFixture):
+    """dump.py writes one gzipped JSON Lines snapshot of the archive plus checksums."""
+
+    def _rows(self, path):
+        import gzip
+        with gzip.open(path, "rt", encoding="utf-8") as fh:
+            return [json.loads(l) for l in fh]
+
+    def test_snapshot_has_every_market_and_every_change_with_valid_sums(self) -> None:
+        import dump, hashlib, watch
+        self.assertEqual(watch.run(), 0)
+        self.ms[2]["description"] = "rules 2, edited"
+        self.ms[5]["closed"] = True
+        self.assertEqual(watch.run(), 0)
+        out = self.tmp / "dist"
+        m = dump.build(out)
+        self.assertEqual((m["markets"], m["changes"]), (12, 1))
+        self.assertEqual(m["date"], m["last_run"][:10])
+        self.assertEqual(m["tag"], f"dump-{m['date']}")
+        self.assertEqual(sorted(m["files"]), sorted([f"markets-{m['date']}.jsonl.gz", f"changes-{m['date']}.jsonl.gz",
+                                                     f"stats-{m['date']}.json", "SHA256SUMS"]))
+        rows = self._rows(out / f"markets-{m['date']}.jsonl.gz")
+        self.assertEqual([r["conditionId"] for r in rows], sorted(x["conditionId"] for x in self.ms))
+        by = {r["slug"]: r for r in rows}
+        self.assertEqual(by["m-2"]["rules"], "rules 2, edited")
+        self.assertEqual(by["m-2"]["revisions"], 2)
+        self.assertEqual(by["m-2"]["sha256"], rules_hash("rules 2, edited"))
+        self.assertEqual(by["m-1"]["rules"], "rules 1")
+        self.assertNotIn("last_seen_open", by["m-1"])
+        self.assertIn("last_seen_open", by["m-5"])
+        self.assertEqual(by["m-5"]["url"], "https://polymarket.com/market/m-5")
+        changes = self._rows(out / f"changes-{m['date']}.jsonl.gz")
+        self.assertEqual(len(changes), 1)
+        self.assertEqual((changes[0]["before"], changes[0]["after"], changes[0]["revision"]),
+                         ("rules 2", "rules 2, edited", 2))
+        self.assertEqual(json.loads((out / f"stats-{m['date']}.json").read_text())["open_markets"], 11)  # m-5 closed
+        for line in (out / "SHA256SUMS").read_text().splitlines():
+            digest, name = line.split("  ")
+            self.assertEqual(hashlib.sha256((out / name).read_bytes()).hexdigest(), digest, name)
+        self.assertEqual(len((out / "SHA256SUMS").read_text().splitlines()), 3)
+        n = dump.notes(m)
+        self.assertIn("| Archived markets | 12 |", n)
+        self.assertIn("| Recorded rules edits | 1 |", n)
+        self.assertIn(m["last_run"], n)
+        self.assertIn(f"`markets-{m['date']}.jsonl.gz`", n)
+
+    def test_empty_archive_still_builds(self) -> None:
+        import dump, watch
+        out = self.tmp / "dist"
+        m = dump.build(out)
+        self.assertEqual((m["markets"], m["changes"], m["last_run"]), (0, 0, None))
+        self.assertEqual(m["date"], watch._now().strftime("%Y-%m-%d"))
+        self.assertNotIn(f"stats-{m['date']}.json", m["files"])
+        self.assertEqual(self._rows(out / f"markets-{m['date']}.jsonl.gz"), [])
+        self.assertEqual(len((out / "SHA256SUMS").read_text().splitlines()), 2)
+        self.assertIn("| Last watcher run | `none` |", dump.notes(m))
+
+    def test_cli_writes_manifest_and_prints_notes(self) -> None:
+        import os, subprocess, watch
+        self.assertEqual(watch.run(), 0)
+        root = pathlib.Path(__file__).resolve().parent
+        shim = self.tmp / "shim.py"
+        shim.write_text(f"import sys, watch\n"
+                        f"watch.ARCHIVE = __import__('pathlib').Path({str(self.tmp / 'archive')!r})\n"
+                        f"watch.INDEX_DIR, watch.RULES, watch.CHANGES = watch.ARCHIVE/'index', watch.ARCHIVE/'rules', watch.ARCHIVE/'changes'\n"
+                        f"watch.RUNS, watch.STATS = watch.ARCHIVE/'runs.log', watch.ARCHIVE/'stats.json'\n"
+                        f"import dump; sys.exit(dump.main(sys.argv[1:]))\n")
+        env = dict(os.environ, PYTHONPATH=str(root))
+        out = self.tmp / "dist"
+        r = subprocess.run([sys.executable, str(shim), str(out)], capture_output=True, text=True, env=env, cwd=str(root))
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("12 markets, 0 changes, tag dump-", r.stdout)
+        manifest = json.loads((out / "manifest.json").read_text())
+        self.assertEqual(manifest["markets"], 12)
+        r = subprocess.run([sys.executable, str(shim), "--notes", str(out)], capture_output=True, text=True, env=env, cwd=str(root))
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("| Archived markets | 12 |", r.stdout)
+
+
 # -- live ---------------------------------------------------------------------
 
 @unittest.skipUnless(LIVE, "pass --live")

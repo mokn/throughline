@@ -25,6 +25,8 @@ lives 30 days or longer (statistics cover all of them).
   archive/changes/<date>.md and .json, archive/runs.log.
 - feed.py / archive/feed.xml: Atom feed of rule edits, one unified diff per entry.
   Subscribe at https://mokn.github.io/throughline/feed.xml
+- dump.py: weekly snapshot (markets-<date>.jsonl.gz with rules text, changes-<date>.jsonl.gz,
+  stats, SHA256SUMS) attached to GitHub Releases tagged dump-<date>: https://github.com/mokn/throughline/releases
 - mcp_server.py: MCP server (stdio, stdlib) with tools market, event_markets, rules_history,
   verify_rules_hash, search_archive, recent_rule_changes, archive_stats.
   Register: `claude mcp add throughline -- python3 /path/to/mcp_server.py`
