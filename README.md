@@ -60,7 +60,9 @@ open market, hashes each one's rules, and commits:
 |---|---|
 | `archive/index/<shard>.json` | conditionId → slug, question, sha256, created_at, first_seen, last_changed, revisions (256 shards by the ID's last two hex chars) |
 | `archive/rules/<shard>/<conditionId>.txt` | the current rules text, one file per market |
-| `archive/changes/YYYY-MM-DD.md` | every edit that day, before and after |
+| `archive/changes/YYYY-MM-DD.md` | every edit that day as a diff, with the full text before and after |
+| `archive/changes/YYYY-MM-DD.json` | the same edits as records, for scripts |
+| `archive/feed.xml` | Atom feed of the 200 most recent edits, one unified diff per entry |
 | `archive/runs.log` | one line per run, always, so a missed day shows as a gap |
 | [`STATS.md`](STATS.md) | statistics over the whole open set, regenerated each run |
 
@@ -78,6 +80,18 @@ single example does not. Measured on the 2026-11-03 dump:
 
 The exact number of archived versus counted markets is on each line of
 `archive/runs.log`.
+
+**To be told when a market's rules change, subscribe to the feed:**
+
+```
+https://raw.githubusercontent.com/mokn/throughline/main/archive/feed.xml
+```
+
+Each entry is one edit: the market, its revision number, the hash before and
+after, and a unified diff of the rules text. Any feed reader takes the URL;
+`python3 feed.py --show` prints the same diffs in a terminal. The feed's
+`updated` stamp moves with every run, so a feed that stops moving means the
+watcher stopped, not that nothing changed.
 
 The archive checks itself. A market whose `createdAt` is more than two days
 before the archive first saw it is listed under "late first sightings" in that
@@ -99,8 +113,9 @@ made against. This archive is what keeps that hash meaningful after an edit.
 | `rules.py` | `python3 rules.py <market url>` prints the rules and their sha256 |
 | `history.py` | `python3 history.py <market url>` replays every archived revision from git; `--verify <sha256>` says when that text was live |
 | `watch.py`, `stats.py` | The daily job and its statistics |
+| `feed.py` | Builds `archive/feed.xml`; `--show` prints recent rule diffs |
 | `run.py` | Paste-and-run demonstration of the pagination gap |
-| `test.py` | 31 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
+| `test.py` | 36 offline tests against a fake that reproduces the gotchas; `--live` adds 12 against the real API |
 | [`throughline/`](throughline/) | Reference clients for the Throughline feed, Python and JavaScript, encoding the published contract |
 | `llms.txt` | Pointer file for coding agents |
 

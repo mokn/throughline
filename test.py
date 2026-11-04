@@ -11,6 +11,8 @@ If one fails, the API changed and the doc is stale:
 from __future__ import annotations
 
 import json
+import os
+import pathlib
 import sys
 import unittest
 from datetime import datetime, timedelta, timezone
@@ -315,7 +317,7 @@ class WatcherTests(unittest.TestCase):
         tmp = pathlib.Path(tempfile.mkdtemp())
         watch.ARCHIVE, watch.INDEX_DIR = tmp, tmp / "index"
         watch.RULES, watch.CHANGES, watch.RUNS = tmp / "rules", tmp / "changes", tmp / "runs.log"
-        watch.STATS, watch.STATS_MD = tmp / "stats.json", tmp / "STATS.md"
+        watch.STATS, watch.STATS_MD, watch.FEED = tmp / "stats.json", tmp / "STATS.md", tmp / "feed.xml"
         real = gamma.Gamma
         watch.gamma.Gamma = lambda: real(fetch=FakeGamma(ms))
         try:
@@ -335,7 +337,7 @@ class WatcherTests(unittest.TestCase):
         tmp = pathlib.Path(tempfile.mkdtemp())
         watch.ARCHIVE, watch.INDEX_DIR = tmp, tmp / "index"
         watch.RULES, watch.CHANGES, watch.RUNS = tmp / "rules", tmp / "changes", tmp / "runs.log"
-        watch.STATS, watch.STATS_MD = tmp / "stats.json", tmp / "STATS.md"
+        watch.STATS, watch.STATS_MD, watch.FEED = tmp / "stats.json", tmp / "STATS.md", tmp / "feed.xml"
         real = gamma.Gamma
         watch.gamma.Gamma = lambda: real(fetch=FakeGamma(ms))
         try:
@@ -346,6 +348,8 @@ class WatcherTests(unittest.TestCase):
             self.assertGreater(len(list(watch.INDEX_DIR.glob("*.json"))), 1)
             self.assertEqual(len(watch.RUNS.read_text().splitlines()), 1)
             self.assertFalse(watch.CHANGES.exists())
+            self.assertNotIn("<entry>", watch.FEED.read_text())
+            self.assertIn(f"<updated>{watch.RUNS.read_text().split()[0]}</updated>", watch.FEED.read_text())
             self.assertEqual(json.loads(watch.STATS.read_text())["open_markets"], 120)
             md = watch.STATS_MD.read_text()
             self.assertIn("| Open markets | **120** |", md)
@@ -355,15 +359,126 @@ class WatcherTests(unittest.TestCase):
             self.assertEqual(watch.run(), 0)
             idx = watch._load_index()
             self.assertEqual(idx[ms[5]["conditionId"]]["revisions"], 2)
-            md = next(watch.CHANGES.iterdir()).read_text()
+            md = next(watch.CHANGES.glob("*.md")).read_text()
             self.assertIn("rules 5\n", md)
             self.assertIn("rules 5, edited", md)
+            self.assertIn("```diff\n", md)
+            self.assertIn("\n-rules 5\n+rules 5, edited\n", md)
+            recs = json.loads(next(watch.CHANGES.glob("*.json")).read_text())
+            self.assertEqual([r["conditionId"] for r in recs], [ms[5]["conditionId"]])
+            self.assertEqual(recs[0]["revision"], 2)
+            self.assertEqual(recs[0]["before"], "rules 5")
+            self.assertEqual(recs[0]["after"], "rules 5, edited")
+            self.assertEqual(recs[0]["sha256_after"], rules_hash("rules 5, edited"))
+            xml_ = watch.FEED.read_text()
+            self.assertIn(f"/rules/{ms[5]['conditionId']}/2</id>", xml_)
+            self.assertIn("+rules 5, edited", xml_)
             self.assertEqual(len(watch.RUNS.read_text().splitlines()), 2)
             before = json.dumps(watch._load_index(), sort_keys=True)
+            feed_before = watch.FEED.read_text()
             self.assertEqual(watch.run(dry_run=True), 0)
             self.assertEqual(json.dumps(watch._load_index(), sort_keys=True), before)
+            self.assertEqual(watch.FEED.read_text(), feed_before)
         finally:
             watch.gamma.Gamma = real
+
+
+class FeedTests(unittest.TestCase):
+    def _dir(self):
+        import tempfile, pathlib
+        return pathlib.Path(tempfile.mkdtemp())
+
+    def _changed(self, n: int, rev: int = 2, before: str = "Resolves YES if A.", after: str = "Resolves YES if B."):
+        return [(f"0x{i:062x}", {"slug": f"m-{i}", "question": f"Q{i}?", "revisions": rev,
+                                 "sha256": rules_hash(after)}, before, after) for i in range(n)]
+
+    def test_record_then_build_is_valid_atom_newest_first(self) -> None:
+        import feed
+        from xml.etree import ElementTree as ET
+        d = self._dir()
+        feed.record(d / "changes", "2026-11-05T06:17:00Z", self._changed(2))
+        feed.record(d / "changes", "2026-11-06T06:17:00Z", self._changed(1, rev=3, before="Resolves YES if B.", after="Resolves YES if C."))
+        n = feed.build(d / "changes", d / "feed.xml", "2026-11-07T06:17:00Z")
+        self.assertEqual(n, 3)
+        root = ET.parse(d / "feed.xml").getroot()
+        ns = {"a": "http://www.w3.org/2005/Atom"}
+        self.assertEqual(root.find("a:updated", ns).text, "2026-11-07T06:17:00Z")
+        entries = root.findall("a:entry", ns)
+        self.assertEqual([e.find("a:updated", ns).text for e in entries],
+                         ["2026-11-06T06:17:00Z", "2026-11-05T06:17:00Z", "2026-11-05T06:17:00Z"])
+        self.assertEqual(entries[0].find("a:id", ns).text,
+                         "tag:throughline.markets,2026:polymarket/rules/0x" + "0" * 62 + "/3")
+        self.assertEqual(entries[0].find("a:link[@rel='alternate']", ns).get("href"),
+                         "https://polymarket.com/market/m-0")
+        self.assertIn("/archive/rules/00/0x", entries[0].find("a:link[@rel='related']", ns).get("href"))
+        content = entries[0].find("a:content", ns).text
+        self.assertIn("-Resolves YES if B.\n+Resolves YES if C.", content)
+        self.assertIn("sha256 before: " + rules_hash("Resolves YES if B."), content)
+        # two feed-level ids must differ per revision: the same market at rev 2 is also present
+        ids = {e.find("a:id", ns).text for e in entries}
+        self.assertEqual(len(ids), 3)
+
+    def test_markup_in_rules_text_is_escaped(self) -> None:
+        import feed
+        from xml.etree import ElementTree as ET
+        d = self._dir()
+        feed.record(d / "changes", "2026-11-05T06:17:00Z",
+                    self._changed(1, before="a < b & c", after='<script>alert("x")</script>'))
+        feed.build(d / "changes", d / "feed.xml")
+        root = ET.parse(d / "feed.xml").getroot()
+        ns = {"a": "http://www.w3.org/2005/Atom"}
+        content = root.find("a:entry/a:content", ns).text
+        self.assertIn('+<script>alert("x")</script>', content)
+        self.assertIn("-a < b & c", content)
+        self.assertNotIn("<script>", (d / "feed.xml").read_text())
+
+    def test_capped_at_max_entries_and_empty_feed_is_valid(self) -> None:
+        import feed
+        from xml.etree import ElementTree as ET
+        d = self._dir()
+        for day in range(1, 6):
+            feed.record(d / "changes", f"2026-11-{day:02d}T06:17:00Z", self._changed(50))
+        self.assertEqual(feed.build(d / "changes", d / "feed.xml"), feed.MAX_ENTRIES)
+        self.assertEqual(len(feed.load(d / "changes")), 200)
+        self.assertEqual(feed.load(d / "changes")[0]["seen"], "2026-11-05T06:17:00Z")
+        self.assertEqual(feed.build(d / "empty", d / "none.xml"), 0)
+        root = ET.parse(d / "none.xml").getroot()
+        self.assertEqual(root.findall("{http://www.w3.org/2005/Atom}entry"), [])
+        self.assertEqual(feed.record(d / "changes", "x", []), 0)
+
+    def test_same_day_runs_append_and_identical_text_reports_no_diff(self) -> None:
+        import feed
+        d = self._dir()
+        feed.record(d / "changes", "2026-11-05T06:17:00Z", self._changed(1))
+        feed.record(d / "changes", "2026-11-05T18:00:00Z", self._changed(1, rev=3))
+        self.assertEqual(len(json.loads((d / "changes" / "2026-11-05.json").read_text())), 2)
+        self.assertEqual(feed.load(d / "changes")[0]["seen"], "2026-11-05T18:00:00Z")
+        self.assertIn("no textual difference", feed.unified_diff("same", "same"))
+        self.assertTrue(feed.unified_diff("a", "b").endswith("\n"))
+
+    def test_cli(self) -> None:
+        import subprocess, feed, watch
+        d = self._dir()
+        feed.record(d / "changes", "2026-11-05T06:17:00Z", self._changed(1))
+        (d / "runs.log").write_text("2026-11-06T06:17:00Z ok markets=1\n")
+        root = pathlib.Path(__file__).resolve().parent
+        env = {"PYTHONPATH": str(root), "PATH": os.environ.get("PATH", "")}
+        shim = d / "run.py"
+        shim.write_text("import sys, pathlib, watch, feed\n"
+                        f"watch.ARCHIVE = pathlib.Path({str(d)!r}); watch.CHANGES = watch.ARCHIVE / 'changes'\n"
+                        "watch.RUNS = watch.ARCHIVE / 'runs.log'\n"
+                        "sys.exit(feed.main(sys.argv[1:]))\n")
+        r = subprocess.run([sys.executable, str(shim)], capture_output=True, text=True, env=env)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("1 entries", r.stdout)
+        self.assertIn("<updated>2026-11-06T06:17:00Z</updated>", (d / "feed.xml").read_text())
+        r = subprocess.run([sys.executable, str(shim), "--show", "5"], capture_output=True, text=True, env=env)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertIn("== Q0?  (revision 2, seen 2026-11-05T06:17:00Z)", r.stdout)
+        self.assertIn("+Resolves YES if B.", r.stdout)
+        r = subprocess.run([sys.executable, str(shim), "--show"], capture_output=True, text=True,
+                           env=env, cwd=str(self._dir()))
+        self.assertIn("+Resolves YES if B.", r.stdout)
 
 
 class HistoryTests(unittest.TestCase):
@@ -378,6 +493,7 @@ class HistoryTests(unittest.TestCase):
         a = self.tmp / "archive"
         watch.ARCHIVE, watch.INDEX_DIR = a, a / "index"
         watch.RULES, watch.CHANGES, watch.RUNS = a / "rules", a / "changes", a / "runs.log"
+        watch.FEED = a / "feed.xml"
         watch.STATS, watch.STATS_MD = a / "stats.json", self.tmp / "STATS.md"
         self.ms = _spread(12)
         self.real = gamma.Gamma

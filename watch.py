@@ -8,9 +8,11 @@ Runs daily in GitHub Actions. Each run:
    offset wall).
 2. Hashes each market's ``description``.
 3. Compares against archive/index/<shard>.json from the previous run.
-4. Writes archive/rules/<shard>/<conditionId>.txt for new or changed rules, and
-   archive/changes/<date>.md listing every change with before/after text.
-5. Appends one line to archive/runs.log whether or not anything changed, so a
+4. Writes archive/rules/<shard>/<conditionId>.txt for new or changed rules,
+   archive/changes/<date>.md listing every change as a diff with before/after
+   text, and archive/changes/<date>.json with the same records for machines.
+5. Rebuilds archive/feed.xml, an Atom feed of the most recent edits (feed.py).
+6. Appends one line to archive/runs.log whether or not anything changed, so a
    gap in the log is visible as a gap.
 
 It also flags markets whose ``createdAt`` is well before the date this archive
@@ -29,6 +31,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+import feed
 import gamma
 import stats
 from rules import rules_hash
@@ -38,6 +41,7 @@ ARCHIVE = ROOT / "archive"
 INDEX_DIR = ARCHIVE / "index"
 RULES = ARCHIVE / "rules"
 CHANGES = ARCHIVE / "changes"
+FEED = ARCHIVE / "feed.xml"
 RUNS = ARCHIVE / "runs.log"
 STATS = ARCHIVE / "stats.json"
 STATS_MD = ROOT / "STATS.md"
@@ -162,6 +166,8 @@ def run(dry_run: bool = False) -> int:
     if changed or late:
         CHANGES.mkdir(exist_ok=True)
         _write_changes(today, stamp, changed, late, index)
+    feed.record(CHANGES, stamp, changed)
+    feed.build(CHANGES, FEED, stamp)
     _log(line, dry_run)
     print(line)
     return 0
@@ -183,6 +189,8 @@ def _write_changes(today: str, stamp: str, changed: list, late: list, index: dic
         parts.append(f"- conditionId: `{cid}`")
         parts.append(f"- revision: {prev['revisions']}")
         parts.append(f"- sha256: `{prev['sha256']}`\n")
+        parts.append("**Diff**\n")
+        parts.append("```diff\n" + feed.unified_diff(before, after, cid) + "```\n")
         parts.append("**Before**\n")
         parts.append("```\n" + before + "\n```\n")
         parts.append("**After**\n")

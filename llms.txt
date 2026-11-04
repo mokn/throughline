@@ -21,8 +21,11 @@ lives 30 days or longer (statistics cover all of them).
 - gamma.py: stdlib client. `Gamma().markets_all()` returns every reachable open
   market or raises TruncatedEnumeration; it never returns a partial set silently.
 - rules.py: `rules_hash(description)` is the SHA-256 of the rules text.
-- watch.py: the daily snapshot job. archive/index.json, archive/rules/<conditionId>.txt,
-  archive/changes/<date>.md, archive/runs.log.
+- watch.py: the daily snapshot job. archive/index/<shard>.json, archive/rules/<shard>/<conditionId>.txt,
+  archive/changes/<date>.md and .json, archive/runs.log.
+- feed.py / archive/feed.xml: Atom feed of rule edits, one unified diff per entry.
+  Subscribe at https://raw.githubusercontent.com/mokn/throughline/main/archive/feed.xml
+- history.py: every archived revision of one market from git; `--verify <sha256>`.
 - test.py: offline tests; `--live` re-measures every GOTCHAS.md claim.
 - throughline/: reference client for the Throughline news-relevance API
   (throughline.markets), which is separate from Gamma and not yet serving.
