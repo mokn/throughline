@@ -481,6 +481,39 @@ class FeedTests(unittest.TestCase):
         self.assertIn("+Resolves YES if B.", r.stdout)
 
 
+class SiteTests(unittest.TestCase):
+    def test_builds_feed_index_and_nojekyll_from_archive(self) -> None:
+        import tempfile, importlib.util, feed
+        spec = importlib.util.spec_from_file_location("tl_site", pathlib.Path(__file__).with_name("site.py"))
+        tl_site = importlib.util.module_from_spec(spec); spec.loader.exec_module(tl_site)
+        d = pathlib.Path(tempfile.mkdtemp())
+        feed.record(d / "changes", "2026-11-05T06:17:00Z",
+                    [("0x" + "a" * 62, {"slug": "s", "question": "Q & A?", "revisions": 2,
+                                        "sha256": rules_hash("b")}, "a", "b")])
+        feed.build(d / "changes", d / "feed.xml")
+        (d / "runs.log").write_text("x\n2026-11-05T06:17:00Z ok markets=1 <late>\n")
+        out = tl_site.build(d / "site", d / "feed.xml", d / "runs.log")
+        self.assertEqual((out / "feed.xml").read_text(), (d / "feed.xml").read_text())
+        html = (out / "index.html").read_text()
+        self.assertIn("Entries in the feed now: <strong>1</strong>", html)
+        self.assertIn("markets=1 &lt;late&gt;", html)
+        self.assertIn('href="feed.xml"', html)
+        self.assertIn(feed.FEED_URL, html)
+        self.assertTrue((out / ".nojekyll").exists())
+
+    def test_builds_an_empty_site_when_nothing_has_run(self) -> None:
+        import tempfile, importlib.util
+        from xml.etree import ElementTree as ET
+        spec = importlib.util.spec_from_file_location("tl_site", pathlib.Path(__file__).with_name("site.py"))
+        tl_site = importlib.util.module_from_spec(spec); spec.loader.exec_module(tl_site)
+        d = pathlib.Path(tempfile.mkdtemp())
+        out = tl_site.build(d / "site", d / "missing.xml", d / "missing.log")
+        self.assertEqual(ET.parse(out / "feed.xml").getroot().findall("{http://www.w3.org/2005/Atom}entry"), [])
+        html = (out / "index.html").read_text()
+        self.assertIn("<strong>0</strong>", html)
+        self.assertIn("Last watcher run: <code>never</code>", html)
+
+
 class HistoryTests(unittest.TestCase):
     """history.py replays revisions from git; the archive lives in a temp repo."""
 

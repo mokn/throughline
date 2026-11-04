@@ -5,9 +5,9 @@ a market's rules change.
 
 The watcher records each edit as a JSON object in archive/changes/<date>.json
 (alongside the human-readable .md) and rebuilds archive/feed.xml from the most
-recent records after every run. Subscribe to the raw file:
+recent records after every run. GitHub Pages serves it (site.py, pages.yml):
 
-    https://raw.githubusercontent.com/mokn/throughline/main/archive/feed.xml
+    https://mokn.github.io/throughline/feed.xml
 
 Regenerate or inspect by hand (nothing here talks to the network):
 
@@ -23,7 +23,7 @@ from pathlib import Path
 from xml.sax.saxutils import escape
 
 REPO_URL = "https://github.com/mokn/throughline"
-FEED_URL = "https://raw.githubusercontent.com/mokn/throughline/main/archive/feed.xml"
+FEED_URL = "https://mokn.github.io/throughline/feed.xml"
 FEED_TITLE = "Polymarket resolution-rule changes"
 FEED_SUBTITLE = ("Every edit to the resolution rules of an open Polymarket market that "
                  "lives 30 days or longer, as seen by the daily watcher at " + REPO_URL)
