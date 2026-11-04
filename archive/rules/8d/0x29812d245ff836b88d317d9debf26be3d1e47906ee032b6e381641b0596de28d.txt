@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if the peak RONI for the 2026–27 El Niño is above 2.40°C, the highest Relative Oceanic Niño Index (RONI) value on record. Otherwise, this market will resolve to "No".
+
+The peak RONI is the single highest RONI value reported by NOAA's Climate Prediction Center (CPC) across the overlapping three-month seasons ASO 2026, SON 2026, OND 2026, NDJ 2026-27, and DJF 2026-27, as reported in official NOAA CPC RONI updates. The record to beat is +2.40°C, set in DJF 1982-83, the highest RONI value for any three-month season in CPC's record. A peak RONI of exactly 2.40°C ties the record and resolves this market to "No".
+
+The first published RONI value for each listed season is final and governs this market's resolution. This market may resolve immediately upon NOAA's first publication of a RONI value of above 2.40°C for any listed season.
+
+If CPC's RONI dataset becomes temporarily unavailable, this market may be extended for up to 7 days. If CPC's RONI dataset is permanently discontinued, a consensus of credible reporting may be used. If the dataset remains unavailable after 7 days and there is no consensus of credible reporting, this market resolves to "No".
+
+No subsequent revision to a season's value will be considered or will change the outcome once that season's first value has been published. The +2.40°C threshold is fixed for the purposes of this market; any later revision to a historical season's RONI value will not change it.
+
+The resolution source for this market is the official NOAA CPC RONI updates, available here: https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/

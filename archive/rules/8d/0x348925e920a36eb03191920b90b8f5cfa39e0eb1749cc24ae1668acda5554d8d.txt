@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if the US national average price of regular gasoline published by AAA is equal to or above the specified price for any date from November 1, 2026 through November 30, 2026. Otherwise, this market will resolve to "No".
+
+This market resolves based on the US national average price of regular gasoline published by AAA at https://gasprices.aaa.com/ in the "National Average Gas Prices" table under the "Regular" column and the "Current Avg." row.
+
+Each date's price is the price displayed at 10:00 AM ET on that date, provided that at that time the "Price as of" date shown on the webpage is that date and the "Yesterday Avg." row in the same column shows the previous date's price. If either condition is not met at 10:00 AM ET, the price will be observed at the first time on that date at which both are met; if both are not met by 11:59 PM ET on that date, the price displayed in the table at that time will be used. If AAA does not display the US national average price of regular gasoline in the table at the time of observation, the price displayed elsewhere on the webpage will be used.
+
+If AAA displays no US national average price of regular gasoline on the specified webpage at any time on one or more dates within the specified month, this market will resolve based on the prices observed for the remaining dates.
+
+The resolution source for this market will be the American Automobile Association (AAA) (https://gasprices.aaa.com/).
+
+Note: AAA currently publishes gas prices to four decimal places (e.g., $4.3718). The price will be used as published, without rounding.

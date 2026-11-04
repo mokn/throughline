@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if Epoch AI marks at least one additional FrontierMath: Open Problems problem as “Solved,” or otherwise officially states that such a problem has been solved, between market creation and the specified date 11:59 PM ET. Otherwise, this market will resolve to “No.”
+
+Any problems that Epoch AI already classified as solved before market issuance will not qualify for resolution. Only problems newly classified by Epoch AI as solved after market issuance may qualify. If Epoch AI adds new problems to FrontierMath: Open Problems after market creation, those problems will be considered for resolution.
+
+This market will resolve solely based on Epoch AI’s classification or official determination that a qualifying problem has been solved, regardless of the degree of artificial intelligence involvement. A verifier-accepted submission, publicly posted solution, partial result, or third-party claim will not qualify on its own unless Epoch AI recognizes the problem as solved. 
+
+The primary resolution source will be official information from Epoch AI, including https://epoch.ai/frontiermath/open-problems.

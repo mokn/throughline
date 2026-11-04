@@ -1,0 +1,12 @@
+This market asks whether Zcash's Orchard pool vulnerability publicized June 4 is confirmed to have been exploited on Zcash mainnet before it was fixed.
+
+This market resolves "Yes" if Shielded Labs, the Zcash Foundation, or the Zcash Open Development Lab (ZODL) explicitly confirms, or an overwhelming consensus of credible reporting confirms, that the June 4 Zcash Orchard pool vulnerability was exploited on mainnet before the fix was activated by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Explicit confirmation of any of the following will qualify: 
+- The Orchard pool bug was exploited on Zcash mainnet
+- Any extra, unauthorized, invalid, or unbacked Zcash was created in the Orchard pool through this vulnerability 
+- A Zcash network upgrade, migration, audit, turnstile-accounting process (including the proposed new shielded pool with enforced turnstile accounting on exiting Orchard coins), or official investigation reveals excess or invalid Zcash in the Orchard pool that the source attributes to this specific vulnerability. 
+
+New or different exploits targeting the Orchard pool after the original vulnerability was fixed are explicitly disqualified and will not qualify. 
+
+This market will resolve based on official information from Shielded Labs, the Zcash Foundation, or the Zcash Open Development Lab (ZODL), however, an overwhelming consensus of credible reporting confirming a qualifying exploit may also resolve this market. 

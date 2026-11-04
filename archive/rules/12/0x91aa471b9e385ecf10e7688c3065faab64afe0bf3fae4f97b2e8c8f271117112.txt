@@ -1,0 +1,9 @@
+This market will resolve according to the finalized Investing.com close price (“C”) for the USD/JPY daily candle on December 31, 2026.
+
+Data for the December 31, 2026 candle will be considered finalized once the next candle appears on the specified graph.
+
+If the recorded data falls exactly between two brackets, this market will resolve to the higher bracket.
+
+Resolution will occur once the specified close price is finalized. If the relevant data is not finalized by the end of the 7th calendar day after the specified date (ET), this market will resolve according to data from the latest 2026 date available at that time. Revisions made after the relevant figure has been finalized will not be considered.
+
+This market’s resolution will be based solely on information from the “C” figure located at the top of the USD/JPY Streaming Chart on Investing.com for the specified currency pair (https://www.investing.com/currencies/usd-jpy-chart). If the resolution source becomes permanently unavailable, another resolution source will be chosen.

@@ -1,0 +1,17 @@
+This market will resolve to "Yes" if, at any point after market creation and during November 2026, any 1-minute candle for the US Dollar Index (DXY) has a final "High" or "Low" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, this market will resolve to "No".
+
+Trading days will be determined according to the applicable trading-hours schedule as listed on Pyth. Under the standard schedule (time zone America/New_York), trading is open continuously from 5:00:00 PM ET Sunday through 5:00:00 PM ET Friday, with no daily settlement break, except where modified by holiday or special-session hours as listed on Pyth.
+
+Under the standard New York 5:00 PM FX close convention, each trading day begins at 5:00:00 PM ET on the prior calendar day and ends at 5:00:00 PM ET on that calendar day. November 2026 includes all trading days whose calendar date falls within November 2026. E.g., if the final calendar day of the month is a Sunday, the Sunday evening session counts toward the following Monday's trading day and prices published that evening count toward the following month, and the month's final prices are those published up to 5:00:00 PM ET on its final trading day (ordinarily the preceding Friday).
+
+Prices will be used exactly as published by Pyth, without rounding.
+
+If the US Dollar Index (DXY) does not trade at all during the listed time frame, this market will resolve to "No".
+
+In the event of an index methodology change, feed change, or similar structural modification affecting the market during the listed time frame, this market will resolve based on adjusted prices as displayed on Pyth.
+
+The resolution source for this market is Pyth, specifically the US Dollar Index (DXY) "High" and "Low" prices available at https://app.pyth.com/explore/FX.USDXY, with the chart settings configured for 1-minute candles.
+
+Historical 1-minute candles may be accessed by appending a Unix timestamp (seconds) to the Pyth chart URL using the "t=" parameter.
+
+If the relevant Pyth data is unavailable due to a system outage, data failure, or other technical disruption that prevents verification of the required 1-minute candle data, the official daily high and low prices published by ICE Futures U.S. for the most actively traded (by open interest) ICE U.S. Dollar Index futures contract (ticker DX) as of the relevant business day may be used to determine whether the listed price was reached during the applicable trading session. Official daily high and low prices are the values shown in the "High" and "Low" columns of the ICE Futures U.S. "Futures Daily Market Report for US Dollar Index" for the relevant contract month on each relevant trading day. This report may be accessed by selecting "End of Day Report" under the "Reports" tab of the product page at https://www.ice.com/products/194/US-Dollar-Index-Futures.

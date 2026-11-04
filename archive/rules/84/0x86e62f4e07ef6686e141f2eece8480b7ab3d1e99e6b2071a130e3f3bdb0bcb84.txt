@@ -1,0 +1,7 @@
+This market will immediately resolve to “Yes” if any Binance 1-minute candle for Monero (XMRUSDT) between Jan 5, 2026, 17:25 and December 31, 2026, 23:59 ET has a final “High” price equal to or greater than the price specified in the title. Otherwise, the market will resolve to “No.”
+
+The resolution source for this market is Binance, specifically the XMRUSDT “High” prices available at:
+https://www.binance.com/en/futures/xmrusdt with the chart set to “1m” (one-minute candles) on the top bar.
+
+Only the Binance XMRUSDT price feed will be used.
+Prices from other exchanges, trading pairs, or spot markets will not be considered.

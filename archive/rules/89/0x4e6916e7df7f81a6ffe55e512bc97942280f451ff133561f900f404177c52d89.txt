@@ -1,0 +1,16 @@
+This market will resolve to "Yes" if the AI industry experiences an industry downturn by the specified date, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+For the purposes of this market, the AI industry will be considered to have experienced an industry downturn once at least three of the following events have occurred within 90 days of this market's specified timeframe:
+- NVIDIA Corporation (NVDA) closing stock price is down 50% from its all-time high.
+- iShares PHLX Semiconductor ETF (SOXX) closing stock price is down 40% from its all-time high.
+- OpenAI, Inc. or Anthropic PBC declares bankruptcy.
+- OpenAI, Inc. is acquired.
+- H100 rental price falls to $1.00 or lower for five consecutive days, as shown on the SiliconData Silicon Index at:
+https://www.silicondata.com/products/silicon-index.
+- Major AI Hardware Supplier Collapse: Taiwan Semiconductor Manufacturing Company Limited (TSM), ASML Holding N.V. (ASML), Broadcom Inc. (AVGO), Arista Networks, Inc. (ANET), or Super Micro Computer, Inc. (SMCI), closing stock price is down 50% from its all-time high.
+
+This market may resolve immediately once three conditions have been met within 90 days of the specified timeframe. For clarity, ‘within 90 days of this market’s specified timeframe’ means that three qualifying events must occur within a single 90-day window that ends no later than the market’s final resolution deadline. For example, with a December 31, 2026 deadline, if Event A occurs on January 10, Event B on February 5, and Event C on March 3 of 2026, this would qualify because all three fall within one 90-day span. By contrast, if Event A occurs on January 10, Event B on April 20, and Event C on November 1 of 2026, they would not qualify because they do not occur within the same 90-day window.
+
+This market will not resolve to "Yes" until three conditions have been met, regardless of reporting of an industry downturn or similar claims.
+
+The primary resolution source will be official information from the respective companies and listing exchanges; however, a consensus of credible reporting will also be used.

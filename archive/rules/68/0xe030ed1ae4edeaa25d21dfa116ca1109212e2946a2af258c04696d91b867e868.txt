@@ -1,0 +1,9 @@
+This is a market about Argentina’s official wholesale U.S. dollar exchange rate at market close on the last business day of December 2026, as published by the Central Bank of Argentina (BCRA).
+
+This market will resolve according to the official wholesale USD to ARS exchange rate (Tipo de Cambio Mayorista, ($ por USD) Com. A 3500 | Referencia) at market close on the final business day of December 2026, as published by the BCRA on its official website (https://www.bcra.gob.ar/).
+
+If the official rate for that date has not been published by the end of the 7th day after the end of the specified month, the market will resolve according to the most recently published official wholesale rate preceding that date.
+
+The resolution source for this market will be the official BCRA publication. Resolution will occur once this figure is available.
+
+Note: the resolution source for this market will be the Central Bank of Argentina (BCRA), which reports the Wholesale Exchange Rate to two decimal points (e.g., 1,408.02 ARS per USD). Thus, this is the level of precision that will be used when resolving the market.

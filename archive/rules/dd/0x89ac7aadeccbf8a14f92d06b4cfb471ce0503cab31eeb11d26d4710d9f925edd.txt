@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if the next Google Gemini Pro model added to the Arena.AI Leaderboard (arena.ai/leaderboard/text) has at least the specified score at 12:00 PM ET on the calendar date following the date on which it first appears on the leaderboard. Otherwise, this market will resolve to "No".
+
+Any Gemini model newly added to the leaderboard and labeled as "Pro" may qualify (e.g., gemini-2.5-pro, gemini-3-pro, or gemini-3.1-pro-preview). Gemini models labeled only as Flash, Flash-Lite, or another non-Pro variant will not qualify.
+
+Results from the "Score" column under the "Text Arena | Overall" Leaderboard tab at https://lmarena.ai/leaderboard/text with style control off will be used to resolve this market. This market will resolve solely based on the specified score in the Score column of the leaderboard, regardless of any underlying granular or unrounded data presented elsewhere.
+
+If multiple models are added to the leaderboard on the same calendar date (ET), the highest-scoring model will be used for resolution. Models added to the leaderboard on the calendar date following the initial qualifying model’s first appearance will not be considered.
+
+A qualifying model must be newly added to the Arena.AI Leaderboard. Whether the model was previously released, publicly accessible, in beta, or otherwise available before appearing on the leaderboard is irrelevant for this market.
+
+The resolution source for this market is the Chatbot Arena LLM Leaderboard found at arena.ai/leaderboard/text. If this resolution source is unavailable at 12:00 PM ET on the calendar date following the date on which the qualifying model first appears on the leaderboard, this market will resolve based on the first subsequent instance at which such a score becomes available on the leaderboard. If it remains unavailable through the end of the seventh day after the qualifying model first appears on the leaderboard or if no qualifying model release occurs by December 31, 2026, 11:59 PM ET, this market will resolve to "No".

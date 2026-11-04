@@ -1,0 +1,7 @@
+This market will resolve according to the 10-year Japanese government bond (JGB) yield on the last reported day of 2026, as reported by the Japanese Ministry of Finance.
+
+If the reported value falls exactly between two brackets, this market will resolve to the higher range bracket.
+
+The resolution source for this market will be the Japanese Ministry of Finance’s “Interest Rate” data for Japanese Government Bonds found at (https://www.mof.go.jp/english/policy/jgbs/reference/interest_rate/index.htm). The resolution will be based on the value listed in the column labelled “10Y” in row corresponding to the latest reported date of 2026. 
+
+The latest reported date will be confirmed once the Japanese Ministry of Finance publishes its first 10-year government bond yield for a 2027 date. The last 2026 date published before that point will be treated as the final reported date of 2026. If the Ministry of Finance has not published any 2027 yield data for the specified date by January 31, 2027, 11:59 PM ET, this market will resolve using the most recent 2026 yield published as of that date.

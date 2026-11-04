@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if any seasonally adjusted unemployment rate (total unemployed, as a percent of the civilian labor force, official unemployment rate denoted as U-3) reported by the Bureau of Labor Statistics in an “Employment Situation Report” for a reference month in 2026 is greater than or equal to the listed percentage. Otherwise, this market will resolve to “No”.
+
+The relevant reports for this market are the Employment Situation Reports for January-December, 2026. This market may not resolve to “No” until the Employment Situation report for December 2026 is released. If no Employment Situation Report for December 2026 is released by March 31, 2027, 11:59 PM ET, however, this market will resolve based on all previously published data up to that time. 
+
+The resolution source for this market is the Monthly Employment Situation Report, published by the BLS every month at https://www.bls.gov/bls/news-release/empsit.htm, specifically the U-3 measure in Table A-15 for each month.
+
+Note: the resolution source for this market reports unemployment to one decimal point. Thus, this is the level of precision that will be used when resolving the market.

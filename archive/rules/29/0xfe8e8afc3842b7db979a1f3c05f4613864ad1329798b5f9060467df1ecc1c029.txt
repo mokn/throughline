@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if Donald Trump's approval rating according to RealClearPolling reaches the listed value at 5:00 PM ET on any date between market creation and June 30, 2027. Otherwise, this market will resolve to "No".
+
+For markets listed with an upward arrow (↑), the approval rating must be equal to or higher than the listed value. For markets listed with a downward arrow (↓), the approval rating must be equal to or lower than the listed value.
+
+This market's resolution source will be RealClearPolling's presidential job approval poll average, https://www.realclearpolling.com/polls/approval/donald-trump/approval-rating, specifically the value in the "Approve" column of the "RCP Average" row of the table titled "President Trump Job Approval" as displayed at 5:00 PM ET on each date in the window. Any updates or revisions to the RCP Average published after these times will not be considered, except for corrections of data integrity issues as described below. Changes in the methodology by which RealClearPolling calculates its average will have no bearing on the resolution of this market.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where RealClearPolling differs from alternative sources.
+
+If the RCP Average is unavailable at 5:00 PM ET on June 30, 2027, this market may remain open until the end of the third calendar day (ET) after that date. If the RCP Average has not been updated by then, the most recent RCP Average published prior to 5:00 PM ET on June 30, 2027 will be used.
+
+The resolution source reports the rating value to only one decimal point (e.g., 42.8%, 33.9%, etc.). Thus, this is the level of precision that will be used when resolving the market.

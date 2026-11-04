@@ -1,0 +1,15 @@
+The unemployment rate is defined as the seasonally adjusted unemployment rate (total unemployed as a percent of the civilian labor force, denoted as U-3) reported by the Bureau of Labor Statistics in the Employment Situation release. The inflation rate is defined as the 12-month percent change in the Consumer Price Index for All Urban Consumers (CPI-U), before seasonal adjustment, as reported by the Bureau of Labor Statistics in the Consumer Price Index release.
+
+This market will resolve according to the unemployment rate and the inflation rate published for December 2026.
+
+If either the December 2026 inflation rate or the December 2026 unemployment rate is not published by January 31, 2027, 11:59 PM ET, this market will resolve based on the most recently published available value of the rate for a month prior to December 2026.
+
+This market will resolve to “Soft Landing (Unemployment <5.0%, Inflation <3.5%)” if the unemployment rate is less than 5.0% and the inflation rate is less than 3.5%.
+
+This market will resolve to “Stagflation (Unemployment ≥5.0%, Inflation ≥3.5%)” if the unemployment rate is greater than or equal to 5.0% and the inflation rate is greater than or equal to 3.5%.
+
+This market will resolve to “Overheating (Unemployment <5.0%, Inflation ≥3.5%)” if the unemployment rate is less than 5.0% and the inflation rate is greater than or equal to 3.5%.
+
+This market will resolve to “Slack (Unemployment ≥5.0%, Inflation <3.5%)” if the unemployment rate is greater than or equal to 5.0% and the inflation rate is less than 3.5%.
+
+The resolution source for this market will be the Bureau of Labor Statistics, specifically its Employment Situation and Consumer Price Index releases.

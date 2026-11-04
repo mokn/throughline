@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if the closing market capitalization of JPMorgan Chase & Co (JPM) is equal to or greater than USD 1 trillion for any day between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No.”
+
+Market capitalization expresses the monetary value of a company’s outstanding shares, stated in its pricing currency. It is calculated as the number of shares outstanding multiplied by the closing share price on any day within the specified timeframe.
+
+This market may remain open for three days after the specified date, 11:59 PM ET, to confirm the closing share price of a date within the specified timeframe.
+
+Resolution will be based on the primary exchange’s official listing page. In the event that the relevant figure is not displayed, another reliable source will be used.

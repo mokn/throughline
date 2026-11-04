@@ -1,0 +1,15 @@
+This market will resolve according to the finalized 7-day moving average of transit calls (“Arrivals of Ships”) for the Strait of Hormuz that IMF Portwatch reports for October 31, 2026.
+
+If the reported value falls exactly between two brackets, this market will resolve to the higher range bracket.
+
+Transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.
+
+Data for a specific date must be finalized before it is considered for this market (namely, once the next date's data point is available, the previous one is finalized).
+
+This market will resolve as soon as the relevant data has been finalized. If the data for the specified date has not been finalized by the end of the third calendar day (ET) after the day on which such data is released, this market will resolve based on data published up to that point. Additionally, if the relevant data is not released and finalized within 14 calendar days of the specified date, this market will resolve based on the most recent data published up to that point.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.
+
+Only revisions to previously published data points made before the applicable resolution time will be considered.
+
+The resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Strait of Hormuz at https://portwatch.imf.org/pages/cb5856222a5b4105adc6ee7e880a1730, both in the chart and through downloadable files. Where an unrounded and rounded value provided by the resolution source differ with respect to the resolution of this market, the unrounded value will be used.

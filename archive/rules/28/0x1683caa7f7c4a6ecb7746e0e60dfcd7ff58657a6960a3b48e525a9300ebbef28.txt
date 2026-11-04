@@ -1,0 +1,7 @@
+Each market asks whether the “Deadline” to limit global warming to 1.5°C shown by the Climate Clock (https://climateclock.world) will change before that market's listed date.
+
+A market resolves to “Yes” if, at any point on or before its listed date, 11:59 PM ET, the Climate Clock's published 1.5°C Deadline is more than 30 days earlier or more than 30 days later than July 22, 2029. Otherwise, that market resolves to “No”.
+
+The Climate Clock's 1.5°C Deadline is published as a machine-readable timestamp in its public data feed at https://api.climateclock.world/v2/clock.json (the “timestamp” value of the carbon-deadline module), which is the same target the on-site countdown at https://climateclock.world displays. As of this market's creation, that Deadline is July 22, 2029 (timestamp 2029-07-22T16:00:00+00:00). The ordinary second-by-second ticking of the countdown toward the Deadline does not constitute a change; only a change to the published Deadline date itself qualifies.
+
+Because a qualifying change is permanent once published, every market with a listed date on or after the change will resolve “Yes”, and markets whose listed date has already passed without a qualifying change will have resolved “No”. If the Climate Clock and its public data feed both become permanently unavailable before a qualifying change is published, all unresolved markets will resolve to “No”.

@@ -1,0 +1,7 @@
+This market will resolve to the percentage change in the Japanese Consumer Price Index excluding fresh food and energy (All items less fresh food and energy, change from the previous year (%)) between 2025 and 2026 according to the Consumer Price Index Annual Report by the Statistics Bureau of Japan (SBJ).
+
+The resolution source for this market will be the SBJ Consumer Price Index Annual Report released for 2026 (https://www.stat.go.jp/english/data/cpi/1588.html#nen), currently scheduled to be released on January 22, 2027. Resolution of this market will take place upon release of the aforementioned data.
+
+Note: the resolution source for this market will be the official SBJ Consumer Price Index Annual Report, which reports percentage change in the Consumer Price Index over 12-month periods to only one decimal point (e.g., 2.8%). Thus, this is the level of precision that will be used when resolving the market. For the avoidance of doubt, this market resolves on the core-core CPI figure — the all items index excluding fresh food and energy — not the headline all items CPI figure.
+
+If the SBJ does not release the relevant figures on the scheduled date, this market may remain open up until March 31, 2027. If the information is not released by that time, this market will resolve to the lowest bracket.

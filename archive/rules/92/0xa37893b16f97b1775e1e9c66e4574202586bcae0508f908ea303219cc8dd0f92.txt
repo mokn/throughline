@@ -1,0 +1,11 @@
+This market resolves based on whether a hurricane will make landfall in the state specified in the title between market creation and November 30, 2026, 11:59 PM ET. A market resolves to "Yes" if a hurricane makes landfall in that state within the timeframe, as described in official National Hurricane Center (NHC) advisories (https://www.nhc.noaa.gov/); for Hawaii, NOAA Central Pacific Hurricane Center (CPHC) advisories also apply. Otherwise, that market resolves to "No".
+
+A hurricane landfall is said to occur when a hurricane's surface center intersects with the coastline (https://www.nhc.noaa.gov/aboutgloss.shtml#LANDFALL) and the NHC reports maximum sustained winds of 74 mph or higher (Category 1 or greater) at the time of landfall. The state of landfall is determined by the surface center's location when it crosses the coastline. If a single hurricane makes separate landfalls in more than one listed state, each such state resolves to "Yes".
+
+Hurricane season runs from June 1, 2026 - November 30, 2026. 
+
+Each market resolves based on the initial NHC (or CPHC) advisory reporting a qualifying landfall in the relevant state, regardless of any later retraction or reanalysis. Each market may only resolve to "No" after November 30, 2026, 11:59 PM ET, or, if an extension period applies, after December 7, 2026, 11:59 PM ET, if the conditions for a "Yes" resolution have not been met.
+
+If an active tropical cyclone at hurricane strength is over water per official NHC or CPHC advisories as of 11:59 PM ET on November 30, 2026, the relevant market(s) will operate under an extension period of 7 days, and the resolution date will move to December 7, 2026, 11:59 PM ET; a qualifying landfall by that hurricane during the extension period will count toward resolution.
+
+If a qualifying landfall occurs within a market's timeframe (including any extension period) but has not yet been confirmed by an NHC or CPHC advisory by the resolution date, that market will remain open until such an advisory is issued.

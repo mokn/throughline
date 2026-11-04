@@ -1,0 +1,9 @@
+This market resolves based on the total number of West Nile neuroinvasive disease cases (encephalitis, meningitis, and acute flaccid paralysis) reported among New York City residents in 2026, as published by the New York City Department of Health and Mental Hygiene on its West Nile Virus Reports page at nyc.gov/site/doh/health/health-topics/west-nile-virus-reports.page.
+
+Cases are counted as whole numbers, so each outcome covers a distinct range with no overlap or gap.
+
+The 2026 count shown on the source as of January 1, 2027 is the starting figure. 
+
+If the DOHMH publishes or revises the 2026 count on or after January 1, 2027, this market will resolve based on the count shown on the source at 11:59 PM ET on the 14th day after the first such update, or on March 31, 2027, 11:59 PM ET, whichever comes first. If no such update occurs, this market will resolve on March 31, 2027, 11:59 PM ET, based on the 2026 count shown on the source at that time.
+
+If no 2026 count has been published on the source by March 31, 2027, 11:59 PM ET, this market will resolve based on the sum of 2026 West Nile neuroinvasive disease case counts reported by CDC ArboNET for the five New York City counties (Bronx, Kings, New York, Queens, and Richmond). Revisions published after this market resolves will not be considered. If the DOHMH changes its reporting format or URL structure, the closest equivalent NYC Health Department publication of 2026 West Nile neuroinvasive case data will be used.

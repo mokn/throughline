@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if a qualifying Coinbase token sale request window goes live between the creation of this market and the specified date at 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+To qualify, a Coinbase token sale request window must be live and actively accepting commitments.
+
+Qualifying sales must be hosted directly by Coinbase on coinbase.com/token-sales or any official successor page within the Coinbase app or website. Sales run on a project's own site via Sonar, Echo, or any Coinbase-powered white-label technology do not qualify, regardless of affiliation. Private sales, airdrops, standard exchange listings, and any sale without a dedicated public request window do not qualify. Sale announcements, previews, and waitlists do not constitute a live request window. A request window that opens and is subsequently cancelled, paused, or suspended still resolves to "Yes" — post-opening outcomes including cancellation, refunds, pauses, or failure to distribute tokens do not affect resolution. If a sale is announced but the request window never opens, or a token is listed directly without a request window, this market resolves to "No".
+
+The resolution source is coinbase.com/token-sales, official Coinbase blog posts, or @Coinbase/@CoinbaseMarkets on X, corroborated by credible news sources.

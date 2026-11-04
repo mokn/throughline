@@ -1,0 +1,5 @@
+This market will resolve to “Yes” if the percentage change for BTC/USDT is higher than the percentage change for XAU/USD for 2026. Otherwise, this market will resolve to “No”.
+
+The resolution source for this market is information from TradingView, specifically the charts for BTC/USDT (https://fr.tradingview.com/chart/?symbol=BINANCE%3ABTCUSDT) and XAU/USD (https://www.tradingview.com/chart/?symbol=OANDA%3AXAUUSD). The change value displayed at the top of the graph for the “12M” candle dated “01 Jan ’26” will be used once the data for both relevant candles are finalized.
+
+If the change is exactly equal according to the resolution source for the specified candles, this market will resolve 50-50.

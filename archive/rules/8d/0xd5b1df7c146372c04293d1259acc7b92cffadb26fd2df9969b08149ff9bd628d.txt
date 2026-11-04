@@ -1,0 +1,11 @@
+This market will resolve "Yes" if the listed player departs the listed team's active roster on or before December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve "No".
+
+For the purpose of this market, the listed player is considered to have "left" if they are officially removed from the listed team's active roster — including a transfer to another team, release, benching to inactive/reserve, loan to another team, retirement, or any other departure from the active lineup — as reflected on the team's Liquipedia page (https://liquipedia.net/valorant). The player being a stand-in for another team while still rostered does not by itself count.
+
+The change must occur on or before the deadline and be reflected in the resolution source. Once the departure appears in the resolution source, it must remain in effect for at least 48 continuous hours to be valid. This 48-hour period may finish after the deadline, so long as the departure itself occurred on or before the deadline. If the change is reverted before 48 hours have elapsed, it will not count toward resolution.
+
+A name change or alias referring to the same player on the same team does not count as leaving. Temporary absence for a single match (with the player remaining on the roster) does not count.
+
+If the listed team disbands, or the listed player and the team part ways because the roster is dissolved, this will count as the player leaving and resolve "Yes".
+
+The primary resolution source for this market will be Liquipedia; however, a consensus of credible reporting may also be used.

@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if the Associated Press has, by the specified date and time (ET), called control of the United States House of Representatives for the Congress that will convene following the midterm elections. Otherwise it will resolve to “No”.
+
+Control of the House of Representatives will be considered to have been called when the Associated Press has either 1) issued a call that House control has been determined, or 2) issued race calls declaring winners in at least 218 districts for candidates of the same party, with all such calls standing at the same time for 1 hour without retraction. Independents will not be considered members of a party for purposes of this count.
+
+Under condition 1, no subsequent withdrawal of a control call will be relevant to this market.
+
+Under condition 2, this market will remain open for one hour following the race call that brings a party’s standing calls to 218. If, within that hour, the Associated Press retracts any of those calls such that the party’s standing calls fall below 218, condition 2 will not be considered satisfied by that call. If no such retraction occurs within the hour, condition 2 will be considered satisfied as of the time of the 218th call, regardless of any later retraction. For resolution, the relevant time is the time of the 218th call, not the end of the one-hour period.
+
+The resolution source for this market will be the Associated Press.

@@ -1,0 +1,11 @@
+This market will resolve according to the value reported by the Global Land-Ocean Temperature Index for November 2026 when it is released.
+
+An anomaly within a named bracket for November 2026 is necessary and sufficient to resolve this market immediately once the data becomes available, regardless of whether the figure for November 2026 is later revised.
+
+The brackets are mutually exclusive and collectively exhaustive: each range is inclusive of both of its stated endpoints, and the reported anomaly (to the nearest 0.01ºC) falls within exactly one bracket.
+
+The primary resolution source for this market will be the figure found in the table titled "GLOBAL Land-Ocean Temperature Index in 0.01 degrees Celsius" under the column "Nov" in the row "2026" (https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.txt).
+
+If NASA's "Global Temperature Index" is rendered permanently unavailable, other information from NASA may be used.
+
+If no information for November 2026 is provided by NASA by January 1, 2027, 11:59 PM ET, this market will resolve to the lowest range bracket.

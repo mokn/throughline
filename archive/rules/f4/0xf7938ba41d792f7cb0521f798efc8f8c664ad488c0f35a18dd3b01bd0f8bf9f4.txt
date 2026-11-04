@@ -1,0 +1,29 @@
+This market will resolve according to the listed company whose stock records the largest single-day percentage move during calendar year 2026.
+
+Where a company has multiple publicly traded share classes, only the share class specified by the ticker in the listed group item title will be considered.
+
+For each stock, the single-day percentage move for a given trading day is calculated as the absolute value of (Close Price - Prior Close Price) ÷ Prior Close Price. The Prior Close Price for a given trading day is the Close Price for the most recent prior trading day on which the primary exchange held a regular trading session; for the first eligible day of 2026, the Prior Close Price is the Close Price for the final trading day of 2025. Overnight price changes between sessions are therefore included in each day’s move. Prices will be used exactly as published by Pyth, and percentage moves will be calculated to the full precision, without rounding, after applying any corporate action adjustment described below.
+
+An eligible day is any day in calendar year 2026 on which the primary exchange for the listed security holds a regular trading session, including scheduled shortened sessions. Only prices achieved during the regular trading hours of the primary exchange on which the listed security trades (typically 9:30 AM – 4:00 PM ET) will be considered.
+
+The "Close Price" refers to the Pyth "Close" value of the 1-minute candle corresponding to the final minute of regular trading hours on the primary exchange on which the listed security trades.
+
+In the event of a stock split, reverse stock split, or similar corporate action that changes a stock’s price basis with an ex-date falling between the two sessions being compared, the Prior Close Price will be adjusted using the split ratio and ex-date published in the corporate_actions field of Pyth’s symbol metadata (https://pyth.dourolabs.app/v1/symbols) so that both prices in that day’s calculation are expressed on the same post-action price basis. Pyth does not adjust historical candle data; candle values will be used as published, with the adjustment applied into the calculation. No adjustment will be made for dividends. If a price basis adjustment takes effect during a regular trading session rather than between sessions, that day will not count as an eligible day for the affected stock. If a corporate action changes a stock’s price basis but no corresponding entry is published in the corporate_actions field of Pyth’s symbol metadata, the affected day will not count as an eligible day for that stock.
+
+If a valid Pyth "Close" value for the relevant 1-minute candle is unavailable for a given stock on a given day, the last valid Pyth price achieved during that day's regular trading session will be used instead. If no valid Pyth price exists for that stock on that day due to a system outage, data failure, or other technical disruption, the official closing price published by the primary exchange will be used for that day.
+
+If a stock is halted for an entire session, suspended, delisted, or acquired during 2026, only days on which it has both a valid Close Price and a valid Prior Close Price count toward its largest move.
+
+If two or more stocks are exactly tied for the largest single-day percentage move this market will resolve according to the company whose ticker symbol comes first in alphabetical order.
+
+This market will resolve following the close of trading on the final trading day of calendar year 2026.
+
+The resolution source for this market is Pyth, specifically the "Close" values for the relevant 1-minute candles. Corporate action adjustment factors and ex-dates are published in Pyth’s symbol metadata at https://pyth.dourolabs.app/v1/symbols. Historical 1-minute candles may be accessed by appending a Unix timestamp (seconds) to the Pyth chart URL using the "t=" parameter (e.g., https://pythdata.app/explore/Equity.US.AAPL%2FUSD?t=1773432000). The relevant Pyth feeds are:
+
+- Apple (AAPL): https://pythdata.app/explore/Equity.US.AAPL%2FUSD
+- Microsoft (MSFT): https://pythdata.app/explore/Equity.US.MSFT%2FUSD
+- Alphabet (GOOGL): https://pythdata.app/explore/Equity.US.GOOGL%2FUSD
+- Amazon (AMZN): https://pythdata.app/explore/Equity.US.AMZN%2FUSD
+- NVIDIA (NVDA): https://pythdata.app/explore/Equity.US.NVDA%2FUSD
+- Meta (META): https://pythdata.app/explore/Equity.US.META%2FUSD
+- Tesla (TSLA): https://pythdata.app/explore/Equity.US.TSLA%2FUSD

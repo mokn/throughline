@@ -1,0 +1,11 @@
+This market will resolve according to the total precipitation in inches in Seattle between November 1 and November 30, 2026, 11:59PM ET according to the National Oceanic and Atmospheric Administration (NOAA).
+
+If the reported data falls exactly between two brackets, this market will resolve to the higher bracket.
+
+The resolution source for this market will be NOAA, specifically the figure for November 2026 when the "Monthly summarized data" for "Seattle City Area" is selected with the variable set to "Precipitation" at the https://www.weather.gov/wrh/climate?wfo=sew link once that figure is finalized for the whole month of November 2026.
+
+If the relevant data is not available by February 7, 2027, 11:59 PM ET, another credible resolution source will be chosen.
+
+The resolution source for this market measures precipitation to 2 decimal places (e.g., 1.54), thus, this is the level of precision that will be used when resolving this market. Any revisions to precipitation recorded after data is finalized for this market's timeframe will not be considered for this market's resolution.
+
+In the case that the Resolution Source publishes data, sufficient to settle a Market, that is clearly erroneous and the result of technical or operational error, or of unauthorized interference with the Resolution Source or its data, the Market may remain open for a period of up to seven (7) calendar days (ET) from the time of the original release, in anticipation of a correction by the Resolution Source. If the Resolution Source publishes a corrected value within that period, that value will be eligible for resolution. If no corrected value is published within that period, Polymarket will issue a Clarification to determine whether the originally published value may be eligible for resolution, or whether other action is required to preserve the orderly functioning of the Market.

@@ -1,0 +1,11 @@
+This market will resolve according to China's Y/Y Growth Rate (%) of Gross Domestic Product (GDP) in the "Preliminary Accounting Results of GDP" release for Q4 of 2026, scheduled for some time in January 2027.
+
+The GDP release will be made available here: https://www.stats.gov.cn/english/PressRelease/
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+If no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.
+
+Note: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution.
+
+For the full release schedule, see: https://www.stats.gov.cn/english/PressRelease/ReleaseCalendar/

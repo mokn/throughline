@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if BitMine publicly discloses a sale of Ethereum by 11:59 PM ET on the date specified in the title. Otherwise, this market will resolve to "No".
+
+A qualifying sale requires a public disclosure - via SEC filing, official BitMine communication, or Tom Lee - confirming that Ethereum was sold. The disclosure itself must occur by 11:59 PM ET on the resolution date. On-chain movements alone, including transfers to exchange deposit addresses, do not qualify as confirmation of a sale. Ethereum sales that are disclosed after the resolution deadline do not qualify, regardless of when the underlying sale occurred.
+
+The resolution source is official communications from BitMine (@fundstrat / @BitMNR), SEC filings (Form 8-K or equivalent), or a consensus of credible financial reporting.

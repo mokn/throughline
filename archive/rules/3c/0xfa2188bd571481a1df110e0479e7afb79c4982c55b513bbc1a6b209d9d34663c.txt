@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if the US Cybersecurity and Infrastructure Security Agency (CISA) issues and publicly confirms the issuance of a new Emergency Directive between market creation and the listed date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+A qualifying Emergency Directive is any new directive formally designated by CISA as an “Emergency Directive”, regardless of its subject matter.
+
+Binding Operational Directives, additions to the Known Exploited Vulnerabilities (KEV) Catalog, alerts, advisories, and other guidance will not qualify. Supplemental direction, revised versions, or other updates to any existing Emergency Directive will also not qualify.
+
+The date of issuance shown by CISA will be used to determine whether the directive was issued within this market's timeframe. Where an issuance time is available, it will be converted to ET. If CISA provides only an issuance date and that date is the market’s creation date in ET, the directive will qualify only if official information or a consensus of credible reporting establishes that issuance occurred after market creation. A directive issued before market creation will not qualify merely because it is publicly announced during the market period. Both the issuance and its public confirmation must occur by the listed date, 11:59 PM ET.
+
+The primary resolution source for this market will be CISA's directives page (https://www.cisa.gov/directives); however, official CISA announcements and a consensus of credible reporting may also be used.

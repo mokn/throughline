@@ -1,0 +1,9 @@
+This is a market about the variation of consumer prices in Brazil over the 12-month period ending December 2026, as reported by the Brazilian Institute of Geography and Statistics (IBGE).
+
+This market will resolve according to the percentage change in the Extended National Consumer Price Index (IPCA) during the 12-month period ending December 2026 according to the monthly IBGE report.
+
+The resolution source for this market will be the IBGE Extended National Consumer Price Index monthly report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+You can find the relevant figure by locating the report for December 2026 on the Press Releases page (https://agenciadenoticias.ibge.gov.br/en/agencia-press-room.html), locating the Period-Rate table and finding the IPCA growth rate figure in the column labeled "Rate" and the Row labeled “Cumulative in the year / 12 Months”. Changes in the IBGE’s reporting format will not disqualify a published relevant figure from counting.
+
+Note: the resolution source for this market will be the official monthly IBGE IPCA news release which reports inflation during 12-month periods to two decimal points (e.g. 4.26%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://www.ibge.gov.br/en/calendar.html

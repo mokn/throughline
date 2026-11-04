@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if, at any point before December 31, 2026, 11:59 PM ET, an AI model which is a Diffusion Large Language Model (dLLM) has the highest score based off the Chatbot Arena LLM Leaderboard (https://lmarena.ai/). Otherwise, this market will resolve to "No".
+
+A Diffusion Large Language Model (dLLM) is any model for which official publicly released documentation, such as a model card, technical paper, or official statements from its developers, clearly identifies diffusion or iterative denoising as a central part of its text-generation or decoding process.
+
+Results from the "Score" section on the Leaderboard tab of https://lmarena.ai/leaderboard/text set to default (style control on) will be used to resolve this market.
+
+If two or models are tied for the top arena score at any point, this market will resolve to “Yes” if any of the joint-top ranked models are Diffusion Large Language Models.
+
+The resolution source for this market is the Chatbot Arena LLM Leaderboard found at https://lmarena.ai/. If this resolution source is unavailable on December 31, 2026, 11:59 PM ET, this market will resolve based on all published Chatbot Arena LLM Leaderboard rankings prior to the period of lack of availability.

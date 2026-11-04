@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if any SpaceXAI Grok model achieves at least the specified accuracy on Humanity’s Last Exam by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+For resolution, “accuracy” refers solely to the value labeled “HLE Accuracy” or a clear equivalent metric if the data’s presentation or terminology is restructured, regardless of the model’s Calibration Error or any other displayed metric.
+
+The resolution source will be the official Humanity’s Last Exam leaderboard at https://agi.safe.ai/. If the resolution source becomes unavailable during the listed timeframe, this market will remain open to allow the relevant data to become available again. If the source remains unavailable after the end of the listed timeframe or is otherwise confirmed to be permanently unavailable, official Humanity’s Last Exam results published elsewhere may be used. If no official alternative source is available, this market will resolve to "No".

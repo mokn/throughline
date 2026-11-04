@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if, between the Liberal Party of Canada (LPC) and the Conservative Party of Canada (CPC), the CPC becomes the favorite in the "338Canada Seat Projection" (https://338canada.com/federal.htm#projection) at any published data point between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+Equal seat projections will not qualify; the CPC must have a strictly higher seat projection than the LPC.
+
+Confidence intervals will not be considered; only the main seat projection number will be used.
+
+Revisions indicating a qualifying projection that are released within this market’s timeframe will be considered, but will not invalidate a previously released data point that resolved the market. Revisions published after the specified timeframe will not be considered.
+
+This market will resolve as soon as a qualifying data point has been published.
+
+This market will resolve solely based on the seat projections for the two specified parties on 338Canada Federal Projections (https://338canada.com/federal.htm#projection). If the website is unavailable, the market will remain open until it is accessible again. If the source becomes permanently unavailable by the end of the specified timeframe, the market will resolve based on the data points published prior to its unavailability.
+
+Note: Only the 338Canada “338Canada Seat Projection” values for the LPC and CPC at each published data point will qualify, regardless of confidence intervals, methodological changes, or projections by other sources.

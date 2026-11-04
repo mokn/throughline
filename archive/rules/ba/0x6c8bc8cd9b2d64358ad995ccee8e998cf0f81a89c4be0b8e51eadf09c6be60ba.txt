@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if any Binance 1 minute candle for Bitcoin (BTC/USDT) between the creation of this market through 11:59 PM ET on the last day of the year specified in the title has a final “Low” price equal to or lower than the price specified in the title. Otherwise, this market will resolve to "No". Price action before this market's creation will not be considered.
+
+The resolution source for this market is Binance, specifically the BTC/USDT “Low” prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on "1m" for one-minute candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.

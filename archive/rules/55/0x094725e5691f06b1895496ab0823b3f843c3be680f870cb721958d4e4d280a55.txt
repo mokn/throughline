@@ -1,0 +1,7 @@
+This market will resolve to the lower price in the title if Ethereum’s price dips to that level or below before it hits the higher title price between the creation of this market and December 31, 2026 at 11:59 PM ET. It will resolve to the higher price in the title if Ethereum’s price first reaches that level or above before it dips to the lower title price during the same period.
+
+If neither price level is reached within the market timeframe, the market will resolve 50–50.
+
+The resolution source for this market is Binance, specifically the ETH/USDT "High" and "Low" prices currently available at https://www.binance.com/en/trade/ETH_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.

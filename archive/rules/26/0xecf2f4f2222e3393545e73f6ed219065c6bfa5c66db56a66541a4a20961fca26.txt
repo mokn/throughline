@@ -1,0 +1,9 @@
+This market will resolve according to the numerical rank of how hot 2026 is when compared against all other years for which the Global Land-Ocean Temperature Index has data.
+
+Years will be ranked in descending order, starting with the hottest as number 1, the second hottest as number 2, etc.
+
+If 2026 ties with any other year, it will resolve according to the place the year it ties with occupies.
+
+This market will resolve immediately once the specified data becomes available, regardless of whether the figure for the relevant years is later revised.
+
+The primary resolution source for this market will be the figure found in the table titled "Land-Ocean Temperature Index (C)" under the column "No_Smoothing" in the row "2026" (https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt). If NASA's "Global Temperature Index" is rendered permanently unavailable, other information from NASA may be used. If no information for 2026 is provided by NASA by March 1, 2027, 11:59 PM ET, this market will resolve based on a consensus of credible reporting.

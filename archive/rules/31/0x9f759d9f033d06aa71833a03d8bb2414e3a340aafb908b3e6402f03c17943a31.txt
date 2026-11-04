@@ -1,0 +1,7 @@
+This market will resolve according to the company which owns the model with the highest Overall score on LiveBench.ai when the leaderboard is checked on November 30, 2026, at 12:00 PM ET.
+
+Results from the “Overall” column of the leaderboard at https://livebench.ai/, with the latest available LiveBench release selected and the category set to “All,” will be used to resolve this market.
+
+Models will be ranked according to the specified score, with higher scores ranked ahead of lower scores. If two or more models have exactly the same score as displayed on the leaderboard, the model with the lower listed "cost per successful task" will be ranked ahead. If a tie still remains, alphabetical order of company names as listed in this market group will be used as a final tiebreaker (e.g., if the two models are tied by exact score and cost per successful task, “Google” would be ranked ahead of “SpaceXAI”). This market will resolve based on the company that occupies first place under this ranking.
+
+The resolution source for this market is the LiveBench leaderboard. If this resolution source is unavailable at check time, this market will remain open until the leaderboard comes back online and will resolve based on the first check after it becomes available. If it becomes permanently unavailable, this market will resolve to “Other.”

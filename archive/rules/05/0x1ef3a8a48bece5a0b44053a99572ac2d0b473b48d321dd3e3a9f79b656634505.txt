@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if the total number of unique champions played across all official games of the 2026 League of Legends World Championship (Worlds 2026), currently scheduled for October 15 to November 14, 2026, is greater than or equal to the number specified in the market title. Otherwise, this market will resolve to "No".
+
+A champion counts as "played" if it is picked and played by either team in at least one completed official game of the tournament (Play-In stage, Swiss Stage, and Knockout Stage). Champions that are only banned and never played do not count. Each champion counts once, regardless of how many times it is played.
+
+Games that are remade, abandoned, or not completed do not count; however, a champion picked in such a game still counts if it is played in any other completed official game. Games awarded by forfeit without being played do not count.
+
+If Worlds 2026 is canceled or postponed such that it has not concluded by December 14, 2026, 11:59 PM ET, this market will resolve according to the number of unique champions played in completed official games as of that time.
+
+The primary resolution source for this market will be the tournament champion statistics on Leaguepedia (https://lol.fandom.com/wiki/2026_Season_World_Championship); however, a consensus of credible reporting may also be used.

@@ -1,0 +1,9 @@
+This market will resolve according to the date (Berlin time) when the water level at the Kaub gauge (station 25700100) on the Rhine River first reaches or exceeds 77 centimeters, as reported by the German Federal Waterways and Shipping Administration (WSV) via PegelOnline.
+
+A reading of 77 centimeters or higher is the equivalent water level (Gleichwertiger Wasserstand, GlW) for Kaub, the low-water reference mark below which shipping becomes structurally disrupted, and defines "normal levels" for this market.
+
+The resolution is triggered by the first reading at or above 77 centimeters recorded on or after the market's start, representing a rise back to the threshold. A single reading at or above 77 centimeters is sufficient to trigger resolution; transient spikes count, and the water level does not need to be sustained at or above 77 centimeters for any period.
+
+If readings for timestamps on or after January 1, 2027 (Berlin time) are available on the resolution source, and no reading at or above 77 centimeters has been recorded for a timestamp before January 1, 2027 (Berlin time), this market will resolve to "No return before January 1, 2027." If readings for timestamps on or after January 1, 2027 (Berlin time) have not been recorded on the resolution source by January 2, 2027, 11:59 PM Berlin time, and no reading at or above 77 centimeters has been recorded for a timestamp before January 1, 2027 (Berlin time), this market will resolve to "No return before January 1, 2027."
+
+The resolution source for this market will be PegelOnline (https://www.pegelonline.wsv.de/gast/stammdaten?pegelnr=25700100).

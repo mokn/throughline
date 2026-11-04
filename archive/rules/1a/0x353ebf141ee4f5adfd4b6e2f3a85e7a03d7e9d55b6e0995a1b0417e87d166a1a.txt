@@ -1,0 +1,9 @@
+This market will resolve according to the company that owns the model that has the highest rank based on the arena.ai Text-to-Image Leaderboard when the table under "Text-to-Image Arena" filtered for "Models" is checked on December 31, 2026, 12:00 PM ET.
+
+Results from the "Rank" column under the "Text-to-Image Arena" Leaderboard tab at https://arena.ai/leaderboard/text-to-image (Overall) filtered for "Models" will be used to resolve this market.
+
+Note: Models marked “AutoEval” at the applicable check time will not be considered, regardless of whether they display a rank or score.
+
+Models will be ordered primarily by their leaderboard rank at the market’s check time. If two or more models are tied on rank, they will be ordered by which model is listed higher on the leaderboard. If a tie still remains, alphabetical order of company names as listed in this market group will be used as a final tiebreaker (e.g., “Google” would be ranked ahead of “SpaceXAI”). This market will resolve based on the company that occupies first place under this ranking.
+
+The resolution source for this market is the arena.ai Text-to-Image Arena Leaderboard. If this resolution source is unavailable at check time, this market will remain open until the leaderboard comes back online and will resolve based on the first check after it becomes available. If it becomes permanently unavailable, this market will resolve to "Other".

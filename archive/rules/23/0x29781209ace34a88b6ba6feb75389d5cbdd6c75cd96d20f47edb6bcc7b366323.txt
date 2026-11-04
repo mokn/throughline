@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if the Treasury 10-year yield reaches or is higher than the listed value for any date from market creation to December 31, 2026. Otherwise this market will resolve to "No".
+
+This market will resolve as soon as the Treasury 10-year yield is higher than the listed value, or once data is available for all days in the specified period. If data is not available for all days in the specified period within 14 calendar days (ET) of the end of that period, this market will resolve based on the available data at that time.
+
+The resolution source for this market is the Department of the treasury, specially the data listed under "Daily Treasury Par Yield Curve Rates" for the column "10 Yr" (see: https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2025).

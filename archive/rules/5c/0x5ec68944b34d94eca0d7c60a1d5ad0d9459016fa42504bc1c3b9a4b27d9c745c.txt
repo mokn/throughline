@@ -1,0 +1,11 @@
+This market will resolve to "Drier" if California's statewide total precipitation for December 2026 through February 2027, according to NOAA's National Centers for Environmental Information (NCEI), is less than 11.99 inches. If the total is 11.99 inches or more, this market will resolve to "Wetter".
+
+11.99 inches is NCEI's published 1991-2020 average for this period. The threshold is fixed at 11.99 inches, and any change to NCEI's published average will not be considered.
+
+The resolution source for this market will be NOAA NCEI Climate at a Glance, specifically the February 2027 value of the California statewide precipitation series with the timescale set to "3-Month" and the month set to "February", at https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/4/pcp/3/2. The figure will be the Precipitation figure under California Precipitation found by either hovering over the graph or in the table on the link.
+
+The resolution source reports precipitation to 2 decimal places (e.g., 11.54), which is the precision used to resolve this market.
+
+This market will resolve on the first value NCEI publishes for December 2026 through February 2027. Any later revision to that value will not be considered.
+
+If NCEI has not published this value on Climate at a Glance by May 7, 2027, 11:59 PM ET, this market will instead resolve using the most recent NCEI statewide precipitation file (climdiv-pcpnst) at https://www.ncei.noaa.gov/monitoring-content/data/us/climdiv/monthly/current/. In that file, add the December value from the row beginning “0040012026” to the January and February values from the row beginning “0040012027” (004 is the California state code, 01 is the precipitation element code, and 2026/2027 is the year; December 2026 is the last monthly column in the 0040012026 row, while January and February 2027 are the first two monthly columns in the 0040012027 row), and compare the total against 11.99 inches to 2 decimal places.

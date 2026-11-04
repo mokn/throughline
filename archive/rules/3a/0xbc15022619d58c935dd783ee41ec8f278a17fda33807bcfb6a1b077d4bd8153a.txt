@@ -1,0 +1,13 @@
+This market will resolve to "Yes" if any player joins or leaves the listed team's active Dota 2 roster (defined as the active lineup listed on the listed team's Liquipedia page, https://liquipedia.net/dota2) between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+The relevant roster is whichever active lineup is listed on the resolution source at market creation. Name changes or aliases referring to the same player do not qualify as roster changes.
+
+For the purpose of this market, "roster change" refers to any official signing, transfer, loan, benching to inactive/reserve, release, retirement, or departure of a player from the active lineup, and any return of an inactive player to the active lineup. This includes adding new players (transfers, free agent signings, or loans), removing players (to inactive, free agency, or other teams), or any change resulting in a different active roster.
+
+A qualifying roster change must occur within this market's timeframe, and be reflected in the resolution source. Once the change appears in the resolution source, it must remain live for at least 48 continuous hours to be valid. This 48-hour period may finish after the deadline, so long as the change itself occurred on or before the deadline. If the change is reverted or removed before 48 hours have elapsed, the window resets and will not count toward resolution.
+
+If the listed team disbands its Dota 2 roster within this market's timeframe, this will count as a roster change.
+
+Coach changes and temporary stand-ins for a single match or tournament will not count.
+
+The primary resolution source for this market will be Liquipedia; however a consensus of credible reporting may also be used.

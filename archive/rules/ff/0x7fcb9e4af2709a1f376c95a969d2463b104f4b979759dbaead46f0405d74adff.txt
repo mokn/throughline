@@ -1,0 +1,8 @@
+This market will resolve to “Yes” if, by December 31, 2026, 11:59 PM ET, the number of Bitcoin Knots nodes exceeds the number of Bitcoin Core nodes. Otherwise, it will resolve to “No.”
+
+The resolution source for this market is https://coin.dance/nodes/all, specifically the “Bitcoin Nodes” chart.
+Resolution will be based on the node counts displayed when hovering over each date for Bitcoin Core Nodes and Bitcoin Knots Nodes.
+
+A data point for a given day will be considered finalized once data for the following day is published.
+
+If the resolution source becomes permanently unavailable within this market’s timeframe and before resolution criteria are met, the market will resolve based on a reliable alternative source or public data consistent with the official Bitcoin node counts.

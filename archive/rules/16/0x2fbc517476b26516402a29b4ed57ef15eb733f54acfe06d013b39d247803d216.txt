@@ -1,0 +1,9 @@
+A general election is scheduled to be held in New Zealand on November 7, 2026.
+
+This market will resolve according to the official voter turnout rate for the 2026 New Zealand general election, defined as the total number of votes cast divided by the total number of enrolled voters (votes cast to electors on master roll, combined total of General and Māori electorate).
+
+If the reported value falls exactly between two brackets, this market will resolve to the higher bracket.
+
+If the results of this election are not definitively known by October 31, 2027, 11:59 PM ET, this market will resolve to the lowest bracket.
+
+The primary resolution source for this market will be official election results reported by the New Zealand Electoral Commission (https://elections.nz/); however, a consensus of credible reporting may also be used if official results are not available.

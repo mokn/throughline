@@ -1,0 +1,5 @@
+This market will immediately resolve to "Yes" if any Binance 1 minute candle for XRP (XRP/USDT) from the creation of this market until 11:59 PM ET on the date specified in the title has a final "High" price equal to or greater than $2. Otherwise, this market will resolve to "No".
+
+The resolution source for this market is Binance, specifically the XRP/USDT "High" prices available at https://www.binance.com/en/trade/XRP_USDT, with the chart settings on "1m" for one-minute candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance XRP/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.

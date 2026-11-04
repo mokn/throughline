@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the Fully Diluted Valuation of Tabi's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to "No."
+
+The token must be actively, publicly transferable and tradable to be considered a launch.
+
+The FDV will be determined using the total token supply multiplied by the token price.
+
+"1 day after launch" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Tabi (https://x.com/Tabichain) doesn't launch a token by December 31, 2026, 11:59 PM ET, this market will resolve to "No".

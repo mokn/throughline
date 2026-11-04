@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if a qualifying mathematical result unconditionally establishes that at least 70% of the nontrivial zeros of the Riemann zeta function lie on the critical line, or establishes a stronger result, including a complete proof or disproof of the Riemann Hypothesis, by 11:59 PM ET on the specified date. Otherwise, this market will resolve to "No".
+
+For the purposes of this market, "unconditionally" means that the qualifying result may not depend on assuming the Riemann Hypothesis or any other unproven conjecture necessary for the stated threshold to hold.
+
+A result establishing any unconditional lower bound of 70% or greater will qualify. A result establishing a higher percentage, proving that 100% of the relevant zeros lie on the critical line, or otherwise completely proving or disproving the Riemann Hypothesis will also qualify.
+
+Computational verification that additional individual zeros lie on the critical line will not qualify on its own, regardless of the number of zeros checked. Conditional results, heuristic arguments, claimed proofs without sufficient verification, partial results that do not meet the 70% threshold, or improvements that remain below 70% will not qualify.
+
+A qualifying result does not need to have completed peer review or been formally published in an academic journal by the market deadline. A publicly released paper, preprint, technical report, or other publicly available mathematical work will qualify if the result is sufficiently substantiated by its accompanying proof and has received credible independent validation or acceptance from recognized experts in analytic number theory or the broader mathematical community. For example, the Anthropic result announced on August 10, 2026, which established an improved unconditional lower bound of approximately 67.25% on the proportion of Riemann zeta zeros on the critical line, would qualify under these criteria if it would meet the required 70% threshold.
+
+The resolution source for this market will be a consensus of credible reporting.

@@ -1,0 +1,24 @@
+This market will resolve to "Yes" if the Federal Communications Commission (FCC), or an authorized representative of the FCC, publicly and officially announces the revocation, cancellation, denial of renewal, or non-renewal of the broadcast license of any full-power ABC, CBS, NBC, or Fox television station, between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+A qualifying station is any full-power television broadcast station in the United States that is, at the time of the announcement, an owned-and-operated station or affiliate of the ABC, CBS, NBC, or Fox broadcast networks. Actions against low-power stations, translator stations, Class A stations, radio stations, or stations not affiliated with one of the four listed networks do not qualify.
+
+An announcement qualifies if it communicates that the FCC is revoking, cancelling, denying renewal of, or otherwise terminating a qualifying station's broadcast license, including an order that the license will not be renewed upon expiration. 
+
+A qualifying announcement must be a declarative statement of the FCC's present revocation, cancellation, or denial of the license, a previously-unannounced prior revocation, cancellation, or denial, or a definitive decision to revoke, cancel, or deny the license.
+
+A qualifying announcement must clearly and unambiguously identify the revocation, cancellation, or denial of a qualifying station's license. Statements that merely allude to, reference, threaten, or describe a potential revocation, without clearly communicating a decided action, do not qualify. The announcement need not use specific terminology; an announcement that a qualifying station's license has been terminated, rescinded, or will not be renewed qualifies, provided the substantive action against the license is clearly and unambiguously communicated.
+
+A qualifying announcement must be made through official channels, by an individual or body acting in an official capacity, including a Commission order, public notice, or official statement by the FCC or its authorized representatives.
+
+The following do not qualify:
+- Anonymous, unattributed, or leaked statements not confirmed as official;
+- Statements by persons not authorized to speak for the FCC, including statements by the President or other government officials calling for, urging, or predicting a revocation, unless accompanied by qualifying FCC action;
+- Statements by individual FCC Commissioners, including the Chairman, expressing intent, threat, or support for revocation, absent an adopted Commission action or an action taken under validly delegated authority;
+- Third-party speculation, analysis, or predictions that the FCC will revoke, cancel, or deny a license;
+- Satirical, fabricated, hacked, or impersonated communications;
+- A licensee's voluntary surrender, sale, transfer, or relinquishment of a license, or a station's loss or change of network affiliation, absent qualifying FCC action; and
+- Statements that describe a prospective, contingent, probable, or conditional revocation rather than announcing a present and decided action.
+
+Once a qualifying announcement is made, this market will resolve to "Yes" regardless of whether the action is later reversed, stayed, vacated on appeal, or whether the station actually ceases broadcasting.
+
+Resolution will be based on official information from the Federal Communications Commission, including Commission orders, public notices, the FCC's Electronic Document Management System (EDOCS), the Licensing and Management System (LMS), and official statements by the FCC or its authorized representatives.

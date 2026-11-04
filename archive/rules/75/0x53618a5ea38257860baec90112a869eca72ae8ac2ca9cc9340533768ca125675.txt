@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if at least two frontier AI labs announce a pacing agreement between them by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Frontier AI labs refers to OpenAI, Anthropic, Google, SpaceXAI, and Meta. A pacing agreement means an agreement under which the parties commit to at least one of the following: conditioning the training, releasing, or deploying AI models on safety requirements; capping the computing power used to train AI models; limiting the rate or extent to which AI systems autonomously train or improve more capable AI systems (recursive self-improvement); or otherwise pausing or slowing the training or release of AI models.
+
+Agreements announced before market creation will not qualify.
+
+The labs party to the agreement must each announce it, either jointly or separately, through their official channels or through an authorized representative acting in an official capacity. Statements that reference ongoing negotiations or a prospective agreement, express support for the idea of an agreement, or otherwise do not explicitly confirm acceptance of an agreement will not qualify. An agreement that applies only to a defined class of the parties' models (e.g. frontier models or models above a capability threshold) will qualify. An agreement brokered by or including a government will qualify, provided at least two frontier AI labs are parties to it and it otherwise meets the requirements above.
+
+If a qualifying announcement is made within this market's timeframe, this market will resolve to "Yes" regardless of whether the agreement is binding, is later modified or withdrawn, or is ever implemented. 
+
+The primary resolution sources for this market will be official information from the frontier AI labs; however, a consensus of credible reporting may also be used.

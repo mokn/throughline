@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the official closing price for S&P 500 (SPX) on the final trading day of December 2026 is higher than the listed price. Otherwise, this market will resolve to "No".
+
+If the final trading day of the month is shortened (for example, due to a market-holiday schedule), the official closing price published for that shortened session will still be used for resolution.
+
+If no official closing price is published for that session (for example, due to a trading halt into the close, system issue, or other disruption), the market will use the last valid on-exchange trade price of the regular session as the effective closing price.
+
+The resolution source for this market is Yahoo Finance, specifically the S&P 500 (SPX) "Close" prices available at https://finance.yahoo.com/quote/%5EGSPC/history, published under "Historical Prices."

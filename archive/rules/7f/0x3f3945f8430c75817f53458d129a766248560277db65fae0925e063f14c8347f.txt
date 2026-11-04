@@ -1,0 +1,10 @@
+This market will resolve to “Yes” if, by December 31, 2026, 11:59 PM ET, a quantum-resistant protocol upgrade is activated on the Bitcoin mainnet. Otherwise, this market will resolve to “No.”
+
+To qualify, the upgrade must satisfy all of the following:
+- The upgrade must constitute a consensus-layer change to the Bitcoin protocol that is live and enforced on the Bitcoin mainnet by the deadline. Proposals, drafts, code releases, miner signaling, node adoption, or activation on testnets or alternative networks do not qualify on their own.
+- The upgrade must enable the use of a post-quantum-secure signature scheme for standard Bitcoin transactions on the Bitcoin mainnet. The scheme must be intended to provide meaningful resistance against quantum attacks on transaction signing (e.g., attacks against ECDSA or successor schemes). Purely theoretical proposals, wallet-level changes, off-chain solutions, layer-2 systems, or other non-consensus-layer mitigations do not qualify.
+- The upgrade must make such quantum-resistant transaction types valid under Bitcoin consensus rules and generally available for use on the Bitcoin mainnet, even if their use is optional or not yet widely adopted.
+
+“Activated” means the upgrade has reached the point at which its rules are enforced on Bitcoin mainnet blocks under consensus rules, following any required activation thresholds or lock-in periods.
+
+The resolution source will be a consensus of credible reporting.

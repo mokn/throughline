@@ -1,0 +1,7 @@
+This market will resolve "Yes" if an Extreme Heat Warning is in effect for NWS forecast zone AZZ543 (Central Phoenix) for a cumulative total of 10 or more calendar days during August 1–31, 2026. Otherwise, this market will resolve "No".
+
+A calendar day counts if an Extreme Heat Warning is in effect for any portion of that day for the NWS forecast zone AZZ543 (Central Phoenix). The total count of Extreme Heat Warning events for zone AZZ543 can be verified using Iowa Environmental Mesonet's NWS warning search tool at https://mesonet.agron.iastate.edu/vtec/search.php, filtered to zone AZZ543 (Central Phoenix) for the month of August.
+
+Multiple warnings on the same day count as one day. Heat Advisories do not count.
+
+In the event the NWS renders unavailable, resolution will be determined by observed daily high temperatures at Phoenix Sky Harbor International Airport (station KPHX) as reported by NOAA's Climate Data Online (ncdc.noaa.gov) and any calendar day with an observed high of 110°F or above will count as a warning day for resolution purposes.

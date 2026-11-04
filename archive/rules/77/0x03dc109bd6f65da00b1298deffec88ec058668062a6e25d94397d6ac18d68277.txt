@@ -1,0 +1,11 @@
+This market will resolve according to the total number of births in the United States in 2026, as reported in the National Center for Health Statistics (NCHS) annual provisional births report for 2026, meaning the first NCHS report that presents provisional birth data for the full calendar year 2026, regardless of its exact title or format (see 2025 example, “Births: Provisional Data for 2025”: https://www.cdc.gov/nchs/data/vsrr/vsrr043.pdf), estimated to be released in April 2027.
+
+Provisional counts or estimates covering only part of 2026, and full-year figures published only in data dashboards, data files, or statistical tables rather than in such a report, will not be considered.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The report is expected to be made available here: https://www.cdc.gov/nchs/nvss/births.htm
+
+If NCHS does not release its annual provisional births report for 2026 by June 30, 2027, 11:59 PM ET, this market will resolve to the lowest bracket.
+
+Note: The relevant data will be the total number of births in the United States in 2026 as stated in the annual provisional births report for 2026. Any revisions to this figure made after the release of this report will not be considered for this market’s resolution.

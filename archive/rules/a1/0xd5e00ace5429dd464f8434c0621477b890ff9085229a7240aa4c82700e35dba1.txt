@@ -1,0 +1,15 @@
+This market will resolve to “Yes” if Discord experiences any incident classified as a 'Major Outage' (red) as of the time it is marked as “Resolved” between market creation and the listed date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+Only incidents affecting Discord services or components will be considered. A 'Partial Outage' (orange) does not qualify.
+
+Classifications of an incident while it is ongoing will have no bearing on the resolution of this market. Only classifications of events that are resolved will be considered.
+
+Qualifying incidents include outages and other issues classified as a 'Major Outage' (red) when they are resolved, during this market's above-specified timeframe.
+
+An incident resolved outside this market’s timeframe will only qualify if ongoing at this market’s resolution time, in which case the market will remain open until that incident is marked as “Resolved,” and resolution will be based on the first outage classification thereafter, regardless of subsequent revisions or corrections.
+
+Revisions that upgrade an incident’s outage classification to 'Major Outage' (red) will qualify if the incident was resolved and the revision is published within this market’s timeframe.
+
+The primary resolution source for this market will be official information from Discord (for example, on discordstatus.com or https://discordstatus.com/history); however, a consensus of credible reporting may also be used.
+
+Note: Discord’s “Partial Outage” classification is orange, while “Major Outage” is red. A Partial Outage does not qualify.

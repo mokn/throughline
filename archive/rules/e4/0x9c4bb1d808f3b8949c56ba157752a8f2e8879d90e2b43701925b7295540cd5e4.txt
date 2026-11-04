@@ -1,0 +1,17 @@
+Parliamentary elections to elect the Riigikogu of Estonia are scheduled to take place on March 7, 2027.
+
+This market will resolve to the political party that wins the greatest number of seats in the Riigikogu as a result of this election.
+
+If the results of the specified election are not definitively known by December 31, 2027, this market will resolve to "Other".
+
+Parties will be primarily ranked by the number of seats won in the specified election. If two or more parties are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If parties remain tied, ties will be broken by alphabetical order of the listed party names. This market will resolve to the party that occupies the highest finishing position after applying this ranking.
+
+This market's resolution will be based solely on the number of seats won by the named party.
+
+The following rules govern the merging, joint contention, and splitting of listed parties:
+
+- If a listed party merges with, or contests the election as part of a joint candidate list with, one or more unlisted parties prior to the election, the option corresponding to the listed party will represent all seats won by the merged party or joint candidate list. If a listed party merges with, or contests the election as part of a joint candidate list with, one or more other listed parties prior to the election, the option corresponding to the party which held the most seats in the prior Riigikogu will represent all seats won by the merged party/joint candidate list. If these rules do not adequately determine which option represents a merged party or joint candidate list, the listed party whose name, as listed in this market, comes first in alphabetical order, will represent all seats won by the merged party or joint candidate list.
+
+- If a listed party splits into multiple parties prior to the election, the option corresponding to the listed party will represent the resulting party that holds the greatest number of seats in the Riigikogu as a result of the split. If these rules do not adequately determine which party represents a listed option after a split, the listed option will represent all seats won by the party resulting from the split whose primary English name comes first in alphabetical order.
+
+This market will resolve based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this market will resolve solely based on the results as reported by the Estonian State Electoral Office (https://www.valimised.ee/).

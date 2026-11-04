@@ -1,0 +1,9 @@
+This market will resolve according to the lowest daily mean gage height (river level), in feet, recorded at the Mississippi River at Baton Rouge, LA streamgage (USGS site 07374000) between market creation and November 30, 2026, as published by the United States Geological Survey (USGS) for parameter code 00065 under statistic code 00003 (daily mean).
+
+The lowest daily reading in the window decides this market; the level does not need to be sustained. If USGS does not publish a reading for one or more days, this market will resolve according to the lowest reading among the days that are published.
+
+USGS reports gage height to 2 decimal places, and this is the precision used to resolve this market. Each range includes both of its stated bounds and consecutive ranges are contiguous, so every reading falls in exactly one range: a lowest reading of exactly 4.00 ft resolves the range beginning at 4.00 ft to "Yes" and every other range to "No".
+
+The resolution source is the USGS Daily Values service for site 07374000, available here: https://waterservices.usgs.gov/nwis/dv/?sites=07374000&parameterCd=00065&statCd=00003&startDT=2026-09-21&endDT=2026-11-30&format=rdb
+
+This market will resolve on the values published at the time of resolution, whether flagged provisional ("P") or approved ("A"); revisions published afterward will not be considered. If the source is unavailable, this market may be extended to December 15, 2026, 11:59 PM ET. If no data for the window is available by then, this market will resolve to "Below 3.00 ft".

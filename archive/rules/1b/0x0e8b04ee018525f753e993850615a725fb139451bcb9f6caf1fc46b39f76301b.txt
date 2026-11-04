@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if the Investing.com low price (“L”) for any USD/BRL hourly candle for an hour between market creation and December 31, 2026, 11:59 PM ET is equal to or below the listed price. Otherwise, this market will resolve to “No”.
+
+Data for a given candle will be considered finalized once the next candle appears on the specified graph. The last trading day of a given week will be considered finalized once the market closes on that day, typically at 5 PM ET on Friday.
+
+This market will resolve as soon as any finalized USD/BRL hourly candle low price is equal to or above the listed price, or once the final hourly candle in the specified period is finalized. A candle starting at 11:00 PM ET on a given date will be considered to be on that date.
+
+This market’s resolution will be based solely on information from the “L” figure located at the top of the USD/BRL Streaming Chart on Investing.com for the specified currency pair (https://www.investing.com/currencies/usd-brl-chart).

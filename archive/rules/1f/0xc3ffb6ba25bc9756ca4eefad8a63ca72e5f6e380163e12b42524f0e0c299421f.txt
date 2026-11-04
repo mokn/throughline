@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the decrease in the population of Canada from the 4th quarter of 2025 and the 4th quarter of 2026 is greater than that of any year on record. Otherwise, this market will resolve to "No".
+
+The resolution source for this market will be the quarterly population estimates release for the 4th quarter of 2026 from StatCan (https://www.statcan.gc.ca/en/start). 
+
+If no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on the most recent data from the last available quarter.
+
+Note: data from the initial release of the referenced population estimate report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to population estimate report data made after the initial release of the specified report will not be considered for this market's resolution.

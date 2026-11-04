@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if the total cryptocurrency market capitalization reaches a value equal to or beyond (above for ↑ High values, below for ↓ Low values) the listed value on any date from the creation of this market through December 31, 2026. Otherwise, this market will resolve to "No".
+
+The resolution source for this market is CoinGecko, specifically the "Market Cap" figure shown when mousing over a given date on the "Total Crypto Market Cap" chart available at https://www.coingecko.com/en/charts. A data point on the CoinGecko chart is considered finalized once the data point for the following day is published.
+
+Please note that this market depends solely on the CoinGecko "Total Crypto Market Cap" chart. Data from other sources, indices, aggregators, or exchanges will not be considered for the resolution of this market.

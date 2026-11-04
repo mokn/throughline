@@ -1,0 +1,5 @@
+This market will immediately resolve to “Yes” if the Milady floor price reaches 4 ETH or higher at any point between December 31, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, it will resolve to “No.”
+
+The resolution source for this market will be CoinGecko, specifically the "Milady price chart" available at https://www.coingecko.com/en/nft/milady-maker. The price will be determined based on the value shown when hovering over the chart.
+
+Only data from CoinGecko will be used to resolve this market. Prices from other data providers or NFT marketplaces will not be considered.

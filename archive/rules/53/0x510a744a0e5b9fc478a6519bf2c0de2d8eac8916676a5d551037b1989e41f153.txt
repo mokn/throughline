@@ -1,0 +1,9 @@
+This market will resolve according to the calendar month of 2026 with the highest total rainfall at Melbourne (Olympic Park), Bureau of Meteorology station number 086338.
+
+Monthly rainfall is the total of all daily rainfall observations for that month, each nominally recorded at 9 am local time for the preceding 24 hours, as published in the Bureau of Meteorology's Monthly rainfall table for station 086338. Rainfall is reported in millimetres to 1 decimal place, and that is the level of precision that will be used when resolving this market.
+
+Each month will be resolved on the figure as first published. Revisions issued after first publication will not be considered. The totals already published for January through September 2026 are final for the purposes of this market, and August, at 66.0 mm, is the highest of them, so only the four listed months can finish as the wettest month of 2026.
+
+If two or more months tie for the highest total, this market will resolve to the earliest of the tied months.
+
+The resolution source for this market is the Bureau of Meteorology Monthly rainfall table for Melbourne (Olympic Park), available here: http://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=139&p_display_type=dataFile&p_stn_num=086338. If the figure for December 2026 is not available by January 8, 2027, 11:59 PM ET, this market will remain open for a period of up to three (3) calendar days (ET) to allow the figure to be published. If no figure is published within that period, the December market will resolve to "No", and this market will resolve according to the month with the highest published total among August, October and November.

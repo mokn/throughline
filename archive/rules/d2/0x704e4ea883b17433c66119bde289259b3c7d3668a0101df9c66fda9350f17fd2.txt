@@ -1,0 +1,11 @@
+This market will resolve based on Oura's market capitalization at the closing price on its first day of trading.
+
+If no IPO occurs by December 31, 2026, 11:59 PM ET, the market will resolve to "No IPO before January 2027".
+
+Market capitalization expresses the monetary value of a company’s outstanding shares, stated in its pricing currency. It is calculated as the number of shares outstanding multiplied by the closing share price on the first trading day.
+
+If the relevant value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Resolution will be based on the primary exchange’s official listing page. In the event that the relevant figure is not displayed, another reliable source will be used.
+
+In the event of an interruption in the course of the normal trading session on Oura’s first day of trading (e.g., a circuit breaker or half-day), the market will resolve according to the official closing price of the abbreviated session. If no such official closing price is published, the market will resolve according to the next trading day on which an official closing price is published, treating that as the first day of trading for purposes of this market.

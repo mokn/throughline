@@ -1,0 +1,1442 @@
+{
+ "0x054e4dbd2df879b8dc63c8562e9d9559e71392bb7ad134c7b2bc552632946bb6": {
+  "created_at": "2026-09-02T19:33:32.795504Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will a Democratic Party candidate win the 2026 CA-22 House election by 15%-18%?",
+  "revisions": 1,
+  "sha256": "d351261dd772e192647d9dc8fd7fadd9070b71ca6580415b2894d0f0d49ef248",
+  "slug": "will-a-democratic-party-candidate-win-the-2026-ca-22-house-election-by-15-18"
+ },
+ "0x05a3dc4175e2e5a9fc1589324da0e2a25cca794f095bc87bf44923a3a6fc39b6": {
+  "created_at": "2026-08-12T00:09:47.244499Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Ventforet Kofu win the 2026-27 J2 League?",
+  "revisions": 1,
+  "sha256": "df8739d5bc0d28e94933414073de4b93b50a0eea214f54f56c8693ad3b3e9792",
+  "slug": "2027-soccer-j2-league-winner-ventforet-kofu"
+ },
+ "0x081c7639bd3fa81d1d348bf722e5340d4b0aab15593281584707b8870db5e6b6": {
+  "created_at": "2026-09-13T08:46:04.091267Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Spread: Doncaster Rovers FC (-2.5)",
+  "revisions": 1,
+  "sha256": "09e74ea2d7812a3a670abc2948d65aca4138dfffdbe856c589102118f1aea80f",
+  "slug": "el1-don-oxf-2026-09-26-spread-home-2pt5"
+ },
+ "0x0b42b501e716e34e75eaa56507b780b5c2194a24d84625852e0c3365ce9b9fb6": {
+  "created_at": "2026-09-02T21:55:44.400417Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Detroit Red Wings advance to the Second Round of the 2027 Stanley Cup Playoffs?",
+  "revisions": 1,
+  "sha256": "8074626db691e8338de5b14a9e38aa0b6672b4cc8f297a007e8f3054bcb76b62",
+  "slug": "will-detroit-red-wings-advance-to-the-second-round-of-the-2027-stanley-cup-playoffs"
+ },
+ "0x0bd83b7deea6f4819a9a77d6578257dc2a3e83975be43fd775eab86fc526d9b6": {
+  "created_at": "2026-08-07T16:01:22.760357Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Juwan Johnson be the highest-scoring TE of the 2026-27 NFL season?",
+  "revisions": 1,
+  "sha256": "52ba84dfb2c136c03b450f9b654d32fd80ae202c038e113ea8b65fbf15c4de3f",
+  "slug": "will-juwan-johnson-be-the-highest-scoring-te-of-the-2026-27-nfl-season-20260806224131164"
+ },
+ "0x0c4eb85e0810961ee0c82cfb58109e74bed8297e85ee3a337429ada67a9e7fb6": {
+  "created_at": "2026-08-28T20:16:53.8428Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Josh Allen have 3,500+ passing yards in the 2026-27 NFL regular season?",
+  "revisions": 1,
+  "sha256": "8d10d5d0f683f040f262a9aca6c6847fb7ad2c093a2fb781879835b4bafdf3a5",
+  "slug": "josh-allen-3500-passing-yards-2026-27"
+ },
+ "0x0caa284cd5c5fc67d1bec27e45c9a61b63f2dc35dae8f13cc28727b5823d2db6": {
+  "created_at": "2026-11-03T22:35:31.690246Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Greg Abbott win the Iowa Republican caucus?",
+  "revisions": 1,
+  "sha256": "686f31bff4389afef6af391d347c7ac79e6802ea97fa6a1134c88a610b8834e2",
+  "slug": "will-greg-abbott-win-the-iowa-republican-presidential-caucus-20261028218"
+ },
+ "0x0e4319abc11267e110f264931533bfa621e818cec50771d9ea53754737d37fb6": {
+  "created_at": "2026-09-18T08:45:16.62674Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC O/U 4.5",
+  "revisions": 1,
+  "sha256": "1d0df614027c96fb683a0dd948ad3a1c52094e2c4828e132232de948bde78a36",
+  "slug": "el1-bra-bar-2026-09-26-team-total-home-4pt5"
+ },
+ "0x102f174ec9468304b632c9a39f4daa50c1647aeb61588e92f76b89aa8dc006b6": {
+  "created_at": "2026-09-20T09:15:49.959139Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Exact Score: Walsall FC 1 - 3 Crawley Town FC?",
+  "revisions": 1,
+  "sha256": "711fec18718af09dc760086fdb2091076137381b4b295dc097d64f6bc9dffc73",
+  "slug": "el2-wal-cra-2026-10-03-exact-score-1-3"
+ },
+ "0x109eb32c363ef7aa9e67a5d775a677f567c6122564676dabd44ecfbe1dc969b6": {
+  "created_at": "2026-10-12T18:35:31.340173Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Marine Tondelier win the second-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "1f9e9adb0909453844a8d9bd5f473b5830129c7bb73c99ccac38b1fa0f5bf23e",
+  "slug": "will-marine-tondelier-win-the-second-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
+ "0x118e6133713d3ea1ad90669f24750e678e9ff73828389d5ccb4402e0cd1b39b6": {
+  "created_at": "2026-09-04T19:29:13.800629Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Isaac Brown be the 2026 D1 Rushing TDs Leader?",
+  "revisions": 1,
+  "sha256": "f1efb04609d46605b16e133c4b20383ff2664bd67fac65c3d9c711beee3f801a",
+  "slug": "will-isaac-brown-be-the-2026-d1-rushing-tds-leader"
+ },
+ "0x13f840bd5a7e3167d560125d56322f082eeb9cbd1c71190f6db0b5aee8d1b5b6": {
+  "created_at": "2026-09-30T20:06:40.41304Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Osasuna record 43 or more points in the 2026-27 LALIGA season?",
+  "revisions": 1,
+  "sha256": "213ec5a4b46654b73a756d331006ff725a47377f0261f451f599f45fadf0d9fe",
+  "slug": "will-osasuna-record-43-or-more-points-in-the-2026-27-laliga-season"
+ },
+ "0x1cba6902358ab46b21579376c319c91bd860388dde73d1b602034a8a2655e8b6": {
+  "created_at": "2026-10-01T14:00:57.221515Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Alibaba have the best Chinese AI model at the end of December 2026?",
+  "revisions": 1,
+  "sha256": "a18f3f53cd0e121f229b674759b7c22dc4b37586eacf6621a7314f0cb4721767",
+  "slug": "will-alibaba-have-the-best-chinese-ai-model-at-the-end-of-december-2026"
+ },
+ "0x1ea5b9f80f8a78b5b631548e214a75eeeec8d80aed42315bd7768fb013f987b6": {
+  "created_at": "2026-10-13T15:51:01.74585Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Brandon Ingram lead the NBA in Player Efficiency Rating (PER) in 2026-27?",
+  "revisions": 1,
+  "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
+  "slug": "nba-2026-27-per-leader-brandon-ingram"
+ },
+ "0x21078a7490da6e8fa7a74aa245a43057663a0959bdd56789020a4d6eef7441b6": {
+  "created_at": "2026-08-18T18:58:45.378969Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Antoine Semenyo (Man City) record the most assists in the 2026-27 Premier League season?",
+  "revisions": 1,
+  "sha256": "c54b28626d0f5a8e38ddbaff58b0af4cf520ea0a004b52eb709e5e1dd2e71922",
+  "slug": "will-antoine-semenyo-man-city-record-the-most-assists-in-the-2026-27-premier-league-season"
+ },
+ "0x25dad188f9a9e4358848cfbc649517d5f775b36f2f077ac9b67befadc74783b6": {
+  "created_at": "2026-08-26T21:46:07.372242Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will N\u00f5mme United be relegated from the 2026 Premium Liiga (Estonia)?",
+  "revisions": 1,
+  "sha256": "5a33c82239cf7c22e870897154fc597c476a70f3eacc7b28cbef5739655b1869",
+  "slug": "will-nomme-united-be-relegated-from-premium-liiga-estonia-2026"
+ },
+ "0x2697dee5306cdeb23d0ec52d64e9a2853cbbae550f226d073d56246a296eacb6": {
+  "created_at": "2026-08-18T18:59:56.739504Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Elia Caprile (Cagliari) record the most clean sheets in the 2026-27 Serie A season?",
+  "revisions": 1,
+  "sha256": "2fb4509b6de2a958edc2eca4dfc28cc3213e54c857eea43ac38adc1e7fddee2b",
+  "slug": "will-elia-caprile-cagliari-record-the-most-clean-sheets-in-the-2026-27-serie-a-season"
+ },
+ "0x26f3f430055c2a14f68b8dca268d1ad66547068112d7df99f1b4ee52ebe565b6": {
+  "created_at": "2026-05-11T20:12:29.706194Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Dua Lipa perform at Coachella 2027?",
+  "revisions": 1,
+  "sha256": "315999eeb48661998e6cf47773ef855366be665385ac8f2c7df4681092aee88a",
+  "slug": "will-dua-lipa-perform-at-coachella-2027"
+ },
+ "0x2722ea68c06622a14e7c3da55a46c1185dccb8336633d536474fc0e3c8e1a6b6": {
+  "created_at": "2026-08-05T10:29:55.07629Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Titanium Court win Best Narrative at the 2026 Game Awards?",
+  "revisions": 1,
+  "sha256": "171a3a1fb6a0736159a109debebc068e4fb65784919e6b6b024285624a30032d",
+  "slug": "will-titanium-court-win-best-narrative-at-the-2026-game-awards-1785857783130"
+ },
+ "0x275143037f853325210bfb121abbc3823229a5894824ff558a0e87336c2a1eb6": {
+  "created_at": "2026-10-30T00:52:23.427046Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the next governing coalition of Israel consist of Likud + Yashar + Shas + UTJ?",
+  "revisions": 1,
+  "sha256": "d011b15cae473145592c0b4a4e14f35fca0482732a8e3c5a8d5334ca44b90fd5",
+  "slug": "will-the-next-israeli-coalition-be-l-y-s-u"
+ },
+ "0x2764a290fff922404cc964a85a0194e2b710eb0472748f633d2141ae6790d5b6": {
+  "created_at": "2026-08-24T16:33:42.880851Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Cadiz CF be promoted to LaLiga?",
+  "revisions": 1,
+  "sha256": "53f2cccdd30dbf0bb4cea2f99e8b9fc7d6214c4e1a9821a8454c8f513dd6f1b8",
+  "slug": "will-cadiz-cf-be-promoted-to-laliga-2026-27"
+ },
+ "0x2a785b2d99e05add0ec1b898eab2c1f5bf5c64bb0833f7ae785a4e30ce2327b6": {
+  "created_at": "2026-10-24T11:31:02.067793Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Fernando Alonso finish on the podium at the 2026 F1 Las Vegas Grand Prix?",
+  "revisions": 1,
+  "sha256": "635fae0e11cf94661fd32ac0988ade85249f33dcca738863ed13a8df0788788f",
+  "slug": "f1-las-vegas-grand-prix-driver-podium-alonso-2026-11-21"
+ },
+ "0x2c92538a0be8a747225ba4f43bbced94bef8103628c4d3632600bb4009c7dbb6": {
+  "created_at": "2026-09-07T15:04:03.117969Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Papertrade FDV above $400M one day after launch?",
+  "revisions": 1,
+  "sha256": "ecc290313ce8b7cd5058fd3e96d6b804aa9df918ec625c800174079bac26f354",
+  "slug": "papertrade-fdv-above-400m-one-day-after-launch"
+ },
+ "0x2e31f2d8aeda547ffc9c7dbf3559e2ad1400c3812b1a84bdc4422bba5ef328b6": {
+  "created_at": "2026-01-02T21:12:02.957547Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Tom Aspinall be the UFC Heavyweight Champion on December 31, 2026?",
+  "revisions": 1,
+  "sha256": "013bb72b3754d8a1e60b74a22948632af43b8c67d7b1a1ec06cafc3b06aea4e1",
+  "slug": "will-tom-aspinall-be-the-ufc-heavyweight-champion-on-december-31-2026"
+ },
+ "0x3096b9844c11af479b85781a4400c8f1908dffa415c84ad7f758601b960e5db6": {
+  "created_at": "2026-08-21T17:22:04.319112Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Justin Herbert finish as a top-5 QB in the 2026-27 NFL season?",
+  "revisions": 1,
+  "sha256": "4e129a0d1e87db076675b05bd9751735a7314cc73540735e8c74522762696340",
+  "slug": "will-justin-herbert-finish-as-a-top-5-qb-in-the-2026-27-nfl-season"
+ },
+ "0x31e9658daa62b0c881f2a416f6deffba233196d49f3a2aafd78b4e6413fb6ab6": {
+  "created_at": "2026-09-27T20:10:34.854202Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Joel Eriksson Ek win the 2026-27 Frank J. Selke Trophy?",
+  "revisions": 1,
+  "sha256": "a813ce376cc78c0d4cd09293bf8081eeab68f039e9b47e9591701007339c26a5",
+  "slug": "will-joel-eriksson-ek-win-the-2026-27-frank-jpt-selke-trophy"
+ },
+ "0x343f25957aed20cedd14ce109d86c770e0733077f0373bce664406b1f489f0b6": {
+  "created_at": "2026-08-10T15:44:24.59979Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Republican Party candidate win the 2026 MO-04 House election by 30% or more?",
+  "revisions": 1,
+  "sha256": "df5cbc5ff5142e17f5ceb89f883d02705c8a0a783d7971a4980cb60bc5aa07f6",
+  "slug": "will-the-republican-party-candidate-win-the-2026-mo-04-house-election-by-30-or-more"
+ },
+ "0x378a3c9db2806e828daf7cf08081b0fe7538a639886a2bd4038b09fcdddb76b6": {
+  "created_at": "2026-10-24T11:30:56.657058Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Who will finish higher: Leclerc or Hamilton?",
+  "revisions": 1,
+  "sha256": "36ee57b3d73b162f2d84fc0fa194bd49143a0977c92d840dda4891f432cc6eac",
+  "slug": "f1-las-vegas-grand-prix-h2h-leclerc-vs-hamilton-2026-11-21"
+ },
+ "0x38b5b9e70466f6d1df65acc0e4a031dcd78a3441398739444820f1022ab802b6": {
+  "created_at": "2026-08-17T21:22:58.870842Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will SC Paderborn qualify for the 2027-28 UEFA Europa League?",
+  "revisions": 1,
+  "sha256": "8e3a0b22ed62bd84472c3e4e315feaf088df7ed0e8849138f2322118aa9837ad",
+  "slug": "will-sc-paderborn-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0x391b4ae2e772b8e471072ba39fb6799ffce073b506b58323f22e16be7ba41cb6": {
+  "created_at": "2026-08-07T16:01:45.666166Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Jameson Williams be the highest-scoring WR of the 2026-27 NFL season?",
+  "revisions": 1,
+  "sha256": "07b765b1d2f27c1ac9df39d5da7090f9c358ae17f27eafde18da8dadfe42b993",
+  "slug": "will-jameson-williams-be-the-highest-scoring-wr-of-the-2026-27-nfl-season-20260806224130862"
+ },
+ "0x39fb6df7bf504652f93bf722a12eb6d75aa0a1450070100192b139a27a7f8cb6": {
+  "created_at": "2026-09-08T16:54:44.825439Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Lillestrom score the most goals in the UEL league phase?",
+  "revisions": 1,
+  "sha256": "32d85d3df19bfe913dab5362d8eeabc4e437a48a9afb6576f9e524813b6c0034",
+  "slug": "will-lillestrom-score-the-most-goals-in-the-uel-league-phase"
+ },
+ "0x3a3109751972217b6dfc47a158bfb6b75d9e764099207e0c651ee9865ddaa9b6": {
+  "created_at": "2026-11-01T15:01:10.549726Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Mistral be the second-best Code Arena | WebDev AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "65fc855a4487a1f5ae5ce77dd6212379c49ff4160d5331c102a81da212095bb0",
+  "slug": "will-mistral-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-january-2027"
+ },
+ "0x3a79b9f5315e560858d6a48fc5c4c34b3bcbb2900865ceb4c22743bf2434d4b6": {
+  "created_at": "2026-10-02T19:44:11.923126Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Al Ittihad Saudi Club vs. Al Shabab Saudi Club: Total Corners Odd or Even?",
+  "revisions": 1,
+  "sha256": "b7a706e420209b541207eae68a5f1b3bdc5c3acf56244c01d3228e30fe7112ca",
+  "slug": "spl-ith-sha-2026-10-16-corners-odd-even"
+ },
+ "0x3a9bd90db2377b7f17e10634959667ac2cc3801d278d4c84e5d6f2d2e66e08b6": {
+  "created_at": "2026-10-13T15:57:45.239614Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Jayson Tatum average 25+ PPG in the 2026-27 NBA regular season?",
+  "revisions": 1,
+  "sha256": "17cc8680b68b517f792b01b8385db1531fbe2c5e6de5fff26661c5501bd2e4eb",
+  "slug": "nba-2026-27-players-to-average-25-plus-ppg-jayson-tatum"
+ },
+ "0x3b56047cc7e345dc822b56d9ad46ea4c41257c19cdff0830b4c2f1bcc2f308b6": {
+  "created_at": "2026-09-14T20:21:32.93391Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Lens finish 9th-24th in UCL league phase?",
+  "revisions": 1,
+  "sha256": "5eea11687e5f2ed662e9a000334b968453790e572cd274300cc7db114b452866",
+  "slug": "will-lens-finish-9th-24th-in-ucl-league-phase"
+ },
+ "0x3bf886831f751c1d275dafab409f0153e5be2087bd0a6bf6be9379273be2f0b6": {
+  "created_at": "2026-07-01T22:30:22.000004Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "California Rainy Day Fund Proposition",
+  "revisions": 1,
+  "sha256": "04b136563ff2e99132718981eb0909d5d4267386927cde2f54fd80872c2de12e",
+  "slug": "california-rainy-day-fund-proposition"
+ },
+ "0x3c38747ebd15e0a759ee14f4b204f2213cfe27883b6f180de1e6d949dee0a8b6": {
+  "created_at": "2026-09-08T16:55:56.446518Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Callum McGregor record the most assists in the 2026-27 UEFA Europa League?",
+  "revisions": 1,
+  "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
+  "slug": "will-callum-mcgregor-record-the-most-assists-in-the-2026-27-uefa-europa-league"
+ },
+ "0x3c9802bc99945ca1b278f229b1d7c7576003a1e8cc2436d3eb87bb10eac6e3b6": {
+  "created_at": "2026-08-11T18:42:40.649751Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 OR-03 House election by 25%-35%?",
+  "revisions": 1,
+  "sha256": "0c2aadc6d2b21f24b2682cfa9f21f1a5691423174ffb471309cc4232c83124be",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-or-03-house-election-by-25-35"
+ },
+ "0x3dc498ee00bef2b5487d3d2e3ebf4b49c57a69b4eb0c931dc62ddc6acf0104b6": {
+  "created_at": "2026-08-07T20:09:10.677591Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Republican Party candidate win the 2026 FL-04 House election by 18%-21%?",
+  "revisions": 1,
+  "sha256": "7ea99f1493e9c6ad31d152962955536fe614d7874014cef177759fefc2dd6dc4",
+  "slug": "will-the-republican-party-candidate-win-the-2026-fl-04-house-election-by-18-21"
+ },
+ "0x42133d49db1b92415e718af33f00d83fc0812bfad990496ec92ce6b93b259cb6": {
+  "created_at": "2026-05-18T16:26:37.169906Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Aaron Taylor-Johnson announced as next James Bond?",
+  "revisions": 1,
+  "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
+  "slug": "aaron-taylor-johnson-announced-as-next-james-bond-655"
+ },
+ "0x4295f6c4931cb67f052a876d5abd970198064e763ba0e56d8b0969de706ecfb6": {
+  "created_at": "2026-10-15T10:18:07.826862Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will \"Paper Trail\" be nominated for Best Animated Short Film at the 99th Academy Awards?",
+  "revisions": 1,
+  "sha256": "d15d66aa6b9eeb0f3c27deba66141c0b5a66da3c9e41ecf3ee0fbb75478fc81b",
+  "slug": "will-paper-trail-be-nominated-for-best-animated-short-film-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x42acc24abc6719af63729e181a726b3480cf2d312ba545cd1d7e053a70a0cbb6": {
+  "created_at": "2026-03-25T22:07:02.023326Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Oliver Marmol win the 2026 NL Manager of the Year?",
+  "revisions": 1,
+  "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
+  "slug": "will-oliver-marmol-win-the-2026-nl-manager-of-the-year"
+ },
+ "0x4300eec6b84c8e0ec43713dff7f08d4f6bbbdd1943f6912c94458f41e2c48fb6": {
+  "created_at": "2026-08-11T19:04:27.289011Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Republican Party candidate win the 2026 VA-04 House election?",
+  "revisions": 1,
+  "sha256": "33a9fe47909e1a49de183427e46b4b198fc2f21065d962a1f9943ec2278f35a3",
+  "slug": "will-the-republican-party-candidate-win-the-2026-va-04-house-election"
+ },
+ "0x46044480ca92b9779661c5a6b57d5680d4d20610787547f08dc7868c8de509b6": {
+  "created_at": "2026-11-01T15:01:12.481984Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will ByteDance have the #1 AI model at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "7fed83610a709a5063b479cdd60233e90b815b1d68238f6c03bcefc5f4780c25",
+  "slug": "will-bytedance-have-the-1-ai-model-at-the-end-of-january-2027"
+ },
+ "0x471110eb821d21fa2dc51455753383c413f9c92b79372b06cc0744b0cdda03b6": {
+  "created_at": "2026-08-26T21:46:29.194378Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will River Plate finish 28th in the 2026 Liga Profesional (Argentina)?",
+  "revisions": 1,
+  "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
+  "slug": "will-river-plate-finish-28th-in-liga-profesional-argentina-2026"
+ },
+ "0x473297d8c16effeabaca0ce5b803d9b20a8fd92e39bd909eec336c08c1c756b6": {
+  "created_at": "2026-08-06T08:16:37.939128Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Renee Rapp win Best New Artist at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "a286e869df89c4dbdc6430fc06dbf0f84f8b47bd77150f77d98db0abffe6afd6",
+  "slug": "will-renee-rapp-win-best-new-artist-at-the-69th-annual-grammy-awards-20260805190947853"
+ },
+ "0x48653bd0a2a220442ec1e5115a523b8d256f77ad6d73132e6d60a4ca8d8d86b6": {
+  "created_at": "2026-09-30T20:07:11.621068Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Venezia record 34 or more points in the 2026-27 Serie A season?",
+  "revisions": 1,
+  "sha256": "4738dfabd2cbcf2d33642a2207bf3a82df4bac6b425225444098c6b4fe10ccd5",
+  "slug": "will-venezia-record-34-or-more-points-in-the-2026-27-serie-a-season"
+ },
+ "0x4e112b66ea5329d5ba0fb4151b568e52608474d2414078f3c665cd9a1663c2b6": {
+  "created_at": "2026-11-03T17:43:38.642366Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Ole Miss reach the 2027 NCAA Men's Basketball Final Four?",
+  "revisions": 1,
+  "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
+  "slug": "will-ole-miss-reach-the-2027-ncaa-mens-basketball-final-four"
+ },
+ "0x4eec49006acd7b07369b163826c1c17ae892a1cfca45891f0e173d226c1249b6": {
+  "created_at": "2026-08-05T18:36:52.209291Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 Connecticut gubernatorial election by 10%-15%?",
+  "revisions": 1,
+  "sha256": "1c43d3e17d6ea3046f68926483b138f6004ff81a3d159e564f7d7038caef7cd0",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-connecticut-gubernatorial-election-by-10-15"
+ },
+ "0x539db9a7fa44d4243367e9876846a797e6dd440d0ac0bca9b312509309b094b6": {
+  "created_at": "2026-09-08T16:59:22.594135Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Mjallby AIF score the most goals in the UECL league phase?",
+  "revisions": 1,
+  "sha256": "a2de755edd0da5702fe8d50823deac0d9fa8af90b37e540cac0855af7bd2108c",
+  "slug": "will-mjallby-aif-score-the-most-goals-in-the-uecl-league-phase"
+ },
+ "0x554612becd7f545d99c02a0bfd984fa439c828530216ba46b09624fbc8ff81b6": {
+  "created_at": "2026-10-01T14:01:02.627053Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will ByteDance be the second-best Chinese AI company at the end of December 2026?",
+  "revisions": 1,
+  "sha256": "6fea68a41ccb41f127cd507746441848fac76fd93c417d8cf7b3a55d2316a957",
+  "slug": "will-bytedance-be-the-second-best-chinese-ai-company-at-the-end-of-december-2026"
+ },
+ "0x56797f1ed3825ce2202d4202b45fc631bc933ce170040e729401b1362bfdddb6": {
+  "created_at": "2026-08-25T04:56:07.109816Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Pump.fun dip to $0.0026 by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "a064b21b226aa24ba245af8870d32ddaa9ad34fd976b17476b91f8a27dbaa2dd",
+  "slug": "will-pumpfun-dip-to-0pt0026-by-december-31-2026-from-august-25"
+ },
+ "0x56f9da24fa2c5ed006352e05c9834dab8c499a35bd2370e5c3bb37e2fd3699b6": {
+  "created_at": "2026-11-03T15:36:39.740698Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Ukraine signs peace deal with Russia by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "2bbb3f3e8d0c21b45a2e17025e83b143e0d9e9e9b741c03a0331fbd8f90ee532",
+  "slug": "ukraine-signs-peace-deal-with-russia-by-december-31-2027"
+ },
+ "0x598f2985aab1549961346fc76357aa8aa34b76da0d7a286392ffc006d1aafdb6": {
+  "created_at": "2026-11-03T17:43:39.588223Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will North Carolina win the 2027 NCAA Women's Basketball National Championship?",
+  "revisions": 1,
+  "sha256": "2c046d3975fac62dcd40d7644730b9a49da73d76387b3acfa006f140955d7354",
+  "slug": "2027-womens-college-basketball-national-champion-north-carolina"
+ },
+ "0x5b88f1e2e3e542a5a949038f3b0d8f070187551cae37352c2252ff981bdb8eb6": {
+  "created_at": "2026-09-02T19:30:38.916532Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will a Democratic Party candidate win the 2026 CA-05 House election?",
+  "revisions": 1,
+  "sha256": "1011047dcc90df37f98b65a3991df83f1f98f4c9bf0e362ece5e8f70c3142cad",
+  "slug": "will-a-democratic-party-candidate-win-the-2026-ca-05-house-election"
+ },
+ "0x5dabb6f8b4603ee2eefecf47d4d454f9c70b72d242be572bbbec6120f32186b6": {
+  "created_at": "2026-04-30T19:11:56.715344Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Lionel Messi win the 2027 Argentina presidential election?",
+  "revisions": 1,
+  "sha256": "c77fbcf5d46d7f34833f29567aa8bbd6487d4002bc23a0cbb9e3f55f86b5f153",
+  "slug": "will-lionel-messi-win-the-2027-argentina-presidential-election"
+ },
+ "0x617ef6c822a0f7357afaead3ca401ba9124c0338e701255d31ca1d3ebd03ceb6": {
+  "created_at": "2026-09-30T09:18:59.299349Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Avi Dichter be the next Israeli Minister of National Security?",
+  "revisions": 1,
+  "sha256": "bc3b8cf5ecd0f9488c0bf350208bc3ced3dae5e893564f4c650f2da778d1a603",
+  "slug": "will-avi-dichter-be-the-next-israeli-minister-of-national-security"
+ },
+ "0x6192561d16a74d37dfca3bba08b80e3b6378bab1f318e1af2fb3da74027cabb6": {
+  "created_at": "2026-09-09T15:47:56.426413Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the 2027 UEFA Champions League winner come from Portugal?",
+  "revisions": 1,
+  "sha256": "dfe55b7a7d376822b942bc690cc59dd2b389a4a8b5e57a31593eaaa4cb02912d",
+  "slug": "will-the-2027-uefa-champions-league-winner-come-from-portugal"
+ },
+ "0x61d9486c0f7e14ed98f3b177b6adcb3cd45646c92e8bbfbf209789b86472d4b6": {
+  "created_at": "2025-07-03T20:37:01.954955Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Wes Moore win the 2028 Democratic presidential nomination?",
+  "revisions": 1,
+  "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
+  "slug": "will-wes-moore-win-the-2028-democratic-presidential-nomination-714"
+ },
+ "0x6270c7a099fbacdbeffa625bfe390be73e011ea5f7ff39c358f08140e46915b6": {
+  "created_at": "2026-10-10T19:00:26.635061Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Exact Score: FC Slovan Liberec 0 - 3 FC Ban\u00edk Ostrava?",
+  "revisions": 1,
+  "sha256": "5a217acc4dc1a24558b7344d5d882e82cf059923b54a4c23d09834b05a2ecb5f",
+  "slug": "cze1-fsl-fbo-2026-10-24-exact-score-0-3"
+ },
+ "0x6381312297466758c87b762df0a0da51c27ad0207d095feb32119b7dde272cb6": {
+  "created_at": "2026-08-26T21:46:29.275555Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will San Lorenzo finish 28th in the 2026 Liga Profesional (Argentina)?",
+  "revisions": 1,
+  "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
+  "slug": "will-san-lorenzo-finish-28th-in-liga-profesional-argentina-2026"
+ },
+ "0x64cb1eb905bd14c188f0716d9fbf781a75b7da0820e71df6fa65d529ada3d1b6": {
+  "created_at": "2026-10-31T11:31:01.126769Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Who will finish higher: Norris or Hamilton?",
+  "revisions": 1,
+  "sha256": "e8006ee6a522d74c83fbc41943cfdbc64fcc1e828a56e5c684eb4515a20ba91e",
+  "slug": "f1-qatar-grand-prix-h2h-norris-vs-hamilton-2026-11-29"
+ },
+ "0x64d31a2af85518c6718a5757a35b840f08eca20c1e22c0eb1e96ec01cc55b8b6": {
+  "created_at": "2025-07-10T16:58:06.43886Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Ron DeSantis win the 2028 Republican presidential nomination?",
+  "revisions": 1,
+  "sha256": "a114852b5d7bfaa0f2ad7791d194b679684565f7ced3d54f7eff2d897a82b065",
+  "slug": "will-ron-desantis-win-the-2028-republican-presidential-nomination"
+ },
+ "0x660948909b4d935771d3648e5647fd9c06948a551d9201ceedfc1c13d21915b6": {
+  "created_at": "2026-08-24T16:34:07.996101Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Bohemians 1905 be relegated from the 2026-27 Chance Liga (Czechia)?",
+  "revisions": 1,
+  "sha256": "7ddd816e4ec3abe4470d120960b6bd9968adb6d7209c319e2c12a69c24ca30da",
+  "slug": "will-bohemians-1905-be-relegated-from-chance-liga-czechia-2026-27"
+ },
+ "0x671c0727da1918aa1054661288fb6463cfbe3f4a8b6677c730d409178dcaf3b6": {
+  "created_at": "2026-10-20T05:44:03.649821Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Pixverse have the best Image-to-Video AI at the end of November 2026?",
+  "revisions": 1,
+  "sha256": "978e2aa15004c6ae41e9ab8624dcb5e2e80ddd04404c6d856307ae3f3982f60f",
+  "slug": "will-pixverse-have-the-best-image-to-video-ai-at-the-end-of-november-2026"
+ },
+ "0x671e3f3b87b7844a5e7131516e6994f92757e6f37696ece569ce773cfc4aabb6": {
+  "created_at": "2026-07-10T22:33:46.190991Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Ornn H200 Index hit $7.00 (HIGH) by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "89b46f491dc0e1c318727f0c72b42694c6e9b27be8116746e7723bfa684772d9",
+  "slug": "will-the-ornn-h200-index-hit-7pt00-high-by-december-31-2026-20260709171105504"
+ },
+ "0x6772fe34032fffc59a7c365dec724ee77f4da458e977448826b13dc985a2a1b6": {
+  "created_at": "2026-09-04T19:48:50.719739Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Chase Sowell be the 2026 Big Ten Receiving TDs Leader?",
+  "revisions": 1,
+  "sha256": "13c5f6632abf6901e02a6c20828eb7cef5425971b75a2f655fe49a9611148ca1",
+  "slug": "will-chase-sowell-be-the-2026-big-ten-receiving-tds-leader"
+ },
+ "0x693cff5e7f96a4de0fa24d9dced834cffd4f134112abcdc21c0e287058bfddb6": {
+  "created_at": "2026-09-30T09:16:11.059138Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Elazar Stern be the next Israeli Minister of Defense?",
+  "revisions": 1,
+  "sha256": "19db2b97b36851c7c0b634f10bbd855ec49600aa3ea6fd3be5d8cd8fd7a97fb5",
+  "slug": "will-elazar-stern-be-the-next-israeli-minister-of-defense"
+ },
+ "0x6b30c91903ddcd187a1e726be46ed4f228815113698d9fc19833c34e1cb65ab6": {
+  "created_at": "2026-09-08T16:52:37.748294Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Inter Milan finish as runner-up in the 2026-27 UEFA Champions League?",
+  "revisions": 1,
+  "sha256": "e403d49a450deb48a8a8a76f021f4b2f4ef531ce854904a2f9c5c933ed7a144a",
+  "slug": "will-inter-milan-finish-second-in-ucl-league-phase"
+ },
+ "0x6c0fca10e95a42959721dbe276dbb41a9fe7a4c2fed50044ee75405d1d8977b6": {
+  "created_at": "2026-08-18T14:23:21.342959Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will total votes cast in the 2026 midterm election for Governor of New York be between 4,500,000 and 5,000,000?",
+  "revisions": 1,
+  "sha256": "1de75929583751e24ff37096f71ff4a33ea9426bf79061870c73b6007629fc6d",
+  "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-governor-of-new-york-be-between-4500000-and-5000000"
+ },
+ "0x6cd6523e9d71f56703db8feded770160772565644be689baf2a6c2894c8b69b6": {
+  "created_at": "2026-08-06T15:44:35.215511Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Jemkin leave RRQ in 2026?",
+  "revisions": 1,
+  "sha256": "602ba3a4c613fca6e07a8238b39b3855aaae958319a204d35eff4715c5dc75af",
+  "slug": "will-jemkin-leave-rrq-in-2026-20260805220638527"
+ },
+ "0x6d8dfb47250de97295d1b1cce6af78f7e67b9f3a52bb1241589a159ba51816b6": {
+  "created_at": "2026-07-27T17:55:29.59346Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Robinhood Chain launch a token by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "07b8716359befaafa83285647145bf7aeebd67d0ec27a36a92094e8e7144d695",
+  "slug": "will-robinhood-chain-launch-a-token-by-december-31-2026-20260727172111378"
+ },
+ "0x7302537453463354987a2a87d6191d43dbda8f45daf846705cbf6ea88aa1a4b6": {
+  "created_at": "2026-08-21T17:34:45.906348Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will CeeDee Lamb finish as a top-12 WR in the 2026-27 NFL season?",
+  "revisions": 1,
+  "sha256": "690c7721ad5bc86aee4cf9580cfeaeefcd5b0b393b96bf0ef5c94d40b2e2be4f",
+  "slug": "will-ceedee-lamb-finish-as-a-top-12-wr-in-the-2026-27-nfl-season"
+ },
+ "0x74121cca053fc6c70c07f103acd5af394038691abae7c30491ac0877860da4b6": {
+  "created_at": "2026-09-30T14:02:24.818357Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Macklin Celebrini record the most hat tricks in the 2026-27 regular season?",
+  "revisions": 1,
+  "sha256": "6715266b03c2105cfb2ce9d80f28f65aa25a46f9f26e1f4bb344f13dffc22659",
+  "slug": "will-macklin-celebrini-record-the-most-hat-tricks-in-the-2026-27-regular-season"
+ },
+ "0x755bde0752d8a72a0520eada7e4ad0735f89db746abedf5cb6a400c4d87711b6": {
+  "created_at": "2026-09-30T09:19:01.651955Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Yoav Segalovich be the next Israeli Minister of National Security?",
+  "revisions": 1,
+  "sha256": "bc3b8cf5ecd0f9488c0bf350208bc3ced3dae5e893564f4c650f2da778d1a603",
+  "slug": "will-yoav-segalovich-be-the-next-israeli-minister-of-national-security"
+ },
+ "0x758826a14acbbdcad606e0d88938b4a5f58d6de8a004a3c06630b93e503077b6": {
+  "created_at": "2026-10-02T20:14:20.929038Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Career have the most kills at Worlds 2026?",
+  "revisions": 1,
+  "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
+  "slug": "will-career-have-the-most-kills-at-worlds-2026"
+ },
+ "0x760b6b91584dbf03d909d87fafcd94cb137a668aade3734e5c5cffae79b3e6b6": {
+  "created_at": "2026-08-12T16:51:46.004126Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Nilton Emilio Chafloque C\u00f3rdova win the next Chiclayo mayoral elections?",
+  "revisions": 1,
+  "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
+  "slug": "will-nilton-emilio-chafloque-cordova-win-the-next-chiclayo-mayoral-elections-20260811165718010"
+ },
+ "0x78401aebcb93cb03100dedf8d7cfc4568e8e17f619c4b7017a294ae3c8954fb6": {
+  "created_at": "2026-05-21T03:34:01.006399Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Russia capture Borova by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "b3e6b6927b825766db6a319ea413da81f50dc74afbe76d0abaefa7940e60484c",
+  "slug": "will-russia-capture-borova-by-december-31-2026"
+ },
+ "0x788e883f643539d8b07ba4b0c2e7122236844a3546464413219676e20bbd1ab6": {
+  "created_at": "2026-09-02T21:57:45.950387Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Manchester United reach the 2027 UEFA Champions League quarterfinal?",
+  "revisions": 1,
+  "sha256": "47edcbae281ec0e64d105944f1b04abf8e1bb2058e0cd19de5bc38a4d19d68e8",
+  "slug": "will-manchester-united-reach-the-2027-uefa-champions-league-quarterfinal"
+ },
+ "0x78cd5673167dae6bcad003a88a68ba54b8298f7673020bfc4aa65912045d37b6": {
+  "created_at": "2026-08-11T18:36:12.910393Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Republican Party candidate win the 2026 OH-06 House election by 0%-10%?",
+  "revisions": 1,
+  "sha256": "85f98ac2ff1db252588eb60a64367162bb328764846099b0291726c7bb802ceb",
+  "slug": "will-the-republican-party-candidate-win-the-2026-oh-06-house-election-by-0-10"
+ },
+ "0x7b6ef7c67e52ea905b037ed4cd89f5e2c95f92f93f34bcb2b122096f3558a2b6": {
+  "created_at": "2026-09-20T08:15:03.64636Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Blackpool FC vs. Leicester City FC end in a draw?",
+  "revisions": 1,
+  "sha256": "10d27bbf0ddba4178238c65cc86227c5019efb896f96c4b71c0613ca405f0ce3",
+  "slug": "el1-bla-lei-2026-10-03-draw"
+ },
+ "0x7b8016610202b9731665cb579659d042501ed432f61ec6d062d221136d549bb6": {
+  "created_at": "2026-09-28T17:18:55.814901Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Filip Forsberg record 50+ goals in the 2026-27 regular season?",
+  "revisions": 1,
+  "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
+  "slug": "will-filip-forsberg-record-50-goals-in-the-2026-27-regular-season"
+ },
+ "0x8019b897f7034fa6addaff71ba3fbf837920a27b0187f7a9a1f165988e5437b6": {
+  "created_at": "2026-09-09T15:52:48.538191Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Roberto De Zerbi be the first Premier League manager sacked in 2026-27?",
+  "revisions": 1,
+  "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
+  "slug": "will-roberto-de-zerbi-be-the-first-premier-league-manager-sacked-in-2026-27"
+ },
+ "0x80d4fd140e01d8d4b856f7ade7421a68725b874d889c87da81fda4ed68ba33b6": {
+  "created_at": "2026-08-18T14:13:15.489731Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will total votes cast in the 2026 midterm election for Senator from Michigan be between 5,200,000 and 5,400,000?",
+  "revisions": 1,
+  "sha256": "3aec2152d3c251a9a2d7cfb1447821e5e34ca4db5afa818899329a189638a287",
+  "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-michigan-be-between-5200000-and-5400000"
+ },
+ "0x84edc49f14bb9087ab429e74aeceebf26077715379b60fab9944a3668c4befb6": {
+  "created_at": "2026-09-08T16:55:41.794697Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Mexx Meerdink score the most goals in the 2026-27 UEFA Europa League?",
+  "revisions": 1,
+  "sha256": "c75bb110bc84023caa3078f029f8dc7c6daae984e45af14f6f5a1a0702b0912c",
+  "slug": "will-mexx-meerdink-score-the-most-goals-in-the-2026-27-uefa-europa-league"
+ },
+ "0x85a17c80fa4109cb10ee5606f95ed94a20e3d7b9e74fe930f6e25e76b7f737b6": {
+  "created_at": "2026-10-13T15:51:27.377218Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Cleveland Cavaliers finish as the #1 seed in the 2026-27 NBA Eastern Conference?",
+  "revisions": 1,
+  "sha256": "5cf88c6af6c49e3f0912c585ed1650e63b9b6e0c56aafe48de31202e61e427e5",
+  "slug": "nba-2026-27-eastern-conference-1-seed-cleveland-cavaliers"
+ },
+ "0x87b9a37da798ae1e471a1d05a9831aad8a1df9577e56c350627d95d40a3bb1b6": {
+  "created_at": "2026-08-07T20:17:54.800253Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Republican Party candidate win the 2026 FL-21 House election by 20%-25%?",
+  "revisions": 1,
+  "sha256": "dc057930c93edea9f8fb3d5a6795dd3588964cffdda91bd94430f7aac935c025",
+  "slug": "will-the-republican-party-candidate-win-the-2026-fl-21-house-election-by-20-25"
+ },
+ "0x88aba88e96d4ecee310c1c1cf3a4ec41ef919f27fe16acabec09b420a17feab6": {
+  "created_at": "2026-08-11T15:07:32.728146Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Republicans win the Alaska Governor election and Democrats win the Alaska Senate election?",
+  "revisions": 1,
+  "sha256": "0cdea5b6be3668b029eba9233bcdb274f2296d42713ff5911e1f0fbc85f0af56",
+  "slug": "will-republicans-win-the-alaska-governor-election-and-democrats-win-the-alaska-senate-election-20260810214754708"
+ },
+ "0x8dc3872e94c769e9f44633e0425688edc6f00c99a57b2a752d890f234f8050b6": {
+  "created_at": "2026-08-26T21:46:11.641842Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Juventud (Las Piedras) be relegated from the 2026 Uruguayan Primera Divisi\u00f3n?",
+  "revisions": 1,
+  "sha256": "12bf78e8df13dc24d97d7401925db8b539bd3e8e87121ede46897aa2efb7d043",
+  "slug": "will-juventud-las-piedras-be-relegated-from-uruguayan-primera-division-2026"
+ },
+ "0x8e0c8c2516f19ee71a12be2feb0ba36b0772e9c805f69f272c00aaab33d09db6": {
+  "created_at": "2026-09-20T11:44:14.820358Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Scunthorpe United FC vs. Forest Green Rovers FC: 2nd Half O/U 3.5 Total Corners",
+  "revisions": 1,
+  "sha256": "a3e0457e4ac423d533c89a1fdbef4b7c615326dd96d26d027d810958e95a3ce0",
+  "slug": "enl-scu-fgr-2026-10-03-corners-second-half-total-3pt5"
+ },
+ "0x8e4cfba82d83a14165a4fa84ca61c2ca83975dff28ca4fc65c96ffb6b206beb6": {
+  "created_at": "2026-06-01T18:14:01.648694Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Anthropic not IPO by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",
+  "slug": "will-anthropic-not-ipo-by-december-31-2027-539"
+ },
+ "0x908c39e76d497d75353f6849a8060947eb847afa10191fc83c198d3ca2f32cb6": {
+  "created_at": "2026-08-26T21:46:36.581639Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will TS Galaxy finish 3rd in the 2026-27 South Africa Premiership?",
+  "revisions": 1,
+  "sha256": "e516bed633e0cffd82e5f0a06ae8cd2b8ab949875a31eda3dff60fcbad04a622",
+  "slug": "will-ts-galaxy-finish-3rd-in-south-africa-premiership-2026-27"
+ },
+ "0x9108db424c78ced9789142fea55b522477a710198eb93bd5c77856aa9afe4fb6": {
+  "created_at": "2026-07-20T19:40:28.847085Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Chris Olave finish the 2026-27 NFL regular season with the most receiving touchdowns?",
+  "revisions": 1,
+  "sha256": "dd224082f3f91507564a87081654f91c29c90414d5d01556213faaa301ad55be",
+  "slug": "will-chris-olave-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-touchdowns-20260715213028167"
+ },
+ "0x93201e7825dfa4283631f43ba3262ed8045368fde0b835aa53847dd795f73fb6": {
+  "created_at": "2026-08-12T00:21:09.891481Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Tigres F.C. win the 2026 Categor\u00eda Primera B (Colombia)?",
+  "revisions": 1,
+  "sha256": "1f2e018cfe14b95a3b5b1d2ffecb9fec3f85c12a6a70edd03927c3879bdf01b4",
+  "slug": "2026-soccer-categora-primera-b-colombia-winner-tigres-fc"
+ },
+ "0x9467233f1598c5d09d97af4911841c06928dcfdacfb01851900cfdb5cd484bb6": {
+  "created_at": "2026-10-21T23:29:53.72494Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will PNV win the most seats in Biscay in the 2026 Spanish general election?",
+  "revisions": 1,
+  "sha256": "ac03bc6fa9c10f68a5cda41aa17609b3d178661088eb4bb3493cf91fbe3ca8ca",
+  "slug": "will-pnv-win-the-most-seats-in-biscay-in-the-2026-spanish-general-election"
+ },
+ "0x957c9123eff8ad3419f9c5fff113d5308cf5a752b83fedf63d871d2a1ad6cab6": {
+  "created_at": "2026-10-13T15:49:47.721272Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Rudy Gobert lead the NBA in rebounds per game in 2026-27?",
+  "revisions": 1,
+  "sha256": "9aa1fd14c80b31394f0689564845d6c870e911c26d3480481053de881e6217e7",
+  "slug": "nba-2026-27-rpg-leader-rudy-gobert"
+ },
+ "0x96405b931439614a3f0ce29270272da59c8f29ac2a249e3a36b16a5cbf11acb6": {
+  "created_at": "2026-09-29T00:12:14.551056Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the next Russia x Ukraine peace talks take place in Austria by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
+  "slug": "will-the-next-russia-x-ukraine-peace-talks-take-place-in-austria-by-december-31-2027"
+ },
+ "0x97256227633fad63ace2950f2167d219588154af8b3d298b673ec76711da38b6": {
+  "created_at": "2026-08-11T18:44:04.388264Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 PA-09 House election?",
+  "revisions": 1,
+  "sha256": "1504c2cebcd81c6fe62692d5ba57627d1739b307cef154e114ea019bb63f2a76",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-pa-09-house-election"
+ },
+ "0x9a1f3a147b780678511502990e302509b67a6f2590abcc70697c9af196f8abb6": {
+  "created_at": "2026-09-02T18:49:01.339167Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Tank Bigsby finish as a top-5 RB in the 2026-27 NFL season?",
+  "revisions": 1,
+  "sha256": "4b7d2cae40c1a31ad2d840f5218b77e27c7f45ad0bdac333b9cc8dbf03fda925",
+  "slug": "will-tank-bigsby-finish-as-a-top-5-rb-in-the-2026-27-nfl-season"
+ },
+ "0x9b1cf83d6f3b7cccd12337742d2ee831897b376ddd9db8ab2bd4c90aac5b82b6": {
+  "created_at": "2026-08-10T23:57:49.467138Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will C.J. Stroud have 3,349.5+ passing yards in the 2026-27 NFL regular season?",
+  "revisions": 1,
+  "sha256": "cf24a3b8d7b12ca9915b248ae2efa70df04844c2e7e507419a8af85ba01a2f29",
+  "slug": "cj-stroud-3349pt5-passing-yards-2026-27"
+ },
+ "0x9c839e2d5242def2ab70c4a815ed56f63fc30cea009355cf1d991e0c0bb1dbb6": {
+  "created_at": "2026-08-10T14:51:00.87481Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 IL-03 House election by 60% or more?",
+  "revisions": 1,
+  "sha256": "e5bee602e32741f0b87746bc469153de985bb6e8590a0bd03b5e751b0e2a5aa1",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-il-03-house-election-by-60-or-more"
+ },
+ "0x9c8cf33da253f94d792e1be063bf7eec969fa57e4778071fecf0eb60ce8661b6": {
+  "created_at": "2026-08-07T15:59:39.00694Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Kenny Gainwell be the highest-scoring RB of the 2026-27 NFL season?",
+  "revisions": 1,
+  "sha256": "2a90fdaa6a8b9ad7633ad32e030ff778582d67924e8e9077d49c20bed8b523f4",
+  "slug": "will-kenny-gainwell-be-the-highest-scoring-rb-of-the-2026-27-nfl-season-20260806224130458"
+ },
+ "0x9d060fa7194ebbe5911505801c4a06979e50e0c81468cb89754e33b7150218b6": {
+  "created_at": "2026-06-25T17:29:03.207317Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Carson Carels win the 2026-27 Calder Trophy?",
+  "revisions": 1,
+  "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
+  "slug": "will-carson-carels-win-the-2026-27-calder-trophy-20260624213343999"
+ },
+ "0x9e90115baa7b9c446d3f5b51a570f30ca119716ed1dab41a5ecde5d2d570a1b6": {
+  "created_at": "2026-08-04T18:19:22.501528Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 Massachusetts Senate election by 10%-15%?",
+  "revisions": 1,
+  "sha256": "e851181ffcb6e640d87cbd746e380271924f0fdc535ca2cefd0d62f588c668c8",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-massachusetts-senate-election-by-10-15"
+ },
+ "0x9f263d589c39de0d11fc52e811813876120f6baf71f364a9563880616da899b6": {
+  "created_at": "2026-09-18T16:42:35.336878Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "OpenAI vs. Anthropic: First to announce recursive self-improvement?",
+  "revisions": 1,
+  "sha256": "7eaae1ec5fb8951ba0a292cc01affe286169e5fec52638e0dcc4f76918975ae1",
+  "slug": "openai-vs-anthropic-first-to-announce-recursive-self-improvement"
+ },
+ "0x9f66a23ca0d5d66fd89b1b37868ef39885b0f36b6e2c8003bdd8239fd58300b6": {
+  "created_at": "2025-12-29T15:52:09.791922Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Major volcano eruption (VEI \u22656) in 2026?",
+  "revisions": 1,
+  "sha256": "4ae010d1147e1daeaebb72464a1e0e1aaf71162653a1c76d81c13b1c7d464fca",
+  "slug": "major-volcano-eruption-vei-6-in-2026"
+ },
+ "0xa14bbde13819aee1b861fe7945629bd40826a2f3adcd717ddecf1cbaa20c6fb6": {
+  "created_at": "2026-07-31T23:05:48.201175Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Pedro Pascal be the #1 searched person on Google in the US this year?",
+  "revisions": 1,
+  "sha256": "1dd93a2ed328338be39b74de88bb4683cc446dc8136c26236d8cc7bb3c21c129",
+  "slug": "will-pedro-pascal-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940400"
+ },
+ "0xa28f3030457156bfc42993aec7bfc8f1a4ed30c0fb19fad111e356cd873cadb6": {
+  "created_at": "2026-08-07T20:28:11.46122Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 GA-13 House election by 35%-40%?",
+  "revisions": 1,
+  "sha256": "5b8910c5c4a826d0fd915545d1280abde158efd2e7b42718ea29e256ac4d850b",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-ga-13-house-election-by-35-40"
+ },
+ "0xa41fa466c85270864273dfcb9cce5f74dc4651f7a67a6311ea05483ab30913b6": {
+  "created_at": "2026-07-10T14:12:11.169513Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Ornn H200 Index be between $6.00 and $6.50 on December 31, 2026?",
+  "revisions": 1,
+  "sha256": "d9e5cba872f82c175f068910ac54fc6b239d245ccb395ae885a8fcc09c794136",
+  "slug": "will-the-ornn-h200-index-be-between-6pt00-and-6pt50-on-december-31-2026-20260709164949068"
+ },
+ "0xa5947e291cf865dfd6edfc79406512d66e58c8b89f6edb3c6af138d10d6348b6": {
+  "created_at": "2026-10-01T19:30:27.297505Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Exact Score: Al Ahli Saudi Club 1 - 2 Al Nassr Saudi Club?",
+  "revisions": 1,
+  "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
+  "slug": "spl-ahl-nsr-2026-10-15-exact-score-1-2"
+ },
+ "0xa829fd3c3c0b6207d36f56cfbb39c2025b7d1b5b6098f499bb06f7f10272dcb6": {
+  "created_at": "2026-08-12T16:55:37.621766Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Kira Freije win the Turner Prize 2026?",
+  "revisions": 1,
+  "sha256": "e9ee319b68902f301af04f58d3671d732c8830da1811cf4ad044987216634448",
+  "slug": "will-kira-freije-win-the-turner-prize-2026-1786472350958"
+ },
+ "0xa8818217726c5c55fdb16c01afd175ba825fd2d7be77ca06773694907989e1b6": {
+  "created_at": "2026-07-10T14:21:20.602487Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Ornn H100 Index hit $2.25 (LOW) by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "ebeedc44fd005083022257669811fdc3b494f010e9b7be470a5aa5f868363401",
+  "slug": "will-the-ornn-h100-index-hit-2pt25-low-by-december-31-2026-20260709170850330"
+ },
+ "0xa8d2862902d0955084843514c9d84f9e04bd3a05fe452c35dbc28dca3e0113b6": {
+  "created_at": "2026-08-10T15:43:21.589564Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 MN-05 House election by 60%-65%?",
+  "revisions": 1,
+  "sha256": "eaf6939224e6b85b445bb30dca0c9568a0105d06885da97df7582a26a0c8fab5",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-mn-05-house-election-by-60-65"
+ },
+ "0xacf7113dc9045db7ee5163c3f1bdef4dbdfd2050f2e33b35b5f3d0fdad136cb6": {
+  "created_at": "2026-10-13T15:55:53.415751Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Utah Jazz reach the 2026 NBA Cup Knockout Rounds?",
+  "revisions": 1,
+  "sha256": "c44df35b6d8b079a34b7f9aa76d7928c2b359a938d82e7fc22666bdbb7fbba43",
+  "slug": "nba-team-to-reach-2026-nba-cup-knockout-rounds-utah-jazz"
+ },
+ "0xb2151cd2b716edcbeef9fb960c23347ad149f2326758cba4cb28e3f6917333b6": {
+  "created_at": "2026-07-20T19:25:23.253776Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Amon-Ra St. Brown finish the 2026-27 NFL regular season with the most receptions?",
+  "revisions": 1,
+  "sha256": "e5a8e4a9792994c905620fd8ce152d31ca72678b760f1347324ba4232957771d",
+  "slug": "will-amon-ra-stpt-brown-finish-the-2026-27-nfl-regular-season-with-the-most-receptions-20260715212154227"
+ },
+ "0xb327aa57644b5602308000004fcf99f0b133e4d760d7e9e9c8f6d7922750e5b6": {
+  "created_at": "2026-09-04T19:52:08.330608Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Donovan Olugbode be the 2026 SEC Receiving Yards Leader?",
+  "revisions": 1,
+  "sha256": "ec3dab1fba7a90cb882188ca92c01407a4e9eefbe8cf01de63e66fdf1a84cce6",
+  "slug": "will-donovan-olugbode-be-the-2026-sec-receiving-yards-leader"
+ },
+ "0xb3b0aebe0883b11310c60e6eec36db02e94956fa81e5a534c654733759f0e5b6": {
+  "created_at": "2026-09-07T15:51:10.148179Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Russia x Ukraine ceasefire agreement by October 31, 2027?",
+  "revisions": 1,
+  "sha256": "eafd5b41ca24c0f8a1ba6f9cfd04cfeb4929a9bbf56db685c59cbd22f21ffaa9",
+  "slug": "russia-x-ukraine-ceasefire-agreement-by-october-31-2027"
+ },
+ "0xb4f9d290dff004978be23b4c268b82c427ae5753d599686d92cf6026e149c5b6": {
+  "created_at": "2026-08-24T16:38:10.340743Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Mito HollyHock finish 3rd in the 2026-27 Japan J. League?",
+  "revisions": 1,
+  "sha256": "87a781b64a600c12c91fb690cfc0def132d545419beb5940869f79fc2c52fa0f",
+  "slug": "will-mito-hollyhock-finish-3rd-in-japan-j-league-2026-27"
+ },
+ "0xb743353be80ee4d0ddcddb7551288f1745a7907f96a2f169a9932d5d70b9c0b6": {
+  "created_at": "2026-07-06T22:02:48.409237Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Doris Matsui win the CA-07 House seat?",
+  "revisions": 1,
+  "sha256": "a88a9f2f2542409457224325c1d2c2ebb7dd5b206b6c201522691d931f22ad92",
+  "slug": "will-doris-matsui-win-the-ca-07-house-seat-20260706153655919"
+ },
+ "0xb8209ab7ecda10e3bfa41454ba5de9634a1970689f98efbd413c1b00781209b6": {
+  "created_at": "2026-11-03T17:43:45.080085Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Oregon reach the 2027 NCAA Men's Basketball Final Four?",
+  "revisions": 1,
+  "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
+  "slug": "will-oregon-reach-the-2027-ncaa-mens-basketball-final-four"
+ },
+ "0xb838690778f27cbba168be61a77fb186580746f54749f585c5c9bb339db4a8b6": {
+  "created_at": "2026-04-29T21:29:16.826599Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "APYX FDV above $80M one day after launch?",
+  "revisions": 1,
+  "sha256": "7d0580befa3434fc95f34c788b4bdb29b4c9f591f6af5fdcc11302811d9d8fe1",
+  "slug": "apyx-fdv-above-80m-one-day-after-launch"
+ },
+ "0xb858218c0ab3d281f409d2987fe2898f4d6691634ca75351bcf87d0e487678b6": {
+  "created_at": "2026-08-26T21:46:12.324109Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Tigre be relegated from the 2026 Liga Profesional (Argentina)?",
+  "revisions": 1,
+  "sha256": "a2cf5a67666d98154eea25f38b4918363037c31ed1ee1d77612bc9b7284f8447",
+  "slug": "will-tigre-be-relegated-from-liga-profesional-argentina-2026"
+ },
+ "0xb9019e00ed1884e50ed25b1a06c6b1b376f9fdd7b2129e946c14a9baff5a77b6": {
+  "created_at": "2026-08-07T16:01:53.924873Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Seahawks D/ST be the highest-scoring D/ST of the 2026-27 NFL season?",
+  "revisions": 1,
+  "sha256": "49a98279f7c965a53766d094c28c3f7bc416f621c32c834370a5186c788b2076",
+  "slug": "will-seahawks-dst-be-the-highest-scoring-dst-of-the-2026-27-nfl-season-20260806224132346"
+ },
+ "0xba8e9012da624ff2a23a9c671d0ba4adb3b67000d0d6d5f1d6f7e1e8d421afb6": {
+  "created_at": "2026-08-12T17:27:11.387408Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Independiente be runner-up in the 2026 Liga Profesional (Argentina)?",
+  "revisions": 1,
+  "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
+  "slug": "2026-soccer-liga-profesional-argentina-runner-up-independiente"
+ },
+ "0xbad35b567f9715819c2eb185373c82021467117a92d51c1e9094ed52b6149bb6": {
+  "created_at": "2026-10-09T15:06:37.611006Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will STRC hit $100 by November 30?",
+  "revisions": 1,
+  "sha256": "5615060b8b1958a6b4f897878330c4d518140b5ae8053dfa86e4c5396e31b003",
+  "slug": "will-strc-hit-100-by-november-30-2026"
+ },
+ "0xbbb34844d8c4426aac1e1bb3dca05e7812891632ccb102c86adacfcf93db44b6": {
+  "created_at": "2026-09-27T20:17:40.476709Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Yaroslav Askarov record 4+ shutouts?",
+  "revisions": 1,
+  "sha256": "07e67ab253eb85b0e06078d35baf06b7bc3420870ca0721e39e066ec0da42f83",
+  "slug": "will-yaroslav-askarov-record-4-shutouts"
+ },
+ "0xbe1218658c788bb1b5841c18e4b285ba4b826d78da510dfadad347f04669ccb6": {
+  "created_at": "2026-10-28T22:31:54.401662Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Trump say \"Epstein\" in November?",
+  "revisions": 1,
+  "sha256": "ff0f7753e231c7ceef773c19854a014a00da43fc2a8582ea38e4d58746d0bc9d",
+  "slug": "will-trump-say-epstein-in-november-20261130"
+ },
+ "0xbe1f874b27c9fd81d5c273b072013de5d47d5467374749fc26af6042eb5de1b6": {
+  "created_at": "2026-08-05T10:54:40.964231Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will F\u00e9lix Arratia Cruz win the 2027 Nuevo Le\u00f3n Governor Election?",
+  "revisions": 1,
+  "sha256": "be9f2dcddb39aaa3e090823c70d0a603fefdfcbd25a36d057f4cde70877b82e5",
+  "slug": "will-felix-arratia-cruz-win-the-2027-nuevo-leon-governor-election-20260803173854394"
+ },
+ "0xc0134655834be167d957dc6b1b9ebe75bef070fdf88fe2c98db68ed5552131b6": {
+  "created_at": "2026-08-10T23:57:20.650357Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Omarion Hampton have 949.5+ rushing yards in the 2026-27 NFL regular season?",
+  "revisions": 1,
+  "sha256": "732461fd3dfcf1e7e5bdff170e05bdba42139b0fd141f9dfd2134223c0caa36a",
+  "slug": "omarion-hampton-949pt5-rushing-yards-2026-27"
+ },
+ "0xc0fb51ed549323443063964076f84efb3f0d8e74e1b7a194ed1eccb291f1feb6": {
+  "created_at": "2026-01-30T23:20:25.343281Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Sergey Brin be 2nd richest person on December 31?",
+  "revisions": 1,
+  "sha256": "32b95b2c79ca994f964a277ad4a1ad5c81331ff5547cc64e72fa09626724d604",
+  "slug": "will-sergey-brin-be-2nd-richest-person-on-december-31"
+ },
+ "0xc18a28d13b9d3a1b485a4713996456e771bba417ceef1632c131752d63333ab6": {
+  "created_at": "2026-08-26T21:46:31.464137Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Cob\u00e1n Imperial finish 10th in the 2026-27 Liga Nacional (Guatemala)?",
+  "revisions": 1,
+  "sha256": "86d52eca4f280a6270074a76ae1403fa9168ad11644a033366c6c829466c655d",
+  "slug": "will-coban-imperial-finish-10th-in-liga-nacional-guatemala-2026-27"
+ },
+ "0xc3a797256630782beba6ddda1988bfc7d82727d8ddd2ac90f4c5bf87dd96d1b6": {
+  "created_at": "2026-08-11T19:11:00.466895Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Republican Party candidate win the 2026 TX-13 House election by 55% or more?",
+  "revisions": 1,
+  "sha256": "e4f597551f76aaea75b91a12eb5cb4b0e1b535aa9ccba31a46cd57750c88cd1a",
+  "slug": "will-the-republican-party-candidate-win-the-2026-tx-13-house-election-by-55-or-more"
+ },
+ "0xc4f10a0f6d1f85887999f4556a3ab994b164d39031cd4ab1f48717bc5a93dcb6": {
+  "created_at": "2026-08-12T17:28:25.128401Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Puntarenas be runner-up in the 2026 Liga FPD (Costa Rica)?",
+  "revisions": 1,
+  "sha256": "05e44eb86dd2cd104b1003ffabfaaf5029ff53bfd51bf8b1f53cfed1e086ca5d",
+  "slug": "2026-soccer-liga-fpd-costa-rica-runner-up-puntarenas"
+ },
+ "0xc6248eb40e4ff3a893bcf7a09f00ca6e66a2165cfec25ea36ba4817d7eefc0b6": {
+  "created_at": "2026-08-24T16:32:41.235417Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will FC Zbrojovka Brno qualify for the 2027-28 UEFA Europa League?",
+  "revisions": 1,
+  "sha256": "655ad8b9c0d0d4db5068a33f216936cb1152c75866e7845eb2e2bdc08c08e06d",
+  "slug": "will-fc-zbrojovka-brno-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0xc76c3f6a42f501191ed36f6017edcd9e4a79d1d6048ace8b252cb050f648aab6": {
+  "created_at": "2026-09-08T16:02:51.877431Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Arsenal finish the UCL league phase with the best goal differential?",
+  "revisions": 1,
+  "sha256": "2966256705f6613f7d32d98b5a29368b23bcc2d97304bffa4c118c1f5c3883aa",
+  "slug": "will-arsenal-finish-the-ucl-league-phase-with-the-best-goal-differential"
+ },
+ "0xc8d51ae42be5dc996eb177b4bad8e6c0fc9b264a46b86753a64ed708c73497b6": {
+  "created_at": "2026-09-09T22:11:35.811355Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Stranger Things rank in Google\u2019s Top 5 Most Searched TV Shows of 2026?",
+  "revisions": 1,
+  "sha256": "985d5311ad86f067e1de5929df742e374393b86acec53e959a5a2ea928c805c2",
+  "slug": "will-stranger-things-rank-in-googles-top-5-most-searched-tv-shows-of-2026"
+ },
+ "0xc9de637529ac973baeb2a923fc6e977018a430fde4dcd219357c9c8cdb837bb6": {
+  "created_at": "2026-08-24T16:32:24.694074Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Sigma Olomouc qualify for the 2027-28 UEFA Champions League?",
+  "revisions": 1,
+  "sha256": "f7c274bfb6b5de3108e1b069753ab050650be1e1fbe658696cbb2d3d6a549e26",
+  "slug": "will-sigma-olomouc-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0xce62e2f8894fe6808449b398ff5ac99a475f419c7a06e021dd7d5398c4441ab6": {
+  "created_at": "2026-11-03T17:43:34.192144Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Indiana reach the 2027 NCAA Men's Basketball Final Four?",
+  "revisions": 1,
+  "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
+  "slug": "will-indiana-reach-the-2027-ncaa-mens-basketball-final-four"
+ },
+ "0xd008c45c5320e7453b4e7725bda285cd822a3a61adef14759f2aadf0778c64b6": {
+  "created_at": "2025-11-27T20:10:06.050773Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Abstract launch a token by December 31, 2026",
+  "revisions": 1,
+  "sha256": "dd155ae3c815798aa6f57a77effaa8ac940ec0f55aac22dccb5352a3e91be0f4",
+  "slug": "will-abstract-launch-a-token-by-december-31-2026"
+ },
+ "0xd09556baa8e06d969f19f281f2e544c49a7773b27359ce6b69060b911b717fb6": {
+  "created_at": "2026-10-20T23:03:53.80442Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Marved play for Sentinels in 2027?",
+  "revisions": 1,
+  "sha256": "8e4acbde024ee91cde4ee466b9fb66b9a8866e0f49e0bc6530b7c575e67337cd",
+  "slug": "will-marved-play-for-sentinels-in-2027"
+ },
+ "0xd0f11fcbc3346b9e0ab18f24bafe148e070bc9b5cfe780c617217694f71b87b6": {
+  "created_at": "2026-10-21T23:52:21.786117Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Vox win the most seats in La Rioja in the 2026 Spanish general election?",
+  "revisions": 1,
+  "sha256": "20fddf4143ee036d007e6125d1b856e12e4bdc83147b973a810cc3c526024ca1",
+  "slug": "will-vox-win-the-most-seats-in-la-rioja-in-the-2026-spanish-general-election"
+ },
+ "0xd1a5cc0b8219a41788c3b4a4b0e1c398ddf65037267cd082826318ebffa874b6": {
+  "created_at": "2026-10-28T22:32:54.314023Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Ed Sheeran have the second-greatest number of monthly Spotify listeners this month?",
+  "revisions": 1,
+  "sha256": "8a7c7ed6de5a82959030855ff09dc5cffd623cb8dbc306bcdaa6263ab57fc80e",
+  "slug": "will-ed-sheeran-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-20261130"
+ },
+ "0xd80f0b6a06190391e199b7100dc4f8a4fe707849879bcdc02716ee76009f97b6": {
+  "created_at": "2026-10-05T19:30:30.410528Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Al Kholood Saudi Club leading at halftime?",
+  "revisions": 1,
+  "sha256": "9e31d8ead43fdc2ce0d1228a11da7dc55b60a8da15d70f1d7729d6b258a5ec1c",
+  "slug": "spl-abh-kho-2026-10-19-halftime-result-away"
+ },
+ "0xdcc07910de1a376a048e6c759c7bb7deaaf1049452023bc59a50137973e025b6": {
+  "created_at": "2026-08-07T19:09:13.588857Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 CO-02 House election by 45%-50%?",
+  "revisions": 1,
+  "sha256": "c6fbcf8f1ee8c68b9a54e240abc2da73f95be9cac02131f7f13445cc9845185a",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-co-02-house-election-by-45-50"
+ },
+ "0xe00c3f92058350f14a5a2027689b0a29a812be87f9ab459636b38ad8c13e9fb6": {
+  "created_at": "2026-08-11T12:33:32.954993Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Fernando Delgado win the Cape Verde presidential election?",
+  "revisions": 1,
+  "sha256": "d4f0d45421e4eb94660e938acb2bc2bf0b00ffa1021bc874e0c1c276168d5b74",
+  "slug": "will-fernando-delgado-win-the-cape-verde-presidential-election-1786395605042"
+ },
+ "0xe22250a1ab9c912271e94c9ce174efa277d68e1efaf85f84124cf18cb74276b6": {
+  "created_at": "2026-09-28T17:20:27.558933Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Chicago Blackhawks make the 2026-27 NHL Playoffs?",
+  "revisions": 1,
+  "sha256": "3aa5fced27bdcbebb40ca133fe34d3f87f9d0a8c42323d3bee9884ecf95deb5e",
+  "slug": "will-the-chicago-blackhawks-make-the-2026-27-nhl-playoffs"
+ },
+ "0xe770bb613002a729cf4320054d3050f4cd134f14e1eebf02af83dd904cdf5cb6": {
+  "created_at": "2026-08-12T14:59:10.221613Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Nebraska have more than 7.5 wins during the 2026 CFB season?",
+  "revisions": 1,
+  "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
+  "slug": "will-nebraska-have-more-than-7pt5-wins-during-the-2026-cfb-season-20260810194029656"
+ },
+ "0xe8fbdf9c2eb3a886e5158f1284f420d7df643c0bd2b063a6de31173abab8a4b6": {
+  "created_at": "2026-08-04T21:40:53.962132Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will John Fetterman announce a Presidential run before 2028?",
+  "revisions": 1,
+  "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
+  "slug": "will-john-fetterman-announce-a-presidential-run-before-2028-20260803143241626"
+ },
+ "0xeaec3dde697f5b26422994658be334ebe733265551ac3321405f5b558af6efb6": {
+  "created_at": "2026-10-13T19:55:51.829326Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Team FOG Naestved win the 2026-27 Denmark Basketligaen championship?",
+  "revisions": 1,
+  "sha256": "e0db3838859c28c13c8ec2600d4b01c04e43fa01789e1cfef59a7b7d50e0517e",
+  "slug": "denmark-basketligaen-2027-champion-team-fog-naestved"
+ },
+ "0xeb19bf61af8fc67a720c7a5e5ee7006753ab5f8713d74fa567096aff4535d6b6": {
+  "created_at": "2026-03-30T21:05:48.339783Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Russia test a nuclear weapon by December 31 2026?",
+  "revisions": 1,
+  "sha256": "342200abfba9081fd445af46d78abb897caa80a0bb5ba9ffed09737fd9f09334",
+  "slug": "will-russia-test-a-nuclear-weapon-by-december-31-2026-75zh"
+ },
+ "0xec0831119ea450cf2528cdb955b88ee1e746be135433f0a811119b73ab8c92b6": {
+  "created_at": "2026-08-24T16:38:11.68099Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Vanraure Hachinohe finish 3rd in the 2026-27 J2 League?",
+  "revisions": 1,
+  "sha256": "d72e58099be4b57242af3ce270bb1717d47330fb399ba8105b5429a26778d039",
+  "slug": "will-vanraure-hachinohe-finish-3rd-in-j2-league-2026-27"
+ },
+ "0xec8b96d42ea940a5990d11f37c67df475db44142b336b256ce7f67f929fa79b6": {
+  "created_at": "2026-09-24T08:36:38.323688Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Claude Opus's output price be at or below $10 in 2026?",
+  "revisions": 1,
+  "sha256": "050fa86307421c52526f95afc684a96909d30a8d0891ba9a08b5dfe7d4b8ba9b",
+  "slug": "will-claude-opus-output-price-be-10-or-below-in-2026"
+ },
+ "0xee6e56a34bbf20f8c618224683c2952319dd1053f83d117d9633663291629bb6": {
+  "created_at": "2026-09-02T20:15:01.549518Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will a Republican Party candidate win the 2026 WA-08 House election by 0%-5%?",
+  "revisions": 1,
+  "sha256": "fcce71771dcfcc759db4b2c14d91bf84e4e18e1799ab60ba5c7dcf83a29353ea",
+  "slug": "will-a-republican-party-candidate-win-the-2026-wa-08-house-election-by-0-5"
+ },
+ "0xf22ca8be5a699c6155b566723225b69f8e61ee68255dd0d662f022ba36a010b6": {
+  "created_at": "2026-10-02T14:05:34.076476Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will EU emergency diesel stocks be at least 37M tonnes at end of December 2026?",
+  "revisions": 1,
+  "sha256": "52dfdfecec97cb1db1d0561f75e87b9035437cf216a0756bd15c92b7a64d0789",
+  "slug": "will-eu-emergency-diesel-stocks-be-at-least-37m-tonnes-at-end-of-december-2026"
+ },
+ "0xf47b18e632529ef7503b831f073bbcaa2981077a423112a71182dd07be9fb4b6": {
+  "created_at": "2026-08-24T16:35:00.806515Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Real Madrid be relegated from the 2026-27 LaLiga?",
+  "revisions": 1,
+  "sha256": "a8bfe5716d32257da04cac55bff1c84003eadea69accc7be9975562d2a6cf348",
+  "slug": "will-real-madrid-be-relegated-from-laliga-2026-27"
+ },
+ "0xf4f152e30e83a89063caec7ffa180411bf3dcd7c1f88fe54c51e3391773601b6": {
+  "created_at": "2026-10-16T19:05:59.964971Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Central Bank of Colombia make no change to the monetary policy interest rate at the December meeting?",
+  "revisions": 1,
+  "sha256": "5a3407245f973d832c9e7d4146aba31e9adb22ab1db3c8f2e751768cf479bfb8",
+  "slug": "will-the-central-bank-of-colombia-make-no-change-to-the-monetary-policy-interest-rate-at-the-december-2026-meeting"
+ },
+ "0xf589d06be98beeda62a3577211acac43707c995fc17303f1aa12835c3757c1b6": {
+  "created_at": "2026-06-12T19:23:51.821872Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Utah Mammoth be named the 2026-27 NHL Stanley Cup Champion?",
+  "revisions": 1,
+  "sha256": "0ed4bbd3e337c88f73286cd4a6a816a7101297712901ada21704914b528cf286",
+  "slug": "will-the-utah-mammoth-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657100"
+ },
+ "0xf61bfdbdcb5c2693aef844e431e30e3a901f2c27ccf41a5d71a29ba9c2d7e4b6": {
+  "created_at": "2026-08-10T14:52:47.425896Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Republican Party candidate win the 2026 IL-15 House election by 10%-20%?",
+  "revisions": 1,
+  "sha256": "44c7844eaee5ef38904041179ffc44d94eee087baae6da52292e474cfc58605d",
+  "slug": "will-the-republican-party-candidate-win-the-2026-il-15-house-election-by-10-20"
+ },
+ "0xf8be9ca75e6557feb75a350cc10f8b007e3b94f07066da29c046bd18ce8d4db6": {
+  "created_at": "2026-08-07T14:05:22.083991Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will the Democratic Party candidate win the 2026 AZ-01 House election by 0%-3%?",
+  "revisions": 1,
+  "sha256": "d5fd40be116ffb224405a79bca4fb54bb9bda2490d981ebd8a78d9572f7742e3",
+  "slug": "will-the-democratic-party-candidate-win-the-2026-az-01-house-election-by-0-3"
+ },
+ "0xf9514d1873545f5c566acca07b20d6637b29b40e26365e14385cdd7da6c094b6": {
+  "created_at": "2026-09-28T17:21:08.982859Z",
+  "first_seen": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-04T01:55:27Z",
+  "question": "Will Clayton Keller record 80+ points in the 2026-27 regular season?",
+  "revisions": 1,
+  "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
+  "slug": "will-clayton-keller-record-80-points-in-the-2026-27-regular-season"
+ }
+}

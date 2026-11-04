@@ -1,0 +1,11 @@
+This market will resolve to "OpenAI" if OpenAI, or an official representative of OpenAI, announces that OpenAI has achieved recursive self-improvement before Anthropic does so. This market will resolve to "Anthropic" if Anthropic, or an official representative of Anthropic, announces that Anthropic has achieved recursive self-improvement before OpenAI does so.
+
+If neither company makes a qualifying announcement by December 31, 2027, 11:59 PM ET, or if both make qualifying announcements on the same calendar day, this market will resolve 50-50. 
+
+A qualifying announcement by any other company does not end the race or affect resolution.
+
+Recursive self-improvement means a capability, as described in the company's announcement, in which the company's AI autonomously conducts the research and development needed to materially improve the general capabilities of its most capable or near-frontier AI systems, or to produce a more capable successor, with the improved system able to drive further such improvements. Humans may set high-level goals and provide resources, oversight, and approval, but must not supply the substantive research choices or the technical solution. Improvements that are toy, narrow, sandboxed, proof-of-concept, or limited to prompts, skills, or benchmark scores will not qualify.
+
+A qualifying announcement must describe the capability as currently achieved in an official capacity. Statements that AI is assisting, accelerating, or writing code for the company's research, statements of future plans or expectations, speculation, interviewer characterizations, leaks, model outputs, and third-party claims will not qualify. A public release, a named model, a technical demonstration, and independent verification are not required.
+
+The primary resolution source for this market will be official information from OpenAI and Anthropic and/or their official representatives; however, a consensus of credible reporting may also be used.

@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if the named movie is listed on the IMDb Top 250 Movies list by March 31, 2027, 11:59PM ET. Otherwise, this market will resolve to "No".
+
+This market will immediately resolve to "Yes" if the listed movie enters the IMDb Top 250 Movies list.
+
+The resolution source for this market will be IMDb (https://www.imdb.com/chart/top/). If the resolution source becomes permanently unavailable, this market will resolve to "No".

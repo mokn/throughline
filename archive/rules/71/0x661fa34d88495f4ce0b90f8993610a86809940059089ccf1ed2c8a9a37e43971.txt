@@ -1,0 +1,8 @@
+This market will resolve to “Yes” if the “Total RWA Value” shown on rwa.xyz is equal to or greater than $50B on any day by December 31, 2026. Otherwise, it will resolve to “No.”
+
+The resolution source is the “Total RWA Value” chart, available at:
+https://app.rwa.xyz/
+
+A data point on the rwa.xyz chart is considered finalized once the data point for the following day is published.
+
+If rwa.xyz becomes permanently unavailable, the market will resolve based on other credible and publicly verifiable sources.

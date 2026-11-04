@@ -1,0 +1,5 @@
+This market will resolve to “Yes” if the total amount wagered on U.S. sports betting in 2026 is greater than the number specified in the title. Otherwise, it will resolve to “No.”
+
+The resolution source will be Legal Sports Report (https://www.legalsportsreport.com/sports-betting-states/revenue/), using the “U.S. sports betting revenue by month” table. The annual data will be calculated by summing the values in the “Handle” column for all months in 2026 once the relevant information is available.
+
+If the resolution source becomes permanently unavailable, the market will resolve based on other reliable sources

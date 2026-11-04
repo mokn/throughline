@@ -1,0 +1,9 @@
+The FED rate is defined in this market by the upper bound of the target federal funds range. The decisions on the target federal fund range are made by the Federal Open Market Committee (FOMC) meetings.
+
+This market will resolve according to the upper bound of the Federal Reserve’s target federal funds range after the December 2026 Federal Open Market Committee (FOMC) meeting, currently scheduled for December 8-9, 2026.
+
+This market may resolve immediately after the statement for the FOMC’s December meeting, with relevant information about the FOMC’s decision on the target federal funds range, has been issued. If no FOMC decision on the target federal funds range for their December meeting has been issued by December 31, 2026, 11:59 PM ET, this market will resolve according to the upper bound of the target federal funds range at that time.
+
+The upper bound of the target federal funds range will be rounded to the nearest 25 basis points for resolution of this market. If the upper bound of the target federal funds range falls exactly between two listed options, it will be rounded away from zero (e.g. if the upper bound is 2.875, with listed options of 3.0 & 2.75, this market will resolve to 3.0).
+
+The primary resolution source for this market will be official information from the Federal Reserve (https://www.federalreserve.gov/monetarypolicy/openmarket.htm).

@@ -1,0 +1,5 @@
+This market will resolve to “Yes” if a total crypto liquidations event exceeds the highest liquidation amount ever recorded ($19.16B) at any point in 2026, as tracked by CoinGlass. Otherwise, it will resolve to “No.”
+
+The resolution source will be CoinGlass liquidation data (https://www.coinglass.com/LiquidationData), specifically the “Top 10 Crypto Liquidation Events of All Time.”
+
+If CoinGlass data becomes permanently unavailable, a consensus of credible reporting will be used.

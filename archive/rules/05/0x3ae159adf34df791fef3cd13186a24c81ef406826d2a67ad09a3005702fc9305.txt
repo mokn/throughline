@@ -1,0 +1,7 @@
+This market will resolve according to the finalized Ornn B200 Index price for December 31, 2026. 
+
+If the recorded data falls exactly between two brackets, this market will resolve to the higher bracket.
+
+The resolution source for this market is Ornnai.com (ornnai.com), specifically, the B200 Index chart data available at https://dashboard.ornnai.com. The specified finalized daily value shown on the chart will be used for resolution. Daily data will be considered finalized once the following day’s data point is published.
+
+Resolution will occur once the specified data point is finalized. If the relevant data is not finalized by the end of the 7th calendar day after the specified date (ET), this market will resolve according to the latest data available at that time. Revisions made after the relevant figure has been finalized will not be considered.

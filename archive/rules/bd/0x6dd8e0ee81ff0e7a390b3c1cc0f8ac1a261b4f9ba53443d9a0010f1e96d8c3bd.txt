@@ -1,0 +1,7 @@
+This market will resolve based on the USGS preferred magnitude of the largest (highest-magnitude) earthquake to occur anywhere on Earth between January 1, 2026, 12:00:00 AM ET and December 31, 2026, 11:59:59 PM ET. The "7.9 or below" bracket covers any case in which the highest-magnitude earthquake during this market's timeframe is below 8.0, including the magnitude 7.8 already recorded in 2026 and any lower value.
+
+The resolution source for this market is the United States Geological Survey (USGS) Earthquake Hazards Program (https://earthquake.usgs.gov/earthquakes/search/). Magnitude is measured to one decimal place (e.g., 7.9). The USGS preferred magnitude at the end of this market's open period governs; later revisions do not reopen or change this market's resolution.
+
+An extension period extends this market's close from January 3, 2027, 11:59:59 PM ET to as late as January 7, 2027, 11:59:59 PM ET, and applies when a qualifying earthquake has occurred within this market's timeframe but the USGS has not yet published or finalized its preferred magnitude. This additional time allows the reported magnitude to be finalized before this market resolves.
+
+This market will remain open until January 3, 2027, 11:59:59 PM ET, or until January 7, 2027, 11:59:59 PM ET if the extension period applies. If a qualifying earthquake has occurred within this market's timeframe but has not yet appeared on the resolution source by the end of that period, another credible resolution source will be used.

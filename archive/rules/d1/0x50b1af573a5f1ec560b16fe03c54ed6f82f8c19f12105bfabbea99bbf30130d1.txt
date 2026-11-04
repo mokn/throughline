@@ -1,0 +1,7 @@
+This market will resolve to “Yes”, if Venezuelan crude oil production is greater than or equal to the listed number of barrels per day for any month in 2026, according to the OPEC Monthly Oil Market Report published for each month.
+
+The resolution source for this market will be the OPEC Monthly Oil Market Report, published each month in reference to the previous month at https://www.opec.org/monthly-oil-market-report.html. The relevant figure can be found in “Table 5-7 DoC crude oil production based on secondary sources, tb/d” under the column for the relevant month and the “Venezuela” row.
+
+This market will resolve as soon as Venezuelan crude oil production is reported to be greater than or equal to the listed number. If the listed number has not been reached for any month by the release of the OPEC Monthly Oil Market Report for the reference month December 2026 (expected to be released in January 2027), this market will resolve to “No”. If no Opec Monthly Oil Market Report for the reference month December 2026 has been published by February 28, 2027, ET and the listed number has not been reached for any prior month, this market will resolve to “No”.
+
+The resolution source for this market reports crude oil production in thousands of barrels per day. Thus, this is the level of precision that will be used when resolving this market.

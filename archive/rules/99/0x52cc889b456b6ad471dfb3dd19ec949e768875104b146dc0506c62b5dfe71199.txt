@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if Based’s cumulative Polymarket revenue is equal to or greater than the value specified in the title by December 31, 2026 ET. Otherwise, the market will resolve to “No”.
+
+The resolution source for this market is the Based revenue bar chart available at https://dune.com/datadashboards/based-statistics, using the “Cumulative Revenue” value displayed when hovering over the daily data point.
+
+This market will resolve as soon as the cumulative revenue shown on the dashboard is equal to or greater than the value specified in the title, or once the value for Dec 31, 2026 is finalized and no earlier value has met or exceeded that threshold.
+
+If the resolution source becomes permanently unavailable, the market will resolve based on on-chain data, Based official communication, or other reliable crypto sources.

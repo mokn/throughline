@@ -1,0 +1,13 @@
+The 2026 midterm elections are scheduled to be held on November 3, 2026.
+
+This market will resolve to "Yes" if the listed Democratic candidate in a statewide midterm election has an unrounded vote share that is lower than the equivalent vote share earned by Kamala Harris in that state in the 2024 Presidential Election. Otherwise, it will resolve to "No."
+
+Vote share percentages will be determined by dividing the total number of valid votes for each candidate by the sum of all valid votes cast in the relevant state in the election.
+
+For elections that include runoffs, ranked-choice, or other multi-round elections, the relevant vote share will be that of the last-reported round containing the named candidate and at least one other candidate.
+
+If a candidate's vote share is identical to that of Kamala Harris, this market will resolve to "No".  
+
+In the event that the relevant vote share for a candidate cannot be determined by March 31, 2027, or a candidate withdraws from the race in a manner that causes them to be permanently removed from the general election ballot, that candidate will be considered to have received 0% of the vote. 
+
+The resolution source for this market will be a compilation of all of the relevant state election authorities responsible for certifying statewide elections, however, a consensus of credible reporting may also be used.

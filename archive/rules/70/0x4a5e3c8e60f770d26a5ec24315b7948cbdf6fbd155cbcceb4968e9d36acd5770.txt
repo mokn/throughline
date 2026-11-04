@@ -1,0 +1,13 @@
+This market will resolve according to the finalized USD exchange rate on Bonbast for December 31, 2026.
+
+If the recorded data falls exactly between two brackets, this market will resolve to the higher bracket.
+
+This market will resolve according to the finalized free-market USD exchange rate for the specified date as displayed on Bonbast (https://www.bonbast.com/graph/usd), which publishes prices in Iranian toman, where 1 Iranian toman equals 10 Iranian rials (IRR).
+
+A daily figure will be considered finalized once the following day’s figure is released.
+
+Resolution will occur once the specified exchange rate data point is finalized. If the relevant data is not finalized by the end of the 7th calendar day after the specified date (ET), this market will resolve according to the latest data available at that time. Revisions made after the relevant figure has been finalized will not be considered.
+
+If Iran redenominates the rial, or Bonbast changes the unit in which it displays the USD exchange rate, before the relevant figure has been finalized, the displayed figure will be converted into current Iranian rials at the official conversion ratio between the new unit and the current rial (for example, 1 new rial equals 10,000 current rials), and the converted figure will be used for resolution.
+
+The resolution source for this market will be Bonbast (https://www.bonbast.com/graph/usd). If the resolution source becomes permanently unavailable, another resolution source will be chosen.

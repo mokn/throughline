@@ -1,0 +1,15 @@
+This market will resolve according to the number of tornadoes recorded in the United States during the specified month, based on the monthly count published on the National Centers for Environmental Information U.S. Tornadoes Time Series page (see: https://www.ncei.noaa.gov/access/monitoring/tornadoes/time-series).
+
+Only tornadoes appearing in the final NCEI dataset for that month will count.
+
+The brackets are mutually exclusive and collectively exhaustive: each range is inclusive of both of its stated endpoints, and the monthly tornado count falls within exactly one bracket.
+
+As of market creation, the relevant report is scheduled to be released on December 9, 2026 at 11:00 AM ET (Release schedule: https://www.ncei.noaa.gov/access/monitoring/dyk/monthly-releases). The market will resolve based on the first relevant tornado count published on the NCEI tornado time-series page after this scheduled release time.
+
+If the value published after this scheduled release time is labeled preliminary, it will still determine resolution, and the market will resolve independently of any subsequent revisions, corrections, or retroactive adjustments.
+
+The market will not resolve based on any preliminary values published before the scheduled release time.
+
+If no data is published by the scheduled release time, or if the NCEI website is temporarily unavailable, this market will remain open until that data is made available. If the relevant data is not made available by the date of the next scheduled publication, this market will resolve based on available data for the most recent prior month. If the NCEI website becomes permanently unavailable, this market will resolve using another credible source.
+
+In the case that the Resolution Source publishes data, sufficient to settle a Market, that is clearly erroneous and the result of technical or operational error, or of unauthorized interference with the Resolution Source or its data, the Market may remain open for a period of up to seven (7) calendar days (ET) from the time of the original release, in anticipation of a correction by the Resolution Source. If the Resolution Source publishes a corrected value within that period, that value will be eligible for resolution. If no corrected value is published within that period, Polymarket will issue a Clarification to determine whether the originally published value may be eligible for resolution, or whether other action is required to preserve the orderly functioning of the Market.

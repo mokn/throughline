@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if any TradingView 1 minute candle for STRC between market creation and the listed date, 11:59 PM ET, has a final “High” value of at least $100. Otherwise, this market will resolve to "No."
+
+The resolution source for this market is TradingView, specifically the STRC “High” values available at https://www.tradingview.com/chart/?symbol=NASDAQ%3ASTRC, with the chart settings on "1m" for one-minute candles selected on the top bar.
+
+If, on the listed date at 11:59 PM ET, price data is unavailable from TradingView for any relevant period, price data from Wall Street Journal Markets, Google Finance, and MarketWatch will be used, in that order. If price data is not available for the relevant period from any of these sources, this market will resolve based on the available data at that time.

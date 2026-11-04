@@ -1,0 +1,8 @@
+This market will immediately resolve to “Yes” if any Bybit 1-minute candle for edgeX (EDGE/USDT) between the creation of this market and December 31, 2026, 23:59 ET has a final "High" or "Low" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, the market will resolve to “No”.
+
+The resolution source for this market is Bybit, specifically the EDGE/USDT “High” and "Low" prices available at:
+https://www.bybit.com/en/trade/spot/EDGE/USDT
+with the chart set to “1m” (one-minute candles) on the top bar.
+
+Only the Bybit EDGE/USDT price feed will be used.
+Prices from other exchanges, trading pairs, or spot markets will not be considered.

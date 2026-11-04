@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if the listed bank fails between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No.”
+
+For the purposes of this market, the listed bank will be considered to have “failed” if any of the following occurs under the bank’s applicable legal or regulatory framework, within the listed date range:
+
+- The listed bank’s primary banking regulator formally declares the institution insolvent or non-viable, or withdraws or revokes the bank’s license or authorization, and such determination initiates or directly results in resolution, liquidation, wind-down, or transfer actions.
+- The listed bank enters a court-ordered liquidation, statutory resolution regime, or regulator-mandated wind-down, including the use of resolution tools such as bail-ins, forced asset transfers, or the establishment of a bridge bank.
+- A government or resolution authority intervenes in a manner that wipes out or subordinates existing equity of the listed bank and transfers effective control of the bank to the state or a designated resolution authority, with continued operations dependent on official intervention.
+- The listed bank publicly defaults on a payment obligation, including derivatives margin, repo, or physical commodity delivery, and such default is formally acknowledged by the bank’s primary regulator or resolution authority and directly results in the initiation of resolution, liquidation, license withdrawal, or regulator-mandated transfer of the bank.
+- The listed bank is subject to a compulsory merger, acquisition, or transfer of all or substantially all of its assets and liabilities ordered or directed by its primary banking regulator or resolution authority due to the bank’s financial condition or to prevent failure, regardless of whether a formal insolvency declaration or immediate equity wipeout is publicly announced at the time of transfer.
+
+If there is a potential failure of the listed bank within this market’s date range and a qualifying regulatory or court action has occurred but has not yet been fully published by the relevant authority, this market may remain open until April 30, 2027, 11:59 PM ET to allow for confirmation. If no qualifying failure is confirmed by that date, this market will resolve to “No.”
+
+The primary resolution source for this market will be official statements, filings, or actions by the listed bank’s primary banking regulator or resolution authority; however, a consensus of credible reporting may also be used.

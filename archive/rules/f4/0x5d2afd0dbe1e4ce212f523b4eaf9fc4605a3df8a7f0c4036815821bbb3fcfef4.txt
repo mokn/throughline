@@ -1,0 +1,17 @@
+This market will resolve to "Yes" if the specified company is fully removed from the list entitled “Entities Identified as Chinese Military Companies Operating in the United States in Accordance with Section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021” by June 30, 2027, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+A qualifying removal occurs when the specified company named in the list on June 8, 2026 (available here: https://www.war.gov/News/Releases/Release/Article/4511232/dow-releases-list-of-chinese-military-companies-in-accordance-with-section-1260/) no longer appears on an updated official Section 1260H list. 
+
+A qualifying removal must be reflected in a subsequent list published by the U.S. Department of Defense in the Federal Register or on its official website, in an official DoD announcement or Federal Register notice of delisting.
+
+Removal of a subsidiary or affiliate entry while the specified company remains listed will not qualify. Removal of a company will qualify even if formerly affiliated subsidiaries remain listed as separate entries.
+
+An entity that ceases to appear solely due to renaming, merger with another listed entity, or transfer of the designation to a successor, parent, or affiliate entity will not be considered removed.
+
+A removal will qualify regardless of whether it is later retracted or withdrawn.
+
+For the purposes of this market, a company’s status will be entirely determined by its presence on the aforementioned list. If the enforcement of its designation is suspended without being removed from the aforementioned list, that will not qualify as a removal.
+
+If no qualifying announcement or list republishing occurs by June 30, 2027, 11:59 PM ET, this market will resolve to “No”.
+
+The resolution source for this market will be a consensus of credible reporting and official information from the Department of Defense (https://www.defense.gov) (a.k.a. Department of War, https://www.war.gov).

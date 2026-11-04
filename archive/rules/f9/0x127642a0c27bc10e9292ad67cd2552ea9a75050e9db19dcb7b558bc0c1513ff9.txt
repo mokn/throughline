@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if, for any week ending on or before December 31, 2026, the U.S. 30-year Fixed-Rate Mortgage (interest rate %) is equal to or beyond (equal to or above for ↑ HIGH rates, equal to or below for ↓ LOW rates) the listed rate, according to the Freddie Mac weekly Primary Mortgage Market Survey. Otherwise, this market will resolve to "No."
+
+The resolution source for this market will be Freddie Mac — specifically, the 30-year Fixed Rate Mortgage rates published through the weekly Primary Mortgage Market Survey, which can be viewed at https://www.freddiemac.com/pmms.
+
+This market will resolve as soon as the 30-year Fixed-Rate Mortgage is equal to or beyond the listed rate for a qualifying week, or once data for the final week ending on or before December 31, 2026 has been published. If no data for the final week ending on or before December 31, 2026 has been published by January 14, 2027, 11:59 PM, this market will resolve based on the available data at that time.
+
+Note: All published weekly levels of the 30-year Fixed-Rate Mortgage will be treated as final. Revisions to previously published data will not be considered.

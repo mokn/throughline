@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if any finalized daily supply APY datapoint for the Aave V3 USDC pool reported by DefiLlama is equal to or greater than the listed value for any date between the creation of this market and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+The APY value used for resolution is the "Daily" series displayed on the Supply APY chart, as shown by the "Total APY" figure when hovering over a datapoint. The pool referenced in this market is the USDC pool on Aave V3 on Ethereum mainnet, as identified by the resolution source URL below.
+
+A daily datapoint must be finalized before it is considered for this market (namely, once the next day's datapoint is published, the previous one is finalized).
+
+This market will resolve as soon as a qualifying figure is finalized, or once the datapoint for December 31, 2026 is finalized without the listed value having been met. If any data remains unpublished or unfinalized 2 calendar days (ET) after December 31, 2026 — for any reason, including unavailability of the resolution source — this market will resolve to "No". No substitute data source will be used.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after such data is first released to allow for corrections; this applies only to clerical or similar errors, not to DefiLlama differing from other sources. Otherwise, once a finalized daily datapoint has met or exceeded the listed value, this market will resolve to "Yes" regardless of subsequent revisions.
+
+The resolution source for this market is DefiLlama, specifically the Aave V3 USDC pool page available at https://defillama.com/yields/pool/aa70268e-4b52-42bf-a116-608b370f9501, as presented there by default with no filters applied and without additional rounding.

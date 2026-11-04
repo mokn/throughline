@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if the 2026 Word of the Year announced by Merriam-Webster contains the specified string of letters. Otherwise, this market will resolve to "No".
+
+The specified string must appear, in order and without interruption, within the Word of the Year as officially announced. Capitalization, spaces, hyphens, and punctuation will be disregarded when determining whether the string appears (e.g., "rage bait" contains "rage"). The string may appear anywhere within the Word of the Year, including as part of a larger word.
+
+Only the word or phrase officially named as the 2026 Word of the Year counts. Shortlisted words, runners-up, or other words highlighted in the announcement will not be considered. If more than one word or phrase is officially named as the 2026 Word of the Year, this market will resolve to "Yes" if any of them contains the specified string.
+
+If Merriam-Webster does not announce a 2026 Word of the Year by December 31, 2026, 11:59 PM ET, this market will resolve to "No".
+
+The primary resolution source for this market will be official information from Merriam-Webster; however, a consensus of credible reporting may also be used.

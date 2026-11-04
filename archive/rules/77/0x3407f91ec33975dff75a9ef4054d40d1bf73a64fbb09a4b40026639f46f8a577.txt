@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if either of the following conditions is met:
+
+1.  The seasonally adjusted annualized percent change in quarterly U.S. real GDP from the previous quarter is less than 0.0 for two consecutive quarters between Q2 2025 and Q4 2027 (inclusive), as reported by the Bureau of Economic Analysis (BEA). 
+
+2.  The National Bureau of Economic Research (NBER) publicly announces that a recession has occurred in the United States, at any point during 2025, 2026, or 2027, with the announcement made by the time the BEA releases the advance estimate for Q4 2027.
+
+Otherwise, this market will resolve to "No". 
+
+Note that advance estimates will be considered. For example, if upon release, the advance estimate for Q3 2026 was negative, and the Q2 2026's most recent, up-to-date estimate was also negative, this market would resolve to "Yes". If on December 31, 2027 the latest estimate for quarterly GDP in Q3 2026 was negative, this market will stay open until the Advance estimate of Q4 2027 is published, at which point it will resolve to "Yes" if Q4 2027 was negative or if the NBER declares a recession by then.
+
+This market will remain open until either i) one of the specified conditions is met; or ii) the GDP advance estimate for Q4 2027 is released. If the GDP advance estimate for Q4 2026 has not been released by June 30, 2028, 11:59 PM ET, this market will resolve based on the available releases at that time.
+
+The resolution source will be the official announcements from the NBER and the BEA’s estimate of seasonally adjusted annualized percent change in quarterly US real GDP from previous quarters as released by the Bureau of Economic Analysis (BEA), https://www.bea.gov/data/gdp/gross-domestic-product

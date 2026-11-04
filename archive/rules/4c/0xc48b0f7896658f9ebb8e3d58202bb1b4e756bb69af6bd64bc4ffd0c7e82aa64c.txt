@@ -1,0 +1,9 @@
+This market will resolve according to the listed entity, which is the first to reach an Arena Score of 1550+ on the Chatbot Arena LLM Leaderboard (https://lmarena.ai/) by December 31, 2026, 11:59 PM ET. 
+
+Results from the "Text Arena" section on the leaderboard/text tab of https://lmarena.ai/ with the style control unchecked (https://arena.ai/leaderboard/text/overall-no-style-control) will be used to resolve this market.
+
+If no company's model reaches 1550+ Arena Score by the specified time, this market will resolve to "None in 2026".
+
+If the first model to reach a 1550+ Arena Score belongs to any company other than the listed ones, this market will be resolved to "Other".
+
+The resolution source for this market is the Chatbot Arena LLM Leaderboard found at https://lmarena.ai/. If this resolution source becomes unavailable, the market will remain open until it is accessible again. If it becomes permanently unavailable, resolution will be based on another credible source.

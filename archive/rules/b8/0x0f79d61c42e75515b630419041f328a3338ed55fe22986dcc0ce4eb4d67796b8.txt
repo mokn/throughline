@@ -1,0 +1,7 @@
+This market will immediately resolve to “Yes” if any Binance 1-minute candle for Pump.fun (PUMP/USDT) between November 24, 2025, 17:00 and December 31, 2026, 23:59 in the ET timezone has a final “Low” price equal to or lower than the price specified in the title. Otherwise, this market will resolve to “No.”
+
+The resolution source for this market is Binance, specifically the PUMP/USDT “Low” prices available at:
+https://www.binance.com/en/trade/PUMP_USDT
+with the chart settings on “1m” (one-minute candles) selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance PUMP/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.

@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if any Binance 1 minute candle for ETH/USDT between 16 December '25 16:30 and 11:59PM ET on the date specified in the title has a final “High” price that is higher than any previous Binance 1 minute candle's "High" price on any prior date. Otherwise, this market will resolve to "No".
+
+The resolution source for this market is Binance, specifically the ETH/USDT "High" prices currently available at https://www.binance.com/en/trade/ETH_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.

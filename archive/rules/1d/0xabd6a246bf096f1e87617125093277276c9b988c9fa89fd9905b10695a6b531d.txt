@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if OpenAI's Codex experiences any incident classified as 'Partial/Full Outage' between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Codex will be considered to have experienced a qualifying incident on the specified day if the OpenAI Status Page for Codex (status.openai.com) displays that day’s status box as a shade of red indicating Partial/Full Outage once it is finalized. (green indicates "No incidents", yellow indicates "Degraded performance"). A day will be considered finalized once the following day’s status box is added on the Status Page.
+
+Only incidents listing Codex under 'Affected components' will be considered. Incidents labeled as affecting 'APIs,' 'ChatGPT,' 'FedRAMP,' or 'Ads Platform,' but not Codex, will have no bearing on the resolution of this market. The 'Codex in ChatGPT Desktop' component, listed under ChatGPT, is not part of Codex.
+
+This market will remain open until the December 31, 2026 status box is finalized and all incidents that began on that date have been resolved. Revisions that change an incident's impact classification to or from 'Partial/Full Outage' will be considered if the revision is published before the December 31, 2026 status box is finalized or before all incidents that began on that date have been resolved.
+
+This market will resolve once the December 31, 2026 status box is finalized, provided no incident that began on that date is ongoing. In case of an ongoing incident the market will remain open until the incident is marked as "Resolved" and all relevant data has been released. If the incident in question is not resolved or all relevant data has not been released by the end of the seventh day after December 31, 2026, this market will resolve based on the data available at that time.
+
+The primary resolution source for this market will be official system status information published by OpenAI on status.openai.com; however, a consensus of credible reporting may also be used.

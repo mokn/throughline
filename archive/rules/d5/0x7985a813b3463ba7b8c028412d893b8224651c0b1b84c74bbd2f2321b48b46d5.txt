@@ -1,0 +1,8 @@
+This market will resolve to “Yes” if the United Stablecoin market cap shown on DefiLlama is equal to or greater than $3B on any day by December 31, 2026. Otherwise, it will resolve to “No.”
+
+The resolution source is DefiLlama’s United Stablecoin page, available at:
+https://defillama.com/stablecoin/united-stables
+
+A data point on the DefiLlama "Total circ" chart is considered finalized once the data point for the following day is published.
+
+If the DefiLlama page becomes permanently unavailable, the market will resolve based on other credible and publicly verifiable sources.

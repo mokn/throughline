@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if the U.S. Energy Information Administration publishes a weekly figure for U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve less than or equal to the specified value after market creation for any week ending on or before October 30, 2026. Otherwise, this market will resolve to “No”.
+
+This market will resolve as soon as the listed value is reached, or once data has been released for the final week ending on or before October 30, 2026, and the listed value has not been reached.
+
+If data has not been released for the final week ending on October 30, 2026, by November 11, 2026, 11:59 PM ET, this market will resolve based on the data available at that time.
+
+The primary resolution source for this market will be the U.S. Energy Information Administration, specifically the weekly data published for the U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve at https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=WCSSTUS1&f=W.
+
+Note: this market’s resolution source publishes weekly values of U.S. Ending Stocks of Crude Oil in the Strategic Petroleum Reserve in thousands of barrels. Thus, this will be the level of specificity used to resolve this market.

@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if any orbital data center is successfully launched by the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+“Orbital data center” refers to any spacecraft, satellite, or equivalent technology carrying computing infrastructure that is launched into Earth’s orbit for the purpose of providing data-center, cloud-computing, or artificial intelligence computing services and which includes at least 100 data-center-grade AI accelerators, GPUs, TPUs, or substantially equivalent compute processors, (e.g. NVIDIA H100 GPUs, Google TPUs, or equivalent or successor chips).
+
+“Successfully launched” refers to any launch which successfully places a qualifying orbital data center into Earth’s orbit.
+
+The primary resolution source for this market will be a consensus of credible reporting.

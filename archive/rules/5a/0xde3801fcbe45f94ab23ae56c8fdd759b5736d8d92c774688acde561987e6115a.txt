@@ -1,0 +1,9 @@
+This is a market about the variation of consumer prices over the 12-month period ending December 2026 in Canada, before seasonal adjustment, as reported by Statistics Canada.
+
+This market will resolve according to the percentage change in the Consumer Price Index (CPI) over the 12-month period ending December 2026 according to the monthly Statistics Canada report.
+
+The resolution source for this market will be the Statistics Canada Consumer Price Index monthly report released for December 2026 (https://www.statcan.gc.ca/en/start), currently scheduled to be released on January 18, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+Once available, you can find this report by clicking on the "Major Economic Indicators" heading on the home page of https://www.statcan.gc.ca/en/start and selecting the “Consumer Price Index” report for the relevant month. The relevant figure can be found in “Table 1” under the "% change" column for the relevant month and year compared to the same month of the previous year.
+
+Note: the resolution source for this market will be the official monthly Statistics Canada CPI news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://www150.statcan.gc.ca/n1/dai-quo/cal1-eng.htm?sk=3665

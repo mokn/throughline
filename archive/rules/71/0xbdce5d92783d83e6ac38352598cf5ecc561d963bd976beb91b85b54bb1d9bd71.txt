@@ -1,0 +1,9 @@
+This market resolves based on when the water level at the Budapest gauge (station HU442027) first reaches or exceeds 93 centimeters, as reported by the International Commission for the Protection of the Danube River (ICPDR) via DanubeHIS. A reading of 93 centimeters or higher is the Danube Commission's official Low Water Level (LDC) threshold for Budapest, the minimum acceptable navigation level, and defines "normal levels" for this market.  
+
+"Does not return by January 1, 2027" resolves "Yes" if no reading at or above 93 centimeters is recorded at the Budapest gauge at any time on or before December 31, 2026 11:59 PM ET. Readings after this cutoff are not considered, and any return to normal levels occurring on or after January 1, 2027 does not affect resolution.
+
+The resolution is triggered by the first reading at or above 93 centimeters recorded on or after the market's start, representing a rise back to the threshold. A single reading at or above 93 centimeters is sufficient to trigger resolution; transient spikes count, and the water level does not need to be sustained at or above 93 centimeters for any period.
+
+The bracket containing the timestamp of the first reading at or above 93 centimeters resolves "Yes"; all other brackets resolve "No". All dates and times in this market refer to Eastern Time (ET).
+
+The primary resolution source for this market will be DanubeHIS (https://www.danubehis.org/results/HU442027_HYDRO). If DanubeHIS is unavailable, this market may resolve based on a consensus of credible reporting.

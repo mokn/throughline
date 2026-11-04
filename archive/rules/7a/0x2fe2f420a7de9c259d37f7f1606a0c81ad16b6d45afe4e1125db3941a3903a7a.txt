@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if an earthquake with a magnitude of 6.5 or greater occurs within a 50-mile radius of Los Angeles, California (34.0522° N, 118.2437° W) between market creation and December 31, 2026 at 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+The resolution source for this market is the United States Geological Survey (USGS) Earthquake Map (https://earthquake.usgs.gov/earthquakes/map/?extent=32.54681,-121.05835&extent=35.63944,-114.90601).
+
+For the purposes of this market, The epicenter must fall within 50 miles of Los Angeles (34.0522° N, 118.2437° W), calculated as a straight-line distance from the epicenter to the reference point.
+
+If an earthquake of substantial size has occurred within this market's timeframe but not yet appeared on the resolution source, this market may remain open until January 7, 2027, 11:59 PM ET, or until the earthquake in question otherwise appears on the resolution source. If such an earthquake has not appeared on the resolution source by that date, another credible resolution source will be used.

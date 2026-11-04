@@ -1,0 +1,17 @@
+This market will resolve based on Stripe's market capitalization at the closing price on its first day of trading.
+
+If no such IPO occurs by December 31, 2027, 11:59 PM ET, the market will resolve to "No IPO by December 31, 2027".
+
+Market capitalization expresses the monetary value of a company’s outstanding shares, stated in its pricing currency.
+
+It is calculated as the total number of outstanding shares, multiplied by the official closing share price of the publicly traded class on the first trading day.
+
+If necessary, to accurately capture the company’s total market capitalization, rather than a stock-class-specific market capitalization, the calculation will include all outstanding share classes and apply any stated conversion ratios to the publicly traded class. Where no conversion right exists, such shares will be counted at their stated outstanding amount without discount, unless official filings explicitly specify differently.
+
+The number of outstanding shares will be determined from official company filings or disclosures (e.g., SEC filings). The closing share price on the first trading day will be determined from the primary exchange’s official listing page.
+
+If the relevant value falls exactly between two brackets, this market will resolve to the higher range bracket.
+
+The primary resolution source for this market will be official company filings and the primary exchange’s official listing page. The market capitalization will be determined through appropriate calculation using the total outstanding shares and the closing price from the first day of trading.
+
+In the event of an interruption in the normal trading session on the specified company’s first day of trading (e.g., a circuit breaker or half-day), the market will resolve according to the official closing price of the abbreviated session. If no such official closing price is published, the market will resolve according to the next trading day on which an official closing price is published, treating that day as the first day of trading for the purposes of this market.

@@ -1,0 +1,11 @@
+This market will resolve according to the estimate of UK real gross domestic product (GDP) across the year of 2026 (% change) in the "GDP First quarterly estimate, UK" release for October-December (Q4) of 2026, scheduled for February 12, 2027.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The GDP release will be made available here: https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/previousreleases
+
+The estimate of UK real GDP across the year of 2026 is an estimate of the rate at which real GDP changed, on average, throughout the year of 2026. The relevant figure may be found in “Table 1: Headline national accounts indicators for the UK” under “GDP (Chained Volume Measures)” for the relevant year, or elsewhere in the release.
+
+If no data for the estimate of UK real gross domestic product (GDP) across the year of 2026 is included in this release, this market will resolve according to the rate at which UK real gross domestic product (GDP) changed in Q4 compared with the same quarter of the previous year. If neither figure is released by the date the next quarter's GDP first quarterly estimate is scheduled to be released, this market will resolve based on quarterly data (compared to the same quarter in the previous year) from the last available quarter.
+
+Note: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution.

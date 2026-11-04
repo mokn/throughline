@@ -1,0 +1,13 @@
+This market will resolve to "Yes" if the number of Senators voting "Yea" on the first Senate vote on final passage of crypto market structure legislation occurring before January 1, 2027 is above the number specified in this market's title. Otherwise, this market will resolve to "No".
+
+"Above" means strictly greater than the number specified in the title. For example, a market titled "Above 58" will resolve to "Yes" only if 59 or more Senators vote "Yea".
+
+For purposes of this market, "crypto market structure legislation" is defined identically to Polymarket's "Crypto Market Structure legislation becomes law in 2026?" market: https://polymarket.com/event/crypto-market-structure-legislation-becomes-law-in-2026-20260727223933088
+
+The qualifying vote must be a vote on final passage of the bill conducted in the full Senate - not a committee vote, and not a vote on a motion to proceed, a motion to invoke cloture, or an amendment. Not every Senator needs to have participated in the vote. The first vote on final passage will be used for resolution regardless of whether the bill passes on that vote; subsequent votes on passage — including any re-vote following a motion to reconsider, or a vote on a conference report or House-amended version — will not be considered.
+
+If no qualifying vote occurs before January 1, 2027, this market will resolve to "No". If qualifying legislation passes the Senate before January 1, 2027 without a prior recorded vote on final passage (e.g., passage by voice vote or unanimous consent), this market will resolve to "Yes" regardless of the number specified in this market's title.
+
+Once the result of the vote has been announced, any subsequent request by a Senator to add, remove, or change a vote will not be considered for purposes of this market, regardless of any change to the official vote tally.
+
+This market will resolve according to official records of the U.S. Senate (http://senate.gov) and Library of Congress (http://congress.gov).

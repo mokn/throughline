@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if Japan’s seasonally adjusted quarter-on-quarter percent change in real GDP (Quarterly Real Growth Rate, Seasonally Adjusted Series, Quarter-to-Quarter), as reported by the Cabinet Office, is less than 0.0 for two consecutive quarters between Q4 2025 and Q4 2026. Otherwise, this market will resolve to “No”.
+
+This market includes estimates reported in both the Cabinet Office’s Quarterly Estimates of GDP (First Preliminary Estimates) and Quarterly Estimates of GDP (Second Preliminary Estimates) releases for the relevant quarters.
+
+This market’s resolution will be based on the most recently available qualifying estimates for the relevant quarters at the time of each relevant release. Any two consecutive quarters with qualifying negative GDP growth will be sufficient for a “Yes” resolution, regardless of prior or later revisions.
+
+For example, if upon release the relevant estimate for Q2 2026 is negative, and Q1 2026’s most recently available qualifying estimate is also negative, this market will resolve to “Yes”. If the relevant estimate for Q2 2026 is negative, and the initial estimate for Q1 2026 was negative, but Q1 2026’s most recently available qualifying estimate at the time of the Q2 release is positive, this will not qualify.
+
+This market will resolve as soon as a qualifying recession occurs. If no qualifying recession has occurred and the most recently available qualifying estimates for both Q3 2026 and Q4 2026 are positive at the time of the release of the Quarterly Estimates of GDP (First Preliminary Estimates) for Q4 2026, this market will resolve to “No” at that time. If the most recently available qualifying estimate for either Q3 2026 or Q4 2026 is negative at that time, this market will remain open until the Quarterly Estimates of GDP (Second Preliminary Estimates) for Q4 2026 is published. If that release is not published by April 30, 2027, 11:59 PM ET, this market will resolve based on the available qualifying data at that time.
+
+The resolution source for this market will be the Cabinet Office, specifically its Quarterly Estimates of GDP (First Preliminary Estimates) and Quarterly Estimates of GDP (Second Preliminary Estimates) releases for the relevant quarters.
+
+Note: January to March will be considered Q1, April to June will be considered Q2, July to September will be considered Q3, and October to December will be considered Q4.

@@ -1,0 +1,9 @@
+This market will resolve according to the second-highest ranked Company based on the arena.ai Code Arena | WebDev Leaderboard when the table under "Code Arena | WebDev" filtered for "Labs" is checked on December 31, 2026, 12:00 PM ET.
+
+Results from the "Lab Rank" column under the "Code Arena | WebDev" Leaderboard tab at https://arena.ai/leaderboard/code/webdev?rankBy=labs (Overall) filtered for "Labs" will be used to resolve this market.
+
+Note: Models marked “AutoEval” at the applicable check time will not be considered, regardless of whether they display a rank or score.
+
+AI companies will be ordered primarily by their Lab Rank at the market’s check time. If the results based on the lab ranking are ambiguous or unavailable, the relevant AI companies will be ordered according to their highest-ranking AI model in the leaderboard’s “Models” view. If two or more models are tied on rank, they will be ordered by which model is listed higher on the leaderboard. If a tie still remains, alphabetical order of AI lab/company names as listed in this market group will be used as a final tiebreaker (e.g., “Google” would be ranked ahead of “SpaceXAI”). This market will resolve based on the company that occupies second place under this ranking.
+
+The resolution source for this market is the arena.ai Code Arena | WebDev Leaderboard. If this resolution source is unavailable at check time, this market will remain open until the leaderboard comes back online and will resolve based on the first check after it becomes available. If it becomes permanently unavailable, this market will resolve to "Other".

@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if a natural meteoroid (bolide) explodes in Earth's atmosphere with a total impact energy greater than or equal to 10 kilotons of TNT equivalent between January 1 and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+The object must be classified as a natural meteoroid; events involving artificial objects or reentry vehicles do not qualify.
+
+The primary resolution source will be the NASA JPL Fireball and Bolide Data repository: https://cneos.jpl.nasa.gov/fireballs/. The relevant field for determining impact energy is the “Impact Energy (kt)” column. If this dataset has not been updated to include all relevant dates by February 28, 2027, or if the NASA JPL Fireball and Bolide Data repository becomes permanently unavailable, this market may resolve based on a consensus of credible sources including the European Space Agency (ESA), the International Asteroid Warning Network (IAWN), the U.S. Department of Defense, or credible reporting of a scientific consensus, such as a NASA press release.

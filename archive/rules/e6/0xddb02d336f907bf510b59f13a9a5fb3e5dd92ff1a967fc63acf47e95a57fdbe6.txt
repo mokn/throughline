@@ -1,0 +1,9 @@
+This is a market about the variation of consumer prices in the Eurozone over the 12-month period ending December 2026 as reported by Eurostat.
+
+This market will resolve according to the percentage change in the Harmonised Index of Consumer Prices (HICP) over the 12-month period ending December 2026, according to the monthly Eurostat report.
+
+The resolution source for this market will be the Eurostat Harmonised Index of Consumer Prices monthly report released for December 2026, currently scheduled to be released on January 19, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+You can find this report on the Eurostat website (https://ec.europa.eu/eurostat/en/) by selecting the "Database" option from the "Data" dropdown, opening the "Data navigation tree" folder, then the "Economy and finance" folder, then the "Prices (prc)" folder, then the "Harmonised index of consumer prices (HICP) (prc_hicp)" folder, and opening the file named "HICP - monthly data (annual rate of change) (prc_hicp_manr)". The relevant figure can be found in the column for the relevant month in the row marked "Euro area - 20 countries (from 2023)".
+
+Note: the resolution source for this market will be the official monthly Eurostat HICP news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://ec.europa.eu/eurostat/web/main/news/release-calendar or https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html

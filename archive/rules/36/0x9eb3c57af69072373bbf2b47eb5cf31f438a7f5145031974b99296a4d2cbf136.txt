@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if Grok (Web) experiences an incident labeled “outage” on the official xAI Grok (Web) status page between market creation and the listed date (ET). Otherwise, this market will resolve to “No.”
+
+Only incidents listed under Grok (Web) will be considered. Incidents affecting Grok in X, Grok (iOS), Grok (Android), or similar but not Grok (Web), will not qualify.
+
+Incidents labeled “disruption” or “info” will not qualify. 
+
+An incident’s status while it remains ongoing will not determine the market’s resolution; only incidents marked “Resolved” will be considered.
+
+An incident which is marked "Resolved" outside this market’s timeframe will only qualify if ongoing at the end of the listed calendar date (ET), in which case the market will remain open until that incident is marked “Resolved,” and resolution of this market will be based on the incident classification displayed immediately after it is marked "Resolved."
+
+The primary resolution source for this market will be the official xAI Grok (Web) status page at https://status.x.ai/grok-com. If this resolution source is unavailable at check time, this market will remain open until it comes back online and resolve based on the first check after it becomes available. If it becomes permanently unavailable, this market will resolve to "No".

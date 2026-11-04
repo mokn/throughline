@@ -1,0 +1,13 @@
+This market will resolve according to the implied equity valuation of OpenAI at its initial public offering (IPO) price. 
+
+The IPO valuation is defined as the final IPO price per share multiplied by the total number of shares outstanding on a fully diluted basis, as disclosed in the final prospectus filed with the U.S. Securities and Exchange Commission.
+
+The IPO price will be the final offering price to the public as stated in the final prospectus. Trading prices after listing, including the opening trade, intraday prices, or closing price on the first day of trading, will not be considered.
+
+Indicated or preliminary price ranges, including any ranges disclosed in earlier filings or amendments, will not be considered.
+
+If the calculated valuation falls exactly on a boundary between two ranges, this market will resolve to the higher range.
+
+If OpenAI does not complete an IPO by December 31, 2027, 11:59 PM ET, this market will resolve to the lowest bracket.
+
+The primary resolution source will be the final prospectus filed with the SEC; however, a consensus of credible reporting may also be used.

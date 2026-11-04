@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if the market capitalization of The Black Bull (ANSEM) surpasses that of Pump.fun (PUMP) according to CoinGecko at any point between market creation and the date specified in the title, timezone ET. Otherwise, this market will resolve to “No”.
+
+This market will resolve based on CoinGecko's data for each coin, currently available at https://www.coingecko.com/en/coins/the-black-bull and https://www.coingecko.com/en/coins/pump-fun, respectively.
+
+If CoinGecko stops showing relevant data, data from CoinMarketCap will be used instead.

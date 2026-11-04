@@ -1,0 +1,7 @@
+This market will immediately resolve to "Yes" if the USDT marketcap is equal to or greater than the value specified in the title on any day by December 31, 2026. Otherwise, this market will resolve to "No."
+
+This market will resolve based on CoinGecko's "historical data" section for USDT, currently available at https://www.coingecko.com/en/coins/tether/historical_data#panel respectively, specifically the daily "Market Cap" data.
+
+The daily market cap data for any given date will be considered finalized once data for the following calendar day is published on CoinGecko’s “Historical Data” page.
+
+This market will resolve based on the specified CoinGecko chart, not according to other sources or spot markets.

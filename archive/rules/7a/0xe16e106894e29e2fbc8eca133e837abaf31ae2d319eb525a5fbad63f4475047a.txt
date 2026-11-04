@@ -1,0 +1,11 @@
+The US House of Representatives midterm elections are scheduled to be held on November 3, 2026.
+
+This market will resolve according to the total number of votes cast for U.S. House candidates in the 2026 US House of Representatives midterm elections.
+
+Only votes cast for candidates for U.S. Representative (voting members of the House of Representatives from districts in the 50 states) will be considered; votes for Delegates and the Resident Commissioner will not be considered.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+If the US House of Representatives midterm elections do not take place by June 30, 2027, 11:59 PM ET, this market will resolve to "Other".
+
+The resolution source for this market will be the 2026 midterm election results published by the US Clerk of the House (https://history.house.gov/Institution/Election-Statistics/). If the 2026 midterm elections take place, and the Clerk of the House does not publish the results of this election by June 30, 2027, 11:59 PM ET, another credible resolution source may be chosen.

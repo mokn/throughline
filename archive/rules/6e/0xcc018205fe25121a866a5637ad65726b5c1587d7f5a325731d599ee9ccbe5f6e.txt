@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if any US bank fails between this market's creation and the listed date, 11:59 PM ET (according to the FDIC's "Failed Bank List"). Otherwise, this market will resolve to "No".
+
+For this market to resolve to "Yes", the bank's closing date as listed by the FDIC must be within this market's above-specified timeframe. If there is a potential bank failure within this market's timeframe and the FDIC "Failed Bank List" has not been updated yet, this market may remain open to allow for the list to be updated.
+
+The primary resolution source for this market will be the Federal Deposit Insurance Corporation (FDIC), specifically the "Failed Bank List" available here: https://www.fdic.gov/resources/resolutions/bank-failures/failed-bank-list/; however, other official statements from the FDIC and government entities will suffice.

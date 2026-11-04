@@ -1,0 +1,8 @@
+This market will immediately resolve to “Yes” if any Hyperliquid 1-minute candle for Kinetiq (KNTQ/USDC) between January 25, 2026, 14:25 and December 31, 2026, 23:59 ET has a final “High” price equal to or greater than the price specified in the title. Otherwise, the market will resolve to “No.”
+
+The resolution source for this market is Hyperliquid, specifically the KNTQ/USDC “High” prices available at:
+https://app.hyperliquid.xyz/trade/KNTQ/USDC
+with the chart set to “1m” (one-minute candles) on the top bar.
+
+Only the Hyperliquid KNTQ/USDC price feed will be used.
+Prices from other exchanges, trading pairs, or spot markets will not be considered.

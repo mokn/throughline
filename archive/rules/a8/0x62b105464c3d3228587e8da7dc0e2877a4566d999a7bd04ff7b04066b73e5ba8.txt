@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if a writ calling for a parliamentary by-election in a UK parliamentary constituency is issued by the UK Clerk of the Crown in Chancery by the specified date, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+The issuance of a writ must be confirmed within the specified timeframe to qualify.
+
+Only a writ issued after market creation will count. The writ for the Holborn and St Pancras by-election, issued prior to market creation, will not qualify.
+
+The primary resolution source for this market will be official information from the government of the United Kingdom, including the UK Parliament and the relevant local government conducting the election; however a consensus of credible reporting will also be used.

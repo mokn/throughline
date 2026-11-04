@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the listed company announces that it has paused or will pause all training of AI models over safety, alignment, or security concerns by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+A full training pause means the company halts all training for its AI models, including pre-training, fine-tuning, and reinforcement learning, across the company. Pauses limited to particular models, training methods, training environments, or teams will not qualify. A full pause of any stated duration qualifies. Continued deployment or serving of existing models does not prevent a pause from qualifying.
+
+A qualifying announcement must be made through the listed company's official channels or by an authorized representative acting in an official capacity, and must state that all training has been or will be paused. The company must itself attribute the pause, at least in part, to safety, alignment, or security concerns. Statements that describe slowing development, pausing some training, or considering a pause will not qualify.
+
+If a qualifying announcement is made within this market's timeframe, this market will resolve to "Yes" regardless of whether the pause is actually carried out, is later modified or withdrawn, or training later resumes. The primary resolution source for this market will be official information from the listed company; however, a consensus of credible reporting may also be used.

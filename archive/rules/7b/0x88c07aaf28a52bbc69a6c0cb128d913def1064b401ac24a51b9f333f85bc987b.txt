@@ -1,0 +1,11 @@
+An official announcement from Anthropic that it will IPO under a specific ticker symbol will be sufficient to resolve this market. 
+
+If a ticker used by Anthropic in a qualifying IPO is a variant of a ticker symbol listed in this market group with additional letters to denote a specific class of shares, it will be considered to be that ticker (e.g. if Anthropic uses a ticker symbol of $ANTH.A or $ANTHA, this market will resolve to $ANTH). 
+
+If Anthropic announces an IPO with multiple tickers that are not considered the same ticker under the previous rule (i.e. $ANTH.A and $ANTH.B would be considered the same ticker), this market will remain open until Anthropic's first day of public trading and will resolve according to the ticker symbolizing the security class with the greatest market capitalization. Market capitalization is calculated as the number of shares outstanding multiplied by the closing share price on the first trading day. If this also results in a tie, this market will resolve according to the ticker symbol that comes first in alphabetical order. 
+
+If Anthropic IPOs with a non-listed ticker, or does not IPO or officially announce an IPO and ticker symbol by December 31, 2027, 11:59 PM ET, this market will resolve to "Other." 
+
+The primary resolution source for this market will be official information from Anthropic and the primary exchange's official listing page. In the event that the relevant figure is not displayed, another reliable source will be used. 
+
+Note: In the event of an interruption in the course of the normal trading session on Anthropic's first day of trading (e.g., a circuit breaker or half-day), the market will use the official closing price of the abbreviated session. If no such official closing price is published, the market will use the closing price on the next trading day for which an official closing price is published, treating that as the first day of trading for purposes of this market.

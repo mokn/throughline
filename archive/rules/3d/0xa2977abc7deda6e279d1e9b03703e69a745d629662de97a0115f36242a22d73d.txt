@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if any S&P 500 company announces between November 4, 12:00 PM ET, and 11:59 PM ET on the date specified in the title that they bought Bitcoin for the first time. Otherwise, this market will resolve to "No".
+
+This announcement can pertain to a first purchase of Bitcoin outside of the timeframe of this market (e.g. if a qualifying company announces it made its first purchase of Bitcoin prior to this market's timeframe, but the announcement is made within the timeframe, this market will resolve to "Yes").
+
+The primary resolution source will be official announcements from qualifying companies; however, a consensus of credible reporting will also be used.

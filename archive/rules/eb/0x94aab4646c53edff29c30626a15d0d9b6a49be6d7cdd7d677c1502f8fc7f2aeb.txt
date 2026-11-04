@@ -1,0 +1,9 @@
+The 2026 midterm elections are scheduled to be held on November 3, 2026.
+
+This market will resolve to "Yes" if the specified 2026 Senate race has a margin of victory of 1% or less. Otherwise, this market will resolve to "No". 
+
+For the purpose of this market, the “margin of victory” is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.
+
+For elections that include runoffs, ranked-choice, or other multi-round elections, the relevant margin of victory will be that of the round in which the winner is determined. 
+
+The resolution source for this market will be the state election authority of the specified state, however, a consensus of credible reporting may also be used.

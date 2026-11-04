@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if OpenAI makes a GPT Astra model designated 6.1 or higher available to the general public between market creation and the specified date (ET). Otherwise, this market will resolve to "No".
+
+A qualifying model must be an OpenAI model designated as version 6.1 or higher that includes "Astra" in its name or model identifier, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, GPT-6.1 Astra, Astra 6.1, or GPT Astra 7 would all qualify. GPT-6 Astra, including any rollout, promotion, Pro or Fast mode, or snapshot of it, will not qualify. Tier-labeled models such as GPT-5.6 Sol, GPT-5.6 Terra, or GPT-5.6 Luna and their successors, and task-specific or modality lines such as GPT-5.6-Cyber, Daybreak models, Codex, GPT Image, or Realtime models, will not qualify.
+
+A qualifying model must be launched and publicly accessible, including via open beta or open rolling waitlist signups. A closed beta or any form of private access will not suffice. The release must either be clearly defined and publicly announced by OpenAI as accessible to the general public, or otherwise be made publicly accessible and explicitly labeled on the company's official website. Labeling errors, placeholder text, or version names displayed on the website that do not correspond to a model that is actually accessible to the general public will not qualify.
+
+The primary resolution source for this market will be official information from OpenAI, with additional verification from a consensus of credible reporting.

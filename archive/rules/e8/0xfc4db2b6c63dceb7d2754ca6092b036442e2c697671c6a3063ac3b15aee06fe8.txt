@@ -1,0 +1,13 @@
+This market will resolve to "Yes" if, at any point between market creation and December 31, 2026, 11:59 PM ET, the standard output token price of OpenAI's frontier model is equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the price specified in the title, in USD per million tokens. Otherwise, this market will resolve to "No".
+
+OpenAI's frontier model means the model with the highest score in the "Artificial Analysis Intelligence Index" (AAII) column of the model leaderboard at https://artificialanalysis.ai/leaderboards/models among entries listing OpenAI as the "Creator". The "Status" filter must be set to "Current", with "Weights", "Size", "Price", and "Reasoning" set to "All".
+
+Only models with a standard output token price listed on OpenAI's official API pricing page will be considered. Only models that are publicly accessible, including via open beta or open rolling waitlist signups, will be considered; models available only through a closed beta or any form of private or limited access will not qualify. 
+
+Where the leaderboard lists one model under several reasoning-effort or configuration settings, those entries count as the same model and its highest displayed score applies. If two or more qualifying models share the highest displayed score, all respective standard output token prices of those models will be considered. Scores will be taken as displayed under the index, regardless of any underlying granular or unrounded data published elsewhere.
+
+The relevant price is the “Standard” output token price on OpenAI’s official API pricing page, using the “Short context” rate where context-based pricing differs. Prices for batch, flex, fast mode, priority, long-context, cached, or regional and data-residency variants will not be considered. Any promotional, temporary, or volume-discount pricing will not be used for resolution; only the standard listed API price applies.
+
+A price qualifies only while the model meets the frontier definition above, after market creation. A later leaderboard appearance or score change will not cause an earlier price to qualify.
+
+The resolution sources for this market will be the Artificial Analysis leaderboard for model scores and OpenAI's official API pricing page (https://developers.openai.com/api/docs/pricing) for prices. Official announcements and archived copies of these pages may be used to confirm the scores, prices, and when they were displayed; a consensus of credible reporting may also be used.

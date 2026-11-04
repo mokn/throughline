@@ -1,0 +1,11 @@
+This market will resolve to "Up" if the population of Canada in the 4th quarter of 2026 is greater than the population of Canada in the 4th quarter of 2025.
+
+This market will resolve to "Down" if the population of Canada in the 4th quarter of 2026 is less than the population of Canada in the 4th quarter of 2025.
+
+If the population in the 4th quarter of 2025 and the population in the 4th quarter of 2026 are exactly equal, this market will resolve to 50-50.
+
+If the relevant quarterly population estimate release is not available by April 30, 2027, 11:59PM ET, this market will resolve to 50-50.
+
+The resolution source for this market will be the quarterly population estimates release for the 4th quarter of 2026 from StatCan (https://www.statcan.gc.ca/en/start). 
+
+Note: data from the initial release of the referenced population estimate report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to population estimate report data made after the initial release of the specified report will not be considered for this market's resolution.

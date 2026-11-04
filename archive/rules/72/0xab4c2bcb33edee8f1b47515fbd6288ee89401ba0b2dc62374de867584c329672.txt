@@ -1,0 +1,13 @@
+The 2026 midterm elections are scheduled to be held on November 3, 2026.
+
+This market will resolve according to the state, out of those listed, in which the Republican Senate candidate earns the lowest vote share percentage in the midterm election.
+
+Vote share percentages will be determined by dividing the total number of valid votes for each candidate by the sum of all valid votes cast in the election.
+
+For elections that include runoffs, ranked-choice, or other multi-round elections, the relevant vote share will be that of the last-reported round containing a Republican, and only non-exhausted ballots will be considered to be valid in that round. In the event that such a round contains multiple Republicans, the relevant vote share will be that of the Republican with the higher vote share.
+
+If two vote shares are identical, this market will rank the tied states in alphabetical order.
+
+In the event that the relevant vote share for a state cannot be determined by March 31, 2027, that state will not be considered for purposes of this market.
+
+The resolution source for this market will be a compilation of all of the relevant state election authorities responsible for certifying statewide elections, however, a consensus of credible reporting may also be used.

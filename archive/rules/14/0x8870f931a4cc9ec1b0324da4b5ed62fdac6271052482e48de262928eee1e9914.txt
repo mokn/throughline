@@ -1,0 +1,15 @@
+This market will resolve according to the lowest daily mean lake elevation, in feet above the National Geodetic Vertical Datum of 1929, recorded at the Great Salt Lake at Saltair Boat Harbor, UT gage (USGS site 10010000) between January 1 and December 31, 2026, as published by the United States Geological Survey (USGS) for parameter code 62614. Exactly one outcome in this market will resolve to "Yes".
+
+The lowest daily reading in the year decides this market, including readings already recorded earlier in 2026; the level does not need to be sustained. If USGS does not publish a reading for one or more days, this market will resolve according to the lowest reading among the days that are published.
+
+USGS reports lake elevation at this gage to 1 decimal place, and values will be used exactly as published, without rounding. Should USGS publish a value carrying more decimal places, it will first be rounded half up to 1 decimal place, so that 4,189.45 ft becomes 4,189.5 ft. The ranges cover consecutive one-decimal values and leave none out, so every reading falls in exactly one range: a lowest reading of exactly 4,189.3 ft resolves the range beginning at 4,189.3 ft to "Yes" and every other range to "No".
+
+This market will resolve on the values published at the time of resolution, whether flagged provisional ("P") or approved ("A"); revisions published afterward will not be considered, except where the correction provision below applies.
+
+If any data remains unpublished or unfinalized, this market will remain open for up to 2 calendar days (ET) after December 31, 2026; it will then resolve based on the finalized data published up to that point.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after such data is first released to allow for corrections; this applies only to clerical or similar errors, not to USGS differing from other sources.
+
+If the source is unavailable, this market may be extended to January 15, 2027, 11:59 PM ET. If no data for the window is available by then, this market will resolve to "Below 4,189.3 ft".
+
+The primary resolution source for this market will be the USGS Daily Values service for site 10010000; however, a consensus of credible reporting may also be used. The service is available here: https://waterservices.usgs.gov/nwis/dv/?sites=10010000&parameterCd=62614&startDT=2026-01-01&endDT=2026-12-31&format=rdb

@@ -1,0 +1,12 @@
+This market will resolve to "Yes" if a tapered issuance burn is activated on the Ethereum mainnet by 11:59 PM ET on the date specified in the title. Otherwise, this market will resolve to "No".
+
+A tapered issuance burn means a consensus-layer change to the Ethereum protocol, as described in EIP-8361 or any renumbered, revised, or successor proposal, that satisfies all of the following:
+- The change charges validators a deduction against consensus-layer issuance (staking rewards), with the deducted ETH permanently destroyed rather than redirected to any other party.
+- The size of the deduction increases with Ethereum's staking ratio (the share of total ETH supply that is staked), such that the net issuance incentive to stake declines toward zero as the staking ratio approaches a defined saturation level.
+- The change is live and enforced on the Ethereum mainnet by the date specified in the title.
+
+Changes to the parameters described in EIP-8361 as drafted (including the burn formula, saturation level, transition schedule, or base reward factor) will not affect resolution, provided the criteria above are met. A change to Ethereum's issuance schedule or reward curve that does not involve burning ETH as a function of the staking ratio does not qualify. Proposals, drafts, EIP status changes, client releases, testnet activations, or inclusion in a planned fork specification do not qualify on their own.
+
+To qualify, the upgrade must be activated on the canonical Ethereum network, the chain recognized by the majority of validators and economic activity. Implementation on minority forks or alternative chains does not qualify. "Activated" means the upgrade has reached the point at which its rules are enforced on Ethereum mainnet blocks under consensus rules, following any scheduled fork activation. Once activated, a subsequent reversal or rollback of the upgrade will not change resolution.
+
+The resolution source will be the Ethereum blockchain, in addition to a consensus of credible reporting.

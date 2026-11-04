@@ -1,0 +1,5 @@
+This market will resolve to “Yes” if any TradingView 1 minute candle for CRYPTOCAP:OTHERS between November 3, 2025, 11:00 AM ET and December 31, 2026, 11:59 PM ET has a final “Low” price equal to or lower than the price specified in the title. Otherwise, this market will resolve to “No.”
+
+The resolution source for this market is TradingView, specifically the CRYPTOCAP:OTHERS “Low” prices available at https://www.tradingview.com/chart/?symbol=CRYPTOCAP%3AOTHERS, with the chart settings on “1m” and “Candles” selected on the top bar.
+
+Please note that this market depends solely on price data from the TradingView CRYPTOCAP:OTHERS chart. Prices from other sources, indices, or exchanges will not be considered for the resolution of this market.

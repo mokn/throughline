@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the World Health Organization officially declares a Public Health Emergency of International Concern covering plague, Yersinia pestis, pneumonic plague, or any plague outbreak between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Only a determination that constitutes a Public Health Emergency of International Concern under the International Health Regulations will qualify. Other designations will not be considered, including the convening of an Emergency Committee, a Disease Outbreak News publication, a grade assigned under the WHO Emergency Response Framework, and a characterization of the outbreak as a pandemic.
+
+A Public Health Emergency of International Concern already in effect at market creation does not qualify; the declaration must occur between market creation and the specified date.
+
+The primary resolution source for this market will be official information from the WHO; however, a consensus of credible reporting may also be used.

@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if a marketwide circuit breaker is triggered on the New York Stock Exchange (NYSE) at any time between November 7, 2025, and December 31, 2026. Otherwise, this market will resolve to “No”.
+
+A marketwide circuit breaker is defined as a trading halt that is initiated due to significant declines in the S&P 500 Index, specifically a Level 1, Level 2, or Level 3 halt as per NYSE rules.
+
+The primary resolution source for this market will be official information from the NYSE, however a consensus of credible reporting will also be used.

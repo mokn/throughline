@@ -1,0 +1,5 @@
+This market will resolve according to the median home value for all property types in the Los Angeles Metro area on December 31, 2026.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The resolution source will be official data from the Parcl Labs Sales Price Index for the Los Angeles Metro area (Parcl_ID: 2900078). The settlement price will be calculated by multiplying the published price index value (price per square foot) by 1900 square feet, which is the median home size in the Los Angeles Metro area. Parcl is set to publish this data on December 31, 2026. If no data for December 31 is released by January 10, 2027, 11:59PM ET, this market will resolve according to the most recently published data. (see: https://app.parcllabs.com/prediction-market-resolutions/56)

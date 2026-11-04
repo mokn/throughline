@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if at least 50 flights depart from Riyadh's King Khalid International Airport (RUH) within a single calendar day in Riyadh local time (Arabia Standard Time, AST), between the date of market creation and the specified date. Otherwise, this market will resolve to "No".
+
+Departures will be evaluated as displayed by FlightAware on its King Khalid Int'l Airport (Riyadh) RUH airport page (https://www.flightaware.com/live/airport/OERK) and the corresponding departures page (https://www.flightaware.com/live/airport/OERK/departures). Only confirmed departures, displayed with an actual departure time, qualify; scheduled departures do not qualify. Only departures occurring after market creation will count. All departures displayed by FlightAware count toward the threshold, regardless of airline, destination, or flight type.
+
+Obviously erroneous departures will not count toward the threshold, whether or not FlightAware corrects them. A departure is obviously erroneous if FlightAware's own flight data (e.g., its flight map, track, or track log) shows that the aircraft did not take off from RUH, such as a flight shown departing RUH based on its scheduled routing while its track originates at a different airport. Multiple listings of the same physical departure (e.g., codeshare flight numbers) will count as a single departure. A discrepancy between FlightAware and alternative sources will not, on its own, make a departure erroneous.
+
+If the resolution of this market depends on whether one or more departures are erroneous, this market may remain open until the end of the third calendar day (AST) after the date of the relevant departures to allow FlightAware to correct its data. If FlightAware has not corrected its data by then, this market will resolve based on the data FlightAware displays at that time, excluding any obviously erroneous departures as described above.
+
+Announcements, NOTAMs, airline schedules, or reports that the airport has reopened will not qualify on their own if FlightAware does not display at least 50 departures within a single calendar day (AST).
+
+The resolution source for this market will be information from FlightAware (https://www.flightaware.com/live/airport/OERK).

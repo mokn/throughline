@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if Linera's token is listed for spot trading on the exchange named in the title within 30 days after the token's launch (TGE). Otherwise, this market will resolve to "No".
+
+Only an official token launched by Linera after the creation of this market will qualify. Stablecoins, memecoins, LSTs and synthetic tokens will not count. The token's launch (TGE) is defined as the first time the token is actively and publicly tradable.
+
+A qualifying listing means the token is available for spot trading on the exchange's primary global platform at any point from the token's launch through 11:59 PM ET on the 30th calendar day following the calendar day of launch (measured in ET). Perpetual futures, other derivatives, and pre-launch markets do not qualify. Roadmap additions, listing announcements, and deposit-only support do not qualify unless spot trading is live by the deadline. Listings available only on regional or affiliate platforms (e.g. Binance.US, Binance TR, Binance Alpha, Coinbase International Exchange, Upbit Singapore) do not qualify. A listing qualifies regardless of jurisdictional availability. Spot trading does not need to be accessible in any specific country or region, provided it is live on the exchange's primary global platform.
+
+If Linera does not launch a token by December 31, 2027, 11:59 PM ET, this market will resolve to "No".
+
+The primary resolution source for this market will be official announcements from the respective exchanges; however, a consensus of credible reporting may also be used.

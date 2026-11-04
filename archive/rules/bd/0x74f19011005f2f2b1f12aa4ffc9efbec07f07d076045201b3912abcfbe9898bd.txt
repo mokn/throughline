@@ -1,0 +1,15 @@
+This market will resolve to "Up" if, according to Federal Reserve Economic Data (FRED), there are more layoffs in the information sector in 2026 than in 2025 (447,000 layoffs).
+
+This market will resolve to "Down" if there are more layoffs in the information sector in 2025 than in 2026.
+
+This market will resolve to 50-50 if the totals are the same in 2025 and 2026.
+
+If not all relevant data points are published by June 30, 2027, ET, data published up until this point will be used to determine the 2026 total.
+
+Revisions to previous data points after all relevant data points have been released will not be considered.
+
+This market's resolution source will be the Federal Reserve Economic Data (FRED), specifically the monthly 'Layoffs and Discharges: Information' within the Job Openings and Labor Turnover (Not Seasonally Adjusted) (https://fred.stlouisfed.org/series/JTU5100LDL).
+
+Changes in the methodology by which the Bureau of Labor Statistics reports data will have no bearing on the resolution of this market.
+
+The resolution source reports the values as whole numbers (thousands of persons). Thus, this is the level of precision that will be used when resolving the market.

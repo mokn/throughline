@@ -1,0 +1,13 @@
+This market will resolve to "Yes" if the Fully Diluted Valuation (FDV) of Jumper's token is greater than the listed value at the measurement time. Otherwise, this market will resolve to "No".
+
+A token is considered launched the first time it is actively and publicly tradable. The measurement time is 4:00 PM ET on the calendar day following launch.
+
+The FDV is the token price at the measurement time multiplied by the token's total supply at that time, which includes tokens that are locked, vested or otherwise non-circulating. For a token issued by a contract, the total supply is the figure recorded by that contract onchain; for the native coin of its own blockchain, it is the figure recorded by that blockchain. Tokens not yet minted or issued at the measurement time are not counted. The FDV is computed without rounding.
+
+Only an official token launched by Jumper after the creation of this market will qualify. Stablecoins, memecoins, LSTs and synthetic tokens will not be considered for resolution.
+
+An FDV exactly equal to the listed value will resolve to "No".
+
+If Jumper (https://x.com/jumperapp) does not launch a token by December 31, 2027, 11:59 PM ET, this market will resolve to "No".
+
+The resolution source for the token price is the final "Close" price of the 1-minute candle ending at the measurement time, taken from the venue with the highest 24-hour trading volume for the token at the measurement time, as ranked on the token's markets page on CoinGecko (https://www.coingecko.com); the ranking as displayed at that time governs, regardless of any subsequent revision. Both centralized exchanges and onchain pools qualify as venues; where a venue lists several pairs, the USD or USD-stablecoin pair with the highest 24-hour volume is used. Where the selected venue is an onchain pool, the candle is taken from that pool's page on DexScreener (https://dexscreener.com); where it is an exchange, from that exchange's own chart for the selected pair. If that chart shows no 1-minute candle ending at the measurement time, the last 1-minute candle closing before that time will be used. If CoinGecko does not list the token at the measurement time, the token's most liquid pool as ranked by the "Liquidity" figure on DexScreener will be used instead. If neither source is available at the measurement time, a consensus of credible reporting will be used.

@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if the mortgage delinquency rate is greater than 3.00% for any quarter from Q3 2026 through Q4 2027. Otherwise, this market will resolve to "No".
+
+The mortgage delinquency rate is the delinquency rate on residential real estate loans shown in the "Residential" column under "Real estate loans, Booked in domestic offices" in the Federal Reserve's "Delinquency Rates, All Banks, SA" table (https://www.federalreserve.gov/releases/chargeoff/delallsa.htm).
+
+This market will resolve as soon as the mortgage delinquency rate for a qualifying quarter is greater than 3.00%, or once data for Q4 2027 has been published. If no data for Q4 2027 has been published by March 31, 2028, 11:59 PM ET, this market will resolve based on the available data at that time.
+
+All published quarterly figures will be treated as final. Revisions to previously published data will not be considered.
+
+The resolution source for this market will be the Federal Reserve table linked above. In the case that the Resolution Source publishes data, sufficient to settle a Market, that is clearly erroneous and the result of technical or operational error, or of unauthorized interference with the Resolution Source or its data, the Market may remain open for a period of up to seven (7) calendar days (ET) from the time of the original release, in anticipation of a correction by the Resolution Source. If the Resolution Source publishes a corrected value within that period, that value will be eligible for resolution. If no corrected value is published within that period, Polymarket will issue a Clarification to determine whether the originally published value may be eligible for resolution, or whether other action is required to preserve the orderly functioning of the Market.

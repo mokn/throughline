@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if OpenAI's ChatGPT experiences any incident classified as 'Full Outage' as of the time it is marked as “Resolved” between market creation and the listed date (ET). Otherwise, this market will resolve to “No”.
+
+Only incidents listing ChatGPT under 'Affected components' will be considered. Incidents labeled as affecting 'APIs,' 'Codex,' 'FedRamp,' or 'Ads Platform,' but not ChatGPT, will have no bearing on the resolution of this market.
+
+Classifications of an incident while it is ongoing will have no bearing on the resolution of this market. Only classifications of events that are resolved will be considered.
+
+Qualifying incidents include outages and other issues classified as 'Full Outage' when they are resolved, during this market's above-specified timeframe. 
+
+An incident resolved outside this market’s timeframe will only qualify if ongoing at this market’s resolution time, in which case the market will remain open until that incident is marked as “Resolved,” and resolution will be based on the first impact classification thereafter, regardless of subsequent revisions or corrections.
+
+Revisions that upgrade an incident’s impact classification to 'Full Outage' will qualify if the incident was resolved and the revision is published within this market’s timeframe.
+
+The primary resolution source for this market will be official system status information published by OpenAI on status.openai.com; however, a consensus of credible reporting may also be used.

@@ -1,0 +1,5 @@
+This market will resolve to “Yes” if, at 11:59 PM ET on December 31, 2026, the number of coins launched in 2026 that appear in the top 100 by market capitalization on CoinGecko is greater than the number specified in the title. Otherwise, it will resolve to “No.”
+
+The resolution source is CoinGecko’s Top 100 market cap rankings (https://www.coingecko.com/).
+
+Stablecoins, liquid staking tokens (LSTs), liquidity pool tokens, and synthetic representations of other assets will not qualify.

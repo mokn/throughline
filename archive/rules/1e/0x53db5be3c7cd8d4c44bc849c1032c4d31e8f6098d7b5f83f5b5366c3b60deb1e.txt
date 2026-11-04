@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if the official closing price for Anthropic's market capitalization on its first trading day is above the value specified in the title. Otherwise, it will resolve to "No".
+
+If no IPO occurs by December 31, 2027, 11:59 PM ET, this market will resolve to "No".
+
+Market capitalization expresses the monetary value of a company’s outstanding shares, stated in its pricing currency. It is calculated as the number of shares outstanding multiplied by the closing share price on the first trading day.
+
+Resolution will be based on the primary exchange's official listing page. In the event that the relevant figure is not displayed, another reliable source will be used.
+
+In the event of an interruption in the course of the normal trading session on Anthropic’s first day of trading (e.g., a circuit breaker or half-day), the market will resolve according to the official closing price of the abbreviated session. If no such official closing price is published, the market will resolve according to the next trading day on which an official closing price is published, treating that as the first day of trading for purposes of this market.

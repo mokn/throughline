@@ -1,0 +1,11 @@
+This market will resolve according to the popular vote margin of victory between the Democratic Party and the Republican Party in the US House of Representatives midterm elections, scheduled for November 3, 2026.
+
+For the purpose of this market, the “popular vote margin of victory” is defined as the absolute difference between the percentage of valid votes cast for all Democratic Party House candidates and the percentage of valid votes cast for all Republican Party House candidates in this election. The percentage of the valid votes cast for each party’s House candidates will be determined by dividing the total number of valid votes that party’s House candidates receive by the sum of all valid votes cast for U.S. House candidates in the election. Only votes cast for candidates for U.S. Representative (voting members of the House of Representatives from districts in the 50 states) will be considered; votes for Delegates and the Resident Commissioner will not be considered.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+This market will resolve based on the vote totals as published by the US Clerk of the House. Any recount included in the Clerk of the House’s publication will be considered.
+
+If the US House of Representatives midterm elections do not take place by June 30, 2027, 11:59 PM ET, this market will resolve to "Other".
+
+The resolution source for this market will be the 2026 midterm election results published by the US Clerk of the House (https://history.house.gov/Institution/Election-Statistics/). If the 2026 midterm elections take place, and the Clerk of the House does not publish the results of this election by June 30, 2027, 11:59 PM ET, another credible resolution source may be chosen.

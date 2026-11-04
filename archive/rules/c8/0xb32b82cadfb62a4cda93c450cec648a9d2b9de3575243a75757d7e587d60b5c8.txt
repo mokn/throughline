@@ -1,0 +1,15 @@
+This market will resolve to “Yes” if the US federal government passes legislation, issues an executive order, issues an export control, or takes any other formal action with the intent to ban distribution to, access for, or use of an open source AI model by the general public within the US, between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market resolves "No".
+
+“Open source AI model" refers to a general-purpose large language or multimodal foundation model whose weights and source are publicly downloadable and usable on user-controlled hardware (e.g., Llama, Mistral, DeepSeek, Qwen). "Source available" AI models will qualify regardless of any licensing restrictions on acceptable use. Narrow or special-purpose models (e.g., embedding, moderation, or single-modality media generation models) and deprecated, research-only, or preview-only models will not qualify.
+
+To qualify, a ban must target ordinary public access to the model across ordinary public channels within the US. A ban with the intention to remove access from a single channel is not sufficient.
+
+A qualifying ban may target a specific model or a slate of models, so long as at least one open source model is restricted.
+
+A qualifying ban enacted or issued by the resolution date will qualify regardless of if or when it takes effect.
+
+Both temporary bans, including those with a defined end date, and indefinite bans will qualify. 
+
+Non-binding or preliminary actions, including non-binding resolutions, recommendations, proposed or pending legislation, investigations, and hearings, will not qualify on their own.
+
+The resolution source for this market is official information and announcements from the United States government and the maintainer or developer of the relevant open source AI model. However, a consensus of credible reporting may also be used.

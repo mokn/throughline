@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if the figure for "Average Price: Ground Beef, 100% Beef (Cost per Pound/453.6 Grams) in U.S. City Average" reaches or exceeds the listed figure for any month of 2026 as published by the St. Louis Fed (https://fred.stlouisfed.org/series/APU0000703112). Otherwise, this market will resolve to "No".
+
+The St. Louis Fed bases its numbers for ground beef prices on the BLS's CPI release. This market will immediately resolve to "Yes" upon a qualifying update of the St. Louis Fed's chart. If no data for any month of 2026 is released by the scheduled date for the January 2027 CPI release, this market will resolve according to the data for 2026 already available at that time.
+
+The resolution source for this market measures prices to the third decimal place. Thus, this is the level of precision that will be used when resolving the market.

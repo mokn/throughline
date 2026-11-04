@@ -1,0 +1,8 @@
+This market will immediately resolve to “Yes” if any Binance 1-minute candle for Uniswap (UNI/USDT) between November 24, 2025, 17:25 and December 31, 2026, 23:59 ET has a final “High” price equal to or greater than the price specified in the title. Otherwise, the market will resolve to “No.”
+
+The resolution source for this market is Binance, specifically the UNI/USDT “High” prices available at:
+https://www.binance.com/en/trade/UNI_USDT
+with the chart set to “1m” (one-minute candles) on the top bar.
+
+Only the Binance UNI/USDT price feed will be used.
+Prices from other exchanges, trading pairs, or spot markets will not be considered.

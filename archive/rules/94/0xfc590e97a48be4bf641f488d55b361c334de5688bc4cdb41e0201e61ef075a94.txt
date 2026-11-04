@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if IMF PortWatch publishes a daily number of transit calls (“Arrivals of Ships”) for the Bab el-Mandeb Strait equal to 0 for any date between market creation and the specified date, 2026. Otherwise, this market will resolve to “No.”
+
+Transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF PortWatch will not be considered.
+
+This market will resolve as soon as IMF PortWatch publishes a daily number of transit calls equal to 0, or once complete data has been published for the specified period without such a publication. If complete data for the specified period has not been published within 28 calendar days of the end of the specified period, this market will resolve based on data published up to that point.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF PortWatch differs from alternative sources. Revisions to previously published data points made within this market’s timeframe will be considered. However, they will not disqualify a previously published data point from qualifying except in the case of data integrity issues.
+
+The resolution source for this market will be IMF PortWatch, specifically the transit calls data published for the Bab el-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c, both in the chart and through downloadable files.

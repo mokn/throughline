@@ -1,0 +1,11 @@
+This market will resolve according to the first change made to the People’s Bank of China (PBoC) 7-day reverse repo rate between market creation and December 31, 2026, 11:59 PM China Standard Time (CST).
+
+An “increase” refers to any change in the 7-day reverse repo rate to a level higher than the most recent effective 7-day reverse repo rate.
+
+A “decrease” refers to any change in the 7-day reverse repo rate to a level lower than the most recent effective 7-day reverse repo rate.
+
+If the People’s Bank of China does not change the 7-day reverse repo rate by December 31, 2026, 11:59 PM China Standard Time, this market will resolve to the “No Change” bracket.
+
+An official announcement of a change to the PBoC 7-day Reverse Repo Rate within this market’s timeframe will be sufficient to resolve this market, regardless of when the rate change is stated to go into effect.
+
+The primary resolution source for this market will be official information from the People’s Bank of China, including PBoC Open Market Operations announcements (https://www.pbc.gov.cn/en/3688110/3688181/index.html); however, a consensus of credible reporting on a change to the 7-day reverse repo rate may also be used.

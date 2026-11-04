@@ -1,0 +1,13 @@
+This market will resolve to "Yes" if Amazon's Purchases of Property and Equipment (capital expenditures) for the full year of 2026, as reported in its official company earnings materials for the fourth fiscal quarter of 2026, is above the listed amount. Otherwise, this market will resolve to "No".
+ 
+The specified metric will be considered as reported in the company's official earnings materials. Subsequent revisions will not be considered.
+ 
+If the specified company's official earnings materials for the specified period are released, and the specified metric is not included, this market will resolve to "No".
+ 
+If the specified company does not release earnings materials for the fourth fiscal quarter of 2026 by April 30, 2027, 11:59 PM ET, this market will resolve to "No".
+ 
+If the specified metric is reported as a range rather than a specific number, the midpoint of the range will be used for resolution of this market.
+ 
+The resolution source for this market is Amazon's official company earnings materials for the fourth fiscal quarter of 2026, including press releases, investor presentations, and regulatory filings (including the Annual Report on Form 10-K). If the specified metric is not reported in these materials, recordings or transcripts of the company's earnings webcast may also be used.
+ 
+Note: This market will resolve based on the most numerically precise version of the specified metric reported in the company's official earnings materials. Capital expenditures are defined as purchases of property and equipment as reported in Amazon's consolidated statements of cash flows under investing activities, consistent with how Amazon has historically disclosed this figure. Alternate metrics that differ in definition or scope will not be considered.

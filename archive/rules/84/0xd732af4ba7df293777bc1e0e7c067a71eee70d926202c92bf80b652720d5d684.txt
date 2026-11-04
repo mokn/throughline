@@ -1,0 +1,5 @@
+This market will resolve to “Yes” if Hyperliquid is flipped in open interest by another perpetual DEX at any point in 2026 (ET). Otherwise, it will resolve to “No.”
+
+The resolution source for this market will be DeFiLlama open interest data (https://defillama.com/open-interest).
+
+If the resolution source becomes permanently unavailable, the market will resolve based on other reliable crypto data sources.

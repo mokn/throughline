@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if Donald Trump signs an executive order, proclamation, or presidential memorandum that imposes, or directs a federal agency to impose, a mandatory requirement on the training, development, or deployment of artificial intelligence models by non-governmental developers or deployers, by the specified date, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+A mandatory requirement is one AI model developers or deployers must meet as a condition of training, releasing, or operating a model, such as pre-release government review, required safety testing, compute or capability thresholds that trigger obligations, restrictions on training data, limits on autonomous operation, or prohibitions on specified uses. An order that directs an agency to establish such a requirement within a stated period qualifies. 
+
+Studies, reports, guidance, standards, or voluntary frameworks do not count. Orders that only govern the federal government's own use or procurement of AI, impose export or chip controls, regulate data-center energy or permitting, address immigration, or regulate only AI-generated content do not qualify.
+
+The signing or issuance of a qualifying order within this market's timeframe will qualify for a "Yes" resolution, regardless of when the order takes effect, and regardless of whether it is subsequently stayed, enjoined, revoked, or superseded.
+
+The primary resolution source will be official information from the government of the United States, including the text of presidential actions published at whitehouse.gov and in the Federal Register; however, a consensus of credible reporting may also be used.

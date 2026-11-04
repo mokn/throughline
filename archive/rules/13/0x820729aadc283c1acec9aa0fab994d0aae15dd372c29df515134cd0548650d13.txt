@@ -1,0 +1,16 @@
+This market will resolve to "Yes" if none of the coins listed below reaches a fully diluted valuation equal to or greater than $1,000,000,000 at any point between the creation of this market and December 25, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Fully diluted valuation refers to the figure published by each coin's resolution source, shown as "Fully Diluted Valuation" on CoinGecko and as "FDV" on CoinMarketCap. Circulating supply market cap will not be used.
+
+The coins in this event, and their resolution sources, are:
+
+- Cash Cat (CASHCAT), Robinhood Chain 0x020bfc650a365f8bb26819deaabf3e21291018b4, CoinGecko, https://www.coingecko.com/en/coins/cash-cat
+- Artificial Inu (AI), Robinhood Chain 0x2E8c31162b855A2ffa90F6F8634643Ad6F111e18, CoinMarketCap, https://coinmarketcap.com/currencies/artificial-inu-ai/
+- The Black Bull (ANSEM), Solana 9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump, CoinGecko, https://www.coingecko.com/en/coins/the-black-bull
+- NetNet (NET), Robinhood Chain 0xca9c78dd337a67f6e0077f65f5e9218719d30edf, CoinGecko, https://www.coingecko.com/en/coins/netnet
+
+A coin reaches the threshold at the first moment its fully diluted valuation, as displayed on its resolution source, is equal to or greater than $1,000,000,000. A momentary crossing by any coin qualifies and will cause this market to resolve to "No", provided it is verifiable from the resolution source or from a consensus of credible reporting.
+
+Each coin is judged solely against the source listed for it. Differences in methodology between CoinGecko and CoinMarketCap will not be adjusted for.
+
+The primary resolution source for this market will be the source listed above for each coin; however, a consensus of credible reporting may also be used. If a resolution source becomes permanently unavailable or stops publishing data for a coin, that coin will resolve based on other credible and publicly verifiable sources.

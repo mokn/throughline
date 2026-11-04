@@ -1,0 +1,9 @@
+Parliamentary elections to elect the 250 members of the National Assembly of Serbia are scheduled to take place on October 25, 2026.
+
+This market will resolve according to the official voter turnout rate in the specified election, defined as the total number of votes cast divided by the total number of eligible voters (see 2023 example: https://publikacije.stat.gov.rs/G2024/Pdf/G20246006.pdf).
+
+If the reported value falls exactly between two brackets, this market will resolve to the higher bracket.
+
+If the results of this election are not known by March 31, 2027, 11:59 PM ET, this market will resolve to the lowest bracket.
+
+The resolution source for this market will be official information published by the Republic Electoral Commission of Serbia (Republička izborna komisija, https://www.rik.parlament.gov.rs/).

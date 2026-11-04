@@ -1,0 +1,15 @@
+The 2026 midterm elections are scheduled to be held on November 3, 2026.
+
+This market will resolve to "Kansas" if the regularly-scheduled US Senate race in Kansas has a smaller unrounded margin of victory than that of the Nebraska Senate election.
+
+This market will resolve to "Nebraska" if the regularly-scheduled US Senate race in Nebraska has a smaller unrounded margin of victory than that of the Kansas Senate election.
+
+If both states have the same margin of victory, this market will resolve 50-50.
+
+For the purpose of this market, the “margin of victory” is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.
+
+For elections that include runoffs, ranked-choice, or other multi-round elections, the relevant margin of victory will be that of the round in which the winner is determined. 
+
+In the event that a relevant margin of victory cannot be determined by March 31, 2027, that state's margin of victory will be considered to be 0% for purposes of this market.
+
+The resolution source for this market will be a compilation of all of the relevant state election authorities responsible for certifying statewide elections, however, a consensus of credible reporting may also be used.

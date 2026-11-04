@@ -1,0 +1,5 @@
+This market will immediately resolve to "Yes" if any TradingView 1 minute candle for BTC.D between Sept 5, 2025, 15:30 and December 31, 2026, 23:59 in the ET timezone has a final "High" value of 70.00% or higher. Otherwise, this market will resolve to "No."
+
+The resolution source for this market is TradingView, specifically the BTC.D "High" percentage currently available at https://www.tradingview.com/chart/?symbol=CRYPTOCAP%3ABTC.D with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the percentage according to TradingView BTC.D, not according to other sources or spot markets.

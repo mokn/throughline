@@ -1,0 +1,15 @@
+The 2026 midterm elections are scheduled to be held on November 3, 2026.
+
+This market will resolve to "Montana" if the regularly-scheduled US Senate race in Montana has a smaller unrounded margin of victory than that of the New Jersey Senate election.
+
+This market will resolve to "New Jersey" if the regularly-scheduled US Senate race in New Jersey has a smaller unrounded margin of victory than that of the Montana Senate election.
+
+If both states have the same margin of victory, this market will resolve 50-50.
+
+For the purpose of this market, the “margin of victory” is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.
+
+For elections that include runoffs, ranked-choice, or other multi-round elections, the relevant margin of victory will be that of the round in which the winner is determined. 
+
+In the event that a relevant margin of victory cannot be determined by March 31, 2027, that state's margin of victory will be considered to be 0% for purposes of this market.
+
+The resolution source for this market will be a compilation of all of the relevant state election authorities responsible for certifying statewide elections, however, a consensus of credible reporting may also be used.

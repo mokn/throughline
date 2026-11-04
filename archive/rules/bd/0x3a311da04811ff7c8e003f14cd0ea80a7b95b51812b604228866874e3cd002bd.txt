@@ -1,0 +1,5 @@
+This market resolves "Yes" if the peak RONI for the 2026–27 El Niño is at least +2.25°C and below +2.5°C. Otherwise, it resolves "No".
+
+The peak RONI is the single highest Relative Oceanic Niño Index (RONI) value reported by NOAA's Climate Prediction Center (CPC) across the overlapping three-month seasons ASO 2026, SON 2026, OND 2026, NDJ 2026-27, and DJF 2026-27, as reported in official NOAA CPC RONI updates (https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/).
+
+The first published RONI value for each listed season is final and governs resolution; no subsequent revision to a season's value will change the outcome once that season's first value has been published. If CPC's RONI dataset is permanently discontinued, other information from NOAA may be used.

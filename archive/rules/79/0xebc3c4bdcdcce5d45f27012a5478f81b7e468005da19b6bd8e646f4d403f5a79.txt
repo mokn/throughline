@@ -1,0 +1,13 @@
+This market will resolve according to the total gross proceeds raised by OpenAI in its initial public offering (IPO) at the time of pricing.
+
+The amount raised is defined as the aggregate dollar value of shares sold at the final offering price at the time of IPO pricing, as disclosed in the final prospectus filed with the U.S. Securities and Exchange Commission.
+
+Shares sold pursuant to any overallotment option (greenshoe) will not be considered.
+
+Secondary sales of existing shares by current shareholders will be included only to the extent that they are part of the IPO offering at pricing and reflected in the total gross proceeds. Private secondary transactions conducted outside of the IPO will not be considered.
+
+If the total proceeds fall exactly on a boundary between two ranges, this market will resolve to the higher range.
+
+If OpenAI does not complete an IPO by December 31, 2027, 11:59 PM ET, this market will resolve to the lowest bracket.
+
+The primary resolution source will be the final prospectus filed with the SEC; however, a consensus of credible reporting may also be used.

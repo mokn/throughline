@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if the United Kingdom’s seasonally adjusted quarter-on-quarter percent change in real GDP, as reported by the Office for National Statistics, is less than 0.0 for two consecutive quarters between Q1 and Q4 2026. Otherwise, this market will resolve to “No”.
+
+This market includes estimates reported in both the Office for National Statistics’ GDP first quarterly estimate, UK releases and the updated GDP quarterly national accounts, UK releases for the relevant quarters. Monthly GDP estimates will not be considered.
+
+This market’s resolution will be based on the most recently available qualifying estimates for the relevant quarters at the time of each relevant release. Any two consecutive quarters with qualifying negative GDP growth will be sufficient for a “Yes” resolution, regardless of prior or later revisions.
+
+For example, if upon release the relevant estimate for Q2 2026 is negative, and Q1 2026’s most recently available qualifying estimate is also negative, this market will resolve to “Yes”. If the relevant estimate for Q2 2026 is negative, and the initial estimate for Q1 2026 was negative, but Q1 2026’s most recently available qualifying estimate at the time of the Q2 release is positive, this will not qualify.
+
+This market will resolve as soon as a qualifying recession occurs. If no qualifying recession has occurred and the most recently available qualifying estimates for both Q3 2026 and Q4 2026 are positive at the time of the release of the GDP first quarterly estimate, UK for Q4 2026, this market will resolve to “No” at that time. If the most recently available qualifying estimate for either Q3 2026 or Q4 2026 is negative at that time, this market will remain open until the GDP quarterly national accounts, UK release for Q4 2026 is published. If that release is not published by April 30, 2027, 11:59 PM ET, this market will resolve based on the available qualifying data at that time.
+
+The resolution source for this market will be the Office for National Statistics, specifically its "GDP first quarterly estimate, UK" and "GDP quarterly national accounts, UK" releases for the relevant quarters.

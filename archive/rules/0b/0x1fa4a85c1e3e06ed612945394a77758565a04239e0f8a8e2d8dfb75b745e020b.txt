@@ -1,0 +1,16 @@
+This market will resolve to “SpaceX” if the official closing price for SpaceX’s market capitalization on its first trading day is above the official closing price for OpenAI’s market capitalization on its first trading day.
+
+This market will resolve to “OpenAI” if the official closing price for OpenAI’s market capitalization on its first trading day is above the official closing price for SpaceX’s market capitalization on its first trading day.
+
+This market will resolve to the company that completes an Initial Public Offering (IPO) by December 31, 2027, 11:59 PM ET, if the other company does not complete an IPO within the market timeframe. This market will resolve to the IPOed company as soon as it becomes impossible for the other company to complete an IPO within the market timeframe, including due to acquisition, merger, or absorption by an entity that is already publicly traded.
+
+This market will resolve 50-50 if:
+- Neither IPO occurs by December 31, 2027, 11:59 PM ET.
+- Both SpaceX and OpenAI complete an IPO within this market's timeframe, and their IPO closing market capitalizations are exactly equal.
+- Both companies become unable to complete an IPO, including due to acquisition, merger, or absorption by an entity that is already publicly traded.
+
+Market capitalization is defined as the total number of outstanding shares multiplied by the closing share price on the first trading day.
+
+Resolution will be based on the primary exchange’s official listing page. In the event that the relevant figure is not displayed, another reliable source will be used.
+
+In the event of an interruption in the course of the normal trading session on the respective companies’ first day of trading (e.g., a circuit breaker or half-day), the market will resolve according to the official closing price of the abbreviated session. If no such official closing price is published, the market will resolve according to the next trading day on which an official closing price is published, treating that as the first day of trading.

@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the KOSPI (Korea Composite Stock Price Index) records an intraday or close value above 9,385.59 — its official all-time intraday high as published by the Korea Exchange, set on June 19, 2026 — at any point between the creation of this market and December 31, 2027, 11:59 PM KST. Otherwise, this market will resolve to "No".
+
+Only index values recorded during the regular trading session of the Korea Exchange will be considered. Values implied by futures, ETFs, options, or other derivative instruments will not qualify.
+
+Index values will be used exactly as published, without rounding.
+
+The primary resolution source for this market is Yahoo Finance (https://finance.yahoo.com/quote/%5EKS11/); however, a consensus of credible reporting may also be used.

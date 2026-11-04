@@ -1,0 +1,17 @@
+The general runoff election for the 2026 Los Angeles mayoral election will be held on November 3, 2026, to elect the mayor of Los Angeles, California.
+
+This market will resolve according to the margin of victory between the top two candidates in the November 3, 2026 general runoff election for Mayor of Los Angeles.
+
+The “margin of victory” is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+If two candidates receive the exact same highest number of valid votes and both are listed, this market will resolve to the lowest bracket for the tied candidate whose last name comes first alphabetically. If only one of the tied candidates is listed, this market will resolve to the lowest bracket for that listed candidate. If neither tied candidate is listed, this market will resolve to “Other.”
+
+This market will resolve based on the official vote count once the count has been made official.
+
+If the results of the specified election are not known definitively by March 31, 2027, 11:59 PM ET, this market will resolve to “Other”.
+
+This market will resolve based on the results of this election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the City and County of Los Angeles.
+
+If a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.

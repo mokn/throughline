@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if there have been the specified amount or more confirmed cases of Measles (Rubeola) in humans in the territory of the United States of America in 2026, according to the CDC case counter by November 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+The resolution source for this market will be the CDC Measles (Rubeola) counter 'Total Cases' in 2026 (see: https://www.cdc.gov/measles/data-research/index.html) at the resolution time. If the counter becomes unavailable, another credible source will be used.
+
+Note: Only cases reported by the CDC Measles (Rubeola) counter will qualify, regardless of reports from U.S. State agencies or other sources.

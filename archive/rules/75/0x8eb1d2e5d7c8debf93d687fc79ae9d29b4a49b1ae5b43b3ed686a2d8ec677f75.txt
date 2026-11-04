@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if the Fully Diluted Valuation of TownSquare's token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to "No".
+
+Only an official token launched by TownSquare after the creation of this market will qualify. Stablecoins, memecoins, LSTs and synthetic tokens will not count.
+
+The token must be actively and publicly tradable to be considered a launch.
+
+The FDV will be determined using the total token supply multiplied by the token price.
+
+"1 day after launch" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If TownSquare (https://x.com/TownSquarexyz) doesn't launch a token by January 1, 2028, 12:00 AM ET, this market will resolve to "No".

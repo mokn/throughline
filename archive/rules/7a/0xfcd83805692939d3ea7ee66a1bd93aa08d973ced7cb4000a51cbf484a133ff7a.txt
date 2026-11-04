@@ -1,0 +1,13 @@
+This market will resolve to "Yes" if, on any trading day, the official CME settlement price for the Active Month (front month) of Gold (GC) futures is equal to or below the listed price between market creation and the final trading day of December 2026. Otherwise, the market will resolve to "No". Price action before this market’s creation will not be considered.
+
+For CME Gold (GC) futures contracts, the Active Month is the nearest of CME's designated delivery-cycle months (February, April, June, August, October, December) that is not the spot month. The Active Month changes automatically on the contract's First Position Date, at which point the next eligible contract month becomes the Active Month.
+
+Only the Active Month's official settlement price published by CME Group will be considered. Intraday trades, highs, lows, bids, offers, midpoint values, or indicative prices do not count.
+
+Note that the settlement price may differ from the last traded price. CME's methodology to determine the settlement price can vary by commodity and contract.
+
+Only days on which CME publishes an official settlement price for the Active Month will be included. Days without settlement prices (weekends, holidays, or market closures) are ignored.
+
+This market will resolve based on the settlement price as it appears on the CME settlement page at the time it is first published for that trading day, regardless of any later corrections or updates.
+
+The resolution source for this market is the CME Group website — specifically, the daily "Settlement" price for the Active Month of Gold (GC) futures.  If the official settlement price for any relevant trading day has not been published on the CME Group website within 72 hours of the final trading day (ET) of the specified period, the market will resolve based on the settlement prices published through all CME channels up to that point.

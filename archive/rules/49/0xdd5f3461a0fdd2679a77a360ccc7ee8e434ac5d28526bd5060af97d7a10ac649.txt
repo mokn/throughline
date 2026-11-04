@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if OpenAI's next GPT Astra model (6.1+) debuts at a standard output token price of at least the specified price, in USD per million tokens. Otherwise, this market will resolve to "No".
+
+A qualifying model must be an OpenAI model designated as version 6.1 or higher that includes "Astra" in its name or model identifier, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, GPT-6.1 Astra, Astra 6.1, or GPT Astra 7 would all qualify. GPT-6 Astra, including any rollout, promotion, Pro or Fast mode, or snapshot of it, will not qualify. Tier-labeled models such as GPT-5.6 Sol, GPT-5.6 Terra, or GPT-5.6 Luna and their successors, and task-specific or modality lines such as GPT-5.6-Cyber, Daybreak models, Codex, GPT Image, or Realtime models, will not qualify.
+
+The debut price is the “Standard” output token price, using the “Short context” rate, announced by OpenAI or listed on its official API pricing page when the model is first made available to the general public. An introductory price qualifies. Batch, Flex, Fast mode, Priority, long-context, cached, regional, and data-residency prices do not qualify. If multiple qualifying models debut on the same date, the highest qualifying price applies.
+
+If no qualifying model is made available to the general public by June 30, 2027, 11:59 PM ET, this market will resolve to "No".
+
+The primary resolution source for this market will be official information from OpenAI, including its official API pricing page (https://developers.openai.com/api/docs/pricing), with additional verification from a consensus of credible reporting.

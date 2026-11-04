@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if the general fertility rate (births per 1,000 women aged 15–44) in the United States in 2026 is equal to or greater than the listed value, as reported in the National Center for Health Statistics (NCHS) annual provisional births report for 2026, meaning the first NCHS report that presents provisional birth data for the full calendar year 2026, regardless of its exact title or format (see 2025 example, “Births: Provisional Data for 2025”: https://www.cdc.gov/nchs/data/vsrr/vsrr043.pdf), estimated to be released in April 2027. Otherwise, this market will resolve to "No".
+
+Provisional counts or estimates covering only part of 2026, and full-year figures published only in data dashboards, data files, or statistical tables rather than in such a report, will not be considered.
+
+The report is expected to be made available here: https://www.cdc.gov/nchs/nvss/births.htm
+
+If NCHS does not release its annual provisional births report for 2026 by June 30, 2027, 11:59 PM ET, this market will resolve to "No".
+
+Note: The relevant data will be the general fertility rate in the United States in 2026 as stated in the annual provisional births report for 2026. Any revisions to this figure made after the release of this report will not be considered for this market’s resolution.

@@ -1,0 +1,11 @@
+This market will resolve based on the calendar month (ET) in which Anthropic's initial public offering (IPO) occurs. The resolving month will be the calendar month (ET) containing the first day on which Anthropic shares are listed and open for regular-way trading on a public securities exchange.
+
+An IPO refers to Anthropic shares becoming listed and open for trading on a public securities exchange, whether through a traditional initial public offering or a direct listing.
+
+If Anthropic goes public through a merger, acquisition, or absorption by an entity that is already publicly traded, including a special purpose acquisition company, this market will resolve to "No IPO before 2028".
+
+If no IPO occurs by December 31, 2027, 11:59 PM ET, the market will resolve to "No IPO before 2028".
+
+Announcements, filings, or scheduling of an IPO will not suffice; this market will resolve after public trading has begun.
+
+Resolution will be based on information from the primary exchange.

@@ -1,0 +1,9 @@
+This market will resolve according to the 7-day moving average of transit calls (“Arrivals of Ships”) for the Bab el-Mandeb Strait that IMF Portwatch reports for October 31, 2026.
+
+Transit calls include container, dry bulk, roll-on/roll-off, general cargo, and tanker ships. Ships not reported by IMF Portwatch will not be considered.
+
+This market will resolve as soon as the relevant data has been published. If the relevant data is not published within 14 calendar days of the specified date, this market will resolve based on the most recent data published up to that point.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data, and do not include cases where IMF Portwatch differs from alternative sources.
+
+The resolution source for this market will be IMF Portwatch, specifically the transit calls data published for the Bab El-Mandeb Strait at https://portwatch.imf.org/pages/6b1814d64903461b98144a6cc25eb79c, both in the chart and through downloadable files. Where an unrounded and rounded value provided by the resolution source differ with respect to the resolution of this market, the unrounded value will be used.

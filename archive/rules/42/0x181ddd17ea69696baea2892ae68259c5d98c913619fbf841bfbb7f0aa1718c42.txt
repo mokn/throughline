@@ -1,0 +1,12 @@
+This market will resolve to the calendar month in 2026 during which Bitcoin has the highest percentage change.
+
+The “Change” value shown for each monthly candle will be used. A monthly candle is considered finalized once the following month’s candle is published.
+
+The resolution source is Binance, using the BTC/USDT trading pair:
+https://www.binance.com/en/trade/BTC_USDT
+
+If two or more months are tied for the highest percentage change, this market will resolve to the earliest month chronologically.
+
+Only Binance BTC/USDT data will be used. Prices from other exchanges, trading pairs, or data sources will not be considered.
+
+If it becomes impossible for a given month to have the highest percentage change in 2026, that outcome may resolve to “No” immediately.

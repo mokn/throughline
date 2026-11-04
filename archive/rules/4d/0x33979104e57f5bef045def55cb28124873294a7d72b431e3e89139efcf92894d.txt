@@ -1,0 +1,11 @@
+This market will resolve based on the highest wind speed, in miles per hour, reported on the summit of Mt. Washington in New Hampshire in November, 2026.
+
+The resolution source will be data published by the Mt. Washington Weather Observatory. F6 reports containing daily wind speed recordings can be found here: https://mountwashington.org/weather/mount-washington-weather-archives/monthly-f6/.
+
+The resolution source for this market measures wind speeds to whole mile per hour (eg, 67mph). Thus, this is the level of precision that will be used when resolving the market.
+
+Revisions to the wind speed recorded within this market's timeframe will be considered until the first datapoint for the following month has been published, after which any alterations will not be considered.
+
+In the case of missing data from the Mt. Washington Weather Observatory, this market will remain open until the last calendar day of the following month, to allow for publication. If the Mt. Washington Weather Observatory has not published the relevant data by the last calendar day of the following month, this market will resolve to No.
+
+In the case that the Resolution Source publishes data, sufficient to settle a Market, that is clearly erroneous and the result of technical or operational error, or of unauthorized interference with the Resolution Source or its data, the Market may remain open for a period of up to seven (7) calendar days (ET) from the time of the original release, in anticipation of a correction by the Resolution Source. If the Resolution Source publishes a corrected value within that period, that value will be eligible for resolution. If no corrected value is published within that period, Polymarket will issue a Clarification to determine whether the originally published value may be eligible for resolution, or whether other action is required to preserve the orderly functioning of the Market.

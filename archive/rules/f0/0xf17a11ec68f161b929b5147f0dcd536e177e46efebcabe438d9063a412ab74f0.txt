@@ -1,0 +1,5 @@
+For the purposes of this market, a Category 4 hurricane is a hurricane with maximum sustained winds of 130-156 mph, as described at https://www.nhc.noaa.gov/aboutsshws.php, and a hurricane landfall is said to occur when the hurricane's surface center intersects with the coastline, as described at https://www.nhc.noaa.gov/aboutgloss.shtml#LANDFALL. 
+
+This market will resolve to "Yes" if any storm makes landfall in the conterminous United States as a Category 4 hurricane, as reported in official National Hurricane Center advisories (https://www.nhc.noaa.gov/archive/2023/IDALIA.shtml?) between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+This market may resolve based on the initial advisory released by the NHC for whether any storm has made landfall in the conterminous United States at Category 4 strength, regardless of any later retraction or analysis that may contradict the initial qualifying announcement. However, subsequent corrections or updates will be considered if they indicate a qualifying incident.

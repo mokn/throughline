@@ -1,0 +1,8 @@
+This market will immediately resolve to “Yes” if any Binance 1-minute candle for Avalanche (AVAX/USDT) between the creation of this market and December 31, 2026, 23:59 ET has a final "High" or "Low" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, the market will resolve to “No”.
+
+The resolution source for this market is Binance, specifically the AVAX/USDT “High” and "Low" prices available at:
+https://www.binance.com/en/trade/AVAX_USDT
+with the chart set to “1m” (one-minute candles) on the top bar.
+
+Only the Binance AVAX/USDT price feed will be used.
+Prices from other exchanges, trading pairs, or spot markets will not be considered.

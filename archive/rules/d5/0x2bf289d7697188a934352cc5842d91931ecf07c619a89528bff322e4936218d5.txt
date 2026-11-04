@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if any finalized monthly PumpSwap DEX volume datapoint reported by DefiLlama is equal to or greater than the listed value for any calendar month of 2026 ending after the creation of this market. Otherwise, this market will resolve to "No".
+
+The volume value used for resolution is the "DEX Volume" figure shown when hovering over a monthly bar of the volume chart, with the chart set to monthly ("M") granularity; bars correspond to calendar months (UTC).
+
+A monthly datapoint must be finalized before it is considered for this market (namely, once the next month's bar is published, the previous one is finalized).
+
+This market will resolve as soon as a qualifying figure is finalized, or once the December 2026 bar is finalized without the listed value having been met. If any data remains unpublished or unfinalized 2 calendar days (ET) after December 31, 2026 — for any reason, including unavailability of the resolution source — this market will resolve to "No". No substitute data source will be used.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after such data is first released to allow for corrections; this applies only to clerical or similar errors, not to DefiLlama differing from other sources. Otherwise, once a finalized bar has met or exceeded the listed value, this market will resolve to "Yes" regardless of subsequent revisions.
+
+The resolution source for this market is DefiLlama, specifically the PumpSwap volume data published at https://defillama.com/protocol/dexs/pumpswap, as presented there with no filters applied and without additional rounding.

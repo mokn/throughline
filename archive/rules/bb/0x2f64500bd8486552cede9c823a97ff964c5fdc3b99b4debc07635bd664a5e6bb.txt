@@ -1,0 +1,3 @@
+This market will resolve to "Yes" if any AI gets a gold medal in the International Math Olympiad between January 1, 2026 and December 31, 2026, 11:59 PM ET. Otherwise this market will resolve to "No."
+
+The resolution source is the IMO Grand Challenge (https://imo-grand-challenge.github.io/) and the Artificial Intelligence Math Olympiad (AIMO, https://aimoprize.com/). If either source demonstrates that an AI has won the challenge/prize before the resolution date, this market will resolve to "Yes".

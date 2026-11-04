@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if Anthropic's closing share price on its first day of trading is above its IPO offer price. Otherwise, this market will resolve to “No”.
+
+The IPO price will be the final offering price to the public as stated in the final prospectus filed with the U.S. Securities and Exchange Commission. The official closing price as listed by the primary exchange will be considered the closing share price.
+
+The IPO refers to the first sale of stock by Anthropic to the public on any recognized stock exchange. If no Anthropic IPO occurs by December 31, 2027, 11:59 PM ET, the market will resolve to 50-50.
+
+Resolution will be based on the final prospectus for the IPO price and the primary exchange’s official listing page for the closing price. In the event that the relevant figure is not displayed, another reliable source will be used.
+
+In the event of an interruption in the course of the normal trading session on Anthropic's first day of trading (e.g., a circuit breaker or half-day), the market will resolve according to the official closing price of the abbreviated session. If no such official closing price is published, the market will resolve according to the next trading day on which an official closing price is published, treating that as the first day of trading.

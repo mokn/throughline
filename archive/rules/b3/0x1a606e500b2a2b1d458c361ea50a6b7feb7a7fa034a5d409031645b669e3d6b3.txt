@@ -1,0 +1,19 @@
+The 2026 PA-17 House election is currently expected to be held on November 3, 2026.
+
+This market will resolve according to the margin of victory between the top two candidates in the specified election.
+
+The "margin of victory" is defined as the absolute difference between the percentages of valid votes received by the first-place and second-place candidates. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.
+
+For purposes of this market, candidates nominated by the Democratic & Republican Parties will represent the options for "Democrat" and "Republican," respectively. Independent candidates will not represent options for either party. The candidates may be named in the contract for the convenience of traders. In the event that any named candidate is replaced as the nominee of their respective party prior to election day, the name in the contract will be updated and the market will resolve based on the replacement nominee of the party.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher margin bracket.
+
+If two or more candidates tie for the most valid votes in this election, and the tie is between two candidates listed, this market will resolve to the lowest margin bracket for the candidate whose ballot-listed last name comes first in alphabetical order. If the tie is between a listed candidate and an unlisted candidate, this market will resolve to the lowest margin bracket for the listed candidate. If the tie is between two or more unlisted candidates, this market will resolve to "Other." If the listed candidate is represented in this market group as "Republican" or "Democrat" their ballot-listed last name will still be used for tiebreaking.
+
+This market will resolve based on the official vote count once the count has been made official.
+
+If the election results are not known definitively by June 30, 2027, 11:59 PM ET, this market will resolve to "Other".
+
+If a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.
+
+The primary resolution source for this market will be the official results of the 2026 PA-17 House election as published by the state electoral authority responsible for certifying the results of the election; however, an overwhelming consensus of credible reporting may also be used.

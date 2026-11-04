@@ -1,0 +1,9 @@
+This is a market about the variation of consumer prices in South Africa over the 12-month period ending December 2026 (Y/Y, % change), as reported by Statistics South Africa.
+
+This market will resolve according to the percentage change in the Consumer Price Index (CPI) during the 12-month period ending December 2026 according to the monthly Statistics South Africa report.
+
+The resolution source for this market will be the Statistics South Africa Consumer Price Index monthly report released for December 2026, currently scheduled to be released on January 20, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+You can find the relevant figure by locating the report for December 2026 on the Publications page (https://www.statssa.gov.za/?page_id=1859), selecting the report, and selecting “Key Findings (Summary)". The relevant figure will be the figure for annual consumer price inflation (Y/Y, %) in the relevant month. Changes in Statistics South Africa’s reporting format will not disqualify a published relevant figure from counting.
+
+Note: the resolution source for this market will be the official monthly Statistics South Africa Consumer Price Index report which reports inflation during 12-month periods to one decimal point (e.g. 3.6%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://www.statssa.gov.za/?page_id=1874

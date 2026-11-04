@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if, at any point between market creation and market close on the final day of trading for December 2026, any 1-minute candle for S&P 500 (SPX) shows a final "Low" price equal to or below the listed price. Otherwise, this market will resolve to "No."
+
+All prices recorded during regular trading hours of the primary exchange for the instrument, as reflected in Yahoo Finance's 1-minute interval ("1m") data, will be considered.
+
+Periods when the market is officially closed (e.g., holidays or maintenance breaks) will not be considered.
+
+All times referenced are local to the primary exchange on which the index trades.
+
+The resolution source for this market is Yahoo Finance — specifically, the 1-minute interval ("1m") chart data for S&P 500 (SPX) available at https://finance.yahoo.com/quote/%5EGSPC/. If, at market close on the final day of trading of December 2026, price data is unavailable from Yahoo Finance for any relevant period, price data from Wall Street Journal Markets, Google Finance, and Market Watch will be used, in that order. If price data is not available for the relevant period from any of these sources by December 31, 2026, 11:59 PM ET, this market will resolve based on the available data at that time.

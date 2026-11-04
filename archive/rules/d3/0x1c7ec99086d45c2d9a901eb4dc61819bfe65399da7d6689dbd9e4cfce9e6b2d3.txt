@@ -1,0 +1,17 @@
+This market will resolve to the first ruling coalition of parties that forms after the 2026 Knesset election.
+
+The government is considered formed at the moment the newly elected Knesset approves the government in a vote of confidence. A party will only be considered part of the ruling coalition if it provides at least one Minister, including the Prime Minister. Parties that merely support the government (e.g., through confidence-and-supply arrangements, parliamentary support agreements, abstentions, or similar) without holding a Minister post will not qualify.
+
+A coalition does not need to hold a majority of seats in the Knesset; a government approved in a vote of confidence will qualify regardless of the number of seats held by its parties.
+
+Parties will be identified by the electoral lists on which they contested the 2026 Knesset election; any subsequent split, merger, or renaming of a list will be disregarded. In the listed options, “L” refers to Likud, “Y” to Yashar, “T” to Together, “S” to Shas, “U” to United Torah Judaism (UTJ), “O” to Otzma Yehudit (Otzma), “Z” to RZP-Zehut (RZP), “B” to Yisrael Beiteinu (YB), “D” to The Democrats (Democrats), “R” to Ra'am, and “J” to Joint List.
+
+This market will resolve to the listed option whose parties exactly match the parties included in the coalition. If the coalition includes any party not listed in an option, or does not include every party listed in an option, that option will resolve to “No”.
+
+If no listed option exactly matches the parties included in the coalition, this market will resolve to “Other”.
+
+Only a government formed by the 26th Knesset, elected on October 27, 2026, will be considered. If the 26th Knesset does not approve a government in a vote of confidence, including if it is dissolved and a new election is called before a government is formed, or if no such government is formed by December 31, 2027, 11:59 PM ET, this market will resolve to “No government formed”. Governments formed after any subsequent Knesset election will not be considered.
+
+This market may resolve once the 26th Knesset has approved the government in a vote of confidence and the composition of that government has been officially confirmed.
+
+This market will resolve based on a consensus of credible reporting. In case of ambiguity, this market will resolve based on official information from the Government of Israel and the Knesset.

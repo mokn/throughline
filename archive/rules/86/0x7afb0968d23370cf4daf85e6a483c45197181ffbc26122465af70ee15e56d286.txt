@@ -1,0 +1,5 @@
+This market will resolve to “Yes” if the upper bound of the European Central Bank’s (ECB) deposit facility rate is decreased at any point between January 1, 2026 and the conclusion of the ECB's December 2026 meeting, currently scheduled for December 16-17, 2026. Otherwise, this market will resolve to “No”.
+
+This market may not resolve to "No" until the ECB has released its rate change decision following its December meeting. If, however, the ECB’s December meeting is cancelled, postponed after December 31, 2026, or the rate change decision for that meeting is otherwise unknown by December 31, 2026, 11:59 PM ET, and no qualifying rate decrease has occurred, this market will resolve immediately to “No”.
+
+The primary resolution source for this market will be the European Central Bank (https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html), however a consensus of credible reporting may also be used.

@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if a frontier AI lab removes general public access in the United States to one of its previously publicly available AI models over safety, alignment, or security concerns by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Frontier AI labs refers to OpenAI, Anthropic, Google, SpaceXAI, and Meta, together with their subsidiaries and research divisions. Removals by any other company or organization will not qualify.
+
+A general removal of public access means the model is no longer available for use by the general public in the United States through any of the lab's ordinary public channels, including its consumer applications and self-serve API. Removal from a single channel while another public channel retains access, removals applying only to limited groups (e.g., foreign nationals), payment or pricing changes, and restrictions on particular capabilities or features of an otherwise accessible model will not qualify. A general removal qualifies even if access is retained by limited groups or organizations (e.g., whitelisted firms, approved-access programs, or individuals with security clearance). Removal of individual modes, snapshots, or reduced-capability variants will not qualify while the model itself remains publicly accessible; however, if only reduced-capability variants (e.g., mini or nano variants) remain accessible, the model will be considered removed.
+
+A removal qualifies only if the lab, or an official representative of the lab, attributes it, at least in part, to safety, alignment, or security concerns. A removal qualifies only if it is announced by the lab, or confirmed by a consensus of credible reporting, that public access has been removed rather than temporarily interrupted; outages, capacity limitations, or lack of access due to technical issues will not qualify. Routine retirements of a model replaced by a successor that the lab does not attribute to safety, alignment, or security concerns will not qualify.
+
+Once a qualifying removal has occurred, this market will resolve to "Yes" regardless of whether access is later restored.
+
+The resolution sources for this market will be official information from the frontier AI labs and a consensus of credible reporting.

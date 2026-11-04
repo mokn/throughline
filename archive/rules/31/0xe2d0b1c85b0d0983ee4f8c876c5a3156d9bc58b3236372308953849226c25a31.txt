@@ -1,0 +1,7 @@
+This market will resolve "Yes" if the United States Geological Survey (USGS) (https://www.usgs.gov/programs/earthquake-hazards/lists-maps-and-statistics) reports at least one earthquake of moment magnitude (Mw) 7.0 or greater with an epicenter located within the state of California by December 31, 2026 at 11:59:59 PM ET. Otherwise, this market will resolve "No".
+
+The state of California includes the entirety of California as recognized under U.S. law including offshore areas within California's territorial boundaries. Earthquakes occurring on the California border must have their USGS-listed epicenter coordinates fall within California's boundaries.
+
+Any individual event meeting the magnitude and location criteria resolves the market "Yes", regardless of whether it is classified as a mainshock, aftershock, or foreshock.
+
+Resolution will be based on the USGS's final reviewed magnitude, not preliminary estimates, regardless of when that review is published, but the qualifying earthquake needs to have occurred within California by December 31, 2026 at 11:59:59 PM ET. This market will resolve based on official information from USGS, however, an overwhelming consensus of credible reporting confirming a qualifying earthquake may also resolve this market in an instance where USGS becomes unavailable. 

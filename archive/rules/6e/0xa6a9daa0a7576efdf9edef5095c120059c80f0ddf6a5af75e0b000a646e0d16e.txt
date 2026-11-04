@@ -1,0 +1,9 @@
+his market will resolve to “Yes” if the average monthly Ethereum gas price is equal to or greater than the value specified in the title by December 31, 2026 ET. Otherwise, the market will resolve to “No”.
+
+The resolution source for this market is the dashboard available at https://dune.com/nibty/eth-gas-prices, using the “mean_gas” value displayed in the “Gas Prices Monthly Average” tab.
+
+This market will resolve as soon as a finalized average monthly gas price shown on the dashboard is equal to or greater than the value specified in the title, or once the value for December 2026 is finalized and no earlier finalized monthly value has met or exceeded that threshold.
+
+A monthly value will be considered finalized once the next monthly data point is published.
+
+If the resolution source becomes permanently unavailable, the market will resolve based on other reliable crypto data sources.

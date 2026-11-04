@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if either Moody's Ratings or S&P Global Ratings publishes a rating action lowering its long-term sovereign credit rating for the Republic of France, at any point between market creation and the listed date, 11:59 PM ET. Otherwise, this market will resolve to "No."
+
+A qualifying downgrade by either agency is sufficient for this market to resolve "Yes." A downgrade by both agencies is not required.
+
+For purposes of this market, “long-term sovereign credit rating” means any of the following: S&P Global Ratings’ long-term foreign-currency sovereign credit rating or long-term local-currency sovereign credit rating on France; or Moody’s Ratings’ long-term issuer rating or senior unsecured rating on the Government of France. A lowering of any of these qualifies.
+
+A change in outlook or CreditWatch/review status alone (for example, a move from Stable to Negative outlook, or placement on review for downgrade), an affirmation of an existing rating, a withdrawal of a rating, or a change to a short-term rating will not qualify. Only a lowering of a long-term sovereign credit rating itself will qualify.
+
+Rating actions by any agency other than Moody's Ratings and S&P Global Ratings — including Fitch Ratings, Scope Ratings and DBRS Morningstar — will not qualify.
+
+The primary resolution sources for this market will be the official rating action publications of Moody's Ratings (https://ratings.moodys.com) and S&P Global Ratings (https://www.spglobal.com/ratings), together with the Agence France Trésor published ratings page (https://www.aft.gouv.fr/en/frances-credit-ratings); however, a consensus of credible reporting may also be used.

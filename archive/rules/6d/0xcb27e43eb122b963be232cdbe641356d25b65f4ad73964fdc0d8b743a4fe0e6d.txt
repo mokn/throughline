@@ -1,0 +1,23 @@
+This market will resolve to “Yes” if, according to the ISW map, Russia captures the entirety of Kostyantynivka, Donetsk Oblast, (48.528896° N, 37.702514° E) between market creation and the specified date, 11:59 PM ET.
+
+Kostyantynivka will be considered captured if the entirety of the municipality is shaded under a below specified layer on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. Otherwise, the market will resolve to “No”.
+
+The boundaries of the municipality are those shown under the “Ukrainian Settlements” layer on the ISW map. If all area within the municipality is shaded under a qualifying layer, however, the shading does not precisely match up with the border such that there is a tiny amount of unshaded area along the border of the municipality, this will still qualify for a "Yes" resolution.
+
+For any change on the ISW map to qualify for this market’s resolution, the relevant shading must persist through the next full ISW daily update cycle. If ISW skips a day, shading must persist until the next finalized ISW update is published, regardless of the date.
+
+Any continuous shading under the following layers will qualify:
+- Assessed Russian-Controlled Terrain
+- Assessed Russian Advances
+
+Shading under the following layers will not qualify:
+- Assessed Russian Infiltration Areas
+- Claimed Russian Territory
+
+Once a qualifying condition is met, any subsequent loss of control will not be considered towards the resolution of this market.
+
+If Russia comes into control of the specified territory as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of whether it is shaded under a qualifying layer on the ISW map. However, an announcement of a negotiated settlement that gives Russia de jure control will not qualify. Actual control must be established.
+
+The primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.
+
+Note: Any temporary glitches or errors in the map will not be considered.

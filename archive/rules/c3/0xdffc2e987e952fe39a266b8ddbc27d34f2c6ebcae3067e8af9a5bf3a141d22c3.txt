@@ -1,0 +1,7 @@
+This market will resolve "Yes" if NOAA's Climate Prediction Center reports a Relative Oceanic Niño Index (RONI) value of +2.0°C or higher for any of the following seasons: ASO 2026, SON 2026, OND 2026, NDJ 2026-27, or DJF 2026-27, as reported in official NOAA CPC RONI updates, https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso/roni/. Otherwise, this market will resolve "No". 
+
+A Super El Niño is an El Niño event in which RONI reaches this threshold for at least one overlapping ENSO season. An ENSO season is one of NOAA's standard overlapping 3-month periods (e.g., ASO, SON, OND, NDJ, DJF).
+
+This market may resolve "Yes" immediately upon NOAA's first publication of a qualifying RONI value for any listed season. If no season has qualified, this market will not resolve "No" until NOAA publishes the DJF 2026-27 value since DJF captures El Niño's typical peak-strength window and an earlier "No" could contradict the final published data.
+
+The first published RONI value for each listed season is final and governs this market's resolution; no subsequent revision to any season's value will be considered or will change the outcome once that season's first value has been published.

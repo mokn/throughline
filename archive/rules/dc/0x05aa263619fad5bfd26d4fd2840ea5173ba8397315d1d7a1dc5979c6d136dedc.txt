@@ -1,0 +1,13 @@
+This market will resolve to "Yes" if, by 11:59 PM ET on the date specified, a quantum computer has been publicly demonstrated to derive a valid private key corresponding to an existing Bitcoin address using a quantum algorithm, such that the derived key is sufficient to sign a valid transaction on the Bitcoin mainnet. Otherwise, this market will resolve to “No.”
+
+To qualify, the demonstration must satisfy all of the following:
+
+The private key must be derived from a real Bitcoin address whose corresponding public key has been revealed on the Bitcoin blockchain (for example, via a prior transaction). The address must use standard Bitcoin cryptography with no artificial weakening or modification.
+
+The target address must be reasonably believed not to be controlled by the demonstrator. This may be established through credible reporting, prior attribution (such as a known exchange or historical address), or broad consensus among experts. 
+
+The derivation must rely on a quantum computing method that provides a computational advantage for solving the elliptic curve discrete logarithm problem underlying Bitcoin’s ECDSA (e.g., Shor’s algorithm or a comparable quantum algorithm). Purely classical methods, side-channel attacks, or approaches where quantum computation does not play a material role in deriving the key do not qualify.
+
+The derived private key must be shown to be valid by either signing and broadcasting a valid transaction from the target address on the Bitcoin mainnet, or by independent reproduction and confirmation by multiple credible third parties. The result must be widely accepted by the cryptographic research community as valid.
+
+The resolution source will be a consensus of credible reporting.

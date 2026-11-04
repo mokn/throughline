@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if Amazon Web services experiences any service interruption event with a severity classification of “disrupted” by November 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No.”
+
+The severity classification of an AWS service interruption event may be found on the AWS Health Dashboard (https://health.aws.amazon.com/health/status) when the relevant event is selected under “List of events.” Only publicly visible service events listed on the AWS Health Dashboard status page qualify. Account-specific AWS Health events do not count.
+
+Qualifying incidents may include outages and other issues whose severity AWS classifies as “disrupted.” 
+
+This market will resolve as soon as the severity of any service interruption is classified as “disrupted”, regardless of subsequent revisions or corrections. Revisions to the severity classification of any event to a classification of “disrupted” will be considered as long as those revisions are published within this market’s timeframe.
+
+If an incident is ongoing at this market’s resolution time, the market may remain open until that incident receives an official severity classification, and it will resolve based on the first such classification published.
+
+The resolution source for this market will be official information from the Amazon Web Services Health Dashboard (https://health.aws.amazon.com/health/status).

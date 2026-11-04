@@ -1,0 +1,5 @@
+This market will resolve to 'Yes' if the seasonally adjusted and annualized GDP growth rate for the full year 2026, as derived from the 'Advance Estimate' for Q4 2026, with a release by the U.S. Bureau of Economic Analysis (BEA) expected in January 2027, reports a growth rate below 0. Otherwise, this market will resolve to 'No'.
+
+The GDP release will be available at: https://www.bea.gov/data/gdp/gross-domestic-product.
+
+Only the first available GDP report labeled as the 'Advance Estimate' for Q4 2026, which provides the initial full-year 2026 GDP growth rate, will be used for resolution. Any subsequent revisions or updates to the data will not be considered.

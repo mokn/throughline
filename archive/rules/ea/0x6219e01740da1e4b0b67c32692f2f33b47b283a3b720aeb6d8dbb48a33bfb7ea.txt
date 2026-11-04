@@ -1,0 +1,13 @@
+This Market will resolve according to the estimate of the World GDP growth rate (Real GDP, annual percent change) reported by the International Monetary Fund in the World Economic Outlook Update released between the October 2026 and April 2027 editions of the World Economic Outlook, expected to be released in January 2027. 
+
+The relevant figure may be found in the table titled “World Economic Outlook Growth Projections” under “Estimate” in the row “World Output” and the column “2026”. Changes in the IMF’s World Economic Outlook reporting format will not disqualify a published figure from counting.
+
+The GDP release will be made available here: https://www.imf.org/en/publications/weo
+
+If no estimate of the 2026 annual percent change in world real GDP is released in a World Economic Outlook Update between the October 2026 and April 2027 editions of the World Economic Outlook, this market will resolve according to the published figure for 2026 annual percent change in World real GDP in the April 2027 edition of the World Economic Outlook. If no such figure is published by April 30, 2027, 11:59 PM ET, another credible resolution source will be chosen.
+
+If multiple World Economic Outlook Updates are released between the October 2026 and April 2027 editions of the World Economic Outlook, this market will resolve based on the first such publication which includes an estimate of the 2026 annual percent change in World GDP. Projections of World GDP, however, will not be considered.
+
+Note: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following release or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution.
+
+Note: the resolution source for this market reports annual percent change in world real GDP to one decimal point (e.g. 3.3%). Thus, this is the level of precision that will be used when resolving the market.

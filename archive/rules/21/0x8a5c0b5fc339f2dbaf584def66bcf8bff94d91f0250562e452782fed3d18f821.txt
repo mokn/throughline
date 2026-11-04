@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if, on any trading day after market creation, the official daily high price published by the CME Group for the Active Month (front month) of CME Crude Oil (CL) futures is greater than $147.27 by the final trading day on or before the specified date. Otherwise, this market will resolve to "No".
+
+For CME Crude Oil (CL) futures contracts, the active month is the nearest of the contract months listed. The active month becomes a non-active month effective two business days prior to the spot month expiration. For example, if the spot month expires on a Friday the next listed contract will be considered the Active Month on the Wednesday prior to the spot month expiration.
+
+This market will resolve as soon as a high price greater than the listed value is published, or once finalized data for the final trading day of the specified time period is published and a high price greater than $147.27 has not been achieved.
+
+The resolution source for this market is the CME Group website (https://www.cmegroup.com/markets/energy/crude-oil/light-sweet-crude.quotes.html) — specifically, the daily "High" prices for the Active Month of Crude Oil (CL) futures. If finalized data for the final trading day of the specified time period has not been published on the CME Group website within 14 calendar days (ET) of the end of that period, this market will resolve based on the data published through all CME Group channels up to that point.

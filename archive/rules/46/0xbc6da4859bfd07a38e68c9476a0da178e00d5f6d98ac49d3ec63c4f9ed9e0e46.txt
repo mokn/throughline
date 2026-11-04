@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if the Nasdaq Stock Exchange (Nasdaq) extends its trading schedule to cover at least 22 hours per day, 5 days per week by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+5 days per week refers to any 5 24-hour periods which Nasdaq treats as trading days. This is not limited to the weekday hours of the Eastern Time Zone (e.g. a day starting on Sunday at 9PM ET and ending on Monday at 9PM ET will count, as long as at least 22 of the relevant 24 hours are open for trading).
+
+A qualifying Nasdaq trading schedule must be active, operational, and publicly accessible for trading of Nasdaq-listed securities to qualify for a “Yes” resolution. The announcement of such a trading schedule within this market’s timeframe will not suffice on its own.
+
+Technical errors (e.g. a circuit breaker), trading holidays, or any planned shortened days will not disqualify this market from resolving to “Yes,” provided Nasdaq has officially implemented a qualifying trading schedule.
+
+Limited trading restrictions outside of regular market hours (i.e. lower liquidity or restricted order types) will not disqualify an extended trading schedule from resolving this market.
+
+The primary resolution source for this market will be official information from Nasdaq; however, a consensus of credible reporting may also be used.

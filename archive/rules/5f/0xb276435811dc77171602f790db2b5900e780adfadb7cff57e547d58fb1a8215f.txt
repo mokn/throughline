@@ -1,0 +1,21 @@
+This market will resolve according to the asset which has the best performance in 2026 among Bitcoin, Gold, and the S&P 500 with performance measured as the percentage change in price during the year for each asset. 
+
+The percentage change in price for Bitcoin will be calculated by comparing the "Close" price for the Binance 1 minute candle for BTC/USDT on January 1, 2026 12:00 AM ET to the "Close" price for the Binance 1 minute candle for BTC/USDT on December 31, 2026 11:59 PM ET.
+
+The resolution source for Bitcoin will be Binance, specifically the BTC/USDT "Close" prices currently available at https://www.binance.com/en/trade/BTC_USDT in the chart with "1m" and "Candles" selected on the top bar and the mouse on the candle for the relevant minute (the “time tools” selection may be used to view historical candles).
+
+The percentage change in Gold will be calculated by comparing the official Gold Continuous Contract (GC00) Close price for the last trading day in 2025 to the official Gold Continuous Contract (GC00) Close price for the last trading day in 2026, as reported by MarketWatch.
+
+The resolution source for Gold will be MarketWatch, specifically the close values reported for Gold Continuous Contract (GC00) under “Historical Quotes” at https://www.marketwatch.com/investing/future/gc00.
+
+The percentage change in the S&P 500 will be calculated by comparing the official S&P 500 Index (^SPX) Close price for the last trading day in 2025 to the official S&P 500 Index (^SPX) Close price for the last trading day in 2026, as reported by Yahoo Finance.
+
+The resolution source for the S&P 500 will be Yahoo Finance, specifically the Close values published by Yahoo Finance for S&P 500 Index (^SPX) at https://finance.yahoo.com/quote/%5ESPX/history/.
+
+If two or more listed assets have exactly the same performance for 2026, this market will resolve according to the asset whose name, as listed in the title of this market, comes first alphabetically (e.g. if Bitcoin and Gold tie, this market will resolve to Bitcoin).
+
+Only closing prices will be used for all calculations; total return measures will not be applied.
+
+If either of the relevant trading days are shortened, the official closing price published for that session will be used.
+
+If any relevant day lacks a specified closing price, the last valid historical closing price offered by the resolution source will be used.

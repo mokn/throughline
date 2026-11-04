@@ -1,0 +1,13 @@
+The 2026 midterm elections are scheduled to be held on November 3, 2026.
+
+This market will resolve to "Yes" if any federal or statewide election held on November 3 has a margin of victory of 0.01% or less. Otherwise, this market will resolve to "No". 
+
+For the purpose of this market, the “margin of victory” is defined as the absolute difference between the percentages of valid votes received by the first- and second-place candidates. Percentages of the valid votes received by each candidate or option will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the election.
+
+In the midterms, a federal election is an election to either the United States Senate or House of Representatives (including non-voting seats), and a statewide election is any election, excluding ballot measures, which is on the ballot for all voting individuals within one of the fifty United States.
+
+For elections decided through ranked-choice voting or another multi-round tabulation of ballots cast in a single election, the relevant margin will be the margin between the final two candidates in the tabulation round in which the winner is determined, calculated using the valid votes remaining active in that round. If a separate runoff or subsequent round is held on another date, only the results of the November 3 election will be considered, regardless of whether that election determines the eventual winner.
+
+The resolution source for this market will be the certified results of the United States state and territorial election authorities, however, a consensus of credible reporting may also be used.
+
+If the results of any election cannot be determined by March 31, 2027, it will not be included for purposes of this market. 

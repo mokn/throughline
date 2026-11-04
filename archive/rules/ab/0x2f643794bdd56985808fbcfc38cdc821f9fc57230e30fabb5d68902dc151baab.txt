@@ -1,0 +1,8 @@
+This market will immediately resolve to “Yes” if any Bybit 1-minute candle for Sui (SUI/USDT) between the creation of this market and December 31, 2026, 23:59 ET has a final “High” price equal to or greater than the price specified in the title. Otherwise, the market will resolve to “No.”
+
+The resolution source for this market is Bybit, specifically the SUI/USDT “High” prices available at:
+https://www.bybit.com/en/trade/spot/SUI/USDT
+with the chart set to “1m” (one-minute candles) on the top bar.
+
+Only the Bybit SUI/USDT price feed will be used.
+Prices from other exchanges, trading pairs, or spot markets will not be considered.

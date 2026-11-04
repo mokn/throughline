@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if Polymarket has at least the specified daily mindshare, as shown on the Kaito Information Markets Arena page (https://kaito.ai/mindshare-arena/infomarkets) at any point between market creation and December 31, 2026 ET. Otherwise, this market will resolve to "No".
+
+Only finalized daily results from the Polymarket mindshare percentage shown on the Kaito Info Markets page at https://kaito.ai/mindshare-arena/infomarkets, specifically the daily values for Polymarket under 'Historical Data', will be used to resolve this market. Values will be considered final once the value for the subsequent day has been released.
+
+The resolution source for this market is the Kaito Info Markets page found at https://kaito.ai/mindshare-arena/infomarkets. If this resolution source is unavailable at check time, this market will remain open until the Kaito Info Markets page comes back online and resolve based on the first check after it becomes available. If it becomes permanently unavailable, this market will resolve based on the latest available data.
+
+Note: the resolution source for this market will be the Kaito Info Markets page (https://kaito.ai/mindshare-arena/infomarkets), which reports the platform’s mindshare as a percentage to two decimal places (e.g., 66.56%). Thus, this is the level of precision that will be used when resolving the market.

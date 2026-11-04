@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if Anthropic's next Claude Opus model (5.6+) debuts at a standard output token price of at least the specified price, in USD per million tokens. Otherwise, this market will resolve to "No".
+
+A qualifying model must have a name or model identifier that includes "Opus" and be designated as version 5.6 or higher, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, a version 5.6 or higher named in the same manner as Claude Opus 5 or Claude Opus 5.5 would qualify, including a new whole-number generation such as Claude Opus 6, while models whose name does not include "Opus" or which retain a version designation below 5.6, such as Claude Opus 5.5, including any rollout, promotion, or snapshot of it, will not qualify.
+
+The debut price is the “Base tokens” output price for default global inference, at the rate that does not trigger a long-context surcharge, announced by Anthropic or listed on its official API pricing page when the model is first made available to the general public. An introductory price qualifies. Batch, fast mode, cached, US-only inference, and other data-residency prices do not qualify. If multiple qualifying models debut on the same date, the highest qualifying price applies.
+
+If no qualifying model is made available to the general public by June 30, 2027, 11:59 PM ET, this market will resolve to "No".
+
+The primary resolution source for this market will be official information from Anthropic, including its official API pricing page (https://platform.claude.com/docs/en/about-claude/pricing), with additional verification from a consensus of credible reporting.

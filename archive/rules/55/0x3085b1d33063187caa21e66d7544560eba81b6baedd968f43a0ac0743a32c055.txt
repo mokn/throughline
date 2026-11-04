@@ -1,0 +1,13 @@
+This market will resolve to "Yes" if the next Google Gemini Pro model added to the Humanity’s Last Exam results at https://agi.safe.ai/ has an HLE Accuracy of at least the specified percentage at 12:00 PM ET on the calendar date following the date on which it first appears on the site. Otherwise, this market will resolve to "No".
+
+If a model first appears on the site but is removed before 12:00 PM ET on the following calendar date, its appearance will not qualify as added to the Humanity’s Last Exam results.
+
+Any Gemini model labeled as "Pro" may qualify (e.g., gemini-3.2-pro, gemini-3.5-pro, or gemini-4.0-pro-preview). Gemini models labeled only as Flash, Flash-Lite, or another non-Pro variant will not qualify. Products labeled as a GA promotion of an already-existing Preview model (e.g., gemini-3.1-pro-ga) may qualify.
+
+The percentage displayed as “HLE Accuracy” for the model in its result card on the “AI Progress on Humanity’s Last Exam” chart at https://agi.safe.ai/ will be used to resolve this market. This market will resolve solely based on the displayed HLE Accuracy, regardless of the model’s Calibration Error, chart position, other configuration scores, or any underlying granular or unrounded data presented elsewhere.
+
+If multiple qualifying models are added to the Humanity’s Last Exam results on the same calendar date (ET), the model with the highest HLE Accuracy will be used for resolution. Models added to the results on the calendar date following the initial qualifying model’s first appearance will not be considered.
+
+A qualifying model must be newly added to the Humanity’s Last Exam results at https://agi.safe.ai/. Whether the model was previously released, publicly accessible, in beta, or otherwise available before appearing on the site is irrelevant for this market.
+
+The resolution source for this market is the official Humanity’s Last Exam website found at https://agi.safe.ai/. If this resolution source is unavailable at 12:00 PM ET on the calendar date following the date on which the qualifying model first appears on the site, this market will resolve based on the first subsequent instance at which the model’s HLE Accuracy becomes available on the site. If it remains unavailable through the end of the seventh day after the qualifying model first appears on the site or if no qualifying model is added by December 31, 2026, 11:59 PM ET, this market will resolve to "No".

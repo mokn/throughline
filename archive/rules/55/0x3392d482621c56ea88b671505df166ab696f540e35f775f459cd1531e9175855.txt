@@ -1,0 +1,8 @@
+This market will immediately resolve to “Yes” if any Lighter 1-minute candle for Lighter (LIT/USDC) between December 30, 2025, 14:25 and December 31, 2026, 23:59 ET has a final “High” price equal to or greater than the price specified in the title. Otherwise, the market will resolve to “No.”
+
+The resolution source for this market is Lighter, specifically the LIT/USDC “High” prices available at:
+https://app.lighter.xyz/trade/LIT_USDC
+with the chart set to “1m” (one-minute candles) on the top bar.
+
+Only the Lighter LIT/USDC price feed will be used.
+Prices from other exchanges, trading pairs, or spot markets will not be considered.

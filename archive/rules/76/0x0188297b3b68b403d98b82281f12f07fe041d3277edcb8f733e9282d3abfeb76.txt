@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if the market capitalization of HYPE (HYPE) surpasses that of Solana (SOL) according to CoinGecko at any point between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+This market will resolve based on CoinGecko's data for each coin, currently available at https://www.coingecko.com/en/coins/hyperliquid and https://www.coingecko.com/en/coins/solana, respectively.
+
+If CoinGecko stops showing relevant data, data from CoinMarketCap will be used instead.

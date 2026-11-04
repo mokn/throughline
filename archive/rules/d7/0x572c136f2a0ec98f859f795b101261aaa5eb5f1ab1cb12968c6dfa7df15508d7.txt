@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if any model on the Chatbot Arena LLM Leaderboard (https://lmarena.ai/) reaches at least the specified Arena Score by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Results from the 'Score' section on the 'Text Arena' Leaderboard tab (https://lmarena.ai/leaderboard/text), with the style control unchecked, will be used to resolve this market.
+
+The resolution source is the Chatbot Arena LLM Leaderboard (https://lmarena.ai/). If this source is temporarily unavailable, the market remains open until it is accessible again; if permanently unavailable, this market will resolve to "No".

@@ -1,0 +1,9 @@
+This market will resolve according to Brazil’s gross domestic product growth rate compared to the prior quarter (GDP at market prices, %) in the 3rd quarter of 2026, as reported by the Instituto Brasileiro de Geografia e Estatística’s (IBGE) System of Quarterly National Accounts release for Q3 of 2026, scheduled for release on December 2, 2026.
+
+The GDP release and relevant statistics will be made available here: https://www.ibge.gov.br/en/statistics/economic/national-accounts/17262-quarterly-national-accounts.html
+
+If the specified release is not published, this market will resolve based on the first published figure for the specified quarter’s GDP growth rate compared to the prior quarter. If no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.
+
+Note: the resolution source for this market reports GDP growth rates compared to the prior quarter to only one decimal point (e.g. 0.8%). Thus, this is the level of precision that will be used when resolving the market.
+
+Note: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution. For the full release schedule, see: https://www.ibge.gov.br/en/calendar.html

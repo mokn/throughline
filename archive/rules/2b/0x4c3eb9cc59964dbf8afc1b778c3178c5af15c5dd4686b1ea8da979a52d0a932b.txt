@@ -1,0 +1,9 @@
+This is a market about the variation of consumer prices in India over the 12-month period ending December 2026, as reported by the Indian Ministry of Statistics and Programme Implementation (MoSPI).
+
+This market will resolve according to the percentage change in India’s Consumer Price Index (CPI) over the 12-month period ending December 2026 (Year-on-Year inflation, over the same month of the previous year), according to the monthly MoSPI Consumer Price Index report for the specified month.
+
+The resolution source for this market will be the MoSPI Consumer Price Index report released for December 2026, currently scheduled to be released on January 12, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+The relevant report will be made available upon release at: https://mospi.gov.in/latest-releases
+
+Note: This market’s resolution source reports percentage change in the Indian Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://www.mospi.gov.in/uploads/documents/releaseCalender/1770293210621-ADVANCE%20RELEASE%20CALENDAR%202026-27%20FINAL%2005.02.2026.pdf

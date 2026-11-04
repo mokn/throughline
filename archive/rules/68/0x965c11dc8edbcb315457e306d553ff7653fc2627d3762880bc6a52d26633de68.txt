@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if the next Bitcoin halving occurs by the date specified in the title, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+The next Bitcoin halving refers to the mining of Bitcoin block 1,050,000, the block at which the Bitcoin network’s block subsidy is next scheduled to be reduced by half.
+
+The resolution source is mempool.space (https://mempool.space), specifically the “Timestamp” value displayed on the page for block 1,050,000 once it has been mined, converted to Eastern Time. For an example of where the “Timestamp” value is displayed on a block’s page, see this earlier block: https://mempool.space/block/00000000000000000001e019fb455cb292d5ba5b41ebfad92ab4e0f378e83d25.
+
+This market is based solely on the “Timestamp” value displayed on mempool.space for block 1,050,000, not on network propagation or observation times, data from third-party explorers, or unofficial sources.
+
+If the resolution source becomes permanently unavailable within this market’s timeframe and before resolution criteria are met, the market will resolve based on a reliable alternative source, such as another Bitcoin block explorer, or public data consistent with the Bitcoin blockchain.

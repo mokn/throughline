@@ -1,0 +1,7 @@
+This market will immediately resolve to “Yes” if any Uniswap 1-minute candle for CASHCAT (CASHCAT/WETH) between the creation of this market and December 31, 2026, 23:59 ET has a final "High" or "Low" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, the market will resolve to “No”.
+
+The resolution source for this market is Uniswap, specifically the CASHCAT/WETH “High” and "Low" prices available at:
+https://dexscreener.com/robinhood/0xa70fc67c9f69da90b63a0e4c05d229954574e313
+with the chart set to “USD” and “1m” (one-minute candles) on the top bar.
+
+Only the Uniswap v3 CASHCAT/WETH price feed on Robinhood Chain will be used. Prices from other exchanges, trading pairs, or spot markets will not be considered.

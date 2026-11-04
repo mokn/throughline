@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the seasonally adjusted unemployment rate (15 years and over, total) reported by Statistics Canada in the Labour Force Survey for any month of 2026 is higher than that of any other month since January 2017 (inclusive). Otherwise, this market will resolve to "No".
+
+The resolution source for this market is the Labor Force Survey, published by Statistics Canada every month at https://www150.statcan.gc.ca/n1/dai-quo/cal1-eng.htm.
+
+Any revisions to the data after the first qualifying release will not count toward this market's resolution; only the initial figure released for each month will qualify. This market will resolve immediately upon a qualifying release of data.
+
+If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.

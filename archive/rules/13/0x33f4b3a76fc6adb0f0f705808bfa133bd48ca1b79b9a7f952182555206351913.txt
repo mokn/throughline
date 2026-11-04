@@ -1,0 +1,17 @@
+This market will resolve to “Yes” if the listed person, group, entity, or thing is TIME Person of the Year for 2026. Otherwise, this market will resolve to “No”.
+
+A listed option will be considered TIME Person of the Year if they/it are explicitly named as Person of the Year. 
+
+Additionally, the following rules apply:
+
+If multiple people are explicitly named person of the year, both people will be considered TIME Person of the Year.
+
+If the TIME Person of the Year is a concept, group or thing, a person may still be considered Person of the Year if they are also explicitly named person of the year, or if they are directly associated with the concept, group or thing named as person of the Year and are pictured on any official TIME cover announcing the Person of the Year. For example, in 2025 when TIME Person of the Year was “Architects of AI” the option for Sam Altman would have resolved to “Yes” as he was associated with the concept and is pictured on the Cover. However, if Sam Altman were Person of the Year, and ChatGPT was shown on the cover, this would not qualify for ChatGPT because ChatGPT is not a person.
+
+If the TIME Person of the Year is a specific concept, group, entity, or thing (e.g. artificial intelligence), listed concepts or entities will be considered Person of the Year only if they are synonymous with the announced TIME Person of the Year. For example, if ChatGPT were Person of the Year, options for AI or LLMs would resolve to “No” because, while they are conceptually linked, they are not synonymous.
+
+If TIME uses language that does not refer to a specific, commonly-recognized, concept, group, entity, or thing (e.g. 2011’s “The Protester” or 2017’s “The Silence Breakers”), the TIME Person of the Year feature article will be used to determine the meaning of the language defining TIME Person of the Year. In such cases, listed concepts, groups, or things will be considered TIME Person of the Year if they can be reasonably understood as equivalent to the meaning of the language used to define TIME Person of the Year. For example, the option for “The Me Too Movement” would have resolved to “Yes” in 2017. 
+
+If for any reason the TIME's Person of the Year is not announced by June 30, 2027, 11:59 PM ET, this market will resolve to "No".
+
+The resolution source for this market will be the TIME magazine cover or covers announcing the 2026 TIME Person of the Year; however, the TIME Person of the Year Feature article may also be used.

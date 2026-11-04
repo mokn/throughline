@@ -1,0 +1,9 @@
+This is a market about the variation of consumer prices in the U.K. over the 12-month period ending December 2026, before seasonal adjustment, as reported by the Office for National Statistics (ONS).
+
+This market will resolve according to the percentage change in the Consumer Price Index (CPI) over the 12-month period ending December 2026, according to the monthly ONS report.
+
+The resolution source for this market will be the ONS Consumer Price Index monthly report released for December 2026 (https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/previousreleases), currently scheduled to be released on January 20, 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+You can find this report by choosing the report for the relevant month from the previous releases page for price indices on the ONS website (https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/previousreleases). The relevant figure can be found in the "Consumer price inflation rates" table under the column labeled "CPI 12-month rate (%)" for the relevant month.
+
+Note: the resolution source for this market will be the official monthly ONS CPI news release which reports inflation change over 12-month periods to only one decimal point (e.g. 1.9%). Thus, this is the level of precision that will be used when resolving the market. For the full release schedule, see: https://www.ons.gov.uk/releasecalendar

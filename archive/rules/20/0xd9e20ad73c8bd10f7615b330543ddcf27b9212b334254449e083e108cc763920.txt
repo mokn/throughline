@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if a critical vulnerability in PHP is first publicly disclosed between market creation and December 31, 2026, 11:59 PM ET, and meets all requirements below by that deadline. Otherwise, this market will resolve to “No”.
+
+Public disclosure means publicly available information sufficient to identify the specific vulnerability, whether through an official advisory, researcher publication, leak, or public code commit. A general warning about an unspecified vulnerability will not alone qualify. A vulnerability publicly disclosed before market creation will not qualify merely because it receives a CVE identifier or qualifying score during the market period.
+
+A qualifying vulnerability must affect PHP itself (the PHP interpreter and the extensions bundled in the official php-src source code), must be assigned a publicly available CVE identifier, and must receive a publicly published CVSS base score of 9.0 or higher (under any CVSS version) from either the PHP project or the US National Vulnerability Database (NVD). Vulnerabilities affecting only unsupported PHP versions or optional bundled extensions will qualify if they otherwise meet these requirements. Extensions distributed separately from php-src (for example, through PECL) will not qualify.
+
+A qualifying score from either source is sufficient, regardless of a lower score from the other source or under another CVSS version. Only a score published by the NVD itself (attributed to NIST) or by the PHP project will count; scores displayed by NVD but attributed to any other organization will not qualify. Once all requirements have been met during the market period, subsequent score revisions will not affect resolution.
+
+CVE-2026-109618 and CVE-2026-109619 (“PHP2Shell”) will not qualify. Vulnerabilities in third-party software written in or running on PHP (for example, WordPress, Laravel, Drupal, plugins, or other frameworks and libraries) will not qualify.
+
+The primary resolution source for this market will be official information from the PHP project (including php.net and the php-src GitHub security advisories) and the NVD (https://nvd.nist.gov); however, a consensus of credible reporting may also be used.

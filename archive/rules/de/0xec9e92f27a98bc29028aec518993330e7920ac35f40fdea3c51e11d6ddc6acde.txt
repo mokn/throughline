@@ -1,0 +1,5 @@
+This market will resolve according to the number of SpaceX launches between January 1, 2026, 12:00AM ET and December 31, 2026, 11:59PM ET.
+
+If the reported total number of SpaceX launches falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The resolution source for this market will be https://www.spacex.com/launches.

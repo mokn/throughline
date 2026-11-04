@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if the standard output token price of Anthropic's latest Claude Fable model is equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the price specified in the title, in USD per million tokens, at any point between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Anthropic's latest Claude Fable model means the model with the highest version number among models by Anthropic explicitly named Fable, such as Claude Fable 5 or Claude Fable 5.1, that have a standard output token price listed on Anthropic's official API pricing page. If more than one such model shares the highest version number, the most recently released of them applies. Only models that are publicly accessible, including via open beta or open rolling waitlist signups, will be considered; models available only through a closed beta or any form of private or limited access will not qualify.
+
+The relevant price is the “Base tokens” output price on Anthropic’s official API pricing page for default global inference, at the rate applicable to requests that do not trigger a long-context surcharge. Prices for batch, fast mode, cached, or US-only inference and other data-residency variants will not be considered. Any promotional, temporary, or volume-discount pricing will not be used for resolution; only the standard listed API price applies. 
+
+A price qualifies only while the model is Anthropic's latest Claude Fable model as defined above, after market creation.
+
+The resolution source for this market will be Anthropic's official API pricing page (https://platform.claude.com/docs/en/about-claude/pricing). Official announcements and archived copies of this page may be used to confirm prices and when they were displayed; a consensus of credible reporting may also be used.

@@ -1,0 +1,5 @@
+This market will resolve to "Yes" if MicroStrategy incorporated is margin called on any of its Bitcoin-backed loans by December 31, 2026, 11:59 PM ET, resulting in either a forced liquidation of Bitcoin by a lender or MicroStrategy posting additional collateral or making a loan repayment in response to the margin call. Otherwise, this market will resolve to "No."
+
+A margin call is defined as a lender formally requiring MicroStrategy to either provide additional collateral or repay part of a loan due to the value of Bitcoin collateral falling below the required loan-to-value (LTV) ratio. Voluntary Bitcoin sales by MicroStrategy that are not explicitly in response to a margin call will not count. 
+
+The primary resolution sources will be SEC filings, official MicroStrategy statements, and a consensus of credible financial reporting.

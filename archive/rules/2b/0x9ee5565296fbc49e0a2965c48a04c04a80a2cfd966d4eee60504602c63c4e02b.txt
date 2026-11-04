@@ -1,0 +1,10 @@
+The FED interest rates are defined in this market by the lower or the upper bound of the target federal funds range. The decisions on the target federal fund range are made by the Federal Open Market Committee (FOMC) meetings.
+
+This market will resolve to “Yes” if the lower or the upper bound of the target federal funds rate reaches the specified level at any point by December 31, 2026, 12:59 PM ET. Otherwise, this market will resolve to “No.”
+
+Emergency rate cuts and hikes outside the regularly scheduled meetings will be considered.
+
+The resolution source for this market is the official website of the Federal Reserve at:
+https://www.federalreserve.gov/monetarypolicy/openmarket.htm.
+
+This market may resolve as soon as the relevant data showing the reached level is published.

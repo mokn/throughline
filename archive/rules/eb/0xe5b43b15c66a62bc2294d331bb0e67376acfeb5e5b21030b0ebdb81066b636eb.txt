@@ -1,0 +1,9 @@
+This market will resolve according to the team that wins the 2026 Polymarket Fantasy League championship. The Polymarket Fantasy League is an ESPN Fantasy Football league (https://fantasy.espn.com/football/league?leagueId=447376974). The champion is the team that wins the league's playoff championship matchup, scheduled for Week 17 of the 2026 NFL season (December 31, 2026 to January 4, 2027), as determined by the league's settings on ESPN Fantasy. If the championship matchup ends in a tie, the champion will be the team that ESPN Fantasy declares the winner under the league's playoff tiebreaker settings.
+
+If at any point it becomes impossible for a listed team to win the 2026 Polymarket Fantasy League championship per the league's settings on ESPN Fantasy (e.g., they fail to qualify for or are eliminated from the playoffs), the corresponding market will resolve to "No".
+
+Listed teams refer to the teams in this league as named on ESPN Fantasy at market creation. If a team is renamed, the corresponding market will refer to that same team under its new name.
+
+The "Other" option resolves to "Yes" only if none of the listed teams is declared the winner of the 2026 Polymarket Fantasy League championship. If the league is cancelled, or there is otherwise no single champion declared by January 19, 2027, 11:59 PM ET, this market will resolve to "Other".
+
+The primary resolution source will be official information from the league's page on ESPN Fantasy; however, a consensus of credible reporting may also be used.

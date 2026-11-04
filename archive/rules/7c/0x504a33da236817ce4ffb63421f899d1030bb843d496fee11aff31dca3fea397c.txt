@@ -1,0 +1,13 @@
+This market will resolve according to the implied equity valuation of Anthropic at its initial public offering (IPO) price. Anthropic refers to Anthropic PBC or the corporate successor or parent holding company whose listing represents Anthropic's business.
+
+The IPO price will be the final offering price to the public as stated in the final prospectus filed with the U.S. Securities and Exchange Commission. Trading prices after listing, including the opening trade, intraday prices, or closing price on the first day of trading, will not be considered. Indicated or preliminary price ranges, including any ranges disclosed in earlier filings or amendments, will not be considered.
+
+The IPO valuation will be determined in the following order of precedence: (1) the implied fully diluted valuation at the final IPO price, as stated in the final prospectus or in an official Anthropic announcement; (2) if no such figure is stated, the final IPO price per share multiplied by the total number of shares outstanding on a fully diluted basis as disclosed in the final prospectus, where the fully diluted count includes all outstanding shares of every class and all shares underlying outstanding options, restricted stock units, warrants, and convertible instruments, regardless of vesting or exercise status and without applying the treasury stock method; (3) if the fully diluted share count cannot be determined from the final prospectus, the implied fully diluted IPO valuation as reported by a consensus of credible reporting.
+
+If the determined valuation falls exactly on a boundary between two ranges, this market will resolve to the higher range.
+
+If Anthropic's IPO has not priced by December 31, 2027, 11:59 PM ET, the market will resolve to "No IPO by December 31, 2027". If the IPO prices by the deadline, the market will resolve according to the final prospectus even if it is published after the end date.
+
+If Anthropic becomes publicly traded without a priced initial public offering, including through a direct listing or through a merger, acquisition, or absorption by an entity that is already publicly traded, this market will resolve to "No IPO by December 31, 2027".
+
+The primary resolution source will be the final prospectus filed with the SEC; however, a consensus of credible reporting may also be used.

@@ -1,0 +1,9 @@
+This is a market about Argentinian inflation over the 12-month period ending December 2026, before seasonal adjustment, as reported by the National Institute of Statistics and Census (INDEC) of Argentina.
+
+This market will resolve according to the percentage change in the Consumer Price Index (CPI / IPC) over the 12-month period ending in December 2026 (Variación % interanual Total nacional) according to the monthly INDEC report.
+
+The resolution source for this market will be the INDEC Consumer Price Index report released for December 2026 (https://www.indec.gob.ar/), expected to be released in January 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+You can find this report by clicking on the “Precios al consumidor” option on the home page of https://www.indec.gob.ar/, and searching the pdf for the figure under “Variación % interanual Total nacional”.
+
+Note: the resolution source for this market will be the official monthly INDEC CPI (IPC) news release which reports inflation over 12 month periods to only one decimal point (e.g. 33.6%). Thus, this is the level of precision that will be used when resolving the market.

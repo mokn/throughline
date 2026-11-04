@@ -1,0 +1,11 @@
+This market will immediately resolve to "Yes" if Taylor Swift's daily global YouTube view count for any single day in October 2026 is reported at or above the specified number by market expiry. Otherwise, this market will resolve to "No".
+
+This market will consider figures reported for all calendar days within the specified timeframe, including revisions to those figures, until market expiry.
+
+This market will expire at the earliest of: (i) the first release of the figure for the final specified calendar day; OR (ii) the seventh day after the final specified calendar day, 11:59 PM ET.
+
+Only global view counts will be used. Regional and country-specific figures will not be used.
+
+This market will resolve according to the figures attributed to the specified artist by the resolution source, regardless of which channel the views occurred on. If the resolution source attributes views to the specified artist for a video on which the specified artist is a featured or credited contributor, those views will count.
+
+The resolution source for this market will be the daily global view counts on Taylor Swift's artist profile published on YouTube Charts (https://charts.youtube.com/artist/%2Fm%2F0dl567).

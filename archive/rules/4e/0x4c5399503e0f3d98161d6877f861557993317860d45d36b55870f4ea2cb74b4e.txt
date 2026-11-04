@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if Dota 2's average concurrent player count on Steam for November 2026 is greater than its average concurrent player count on Steam for October 2026. Otherwise, this market will resolve to "No".
+
+The figures used will be the values in the "Avg. Players" column of the monthly table on SteamCharts (https://steamcharts.com/app/570) for the rows "November 2026" and "October 2026". The figures will be checked once the November 2026 row is published on SteamCharts, and no earlier than December 1, 2026, 12:00 PM ET. If the two figures are exactly equal, this market will resolve to "No". Revisions to the figures after they are first checked will not be considered.
+
+If SteamCharts has not published both figures by December 15, 2026, 11:59 PM ET, this market will resolve to 50-50.
+
+The resolution source for this market is SteamCharts (https://steamcharts.com/app/570).

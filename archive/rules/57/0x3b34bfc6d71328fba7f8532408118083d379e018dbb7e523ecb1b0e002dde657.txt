@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if any finalized AAVE TVL datapoint has a value lower than the TVL specified in the title on any day between the date of this market's creation and December 31. Otherwise, this market will resolve to “No.”
+
+The resolution source for this market is DefiLlama, specifically the Aave page available at https://defillama.com/protocol/aave/, with TVL displayed in USD on the daily chart.
+
+The TVL value used for resolution will be the “TVL” value displayed for each daily bar.
+
+A daily bar will be considered finalized once the next day’s bar is published.
+
+If the data is revised before the threshold is hit, the latest numbers will be used.
+
+If the data becomes permanently unavailable, this market will resolve using other credible crypto data sources.

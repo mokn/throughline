@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the Metascore listed on Metacritic for "The Legend of Zelda: Ocarina of Time" (https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/) as of seven days after release, at 10:00 AM ET, is at least the specified value. Otherwise, this market will resolve to "No".
+
+For games released on multiple platforms, Metacritic displays a default Metascore, that being the Metascore for the game on the platform for which it has the most critical reviews. For the purposes of this market, the Metascore refers to that of the default platform as of seven days after release at 10:00 AM ET.
+
+For the purposes of this market, "release" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. PS5 or Xbox Series X/S), it will count.
+
+If The Legend of Zelda: Ocarina of Time is not released by December 31, 2026, this market will resolve to "No".

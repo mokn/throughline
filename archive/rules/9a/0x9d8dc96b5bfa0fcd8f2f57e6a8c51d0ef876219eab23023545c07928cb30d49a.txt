@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if Donald Trump’s approval rating according to Silver Bulletin is equal to or below the listed value for any date between January 1 and December 31, 2026. Otherwise, this market will resolve to “No”.
+
+Note that the approval ratings for this date must be finalized before it is considered for this market (namely once the next data point is available, the previous one is finalized).
+
+This market's resolution source will be Silver Bulletin' approval rating poll aggregator, https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin, specifically the approval rating indicated by the green trend line for the resolution date. Changes in the methodology by which Silver Bulletin calculates the approval rating will have no bearing on the resolution of this market. If Silver Bulletin's approval rating becomes permanently unavailable, RealClearPolitics will be used.
+
+If the approval rating for December 31 is not published by January 4, 2027, 12:00 PM ET (noon), this market will resolve according to all previous datapoints.

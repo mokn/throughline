@@ -1,0 +1,19 @@
+On October 1, 2026, Reuters reported that the United States had told France and Germany to release emergency diesel stocks or face a potential US diesel export ban, as Washington presses European countries to draw down their reserves to ease surging diesel prices. You can read more about that here: https://www.reuters.com/business/energy/us-tells-france-germany-release-diesel-stocks-or-face-us-export-ban-sources-say-2026-10-01/
+
+This market will resolve to “Yes” if Eurostat publishes a figure for the European Union’s closing stock of EU emergency stocks of gas oil and diesel oil for the month of November 2026 that is greater than or equal to the specified value. Otherwise, this market will resolve to “No”.
+
+The relevant figure is the value in Eurostat’s “Oil products stock levels - monthly data” dataset (nrg_stk_oilm) for: Geopolitical entity “European Union - 27 countries (from 2020)”; Standard international energy product classification “Gas oil and diesel oil”; Stock or flow “Closing stock - EU emergency”; Unit “Thousand tonnes”; Time “2026-11”.
+
+This market will resolve as soon as Eurostat first publishes a figure for November 2026. Revisions to that figure published afterward will not be considered unless in the case of obvious data integrity issues.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after the date on which such data is first released to allow for corrections. Data integrity issues refer only to clerical or other similar errors in the underlying data.
+
+Values will count regardless of any status flag (e.g. estimated, provisional). The figure will be used as published, without rounding.
+
+If Eurostat becomes permanently unavailable or has not published a qualifying figure for November 2026 by May 31, 2027, 11:59 PM ET, this market will resolve based on the latest data available.
+
+The primary resolution source for this market will be Eurostat, specifically the nrg_stk_oilm dataset at https://ec.europa.eu/eurostat/databrowser/view/nrg_stk_oilm__custom_22993801/default/table. If the dataset is discontinued or restructured, the equivalent successor series published by Eurostat will be used.
+
+Note: this market’s resolution source publishes values in thousands of tonnes (e.g. 35M tonnes = 35,000 thousand tonnes). Thus, this will be the level of specificity used to resolve this market.
+
+Note: Eurostat publishes monthly emergency oil stock data with a delay. The European Union aggregate is generally published approximately three months after the end of the reference month, once all Member States have reported (for example, data for June 2026 was the latest available as of October 1, 2026). Data for November 2026 is therefore expected to be published around late February or March 2027, and this market will remain unresolved until the publication of qualifying data.

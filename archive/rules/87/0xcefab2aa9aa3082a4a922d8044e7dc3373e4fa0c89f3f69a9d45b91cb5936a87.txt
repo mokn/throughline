@@ -1,0 +1,9 @@
+This is a market about the variation of consumer prices in Mexico over the 12-month period ending December 2026, as reported by the Mexican National Institute of Statistics and Geography (INEGI).
+
+This market will resolve according to the percentage change in Mexico’s Consumer Price Index over the 12-month period ending December 2026 (annual inflation for the month of December 2026), according to the monthly INEGI National Consumer Price Index (INPC) report for the specified month.
+
+The resolution source for this market will be the INEGI INPC report released for December 2026, expected to be released in January 2027. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+The relevant report will be made available upon release at: https://en.www.inegi.org.mx/app/saladeprensa/
+
+Note: This market’s resolution source reports percentage change in the Mexican Consumer Price Index to two decimal points (e.g. 2.01%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://en.www.inegi.org.mx/app/saladeprensa/calendario

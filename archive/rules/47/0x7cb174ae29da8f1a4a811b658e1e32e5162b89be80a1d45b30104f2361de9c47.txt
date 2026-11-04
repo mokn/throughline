@@ -1,0 +1,9 @@
+A general election is scheduled to be held in Spain on November 29, 2026.
+
+This market will resolve according to the official voter turnout rate for the 2026 Spanish general election to the Congress of Deputies, defined as the total number of votes cast (votantes) divided by the total number of registered voters (electores). (see 2023 example: https://www.boe.es/boe/dias/2023/09/01/pdfs/BOE-A-2023-18907.pdf)
+
+If the reported value falls exactly between two brackets, this market will resolve to the higher bracket.
+
+If the results of this election are not definitively known by November 30, 2027, 11:59 PM ET, this market will resolve to the lowest bracket.
+
+The primary resolution source for this market will be official election results reported by the Spanish government, including the Spanish Ministry of the Interior (https://infoelectoral.interior.gob.es/); however, a consensus of credible reporting may also be used if official results are not available.

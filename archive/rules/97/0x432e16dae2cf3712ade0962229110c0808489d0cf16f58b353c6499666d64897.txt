@@ -1,0 +1,7 @@
+This market will immediately resolve to “Yes” if any Uniswap 1-minute candle for $PONS (PONS/USDG) between the creation of this market and December 31, 2026, 23:59 ET has a final "High" or "Low" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, the market will resolve to “No”.
+
+The resolution source for this market is Uniswap, specifically the PONS/USDG “High” and "Low" prices available at:
+https://dexscreener.com/robinhood/0x4be9657ec9002e528f4f17a5c43edc525a07f888f7b180c2afbf75e096c4f38a
+with the chart set to “USD” and “1m” (one-minute candles) on the top bar.
+
+Only the Uniswap v4 PONS/USDG price feed on Robinhood Chain will be used. Prices from other exchanges, trading pairs, or spot markets will not be considered.

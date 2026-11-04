@@ -1,0 +1,7 @@
+This market will resolve to “Yes” immediately if all Pyth 1-minute candles for USDTb-USD for any 24-hour period are below 98 cents, for candles between 27 Oct ’25 15:00 and 31 Dec ’26 23:59 ET. Otherwise, this market will resolve to “No.”
+
+Below 98 cents means all candles in the period have a final “High” price below 0.98000 (i.e., 0.97999 or lower). A 24-hour period of USDTb below 98 cents that starts on the last day in 2026 will count.
+
+The resolution source for this market is TradingView, specifically the USDTb-USD “High” prices currently available at https://tradingview.com/chart/?symbol=PYTH%3AUSDTbUSD with “1m” and “Candles” selected on the top bar. To see the “High” prices, mouse over particular candles and look at the value after “H” at the top of the chart.
+
+Please note that this market is about the price according to Pyth USDTb-USD. If Pyth stops having the necessary USDTb information to resolve this market, a consensus of credible sources for whether USDTb was below 98 cents for 24 hours or more may be used to resolve this market.

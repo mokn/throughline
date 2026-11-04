@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if any token launched in 2026 ends the year with an FDV above $20B. Otherwise, it will resolve to “No.”
+
+A token must be actively and publicly transferable and tradable to be considered launched.
+
+The FDV will be calculated by multiplying the total token supply by the token price. The token price used will be the “Close” price on CoinGecko for December 31, 2026, as shown in the token’s historical data (e.g., Hyperliquid: https://www.coingecko.com/en/coins/hyperliquid/historical_data).
+
+Stablecoins, liquid staking tokens (LSTs), liquidity pool tokens, and synthetic representations of other assets will not qualify.

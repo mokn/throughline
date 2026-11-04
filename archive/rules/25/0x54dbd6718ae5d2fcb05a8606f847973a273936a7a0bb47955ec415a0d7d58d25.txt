@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if Qualifying Suspensions by at least 3 of the 5 Basket Airlines are in effect simultaneously on at least one calendar day (Israel time) from market creation through the specified date. Otherwise, this market will resolve to “No”.
+
+The Basket Airlines are Delta Air Lines, United Airlines, Lufthansa, Air France, and British Airways. Each counts individually; their affiliates, subsidiaries, and group partners do not count.
+
+A Qualifying Suspension is a halt of all Scheduled Passenger Service to and from Israel’s Ben Gurion Airport (LLBG) by a Basket Airline, as actually observed, for a continuous period of at least 14 consecutive calendar days (Israel time), regardless of any announcement by the airline. It qualifies regardless of reason, including security conditions, airspace closures, regulatory instructions, or commercial decisions. Reduced frequencies, or the suspension of some routes while others continue, do not qualify. A Qualifying Suspension is in effect on any day within that period on which the airline operates no Scheduled Passenger Service to or from LLBG.
+
+Airline announcements of suspensions, cancellations, or schedule changes will not be considered on their own; if any Scheduled Passenger Service flight to or from LLBG actually operates on a given day, that day will not count toward a Qualifying Suspension, regardless of any announcement.
+
+Suspensions need not begin on the same day, but at least 3 must overlap on at least one day within the specified timeframe. A Qualifying Suspension that includes that day may begin before market creation or extend beyond the specified date to complete its 14 days, so this market may remain open for up to 14 days after the specified date; however, only days from market creation through the specified date can be the day of overlap.
+
+Scheduled Passenger Service means passenger flights to or from Israel's Ben Gurion Airport (LLBG) operated by or on behalf of a Basket Airline under its own flight number and published schedule. Codeshare flights operated by another carrier, as well as cargo-only, charter, repatriation, evacuation, ferry, and positioning flights, do not count.
+
+The primary resolution sources for this market will be official flight information from the Israel Airports Authority and the Basket Airlines (including published schedules and flight status data; airline announcements, such as press releases and travel advisories, may be used only as supporting evidence of whether qualifying flights actually operated); however, a consensus of credible reporting may also be used.

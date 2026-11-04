@@ -1,0 +1,8 @@
+This market will resolve to “Yes” if the Bitcoin Korea Premium Index reaches 8 or higher at any point between the creation of this market and December 31, 2026. Otherwise, it will resolve to “No.”
+
+The resolution source will be CryptoQuant, specifically the Korea Premium Index chart available at:
+https://cryptoquant.com/asset/btc/chart/market-data/korea-premium-index
+
+Daily values shown on the chart will be used. Daily data will be considered finalized once the following day’s data point is published.
+
+If the primary resolution source becomes permanently unavailable, the market will resolve based on a consensus of other credible crypto data sources tracking the Korea (Kimchi) premium.

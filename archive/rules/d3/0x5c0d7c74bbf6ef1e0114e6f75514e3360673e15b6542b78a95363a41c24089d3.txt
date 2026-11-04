@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if the public valuation of Anthropic surpasses the market capitalization of Bitcoin (BTC) at any point between market creation and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+For Bitcoin, CoinGecko's data for BTC will be used, currently available at https://www.coingecko.com/en/coins/bitcoin. If CoinGecko stops showing relevant data, data from CoinMarketCap will be used instead.
+
+For Anthropic, any public valuation, or private funding round that values the company will be considered. To qualify, the valuation must be explicitly confirmed by Anthropic or an overwhelming consensus of credible reporting. 
+
+The resolution source will CoinGecko and Anthropic's official communications; however a consensus of credible reporting may also be used.

@@ -1,0 +1,29 @@
+This market will resolve according to the combined outcome of (1) whether the Democratic Party wins control of both the United States House of Representatives and the United States Senate in the 2026 United States midterm election and (2) whether a Chinese company has the top-ranked model on the Chatbot Arena text leaderboard by the end of 2027.
+
+Options beginning "Dem sweep" require the Democratic Party to win control of both chambers. Options beginning "No Dem sweep" require the Democratic Party not to win control of at least one of the two chambers. Each option then names the result of the second component ("China #1 AI" or "China not #1"), as defined below. The option matching both results will resolve to "Yes", and all other options will resolve to "No".
+
+Chinese AI model: This component is "China #1 AI" if a Chinese company owns the model ranked first on the Chatbot Arena LLM Leaderboard (https://arena.ai/) when the leaderboard is checked at any point between market creation and December 31, 2027, 11:59 PM ET. Otherwise, it is "China not #1".
+
+Results from the "Rank" section under the "Text Arena | Overall" Leaderboard tab at https://arena.ai/leaderboard/text/overall-no-style-control with style control off will be used. Models marked "AutoEval" at the applicable check time will not be considered, regardless of whether they display a rank or score.
+
+Chinese Companies include but are not limited to Alibaba, ByteDance, Baidu, Moonshot, Z.ai, DeepSeek, Meituan, Xiaomi, StepFun, Tencent, and MiniMax. Companies not headquartered in China or not primarily owned or operating within the Chinese technology ecosystem are not considered primarily Chinese.
+
+Models will be ordered primarily by their leaderboard rank at the check time. If two or more models are tied on rank, they will be ordered by their Arena score, including any underlying, unrounded, granular values reflected in the data below the leaderboard. If a tie remains, alphabetical order of company names will be used as a final tiebreaker. This component is "China #1 AI" only if a Chinese company’s model occupies the first position under this ranking system.
+
+The resolution source for this component is the Chatbot Arena LLM Leaderboard found at https://arena.ai/leaderboard/text/overall-no-style-control. If this resolution source is unavailable at check time, the first check after it becomes available will be used. If it becomes permanently unavailable, another resolution source will be used.
+
+House and Senate control: A party wins control of the United States Senate if it wins a majority of the chamber’s voting seats. If no party wins a majority of voting seats, the party that wins control of the chamber is the party that wins half of the voting seats and holds the Vice Presidency. If the outcome remains ambiguous after applying the above criteria, the chamber will be deemed controlled by the party with which the first selected President Pro Tempore of the Congress that convenes after the 2026 midterm election is affiliated.
+
+A party wins control of the United States House of Representatives if it wins a majority of the chamber’s voting seats. If no party wins a majority of voting seats, the chamber will be deemed controlled by the party with which the first elected Speaker of the House of the Congress that convenes after the 2026 midterm election is affiliated.
+
+The following rules govern the counting of seats for determining which party wins control of the chambers.
+
+For determining Senate control, all regular and special Senate elections that determine representation in the upcoming 120th Congress and are scheduled to take place in November 2026 as of October 31, 2026 are included. Vacant Senate seats for which no election or special election to fill the seat is scheduled to take place in November 2026 as of October 31, 2026 will be treated as held by the party affiliation of the most recent member to hold that seat. For determining House control, all House elections in the 2026 United States midterm election that elect voting members and determine representation in the upcoming 120th Congress are included. Where a Senate or House seat is decided by a runoff, the runoff result will determine attribution of that seat, even if it takes place after November 2026.
+
+For seats contested in the 2026 midterm election, seats are attributed to the party under which the member was elected. If a member-elect changes party affiliation, or vacates their seat, between election day and the formal organization of Congress, the seat is attributed to the party under which the member was elected.
+
+For seats not contested in the 2026 midterm election, seats are attributed to the party that holds the seat as of the date of the 2026 midterm election. If a current sitting member of the U.S. Senate who is not up for election changes party affiliation or vacates their seat after the date of the 2026 midterm election, the seat is attributed to the party under which the member was affiliated at the time of the 2026 midterm election.
+
+Senate and House members elected as independents who formally caucus with, or, for newly elected members, who announce their intent to caucus with, a party are included in that party’s count. If the caucus decisions of members of the Senate or House elected as independents cannot be determined on the date of the 2026 midterm election, this component may remain undetermined until the earlier of (i) an announcement from the relevant members of their intents to caucus, or (ii) January 4th, 11:59 PM ET of the following calendar year. If no such announcement is made by January 4th, 11:59 PM ET of the following calendar year, the member will not count towards the seat count of any party.
+
+The resolution sources for the House and Senate component will be official information from relevant state electoral authorities, the United States Congress, and a consensus of credible reporting.

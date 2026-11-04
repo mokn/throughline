@@ -1,0 +1,9 @@
+This is a market about the variation of consumer prices in South Korea in the 12-month period ending December 2026, as reported by the South Korean Ministry of Data and Statistics (MODS).
+
+This market will resolve according to the percentage change in South Korea’s Consumer Price Index (CPI) over the 12-month period ending December 2026 (December CPI % change compared to the same month of the previous year), according to the monthly MODS Consumer Price Survey report for the specified month.
+
+The resolution source for this market will be the MODS Consumer Price Index monthly report released for December 2026, currently scheduled to be released on December 31, 2026. Resolution of this market will take place upon release of the aforementioned data. If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+The relevant report will be made available upon release at: https://mods.go.kr/board.es?mid=a20109020000&bid=11751&eng_board_type=01
+
+Note: This market’s resolution source reports percentage change in the South Korean Consumer Price Index to only one decimal point (e.g. 2.0%). Thus this is the level of precision that will be used when resolving this market. For the full release schedule, see: https://mods.go.kr/schdl.es?mid=a20301000000

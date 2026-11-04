@@ -1,0 +1,7 @@
+This market will resolve to "Yes" if Anthropic's next Fable model (5.2+) is made available to the general public between market creation and the specified date (ET). Otherwise, this market will resolve to "No".
+
+A qualifying model must have a name or model identifier that includes "Fable" and be designated as version 5.2 or higher, regardless of capitalization or surrounding prefixes, suffixes, dates, or descriptors. For example, a version 5.2 or higher named in the same manner as Claude Fable 5 or Claude Fable 5.1 would qualify, including a new whole-number generation such as Claude Fable 6, while models whose name does not include "Fable" or which retain a version designation below 5.2, such as Claude Fable 5.1 or Claude Mythos 5.1, will not qualify.
+
+A qualifying model must be launched and publicly accessible, including via open beta or open rolling waitlist signups. A closed beta or any form of private access will not suffice. The release must either be clearly defined and publicly announced by Anthropic as accessible to the general public, or otherwise be made publicly accessible and explicitly labeled on the company's official website. Labeling errors, placeholder text, or version names displayed on the website that do not correspond to a model that is actually accessible to the general public will not qualify.
+
+The primary resolution source for this market will be official information from Anthropic, with additional verification from a consensus of credible reporting.

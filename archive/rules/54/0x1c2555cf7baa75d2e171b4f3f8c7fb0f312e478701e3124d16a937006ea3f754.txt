@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if fomo Wallet's finalized cumulative fees reported by DefiLlama are equal to or greater than the listed value as of any date between the creation of this market and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+Cumulative fees as of a given date are the "Fees" value shown when hovering over that date on the fees chart with "C" (Cumulative) selected; the "Cumulative Fees" value displayed under Key Metrics additionally includes the current, unfinalized date.
+
+A daily datapoint must be finalized before it is considered for this market (namely, once the next day's datapoint is published, the previous one is finalized).
+
+This market will resolve as soon as a qualifying figure is finalized, or once all relevant data through December 31, 2026 has been finalized without the listed value having been met. If any data remains unpublished or unfinalized 2 calendar days (ET) after December 31, 2026 — for any reason, including unavailability of the resolution source — this market will resolve to "No". No substitute data source will be used.
+
+In case of obvious data integrity issues (i.e., erroneous data), the market may remain open until the end of the third calendar day (ET) after such data is first released to allow for corrections; this applies only to clerical or similar errors, not to DefiLlama differing from other sources. Otherwise, once fomo Wallet's finalized cumulative fees have met or exceeded the listed value, this market will resolve to "Yes" regardless of subsequent revisions.
+
+The resolution source for this market is DefiLlama, specifically the fees data published for fomo Wallet at https://defillama.com/protocol/fees/fomo-wallet, as presented there without additional rounding.

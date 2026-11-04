@@ -1,0 +1,19 @@
+The FED interest rates are defined in this market by the upper bound of the target federal funds rate. The decisions on the target federal funds rate are made by the Federal Open Market Committee (FOMC) meetings.
+
+This market will resolve according to the decisions made by the next three Federal Open Market Committee (FOMC) meetings: September 15-16; October 27-28; and December 8-9.
+
+A qualifying cut occurs when the new upper bound of the target federal funds rate is lower compared to the level it was prior to the respective meeting.
+
+A qualifying hike occurs when the new upper bound of the target federal funds rate is higher compared to the level it was prior to the respective meeting.
+
+A qualifying pause occurs when the new upper bound of the target federal funds rate is equal to the level it was prior to the respective meeting.
+
+If the Fed publishes a different combination than any listed, this market will resolve to "Other". Any rate cut will be encompassed by "Other".
+
+Emergency rate changes outside the regularly scheduled meetings will not be considered.
+
+The resolution source for this market is the FOMC’s statement after its meetings:
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+The level and change of the target federal funds rate is also published at the official website of the Federal Reserve:
+https://www.federalreserve.gov/monetarypolicy/openmarket.htm

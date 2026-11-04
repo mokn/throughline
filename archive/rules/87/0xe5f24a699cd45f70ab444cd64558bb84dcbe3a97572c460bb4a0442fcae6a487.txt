@@ -1,0 +1,9 @@
+This market will resolve according to the seasonally adjusted and annualized GDP "Advance Estimate" release for Q4 of 2026, scheduled for January 28, 2027.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The GDP release will be made available here: https://www.bea.gov/data/gdp/gross-domestic-product
+
+Note: data in the first available GDP report is labelled by the BEA as an "Advance Estimate". The data found in the advance estimate will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the release of the advance estimate will not be considered for this market's resolution.
+
+If the advance estimate is not released, this market will resolve based on the first officially published figure for real GDP for the specified quarter (e.g., the ‘second’ or ‘third’ estimate, etc.), as reported by the BEA. If no official estimate is released by the date the next quarter's advanced estimate is scheduled to be published, this market will resolve based on the most recent previous figure released by the BEA.

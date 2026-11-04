@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if the number of unique humans verified on World Network, found in the “n_verifications” value at https://metrics.worldcoin.org/, exceeds 30,000,000 by December 31, 2026, 11:59 PM ET. Otherwise, it will resolve to “No.”
+
+The resolution source is the official World Network metrics page, available at https://metrics.worldcoin.org/, specifically the “n_verifications” value, which represents the number of unique humans verified on World Network.
+
+This market is based solely on the “n_verifications” value posted on the official World Network metrics page (https://metrics.worldcoin.org/), not on data from third-party analytics dashboards or unofficial sources.
+
+If the resolution source becomes permanently unavailable within this market’s timeframe and before resolution criteria are met, the market will resolve based on a reliable alternative source or public data consistent with the official World Network figures.

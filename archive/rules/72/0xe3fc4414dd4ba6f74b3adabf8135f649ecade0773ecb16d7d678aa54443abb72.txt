@@ -1,0 +1,13 @@
+This market will resolve according to the percentage of Anthropic's total outstanding shares sold in its initial public offering (IPO) at the time of pricing.
+
+The number of shares sold is defined as the total number of shares sold at the final offering price at the time of IPO pricing, as disclosed in the final prospectus filed with the U.S. Securities and Exchange Commission. Shares sold by Anthropic and shares sold by selling stockholders as part of the IPO offering will both be included.
+
+Shares sold pursuant to any overallotment option (greenshoe) will not be considered. Shares sold in any private placement concurrent with the IPO will not be included in the number of shares sold.
+
+Total outstanding shares is defined as the number of shares of Class A common stock plus the number of shares of Class N common stock to be outstanding after the offering, each as stated in the section titled "The Offering" of the final prospectus, using the Class A figure that assumes no exercise of the overallotment option.
+
+The percentage will be calculated by dividing the number of shares sold by the total outstanding shares, without rounding. If the percentage falls exactly on a boundary between two ranges, this market will resolve to the higher range.
+
+If Anthropic does not complete an IPO by December 31, 2027, 11:59 PM ET, this market will resolve to the lowest bracket.
+
+The primary resolution source will be the final prospectus filed with the SEC; however, a consensus of credible reporting may also be used.

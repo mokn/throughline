@@ -1,0 +1,5 @@
+This market will immediately resolve to "Yes" if any Volmex 1 minute candle for the Bitcoin Volmex Implied Volatility 30 Day Index between January 26, 2026, 11:30 and December 31, 2026, 23:59 in the ET timezone has a final "Low" value equal to or lower than the value specified in the title. Otherwise, this market will resolve to "No."
+
+The resolution source for this market is Volmex, specifically the Bitcoin Volmex Implied Volatility 30 Day Index "Low" values available at https://charts.volmex.finance/symbol/BVIV, with the chart settings on "1m" for one-minute candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the data from the Bitcoin Volmex Implied Volatility 30 Day Index chart. Values from other exchanges or different indexes will not be considered for the resolution of this market.

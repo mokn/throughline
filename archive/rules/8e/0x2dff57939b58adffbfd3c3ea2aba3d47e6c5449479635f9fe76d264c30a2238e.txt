@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if Cloudflare experiences any incident classified as Critical (red) as of the time it is marked as “Resolved” between market creation and the listed date (ET). Otherwise, this market will resolve to “No”.
+
+Classifications of an incident while it is ongoing will have no bearing on the resolution of this market. Only classifications of events that are resolved will be considered.
+
+Qualifying incidents include outages and other issues classified as critical when they are resolved, during this market's above-specified timeframe. 
+
+An incident resolved outside this market’s timeframe will only qualify if ongoing at this market’s resolution time, in which case the market will remain open until that incident is marked as “Resolved,” and resolution will be based on the first impact classification thereafter, regardless of subsequent revisions or corrections.
+
+Revisions that upgrade an incident’s impact classification to Critical will qualify if the incident was resolved and the revision is published within this market’s timeframe.
+
+The primary resolution source for this market will be official information from Cloudflare (for example, on cloudflarestatus.com or cloudflarestatus.com/history); however, a consensus of credible reporting may also be used.

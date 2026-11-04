@@ -1,0 +1,7 @@
+This market will resolve based on the total number of tropical cyclones recorded making landfall in China during the calendar year 2026 as published on the China Meteorological Administration (CMA) Tropical Cyclone Data Center "Landfalling TCs" page (https://tcdata.typhoon.org.cn/en/dlrdqx.html) in the annual Best Track Dataset update for 2026.
+
+All landfalling tropical cyclones listed by the CMA on that page count toward the total, regardless of their intensity category at landfall (tropical depression, tropical storm, severe tropical storm, typhoon, severe typhoon, or super typhoon). What constitutes a landfall in China (including which mainland and island locations qualify) is determined solely by the CMA's records on that page. Each tropical cyclone is counted once toward the total, regardless of how many separate times it makes landfall.
+
+One bracket will resolve "Yes" and all others "No".
+
+If the CMA "Landfalling TCs" page is inaccessible or the 2026 Best Track Dataset has not been updated by June 30, 2027, resolution will instead be based on the number of tropical cyclones reported by China as making landfall for the 2026 season - counted on the same all-intensity basis - in the ESCAP/WMO Typhoon Committee Annual Session final report for the 2026 season (https://www.typhooncommittee.org).

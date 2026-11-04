@@ -1,0 +1,7 @@
+This market will resolve according to the number of storms categorized as a hurricane in the Atlantic between market creation and November 30, 2026 11:59 PM ET. 
+
+If there is no storm categorized as a hurricane in the Atlantic during the specified timeframe this market will resolve to "0".
+
+A hurricane is a tropical cyclone with maximum sustained winds of 74 mph or greater (Category 1 or higher on the Saffir-Simpson Hurricane Wind Scale), as described at https://www.nhc.noaa.gov/aboutsshws.php.
+
+This market may resolve based on the initial NHC advisory reporting a qualifying hurricane regardless of any later advisory, retraction, best-track revision, or reanalysis that revises that storm's intensity downward. The official count will be determined by the NHC (nhc.noaa.gov) advisories.

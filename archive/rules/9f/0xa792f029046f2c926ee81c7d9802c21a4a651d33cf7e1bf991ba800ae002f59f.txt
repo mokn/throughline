@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if the Consumer Price Index (CPI) increased by greater than the listed percent over the 12 month period ending with any month in 2026 according to the monthly Bureau of Labor Statistics (BLS) reports. Otherwise, this market will resolve to "No".
+
+The resolution source for this market will be the BLS Consumer Price Index reports released for each month of 2026 (https://www.bls.gov/bls/news-release/cpi.htm). Resolution of this market will take place upon release of the aforementioned data.
+
+This market may not resolve to "No" until the December 2026 report is issued. Once the December 2026 report is issued, any revisions to previously released CPI figures will not be counted toward this market's resolution. If the CPI report for December 2026 is not issued by January 31, 2027, 11:59 PM ET, this market will resolve based on CPI figures which have already been made available by the BLS.
+
+Note: the resolution source for this market will be the official monthly BLS CPI news release which reports inflation over 12 month periods to only one decimal point (e.g. 2.9%). Thus, this is the level of precision that will be used when resolving the market.

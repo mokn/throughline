@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if a total internet blackout occurs in Iran by the specified date, 11:59 PM UTC. Otherwise, this market will resolve to “No”.
+
+For the purposes of this market, a “total internet blackout” occurring means that, according to Cloudflare Radar data for Iran, total bytes transferred have fallen to 1.0% or less of the last 4 weeks’ Max for at least six consecutive hourly data points, as shown in the Traffic trends → Bytes transferred (Total bytes) chart for the last 4 weeks (https://radar.cloudflare.com/traffic/ir?dateRange=28d). 
+
+The relevant figures for each hourly data point are listed in this chart as “__% of Max”. The Max for each data point will be the Max figure used in the chart by Cloudflare.
+
+Only the first of the relevant consecutive hourly data points must fall before this market’s resolution time. If required, to confirm the full sequence, the market will remain open until both relevant data points are observed.
+
+The primary resolution source for this market will be Cloudflare Radar data for Iran, specifically the Iran Traffic trends chart for the last 4 weeks found at https://radar.cloudflare.com/traffic/ir?dateRange=28d. If this resolution source becomes permanently unavailable, a consensus of credible reporting may also be used.

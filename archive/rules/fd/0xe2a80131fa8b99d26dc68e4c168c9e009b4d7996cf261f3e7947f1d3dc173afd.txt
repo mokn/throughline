@@ -1,0 +1,20 @@
+This market will resolve to "Anthropic" if the official closing price for Anthropic's market capitalization on its first trading day is above the official closing price for OpenAI's market capitalization on its first trading day.
+
+This market will resolve to "OpenAI" if the official closing price for OpenAI's market capitalization on its first trading day is above the official closing price for Anthropic's market capitalization on its first trading day.
+
+This market will resolve to the company that completes an Initial Public Offering (IPO) by December 31, 2028, 11:59 PM ET, if the other company does not complete an IPO within the market timeframe. This market will resolve to the IPOed company as soon as it becomes impossible for the other company to complete an IPO within the market timeframe, including due to acquisition, merger, or absorption by an entity that is already publicly traded.
+
+This market will resolve 50-50 if:
+- Neither IPO occurs by December 31, 2028, 11:59 PM ET.
+- Both Anthropic and OpenAI complete an IPO within this market's timeframe, and their IPO closing market capitalizations are exactly equal.
+- Both companies become unable to complete an IPO, including due to acquisition, merger, or absorption by an entity that is already publicly traded.
+
+Market capitalization expresses the monetary value of a company’s outstanding shares, stated in its pricing currency.
+
+It is calculated as the total number of outstanding shares, multiplied by the official closing share price of the publicly traded class on the first trading day.
+
+If necessary, to accurately capture the company’s total market capitalization, rather than a stock-class-specific market capitalization, the calculation will include all outstanding share classes and apply any stated conversion ratios to the publicly traded class. Where no conversion right exists, such shares will be counted at their stated outstanding amount without discount, unless official filings explicitly specify differently.
+
+The number of outstanding shares will be determined from official company filings or disclosures (e.g., SEC filings). The closing share price on the first trading day will be determined from the primary exchange’s official listing page.
+
+In the event of an interruption in the normal trading session on the specified company’s first day of trading (e.g., a circuit breaker or half-day), the market will resolve according to the official closing price of the abbreviated session. If no such official closing price is published, the market will resolve according to the next trading day on which an official closing price is published, treating that day as the first day of trading for the purposes of this market.
