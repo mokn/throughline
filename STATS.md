@@ -14,7 +14,6 @@ Computed by `watch.py` from a complete sweep of every open market on 2026-11-04T
 | Negative-risk (multi-outcome event) markets | 84,850 (36.2%) |
 | Markets with zero volume | 192,224 (82.0%) |
 | Total volume (USD, as reported) | 5,098,533,586 |
-
 | Archived (lifetime ≥ 30 days) | 43,069 (18.4%) |
 | Archived markets whose rules changed since the archive began | 0 |
 

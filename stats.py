@@ -106,8 +106,7 @@ def render(s: dict[str, Any], index: dict[str, Any] | None = None) -> str:
          f"| Empty `resolutionSource` | {s['empty_resolution_source']:,} ({pc(s['empty_resolution_source'])}) |",
          f"| Negative-risk (multi-outcome event) markets | {s['neg_risk']:,} ({pc(s['neg_risk'])}) |",
          f"| Markets with zero volume | {s['volume']['zero']:,} ({pc(s['volume']['zero'])}) |",
-         f"| Total volume (USD, as reported) | {s['volume']['total_usd']:,} |",
-         ""]
+         f"| Total volume (USD, as reported) | {s['volume']['total_usd']:,} |"]
     if "archived" in s:
         L += [f"| Archived (lifetime ≥ {s['min_lifetime_days']} days) | {s['archived']:,} ({pc(s['archived'])}) |"]
     if index:

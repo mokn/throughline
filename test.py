@@ -347,7 +347,10 @@ class WatcherTests(unittest.TestCase):
             self.assertEqual(len(watch.RUNS.read_text().splitlines()), 1)
             self.assertFalse(watch.CHANGES.exists())
             self.assertEqual(json.loads(watch.STATS.read_text())["open_markets"], 120)
-            self.assertIn("| Open markets | **120** |", watch.STATS_MD.read_text())
+            md = watch.STATS_MD.read_text()
+            self.assertIn("| Open markets | **120** |", md)
+            # the archived rows belong to the same table: no blank line before them
+            self.assertIn("as reported) | 0 |\n| Archived (lifetime", md)
             ms[5]["description"] = "rules 5, edited"
             self.assertEqual(watch.run(), 0)
             idx = watch._load_index()
