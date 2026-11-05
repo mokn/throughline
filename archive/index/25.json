@@ -773,6 +773,15 @@
   "sha256": "c324fccd7487b0d893650b15e3823df353f54cd393fc5cf0006fbc7848bcbfde",
   "slug": "will-hakan-karlsson-nyborg-be-the-next-regional-board-chair-of-region-jonkoping-county-1786127776516"
  },
+ "0x8ce21c071c678552a5679e3de09c65a0d73d36ece9b879209f29290f1b881825": {
+  "created_at": "2026-10-25T10:15:17.706304Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 2 - 1 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-2-1"
+ },
  "0x902cd112c189e1afa85c511a3f7d50262af39ff7ff755bd9f2ce8e9849820e25": {
   "created_at": "2026-01-02T21:01:10.978719Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1318,6 +1327,7 @@
   "created_at": "2026-08-11T14:14:15.957305Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 16 House seats in New York in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "a2e86a17427eaaba8a77fd283b8b2ddcd38e60f505fa0bd7509f26305178c627",

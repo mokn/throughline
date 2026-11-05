@@ -668,6 +668,15 @@
   "sha256": "294e286e9d1af123530e4af057d1ed6fe836bf36f82f8be704c496a765b127b6",
   "slug": "will-the-democratic-party-win-the-tn-02-house-seat"
  },
+ "0x7a2ce3124dafd088d8b1ab8c3b3005e9d114f9e8b20dd0366050000d8b45ad47": {
+  "created_at": "2026-11-05T02:25:48.043048Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Robert F. Kennedy Jr. by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-robert-f-kennedy-jr-by-june-30-2027"
+ },
  "0x7a937f704c820b6fee564f7ff0fdd39e0a74d436d9e6af8f7d0799c4478ad247": {
   "created_at": "2026-10-13T15:43:09.687893Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1020,6 +1029,15 @@
   "sha256": "63bef5a61b71ad45717ccbbf1af8a1fcf3019d723939da4f9477868fd6344e73",
   "slug": "ukr1-kry-met-2026-09-12-total-0pt5"
  },
+ "0xb3eb7f3ec1ebf214b5e4eabec01ec1abdee2c56cffdc81a8826e6dc51b995847": {
+  "created_at": "2026-11-05T02:12:13.851846Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the new Senate confirm a Trump Cabinet or federal judge nominee by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "3685844e49a2b1e05520755247664499174a1591b11dbcf0a50f3a59c138bff3",
+  "slug": "new-senate-confirms-a-trump-cabinet-or-federal-judge-nominee-by-march-31-2027"
+ },
  "0xb40b0cd531184a1e436d23ca898e1590418187b116f387158753d1adb9853e47": {
   "created_at": "2026-06-01T19:19:31.309241Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1141,6 +1159,7 @@
   "created_at": "2026-09-15T17:45:57.401445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Massachusetts passes jungle primary ballot measure?",
   "revisions": 1,
   "sha256": "b8f55f1425534599e262d6935d63bdb6e3aec465d7b8dc2d007708e98dfc5978",
@@ -1267,6 +1286,7 @@
   "created_at": "2025-12-15T21:12:35.769523Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the NY-03 House seat?",
   "revisions": 1,
   "sha256": "f0db1a5bb9ac2a88db81e2f3f4a45e9cf041e11384cf53b7286cc88f6e0037ad",
@@ -1502,6 +1522,7 @@
   "created_at": "2026-08-12T00:19:01.592253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will One Knoxville SC win the 2026 USL League One?",
   "revisions": 1,
   "sha256": "9a3d2ef2bf6cdadb4d1edff83ef5eba1d2853f63d3e5e4835ddebd3cfde9f868",

@@ -1225,6 +1225,15 @@
   "sha256": "4231a8a697249b8fe64655599a8fb59723cfdd75ecafd568eb3943856445ca23",
   "slug": "el1-wim-ste-2026-10-03-second-half-result-home"
  },
+ "0xcfb06a89fe217be87a6b1940925d6817d49f86ceaca509b8d0ec695585d9f77a": {
+  "created_at": "2026-11-04T17:37:55.929643Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will BC.Game Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-bcptgame-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0xd2b4409e0a360ac5beef84e2d897682337a2c6931ec4ad301d905231ca09df7a": {
   "created_at": "2026-08-20T19:30:50.295219Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1292,6 +1301,7 @@
   "created_at": "2025-12-15T20:31:03.563786Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the MI-04 House seat?",
   "revisions": 1,
   "sha256": "c381497dba009116921245ab0be6c2327d1d6f1d1c410009ab53eb7a5937a58e",

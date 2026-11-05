@@ -773,6 +773,15 @@
   "sha256": "1fd8d292c8f2dac727c8ce23c6a33d47b44474a8b4ec5ff2d31cfb1c7dc63ce8",
   "slug": "will-iran-join-the-mecca-agreement-by-december-31-2026"
  },
+ "0x9a065a208463440c28f8cb4598924060fc8c4a0c78975f1548a2f657eacb38fa": {
+  "created_at": "2026-10-25T10:45:19.132974Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "9344ce68e6cf21f6f79e1e650a5183fbce4ff9748325c5722e981966860ba528",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-total-4pt5"
+ },
  "0x9a9a1a4fce5da9b859bbbaea4270ee9c91a2b1422d8ea9e9eb99c267b46bb6fa": {
   "created_at": "2026-10-30T00:22:35.853115Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -931,6 +940,7 @@
   "created_at": "2026-08-11T14:14:32.240364Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win 14 or more House seats in Texas in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9c3a46290209e6bbb1e52b1b0848fcc086f4d4c82763f50a5b91bc7076c7616a",

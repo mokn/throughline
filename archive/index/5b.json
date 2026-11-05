@@ -1005,6 +1005,7 @@
   "created_at": "2026-07-01T22:28:18.009634Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "California Affordable Housing Bond Proposition",
   "revisions": 1,
   "sha256": "77591c1b3f794aeb9022f4e4b0744ce1e24899390fd03c857697ec504c2c63e9",
@@ -1059,6 +1060,7 @@
   "created_at": "2026-08-12T17:32:06.569683Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Colegiales be runner-up in the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "535242f33d28aedce5a3e9c960a1829109af50a5cfa6cbbe1d4d68d7c0d5846f",
@@ -1235,6 +1237,15 @@
   "revisions": 1,
   "sha256": "905cc6a7b5aced51c0df2e6320d0fa98f14208433fc9729928d1bf604750a26a",
   "slug": "will-a-hurricane-make-landfall-in-maine-by-november-30-2026"
+ },
+ "0xcd1b857f4682d4f686d3909c408250aac51660a88edce1909654c69c80faf15b": {
+  "created_at": "2026-11-04T17:37:44.237524Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Nemiga Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-nemiga-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0xcdfb7bbfca2404057323fcb5e3397b6052c4dd4da478ec642c671e10134da45b": {
   "created_at": "2026-08-11T18:26:52.406705Z",

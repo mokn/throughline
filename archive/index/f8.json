@@ -62,6 +62,15 @@
   "sha256": "d31c6e05dc49bec5bedc37c2cd1201ef9a72eebc20ef6e1d0c2b1a6760a5a053",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-ohio-be-5100000-or-more"
  },
+ "0x18bda7ab30c2d53b4a45c517e81b70cd8426be9205382f0404e350718aaffbf8": {
+  "created_at": "2026-10-25T10:45:16.428862Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: Aurora FC (-4.5)",
+  "revisions": 1,
+  "sha256": "cea1b17da83899961f1b6f5c80041adaaa29aaab6ac182f08d06b8be778df5ab",
+  "slug": "gtm-mun-aur-2026-11-07-spread-away-4pt5"
+ },
  "0x22c6bc4d794564d751bab9f18a4902a750d8f936a6f0a6ee90614851e58927f8": {
   "created_at": "2026-08-12T17:16:52.420336Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -410,6 +419,7 @@
   "created_at": "2026-11-02T00:49:58.641663Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and US gas not hit $3.50 by the end of 2026?",
   "revisions": 1,
   "sha256": "bdff453084702031b17d19791480adf6808576156fed55ed2a21020fdeb6f226",
@@ -860,6 +870,7 @@
   "created_at": "2026-08-11T14:06:04.741366Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 8 House seats in New Jersey in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e036a188ca854c56a73e17db7803426cb520ec55aa15fe6a3611482e3fe414f8",
@@ -1017,6 +1028,15 @@
   "revisions": 1,
   "sha256": "1db8e8758a2be45a744f208931eded1a6775b4b98a18c59879047fe61952faee",
   "slug": "will-the-republican-party-candidate-win-the-2026-texas-gubernatorial-election-by-12-15"
+ },
+ "0xbbded1cb6d6861c3fdcb829a8429d1d43ba6008584b0d9c809f6f4fbfd62cef8": {
+  "created_at": "2026-10-25T10:45:17.016062Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 1.5",
+  "revisions": 1,
+  "sha256": "7f7451b81f579002993d50bc802b2545bf1206e376e88743d6ee34b7ad27b427",
+  "slug": "gtm-mun-aur-2026-11-07-total-1pt5"
  },
  "0xbda0e972f137b57ef09ebe61130c2a238590682366facf74e8ba30bb4ac41ff8": {
   "created_at": "2026-09-20T08:44:49.960165Z",

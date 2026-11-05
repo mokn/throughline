@@ -12,6 +12,7 @@
   "created_at": "2026-08-11T14:12:06.07039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 6 House seats in Virginia in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "caec01e66d8f8d15d91cbe1c29920df716bed7a02f2ed568f4d39166f4163052",
@@ -464,6 +465,7 @@
   "created_at": "2026-08-12T00:19:03.159549Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Spokane Velocity FC win the 2026 USL League One?",
   "revisions": 1,
   "sha256": "9a3d2ef2bf6cdadb4d1edff83ef5eba1d2853f63d3e5e4835ddebd3cfde9f868",
@@ -1009,6 +1011,15 @@
   "revisions": 1,
   "sha256": "f5574d3645fa81a2b5f7a524f69727b78f9c2b9fc2ae9d3a7c1eed1d0f330f33",
   "slug": "will-putin-meet-with-zelenskyy-by-march-31-2027"
+ },
+ "0xa8e3aeb883b7c9d0ecb7244cb4a8578e959c384496981908b9b8bf8afe1eb409": {
+  "created_at": "2026-10-25T10:45:22.02319Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "0125a8f68919beeb9a775bc2ea687b83ba92e65a929e6e56b7d664cbd0008e0b",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-away-2pt5"
  },
  "0xac241059386ee0c9e259908d70a6d0c7c4fe60f2978916bdcdb2aac2b8887609": {
   "created_at": "2026-08-10T20:04:59.514454Z",

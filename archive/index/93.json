@@ -230,6 +230,7 @@
   "created_at": "2026-08-26T08:45:16.74879Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "f467e0f4662cc0bd7f1d6fb69f89565db216fecea7dcdc3cbe85209a35c5e3e8",
@@ -302,6 +303,7 @@
   "created_at": "2026-09-01T17:34:37.268148Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republicans win Collin County in the Texas Senate race in 2026?",
   "revisions": 1,
   "sha256": "95153ca03d6affc773ad473567ea8cd6f09aec2e2af3f8d8aadda49ce90fa902",
@@ -504,6 +506,15 @@
   "revisions": 1,
   "sha256": "00d756585611d14e319cdaa0c6abfc65c8adba0df2f50083d81843aa30515b91",
   "slug": "will-cptjpt-stroud-finish-the-2026-27-nfl-regular-season-with-the-most-passing-touchdowns-20260715212611263"
+ },
+ "0x5a4b05ef393ff9babd90141413af3b8d526562d4ee99c84627b5edc35c6ef293": {
+  "created_at": "2026-11-04T17:37:50.29981Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Liquid Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-liquid-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x5af2241ecc3a9a253d6cf3ea41fa539b52acfabad3ba9018a2b8b618b8681e93": {
   "created_at": "2026-07-14T16:58:12.979915Z",

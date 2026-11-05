@@ -112,6 +112,7 @@
   "created_at": "2026-08-26T08:44:16.87608Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "c1be55a5f51755e3b8b44ece11f97cd245267b885b89a8d935fc94ba45015062",
@@ -220,6 +221,7 @@
   "created_at": "2026-10-03T19:00:27.021971Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 0 - 0 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -504,6 +506,15 @@
   "sha256": "ed0af71c6556006f2e4c8d0ff52b473b7d2fb11135acdfa14b927fb54b88c3a4",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-new-mexico-be-less-than-550000"
  },
+ "0x60162b33c6e3fd5e688ee3307091193d214fe705cc14b7c80222464671cc1144": {
+  "created_at": "2026-11-05T01:14:45.938166Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will there be 3 or more government shutdowns by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "8dc0163799f35f55665d0fda2eb9baa18ef71bc36586ab10fbed6ae30b31f93f",
+  "slug": "will-there-be-3-or-more-government-shutdowns-by-december-31-2027"
+ },
  "0x65d3916da7218744d602781833a5aabfc922ab8da872d7c478792fcafa237644": {
   "created_at": "2026-09-20T09:44:55.867489Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -630,6 +641,15 @@
   "revisions": 1,
   "sha256": "a54f1db4fb8e7b235c9f507931e1adbf5916c20f9a27bf242515dc35984a7484",
   "slug": "will-baltimore-ravens-win-the-2026-afc-north"
+ },
+ "0x74903cab4e4baccc37295f5b1d48bbd5d244dc2f97a47cd644cfb1ab0d220744": {
+  "created_at": "2026-10-25T10:45:21.57519Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "0bbb5c19bab928a54fdbf6eabcc529ee34193b12dd8485a5b7e866fc490a1624",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-home-3pt5"
  },
  "0x75c4087382428391821484fdb6ceeef112f084010be5f4b90536cba6e221f944": {
   "created_at": "2026-11-03T19:35:45.071453Z",
@@ -1081,6 +1101,15 @@
   "revisions": 1,
   "sha256": "8899d62ce54c3f0b363eb72299962c409148a97349b4b131bd2897400a3c8659",
   "slug": "brock-bowers-5pt5-receiving-touchdowns-2026-27"
+ },
+ "0xc147439f727a2cc20f8263317c7aae06bb3bd56c1e6dbc3c319c60ef3cb37a44": {
+  "created_at": "2026-11-04T17:37:53.451832Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will DENDELE Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-dendele-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0xc167a7967ffbc3b1a864ffbaf11fa1c9fd6904877692a5ba25e3e7f3d01ed644": {
   "created_at": "2026-06-03T20:57:27.390317Z",

@@ -324,6 +324,15 @@
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
   "slug": "will-nvda-reach-216-in-november-2026"
  },
+ "0x418cdb8d544f13cbf2031a96521860bc212ec9c289f64e0efc79ab5c962dd0dc": {
+  "created_at": "2026-10-25T10:15:19.728544Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 4 - 4 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-4-4"
+ },
  "0x433c870e489ec43502acdf71e142135836d446393e1f6137829568a0e60d13dc": {
   "created_at": "2026-08-28T20:17:54.23862Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -766,6 +775,15 @@
   "sha256": "f46155dc485204349bfab0b62492076cc5e5c838b6f71cf3bef59673eadf1562",
   "slug": "brock-purdy-30-passing-touchdowns-2026-27"
  },
+ "0x9c0499e9be18fd445cbca5ed25b03cd3aaee321652de1e7370c282b717286bdc": {
+  "created_at": "2026-11-04T17:37:51.737196Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Eternal Fire Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-eternal-fire-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x9c58a9ce053dfa8638d446bb1287858b1286707d81864c1c592d5224d66209dc": {
   "created_at": "2026-08-24T16:34:18.399051Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -815,6 +833,7 @@
   "created_at": "2026-08-26T08:15:19.197719Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Oxford United FC 1 - 3 Reading FC?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",

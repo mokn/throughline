@@ -410,6 +410,7 @@
   "created_at": "2026-09-01T17:28:45.611404Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Kent County in the Michigan Senate race in 2026?",
   "revisions": 1,
   "sha256": "bd28ac9dd66fcfddb1df6ad10d287d9e8ca01b855b24bbcfa61448501fc34c94",
@@ -734,6 +735,7 @@
   "created_at": "2026-10-01T14:27:26.940304Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Donald Trump publicly insult Masoud Pezeshkian by October 31, 2026?",
   "revisions": 1,
   "sha256": "173a792e74b8aedb6c62436a8de48402eded0a4acc0609b09a6a3625c86c307e",
@@ -846,6 +848,15 @@
   "revisions": 1,
   "sha256": "e33bfcbd7dadd44093b2686947abe165b614f59dac208f269e667a6f7f40e283",
   "slug": "enl-scu-fgr-2026-10-03-corners-total-10pt5"
+ },
+ "0x83ca4e611023c472924e5f6a90f2ee8226968d17ced1f9f556e6ce53c5f9249f": {
+  "created_at": "2026-10-25T10:15:19.228809Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 5 - 1 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-5-1"
  },
  "0x845f066d7e3d1d3233c07345c75aad5dcf80508c764d80eb23248f84ea70a49f": {
   "created_at": "2026-10-13T19:55:49.537444Z",

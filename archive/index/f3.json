@@ -383,6 +383,7 @@
   "created_at": "2026-07-01T22:26:59.847635Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "California High-Earner Permanent Tax Proposition",
   "revisions": 1,
   "sha256": "a02d2ff486a72dbd0c88f0486817a053dd7ee5fc927c6bbfc7083f32ccff0494",
@@ -843,6 +844,7 @@
   "created_at": "2026-08-11T14:13:34.63946Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win 12 or more House seats in Pennsylvania in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "d7734c9f2ef886fbbc5c40c1d477759b926cdd73451ac69b7d2fee4966739c65",
@@ -1298,6 +1300,15 @@
   "revisions": 1,
   "sha256": "dc15d70ae3197b12a1d5171269d8363291fd143181efe6422901ad778fdc323c",
   "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-december-31-20260806175739817"
+ },
+ "0xba27e1c58ca0ba5938eca3527b76bd75d430d56614a57d20797f49e1ead271f3": {
+  "created_at": "2026-11-05T02:25:49.206152Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Marco Rubio by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-marco-rubio-by-june-30-2027"
  },
  "0xbcca54aec4037b37eafeb0edb5aa2a72a602a1da655a539a71a18050e9bd11f3": {
   "created_at": "2026-11-03T17:40:57.695415Z",

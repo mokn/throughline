@@ -700,6 +700,7 @@
   "created_at": "2025-07-11T20:47:55.924227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "2026 Balance of Power: Other",
   "revisions": 1,
   "sha256": "f34f45b6b7464581ee4e02f4ae784532e248f81c5550b8542ad51517db1f06f4",
@@ -837,6 +838,7 @@
   "created_at": "2026-08-26T08:45:16.927785Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "723e2a17e58ed00ecdd3be373cc27d0dab578c812dbb684d6b7e12b1629bd53d",
@@ -846,6 +848,7 @@
   "created_at": "2026-10-03T19:00:28.541325Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 4 - 3 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -895,6 +898,15 @@
   "revisions": 1,
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-lautaro-martinez-win-the-2027-ballon-dor"
+ },
+ "0x9add86ea342870305c364e01a1b2dc740dfbb2ccf47a54ff1353a5ab98b2a53d": {
+  "created_at": "2026-10-25T10:15:18.889219Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 1 - 5 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-1-5"
  },
  "0x9c749e841b108fa679e28d86eb20ecd461ead09084b67ef4ba39dc799506923d": {
   "created_at": "2026-10-27T16:57:32.629885Z",

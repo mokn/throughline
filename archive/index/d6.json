@@ -215,6 +215,15 @@
   "sha256": "84eaf53c7d8cda850ab134fb83b6c122534d397b075c494a5f6a288ea9cdade6",
   "slug": "will-andre-szmyt-finish-as-a-top-5-k-in-the-2026-27-nfl-season"
  },
+ "0x257944e80186acc2fd71b18394620f2169d03a1e389bc3757548be5f67f2f2d6": {
+  "created_at": "2026-10-25T10:15:20.056816Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 5 - 5 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-5-5"
+ },
  "0x29544455c34f802dae1cda5748b8a378e36f2a4c06e0c8eae4df73b030910ed6": {
   "created_at": "2026-08-21T17:37:19.782889Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -300,6 +309,7 @@
   "created_at": "2026-08-11T14:12:05.620907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 5 House seats in Virginia in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "caec01e66d8f8d15d91cbe1c29920df716bed7a02f2ed568f4d39166f4163052",
@@ -1363,6 +1373,7 @@
   "created_at": "2026-01-28T15:28:40.396036Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the CA-48 House seat?",
   "revisions": 1,
   "sha256": "545e69de50017083ebe54089c86faad81536ce7a67126f6e0f4cb25bf0913463",
@@ -1408,6 +1419,7 @@
   "created_at": "2026-08-14T21:20:04.369658Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-05 House Election?",
   "revisions": 1,
   "sha256": "288303da4a71a804244e20a0aef1b484066607bf0884c9034e5ddafb2368504d",

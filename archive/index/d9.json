@@ -26,6 +26,15 @@
   "sha256": "4515a6fde12b8ee50fd2777b71253a17205f5adab98e8664a903c56c32193a19",
   "slug": "will-ayoze-perez-win-the-2026-27-laliga-player-of-the-season-award"
  },
+ "0x02c4252d32c28b4c872a34c697ebe9ef50227e03a79cce8fd43da52090e792d9": {
+  "created_at": "2026-10-25T10:45:18.828457Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "ebbac79bae095632b6d0b9d643804f059ebc1e2c3941052466f4dce4bac27119",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-total-2pt5"
+ },
  "0x045ffcee329af1ea72d5f3b693eb2e026f709401f7f24433d9049d7888bc0bd9": {
   "created_at": "2026-01-24T23:29:30.211722Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -553,6 +562,7 @@
   "created_at": "2026-08-14T21:18:46.46312Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-13 House Election?",
   "revisions": 1,
   "sha256": "2c9f28127daeba47f960ee2c4780a1e4fbed57e0fbed0e3d0d37b28dba63a3ed",
@@ -562,6 +572,7 @@
   "created_at": "2026-06-24T22:16:34.254393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Ken Welch win the St. Petersburg mayoral election?",
   "revisions": 1,
   "sha256": "405db246932382e7f0ca67b037a813919abef2e9389feb8961efff891649922d",

@@ -149,6 +149,7 @@
   "created_at": "2026-09-22T16:25:41.830418Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will US crude oil reserves fall to 270M by October 30, 2026?",
   "revisions": 1,
   "sha256": "3ff315b1ec1392660ad2cdd244ded07cf33a2d608d1f32c59046683e53f6e029",
@@ -687,6 +688,15 @@
   "sha256": "1246434b874a8b8a4700d1c73bc07aee8f2ef52bd84f45770e740a126fc38410",
   "slug": "will-gpt-astra-6pt1-debut-at-a-score-of-at-least-1470-by-june-30-2027"
  },
+ "0x7f5c610e1a43e05d50fdbe50a5b37395cabbace0ad85de192a3a46f845bd5bec": {
+  "created_at": "2026-10-25T10:15:18.388913Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 0 - 5 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-0-5"
+ },
  "0x8134e888ac46be5afdc72602ecc43995245372ba22f839f47619248644376aec": {
   "created_at": "2026-04-03T15:53:37.631012Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1170,6 +1180,7 @@
   "created_at": "2026-08-12T17:32:10.179671Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Deportivo Mor\u00f3n be runner-up in the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "535242f33d28aedce5a3e9c960a1829109af50a5cfa6cbbe1d4d68d7c0d5846f",

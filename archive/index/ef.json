@@ -165,6 +165,7 @@
   "created_at": "2026-06-24T22:16:33.782386Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Charlie Crist win the St. Petersburg mayoral election?",
   "revisions": 1,
   "sha256": "405db246932382e7f0ca67b037a813919abef2e9389feb8961efff891649922d",
@@ -277,6 +278,15 @@
   "revisions": 1,
   "sha256": "f3ccd0f4b1434270ffbe93842d10e79da316bf3d502768082af9075f24b51474",
   "slug": "will-boston-river-finish-13th-in-uruguayan-primera-division-2026"
+ },
+ "0x25c779607dbb8064e4b9f9005784ff2b785a3cf11845addf11ccd90c1f17ecef": {
+  "created_at": "2026-11-05T02:25:46.021623Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Donald Trump by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-donald-trump-by-june-30-2027"
  },
  "0x2a0b371e8dd7d55bb21f978d22c840bf4da6734ad46a2b73aebd039a44a661ef": {
   "created_at": "2026-06-10T15:15:37.855015Z",
@@ -418,6 +428,7 @@
   "created_at": "2026-10-03T19:00:07.205857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will SK Artis Brno vs. Bohemians Praha 1905 end in a draw?",
   "revisions": 1,
   "sha256": "754c5efc02b8ae5b0b20af1441faa33c6151e1ddfd728f3b0ee1e93d21899ff9",
@@ -427,6 +438,7 @@
   "created_at": "2026-01-28T15:40:05.878665Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the TX-02 House seat?",
   "revisions": 1,
   "sha256": "0c5a6dafcec28d010a34555153469c0b33709a7a8711ccc05241842d127dc33d",
@@ -639,6 +651,15 @@
   "revisions": 1,
   "sha256": "f5c23e560934931f83bf44144b491ad3cce1da2f62012f7147714feaba99a7e1",
   "slug": "will-joel-padilla-pena-win-the-2027-colima-governor-election-20260803173852328"
+ },
+ "0x758a53e9d029ce9d3c22b012745477759b5e3df45d73bfdaa1f6c133f2ddcaef": {
+  "created_at": "2026-10-25T10:45:20.19242Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 0.5",
+  "revisions": 1,
+  "sha256": "7cc39590c9ad444046fb09169722e8c2631e2b078458f29acc2745fd570753b0",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-away-0pt5"
  },
  "0x76a52e3e29b60d053ba2188a47802e8fdb59e549d054865fed9019f3601282ef": {
   "created_at": "2026-08-31T18:14:53.98524Z",

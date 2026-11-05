@@ -242,6 +242,15 @@
   "sha256": "a045889b124fc1fc8b1870a06355ca351e356d751297ca1e46c2edd9762fde25",
   "slug": "2027-soccer-2-bundesliga-runner-up-karlsruher-sc"
  },
+ "0x22f905d63b64067ed93f8bd1bd0a3407965a8d51f590f53798671975eaf9f94c": {
+  "created_at": "2026-11-05T02:12:12.590227Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the new Senate confirm a Trump Cabinet or federal judge nominee by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "3685844e49a2b1e05520755247664499174a1591b11dbcf0a50f3a59c138bff3",
+  "slug": "new-senate-confirms-a-trump-cabinet-or-federal-judge-nominee-by-january-31-2027"
+ },
  "0x23dae02624e2eac0ab4d7e452cdf29959646c6154afa33f40c20a1ac38a1914c": {
   "created_at": "2026-03-25T22:06:57.794661Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -327,6 +336,7 @@
   "created_at": "2025-12-15T23:46:57.642477Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the WA-03 House seat?",
   "revisions": 1,
   "sha256": "6367d285fdd61bd26a4ae79dfecb9ac46779a99254dd96fedfeed31f07d35975",
@@ -1295,6 +1305,7 @@
   "created_at": "2026-10-03T19:00:27.557382Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 0 - 4 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",

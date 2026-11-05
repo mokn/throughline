@@ -471,6 +471,7 @@
   "created_at": "2026-08-26T08:45:16.518739Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "368c8dcbfc30c06fb25f1e512dbc025a41ba715db7501c4809859f9798c67620",
@@ -548,6 +549,15 @@
   "sha256": "4004e40a6899116042f9f41bb354069b95c0604cd93590f40ddcedf7d58b899d",
   "slug": "will-based-polymarket-revenue-hit-2m-before-2027"
  },
+ "0x53f45146306177ff40486d00fb9166bdaa9f81ee617fcf7ac378f61a027c5a99": {
+  "created_at": "2026-11-04T17:37:52.378554Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Ninjas in Pyjamas Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-ninjas-in-pyjamas-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x54b58a574b48854fce5d680c9d343707e8f163779293a981a7a4be8217159c99": {
   "created_at": "2026-09-02T21:55:46.022711Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -624,6 +634,7 @@
   "created_at": "2026-08-11T14:13:34.184699Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 9 House seats in Pennsylvania in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "d7734c9f2ef886fbbc5c40c1d477759b926cdd73451ac69b7d2fee4966739c65",
@@ -1029,6 +1040,7 @@
   "created_at": "2026-06-26T15:56:18.791009Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Chris Hill win the 2026 Collin County Judge election?",
   "revisions": 1,
   "sha256": "2baa2b598ee8cdcfb86b1c87d9b8a452546edad85543d744f3a4c198f16bd599",
@@ -1326,6 +1338,7 @@
   "created_at": "2026-07-21T22:51:35.584335Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Colorado passes ballot measure imposing life sentences on underage sex traffickers?",
   "revisions": 1,
   "sha256": "bfab8bfc4db73efc94709c4509158fa6cf1256fee23dda2aac79e74ffb96af63",

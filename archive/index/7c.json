@@ -427,6 +427,7 @@
   "created_at": "2026-07-30T19:46:18.802292Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will voters pick the 1873 Colt Single Action Army Revolver \"Peacemaker\" (.45 Colt) as the state gun of Idaho?",
   "revisions": 1,
   "sha256": "32c13a11589d2c4fbab1628201cac820bbea6df03df2fffeae39a34f6bc6fb4c",
@@ -1064,6 +1065,15 @@
   "sha256": "32a94156792bdd186bd89f1336fed358178976b3bff69f78cc486b1853252c10",
   "slug": "will-the-jacksonville-jaguars-finish-the-2026-27-nfl-regular-season-with-the-best-record"
  },
+ "0xadfbbadd95e6ec91c6943357524d5346179f3ddc7badc0f1979f3bf20142617c": {
+  "created_at": "2026-11-05T01:02:22.171358Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "250-254 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "250-254-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
  "0xaf681bb7e57ee20f081c575c293c61d956c95e3c08246d216c5df123bcc1ff7c": {
   "created_at": "2025-12-15T20:54:17.475081Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1244,6 +1254,15 @@
   "revisions": 1,
   "sha256": "c324fccd7487b0d893650b15e3823df353f54cd393fc5cf0006fbc7848bcbfde",
   "slug": "will-mia-frisk-be-the-next-regional-board-chair-of-region-jonkoping-county-1786127776520"
+ },
+ "0xc703dd6efcd6191f65584447a7958f9a289ebf6a0e9d3990c24a31a280d1b47c": {
+  "created_at": "2026-11-05T01:14:44.680768Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will there be exactly 2 government shutdowns by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "8dc0163799f35f55665d0fda2eb9baa18ef71bc36586ab10fbed6ae30b31f93f",
+  "slug": "will-there-be-exactly-2-government-shutdowns-by-december-31-2027"
  },
  "0xc7a586ed8acde239f237595cb2d33032a7a709f99bcb45474dbbd49ad43a6a7c": {
   "created_at": "2026-08-11T18:43:35.968521Z",

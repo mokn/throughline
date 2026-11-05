@@ -758,6 +758,15 @@
   "sha256": "195f52083f16b97ab8131ebcf34c6f557a7e8bbdbafc0a727a491304fb790527",
   "slug": "will-broad-front-fa-win-the-most-seats-in-segovia-in-the-2026-spanish-general-election"
  },
+ "0x68795b497f94580613c36c44d62e108a0fe98a60097d8e67c900ad30ed1ecfa2": {
+  "created_at": "2026-10-25T10:45:20.043218Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 5.5",
+  "revisions": 1,
+  "sha256": "87fe60620c3f3be7f137ad91acb34169c48b61835755ca9cee43d5fcd7dba5b3",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-5pt5"
+ },
  "0x6ce395a556114593270b25fa154512fd0f5067d49a400eca03c88b249fe700a2": {
   "created_at": "2026-10-13T19:48:18.778491Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1313,6 +1322,7 @@
   "created_at": "2026-08-26T08:15:02.063766Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Oxford United FC win on 2026-09-08?",
   "revisions": 1,
   "sha256": "d0a0fccd3bc3c34b883063a14867942399d35e2127966ca347867730c8ab0d41",
@@ -1434,6 +1444,15 @@
   "revisions": 1,
   "sha256": "c7d31f12e5635372c2b94dd3de1c32bdcc897a6e2098d08be13aa4e1d2d5cd5e",
   "slug": "will-tennessee-titans-win-the-2027-nfl-afc-championship-594"
+ },
+ "0xc71b4d1eb54da05c9a78e0c4bf9d8c5eaa809a84ed8fee06e464d7f6013645a2": {
+  "created_at": "2026-09-27T20:12:03.678426Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Jacob Fowler win the 2026-27 Vezina Trophy?",
+  "revisions": 1,
+  "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
+  "slug": "will-jacob-fowler-win-the-2026-27-vezina-trophy"
  },
  "0xc962db8d30f3a4a57f35477b40fc0b3da1accef19c17bead33c2af1100e51fa2": {
   "created_at": "2026-09-08T16:53:15.913057Z",
@@ -1660,6 +1679,15 @@
   "revisions": 1,
   "sha256": "d48a322a7a4508bee757582c47b57b228c390f343a9febf9c2511cd8ebe35ae1",
   "slug": "will-hyperliquid-hit-100-by-december-31-2026"
+ },
+ "0xf814e8597fa3f884e441d443490ed40c1b781594c24ba45cff81f9111115b0a2": {
+  "created_at": "2026-11-05T01:02:21.682843Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "245-249 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "245-249-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
  },
  "0xfb42afaad14e6eed406a69daf6170ea7276f5e0ef176c7ec12e5f58b8f3edba2": {
   "created_at": "2026-07-23T15:37:20.719845Z",

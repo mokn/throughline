@@ -939,6 +939,15 @@
   "sha256": "1d4a17a06c3618f6849e87bd81c896829a996320afda54ba8f5fd5111c11ca10",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ky-05-house-election"
  },
+ "0x9ba34aed5a40fb8254d2ea2b88c55d7b27312f26d4ac2f31ce5c0c810529cf58": {
+  "created_at": "2026-10-25T10:15:17.426072Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 2 - 0 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-2-0"
+ },
  "0x9d48989071ce5b16bac542ed693f589a2fde1950e0a4fc360150f2320059f758": {
   "created_at": "2025-11-19T15:53:31.333635Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1150,6 +1159,7 @@
   "created_at": "2026-08-26T08:15:19.449681Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Oxford United FC 2 - 3 Reading FC?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",

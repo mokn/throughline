@@ -336,6 +336,7 @@
   "created_at": "2026-08-26T08:15:19.771679Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
@@ -1092,6 +1093,15 @@
   "sha256": "927f076ec0d0062e31580052d171dc5a12a1a5671b81891aecb47259ca7da6a5",
   "slug": "will-the-republican-party-candidate-win-the-2026-in-06-house-election-by-45-or-more"
  },
+ "0xc28b75bd9563ea37afb00c44252d79b10711f704cd9198be7acfc914925100f9": {
+  "created_at": "2026-10-25T10:15:19.389252Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 4 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-4"
+ },
  "0xc4271e84062dcf342b8004399cf35068833a55c0686e6405c0e2d2fef6db5ff9": {
   "created_at": "2026-10-13T19:55:28.740735Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1322,6 +1332,7 @@
   "created_at": "2026-08-14T21:19:42.365659Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-07 House Election?",
   "revisions": 1,
   "sha256": "1598e78a6368699eac2942accf2fb512c87052d93de6875809ea4137d135fb15",

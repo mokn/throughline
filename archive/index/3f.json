@@ -1131,6 +1131,7 @@
   "created_at": "2026-10-03T19:00:28.187977Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 2 - 4 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1513,6 +1514,15 @@
   "revisions": 1,
   "sha256": "a0243321d20b27b1b51aaca771605eb35378b3637a20e875c2b9ee21ef3861a6",
   "slug": "will-stravas-market-cap-be-between-5b-and-7b-at-market-close-on-ipo-day"
+ },
+ "0xf6cf3a051f15c3f09b2a6d439d1f02960c37cca062366c6ecf168cace27d983f": {
+  "created_at": "2026-10-25T10:45:18.087742Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 8.5",
+  "revisions": 1,
+  "sha256": "47d9665eed1d8e9c3c55610eea354f433f06d84abc24ac25d34604eab0f7500d",
+  "slug": "gtm-mun-aur-2026-11-07-total-8pt5"
  },
  "0xf853457e2bccad86240767ad3e0af45ff0e47bddb0157c65fa1f47c7a1bdb33f": {
   "created_at": "2026-10-09T16:29:10.702286Z",

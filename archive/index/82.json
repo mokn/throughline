@@ -135,6 +135,15 @@
   "sha256": "e8730c763cda11043750fcef65cbcd79d101d90652b7565f73997e51ff8adddb",
   "slug": "will-gent-finish-9th-24th-in-uecl-league-phase"
  },
+ "0x11bf37ff195b70d2b275dfe96c8940d72d064bad3a64931673763a63c89e8582": {
+  "created_at": "2026-11-05T01:02:20.990616Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "244 or fewer votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "244-or-fewer-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
  "0x126b152cdc117693acf4092d97b663644fcf6b8ac6615d7817f0e284d60a6d82": {
   "created_at": "2026-08-11T19:03:49.824912Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -305,6 +314,15 @@
   "revisions": 1,
   "sha256": "a088067638c29dc1bfb38cbed80e812a29dc28009f597feffb4148f12fd18b1b",
   "slug": "omarion-hampton-7pt5-rushing-touchdowns-2026-27"
+ },
+ "0x2d8f371cc6729dc890d1bf5494794cb373a3386802d9e7b8b819e50221585282": {
+  "created_at": "2026-11-04T21:46:42.353703Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Next James Bond announced by December 15, 2026?",
+  "revisions": 1,
+  "sha256": "67fd95d32f2bd3831d515c6fb241e59b1b14a968e17034da519a71a61a106009",
+  "slug": "next-james-bond-announced-by-december-15-2026"
  },
  "0x2fa33a7b10abef628d5832c1126705ae279a540c18ca9ad10fffdf6853acec82": {
   "created_at": "2026-08-12T00:16:49.168036Z",
@@ -519,6 +537,7 @@
   "created_at": "2026-10-03T19:00:28.403653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 2 - 5 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1015,6 +1034,7 @@
   "created_at": "2026-08-11T14:04:46.889415Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 3 House seats in Wisconsin in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "2342764c11b82315aa8b15c077d5c88a389181fc632c29c7e79f6bc3ad858e9b",
@@ -1363,6 +1383,15 @@
   "revisions": 1,
   "sha256": "bfc9b15c395c59f705e403758630e6f9dcf2d46d22ea7ef8e454db516484bf94",
   "slug": "will-ferencvarosi-tc-keep-the-most-clean-sheets-in-nb-i-hungary-2026-27"
+ },
+ "0xe3c6fe139f01a63f7f8b89e23532a27efdabc4789c52ae275e3c61330c99fa82": {
+  "created_at": "2026-10-25T10:45:19.282488Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 0.5",
+  "revisions": 1,
+  "sha256": "6b68443c502cb0d77391a8033e65375fd5014c0113759ebae468a3e4dd075180",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-0pt5"
  },
  "0xe48aec63b708adaad1e25e947a5b2a07295ed6a2b2af57844b6128e51f904582": {
   "created_at": "2026-08-11T18:36:33.481912Z",

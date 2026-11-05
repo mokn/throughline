@@ -171,6 +171,15 @@
   "sha256": "175e5715f65040dd74298ad9a1b2231e932428f2bf12dfd7e7c9cb61fe78219c",
   "slug": "will-jonathan-reynolds-be-the-first-to-leave-the-burnham-cabinet-20260803162204125"
  },
+ "0x27b4cc8756daad266cfef0e690b14cb688b397ac2edec7dd7cda098df21b25dd": {
+  "created_at": "2026-10-25T10:45:17.792843Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 6.5",
+  "revisions": 1,
+  "sha256": "a4ab3815b1e5ad9ec4eaf17561b38f7dd1789e709e671c2bfd3ef3c0a36c5cba",
+  "slug": "gtm-mun-aur-2026-11-07-total-6pt5"
+ },
  "0x27f1b58012548eef9670a6949563ebf920a5658ed0fc049f31e1a869432c89dd": {
   "created_at": "2026-07-29T18:38:09.103536Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -446,6 +455,7 @@
   "created_at": "2026-08-26T08:45:19.018345Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Reading FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "9cfe0c75c4ef7459e662915bcdf550d1bf0e576e6348b4d879c0dcf4c665b99a",
@@ -673,6 +683,7 @@
   "created_at": "2026-09-01T17:41:07.432152Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republicans win Fort Bend County in the Texas Senate race in 2026?",
   "revisions": 1,
   "sha256": "f90109fe962a9c4b4c6fa9ed27a8e3c5a38ef33484c9570ae8cae8137eef6a94",
@@ -800,6 +811,7 @@
   "created_at": "2026-06-26T15:54:21.489773Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Dexter McCoy win the 2026 Fort Bend County Judge election?",
   "revisions": 1,
   "sha256": "4f39114f4e19f660d37b1276c492d816a3bcb4ee6d41389fe80dcb14509ca904",
@@ -1279,6 +1291,7 @@
   "created_at": "2025-11-25T17:18:00.623189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the CA-22 House seat?",
   "revisions": 1,
   "sha256": "08648b8755262663f4b3f2be7c8475c33e9a9f637a3ae46d8eece31365476dce",

@@ -174,6 +174,7 @@
   "created_at": "2025-12-10T18:05:33.476645Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party hold 32 or more governorships after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cb4a6d2db6b0e17d1f68fb1ebd345806a34632c9cd578e8c03fccd5d3ea36f4b",
@@ -354,6 +355,7 @@
   "created_at": "2026-07-02T19:52:22.465954Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Republicans win 1 Senate and Governor election in states won by Kamala?",
   "revisions": 1,
   "sha256": "2c47dd999a052c6bf012bcf825cc2e04e967b0a87b36b09e4c14a2d9186afbe3",
@@ -765,6 +767,15 @@
   "sha256": "5d6a3c2c1abed2e6aa8b35a7eca2daf46139929f17bc7c52b03d5f6f2b257db8",
   "slug": "will-thomas-muller-retire-before-1-july-2027"
  },
+ "0x6140a5f83ba35f1f74a97a957cf7094f8efdd5122e8d0ca51b3dd0d2a63e573c": {
+  "created_at": "2026-11-04T17:37:46.269279Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will MIBR Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-mibr-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x614b930a69255925355bda332515ff474d91913345b104a64d5a321118ac003c": {
   "created_at": "2026-08-26T21:46:31.611754Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -832,6 +843,7 @@
   "created_at": "2025-12-15T23:23:33.564622Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the TX-09 House seat?",
   "revisions": 1,
   "sha256": "7b04f91e906e34918a087661d3e2fb1d9fdb84c61c497e2f7339502af9c88b45",
@@ -1329,6 +1341,7 @@
   "created_at": "2026-06-26T15:48:04.982554Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Steven Snell win the 2026 Williamson County Judge election?",
   "revisions": 1,
   "sha256": "a4501c5aec3f2e0c8a5d7431b64fe4481e05fe9c98b5ce8a190b9b54d76bb90d",

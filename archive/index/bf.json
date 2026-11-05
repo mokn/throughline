@@ -21,6 +21,7 @@
   "created_at": "2026-08-14T21:26:43.676588Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the LA-05 House Election?",
   "revisions": 1,
   "sha256": "aedc2c371da25d32f7ef8cad219d20f268ce612f60905daab8f388605b0b34f9",
@@ -43,6 +44,15 @@
   "revisions": 1,
   "sha256": "36239fa6ab18c7aa291f3bb002bdf0226c62b4094adfa9e786356e82489f33d9",
   "slug": "will-kruger-united-keep-the-most-clean-sheets-in-south-africa-premiership-2026-27"
+ },
+ "0x030cada031ae580d5b772c01c81c6e917fa15c70dc657874a21caae6853ac0bf": {
+  "created_at": "2026-10-25T10:15:18.640625Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 2 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-2"
  },
  "0x03f25a502c89531784fa2725e3c6a8c773020f39dfee8143fbf74bced882b3bf": {
   "created_at": "2026-10-02T19:30:26.454694Z",
@@ -295,6 +305,15 @@
   "revisions": 1,
   "sha256": "cc3ba7b32524c9567bbccb378d10c01053fa5627dfc28f6d0823ef516524768d",
   "slug": "will-daejeon-hana-citizen-be-relegated-from-k-league-2026"
+ },
+ "0x26b205095fe1e6c7bcb15035e9b4ad7b524fd8c9c83dbbcfb398998756abbdbf": {
+  "created_at": "2026-10-25T10:15:19.977286Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 5 - 4 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-5-4"
  },
  "0x273bfff7e975966338cf1d2c8c9485175e5c019a1d865be8a7f6ccf5bfae26bf": {
   "created_at": "2026-09-26T04:20:17.061082Z",
@@ -1474,6 +1493,7 @@
   "created_at": "2026-11-02T00:48:14.202409Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and Israel and Hamas agree to ceasefire Phase II by the end of 2027?",
   "revisions": 1,
   "sha256": "ebbfbcce08e4f37e8d62cb33d1841e6fdb506d55cdaadd54052043ecc1525cb5",

@@ -514,6 +514,15 @@
   "sha256": "dfc6a97b46689bceded997cac87888e8e833f982165887c793740f3a0770b1ea",
   "slug": "will-union-de-touarga-finish-14th-in-morocco-botola-pro-2026-27"
  },
+ "0x52bc41f40ffd06b911246902e14e0b2a250fa2f14d1582f94c96f39627ac938d": {
+  "created_at": "2026-10-25T10:15:22.561905Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal to score first vs. Aurora FC?",
+  "revisions": 1,
+  "sha256": "d74cad6e1d8784df8293357c82d06d201ec930c5c432bce2ad0d12725c5c92ec",
+  "slug": "gtm-mun-aur-2026-11-07-first-to-score-home"
+ },
  "0x52d686f36a521dc908fb90bc3d215ea2e08c5ff1faab02b63e5e728d3247128d": {
   "created_at": "2026-09-20T08:44:49.375806Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -707,6 +716,7 @@
   "created_at": "2026-06-26T16:00:20.555399Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Letitia Plummer win the 2026 Harris County Judge election?",
   "revisions": 1,
   "sha256": "f91348195238f880905a6ed1e2c2ce7f4adf25f957828f5cf5a8ef6357583bbd",
@@ -752,6 +762,7 @@
   "created_at": "2026-08-26T08:44:15.981686Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 1st Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "d84e3c33c1567911c089d5790f249b4d6235b303139a5a86117f62fbeb47463e",
@@ -918,6 +929,15 @@
   "revisions": 1,
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-michigan-state-reach-the-2027-ncaa-mens-basketball-final-four"
+ },
+ "0xa57561f9f0cda3b98d2eab9d39ea84e7fe25c6ef83ae4a0217b7e61e41e87c8d": {
+  "created_at": "2026-10-25T10:15:18.199386Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 1 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-1"
  },
  "0xa5caa2083723ceeddd1b0b68f9f375324fd368577770e001cbaf46d0b3c4268d": {
   "created_at": "2026-08-10T23:37:14.545135Z",
@@ -1206,6 +1226,15 @@
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
   "slug": "will-yan-diomande-win-the-2026-golden-boy-award"
+ },
+ "0xd84dbd25fef18f5f748dbcf953390ff3c9557720f46486a309ddf705bf85af8d": {
+  "created_at": "2026-10-25T10:45:18.382787Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "4eaea07539f144999cdfb887112ba7b0dec52688884df1feb0ba4e61ab49e21e",
+  "slug": "gtm-mun-aur-2026-11-07-btts-first-half"
  },
  "0xd89ba15a2be4604e2773baf481c49a917587afb4d85749edecb89a2306e5f08d": {
   "created_at": "2026-08-04T21:40:47.682388Z",

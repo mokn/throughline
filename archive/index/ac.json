@@ -93,6 +93,7 @@
   "created_at": "2026-06-26T16:00:20.784363Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Orlando Sanchez win the 2026 Harris County Judge election?",
   "revisions": 1,
   "sha256": "f91348195238f880905a6ed1e2c2ce7f4adf25f957828f5cf5a8ef6357583bbd",
@@ -192,6 +193,7 @@
   "created_at": "2026-08-11T14:12:30.494315Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 6 House seats in Michigan in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "b6c17b236c3ee1cc3efe5225b557298a09a9e87e5a2a17a4fd5bf9806e016370",
@@ -1242,6 +1244,15 @@
   "sha256": "3583748f1fa0ce170741ecfc9852d4d3a0a1b911838e074be7ffbd3717998692",
   "slug": "el1-bro-wyc-2026-10-03-team-total-away-4pt5"
  },
+ "0xd61b743bd2c3f2b75c08295def6ae034f1610daaaac7bbdf78c59e280da6dbac": {
+  "created_at": "2026-11-05T02:10:07.079923Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Trump sign a bill from the new Congress by January 31?",
+  "revisions": 1,
+  "sha256": "304410d868b55057a01f25c4bc5d1ee51ee360b62ab0e40a4ae1d4e747a0c9ee",
+  "slug": "trump-signs-a-bill-from-the-new-congress-by-january-31-2027"
+ },
  "0xd66be4226bb221554803a2d4233a6b613a52cf5cef5e0cb52b22bf53a7e28fac": {
   "created_at": "2026-08-26T21:46:06.109193Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1340,6 +1351,15 @@
   "revisions": 1,
   "sha256": "8d302d4ee4c4e243b8df2d90cd6c868248889730496e0d0fbea47ca6812ff602",
   "slug": "will-sarah-huckabee-sanders-announce-a-presidential-run-before-2027"
+ },
+ "0xe6afee76d739921e82ce71464ab28c9b158b1b065746d407b774cff75dddfeac": {
+  "created_at": "2026-10-25T10:15:19.894376Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 4 - 5 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-4-5"
  },
  "0xe8628212c78acfd930534f807310c5e2034a3bf80e0cd8976cbf044fce8b67ac": {
   "created_at": "2026-10-10T11:30:40.529043Z",
@@ -1471,6 +1491,7 @@
   "created_at": "2026-08-04T22:28:55.032911Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Bank of Brazil increase the target for the Selic rate by 50+ bps at the November meeting?",
   "revisions": 1,
   "sha256": "7b46465ab829afba59698f1d60c7d20c52487066065d76a5a6d59c8e2ed60ea6",

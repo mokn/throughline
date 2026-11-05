@@ -578,6 +578,24 @@
   "sha256": "3cdea29edcf931a0571a27eb094c8fe0937f0b6a86a26f594b62a18e153c08a0",
   "slug": "will-alperen-sengun-be-a-2027-nba-all-star"
  },
+ "0x84cbfdd8395d99d91a38fb6ea40c7f4291cc4e756a071975f8a6756621713da8": {
+  "created_at": "2026-10-25T10:15:17.608998Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 1 - 2 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-1-2"
+ },
+ "0x84eccd0618b9d5e7c85b96d9f5d3a7ecde27d4f7ae88ce0985c45eb25e7e60a8": {
+  "created_at": "2026-10-25T10:45:19.436389Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 1.5",
+  "revisions": 1,
+  "sha256": "a1598714a3786473c86ce35189af75be9e22b3f8be062c955d104f3d5789868b",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-1pt5"
+ },
  "0x88f0058340d937cbe3b9424c4cc6f13799d96d728ec6847922dab01a98653ca8": {
   "created_at": "2026-09-23T17:27:01.877042Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -978,6 +996,7 @@
   "created_at": "2026-08-11T14:11:47.488186Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 2 House seats in Iowa in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e0efbdf7ae9b35d25fe95a0f1208e37d45f97bb0a625645d50dd06b728679013",

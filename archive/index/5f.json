@@ -229,6 +229,7 @@
   "created_at": "2026-08-26T08:15:18.397856Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Oxford United FC 1 - 0 Reading FC?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
@@ -409,6 +410,7 @@
   "created_at": "2026-06-26T15:57:17.174851Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Patrick Von Dohlen win the 2026 Bexar County Judge election?",
   "revisions": 1,
   "sha256": "54adbd483686301823cf28528391dfe31d366ed812062ec150f726117b2eed31",
@@ -1239,6 +1241,7 @@
   "created_at": "2026-01-28T15:36:51.064847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the NV-02 House seat?",
   "revisions": 1,
   "sha256": "f39cadfca86e17f42058157e3b3473f51edffcb39626385720165ffbfff08e12",
@@ -1311,6 +1314,7 @@
   "created_at": "2026-05-26T20:34:46.506366Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Republicans win any Senate or Governor's Election in a Biden-Trump state?",
   "revisions": 1,
   "sha256": "aa374f3fce9d3e282123415c0578e4553502749db1541d8001c60e1191ee9c99",
@@ -1703,6 +1707,15 @@
   "revisions": 1,
   "sha256": "aec6cfbaf620e8a57d0824e2d3170a975f755cc7484dfc644510f5aa371dfb94",
   "slug": "will-union-de-touarga-be-relegated-from-morocco-botola-pro-2026-27"
+ },
+ "0xfc818ed6b85ddbe3ad710f9b2d6814612d97868a33743011c99825c04efb725f": {
+  "created_at": "2026-10-25T10:45:19.896119Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 4.5",
+  "revisions": 1,
+  "sha256": "f687f349c05cf651400f7929c798250f65d6520c1935655cbf3471c882f72d5d",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-4pt5"
  },
  "0xfcdebcb1d4c8955ec61a3e2506358b22f0851e8ca024aeea522932ee1e37355f": {
   "created_at": "2026-10-13T19:55:47.702506Z",

@@ -17,6 +17,15 @@
   "sha256": "70d7a88aa2efa3edae573fe8c00e2d47d4527c0ac9c65ba5338eac790b46f785",
   "slug": "will-deportes-temuco-be-promoted-to-chile-primera-2026"
  },
+ "0x015d4add9aeb1bda50e300666cd7c40dd977e0861dc64400fa36c10ab0b3684b": {
+  "created_at": "2026-10-25T10:15:22.63343Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Aurora FC to score first vs. CSD Municipal?",
+  "revisions": 1,
+  "sha256": "d74cad6e1d8784df8293357c82d06d201ec930c5c432bce2ad0d12725c5c92ec",
+  "slug": "gtm-mun-aur-2026-11-07-first-to-score-away"
+ },
  "0x01e037ec1c119e4e1d12cbabd7eee8218c1f4b0fe2d5e4b8f51e375ebdac014b": {
   "created_at": "2026-09-09T22:10:23.623467Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -908,6 +917,15 @@
   "sha256": "20c902e0432ca24847aa408d1537cf7ec069f4bd22ce5296cd1207060375e67c",
   "slug": "f1-brazilian-grand-prix-h2h-leclerc-vs-norris-2026-11-08"
  },
+ "0x921d4dc8ace51e8be5df16fbb0bbfccd33a4e6db7c086be6c59c2de4ede6734b": {
+  "created_at": "2026-10-25T10:15:17.517022Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 0 - 3 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-0-3"
+ },
  "0x95783b62c693ea42d8613482a625828fc14a288e8e8440b974c54d42f4ffd04b": {
   "created_at": "2025-11-04T17:34:34.868273Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1029,6 +1047,7 @@
   "created_at": "2026-08-26T08:15:19.671534Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Oxford United FC 3 - 3 Reading FC?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
@@ -1056,6 +1075,7 @@
   "created_at": "2026-08-11T14:14:15.426802Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 16 House seats in New York in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "a2e86a17427eaaba8a77fd283b8b2ddcd38e60f505fa0bd7509f26305178c627",
@@ -1399,6 +1419,7 @@
   "created_at": "2026-10-03T19:00:27.501257Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 3 - 0 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",

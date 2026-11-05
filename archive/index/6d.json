@@ -858,6 +858,7 @@
   "created_at": "2026-09-22T16:25:42.757998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will US crude oil reserves fall to 250M by October 30, 2026?",
   "revisions": 1,
   "sha256": "3ff315b1ec1392660ad2cdd244ded07cf33a2d608d1f32c59046683e53f6e029",
@@ -894,10 +895,20 @@
   "created_at": "2026-08-11T14:18:40.066052Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 4 House seats in Florida in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "207b56eb0446a51d25ca4cb213a9eb2e63b80c730578b75f1d33cd3e9113ca12",
   "slug": "will-democrats-win-fewer-than-4-house-seats-in-florida-in-the-2026-midterm-elections-20260811010741719"
+ },
+ "0x8e183d433ade79c38837410f57e47d4b3f8dd22f93e5ff1ce782c9329162c76d": {
+  "created_at": "2026-10-25T10:45:15.535247Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: Aurora FC (-1.5)",
+  "revisions": 1,
+  "sha256": "c834ae4d880b034c136efa88eb4a12ea539b8571b5f169a2b5afa814bcfa8a07",
+  "slug": "gtm-mun-aur-2026-11-07-spread-away-1pt5"
  },
  "0x8f7e0a37afe2eac5389d4a943c714cb50b43273fcd4c3f1cac2a3364ab7fbd6d": {
   "created_at": "2026-08-18T14:58:18.826524Z",

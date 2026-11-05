@@ -327,6 +327,7 @@
   "created_at": "2026-08-26T08:44:17.567724Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Reading FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "c288015212c25e680b57235399111b46b3d4ae1373d94826ec2bd8ecdfc7e557",
@@ -862,6 +863,15 @@
   "revisions": 1,
   "sha256": "3e6846d740f913a43dbea6709ce3cc3fa0af974292a3f5f607f0d6c174942fd7",
   "slug": "will-the-bitcoin-halving-occur-by-june-30-2028"
+ },
+ "0x97fb39853e18cf70550c8b96336a18971f57bc6300f334dae275f4a3bbc57168": {
+  "created_at": "2026-11-04T17:37:55.307313Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Lynn Vision Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-lynn-vision-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x99f81e0d29a27fd8444847073ae5b72e78a4ecccb8b79d48837dc9a27b5b1368": {
   "created_at": "2026-09-22T19:15:40.805374Z",

@@ -475,6 +475,7 @@
   "created_at": "2026-08-11T14:14:16.318049Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 17 House seats in New York in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "a2e86a17427eaaba8a77fd283b8b2ddcd38e60f505fa0bd7509f26305178c627",
@@ -795,6 +796,15 @@
   "sha256": "96b292138e5f38743a4eb00b8cc5bb1ba990de4550672722f7f9d5f4bcee6fad",
   "slug": "ecb-rate-cut-in-2026"
  },
+ "0x7d619a0f1c7e670f53bed7df08cac252cb1d67fb19806b80ca1d8eb620c17986": {
+  "created_at": "2026-10-25T10:45:18.982367Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "408990a2c25aab862496f83a4f9e3aae0a7c0ffca191702d462420622bcc35ae",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-total-3pt5"
+ },
  "0x7f7b10263155bf2056ed2147ecbd8c34d3f1de14fe405a8b54d45889d7b44186": {
   "created_at": "2026-09-27T20:11:33.602243Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1060,6 +1070,7 @@
   "created_at": "2026-10-03T19:00:28.244694Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 3 - 3 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1204,6 +1215,7 @@
   "created_at": "2026-02-06T22:57:27.528612Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Toronto FC win the 2026 MLS Cup?",
   "revisions": 1,
   "sha256": "d6f522c00936c03b8c2049913f0da00091a5d704ee163919a2dedc8c2e2a932c",

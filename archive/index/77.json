@@ -655,6 +655,7 @@
   "created_at": "2026-08-12T00:20:04.959552Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Colegiales win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -727,6 +728,7 @@
   "created_at": "2026-10-03T19:00:29.855104Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "SK Artis Brno vs. Bohemians Praha 1905: Neither team to score first?",
   "revisions": 1,
   "sha256": "e5388627036ad4a6530444b7fad5caf38ce957742f5d4b50ff37141ed2fca7d2",
@@ -947,6 +949,15 @@
   "revisions": 1,
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
   "slug": "will-leon-finish-2nd-in-the-2026-liga-mx-apertura-20260722170637354"
+ },
+ "0x9ab3129a834265af347ca68c90ead44794bad4cb6511753c4b726caa0602cc77": {
+  "created_at": "2026-10-25T10:45:21.115084Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "7574c1dbc3ea50d33d409e6865fe36e0a9392ca7967e789bd4dc80daf660a8f8",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-home-0pt5"
  },
  "0x9bc915eb0a3ab074df4a10454eca451caa2790899e8ca4001f41b4048a364477": {
   "created_at": "2026-08-05T12:00:33.355013Z",
@@ -1249,6 +1260,7 @@
   "created_at": "2026-08-04T22:28:55.641997Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Bank of Brazil decrease the target for the Selic rate by 50+ bps at the November meeting?",
   "revisions": 1,
   "sha256": "7b46465ab829afba59698f1d60c7d20c52487066065d76a5a6d59c8e2ed60ea6",
@@ -1452,6 +1464,15 @@
   "revisions": 1,
   "sha256": "313cb50e7cccdaddf0b69d30f0ee34540799d76f542f7075d715e3d69300a96b",
   "slug": "will-sidney-crosby-record-40-goals-in-the-2026-27-regular-season"
+ },
+ "0xe1f5a70e300894a612fec29fd65a80808c7c06669aba226dc612c3a7f77ba577": {
+  "created_at": "2026-10-25T10:15:16.367265Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Aurora FC leading at halftime?",
+  "revisions": 1,
+  "sha256": "ad80b58cfb1de53332ba51d2ad01b012a3b022aad7641f399c5fd526e6521fdf",
+  "slug": "gtm-mun-aur-2026-11-07-halftime-result-away"
  },
  "0xe2db056dfcad2ab31d97647a3a859fa66f14d1603fc5f03b66163eb38e568477": {
   "created_at": "2026-08-24T16:39:03.314045Z",

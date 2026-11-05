@@ -599,6 +599,7 @@
   "created_at": "2026-10-03T19:00:07.427854Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Bohemians Praha 1905 win on 2026-10-17?",
   "revisions": 1,
   "sha256": "0fb3ab8717502f8b2ab20358a0d9c12b520b38c6bbf384e413fb4534b9370773",
@@ -1303,6 +1304,7 @@
   "created_at": "2026-08-14T21:26:09.081124Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the LA-01 House Election?",
   "revisions": 1,
   "sha256": "7c0c621e3e4d69731c96a524a7937d9458ffe0c6fe7df4bddec62915a0e859f3",
@@ -1388,6 +1390,15 @@
   "revisions": 1,
   "sha256": "04e987511a2c81e5fc39ce709f229278562ec7ca261c84e3494dc2d6a5bf5762",
   "slug": "nba-2026-27-defensive-player-of-the-year-luguentz-dort"
+ },
+ "0xcb9351944418aa8878f47cbbdd1fe36e766db3a66de3216bfd27d4f28a58ac0b": {
+  "created_at": "2026-10-25T10:45:20.813384Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 4.5",
+  "revisions": 1,
+  "sha256": "30865d0a84ede726c88bd27f5af3d6f7c21960ae19e0de6df212b88a849c99d2",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-away-4pt5"
  },
  "0xcb9cb430fde5e59c89c3bab26faabe98ac576efd1823a33b047090295c077d0b": {
   "created_at": "2026-08-10T23:33:49.236155Z",

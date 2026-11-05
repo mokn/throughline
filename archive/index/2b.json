@@ -408,6 +408,7 @@
   "created_at": "2026-10-03T19:00:29.803806Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Bohemians Praha 1905 to score first vs. SK Artis Brno?",
   "revisions": 1,
   "sha256": "e5388627036ad4a6530444b7fad5caf38ce957742f5d4b50ff37141ed2fca7d2",
@@ -693,6 +694,15 @@
   "sha256": "8531dcee4a957f2c1740d89d14857dd46d71a16d62600b8b674faac2457a3b1e",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-06-house-election-by-10-15"
  },
+ "0x6e5b18328f3cabd4346eaa6be8beaed29ab8964824b8658443ae4e6b7999222b": {
+  "created_at": "2026-11-04T17:37:37.891236Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will FURIA Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-furia-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x71c05b735300b6087ff5588bcc7e83fecf009293d794f613c63c92ea8a16fb2b": {
   "created_at": "2025-10-09T22:53:22.779663Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -860,6 +870,7 @@
   "created_at": "2026-08-14T21:19:53.933931Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-06 House Election?",
   "revisions": 1,
   "sha256": "8f077484db6f62bc541562d7bbe0cdc82ed12d961ca3adfc72ba6c3bd29dd453",
@@ -1126,6 +1137,15 @@
   "revisions": 1,
   "sha256": "ed4802b85f507b60dcfef02360e14fa507444c5ec02783308482d5dbe5a2b1fa",
   "slug": "will-putin-and-zelenskyy-meet-next-in-belarus"
+ },
+ "0xbcad87e08dad75069bbae3a48997bc39a44aadf9f274f5ae0bab4ca1e077a92b": {
+  "created_at": "2026-11-05T01:02:25.230468Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "280 or more votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "280-or-more-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
  },
  "0xbf280b9cf4e4fcb79a4651639dd0d98e66abafb6fdf1570ff45f8326105d4d2b": {
   "created_at": "2026-03-26T21:53:45.109314Z",

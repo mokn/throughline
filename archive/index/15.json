@@ -622,6 +622,15 @@
   "sha256": "4d484351e1dedcfb14666a643ff758d63185940246bd1039c6799a627409815c",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-11-house-election"
  },
+ "0x6eb4685734291c74452c98ac42c7662cf38be83eaa3d7d523f31f0a95b383115": {
+  "created_at": "2026-11-04T17:37:38.405231Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Vitality Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-vitality-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x73e419c8fa8d64dda714629660f9e6d35450ff04cf63d9edb7417c329bb03115": {
   "created_at": "2026-09-02T21:58:43.707231Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -816,6 +825,7 @@
   "created_at": "2026-10-03T19:00:27.71159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 3 - 1 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -888,6 +898,7 @@
   "created_at": "2026-11-02T01:06:44.576316Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and the US government not take a stake in OpenAI or Anthropic by the end of 2027?",
   "revisions": 1,
   "sha256": "985794153a7ddebd7b11766a5c17a0704266ae0a44c57117993a88a791f3da15",
@@ -1028,6 +1039,15 @@
   "revisions": 1,
   "sha256": "3e5aaf0cd7d284e50b614323aa8575432bb4e4a43cbc3a448dbf4f4df41afc2a",
   "slug": "nba-team-to-reach-2026-nba-cup-championship-game-detroit-pistons"
+ },
+ "0xbb21bb6fb2a0116dc7fdb265080ce1e42112b33f25c054626510288d6809dc15": {
+  "created_at": "2026-10-25T10:15:18.56156Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 2 - 3 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-2-3"
  },
  "0xbd0af4d545c4a2cb42b6fa543bd628d633b7d87e4afcace0004910cdb5a27115": {
   "created_at": "2026-10-09T16:37:07.782331Z",
@@ -1402,6 +1422,7 @@
   "created_at": "2026-08-12T00:15:45.894675Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Tigre win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",

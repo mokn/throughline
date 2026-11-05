@@ -8,6 +8,15 @@
   "sha256": "f902e97444525a7d9848d854c607ca0ddcaaa448bf6c165db05cf6ad5a5372a4",
   "slug": "devonta-smith-1249pt5-receiving-yards-2026-27"
  },
+ "0x01797f77b0fc455ded16f2679cd5d910c8c8321930f65bc83b4f8c8ef105c81b": {
+  "created_at": "2026-10-25T10:15:19.068888Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 3 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-3"
+ },
  "0x03f83404d2b290116786895570f96c0df0022634a4ecc86a35ed5c10399e0b1b": {
   "created_at": "2026-08-24T16:33:44.342824Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -882,6 +891,15 @@
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
   "slug": "will-the-democratic-party-candidate-win-the-2026-north-carolina-senate-election-by-0-3"
  },
+ "0x82a5f95c7bbaa263ae7bbee7cba8027aeee14734ffe9df34f5319eb72e505f1b": {
+  "created_at": "2026-11-05T02:25:48.642225Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Linda McMahon by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-linda-mcmahon-by-june-30-2027"
+ },
  "0x874f82a92e635a08c1e38aaa8eecc946327dfa4a2a010afd2bed0ec33c65851b": {
   "created_at": "2026-05-12T17:51:58.618422Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -931,6 +949,7 @@
   "created_at": "2026-06-26T15:45:55.780754Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will \tMauro Garza win the 2026 Cameron County Judge election?",
   "revisions": 1,
   "sha256": "58c21aef9d6c8107873e5ee0695bc66561b57903edb0d979c834f67ccbc93dc1",
@@ -1148,6 +1167,7 @@
   "created_at": "2026-02-06T22:22:40.041871Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Rodrigues win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",

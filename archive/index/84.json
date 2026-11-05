@@ -8,6 +8,15 @@
   "sha256": "a8724a87fa6c33dadc2c4696d23c60bc6c1a9d25efb83557419e19c6c53a9f75",
   "slug": "will-virtus-entella-be-promoted-to-serie-a-2026-27"
  },
+ "0x020db172262bce4dd2c41af40d6c44124384301615df488eba677e4b82990284": {
+  "created_at": "2026-06-25T17:29:10.579428Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Porter Martone win the 2026-27 Calder Trophy?",
+  "revisions": 1,
+  "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
+  "slug": "will-porter-martone-win-the-2026-27-calder-trophy"
+ },
  "0x02ce770f414499c10eab5b5448dca64dbf39f76501c0b8969cddec34b8ba4684": {
   "created_at": "2026-10-31T00:26:35.991574Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -120,6 +129,7 @@
   "created_at": "2026-08-11T14:10:44.041998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 3 House seats in North Carolina in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e7e410e783f82c06392ed31b471dab1af4da67d1b15f78a43764fff4b5ad3bc7",
@@ -652,6 +662,7 @@
   "created_at": "2026-08-28T20:17:48.014736Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will D'Andre Swift have 10+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "ccabce63861c0af40283d4c25cfe5faf7986ca3f138e7ad1c2960452a3b9b975",

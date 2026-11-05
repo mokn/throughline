@@ -39,6 +39,7 @@
   "created_at": "2026-08-26T08:45:18.640783Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "bd7769fec925c789b4cd7ef18c2c80af42c7de57bd7d72f2b78d282348f4ac22",
@@ -215,6 +216,15 @@
   "revisions": 1,
   "sha256": "f692ef8dacff6bf0bb75af37b44762982ff021d8b6883deadc6e97be2709ba9f",
   "slug": "will-the-denver-broncos-win-more-than-9pt5-games-in-the-2026-nfl-regular-season"
+ },
+ "0x296ad2a39c7c60e6f9ff08b5dede1f012302e8da01a3a1647747a29568e096a4": {
+  "created_at": "2026-10-25T10:15:22.705195Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "d74cad6e1d8784df8293357c82d06d201ec930c5c432bce2ad0d12725c5c92ec",
+  "slug": "gtm-mun-aur-2026-11-07-first-to-score-neither"
  },
  "0x29a98defcd799b7802e660dfefb915ea6b4df1c5020959705bab64d367e22ea4": {
   "created_at": "2026-08-26T21:46:13.414152Z",
@@ -662,6 +672,7 @@
   "created_at": "2026-09-30T22:23:07.155348Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Israel x Lebanon Effective Ceasefire by October 31?",
   "revisions": 1,
   "sha256": "c871e8de25f8c46aff8878de0e7770193556dc10a27b445ca3ff150367a9a9e3",
@@ -844,6 +855,7 @@
   "created_at": "2026-10-03T19:00:27.232195Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 1 - 1 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -992,6 +1004,15 @@
   "revisions": 1,
   "sha256": "1c006c42481bec52cca445da9f2da356da411eca44f7e1513505d938e8f983eb",
   "slug": "will-juan-brunetta-tigres-uanl-record-the-most-assists-in-the-2027-liga-mx-clausura-20260729194614826"
+ },
+ "0xb1312e43c3deda129a2d53b77ad8f5ceb65808e21e4c1985030f33c0f9f44aa4": {
+  "created_at": "2026-10-25T10:45:19.583414Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 2.5",
+  "revisions": 1,
+  "sha256": "fd526d5db319a2352e2bfb7a423f3beb9f52377101e359b6ee4bda43c8630ec9",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-2pt5"
  },
  "0xb1f37e73c06294a81686341b40aa4d0f3faeb7871e7b4b1200b53da3d8bad8a4": {
   "created_at": "2026-08-24T16:40:35.003052Z",

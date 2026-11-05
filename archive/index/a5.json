@@ -292,6 +292,7 @@
   "created_at": "2026-08-12T00:20:05.56237Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Col\u00f3n win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -341,6 +342,15 @@
   "revisions": 1,
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-michael-pittman-jrpt-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
+ },
+ "0x34b7bf92bec303d698fac1434c1fd8592e774646b82ceddc55a28948f6c332a5": {
+  "created_at": "2026-11-04T17:37:57.55769Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Chinggis Warriors Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-chinggis-warriors-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x35f5b40760f18595b4b64563cecc84edfc8940e27b3905b1f9a1808a95e51ba5": {
   "created_at": "2026-08-04T18:18:32.588762Z",

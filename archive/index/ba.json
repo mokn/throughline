@@ -211,6 +211,7 @@
   "created_at": "2026-03-02T22:35:29.384066Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Virginia abortion protection amendment pass?",
   "revisions": 1,
   "sha256": "2e91684083273b3684d81ab28e8f2aec93bede35a55fc0dd4f60bfbeea635a0c",
@@ -238,6 +239,7 @@
   "created_at": "2026-08-12T17:26:55.473228Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Toronto FC be runner-up in the 2026 MLS?",
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
@@ -256,6 +258,7 @@
   "created_at": "2026-07-30T19:48:31.955323Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Idaho passes ballot measure legalizing abortion?",
   "revisions": 1,
   "sha256": "3b86844b24fc419ad97f43371ce6cdea2303877411871bac4e4c0fb3683e4e61",
@@ -842,6 +845,7 @@
   "created_at": "2026-07-30T19:46:18.31701Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will voters pick the Winchester Model 1894 (.30-30) as the state gun of Idaho?",
   "revisions": 1,
   "sha256": "32c13a11589d2c4fbab1628201cac820bbea6df03df2fffeae39a34f6bc6fb4c",
@@ -909,6 +913,15 @@
   "revisions": 1,
   "sha256": "22cefdf01fc7cade1e764ed4964cb2d03b0fe9052bd9d5c186be2995b3f1001c",
   "slug": "will-mfk-ruzomberok-be-relegated-from-slovak-nike-liga-2026-27"
+ },
+ "0x931c487c32efa834e495f095c5ffcadc67fee95c31738fb2ac192175d31a6eba": {
+  "created_at": "2026-10-25T10:45:18.236479Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "c647b38666fc6317917aa6109e7d27721e6ec7be685c3990451038f7775b3890",
+  "slug": "gtm-mun-aur-2026-11-07-btts"
  },
  "0x9502aad6d9d7c4e9638976cd04ef07bfd92aad5a261f909b4391d0458d279cba": {
   "created_at": "2026-01-02T21:10:22.381479Z",

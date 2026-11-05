@@ -134,6 +134,15 @@
   "sha256": "1aa4e26a1a066446a2dd3c2d13724575056b2e884574ed224a2c0e156fdc2476",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-32-house-election-by-15-20"
  },
+ "0x1a78be0a3050b8fbc06822a31f533fd2e26e6edaa8010a8f6ea5be146503a5db": {
+  "created_at": "2026-10-25T10:45:17.311864Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 3.5",
+  "revisions": 1,
+  "sha256": "0b1afdce3819616c2047a229622bfc95037265821e256cfe63ebbb1445a1019c",
+  "slug": "gtm-mun-aur-2026-11-07-total-3pt5"
+ },
  "0x1c0408d969ca7245b8e8d671ba95e0e7062375ae185a124d1384fe5aa2608adb": {
   "created_at": "2026-02-18T23:32:41.717463Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -792,6 +801,15 @@
   "revisions": 1,
   "sha256": "9b6c40eb9d25b509c810b1fc892e335d700a03745b2ebaa6e373fdf343993873",
   "slug": "will-italy-send-warships-through-the-strait-of-hormuz-by-december-31-2026"
+ },
+ "0x92c8a86402755884c634c121fc66f1d82fe0cef582e830ef39c2088df505bddb": {
+  "created_at": "2026-10-25T10:45:17.456935Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 4.5",
+  "revisions": 1,
+  "sha256": "e6289982324df162b8d3305aa275295788cfb1d3b0e329ad1b5f5edcaad11b85",
+  "slug": "gtm-mun-aur-2026-11-07-total-4pt5"
  },
  "0x93c6ed768f751eb193c132958134237717900e89c6d46ae2e3b47f0642a79ddb": {
   "created_at": "2026-08-26T21:46:17.667325Z",

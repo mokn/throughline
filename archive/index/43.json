@@ -606,6 +606,15 @@
   "sha256": "337a9845824e66122a9e62f75ab36836a4b9c9260a554b71726770cf1ae12e92",
   "slug": "will-ida-eriksson-be-the-next-regional-board-chair-of-region-kronoberg-1786127776879"
  },
+ "0x762aeb50cb4267fbb964cc576b2397b9d64c46b9add5b476fe975bff48366143": {
+  "created_at": "2026-10-25T10:45:18.535241Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "ec2cca6eb75164a11ee18720bd3a6cd7f195aec2eab73e9fce881352eff3c571",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-total-0pt5"
+ },
  "0x7652a250c723daff5770d09308264a1f74e9ba062763df481a39b06a8da4ba43": {
   "created_at": "2026-10-18T23:30:09.593312Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -845,6 +854,7 @@
   "created_at": "2026-08-12T17:32:02.132229Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Atlanta be runner-up in the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "535242f33d28aedce5a3e9c960a1829109af50a5cfa6cbbe1d4d68d7c0d5846f",
@@ -945,6 +955,7 @@
   "created_at": "2026-10-15T16:33:38.71004Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Seraphine be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -1021,6 +1032,15 @@
   "revisions": 1,
   "sha256": "123b695b249629a8988f879acc70a1c191e333e19e09a7c16dd4d5ff008887b9",
   "slug": "will-dailyn-swain-win-the-2026-27-nba-rookie-of-the-year-20260624161716894"
+ },
+ "0xc679135930cdb2669a179231ca6043f441d74dec4cb11ab2bfbf17c4d58a9643": {
+  "created_at": "2026-10-25T10:45:15.831542Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: Aurora FC (-2.5)",
+  "revisions": 1,
+  "sha256": "f5fcbd204f780b5a3ebf41aba05d7406192fa76959f6f4c4415cac039d2a83ed",
+  "slug": "gtm-mun-aur-2026-11-07-spread-away-2pt5"
  },
  "0xc692f94f490874b93e46a2715f27b999caa0854be0222b82b89ceaddfbb19c43": {
   "created_at": "2026-10-22T00:03:13.338075Z",

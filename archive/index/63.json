@@ -690,6 +690,7 @@
   "created_at": "2026-08-26T08:45:16.158255Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 5.5",
   "revisions": 1,
   "sha256": "7abe8a455074c1c7716535752a2090e226d2ef0303c11a89582ebde82f04b2a7",
@@ -740,6 +741,15 @@
   "revisions": 1,
   "sha256": "df96f302b3874499ce31eaefc029b3c3076a0a0ec9235e981360155cee747287",
   "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876"
+ },
+ "0x6978b9c35189c6828e89ef6d56c7d5befa6742cf7cdd6d2ae343205c5c1b2563": {
+  "created_at": "2026-10-25T10:15:15.023933Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will CSD Municipal vs. Aurora FC end in a draw?",
+  "revisions": 1,
+  "sha256": "797629855e22223ec26ce46ef0815e4a2a7dffff625fab2bd97b865882215223",
+  "slug": "gtm-mun-aur-2026-11-07-draw"
  },
  "0x69f7294fab44b1a63575fcdff9b683d3c48a7f92a160aa274af8e2837a356e63": {
   "created_at": "2025-11-18T19:56:42.29939Z",
@@ -1141,6 +1151,7 @@
   "created_at": "2026-09-09T14:35:35.604769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Maryland passes redistricting requirements ballot measure?",
   "revisions": 1,
   "sha256": "02683e30d00261e95c368fd61df6da2307bfd71fd1dde1237511885e450374d0",
@@ -1573,6 +1584,7 @@
   "created_at": "2026-08-26T08:15:16.765911Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Reading FC leading at halftime?",
   "revisions": 1,
   "sha256": "d4821b51e8bb3379a999409fbe0ad43e0c383ef5e7f60e321f93a48bc00bdade",

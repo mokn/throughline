@@ -1117,6 +1117,15 @@
   "sha256": "a707af50727de921c2cbe24d4e4642c1d4ab684307e41c422bca562e54dc1b29",
   "slug": "will-marcus-thuram-inter-record-the-most-assists-in-the-2026-27-serie-a-season"
  },
+ "0xb766a781b332d284de9df1eba6d6ec0daf7eab7a515495e389b3b50e24f02bf0": {
+  "created_at": "2026-11-05T02:25:46.55471Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Pete Hegseth by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-pete-hegseth-by-june-30-2027"
+ },
  "0xb77e45b16b32918af59d0792550f64790a0bd366e2655381773bf80c8d5dbcf0": {
   "created_at": "2026-07-10T14:12:10.775346Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1428,6 +1437,7 @@
   "created_at": "2026-10-25T04:00:54.44433Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $176 in November?",
   "revisions": 1,
   "sha256": "a4ee061de54158f4d004a948db49a3c4611c493b93073e0d608bc5a71775ffc4",

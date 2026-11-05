@@ -558,6 +558,15 @@
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
   "slug": "will-alfredo-alvarez-diaz-win-the-next-arequipa-mayoral-elections-20260811165718019"
  },
+ "0x583f425d06281eda55139ce0ac67a7a8cc2c801c1dcb09ba32223779c32b8e26": {
+  "created_at": "2026-11-05T01:02:22.716396Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "255-259 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "255-259-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
  "0x587462724ab92763b44f54b1cac0013123071075d256025b47495b814fd9db26": {
   "created_at": "2026-08-07T15:58:44.886482Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -968,6 +977,7 @@
   "created_at": "2026-11-02T01:07:01.657124Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and a Chinese company have the #1 AI model by the end of 2027?",
   "revisions": 1,
   "sha256": "e04667122d90da7b0a66e4d421ff150c3149027e3e9543ea3da6e64080340a09",
@@ -986,6 +996,7 @@
   "created_at": "2026-08-26T08:45:18.113582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Reading FC O/U 1.5",
   "revisions": 1,
   "sha256": "ee793005a4101990630ae1e4ba1675a45154f770dffa1d04f818f7b0397699fa",
@@ -1122,6 +1133,7 @@
   "created_at": "2026-08-04T22:28:55.373198Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Bank of Brazil make no change to the target for the Selic rate at the November meeting?",
   "revisions": 1,
   "sha256": "7b46465ab829afba59698f1d60c7d20c52487066065d76a5a6d59c8e2ed60ea6",
@@ -1176,6 +1188,7 @@
   "created_at": "2026-08-11T14:18:48.568829Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 2 House seats in Ohio in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "29dc5f10c23d57527652f7c3535d8e2f4af415ca88f1735398744aff2a2b4708",

@@ -66,6 +66,7 @@
   "created_at": "2026-08-11T14:10:43.864737Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 3 House seats in North Carolina in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e7e410e783f82c06392ed31b471dab1af4da67d1b15f78a43764fff4b5ad3bc7",
@@ -259,6 +260,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-zach-edey"
+ },
+ "0x2ecd86f514aeb68036d36e0a264bc96bc18d87e5548e55bf29e838261645a238": {
+  "created_at": "2026-10-25T10:15:17.800811Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 0 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-0"
  },
  "0x3343bb81d3f84a103935ccbf53349c40429dbe6aa945686051b67a913c097d38": {
   "created_at": "2026-08-07T19:09:53.035707Z",

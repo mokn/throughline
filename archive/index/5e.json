@@ -148,6 +148,7 @@
   "created_at": "2026-08-14T21:19:34.870007Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-08 House Election?",
   "revisions": 1,
   "sha256": "9e10972be14e3ad13416e09a15e45ae6658957fb898cdfb3fdadd642a6c5d940",
@@ -260,6 +261,15 @@
   "revisions": 1,
   "sha256": "c32a147cd50a6b920efe97473c15516a4b124f44d3692b98a946bfb36e8c745c",
   "slug": "ukr1-kry-met-2026-09-12-first-half-team-total-home-1pt5"
+ },
+ "0x2ada31a0fc48efceceabdd9afae4c4e77f9dc61a2481aff499bbf49c38343c5e": {
+  "created_at": "2026-11-05T01:02:24.843879Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "275-279 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "275-279-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
  },
  "0x2fa6a8b27bf31b68be8ba1009c9f5a0ca26113684bbd26709a34ab3461e2dd5e": {
   "created_at": "2026-10-13T15:50:05.525781Z",
@@ -1305,6 +1315,7 @@
   "created_at": "2025-12-29T18:12:24.52142Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will a team from LCS (North America) win LoL Worlds 2026?",
   "revisions": 1,
   "sha256": "d073794b934ddd1d21a7185929274e0e5040ac99936743fb4bab0d0d0737b1d4",

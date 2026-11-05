@@ -492,6 +492,7 @@
   "created_at": "2026-08-28T19:43:46.399847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will New York Red Bulls win the 2026 MLS Eastern Conference?",
   "revisions": 1,
   "sha256": "eaf777950e049a2e80daac661f22587985e09b52d79dd38f53644ab7525d799c",
@@ -605,6 +606,15 @@
   "sha256": "a62152acda07d72e2b0817de093f32845fb1a09298ddeed94fc2fc8f2bda126e",
   "slug": "will-detroit-pistons-receive-the-first-overall-pick-at-the-2027-nba-draft-lottery"
  },
+ "0x689ccada472592800ff03529230d7c14d0973c4620a40af69d03a199f2da67fe": {
+  "created_at": "2026-10-25T10:15:19.647748Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 5 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-5"
+ },
  "0x69fcc5302870cb3020ac12a049b91b4cb6d509827f3c02770d3ab6d3ae58abfe": {
   "created_at": "2026-10-21T23:52:38.588308Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -717,6 +727,7 @@
   "created_at": "2026-10-03T19:00:28.925412Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 5 - 5 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1437,6 +1448,7 @@
   "created_at": "2025-12-15T23:23:33.135378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the TX-09 House seat?",
   "revisions": 1,
   "sha256": "7b04f91e906e34918a087661d3e2fb1d9fdb84c61c497e2f7339502af9c88b45",

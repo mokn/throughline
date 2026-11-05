@@ -532,6 +532,15 @@
   "sha256": "94a1fec34f9abcebc303bfdfc4353f41536185af3856fb2a7a5428c5fcf4edb1",
   "slug": "will-tom-clancy-s-rainbow-six-mobile-win-best-mobile-game-at-the-2026-game-awards-1785857781978"
  },
+ "0x4a9734c0112dd60044f1381149a4b0af42a21908731bb18955da91570ea7c7c0": {
+  "created_at": "2026-10-25T10:15:19.812114Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 5 - 3 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-5-3"
+ },
  "0x4bc8084c908373c3d91fe997cf35abb15415290d94a4ae24dcb1dd5e9c96fcc0": {
   "created_at": "2026-08-21T17:22:02.654026Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -644,6 +653,7 @@
   "created_at": "2026-10-25T04:01:42.664362Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Gold (XAUUSD) hit (HIGH) $4,100 in November?",
   "revisions": 1,
   "sha256": "badfadf3b38d8e2299ac8895cf304b8bc05ddede9b61c1a1cdb2e538964458f9",
@@ -977,6 +987,7 @@
   "created_at": "2026-08-26T08:44:15.825472Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 1st Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "172c6676690d44c45d021219152dc9bd4b951f80a7e98676e197fecec6631522",
@@ -1324,6 +1335,15 @@
   "revisions": 1,
   "sha256": "36677635e6e1bd1ad8abbafa5fbeb96238db9256698c8c8d647c50935725c9dc",
   "slug": "will-a-republican-party-candidate-win-the-2026-wa-05-house-election-by-25-30"
+ },
+ "0xc354e90575b485599d20ad7635e65ee079800f806f4742b2f8013a6e9efd0dc0": {
+  "created_at": "2026-10-25T10:45:15.381179Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: CSD Municipal (-1.5)",
+  "revisions": 1,
+  "sha256": "d881f93e180b364154b85d03bbbfe76706af89d4850a3cc30ec894c8008aca82",
+  "slug": "gtm-mun-aur-2026-11-07-spread-home-1pt5"
  },
  "0xc4fa7f3ec4aeb8c8152243644984a7dc2dbc0f8d0aad4d145678f386db796ac0": {
   "created_at": "2026-10-01T23:14:02.973738Z",

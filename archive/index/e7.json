@@ -12,6 +12,7 @@
   "created_at": "2026-09-22T16:25:42.302721Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will US crude oil reserves fall to 260M by October 30, 2026?",
   "revisions": 1,
   "sha256": "3ff315b1ec1392660ad2cdd244ded07cf33a2d608d1f32c59046683e53f6e029",
@@ -290,6 +291,15 @@
   "sha256": "331e2d95b54fb020bd93264d3d935961da159c1446bf5817634d99def69c88e9",
   "slug": "will-usdbrl-hit-4pt25-low-in-2026"
  },
+ "0x416929df1a88abbd7e7b0019906badd5788d6cd5da224003582f55d56a78d9e7": {
+  "created_at": "2026-10-25T10:45:20.362752Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 1.5",
+  "revisions": 1,
+  "sha256": "a0f9076f0b435a340c1486fc523a8c8b48bc75fd836557d0dadb25981a3144a1",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-away-1pt5"
+ },
  "0x448f73e89890ae9d0e42ad0b592f63b53c0ae05d1ca3fa8d80b30027781f1be7": {
   "created_at": "2025-07-25T18:31:13.211546Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -366,6 +376,7 @@
   "created_at": "2026-08-14T21:20:36.292559Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-02 House Election?",
   "revisions": 1,
   "sha256": "3024cf9251356c32dff28e3f23f0b97725f2376da4c1051d6a34f5de1cb1f44a",

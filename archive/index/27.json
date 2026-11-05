@@ -320,6 +320,7 @@
   "created_at": "2026-08-12T00:20:10.330771Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Gimnasia y Esgrima (Jujuy) win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -624,6 +625,15 @@
   "revisions": 1,
   "sha256": "92e43cefd534204663a5dab28f5322471a8577e5e8a10a234439bf0fd028946e",
   "slug": "2027-soccer-laliga-runner-up-real-madrid"
+ },
+ "0x632ce517d165ecf77cfc990de402326688efe724dfc3c223d5b0871e7046f527": {
+  "created_at": "2026-11-04T17:37:48.68662Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will PARIVISION Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-parivision-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x634b03994d6d0e73479bea3494813588a47791238aa6c61701a93e48f9511727": {
   "created_at": "2026-08-26T21:46:14.850385Z",
@@ -1152,6 +1162,7 @@
   "created_at": "2026-08-12T00:20:09.059584Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Ferrocarril Midland win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -1378,6 +1389,7 @@
   "created_at": "2026-10-03T19:00:07.024796Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will SK Artis Brno win on 2026-10-17?",
   "revisions": 1,
   "sha256": "bd04baf4e372d70e27c2882b97b9a187028ea3af69ea7058d0d6dd03a228dc9e",
@@ -1595,6 +1607,7 @@
   "created_at": "2026-11-02T01:07:02.05938Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and no Chinese company have the #1 AI model by the end of 2027?",
   "revisions": 1,
   "sha256": "e04667122d90da7b0a66e4d421ff150c3149027e3e9543ea3da6e64080340a09",

@@ -1,0 +1,23 @@
+This market will resolve according to the number of distinct United States federal government shutdowns due to a lapse in appropriations that go into effect between market creation and December 31, 2027, 11:59 PM ET.
+
+A U.S. federal government shutdown is considered to have gone into effect when there is a lapse in appropriations that results in federal government agencies suspending non-excepted operations, typically including the furlough of non-excepted federal employees.
+
+A lapse in appropriations occurs when Congress fails to enact, or the President fails to sign into law, legislation providing funding authority for federal government operations by an applicable deadline, resulting in a funding lapse. A lapse in appropriations where no federal agencies cease or suspend non-excepted operations will not qualify as a shutdown.
+
+Partial shutdowns qualify. A shutdown affecting one or more, but not all, federal agencies constitutes a shutdown.
+
+The following will qualify as a shutdown:
+
+- An official directive from the Office of Management and Budget (OMB) ordering heads of affected agencies to execute shutdown plans (e.g., an instruction to "execute plans for an orderly shutdown") that goes into effect within this market's timeframe
+- An official operating status published by the U.S. Office of Personnel Management (OPM) indicating that, due to a lapse in appropriations, federal government operations are suspended, reduced, or vary by agency (e.g., a notice that "due to a partial lapse in appropriations, Federal Government operations vary by agency")
+
+The following will not qualify as a shutdown:
+
+- A technical lapse in appropriations where OMB or other authorized authority directs agencies to continue normal or substantially normal operations
+- Government closures or operating status changes resulting solely from Federal holidays, inclement weather, natural disasters, or other emergencies, unless such closures coincide with a qualifying shutdown caused by a lapse in appropriations
+
+Each qualifying shutdown counts once, regardless of its duration or the number of agencies affected. A shutdown ends when funding authority is restored for all affected agencies. A lapse in appropriations that begins while another qualifying shutdown is still in effect will not count as a separate shutdown.
+
+If no qualifying shutdown goes into effect within this market's timeframe, this market will resolve to "0".
+
+The primary resolution source for this market will be official information from the United States government, including the U.S. Office of Personnel Management (OPM); however, a consensus of credible reporting may also be used.

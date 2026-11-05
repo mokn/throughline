@@ -103,6 +103,7 @@
   "created_at": "2026-06-26T15:48:05.106965Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Heather Jefts win the 2026 Williamson County Judge election?",
   "revisions": 1,
   "sha256": "a4501c5aec3f2e0c8a5d7431b64fe4481e05fe9c98b5ce8a190b9b54d76bb90d",
@@ -1046,6 +1047,7 @@
   "created_at": "2026-09-01T17:30:18.523341Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republicans win Oakland County in the Michigan Senate race in 2026?",
   "revisions": 1,
   "sha256": "14c71699590cac718606cb847b5996ffb6da913ab482f55c2261d3aa9c4e6829",
@@ -1606,6 +1608,7 @@
   "created_at": "2026-10-25T04:00:06.405893Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Microsoft Corporation (MSFT) hit (HIGH) $540 in November?",
   "revisions": 1,
   "sha256": "05a8bbf7dd125285603e0ea468948b9b5ea1c1d2e5d3a15179a5cd0b4c605216",
@@ -1709,6 +1712,15 @@
   "revisions": 1,
   "sha256": "ab7ad695b5627a69d9f2f3be84b0b8f6114c4cab7add6c8537539703883ddf23",
   "slug": "will-dunesday-beat-barbenheimers-opening-weekend-record"
+ },
+ "0xfd33bb051d9c316b6f1d23a53c9765ca93c91bdd1599f04760fc68d38549ab13": {
+  "created_at": "2026-11-04T17:37:45.07046Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Natus Vincere Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-natus-vincere-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0xfeb7b2b06d7d1bc7464994544e035761a668beb9ed851e7f9c9b8229cfcb9d13": {
   "created_at": "2026-11-03T17:39:22.038316Z",

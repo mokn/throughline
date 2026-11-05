@@ -53,6 +53,15 @@
   "sha256": "4235c4099ada5b88817c6090161c86b4cc1f514c177f7e3c148ca09bf9e4f0a3",
   "slug": "will-jose-paradela-cruz-azul-record-the-most-assists-in-the-2026-liga-mx-apertura-20260729155224426"
  },
+ "0x098539de568b53afa76094b331b83772ed9682f6ef77d6b58998e489e97f3118": {
+  "created_at": "2026-11-04T17:37:51.281179Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will M80 Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-m80-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x0a9fc77f954a3ea3cfa7d9be9a89b7610fdb2b5f91ba01dd741cf5eeeeafea18": {
   "created_at": "2026-08-28T19:59:46.050366Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1138,6 +1147,7 @@
   "created_at": "2025-12-15T23:46:57.194311Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the WA-03 House seat?",
   "revisions": 1,
   "sha256": "6367d285fdd61bd26a4ae79dfecb9ac46779a99254dd96fedfeed31f07d35975",
@@ -1205,6 +1215,15 @@
   "revisions": 1,
   "sha256": "64db49a3a04f17ea9b42ab3da3a27a55df6022a41b23f8d2082f15c546203b39",
   "slug": "will-pohang-steelers-finish-10th-in-k-league-2026"
+ },
+ "0xd31986ab7c67b201445c3e2b6755e6cc72cb7731ca0cd810a76bc6ff739ad718": {
+  "created_at": "2026-11-05T01:07:59.908504Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Any member-elect blocked from being sworn in?",
+  "revisions": 1,
+  "sha256": "ebafb23e91c249977d502e5bd954ab1f0a3b8797fd01ddb0e201bd3954fb219e",
+  "slug": "any-member-elect-blocked-from-being-sworn-in"
  },
  "0xd47787f22b662a966050b8c5179aba08a7515ff0ae8c884d31eaa9cef612eb18": {
   "created_at": "2026-08-11T19:04:17.858461Z",

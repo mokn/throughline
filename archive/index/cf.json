@@ -859,6 +859,7 @@
   "created_at": "2026-11-03T22:16:27.422632Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "DeSantis's Republican nomination odds hit 8% by December 31?",
   "revisions": 1,
   "sha256": "6649d6e88e3f88bf6a6db7040cfdee92d6a8509453ec9680b6843ab8af9250af",
@@ -1413,6 +1414,15 @@
   "revisions": 1,
   "sha256": "72c51c65394dd79e8196e50a6b9dc8a874b192837c8c68dc86ba4d7f0db53cf6",
   "slug": "nba-teams-30-plus-wins-2026-27-milwaukee-bucks"
+ },
+ "0xf6ade513cd7b611cc0017deafcd5a5d994d7809a05e94c0bf65d27d9aff75bcf": {
+  "created_at": "2026-10-25T10:45:20.960336Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "48ef1673678a622f7791b06596dbeabd64e48bf3bcc7bde58e425025cc68567d",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-away-5pt5"
  },
  "0xf6c3f909be91d8a6eb7fcc661328b969548cf4e3756a1e7176053b3d68b2aacf": {
   "created_at": "2026-10-30T15:20:03.047305Z",

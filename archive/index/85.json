@@ -3,6 +3,7 @@
   "created_at": "2026-08-26T08:44:15.020101Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "95812fc789b822665c363a0b560aedec520a14d3060fc149304b8f94c13450fd",
@@ -500,6 +501,7 @@
   "created_at": "2026-09-13T08:44:30.562667Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Huddersfield Town AFC vs. Luton Town FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "5781dab2de389e32eed4b6751efdb4e58807a8c073e54174bf905a6bbd3443ca",
@@ -929,6 +931,15 @@
   "revisions": 1,
   "sha256": "9e99434225854e2d5c146f80f6908d5318e8d4d5ad9086fc35aae2fb5d890c47",
   "slug": "will-metas-market-capitalization-be-at-least-1pt875t-at-the-end-of-december-2026"
+ },
+ "0xaa8055bc5ede0b58917cb313672bd3eddcbe6801629853903f51b8ea0e779385": {
+  "created_at": "2026-10-25T10:45:16.724719Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: Aurora FC (-5.5)",
+  "revisions": 1,
+  "sha256": "378f976514ae68e1b177b7d91f59f5480097def597b9f72a85e8aef73a25fc43",
+  "slug": "gtm-mun-aur-2026-11-07-spread-away-5pt5"
  },
  "0xab50a427801a1aa30680769919583ac971399149dc89c57b5c096fce52a96485": {
   "created_at": "2026-07-15T00:40:34.449305Z",
@@ -1367,6 +1378,7 @@
   "created_at": "2026-09-28T20:07:20.416357Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Mahoning County in the Ohio Senate race in 2026?",
   "revisions": 1,
   "sha256": "b6fab57321edec2b55df7e8b906e19ff19596bb9056942c8b475fa6ba5ce9176",

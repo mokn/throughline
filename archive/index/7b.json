@@ -372,6 +372,7 @@
   "created_at": "2026-10-03T19:00:28.979569Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1300,6 +1301,7 @@
   "created_at": "2026-10-03T19:00:28.590316Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 5 - 2 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1355,10 +1357,20 @@
   "created_at": "2026-08-12T17:26:51.395716Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will New York Red Bulls be runner-up in the 2026 MLS?",
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
   "slug": "2026-soccer-mls-runner-up-new-york-red-bulls"
+ },
+ "0xded63e6aa53c12ee2d66570945ac93c94a8d4d90e9e3573ca9668df0fc64037b": {
+  "created_at": "2026-10-25T10:45:21.871003Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "c8142a948be7a791b9ca1622c785febd2146c7e004b4b49a7d2f4c5f2993398a",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-away-1pt5"
  },
  "0xe0554d139edccf3fdde19f29acbb7af0fcd7fb292529d0af9d95abcd1b563e7b": {
   "created_at": "2026-08-24T16:32:54.814614Z",
