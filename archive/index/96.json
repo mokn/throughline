@@ -99,6 +99,15 @@
   "sha256": "dc2b850f76fe42b022fe5a7a1b57d38bc53b3f4e036dfad62f0bdd5e2fc5abc4",
   "slug": "glider-fdv-above-50m-one-day-after-launch"
  },
+ "0x197eb81549329d603906f75510f6867d674563ad28841a96459d776b187be296": {
+  "created_at": "2026-10-15T18:02:14.953355Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "017ad22f0c0d59b2703df127d5c20adf63668549822f9d982e4ca664c2e2fbeb",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-total-1pt5"
+ },
  "0x1a16562475159e0f3ec081b7b7b9009a0385e3e8b8a7600690f356a2a7766296": {
   "created_at": "2026-09-28T17:20:32.129956Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -211,6 +220,7 @@
   "created_at": "2026-08-26T21:46:28.170296Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Atl\u00e9tico Tucum\u00e1n finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -523,6 +533,15 @@
   "revisions": 1,
   "sha256": "aefba93cf7edf0c0ed5078b6bfe876490a06d6f6f1ba97ed73aec36c2f5d00e3",
   "slug": "will-merriam-webster-2026-word-of-the-year-contain-vibe"
+ },
+ "0x64c9e8eaeeda6b2000ad65932815645c971a54af6d0d17c7e2d527731a05d296": {
+  "created_at": "2026-10-15T18:02:17.968933Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "7613b043e3df2a84009535cf51a3aeb69ff01fc96db0733c68131c627a254e33",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-home-3pt5"
  },
  "0x684e5b72d4e407695397a79ed75ef37273c2655ca2548791a4153233d3744696": {
   "created_at": "2025-11-11T17:42:50.059443Z",
@@ -1351,6 +1370,7 @@
   "created_at": "2026-10-25T04:01:38.38847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will US Dollar Index (DXY) hit (HIGH) 102.00 in November?",
   "revisions": 1,
   "sha256": "08d2b061d4fa8b9799e948f4fff2cc2b7776a2ea3d26a544e009fcf1f9fc6a3e",

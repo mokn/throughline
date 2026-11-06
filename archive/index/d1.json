@@ -283,6 +283,7 @@
   "created_at": "2026-01-28T15:39:54.823393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the TN-07 House seat?",
   "revisions": 1,
   "sha256": "51a170da286dd983857d9756e2edf1e0f03a491a636a3cb7bf20d7d3cb9d76f7",
@@ -1523,6 +1524,15 @@
   "sha256": "ba87e2390172bbecabd35d3b08c9f6c93434cca2453e777ed24e71f10e702d1b",
   "slug": "will-mara-corina-machado-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026"
  },
+ "0xe68d3dd6093a33247d0a8463a3afbe044d3984878eed4b7725be26ddd90895d1": {
+  "created_at": "2026-10-15T17:02:00.590555Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 3 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-3"
+ },
  "0xe8c39a22e11f5b3c85ddf9054f7c71a9951d53c3fb55d6f33caaef8bdcb00ed1": {
   "created_at": "2026-08-12T16:52:18.095403Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1531,6 +1541,15 @@
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
   "slug": "will-jesyka-guevara-villanueva-win-the-next-cusco-mayoral-elections-20260811162428008"
+ },
+ "0xe8dd19f008b1a7c2ab0c46580c005c3a9cc6a78471207da97e920dbc7c2458d1": {
+  "created_at": "2026-10-15T17:02:01.356824Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 3 - 3 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-3-3"
  },
  "0xe99323483c8f7b9ee0aa48019bbe83388639bd33cbcea78e7dda7d348b9f58d1": {
   "created_at": "2026-10-15T10:17:28.726698Z",
@@ -1617,6 +1636,7 @@
   "created_at": "2026-08-26T21:46:28.564535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Estudiantes (LP) finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",

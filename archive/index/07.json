@@ -469,6 +469,15 @@
   "sha256": "d95e2dcab2b0f78b7a4eb0a8c599ef74b2a5453510e5eb78956bde97228be600",
   "slug": "terry-mclaurin-1349pt5-receiving-yards-2026-27"
  },
+ "0x5b90d7f23f27c19cca37934fb1040936f107bcc6c3af1ca29034e90b85d8c907": {
+  "created_at": "2026-10-15T18:02:16.67196Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 0.5",
+  "revisions": 1,
+  "sha256": "8fa3e831fc28e83d2be0af2450fdb4f442eb8c83d8fc16674a47d43e9ff940ce",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-0pt5"
+ },
  "0x5c324100551290f85ba6f2c98e4cb318cc3ebc1e78d8731c50982a493efdb307": {
   "created_at": "2026-09-28T15:12:44.042454Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1020,6 +1029,15 @@
   "revisions": 1,
   "sha256": "c331b78b376af1e407a91c87cdd28e6199bad8ba13f9c4d2bdb93c2749b80ed7",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ok-02-house-election"
+ },
+ "0xb2c2fff2eacda5588f46853b1b7c2e919074079bcfc5bb4627af343e23bc4607": {
+  "created_at": "2026-11-06T00:02:47.603015Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Matt Van Epps be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-matt-van-epps-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0xb57f3ca76be1abee4b722450bc5a24764afb0ae790c4495e579514b1dda1c907": {
   "created_at": "2026-09-02T19:39:41.247357Z",

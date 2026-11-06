@@ -128,6 +128,15 @@
   "sha256": "a8724a87fa6c33dadc2c4696d23c60bc6c1a9d25efb83557419e19c6c53a9f75",
   "slug": "will-juve-stabia-be-promoted-to-serie-a-2026-27"
  },
+ "0x19627174584365d363c4581abe6a7a6790e8300616eee61956e9f7f9c636305c": {
+  "created_at": "2026-10-15T18:02:44.632521Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: O/U 1.5",
+  "revisions": 1,
+  "sha256": "9ae9488634c69d4b9d33d32016cb48cb8eccc638dc2bb57288066edea5ee8b66",
+  "slug": "cdr-ute-sab-2026-10-28-total-1pt5"
+ },
  "0x2326d3d2ba7d7451c2ec888e5605dae306b8f9add8bdf5e5b5e16e6768c4555c": {
   "created_at": "2026-08-11T18:13:41.690063Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -273,6 +282,15 @@
   "revisions": 1,
   "sha256": "aaa330835bbc0e9a93a3cdda75b65db8eb617f702bcc2709b1e1f2665ae290f2",
   "slug": "el1-not-bla-2026-09-26-team-total-home-0pt5"
+ },
+ "0x3e95c28bb13e22a44a3ff0d594459948b8564cecbd37603545af459df4e2885c": {
+  "created_at": "2026-10-15T18:01:52.446191Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "60e1af0faddeb9a5b85249cd3735e73c79ddb370c5b8782eefc3301e00579dea",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-home-0pt5"
  },
  "0x3ed63b071c28c280b3da0e7ce0c2915b612ba5af715e940432f69108d134f15c": {
   "created_at": "2026-08-24T16:33:26.232607Z",
@@ -544,6 +562,15 @@
   "sha256": "5e448b3292d445b30ca58a192f21a425f3b9b791c1e21a882337f1df4e544668",
   "slug": "california-winter-2026-27-wetter-or-drier"
  },
+ "0x5fb13b65700cd4309a9b655be827c21247fcfd16264a56fbc087db123456b45c": {
+  "created_at": "2026-10-15T18:02:48.29579Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 1.5",
+  "revisions": 1,
+  "sha256": "a0e331735437c6f1cff1e792adf206d3910c7a213a20d304b990a3b905d69ab8",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-away-1pt5"
+ },
  "0x6054dc1161b208692256a8d1e71badc919729e47094b9a835606729a49f8375c": {
   "created_at": "2026-02-18T17:11:13.520192Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -696,6 +723,15 @@
   "revisions": 1,
   "sha256": "905399f4c4e446384b8537ce28a9991afc84b5ad63b0575408c7a4d4045c7471",
   "slug": "will-az-reach-the-2027-uefa-europa-league-round-of-16"
+ },
+ "0x7e7d09106b90c98194cbb7f8373a5611fcc679fc4ec95b4aa40ac0b20f84b45c": {
+  "created_at": "2026-11-05T20:54:09.993946Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Kattya Gonz\u00e1lez win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-kattya-gonzalez-win-the-2028-paraguay-presidential-election"
  },
  "0x8045cce5dfd0177e59c99595fcc84da613fa6038145f3c53f8dfd0be5318245c": {
   "created_at": "2026-08-10T23:56:12.418708Z",
@@ -1116,6 +1152,7 @@
   "created_at": "2026-09-07T15:49:39.810306Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Aave V3 USDC supply APY hit 6% in 2026?",
   "revisions": 1,
   "sha256": "cc94dc23748e4f7ac18d8ea7459e4ecdbfeda62282c33c973fcaf6260ebb970c",
@@ -1138,6 +1175,15 @@
   "revisions": 1,
   "sha256": "c86866edffdd8e58ed9fca50b0f49e335bc454549c937034703a0ab614ee1020",
   "slug": "will-the-republican-party-candidate-win-the-2026-ar-04-house-election-by-30-35"
+ },
+ "0xc4d9eb1e04796560090a8a48e6a834d9852a221d3b327d06327a8b77d19b125c": {
+  "created_at": "2026-10-15T17:01:20.842423Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 2 - 1 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-2-1"
  },
  "0xc4faeb761bcfcc8499902f5b71a3f9d01a2cffa7761c761b06330a9271e4df5c": {
   "created_at": "2026-10-13T15:56:34.181336Z",
@@ -1315,6 +1361,7 @@
   "created_at": "2026-01-28T15:41:54.217955Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the WA-04 House seat?",
   "revisions": 1,
   "sha256": "1b42af98f1dfc45487ab0869c70234f24d63269e1ea8bcb4ba9cb558dcc21fae",

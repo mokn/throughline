@@ -462,6 +462,15 @@
   "sha256": "d8bb2e827220612c7da6063db8ded8ee57f7d3745c33134cc0561edf08beafae",
   "slug": "will-the-next-google-gemini-pro-model-debut-with-a-humanitys-last-exam-score-of-40-or-higher-20260729192434645"
  },
+ "0x4f363a9dd186b9e7f309660a2c0a51ca5f0344070e97ee71f8dfd87ce9a61924": {
+  "created_at": "2026-10-15T18:02:41.443064Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "e2da1e1d002217f80d000b09247604e72a597b417d0161bf4806fc39b9787152",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-away-2pt5"
+ },
  "0x4ff66babd9440e4ca4097607aafa868bf734c5411463e14bffc5c330d7d0f524": {
   "created_at": "2025-10-09T23:52:18.54508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1510,6 +1519,15 @@
   "revisions": 1,
   "sha256": "d65ad8f9306c57226c09890be89c28604a28021e84d7237e02228cab66ef58f2",
   "slug": "will-the-democratic-party-win-the-va-10-house-seat"
+ },
+ "0xf8446923a5100797caa47c0d0502d2403568d45ccddc995f2aa56a8611dcb024": {
+  "created_at": "2025-07-03T20:37:36.80788Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Abdul El-Sayed win the 2028 Democratic presidential nomination?",
+  "revisions": 1,
+  "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
+  "slug": "will-abdul-el-sayed-win-the-2028-democratic-presidential-nomination"
  },
  "0xf849753d38551c5832c4d4c76c3ba47daa97c86da412354a078c6725fcbe7524": {
   "created_at": "2026-08-10T14:52:09.636209Z",

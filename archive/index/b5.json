@@ -67,6 +67,7 @@
   "created_at": "2026-08-11T14:18:41.325237Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win 12 or more House seats in Florida in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "207b56eb0446a51d25ca4cb213a9eb2e63b80c730578b75f1d33cd3e9113ca12",
@@ -297,6 +298,15 @@
   "revisions": 1,
   "sha256": "aaf41ee99f56e726cff06adb35c2b9cb3a7f054e11e0c5adadc34d460a5a6e39",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-50-house-election-by-20-25"
+ },
+ "0x2e73fe838f2b6defad71fb648323ad5e3c10d269683b836b481cc075ed0f4fb5": {
+  "created_at": "2026-10-15T17:01:36.51747Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 0 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-0-2"
  },
  "0x2f7bf2792693f13fcff4513ec5bcb48346a72cae48a4df62d3d0be58d936d6b5": {
   "created_at": "2026-08-26T21:46:23.795485Z",
@@ -595,6 +605,15 @@
   "sha256": "3ab9fae5221f63caf1754e7f965f537c5d511c49ab73b23aeaf39df29584b75e",
   "slug": "will-indianapolis-colts-win-the-2026-afc-south"
  },
+ "0x552c436f64bb3c9622e46b7551cc89fc503b63d3133f2e97ec57cb0ea1f855b5": {
+  "created_at": "2026-10-15T18:02:43.556718Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Utebo FC (-4.5)",
+  "revisions": 1,
+  "sha256": "a691a38180f2e473a95bcf6271d4b147597b3fcb1a0b36495805f2609518b197",
+  "slug": "cdr-ute-sab-2026-10-28-spread-home-4pt5"
+ },
  "0x553c2f838bc242986c9bab80248eb9d8e583c9e2b5be2f4850d71ce7559d0db5": {
   "created_at": "2026-09-04T19:29:07.692222Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -775,6 +794,15 @@
   "sha256": "d953d0c22030071991c5c225ce4b4b507efbd4e6ed1a8e5f5395f15ee998c9e3",
   "slug": "will-bytedance-be-the-third-best-math-ai-lab-at-the-end-of-december-2026"
  },
+ "0x64121be031d35b6b4e97a012eebf5326396b9a7e30e8b10839d3b491c97aa3b5": {
+  "created_at": "2026-11-05T20:54:12.042171Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Ra\u00fal Latorre win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-raul-latorre-win-the-2028-paraguay-presidential-election"
+ },
  "0x658451d860835452abfca42441c7b8d87e372fb56e2ecdfe2a5b0cfe0ae72cb5": {
   "created_at": "2026-08-05T18:17:07.719047Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -828,6 +856,15 @@
   "revisions": 1,
   "sha256": "f1f381a27d7ada3014a59471b4ce1bb79bf857729deeb18bd911e42b2d53c410",
   "slug": "will-zelenskyy-and-putin-meet-next-in-russia"
+ },
+ "0x6f0e967300430b5e77b829de84fcc514cda4fb34227136c00ba7ad3db8a8e4b5": {
+  "created_at": "2026-10-15T17:00:57.425052Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 0 - 2 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-0-2"
  },
  "0x7134e66afb235b8b83644309d546284f76dd47068a270898bf5138df174c16b5": {
   "created_at": "2026-10-31T11:31:07.389683Z",
@@ -1714,6 +1751,15 @@
   "revisions": 1,
   "sha256": "7f1a461a69a9466d1779cc83fdae4a0e280062e7924a79d2f9304a7d490698b9",
   "slug": "will-keelon-russell-be-the-2026-d1-passing-tds-leader"
+ },
+ "0xf08461cb076abdf86d096a5e4a45af8ca142f5eade2625d9f04528b42ad534b5": {
+  "created_at": "2026-11-05T18:55:42.880769Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Abdul El-Sayed be TIME Person of the Year 2026?",
+  "revisions": 1,
+  "sha256": "2a41dadc7ef95fd067cf83ab83411d788e838376d62bfa78ee5fb64c4aa02161",
+  "slug": "will-abdul-el-sayed-be-time-person-of-the-year-2026"
  },
  "0xf25dbd5589a8ae909804a94e165cd001c6fa2c4db537f63a003085521dd88fb5": {
   "created_at": "2026-10-28T03:00:12.760835Z",

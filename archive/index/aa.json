@@ -298,6 +298,15 @@
   "sha256": "afef1f29030cded4e654979400d7d1f5bef9c2b8afc1d2a1e422f6b0d12493d0",
   "slug": "will-the-republican-party-candidate-win-the-2026-kansas-senate-election-by-10-15"
  },
+ "0x35054cbc2cbece6f0fad483a0530e07298997cd1e3457d1814e983bd73cabeaa": {
+  "created_at": "2026-10-15T17:01:18.868667Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Alcoyano vs. RCD Mallorca end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-ca-mal1-2026-10-28-draw"
+ },
  "0x353bf8de26d74d55bba0b39a9c96925a90582d83ffb20e1b986e729504841daa": {
   "created_at": "2026-08-11T18:42:34.194157Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -432,6 +441,15 @@
   "revisions": 1,
   "sha256": "84eaf53c7d8cda850ab134fb83b6c122534d397b075c494a5f6a288ea9cdade6",
   "slug": "will-anders-carlson-finish-as-a-top-5-k-in-the-2026-27-nfl-season"
+ },
+ "0x587c956d5dd1241cf1b496aed1d71ad5c17e304a67412a5c825040d8a8361baa": {
+  "created_at": "2026-10-15T18:02:10.956048Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Alcoyano (-1.5)",
+  "revisions": 1,
+  "sha256": "cbe06c34ee9492a0b6a3b72c2b8353493eb469675148aef4409d3cee96ed30bb",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-home-1pt5"
  },
  "0x5ea9ed878a3dd7cae2c2c5089860f46b3c8d57d39e48a8819e18854b10e16caa": {
   "created_at": "2026-05-12T20:06:19.688837Z",
@@ -937,6 +955,15 @@
   "revisions": 1,
   "sha256": "c92c6a8b0e78ba4caa1f5f9327e2de2b475868bc025eba6024046428cc034dab",
   "slug": "will-the-republican-party-candidate-win-the-2026-mi-03-house-election"
+ },
+ "0xa4ec78a49fad3ec4f8dfa1b0268fc99a5d6672aa6ed702c1401d896ee8805aaa": {
+  "created_at": "2026-10-15T17:02:05.318774Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 0 - 1 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-0-1"
  },
  "0xa6dbcdc29c17fe6f1acf36970fdb058f221acb95da260016e9dc06d81702b8aa": {
   "created_at": "2026-09-28T20:16:18.956527Z",

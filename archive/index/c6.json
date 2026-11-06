@@ -496,6 +496,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-alabama-have-more-than-7pt5-wins-during-the-2026-cfb-season-20260810193937805"
  },
+ "0x5b519aafe5209cc7aede8c2e81bfb0cff413949861f3fc8c6448b41f6012a9c6": {
+  "created_at": "2026-10-15T17:01:04.177455Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 2 - 2 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-2-2"
+ },
  "0x5c42ec4a2e26ae2824c05d104898adb2ccc483c767d46919ecbacc5d4a6b87c6": {
   "created_at": "2026-04-02T15:15:37.955416Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1607,6 +1616,15 @@
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-mattias-ekholm-win-the-2026-27-james-norris-memorial-trophy"
  },
+ "0xf010982e7d4ef90578df4d79317e9112570baac12a2c26902833d523f550ddc6": {
+  "created_at": "2026-10-15T17:01:21.29021Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 4 - 1 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-4-1"
+ },
  "0xf0d357bcccc92513cb3e9a5212097c9d74f21802f24cd208c4ea77fe36f272c6": {
   "created_at": "2026-08-21T17:37:21.842228Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1638,6 +1656,7 @@
   "created_at": "2026-10-25T04:00:23.836954Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Tesla, Inc. (TSLA) hit (LOW) $345 in November?",
   "revisions": 1,
   "sha256": "469b1b282cf721ea6e55933c07fc210034368da92957af0da862546a256f65b2",

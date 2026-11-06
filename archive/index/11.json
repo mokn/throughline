@@ -545,6 +545,15 @@
   "sha256": "afea085f73117e46930e36039b9e789345005960a1abe544a9da645dcf21ff6b",
   "slug": "will-galatasaray-be-relegated-from-super-lig-2026-27"
  },
+ "0x587df7479486851be51d2fc8883eb7976753b587976e229bb7c24122545a5911": {
+  "created_at": "2026-10-15T18:02:50.250123Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "add514e456c0f0e89a97b6e8de8ac8fca8ce48d6810c256e271cac975ae498af",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-team-total-away-3pt5"
+ },
  "0x58ce5d7fcab9663483d56e6f45c696bab3c68ff9dd7ba86dd2b6a05c164c5f11": {
   "created_at": "2026-10-30T22:00:53.341334Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -898,6 +907,15 @@
   "sha256": "0784350b6ec0b766e4657a10833b672c3f32499b089c8ff459d288e455e58d84",
   "slug": "puka-nacua-10-receiving-touchdowns-2026-27"
  },
+ "0x975d9f81d8687dca27517edecc508001d9f08f0ec25f06450f6fca518f384b11": {
+  "created_at": "2026-10-15T18:02:15.802118Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 0.5",
+  "revisions": 1,
+  "sha256": "7525eb623dbbf6e3ae9b179014bf9659cb249aee2b4c76ca45a6d107245c37e6",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-0pt5"
+ },
  "0x9963ad667aba7bd2ef5cf3c55865e9393a43a524361fe9810bf6f9c3133f0111": {
   "created_at": "2026-08-24T16:32:10.212685Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1150,6 +1168,15 @@
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
   "slug": "will-manuel-enrique-calvay-salinas-win-the-next-chiclayo-mayoral-elections-20260811165718007"
+ },
+ "0xb82e9018cf1c4043ead8f611ba1127a345556c450e2e9b888f59345b80217911": {
+  "created_at": "2026-10-15T18:02:35.163549Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Real Uni\u00f3n Club (-3.5)",
+  "revisions": 1,
+  "sha256": "0136dd3584e7e04671eb7ebe5d663c936f1d06fe0a163c6b414c636bd99613dc",
+  "slug": "cdr-por-iru-2026-10-28-spread-away-3pt5"
  },
  "0xb8340f369a82fb336539723e603623e7f9eb964dd8ddac417b714749841c6111": {
   "created_at": "2026-08-11T12:33:32.388772Z",

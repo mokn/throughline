@@ -225,6 +225,15 @@
   "sha256": "d4f0d45421e4eb94660e938acb2bc2bf0b00ffa1021bc874e0c1c276168d5b74",
   "slug": "will-jose-maria-neves-win-the-cape-verde-presidential-election-1786395605043"
  },
+ "0x2e5bedcfbf1f2f303cfd141987fc30bb2f812de058d291ce51adf85cfec9974a": {
+  "created_at": "2026-10-15T18:02:37.347831Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "32b6078c8b7e02c395b88f01d851389332ced155a8accd865e41817111bcfaab",
+  "slug": "cdr-por-iru-2026-10-28-btts"
+ },
  "0x2f41c6c7a76060fc44248c3ff016f38396ab8bcea99eb6588004e806d3c5174a": {
   "created_at": "2026-09-09T22:07:12.674596Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -572,6 +581,7 @@
   "created_at": "2026-01-28T15:36:21.665464Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NJ-02 House seat?",
   "revisions": 1,
   "sha256": "6b8f0f5d139ae8a61b51cdf40a5a9bc3fff4c5098057012c34deef1fbdc80b6e",
@@ -703,6 +713,15 @@
   "revisions": 1,
   "sha256": "2c046d3975fac62dcd40d7644730b9a49da73d76387b3acfa006f140955d7354",
   "slug": "2027-womens-college-basketball-national-champion-uconn"
+ },
+ "0x8923801d618274adfb729a2f83e11a9288c3f76d7682af9178527e1d80c6724a": {
+  "created_at": "2026-10-15T17:01:38.281204Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 5 - 3 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-5-3"
  },
  "0x8ad72bf593593191b1a73a7b9b9503dd2a10c2c2ebb898a26eb8d5588ba8314a": {
   "created_at": "2026-09-27T20:04:43.831664Z",
@@ -934,6 +953,7 @@
   "created_at": "2026-08-26T21:46:29.315554Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Sarmiento (J) finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -947,6 +967,15 @@
   "revisions": 1,
   "sha256": "d011b15cae473145592c0b4a4e14f35fca0482732a8e3c5a8d5334ca44b90fd5",
   "slug": "will-the-next-israeli-coalition-be-l-y-t"
+ },
+ "0xb0c4c183c359458af88a1d3eac75f16bcd8578437e5076635d726847f2018e4a": {
+  "created_at": "2026-10-15T17:00:57.84191Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 1 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-1-3"
  },
  "0xb26ccd15580e516c0b22db1054866a63d3e95c52b57dd863a63147f8e55c3d4a": {
   "created_at": "2026-07-31T23:05:51.005549Z",
@@ -1272,6 +1301,15 @@
   "sha256": "dfc6a97b46689bceded997cac87888e8e833f982165887c793740f3a0770b1ea",
   "slug": "will-ittihad-tanger-finish-14th-in-morocco-botola-pro-2026-27"
  },
+ "0xe79f3666b4b3fdd37c0e634f52b5383b420872570dd6f01b43e71eaa6ab6cd4a": {
+  "created_at": "2026-10-15T18:02:42.894807Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Utebo FC (-2.5)",
+  "revisions": 1,
+  "sha256": "8d9f201b503a7b1d745481ae2548db26e2022c2d3688ef742343be63a0f92d62",
+  "slug": "cdr-ute-sab-2026-10-28-spread-home-2pt5"
+ },
  "0xe7f3b934838774f7d3fc0e3b42767b63811d1597cd5b78ff4be7ef9c408c724a": {
   "created_at": "2026-06-01T17:48:33.760927Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1321,6 +1359,7 @@
   "created_at": "2026-08-26T21:46:28.266467Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Barracas Central finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",

@@ -125,6 +125,15 @@
   "sha256": "f692ef8dacff6bf0bb75af37b44762982ff021d8b6883deadc6e97be2709ba9f",
   "slug": "will-the-philadelphia-eagles-win-more-than-10pt5-games-in-the-2026-nfl-regular-season"
  },
+ "0x13871ded213b5501fc282ee49255ba86daebfc67477c01b320600fbe4b6a33a2": {
+  "created_at": "2026-10-15T17:02:07.968585Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "FC Cartagena to score first vs. CD Minera?",
+  "revisions": 1,
+  "sha256": "f95edd7c6232283c00edc42bf21d809c92b32b07ae1dc721f2c66b48eaca2549",
+  "slug": "cdr-cd17-car-2026-10-28-first-to-score-away"
+ },
  "0x1404a4f3f226307e53d63d731960fa43872d25ac57c6044407d26c0ed6294ca2": {
   "created_at": "2026-08-10T14:53:02.190872Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -201,6 +210,7 @@
   "created_at": "2026-10-25T04:01:29.765324Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will S&P 500 (SPY) hit (LOW) $740 in November?",
   "revisions": 1,
   "sha256": "c12e97d270acbc2685a5229e6f547ee877996549315cd83aa653ce4a5a586390",
@@ -532,6 +542,15 @@
   "revisions": 1,
   "sha256": "d49c33ea1273669ad8cd6e1ace4e2b6e973c467ae72ee4ab9b318577fed5cbb5",
   "slug": "will-the-republican-party-win-the-nm-03-house-seat"
+ },
+ "0x4b13ed5be12fc8892a3bbe187e4721dd1092fae9fb11376a2df5ac5fede40aa2": {
+  "created_at": "2026-10-15T17:01:03.424977Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 0 - 1 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-0-1"
  },
  "0x4c08f5b4a7e419215a5175995cd11c899bb40f19cd5c64d5864b0cae58fb0ea2": {
   "created_at": "2026-08-21T17:37:04.671683Z",

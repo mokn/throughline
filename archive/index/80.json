@@ -379,6 +379,15 @@
   "sha256": "ed6afa8a002a543b173dcaa43be09024dcbd69cc6626b69a7d767032451943de",
   "slug": "will-cristiano-ronaldo-join-the-liga-mx-next"
  },
+ "0x3d72e06f95e0daf3d87f55cbf28c43300d6940d0a941d7b717ec3e16e5bfbb80": {
+  "created_at": "2026-10-15T17:01:38.216016Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 4 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-4-4"
+ },
  "0x40249d25f830ea7e88f01d5a41a118f1982adf9786588002a823b38cb3f24d80": {
   "created_at": "2026-01-28T15:29:10.767068Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -547,6 +556,7 @@
   "created_at": "2026-01-28T15:36:56.72318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NY-02 House seat?",
   "revisions": 1,
   "sha256": "409eeb32d7c1fd2f4bf60294cded4957e3c5b4424c6e19d79f851af36daf9e8e",
@@ -1457,6 +1467,15 @@
   "revisions": 1,
   "sha256": "bcb84c1f17eeafea27ccedaffe510b1b498ebdfb17bf8e87585ebb9230c719f3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-21-house-election"
+ },
+ "0xf33a334a3eae17d8b1c22ed663e6218e75afc14ae1959e7039bd74032c784d80": {
+  "created_at": "2026-10-15T18:01:47.503476Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 0.5",
+  "revisions": 1,
+  "sha256": "219316a1f0446e0c37e968821fa5087dd461e4e27a6693629f820fd2aa5d1896",
+  "slug": "cdr-bad-cdt-2026-10-28-total-0pt5"
  },
  "0xf45f5a6ce7ebffefc48f4cd298bbc319fa6e705087c4406e3109ab6ac1d11780": {
   "created_at": "2026-08-26T21:46:43.721053Z",

@@ -507,6 +507,15 @@
   "sha256": "0355b3c81139a0a2803642135c16fdcc099b05683f8eaf6327a3a271c08a47b4",
   "slug": "nba-2026-27-spg-leader-jalen-brunson"
  },
+ "0x5d6ef45d9a806a6ae388888e167d9420251ff775b902092015567e24b0a26cee": {
+  "created_at": "2026-10-15T17:01:21.91006Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 4 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-4-5"
+ },
  "0x5db9870ff87ea792697f052f285a66dea802e9007233c19658af82cb34756dee": {
   "created_at": "2026-07-22T05:35:40.754326Z",
   "first_seen": "2026-11-04T01:55:27Z",

@@ -404,6 +404,15 @@
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
   "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-cup"
  },
+ "0x3cd370626442b1a467f0e387148560dd0a82c98a3ad446021005880275a62826": {
+  "created_at": "2026-10-15T17:02:01.905032Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-any-other"
+ },
  "0x3d89fe6faccf6dde022d81a69aae7dd2647b0c7297f300ff8402546491673e26": {
   "created_at": "2026-10-13T19:55:52.92329Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -476,6 +485,15 @@
   "sha256": "5364af3fda1190280b4d9ac66c862fb0084bba3fe5b8daadcd267d4de9843edf",
   "slug": "will-macva-keep-the-most-clean-sheets-in-serbian-superliga-2026-27"
  },
+ "0x4734b6661d632b4085fd895e4a3cc8cf4372aede58f4e24894c9bef1286b3c26": {
+  "created_at": "2026-10-15T18:01:06.145966Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 8.5",
+  "revisions": 1,
+  "sha256": "8dbd8d9b6424b8e5105710dd4aec55d115863b73f2a69f2287626ea02bf3e697",
+  "slug": "cdr-red-bar-2026-10-28-total-8pt5"
+ },
  "0x485baf56bea0d7461db72dcfe010516d0f99f8257e7f517081ab589992a8bd26": {
   "created_at": "2026-01-28T15:37:19.125414Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -512,6 +530,15 @@
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
   "slug": "f1-brazilian-grand-prix-winner-lindblad-2026-11-08"
+ },
+ "0x5463552974264d8d7dabd7cdc8a64abb794d5451e4ab0ff15232f64b8fc41926": {
+  "created_at": "2026-10-15T17:01:06.352182Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "1c911b994ea78df9c40505e0237f23fa6211c23cab03ddad7571a46b347087c2",
+  "slug": "cdr-por-iru-2026-10-28-first-to-score-neither"
  },
  "0x554add9e783edf8cd8a7cc802a69db2740a61d3221dbe346f5d0f51004be4226": {
   "created_at": "2026-10-02T23:00:13.693678Z",
@@ -593,6 +620,15 @@
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
   "slug": "will-100-thieves-qualify-to-pgl-major-singapore-2026"
+ },
+ "0x5c0c519b918b2f0a0b8146f4a9b2faf4d979f548254d2fe4560ed052c722de26": {
+  "created_at": "2026-10-15T18:02:36.732744Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 5.5",
+  "revisions": 1,
+  "sha256": "aecddead64b23c7021c83c829c2075a502b82b56b5623fdbc2b710d2c7899a49",
+  "slug": "cdr-por-iru-2026-10-28-total-5pt5"
  },
  "0x5cbcadf30c012dfca1120b6918c10ba5e202f856842efdafeed25b0ea85ffa26": {
   "created_at": "2026-08-07T20:09:10.425849Z",
@@ -1455,6 +1491,15 @@
   "revisions": 1,
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",
   "slug": "will-besiktas-record-the-most-clean-sheets-in-the-uel-league-phase"
+ },
+ "0xdceb3f10cbd332a1c911d66291443fcefd73216562a079f07192819327663426": {
+  "created_at": "2026-10-15T17:01:21.119109Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 0 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-0-5"
  },
  "0xdcf00582b7b0dc9c95048f81be8dd66a09db6d1291934427cf74766e2783db26": {
   "created_at": "2026-08-10T23:55:56.267749Z",

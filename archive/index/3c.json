@@ -98,6 +98,15 @@
   "sha256": "06b716e3d7979e969c9dcdc848d1e46a70b011fa5cd8574dd62a393158c90133",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-13-house-election-by-18-or-more"
  },
+ "0x0d47b7c501ef49f254dbc6dbcd0b7b06d642e5f146a186ce77e2a853e59bf53c": {
+  "created_at": "2026-04-14T15:40:29.493717Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Rob Sand be the 2028 Democratic Vice-Presidential nominee?",
+  "revisions": 1,
+  "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
+  "slug": "will-rob-sand-be-the-2028-democratic-vice-presidential-nominee"
+ },
  "0x0d6c715f8174ee82be74335e7b493664b02376bcc92b95518a05a5178330b53c": {
   "created_at": "2026-10-20T21:48:38.572658Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -415,6 +424,15 @@
   "sha256": "bfdd2fe3bbf2ece1b4df24ccc550eeece4624e6d738fcbba57af2f85d961eb2d",
   "slug": "czech-extraliga-2027-champion-kometa-brno"
  },
+ "0x33d95e53b8c15fd586feefa6aac8fa54edc3daa7b51f56528ff8190909f8863c": {
+  "created_at": "2026-10-15T17:01:20.496809Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 1 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-1-0"
+ },
  "0x34bd30f4a21696474ffee377412f6345fd85b67903cb24769881476291a8ac3c": {
   "created_at": "2026-03-26T16:21:26.155221Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -433,6 +451,15 @@
   "revisions": 1,
   "sha256": "9480e21279c0196d200be0aeadd88be172cdf9b921e916d28dceeca73a1da55a",
   "slug": "will-republicans-hold-53-senate-seats-and-208222-house-seats-after-the-2026-midterms-20260625152834691"
+ },
+ "0x37496ace08c102ab308aa34c9a9ba3dff4898c7e60d25e6d2a475b7f527b273c": {
+  "created_at": "2026-10-15T18:02:12.598985Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: RCD Mallorca (-4.5)",
+  "revisions": 1,
+  "sha256": "fb35962e5aa9dfeafac188baddac10db5f695970a7f7c444eb550568619245f5",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-away-4pt5"
  },
  "0x3aba74cd5357f0859036460cc36d639b0d50daaa73378de2464538337918823c": {
   "created_at": "2025-12-27T15:33:13.783105Z",
@@ -894,6 +921,15 @@
   "sha256": "6a54aa0ef690e8bd53773919c0d88b1188e82888b016ff80fcd24f027426641a",
   "slug": "will-a-player-from-the-sec-win-the-2026-heisman-trophy-20260803170245587"
  },
+ "0x7529d78d012f26a358002386f09661bb0fbfa3afb207fc7527c029ec4b87093c": {
+  "created_at": "2026-10-15T17:01:05.033268Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 2 - 5 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-2-5"
+ },
  "0x75fdaba1030f9fa0b644d8cc3fcd619ab1053a283f5d5ebc623e76adbc1a763c": {
   "created_at": "2026-07-14T16:58:13.190743Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1066,6 +1102,15 @@
   "revisions": 1,
   "sha256": "43cfad04c9ace87c49915455a0b56038e5f53a41849cbf5f8396df4b88beb69b",
   "slug": "will-there-be-another-us-government-shutdown-by-january-31-and-will-the-democratic-party-win-the-house-in-2026"
+ },
+ "0x9615b330413d1e08a5d357d2926102a1f1ba75e98439f12c51ec23e0325b733c": {
+  "created_at": "2026-10-15T17:00:58.218875Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 2 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-2-3"
  },
  "0x969645695c96c4f9092c8855d996b5bc21bc474865bba8ba291cb0a62d2ec13c": {
   "created_at": "2026-10-13T15:49:41.856058Z",
@@ -1419,6 +1464,15 @@
   "sha256": "39904faaa9597741cd27ee315abee1e68ae34edb2c40a17c11b09bf625c1fa8c",
   "slug": "will-kamario-taylor-be-the-2026-sec-passing-yards-leader"
  },
+ "0xd6a0b3cacf0cd221110b46afd8d0fc8f5959924cec6e7300148dd75719cfb63c": {
+  "created_at": "2026-10-15T17:02:06.61783Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 4 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-4-3"
+ },
  "0xd7b71d46292081c7450431b039a9ff2a5d0d31664f6efdb0c046fbc430a35a3c": {
   "created_at": "2026-09-20T08:47:24.967191Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1468,6 +1522,7 @@
   "created_at": "2026-08-12T17:27:15.123832Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will San Lorenzo be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",

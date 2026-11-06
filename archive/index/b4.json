@@ -715,6 +715,15 @@
   "sha256": "92e43cefd534204663a5dab28f5322471a8577e5e8a10a234439bf0fd028946e",
   "slug": "2027-soccer-laliga-runner-up-celta-vigo"
  },
+ "0x7d71b23ef518759fd66795c43a4746fad0300ea60797966457718a08fb5ff2b4": {
+  "created_at": "2026-10-15T18:01:49.160105Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "8b5bb72cb39850362575143bcbe0ea28e5a12b61b9a9ffbbaddf97a141e1ebc0",
+  "slug": "cdr-bad-cdt-2026-10-28-btts-first-half"
+ },
  "0x7e99c430c84ad1f360a3b8e9dbbf71ca590ae47d78ad51a118d8e0cfab2446b4": {
   "created_at": "2026-09-20T11:16:23.23808Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -859,6 +868,15 @@
   "revisions": 1,
   "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",
   "slug": "will-reanimal-win-best-multiplayer-at-the-2026-game-awards-1785857785556"
+ },
+ "0x99467fd6bc9d65bd9ca47009bc171f1eaf3d4205427f30e1f6e7d888bc9e92b4": {
+  "created_at": "2026-10-15T18:00:56.610157Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Minera (-4.5)",
+  "revisions": 1,
+  "sha256": "755bbef1440a9613c2bd8904e8b5aac8e05691b3a2118130fff5d4804e0a865e",
+  "slug": "cdr-cd17-car-2026-10-28-spread-home-4pt5"
  },
  "0x999ac607199ef9ddb64a8544186b52022fd8e6ab01b5f7e0496f4adac7cb00b4": {
   "created_at": "2026-08-18T14:22:32.902378Z",
@@ -1057,6 +1075,15 @@
   "revisions": 1,
   "sha256": "d99b6d5355f3cd0f1afd1c2aba75063344df3f719e2775cc50e5bf45cce0992f",
   "slug": "dallas-goedert-6pt5-receiving-touchdowns-2026-27"
+ },
+ "0xbab31dc0303043ae5c479f5b9c4f0137ed8b066a92afde0fc80660c2e38aacb4": {
+  "created_at": "2026-10-15T17:01:03.4856Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 1 - 0 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-1-0"
  },
  "0xbafa0d81d8947b0f5376db710813340d99d69f3ff89674da11ce68f619a7a3b4": {
   "created_at": "2026-08-05T16:27:44.429612Z",
@@ -1479,6 +1506,7 @@
   "created_at": "2026-10-25T04:01:34.997307Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will South Korea ETF (EWY) hit (LOW) $140 in November?",
   "revisions": 1,
   "sha256": "aa033054bc4e6eee478381e2d05184e386602f7815f06580f02dfc1cac649bb5",

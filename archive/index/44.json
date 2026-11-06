@@ -94,6 +94,7 @@
   "created_at": "2025-12-15T19:15:17.884118Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the AZ-01 House seat?",
   "revisions": 1,
   "sha256": "b64c6711f1edb71a2bca8b70f59f0ff670c76224fabbab8258577349bdcba986",
@@ -334,6 +335,24 @@
   "revisions": 1,
   "sha256": "a1d5241e9dce92774ceddd310a07b6c998838a8d591a6344ffc110150605c6b5",
   "slug": "will-fmln-win-the-most-seats-in-the-2027-salvadoran-legislative-election"
+ },
+ "0x38c1f27acfa12971fa045ac196b21a9b7035415f198a5c9354d46c980a06f344": {
+  "created_at": "2026-10-15T18:01:02.587869Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "92911acf7d4911f22aa4e369324e2767ee8991b9214006fa23a902b0b3a57f12",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-away-2pt5"
+ },
+ "0x3af986d04f51fe357c4d999a1a293e2cea3be57cf4d9fed2f402970f19cacd44": {
+  "created_at": "2026-10-15T18:02:39.502085Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 1.5",
+  "revisions": 1,
+  "sha256": "cef39bdcfed6ec2236ebbd0ca164436f3baf0dffb46b252c414f70d90eb5e579",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-1pt5"
  },
  "0x3bae734291ce3ff479f09731696f3adcab27c4bc81858fef99c6183bc2efcd44": {
   "created_at": "2025-11-28T16:19:05.655971Z",
@@ -660,6 +679,15 @@
   "sha256": "844b90ee57d84a1ba756c7f61b8cfa48d835c0ba6a349d198625a36e92717071",
   "slug": "will-no-knesset-confidence-vote-occur-by-february-28-abstentions"
  },
+ "0x77747f1978059101532a50df2d0f726243ef0a1153fba5e88061240eae6add44": {
+  "created_at": "2026-10-15T18:01:05.303144Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 2.5",
+  "revisions": 1,
+  "sha256": "03c676d59dc7f9568c0f25e9a37480d43d326ab03e6e030a20c1a3ff3e03fbda",
+  "slug": "cdr-red-bar-2026-10-28-total-2pt5"
+ },
  "0x78bb07f24792b6a39d452364754ea6323ea0e6bf2c9980b0989c664294ec0f44": {
   "created_at": "2026-02-06T22:38:13.275105Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -763,6 +791,7 @@
   "created_at": "2026-08-26T21:46:29.156505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Racing finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -976,10 +1005,20 @@
   "sha256": "916e831eda1a0215716cdf39e83013421467f4388dc75b8c1b6d104813138feb",
   "slug": "will-devin-booker-be-named-to-any-2027-all-nba-team"
  },
+ "0xb0ba2ca9912e0c36be8db591895c37326a5e976e1ff2a62bcd02e60bce9de544": {
+  "created_at": "2026-10-15T18:02:18.538149Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "a6db5119a827088cd64929609849193c1fbf0f7b82338097e42af2253bca9273",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-away-3pt5"
+ },
  "0xb179e18098d68f3b2b1f81c5cfb1220fb4ccdd4fc25efe3b959bb79420761644": {
   "created_at": "2026-11-02T01:07:26.990769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democrats sweep the House and Senate and the US-Iran ceasefire not hold through 2027?",
   "revisions": 1,
   "sha256": "64926afdfb7e2f8ca35b7ddf0a80de14743ca065ebb77c2c171435c582d05ac8",
@@ -1425,6 +1464,15 @@
   "revisions": 1,
   "sha256": "3d68495badc73f1912677ddbb6627f0d2538ba0055c6418a4647c7230c7a34ae",
   "slug": "zuffa-vanho-balaz-2026-11-07-ends-before-round-3"
+ },
+ "0xf134f2851e8a0ff3e90c46da7d81abb4b5894f9bbeae8492b9a330196f247544": {
+  "created_at": "2026-10-15T17:02:03.76709Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Minera win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "e28e1150ec8b999eae667b65af334794273f5b93b4ac46edfe97ee43e3425165",
+  "slug": "cdr-cd17-car-2026-10-28-cd17"
  },
  "0xf35733dcac738a7b27f8f64a462664958f6a9a93d16c0b798cb4cfe1cf8b5244": {
   "created_at": "2026-08-24T16:35:40.861475Z",

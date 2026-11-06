@@ -296,6 +296,15 @@
   "sha256": "19baac10647ea16503151381dbeb4588426c8f9a7fa7d7cae74a6373eb0b00b2",
   "slug": "will-the-republican-party-candidate-win-the-2026-oh-15-house-election-by-6-9"
  },
+ "0x41e71f9ac4f4a8819936686b69c7122f0a5b2d876ca14753e781e910febf69f7": {
+  "created_at": "2026-10-15T17:01:59.669527Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis leading at halftime?",
+  "revisions": 1,
+  "sha256": "0894cec9a6fe3e4634f65a4a19b222fa3b1ee4b6c3190e0030777a14f4efa130",
+  "slug": "cdr-red-bar-2026-10-28-halftime-result-home"
+ },
  "0x43dc5bc7c2737b4be37d6baed387e2c7b930a68e01d4161f892c31a5463376f7": {
   "created_at": "2026-09-18T00:12:44.688732Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1235,6 +1244,15 @@
   "revisions": 1,
   "sha256": "6715815be2b96b04b74abcf5ee54adb9eb86210b63181fa726edce22c47f65bc",
   "slug": "f1-qatar-grand-prix-driver-pole-position-stroll-2026-11-28"
+ },
+ "0xf66f0a3112f5f9b5b29e38bf907b82bb327ce1f006d9f154495ba6219d2715f7": {
+  "created_at": "2026-10-15T17:02:06.918448Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 5 - 4 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-5-4"
  },
  "0xf752269473fe416c87c8da63dd21c74581cbe3f3920cc904b0d59cbdfa173ef7": {
   "created_at": "2026-01-04T17:12:52.920815Z",

@@ -360,6 +360,15 @@
   "sha256": "406e5982512d752d8d29bbbfd79b7e581c2a6460702606c02917c93883c730b1",
   "slug": "will-esteban-ocon-win-the-2026-action-of-the-year"
  },
+ "0x426317ccc950f40a9ac9334410e2ea062bfbceb8c5c794635b08cf54b7387ae4": {
+  "created_at": "2026-10-15T17:01:34.672483Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Tenerife win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "af78f9df3aaf4aa28ceda68e4b4e17e850e6dca1670fd2d6db7cff0c2538227e",
+  "slug": "cdr-bad-cdt-2026-10-28-cdt"
+ },
  "0x44d83b4a05ad2a8b876d5e9f4a57f23f77b07c5ed07cd4b3327ec5b47f1870e4": {
   "created_at": "2026-09-04T19:06:40.117709Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -774,6 +783,15 @@
   "sha256": "a5b16d19d2c0c704ffe788361cbe877c0843febbdc4199666e65f380ca5d5717",
   "slug": "ashton-jeanty-1174pt5-rushing-yards-2026-27"
  },
+ "0x93a9f86fc9591a4002bffaaf2639bdf8e6928b9597f52c3543d5c0b5e96751e4": {
+  "created_at": "2026-10-15T18:02:39.886901Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 3.5",
+  "revisions": 1,
+  "sha256": "8c87556a8a4cddde558f6bfc685625ac38e75ecab71e7f62d2f66cad882252b6",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-3pt5"
+ },
  "0x94db2f147d69aea4636f8fe5a2bb3c10250ccc0b4f0bcd051893d5779eb804e4": {
   "created_at": "2026-09-29T00:12:20.0326Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1049,6 +1067,7 @@
   "created_at": "2026-10-24T04:00:03.198799Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Elon Musk post 140-159 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",

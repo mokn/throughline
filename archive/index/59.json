@@ -383,6 +383,7 @@
   "created_at": "2026-08-11T14:12:06.784041Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win 9 or more House seats in Virginia in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "caec01e66d8f8d15d91cbe1c29920df716bed7a02f2ed568f4d39166f4163052",
@@ -694,6 +695,15 @@
   "sha256": "ed06588c89a77cbe87f782abaf1b319a956ed45a73e1d52c50543ab94ab75f9b",
   "slug": "will-majid-takht-ravanchi-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221272"
  },
+ "0x6e2512cdbb88a007211188c9a356e05911dd45bca39d506d289936e2f4ca1359": {
+  "created_at": "2026-10-15T17:01:34.523724Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Badajoz vs. CD Tenerife end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-bad-cdt-2026-10-28-draw"
+ },
  "0x6f6889f7bdc5d188d423d851fb38af150a8a8a13e39e0f2fae3ee8b407a1a359": {
   "created_at": "2026-09-20T11:16:18.088325Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -734,6 +744,7 @@
   "created_at": "2026-01-28T15:41:32.919535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the VA-05 House seat?",
   "revisions": 1,
   "sha256": "39afe9f4555228c18e57ac6c4e0e6fdba09775d4fa44f6a45230fc8881615801",

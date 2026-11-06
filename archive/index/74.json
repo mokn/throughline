@@ -735,6 +735,15 @@
   "sha256": "cb20c93ba9be89f7c7d55ff1796cb84019c8a80b30373e2b702b37b7621d9a9a",
   "slug": "el1-wim-ste-2026-10-03-team-total-away-3pt5"
  },
+ "0x7a434d6d90ff021c28f1660ba5f66ab1ae02fc4481736152513d1fb5695ce774": {
+  "created_at": "2026-10-15T18:02:44.458621Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: O/U 0.5",
+  "revisions": 1,
+  "sha256": "a8c0380f182acf3ef92e655bfa3f4e40ef63944ec073b80ba32d0e56bc6cb83c",
+  "slug": "cdr-ute-sab-2026-10-28-total-0pt5"
+ },
  "0x7b4e919bebeec8c38a2da5a84ba7c0819cd5785b03bd4330f77efcad839b7774": {
   "created_at": "2026-08-11T17:53:47.494864Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1185,6 +1194,7 @@
   "created_at": "2026-08-26T21:46:29.112715Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Platense finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",

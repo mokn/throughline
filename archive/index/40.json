@@ -923,6 +923,15 @@
   "sha256": "f2b5eaeeaac2cb739053968bc00c001edbb06cc072bcbc7ed6eae5c4e24b5ee5",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-08-house-election-by-35-or-more"
  },
+ "0x9d8556df5b0e2a01d157c3ba8edd73c43309b0834af3891dfcfd5477018c6440": {
+  "created_at": "2026-10-15T17:01:21.421314Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 2 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-2-4"
+ },
  "0x9f9f3485b2deacb72e21acfe1f9ab04bbb45dd71d0569f392bd50a32784eb040": {
   "created_at": "2026-09-18T08:45:53.656281Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1370,6 +1379,15 @@
   "sha256": "88b90fe87fe6bdfd88822a1c73021886f11ff7d47f888d40fb8e07555269428c",
   "slug": "will-dylan-lonergan-be-the-2026-big-ten-passing-yards-leader"
  },
+ "0xf07911315f12b279058e258849131a3dd1eeab7a8c55d0ee68b4ec61548e0340": {
+  "created_at": "2026-11-06T00:02:41.808619Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Damon Hininger be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-damon-hininger-be-next-to-hold-blackburns-senate-seat-by-march-31"
+ },
  "0xf0d2ca21efacbcae416f6e997064452c78f4037cfac070b691c70122de89d640": {
   "created_at": "2026-09-27T20:09:01.534582Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1428,6 +1446,7 @@
   "created_at": "2026-10-25T04:01:34.622814Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will South Korea ETF (EWY) hit (LOW) $144 in November?",
   "revisions": 1,
   "sha256": "aa033054bc4e6eee478381e2d05184e386602f7815f06580f02dfc1cac649bb5",

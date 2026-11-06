@@ -154,6 +154,15 @@
   "sha256": "8bafba166e35fa308997af8f9de1614528c0f4bf1d37d7a76d22c185f5b8c04d",
   "slug": "will-project-hail-mary-get-the-most-oscar-nominations-at-the-99th-academy-awards"
  },
+ "0x20407cb6e2c33f4d87f0a39ade17198a6320a986c1facf5c73d3e8ef2d56859e": {
+  "created_at": "2026-10-15T18:00:59.767397Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 2.5",
+  "revisions": 1,
+  "sha256": "5629f92fe12dd7e8388386ff77de5542d30a0108e9b755e49fc28b2dac69ee96",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-2pt5"
+ },
  "0x206e2e99a9a42b5e23315f6e1345b9b25de08eb8fcb150049272ec4cdda6809e": {
   "created_at": "2026-08-12T17:18:33.074044Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -444,6 +453,15 @@
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
   "slug": "will-asuna-play-for-team-envy-in-2027"
  },
+ "0x4fc63be01967983e2cc2c855891285c2d39b5108efeacea06f26342441c0bd9e": {
+  "created_at": "2026-10-15T17:01:59.726542Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
+  "slug": "cdr-red-bar-2026-10-28-halftime-result-draw"
+ },
  "0x51388753a3b21e500c26810c4eb847c9c2030d4fede18e5fb253e55555ce5e9e": {
   "created_at": "2026-09-14T20:32:54.411308Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -529,6 +547,7 @@
   "created_at": "2026-10-25T04:00:48.246728Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Rocket Lab USA, Inc. (RKLB) hit (LOW) $48 in November?",
   "revisions": 1,
   "sha256": "b16950b2d1aaf777db9e7cc3ef2d8177eed6e1c3dc99d923d72a1538d201430d",
@@ -814,6 +833,15 @@
   "sha256": "923e029f4b5231c6ed6540cafbdc712ecf21730320671b67c1814907fbfc088c",
   "slug": "will-odysseas-vlachodimos-sevilla-record-the-most-clean-sheets-in-the-2026-27-la-liga-season"
  },
+ "0x917f3a2929277f93d6048d98b67e5bbbaf0180da41610f6fce43eb39410f879e": {
+  "created_at": "2026-10-15T18:01:00.773476Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 3.5",
+  "revisions": 1,
+  "sha256": "435cece07f3ec27ba664f8c2c4be457590a6a6ef1312d0ce48c9d2fc1e2f6c32",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-away-3pt5"
+ },
  "0x92ed2a60d9dabd2bdfa915d658dd575014fb2427cafb31a0bb588bdd668c829e": {
   "created_at": "2026-09-08T16:56:02.640261Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -876,6 +904,15 @@
   "revisions": 1,
   "sha256": "2fecad96f01c259ae8698d68a89a10a365d501b08ed84659de15bae9c63e0f23",
   "slug": "will-podemos-win-exactly-1-seat-in-the-2026-spanish-general-election"
+ },
+ "0xa0a5cfa81f830ab0a634f19dfd755ecd63a7d32e059bce5dfb4fbc1bf297959e": {
+  "created_at": "2026-04-14T15:40:29.193433Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Adam Hamilton be the 2028 Democratic Vice-Presidential nominee?",
+  "revisions": 1,
+  "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
+  "slug": "will-adam-hamilton-be-the-2028-democratic-vice-presidential-nominee"
  },
  "0xa0ae2e664b35652b182fc8b9dd6f69b13c3e9b7688baf922b762367f48c3e29e": {
   "created_at": "2025-11-24T21:08:33.859589Z",
@@ -1472,6 +1509,15 @@
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
   "slug": "will-rumble-be-the-most-played-champion-at-worlds-2026"
+ },
+ "0xf652656256a8ba4ca385b7abeb6339705c236fb8a86c42170ae591aeeb8bd19e": {
+  "created_at": "2026-10-15T17:02:05.717345Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 3 - 0 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-3-0"
  },
  "0xf74555aac88d424fac499af0bdf06cfa34e1825156bfcb5df49c809a053d3d9e": {
   "created_at": "2026-08-21T17:37:16.730191Z",

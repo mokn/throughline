@@ -1,4 +1,13 @@
 {
+ "0x00e8582880afc2158638e491ad4350fc4f89b978a5fa15fa3a8f1ec3924e2dc4": {
+  "created_at": "2026-10-15T18:01:50.581129Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 2.5",
+  "revisions": 1,
+  "sha256": "bf2a1ecaee48c273867dde6233b9a8a931ab678dbe44745549258dcb33c83755",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-2pt5"
+ },
  "0x013ddbabffc728a7b87c249ea68d1459af2f9232584dce14a0d7654d02d4dec4": {
   "created_at": "2026-09-13T09:44:17.851495Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -670,6 +679,7 @@
   "created_at": "2026-08-12T17:27:05.822221Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Atl\u00e9tico Tucum\u00e1n be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1103,6 +1113,7 @@
   "created_at": "2025-12-15T19:35:01.444742Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the FL-13 House seat?",
   "revisions": 1,
   "sha256": "82a71eea4edb058a3568400f04ab891e66a28f579178b3ac4b8c666460f9b94a",

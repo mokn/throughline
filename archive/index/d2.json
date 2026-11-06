@@ -1022,6 +1022,7 @@
   "created_at": "2026-08-12T17:27:15.559517Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Sarmiento (J) be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1180,6 +1181,15 @@
   "revisions": 1,
   "sha256": "6715266b03c2105cfb2ce9d80f28f65aa25a46f9f26e1f4bb344f13dffc22659",
   "slug": "will-dylan-larkin-record-the-most-hat-tricks-in-the-2026-27-regular-season"
+ },
+ "0xc6a4bffbdf5ad656cdc78b558bea250c7c4d0d3cca6fbded729320d9cae9cad2": {
+  "created_at": "2026-10-15T17:01:04.648984Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 1 - 5 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-1-5"
  },
  "0xc7879c1d4f37d5aa71d1da6e807b863007fa8b467160920fc917f61c33bb76d2": {
   "created_at": "2026-09-08T16:54:46.89652Z",

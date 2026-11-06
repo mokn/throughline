@@ -80,6 +80,15 @@
   "sha256": "6844079682818058d1de2c1476766359daa2122552d75828bf3e291a8d785023",
   "slug": "2026-soccer-peru-liga-1-runner-up-deportivo-garcilaso"
  },
+ "0x0a442669577a4297f491cc67ed2bb41d424457573d5b30c989a1fd23d32ed1af": {
+  "created_at": "2026-10-15T18:00:58.472037Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "ba984d829535d05bb5b7f8ff9fd67a964662bd15166d54860d171f2072f4ea40",
+  "slug": "cdr-cd17-car-2026-10-28-btts"
+ },
  "0x0b701a510fe36844eb7a9839839b98dead384780e20b9504efcad1ab4b5b79af": {
   "created_at": "2026-07-02T18:53:20.373196Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -926,6 +935,7 @@
   "created_at": "2026-10-25T04:00:37.347159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $162 in November?",
   "revisions": 1,
   "sha256": "6fe3148cf281b45c622b21f6c573b49c208c3daad3287b0ae6aeda18ffcdd246",

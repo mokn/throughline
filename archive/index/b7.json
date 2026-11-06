@@ -771,6 +771,7 @@
   "created_at": "2026-10-25T04:01:29.568462Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will S&P 500 (SPY) hit (LOW) $750 in November?",
   "revisions": 1,
   "sha256": "c12e97d270acbc2685a5229e6f547ee877996549315cd83aa653ce4a5a586390",
@@ -784,6 +785,15 @@
   "revisions": 1,
   "sha256": "c8131bba46e877ec3dfd603b41c4f62142c9cd80cb5cf133138519b0b4000d3a",
   "slug": "will-tereza-nislerova-be-the-next-mayor-of-prague"
+ },
+ "0x988c0046d279de001f9b90529070f1be66e4239e6f75a3d33ed4abc996bca2b7": {
+  "created_at": "2026-10-15T17:00:57.667025Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 2 - 1 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-2-1"
  },
  "0x9997d2727860b21d4c7ddaccf6606c3dd8fba70e9c0ff08b00e929eaa082fdb7": {
   "created_at": "2026-07-02T17:57:31.844112Z",
@@ -1353,6 +1363,15 @@
   "revisions": 1,
   "sha256": "258d0e7fd8e0d9c71abe310f8402f541f4990f334bcdf06aafc1aecb4dc11a81",
   "slug": "will-russia-capture-lyman-by-december-31-2026-774"
+ },
+ "0xf75a0bb2c7cda91abe2fee77c0ab4f9f3346b2e305d1159a9e1da0a49d42e7b7": {
+  "created_at": "2026-10-15T17:02:05.84525Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 2 - 2 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-2-2"
  },
  "0xf947ba2c590917a8250a56409067b422a681c59d4055f7a108c4a4c6702f5ab7": {
   "created_at": "2026-09-04T19:06:36.496906Z",

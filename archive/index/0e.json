@@ -143,6 +143,15 @@
   "sha256": "7c5dc64bb42c3abddfa3e2bc9ca5bd7d3a133fa806ed28ad63b56da554b01409",
   "slug": "will-minotaur-win-best-international-feature-film-at-the-99th-academy-awards-20260805190946422"
  },
+ "0x1b11b3275e597e585045f35c1de715887c47e16f666a8b9fc2a0e53222f4f30e": {
+  "created_at": "2026-10-15T17:00:55.403204Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CE Sabadell FC win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "4b4cd668955c1cf3950c0559e8268cacee27e3ae6a15785ba9669b5169ae3f72",
+  "slug": "cdr-ute-sab-2026-10-28-sab"
+ },
  "0x1baa3959c2dfed5979fb46a7738118c3be6d5742b01729da4c370f90b9f0f00e": {
   "created_at": "2026-08-12T16:52:07.943502Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -377,6 +386,15 @@
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
   "slug": "will-blackpink-headline-coachella-2027"
+ },
+ "0x421572675654b92eaac75fa62eb3ac8f274c12a313caf90d685ddb1a63f78e0e": {
+  "created_at": "2026-10-15T17:02:05.510672Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 2 - 0 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-2-0"
  },
  "0x427c4226b5ca5e27116fbcbd4499df1832dffe77c95d3d7e3c657959027d940e": {
   "created_at": "2026-08-12T00:10:03.813164Z",
@@ -817,6 +835,7 @@
   "created_at": "2025-12-15T19:35:02.024597Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the FL-13 House seat?",
   "revisions": 1,
   "sha256": "82a71eea4edb058a3568400f04ab891e66a28f579178b3ac4b8c666460f9b94a",
@@ -1445,6 +1464,15 @@
   "revisions": 1,
   "sha256": "c54b28626d0f5a8e38ddbaff58b0af4cf520ea0a004b52eb709e5e1dd2e71922",
   "slug": "will-bryan-mbeumo-man-utd-record-the-most-assists-in-the-2026-27-premier-league-season"
+ },
+ "0xe7650159e2148937693770f0e8748d001e631f67284d28d3e318a868e9f8770e": {
+  "created_at": "2026-10-15T17:01:05.263229Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 3 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-3"
  },
  "0xe79df03e4fbb13c9b40f418518bfa419a70faaa17aac64c94989662d283cd20e": {
   "created_at": "2026-08-17T21:24:00.039718Z",

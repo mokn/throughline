@@ -89,6 +89,15 @@
   "sha256": "27abafc7b456613501b64f01ab8bfc13de4feb71933a98b6f2d714223a6a26db",
   "slug": "will-the-next-governing-coalition-of-sweden-include-s-m"
  },
+ "0x1819005db4865ef219ef2fa771f10a086661c0bfe473d597b2c1b1b520f3ee1c": {
+  "created_at": "2026-10-15T18:02:17.678112Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "0e30f4915030d90b5f162c59673f652e03d157a6a697c16fa9a0845055835353",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-home-1pt5"
+ },
  "0x1b729217f6ffbcb1684787ea99c3075384ff419252f67e8e9e4c9ccd4614901c": {
   "created_at": "2026-10-05T23:00:43.739735Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -241,6 +250,15 @@
   "revisions": 1,
   "sha256": "7a34bbe7728de91b348591c34b4a6404d821517c1b83e362ba76fec70cc3a431",
   "slug": "f1-las-vegas-grand-prix-winner-leclerc-2026-11-21"
+ },
+ "0x38c214e5abe02dd3c7f71d21c5002ae4e7f18518eb132f8633829bd8b5092a1c": {
+  "created_at": "2026-10-15T18:01:46.987524Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Tenerife (-4.5)",
+  "revisions": 1,
+  "sha256": "5d95ad8903cc73577ad23b3a6942d57dfbd53ecf2a6557d44636c4c836014d93",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-away-4pt5"
  },
  "0x391e786b90c18c1194c1bc28d1859c2edca836cd7ffec809245d18bd8379cd1c": {
   "created_at": "2026-08-11T18:44:26.203791Z",
@@ -937,6 +955,15 @@
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
   "slug": "ukr1-kry-met-2026-09-12-exact-score-2-2"
+ },
+ "0xb48576d14917f88398e62eecabbec5da07598ab44192f76e20c95c5c9a501d1c": {
+  "created_at": "2026-10-15T17:01:06.254895Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete to score first vs. Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "1c911b994ea78df9c40505e0237f23fa6211c23cab03ddad7571a46b347087c2",
+  "slug": "cdr-por-iru-2026-10-28-first-to-score-home"
  },
  "0xb83b39ae2c55de30b3a3304341aaae989a5ee19d361c9e3c611e28a632cd4d1c": {
   "created_at": "2026-03-09T18:47:50.368134Z",

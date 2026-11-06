@@ -812,6 +812,15 @@
   "sha256": "af85b033d19654eabc54d12ee2898cb1d6a6b7bb5a159c7bd18e038d91f40c02",
   "slug": "will-the-democratic-party-win-the-tx-12-house-seat"
  },
+ "0x91e59c701c30a0fceb4ef50f549871a833f84cf9602aa82e9c3a286a35cc6b15": {
+  "created_at": "2026-10-15T18:02:47.989096Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Utebo FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "01f5e1dc2558c0a346d29275fd788349e2ac8801bf9e646533525574ae843b10",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-home-5pt5"
+ },
  "0x934b7ead130d36d1f0ea67eae0acd79a11f4c5617dcdc88e11817912d5870d15": {
   "created_at": "2026-09-20T08:45:09.020835Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1309,6 +1318,15 @@
   "revisions": 1,
   "sha256": "eafe9b57c5f7d2cacb7fdd02adf7376dd4788f656634ec0fe872d8f81212e948",
   "slug": "will-milady-floor-price-reach-2-eth-before-2027"
+ },
+ "0xecedb248c57abcd0539cc70ffd32cc2274c0767a9f2e67dff6cf9c522b3f2d15": {
+  "created_at": "2026-11-06T00:02:43.961013Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Diana Harshbarger be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-diana-harshbarger-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0xee3e32c755cfbfdabf66b73a457820dd0cd93680529765ffbb8d94211fb15915": {
   "created_at": "2026-10-27T16:58:31.798925Z",

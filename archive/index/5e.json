@@ -489,6 +489,15 @@
   "sha256": "827b9d8d8f032c8a1feda153c245b6df1281a611e07d0be53f6c8038f70299aa",
   "slug": "will-lnz-cherkasy-keep-the-most-clean-sheets-in-ukrainian-premier-league-2026-27"
  },
+ "0x55e5ecbcf5b4786f450ed3bf619005de2b15d855470a2e2422231fca94eedc5e": {
+  "created_at": "2026-10-15T17:00:59.078757Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 5 - 4 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-5-4"
+ },
  "0x55f058100eb7f40da553636f0d5e1215bb06acc4b83223ced6e8b1e1317b8b5e": {
   "created_at": "2026-08-10T15:34:03.607962Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -542,6 +551,15 @@
   "revisions": 1,
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-evgenii-malkin-win-the-2026-27-art-ross-trophy"
+ },
+ "0x639d9aef583f4102722c50a871aebab1c806e9cb7655f2385eb393f52bbe775e": {
+  "created_at": "2026-10-15T17:02:00.487292Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 1 - 1 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-1-1"
  },
  "0x63f97ba7a56901fc1709eed51ced52515ccfb4c129b073f9045c3b32210b0a5e": {
   "created_at": "2026-09-20T08:45:48.200832Z",
@@ -1496,6 +1514,7 @@
   "created_at": "2026-07-10T22:29:12.31573Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Colorado passes ballot measure restricting transgender school sports access?",
   "revisions": 1,
   "sha256": "12f5395ec8c7762114c8c78f558d85b3536cec42b6a0c1abc947286c14ac39c7",

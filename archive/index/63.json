@@ -737,6 +737,7 @@
   "created_at": "2025-10-09T20:11:23.33988Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
   "revisions": 1,
   "sha256": "df96f302b3874499ce31eaefc029b3c3076a0a0ec9235e981360155cee747287",
@@ -1598,6 +1599,15 @@
   "revisions": 1,
   "sha256": "857cd3fe48a13c5b3a3bb7af5e11f7671d0ca8d8dd695d86294c63858c269cfb",
   "slug": "decibel-fdv-above-300m-one-day-after-launch"
+ },
+ "0xe9ef5de869ecc1f7e16db2f6e35fa9f734159f52d9df7c4d66fd04be7dad5963": {
+  "created_at": "2026-10-15T18:01:50.090157Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "f643f4794b39c5975b179ecd45436258eaa040dd48779c1e5680fefc2f06b79f",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-total-4pt5"
  },
  "0xec3f074c816b4005e2f5342b95d2466662de2c7daeb09ce0b4beb4f4dde11f63": {
   "created_at": "2026-08-05T10:54:40.304249Z",

@@ -288,6 +288,15 @@
   "sha256": "47f7c82a7d0f68ee5a13668c56f98c33ff3fe898dc0daf7b3fb0543dbe6a7100",
   "slug": "el2-cra-bar-2026-09-26-corners-total-11pt5"
  },
+ "0x2c256e4ff309328f845ee784103969e1ec185477fa2155103f48cbee0890586a": {
+  "created_at": "2026-10-15T17:00:57.617109Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 1 - 2 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-1-2"
+ },
  "0x2dc6523c50f09ccf1c06651c842a4a6c8d95d13a954b62df9782551e87686f6a": {
   "created_at": "2026-07-29T19:24:10.323685Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -310,6 +319,7 @@
   "created_at": "2026-10-24T04:00:03.380253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Elon Musk post 160-179 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1493,6 +1503,7 @@
   "created_at": "2026-08-26T21:46:28.882024Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Independiente Rivadavia finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -1538,6 +1549,7 @@
   "created_at": "2026-08-12T00:15:46.666479Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will V\u00e9lez Sarsfield win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",

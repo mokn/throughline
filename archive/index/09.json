@@ -461,6 +461,15 @@
   "sha256": "7419df33a1c87cda1765a52a1f5da37f7ada3ed79995df0785b42b5f3ae4fc62",
   "slug": "will-alvin-kamara-finish-as-a-top-12-rb-in-the-2026-27-nfl-season"
  },
+ "0x49a8008e1c61d702d4b5950f70cdb101ca6a98e4ed16385dcd8498dbfa71d109": {
+  "created_at": "2026-10-15T18:02:37.508827Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "886a92d9789d6625acfb00dc8fc44498f92c0467a806de20e5b4b3db3fd6eb0a",
+  "slug": "cdr-por-iru-2026-10-28-btts-first-half"
+ },
  "0x4a4a5e758e489b104b9e015ba38b520b843d6d052dbec48dfcdb17785e64d409": {
   "created_at": "2026-08-12T00:19:03.159549Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -660,6 +669,15 @@
   "sha256": "4a0300f982673f62c12d806e89fc80053d2ac07a54a7241a0aefa9baf0d49172",
   "slug": "will-duro-win-worlds-2026-finals-mvp"
  },
+ "0x7298d9655dcfe8a1a98887435fb0944e0416b1198458d927ea194ffd3959f109": {
+  "created_at": "2026-10-15T18:01:48.821761Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 8.5",
+  "revisions": 1,
+  "sha256": "afb252be114604ec4cd2252ec7a67c3aa299aeeb0432a3196276cf9e830252d3",
+  "slug": "cdr-bad-cdt-2026-10-28-total-8pt5"
+ },
  "0x73ed72905e2775431fe40c2a138a648aa98f6a5ffa4621875b10a4626e4aeb09": {
   "created_at": "2026-10-20T23:04:24.545415Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -732,6 +750,15 @@
   "revisions": 1,
   "sha256": "0bde60e7a4e15fdf64d2931df640b3e43c3ea33fe1d2761ad47da79f5bfc812e",
   "slug": "will-the-grand-theft-auto-vi-ps5-launch-price-be-at-least-60-20260618224014044"
+ },
+ "0x7e2e8945f2a6a413efbf196460933a85c6a1cd39c693cede65ef9b03f5353509": {
+  "created_at": "2026-10-15T18:01:08.549148Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 1.5",
+  "revisions": 1,
+  "sha256": "1f33551a346ca41835c2878e27992980ea0e334e4e5b4bcdd6d872eead07c8ce",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-1pt5"
  },
  "0x7f90ddb27a12326a45027f36b5e89a971704cbc2d3bc0056f2a4b019f6215409": {
   "created_at": "2026-08-28T19:43:52.651368Z",
@@ -1020,6 +1047,15 @@
   "revisions": 1,
   "sha256": "0125a8f68919beeb9a775bc2ea687b83ba92e65a929e6e56b7d664cbd0008e0b",
   "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-away-2pt5"
+ },
+ "0xab9ad9f92b0eb37d36c3de144c344a11cdd4afad04e57930a811bbc1373e7209": {
+  "created_at": "2026-10-15T17:02:03.910507Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Minera vs. FC Cartagena end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-cd17-car-2026-10-28-draw"
  },
  "0xac241059386ee0c9e259908d70a6d0c7c4fe60f2978916bdcdb2aac2b8887609": {
   "created_at": "2026-08-10T20:04:59.514454Z",

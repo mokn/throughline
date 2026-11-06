@@ -44,6 +44,15 @@
   "sha256": "b071fdc771af0aec7e6aedb3cc98b98975a543c49bb27c25de1f6628856432ca",
   "slug": "will-klingai-have-the-best-text-to-video-ai-at-the-end-of-december-2026"
  },
+ "0x0b3b4a1d7529ce1efad8fef907620b7396f9b359927361de308564c4c961564f": {
+  "created_at": "2026-10-15T17:02:07.916751Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera to score first vs. FC Cartagena?",
+  "revisions": 1,
+  "sha256": "f95edd7c6232283c00edc42bf21d809c92b32b07ae1dc721f2c66b48eaca2549",
+  "slug": "cdr-cd17-car-2026-10-28-first-to-score-home"
+ },
  "0x0bbb24d541f4ea0bb3f95c766e6e0b5f4e13645be3960acebb1a639601b38f4f": {
   "created_at": "2026-08-10T23:57:09.09394Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -156,6 +165,7 @@
   "created_at": "2026-10-25T04:00:28.227231Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will NVIDIA (NVDA) hit (LOW) $192 in November?",
   "revisions": 1,
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
@@ -945,6 +955,15 @@
   "revisions": 1,
   "sha256": "0c2aadc6d2b21f24b2682cfa9f21f1a5691423174ffb471309cc4232c83124be",
   "slug": "will-the-democratic-party-candidate-win-the-2026-or-03-house-election-by-65-or-more"
+ },
+ "0x87dd522759293aad6d0cf7a42f5c07c6b1232eb5d38cd73603d50b8e99beeb4f": {
+  "created_at": "2026-10-15T18:01:02.725475Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "d2fd55f4ca1ed5fc49c05aaedd417704ef7ee70f0566c34aaf6f325476e1b31f",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-away-3pt5"
  },
  "0x886dfd9bb6e06690c44972bf23a8fc417a2234d7ecfc3a49f98f923def2d284f": {
   "created_at": "2026-07-02T17:57:32.482998Z",

@@ -125,6 +125,15 @@
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
   "slug": "f1-las-vegas-grand-prix-driver-pole-position-hamilton-2026-11-20"
  },
+ "0x1961ded66550ba4f1722e239e71cf865c8f92725e436fcabc944cb291a3edede": {
+  "created_at": "2026-10-15T17:00:55.036079Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Utebo FC vs. CE Sabadell FC end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-ute-sab-2026-10-28-draw"
+ },
  "0x1a224c56007d03e144ae0fd3af59cd594d20dad56529c683e579a0ba66bc7dde": {
   "created_at": "2026-08-04T19:27:30.046595Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -196,6 +205,15 @@
   "revisions": 1,
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-carlos-soler-record-the-most-assists-in-the-2026-27-uefa-europa-league"
+ },
+ "0x256123c33702ee08c02f103283c502a6f1e51ac7f98f16718f652dbc051444de": {
+  "created_at": "2026-10-15T17:02:05.802431Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 1 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-1-3"
  },
  "0x275f2d768760496158d28670e72a35bb5172345379f4b09ed1bac41885bd75de": {
   "created_at": "2026-09-02T18:48:52.163509Z",
@@ -886,6 +904,15 @@
   "sha256": "521fc6921b2c20c166cc56dd7aebb76c4bba678744a2b230e4309125a8bd4a75",
   "slug": "will-democrats-win-white-women-in-the-midterms"
  },
+ "0x7a445e11fbada420203666119476cf215307be43bf83603888edd0c30591efde": {
+  "created_at": "2026-10-15T17:01:05.451333Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-any-other"
+ },
  "0x7ad33d62d11cd53d7969262c21837750b03c1b36c64979d1f133ec1e27d721de": {
   "created_at": "2026-09-04T19:28:55.333801Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1264,6 +1291,15 @@
   "revisions": 1,
   "sha256": "5f785ad9a26c5d272898bbaf52c4759857752e8b503e5788ab4af39387e2a475",
   "slug": "will-cristiano-ronaldo-announce-his-retirement-in-2026"
+ },
+ "0xae53cf75cfa634717c471325bf11512d62f34dcbd6955cfe46920bb3d7a52dde": {
+  "created_at": "2026-10-15T17:00:58.93808Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 4 - 4 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-4-4"
  },
  "0xb055fc1032e4fb8af34182d84a286f826ed6afcd49982bda6b7e3f9c20aea7de": {
   "created_at": "2026-05-18T20:33:31.274543Z",

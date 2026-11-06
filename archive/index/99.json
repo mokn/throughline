@@ -165,6 +165,7 @@
   "created_at": "2026-01-28T15:39:55.016149Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the TN-07 House seat?",
   "revisions": 1,
   "sha256": "51a170da286dd983857d9756e2edf1e0f03a491a636a3cb7bf20d7d3cb9d76f7",
@@ -349,6 +350,15 @@
   "revisions": 1,
   "sha256": "0ab2c8b4cc2f4a61892f234412911caf01a3dbfab652d7c5f5c3d5a32c3c4698",
   "slug": "will-usd-denominated-stablecoin-market-share-fall-below-99-in-2026"
+ },
+ "0x3a0e7e6bfffbacfcbc958bc4c0125186c23d72088024c161fdbe084470cb9b99": {
+  "created_at": "2026-10-15T18:02:16.811949Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 1.5",
+  "revisions": 1,
+  "sha256": "a7a93ae0f553650f7767d7b4aa0bc79cd7f68f6bbd2744c0651993db5e117548",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-1pt5"
  },
  "0x3c78a7766c726e745ff965df328336cb5e81d6448dfc81bae180f8dc0a63ed99": {
   "created_at": "2026-08-24T16:35:56.619442Z",
@@ -1225,6 +1235,15 @@
   "revisions": 1,
   "sha256": "c34ed101599e292c679d4413b74cae15f67df9ad75dc999d79231ea9bb4d6bd0",
   "slug": "will-joao-pedro-win-the-2026-27-english-premier-league-player-of-the-season-award"
+ },
+ "0xce73403dbb29b9f5b01d0ac338cd2a6a3fdc1eab9ec2a254d201c2b4858ece99": {
+  "created_at": "2026-10-15T17:00:57.579498Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 0 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-0-3"
  },
  "0xd314d6368a21776bd1901f0e9222232f6c6b25f2aadfbecc409c0dd692d42799": {
   "created_at": "2026-10-13T19:55:57.621074Z",

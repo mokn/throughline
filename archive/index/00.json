@@ -293,6 +293,7 @@
   "created_at": "2026-01-28T15:35:55.139858Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NC-09 House seat?",
   "revisions": 1,
   "sha256": "51bf73a2a7349ab1128bf0b318076e695207d2e4a9432ed815750c79d11901f9",
@@ -320,6 +321,7 @@
   "created_at": "2026-08-06T19:14:55.027483Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Bank of Mexico decreases interest rates by 50+ bps after November 2026 meeting?",
   "revisions": 1,
   "sha256": "2cb44d0a3570e471b79923a918e732437a164bf32b7a6582eeaf55d8c0313fb8",
@@ -523,6 +525,24 @@
   "sha256": "a18f3f53cd0e121f229b674759b7c22dc4b37586eacf6621a7314f0cb4721767",
   "slug": "will-bytedance-have-the-best-chinese-ai-model-at-the-end-of-december-2026"
  },
+ "0x5a587da4cf613fabf5c2981a7a9bcef61c8465e3dc725039fefcf381fea76900": {
+  "created_at": "2026-10-15T17:00:58.526519Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 3 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-3-3"
+ },
+ "0x5bcdee1efd3b3f6f36388c8f019bfa48aa150067dde055c6d3422a36ae029800": {
+  "created_at": "2026-10-15T18:02:45.334305Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: O/U 5.5",
+  "revisions": 1,
+  "sha256": "eef1f4711b1afaa960483f89d45a6b570d6d6353c965fdfe4eda16dece3f41b5",
+  "slug": "cdr-ute-sab-2026-10-28-total-5pt5"
+ },
  "0x5d68e46e33dec2d84547a015432b3de8134bed2a8cbe06090a8c71eeae21d100": {
   "created_at": "2026-09-02T21:53:17.859819Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -703,6 +723,15 @@
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-washington-commanders-have-more-than-6pt5-wins-during-the-2026-nfl-season"
  },
+ "0x7e77ac970132b328aad18e7d15546174c5c398696ec16577a7e2d0b151ea5500": {
+  "created_at": "2026-10-15T17:01:01.678819Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Club Portugalete vs. Real Uni\u00f3n Club end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-por-iru-2026-10-28-draw"
+ },
  "0x7e86eac2622335deae0bdcaf1d782755b44875defe3f4b689296eec00fde2900": {
   "created_at": "2026-08-10T23:38:48.602266Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -860,6 +889,7 @@
   "created_at": "2026-08-11T14:12:16.994552Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 3 House seats in Arizona in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "3ce8c2e54f72a254d99fb8fa2091a807b8dd844ee8faca6bed3d7b2f22f86912",
@@ -1135,6 +1165,15 @@
   "sha256": "f69ba0bd61cb065dd3b5e9111fe49c6ddbfc18f7601596a3865f14f2f28a8632",
   "slug": "will-ron-desantis-be-the-first-listed-republican-to-announce-a-run-for-president-in-2028-20260721150657427"
  },
+ "0xc91610c9061bc13f8a1d304ac423a48f3d1d9f957bfe2385d0e54d3c5c009b00": {
+  "created_at": "2026-10-15T17:01:03.993442Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 3 - 0 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-3-0"
+ },
  "0xcc13880d6be7c83d3251d02d04a0e19ed16b56cb3861efe52e20223a0b016e00": {
   "created_at": "2026-03-16T20:08:19.790013Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1152,6 +1191,15 @@
   "revisions": 1,
   "sha256": "ee2847aaee838e3284bf8edfcddbe378a5b7f916baab8cdf5f0e04191a0b4764",
   "slug": "el2-col-pvl-2026-10-03-spread-away-3pt5"
+ },
+ "0xce921d4e273f68af85de17218566391b98ffa3e2f424130e928faf083be95a00": {
+  "created_at": "2026-10-15T17:01:36.774567Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 1 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-1-2"
  },
  "0xcf7659c55e5544575f14ffb52179fd5ae48a2f33724bdf1293289453f252c100": {
   "created_at": "2026-09-08T16:53:56.498284Z",

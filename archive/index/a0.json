@@ -352,6 +352,15 @@
   "sha256": "145619c7c35c6ef78043a2c197f71e502c69548429e3ba9ab85c8a1cc3955343",
   "slug": "el2-wal-cra-2026-10-03-halftime-result-draw"
  },
+ "0x24eaf5243f5d99bb094849769065d90bfd931d67009be81456b744d20fa874a0": {
+  "created_at": "2026-10-15T18:01:48.321909Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 5.5",
+  "revisions": 1,
+  "sha256": "f532c27aa040fce3067d173e4d5516d735ba572cb871f7a75e846d4e04fd1b5e",
+  "slug": "cdr-bad-cdt-2026-10-28-total-5pt5"
+ },
  "0x250889060b06206331c8590a97ae88b37709d92fc2885cb2f01ea19e4fd415a0": {
   "created_at": "2026-09-02T21:51:34.021284Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -803,6 +812,15 @@
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
   "slug": "f1-las-vegas-grand-prix-driver-pole-position-ocon-2026-11-20"
  },
+ "0x789d94a4373305836ed47a2e312926a4a07c8562416eeed7f4af23ce52d0b8a0": {
+  "created_at": "2026-10-15T17:01:04.773415Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 3 - 3 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-3-3"
+ },
  "0x7a4ddd066c01025c1f97739238a872546c73ac4a32f75f8045f526a8eb27d1a0": {
   "created_at": "2026-01-12T17:31:28.94748Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -956,6 +974,15 @@
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
   "slug": "will-felix-orlando-gamarra-reyes-win-the-next-chiclayo-mayoral-elections-20260811165718006"
+ },
+ "0x9713d33c77797a51e849f3734cee080e3b051227b60cae9fefc88e246a3bb0a0": {
+  "created_at": "2026-10-15T17:02:01.524098Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 3 - 4 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-3-4"
  },
  "0x975e97d500a9d547790d21069f65a6235386729d1ca5e71935386c11795f3da0": {
   "created_at": "2026-10-13T15:51:23.562421Z",
@@ -1265,6 +1292,15 @@
   "sha256": "09abf1953f61d59c46575d7d15eada17da4f9e181b8e61ea309ecec79dd08a8d",
   "slug": "will-the-republican-party-win-the-mt-02-house-seat"
  },
+ "0xce4679706e8d5f1ee7c1c9a204c6ca5f6fcefff0b28a10a6499373040e8617a0": {
+  "created_at": "2026-10-15T18:01:09.259331Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "e20fd8f953fef5451a36882dedc1bf1fbf7dd82293db95e724c4e165a6a63e06",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-home-0pt5"
+ },
  "0xd0af199df783c0a46c4f66df09e77c24add986d02a477ae66724fe8800a315a0": {
   "created_at": "2026-08-10T15:05:36.69275Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1417,6 +1453,15 @@
   "revisions": 1,
   "sha256": "c4248034b599587338c202a04c30e9f368a17db12fb154ff853036bd36440a74",
   "slug": "will-angers-finish-3rd-in-ligue-1-2026-27"
+ },
+ "0xe53868b94f61e68303f70182d3ebeb21d2e59a3dd973b33cef2c0d5e218659a0": {
+  "created_at": "2026-10-15T17:01:36.6419Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 2 - 0 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-2-0"
  },
  "0xe9c4206d0326dd0ce452c07c2d630b04801e83496c5e6a3b08c810fcaffb4aa0": {
   "created_at": "2026-09-13T08:15:33.763277Z",

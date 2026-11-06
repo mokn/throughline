@@ -188,6 +188,15 @@
   "sha256": "c1b412df9b63fe1f520fd407d9470afc0a66b998be68c17a4d00de06a5b4ddd5",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-governor-of-california-be-between-14000000-and-14500000"
  },
+ "0x1890d4b8fc018d8524a8100a8cee24891a86ab52f13797f327db4185cc2a296d": {
+  "created_at": "2026-10-15T18:02:36.56333Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 4.5",
+  "revisions": 1,
+  "sha256": "e33c38da4c98704ae72a911a25cd509555f4f1aed0107275501cde0bea947fbb",
+  "slug": "cdr-por-iru-2026-10-28-total-4pt5"
+ },
  "0x190d09ae5b4a566633e465f6c6f8aa00ac3e1cd78d9d81f9dc71b4e79d6def6d": {
   "created_at": "2026-08-04T18:04:02.329705Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -817,6 +826,15 @@
   "revisions": 1,
   "sha256": "9ec915480b7578c699c6f7cbab9925fa50efa3c3fc95dea75b8c978045b263a0",
   "slug": "will-mozambique-win-afcon-2027-qualifying-group-j"
+ },
+ "0x75555be10664851d8cd9dc49f9056c0aa310de71fbcf5080309e5775b8b1c06d": {
+  "created_at": "2026-10-15T17:01:58.913852Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Barakaldo CF win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "fbfe8ba9a4e2dfa6dfe1369aca4cea8764dbf19941c4aeff8de3efd55e80b8da",
+  "slug": "cdr-red-bar-2026-10-28-bar"
  },
  "0x757f50a6fb17eaa273eb635177ad370457fab1988ecdce4cb3e4ca8b753d886d": {
   "created_at": "2026-04-02T15:16:37.522882Z",

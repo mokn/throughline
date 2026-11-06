@@ -460,6 +460,15 @@
   "sha256": "cb3f717a955bda3998fd088ad2e16e1b2d1ec3cc63012e40f0f5b5c02dc9be9f",
   "slug": "dicks-sporting-goods-q3-dicks-business-comparable-sales-growth-1-to-2"
  },
+ "0x4acba9f823549211e51112c0da66707c0567cab38bb198fd7bd6c2e2341e0a22": {
+  "created_at": "2026-10-15T18:02:49.409109Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Utebo FC 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "11893e01af4c77dee08d775884837b4d991e9ec2be021d19d75534268eb18867",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-team-total-home-2pt5"
+ },
  "0x4d81bcb3482598d1418ea473dfcc15078bdd3726ac429ea512279127e96a8522": {
   "created_at": "2026-10-14T20:18:58.569993Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -856,6 +865,15 @@
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
   "slug": "marvin-harrison-jr-first-to-1000-receiving-yards-2026-27"
+ },
+ "0x806d3bde4f161fb054ac4bb65e742786c3bc97ed890387090b92aef70c653722": {
+  "created_at": "2026-10-15T17:02:08.027826Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "f95edd7c6232283c00edc42bf21d809c92b32b07ae1dc721f2c66b48eaca2549",
+  "slug": "cdr-cd17-car-2026-10-28-first-to-score-neither"
  },
  "0x8387151d639094f78fae5f6603835dd8f85bd6a9de25115be2559c78212d1922": {
   "created_at": "2026-09-18T00:02:12.643673Z",

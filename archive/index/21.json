@@ -458,6 +458,15 @@
   "sha256": "a41974b98643ffa2a2563e78e524013e2d05041ebccb67df96c3ff2556f193ff",
   "slug": "garrett-wilson-75pt5-receptions-2026-27"
  },
+ "0x5b42248c21c27e6dc9bec53bfe973b9708b417e915248b33d2aae14143800221": {
+  "created_at": "2026-10-15T18:01:09.904677Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "209ae409861b9996ccb7818ebe1e7dd87a1f4b5b7a606880af4c85abf2611eaf",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-away-0pt5"
+ },
  "0x5dab6bb971b925b4750b1fe175b6ae362a7274ed8b7d96a48fbc94907badad21": {
   "created_at": "2026-09-27T20:04:33.82912Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -480,6 +489,7 @@
   "created_at": "2026-07-14T02:36:16.555576Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Atlante win the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "b21eb88fedd03240a0fbc442c4ddc943466f764be59ef1d2d7628b62bf1d0790",
@@ -739,6 +749,15 @@
   "sha256": "8bc4c2b2f61dff9ddb1e9bfce7cadbd93b89dc1a6a156dc38d5755ec80dc8838",
   "slug": "betmoar-fdv-above-50m-one-day-after-launch"
  },
+ "0x824055e3441fb139cd217006170399f4c6736ed1896dfa99fe1b95340ce38721": {
+  "created_at": "2026-10-15T17:01:20.611754Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 0 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-0-2"
+ },
  "0x8518125cffd9e54d3442f7c89c83c43bb8f9694281a502cc6f4132f2af2e6121": {
   "created_at": "2026-10-13T15:50:36.430033Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -819,6 +838,15 @@
   "revisions": 1,
   "sha256": "35f9b07997ce1e8d69a7211b849f2a94bb3d741d5c964c5a2ab70d0400e3a85b",
   "slug": "will-darryn-peterson-be-named-to-the-2027-nba-all-rookie-first-team"
+ },
+ "0x8e664a43513f78aa3d7f9e238d07f1a20aeb9d623b79048105ce3e772b450221": {
+  "created_at": "2026-10-15T18:02:35.934212Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 0.5",
+  "revisions": 1,
+  "sha256": "5bd28579ce10d36a67ddb067119080041bdadc3fd47275bc277dab30fcf3cb18",
+  "slug": "cdr-por-iru-2026-10-28-total-0pt5"
  },
  "0x92032a6321155756784fb881b89de2a435fca070d8013093bcecfe9a26f51c21": {
   "created_at": "2026-10-13T15:55:37.291268Z",

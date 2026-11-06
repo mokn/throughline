@@ -162,6 +162,15 @@
   "sha256": "cd2a34b1828e0bbe294ed69d21a4e0437f610a41a05a8b219fcb71de6c3250e0",
   "slug": "will-trump-speak-to-pope-leo-xiv-by-october-31"
  },
+ "0x185fe9893dbd80d5d8b857e46382adb8cff47cfd804e6e36dc9e68d39e4ddeca": {
+  "created_at": "2026-10-15T18:02:36.262797Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 2.5",
+  "revisions": 1,
+  "sha256": "808a0f15aec243e1822949b45272752ee288e6efaa8e4378296aff3a2b4f4875",
+  "slug": "cdr-por-iru-2026-10-28-total-2pt5"
+ },
  "0x18a93c3502e11057d65c3903611ecd012cf885a40a59991c99ce6afec443a9ca": {
   "created_at": "2026-09-02T18:48:53.301568Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -179,6 +188,15 @@
   "revisions": 1,
   "sha256": "a89e1f4216f5cd9b73e6c221a96e74ed2c1ec74d23c1fac7726c22d35e8314f4",
   "slug": "enl-scu-fgr-2026-10-03-halftime-result-away"
+ },
+ "0x1a2d12107217456f21e62945bc35917fa467058e70672f8abceab909ee25e5ca": {
+  "created_at": "2026-10-15T18:02:41.100801Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "1aaeb537c8a882824a72b7ec2d65bf4c4691e686578d1a2021ca9874cc136b6b",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-away-0pt5"
  },
  "0x1b580b6738188eb8f12959f391db6a6cd3714a6b027c250233eb8e59405559ca": {
   "created_at": "2026-09-08T16:08:46.806343Z",

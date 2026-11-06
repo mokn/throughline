@@ -354,6 +354,7 @@
   "created_at": "2026-01-28T15:41:24.990287Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the UT-04 House seat?",
   "revisions": 1,
   "sha256": "1e353d4b6408b69b4c4e2cb27efe260c3c2e44faeb3ae1a9fdbe44cf4980913d",
@@ -466,6 +467,15 @@
   "revisions": 1,
   "sha256": "432de7865301f11edb7b772159f8ec5f9d4ec7691353e8fdda88d897016d13b1",
   "slug": "will-tsg-hoffenheim-be-relegated-from-bundesliga-2026-27"
+ },
+ "0x4962c6a1129757cff82c2b0801d76bb44f15ccf405a22568372657bf9b6775bd": {
+  "created_at": "2026-10-15T17:02:06.513641Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 2 - 5 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-2-5"
  },
  "0x4cf835e90255aec266d9bd95518ac87f7b53cfc43b7ac6d9dba0913b1e7dcdbd": {
   "created_at": "2026-10-13T15:51:01.080547Z",

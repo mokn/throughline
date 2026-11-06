@@ -162,6 +162,15 @@
   "sha256": "fa7860a19c7590b49f634a4d18e90c2cb02cd2bb05872d8d8747defb57efe231",
   "slug": "will-the-republican-party-candidate-win-the-2026-co-03-house-election-by-3-6"
  },
+ "0x27f7356fa35a3bf1ef8c9b0d02b5d795dea27bdd74144a08d75400afe9b64116": {
+  "created_at": "2026-10-15T17:01:21.677475Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 4 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-4-3"
+ },
  "0x293fb1c36ea0f8f34e60205c9d0d8923c9eae6ef65459f18f83c028a09c88f16": {
   "created_at": "2026-08-24T16:35:47.692332Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -378,6 +387,15 @@
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
   "slug": "will-jack-elliott-win-2026-mls-defender-of-the-year"
  },
+ "0x627d62bd06311aa754fbcca180355d57648982fd8ea208735026518b3dba4616": {
+  "created_at": "2026-10-15T18:01:51.728319Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 3.5",
+  "revisions": 1,
+  "sha256": "cb5915c62aadd3c229eb86419b445f7fa9506359bee781b0bb4f02c80427bede",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-3pt5"
+ },
  "0x631e6ea11502174f72cbe57b6fde430120edbe4fbd88cee6f32d07e15bcfb916": {
   "created_at": "2026-08-18T14:22:33.284431Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -413,6 +431,15 @@
   "revisions": 1,
   "sha256": "59097d6070ae27d464dfd9b59206721f26133aee7c7b249fef9de506af5787a6",
   "slug": "will-lamine-yamal-barcelona-record-the-most-assists-in-the-2026-27-la-liga-season"
+ },
+ "0x65bd37980714f5c30cabde90148dc3517754900e2380221abaf512629a689f16": {
+  "created_at": "2026-10-15T18:02:40.051997Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 4.5",
+  "revisions": 1,
+  "sha256": "42662c33746cf292b94d945c73900bc81830605517e85a3df3330a25bfe1da64",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-4pt5"
  },
  "0x684c63557f46fa18da30d43362d04630ed183b9d8c68c68b71727f72bd7f3616": {
   "created_at": "2025-12-29T19:08:36.860246Z",
@@ -721,6 +748,15 @@
   "revisions": 1,
   "sha256": "a541cfe3a59cb25f8581339214745d225b5340a9d7f10db672cfb90513f0ba56",
   "slug": "mex-que-mon1-2026-09-05-exact-score-3-2"
+ },
+ "0x9934f900deca4b8d00090752120391ad351e5c9faac907a28858b37dd00bd516": {
+  "created_at": "2026-10-15T18:02:49.947003Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "0d4f05f57927e2c01f36a4213d2c83ae46e27fa3671413e9271fd3d3577a235b",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-team-total-away-1pt5"
  },
  "0x9a22f275ad5ebdac774ea6ad6f9e52fcb252187980a0be2becdb24c338b9a716": {
   "created_at": "2026-04-01T17:55:22.279187Z",
@@ -1056,6 +1092,15 @@
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-new-york-giants-have-more-than-8pt5-wins-during-the-2026-nfl-season"
  },
+ "0xc23318292d1d276c8fbdab9c03815864b013a73ff9ece7863db7b6beedd2af16": {
+  "created_at": "2026-10-15T17:02:01.398396Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 4 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-4-2"
+ },
  "0xc2a7588ef39cf75fa19d0892436081f010c69967c82a5ec544352e8bb2052a16": {
   "created_at": "2026-10-13T15:55:43.248251Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1307,6 +1352,15 @@
   "revisions": 1,
   "sha256": "ee3d0e483d3fef0db5b804f7b837d3a6b02ff0f7a5e4b03afe2a2f53cad5a5bc",
   "slug": "will-wen-shih-cheng-win-the-next-nantou-county-magistrate-election-20260813135716702"
+ },
+ "0xed67d536a855b301ddd40dd943f93e0de49753894e22b46c536bdf3609f6da16": {
+  "created_at": "2026-10-15T18:01:52.61583Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "f84b6694b1806340e52ba47749473bf556977b1201f505b82bb75f069e8e6796",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-home-1pt5"
  },
  "0xee14a95547381cf97d33feccbcb862f65cbd628efb666336f3deb75d6619d316": {
   "created_at": "2026-09-18T00:10:56.059055Z",

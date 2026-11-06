@@ -85,6 +85,7 @@
   "created_at": "2026-08-11T14:06:05.285374Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 10 House seats in New Jersey in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e036a188ca854c56a73e17db7803426cb520ec55aa15fe6a3611482e3fe414f8",
@@ -170,6 +171,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-dylan-strome-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0x1afa16a5293be22782953e9dda565953370a9a2400fc0fd5d768070e44bd1f20": {
+  "created_at": "2026-10-15T18:02:34.460165Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Real Uni\u00f3n Club (-1.5)",
+  "revisions": 1,
+  "sha256": "e36de31bd5ab9dacc43904cd8995108c5d56a47e06c244a04956a27efaecd06a",
+  "slug": "cdr-por-iru-2026-10-28-spread-away-1pt5"
  },
  "0x1f2b9426925cb434b229c18f5eef8988e94ecfee5d2764fdbd5d2b9a3985d120": {
   "created_at": "2026-10-21T23:54:13.62213Z",
@@ -432,6 +442,15 @@
   "revisions": 1,
   "sha256": "a114852b5d7bfaa0f2ad7791d194b679684565f7ced3d54f7eff2d897a82b065",
   "slug": "will-mike-pence-win-the-2028-republican-presidential-nomination"
+ },
+ "0x44024151acd7ad99e2212815887c853cedc3aa653a64e27ac5fae337357d7c20": {
+  "created_at": "2026-10-15T18:02:43.221941Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Utebo FC (-3.5)",
+  "revisions": 1,
+  "sha256": "dc7300c2da657cd92c6ce9237801a3135a186e2f5c0fd6164f6eb26df017bea3",
+  "slug": "cdr-ute-sab-2026-10-28-spread-home-3pt5"
  },
  "0x444ca37f4270269dc5c50eb59479a8286dbdc038653e451e2fce5c725c3a6d20": {
   "created_at": "2026-08-10T23:57:25.144248Z",
@@ -955,6 +974,15 @@
   "revisions": 1,
   "sha256": "389c43fb3b60ef28f857b6f9faeb9ff0e04584aaf468fa8c8b601aff30439fea",
   "slug": "el1-not-bla-2026-09-26-not"
+ },
+ "0x972ab67f8991c17e447b88d5dbb3d7b7a4b77754da81a60fa21c9051abd1b520": {
+  "created_at": "2026-10-15T17:01:39.54577Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Tenerife to score first vs. CD Badajoz?",
+  "revisions": 1,
+  "sha256": "030b440c4a86a160cbcd15209d1bf23120ab8fb1d060fa9e4b32109f2fddd035",
+  "slug": "cdr-bad-cdt-2026-10-28-first-to-score-away"
  },
  "0x97930f6cd7b1616291e074af8f4625b7c85bcbddccd2110a8db4957a5d9ef920": {
   "created_at": "2026-01-28T15:39:30.487356Z",

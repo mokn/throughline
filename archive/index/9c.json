@@ -386,6 +386,15 @@
   "sha256": "bf3587875b4f56f3d68de39ffadd6ffb6e9efa6ca3d9ea1d85e6bdc3d3ddc225",
   "slug": "will-humberto-ambriz-delgadillo-win-the-2027-aguascalientes-governor-election-20260803173849660"
  },
+ "0x4de1bbef2b5a143a455ee92fe666b30899349e3503d9136d703f7b27999ae89c": {
+  "created_at": "2026-10-15T18:00:56.88522Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Minera (-5.5)",
+  "revisions": 1,
+  "sha256": "501bc7beef58c84d601556ae72e15742c5f9cc549ced8184d7fb0832bccc7dc3",
+  "slug": "cdr-cd17-car-2026-10-28-spread-home-5pt5"
+ },
  "0x4ee83d27eb608be30eec6f8e8e6475d8d212f7e125deb114d1a665c5b430f39c": {
   "created_at": "2026-08-12T17:22:47.48715Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -751,10 +760,20 @@
   "created_at": "2025-12-15T22:05:26.017233Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NY-17 House seat?",
   "revisions": 1,
   "sha256": "4f42c5488ef98a5cd28fc81bd6b9b661dd099f096582823f679b69f60e8f815d",
   "slug": "will-the-democratic-party-win-the-ny-17-house-seat"
+ },
+ "0x9869e33548067fe4fdc065bd373aeade828b15c8aab6dae5fbc799d38b1b2d9c": {
+  "created_at": "2026-10-15T17:01:37.117306Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 3 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-3-1"
  },
  "0x99ee34760c5a9bcbc6c1593e52b130b5c77bd054360bd71f9f279fe99499249c": {
   "created_at": "2026-09-13T08:44:22.97463Z",
@@ -1256,6 +1275,7 @@
   "created_at": "2026-10-25T04:01:34.249239Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will South Korea ETF (EWY) hit (LOW) $148 in November?",
   "revisions": 1,
   "sha256": "aa033054bc4e6eee478381e2d05184e386602f7815f06580f02dfc1cac649bb5",

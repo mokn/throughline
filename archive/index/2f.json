@@ -239,6 +239,7 @@
   "created_at": "2026-08-10T20:08:57.354836Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Kaisa Maria Karro be the next Regional Board Chair of Region \u00d6sterg\u00f6tland?",
   "revisions": 1,
   "sha256": "1d51b59e70c38fb0d8f6e3d6dac2b5119d465d2203d5a34d41a2637edee7e2b4",
@@ -475,6 +476,7 @@
   "created_at": "2026-09-17T17:18:21.062561Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Washington voters repeal millionaires tax?",
   "revisions": 1,
   "sha256": "cfa65757a00a8f30d354663149a83eb13b3ca6e7c5662b434b74cef4813dc26d",
@@ -683,6 +685,7 @@
   "created_at": "2026-09-04T17:46:06.396054Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party candidate win the 2026 Iowa Attorney General election?",
   "revisions": 1,
   "sha256": "40e43f2d3d6f8092cacc89c4151bc6247d8d5e36e0618f999c77bdcaa433a667",
@@ -818,6 +821,7 @@
   "created_at": "2026-06-25T17:26:23.867405Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Republicans hold \u226446 Senate seats and \u2264192 House seats after the 2026 midterms?",
   "revisions": 1,
   "sha256": "9480e21279c0196d200be0aeadd88be172cdf9b921e916d28dceeca73a1da55a",
@@ -1029,6 +1033,15 @@
   "revisions": 1,
   "sha256": "2975509164189e67a2375a523413cfbf6c255f0d7db2449213f00fe9fb956fb3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-oh-11-house-election-by-45-50"
+ },
+ "0xbc4657f08e3f3e7aab51cf4042d1dad3d82c76f764159b37730f4751039e1b2f": {
+  "created_at": "2026-10-15T17:00:58.266583Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 3 - 2 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-3-2"
  },
  "0xbe9299854407f2ecba4b168bb149b3eebf5ebacd108f03b1085114554f7f9b2f": {
   "created_at": "2026-08-10T23:57:20.430707Z",

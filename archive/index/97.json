@@ -642,6 +642,15 @@
   "sha256": "b4b221e99a5852b252d7b0b668599bcd7d6def4b35218525b46e5b7ee696c037",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-04-house-election-by-55-60"
  },
+ "0x7ba147bbe3af7ff36d0754dffdc7c88eea6ebac46059ee7e70c679bccaf18497": {
+  "created_at": "2026-10-15T18:00:56.052161Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Minera (-2.5)",
+  "revisions": 1,
+  "sha256": "263baa07890c4c349ba2374b00c93fd730e2df4463085c84fcd35e59af355e59",
+  "slug": "cdr-cd17-car-2026-10-28-spread-home-2pt5"
+ },
  "0x7c2bf75e8a25f6f5ef577eeb89c898dc689edfd56e26f1db4fa62a871dd1b797": {
   "created_at": "2026-07-15T00:36:17.186775Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -650,6 +659,15 @@
   "revisions": 1,
   "sha256": "23884be7027f1e2c79797e8e3eaf56483e0994d9b19db26c0bcaa9ff25d17a85",
   "slug": "will-chappell-roan-be-the-top-artist-in-the-us-for-2026-20260714171850375"
+ },
+ "0x7fb0dd444767b545d2d36b31540b242bdc994974864a744ca1f33d12498c1597": {
+  "created_at": "2026-10-15T17:01:19.100975Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will RCD Mallorca win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "9425a5873a41b532fd3c0bea12519fc7b6a2860aa1a8eac9f725582c30c96d18",
+  "slug": "cdr-ca-mal1-2026-10-28-mal1"
  },
  "0x809ee6925f52191d93cf13f3221f36cd72d7f71c121b7a07ca854a8fd4e6db97": {
   "created_at": "2025-10-13T19:02:24.100222Z",

@@ -541,6 +541,15 @@
   "sha256": "160c5fec246ddab82d4a2c8b2481078a3bbfa49991417422a4b2333ec2cb11be",
   "slug": "tyler-warren-1124pt5-receiving-yards-2026-27"
  },
+ "0x56249d6e651f7ddd4ddd547542d39731479f0120f8d73e07482b34576bedb5ad": {
+  "created_at": "2026-10-15T17:02:01.076779Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 2 - 3 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-2-3"
+ },
  "0x5812de342a16f8fc0743ec338094fb39a5cffb819dd8116205da2e63f0866aad": {
   "created_at": "2026-09-02T21:57:53.363823Z",
   "first_seen": "2026-11-04T01:55:27Z",

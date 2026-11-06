@@ -233,6 +233,15 @@
   "sha256": "3cc78fed5df779257df2bf7250b99637ee492e0018b202af7b400c8d8d202ac9",
   "slug": "bryce-young-20pt5-passing-touchdowns-2026-27"
  },
+ "0x2d269c6426a4022e9153c167b090b186b5422ebfbc14ccddd325b3f3ed54cd51": {
+  "created_at": "2026-10-15T17:01:05.113819Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 4 - 3 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-4-3"
+ },
  "0x2e3cf9e047e47cfab386d2814fdab8ff6724ec521c61dff4f8c0478244d61751": {
   "created_at": "2026-08-07T16:01:34.814873Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -583,6 +592,15 @@
   "revisions": 1,
   "sha256": "4e31fa51aa94fbd32b66feffa8c5ebfe0adfdb784c3c41c085f3c036bd910e96",
   "slug": "will-peso-pluma-have-a-1-song-on-the-billboard-hot-100-in-2026"
+ },
+ "0x6c81dcf36629d575e27d8d7cf147c085ae40d2a90fc250fd5341687a9198c651": {
+  "created_at": "2026-10-15T17:01:21.045882Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 3 - 1 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-3-1"
  },
  "0x6d38cdfb8377f63eb09c53af51f41e8e64caedb23a78844b56687b65892e5b51": {
   "created_at": "2026-08-12T16:52:05.063518Z",
@@ -1307,6 +1325,15 @@
   "revisions": 1,
   "sha256": "9fcf1ad099a9fb56df0dd5350bbca8d0a989f760c9eab666200369eecd0e45c3",
   "slug": "will-nec-be-relegated-from-eredivisie-2026-27"
+ },
+ "0xf9c74c2863d81807565701752f0ca34c6f75fd08073e6f7d418796b040d43a51": {
+  "created_at": "2026-10-15T18:01:02.101381Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "fd020f9604225fd91c274b2eb55b7247a388f8843c5351462409eae927883e96",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-home-3pt5"
  },
  "0xfd256e95f80a3e2003a053301431347ca2f5f61a4ff12a4109cefaee7f112f51": {
   "created_at": "2026-10-30T22:00:29.740157Z",

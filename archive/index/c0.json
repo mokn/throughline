@@ -355,6 +355,7 @@
   "created_at": "2026-01-28T04:52:48.913736Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the AR-02 House seat?",
   "revisions": 1,
   "sha256": "ea5d2bce5c807ba4b87cd9878e56596f1989044a19f15291ee7e5acc7d920ac8",
@@ -834,6 +835,7 @@
   "created_at": "2026-08-13T16:44:54.392629Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will S&P 500 (SPX) hit $7,400 (LOW) in December?",
   "revisions": 1,
   "sha256": "dbce2d6a1669874415416f6e077fb5eb29ca0b448d07cb7368af1f494f118aba",
@@ -847,6 +849,15 @@
   "revisions": 1,
   "sha256": "52065ce93e1d20912bd2acd93b9c7b6776a6281363be221b3e0f40d7feb76956",
   "slug": "will-ik-sirius-be-relegated-from-allsvenskan-sweden-2026"
+ },
+ "0x70bb2a6d32f5104a205ed1662ce9f875d050907a01c0ab9e505357ff3cf38ac0": {
+  "created_at": "2026-10-15T18:00:57.747778Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 4.5",
+  "revisions": 1,
+  "sha256": "5edbd2d9d7cea324b8264b459606d3c592a2915c4fa70c8f1f6b095c833be0ce",
+  "slug": "cdr-cd17-car-2026-10-28-total-4pt5"
  },
  "0x719b10992e2bbeb7a5e7d9a96f5fcf5f598ff983360324018c341a66b295dec0": {
   "created_at": "2026-02-02T20:05:02.753752Z",
@@ -1208,6 +1219,15 @@
   "revisions": 1,
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-franz-wagner"
+ },
+ "0xaee9910298dbc523cb3192ba4048c4a2b44891f194274c374b89996b7a967ac0": {
+  "created_at": "2026-10-15T17:00:58.032761Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 4 - 0 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-4-0"
  },
  "0xb15bffee9ddca43ebe698e810d8350be379e4b42e4da9f6b6b5dc74ba1d360c0": {
   "created_at": "2026-08-11T18:16:53.97695Z",

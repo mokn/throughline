@@ -751,6 +751,15 @@
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
   "slug": "2026-soccer-liga-profesional-argentina-winner-belgrano"
  },
+ "0x7617a7fbc6db141e5bacc3cecf1437fc735bbd4470e57a7d5bb37df809093867": {
+  "created_at": "2026-10-15T18:02:17.386506Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 5.5",
+  "revisions": 1,
+  "sha256": "6f62a788c4420161568bf00033dbd3dcbe907d08e0dbceae561dc068d146a796",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-5pt5"
+ },
  "0x767afa2f80cd22c26771d99165abd6224bc1ab9af3804918267a8f4ff70b1267": {
   "created_at": "2026-08-17T21:13:41.321326Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -864,6 +873,7 @@
   "created_at": "2026-10-15T16:33:25.804358Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Akali be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",

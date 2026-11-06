@@ -125,6 +125,15 @@
   "sha256": "d36f33c49aa50e6c9cf00572e433395b536978a406735dfbe895be8bc5d7a681",
   "slug": "will-trump-pardon-nicolas-maduro-before-2027"
  },
+ "0x1d1bd5317f35b5c4d3949fde9c8135812d2a946cac0b742afd8042dd26d2201a": {
+  "created_at": "2026-10-15T17:01:04.566436Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 4 - 1 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-4-1"
+ },
  "0x1d9f53dd54372e2de7cb32e5895c0f44b713a5645602d9ffe13eef6b2583701a": {
   "created_at": "2026-04-23T13:42:22.136527Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -418,6 +427,7 @@
   "created_at": "2026-01-28T15:36:54.00638Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NY-01 House seat?",
   "revisions": 1,
   "sha256": "f4aae1b937bcbecdc7d804788503fe263297d6502241e9268fbd6b121bd3e3d4",

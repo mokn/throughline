@@ -452,6 +452,15 @@
   "sha256": "0ff9af4efe312d2172174e2fed189f4506929254df947341a1aeebc150e77ba5",
   "slug": "will-ryan-wingo-be-the-2026-sec-receiving-tds-leader"
  },
+ "0x46a4904249c196476b2ac9877e7a335d00f6c2cd0d5a39a0788a0464dc17c56e": {
+  "created_at": "2026-10-15T18:02:13.821628Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 5.5",
+  "revisions": 1,
+  "sha256": "4dc8fea8adfb937277f0d86271ba3927f3debd9636ecca876928ac918f2a8e60",
+  "slug": "cdr-ca-mal1-2026-10-28-total-5pt5"
+ },
  "0x4839a141cfa632d37c2e1f23ddab424181a1b801454758aae508f9d01633206e": {
   "created_at": "2026-08-26T21:46:02.728738Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -768,6 +777,15 @@
   "sha256": "1c169a8b66da879da6837569be1799fb43b1a6e8b864149092c16ca85c53b861",
   "slug": "will-the-median-home-value-in-the-us-be-between-411000-and-415000-on-december-31-2026"
  },
+ "0x7eadc8108bab65c0d86a0884155e521dd5c414ead66b78c5013e53454880f36e": {
+  "created_at": "2026-10-15T18:01:46.13483Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Badajoz (-2.5)",
+  "revisions": 1,
+  "sha256": "c22d9ac0a4205639f11d81291c718618b623e58c7719375b69c2f37f49739585",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-home-2pt5"
+ },
  "0x7f2eb362637d5067ac88c4ee7281772b23b6fea99cea1efa019bbc6d0c1e4e6e": {
   "created_at": "2026-07-23T22:41:05.049526Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1033,6 +1051,15 @@
   "revisions": 1,
   "sha256": "4961d9163488131c20f0d809c884c2e16a26a098bb3750cfaed537d0be9e0ec9",
   "slug": "will-the-average-monthly-ethereum-gas-price-hit-5-gwei-before-2027"
+ },
+ "0xa6fdc42326eb316c759bba5a9ac8baa24801e3de79044640748047d0f20fe46e": {
+  "created_at": "2026-10-15T18:01:09.11917Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 5.5",
+  "revisions": 1,
+  "sha256": "048710a3cadc899e53968fe99279134708cb94866b5f410a7eee5e5afbf3c398",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-5pt5"
  },
  "0xa6ff2fc2eb5daba1d67240cea077ae15bfff3d8c629253b2aeec5ff57b7af36e": {
   "created_at": "2026-08-24T16:35:42.871592Z",

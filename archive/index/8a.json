@@ -165,6 +165,7 @@
   "created_at": "2026-08-11T14:12:06.586917Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 8 House seats in Virginia in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "caec01e66d8f8d15d91cbe1c29920df716bed7a02f2ed568f4d39166f4163052",
@@ -846,6 +847,15 @@
   "revisions": 1,
   "sha256": "5d207b444d84fee9c49989cd0998a12121e3ad5c9dbd0a1c90a5dddbfe6fb9e4",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-32-house-election-by-9-12"
+ },
+ "0x7748e3e9e223990c6205c35e5f4646244536d737611d050cf08825d2d6fcae8a": {
+  "created_at": "2026-10-15T18:01:51.889477Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 4.5",
+  "revisions": 1,
+  "sha256": "3f042365960ba5dc20bb4cd5cbd4e9f9241a416a4ab95600d86ba024412ae2b5",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-4pt5"
  },
  "0x78b532aef17ee0ff782cc0fa3abab14411343957b56a326e0897801057644f8a": {
   "created_at": "2026-06-02T18:01:53.324093Z",

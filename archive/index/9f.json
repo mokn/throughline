@@ -53,6 +53,15 @@
   "sha256": "91fee8b4249261af515f2376a98b173f14f8bb40b9cb22a5fb229399d3892c95",
   "slug": "will-az-reach-the-2027-uefa-europa-league-quarterfinal"
  },
+ "0x07e6b78d86d5da2ddcefdbf8623e429fb00e4b679ae418b698b4839900a25c9f": {
+  "created_at": "2026-10-15T17:01:37.663521Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 2 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-2-4"
+ },
  "0x08ee8fffa3ae787e6b53e115b325d3eed5166b18dd0b73b963431c17c6f0b19f": {
   "created_at": "2026-01-28T15:37:10.923998Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -305,6 +314,15 @@
   "revisions": 1,
   "sha256": "50b0ad2a637b87795c795a52c33f9348739a9c7bc9ec4ac80543535cc0527157",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-10-house-election-by-15-20"
+ },
+ "0x2d4e9c07c6f68fdd307709b7890c2e64f45ed8dd02ddd33fa9e4e532bb0b1f9f": {
+  "created_at": "2026-10-15T17:01:36.833242Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 2 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-2-1"
  },
  "0x30a409d0849fc387072c0dbc1c244a8fb9ef7a0594423d3918401b7b59d0579f": {
   "created_at": "2026-10-13T19:55:54.210323Z",
@@ -970,6 +988,7 @@
   "created_at": "2026-10-25T04:01:10.890552Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Micron Technology, Inc. (MU) hit (LOW) $780 in November?",
   "revisions": 1,
   "sha256": "474df0f7ed1916e4121d1fc9365d84a2cf5eef49b4e7342c52d7a2c815c621ce",
@@ -1082,6 +1101,15 @@
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
   "slug": "elon-musk-of-tweets-november-2026-700-719"
+ },
+ "0xa96b0d7ade53da5d0ea26fbe19a234b71c152c67781415f991ee58773530659f": {
+  "created_at": "2026-10-15T18:02:46.011732Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "318b5c1c87ae7927d9bcab40f76bd49368db6d867ca479d3c80ffc730b8a89fb",
+  "slug": "cdr-ute-sab-2026-10-28-btts"
  },
  "0xacbff5c52a2b7299c70465fa9fae2d5ffa80ac088af1c3ab413f4f5d2c07649f": {
   "created_at": "2026-09-28T17:18:44.204197Z",

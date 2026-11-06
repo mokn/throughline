@@ -234,6 +234,15 @@
   "sha256": "5d207b444d84fee9c49989cd0998a12121e3ad5c9dbd0a1c90a5dddbfe6fb9e4",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-32-house-election-by-21-or-more"
  },
+ "0x25389f37a88bfaffd7054c08c75b10491d3eee4888aed444746048622dcf8dc9": {
+  "created_at": "2026-10-15T17:01:04.917278Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 4 - 2 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-4-2"
+ },
  "0x2693ceef3b28f4ed1a717f91dd83198b9f01786ed7d845a1b17f52259358c6c9": {
   "created_at": "2026-04-14T15:40:26.456545Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -337,6 +346,7 @@
   "created_at": "2026-01-28T15:38:06.221306Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the OH-10 House seat?",
   "revisions": 1,
   "sha256": "33fe433c86e1c4b00371789f183d1a4d79db4b30ea8ac78bd09b5a02e7f760ad",

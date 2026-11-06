@@ -180,6 +180,15 @@
   "sha256": "ff751e58354066dd4bbdcb1cb0514d55dbe859720f4b34b830d47417b430b514",
   "slug": "will-sc-freiburg-finish-second-in-uecl-league-phase"
  },
+ "0x1f1396a444b12c5f7cf0d840aae5fa8dee8984d9371b99bef2fd10e5143a890f": {
+  "created_at": "2026-10-15T17:02:04.063281Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will FC Cartagena win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "66ba38715730c827cf8043fa50e15d1095779ed2b634b1738568a653ef5add6d",
+  "slug": "cdr-cd17-car-2026-10-28-car"
+ },
  "0x1fab35067db952ff09d08e47e65c324ab2e06d88762884779e13d437a7b5410f": {
   "created_at": "2025-11-11T21:45:52.289087Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -934,6 +943,15 @@
   "sha256": "e5fd6ceba548aad9e1cbd48ca2390ddbfc8ccd90aaef035379c61776d230cdb1",
   "slug": "will-clive-davis-be-the-1-searched-passing-on-google-this-year-20260717220846818"
  },
+ "0xa0f22ef5ed006767ca4a06edc7f860495f74f3badcd9923932d8f6ab8e53560f": {
+  "created_at": "2026-10-15T17:02:05.361385Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 1 - 0 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-1-0"
+ },
  "0xa320c9e24ff2a53625dd901306783ccb1c567a8be3670be2244a261db5a3740f": {
   "created_at": "2026-09-04T15:57:50.122145Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1249,6 +1267,15 @@
   "revisions": 1,
   "sha256": "7285db3c234ba8b0cb1ec256f7e0fb0021dd78fca347697aa735d23da4acbefe",
   "slug": "will-the-democratic-party-win-the-fl-09-house-seat"
+ },
+ "0xd18d883747fac9eef71cb1d773589f25b37480a9cfb88aa3444e359fbfb5370f": {
+  "created_at": "2026-10-15T18:02:13.522812Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 3.5",
+  "revisions": 1,
+  "sha256": "94fa9202b11c8c3181fe9b811f4cd0e4cdab1a25ae454ea0f4599dbfc0a33481",
+  "slug": "cdr-ca-mal1-2026-10-28-total-3pt5"
  },
  "0xd1c4866b28d6b1dbc3eb6dc71a55d6d29e06f36773ba0a7d2449f4d922338c0f": {
   "created_at": "2026-10-21T17:09:18.427011Z",

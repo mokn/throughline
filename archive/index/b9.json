@@ -166,6 +166,7 @@
   "created_at": "2026-01-28T15:36:53.808499Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NY-01 House seat?",
   "revisions": 1,
   "sha256": "f4aae1b937bcbecdc7d804788503fe263297d6502241e9268fbd6b121bd3e3d4",
@@ -942,6 +943,7 @@
   "created_at": "2026-08-12T17:27:10.440752Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Gimnasia y Esgrima (M) be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1009,6 +1011,15 @@
   "revisions": 1,
   "sha256": "c175a715d73f08c89077cd7de260f27a3371560ead836cffc184b1ba01fd707d",
   "slug": "will-milwaukee-brewers-advance-to-the-world-series-in-the-2027-mlb-playoffs"
+ },
+ "0xa561abda66e8500f75d3ec2f0edb86bf4c5e174052f338e8b083fed857a93ab9": {
+  "created_at": "2026-10-15T18:02:48.91095Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "a49fdfc613fe05d3f45753b8e82075940a9b3a29f625a792f7ac914b6c42d2fc",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-away-5pt5"
  },
  "0xa59a3b26ddd2139456e754b5de319486b28316dec7c8cad1c005af55fda45bb9": {
   "created_at": "2026-09-30T09:18:21.155699Z",

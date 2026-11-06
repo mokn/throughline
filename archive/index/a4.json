@@ -514,6 +514,15 @@
   "sha256": "6498ed0fdc44b8a4a7ad636e2e9fe5cbc9859c44e07368e3c9ff5b7a2a9b014a",
   "slug": "will-voter-turnout-be-84-or-higher-in-the-2026-new-zealand-general-election"
  },
+ "0x52b8f89d243af4072f46b53330889ec2aefea5b30feb0921fa75ca892ce01ea4": {
+  "created_at": "2026-10-15T18:02:39.055848Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete O/U 4.5",
+  "revisions": 1,
+  "sha256": "627e6836118ce53430ed3bea065b94074baa96c192486a7596c8ce9adc2d7f50",
+  "slug": "cdr-por-iru-2026-10-28-team-total-home-4pt5"
+ },
  "0x533c11feb787e1a7dca4598a07f38f48a8ee454ba792679621df20a0831707a4": {
   "created_at": "2026-08-28T19:59:44.530459Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -522,6 +531,24 @@
   "revisions": 1,
   "sha256": "5746ebc8b621544b6da91302f1f3469aec10c88d6bcb1a4df8d96cec7360cad1",
   "slug": "will-wisconsin-win-the-2027-ncaa-mens-basketball-national-championship"
+ },
+ "0x551e9ed175ebf6292bac280de6bb42882494aefbb51d5261fe0fe656bd46c9a4": {
+  "created_at": "2026-10-15T18:02:37.047511Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 7.5",
+  "revisions": 1,
+  "sha256": "20c0ccc267e90cda671431d97842e498dac9e9f2b25b2699745cfece61f6a524",
+  "slug": "cdr-por-iru-2026-10-28-total-7pt5"
+ },
+ "0x55f3093847f3dfb21d09b0b41e45e1a1c94145f623f56af2edc6b6f7ba9b26a4": {
+  "created_at": "2026-10-15T17:01:22.90077Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "RCD Mallorca to score first vs. CD Alcoyano?",
+  "revisions": 1,
+  "sha256": "055e6a0e1255934a57fd2ada889dba7f95c8c5a42d7070a177283c21f9173e8b",
+  "slug": "cdr-ca-mal1-2026-10-28-first-to-score-away"
  },
  "0x5a0e4ff1801ea0d846df1d6e29cb485a9ed48b87f4b57fb7694fad52f7d8c6a4": {
   "created_at": "2026-08-07T20:17:38.169509Z",
@@ -677,6 +704,15 @@
   "revisions": 1,
   "sha256": "c871e8de25f8c46aff8878de0e7770193556dc10a27b445ca3ff150367a9a9e3",
   "slug": "israel-x-lebanon-effective-ceasefire-by-october-31"
+ },
+ "0x71c07b8b257d901683e1939c8cc60dfb0a9c7d9de02193cd90f352208db9b1a4": {
+  "created_at": "2026-10-15T18:01:48.993111Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "31f5ae9c6b1caea374425a18d962c313fefd99dff4c14d95b8139215b2cb6c6f",
+  "slug": "cdr-bad-cdt-2026-10-28-btts"
  },
  "0x7263c9b168812ddd53e7ba9a8d729384db7143f1232abca90dc97cbb5af8c3a4": {
   "created_at": "2026-09-04T19:52:09.277999Z",
@@ -1457,6 +1493,15 @@
   "revisions": 1,
   "sha256": "f692ef8dacff6bf0bb75af37b44762982ff021d8b6883deadc6e97be2709ba9f",
   "slug": "will-the-kansas-city-chiefs-win-more-than-10pt5-games-in-the-2026-nfl-regular-season"
+ },
+ "0xf2b4439e50cb0226aff8099c51a187f6defeb0e94d5995b7b2802e46708e85a4": {
+  "created_at": "2026-10-15T18:01:53.702184Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "02b70f8b5dca758669823beccfe8e1f27286b3d5a143deead5c5de47aca2b798",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-away-2pt5"
  },
  "0xf3df71a1be590b07b71ec3e00ce793a2bf3d07fa0c5ce1c2b6c1c3bc84d907a4": {
   "created_at": "2026-11-01T15:01:16.49813Z",

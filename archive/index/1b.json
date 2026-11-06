@@ -1291,6 +1291,15 @@
   "sha256": "488551c9751675aa96f8965372d3610a2f8f08129c728df57adced328feb2899",
   "slug": "will-jetblue-announce-bankruptcy-by-june-30-2027"
  },
+ "0xc1fa16c04b5eae360f6810b341962165a263d5403ce8021150e729a70b5da01b": {
+  "created_at": "2026-10-15T18:02:47.040233Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "2154041923f0df872f8d89dbe50f7a209d6eff73ca3c4f63d122f66861adec44",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-total-4pt5"
+ },
  "0xc2fa436aab8dc7744569f7ff1681b173a82b3d8bb5334f0e0bfb3425faa6f81b": {
   "created_at": "2026-10-16T02:56:27.520934Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1407,6 +1416,15 @@
   "revisions": 1,
   "sha256": "de0f84223fe19a4ade2cc27412f157597babe76404c3e7a8f67d566c0f5513b6",
   "slug": "putin-and-zelenskyy-shake-hands-by-december-31"
+ },
+ "0xd77b21159f9fb0fbc6e3b008050b7fc568db7f2e34d13253828ab0314f5c321b": {
+  "created_at": "2026-10-15T17:00:59.174607Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 5 - 5 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-5-5"
  },
  "0xd8f3faa5089951315bc54b9f39ada82d207c894690adc899ca6e2f248b8bfe1b": {
   "created_at": "2026-09-08T16:08:44.770349Z",

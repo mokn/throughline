@@ -819,6 +819,15 @@
   "sha256": "d01aa14c0990927c4a0e8db4eef391d574369b37397e7473f78d4e70b562c74c",
   "slug": "will-the-median-home-value-in-miami-be-less-than-767000-on-december-31-2026"
  },
+ "0x9a89ecc5e411bddcb8b880d7eb70e961b9ba91acb3267a668d718d38d8156bcf": {
+  "created_at": "2026-10-15T18:01:06.00674Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 7.5",
+  "revisions": 1,
+  "sha256": "184330b50b6b2f1cf3522ababc45d0ea7e17171d000b3a8df69436b1ae896d40",
+  "slug": "cdr-red-bar-2026-10-28-total-7pt5"
+ },
  "0x9b43096c5ffeaa486d022dab605bd01357c5df52b3f052fbc483273e0291e4cf": {
   "created_at": "2026-10-21T17:55:29.631027Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1324,6 +1333,15 @@
   "revisions": 1,
   "sha256": "05de4e1b6d7bc1e3d082b43e81cf5a2326f4b363b0381901f63150ef4d40214a",
   "slug": "will-donald-trump-visit-new-mexico-in-2026"
+ },
+ "0xe8709ddf1d1bcf09c500edc8b286217393d547281da4b2007dda280e4c3ae2cf": {
+  "created_at": "2026-10-15T18:01:00.619415Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 2.5",
+  "revisions": 1,
+  "sha256": "83bc4b94fea5ec06bc0bdc197a8562b060026619888c15552870108cf0d8113c",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-away-2pt5"
  },
  "0xe8af0a3019b8548cef998b2a74c7519de56d780312d30f460c047f41e4be56cf": {
   "created_at": "2026-08-05T12:10:06.257384Z",

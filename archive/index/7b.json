@@ -3,6 +3,7 @@
   "created_at": "2026-08-26T21:46:29.234178Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Rosario Central finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -269,6 +270,15 @@
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-stephen-curry"
  },
+ "0x34b8cd743b222e7e39ae97e46f8871f3ecbd28d3b66a224a39bf9343e39c457b": {
+  "created_at": "2026-10-15T18:01:03.421592Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Reus FC Reddis (-1.5)",
+  "revisions": 1,
+  "sha256": "b04470d50bb2c3fcade491ebb04678fbbf91ef6eec20c5d982c97ac334e76f5f",
+  "slug": "cdr-red-bar-2026-10-28-spread-home-1pt5"
+ },
  "0x361b6e96b40d418be47ebfebcce24f0a03c4f330f3eed20145796db88853cf7b": {
   "created_at": "2026-07-20T20:08:31.889905Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -277,6 +287,15 @@
   "revisions": 1,
   "sha256": "f0f74609eb8ac99c9e0d777baca7cc12a4da9690866fb4fc94cdd739bc230c81",
   "slug": "will-cincinnati-bengals-finish-the-2026-27-nfl-regular-season-with-the-most-interceptions-20260716001411909"
+ },
+ "0x3671293527b25a0fa2453fae7456a8fa30f1748cc3344d696418174eed0f737b": {
+  "created_at": "2026-10-15T17:02:00.646696Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 1 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-1-2"
  },
  "0x36df8286b646e00163e946628280985f0a76d78d153011f50c329da8c491547b": {
   "created_at": "2026-10-24T11:30:10.384562Z",
@@ -1027,6 +1046,15 @@
   "sha256": "8d302d4ee4c4e243b8df2d90cd6c868248889730496e0d0fbea47ca6812ff602",
   "slug": "will-john-thune-announce-a-presidential-run-before-2027"
  },
+ "0xac8784fcf512d92dc10c415b2a08c4302c33b69d27d11947ab723eb1af68e87b": {
+  "created_at": "2026-10-15T18:01:09.54679Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "3ef99732c59467e995444fabf1aab22d17a3ca060a99f0f302df1e25431053a4",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-home-2pt5"
+ },
  "0xac942f7b9db7a9510b434077565671722373c75d7500cdcc93ee8bf7bfb1c47b": {
   "created_at": "2026-10-16T08:58:39.086925Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1279,6 +1307,15 @@
   "sha256": "aa8e3ee6e70792c4feaaffe926bb067b04ce8a6e604388817ed8da39e5e22b40",
   "slug": "will-ohio-state-buckeyes-win-the-2027-cfp-national-championship"
  },
+ "0xd4c423091bfba593c603ffdfb450f8291f88e1e116a0e4f991d6a1a9527bf57b": {
+  "created_at": "2026-10-15T17:01:04.337435Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 0 - 5 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-0-5"
+ },
  "0xd60f56d5065ebfeb1e6237bee2a9bbe1861857f1cf720584d6ff3e467d38db7b": {
   "created_at": "2026-09-08T16:54:45.137239Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1434,6 +1471,15 @@
   "revisions": 1,
   "sha256": "3765d3a6dc7f29a1aa6e49d97d3c46e967e087657ba989a4758dc2c1dd647c0f",
   "slug": "will-paris-fc-win-the-2026-27-ligue-1-championship-20260701201053351"
+ },
+ "0xeaf7223188f13fcbb0fee7ae59888f7d88d0d7c029f680dbf9be5a622b58e87b": {
+  "created_at": "2026-10-15T17:01:37.834639Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 5 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-5-1"
  },
  "0xec79d48ebadbef4997116d776b74c944b39697d8f38260e2fbe2727fa9df167b": {
   "created_at": "2026-10-13T15:57:38.990353Z",

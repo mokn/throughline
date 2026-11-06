@@ -1030,6 +1030,7 @@
   "created_at": "2026-08-26T21:46:28.940173Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Instituto finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -1179,6 +1180,15 @@
   "sha256": "bc3b8cf5ecd0f9488c0bf350208bc3ced3dae5e893564f4c650f2da778d1a603",
   "slug": "will-hili-tropper-yechiel-tropper-be-the-next-israeli-minister-of-national-security"
  },
+ "0xc6714cfdf4c53b757d3e1dfd98925aa8201f86a69b6dcdadb51b0544cd6fa9b8": {
+  "created_at": "2026-10-15T17:01:20.666595Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 1 - 1 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-1-1"
+ },
  "0xc7687ee009940ac65bc4fa647cb759fe2246a3240e4dd9127dcfe181811eecb8": {
   "created_at": "2026-08-18T18:59:19.875726Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1228,6 +1238,7 @@
   "created_at": "2026-01-28T15:41:33.115679Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the VA-05 House seat?",
   "revisions": 1,
   "sha256": "39afe9f4555228c18e57ac6c4e0e6fdba09775d4fa44f6a45230fc8881615801",

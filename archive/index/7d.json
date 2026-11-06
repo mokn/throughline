@@ -89,6 +89,15 @@
   "sha256": "410157ebcab45a0b153b9a0b994726d0447ab55118bf045b610fe351da7ccccc",
   "slug": "2027-soccer-serbian-superliga-runner-up-vojvodina"
  },
+ "0x0efa7bc6821242dedc1f87e0281a567ec429f2ed4591b4b4a544008e3dfdda7d": {
+  "created_at": "2026-10-15T18:01:06.568987Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "4405eaed04a4bb705bdc4cee1a972cc152ccd89a2d26003ec5065570737a462c",
+  "slug": "cdr-red-bar-2026-10-28-first-half-total-0pt5"
+ },
  "0x115866dccf502b739a6399165287cb71eea3fb11319beaec3615a2bf8fa1e47d": {
   "created_at": "2026-09-08T16:55:57.972863Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -296,6 +305,15 @@
   "sha256": "8144fddfd56f59670516203a9b92af94d71a45d1b6b1f5e5d4616403f3473e5f",
   "slug": "israel-military-action-against-syria-by-november-30-2026"
  },
+ "0x338deee91d69de1df914dc73b42c1899f32a60f155eedad7f4f4c2b9e5b7317d": {
+  "created_at": "2026-10-15T17:01:58.770666Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Reus FC Reddis vs. Barakaldo CF end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-red-bar-2026-10-28-draw"
+ },
  "0x349837a05f087faf1c6038c886c85fdb16e9e46530b3cf8dbad172963313f47d": {
   "created_at": "2026-01-02T20:58:01.479969Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -493,6 +511,15 @@
   "revisions": 1,
   "sha256": "313433c281c51ec819dc62212a6017e825795a814fe3a6200f49205a7a5e257a",
   "slug": "will-eric-jones-win-the-ca-04-house-seat-20260630172947750"
+ },
+ "0x581c7633978031a75afa02de46170caf105c6ab846bd8342d8cec48c3934fa7d": {
+  "created_at": "2026-10-15T17:01:02.843563Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
+  "slug": "cdr-por-iru-2026-10-28-halftime-result-draw"
  },
  "0x5877fbcf6247ed85d05bed3f0d4fbe6d0838dedeb174279322c5d699bf881c7d": {
   "created_at": "2026-09-08T17:03:05.307723Z",

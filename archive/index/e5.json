@@ -757,6 +757,15 @@
   "sha256": "a7cd60844bd1bc9031fd2f02f1e8c3ebed2a78a3c67b93142b19e8bb6238f50b",
   "slug": "will-chad-ryland-be-the-highest-scoring-k-of-the-2026-27-nfl-season-20260806224131988"
  },
+ "0x7eec34441b94932f9e4fc11356c1ddfe4328b4d40a62fd026d0aa4dca6a1a5e5": {
+  "created_at": "2026-10-15T18:02:12.249697Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: RCD Mallorca (-3.5)",
+  "revisions": 1,
+  "sha256": "d0b80688f43fc7b4a84768d33647efca2bea7ae50a2b11180bfa250c8c7e4d1b",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-away-3pt5"
+ },
  "0x7f9819d82d55e21471501e6ec3b4f9aab948718e7d88bcdd33383d8735cb62e5": {
   "created_at": "2026-08-26T21:46:35.966852Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1380,6 +1389,15 @@
   "revisions": 1,
   "sha256": "a2cf5a67666d98154eea25f38b4918363037c31ed1ee1d77612bc9b7284f8447",
   "slug": "will-defensa-y-justicia-be-relegated-from-liga-profesional-argentina-2026"
+ },
+ "0xe8ec71995b17e7b5c8ec616e79c48f295db377a381c6ec761f4ebeae4a2126e5": {
+  "created_at": "2026-10-15T18:02:17.820292Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "1d881098aad2cd35eae968a9d3c392bfcfdc5608bf877eea38d6c4e36fcfa8c5",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-home-2pt5"
  },
  "0xe9d66898d7e7dfbd044222b5dd362f407a11101d84db3e097260ac6509e21fe5": {
   "created_at": "2026-10-01T14:01:05.702512Z",

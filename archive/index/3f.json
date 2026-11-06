@@ -855,6 +855,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-karl-anthony-towns"
  },
+ "0x80da4a5fb47fb28b2a39e552111bcb40b795af0b1cf289ebe89d2baa7f25c33f": {
+  "created_at": "2026-10-15T18:00:58.173025Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 7.5",
+  "revisions": 1,
+  "sha256": "41873b9cead5768fb67149362935ca6331373342acd45787951fb2a1ea8bbb3c",
+  "slug": "cdr-cd17-car-2026-10-28-total-7pt5"
+ },
  "0x832cd0ecaa2544055ca74901ea1e4d9f2d1d0dabc3b42343de45e6043deb8d3f": {
   "created_at": "2026-08-24T16:07:54.715135Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1080,6 +1089,15 @@
   "revisions": 1,
   "sha256": "8840ac4333ed939eeb19925b1050821fa51fc02783f43eaf857110e41abe1548",
   "slug": "will-california-make-college-football-playoff-quarterfinals-20260803204558941"
+ },
+ "0xa29386f30fe3b0b109b1510916dd04f8f4460a61f46ef89c4fca147c8583543f": {
+  "created_at": "2026-10-15T18:02:36.890024Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 6.5",
+  "revisions": 1,
+  "sha256": "49f9ed2518d93cbf1a79fed9fc2b0a097a8737371dc1066d4c70a6c790657a28",
+  "slug": "cdr-por-iru-2026-10-28-total-6pt5"
  },
  "0xa42333db4ddce56862ce41df613b506ab955be2d67f236660052cab09de63f3f": {
   "created_at": "2026-08-07T20:17:38.889898Z",

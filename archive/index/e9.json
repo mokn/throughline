@@ -3,6 +3,7 @@
   "created_at": "2026-08-06T19:14:55.541727Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Bank of Mexico increases interest rates by 25 bps after November 2026 meeting?",
   "revisions": 1,
   "sha256": "2cb44d0a3570e471b79923a918e732437a164bf32b7a6582eeaf55d8c0313fb8",
@@ -526,6 +527,7 @@
   "created_at": "2026-08-12T17:27:12.643228Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Lan\u00fas be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -992,6 +994,24 @@
   "revisions": 1,
   "sha256": "55e604c294fb3b5ef2e31337a47a2933071a02c9719e0470998cb8fb7c0c4758",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-44-house-election-by-45-50"
+ },
+ "0x99cbbcc5f023918081cb41747883a96a7d164a78899f305fe4c9d54035fe74e9": {
+  "created_at": "2026-10-15T18:00:57.890944Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 5.5",
+  "revisions": 1,
+  "sha256": "fcef46dc6beb17b2a98eb66501bcfa394fc5363275c7dabd99d7edaea9380da0",
+  "slug": "cdr-cd17-car-2026-10-28-total-5pt5"
+ },
+ "0x9eda39661dd418737ba96f7e789c221edfe62e5ce9a06f8b5236e9aadf035de9": {
+  "created_at": "2026-10-15T18:01:03.846095Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Barakaldo CF (-2.5)",
+  "revisions": 1,
+  "sha256": "85bcb2e7edeceb3e14e250d656e7276d0b06fb84cc812be18ec7103c4329f8db",
+  "slug": "cdr-red-bar-2026-10-28-spread-away-2pt5"
  },
  "0x9f5001a1e6542f81fc296bfcf73764a1c7ab2767d8c036441ab222a01da585e9": {
   "created_at": "2026-08-07T00:16:26.685655Z",

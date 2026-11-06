@@ -342,6 +342,15 @@
   "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
   "slug": "will-josh-shapiro-be-the-2028-democratic-vice-presidential-nominee"
  },
+ "0x33117da989d1d5b0455dd4a898abd2d645a61c60305ae2e9bd5f015d019a8bf6": {
+  "created_at": "2026-10-15T18:02:15.289443Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "07a9122296790b26f124ffc302c339341588b52f57a1cca19e172767ee7cf3cd",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-total-3pt5"
+ },
  "0x3bf5b7fb14a91682def43c3b373e951ba83c2e8d8eb0d84ef6396b0ef9867bf6": {
   "created_at": "2026-10-25T04:00:47.626905Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1165,6 +1174,15 @@
   "sha256": "68178190da80e62a440ab458f51b1c95120c49ea32c68d7da98e62d2fbc64b25",
   "slug": "scop-ran-abe-2026-10-31-spread-away-5pt5"
  },
+ "0xb7efa9c7d7d007df76ef9fa24ad01c51cbe9464b096740a4ae8c37dc0fcf7df6": {
+  "created_at": "2025-07-03T20:37:37.424486Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Scott Colom win the 2028 Democratic presidential nomination?",
+  "revisions": 1,
+  "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
+  "slug": "will-scott-colom-win-the-2028-democratic-presidential-nomination"
+ },
  "0xb9570a32a260c824b491aafe166801ba683054e0bdf68c59d9cd75b2243aaaf6": {
   "created_at": "2026-08-26T21:46:05.388151Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1178,6 +1196,7 @@
   "created_at": "2026-08-26T21:46:29.048622Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Newell's Old Boys finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",

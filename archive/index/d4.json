@@ -377,6 +377,15 @@
   "sha256": "b05400ea6c544a8bde4aeeda16d00104d257594b0e06e9fa79e81d3f17ec1f86",
   "slug": "jaxon-smith-njigba-1000-receiving-yards-2026-27"
  },
+ "0x420c61201f75883ea828d0f3b89735eaca827343f7d46126fe927a08c6a153d4": {
+  "created_at": "2026-10-15T17:01:21.19598Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 2 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-2-3"
+ },
  "0x432f3b8364395dd44e7dbc02ebee2e1fe04f89b42fb40e36b41522d86ecb35d4": {
   "created_at": "2026-09-04T19:43:10.632666Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -385,6 +394,15 @@
   "revisions": 1,
   "sha256": "40b28c0544f8c58c4b1d104885fe201f1fc72923d9bcbdd2d8c756279bb3a299",
   "slug": "will-dawson-pendergrass-be-the-2026-big-12-rushing-yards-leader"
+ },
+ "0x43f94f3fd4a4d2e099b3b05456bf0eaa4a44222d5885344be46fbe10e446d4d4": {
+  "created_at": "2026-10-15T17:02:01.78284Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 4 - 5 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-4-5"
  },
  "0x473df6a95de7bcbe8078c734519ec6aeccee677df1b91c14192373bcc865f1d4": {
   "created_at": "2026-08-12T14:57:36.422003Z",
@@ -440,6 +458,15 @@
   "sha256": "13c5f6632abf6901e02a6c20828eb7cef5425971b75a2f655fe49a9611148ca1",
   "slug": "will-jeremiah-smith-be-the-2026-big-ten-receiving-tds-leader"
  },
+ "0x507ca95788cd5cfdbf122e615f0787947073ad86cf7ae7e50de10772c9b279d4": {
+  "created_at": "2026-10-15T18:02:39.347888Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 0.5",
+  "revisions": 1,
+  "sha256": "c269a9aa61cede94b7c5a9bfc931da1fd1428df6b542bec9e474589738191d37",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-0pt5"
+ },
  "0x507fcd247a900ab38f28113ea16e0db7abc4f89b9ad67865c7c445f293ff34d4": {
   "created_at": "2026-10-13T15:48:48.527744Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -457,6 +484,15 @@
   "revisions": 1,
   "sha256": "c7be1a92d2e14c8b47126d1e3b2a9fd2882f5f55301ee43b060aaaa511c64ece",
   "slug": "will-the-democratic-party-candidate-win-the-2026-wi-04-house-election-by-40-45"
+ },
+ "0x523641247b02d13e4cbe7cedda6a6b3f68313e69450afaf97142a4de4fc95dd4": {
+  "created_at": "2026-10-15T18:02:40.926169Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "98e9346978beb150fa12da8d6e4a8ec18af710177807143285b22bf1d2c92e70",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-home-3pt5"
  },
  "0x529658f6fbed1f5a59c211faf3408dd9003e73f641bb9234bce3c88f1989d6d4": {
   "created_at": "2026-07-02T18:52:41.756512Z",
@@ -998,6 +1034,7 @@
   "created_at": "2026-08-12T17:27:14.215761Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will River Plate be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1093,6 +1130,15 @@
   "revisions": 1,
   "sha256": "7975072a7ee0ee22ff2dee00e34b9a1929a8a5bcf94fb3693352da813dc38fdf",
   "slug": "will-the-democrats-win-the-michigan-senate-race-in-2026"
+ },
+ "0xc2dea6056868cf2126a0d9d79a7a4d34592b1679722677bc268daf73719425d4": {
+  "created_at": "2026-10-15T18:02:47.52226Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Utebo FC O/U 2.5",
+  "revisions": 1,
+  "sha256": "a939e89d5007238c390a45588ca45e83b3acd7cf74484c996af169506a89ea9e",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-home-2pt5"
  },
  "0xc43c6c3bd979cb17e2ff931fbf8c4a5bef3778eb727f3504b79d97eab86138d4": {
   "created_at": "2026-11-02T00:47:23.116898Z",

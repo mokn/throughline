@@ -306,6 +306,15 @@
   "sha256": "87d76d5556f45d38363f4e7eedc9d7e2207170390a66ab86c0b373251a1159fa",
   "slug": "will-jose-narro-cespedes-win-the-2027-zacatecas-governor-election-20260803173858834"
  },
+ "0x373165cfc514f813c008476d53115dafc9367db4625693aeb89f6adb3f46678e": {
+  "created_at": "2026-10-15T18:00:55.767204Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Minera (-1.5)",
+  "revisions": 1,
+  "sha256": "41ddf2f1dd0867a4049d1385a97a865d58a660eb3e65e7a218753bbf64d38973",
+  "slug": "cdr-cd17-car-2026-10-28-spread-home-1pt5"
+ },
  "0x374b3e5300d44a23e27ca22a48dcb307a4195838296874aafe6374f884a32f8e": {
   "created_at": "2026-10-22T22:20:49.329329Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1085,6 +1094,15 @@
   "revisions": 1,
   "sha256": "1d558322e6e5a11c19dc0c94547c8e1bf654b3112f1114ba9f27353cf75ba389",
   "slug": "el1-ste-swe-2026-09-26-spread-away-5pt5"
+ },
+ "0xbe5bae4a5aeca14602c179eee46ede0ddeb670576ac65d528dc590c6763d3c8e": {
+  "created_at": "2026-10-15T18:00:58.610505Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "7f1509ce44c144a996324ea86547739864a4b0793975f87866147721217fca85",
+  "slug": "cdr-cd17-car-2026-10-28-btts-first-half"
  },
  "0xc1784968ce4793213c35075e67b9e49e88aced5f45f1171fa8ae447472964f8e": {
   "created_at": "2026-09-04T19:52:35.419296Z",

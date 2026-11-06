@@ -71,6 +71,15 @@
   "sha256": "e856666fdf6897e1e64561e5a585033b58d079375e5418212f3c689d515892ad",
   "slug": "2026-soccer-peru-liga-1-winner-alianza-atltico-sullana"
  },
+ "0x0c68135349d40c073531a1cce1f5fd4a1bc66505b03ed8e98698c3d926968627": {
+  "created_at": "2026-10-15T17:02:06.464171Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 5 - 1 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-5-1"
+ },
  "0x0eab98b4acabeca625e10173b5aaaeec8f828fc0e0971e5394740755a3f9e027": {
   "created_at": "2026-08-07T20:34:01.708692Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -497,6 +506,15 @@
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
   "slug": "will-corey-seager-win-the-2026-american-league-mvp-award"
+ },
+ "0x52d68816cf4ea3a77395ef738860a43dfaaebc8149f8064cc73a1b8602425227": {
+  "created_at": "2026-10-15T18:02:46.873948Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "4a72daf9e21a0b70e36247cc7858ed30725f0de223cf093721d6be5de365a5da",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-total-3pt5"
  },
  "0x549800e22ab601e7718ac2e7ccd02fa2552560478512aec8fec94a6224bf6f27": {
   "created_at": "2026-01-28T15:39:52.139577Z",
@@ -1014,6 +1032,15 @@
   "sha256": "5a1d7fc71c89859ab56ab6b156676528e1839f9d29f303fe3347d0c8d187afac",
   "slug": "will-riley-newman-qualify-for-the-2027-ppa-tour-finals"
  },
+ "0xa04eba6eeb3a2c1fc470cd779220cd4b5c9cafd06fa262ff014e14b4795ada27": {
+  "created_at": "2026-10-15T17:02:01.569431Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 4 - 3 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-4-3"
+ },
  "0xa0ac0c3986338b8c25b5e12a86113d7dd94bd99d9b11eafb057468d4b26f0127": {
   "created_at": "2026-09-08T17:03:32.749971Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1511,6 +1538,15 @@
   "revisions": 1,
   "sha256": "73eca2b61cfe1940ae0496f263f3253fbc3af05918919f52f40b09cfc6e5a1df",
   "slug": "will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden"
+ },
+ "0xe8909c8ff32635a73d66cc3638a849c5ab0b4d5b11b9ee3ed95ef7d5d6660927": {
+  "created_at": "2026-10-15T18:02:48.759467Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 4.5",
+  "revisions": 1,
+  "sha256": "d1e514b153ddda4c59843f27c0de8f269effdacf04a4b47a2ce3eff652d85d5d",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-away-4pt5"
  },
  "0xe927a891c7559d68922e4c3d0f771332432a557fbad9d2343deb7fb4e8da2427": {
   "created_at": "2026-08-21T20:31:37.199526Z",

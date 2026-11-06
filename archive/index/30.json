@@ -1434,6 +1434,15 @@
   "sha256": "24076dd6571d59a554b8102d42143624c324a43e3d33f424cf551bcd3786f515",
   "slug": "will-the-republican-party-candidate-win-the-2026-ut-03-house-election-by-20-25"
  },
+ "0xd70686e1c50707fe669e53c5e20aed15c1a219efad5075fb518bfc3fd8493f30": {
+  "created_at": "2026-10-15T18:02:47.371121Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Utebo FC O/U 1.5",
+  "revisions": 1,
+  "sha256": "af219c534fb75168b5246c6dad6da7b24ff6926a09167365a14bb6420c64d0f5",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-home-1pt5"
+ },
  "0xd81ce4e061f3c6bd0e45d898027d2c43efd0fda51ec32806b3fc2fbf72463730": {
   "created_at": "2026-09-09T15:42:47.968949Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1722,5 +1731,14 @@
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
   "slug": "will-harry-wilson-be-the-top-scorer-of-the-2026-27-uefa-nations-league"
+ },
+ "0xff99fa3c88223b2ea30987618ac0d359d0a04ada5a44d5f28e3b7057b2bf2730": {
+  "created_at": "2026-10-15T18:01:08.409585Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 0.5",
+  "revisions": 1,
+  "sha256": "fdb5ede86bec9fd24b84c84169e7e5bbf14986e9c3c1d861c50f05672943b0eb",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-0pt5"
  }
 }

@@ -229,6 +229,7 @@
   "created_at": "2026-10-25T04:00:23.666858Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Tesla, Inc. (TSLA) hit (LOW) $360 in November?",
   "revisions": 1,
   "sha256": "469b1b282cf721ea6e55933c07fc210034368da92957af0da862546a256f65b2",
@@ -269,6 +270,15 @@
   "revisions": 1,
   "sha256": "baf36440feb3944a5e461124327f0d636e4473ae30fe4e3d5b16c7ebb3d07588",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-38-house-election-by-15-20"
+ },
+ "0x266446f4f03e1deee63c2cba4790b3f53340a316b9e6fbe480dfb36695d3cd37": {
+  "created_at": "2026-10-15T18:00:58.323829Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 8.5",
+  "revisions": 1,
+  "sha256": "f32e4609b9002af9b89ff0d2de27e3f9e5a66aa3b0f206963e6aaf18e9529f37",
+  "slug": "cdr-cd17-car-2026-10-28-total-8pt5"
  },
  "0x27a4dd39adf63849239f3b260b701e1ce1c3a08b8e3624b1dbc2c1268ea87537": {
   "created_at": "2025-12-15T22:24:14.078905Z",

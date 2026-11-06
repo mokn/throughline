@@ -898,6 +898,7 @@
   "created_at": "2026-10-23T01:56:11.611699Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the 5-year Treasury yield dip below 4.65% before 2027?",
   "revisions": 1,
   "sha256": "7c52cfe9b5c8098de41d80c9015bf081e20892e9145f94eb126d2d4877e4cd84",
@@ -1373,6 +1374,15 @@
   "sha256": "9c36e4f6e92ef27876ff93e7f3d7dd25c8d789e52256a6394a17c8dfdbac367d",
   "slug": "will-ink-win-best-film-editing-at-the-99th-academy-awards-20261013180153422"
  },
+ "0xd85080870a1480ec3bcc87a3f66d49ae019169c82e7ebcd30bd85fddc20e5b60": {
+  "created_at": "2026-10-15T18:02:16.386967Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 4.5",
+  "revisions": 1,
+  "sha256": "21236942dfca33796b8ab545ab92a3ae908a70b4d0e072c6fe736b2410f76bbf",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-4pt5"
+ },
  "0xd8741c92c91fb9e37f4df07000b7d9f57b6e18837474cb35cdbe7d1c8e7fe760": {
   "created_at": "2026-10-13T15:50:25.708844Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1424,6 +1434,7 @@
   "created_at": "2026-08-26T21:46:28.319184Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Belgrano finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",

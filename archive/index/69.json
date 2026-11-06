@@ -215,6 +215,15 @@
   "sha256": "bbceac9e5db3c34c6df1098574d490923a8643db174322908bb343ec51a66a4c",
   "slug": "jalen-hurts-2749pt5-passing-yards-2026-27"
  },
+ "0x27c4562fa95c31d26360e535a3b2e9f3154913cc89a9808ed5aa39dd64150a69": {
+  "created_at": "2026-10-15T17:02:01.028765Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 1 - 4 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-1-4"
+ },
  "0x2871b9b4d522a0467fa1ecd1ed92e83507d9916b4506cb646817fa8ca9af2e69": {
   "created_at": "2026-07-28T15:33:29.406792Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1506,6 +1515,15 @@
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
   "slug": "will-gianluca-prestianni-win-the-2026-golden-boy-award"
+ },
+ "0xe3f8f123a2657293c5a433f23dd55c88126446475a877815119bcf4859deb169": {
+  "created_at": "2026-10-15T17:01:38.397568Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 5 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-5-4"
  },
  "0xe4509858f4b73b279e3e6fb317d796ef709398868013c40a9e22522829f2ee69": {
   "created_at": "2026-06-26T20:43:26.403346Z",

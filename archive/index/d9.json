@@ -372,6 +372,7 @@
   "created_at": "2026-10-25T04:00:28.403265Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will NVIDIA (NVDA) hit (LOW) $184 in November?",
   "revisions": 1,
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
@@ -412,6 +413,15 @@
   "revisions": 1,
   "sha256": "cc3273b3f4e7ba6d0799833ce0bb6219f88bd01ef22dfc88d78ea5bc7ecb4d7b",
   "slug": "will-any-state-legalize-flying-the-tesla-roadster-by-december-31-2028"
+ },
+ "0x3737d415edfc0978fa5dcb4bc682ab8e8327dcf05c1dca0a072b8df4cbc39fd9": {
+  "created_at": "2026-10-15T18:01:47.664271Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 1.5",
+  "revisions": 1,
+  "sha256": "32e49bd111692a05741e5cb97eddd6f5eedf1f1e3035f3463d46f91ef741bae5",
+  "slug": "cdr-bad-cdt-2026-10-28-total-1pt5"
  },
  "0x3a0c5c8ec11e32ffe859b286047b6866d7207b8b0f97ce31f20ab3922bfe43d9": {
   "created_at": "2026-08-25T05:03:16.712421Z",
@@ -1039,6 +1049,15 @@
   "sha256": "bc3b8cf5ecd0f9488c0bf350208bc3ced3dae5e893564f4c650f2da778d1a603",
   "slug": "will-yoaz-hendel-be-the-next-israeli-minister-of-national-security"
  },
+ "0x9bed31d991c26802cdf48c05e6422e2312fa0a946f02e0c03e1c56236972d3d9": {
+  "created_at": "2026-10-15T18:01:05.726053Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 5.5",
+  "revisions": 1,
+  "sha256": "8903b6436c9eb63d46d7223cc585448f494628aef565f119dcb65aa1b7e223fa",
+  "slug": "cdr-red-bar-2026-10-28-total-5pt5"
+ },
  "0x9c5e1af6e23cb1a383c961be1174477801c4f88a9955206af4a01f48c82708d9": {
   "created_at": "2026-08-18T14:20:12.783007Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1056,6 +1075,15 @@
   "revisions": 1,
   "sha256": "a77cfa4563ed5dacd67bad6fe71554bdbbe70f57218b80cf1117521d89d4def5",
   "slug": "2026-soccer-bolivia-lfpb-winner-bolvar"
+ },
+ "0xa048e1fc95d7f14c24215e978f9c75f319c831e13bcd46ad70856b5c685991d9": {
+  "created_at": "2026-10-15T18:02:36.413274Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 3.5",
+  "revisions": 1,
+  "sha256": "8369f261096a3b33380f5de303ab6de7d7e03bd763443dcbe50de67d5b9a6c2e",
+  "slug": "cdr-por-iru-2026-10-28-total-3pt5"
  },
  "0xa31af342d01d5e4a44052e5caabfddd02d24eb5de227f71fcf35717fc1fdcfd9": {
   "created_at": "2026-06-26T03:52:12.506363Z",

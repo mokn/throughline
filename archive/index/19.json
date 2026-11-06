@@ -316,6 +316,15 @@
   "sha256": "3d9f4e83f2c7b83c0050f96f5513cc9bfd78ca24f1dbe0f4fdd6f98fad930d49",
   "slug": "will-sanfrecce-hiroshima-be-relegated-from-japan-j-league-2026-27"
  },
+ "0x27e47b6f417720a59e7d22874538601c62b30520a259253e1dfa34ac71baa419": {
+  "created_at": "2026-10-15T18:02:50.097926Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "925e000712612d3a8d99a5ae3f5479fef1953b2fa91c1912dcc342810e78a93b",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-team-total-away-2pt5"
+ },
  "0x280fee88cf7ca989f281c3c053f4fc19355a710fe8bec7898a55616348737419": {
   "created_at": "2026-09-27T20:11:08.803985Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1193,6 +1202,24 @@
   "sha256": "8bde2c29f4411825837ff0791056a979e14621eeb8888c04aa7eab826f390e88",
   "slug": "will-trump-and-putin-not-meet-432"
  },
+ "0xae89990d073891dc8749391af33de9add76faa7c670e4151e179ae2233723219": {
+  "created_at": "2026-10-15T18:02:12.104177Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Alcoyano (-3.5)",
+  "revisions": 1,
+  "sha256": "4a337c9e4158d3a642452e8f135013ee5be72cdbfee000fc55a643f1e5d45fa5",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-home-3pt5"
+ },
+ "0xaf8f5504cc260a312451954cb49b45dbc1088ea0f339fd7fb8b3bb09641b9d19": {
+  "created_at": "2026-10-15T18:01:09.764268Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "28cc852ab0d1fc9c9b610f9884cd62b6b3c7f1a7eafa09de0bfef39c42fea639",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-home-3pt5"
+ },
  "0xafb5e983a50a0b3af255b36ad13bfa2f775c35c4b9123513b2990f3d09aa1a19": {
   "created_at": "2026-10-26T21:32:35.681207Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1210,6 +1237,15 @@
   "revisions": 1,
   "sha256": "20033560e3d802d225da65ec3dea2af6a51624ed5dba037248fd7816d52ed598",
   "slug": "will-kj-duff-be-the-2026-d1-receiving-tds-leader"
+ },
+ "0xb54ee9f00191d43b44ab6b2f36e97287db9af35e9039dccb06c96c3ce00e5b19": {
+  "created_at": "2026-10-15T18:02:14.128309Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 7.5",
+  "revisions": 1,
+  "sha256": "56f1074d6f82a0391d62aef1e17085efa8861289e566289e18e17d96b4361744",
+  "slug": "cdr-ca-mal1-2026-10-28-total-7pt5"
  },
  "0xb585a9f0c0fbfe667b1f635308d3726510805b10870e3e43ecc02bd655fe8519": {
   "created_at": "2026-09-27T20:10:44.392419Z",

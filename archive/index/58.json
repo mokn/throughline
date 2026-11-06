@@ -1241,6 +1241,7 @@
   "created_at": "2026-01-28T15:36:21.866782Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NJ-02 House seat?",
   "revisions": 1,
   "sha256": "6b8f0f5d139ae8a61b51cdf40a5a9bc3fff4c5098057012c34deef1fbdc80b6e",
@@ -1291,6 +1292,15 @@
   "revisions": 1,
   "sha256": "9c3524a07a4c5422ce0d89a147153e22fa65a5b5b283f75a52fdb51975870aed",
   "slug": "will-usdkrw-hit-1700-high-in-2026"
+ },
+ "0xe35edec69605f254838229aa32362c81fa5a62c677a9e62a46c6e01de80d9058": {
+  "created_at": "2026-10-15T18:01:08.978911Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 4.5",
+  "revisions": 1,
+  "sha256": "1635e101380cb3a0c5f9b05540c8b27422ce55dc5318c5dad4a1bde9352762a6",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-4pt5"
  },
  "0xe9ad26f23becd7102d2631ac45c1ab3a57254ed6736eb7a73575bccf6ecda358": {
   "created_at": "2026-10-03T11:32:14.844263Z",

@@ -188,6 +188,15 @@
   "sha256": "4ad66f10fa479fbc69ca20b863954ff382fc5210de5fa1e9c0a3d01d4b3653fd",
   "slug": "will-baidu-be-the-third-best-ai-lab-at-the-end-of-december-2026"
  },
+ "0x23206533edf995bcb71aa0de33e4e1fe8383eeffd207f9107b8f149fdbf27287": {
+  "created_at": "2026-10-15T18:02:34.782248Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Real Uni\u00f3n Club (-2.5)",
+  "revisions": 1,
+  "sha256": "54d92d89691c71181b5278dc5988b760c106881db45a9375e4d04977d71dbc92",
+  "slug": "cdr-por-iru-2026-10-28-spread-away-2pt5"
+ },
  "0x242b505bcf0f2eae5f8c951861bf9513d161adb9497a2cefcc7114efc12f9687": {
   "created_at": "2026-10-13T15:57:41.452972Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -408,6 +417,7 @@
   "created_at": "2026-08-10T20:08:58.501028Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Julie Tran be the next Regional Board Chair of Region \u00d6sterg\u00f6tland?",
   "revisions": 1,
   "sha256": "1d51b59e70c38fb0d8f6e3d6dac2b5119d465d2203d5a34d41a2637edee7e2b4",
@@ -803,6 +813,15 @@
   "sha256": "76828c0738dbd288f4cf8879e16943dbcb7fe4794cb690ed6920a1caf38d8168",
   "slug": "will-yufei-long-reach-the-final-of-the-2027-ppa-tour-finals"
  },
+ "0x944b057e9204b6828d4eb30dabfd812213dbaf8d4846bbd5c177213abaca3187": {
+  "created_at": "2026-10-15T17:01:37.420673Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 3 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-3-2"
+ },
  "0x946fd669c6838b44b66cfa497322ed92c276bf415d7635ac456d51624bef3187": {
   "created_at": "2026-09-18T00:05:17.923829Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -865,6 +884,15 @@
   "revisions": 1,
   "sha256": "0139bdb9c09237218db3f3217ba5c769f1af94a59c725e0798a7afa905ce41cb",
   "slug": "chris-olave-1424pt5-receiving-yards-2026-27"
+ },
+ "0x99bd03377953596869dec1b0528b2e03456f536af945b851af116238c9812887": {
+  "created_at": "2026-10-15T17:01:04.51489Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 3 - 2 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-3-2"
  },
  "0x9ca166fff53ae9ba486301c23a9c2b262faffad0c9b1c2947816b4909b65a587": {
   "created_at": "2026-10-13T15:57:38.507732Z",
@@ -1488,6 +1516,15 @@
   "revisions": 1,
   "sha256": "81856e435a50c7e1d966b0c131fa93ac69df0d89c92cd340e69a5701e7b7dca0",
   "slug": "will-sarpsborg-08-be-relegated-from-norway-eliteserien-2026"
+ },
+ "0xfb7a4f9922180f6b114cdc7a294eac96eb399f9abb4c0b35beec8f29e5931b87": {
+  "created_at": "2026-10-15T17:01:21.082354Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 4 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-4-0"
  },
  "0xfd282d590eea7b0a990ec7c5b1feb5e6bae2715bab6f14d98b48eacc11fa1987": {
   "created_at": "2026-08-25T21:25:29.581535Z",

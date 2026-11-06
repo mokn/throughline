@@ -144,6 +144,15 @@
   "sha256": "17a34044e35e8aa09fa8e451ef4e1379903e447eafc3413d40b63167bad8290d",
   "slug": "will-t1-beat-grok-ai-in-2026"
  },
+ "0x1c493a6309dfb4652dfe3d0b1bfd9f40cb4ec2d73be6c1ec107e77e3b9f89833": {
+  "created_at": "2026-10-15T17:01:38.093473Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 5 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-5-2"
+ },
  "0x1deceff4fe504e1084afd2b1f1842321a25de3ef505a0a638078d09c8e680133": {
   "created_at": "2026-09-14T21:41:59.77905Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -718,6 +727,7 @@
   "created_at": "2026-08-26T21:46:28.117981Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Argentinos Juniors finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -800,6 +810,7 @@
   "created_at": "2026-10-25T04:01:24.862058Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will SpaceX (SPCX) hit (LOW) $130 in November?",
   "revisions": 1,
   "sha256": "50a18ec2e1b8d8c0fa8b360d4158e4825d7c667f7796be4a68e8cd466d560c7a",
@@ -876,6 +887,15 @@
   "revisions": 1,
   "sha256": "345dd400340212ad1ddda839a7a40e3aa52b2c53e748726546ccee092a446a19",
   "slug": "will-florida-atlantic-owls-win-the-2026-american-conference-20260731201100092"
+ },
+ "0x9f423fb6d375e1e874808f75deccffcba48cb7c7f5adab9d5b96a7f771c7eb33": {
+  "created_at": "2026-10-15T18:02:35.009664Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Club Portugalete (-3.5)",
+  "revisions": 1,
+  "sha256": "a4c8936b302aeddf211c03445c08e0adeaca65b7928a7b1d38f4fc31b23cf15a",
+  "slug": "cdr-por-iru-2026-10-28-spread-home-3pt5"
  },
  "0x9f5036d127dbcd3dbd82f468f3d69a784a7c8fa7356c7f62ee17d7100e955a33": {
   "created_at": "2026-09-04T19:29:07.293742Z",
@@ -1066,6 +1086,15 @@
   "revisions": 1,
   "sha256": "d3b1c4f2353737ce39949e5b2c27d960a3f421d97773f0d6405079ae4d902da4",
   "slug": "lithuanian-lkl-2027-champion-bc-jonava"
+ },
+ "0xb8ddd3a28d8d7f0a7347d79e3308f7b53276a04478316351fa14fde2b3dc7d33": {
+  "created_at": "2026-10-15T17:01:21.716325Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 5 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-5-2"
  },
  "0xb8f08eca86a10d7af9e2cce2a43f801dfc0329ca9d05f97f4caf820b11e4b733": {
   "created_at": "2025-11-19T22:51:26.368076Z",
@@ -1337,6 +1366,15 @@
   "revisions": 1,
   "sha256": "5e43c3006ed39280cd35241fdcbcafad13c4d5386a07123e0f77d091df2d50a1",
   "slug": "will-the-next-governing-coalition-of-new-zealand-include-national-act-maori"
+ },
+ "0xe33df081331a8b12867b16f9115dea3770cf0caa638336b09eb980c4e7c64b33": {
+  "created_at": "2026-10-15T17:00:58.790754Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 4 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-4-3"
  },
  "0xe562b53b9165e07c80573175796e19de19d028f2596b9d09cbfc97b6d8bd1d33": {
   "created_at": "2026-10-16T23:05:11.91924Z",

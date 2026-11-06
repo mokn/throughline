@@ -242,6 +242,15 @@
   "sha256": "bff246b5573500da0c5fc7b4f2d97d41cc7eebb9c04d7d51dbe7f81378250a55",
   "slug": "will-the-democratic-party-win-the-fl-27-house-seat"
  },
+ "0x3acb2d5cdbe2293a5daab10ad96e3e6822e93a3eede19e2b008682fbb7025125": {
+  "created_at": "2026-10-15T18:00:59.202846Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "023c8c9863cae2beff06f61dfc4b39f41d37a9885a0ac836b10652fe61186739",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-total-3pt5"
+ },
  "0x3d5acb317f33bc08ed2d3e9896eec99e68c12a4aa38942ee2ecfb9ed64c25725": {
   "created_at": "2026-08-11T19:19:24.952337Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -268,6 +277,15 @@
   "revisions": 1,
   "sha256": "c2405aee41bed19c7ae9d5f296603ed1b99799bce1e6b40ccdb65faad54bc709",
   "slug": "will-ian-strong-be-the-2026-acc-receiving-yards-leader"
+ },
+ "0x43454e364b290d767aa915afc88e70d33e04848a3e3788388dd3298e4bd4d525": {
+  "created_at": "2026-10-15T18:01:00.048735Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 4.5",
+  "revisions": 1,
+  "sha256": "8d1abea63a13c4a048156a73d297bde943ff79fe8a3caa62ee6b8218cf54866a",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-4pt5"
  },
  "0x454005ba2b2a2f3bfeb354e18d8c0cb82136009c8f39589645f9cf2af25f0d25": {
   "created_at": "2025-10-28T15:00:20.478489Z",

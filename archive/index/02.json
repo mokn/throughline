@@ -71,6 +71,15 @@
   "sha256": "fc7ce0cee91d17e813ee17eb77caf7541f6dabfcd9b6ccf458bae1b2a33f7ca2",
   "slug": "will-meta-be-the-second-best-math-ai-lab-at-the-end-of-december-2026"
  },
+ "0x0728fdc7c7131ee4969643567d8ecc69539baf964b8c3595c73027bd11885c02": {
+  "created_at": "2026-10-15T18:00:57.463538Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 2.5",
+  "revisions": 1,
+  "sha256": "10aafb66c7b88d5021ea3ca8c1b49175aefc1119064cdfc70020d9e918b7d7ab",
+  "slug": "cdr-cd17-car-2026-10-28-total-2pt5"
+ },
  "0x0c4aed46181041bb5a15735f17d6ec688a27f1693848d22bb711791421c7b302": {
   "created_at": "2026-10-01T19:30:28.175233Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -747,6 +756,15 @@
   "sha256": "18d89cd07debe8b6683a9d3564f9b3760a566102b2eba3b00173c493e70a37da",
   "slug": "nba-2026-27-bpg-leader-jaren-jackson-jr"
  },
+ "0x8a5f0311d14942541f484266ee6ee4772c46ad53378c24d1a5700c643ff16302": {
+  "created_at": "2026-10-15T17:01:38.460141Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 5 - 5 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-5-5"
+ },
  "0x8aeed6f88a1c68edf023e721124898915781e4fc84bf707338f55ea731303602": {
   "created_at": "2026-08-10T15:43:06.970965Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1000,6 +1018,15 @@
   "sha256": "af580f6e24e481b7fb249344673d3f0f75da3decf65be8face22d5b5772e133c",
   "slug": "will-cfr-cluj-be-relegated-from-romania-superliga-2026-27"
  },
+ "0xc687b23e7cb8097eadf0d5dfa855a0158f6980e116f4598e4dddb08eaf517902": {
+  "created_at": "2026-10-15T17:00:58.47168Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 2 - 4 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-2-4"
+ },
  "0xcd5e61b905559309d72e402500f0b8900a4d78744438106cb977c3ed9ffeeb02": {
   "created_at": "2026-10-13T15:56:38.481008Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1125,6 +1152,15 @@
   "revisions": 1,
   "sha256": "87e4cd3b40a999cbae984eafe021d354a16f59ccd5c8044e2f29ed382a2b2474",
   "slug": "will-stateside-pinkpantheress-zara-larsson-be-the-top-song-for-2026-20260714195249193"
+ },
+ "0xf21b08bf87622d951198d4c03127ac36b66d493e07dc8d07d099978654fb0502": {
+  "created_at": "2026-10-15T17:00:58.16343Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 1 - 4 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-1-4"
  },
  "0xf275b82539a178a549812198165bae717c9bed97f21356a9e6a628097bdda502": {
   "created_at": "2026-08-18T14:19:46.249797Z",

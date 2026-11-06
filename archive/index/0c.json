@@ -71,6 +71,15 @@
   "sha256": "80a03edf7902540b299bf83be8e8e34e6f072da7a9ad188bcc41846d41b13931",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-52-house-election-by-25-30"
  },
+ "0x07d4155f8317b3d26dcf930441f80e3ac262bfab878c6b46c5dcb0b1967e680c": {
+  "created_at": "2026-10-15T17:00:58.578506Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 4 - 2 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-4-2"
+ },
  "0x08dd73823692954b349d37553101cf749f5f84dc547ee43f51984f811675250c": {
   "created_at": "2026-03-20T15:04:40.046685Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -632,6 +641,15 @@
   "revisions": 1,
   "sha256": "3580ab0d33f7c1458e7cd2a11d4d53d16d2ec6739490ddd690b61a46672038c9",
   "slug": "2027-soccer-slovenian-prvaliga-winner-nk-nafta-1903"
+ },
+ "0x6787379708622a7ee6fbf1018597aea4aa038e9d9c75ef774b1f792f478b380c": {
+  "created_at": "2026-10-15T18:01:10.187494Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "f1ade2088dd0eeffaaa834c68edb990e2a8e707a1d2f490394286a47e72cb3ce",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-away-2pt5"
  },
  "0x6b2424ef0e7e3142e36e9294bdd1aae79106e90082fa2d403c28361a32f24d0c": {
   "created_at": "2026-10-30T22:00:45.253531Z",

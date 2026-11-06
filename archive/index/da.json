@@ -289,6 +289,15 @@
   "sha256": "2e53fb701e96aae72493d256809897fdd8c6700bb17b7af705aca9640eb095d4",
   "slug": "will-the-democratic-party-win-the-fl-05-house-seat"
  },
+ "0x3b0a747227e9ff54fec8d9e7bc0b1d3a80634da9534903eac671629106502cda": {
+  "created_at": "2026-10-15T17:01:20.720449Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 2 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-2-0"
+ },
  "0x3d9f53bfb10379cb40a0900b515f8d7749197fa1e28682adb9e1eb5ec8b551da": {
   "created_at": "2026-08-18T20:30:41.273142Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -596,6 +605,15 @@
   "revisions": 1,
   "sha256": "7731b3e59d6053460ff31d00ef77968dcd081ddb06414c0cbd9e290977de49d6",
   "slug": "will-meghan-dizon-qualify-for-the-2027-ppa-tour-finals"
+ },
+ "0x6cbea8ca2d892715f8e09f296ad8d39580d6a6e94fcc684fba1bc49e139a91da": {
+  "created_at": "2026-10-15T18:01:52.268933Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 5.5",
+  "revisions": 1,
+  "sha256": "7e531c49e228af0f45e273b5ca5fd42980959244be43c282df39ec3d9e190c8d",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-5pt5"
  },
  "0x6ce85b63aad51bfd143744768b27cc8599a0e97c0fad6bb458dc4f41683b87da": {
   "created_at": "2026-08-07T20:32:06.553412Z",

@@ -153,6 +153,15 @@
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
   "slug": "f1-brazilian-grand-prix-driver-fastest-lap-albon-2026-11-08"
  },
+ "0x1b9ea0020d8b857c44380ca625eff5eba8c4b9d2bd8eb8ec61707357bb78b7f1": {
+  "created_at": "2026-10-15T18:02:35.774518Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Real Uni\u00f3n Club (-5.5)",
+  "revisions": 1,
+  "sha256": "b9b5ffc5bbfb80c58ef2ad05179f09879a3b1c7e51d174f794b9825e19cf4871",
+  "slug": "cdr-por-iru-2026-10-28-spread-away-5pt5"
+ },
  "0x1c2c28872b47dbc74df6bd9c8574cc58b20a513bc4b218361d8435329d3b78f1": {
   "created_at": "2026-08-24T16:40:49.322138Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -830,6 +839,15 @@
   "revisions": 1,
   "sha256": "1b092083ed67ea2d00512f47a3d15bddce55f8fb9e37d4ce5d45b560dedd9ef9",
   "slug": "will-the-debut-be-nominated-for-best-film-editing-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x80f7782d854f276390029ec8430a8464fb0332322f4205c70d2bdaf0271129f1": {
+  "created_at": "2026-10-15T17:02:05.665722Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 2 - 1 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-2-1"
  },
  "0x8157b83867ca85d62724c277c7c88074622fd1c1fc84f6f4b5bdc492e68400f1": {
   "created_at": "2026-08-12T00:11:26.162403Z",
@@ -1512,6 +1530,15 @@
   "revisions": 1,
   "sha256": "760db3a207ae39894ee3749948b22449ef7a4565d8bba49c3906164bdc65c029",
   "slug": "will-the-democratic-party-win-the-ny-13-house-seat"
+ },
+ "0xe0b7250d20090df5f97a208c00a848db6f7f29a48b1738a8aeac3dcb85150bf1": {
+  "created_at": "2026-10-15T18:01:06.284272Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "67f8ce51b1308e8ad7d5d2cebb6665ef435ee43ef18793c5c49eab7fe45c4154",
+  "slug": "cdr-red-bar-2026-10-28-btts"
  },
  "0xe2cd7ef9917fd20bfc18f050bed426ffcaab351f3680dfa50600ec6898d51bf1": {
   "created_at": "2026-08-10T15:05:23.113987Z",

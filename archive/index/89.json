@@ -8,6 +8,15 @@
   "sha256": "1f9e9adb0909453844a8d9bd5f473b5830129c7bb73c99ccac38b1fa0f5bf23e",
   "slug": "will-gabriel-attal-win-the-second-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
+ "0x017c8f7060e3f99ff83f0c3f86cbcf964c7e0e9ef711e0e7e44d69712133fd89": {
+  "created_at": "2026-10-15T18:02:18.108385Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "1c74617f1197137921587e6ba40e1c8a379d6b0533c0e86bee0be001202366ca",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-away-0pt5"
+ },
  "0x02b4c679f6feb229d1c665d140bdd739053d801751aae2a60e4c3272aa0fa889": {
   "created_at": "2026-08-24T16:34:56.696213Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1027,6 +1036,15 @@
   "sha256": "a554964fb936620b5a5087ef81e45a497757f57b63720fb3f10bf8848aa742f7",
   "slug": "nba-players-to-be-traded-before-the-2027-trade-deadline-andrew-wiggins"
  },
+ "0xad031dc47e9f434bfc2d50511cd3d48d37fdf4eb356b0bf2290ff68ec113df89": {
+  "created_at": "2026-10-15T18:02:17.53357Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "c61056248472c89f56f9066756b043e7abc34e4757d00127a401512fcd295140",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-home-0pt5"
+ },
  "0xae984a42f999b0dd9a67d1445725c2e6d0f2971f6bf59dfce4ab6aab12eb6189": {
   "created_at": "2026-10-28T21:55:05.73999Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1071,6 +1089,15 @@
   "revisions": 1,
   "sha256": "bbe7489c59af0ad13a661d71cbdf18ff5519bb9b91ec4afccced466be3473226",
   "slug": "will-kimi-k3pt1-pro-debut-at-a-score-of-at-least-1490-by-june-30-2027"
+ },
+ "0xb7475e240b6875bcf4ab3c3dff9e1f508db4a47aafa857f88ee4a414bbc78889": {
+  "created_at": "2026-10-15T17:00:56.741447Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CE Sabadell FC leading at halftime?",
+  "revisions": 1,
+  "sha256": "d5134958d3473dcfce262d364d37864462e39eda59f579f845aff897ec310f6c",
+  "slug": "cdr-ute-sab-2026-10-28-halftime-result-away"
  },
  "0xb91be12388b3d4079c3ed9b5783cb42d8c33051d37746a49300227e0f45fc089": {
   "created_at": "2025-07-03T20:37:28.688864Z",

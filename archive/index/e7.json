@@ -155,6 +155,15 @@
   "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
   "slug": "will-gta-vi-the-album-first-week-sales-be-at-least-50k"
  },
+ "0x2c4147fce65710dcf7a7db1bc92742ddb628176bf4ddd8a39fc1f27bbad59de7": {
+  "created_at": "2026-10-15T17:01:03.729388Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 2 - 0 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-2-0"
+ },
  "0x2c6d5b6f78f61e9de91862162c45eac469a4e1218b29ad597324d89dbfadf1e7": {
   "created_at": "2026-08-10T15:44:36.951876Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -217,6 +226,15 @@
   "revisions": 1,
   "sha256": "32a94156792bdd186bd89f1336fed358178976b3bff69f78cc486b1853252c10",
   "slug": "will-the-tennessee-titans-finish-the-2026-27-nfl-regular-season-with-the-best-record"
+ },
+ "0x3455e437a2de1382a56c4d5feba8d3e40a76e4e973a945a1409b84cfa859c7e7": {
+  "created_at": "2026-10-15T17:01:35.755002Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
+  "slug": "cdr-bad-cdt-2026-10-28-halftime-result-draw"
  },
  "0x368aba6d5ab556399e2907fd9d84a09ea429fcc1b5549010d07f6b79dc3934e7": {
   "created_at": "2026-07-31T23:08:39.475651Z",
@@ -335,6 +353,15 @@
   "revisions": 1,
   "sha256": "51f36153f7913d8c649a21b50289264eed15c4c2deb720be469893f83c7daae6",
   "slug": "us-announces-end-of-iranian-blockade-by-december-31-2026-20260727171803489-375-949-645-919-269-157-255-857"
+ },
+ "0x4810a0bca566b3a579d140ed8c2409bf4635b58761a487fbb721efbfb541cce7": {
+  "created_at": "2026-10-15T18:00:59.908047Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 3.5",
+  "revisions": 1,
+  "sha256": "8ebfe57d853b67a944a9e26b4a8a50e40a8dbfc22a75702d964787c6de43cd29",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-3pt5"
  },
  "0x48480ff60b7cff52809bd2a60cf87879f474f9eb3036647e35e0c2362dfb74e7": {
   "created_at": "2025-11-11T19:11:36.195256Z",
@@ -1006,6 +1033,15 @@
   "sha256": "e29ffdba0469a446479bec01cb055277e560773aac61962e24a718dbabf2db83",
   "slug": "will-brighton-hove-albion-finish-first-in-uecl-league-phase"
  },
+ "0xc7e9d44d9262e3d7a64721b82c798dc397a9579027b8d7a2ff15d397442006e7": {
+  "created_at": "2026-10-15T17:01:39.616201Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "030b440c4a86a160cbcd15209d1bf23120ab8fb1d060fa9e4b32109f2fddd035",
+  "slug": "cdr-bad-cdt-2026-10-28-first-to-score-neither"
+ },
  "0xc90d3199365d32b821b57eea4bf096d1250db4f1d64e1f0920e405ad2fd148e7": {
   "created_at": "2026-09-16T02:16:00.840222Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1082,6 +1118,7 @@
   "created_at": "2026-10-25T04:01:35.187551Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will South Korea ETF (EWY) hit (LOW) $138 in November?",
   "revisions": 1,
   "sha256": "aa033054bc4e6eee478381e2d05184e386602f7815f06580f02dfc1cac649bb5",

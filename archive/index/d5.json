@@ -17,6 +17,15 @@
   "sha256": "f7c274bfb6b5de3108e1b069753ab050650be1e1fbe658696cbb2d3d6a549e26",
   "slug": "will-fc-zbrojovka-brno-qualify-for-the-2027-28-uefa-champions-league"
  },
+ "0x00b8997da3048c2c8776bb83d9cb0dcfab1adc41f0894d4abe8a1e9058921dd5": {
+  "created_at": "2026-10-15T18:02:49.789619Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "ff58aa464d9ba7491de78d37ea21a744e614173c3575a520019115c63b0341dd",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-team-total-away-0pt5"
+ },
  "0x0147ca56d4899de702426281e3c3b0d0968dc90ebe19ea08840a0584ea9e3ed5": {
   "created_at": "2026-08-11T18:36:08.390367Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -134,6 +143,15 @@
   "revisions": 1,
   "sha256": "a6a27b61e72bdd5760fae3ccb27d5b0222597bc5ac483c32e9a514b96be37ea4",
   "slug": "will-kirsten-dunst-be-nominated-for-best-actress-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x153c3c4be31d202608a459765a3dfe2f475a72b49aef15fbc071c91ddabe99d5": {
+  "created_at": "2026-10-15T17:01:19.799184Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
+  "slug": "cdr-ca-mal1-2026-10-28-halftime-result-draw"
  },
  "0x159d615d54990814d30c9a3dcc2ee4487f14ec9d20c8681e28f3c9063ffab6d5": {
   "created_at": "2026-08-07T14:05:54.328912Z",

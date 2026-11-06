@@ -30,6 +30,7 @@
   "created_at": "2026-08-12T00:16:46.652191Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Escorpiones de Bel\u00e9n win the 2026 Liga FPD (Costa Rica)?",
   "revisions": 1,
   "sha256": "806faf943de42db81c8db65f00cadb99a7a65b53ef631961f87ee4140a94b815",
@@ -533,6 +534,15 @@
   "sha256": "7824affdfbf9094576134026f1bd9acbbf6288d0ff7ceffa6dfc16839019694a",
   "slug": "el1-bar-mkd-2026-10-03-corners-team-home-3pt5"
  },
+ "0x660410b8c484afc03da1ce34d6b985a030cc16cb2da3d29fcf42ee43b4b2b13b": {
+  "created_at": "2026-10-15T17:00:57.539028Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 2 - 0 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-2-0"
+ },
  "0x669897fc0f63b5de0c0d67c0d5bf47ce0e4db65f6fef6003733418afa75a563b": {
   "created_at": "2026-09-08T16:07:43.362998Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -722,6 +732,15 @@
   "sha256": "2d40d97d81a71bdca275e26cd0eba17c903be49bdd305320bd46008c55dbb3ce",
   "slug": "will-the-utah-mammoth-record-80-points"
  },
+ "0x88b5b96ce5f0804a9207dcee4410c7cb288907c3606959ce0fdacce9b6294f3b": {
+  "created_at": "2026-10-15T17:01:21.336482Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 5 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-5-0"
+ },
  "0x891a9657557a94b028fcdcc67016ecc9b5c3f09d8646dc8fd3ae13b1dea0943b": {
   "created_at": "2026-08-11T14:18:49.138691Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -763,6 +782,7 @@
   "created_at": "2026-01-28T15:40:00.268107Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the TN-09 House seat?",
   "revisions": 1,
   "sha256": "6df42336c944b64331141f5240f91a8739b8e565ae47e4349dac631fce968086",
@@ -830,6 +850,15 @@
   "revisions": 1,
   "sha256": "53213cd92f94bb50fc075d02837fb3b0030568fc65611b124d277187e8205d41",
   "slug": "will-gadi-eizenkot-be-the-next-israeli-minister-of-finance"
+ },
+ "0x9db15dd577f9fc88d2fc0441856511bb9ce87f1decacb86fbe605a94bfdd753b": {
+  "created_at": "2026-10-15T17:01:03.35312Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 0 - 0 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-0-0"
  },
  "0x9e8cfd71b7a8cfaad6c043b5e04a1cb2101ffcedaa69064978f859f47c4cfe3b": {
   "created_at": "2026-09-08T21:37:49.767289Z",
@@ -1051,6 +1080,7 @@
   "created_at": "2026-08-11T14:10:44.530142Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win 6 or more House seats in North Carolina in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e7e410e783f82c06392ed31b471dab1af4da67d1b15f78a43764fff4b5ad3bc7",

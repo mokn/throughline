@@ -289,6 +289,15 @@
   "sha256": "175e5715f65040dd74298ad9a1b2231e932428f2bf12dfd7e7c9cb61fe78219c",
   "slug": "will-stephen-kinnock-be-the-first-to-leave-the-burnham-cabinet-20260803162204133"
  },
+ "0x360aca9dce902bbe8b98739d11e22a78b09bd69dfbb10c5519fbab35507acccb": {
+  "created_at": "2026-10-15T18:00:56.192534Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-2.5)",
+  "revisions": 1,
+  "sha256": "e34e2dc2d5a87e88fb517d1b058b9678cd8616942e973bbd54665e6792af8b4e",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-2pt5"
+ },
  "0x371c9fc38da8bafeb582e1a07f22b72e8719fe3d91a170130703c0fd670b6bcb": {
   "created_at": "2026-11-03T17:40:21.581352Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -514,6 +523,15 @@
   "sha256": "585d390dbc98e768ee2a1852f58943710a9b7fc2484402ca6ce9d81a30e01edb",
   "slug": "will-1w-team-make-a-dota-2-roster-change-before-2027"
  },
+ "0x6947ce2cabb41567879f4354d7f032797489b99d1e7cb4db2810893f494d75cb": {
+  "created_at": "2026-10-15T18:01:47.154316Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Badajoz (-5.5)",
+  "revisions": 1,
+  "sha256": "16ffbd4b749dc6bd7dcbaa3d7150d2feb2ee651036c3be189ca30077945d85ff",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-home-5pt5"
+ },
  "0x694e5795fcd4edc773a7a19000d1d1b974688e5c3d028491b9941208e1d277cb": {
   "created_at": "2026-08-10T23:56:28.405552Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -523,6 +541,15 @@
   "sha256": "b23fc220b1ef091a8effe900a4c272ea818bce79716360a6273fca706ce2bb78",
   "slug": "parker-washington-349pt5-receiving-yards-2026-27"
  },
+ "0x69badcddb2a870fe20a4a6264a48655518f7fc6b6ba52d37fec72d3d9dd439cb": {
+  "created_at": "2026-10-15T18:01:08.127813Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 4.5",
+  "revisions": 1,
+  "sha256": "da9059584729320bc1f08d5db733e8ff056eaa2d4ce389e55063f6f9f402afa5",
+  "slug": "cdr-red-bar-2026-10-28-team-total-home-4pt5"
+ },
  "0x6c60c09a5bd2affa28321cfd4e64aee76276bdfd79a20855e87495a0083cefcb": {
   "created_at": "2026-08-24T16:40:50.768986Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -531,6 +558,15 @@
   "revisions": 1,
   "sha256": "b0548f98e0273c231c0c5f16b9f9f24f6bbf2de1abd170722227a614ebc608f4",
   "slug": "will-celta-vigo-keep-the-most-clean-sheets-in-laliga-2026-27"
+ },
+ "0x6cd3ac54d9198e216bcd964170d98d85280e542c73468ce53d2878f598300dcb": {
+  "created_at": "2026-10-15T17:01:04.977167Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 1 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-1"
  },
  "0x6f5bd5fd447fa2d3e73dd7873b19c0a8667ac1effe1c86c422f91f193bc3e3cb": {
   "created_at": "2026-08-24T16:33:04.519312Z",
@@ -729,6 +765,15 @@
   "revisions": 1,
   "sha256": "853738a0e7381e85dc7366816494462348a59a93afef2a34283a050bd11f95ec",
   "slug": "christian-watson-6pt5-receiving-touchdowns-2026-27"
+ },
+ "0x9b28da5c9411fa418f0aa15df8897b2df8a0f17f25945288a96ddc1f927f80cb": {
+  "created_at": "2026-11-06T00:02:41.102787Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Tim Burchett be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-tim-burchett-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0x9b66cbca24f91b50ba81ef9acb20f1df62b7235a5dc5db12184d014761320dcb": {
   "created_at": "2026-08-10T15:50:01.215711Z",

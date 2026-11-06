@@ -278,6 +278,15 @@
   "sha256": "ba59ae90b12a2ae623ad058b7d7eaf71f8e5fbe805df4351c4b1ea0ac4d5c774",
   "slug": "gtm-ant-mun-2026-09-19-corners-first-half-total-5pt5"
  },
+ "0x29a9adb0a88edba55ae26157f71734fceac57549d62fea739e8571cbfabf6412": {
+  "created_at": "2026-10-15T17:00:54.753195Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Utebo FC win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "b6888314a041191385a094115c330aee4172597df812a871512264e767394dc5",
+  "slug": "cdr-ute-sab-2026-10-28-ute"
+ },
  "0x2ba21d1697b62e70f1684f53bb411d0d8dde6ce59e84e5f9ddfd28255a323e12": {
   "created_at": "2026-08-11T19:11:17.236388Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1306,6 +1315,15 @@
   "revisions": 1,
   "sha256": "6676d6e21537db5c5740f4d303ceed4c2f8f28a065fcdbd8163cfadab8ac9116",
   "slug": "chase-brown-1000-rushing-yards-2026-27"
+ },
+ "0xc2b5e913856cc4a2ab71d187212d17e2033f300b6b292ca4fe1e7bd4b99eff12": {
+  "created_at": "2026-10-15T18:02:15.954599Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 1.5",
+  "revisions": 1,
+  "sha256": "c6422f80cd08540d6e496dcb5ac870dff6131277fd1627e499b5b8d0c8f30b53",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-1pt5"
  },
  "0xc69155dc285a057e40b4cffead7f1b9be5ca471d1eabf905937d976130ba0d12": {
   "created_at": "2026-09-18T08:45:14.590414Z",

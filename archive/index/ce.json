@@ -428,6 +428,7 @@
   "created_at": "2025-12-15T19:20:59.483189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the AZ-06 House seat?",
   "revisions": 1,
   "sha256": "6268538a7d1b97fbdae54fed02e8b95bd82336b17bb907322d5eb1fd5ef20e61",
@@ -1146,6 +1147,15 @@
   "sha256": "512dea95f0b3ec7e64578720a0546ae53294a2e2734d7cb8c97d4cad785c0219",
   "slug": "el1-don-oxf-2026-09-26-corners-second-half-total-3pt5"
  },
+ "0xbfc4d996a531bee4e631ed64669eafcc64f2d15fdc28024df993e9a87c09b8ce": {
+  "created_at": "2026-10-15T18:02:18.249248Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "d52258584628512a6960dc13867e661947fea22789ee102c2d55438d421e01e5",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-away-1pt5"
+ },
  "0xc06fce4db8a9bfd1c42c0f6632239ca2ede0492535084735211a21a58e7100ce": {
   "created_at": "2026-10-26T15:52:27.450796Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1425,6 +1435,15 @@
   "revisions": 1,
   "sha256": "f507b1d484afd0194e4d2e0f4761f2ef3cfb6975df4aebe3193bbc33a7844793",
   "slug": "will-lane-hutson-record-100-points"
+ },
+ "0xe7ebba23a0175fd1b379eaa65c4ab5fe10b62f1d0c01c2f1dd764170258ebace": {
+  "created_at": "2026-10-15T18:02:16.529065Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 5.5",
+  "revisions": 1,
+  "sha256": "275475ce05a85a38396193f34a876b11068b4682b7ab3671006679aafc862baa",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-5pt5"
  },
  "0xea2cde8aa9683b96bd55ce84cb6c74bc041eb8b6242d5aea4aaacb9d5b9a0bce": {
   "created_at": "2026-07-08T17:39:05.868986Z",

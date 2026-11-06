@@ -364,6 +364,15 @@
   "sha256": "fe83a2f5f6346d304426c403248d53d2ae314af635791af745282d163bf38d41",
   "slug": "will-bayern-munich-record-82-or-more-points-in-the-2026-27-bundesliga-season"
  },
+ "0x3ae704f3f3dcb7e714577caab15fe18cdb8835faabb59d32cbb15b709eb611e8": {
+  "created_at": "2026-10-15T18:02:34.312156Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Club Portugalete (-1.5)",
+  "revisions": 1,
+  "sha256": "ade3b65a52e1dacb0c9a77f28d135ba38f62f59bc990134a75dd1641a1696f9c",
+  "slug": "cdr-por-iru-2026-10-28-spread-home-1pt5"
+ },
  "0x3f86eb482598a1085439291dfb1905c180e93922624266e12533e3545c1583e8": {
   "created_at": "2026-09-08T16:52:48.875427Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -915,6 +924,15 @@
   "sha256": "563ecc63bb23ec3a0c199caaf0aa2f23344c3e3e275dbf6814982a9373cf4892",
   "slug": "will-the-democratic-party-candidate-win-the-2026-pa-04-house-election-by-15-20"
  },
+ "0x959860856d5d5665a72651c96f2ab6a01f1352af685bacb60dcabf426c5c65e8": {
+  "created_at": "2026-10-15T18:01:50.900265Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 4.5",
+  "revisions": 1,
+  "sha256": "cacf868637ee95ec92595db103628ca025fa1d8f279eaa275f6602f88276f9b6",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-4pt5"
+ },
  "0x975f806bf228775ed51af7214989322c30899a42affae50dfae811d3f4c230e8": {
   "created_at": "2026-08-12T14:47:42.752838Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1408,6 +1426,7 @@
   "created_at": "2026-08-25T04:21:43.591082Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will XRP dip to $1.20 by December 31, 2026?",
   "revisions": 1,
   "sha256": "e7ded5f84d33cb56ca8a6d3e19a1f54d009aa757005a574a7df568b015ac7384",
@@ -1486,6 +1505,15 @@
   "revisions": 1,
   "sha256": "398c56312585c2cff64423b7ee2f0f9c17bb8fe6dfb316f40a821bbacea121f5",
   "slug": "will-the-democratic-party-win-the-al-06-house-seat"
+ },
+ "0xea8a124147d06362c70861e48906dacd68181d722264d43c2e050b40426bbee8": {
+  "created_at": "2026-10-15T17:01:36.955701Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 0 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-0-4"
  },
  "0xead958c3c7b6843fe15731812a148ee5bd69665b5ae58365d4ccfcc8f20d14e8": {
   "created_at": "2026-06-30T23:18:40.429646Z",

@@ -89,6 +89,15 @@
   "sha256": "9fdd944b3cdf386a21d6b6ffde3ca50b450fd7a3545818e04d13f94bf6686f11",
   "slug": "will-christian-mccaffrey-finish-as-a-top-12-flex-in-the-2026-27-nfl-season"
  },
+ "0x15ce6134516179808f038b4c96739ff996bdb39bf1b128a384ab6a70e60a78d8": {
+  "created_at": "2026-10-15T17:00:58.423458Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 1 - 5 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-1-5"
+ },
  "0x160571eeba161cf71efb8443d61568cc9eb309cc4c73e183cef41d89d7626bd8": {
   "created_at": "2026-09-02T19:31:09.101552Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -205,6 +214,15 @@
   "revisions": 1,
   "sha256": "c15870e9a1d5d1e23d547ae596e3e78035908ae1f79574c72a65aa1ff6b54928",
   "slug": "will-morena-win-the-most-seats-in-the-2027-baja-california-congress-election"
+ },
+ "0x32278a03deb5e2ce9ea784219b59d4d689e453b96f9b47d323e3608a8872e3d8": {
+  "created_at": "2026-10-15T17:01:35.686712Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz leading at halftime?",
+  "revisions": 1,
+  "sha256": "21d950b7d517b27fb42af52cb7cf4e5e170fee56b0b64f7314ae7bc3dacff059",
+  "slug": "cdr-bad-cdt-2026-10-28-halftime-result-home"
  },
  "0x33abb7ae129e88101ebd1c3b721646da2bef4e287eef9e724d7115e6c8bc40d8": {
   "created_at": "2026-08-24T16:32:47.405174Z",
@@ -422,6 +440,15 @@
   "sha256": "070984da396080f0aeec3403365de8784ca222b44e077f36f0344f53023b98ab",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-julius-randle"
  },
+ "0x55a8cc6419c1b162d9851ccbd95b48888156b5c95dff070bc270f3ca96050cd8": {
+  "created_at": "2026-10-15T18:02:43.382605Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CE Sabadell FC (-3.5)",
+  "revisions": 1,
+  "sha256": "c3dcb051a872f9dd8cf92cda17a958c4a1bfba73d1000fb5ad1b29eab9c5a744",
+  "slug": "cdr-ute-sab-2026-10-28-spread-away-3pt5"
+ },
  "0x564a1ff4045e126333bb55ee3e651eb3f485059b76d33af296952816f206ecd8": {
   "created_at": "2026-08-10T23:57:44.235485Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -530,6 +557,15 @@
   "revisions": 1,
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-moritz-seider-win-the-2026-27-james-norris-memorial-trophy"
+ },
+ "0x6aa500c6dff9122ce6f6991fba89906f2bd1e69bd97c27a307460ad06b1476d8": {
+  "created_at": "2026-10-15T18:01:51.396667Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 1.5",
+  "revisions": 1,
+  "sha256": "e10b91a25c3ee7f3fcd0da35dfb36e421485d5d1fcbf0191ee6cc4b1c0043750",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-1pt5"
  },
  "0x6c1077105303880d71b6db28dc2fd7ba3fb1f1fef3be6c0315aaff18ad5dd7d8": {
   "created_at": "2026-10-13T15:50:07.070425Z",
@@ -1392,6 +1428,15 @@
   "revisions": 1,
   "sha256": "aeac7acaf835dd63954e25aec3194b47fb9a4ae912bd54a50c51941b2cbd1556",
   "slug": "will-sam-rockwell-be-nominated-for-best-supporting-actor-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xf3e7446d35d2bbd97d43b82629ec3c6c3ff6e10e98a7aa9f29e6c6579c605ed8": {
+  "created_at": "2026-10-15T17:01:05.226027Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 4 - 4 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-4-4"
  },
  "0xf4cc70371291502414584c5f349b66ef5bf4828ecfb7fd19b1044827dd761dd8": {
   "created_at": "2026-09-28T17:20:18.767206Z",

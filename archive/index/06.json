@@ -644,6 +644,7 @@
   "created_at": "2025-12-15T22:13:48.822112Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NC-01 House seat?",
   "revisions": 1,
   "sha256": "eb58a4c55a889bb0c286472f9930517bc26061d450f7e40cb057f693216a13eb",
@@ -693,6 +694,15 @@
   "revisions": 1,
   "sha256": "4d9415d6386e74e226389e9aae4fdec1a09bf513b45ca73837942a36a013429b",
   "slug": "nba-teams-60-plus-wins-2026-27-dallas-mavericks"
+ },
+ "0x5da5d957c4d8e35721a3cdaf3626c16d2abae754582918ccebe8f7cbe5c3ee06": {
+  "created_at": "2026-11-06T00:02:44.471671Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Andy Ogles be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-andy-ogles-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0x5ebd0b3d8416eaa4f5bcc19c935bbcf0a256446309e663d855eb7fd03a843c06": {
   "created_at": "2026-09-02T20:15:12.889103Z",
@@ -954,6 +964,15 @@
   "revisions": 1,
   "sha256": "f0fe8d68a91e3c2d7ac4aa7568f2a82532fe8d8192be9d51960946336cbe5d7f",
   "slug": "will-the-us-reopen-its-embassy-in-iran-in-2026"
+ },
+ "0x91cb70968ee72e3d58405da2ccaa38e348c9c62feaba1c28cb061f991cbaf706": {
+  "created_at": "2026-10-15T18:01:50.251592Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 0.5",
+  "revisions": 1,
+  "sha256": "3d31d14a274f21e857b3114ec6f8d475ea0ca44605f42163f4bc28c30ebe1509",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-0pt5"
  },
  "0x91d503ad773c5c870aee6892ad7f5ee5b40e48ff134365afa09770d3f18ae206": {
   "created_at": "2026-09-20T08:47:25.599338Z",
@@ -1417,6 +1436,15 @@
   "revisions": 1,
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-miro-heiskanen-win-the-2026-27-james-norris-memorial-trophy"
+ },
+ "0xd7ba74d618106f29dffe3099267bd4efe246945c847c488edc9d33036def8506": {
+  "created_at": "2026-10-15T18:02:37.67701Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "18c107f3dad5507d357f812a45715fb2a4d8cff035a9fdfd5877568287e29baa",
+  "slug": "cdr-por-iru-2026-10-28-first-half-total-0pt5"
  },
  "0xd81d243e9d8a3fe8acaeb59650dbd7ba68e757c0fcfa96c97c782f76d9dc1706": {
   "created_at": "2026-08-18T14:23:58.967346Z",

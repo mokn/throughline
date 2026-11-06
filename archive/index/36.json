@@ -179,6 +179,15 @@
   "sha256": "d5c0fab055ec6f8b4dd4974efc6b8128d572b1584952355da826e393972cda1e",
   "slug": "friedrich-merz-out-as-chancellor-of-germany-before-2027"
  },
+ "0x1837aecd1eb8136751d126fdbba9397d76b57393f303bad500234cacc827b936": {
+  "created_at": "2026-10-15T17:01:37.952623Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 3 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-3-4"
+ },
  "0x1a63c92d9b255ad7364355125c7c2f323032871389b2cb124d53c1c2b1099436": {
   "created_at": "2025-12-16T15:10:23.81057Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -730,6 +739,15 @@
   "sha256": "e391cceb52c70d82cb8ed6dc4f94c4aee427f9f0a1b231546b9f26f8a0ec4888",
   "slug": "nba-2026-27-players-to-average-10-plus-apg-deni-avdija"
  },
+ "0x6d6ac31b29cce6f662b87f3402875907eebaf3ba3c2905282eaf4a85ccc6f936": {
+  "created_at": "2026-10-15T18:02:47.835353Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Utebo FC O/U 4.5",
+  "revisions": 1,
+  "sha256": "fa2f8b3a0d8dfe3522334df13610a0f483f082ff1f9c84739ec1e5e856afa44a",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-home-4pt5"
+ },
  "0x6e9ab6d8ea829e61db9dd0bca5dcad315c9009e4ccb2b83d7e28a293bc256a36": {
   "created_at": "2026-08-21T17:31:57.78743Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -892,6 +910,15 @@
   "revisions": 1,
   "sha256": "a1220b8fb1b36d8df77347784b6ed80cbbe6a6ea6bc9f8e832ca5f748810515f",
   "slug": "will-reanimal-win-best-audio-design-at-the-2026-game-awards-1785857786743"
+ },
+ "0x85af096151a039c9b0125939db35541e25dff131e6fecadeaba23b3f0943f636": {
+  "created_at": "2026-10-15T18:00:56.748733Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-4.5)",
+  "revisions": 1,
+  "sha256": "091dbcb9b95a4e88815852c4a484494932f37dba8a70169dc7185a5533518cc9",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-4pt5"
  },
  "0x85f69bc877f0d6d588b63bb9b0edfd2bc9af2bad1e261a4ba6d30a1d2a38c136": {
   "created_at": "2026-01-28T15:34:30.840923Z",
@@ -1332,6 +1359,15 @@
   "sha256": "fdbb3b3113ff34714d76503327dd38f776c0336458918baf84c67318a3a5f8a4",
   "slug": "will-joshua-van-be-the-ufc-flyweight-champion-on-december-31-2026"
  },
+ "0xd632005d31b2c6d9acac4393d405e5d5c4f0be6d5b5465145481cc4165280f36": {
+  "created_at": "2026-10-15T17:02:01.125495Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 3 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-3-2"
+ },
  "0xd66c74de2646dbb88918cf92a1e30913aba3dd9ec389702167064dfefa4ca836": {
   "created_at": "2026-02-02T20:21:07.315023Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1585,6 +1621,15 @@
   "revisions": 1,
   "sha256": "d4293a3a168b1bab5c5850ef393718e48d472e3fe33ea0a48af0701ebb7ecc9f",
   "slug": "will-the-republican-party-candidate-win-the-2026-oklahoma-senate-election-by-35-40"
+ },
+ "0xfb7c01cb7f13239ffdac826032b00ca92f797f415ad53d85f9ff32dc4b507836": {
+  "created_at": "2026-10-15T18:01:03.702356Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Reus FC Reddis (-2.5)",
+  "revisions": 1,
+  "sha256": "0b4f16f21e0ea43c99c7faacdd0dcddedc1da13f8703276f4ad28d2e2550e925",
+  "slug": "cdr-red-bar-2026-10-28-spread-home-2pt5"
  },
  "0xff8b18b9d0125fbb2866140a73b37f0d6308ea64d623ea2ee9b7ede0bf263336": {
   "created_at": "2026-09-02T21:51:23.301588Z",

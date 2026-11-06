@@ -877,6 +877,15 @@
   "sha256": "22bfd07723ff41bcec1214b43d03a51f9e53ef7c1dbed1bb32bd9e745d32607a",
   "slug": "russia-ukraine-peace-talks-by-december-31-2026-20260609012542189-588"
  },
+ "0x8f8787776890fdcc2dbc965350e43d6b6fa61098e5220f9c394ddd246c14a8e0": {
+  "created_at": "2026-10-15T18:00:59.4858Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 0.5",
+  "revisions": 1,
+  "sha256": "5597c8f0db7b97f7220ea12a4274343a6b49636809fc184c1d02516460408cac",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-0pt5"
+ },
  "0x8f887e89576c2a52e0a041bd8c81322ca7f9bfd6530340e205a1134e9b7e60e0": {
   "created_at": "2026-10-14T13:24:23.165371Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1038,6 +1047,15 @@
   "revisions": 1,
   "sha256": "4a0ade553193f535ab23a276ac6606507fe81f69ca266098b6b13cf15da04bf4",
   "slug": "will-alibaba-have-the-best-ai-agent-at-the-end-of-january-2027"
+ },
+ "0xa83c7bd84ad6cf307ca025f1a13371d8d3a01c0f353a5ce69eca363f4da9f6e0": {
+  "created_at": "2026-10-15T18:01:49.757033Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "040932c92c3977048288fe3fa40c27cf0419a19f61c21a2a21debaf37048242e",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-total-2pt5"
  },
  "0xa8d06b15dea210b6214ba7a44193e437a8e15de499335b9f5de8220f87c2ace0": {
   "created_at": "2026-06-10T19:12:35.188784Z",

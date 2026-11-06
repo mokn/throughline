@@ -53,6 +53,15 @@
   "sha256": "c167a19ef23e15acc7a3179eb1f1a22ae78b3813d1ce37309886b62e839f79a3",
   "slug": "will-the-republican-party-candidate-win-the-2026-mo-06-house-election-by-15-20"
  },
+ "0x0e774de675743c2d5a88d52896294fec104962bb1353957b6364f27473bade7a": {
+  "created_at": "2026-10-15T17:00:58.684629Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 2 - 5 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-2-5"
+ },
  "0x0fe12fe59a05b23fe5aea9c54ff2ac7d652e52b938405950af0cb72072458b7a": {
   "created_at": "2026-08-07T14:29:27.912404Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -211,6 +220,7 @@
   "created_at": "2026-10-29T21:29:26.282206Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Putin meets with Iranian officials by November 30?",
   "revisions": 1,
   "sha256": "b8113e44dec14f3b4bd7bf79fc360f6cb5302a66e2c32c414cf4c3a3b3f71813",
@@ -621,6 +631,15 @@
   "sha256": "edc0893b6f246ebf23135106a0265636aacd528b913b28b36d764dd751ba4f6c",
   "slug": "will-lionel-messi-win-2026-mls-most-valuable-player-477"
  },
+ "0x67933c19851f8f71f11a143a23ae5fb06ed722a0df60acf13fbc1f2e5952bb7a": {
+  "created_at": "2026-10-15T17:01:20.804219Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 1 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-1-2"
+ },
  "0x67b46b026f85adf080d3861704c3d96cf0e7aeb416cb9e7f9a822b303802ab7a": {
   "created_at": "2026-08-28T20:17:02.130661Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -900,6 +919,15 @@
   "revisions": 1,
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
   "slug": "will-the-houston-rockets-win-the-2026-nba-cup"
+ },
+ "0x922cdfa7135b815b7c68a6e7f6580c35a4ebf69ec81d145fb92d2d021bcd2a7a": {
+  "created_at": "2026-10-15T18:02:38.600083Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete O/U 1.5",
+  "revisions": 1,
+  "sha256": "db7c51d3c499ab3fc2f17f8f3e4ce2fbf7f40c9cfe7bdcd7a26b411f4d1d58f4",
+  "slug": "cdr-por-iru-2026-10-28-team-total-home-1pt5"
  },
  "0x927041904c0ccdd0870cb50e4f89b1d10f1c7a7f4cf582f332aaf0eb699c907a": {
   "created_at": "2026-09-08T16:52:50.096399Z",
@@ -1396,6 +1424,15 @@
   "revisions": 1,
   "sha256": "84780d56740681681c12bd704dc7258b5df636ad7fbdc7bd33e04164ddb713a9",
   "slug": "will-minimax-have-the-best-math-ai-model-at-the-end-of-january-2027"
+ },
+ "0xe75140289812557611420ba0102572bb87f390e2281ef15c69e7ccb897980e7a": {
+  "created_at": "2026-10-15T17:02:06.763897Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 4 - 4 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-4-4"
  },
  "0xe8ede6909d07e4d036b6e05679d385ff409fe996710fdc161f077e8d706acd7a": {
   "created_at": "2026-08-10T23:57:10.460065Z",

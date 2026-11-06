@@ -170,6 +170,15 @@
   "sha256": "388b6eb9f40dcb0b88e7d53ab025976e77688774c65e67f6de9166ecb4b74344",
   "slug": "nba-teams-40-plus-wins-2026-27-utah-jazz"
  },
+ "0x1a6a870f266857d3287ca0db2d55da3ff1178bcd5df627d9d514ae19c3684e5a": {
+  "created_at": "2026-10-15T18:00:55.909501Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-1.5)",
+  "revisions": 1,
+  "sha256": "dc08ce948e144853f175a656d53eafc8d856a9c5abe5420b2958be01d4394ecc",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-1pt5"
+ },
  "0x1ac7acaae93c250935c0c73167e522216c6b5789bfab3133db2ad9d9b39a755a": {
   "created_at": "2026-08-10T15:33:48.906689Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -260,6 +269,15 @@
   "revisions": 1,
   "sha256": "1295ed960381daf08c777d0d3c1991b6c6c4cdde1b66df571666fe66be6a36d9",
   "slug": "will-spd-be-in-the-next-mecklenburg-vorpommern-state-government"
+ },
+ "0x24a035cfd27fdf7f701ebd8d94e77925166c82cb2b1a6b6c1dda40e301f7cd5a": {
+  "created_at": "2026-10-15T17:02:00.446925Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-2"
  },
  "0x25ac3183a36f9b7561396e7ddfb871f7675a16f013c67b5f066380420eee9a5a": {
   "created_at": "2026-08-11T18:33:32.267643Z",
@@ -415,6 +433,15 @@
   "sha256": "d16da4c904f2657073e98d90d54e46175bdd8f087eff4f60bc64d0e3c384fa72",
   "slug": "will-james-comey-be-arrested-before-2027-614"
  },
+ "0x41669100bc05a60f8bbd6aefb301c1c5c80ce413d3106e38824d248ec56a9e5a": {
+  "created_at": "2026-10-15T18:02:17.105239Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 3.5",
+  "revisions": 1,
+  "sha256": "e2b286c5ec06c40cca3a99c817b518dbcc5b5993778c7bb1294ae8638a94346b",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-3pt5"
+ },
  "0x42c3fe0a8bcaa8936cd62a5ec72e1c7da32308776bda8fad5a37fe418afb1f5a": {
   "created_at": "2026-08-24T16:38:49.432729Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -441,6 +468,15 @@
   "revisions": 1,
   "sha256": "d384fe4571ad95701e2cab987d69c9bdf659cca93ea89a0daa3ca83c6bbe26ff",
   "slug": "will-gpt-astra-6pt1-be-released-between-january-4-and-january-10-2027"
+ },
+ "0x461cc93ccc1d475001282ea19d0e6962896f35c8c615260dc0526b7fa35d885a": {
+  "created_at": "2026-10-15T17:01:05.075055Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 3 - 4 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-3-4"
  },
  "0x4736beb403bb64d50153d96e1fd3cd3caea70b49e8534c06bd15c8639a29c85a": {
   "created_at": "2026-06-29T20:53:22.483841Z",
@@ -504,6 +540,15 @@
   "revisions": 1,
   "sha256": "6935ec789826b2cfe075dfe849af73d0e9a338b53865ae978ec064d9c766a61f",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-23-house-election-by-0-3"
+ },
+ "0x4c2b4d7292b9b5738a6c9ae45b8fac3a4ac20b03f3d7bbe1a8e862f3dd24635a": {
+  "created_at": "2026-10-15T17:01:21.468756Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 3 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-3-3"
  },
  "0x4cb1ac3ef097a74505416d18bf27734c843a365709a183ce2667f168ee6fd05a": {
   "created_at": "2026-08-31T18:27:34.981216Z",
@@ -783,6 +828,15 @@
   "revisions": 1,
   "sha256": "70d7a88aa2efa3edae573fe8c00e2d47d4527c0ac9c65ba5338eac790b46f785",
   "slug": "will-union-san-felipe-be-promoted-to-chile-primera-2026"
+ },
+ "0x7392923a82ffac8f6583dcc27081646833c1baee9a357ee8e28e8763a9856d5a": {
+  "created_at": "2026-10-15T17:00:58.990986Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 5 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-5-3"
  },
  "0x76f52099cedfeb2f02c40ebdaf6f66abfd14babec83208f8d7158f2221bbd65a": {
   "created_at": "2026-01-28T15:39:05.206868Z",
@@ -1446,6 +1500,7 @@
   "created_at": "2026-01-28T04:54:14.759039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the CA-29 House seat?",
   "revisions": 1,
   "sha256": "49a1fa866133f681376a195c8388c73bbff08480250a6fc2ba47c719bf5b2191",

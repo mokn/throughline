@@ -125,6 +125,15 @@
   "sha256": "e42b7b3eb0f8878def7488dfe07d9dd831c6b3a14c572206c0323abe756602db",
   "slug": "will-mistral-have-the-best-math-ai-model-at-the-end-of-november-2026"
  },
+ "0x187e7d026bed0c91e5ffad28d57fc482a8fd800f77eead6a2477c2c9f656fc64": {
+  "created_at": "2026-10-15T18:02:16.242103Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 3.5",
+  "revisions": 1,
+  "sha256": "2de5fc6c26833b38cdf7807aa3294df5ab50463e48ca02bc40915f66f63a0253",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-3pt5"
+ },
  "0x1982e956523846cefb9756bbd23b2b7937aa02fb8699650b991a3f8904907064": {
   "created_at": "2026-08-12T17:30:11.805683Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -279,6 +288,15 @@
   "revisions": 1,
   "sha256": "688e0183466807127ccf0df91f24c97b89b0959a168e8b73ec054590a8d05429",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ga-12-house-election-by-5-or-more"
+ },
+ "0x38bb27d742251002627c3866797e1e23aa53228aa07bd41b81e217132aa19164": {
+  "created_at": "2026-10-15T18:02:39.707228Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 2.5",
+  "revisions": 1,
+  "sha256": "ad6c5582ecc25fd35814512b060f1125332d4627731b60c0c781e260d7b7e4f3",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-2pt5"
  },
  "0x3b7d62b30c40265ac030f611f973a7b9a4c9d99c18c9bd7382ff48b9939fdd64": {
   "created_at": "2026-08-10T15:43:21.869616Z",
@@ -940,6 +958,15 @@
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
   "slug": "will-kanye-west-headline-coachella-2027"
  },
+ "0xaf98b4518deecba994f8c3089be2a0006fe209888aa3445e7bd0b5d35d369d64": {
+  "created_at": "2026-10-15T18:02:18.395123Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "743eae84efd71e5606c58265a12ab0c6c9fc3027ccffbaf98ef219bc01a921a3",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-away-2pt5"
+ },
  "0xb18fb0d13a891c7f538b4ce712bdcaadb7647cc173a6e03574eb4ca6459f5164": {
   "created_at": "2026-08-11T19:10:29.798711Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1053,6 +1080,7 @@
   "created_at": "2026-08-26T21:46:28.992973Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Lan\u00fas finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -1111,6 +1139,15 @@
   "revisions": 1,
   "sha256": "ef697cce15ffd241ee78cd15bc4a5746afea01d707e8942bf8d6bf8338be9966",
   "slug": "will-dave-canales-be-the-next-head-coach-fired-2026-27"
+ },
+ "0xc6843a648f1ccf1eeb20134ef9c8d94cf7d7796291b67c3a2411408f1682f464": {
+  "created_at": "2026-10-15T17:01:18.736535Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Alcoyano win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "f6153475c1ff598a926fe822f53b0d70058e3d69e0bb166318312f8dcd51a21d",
+  "slug": "cdr-ca-mal1-2026-10-28-ca"
  },
  "0xc6fb5df0257d52f1344795b38aaebc04801de4b9aaf8569435c15fb5711e2c64": {
   "created_at": "2026-08-10T08:21:50.41998Z",
@@ -1207,6 +1244,7 @@
   "created_at": "2026-08-12T17:27:13.849804Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Racing be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",

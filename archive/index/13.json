@@ -284,6 +284,7 @@
   "created_at": "2026-08-26T21:46:28.719637Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Gimnasia y Esgrima (M) finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -762,6 +763,15 @@
   "sha256": "fab90f35fea6e211f8ebe9be19acf45d6724da8c9b4ecbf62a370d7152eb5896",
   "slug": "dk-metcalf-1pt5-receiving-touchdowns-2026-27"
  },
+ "0x652cd105dee7c1d349a52a1d0c6107e68bac97f23aca465e76c0ff3b9a10b313": {
+  "created_at": "2026-10-15T18:00:56.330346Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Minera (-3.5)",
+  "revisions": 1,
+  "sha256": "504fd868156dba91f3eb1f3c77a6b655c09c082df00f19092fda5d6b24034490",
+  "slug": "cdr-cd17-car-2026-10-28-spread-home-3pt5"
+ },
  "0x6678c47120967c0a480eee4e169a0174df305f4f0ddf771baf0cc84c48310213": {
   "created_at": "2026-07-01T15:53:15.480802Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -826,6 +836,15 @@
   "sha256": "e03d8bd1a0d5213bed0b8b8b5ad6262940f68d5254b8b0046dcc83914687812e",
   "slug": "brian-thomas-jr-324pt5-receiving-yards-2026-27"
  },
+ "0x6f01633bf9d2987b6503bf292d4f4bafd04a282f7b6d09eb95dc6499384fdc13": {
+  "created_at": "2026-10-15T17:01:59.769548Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Barakaldo CF leading at halftime?",
+  "revisions": 1,
+  "sha256": "364abe4e33dc79f6927fa7d3a62e7d91c25cf85cf708417c5791011260e3e135",
+  "slug": "cdr-red-bar-2026-10-28-halftime-result-away"
+ },
  "0x6f5dbc827a092861919e72903c8e50880164df634438f4d5c60e19dae44b7713": {
   "created_at": "2026-08-24T16:40:38.240613Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -879,6 +898,15 @@
   "revisions": 1,
   "sha256": "598c3d6f0e44c1e64b2ac39260609945c83204590a0ae5ee129d7ab413d80691",
   "slug": "will-the-bank-of-japan-increase-the-uncollateralized-overnight-call-rate-by-25-bps-at-the-march-2027-meeting"
+ },
+ "0x7562bf8936cea91a65ce8366ca5d8dd58984aec8c8fa8f3e8c1cb1c8963c4813": {
+  "created_at": "2026-10-15T18:02:40.20644Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 5.5",
+  "revisions": 1,
+  "sha256": "4538c1b0dbb7a9bcacf03a28ad4e0ef72ae9fe953aaaf1ee52c15e0fec7ac98d",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-5pt5"
  },
  "0x7bff551844ab8ccd82b9f7a7445bb8c257750891fea0c01bd54733fdd3f53f13": {
   "created_at": "2026-10-24T11:30:42.234293Z",
@@ -1142,6 +1170,15 @@
   "revisions": 1,
   "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
   "slug": "will-order-of-the-sinking-star-win-best-independent-game-at-the-2026-game-awards-1785857780330"
+ },
+ "0xa67cce4321fb2ca71323547c89ac1fa510d8bf4a193ad4f1b3c8894ac20c6813": {
+  "created_at": "2026-10-15T18:01:08.265547Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 5.5",
+  "revisions": 1,
+  "sha256": "bb301a5757633a2e31b278b52668b873306ba772cc2ae071809b9875f8ef17a0",
+  "slug": "cdr-red-bar-2026-10-28-team-total-home-5pt5"
  },
  "0xa85d8d39f532b305bf20eb7d48f954e4c98f704e2463cda198ba46e9221f3413": {
   "created_at": "2026-11-03T21:31:57.629604Z",

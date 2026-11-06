@@ -450,6 +450,15 @@
   "sha256": "e72f081f269eb83da4e815009e291507ce52a6d9a9649eb6de95ff2e39add450",
   "slug": "will-the-republican-party-candidate-win-the-2026-nebraska-gubernatorial-election-by-30-35"
  },
+ "0x4690b13f320699699eef5c1131e72d26416b62bceb57a64d83ef9020a3002505": {
+  "created_at": "2026-10-15T18:01:09.39987Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "275565eed0c1332d2b983cd132d8ee8c362b31f7d709874399e5df7f4c3fd2eb",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-home-1pt5"
+ },
  "0x48c3d5d3f39be4ad5ebb4c0a3bbbd69a5bcea298df64fabf884270b856385a05": {
   "created_at": "2026-07-20T20:02:38.421533Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -943,6 +952,7 @@
   "created_at": "2025-12-15T22:05:25.499837Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NY-17 House seat?",
   "revisions": 1,
   "sha256": "4f42c5488ef98a5cd28fc81bd6b9b661dd099f096582823f679b69f60e8f815d",
@@ -1391,6 +1401,15 @@
   "revisions": 1,
   "sha256": "9e39147f5ce5721c38f995945230c3928b10ab118be74f1709a9d90dd82f043a",
   "slug": "will-miami-dolphins-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414204"
+ },
+ "0xe38791dbd06f4ec01bcabc507eca779c7a7b0512c526e9e1bd25082f8d570005": {
+  "created_at": "2026-10-15T18:02:12.914943Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: RCD Mallorca (-5.5)",
+  "revisions": 1,
+  "sha256": "5c5dd112cf46407aea0c1420461baa1c65990812b6dce30dd56a4c0f32fed68d",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-away-5pt5"
  },
  "0xe49199a43e00fc932c202a504b03f257ff4aee661d8a83e387670862919a8405": {
   "created_at": "2026-07-10T02:08:35.005875Z",

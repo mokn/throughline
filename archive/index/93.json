@@ -99,6 +99,15 @@
   "sha256": "e8b4903dc21162e3df4dccf4bac77797167e555cccc8b3c606954ac32e7c5ee9",
   "slug": "amon-ra-stpt-brown-105pt5-receptions-2026-27"
  },
+ "0x110282ab476d87bb035a617544216bd30e04f3a2131e5b43d11c2e7ac906c793": {
+  "created_at": "2026-11-06T00:02:47.11067Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will John Rose be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-john-rose-be-next-to-hold-blackburns-senate-seat-by-march-31"
+ },
  "0x11dd403efdc16265deefbb894a1bb5d0a95ba17fb82c5f61982ce67a21936393": {
   "created_at": "2026-09-08T16:54:49.630931Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -398,6 +407,15 @@
   "revisions": 1,
   "sha256": "a5c1d3e0c6f1d0e5f38fae8cfd97a40b7046142d60476456613a0c65b677e1b2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-07-house-election-by-75-80"
+ },
+ "0x475271944519411451b495bcb65d1ecebeafcabfc2640d5af85589c538096b93": {
+  "created_at": "2026-11-05T20:54:13.217178Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Paraguayo Cubas win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-paraguayo-cubas-win-the-2028-paraguay-presidential-election"
  },
  "0x4756b37a30ef00481da0a343d1467b86c8ed0704fb56348674b6d33966944293": {
   "created_at": "2026-09-09T15:41:17.124236Z",
@@ -932,6 +950,15 @@
   "revisions": 1,
   "sha256": "09b37d17d3ddc5d61cf53dbe9cc2e86ae4f45e3f8efc10f5d215c66b4d71687f",
   "slug": "ept-jean-carroll-federally-charged-by-december-31-2026"
+ },
+ "0xaafed9ff982c6610413c80bea053a2e59d87c7d386ebd1e16f9c888942a81693": {
+  "created_at": "2026-10-15T18:01:08.700265Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 2.5",
+  "revisions": 1,
+  "sha256": "13758f748f963aa6b951da923f97d705d556617cb1f99a3a6f25aadd806918ee",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-2pt5"
  },
  "0xab89089214e13764bf96894bc15ae779a595d9dc717d761593713fe050275d93": {
   "created_at": "2026-09-20T08:45:07.879735Z",

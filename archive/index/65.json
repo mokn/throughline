@@ -344,6 +344,15 @@
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-ousmane-dembl-win-the-2027-ballon-dor"
  },
+ "0x339860ec93e5f9314abbe11784aff4b4a8b437722c6bfbe93b72b6a32bb7c165": {
+  "created_at": "2026-10-15T18:02:48.448441Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 2.5",
+  "revisions": 1,
+  "sha256": "ef3d95434947f3490451fcc9782eda52c5fc1e2caf2dd3a349ba4e9593c66c97",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-away-2pt5"
+ },
  "0x33cce3e3095035b0bf0be6533649a1aa4c78ae1eca64f9220f0fc546e4031d65": {
   "created_at": "2026-10-03T19:00:27.386619Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -531,6 +540,7 @@
   "created_at": "2026-08-11T14:18:06.469565Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 43 House seats in California in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cc33e62a2bb4c50e1d904dce0a2bfd6b6ab4da9b5ab7d7f1d5769d3f3831637a",
@@ -826,6 +836,15 @@
   "revisions": 1,
   "sha256": "17ed6ab8e978d7a3b19d741b0af39f3107fbff2fc014ebba6c344e814bb84b79",
   "slug": "will-the-swiss-national-bank-decrease-the-snb-policy-rate-by-50-bps-at-the-march-2027-meeting"
+ },
+ "0x6fb2b787cfafdcfa41b5fb65a3decb8268bc1fa0acc483e1fbc3fd802082b165": {
+  "created_at": "2026-11-05T20:54:12.560921Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Alberto Mart\u00ednez Sim\u00f3n win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-alberto-martinez-simon-win-the-2028-paraguay-presidential-election"
  },
  "0x721789ffa98af303c54f35c212980b6e34eca8dc40fabcfc0c3a8e10b191a265": {
   "created_at": "2026-09-04T19:04:39.805575Z",
@@ -1463,6 +1482,7 @@
   "created_at": "2026-10-14T01:17:23.197066Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Blue mega-tsunami in 2026?",
   "revisions": 1,
   "sha256": "d2ab72739727e5df72c0df265d3b471ac80e8fbeab09c46881613dc5a57267bb",

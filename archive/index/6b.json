@@ -260,6 +260,15 @@
   "sha256": "139ed31ff18249b4b2124d8035769fa3318c82ac855e2431283b33c0056263e1",
   "slug": "will-twente-finish-3rd-in-eredivisie-2026-27"
  },
+ "0x2b77e24442ea711749556315a94d75c319290fcdc38d6ddf64e4dfe3c21ade6b": {
+  "created_at": "2026-10-15T18:02:13.973505Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 6.5",
+  "revisions": 1,
+  "sha256": "5a67b6a5dc31bce80869a552cc045bd61d5cc9aaf17338ac2abeb5c9c8b1b45a",
+  "slug": "cdr-ca-mal1-2026-10-28-total-6pt5"
+ },
  "0x2d05e7aefc2aa3cc3a6519e4dd686ccddf927d944d607583ea38bd6b8c3a136b": {
   "created_at": "2026-08-11T18:36:10.893429Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -350,6 +359,15 @@
   "sha256": "9e84c39af5d59512e03659965988a8c08790b00ac7940973fac5555e9a2a5d91",
   "slug": "fuse-fdv-above-800m-one-day-after-launch"
  },
+ "0x3bd9a97ea7d7277818b785a6c777795a99cbc17118e4f700c69f5a9dde40dd6b": {
+  "created_at": "2026-10-15T18:02:45.169561Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: O/U 4.5",
+  "revisions": 1,
+  "sha256": "4b5148a8af7e5f583a9ceadfe33b53830739a4c5f90006d1586134c193c4480a",
+  "slug": "cdr-ute-sab-2026-10-28-total-4pt5"
+ },
  "0x3c545651a5b404d2a3ec9e74e847ce8a433a9a215ffc587a422cf999f627186b": {
   "created_at": "2026-08-28T19:39:42.94911Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -367,6 +385,15 @@
   "revisions": 1,
   "sha256": "8c55725870adfc4c38007e9c817b89125b0845ade5703247d6705c3a2aa39347",
   "slug": "danielle-hunter-15-sacks-2026-27"
+ },
+ "0x40c30c31e48c7138d576b1c9a62b883f3fd3d2fd91625b74b13e01f9b1ae296b": {
+  "created_at": "2026-10-15T17:02:04.735471Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "FC Cartagena leading at halftime?",
+  "revisions": 1,
+  "sha256": "87187b088d5c20f9c1c3fdb94f583e573fb085e230d944945f3ab4d90cdb1008",
+  "slug": "cdr-cd17-car-2026-10-28-halftime-result-away"
  },
  "0x42d21cabf44f60b4b1f05e0bd0819ad9cf52c6f3621a6a989d027bd1a6e01d6b": {
   "created_at": "2026-08-11T17:53:32.557982Z",
@@ -709,6 +736,15 @@
   "revisions": 1,
   "sha256": "59429fd02aa0dc56416178d13525fbc2776b5a40c8980f8e5d2afb9871926260",
   "slug": "garrett-wilson-120pt5-receptions-2026-27"
+ },
+ "0x80e9eae41c6a70458c5a2f9dbb6fac5ca4d49571e8c567197e2045aae42c096b": {
+  "created_at": "2026-10-15T18:01:50.419966Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 1.5",
+  "revisions": 1,
+  "sha256": "4c976a44a9b7f5799cb65260232a3bac1128a131d1d126d54f5964fa71af99a3",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-1pt5"
  },
  "0x834951817fcfbcc1e9f8d01b6be2b875284b53e1c3c31b75ccb230ce32d5e16b": {
   "created_at": "2026-09-28T17:20:17.097632Z",

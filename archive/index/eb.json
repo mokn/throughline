@@ -305,6 +305,15 @@
   "sha256": "2fecad96f01c259ae8698d68a89a10a365d501b08ed84659de15bae9c63e0f23",
   "slug": "will-podemos-win-exactly-3-seats-in-the-2026-spanish-general-election"
  },
+ "0x2fab47418a7095db17beda0836df07bde7c24d5a299d59fa56ef21ffdc7870eb": {
+  "created_at": "2026-10-15T18:01:47.994929Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 3.5",
+  "revisions": 1,
+  "sha256": "ef11cea3ccc1785e283399f3f8f823c8b5a0fd77e406d7b5ea23b7aec2ce9d13",
+  "slug": "cdr-bad-cdt-2026-10-28-total-3pt5"
+ },
  "0x3090f49d5e4ff6bccd2981a6b93a7b404b228ddaad2b6ac343e23e0d2b6587eb": {
   "created_at": "2026-09-28T17:20:10.755026Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -739,6 +748,15 @@
   "sha256": "738ef6dab71f6a817043efc63fa68853f7be5293929b56df533bb032a88ad194",
   "slug": "will-jannik-sinner-have-15000-atp-points-before-2027-20260731033231532"
  },
+ "0x80914d37b5e9b7251e0918d0304ed2bd7cb1f22184b83008fb339c63d0729deb": {
+  "created_at": "2026-10-15T18:02:15.43891Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "60e05ccf08a6dc1c08ef769ad6777eb61b0b4b0aad72338e0ae6fb9a598c196e",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-total-4pt5"
+ },
  "0x8206997b9d105a5772ba2f3d529a39004a36016944ab5e69148e0b32415b94eb": {
   "created_at": "2026-10-16T18:05:38.876601Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -819,6 +837,15 @@
   "revisions": 1,
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-ansu-fati-score-the-most-goals-in-the-2026-27-uefa-conference-league"
+ },
+ "0x92f111cac897446c01f2d2e85671a2411e37b8ae02edebada38bba62756ac4eb": {
+  "created_at": "2026-10-15T17:01:20.96016Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 1 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-1-3"
  },
  "0x930556e0581ed6f6d95c84835577ebeceae6269602749a21ba769e05576089eb": {
   "created_at": "2026-09-27T20:02:39.6686Z",

@@ -26,6 +26,15 @@
   "sha256": "d74903f417c21aef12a86d6a1a64a98d370a8810e24d00a00ecbe7e8b599c6d8",
   "slug": "will-crystal-palace-win-the-2026-27-uefa-europa-league-championship-20260701202403682"
  },
+ "0x01d657f0a047913f328f59b51aaee668415830b3ef12bfb343279588e08249ba": {
+  "created_at": "2026-10-15T18:02:41.622857Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "96f3ffc29494a00df9a88e78a904522c0421c0ce2849f30dcddb7e09661bed73",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-away-3pt5"
+ },
  "0x01f30d229050b22e57f11f01d5f0abd9d9d9d55dfdcc3f4ec956a7f82fbfdcba": {
   "created_at": "2026-09-20T08:46:04.214852Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -851,10 +860,20 @@
   "sha256": "32c13a11589d2c4fbab1628201cac820bbea6df03df2fffeae39a34f6bc6fb4c",
   "slug": "will-voters-pick-the-winchester-model-1894-pt30-30-as-the-state-gun-of-idaho-20260729163706904"
  },
+ "0x8d06b72a53b74da0fc97608311b2779a50bddf317c85df2f74f0e6119187c1ba": {
+  "created_at": "2026-10-15T18:01:01.946751Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "1d8c987240ba5ded452d09c0307bc589d7a68e0a1bf4150da25ccbfbb116982c",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-home-2pt5"
+ },
  "0x8d729c1018e7b84f97bb0a4080b0e91736bb1b897cb7e49351d1a3ff0844e5ba": {
   "created_at": "2026-08-11T14:10:44.197724Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 4 House seats in North Carolina in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e7e410e783f82c06392ed31b471dab1af4da67d1b15f78a43764fff4b5ad3bc7",

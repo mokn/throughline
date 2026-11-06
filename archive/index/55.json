@@ -785,6 +785,15 @@
   "sha256": "096f845843467432645710b0368dfba2d6cb62eeec1d355afc9ec42148b1d1ca",
   "slug": "will-the-weeknd-be-the-top-spotify-artist-for-2026"
  },
+ "0x947ff7fb71fa0055d0db5750bf0ea63a51fa6267c4c297a3bd95dd2e2285ec55": {
+  "created_at": "2026-10-15T18:02:40.75221Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "5ed8221ee12eb519fc60be4ee33676869b50a09af33f68c8ca3d9fc09ef1934a",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-home-2pt5"
+ },
  "0x94db1afac3a30430f18333a57741b5deb69188fc7b4e39a7b31c9ddf3d79ab55": {
   "created_at": "2026-08-28T20:16:55.854217Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1303,6 +1312,7 @@
   "created_at": "2026-08-12T17:27:16.346663Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Tigre be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",

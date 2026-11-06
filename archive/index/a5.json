@@ -739,6 +739,15 @@
   "sha256": "bf610e28fe76b919ec33e48801f174b64e26f4bd563441b54d894845253a19d6",
   "slug": "will-moonshot-be-the-third-best-ai-lab-at-the-end-of-january-2027"
  },
+ "0x723d7c7ffbbec06ee5fb549f792e57f7010070029a73a2b666643943e462d8a5": {
+  "created_at": "2026-10-15T18:02:38.754816Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete O/U 2.5",
+  "revisions": 1,
+  "sha256": "1775795d8a0a22d55a1c590bfb314c00aaaeec82498833c41043d55b9a604593",
+  "slug": "cdr-por-iru-2026-10-28-team-total-home-2pt5"
+ },
  "0x74a5ea8aed0261817e6be4371a73a9647bf143857c62bc66211c2d9b97d091a5": {
   "created_at": "2025-10-13T19:13:56.806947Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1425,6 +1434,15 @@
   "revisions": 1,
   "sha256": "959c1c572a4abf1760a4bea4c643ab191379bfdd3c5abb2c54e3f0bbf3e1d015",
   "slug": "el1-pet-not-2026-10-03-spread-away-3pt5"
+ },
+ "0xda4328813f1affd22e130ad6449a0ad8b3ec13158b49e563aa2fa1022dac24a5": {
+  "created_at": "2026-10-15T18:02:38.434657Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete O/U 0.5",
+  "revisions": 1,
+  "sha256": "90a929d53ff27078ec49859f6ec5461b4b9a9a8116e6a3010f1c0a5f73581763",
+  "slug": "cdr-por-iru-2026-10-28-team-total-home-0pt5"
  },
  "0xdc2a498e5a2be76d8fc42013f56a18792a1b179e18d9bbbf5d2d235c37be72a5": {
   "created_at": "2026-10-30T15:06:52.322128Z",

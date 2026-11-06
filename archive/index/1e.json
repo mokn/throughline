@@ -30,6 +30,7 @@
   "created_at": "2026-08-10T20:08:57.137351Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Bj\u00f6rn Asserhed be the next Regional Board Chair of Region \u00d6sterg\u00f6tland?",
   "revisions": 1,
   "sha256": "1d51b59e70c38fb0d8f6e3d6dac2b5119d465d2203d5a34d41a2637edee7e2b4",
@@ -396,6 +397,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-lauri-markkanen"
  },
+ "0x3aaf0a01111513e2b65c96ea05a7ffc97a93f6db7790cd7c42c21b215c2a181e": {
+  "created_at": "2026-10-15T18:01:49.350462Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "0c413a16db7b2a612738ad6a8edcd78234820e73e8d89f8a9718a9cfef9e729f",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-total-0pt5"
+ },
  "0x3b4e5588525b157216ef93c7149e67f937f5dd386e2d88ab68949c27a6ff751e": {
   "created_at": "2026-01-28T15:32:26.734931Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -748,6 +758,15 @@
   "sha256": "43284963fab8ba3063ef480110c53ddb316e727db17d36d9bfeb20cb3fbd2794",
   "slug": "will-national-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-5-10"
  },
+ "0x5f0ec45538b192005af1a182f56443055de9740d2c9e9789615c63e1be1c131e": {
+  "created_at": "2026-10-15T17:01:05.15268Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 2 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-2"
+ },
  "0x62363812c6a1ea26a7a05079129b556740dda57a170174819282d166beefea1e": {
   "created_at": "2026-08-11T19:03:41.727913Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -954,6 +973,15 @@
   "revisions": 1,
   "sha256": "3188e2637b8b05d5741b3ed47c5acc66e2d36bf6a54f5ff8c49be478c7e2088e",
   "slug": "will-trump-speak-to-mark-rutte-by-november-30-2026"
+ },
+ "0x7776d658638551ed81740f68dce2c5c19d79346e4cad998704b4f48b66a1a81e": {
+  "created_at": "2026-10-15T18:01:05.025425Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 0.5",
+  "revisions": 1,
+  "sha256": "187d3bb78072d104e3007a1cc9667040f6257caf893efff0b0b14ae430c95240",
+  "slug": "cdr-red-bar-2026-10-28-total-0pt5"
  },
  "0x79455ad0030dc12e33cbd084eefcac5816450156873f166f278f91fe6337e21e": {
   "created_at": "2026-10-10T11:30:39.483156Z",
@@ -1716,6 +1744,15 @@
   "revisions": 1,
   "sha256": "7619c5e6954d9d412e0bab9e07f5e63a8b9e87b8b8df349745ed2054a8fef976",
   "slug": "spl-ahl-nsr-2026-10-15-spread-away-2pt5"
+ },
+ "0xf0969653284ff420a42bcb4ecae7e6141e111da19fc85a7abed08f805bc0791e": {
+  "created_at": "2026-10-15T17:01:37.063943Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 2 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-2-2"
  },
  "0xf211234e3d4842b0da3aab5e0db384b866d6e96eed307afe9ed640f053a5d41e": {
   "created_at": "2026-09-23T14:07:38.521899Z",

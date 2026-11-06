@@ -202,6 +202,7 @@
   "created_at": "2026-01-28T15:36:06.890105Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NC-14 House seat?",
   "revisions": 1,
   "sha256": "1e61bdcbe6c41a8396c898c65b157adabc0a5143db0935454f267b500d17b478",
@@ -639,6 +640,15 @@
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-08-house-election-by-6-or-more"
+ },
+ "0x68fee945b992b64418ab41acae5ff84329891f851fe55326f725a29aa8e04abf": {
+  "created_at": "2026-10-15T18:01:07.845267Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 2.5",
+  "revisions": 1,
+  "sha256": "689d92626844669bee5cc69b18caf96ad7a6599f11e03b61e62c19e7023c530f",
+  "slug": "cdr-red-bar-2026-10-28-team-total-home-2pt5"
  },
  "0x6a063e27abbd4ede034912d70c16f6810c41c5cca6e50032a5f5399a33e976bf": {
   "created_at": "2026-10-30T01:18:38.920558Z",

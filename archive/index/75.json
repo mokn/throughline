@@ -431,6 +431,15 @@
   "sha256": "61abb00f01eb902b15957ffed4f52616675daa5f874567da5e119211e2fd332e",
   "slug": "2027-soccer-denmark-superliga-winner-snderjyske"
  },
+ "0x62a5d0dc77c35d9882940c67312f1427091956f52947ee89cf3c0bceb7580c75": {
+  "created_at": "2026-10-15T18:02:46.184778Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "358a7d823c75047d00669277fb452f5b03a29a5928be523de7448e0fede249fb",
+  "slug": "cdr-ute-sab-2026-10-28-btts-first-half"
+ },
  "0x6482dab76e6e1d0f7be91b915422c93fa7687a5c60c98e47ff53e062820f3d75": {
   "created_at": "2026-10-05T23:00:46.116985Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -439,6 +448,15 @@
   "revisions": 1,
   "sha256": "2339a3ac02ce9f572d78b6c246c43ccbe7c803fcdab9d45d8123dad7bf10c8e1",
   "slug": "spl-abh-kho-2026-10-19-first-half-total-1pt5"
+ },
+ "0x64ddccfecfff9cfd3f4f36e21c2a71b6cee83ff5131bf6da73392db5e4b7f375": {
+  "created_at": "2026-10-15T18:01:53.00217Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "4d5e145a752bdb3057fc054241f8318c68c588a01e98133f3554d73a396fb237",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-home-3pt5"
  },
  "0x650d864619abf2b769745646394dfb7dbfc6fe5ee226bdf1b50a8a64d543f275": {
   "created_at": "2026-08-10T23:38:23.862687Z",
@@ -529,6 +547,15 @@
   "revisions": 1,
   "sha256": "b05400ea6c544a8bde4aeeda16d00104d257594b0e06e9fa79e81d3f17ec1f86",
   "slug": "michael-pittman-jr-1000-receiving-yards-2026-27"
+ },
+ "0x7456f304dedcb1808cd5814561b61a84f6d00f9d64d942564b0c4ad0f1622a75": {
+  "created_at": "2026-11-05T20:54:04.604063Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Juan Carlos Baruja win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-juan-carlos-baruja-win-the-2028-paraguay-presidential-election"
  },
  "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75": {
   "created_at": "2025-11-25T15:10:30.228568Z",
@@ -827,6 +854,15 @@
   "revisions": 1,
   "sha256": "ed06588c89a77cbe87f782abaf1b319a956ed45a73e1d52c50543ab94ab75f9b",
   "slug": "will-donald-trump-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221262"
+ },
+ "0x9c221dad2c718a0f4f0e93d7a5bd925bfcf6e11f3945aa04634cdbf743fd3475": {
+  "created_at": "2026-10-15T18:00:59.345525Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "f90abe2e645e0d18f514918d5ecab4fdb3de9652c4e91a41f88421f369406ccb",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-total-4pt5"
  },
  "0x9d306c2b193aa41f71732ce103683038bca91e35f329b79597a72ad54ba55775": {
   "created_at": "2026-09-09T15:51:20.190102Z",

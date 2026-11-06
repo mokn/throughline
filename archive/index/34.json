@@ -337,6 +337,7 @@
   "created_at": "2026-10-25T04:01:11.100776Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Micron Technology, Inc. (MU) hit (LOW) $720 in November?",
   "revisions": 1,
   "sha256": "474df0f7ed1916e4121d1fc9365d84a2cf5eef49b4e7342c52d7a2c815c621ce",
@@ -1135,6 +1136,15 @@
   "sha256": "6309903aabf286fdab67f7e5522e911540b42c222beb1a6f83412eba75f1809f",
   "slug": "will-pat-freiermuth-finish-as-a-top-12-te-in-the-2026-27-nfl-season"
  },
+ "0xc0b70b1ff217baf57536aabc3f8ab0f9acea2232476dcd74d6a8c4f2b9b80e34": {
+  "created_at": "2026-10-15T18:00:57.026317Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-5.5)",
+  "revisions": 1,
+  "sha256": "b1e3571d196ed827d13b66d797b334deeb481d49a8d8f3e592c32fa11eca45cf",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-5pt5"
+ },
  "0xc514a4387e360cbb8b7dd4278e11c1238b48d14e6e739fcbd34e699114b5ae34": {
   "created_at": "2026-09-08T16:53:15.009941Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1206,6 +1216,15 @@
   "revisions": 1,
   "sha256": "e93be0f5fc74a200f2fb94c98c517404939483d185bdc22bedb06f82fb6db688",
   "slug": "will-torino-be-relegated-from-serie-a-2026-27"
+ },
+ "0xd33a1bdb0386f1f8af261bdd08667e37503a480613af04c1fd4a3493f42c5234": {
+  "created_at": "2026-10-15T17:02:00.325895Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 0 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-0"
  },
  "0xd4fa773f8400ea313466282e626be0e5d1b358c729402a310590d249f7dffb34": {
   "created_at": "2026-10-20T23:04:25.956955Z",
@@ -1395,6 +1414,15 @@
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-22-house-election-by-9-12"
+ },
+ "0xf3a2ebce3ee5259601300314d91d47d133ad0d9d3498b645305b833b93a7c734": {
+  "created_at": "2026-10-15T18:02:16.964988Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 2.5",
+  "revisions": 1,
+  "sha256": "5963735d8b983c595362cf8b3f6790a3c780fbd532f3d6943ce339b15e96af29",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-2pt5"
  },
  "0xf4a1c32b24d7aa054e7568a9db1c1d607cd8875ef06b7a59118505c58ef90534": {
   "created_at": "2026-10-30T14:53:34.736978Z",

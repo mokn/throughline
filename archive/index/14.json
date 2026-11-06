@@ -298,6 +298,15 @@
   "sha256": "ff751e58354066dd4bbdcb1cb0514d55dbe859720f4b34b830d47417b430b514",
   "slug": "will-kairat-finish-second-in-uecl-league-phase"
  },
+ "0x3de7e2edf6792bdfd61765787e092b65484794eecb3c7ed0e4fde0f51d9f1c14": {
+  "created_at": "2026-10-15T18:01:08.840641Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 3.5",
+  "revisions": 1,
+  "sha256": "5c20117f427401998bc84644be7a94725c5e3e360e3c671ea8734a0204e3c6bc",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-3pt5"
+ },
  "0x3e8dbac97737d027ba04554ad40c782b1e019625f7da9a2964b9e78aee6f6c14": {
   "created_at": "2026-11-03T03:07:31.947011Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -692,6 +701,7 @@
   "created_at": "2026-08-12T17:27:07.896744Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Central C\u00f3rdoba (SdE) be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -823,6 +833,15 @@
   "revisions": 1,
   "sha256": "644ccd618620e943f2b80832464d41e968090e71b7e606530ba1e0a40c77170d",
   "slug": "will-apple-purchase-memory-cxmt-chips-in-2026-20260630171913147"
+ },
+ "0x94013057873ca51ebc34e269853fc4c7f1c3354123f5fceaca11345bac395114": {
+  "created_at": "2026-10-15T18:01:52.81785Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "593e3c00a5fae0f267baf7e838573c5e0b848ff756171ff79d18ab06f8cbee67",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-home-2pt5"
  },
  "0x94521176f57d2ce81dde01e0b7699ca4279423042d37ed53908f0c8bfefe7e14": {
   "created_at": "2025-10-10T19:25:46.24843Z",
@@ -1163,6 +1182,7 @@
   "created_at": "2025-12-15T23:37:07.954151Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the UT-02 House seat?",
   "revisions": 1,
   "sha256": "e469a4aba54d05571fd987863703131ff5cecab099b64bd83a7a5af94c570875",

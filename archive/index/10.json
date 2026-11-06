@@ -370,6 +370,15 @@
   "sha256": "686f31bff4389afef6af391d347c7ac79e6802ea97fa6a1134c88a610b8834e2",
   "slug": "will-josh-hawley-win-the-iowa-republican-presidential-caucus-20261028213"
  },
+ "0x42367d815f3691e4b5d66981a4bbb487260e4d2d430c60956ca3bf747cb5b610": {
+  "created_at": "2026-10-15T18:02:44.988097Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: O/U 3.5",
+  "revisions": 1,
+  "sha256": "0f22d3c7e5ec653f8a1369442eb76716e0b9425d58bbf5339ae65436926353a4",
+  "slug": "cdr-ute-sab-2026-10-28-total-3pt5"
+ },
  "0x42648942ee847ef2045f98ee2a6c91676e8f548380fea59849c3cdc753337b10": {
   "created_at": "2026-08-05T10:27:35.797626Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -630,6 +639,15 @@
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
   "slug": "parker-washington-first-to-1000-receiving-yards-2026-27"
+ },
+ "0x6cdb55545d2c2b867adbbc6fbb7c0ac8364e2098a91c487fe5e045d4f7ad9c10": {
+  "created_at": "2026-10-15T18:01:53.856991Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "f1f1abb4a59fd30a3bb5b1c446d701583f7794803c5df39b834aaad56c5885d0",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-away-3pt5"
  },
  "0x6e95c121389c8d0940f5f1b48a997492891067f526e4489e71f3723065739010": {
   "created_at": "2026-10-10T11:30:15.156034Z",
@@ -1118,6 +1136,15 @@
   "sha256": "b3d217c9968a8616284daa35955d10914b06a1bf4503dcf2ff23d570c2b04c10",
   "slug": "will-cristiano-ronaldo-score-his-1000th-career-goal-by-february-14-2027"
  },
+ "0xb31c918ba8a7bebe79e75250c199f4b614e4017ed99cd54573da32e0abf95410": {
+  "created_at": "2026-10-15T18:00:56.468274Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-3.5)",
+  "revisions": 1,
+  "sha256": "8eb3776a050b4e6c7e07c6d367ae857ec4e071f876b79206b84f88495e225515",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-3pt5"
+ },
  "0xb4d30b65fc486e309af1a8ba4abce5ef2cc78fd930da6e09855b4f3d70d93310": {
   "created_at": "2026-08-11T18:49:59.591386Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1482,6 +1509,7 @@
   "created_at": "2026-09-09T02:47:54.863466Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Dplus KIA Make the Worlds 2026 Grand Final?",
   "revisions": 1,
   "sha256": "8e46f122df002d45630cf7e36c1f6d41e6df586fe9556ea854ab5d3ca00d86ca",

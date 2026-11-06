@@ -821,6 +821,7 @@
   "created_at": "2026-10-25T04:01:11.324569Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Micron Technology, Inc. (MU) hit (LOW) $660 in November?",
   "revisions": 1,
   "sha256": "474df0f7ed1916e4121d1fc9365d84a2cf5eef49b4e7342c52d7a2c815c621ce",
@@ -1151,6 +1152,15 @@
   "sha256": "02a5b24b869792dabe2bba50a32a2f5f015e04bdddbe9ea42c867abea189de54",
   "slug": "el1-not-bla-2026-09-26-total-7pt5"
  },
+ "0xd66cc0454baa3b6afeabbfbcac38debcab6034faef2e646a654fb1a1332750dd": {
+  "created_at": "2026-10-15T18:01:48.15925Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 4.5",
+  "revisions": 1,
+  "sha256": "9f49f17f753ab2f0075089d793b57cf48fe99e6b23f0af495c606915b7242bf5",
+  "slug": "cdr-bad-cdt-2026-10-28-total-4pt5"
+ },
  "0xd67691e4827082a9c3a139963bcacc2ccb2d59e69e5fa590ac61ee3788f307dd": {
   "created_at": "2026-10-13T19:55:48.683437Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1347,6 +1357,7 @@
   "created_at": "2025-12-15T20:51:04.36927Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the MT-01 House seat?",
   "revisions": 1,
   "sha256": "fcebc820f56db10d1420a4a55a61eca8f6e8e5d10f46d1a65027f7d94e6fed17",

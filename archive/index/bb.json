@@ -408,6 +408,7 @@
   "created_at": "2026-10-25T04:01:01.889492Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Coinbase Global, Inc. (COIN) hit (LOW) $135 in November?",
   "revisions": 1,
   "sha256": "b897c73fdc996b07255e6a1f447e9126f523f692b365d453bc3eaf58ccacbc58",
@@ -792,6 +793,15 @@
   "revisions": 1,
   "sha256": "07850e310f1dfc6813460cc97fe442777dc2841cc08729e7e59f573bd7ae6a14",
   "slug": "will-the-odyssey-win-best-cinematography-at-the-99th-academy-awards-20260805190946680"
+ },
+ "0x6cc979b73de9f99a7df2b28e4792bfea8b5534e603ef75c9091952d9167100bb": {
+  "created_at": "2026-10-15T17:01:20.393309Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 0 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-0-0"
  },
  "0x7014e449022f95b6a7346763d61ccdb55eb71d8a795d95557fdd17f14c1119bb": {
   "created_at": "2026-08-24T16:39:46.431705Z",
@@ -1394,6 +1404,7 @@
   "created_at": "2026-01-28T15:35:55.339673Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NC-09 House seat?",
   "revisions": 1,
   "sha256": "51bf73a2a7349ab1128bf0b318076e695207d2e4a9432ed815750c79d11901f9",

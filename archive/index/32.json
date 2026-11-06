@@ -306,6 +306,15 @@
   "sha256": "c2405aee41bed19c7ae9d5f296603ed1b99799bce1e6b40ccdb65faad54bc709",
   "slug": "will-cooper-barkate-be-the-2026-acc-receiving-yards-leader"
  },
+ "0x3cb1de93776bcd577a01674c7adb79e099b585ea98bdfec02c6e2fde119d5f32": {
+  "created_at": "2026-10-15T18:00:59.626545Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 1.5",
+  "revisions": 1,
+  "sha256": "99481d36a6f9d193fb9b76b19f7f8a8a91a06e18738f27691de9d79e2f57fbfc",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-1pt5"
+ },
  "0x3fb26d41e68aa193b5277513755c22840dfd92d51fbddf74f85f3d6beba87032": {
   "created_at": "2026-07-31T17:27:58.242581Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -332,6 +341,15 @@
   "revisions": 1,
   "sha256": "05de4e1b6d7bc1e3d082b43e81cf5a2326f4b363b0381901f63150ef4d40214a",
   "slug": "will-donald-trump-visit-minnesota-in-2026"
+ },
+ "0x417a3a4b1089525eda2bc9c7053ab04dc25200f7b5930b2fb5fb3767c4f17532": {
+  "created_at": "2026-10-15T18:01:45.965267Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Tenerife (-1.5)",
+  "revisions": 1,
+  "sha256": "8b6c341291d6f0302e8f2ff1ad7224730815ca74f31f2ea4cee3c4d960accf81",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-away-1pt5"
  },
  "0x418b00781da95bd3d211ede49f5675684f101ce2f247842233de40c442614832": {
   "created_at": "2026-10-25T04:01:14.052067Z",
@@ -1505,6 +1523,7 @@
   "created_at": "2026-01-28T15:36:04.009326Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NC-13 House seat?",
   "revisions": 1,
   "sha256": "22ba298dc42c47b1be288baaa079a08e7a8736c393c710e880696568cca788f8",

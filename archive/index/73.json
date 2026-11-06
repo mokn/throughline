@@ -116,6 +116,15 @@
   "sha256": "83611643a2f0267dff504a14fc765cd7885898d3741c3196270229f81c510b10",
   "slug": "will-cucuta-deportivo-keep-the-most-clean-sheets-in-colombia-primera-a-2026"
  },
+ "0x0ce53ff7ee18ec43cd42d33e0f15b92b336c0eed1c178262c01b7e5735917673": {
+  "created_at": "2026-10-15T17:01:21.15765Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 1 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-1-4"
+ },
  "0x0d0cfa4b51aacb2ec63404877749183b27d0e1f6eeaa0472975bd363f378e373": {
   "created_at": "2026-08-11T19:08:31.495633Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -573,6 +582,7 @@
   "created_at": "2026-08-12T17:27:04.924604Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Aldosivi be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -863,6 +873,7 @@
   "created_at": "2026-01-28T15:35:46.687624Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NC-06 House seat?",
   "revisions": 1,
   "sha256": "2827cfae3ea293f4e589df5f4299eb6a365d19914cb5eba790d6d76908c8f75d",
@@ -950,6 +961,15 @@
   "sha256": "c83291817cb833773fd3736da0180a8770b522a8719fc3c767182c907906f985",
   "slug": "will-meta-have-the-best-ai-agent-at-the-end-of-november-2026"
  },
+ "0x9398865012a9f6b9595f6511d07f2a7425cb7af404171f1cbb38a2f8818bb473": {
+  "created_at": "2026-10-15T18:01:02.288138Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "93af4cc2d25933a823bf2d9d509dfa4e1c541c6e68a2911a4d5e5c686c258254",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-away-0pt5"
+ },
  "0x9546cb4e54920de567215535b40cc25f134da632ea52f1b06ff203024cb14173": {
   "created_at": "2026-08-04T17:57:15.209864Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1022,6 +1042,15 @@
   "sha256": "9131fea407c9430c52ab2eb7b86dcf0442831c1cb3793813b55a7e84cec1ccfc",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-10-house-election"
  },
+ "0x9e791e3db2a35a798184e3b8651f5b492463c8c15c7545134b91e7616d32ec73": {
+  "created_at": "2026-10-15T17:02:06.077107Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 2 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-2-3"
+ },
  "0xa04e0b913613a6b6956fe47c236189e1e73b9c6c72f43dd7003b0c01e29c8273": {
   "created_at": "2026-09-18T00:09:40.515406Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1030,6 +1059,15 @@
   "revisions": 1,
   "sha256": "884c6e8e81433ab154a6687fd724dbc49935e9c0cc8fe78b4b9fc8753c1b87fc",
   "slug": "will-alibaba-be-the-second-best-ai-lab-at-the-end-of-november-2026"
+ },
+ "0xa1724acc3381b1ddc14c7bb02e23fbfd581adcc896055175ccbc69331ee03473": {
+  "created_at": "2026-10-15T18:01:51.234667Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 0.5",
+  "revisions": 1,
+  "sha256": "0d936ea573dd12b6cac7509026c70c5af794bcc33d7d734e7ddb2af3d4014e0e",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-0pt5"
  },
  "0xa1f478f6ee6e24b33bb8f93b58edc14395e5398d9bd7cae37d85030ae2690073": {
   "created_at": "2026-10-09T16:33:46.027514Z",
@@ -1157,6 +1195,15 @@
   "revisions": 1,
   "sha256": "21268d5d05ea261a7e1b7d42706f2aa87e4fd3ce2de5efda81fc2ea3f2b59783",
   "slug": "nvda-above-240-on-november-30-2026"
+ },
+ "0xb22c4337706ab3b61b3b5681726f8987962f88a5aa4cd445c1e5b2465e1d1873": {
+  "created_at": "2026-10-15T18:02:11.180254Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: RCD Mallorca (-1.5)",
+  "revisions": 1,
+  "sha256": "93d2c24764eae89cef2acbf18fdf70ff94b67250fd531c6363f7cb8b7cc5f575",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-away-1pt5"
  },
  "0xb2fa7b664aa2c7d3faef657b24cd0a7ceb11aef060bd99234dd60b32d4ffa973": {
   "created_at": "2026-07-20T20:12:27.287379Z",

@@ -452,6 +452,15 @@
   "sha256": "c175a715d73f08c89077cd7de260f27a3371560ead836cffc184b1ba01fd707d",
   "slug": "will-los-angeles-dodgers-advance-to-the-world-series-in-the-2027-mlb-playoffs"
  },
+ "0x47ed1f75106b305dd62b379ab69e61809f05fa0da1e52ba914e66e8963211486": {
+  "created_at": "2026-11-05T20:54:03.716598Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Pedro Alliana win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-pedro-alliana-win-the-2028-paraguay-presidential-election"
+ },
  "0x49ed36f55f5128c4f95b9e198c9c0451f18024b2906537d14abce56df0e1fd86": {
   "created_at": "2026-10-08T00:01:34.054819Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -795,6 +804,15 @@
   "revisions": 1,
   "sha256": "96b292138e5f38743a4eb00b8cc5bb1ba990de4550672722f7f9d5f4bcee6fad",
   "slug": "ecb-rate-cut-in-2026"
+ },
+ "0x7bc16083575e11a5cf6443811925f6f3dcb2a08aead583395003e33b8f38ac86": {
+  "created_at": "2026-10-15T17:01:02.788557Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete leading at halftime?",
+  "revisions": 1,
+  "sha256": "73ba67649a6a792740824bc1ad753e12d30aaf8b1502d4d62088dd4ff5844da5",
+  "slug": "cdr-por-iru-2026-10-28-halftime-result-home"
  },
  "0x7d619a0f1c7e670f53bed7df08cac252cb1d67fb19806b80ca1d8eb620c17986": {
   "created_at": "2026-10-25T10:45:18.982367Z",

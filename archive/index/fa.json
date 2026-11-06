@@ -206,6 +206,15 @@
   "sha256": "e8730c763cda11043750fcef65cbcd79d101d90652b7565f73997e51ff8adddb",
   "slug": "will-twente-finish-9th-24th-in-uecl-league-phase"
  },
+ "0x2fd105874cacdaaddd09cadbd9d15e7f4ad6f13f6d690f364ee106e54a2d54fa": {
+  "created_at": "2026-10-15T18:02:13.066282Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 0.5",
+  "revisions": 1,
+  "sha256": "1bf81a5394d4e4f1113403f13867c61b01041dc601727ec508dd29143ef90dfc",
+  "slug": "cdr-ca-mal1-2026-10-28-total-0pt5"
+ },
  "0x315023aa5af49ef558b01601b0a7c452bc7baeb7b66f5dfcc0058832fcb6fefa": {
   "created_at": "2026-08-24T16:39:11.195907Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -273,6 +282,7 @@
   "created_at": "2026-08-12T17:27:13.443046Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Platense be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1226,6 +1236,15 @@
   "revisions": 1,
   "sha256": "fad96cfec9de836aef914df4f712794ac6448178f6e1ed0737ad230c5ff86052",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ct-02-house-election-by-20-25"
+ },
+ "0xf52029df2d70b764ed7005976dc3e18058643f73c90e87f8f5a2ea60bdf534fa": {
+  "created_at": "2026-11-05T20:54:08.248174Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Eduardo Nakayama win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-eduardo-nakayama-win-the-2028-paraguay-presidential-election"
  },
  "0xf5f51f0c39ffbfa1c3a4233eed751dc0220c9bdee797b5dd25a889aed3d510fa": {
   "created_at": "2026-08-24T16:39:55.379894Z",

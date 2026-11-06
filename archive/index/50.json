@@ -695,6 +695,15 @@
   "sha256": "ef697cce15ffd241ee78cd15bc4a5746afea01d707e8942bf8d6bf8338be9966",
   "slug": "will-jesse-minter-be-the-next-head-coach-fired-2026-27"
  },
+ "0x7095f0ac268369429bddb1f0248576e2d5a04033e9258d5d4acf5add2add7750": {
+  "created_at": "2026-10-15T18:01:01.225964Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 4.5",
+  "revisions": 1,
+  "sha256": "9fad90986d010823dd633d9a8cd520e02fcb820f0919719f61bdb78f70143882",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-away-4pt5"
+ },
  "0x7253a17a33712dd3fafd704ab02c7523817cea046508e51a7dbdabeb32978250": {
   "created_at": "2026-10-13T15:57:19.950069Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1056,6 +1065,15 @@
   "revisions": 1,
   "sha256": "5564e959909f17bf2822780ffd7c8877bc95ba6c1a2d4e978354bc16b22e91ba",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mn-01-house-election-by-6-or-more"
+ },
+ "0x9f93b3f5f238319a4ca452b7e2c00e2b20a6bedf74e89e6f5d96df5f50f01050": {
+  "created_at": "2026-10-15T18:01:00.189824Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 5.5",
+  "revisions": 1,
+  "sha256": "e58fbe88da486fc4db51ef150825065a7a4db53a8e9527cf828eecc53ac9cabe",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-5pt5"
  },
  "0xa01ba24728a62ef30d5949c1ba3b2daa699ef8c2a57c4e257ca5ef85480e9050": {
   "created_at": "2026-08-05T10:41:56.877802Z",
@@ -1486,6 +1504,7 @@
   "created_at": "2026-01-04T19:07:21.852853Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will pump.fun buybacks hit $500M by December 31?",
   "revisions": 1,
   "sha256": "99d073dcca69817f1d6b92f6108d45266d5289f649608f5008ed5eb171b9f25a",

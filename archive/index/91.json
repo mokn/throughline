@@ -588,6 +588,15 @@
   "sha256": "a1e904f29028d90307c80b030fb2c0ad2dde285ab35813877dc5f8693a7873ae",
   "slug": "japan-b-league-2027-champion-shinshu-brave-warriors"
  },
+ "0x4c82f3cc0622174d86aea1bbb24883ee96f5bdb4c3145409c916d74427da8d91": {
+  "created_at": "2026-10-15T17:00:57.761435Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 0 - 4 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-0-4"
+ },
  "0x4ce335b0d1499f16eac6a840d775c0f212b4e7493fdd53271686acd442185a91": {
   "created_at": "2026-10-01T13:32:07.493338Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -732,6 +741,15 @@
   "revisions": 1,
   "sha256": "8a298be802a3e4498fbef84aecffd075f3638711cadc6b511e6ab67633813de9",
   "slug": "will-nk-aluminij-be-relegated-from-slovenian-prvaliga-2026-27"
+ },
+ "0x61014d8fb5b442585d667a09f0222c872ecb85d9b140f74ca808ad7a71636391": {
+  "created_at": "2026-10-15T17:01:36.576491Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 1 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-1-1"
  },
  "0x634d5e37bb4b6b2f5ffcb844c2f40ad64b4e7fca04b674a55fcc02bb6f2bab91": {
   "created_at": "2026-09-09T02:37:37.339017Z",

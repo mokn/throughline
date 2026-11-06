@@ -369,6 +369,15 @@
   "sha256": "4ab3c03123d3258af09402d324a2e619ed0c1fa580c2b480b4a22c0d6190d8be",
   "slug": "2026-soccer-brazil-srie-b-winner-cricima"
  },
+ "0x43a09f7464eb10173a6d1e9bb34b6abbb1cd13f603b849a4e57587842dc44047": {
+  "created_at": "2026-10-15T17:01:22.054512Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-any-other"
+ },
  "0x43dff987ee0fcd78bea174d02fb7a2b83542bd422a2c2cc7c53337c4d98dd147": {
   "created_at": "2026-09-25T23:28:15.45078Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -649,6 +658,15 @@
   "sha256": "02c91c2fb342a09017d6b0b41bbccc683c9cb7d8726dc1dbbcc3a8fa6017ccaf",
   "slug": "will-the-republican-party-win-the-fl-08-house-seat"
  },
+ "0x773e27ddb606a0e5115150b679f740e661fe620047685779f619e468d7ca1047": {
+  "created_at": "2026-10-15T17:01:03.811393Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 0 - 3 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-0-3"
+ },
  "0x7755505374ec689db2b6e4f9bb9ebe5d7964331db5d24775cac97117f407e147": {
   "created_at": "2026-08-10T20:05:47.740502Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -803,6 +821,15 @@
   "revisions": 1,
   "sha256": "fcce71771dcfcc759db4b2c14d91bf84e4e18e1799ab60ba5c7dcf83a29353ea",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-08-house-election-by-10-15"
+ },
+ "0x8fca910c6b688063f79559e36871fe549d56fe1363c17ba4cccd3bd77fd0cc47": {
+  "created_at": "2026-10-15T17:02:02.815998Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "f4bd3ededabc57991dafdc63319713c44ea9450182b4d41fcd7ecbfdfede30ee",
+  "slug": "cdr-red-bar-2026-10-28-first-to-score-neither"
  },
  "0x8fe28c6ccc0f8d0813b24cb8c504bc55af2d6a52a0d71154581a96d8a6c59d47": {
   "created_at": "2026-09-02T21:57:57.572606Z",
@@ -1091,6 +1118,15 @@
   "revisions": 1,
   "sha256": "2d40d97d81a71bdca275e26cd0eba17c903be49bdd305320bd46008c55dbb3ce",
   "slug": "will-the-calgary-flames-record-80-points"
+ },
+ "0xbe248ac2fd5d63a47b8d56fa1505caf4bf5ee9e34c88dd594f34fd32df599c47": {
+  "created_at": "2026-10-15T17:01:20.885201Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 3 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-3-0"
  },
  "0xbe5a2d6089afcfcd8f02f8797f70cc9f915c680cc6b8dce83b7bcf0bff17b247": {
   "created_at": "2026-01-02T20:58:02.968051Z",
@@ -1387,6 +1423,7 @@
   "created_at": "2026-08-26T21:46:28.768371Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Hurac\u00e1n finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",

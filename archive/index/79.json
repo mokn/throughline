@@ -48,6 +48,7 @@
   "created_at": "2026-01-28T04:52:49.102028Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the AR-02 House seat?",
   "revisions": 1,
   "sha256": "ea5d2bce5c807ba4b87cd9878e56596f1989044a19f15291ee7e5acc7d920ac8",
@@ -626,6 +627,15 @@
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
   "slug": "f1-brazilian-grand-prix-winner-bortoleto-2026-11-08"
  },
+ "0x6ce0b1a9e24b4d8f23292f19fe7b0c32cc2680ccce4f8c8cf43f6564051d9e79": {
+  "created_at": "2026-10-15T18:02:44.104478Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Utebo FC (-5.5)",
+  "revisions": 1,
+  "sha256": "283c02939bbd9002426992d628ba368beb413bf205daf85dd46065cd612b3bb2",
+  "slug": "cdr-ute-sab-2026-10-28-spread-home-5pt5"
+ },
  "0x6dacc1819be3a9cbf0b2bee90c4f9c6d1623273d092bbbffa5ac82e7cbf78e79": {
   "created_at": "2026-10-02T23:00:26.32826Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1193,6 +1203,15 @@
   "revisions": 1,
   "sha256": "04e987511a2c81e5fc39ce709f229278562ec7ca261c84e3494dc2d6a5bf5762",
   "slug": "nba-2026-27-defensive-player-of-the-year-jalen-suggs"
+ },
+ "0xdcd58e73b45fcfb68f102bafbb169b427609a68044ac74d314742fa81b99c479": {
+  "created_at": "2026-10-15T17:02:05.563113Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 0 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-0-3"
  },
  "0xdea233cc74c8a57a36f0318d7215a3da8afb35fa8175ec101e28d43f918ef679": {
   "created_at": "2026-01-28T15:33:10.806183Z",

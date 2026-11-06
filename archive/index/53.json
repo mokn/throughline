@@ -189,6 +189,15 @@
   "sha256": "07621f6b2e81bc6d29ad89e3dea77482e3e55c41410a34c009c44501b0027989",
   "slug": "el2-col-pvl-2026-10-03-second-half-result-away"
  },
+ "0x2a7b2f5b899aae759a555b275c6d99963c9e624c681444bda2e2ad850cd1e953": {
+  "created_at": "2026-10-15T18:01:07.679661Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 1.5",
+  "revisions": 1,
+  "sha256": "6b1f3b6ca5076e6134ce4006da275e38c71040ddf3174a1f92958313c97813f6",
+  "slug": "cdr-red-bar-2026-10-28-team-total-home-1pt5"
+ },
  "0x2a96b94f17f126ce63a7d6ba87ef2b70cf4279bdb9edb1485bb16219bfeb6553": {
   "created_at": "2026-10-13T15:51:23.890556Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -481,6 +490,15 @@
   "sha256": "d5bc11cfc552550730b17ba954963bafeb1c4dbd014b6d34ecae93819df6eb67",
   "slug": "will-ray-agnew-be-the-next-indianapolis-colts-general-manager"
  },
+ "0x572c2dc6cbd784019316d53e94d32750dc29165e644ea9b948e2e8753e280553": {
+  "created_at": "2026-10-15T17:01:04.28185Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 4 - 0 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-4-0"
+ },
  "0x5cde9ca3d47969240e64adadc49a21c419c778ec04b200497305307d39f0e053": {
   "created_at": "2026-07-29T23:00:33.88166Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -498,6 +516,15 @@
   "revisions": 1,
   "sha256": "170c8ba1ac2f5186db2110110ce372aa7ad5127cfd39141eca350272038cdfce",
   "slug": "2027-soccer-japan-j-league-winner-nagoya-grampus"
+ },
+ "0x6270633b21f9954cb94b2cd4fdb9ac545cc7cf018e768f40b6a5e8660a131f53": {
+  "created_at": "2026-10-15T17:02:05.407148Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 0 - 2 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-0-2"
  },
  "0x6296ffa06023e840a8e5982c9439250a0504e498edf8f272ea511cc5b72f9853": {
   "created_at": "2026-08-12T00:15:43.55847Z",
@@ -580,6 +607,15 @@
   "revisions": 1,
   "sha256": "6a8fe4d12b5ef7ba13a07d4b3c599f4ab922435a0c8a7167c4a8f18df6bcfcbf",
   "slug": "will-the-republican-party-candidate-win-the-2026-tn-03-house-election-by-30-35"
+ },
+ "0x72fcf5f9af7d8845df50c00b80605cf95a7ab1dd0eacf13e9ed0a568ae9bc053": {
+  "created_at": "2026-10-15T18:01:48.498827Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 6.5",
+  "revisions": 1,
+  "sha256": "3d94ef550c188aa007d1906be8fe145bf65f504f77136b4b02b5a68a696e5cbb",
+  "slug": "cdr-bad-cdt-2026-10-28-total-6pt5"
  },
  "0x74e97c72c8760c8653c2d841bd310cdc3d3f8bfde38410ee2fd7284f44978c53": {
   "created_at": "2026-09-20T11:16:15.364858Z",
@@ -943,6 +979,15 @@
   "sha256": "584daef7ee7ef63ab3d137d9e333c302162c4c3aca2adae268090959d330cdb1",
   "slug": "will-ashton-daniels-be-the-2026-acc-passing-tds-leader"
  },
+ "0xa94b1de671aee08d46a4f84df07433d35647302d7afba177012d12ce4b25c153": {
+  "created_at": "2026-10-15T17:02:00.857144Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 2 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-2-2"
+ },
  "0xa9aa873b222923b2ef53f9a2525fd953590572d8d6331277c7cbbc9d52367f53": {
   "created_at": "2026-09-03T22:23:35.224946Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1196,6 +1241,15 @@
   "revisions": 1,
   "sha256": "d927b7f10022dc5c817ee902210b9e50e5f4bf862cd7bbe9a8b1dd0d23fd48ef",
   "slug": "will-waymo-launch-in-washington-dc-by-december-31-2026-20260626203025666"
+ },
+ "0xd89f4ffa807072c4240183a7bc344275e5d44aeac88721a18ba12f839287a853": {
+  "created_at": "2026-10-15T17:02:00.901573Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 3 - 1 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-3-1"
  },
  "0xd8eb5bfa1944b20c8001ed89d52baf3fa40e87294a76b03a8c02657843a60553": {
   "created_at": "2026-10-14T20:18:52.126742Z",

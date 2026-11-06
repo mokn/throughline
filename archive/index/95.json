@@ -94,6 +94,7 @@
   "created_at": "2025-10-09T20:11:15.977865Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
   "revisions": 1,
   "sha256": "df96f302b3874499ce31eaefc029b3c3076a0a0ec9235e981360155cee747287",
@@ -667,6 +668,15 @@
   "revisions": 1,
   "sha256": "6c6dc94d95eaeb04b91c0a96581ed7a416138e5d4824f9bfbea9b6b6cea82326",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nj-12-house-election-by-20-25"
+ },
+ "0x793f9c0d1b6c065122850842d41e3d28666292d30718e3c17ba88450799e5195": {
+  "created_at": "2026-10-15T17:01:37.716621Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 3 - 3 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-3-3"
  },
  "0x796bae5e5ee1a2842c4ddcfd56f7079a7dd77c39a477906e96bc80623c51bc95": {
   "created_at": "2026-08-24T16:33:17.163705Z",
