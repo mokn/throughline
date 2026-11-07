@@ -362,6 +362,15 @@
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-11-house-election-by-18-21"
  },
+ "0x36131d96f11a72e32746b981c7de4c888a37e64b894e0e4b1bf51df91304e5d5": {
+  "created_at": "2026-11-07T12:30:30.03022Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-hulkenberg-2026-12-06"
+ },
  "0x373398cbdb027ad1e9ea1117d7c1a64a74897771045572e84bb9e67007a60dd5": {
   "created_at": "2026-08-28T05:56:17.736068Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -452,6 +461,15 @@
   "revisions": 1,
   "sha256": "bd9d05d9eb02ec6ddc040a546eec3785de6a6c6624286031a42d6621dd58842e",
   "slug": "will-collin-dixon-be-the-2026-big-ten-receiving-yards-leader"
+ },
+ "0x418d1b1fa23211b374ff8c39c367ce3a7348a058720e755bc9f8d684039f85d5": {
+  "created_at": "2026-11-06T22:37:21.563679Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon hit 22% in any poll before the first round of the French presidential election?",
+  "revisions": 1,
+  "sha256": "55a0a611409ba2e47bf5ec7cf2084db545ebf49ae2f0cb40ba39ba04689e2d1d",
+  "slug": "will-jean-luc-melenchon-hit-22-in-any-poll-before-the-first-round-of-the-french-presidential-election"
  },
  "0x4259eb14e5844626d399790e059c4ee3743a4d3f7e39b0fab95b4570eb2ac0d5": {
   "created_at": "2026-08-24T16:34:00.211215Z",
@@ -1192,6 +1210,15 @@
   "revisions": 1,
   "sha256": "6bc4eb8c349f8eae1ca839e8de3e2cef24b1c794d6334a72d6b274e62640efd0",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-30-house-election-by-55-60"
+ },
+ "0xbb69a89664d3b107a4f132dccf2cfee1b7ca7c1cfa601a35d5d6495832c503d5": {
+  "created_at": "2026-11-06T23:09:50.982887Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 235-239 House members vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "235-239-house-members-vote-to-impeach-hegseth-by-december-31"
  },
  "0xbca137714abbb7728375f7b23be4f14cb69a885522f937edb366f010b4610cd5": {
   "created_at": "2026-08-06T08:33:56.906256Z",

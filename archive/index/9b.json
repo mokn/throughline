@@ -226,6 +226,15 @@
   "sha256": "d29638c5fecd36cfce18e23e0ba2c6a90e8433ec9488c498ed4f0595133a960e",
   "slug": "nba-2026-27-players-to-average-30-plus-ppg-stephen-curry"
  },
+ "0x23de2c2393edddf681d878662a83c34fd185da40dcd041c9d9c7fc4b5bb31a9b": {
+  "created_at": "2026-11-07T12:30:31.048847Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-russell-2026-12-06"
+ },
  "0x24616ce096cda6fc1b3e72beb79cef139360606ca3aac79b62d874c34a9d749b": {
   "created_at": "2026-02-18T22:38:27.521374Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -261,6 +270,15 @@
   "revisions": 1,
   "sha256": "a81f678370ba161b9f1d446eb4f990084a280e0b8b0d7d4b33b4e519f0536fb9",
   "slug": "will-vitoria-keep-the-most-clean-sheets-in-brazil-serie-a-2026"
+ },
+ "0x2edb548ba41b9e47c34058bbd6289423a60768214498c7daa8038eb5f72f149b": {
+  "created_at": "2026-11-06T22:31:40.336046Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sarah Knafo win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-sarah-knafo-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0x31954ca0d6cd4259f5c614b7ca2fda98f277b3d5a3cc2c792b34a8c4e9dd429b": {
   "created_at": "2026-09-27T20:08:50.649156Z",
@@ -1414,6 +1432,15 @@
   "revisions": 1,
   "sha256": "9d2eb89633dc3b44603e116444764b0d51109e8c18163494934a1d9c1cfd5183",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-illinois-be-less-than-3250000"
+ },
+ "0xe9ff00ecc927292da26509c1a07a551ee0ccc680644548b0fa2dc990c8ba6f9b": {
+  "created_at": "2026-11-06T22:39:05.112777Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 8 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-8-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
  },
  "0xeb892eb524e7bfdc630f0fd19c759668e2c62d88f2aaebcb2f830823fd9e629b": {
   "created_at": "2026-10-21T00:11:07.745306Z",

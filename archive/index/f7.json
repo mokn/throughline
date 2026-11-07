@@ -170,6 +170,15 @@
   "sha256": "f0f74609eb8ac99c9e0d777baca7cc12a4da9690866fb4fc94cdd739bc230c81",
   "slug": "will-las-vegas-raiders-finish-the-2026-27-nfl-regular-season-with-the-most-interceptions-20260716001411918"
  },
+ "0x26611f5874a94c539e263bf32972ea60338e8ab93a3549c2ba02501f3759dcf7": {
+  "created_at": "2026-11-06T22:31:40.771168Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Dominique de Villepin win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-dominique-de-villepin-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0x277db9ee28ef69120bf70b3d060293a5febd73a1ac3185df9952798cbce638f7": {
   "created_at": "2026-05-19T18:11:18.787197Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -381,6 +390,7 @@
   "created_at": "2026-10-02T18:00:00.164737Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 4.2%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -413,6 +423,15 @@
   "revisions": 1,
   "sha256": "597e6b1a4a840fd67135d012315fdb97b8bb219142431476341fae4e5afe5beb",
   "slug": "will-the-republican-party-win-the-fl-04-house-seat"
+ },
+ "0x5c9dfb48a275a99188bce4e1e3da56b33f742ece1d8c15054de625ad37acccf7": {
+  "created_at": "2026-11-06T17:29:29.785223Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Israel military action against Greater Beirut by December 31?",
+  "revisions": 1,
+  "sha256": "19788ca7f41fcff623b995995e1034e84e019c2345df0f1f8b5711062980f687",
+  "slug": "israel-military-action-against-greater-beirut-by-december-31"
  },
  "0x5cfa10b9b2a5659819b93342ae78607b157069847f8f00ada5e6e5f00b60e4f7": {
   "created_at": "2026-08-25T21:28:57.922538Z",

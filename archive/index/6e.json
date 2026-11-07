@@ -813,6 +813,15 @@
   "sha256": "0fba60e03908266ebca3e0912823008f81e7c17727c2f01637efc1e4a2c23df0",
   "slug": "will-nicolas-maduro-be-the-1-searched-person-on-google-this-year-20260717214426297"
  },
+ "0x81b433adc0f10cc2602338ee353e9f541f5dc5f21da12adfcb54d5f7b45bad6e": {
+  "created_at": "2026-11-06T22:58:33.386146Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Scott Bessent be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-scott-bessent-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0x822e61527476cabf98927e3aad385c5ecdae7086f945535f2c1fd9ae8dbfa46e": {
   "created_at": "2025-07-03T20:37:21.627643Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1335,6 +1344,7 @@
   "created_at": "2026-07-28T02:32:03.622729Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Alexandra Leclerc pregnant in 2026?",
   "revisions": 1,
   "sha256": "fc4f796e164dd99c66ab36edbd5e93e18ce6d631b9b0313b05db818cc207fdf1",

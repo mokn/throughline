@@ -1031,6 +1031,15 @@
   "sha256": "03530dc4a1f530757407d89c854a33eae10e52688cf99cf40f1c87ac10a7778a",
   "slug": "will-the-republican-party-candidate-win-the-2026-nj-04-house-election-by-30-35"
  },
+ "0xaae26d9f39feef4bf358e642005a3de7b62288402bc42c6c1e15cf1cf15083ad": {
+  "created_at": "2026-11-07T12:31:14.963639Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Bortoleto or Hulkenberg?",
+  "revisions": 1,
+  "sha256": "f300cbc84aff87b089a688f581f2211906db805b30e1499f191e782e0008bf10",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-bortoleto-vs-hulkenberg-2026-12-06"
+ },
  "0xabe90f8b5b16fe3e4cd6fb2d6bf35461e752719ea9cdb0947c4ec1b383ec18ad": {
   "created_at": "2026-09-29T15:56:48.295868Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1230,6 +1239,15 @@
   "revisions": 1,
   "sha256": "6589c05a0469769ef2057cb8b5ee4fd9a47bff11ee09f6e6f46576f3ed8c52f6",
   "slug": "will-podemos-win-the-most-seats-in-the-balearic-islands-in-the-2026-spanish-general-election"
+ },
+ "0xd52835fcb5164e8787a66d90c411cd34c514944fa74fc094e36613b0761788ad": {
+  "created_at": "2026-11-07T12:30:04.194047Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Charles Leclerc win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-leclerc-2026-12-06"
  },
  "0xd66b2e80271b404814e968e94691af0be9d89de208eb7a76c79c15df43bf28ad": {
   "created_at": "2026-07-15T00:40:34.755598Z",

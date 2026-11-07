@@ -215,6 +215,15 @@
   "sha256": "be6363e8230799ccb0ea41d9d27f68c33aa35b04ae5994ee7cdce1b21df06669",
   "slug": "will-shohei-ohtani-be-on-the-cover-of-mlb-the-show-27"
  },
+ "0x250d253b5a00b57f92ff0b04955a58e0dfa748cf885af5098c1fa67daabeb7cf": {
+  "created_at": "2026-11-07T12:30:28.994228Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-norris-2026-12-06"
+ },
  "0x254f1cea11c5537dfa919395d0aee730848c503530a19af8e5c9d83acd5ccacf": {
   "created_at": "2026-09-30T14:02:33.515319Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -892,6 +901,15 @@
   "sha256": "2fb4509b6de2a958edc2eca4dfc28cc3213e54c857eea43ac38adc1e7fddee2b",
   "slug": "will-edoardo-corvi-parma-record-the-most-clean-sheets-in-the-2026-27-serie-a-season"
  },
+ "0xa04862d09292dc1b3dcbb8f3e1c595c4b9dea4aecf5cd4b86fda6c05c69125cf": {
+  "created_at": "2026-11-07T12:30:49.668117Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-isack-hadjar-2026-12-04"
+ },
  "0xa0b95ca3fedf3fa4c22685e3daad662a93bd8dacdb87dbdbe7f02f5ee7cab3cf": {
   "created_at": "2026-10-01T14:00:59.546441Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1351,6 +1369,15 @@
   "revisions": 1,
   "sha256": "1221f3a8e8b680fe53e9ccd2ced55d006458f8dc673e4095bf5abddcb7489689",
   "slug": "madison-beer-and-justin-herbert-confirmed-married-by-december-31-20260804005421104"
+ },
+ "0xe8d7b06b6203a5bd87d6f101f89e7337fdf64064b01881e35a642c8b057e4ccf": {
+  "created_at": "2026-11-06T22:39:06.737385Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 11 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-11-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
  },
  "0xe99d3675e351726917d47335ca1c362525805b8493fa71c0b6f438088978a5cf": {
   "created_at": "2026-10-25T04:01:52.417564Z",

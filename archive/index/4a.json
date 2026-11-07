@@ -211,6 +211,7 @@
   "created_at": "2026-10-10T11:30:25.866097Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Lando Norris achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -269,6 +270,15 @@
   "revisions": 1,
   "sha256": "63d9307aa0ad0cc213ff1317b289603742c5cc2be2fe0828762a216957fb1d00",
   "slug": "will-wyatt-young-be-the-2026-d1-receptions-leader"
+ },
+ "0x3738f27bf701c1bd9c6eb8ec17d9136d7e107243aa413c15994f2b49a1d2b64a": {
+  "created_at": "2026-11-07T12:31:25.960083Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yuki Tsunoda finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-tsunoda-2026-12-06"
  },
  "0x389627b27f0cf60e46904d8a37354b089f4bdf8376699b8e2580eabcffe8884a": {
   "created_at": "2026-08-21T17:37:06.028296Z",
@@ -491,6 +501,7 @@
   "created_at": "2026-10-31T14:14:12.420061Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will US gas hit $4.10 (Low) in November?",
   "revisions": 1,
   "sha256": "225859b7f0cbcd2ea6abb1a1631b4479af14cfed5b5b7b4f4ab7b37a5bb0777d",
@@ -540,6 +551,15 @@
   "revisions": 1,
   "sha256": "f7da3b136d5c003bc200286da7254a38aa256f4b1a0291363eb37c04e5307ff3",
   "slug": "champions-hockey-league-2027-champion-frolunda-hc"
+ },
+ "0x69c9f82fefbbf13f1d01b029fe7705cd6e38da2ab1e159d41328d56652181a4a": {
+  "created_at": "2026-11-07T12:30:57.69888Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-franco-colapinto-2026-12-04"
  },
  "0x6c83c4fed69cb642fb81b0a904d028c000b10af91af0df3f9fb5e392d0db634a": {
   "created_at": "2026-09-27T20:11:03.141394Z",
@@ -1269,6 +1289,7 @@
   "created_at": "2026-03-26T21:57:38.576937Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Cody Bellinger win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",

@@ -66,6 +66,7 @@
   "created_at": "2026-10-10T11:30:29.545476Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Sergio Perez achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -474,6 +475,7 @@
   "created_at": "2026-09-01T17:44:09.928119Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republicans win Maricopa County in the Arizona governor race in 2026?",
   "revisions": 1,
   "sha256": "2cbfadc9471e46f14450d6db8b5fcd7261fee1d0b0261242681369b03132ba05",
@@ -501,6 +503,7 @@
   "created_at": "2026-01-28T15:37:36.035283Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republican Party win the NY-21 House seat?",
   "revisions": 1,
   "sha256": "54cf04e67c6a0eb4523a8364186ec48d43f4618c26ae276dc391cde536f09d2a",
@@ -745,6 +748,15 @@
   "sha256": "32a94156792bdd186bd89f1336fed358178976b3bff69f78cc486b1853252c10",
   "slug": "will-the-arizona-cardinals-finish-the-2026-27-nfl-regular-season-with-the-best-record"
  },
+ "0x746d8a90909a6aba283185edd760661ac057a8ce93abec491a602c4b7ac8e970": {
+  "created_at": "2026-11-07T12:30:45.205623Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-lando-norris-2026-12-04"
+ },
  "0x75f3d03cb440996ca60903e5195d51e1db97abb75dcc067353a03277543e2c70": {
   "created_at": "2026-09-02T21:55:35.424969Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -870,6 +882,15 @@
   "revisions": 1,
   "sha256": "20c277c105a6567aad4e22527df703688bc3ea7326ad0d9814a33addf4e62b2d",
   "slug": "will-asyut-petroleum-keep-the-most-clean-sheets-in-egypt-premier-league-2026-27"
+ },
+ "0x93feee09c1cfddf444e952404a717dfc722c787cdbec8c10f18ba208e6a7be70": {
+  "created_at": "2026-11-06T20:44:15.772146Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "National Popular Vote Compact implemented before the 2028 election?",
+  "revisions": 1,
+  "sha256": "67f7fa88b798781b03a0bf9bb635aa13c2f6b52611600ef1145cb84adf548e8c",
+  "slug": "national-popular-vote-compact-implemented-before-the-2028-election"
  },
  "0x955b74c0c729f836d2410f4855cbaa65ee4ba6bad902ff63ca3716975da13170": {
   "created_at": "2026-08-21T20:29:31.310739Z",
@@ -1518,6 +1539,7 @@
   "created_at": "2026-01-28T04:53:43.58423Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the CA-14 House seat?",
   "revisions": 1,
   "sha256": "ed6306f8d8d0f3e5c1e1ed386fe048447a8ddf261138b5aa429c35071d77d2c7",

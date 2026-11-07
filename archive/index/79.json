@@ -649,6 +649,7 @@
   "created_at": "2026-01-28T04:53:38.204656Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republican Party win the CA-11 House seat?",
   "revisions": 1,
   "sha256": "29a682a6e165e0adac0abdf34b23c5f2aa51e2531d45243ec4ae80d934283004",
@@ -1294,6 +1295,15 @@
   "revisions": 1,
   "sha256": "9dafa208a54cfe6be76834b8a7f0ba5a50c72d91a5b2f48047d5c292bcda4476",
   "slug": "will-dorian-thomas-be-the-2026-acc-receiving-tds-leader"
+ },
+ "0xed2eec23eb5482ad3b78c1c1a496cfb21191c2cde6c93eb713c8ac393c506279": {
+  "created_at": "2026-11-07T12:31:25.707726Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-stroll-2026-12-06"
  },
  "0xee105d7ebe2a1245d982abc26edbdfb1ee744494c02c1b4d1d35e0c48c9fbb79": {
   "created_at": "2026-11-02T21:05:30.665223Z",

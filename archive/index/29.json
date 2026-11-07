@@ -297,6 +297,15 @@
   "sha256": "33a9fe47909e1a49de183427e46b4b198fc2f21065d962a1f9943ec2278f35a3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-va-04-house-election-by-40-45"
  },
+ "0x343728472dadb8ee61a10519269abd5b65d60142a131a44b267dacb46445f429": {
+  "created_at": "2026-11-07T00:10:46.655534Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Amir Ohana receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-amir-ohana-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x369a4e03dc746c2d76aa548e581a1641c4e59df0027576fc46b5be7f21795529": {
   "created_at": "2026-09-27T20:02:00.091543Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1248,6 +1257,7 @@
   "created_at": "2026-10-10T11:30:29.69731Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Charles Leclerc achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -1392,6 +1402,7 @@
   "created_at": "2026-03-26T21:53:37.420703Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Gabriel Moreno win the 2026 NL Platinum Glove award?",
   "revisions": 1,
   "sha256": "78d41609970e0c83a93f77d52403028aa352e20810884caa4b09a2c242343fab",

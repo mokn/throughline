@@ -54,6 +54,15 @@
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
   "slug": "2026-soccer-usl-league-one-runner-up-westchester-sc"
  },
+ "0x06fa0412599aa2069a6758d4d1b2d141e2cff4c192c2fb9c8de7da6469831cba": {
+  "created_at": "2026-11-06T22:39:05.574079Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 9 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-9-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
+ },
  "0x07153835986bfab1f1fdf4162d835f08fbcbb7c722e5777697044cdafa60d8ba": {
   "created_at": "2026-08-10T23:57:18.133811Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -290,6 +299,15 @@
   "revisions": 1,
   "sha256": "82eab1c0b41a1d5784b9e3c94195fad9fe7a3dfca60c58e2ad655b09524d8743",
   "slug": "del-2027-champion-augsburger-panther"
+ },
+ "0x2ccdf3b607629cc4af9fd142168d344af8084dcd3dad243594e7ba4c8a322eba": {
+  "created_at": "2026-11-07T12:30:55.04178Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-pierre-gasly-2026-12-04"
  },
  "0x2dcbc71a3f8108936e768b503d565fbda7a644b2a0bd9ed45f74982a2bb11fba": {
   "created_at": "2026-08-26T14:05:23.76548Z",
@@ -959,6 +977,15 @@
   "revisions": 1,
   "sha256": "0eae79869c34000e97a1ef5ba8840d30d9c17df5ba0cba36d0c49db173097ff0",
   "slug": "will-the-5-year-treasury-yield-hit-4pt90-before-2027-readd"
+ },
+ "0x961165636ded2469a4aecdbadb3d3704570bfeac2d6032ad86bddd1586a051ba": {
+  "created_at": "2026-11-06T22:58:39.308666Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will John Ratcliffe be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-john-ratcliffe-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x997918077933556d933b744855bd657f884e10a528a697923589da7b9f6569ba": {
   "created_at": "2026-08-12T17:29:23.171057Z",

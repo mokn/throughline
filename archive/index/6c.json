@@ -48,6 +48,7 @@
   "created_at": "2026-10-02T17:59:21.347648Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the US add between 50k and 75k jobs in October?",
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",
@@ -332,6 +333,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-lebron-james"
+ },
+ "0x31a37c02c65bf4711d9d0512b3523a9e4ab145bfff36d6041aac125a22641d6c": {
+  "created_at": "2026-11-07T12:31:00.903735Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-lance-stroll-2026-12-04"
  },
  "0x3289a7b6746c1c4ddc0d01fffd71394067eaea510f464ea87316ebf06332fe6c": {
   "created_at": "2026-08-11T14:02:49.618733Z",
@@ -792,6 +802,15 @@
   "revisions": 1,
   "sha256": "27abafc7b456613501b64f01ab8bfc13de4feb71933a98b6f2d714223a6a26db",
   "slug": "will-the-next-governing-coalition-of-sweden-include-m-kd-l-sd"
+ },
+ "0x7df3ac6adf9e307b207e66b3e6c3a0f03d483009d7295cd916f1b33f72295e6c": {
+  "created_at": "2026-11-07T12:30:49.971566Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-liam-lawson-2026-12-04"
  },
  "0x828225d13a89836d42f4d55a9118f5c05754aa184d191292f91add75b15e996c": {
   "created_at": "2026-08-28T05:57:35.627025Z",
@@ -1275,6 +1294,7 @@
   "created_at": "2026-05-22T18:33:44.707676Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Linda McMahon be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",

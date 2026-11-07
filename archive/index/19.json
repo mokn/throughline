@@ -221,6 +221,7 @@
   "created_at": "2026-08-21T20:31:53.957831Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "League City, Texas passes ballot measure approving the police use of Flock Cameras?",
   "revisions": 1,
   "sha256": "1978f8cf5bb29ef4c67879ffcec3b7e6a3c3814cd6a71a4a5444cb2ebf6dc250",
@@ -514,6 +515,15 @@
   "revisions": 1,
   "sha256": "6ed73371451eb368dbd1edb7d0b2d8f65ed4034667bd22fa7d78cb6ce26e270d",
   "slug": "will-the-republican-party-candidate-win-the-2026-wy-al-house-election-by-10-20"
+ },
+ "0x4c6f7a13d0183d566e62c45acc0c9ae92482cc6f21b34db8db64afea2f094f19": {
+  "created_at": "2026-11-07T12:31:14.238736Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Colapinto or Gasly?",
+  "revisions": 1,
+  "sha256": "82ad2c2518d1a9dafb79f70812bcaef2588bebd7ab0373d3b4116b4a0f3f0af7",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-colapinto-vs-gasly-2026-12-06"
  },
  "0x4ced777ae3e20aa4cb7b658501a7785fadd9bbfcc705aab8923b921090949219": {
   "created_at": "2026-08-10T23:38:38.064061Z",
@@ -950,6 +960,15 @@
   "sha256": "4c07d3ce491f4416b54774f65807346ff7a187aa519e5d46925713ffa2561b2e",
   "slug": "will-steffen-krach-be-the-next-governing-mayor-of-berlin-1786117615443"
  },
+ "0x7ddda012c0722092a3d80f7a7ef6119ab3ac691c8773cb47fb9806dc898aea19": {
+  "created_at": "2026-11-07T00:10:42.052259Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Moshe Feiglin receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-moshe-feiglin-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x807073142bfe25ce8e47ccde62c6456dbd1c7aa7aef15d69db2575ed10f66e19": {
   "created_at": "2026-08-06T15:44:06.128746Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1229,6 +1248,15 @@
   "sha256": "e9a4f127b07eddc8914b4ae8e7351330633b7068a8156b270e3c48dda60e0410",
   "slug": "will-francois-hollande-receive-the-most-signatures-from-elected-officials-in-the-2027-french-presidential-election-20261019133954357"
  },
+ "0xafc46f5bcf7fd3b90422fd8482fa0408abeca0048751ea35ce148d79f196d419": {
+  "created_at": "2026-11-07T12:30:37.168967Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Red Bull achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-red-bull-2026-12-06"
+ },
  "0xb29e2b2b0cdae7e7e12572d2b77b9d8de8e33f922e0e7e30772e72b97cc1af19": {
   "created_at": "2026-09-04T19:28:54.16065Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1473,6 +1501,15 @@
   "sha256": "fc45931270469f07370bd80caec0e54d5292fb568697373133e4eec6be4ea8bc",
   "slug": "will-illinois-fighting-illini-win-the-2026-big-ten-championship-20260731204103001"
  },
+ "0xdca820e0aa8c6284e7fe322e14d152f4143848518b6cf7625eaa7503ee847919": {
+  "created_at": "2026-11-07T12:31:26.242431Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ryo Hirakawa finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-hirakawa-2026-12-06"
+ },
  "0xdcd5934c8d4447fcc4e7e842de8bc833fa7d789a3f1658cfd975bdee96d8be19": {
   "created_at": "2026-10-13T15:43:43.882158Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1703,6 +1740,7 @@
   "created_at": "2026-08-26T21:46:29.36267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Talleres (C) finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",

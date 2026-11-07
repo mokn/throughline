@@ -120,6 +120,7 @@
   "created_at": "2026-09-01T17:43:12.918993Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democrats win Clark County in the Nevada governor race in 2026?",
   "revisions": 1,
   "sha256": "c70472e6de3c2c5278547157796d665004ec49ba6130fa6c2e7e22063e126717",
@@ -1319,6 +1320,15 @@
   "revisions": 1,
   "sha256": "26c99de4d1c24ac61173a0d33a7acf03bd99332f8259a6053915dd2f4c7aece4",
   "slug": "lamar-jackson-974pt5-rushing-yards-2026-27"
+ },
+ "0xc32c0ec7320e656eac5ab6189b491bc71a9ecb0e596657677207eeb4ca1b8bc9": {
+  "created_at": "2026-11-07T12:31:20.378395Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-alonso-2026-12-06"
  },
  "0xc60123346def3c8452be04c3588b5555ef7378038f560bb22b2d7c9e8cb19bc9": {
   "created_at": "2026-09-04T19:22:14.238374Z",

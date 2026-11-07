@@ -402,6 +402,7 @@
   "created_at": "2026-10-10T11:30:26.988477Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Oliver Bearman achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -722,6 +723,15 @@
   "revisions": 1,
   "sha256": "9b7726fe72e7987eea92a46b17c158465f55e52d8a235561d52f76413f463852",
   "slug": "jahmyr-gibbs-249pt5-receiving-yards-2026-27"
+ },
+ "0x73e66b8a13496abf2d1c1f55bdc42ca675bf0288bbc758a0a53ae13e48d232da": {
+  "created_at": "2026-11-07T12:30:19.208668Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-hadjar-2026-12-05"
  },
  "0x744f442de356db04289d1b027065533e28f34f243c7504ce8274980f4568a4da": {
   "created_at": "2026-04-14T15:40:24.586552Z",
@@ -1354,6 +1364,15 @@
   "revisions": 1,
   "sha256": "d927b7f10022dc5c817ee902210b9e50e5f4bf862cd7bbe9a8b1dd0d23fd48ef",
   "slug": "will-waymo-launch-in-tokyo-japan-by-december-31-2026-20260626203025665"
+ },
+ "0xe099592701c61ce7fe8c67f989f0bb67ef5e7b4b227d96101bbffdf4b40749da": {
+  "created_at": "2026-11-07T03:57:18.184231Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Another vessel struck in the Black Sea by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "11d97ff057466594483b107bef5fe380242f4d54d1b19e28605b43df8928bfc1",
+  "slug": "another-vessel-struck-in-the-black-sea-by-december-31-2026-20261106"
  },
  "0xe2de83652b48a990592df6b367879c2f81d4c4bc14b7e9619a404858548ac5da": {
   "created_at": "2026-08-10T18:10:37.189102Z",

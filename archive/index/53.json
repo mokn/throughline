@@ -458,6 +458,7 @@
   "created_at": "2026-10-10T11:30:29.85625Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Esteban Ocon achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -625,6 +626,15 @@
   "revisions": 1,
   "sha256": "f232fb3a64fa2e3c3219120ee9592162580dbfa8766a0555773ebb9a10495103",
   "slug": "enl-scu-fgr-2026-10-03-exact-score-1-1"
+ },
+ "0x75c44e9183691b19e1b6d54a895027af58f35c21421938d10bc94b0c0be36d53": {
+  "created_at": "2026-11-07T12:31:04.721518Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-pierre-gasly-2026-12-05"
  },
  "0x7612a43dcc352e98f122c60fcb2c91a099f230105db942c7e6006215855e6453": {
   "created_at": "2026-08-12T17:22:42.514519Z",
@@ -1115,6 +1125,15 @@
   "sha256": "d37f9af2e5930d93b66a0e692726928b58ec913e72bbe67b4455480074763b9a",
   "slug": "will-patrick-mahomes-finish-the-2026-27-nfl-regular-season-with-the-most-total-qbr-among-qualified-players-20260715213900182"
  },
+ "0xbab2028284af92ec6eebc2880bb1fa33f110274a4279ffd1f5e2d1524c5ed553": {
+  "created_at": "2026-11-07T12:30:36.969297Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mercedes achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-mercedes-2026-12-06"
+ },
  "0xbd7144a36ed9aff7e0af7816ca9482288212667f63c77ac4231c775cca331253": {
   "created_at": "2026-09-24T08:36:23.107459Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1295,6 +1314,15 @@
   "revisions": 1,
   "sha256": "4ad66f10fa479fbc69ca20b863954ff382fc5210de5fa1e9c0a3d01d4b3653fd",
   "slug": "will-nvidia-be-the-third-best-ai-lab-at-the-end-of-december-2026"
+ },
+ "0xe0661d007836569ea1d4f31595550566e8013cf323833f96c451e20559a47153": {
+  "created_at": "2026-11-07T12:30:57.978603Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-carlos-sainz-jr-2026-12-04"
  },
  "0xe143594f06e5699fd3d74fece5b2ee238cfe435ab49b63ef595a65d8b3679353": {
   "created_at": "2026-10-29T21:01:13.681112Z",

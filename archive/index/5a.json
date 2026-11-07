@@ -161,6 +161,15 @@
   "sha256": "39d71b59b6da72cbe24863bd588ac896f2c001ec0fcd6fe3b751d26122f6cb14",
   "slug": "will-the-median-home-value-in-the-dc-metro-be-less-than-503000-on-december-31-2026"
  },
+ "0x190ecfb58a5057784e2be2192d14cb584940cf6fa68d38263b245122f3cb065a": {
+  "created_at": "2026-11-07T12:30:19.665397Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-stroll-2026-12-05"
+ },
  "0x19f151166b902ff89c740417fa4fef8038fba321a1057f44e06ff1c9c78aed5a": {
   "created_at": "2026-10-13T15:43:42.779976Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -875,6 +884,15 @@
   "sha256": "f7259b2119bb37018425bca4b92b8a08948760d253f41008febe7c3e0aaf3816",
   "slug": "will-jose-guadalupe-torres-sanchez-win-the-2027-san-luis-potosi-governor-election-20260803173856693"
  },
+ "0x7d6a81606296c52a8a553ba6be59c8456bb95eea421be9dbf60148069281a75a": {
+  "created_at": "2026-11-07T12:30:17.653959Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-hulkenberg-2026-12-05"
+ },
  "0x8054dde528ab7ecf7abfc009660f63b7bf61d846e8ebb9c1078bfbb8a6809d5a": {
   "created_at": "2026-08-07T14:05:21.222099Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -964,6 +982,15 @@
   "revisions": 1,
   "sha256": "47a6e956c287ec001b0bfb25f02f8183ce4203de1bb4eb8e7b849b6a6b76f63a",
   "slug": "will-the-republican-party-candidate-win-the-2026-il-17-house-election"
+ },
+ "0x8cb12055445c1953088de1b0ca3a12e8137fd5330ae04b5dc813823e9c4ae65a": {
+  "created_at": "2026-11-06T22:58:35.631688Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-robert-f-kennedy-jr-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x919953c9402ca97410a4414212cfd067b4a71892bc98d291a356aec6a357395a": {
   "created_at": "2026-08-07T20:17:08.044401Z",
@@ -1172,6 +1199,15 @@
   "sha256": "a96a4328add66ad7dd33809111f1d13729ddeff9c472733861bf54d241cfade3",
   "slug": "f1-las-vegas-grand-prix-constructor-scores-1st-cadillac-2026-11-21"
  },
+ "0xb67aa6c540d3f4ed4ff1d755fec46b31ff73fac59a7fe84e5e5af3a11f4cfa5a": {
+  "created_at": "2026-11-07T12:31:14.746795Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Albon or Jr.?",
+  "revisions": 1,
+  "sha256": "19423c0b0aa4cc63cb10ece817fcc6d57c9e6b9c089423ec78afdf0bf7bbf161",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-albon-vs-jr-2026-12-06"
+ },
  "0xbaad1cef5c1f6f7a14c65f6eccd0c1ab51ef03550862473eefb3041c3e4cf85a": {
   "created_at": "2026-10-01T14:59:37.693571Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1221,6 +1257,7 @@
   "created_at": "2026-10-10T11:30:32.385269Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Yuki Tsunoda achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",

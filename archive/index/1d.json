@@ -243,6 +243,15 @@
   "sha256": "d5bc11cfc552550730b17ba954963bafeb1c4dbd014b6d34ecae93819df6eb67",
   "slug": "will-mike-greenberg-be-the-next-indianapolis-colts-general-manager"
  },
+ "0x2ab2eb4bd0756da8bda66b4d3269e016a5a2624e522785e7f5a9fb3abf813c1d": {
+  "created_at": "2026-11-06T21:50:26.066666Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Republicans win the Presidency and House, and the Democrats the Senate in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-r-president-d-senate-r-house"
+ },
  "0x2c2d1ca309769bc95029fddfe022e86f5ac4ca26eb4f969824bc2e2035e5061d": {
   "created_at": "2026-10-01T13:32:10.002639Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -351,6 +360,15 @@
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
   "slug": "will-parivision-qualify-to-pgl-major-singapore-2026"
+ },
+ "0x36134458464f14c49b8c2ec221d3ab3fabad644e97d59e251d33dfb8506a351d": {
+  "created_at": "2026-11-07T12:30:24.066186Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alpine get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-alpine-2026-12-05"
  },
  "0x3613917f2f2c13557b20c3cc097faa39a42a0ded95448f177f8a8e145d24231d": {
   "created_at": "2026-09-20T08:45:05.872825Z",
@@ -1055,6 +1073,15 @@
   "sha256": "77bc455edc9b3ec888adc4b60f9dafb162c37744ad9c4a512677dd3cb24c2cd2",
   "slug": "el2-pvl-nth-2026-09-26-first-half-total-1pt5"
  },
+ "0xa8eac9559d6076410dd0148966f020a50471889ecf77a5b5287f50746652861d": {
+  "created_at": "2026-11-07T00:06:39.212425Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Next US president 70+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-70-plus-years-old-at-inauguration"
+ },
  "0xabd6a246bf096f1e87617125093277276c9b988c9fa89fd9905b10695a6b531d": {
   "created_at": "2026-10-07T09:14:40.462433Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1180,6 +1207,15 @@
   "revisions": 1,
   "sha256": "e1a85e236d7387863aa789f6538202f0c47f1bd644c05c6f36a382d8ec3ed15c",
   "slug": "will-alexandre-pantoja-be-the-next-fighter-to-be-ranked-first-in-the-ufc-pound-for-pound-rankings-in-2026-664"
+ },
+ "0xc24ad66976ad7499a5f60758a1fe1421068e418355853959499f6589df17631d": {
+  "created_at": "2026-11-07T12:30:36.763795Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mclaren Mastercard achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-mclaren-mastercard-2026-12-06"
  },
  "0xc32a544f65e3a8ffec6499e40290f10fa68a3f4a4819dfd366b6cb1fd7c4be1d": {
   "created_at": "2025-11-12T20:05:19.434279Z",

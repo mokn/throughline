@@ -217,6 +217,15 @@
   "sha256": "af14e238aa070b40680ace65af491f7a03bee9deef911c2c228b6afd090c9e1f",
   "slug": "will-metropolitanos-keep-the-most-clean-sheets-in-venezuelan-primera-division-2026"
  },
+ "0x255ced589ad76169f39f313412050ab50ca2e61c12ea48696c07d2e95002b477": {
+  "created_at": "2026-11-07T00:10:32.342956Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yair Lapid receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-yair-lapid-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x269b166c0af32fea1e62260cf1f21a6f51fcdc345c017eb55bf4c54f0122c877": {
   "created_at": "2025-11-28T16:19:36.537682Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1164,6 +1173,7 @@
   "created_at": "2026-01-28T15:35:52.369784Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the NC-08 House seat?",
   "revisions": 1,
   "sha256": "844c38146810c6201ca10fd33131fb7a6aae55be593079e56fbf1508ea5ffc29",

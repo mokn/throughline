@@ -1182,6 +1182,15 @@
   "sha256": "9995107b52256cb9d5bfea30045cbfec3249575004da22750ef1e272dc2e0acc",
   "slug": "2027-soccer-efbet-liga-bulgaria-winner-lokomotiv-sofia"
  },
+ "0xc03f31f3fd26cdaab4daa0911edfcc8448d9c6a5fa52b21f2c2ac110e142fc99": {
+  "created_at": "2026-11-06T22:33:12.97468Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive less than 28% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-less-than-28"
+ },
  "0xc2e3da9353e0a15d69673a9d037aaf99012e992b1f8952f21a261ee357fa2c99": {
   "created_at": "2026-03-25T21:41:58.191973Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1316,6 +1325,15 @@
   "revisions": 1,
   "sha256": "470ebb17c297a594def52b4c1044fdc6243398e5843e99ba2d476eaad1eb5cb7",
   "slug": "will-keyjuan-brown-be-the-2026-acc-rushing-tds-leader"
+ },
+ "0xdb0124df71f2b51d8e596d91f192869a0e7d0c90738c531659474cb79250a199": {
+  "created_at": "2026-11-07T12:30:30.839192Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oscar Piastri achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-piastri-2026-12-06"
  },
  "0xdbf626d2c097690179fbd0f7d6d669ef8ad199a32bd41c4b0d82119ed3a5b099": {
   "created_at": "2026-07-08T21:32:59.568554Z",

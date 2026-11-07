@@ -1229,6 +1229,15 @@
   "sha256": "655ad8b9c0d0d4db5068a33f216936cb1152c75866e7845eb2e2bdc08c08e06d",
   "slug": "will-fc-zbrojovka-brno-qualify-for-the-2027-28-uefa-europa-league"
  },
+ "0xc6fd658c56a823401b056b0afd3ef2ec8f3f7b3b72799b986ccd7853cc98b8b6": {
+  "created_at": "2026-11-06T22:39:06.014193Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 10 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-10-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
+ },
  "0xc76c3f6a42f501191ed36f6017edcd9e4a79d1d6048ace8b252cb050f648aab6": {
   "created_at": "2026-09-08T16:02:51.877431Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1309,6 +1318,15 @@
   "revisions": 1,
   "sha256": "9e31d8ead43fdc2ce0d1228a11da7dc55b60a8da15d70f1d7729d6b258a5ec1c",
   "slug": "spl-abh-kho-2026-10-19-halftime-result-away"
+ },
+ "0xda3358212ee94c07804f630815603d2b9708fa9819dfad4e36e5f377ce6d0db6": {
+  "created_at": "2026-11-06T22:58:34.223965Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Doug Burgum be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-doug-burgum-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xdcc07910de1a376a048e6c759c7bb7deaaf1049452023bc59a50137973e025b6": {
   "created_at": "2026-08-07T19:09:13.588857Z",

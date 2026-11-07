@@ -98,6 +98,15 @@
   "sha256": "e2a0604ead96f6f5872b110cc9c7909881d1b494756a97f5626f245f7ee30e6a",
   "slug": "will-alphabets-market-capitalization-be-between-3pt50t-and-4pt00t-at-the-end-of-2026-1785882876118"
  },
+ "0x1224c913485eaf130994b4c2354ec8473a14739603ae3da6d4aa2785fff85c51": {
+  "created_at": "2026-11-07T12:30:32.045625Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yuki Tsunoda achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-tsunoda-2026-12-06"
+ },
  "0x13aa3adfac590cb337445b0a96faef834cc27d3a4d417c397b43b96a4d54e751": {
   "created_at": "2025-10-13T19:14:01.116866Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -318,6 +327,7 @@
   "created_at": "2026-05-22T18:33:45.668049Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Susie Wiles be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -431,6 +441,15 @@
   "sha256": "fc084dbe31e1e8ee7c2807cd982b708ec9e88afcf48c1083ab77aa14e919dfac",
   "slug": "pltr-above-192-on-november-30-2026"
  },
+ "0x4b1cf2c259e40501d4771d470ebdbc92f50706aac0c7912ab89718b2c9c38a51": {
+  "created_at": "2026-11-07T12:31:06.199745Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-sergio-perez-2026-12-05"
+ },
  "0x4c0e541c5ce576c3019167332489ddeae46289c28ec121863e40da39bf92cc51": {
   "created_at": "2026-10-13T19:55:51.441476Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -538,6 +557,15 @@
   "revisions": 1,
   "sha256": "d3b1c4f2353737ce39949e5b2c27d960a3f421d97773f0d6405079ae4d902da4",
   "slug": "lithuanian-lkl-2027-champion-bc-juventus-utena"
+ },
+ "0x65c9083614181fd6fdea8fabe091e264b21eb14a03396599f797b81b3c7da751": {
+  "created_at": "2026-11-07T12:30:18.980837Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Arvid Lindblad get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-lindblad-2026-12-05"
  },
  "0x675ed65259b6a96bfcf9e0a228cd7683405c541e867fa7cf262ea319543b2c51": {
   "created_at": "2026-09-13T09:46:37.278528Z",

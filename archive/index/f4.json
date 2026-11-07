@@ -624,6 +624,15 @@
   "sha256": "4a4fb70dbd40e2707835d46baeda85eefb48247fe0b25adfbc8b8904451d3d8d",
   "slug": "will-xiaomi-have-the-1-ai-model-at-the-end-of-november-2026"
  },
+ "0x6c89b4bf0d7f3d71ee02f8258a19629cde1bfe65a4e567ec502a23c9a7cf42f4": {
+  "created_at": "2026-11-06T16:45:32.993584Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Hy4 debut at a score of at least 1440 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "6f98c8c9f83cae560e52b760f04da81483f1e18073a5a4844ed2cad1612573c1",
+  "slug": "will-hy4-debut-at-a-score-of-at-least-1440-by-june-30-2027"
+ },
  "0x6e58a269adc58a704be374b4844d709aa8b5cb5d90f10392b90f995183fda0f4": {
   "created_at": "2026-08-12T17:28:52.408757Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1043,6 +1052,7 @@
   "created_at": "2026-03-26T21:53:40.848672Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Brice Turang win the 2026 NL Platinum Glove award?",
   "revisions": 1,
   "sha256": "78d41609970e0c83a93f77d52403028aa352e20810884caa4b09a2c242343fab",

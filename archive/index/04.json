@@ -152,6 +152,15 @@
   "sha256": "9c958e7ce2e81d39efc976780db7c6773683e53938ab977f547f3d12f4c659e2",
   "slug": "will-tao-okamoto-win-best-supporting-actress-at-the-99th-academy-awards-20260805190945893"
  },
+ "0x12a26acc9422dca2e69565ecd0d6ff01d73a636d53bdc08dcfefbba8bc5f7f04": {
+  "created_at": "2026-11-07T12:30:04.838057Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-antonelli-2026-12-06"
+ },
  "0x1388e29719cd6f4c11763ce9bd06fb0856717f02bf988cc487032bc8f9684504": {
   "created_at": "2026-10-19T19:54:21.429748Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1210,6 +1219,15 @@
   "sha256": "cff6947d096b10f359e5f269e7c8906c8fcd76954d1d2f6a86cdac69dea26e3d",
   "slug": "aapl-above-380-on-november-30-2026"
  },
+ "0xa37b4801bd3b08f800e47cd541eba02bb5ae1a9da7faa2beb6852ea99985c104": {
+  "created_at": "2026-11-07T00:05:05.364778Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Religious Zionist Party support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-religious-zionist-party-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353287"
+ },
  "0xa7a4cb793ab1c6700295be6730b2d210a631e1286becd9fb16ff65ad7f824704": {
   "created_at": "2026-08-07T16:01:30.041295Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1584,6 +1602,7 @@
   "created_at": "2026-03-26T21:53:44.504906Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Alex Bregman win the 2026 NL Platinum Glove award?",
   "revisions": 1,
   "sha256": "78d41609970e0c83a93f77d52403028aa352e20810884caa4b09a2c242343fab",

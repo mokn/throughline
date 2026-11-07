@@ -588,6 +588,15 @@
   "sha256": "f43fc2c550264ae6075eda85d1897421594fdd1d4769dc633a84b613725d76f5",
   "slug": "will-the-republican-party-candidate-win-the-2026-va-08-house-election"
  },
+ "0x5694d83625b662ac94ce213a99ec75c2be3466ebe22f357dfbdf872a2298866f": {
+  "created_at": "2026-11-07T00:10:47.66312Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ofer Winter receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-ofer-winter-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x58998da8fa20593cf07618032acd580344a79279a8bcc3ed128b668d793c3d6f": {
   "created_at": "2026-04-17T15:45:42.304315Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -799,6 +808,7 @@
   "created_at": "2026-10-02T17:59:20.984758Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the US add between 25k and 50k jobs in October?",
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",
@@ -1225,6 +1235,7 @@
   "created_at": "2026-10-10T11:30:27.123075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Oscar Piastri achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",

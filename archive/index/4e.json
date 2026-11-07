@@ -1041,6 +1041,7 @@
   "created_at": "2026-09-09T15:53:46.342661Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Leny Yoro win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1369,6 +1370,15 @@
   "revisions": 1,
   "sha256": "8426bbe8b0789663ae7b5084b968386ee29de4b62055892bb06732972839a8bf",
   "slug": "spl-riy-hil-2026-10-16-second-half-result-home"
+ },
+ "0xeb6fbdf8ef91fc74fe942b0eb05f9efe249247d012f42be096d14de22c46894e": {
+  "created_at": "2026-11-07T12:30:03.920529Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-perez-2026-12-06"
  },
  "0xec4366aa6a191c8dc392e2b3bc874d5ce9a22637a60f33e72e869ce39c89ef4e": {
   "created_at": "2026-05-13T01:09:34.181223Z",

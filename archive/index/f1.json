@@ -371,6 +371,15 @@
   "sha256": "d5c0fab055ec6f8b4dd4974efc6b8128d572b1584952355da826e393972cda1e",
   "slug": "friedrich-merz-out-as-chancellor-of-germany-before-november-30-2026"
  },
+ "0x38be873cffeefbaa43ac826dd709c6b21cd4fd61e160345e3ba5d73ee4030df1": {
+  "created_at": "2026-11-07T12:31:06.818711Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-lando-norris-2026-12-05"
+ },
  "0x38cd96bc47d7753befb318ea82ab93fe2df84b6db4d230286572582f84896cf1": {
   "created_at": "2026-09-07T15:04:01.033532Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -402,6 +411,7 @@
   "created_at": "2026-05-22T18:33:44.368768Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Chris Wright be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -1621,6 +1631,15 @@
   "sha256": "1afdba8555a5ccec2c9823f215e4ba9378223be642d453cd8f9159ab91e39500",
   "slug": "will-alex-pretti-rank-in-googles-top-5-most-searched-passings-of-2026-us"
  },
+ "0xf4a48ed123af3cf03ce87c69f773c7b074bd18236289f7a533ba9238db9476f1": {
+  "created_at": "2026-11-07T12:30:55.296359Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-fernando-alonso-2026-12-04"
+ },
  "0xf66adbcb05fb95973019bbd04ec29ca9221ccbba63edb3833bf4cb51bcf960f1": {
   "created_at": "2026-05-26T17:22:43.072044Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1665,6 +1684,15 @@
   "revisions": 1,
   "sha256": "861353f8ba14df10c7ba985fbc3538878da30be2de42be8510a072ab49fe2c80",
   "slug": "el2-wal-cra-2026-10-03-spread-away-2pt5"
+ },
+ "0xff525715bb77923574260960a7f7ac65c1b56204f200f2eba72c9635f847bef1": {
+  "created_at": "2026-11-07T12:31:23.521961Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-hulkenberg-2026-12-06"
  },
  "0xff7064b4b4666e96196195806156f380acb035b54b4b56a8548799892d3a7af1": {
   "created_at": "2026-06-26T06:31:43.855431Z",

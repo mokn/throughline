@@ -138,6 +138,7 @@
   "created_at": "2026-09-09T15:53:45.549905Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Ethan Nwaneri win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -854,6 +855,15 @@
   "revisions": 1,
   "sha256": "a605461467f332fcf230469d3ecbd9e0d326acca075c58643037aacb2cd5da2e",
   "slug": "will-buriram-united-win-the-2026-27-afc-champions-league-elite"
+ },
+ "0x81247c86882b1a5b9e9afde98c8522093cdb089862b2e73e4dfea5e3521da1c3": {
+  "created_at": "2026-11-07T12:31:24.301919Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oliver Bearman finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-bearman-2026-12-06"
  },
  "0x824951749d845b26d810f3d4a525d5d93d8f474aa2489fa5d1968171162b2bc3": {
   "created_at": "2026-09-13T08:46:08.307178Z",

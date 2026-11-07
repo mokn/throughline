@@ -1291,6 +1291,15 @@
   "sha256": "e5a8e4a9792994c905620fd8ce152d31ca72678b760f1347324ba4232957771d",
   "slug": "will-nico-collins-finish-the-2026-27-nfl-regular-season-with-the-most-receptions-20260715212154230"
  },
+ "0xcf6453f48b9f8f043b16091fa6a03a573f25b84f36ca35edf5a15f64b168c047": {
+  "created_at": "2026-11-07T12:30:59.878927Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Arvid Lindblad achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-arvid-lindblad-2026-12-04"
+ },
  "0xd1b400e29e5c8c6a793efd8b97d6072f5366e08769bfcfe8d3d4b9f36d45db47": {
   "created_at": "2026-08-11T18:15:26.05048Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1433,6 +1442,7 @@
   "created_at": "2026-10-10T11:30:29.094261Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Fernando Alonso achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",

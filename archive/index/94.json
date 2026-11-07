@@ -1,4 +1,13 @@
 {
+ "0x026eb8758d1b51a4bee5bed94a3e80214d0d39c521aaaeef493193c73f3b7094": {
+  "created_at": "2026-11-07T12:30:15.266946Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-alonso-2026-12-05"
+ },
  "0x04e8e3b1978375e0d0e902ff2276e31fb58ad98bb09ab405bc0ad370e16df394": {
   "created_at": "2026-10-13T19:48:12.158502Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -375,6 +384,7 @@
   "created_at": "2026-05-22T18:33:43.371835Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -494,6 +504,7 @@
   "created_at": "2026-10-02T18:00:01.585689Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 4.5%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -988,6 +999,15 @@
   "revisions": 1,
   "sha256": "1b811de71c5b9320fc03e68b24adb1d5c77462efd9812c10a394e58b7b348637",
   "slug": "will-colon-be-promoted-to-liga-profesional-argentina-2026"
+ },
+ "0x9f399cfd5182add9f890156ebc44288fed918f6ded94ddca71e6bed48f5c7794": {
+  "created_at": "2026-11-07T12:30:29.616615Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-colapinto-2026-12-06"
  },
  "0xa0562ac765e26c04e158149cbdf1bc74d42b21669a20f48c4ef716d8738e6d94": {
   "created_at": "2025-12-15T19:39:11.484536Z",

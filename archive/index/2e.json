@@ -251,6 +251,15 @@
   "sha256": "9e39147f5ce5721c38f995945230c3928b10ab118be74f1709a9d90dd82f043a",
   "slug": "will-detroit-lions-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414224"
  },
+ "0x2f24469c5c3b8ef2e9b2b634922a835013c26876221753d3402213d8e325d22e": {
+  "created_at": "2026-11-07T12:30:35.750106Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Williams achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-williams-2026-12-06"
+ },
  "0x326950f5f951e8e380f00e14c13850877dbfa9e5de5805e137a5359321e3d22e": {
   "created_at": "2026-11-01T15:06:35.00057Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -767,6 +776,15 @@
   "sha256": "257bb54a492010f974a4a7b15743c70843f1821c2b3748264d8406b9c35caf67",
   "slug": "will-the-republican-party-control-the-maine-senate-after-the-2026-midterm-elections"
  },
+ "0x6b83e25174488848beaaa39e53923b08a61142cab29bc30899d084ec9678f12e": {
+  "created_at": "2026-11-07T12:30:43.9583Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-gabriel-bortoleto-2026-12-04"
+ },
  "0x6caa780fdc2dc1614aa646404986c658ed6385f8efe9b9ca7de2b0a39e13e92e": {
   "created_at": "2026-08-04T18:16:21.245278Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -875,6 +893,15 @@
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
   "slug": "2026-soccer-usl-league-one-runner-up-athletic-club-boise"
+ },
+ "0x7d6ff105cff798775ad45be446e3c55a5d7dc39efac8db82940dc050b5f4062e": {
+  "created_at": "2026-11-07T12:30:06.06636Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-hamilton-2026-12-06"
  },
  "0x7d90c8bea9e17a69e69ff3971ff577806d431afa14eed73791db33176956032e": {
   "created_at": "2026-10-13T15:51:30.699842Z",
@@ -1278,6 +1305,7 @@
   "created_at": "2026-09-01T17:41:32.295737Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democrats win Washoe County in the Nevada governor race in 2026?",
   "revisions": 1,
   "sha256": "e5fbb95ad3371123568786d70b9ec71b39076da935a7ca3baafaa1bd9fbf57d5",
@@ -1314,6 +1342,7 @@
   "created_at": "2026-09-09T02:41:23.587059Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Karmine Corp win Worlds 2026?",
   "revisions": 1,
   "sha256": "8fc8e5fb6cae19590bbdd0f002496a91b8be414b57dfc5511c912c4feab80c70",

@@ -67,6 +67,7 @@
   "created_at": "2026-08-17T19:17:41.172649Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the peak RONI for the 2026\u201327 El Ni\u00f1o be at least 1.5 but below 2.0?",
   "revisions": 1,
   "sha256": "39ae2990ca13ee2ee1a5611b6c23232c300ba765e00b478cdf07318cdc5d3eac",
@@ -212,6 +213,7 @@
   "created_at": "2026-10-02T17:59:59.006587Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 3.9%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -344,6 +346,15 @@
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-gianluca-scamacca-score-the-most-goals-in-the-2026-27-uefa-conference-league"
  },
+ "0x48b8d5fbf3e145d47ac9eda0b0c02f3f4501d5d02882642ab655e11ed14d123a": {
+  "created_at": "2026-11-07T00:05:02.678401Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Degel HaTorah support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-degel-hatorah-support-the-new-israeli-government-in-the-vote-of-confidence-20261104180001"
+ },
  "0x48e2b67721830dd1a9e187827b6ec4dc8d3f41732f12ce9f44717b187001bb3a": {
   "created_at": "2026-06-26T16:49:23.48263Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -352,6 +363,15 @@
   "revisions": 1,
   "sha256": "4f332d37820451194ce6e19aa0ff665bc5422c0ef7ebdf243a28ff7d1273ade3",
   "slug": "will-maria-jesus-montero-be-the-next-prime-minister-of-spain-20260625005710097"
+ },
+ "0x4da940ddff5aad1369a3a3a0b457bc915ddf04f337f6db61437eaddde739a63a": {
+  "created_at": "2026-11-06T21:50:23.921988Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Democrats win the Presidency and Senate, and the Republicans the House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-d-president-d-senate-r-house"
  },
  "0x4e65afb9a49448f865bcfaf4d50f5435dbadf27866c41199f864f2acac18133a": {
   "created_at": "2026-08-14T12:51:22.79602Z",
@@ -1219,6 +1239,15 @@
   "sha256": "36239fa6ab18c7aa291f3bb002bdf0226c62b4094adfa9e786356e82489f33d9",
   "slug": "will-chippa-united-keep-the-most-clean-sheets-in-south-africa-premiership-2026-27"
  },
+ "0xddbd3c316c8b7d70822350f550a03ca07d3b64d19160260e71976a18cb46883a": {
+  "created_at": "2026-11-07T12:31:21.077522Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-perez-2026-12-06"
+ },
  "0xddd3f79d71aabcc290da3a9f17569660f5b9fb524ebbe7813b0349ba868bcd3a": {
   "created_at": "2026-09-14T20:34:08.668747Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1241,6 +1270,7 @@
   "created_at": "2026-10-10T11:30:32.081518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Liam Lawson achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -1299,6 +1329,15 @@
   "revisions": 1,
   "sha256": "5746ebc8b621544b6da91302f1f3469aec10c88d6bcb1a4df8d96cec7360cad1",
   "slug": "will-florida-win-the-2027-ncaa-mens-basketball-national-championship"
+ },
+ "0xebd26e29a55f18ed134341668c11c06b9f7a868e4faa68c80b892972fd28e63a": {
+  "created_at": "2026-11-06T22:39:04.104629Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 6 or fewer candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-6-or-fewer-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
  },
  "0xef908b4084a830a7bd9d68a3fdad40c723558ff052b3623218af553d61c2e13a": {
   "created_at": "2026-06-26T03:52:11.819255Z",

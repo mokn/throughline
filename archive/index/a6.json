@@ -30,6 +30,7 @@
   "created_at": "2026-08-12T17:28:23.306582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Herediano be runner-up in the 2026 Liga FPD (Costa Rica)?",
   "revisions": 1,
   "sha256": "05e44eb86dd2cd104b1003ffabfaaf5029ff53bfd51bf8b1f53cfed1e086ca5d",
@@ -84,6 +85,7 @@
   "created_at": "2026-10-10T11:30:31.481805Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Oscar Piastri achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -914,6 +916,15 @@
   "sha256": "ab192d039142cdfb85c11813b9879bcd3359f5dc2815fcc57a4540ae4110abb1",
   "slug": "will-moghreb-de-tetouan-keep-the-most-clean-sheets-in-morocco-botola-pro-2026-27"
  },
+ "0x966c3f9454e9cac3db26c9d8d39e680a7efeee55416e0262fa1821b7bab77aa6": {
+  "created_at": "2026-11-07T12:30:28.39009Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-perez-2026-12-06"
+ },
  "0x96bd471bcc51deebf82ccefc892a73bdaf71893b481ad8f4acd70efd5d7953a6": {
   "created_at": "2026-08-11T19:09:31.024976Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1112,6 +1123,15 @@
   "revisions": 1,
   "sha256": "713af8f1a7db833afad164cbb52997349ba12a433d104607975a97817df353be",
   "slug": "amzn-above-220-on-november-30-2026"
+ },
+ "0xbff84af1b384310969fd94e7109bf54b00c342b9936f3bd11ad3c1dbba78a9a6": {
+  "created_at": "2026-11-07T12:31:11.20297Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-liam-lawson-2026-12-05"
  },
  "0xc5dde14894e7cc336f0c19b071cba59bb688bd9bda746221778476598d5a3da6": {
   "created_at": "2026-07-22T16:30:21.497488Z",

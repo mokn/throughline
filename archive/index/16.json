@@ -531,6 +531,15 @@
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-09-house-election-by-0-3"
  },
+ "0x781fb28b633fa2f9731d6c6a5350072e4642e6473980950c267296ffd078dd16": {
+  "created_at": "2026-11-07T12:30:19.89492Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yuki Tsunoda get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-tsunoda-2026-12-05"
+ },
  "0x78c3df5bbefe5d039391db5536b19481b1a508a871578535125f100a97398116": {
   "created_at": "2026-08-26T21:46:46.671977Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1298,6 +1307,15 @@
   "revisions": 1,
   "sha256": "7d25aee8c5e3e94bc66c75b03fcc1ce1c9c812c6b8a8ac517be98e3b448c9f08",
   "slug": "will-the-bank-of-russia-increase-the-key-rate-by-25-bps-at-the-february-2027-meeting"
+ },
+ "0xe35d52183301ba73fa98f4f7944b6bf6fde7686d3382f99406652b6c359fcc16": {
+  "created_at": "2026-11-07T12:30:03.257122Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-alonso-2026-12-06"
  },
  "0xe77faaafd7c25fd0427e12422a4a8926af53af7b87fcf9cd30ce7b4dae67f416": {
   "created_at": "2026-10-28T03:00:11.801874Z",

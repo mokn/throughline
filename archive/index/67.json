@@ -731,6 +731,15 @@
   "sha256": "09ac1a0d0a194342b58de4f6b5f7348fc87b90dc61922c858715d1ea7d13e1b3",
   "slug": "will-sato-play-for-loud-in-2027"
  },
+ "0x72a5fd8180036143f6b2e12033a9d4e7e777aa6b497f01b5d1e30b7be1c7cd67": {
+  "created_at": "2026-11-06T22:33:14.514411Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive between 37% and 40% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-37-40"
+ },
  "0x734c8a348dfbcf4e71578c10df91fbea937ba44a8bbb0ebe9d29ab6fb8f22667": {
   "created_at": "2026-01-28T15:38:48.131801Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -892,6 +901,7 @@
   "created_at": "2026-10-30T15:33:00.712466Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will there be at least 5000 measles cases in the U.S. by November 30, 2026?",
   "revisions": 1,
   "sha256": "73b0021b873a6d116e5f447a11be687a3552716e19215dac658010c78a93a2a0",

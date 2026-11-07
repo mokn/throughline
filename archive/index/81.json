@@ -669,6 +669,24 @@
   "sha256": "20c277c105a6567aad4e22527df703688bc3ea7326ad0d9814a33addf4e62b2d",
   "slug": "will-el-qanah-keep-the-most-clean-sheets-in-egypt-premier-league-2026-27"
  },
+ "0x677144503e51ba6a2ad93bfb81a84ab91e5a20587b167f506639cec2b2091a81": {
+  "created_at": "2026-11-07T12:30:50.285054Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-lance-stroll-2026-12-04"
+ },
+ "0x6c6ff9ce037a2ce3d028d588964fea999cb42c018eef3d43861db3b044fe6681": {
+  "created_at": "2026-11-07T12:30:27.764077Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-alonso-2026-12-06"
+ },
  "0x6d0e5a42e047f408419ef0e5cb3f6bbcfd135dd596835e1b2700eae701823881": {
   "created_at": "2026-08-10T23:38:02.452342Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1084,6 +1102,15 @@
   "revisions": 1,
   "sha256": "f5f99294050f81a0e45eddf1f0807f7b5ce14298252b0d4072b0ff7b3925fa5b",
   "slug": "unit-fdv-above-2b-one-day-after-launch"
+ },
+ "0xa79b4f9165ef5c788d16ebc716185e05e50a358d35ccebdd890744137cc57d81": {
+  "created_at": "2026-11-07T12:30:13.080313Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mercedes have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-mercedes-2026-12-06"
  },
  "0xa8c4dd03be6a62120d0658d3e8abd36bcbcf6a7519355092d2302d3957d0be81": {
   "created_at": "2026-08-06T08:21:19.931133Z",
@@ -1535,6 +1562,15 @@
   "revisions": 1,
   "sha256": "59097d6070ae27d464dfd9b59206721f26133aee7c7b249fef9de506af5787a6",
   "slug": "will-abde-ezzalzouli-real-betis-record-the-most-assists-in-the-2026-27-la-liga-season"
+ },
+ "0xf730a7e6b7390f20a897ab3119688ede040da5efb1166ab8076fc72465b98781": {
+  "created_at": "2026-11-07T12:30:49.072963Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-george-russell-2026-12-04"
  },
  "0xf849c126f2f810e117082c780ca290fdf710e2071e3ef89a1e46a25fcd02e581": {
   "created_at": "2026-09-04T19:40:22.965164Z",

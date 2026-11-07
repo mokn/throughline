@@ -676,6 +676,15 @@
   "sha256": "827b9d8d8f032c8a1feda153c245b6df1281a611e07d0be53f6c8038f70299aa",
   "slug": "will-chornomorets-odesa-keep-the-most-clean-sheets-in-ukrainian-premier-league-2026-27"
  },
+ "0x5b6b83d82e36500299a4a1edf110004d6bdd2f80b7344e2dcd280c9d89335c12": {
+  "created_at": "2026-11-06T21:50:24.389092Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Democrats win the Presidency and House, and the Republicans the Senate in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-d-president-r-senate-d-house"
+ },
  "0x5b84a0c5fb11442146503dd3d05814298e94d103d34b852d80f7aeb391da3e12": {
   "created_at": "2026-10-09T15:18:20.134938Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1229,6 +1238,7 @@
   "created_at": "2025-12-15T19:25:14.733008Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republican Party win the CO-03 House seat?",
   "revisions": 1,
   "sha256": "73276d2e461a2782cc3d9f4403a5fbb94fe18e97cfe13344158248c267b51417",
@@ -1728,6 +1738,7 @@
   "created_at": "2026-01-28T04:53:01.87595Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the AZ-05 House seat?",
   "revisions": 1,
   "sha256": "ff6e812ddabfc75877bb62bedabef20d7e7550f12bb0c9c81ee6c6b79588e2a8",

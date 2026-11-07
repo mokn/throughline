@@ -216,6 +216,15 @@
   "sha256": "fd40ccd7bf223be74ab7ce51660e0482db6eb9265a1fd91b3817c3e1c48dd36d",
   "slug": "will-russia-enter-zaporizhia-by-december-31-2027"
  },
+ "0x17b3731487a1168d8817b81d1c74e01e4ede7f5872bde359706ce7ba56a3964b": {
+  "created_at": "2026-11-07T12:30:16.339699Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-ocon-2026-12-05"
+ },
  "0x1a24e78142df4be94aeb333964fe7640f3508ed1463f7fa2b64d8ad41406d84b": {
   "created_at": "2026-09-08T16:52:53.848527Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1476,6 +1485,7 @@
   "created_at": "2026-03-26T21:57:36.133249Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Wilyer Abreu win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",

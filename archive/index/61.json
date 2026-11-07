@@ -1,4 +1,13 @@
 {
+ "0x00e927a4e46513c8be202641843441d2d7b53554f54dd3856dc19e2ed3ba1361": {
+  "created_at": "2026-11-07T12:31:18.850866Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Hamilton or Russell?",
+  "revisions": 1,
+  "sha256": "847da53e85bbb176535514903284b1038c02536dc56a7c161e3364e468cd04b6",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-hamilton-vs-russell-2026-12-06"
+ },
  "0x035a8294c84b2128ff6765a18d779295331d995ee18e84313589f48160782f61": {
   "created_at": "2026-08-18T19:45:35.542362Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -147,6 +156,7 @@
   "created_at": "2026-10-24T04:00:03.540003Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Elon Musk post 180-199 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -417,6 +427,15 @@
   "revisions": 1,
   "sha256": "6a6d8d5b8045123ce7efc5674ef0efd0c816ec6a7c3bae0574f414fa69a503f3",
   "slug": "will-republicans-sweep-the-kansas-senate-and-governor-elections"
+ },
+ "0x64d9b221dc8dd370f7c480d7782c278fac269ffb5902bb01126d5cf4703ab761": {
+  "created_at": "2026-11-07T12:30:56.09632Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-sergio-perez-2026-12-04"
  },
  "0x657ac56b6862c36fc5e24d7ad98646d8959d491ddec4013b3f9b8246c3205061": {
   "created_at": "2026-09-20T08:45:16.648419Z",
@@ -1221,5 +1240,14 @@
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
   "slug": "will-lask-finish-first-in-the-2026-27-ucl-league-phase"
+ },
+ "0xfec69e5d335a3eabf985e90b919cd80aedb57360b1a3059fbdb55d70fc7d5461": {
+  "created_at": "2026-11-07T00:10:45.053952Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nir Barkat receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-nir-barkat-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
  }
 }

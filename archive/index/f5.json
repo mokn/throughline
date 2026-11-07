@@ -17,6 +17,15 @@
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
   "slug": "cdr-red-bar-2026-10-28-exact-score-2-0"
  },
+ "0x059c794d5be8f4b4d6d5724f274eded84000dbb69679e956819c423e6ae869f5": {
+  "created_at": "2025-11-14T18:50:53.013559Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Eli Cohen be the next Prime Minister of Israel?",
+  "revisions": 1,
+  "sha256": "45d0e3782c446d32add909d78977bec294475dbd0396f79e2c8ccc8f6f3c3fa6",
+  "slug": "will-eli-cohen-be-the-next-prime-minister-of-israel"
+ },
  "0x05fa853214ac04e3fff7034b72aaedb69db30a86bd1b0cb5140eaed019263af5": {
   "created_at": "2026-08-11T18:43:43.000774Z",
   "first_seen": "2026-11-04T01:55:27Z",

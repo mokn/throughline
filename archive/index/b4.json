@@ -488,6 +488,15 @@
   "sha256": "9b423a7fe90eeb5c412b02fb3e2b3c038a8411bf7344fe2cbe2b883019ae0a90",
   "slug": "will-cameron-dickey-be-the-2026-big-12-rushing-tds-leader"
  },
+ "0x5637c9ee31dae2920df0fe28a74aac7d8aedad8fa31570d928567b841fe52ab4": {
+  "created_at": "2026-11-06T22:58:40.772147Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kelly Loeffler be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-kelly-loeffler-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0x571522bd6da1dfe0759196242f8b1aa17a1ffb7332f35e0bc1f66edcf125b5b4": {
   "created_at": "2025-12-15T23:35:35.755945Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -597,6 +606,15 @@
   "revisions": 1,
   "sha256": "bdeb9cabfe11880171c0a2c9c779cd9c54d840964ea06331d17094ffbf813b81",
   "slug": "will-alfonso-gonzalez-atlas-be-the-top-goalscorer-of-the-2026-liga-mx-clausura-20260722171233371"
+ },
+ "0x65ab07c9ac5659b9e439ee187b3fc4593ed55f395566f74ef202fd46c59c7fb4": {
+  "created_at": "2026-11-06T23:09:45.05242Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will fewer than 215 House members vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "fewer-than-215-house-members-vote-to-impeach-hegseth-by-december-31"
  },
  "0x673abd1dc25c5d98c35c8f5a47b66cb0c21b98841208ec22adc415d77f5681b4": {
   "created_at": "2026-06-25T17:29:08.131212Z",
@@ -1053,6 +1071,7 @@
   "created_at": "2026-05-22T18:33:45.361456Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Lee Zeldin be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",

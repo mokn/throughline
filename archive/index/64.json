@@ -492,6 +492,7 @@
   "created_at": "2026-08-12T15:01:30.190934Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will TCU have more than 7.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -569,6 +570,15 @@
   "revisions": 1,
   "sha256": "35a683ccbd671237e92a586c9cf95707f1d61891c777ba6ebc6077e16dc8261f",
   "slug": "will-mario-draghi-be-the-next-prime-minister-of-italy"
+ },
+ "0x6fa6b575ea847a607cf14fc5258e092105b8ef89479aeb046413189ebcc16364": {
+  "created_at": "2026-11-06T21:50:27.163544Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Republicans win the Presidency, Senate, and House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-r-president-r-senate-r-house"
  },
  "0x71337f366d90a063df2e9901231d0081d355a7e4b70620af5e84572a1d16f464": {
   "created_at": "2026-09-04T19:52:33.726326Z",
@@ -1213,6 +1223,15 @@
   "sha256": "6ca1d6274fbaa52a0a48c645e8536532afdfab119380c2749865dfc11dc37600",
   "slug": "betclic-elite-2027-champion-le-mans"
  },
+ "0xcd5db210dbe7ef39c2cddcca41c3c0965a7afc9afcc0ded157cf39ceb1818764": {
+  "created_at": "2026-11-07T12:30:49.342577Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Arvid Lindblad achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-arvid-lindblad-2026-12-04"
+ },
  "0xcd8257e8b53cb20079af16ca5ad4262c9b5b09c7e3e461027b1b0768a14bad64": {
   "created_at": "2026-07-02T18:03:47.844231Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1258,6 +1277,15 @@
   "revisions": 1,
   "sha256": "ff9e547421a290ecf8abd8693efa91d32a3325481daccde0b0d50f0bfa1b464d",
   "slug": "will-nublense-finish-14th-in-chile-primera-2026"
+ },
+ "0xd87855a4cd9d72a92cda7011f6329ec886b4635a122a919aa1690465baecee64": {
+  "created_at": "2026-11-06T22:31:36.600088Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will \u00c9douard Philippe win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-edouard-philippe-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0xdca61cae5fc26850f7527a9bc65dbcdb4f557c20ea403923df858803ea174e64": {
   "created_at": "2026-05-11T21:03:36.790547Z",

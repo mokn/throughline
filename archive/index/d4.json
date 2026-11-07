@@ -422,6 +422,15 @@
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
   "slug": "will-sergej-jakirovic-be-the-first-premier-league-manager-sacked-in-2026-27"
  },
+ "0x4d6dbf8ed834f32986c603e2ec5ce4ad15607368e15eb10b67fef48f4e5611d4": {
+  "created_at": "2026-11-07T12:30:46.083241Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-max-verstappen-2026-12-04"
+ },
  "0x4dc4c233ce8927a44678e05d1446f629478647cb41b9088b3c68593c0c4612d4": {
   "created_at": "2026-11-03T17:06:07.041569Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -745,6 +754,7 @@
   "created_at": "2026-10-10T11:30:26.555247Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Nico Hulkenberg achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",

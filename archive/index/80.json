@@ -453,6 +453,15 @@
   "sha256": "0ed4bbd3e337c88f73286cd4a6a816a7101297712901ada21704914b528cf286",
   "slug": "will-the-colorado-avalanche-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657079"
  },
+ "0x485ddd5568304f5b5daa987f33fd2432bf23615b90af2648dfc477873483ce80": {
+  "created_at": "2026-11-07T12:30:12.223055Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Cadillac have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-cadillac-2026-12-06"
+ },
  "0x4cd4202b0a6b8c1704576bc0aa86d7214da0e20f7424c4cbe27cbf7c4c27d980": {
   "created_at": "2026-10-29T20:54:45.69464Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -566,6 +575,7 @@
   "created_at": "2026-05-22T18:33:45.975147Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Russell T. Vought be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",

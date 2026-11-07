@@ -594,6 +594,15 @@
   "sha256": "7419df33a1c87cda1765a52a1f5da37f7ada3ed79995df0785b42b5f3ae4fc62",
   "slug": "will-cam-skattebo-finish-as-a-top-12-rb-in-the-2026-27-nfl-season"
  },
+ "0x684da98f9553fda008de36830ab8d908c35d757385d3f2543bf7255fe5e74302": {
+  "created_at": "2026-11-07T04:02:11.210037Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the next Qwen Max model (3.9+) debut at a score of at least 1500 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d23243119156661febc2be6430222dd35579e84f98071c74d7d87ce94d8d5194",
+  "slug": "will-the-next-qwen-max-model-3pt9-debut-at-a-score-of-at-least-1500-by-june-30-2027"
+ },
  "0x6b56db0dcd4c65b1a2fe4fa2f45eac66a710fe80f1c5c02ed7726b0517fb7f02": {
   "created_at": "2026-08-26T21:46:16.920183Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1040,6 +1049,7 @@
   "created_at": "2026-03-26T21:57:39.175469Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Taylor Walls win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",
@@ -1053,6 +1063,15 @@
   "revisions": 1,
   "sha256": "1246434b874a8b8a4700d1c73bc07aee8f2ef52bd84f45770e740a126fc38410",
   "slug": "will-gpt-astra-6pt1-debut-at-a-score-of-at-least-1460-by-june-30-2027"
+ },
+ "0xd7682b08ea60909fa1661b4d4be273015518941e9e96357316b505e5cbafbe02": {
+  "created_at": "2026-11-06T22:58:42.246326Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Markwayne Mullin be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-markwayne-mullin-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xdad8d8540c3ef9b4a0f8aa1048a5216411afd5a1655b1b3ad2ab6c245e9c9002": {
   "created_at": "2026-08-21T17:35:26.622001Z",

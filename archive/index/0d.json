@@ -588,10 +588,20 @@
   "sha256": "35a683ccbd671237e92a586c9cf95707f1d61891c777ba6ebc6077e16dc8261f",
   "slug": "will-roberto-vannacci-be-the-next-prime-minister-of-italy"
  },
+ "0x6862d3b3a263246c47c45fcfe4c7268bc21e568e12784c09d97fc5fb3b7eb70d": {
+  "created_at": "2026-11-07T12:30:46.774332Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-carlos-sainz-jr-2026-12-04"
+ },
  "0x6b4e789651a4745748102eb668ac58100203197a3f73c443191962604356390d": {
   "created_at": "2026-05-11T21:26:38.264393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Puffpaw launch a token by March 31, 2027?",
   "revisions": 1,
   "sha256": "0f34111e5aa2a72d8314c65bbc8b20df5945ed6a6a2cf9025d5cb1f185c65d58",
@@ -1342,6 +1352,15 @@
   "revisions": 1,
   "sha256": "e4f597551f76aaea75b91a12eb5cb4b0e1b535aa9ccba31a46cd57750c88cd1a",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-13-house-election-by-35-40"
+ },
+ "0xeaa02b3f7e93135e423834a0bd3d371e65f87a7edb811be4967cf0474021a10d": {
+  "created_at": "2026-11-07T12:30:27.550158Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-gasly-2026-12-06"
  },
  "0xebe7b01546ccd6b7fd1e446708aa29c6052aa600ff6ce2693a3916ae3f048c0d": {
   "created_at": "2025-12-12T20:50:45.72578Z",

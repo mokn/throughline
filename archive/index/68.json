@@ -473,6 +473,7 @@
   "created_at": "2026-05-22T18:33:40.738594Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will no one leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -716,6 +717,7 @@
   "created_at": "2026-07-10T02:04:03.207336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Melissa Hernandez win the CA-14 House seat?",
   "revisions": 1,
   "sha256": "517ebea4bcfaa839242f903221f60fc902301dbfd82b94b895f4906ca32a0fb7",
@@ -982,6 +984,15 @@
   "sha256": "6715266b03c2105cfb2ce9d80f28f65aa25a46f9f26e1f4bb344f13dffc22659",
   "slug": "will-quinton-byfield-record-the-most-hat-tricks-in-the-2026-27-regular-season"
  },
+ "0xa89aa84f290506251a0fa8b12302b62451e3000b300b79cf651610ff1d2dad68": {
+  "created_at": "2026-11-06T21:50:24.830714Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Democrats win the Presidency, and the Republicans the Senate and House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-d-president-r-senate-r-house"
+ },
  "0xa9026abd814bca17ec21ba6bf1e15d2c4891d7ee5fa8419f0fbe1780472ac568": {
   "created_at": "2026-08-07T19:11:26.27Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1216,6 +1227,15 @@
   "revisions": 1,
   "sha256": "2c46ae081a4de584f90579bb8366c8000156286eca399ef7c070b7fcc499372e",
   "slug": "will-devon-achane-finish-as-a-top-5-flex-in-the-2026-27-nfl-season"
+ },
+ "0xdf644fbc26db23c566ade683072cb0aae3e5a33592a84f2f1fa2b604595be568": {
+  "created_at": "2026-11-07T12:30:50.628552Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yuki Tsunoda achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-yuki-tsunoda-2026-12-04"
  },
  "0xdf91ee36f4d298d1b20ef19681a4c84cdd5061783e43ac4f78ec1be0a309c168": {
   "created_at": "2026-08-24T16:39:03.953501Z",

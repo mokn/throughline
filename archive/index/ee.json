@@ -823,6 +823,15 @@
   "sha256": "9453077c4bd01d6f522edda67e5fd22ebc3d5e90ad09715653f43bebfdbf569a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ga-14-house-election"
  },
+ "0x9ab4311ad1734d5483bedfa6a12dcf96b4281fe4547427e322a7d91ce266eaee": {
+  "created_at": "2026-11-06T22:34:20.623664Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon receive between 15% and 18% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "91e62f7634e9da6fbdf0ef28c7e147275d06ebba136dfd5478b7cd5dc2e5b455",
+  "slug": "france-first-round-vote-share-jean-luc-melenchon-15-18"
+ },
  "0x9cc025903fc6cbad60c42ac92ed8edf4158c5835908cc552ec44b8caf55a12ee": {
   "created_at": "2026-09-09T15:47:13.601028Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1419,6 +1428,15 @@
   "revisions": 1,
   "sha256": "96a3a2b0b9fb2738418a2c34a0137c6d9a30b2bd849a4966eeb546006438b5d3",
   "slug": "2027-soccer-egypt-premier-league-runner-up-el-gaish"
+ },
+ "0xf28e052b3d121050647ea4c81c53032087735564e28a5ab0ebf5d768f40e0aee": {
+  "created_at": "2026-11-07T04:04:27.72886Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Next GPT Image Model (2.7+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "5aef58ff64f30ba1c6241a8575e427567db05524a798a996b7a47d0d84e079a5",
+  "slug": "next-gpt-image-model-2pt7-released-by-january-31-2027"
  },
  "0xf314dd5583bf1d4dc9a1079ef55ba83e694146b5f1c94c805c965e2af699d2ee": {
   "created_at": "2026-09-08T16:53:04.469643Z",

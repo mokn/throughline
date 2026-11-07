@@ -586,6 +586,15 @@
   "sha256": "b3ddbeed1a4438b361425cd3ff93f8002a35b13b87ae5dc09d620e510de20267",
   "slug": "el1-lut-don-2026-10-03-corners-total-10pt5"
  },
+ "0x64b1e272f8c05d62b897be2b01b04e69a9ce0c88a3f017245dc4ee33dea908c6": {
+  "created_at": "2026-11-06T22:39:07.457569Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 12 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-12-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
+ },
  "0x657aebbc58695a0b9415fbda94edcb3628152188fadacd40b92335dd7e3d91c6": {
   "created_at": "2026-10-13T15:49:54.52385Z",
   "first_seen": "2026-11-04T01:55:27Z",

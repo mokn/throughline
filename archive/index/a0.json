@@ -721,6 +721,15 @@
   "sha256": "56973e261ba5523cb4004106ca2b0a63d537ac2eb516df4a769889220f042354",
   "slug": "shapiros-democratic-nomination-odds-hit-8-by-december-31"
  },
+ "0x613fd4568faddb1b73e9f819d3df65d0052148ddb26f0fcca35e421a22eeb1a0": {
+  "created_at": "2026-11-07T12:30:04.398453Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-ocon-2026-12-06"
+ },
  "0x6276a588314065fff2a66eefbb6fda2a9c9bbda492ca2dd6c10fac7e8f28f2a0": {
   "created_at": "2026-10-13T15:57:38.802295Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -739,6 +748,15 @@
   "revisions": 1,
   "sha256": "5a54633f86c7021f72923609f5ec14dccd84e4a51e5bdb3032485143355e01a2",
   "slug": "will-the-democratic-party-win-the-il-01-house-seat"
+ },
+ "0x66daed62b7dfebae91511a47e7bf173977933c83833704471346229236f3a4a0": {
+  "created_at": "2026-11-06T22:34:21.651652Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon receive between 21% and 24% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "91e62f7634e9da6fbdf0ef28c7e147275d06ebba136dfd5478b7cd5dc2e5b455",
+  "slug": "france-first-round-vote-share-jean-luc-melenchon-21-24"
  },
  "0x684c776026b4f8039e96b4e99eccc0db43d136525fdec61fe899850b03f393a0": {
   "created_at": "2026-08-24T16:32:45.889189Z",
@@ -938,6 +956,15 @@
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
   "slug": "will-bayern-munich-finish-first-in-the-2026-27-ucl-league-phase"
+ },
+ "0x8f975cc6790c09c1aa48e1534528ddf1f7edcc08474c693d8192bd884feee9a0": {
+  "created_at": "2026-11-07T12:30:15.686191Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-bortoleto-2026-12-05"
  },
  "0x92be6d39b001a10a10b487018774ead120e6c315d98145b43ee9399d9a66b6a0": {
   "created_at": "2026-08-19T21:59:03.755623Z",
@@ -1160,6 +1187,7 @@
   "created_at": "2026-10-10T11:30:30.480697Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Franco Colapinto achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",

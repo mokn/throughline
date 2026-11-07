@@ -1325,6 +1325,15 @@
   "sha256": "5003b0df6850ea7a640af4d45d69147fd60d1833da5a724696142ab7e34c4266",
   "slug": "will-north-dakota-state-bison-advance-to-the-2026-mountain-west-championship-game"
  },
+ "0xdb3194183f2c494000190ba93a67690f7760ad06c7242055db50850e26172cac": {
+  "created_at": "2026-11-07T12:31:07.5873Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-max-verstappen-2026-12-05"
+ },
  "0xe149974fa3db312fd80ea97f65e950223125a156327364932f7e900889104cac": {
   "created_at": "2026-11-03T17:03:54.858169Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1414,6 +1423,15 @@
   "revisions": 1,
   "sha256": "30bf7340fe7a1a7712b6b573d3c17935f357061bf3657e4733c348e2f4213d33",
   "slug": "2026-soccer-usl-championship-runner-up-charleston-battery"
+ },
+ "0xec241600562acbba206f8023facbf6c0a5a61368b75bbd7d7e29c4b6648b23ac": {
+  "created_at": "2026-11-07T00:10:34.134437Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gadi Eizenkot receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-gadi-eizenkot-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
  },
  "0xecf857f391e8e76b4f1aee7482fd52f4a4cf88c4938054253feb711dd8d0abac": {
   "created_at": "2026-09-02T19:30:24.078104Z",

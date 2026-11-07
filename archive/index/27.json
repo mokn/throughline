@@ -8,6 +8,15 @@
   "sha256": "888f4b78d807720abe1c05609ffc387bb953d563370329268b557ddc569071bd",
   "slug": "2027-soccer-serie-a-runner-up-roma"
  },
+ "0x03429f178799b59a5cf0410d07db9fbdfb7a9b677523a3ed49000e235f1a8827": {
+  "created_at": "2026-11-07T00:10:36.147082Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Benny Gantz receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-benny-gantz-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x03fb0a191010200e06217ff284eac83c3b8c63d98816f7b55a4ff006af992f27": {
   "created_at": "2026-08-17T21:24:07.439713Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -689,6 +698,15 @@
   "sha256": "d518a2dbc18ae6fac2e5728c3948c0292be25907512b96df508dd063299de32c",
   "slug": "trump-x-taliban-mineral-deal-signed-in-2026"
  },
+ "0x67d1af0c77d9b5d0cb5785b00447c10846752c573df7fa181936d797ceef2727": {
+  "created_at": "2026-11-06T23:21:34.651305Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Riksdag approves Swedish Prime Minister by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "8c2322b52227757c931e7cf408c3944bb0db505342d494f068771f67bc667e8e",
+  "slug": "riksdag-approves-swedish-prime-minister-by-december-31-2026-20261106"
+ },
  "0x6ac9fad9637e94fec3e0febdee68bcd10a07e247ddd3a0d0a865fafb0b26c727": {
   "created_at": "2026-08-10T23:56:59.445889Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -774,6 +792,7 @@
   "created_at": "2026-08-11T14:14:17.313654Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Democrats win 21 or more House seats in New York in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "a2e86a17427eaaba8a77fd283b8b2ddcd38e60f505fa0bd7509f26305178c627",
@@ -1401,6 +1420,15 @@
   "revisions": 1,
   "sha256": "7b9786876981655c6442e843915728e9dff8fe9dc1496a46254fefa29d10d43d",
   "slug": "will-a-8pt5-earthquake-occur-worldwide-by-november-30"
+ },
+ "0xd20c74bdcfa5f246c4bc59fdcaf0679323659b19861f2c75fb57f24fd70ea427": {
+  "created_at": "2026-11-07T12:30:59.612912Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-george-russell-2026-12-04"
  },
  "0xd339058f6879b22b649e9119e50f981baa0bfad6bd168e0e69e79667d43e8927": {
   "created_at": "2026-01-28T15:29:56.796621Z",

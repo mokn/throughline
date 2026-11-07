@@ -17,6 +17,15 @@
   "sha256": "064c10d8be9fa1f4b70632230f4e6966d8a75385756649ee23f94075562e55fb",
   "slug": "nawrocki-out-by-december-31-2026"
  },
+ "0x00941641b32ade97ce5d9c2b41236b61cac02cfa2ca855ec23983a7cb19258ae": {
+  "created_at": "2026-11-06T22:31:43.65879Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will S\u00e9bastien Lecornu win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-sebastien-lecornu-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0x00f9736b39c8fb806774bc7e6e43a74db284a597221aabc21f5e6bb8ab9680ae": {
   "created_at": "2026-10-15T10:09:44.474249Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -961,6 +970,15 @@
   "sha256": "2a90fdaa6a8b9ad7633ad32e030ff778582d67924e8e9077d49c20bed8b523f4",
   "slug": "will-aaron-jones-srpt-be-the-highest-scoring-rb-of-the-2026-27-nfl-season-20260806224130460"
  },
+ "0x96d1cfc311745834c3db9da6fb22349cfc3b2c3207d25b12311b93281a0c43ae": {
+  "created_at": "2026-11-06T22:33:14.130796Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive between 34% and 37% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-34-37"
+ },
  "0x97790f92a16ad056732f75418d033a48b6ec4a43d4fd8bc7bb813b3a2352c2ae": {
   "created_at": "2026-08-20T17:32:10.326508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1431,6 +1449,15 @@
   "sha256": "81ed0b5840b95056df9b11c06a56cd6c84db51fec130e427e62642d417476bf4",
   "slug": "will-geny-catamo-record-the-most-assists-in-the-2026-27-uefa-champions-league"
  },
+ "0xe09c3bbc85f82721357513dcd67081447d1b27b5a0c1214fde17355a155f08ae": {
+  "created_at": "2026-11-07T12:31:16.986255Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Leclerc or Russell?",
+  "revisions": 1,
+  "sha256": "b437f932c23507a3d5672ec34c5414e5d409f78afeda8e9a746842c00c4be6ab",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-leclerc-vs-russell-2026-12-06"
+ },
  "0xe29b33ef5bf351c8a22bfd79f8b58e62649d54ceee6f9735387cef79f52fecae": {
   "created_at": "2025-07-08T19:06:01.329385Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1511,6 +1538,15 @@
   "revisions": 1,
   "sha256": "47960a84b87f5e919552743c5559c2b94694f042c982cf075ee1e8395003e904",
   "slug": "will-the-los-angeles-rams-be-the-nfc-1-seed-for-the-2027-nfl-playoffs"
+ },
+ "0xef00ebe2a5f61650822a25ce00324b7aeeda5df00a33c7b6b99c350ce4e5d5ae": {
+  "created_at": "2026-11-07T12:30:55.62384Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alexander Albon achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-alexander-albon-2026-12-04"
  },
  "0xef909d6e7306a929a561cd247d1768ad4bc78ce2ad9eb6f8594c450a795e13ae": {
   "created_at": "2026-10-13T15:50:02.972916Z",

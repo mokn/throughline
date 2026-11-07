@@ -269,6 +269,15 @@
   "sha256": "f2a6cfff332c03ff6ecae7492c37d1f8f71ebe5f831984dd76590699726e9859",
   "slug": "will-n1-launch-a-token-by-december-31-2026"
  },
+ "0x2d7f87f06c572a46fafc2b8fc9ffc43821259b55519034b83244898ed89d57f0": {
+  "created_at": "2026-11-07T12:30:03.705031Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-bortoleto-2026-12-06"
+ },
  "0x2e82122b7a93c5af53c274f469f7461904653a8facaf21b8ed551716ff965df0": {
   "created_at": "2026-09-02T20:12:57.486482Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -444,6 +453,7 @@
   "created_at": "2026-08-12T17:26:18.246878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will IF Elfsborg be runner-up in the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "dc7f01ad57ab4c6b74e2696ace587dfefbb5452f8e415f0a1049e696eec73978",
@@ -1013,6 +1023,7 @@
   "created_at": "2026-10-10T11:30:27.855473Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Lance Stroll achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",

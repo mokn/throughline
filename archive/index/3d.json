@@ -926,6 +926,15 @@
   "sha256": "1d7b9aa3e5c21f08ed858fee8258636dab219c58cc7ed086d95834a326430d8a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-kentucky-senate-election"
  },
+ "0x9db1d5dee9bedd093babe0eeccc6d181f11f511017abff08b0c7dedf23363c3d": {
+  "created_at": "2026-11-07T12:30:06.679866Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-russell-2026-12-06"
+ },
  "0x9e52cec9fa4cedcdcd1f985c02f00bda002002423c381082d558a7ef62669f3d": {
   "created_at": "2026-09-04T19:49:19.991504Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1586,6 +1595,15 @@
   "revisions": 1,
   "sha256": "a0176bf16a54ef2639db94b82f0a45f91e6bd8e56eb6ebb8f4b4a92460eaf025",
   "slug": "will-buffalo-sabres-advance-to-the-eastern-conference-finals-of-the-2027-stanley-cup-playoffs"
+ },
+ "0xf83aeea6e9dc358f5191085023327fca2aba68ac7935591d9914af5b97fa763d": {
+  "created_at": "2026-11-07T00:25:30.855219Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "French presidential election delayed?",
+  "revisions": 1,
+  "sha256": "83d61b42ebd4d13ddc5c4728c893c3859ae87769e5dfb9e09533ce25335a4a28",
+  "slug": "french-presidential-election-delayed"
  },
  "0xf94e4835b38cacc65d8f250b388c40be1334669ed677b3aac75e82055219803d": {
   "created_at": "2026-09-27T20:09:32.838363Z",

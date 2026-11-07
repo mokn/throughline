@@ -361,6 +361,15 @@
   "sha256": "89b27f932bc89033b98545bae6c580b3f4bf58f251f893c0d8eb2ffd346b25d7",
   "slug": "baker-mayfield-400-passing-yards-game-2026-27"
  },
+ "0x3951a29fecd379a4bed8fae0515d0fb50b67c574812205e6e9462c7ebe5cdf15": {
+  "created_at": "2026-11-07T12:30:29.209179Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-antonelli-2026-12-06"
+ },
  "0x39e326a5d37c4fb132e3eef779b365c6c1abfc4a5415d98a0586dd87a8689815": {
   "created_at": "2026-08-26T21:46:33.160526Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -545,6 +554,7 @@
   "created_at": "2026-10-02T17:59:59.390547Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 4.0%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -898,6 +908,7 @@
   "created_at": "2026-03-26T21:53:42.367411Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Matt Olson win the 2026 NL Platinum Glove award?",
   "revisions": 1,
   "sha256": "78d41609970e0c83a93f77d52403028aa352e20810884caa4b09a2c242343fab",

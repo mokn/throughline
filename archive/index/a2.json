@@ -71,6 +71,15 @@
   "sha256": "46c54a6e1f138622bb0407fe5e1b63a00b2b8b2dc24e945981e2db32750475ae",
   "slug": "will-pt-win-the-most-seats-in-the-2027-oaxaca-congress-election"
  },
+ "0x0a1076c4c635d9fb36fae83a4a2d2ca02c911f27e663ba761483903859336ea2": {
+  "created_at": "2026-11-07T12:31:17.439566Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Norris or Hamilton?",
+  "revisions": 1,
+  "sha256": "fe582946ae335f16ce90ee539e406187178d69d6c16185ded279f03c3a1130ce",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-norris-vs-hamilton-2026-12-06"
+ },
  "0x0c272237ba5042ed78a42cb474b7bfd047276771e152db2fc06c0932bb9488a2": {
   "created_at": "2026-10-25T04:00:02.830336Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -514,6 +523,15 @@
   "revisions": 1,
   "sha256": "5fa9ae6d4c24fdff920e2265b57e397fe5bc3dd2d5402d86b20a32e9649b4f62",
   "slug": "will-the-ornn-a100-index-be-between-1pt00-and-1pt25-on-november-30-2026"
+ },
+ "0x4935306580792d7550ebb0102dab5526d28bee28ca01b771ea67b1d9d4ed5ca2": {
+  "created_at": "2026-11-07T00:05:07.281409Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Balad support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-balad-support-the-new-israeli-government-in-the-vote-of-confidence"
  },
  "0x499e700e278ce29d0b542376294d536b26182b269c4326114c9940ef92ca05a2": {
   "created_at": "2026-08-18T18:58:45.558539Z",
@@ -1540,6 +1558,7 @@
   "created_at": "2026-05-22T18:33:44.014015Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Sean Duffy be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -1625,6 +1644,15 @@
   "revisions": 1,
   "sha256": "6e9137c6b8ad1af7611199771611c442730ceab7fb707c0d246e2f0acb40553c",
   "slug": "will-the-median-home-value-in-denver-metro-be-less-than-458000-on-december-31-2026"
+ },
+ "0xec4fec2dce22f101bb49c5f520acd8446cb43b6e0db0aafa27da71579cd1e2a2": {
+  "created_at": "2026-11-07T12:31:16.560813Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Leclerc or Verstappen?",
+  "revisions": 1,
+  "sha256": "22be4cc183387fa2eb3f312676484ebdb4d9ee4fddecb6f02e69734a7f667b56",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-leclerc-vs-verstappen-2026-12-06"
  },
  "0xed8bfe8b95224bfff9bbd55ba0401285c970ac7874296557ffbe82efa13a4fa2": {
   "created_at": "2026-10-31T11:31:04.813846Z",

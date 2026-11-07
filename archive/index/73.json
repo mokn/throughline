@@ -373,6 +373,7 @@
   "created_at": "2026-10-02T17:59:22.080192Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the US add at least 100k jobs in October?",
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",
@@ -669,6 +670,15 @@
   "sha256": "725f39ee1af9316d2793fc23aab422fee30a74d85722d478b3e007235d5f14ab",
   "slug": "f1-abu-dhabi-grand-prix-take-place-2026-12-06"
  },
+ "0x6146afeb457b42934dad4f57cbf42055a2a6e1d4e04acd23c3a868a9cbf73d73": {
+  "created_at": "2026-11-07T12:31:10.962188Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-isack-hadjar-2026-12-05"
+ },
  "0x6330b781421ff1072dc13b915342b621e2107b0694aec56b472e519418bbe073": {
   "created_at": "2026-10-13T23:25:01.955815Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -822,6 +832,15 @@
   "revisions": 1,
   "sha256": "8c123f116cddf68041aa64af9bddbac487942a9db40697b5f2de212dd459f063",
   "slug": "will-josh-hawley-win-the-south-carolina-republican-presidential-primary-20261028413"
+ },
+ "0x73bcd86f674768bd4a2a2ba0a6042ee4bf328301eb51cfbd7407305629ebdf73": {
+  "created_at": "2026-11-07T00:10:30.565127Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Benjamin Netanyahu receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-benjamin-netanyahu-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
  },
  "0x73e5d9042a54a7c2e2f5844f957280e96b97f98ea88c46ec550d985ea2b04273": {
   "created_at": "2026-09-27T20:09:57.362777Z",
@@ -1132,6 +1151,15 @@
   "revisions": 1,
   "sha256": "6fea68a41ccb41f127cd507746441848fac76fd93c417d8cf7b3a55d2316a957",
   "slug": "will-baidu-be-the-second-best-chinese-ai-company-at-the-end-of-december-2026"
+ },
+ "0xa67f1e3a12a5564f7544d8a0e701608e01e7fab497156dd705f43bf975b94473": {
+  "created_at": "2026-11-07T12:30:13.295889Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Red Bull have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-red-bull-2026-12-06"
  },
  "0xa6d78fda7d1ac4a19b7429a1bdfd3c80263a2c06a5e9911e2f1517fa11302273": {
   "created_at": "2026-08-24T08:00:32.117657Z",

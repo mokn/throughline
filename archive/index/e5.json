@@ -364,6 +364,7 @@
   "created_at": "2026-10-02T18:00:01.169784Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 4.4%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -703,6 +704,15 @@
   "sha256": "884c6e8e81433ab154a6687fd724dbc49935e9c0cc8fe78b4b9fc8753c1b87fc",
   "slug": "will-tencent-be-the-second-best-ai-lab-at-the-end-of-november-2026"
  },
+ "0x7372598c81b705a2bc74b6be30c499cdb3c61ce862e42874793e35879012f2e5": {
+  "created_at": "2026-11-06T23:09:49.362274Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 225-229 House members vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "225-229-house-members-vote-to-impeach-hegseth-by-december-31"
+ },
  "0x73bd903e32e72ead0d99eb082c9e731c1a0e4ddab3cccb57ec8c55684b55dde5": {
   "created_at": "2026-09-04T19:23:14.161823Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -992,6 +1002,15 @@
   "revisions": 1,
   "sha256": "ca9e380ace940610b7b9538f7db88b58c91d182aac322a767de06043b1b71fa2",
   "slug": "will-the-republican-party-candidate-win-the-2026-texas-senate-election-by-3-6"
+ },
+ "0xad3bf5d4b52ff7b8aec96877fc2e765515635d9ec04657bc52aa51fb5ef17ce5": {
+  "created_at": "2026-11-06T22:58:36.102145Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Scott Turner be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-scott-turner-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xae42a3fff8be8a66b00e8dc806fb21f378c2f800d056a4c3746bc54712573de5": {
   "created_at": "2026-08-24T16:33:36.934861Z",

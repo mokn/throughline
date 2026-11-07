@@ -278,6 +278,15 @@
   "sha256": "dd539f980b1cbe6210c655fb69e59a6e8d61aa54841c573a0a3337ec449856c3",
   "slug": "will-junior-finish-18th-in-colombia-primera-a-2026"
  },
+ "0x27bb78e304e5996983386b03a9379b3a261c2a49c26fdbfea2f1b7262f72bdfc": {
+  "created_at": "2026-11-07T12:31:10.439212Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-george-russell-2026-12-05"
+ },
  "0x28b431aeb5a4cff99bac68375d8c091b0ab6eee6c8e194555d779642d4ac66fc": {
   "created_at": "2026-08-07T14:03:20.411285Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -527,6 +536,7 @@
   "created_at": "2026-07-29T21:12:55.851649Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Tigres UANL finish 2nd in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
@@ -1109,6 +1119,15 @@
   "revisions": 1,
   "sha256": "f74b5eb2a97d9931d3b07cc880db532069ee53004d9f63337e8989e5b20409c5",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-25-house-election-by-6-9"
+ },
+ "0xa61b266b375ba31bf4a5fffe9b0c928f74f29898b1446263e1094db3cc57a3fc": {
+  "created_at": "2026-11-07T12:30:18.30642Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oliver Bearman get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-bearman-2026-12-05"
  },
  "0xa82cdd3b503fd65b0627994a488b6ebd9abcac3cea93785f4c5f567136fdc6fc": {
   "created_at": "2026-08-04T18:39:56.918173Z",

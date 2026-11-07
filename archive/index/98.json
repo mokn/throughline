@@ -616,6 +616,15 @@
   "sha256": "9c958e7ce2e81d39efc976780db7c6773683e53938ab977f547f3d12f4c659e2",
   "slug": "will-isabella-rossellini-win-best-supporting-actress-at-the-99th-academy-awards-20260805190945894"
  },
+ "0x78f40924d86f140e0a84e5b2e3f4470c65823c7d64b2ed7169a5b866f8bb2598": {
+  "created_at": "2026-11-07T04:02:09.951812Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the next Qwen Max model (3.9+) debut at a score of at least 1460 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d23243119156661febc2be6430222dd35579e84f98071c74d7d87ce94d8d5194",
+  "slug": "will-the-next-qwen-max-model-3pt9-debut-at-a-score-of-at-least-1460-by-june-30-2027"
+ },
  "0x79436df43397aa508596a0701c2ae3e09b6dacbefeba2fd7655f5b246a8c4598": {
   "created_at": "2026-10-20T00:30:33.838637Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -993,6 +1002,15 @@
   "revisions": 1,
   "sha256": "4e129a0d1e87db076675b05bd9751735a7314cc73540735e8c74522762696340",
   "slug": "will-tommy-devito-finish-as-a-top-5-qb-in-the-2026-27-nfl-season"
+ },
+ "0xb5b74a12cc379cebbd3036b093f2c65ee3e82c0b7f697e61ce1e603910f1a598": {
+  "created_at": "2026-11-07T12:30:17.436455Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-jr-2026-12-05"
  },
  "0xb64b5643f8cbc75cc366ea30d42827c0b2133bb58087818b0ee75fa34f705398": {
   "created_at": "2026-02-19T00:54:39.200392Z",
@@ -1382,5 +1400,14 @@
   "revisions": 1,
   "sha256": "c75bb110bc84023caa3078f029f8dc7c6daae984e45af14f6f5a1a0702b0912c",
   "slug": "will-boulaye-dia-score-the-most-goals-in-the-2026-27-uefa-europa-league"
+ },
+ "0xfcca75003949ab9a6546d94b9f4788e4be524b7758153b7f30f73bc0e6a36598": {
+  "created_at": "2026-11-07T12:30:12.649425Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Tgr Haas have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-tgr-haas-2026-12-06"
  }
 }

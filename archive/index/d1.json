@@ -1065,6 +1065,15 @@
   "sha256": "772342e05915ae1dd24a380604508b4793482917d28fcafdcedceb38ad7122da",
   "slug": "will-the-bank-of-brazil-decrease-the-target-for-the-selic-rate-by-50-bps-at-the-december-meeting-20260918"
  },
+ "0xa07ab897be6b540ac2ed3f84541de4ecf39e25a1f14ac0bafa8bdf3d4b28f1d1": {
+  "created_at": "2026-11-07T12:30:24.481909Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Williams get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-williams-2026-12-05"
+ },
  "0xa35b8f5d6dc01179ba413cf62ef5c957aa0af88b675da27d73e66dc544688bd1": {
   "created_at": "2026-08-11T19:03:44.819669Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1087,6 +1096,7 @@
   "created_at": "2026-09-09T15:53:44.935217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Arda Guler win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1600,6 +1610,7 @@
   "created_at": "2026-09-09T15:53:44.78423Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Kenan Yildiz win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",

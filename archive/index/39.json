@@ -808,6 +808,7 @@
   "created_at": "2026-10-10T11:30:27.26613Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will George Russell achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1015,6 +1016,7 @@
   "created_at": "2026-09-01T17:44:09.577663Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democrats win Maricopa County in the Arizona governor race in 2026?",
   "revisions": 1,
   "sha256": "2cbfadc9471e46f14450d6db8b5fcd7261fee1d0b0261242681369b03132ba05",
@@ -1361,6 +1363,15 @@
   "revisions": 1,
   "sha256": "b9b881c4e7669a1c6dac9bed110c4b96faf376663737654f7474179d3b86c3ce",
   "slug": "will-the-median-home-value-in-los-angeles-metro-be-between-1126000-and-1137000-on-december-31-2026"
+ },
+ "0xf42e160e732bdefc1524cc239be71d446edbe3db40413d10997aca6aed0ace39": {
+  "created_at": "2026-11-07T12:30:25.574034Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mclaren Mastercard get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-mclaren-mastercard-2026-12-05"
  },
  "0xf452e20142d084d27b33cb22bfc8a6d750b605b2cf32a3f848f7f4f531f18239": {
   "created_at": "2026-08-11T19:11:15.95589Z",

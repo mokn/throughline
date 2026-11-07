@@ -405,6 +405,15 @@
   "sha256": "3358c0c78e84da417bb233abd522fcac94c308d69794ad06c5ff505abc4341c3",
   "slug": "will-jamal-musiala-win-the-most-player-of-the-match-awards-in-the-2026-27-uefa-champions-league"
  },
+ "0x3d70d43781b18c094dd7557775d7b5e555f7b479583396861b5a0d0b43793d05": {
+  "created_at": "2026-11-07T12:31:20.156688Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-gasly-2026-12-06"
+ },
  "0x3eab57caa701b4a4afe9ad5af246157871cded947adff727318d873d88938205": {
   "created_at": "2026-09-28T15:12:29.66095Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -647,6 +656,15 @@
   "revisions": 1,
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-khalil-shakir-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
+ },
+ "0x65c3bda258f4a0bc56b1c24dadee17cd56145f57b8deaaeffbafa247635f6605": {
+  "created_at": "2026-11-07T04:03:44.186976Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Putin meets with Iranian officials by December 31?",
+  "revisions": 1,
+  "sha256": "b8113e44dec14f3b4bd7bf79fc360f6cb5302a66e2c32c414cf4c3a3b3f71813",
+  "slug": "putin-meets-with-iranian-officials-by-december-31-20261106"
  },
  "0x665b013ed6f0c54d35b7ca072dbb8775aae2f2a9cc3307b2a06009f9041c1c05": {
   "created_at": "2026-07-20T19:37:25.981132Z",
@@ -1210,6 +1228,15 @@
   "revisions": 1,
   "sha256": "a5a282d44d1ca5fbb35160552fd3d491aab195d5f133212be569f123ddc262e3",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-47-house-election-by-10-15"
+ },
+ "0xb9c3701450a78381af489f8ef1dcd544c2cb4b9ec88220e18b1739ada5116b05": {
+  "created_at": "2026-11-06T21:50:26.70348Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Republicans win the Presidency and Senate, and the Democrats the House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-r-president-r-senate-d-house"
  },
  "0xbb9c075b017c2fa0e41a6abfa1e8798a64031ab4a1ff6cf053adf551f5892c05": {
   "created_at": "2026-10-13T15:50:44.85974Z",

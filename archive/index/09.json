@@ -827,6 +827,7 @@
   "created_at": "2026-10-10T11:30:26.284711Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Franco Colapinto achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1110,6 +1111,15 @@
   "revisions": 1,
   "sha256": "9d82ab46438a3e108ccf6ce6b266a512f8299a2f0bf9545ddcbec2cd103d3b4f",
   "slug": "will-yashar-be-in-the-next-israeli-government"
+ },
+ "0xb7da87b4f3df805f41120f4485d976fb52af36006b8847dcd2e5a5dbe8fd0909": {
+  "created_at": "2026-11-07T12:31:22.975701Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-colapinto-2026-12-06"
  },
  "0xb81fde30f892e09596d26670fd93da5a113451e197d059b434c2b27bb5c27b09": {
   "created_at": "2026-01-12T17:31:41.474728Z",

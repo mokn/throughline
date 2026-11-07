@@ -929,6 +929,15 @@
   "sha256": "2086260e7a6d189420bee5fbd2f1ad2a037c3abb89dfdafae6cb05bb3ccda27b",
   "slug": "will-the-worlds-2026-grand-final-be-another-matchup"
  },
+ "0x7f5bb694349f6ca040f689df701e5442d9370b8eaa0518bede5f87579b92af69": {
+  "created_at": "2026-11-07T04:02:10.599966Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the next Qwen Max model (3.9+) debut at a score of at least 1480 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d23243119156661febc2be6430222dd35579e84f98071c74d7d87ce94d8d5194",
+  "slug": "will-the-next-qwen-max-model-3pt9-debut-at-a-score-of-at-least-1480-by-june-30-2027"
+ },
  "0x80353e087d082e986be78247c3ec3b858fe421a6b8733744466ead9759495f69": {
   "created_at": "2026-09-08T16:54:46.178106Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1372,6 +1381,15 @@
   "sha256": "e94ab8ba852cc091be8da9bcb1814c23c442982e27fdbc4405b54674d22cd04b",
   "slug": "2027-soccer-2-bundesliga-winner-1-fc-heidenheim"
  },
+ "0xc929d9d0082030653ddd95d760823ce3117a473ac7953923759c3ccfa7465c69": {
+  "created_at": "2026-11-07T12:31:20.606068Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alexander Albon finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-albon-2026-12-06"
+ },
  "0xcc44b8b39fe6616946148599205eb23cf8006326ab2e3ee727dd29c4fa8a0969": {
   "created_at": "2026-10-02T23:00:29.573651Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1596,6 +1614,15 @@
   "revisions": 1,
   "sha256": "2ad32faf6e8fe092aeba1722f1801a3b61ac6bf1262dfcad7835269e52fd03b7",
   "slug": "claude-opus-5pt6-output-token-price-debut-at-least-20"
+ },
+ "0xeb331b5eb0ebb0f0d38b20252a33dc13a958700259d445fb234bc63393a5d569": {
+  "created_at": "2026-11-07T12:30:59.078439Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oliver Bearman achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-oliver-bearman-2026-12-04"
  },
  "0xedc7ce7e9c2afd7160dfa81e799c687e5ac1e3e53005025c7522f2111672cd69": {
   "created_at": "2026-04-24T17:40:01.899808Z",

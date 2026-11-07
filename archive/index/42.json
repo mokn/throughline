@@ -389,6 +389,15 @@
   "sha256": "8477b685657983468ab7cd237725fed521001cc429b00504f4f7eabe035d3a9b",
   "slug": "will-le-mans-qualify-for-the-2027-28-uefa-europa-league"
  },
+ "0x4886eb0e7ba9429184fe01592ec2d01bc3b2c2957caa4039991dee7f0caab742": {
+  "created_at": "2026-11-06T22:58:32.479145Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will J.D. Vance be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-jd-vance-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0x4923c28a24938288b03f886cb0f343904cc92fd4f88b436264b9e57442130442": {
   "created_at": "2026-10-13T19:55:51.396521Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1113,6 +1122,15 @@
   "revisions": 1,
   "sha256": "e516bed633e0cffd82e5f0a06ae8cd2b8ab949875a31eda3dff60fcbad04a622",
   "slug": "will-lamontville-golden-arrows-finish-3rd-in-south-africa-premiership-2026-27"
+ },
+ "0xca1807f8f36768c45b1e28d62a463cec283d44c56ec8adfa715a0edb08e0bb42": {
+  "created_at": "2026-11-07T12:30:29.826545Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-jr-2026-12-06"
  },
  "0xcabd50cb5fd9deb56dc77d0e30ea91f0be298768db67930f3c98702585707442": {
   "created_at": "2026-09-08T19:55:45.820848Z",

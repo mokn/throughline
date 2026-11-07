@@ -129,6 +129,7 @@
   "created_at": "2026-03-26T21:57:37.043254Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Dillon Dingler win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",
@@ -322,6 +323,15 @@
   "revisions": 1,
   "sha256": "7700111461687c11e0fbd54dad2e4d045c648522538eb76dddf9729bd9685076",
   "slug": "will-hong-kong-have-between-5-10mm-of-precipitation-in-november"
+ },
+ "0x31d28b93664d4373e30be7c1155dd16a2bc29e180b2d6963f3099d51888070d7": {
+  "created_at": "2026-11-07T12:31:14.532524Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Alonso or Stroll?",
+  "revisions": 1,
+  "sha256": "24c318b23290ad896d890833d0223306becf183b84f7f4c28a6143020159d051",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-alonso-vs-stroll-2026-12-06"
  },
  "0x34817b7d0a57bec6cd21cd353f31f745dfc594118fba9cc26393efd48100cad7": {
   "created_at": "2026-09-09T15:46:59.068468Z",
@@ -1630,6 +1640,15 @@
   "revisions": 1,
   "sha256": "4e79a56e737d7baa161ebf057a43837b47c10fe35436da891317cf2879319730",
   "slug": "will-russia-capture-myropillia-by-december-31"
+ },
+ "0xf50a7ef0b5b3f53be5fb5353dc6fc585c75bb002ef48b98c98e631aebd932cd7": {
+  "created_at": "2026-11-06T19:54:30.416963Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Democratic 2028 presidential odds dip to 60% by March 31?",
+  "revisions": 1,
+  "sha256": "05ddf3a470ede51a8f4d1e6bcad1d17aafb8494262921380d2428cc2b9370f81",
+  "slug": "democratic-2028-presidential-odds-dip-to-60-by-march-31"
  },
  "0xf537989d5ea866d8ca4139589864fb2c929a2d8db5a026fd580c211331a124d7": {
   "created_at": "2026-08-24T16:34:51.378226Z",

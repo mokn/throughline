@@ -789,6 +789,7 @@
   "created_at": "2026-10-25T04:00:54.155924Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $180 in November?",
   "revisions": 1,
   "sha256": "a4ee061de54158f4d004a948db49a3c4611c493b93073e0d608bc5a71775ffc4",
@@ -1317,6 +1318,15 @@
   "revisions": 1,
   "sha256": "5eef53589abbd87d1caa3393eb1761ebfea086c080b16761052333630f15e1ee",
   "slug": "will-broad-front-fa-win-the-most-seats-in-palencia-in-the-2026-spanish-general-election"
+ },
+ "0xc56d9b6842d8989e0338e8c292c7252248910f0b7fa2ff85875977e4abb3e541": {
+  "created_at": "2026-11-07T12:30:57.164071Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-kimi-antonelli-2026-12-04"
  },
  "0xc658205a445bcf0b7807be56ccda9b1b9e5006db5173e4129a60c17fb7cfb841": {
   "created_at": "2026-08-10T15:02:34.752597Z",

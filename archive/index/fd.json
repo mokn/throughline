@@ -300,6 +300,15 @@
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-gonzaga-reach-the-2027-ncaa-mens-basketball-final-four"
  },
+ "0x34ba2d6ad214448766d18aeb1fbaf46d41d65b0bae2e768871bcbb67ac2757fd": {
+  "created_at": "2026-11-07T12:30:13.505589Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Racing Bulls have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-racing-bulls-2026-12-06"
+ },
  "0x3647d603eb956cd874e239c440fbb3aa6e7b9eeb0d052427e6777c63b27e82fd": {
   "created_at": "2026-01-28T15:39:35.577124Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -979,6 +988,15 @@
   "revisions": 1,
   "sha256": "f660cc24adc1427e1781fe56f874c92020924db42f59ee55c2dcba80617478c7",
   "slug": "will-micron-q1-nand-revenue-be-above-16pt0b"
+ },
+ "0x921686f2df9d2ab4394a3996cc7b5118327c27d66b2f78ece5c7cfe4acc3f0fd": {
+  "created_at": "2026-11-07T12:30:37.537413Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Racing Bulls achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-racing-bulls-2026-12-06"
  },
  "0x93158447b78290c1abb5ccf3e025dd03290865972b3fc9c8d2803aa64ae1cbfd": {
   "created_at": "2026-02-09T00:15:02.220881Z",

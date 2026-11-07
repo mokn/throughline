@@ -1478,6 +1478,15 @@
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
   "slug": "cze1-art-bop-2026-10-17-exact-score-3-5"
  },
+ "0xf4897a84d5f9edc2f7d0cfe8c94d06996fa6a219adb6397f7df25b0a7099226b": {
+  "created_at": "2026-11-07T12:31:22.205451Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-antonelli-2026-12-06"
+ },
  "0xf48e4d7ea29ff08e8d7250cf0ed7b90813fcac5ac46329c237b5bd03a771366b": {
   "created_at": "2026-09-04T19:23:15.043655Z",
   "first_seen": "2026-11-04T01:55:27Z",

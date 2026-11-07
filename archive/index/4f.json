@@ -89,6 +89,15 @@
   "sha256": "ab8134f085187e074442c69895aef267c5df4ce0aa086df89324477a34b1d432",
   "slug": "will-modern-sport-finish-17th-in-egypt-premier-league-2026-27"
  },
+ "0x0e6bfa2ac3ddf5564323df148868358cf7441a1fa750be9f68cfbbb5cfa7794f": {
+  "created_at": "2026-11-06T22:33:13.357054Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive between 28% and 31% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-28-31"
+ },
  "0x10373ee158f8f5a715ef97d7f1e87ab42ce766c146fde3b02196169f9eb8dd4f": {
   "created_at": "2026-09-04T19:52:36.382562Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -413,6 +422,15 @@
   "revisions": 1,
   "sha256": "b499b32a5b099c6cdde69f1823895ac8efdf14221371b495900f4be8e542d2de",
   "slug": "will-obsession-win-best-casting-at-the-99th-academy-awards-20260805190946806"
+ },
+ "0x3c1b9b221e5e23b1e0e996d7002eafe17959eba03864ce7d565d50f6eb09824f": {
+  "created_at": "2026-11-07T12:30:56.641557Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-esteban-ocon-2026-12-04"
  },
  "0x3d9b16b91c70e6eebda08591ef9e0fe4ec1d421084f5880acff82d37617fda4f": {
   "created_at": "2026-09-04T15:53:06.255969Z",

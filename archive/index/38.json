@@ -306,6 +306,15 @@
   "sha256": "827b9d8d8f032c8a1feda153c245b6df1281a611e07d0be53f6c8038f70299aa",
   "slug": "will-kolos-kovalivka-keep-the-most-clean-sheets-in-ukrainian-premier-league-2026-27"
  },
+ "0x3b42b0ef26894aa9b755f12f93124c965c7014fcf4d6f3bf8d2d0bf44c497a38": {
+  "created_at": "2026-11-06T22:39:07.926373Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 13 or more candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-13-or-more-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
+ },
  "0x3bb394839a1136334c3ae16fc111a48bb1c7108013cd5656329b3ac6dd967938": {
   "created_at": "2026-03-31T18:49:10.638861Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -328,6 +337,7 @@
   "created_at": "2026-11-04T06:07:23.874794Z",
   "first_seen": "2026-11-04T14:32:33Z",
   "last_changed": "2026-11-04T14:32:33Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "US x Iran effective ceasefire continues through December 31, 2026?",
   "revisions": 1,
   "sha256": "799385e1f64fa59ea73f594bcba71e7fcd4f2036fb28dea6cc66bef4e3374004",
@@ -756,6 +766,15 @@
   "sha256": "39f0d90befbb8d54066ba4c15880ab5c81c43157aca645b51ee3243b5a58b940",
   "slug": "will-tcu-be-a-top-4-seed-in-the-2027-college-football-playoffs-20260803204017382"
  },
+ "0x80cc8df743250f47eece7178cca0b84b7ef1a13ada989697afab96dc53c08d38": {
+  "created_at": "2026-11-07T12:31:15.616254Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Norris or Piastri?",
+  "revisions": 1,
+  "sha256": "90cd7f077e5cbb7c42e7338f4ab882dafbe017022820f7e4c532c9067c424be4",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-norris-vs-piastri-2026-12-06"
+ },
  "0x82f89562b5f27b616b3154db50e56b81e949ead512ce2929607dfe7a7d833638": {
   "created_at": "2025-12-30T21:32:08.999491Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1052,6 +1071,15 @@
   "revisions": 1,
   "sha256": "528ad98672a03cae8c6451d320007ab93247a5541ff8d91aea9d68f5bf657513",
   "slug": "will-nuno-mendes-psg-record-the-most-assists-in-the-2026-27-ligue-1-season"
+ },
+ "0xbe13db42c377848959a3eb2b7611189f6bccd2917147b221ce89bc2f5fd33638": {
+  "created_at": "2026-11-07T12:30:58.754595Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-lewis-hamilton-2026-12-04"
  },
  "0xbee858a90c5add2f6cb7125ce204f3417b0763c3c7e54717613706f7bcf63938": {
   "created_at": "2026-11-02T18:37:08.15687Z",

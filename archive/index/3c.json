@@ -35,6 +35,15 @@
   "sha256": "584daef7ee7ef63ab3d137d9e333c302162c4c3aca2adae268090959d330cdb1",
   "slug": "will-jaron-keawe-sagapolutele-be-the-2026-acc-passing-tds-leader"
  },
+ "0x05f030e560bdae1197dbea1d4032f1dfd93bd7033960b927dfd4d8bdee74bf3c": {
+  "created_at": "2026-11-06T22:37:08.05511Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen hit 40% in any poll before the first round of the French presidential election?",
+  "revisions": 1,
+  "sha256": "5cc4b0fb27083f82eb432a2e45e16c890c78844136d92e3f2dace4004695b5a5",
+  "slug": "will-marine-le-pen-hit-40-in-any-poll-before-the-first-round-of-the-french-presidential-election"
+ },
  "0x0643a9edd0e8b0dbe0e471371818f5c61a84949ae1e3fc72c8e4572be3a0fe3c": {
   "created_at": "2026-01-08T01:34:15.635656Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -479,6 +488,15 @@
   "sha256": "9e3b7df7967b26b163295dfb6f5b03efd501d0d825fa95a5d67a4c35861e4c8d",
   "slug": "will-fns-stream-team-qualify-for-vct-kickoff-2027"
  },
+ "0x3e6225a079d27b5522ed9a455de1d7c4c1a0e781e68f7f5750c06a89f404b83c": {
+  "created_at": "2026-11-07T12:31:20.863789Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-bortoleto-2026-12-06"
+ },
  "0x433ad403d0ed3b82ee8c4afd7eaa59e3ad289a6b1c036e8c5a837151acf69b3c": {
   "created_at": "2026-09-04T16:01:30.134972Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -876,6 +894,15 @@
   "sha256": "7b04f91e906e34918a087661d3e2fb1d9fdb84c61c497e2f7339502af9c88b45",
   "slug": "will-the-democratic-party-win-the-tx-09-house-seat"
  },
+ "0x6a5cca15e98801616b747b85f6b567986a8a315ff8c501fa57ecb6d17a88043c": {
+  "created_at": "2026-11-06T23:09:52.231691Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will there be no House floor vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "no-house-floor-vote-to-impeach-hegseth-by-december-31"
+ },
  "0x6d43e2f1898f1f3bbfdc18a59fbb493f616fa9bea79d8f32c7bb0577dfb5ff3c": {
   "created_at": "2026-10-24T11:30:19.91576Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1019,6 +1046,15 @@
   "revisions": 1,
   "sha256": "ed4802b85f507b60dcfef02360e14fa507444c5ec02783308482d5dbe5a2b1fa",
   "slug": "will-putin-and-zelenskyy-meet-next-in-austria"
+ },
+ "0x8aa7b130c5a85d2759e6400b5d903a80bde3642593923998169a2b5a19a9e23c": {
+  "created_at": "2026-11-06T23:09:50.161391Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 230-234 House members vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "230-234-house-members-vote-to-impeach-hegseth-by-december-31"
  },
  "0x8defc5e304730c9fc2d5b409a6568f98314b61ff183c012337dbe5e5eb5e903c": {
   "created_at": "2026-09-14T20:21:14.905411Z",

@@ -125,6 +125,15 @@
   "sha256": "1bfb6b9302aab7089f47b08982e30e39b3e7c9f2cfb473ac58b4c4d0328c843a",
   "slug": "will-the-us-federal-government-take-a-stake-in-openai"
  },
+ "0x1299854977eab198af6dbd8a0d48356e6ac3268cdde49086ba5a6d2d6c682e1b": {
+  "created_at": "2026-11-07T12:30:28.791743Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-ocon-2026-12-06"
+ },
  "0x13269612320f79933f32cd0e8627a47f07f17fbe0e0c40df0dbc7d38633d971b": {
   "created_at": "2026-06-12T19:23:51.252675Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -457,6 +466,15 @@
   "revisions": 1,
   "sha256": "339526c65a28bbfd7dc7035ac64229dad4fa68dbaee8f14f5ea8225f2414036e",
   "slug": "new-orleans-pelicans-2026-27-regular-season-wins-ou-26pt5"
+ },
+ "0x495f28cc6a8554b2913ebcc30748863afb6d1c5cead3f4faaba6cd709a40be1b": {
+  "created_at": "2026-11-06T16:38:22.228633Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Christine Lagarde advance to the second round of the next French presidential election?",
+  "revisions": 1,
+  "sha256": "ae49a52662279851de0c5be36f1a133b93d2216b2668e7c19c108db739101b70",
+  "slug": "will-christine-lagarde-advance-to-the-second-round-of-the-next-french-presidential-election"
  },
  "0x4ab54ef8464d7f0d24075a67fcad5b7155e62807d7d0d64ebc9941c8a7d1ae1b": {
   "created_at": "2026-09-29T00:02:42.603869Z",
@@ -1309,6 +1327,15 @@
   "sha256": "12338eb608824b08eb9a332c46bedc3275280cfaf9a8f9f012b015686d8a952c",
   "slug": "kamala-harris-2028-presidential-odds-leader-on-november-30"
  },
+ "0xc589ed693b8d2f08ddfefb58a6bf7eaf6fc1f884bf1bbd4cbf80fc27bf63fc1b": {
+  "created_at": "2026-11-07T12:30:56.940124Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-lando-norris-2026-12-04"
+ },
  "0xc7b646d598e6e860a939b865056d91f27666f0d7b642b893d62016b32ea3881b": {
   "created_at": "2026-05-12T17:52:04.741513Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1674,9 +1701,19 @@
   "created_at": "2026-10-10T11:30:30.941677Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Valtteri Bottas achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
   "slug": "f1-brazilian-grand-prix-practice-2-fastest-lap-valtteri-bottas-2026-11-06"
+ },
+ "0xff53771935747728fae6867bb31ad695e1482e7db053e9730082027d0bed9c1b": {
+  "created_at": "2026-11-07T12:31:22.44148Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-verstappen-2026-12-06"
  }
 }

@@ -143,6 +143,15 @@
   "sha256": "00d3ca6150d7f90db2ec5d091421c4005930feeeff1f6db36d2ff034d0c3cde5",
   "slug": "will-saturn-launch-a-token-by-december-31-2027"
  },
+ "0x11f1d7a305b44b91df2f5824514e2cca8c44ea69822f3f8aa4918f9467136160": {
+  "created_at": "2026-11-07T12:31:08.199902Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-franco-colapinto-2026-12-05"
+ },
  "0x12f62fed8b7d9dbce2b4169b7c2a8196c30a771bc99b008960eee238699d9260": {
   "created_at": "2026-09-23T18:06:43.365324Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1467,6 +1476,15 @@
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-zach-hyman-win-the-2026-27-ted-lindsay-award"
  },
+ "0xe3df6d9a48ac7a6c2740fee7c2d840a63f4cd242d19ff3be37a298284da26d60": {
+  "created_at": "2026-11-07T12:31:15.413688Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Leclerc or Hamilton?",
+  "revisions": 1,
+  "sha256": "0f26fda36a216d7b16efc22e4d966a68e4db6a2779cf6fd191732079a484f480",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-leclerc-vs-hamilton-2026-12-06"
+ },
  "0xe43a4a68150b713a0913b7bde7b15800fe0f99b662e1ece8303ae27c3de14a60": {
   "created_at": "2026-08-10T14:51:46.862396Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1493,6 +1511,15 @@
   "revisions": 1,
   "sha256": "0d22e93f18ec2b96e2253b21078baacc8af91025749e107c66afe6a9e4490e2c",
   "slug": "will-openais-public-ticker-be-aagi"
+ },
+ "0xe64b9d11bd6d50e15ab015ed613bfdf408e4145b4da709f8deed8cc9a16a7b60": {
+  "created_at": "2026-11-07T12:31:09.406678Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-lewis-hamilton-2026-12-05"
  },
  "0xe7af9b009e9047959a5ecbd12cef00bb15ca29e93695aeca277b43408f3c0b60": {
   "created_at": "2026-08-24T16:37:49.286884Z",

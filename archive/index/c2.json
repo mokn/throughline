@@ -925,6 +925,15 @@
   "sha256": "937f8fc6a4933d119b1cb0a60444dd6f1553609630286adf529186f7660ff137",
   "slug": "will-miami-dolphins-advance-to-the-divisional-round-in-the-2027-nfl-playoffs"
  },
+ "0x88b80f44d6057215fbabf2bcaf279eb2858cb974ce044490e1a1c29c1315e9c2": {
+  "created_at": "2026-11-06T22:31:45.087449Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Tondelier win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-marine-tondelier-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0x890a7367a1420a80c965aff388027f371eb5a2e30a393542056a7f12bf0b30c2": {
   "created_at": "2026-10-27T16:57:31.763104Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1314,6 +1323,15 @@
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
   "slug": "will-sporting-cp-finish-first-in-the-2026-27-ucl-league-phase"
+ },
+ "0xbcf833211a926cb5b33f100d5130e94d989cd45874331e4f2fc797892f0318c2": {
+  "created_at": "2026-11-06T16:45:33.86364Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Hy4 debut at a score of at least 1460 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "6f98c8c9f83cae560e52b760f04da81483f1e18073a5a4844ed2cad1612573c1",
+  "slug": "will-hy4-debut-at-a-score-of-at-least-1460-by-june-30-2027"
  },
  "0xbdcac48a961a1da872539f9a30c80d9230c8ade022e3fc9ae8f41aac16a8d6c2": {
   "created_at": "2026-07-29T20:35:17.345808Z",

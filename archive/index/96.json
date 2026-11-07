@@ -1179,6 +1179,7 @@
   "created_at": "2026-01-28T15:37:36.243708Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the NY-21 House seat?",
   "revisions": 1,
   "sha256": "54cf04e67c6a0eb4523a8364186ec48d43f4618c26ae276dc391cde536f09d2a",
@@ -1201,6 +1202,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-trevor-zegras-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0xde1b3c7671caac83dd9563dad861617445262e0ad5d3649eeabd9c3dab8ad196": {
+  "created_at": "2026-11-06T22:58:40.135348Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mike Waltz be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-mike-waltz-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xdea9c31e8e1e7dc4a8a6f6b00d2140ea19611ee113ec4a6f3272ab0206edc896": {
   "created_at": "2026-02-05T20:58:47.315536Z",

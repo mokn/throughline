@@ -99,6 +99,15 @@
   "sha256": "f729a8c10b859ae069a53a2b0b54bad0684e521f88ab54e6cd25b63f28c4dbdc",
   "slug": "el1-ste-swe-2026-09-26-halftime-result-home"
  },
+ "0x1602313f12c4a59168d08371f3b0d0cd3b3b3bb958a5e75ff76f43e000f36f8f": {
+  "created_at": "2026-11-07T12:30:45.788926Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-kimi-antonelli-2026-12-04"
+ },
  "0x1668ed00a954beb92ce10cee90dd471adcb5a8f10311bdfcdc0d3bb61f91748f": {
   "created_at": "2026-10-15T18:01:01.621489Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -368,6 +377,15 @@
   "revisions": 1,
   "sha256": "be8deef1da5ff249e7c9f8ed872d8a38a80e14a1836ea5ab6e851e2356f47f24",
   "slug": "pro-football-any-player-2000-rushing-yards-2026-27"
+ },
+ "0x40ea900d4d1c6dc6316d1cb7777eec2db69b66092895e1c5a7bda2fd81422e8f": {
+  "created_at": "2026-11-07T12:31:25.193846Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-hadjar-2026-12-06"
  },
  "0x41b239d97215af069a7f2889706fa94ef883d118e5eaa31140db54991a07698f": {
   "created_at": "2026-08-24T16:33:31.781997Z",
@@ -855,6 +873,15 @@
   "revisions": 1,
   "sha256": "f0b7b210f193bdac017bd7ec8975a5473454b9f5c5aa093e23a926f5d027dcb5",
   "slug": "will-nyc-have-less-than-2-inches-of-precipitation-in-november"
+ },
+ "0x7e395cb8ed20aa81d49a7656d59237758d87293e9ca78dd28c6e0b00e333558f": {
+  "created_at": "2026-11-07T12:30:15.053242Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-gasly-2026-12-05"
  },
  "0x7fa574d01f3219e49ab6dca5ba296695ef26b0054992fcfdda91c1e1bf8a3b8f": {
   "created_at": "2026-07-17T22:44:54.582899Z",
@@ -1478,6 +1505,15 @@
   "revisions": 1,
   "sha256": "153c5b9a0c4fb85610ab9a79a5d09ec1d561341b6e4765129c6bfd2b3faef39b",
   "slug": "will-the-republican-party-candidate-win-the-2026-ut-04-house-election-by-0-5"
+ },
+ "0xe092354cca06f15c22d98923716bc9fc24373601e01a7df59d3b21e4d2a8c58f": {
+  "created_at": "2026-11-06T22:33:14.928334Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive 40% or more of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-40-plus"
  },
  "0xe0c9e2e8a169b020ad7d6f76f7ae59d9088f698499153764a39f9c836319ad8f": {
   "created_at": "2026-09-04T17:19:42.113143Z",

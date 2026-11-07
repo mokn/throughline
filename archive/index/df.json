@@ -558,6 +558,15 @@
   "sha256": "ad360234c4c2300ba69cf6fc446e372fad519723df9551793341e81980f8d5b1",
   "slug": "will-felix-protocol-launch-a-token-by-december-31-2027"
  },
+ "0x5f2454242ad86c47e5cd04bcafc9a6e4e78c3d305ad6969d3dd1df6dcd4326df": {
+  "created_at": "2026-11-07T00:10:37.348693Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yossi Cohen receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-yossi-cohen-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x62aa82283bd58eef90fda881a750587955571ac0593283bead26d1c4a695b5df": {
   "created_at": "2026-08-14T13:03:02.433665Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1015,6 +1024,7 @@
   "created_at": "2026-01-28T15:35:52.131662Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republican Party win the NC-08 House seat?",
   "revisions": 1,
   "sha256": "844c38146810c6201ca10fd33131fb7a6aae55be593079e56fbf1508ea5ffc29",
@@ -1138,6 +1148,15 @@
   "sha256": "2f92d33ca88c81ba453f59716c74d47fbfb1e04b6e069564fb00ae981702f0f3",
   "slug": "2027-soccer-slovak-nik-liga-runner-up-mfk-dukla-bansk-bystrica"
  },
+ "0xb4044ee47468023087c2aa88fb9d1e3c4cc758d4222c0e059c047b875147cbdf": {
+  "created_at": "2026-11-06T22:34:26.457309Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Rapha\u00ebl Glucksmann receive between 10% and 13% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "009c41adec7ec964ac2f6e2cbb81829cc818266c330ce69a4ba165590e3df491",
+  "slug": "france-first-round-vote-share-raphael-glucksmann-10-13"
+ },
  "0xbc88d8396d5fb0685be061227940ee1352891b42fc468778f8f2718ac6b479df": {
   "created_at": "2026-08-11T18:49:10.90784Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1223,6 +1242,7 @@
   "created_at": "2026-10-10T11:30:26.138644Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Max Verstappen achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1543,6 +1563,15 @@
   "revisions": 1,
   "sha256": "52065ce93e1d20912bd2acd93b9c7b6776a6281363be221b3e0f40d7feb76956",
   "slug": "will-vasteras-sk-be-relegated-from-allsvenskan-sweden-2026"
+ },
+ "0xf8288badc1888dc1ae0670712c896cbf56c29f2bc6e25853ec3c043153ab66df": {
+  "created_at": "2026-11-07T12:31:08.926536Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-nico-hulkenberg-2026-12-05"
  },
  "0xf873dad80007e55f15f613a362b22b7d42c0019a191627ab4a644b974a7536df": {
   "created_at": "2026-09-18T00:10:53.178024Z",

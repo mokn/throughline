@@ -192,6 +192,7 @@
   "created_at": "2026-05-22T18:33:41.659995Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Scott Bessent be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -747,6 +748,15 @@
   "revisions": 1,
   "sha256": "8d10d5d0f683f040f262a9aca6c6847fb7ad2c093a2fb781879835b4bafdf3a5",
   "slug": "caleb-williams-3500-passing-yards-2026-27"
+ },
+ "0x89e43532243cfea43c7abc3dcd69594f06985785e1f2525cd750e45630893855": {
+  "created_at": "2026-11-07T12:30:17.003344Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-verstappen-2026-12-05"
  },
  "0x8a5fd6011b60f204f6554d147f67b365ee433664bb5344143a2c6bfa06b54855": {
   "created_at": "2026-09-18T08:45:26.452124Z",

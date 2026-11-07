@@ -498,6 +498,7 @@
   "created_at": "2026-10-10T11:30:31.330335Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Oliver Bearman achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -774,6 +775,15 @@
   "sha256": "a7e0b987a1d9c93ef944bbe7194c0b6c67c73404c1273669106793d4e669fdd6",
   "slug": "will-sv-ried-be-relegated-from-austrian-bundesliga-2026-27"
  },
+ "0x86738c9c13d46906e8b99ea22081eca07d252c0d17cdb36c7233d2aa92bf9931": {
+  "created_at": "2026-11-06T22:58:37.848409Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Doug Collins be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-doug-collins-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0x8a17dd70d5ac5055411b1898e0b73770bf18ec6626339f0241f16a84601d1b31": {
   "created_at": "2026-11-03T02:59:25.857594Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -919,6 +929,15 @@
   "revisions": 1,
   "sha256": "470a07e828e932e9e986711e1bd4bd7ec1cc361747c06882f1a5a7895de59ac2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-12-house-election-by-55-60"
+ },
+ "0xa3ab2535cfab3b5117527b56842afc47bf0663001f2c725752b0bf714da54831": {
+  "created_at": "2026-11-07T12:31:21.354704Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Charles Leclerc finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-leclerc-2026-12-06"
  },
  "0xa4a1a83cb4b6e6bdbb5506fe9978548b4234e57df21e0186b5e9709d123f4631": {
   "created_at": "2026-08-06T08:37:15.924219Z",

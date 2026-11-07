@@ -355,6 +355,7 @@
   "created_at": "2026-03-26T21:57:38.877206Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Cole Young win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",
@@ -472,6 +473,7 @@
   "created_at": "2026-10-02T18:00:02.053847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be \u22654.6%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -828,6 +830,15 @@
   "sha256": "4527d31da8b100c48afb34693d17af2065bf58b76513c2e154c170190a64803b",
   "slug": "basketball-champions-league-2027-champion-brose-bamberg"
  },
+ "0x8ea966333094c05db58c2c5af2a21262aad3d3ea3ecae518fa671366978841d2": {
+  "created_at": "2026-11-06T22:37:08.546438Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen hit 42% in any poll before the first round of the French presidential election?",
+  "revisions": 1,
+  "sha256": "5cc4b0fb27083f82eb432a2e45e16c890c78844136d92e3f2dace4004695b5a5",
+  "slug": "will-marine-le-pen-hit-42-in-any-poll-before-the-first-round-of-the-french-presidential-election"
+ },
  "0x91e6cdee68403b9253a98d71d892b39185e4055673751e7dc84f0dd6710428d2": {
   "created_at": "2026-08-12T17:21:20.731273Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -936,6 +947,15 @@
   "revisions": 1,
   "sha256": "effc1a214676c4b5f64d1e3523470016c5a82e5ac5bf91b1ebe6ce7f3b74616a",
   "slug": "will-the-republican-party-candidate-win-the-2026-sc-01-house-election-by-18-or-more"
+ },
+ "0xa22aa429e89899d475af4efc998d16adb8ade22f37cba308f2697e13622ab9d2": {
+  "created_at": "2026-11-07T12:31:10.652254Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Arvid Lindblad achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-arvid-lindblad-2026-12-05"
  },
  "0xa3b77b923f70dfccefa10c19d5ad7ee876beadde3b7311c2627e1c502d42ffd2": {
   "created_at": "2026-09-02T21:56:00.148242Z",
@@ -1263,6 +1283,15 @@
   "sha256": "fffd01f35f09b23a12668f6604ca6e09931f37522de04876af1b4b0e9b3d24d6",
   "slug": "jahmyr-gibbs-799pt5-rushing-yards-2026-27"
  },
+ "0xd0283b31574eb7052671392ea8802363f65e452670f8255bc52f88628901abd2": {
+  "created_at": "2026-11-07T04:02:11.69808Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the next Qwen Max model (3.9+) debut at a score of at least 1520 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d23243119156661febc2be6430222dd35579e84f98071c74d7d87ce94d8d5194",
+  "slug": "will-the-next-qwen-max-model-3pt9-debut-at-a-score-of-at-least-1520-by-june-30-2027"
+ },
  "0xd0d360fc198b84866d34d44aa011b509fa01dad8e7f53b479433f8eeb55633d2": {
   "created_at": "2026-08-21T20:02:55.6491Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1408,6 +1437,15 @@
   "sha256": "8d82dc32cd6f3a612bde0efe4ab9f112983a688e43c22e36aabe5c6ed580628b",
   "slug": "will-the-2027-uefa-europa-league-winner-come-from-turkey"
  },
+ "0xeda24f8b9970d83b578843470207becf4741f018111112d1fd78b525c564c4d2": {
+  "created_at": "2026-11-07T00:05:00.466346Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will The Democrats support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-the-democrats-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353281"
+ },
  "0xefa17dee3af09f69f9ddf245b969aa4efbe7c71cdf06ee49d694408bc33e2ed2": {
   "created_at": "2026-07-02T18:53:22.045275Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1484,6 +1522,7 @@
   "created_at": "2026-08-26T21:46:50.386801Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will IF Elfsborg keep the most clean sheets in the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "7d0f392a6ee9996a25694a697bde66cbf028212c1a3a0a4e6fc0acfa36358dc8",

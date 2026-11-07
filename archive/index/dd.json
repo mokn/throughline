@@ -643,6 +643,15 @@
   "sha256": "a1496a7d251e0bb4467f1d394c1c6843ba16718857cb5626171ba22481f393d9",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-18-house-election-by-45-or-more"
  },
+ "0x733aad38103552950b53f3572f8d185f6b542c2816304f2ff845131f1f9aacdd": {
+  "created_at": "2026-11-07T12:30:46.378447Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-franco-colapinto-2026-12-04"
+ },
  "0x7590cbc21f9c580c11c83294b29070e4ce8629ef869058d84128407ae7ec36dd": {
   "created_at": "2026-05-04T15:11:17.126607Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -827,6 +836,15 @@
   "sha256": "474df0f7ed1916e4121d1fc9365d84a2cf5eef49b4e7342c52d7a2c815c621ce",
   "slug": "will-mu-dip-to-660-in-november-2026"
  },
+ "0x8eb306fa7348f5c414ab0aedfacbede48b7a20c3d83574e4471fe81f49525cdd": {
+  "created_at": "2026-11-07T12:30:05.467732Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-jr-2026-12-06"
+ },
  "0x8f9acb3fb4f512d7552d2b008cc940488c89de9e510ce7672d88d4ee3fbca3dd": {
   "created_at": "2026-10-24T03:31:09.884648Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -976,6 +994,7 @@
   "created_at": "2026-08-26T21:46:29.502657Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will V\u00e9lez Sarsfield finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -1440,6 +1459,7 @@
   "created_at": "2026-07-14T02:36:15.212623Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Tigres UANL win the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "b21eb88fedd03240a0fbc442c4ddc943466f764be59ef1d2d7628b62bf1d0790",

@@ -701,6 +701,7 @@
   "created_at": "2026-10-02T20:15:31.506812Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will K'Sante be the most played champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
@@ -968,6 +969,15 @@
   "sha256": "73eca2b61cfe1940ae0496f263f3253fbc3af05918919f52f40b09cfc6e5a1df",
   "slug": "will-ebba-busch-be-the-next-prime-minister-of-sweden"
  },
+ "0xa611177a6930d20443e7c9ad083743a2598ae48ec74012b4c1808fdf1a39609e": {
+  "created_at": "2026-11-06T22:33:13.749533Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive between 31% and 34% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-31-34"
+ },
  "0xa65cee1417d707e7e08b5edf47e6e7678e7333b1c547f928aec5cdcbfc08029e": {
   "created_at": "2026-08-24T16:40:43.034908Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1220,6 +1230,15 @@
   "revisions": 1,
   "sha256": "b66d92bcda8d23aacc6696b03ada2bba20df855eb7fb03a904fb06e3acc88462",
   "slug": "will-spacexai-have-the-best-text-to-image-ai-at-the-end-of-november-2026"
+ },
+ "0xc7b765ac49fd32029d726eee70e9d1c675e36c1e1400a5597d8b20f281ae8e9e": {
+  "created_at": "2026-11-07T12:30:28.595365Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Charles Leclerc achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-leclerc-2026-12-06"
  },
  "0xc7e24248d7dd5cfe7afc4df02059ac7a95d60ff93bea3cc335d924970a44329e": {
   "created_at": "2026-09-18T08:46:18.549061Z",

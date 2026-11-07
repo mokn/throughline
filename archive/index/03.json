@@ -144,6 +144,15 @@
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",
   "slug": "will-the-republican-party-candidate-win-the-2026-sd-al-house-election-by-30-35"
  },
+ "0x2630dcebfdb828acddda71736e266767eb0407069facc653575f01d7cf7dcc03": {
+  "created_at": "2026-11-07T12:30:31.448742Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-hadjar-2026-12-06"
+ },
  "0x27fbd5e6c11d1ef2538ce69474490b2fb9a4b735c072f1c3a331d0802412be03": {
   "created_at": "2026-08-24T16:35:51.373153Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -824,6 +833,15 @@
   "sha256": "09a032c897418a3e6f432da0bc55c87d5c38033e57c465a258b2bdc4110a66a7",
   "slug": "democrat-wins-2028-presidency-no-dem-sweep-yes"
  },
+ "0x94f6dc4d94320a2a69831a47463b5a62f97c8ca736afba48b5ab36c062aa3803": {
+  "created_at": "2026-11-07T12:30:11.311921Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alpine have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-alpine-2026-12-06"
+ },
  "0x9538a8ba751294a43ce374e64aaa41775be18e98e0dbde21a8a65dc2c9587c03": {
   "created_at": "2026-08-07T16:01:19.737434Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -868,6 +886,15 @@
   "revisions": 1,
   "sha256": "a39b3a90f46825c61ba572527aa0715eb7528da9464dc71dff9d2fd5e3cd29a2",
   "slug": "france-elite-2-2027-champion-alliance-sport-alsace"
+ },
+ "0x9f9c6a470973cb2fe3d82b5dc046b5c5e0ba3a9a5fbfde1c3a2a9491777db703": {
+  "created_at": "2026-11-07T00:06:39.72915Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Next US president 80+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-80-plus-years-old-at-inauguration"
  },
  "0x9fe303f4c1768df88653a2639abde1dbe16697d23ea080073dba0853a837a403": {
   "created_at": "2026-10-29T20:52:36.774302Z",
@@ -1274,6 +1301,15 @@
   "revisions": 1,
   "sha256": "a605461467f332fcf230469d3ecbd9e0d326acca075c58643037aacb2cd5da2e",
   "slug": "will-kashiwa-reysol-win-the-2026-27-afc-champions-league-elite"
+ },
+ "0xdc467614b608966d4e9f83d72dbdb3857041da0fde8e25f0aac004fb5de0e603": {
+  "created_at": "2026-11-07T12:30:40.246592Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will there be a safety car during the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "bd74c09c267582ecd788c330bd17f6d63bb47db7c6083df4f7bc91427e1f6a75",
+  "slug": "f1-abu-dhabi-grand-prix-safety-car-2026-12-06"
  },
  "0xdfb15816f735446a0457d14fec168ee6ad38bad9225e748c8dbc22ed6005ff03": {
   "created_at": "2026-09-30T20:37:24.487814Z",

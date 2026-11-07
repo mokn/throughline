@@ -144,6 +144,15 @@
   "sha256": "b16950b2d1aaf777db9e7cc3ef2d8177eed6e1c3dc99d923d72a1538d201430d",
   "slug": "will-rklb-reach-80-in-november-2026"
  },
+ "0x162a5aeb2d537903d3d042f03e800de5e0f70e23e94e223dee3741cfd51ad4fe": {
+  "created_at": "2026-11-06T22:31:43.011871Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jordan Bardella win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-jordan-bardella-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0x18ef75501ab74e6e75a8f3f3e5935dc7c6e0c02e4d2eca0d5728441fcf2c5efe": {
   "created_at": "2026-08-19T13:35:47.028729Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1444,6 +1453,15 @@
   "revisions": 1,
   "sha256": "85e66442d11be888b4802bd76c191900aea8b552e1292202372cba7c5b328883",
   "slug": "how-many-tesla-deliveries-in-q4-2026-575k-or-more"
+ },
+ "0xe9e7628b3f4584fa29894003c11b5837ed9ae3045bbaa7fb5c789acbbfcf19fe": {
+  "created_at": "2026-11-07T12:30:11.761846Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Williams have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-williams-2026-12-06"
  },
  "0xece369f57cb0e48d28c1b7039f7e237599320959cebfada031269af596239afe": {
   "created_at": "2026-10-01T15:53:30.577991Z",

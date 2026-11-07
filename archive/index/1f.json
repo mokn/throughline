@@ -533,6 +533,15 @@
   "sha256": "19a9b16921e9d22b67e5b97e847f0746ad7d19dbac1d45d2099d26cbe671a3ba",
   "slug": "xavier-worthy-649pt5-receiving-yards-2026-27"
  },
+ "0x5130222b9473157ccbf152b5e933f7e59a8712fcca31e47a716a84ca00788e1f": {
+  "created_at": "2026-11-06T21:38:13.216811Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Tom Nolan fight Mauricio Ruffy next?",
+  "revisions": 1,
+  "sha256": "b0d85b2cf664668e3c5df11e5fbe81ddca9efc23a6e865c0dd38399bb5d15691",
+  "slug": "will-tom-nolan-fight-mauricio-ruffy-next"
+ },
  "0x5332c0f0314f2b9170880c0430ce673ba65db28c17d00e70a8872c5ba88f901f": {
   "created_at": "2026-09-01T09:44:56.363462Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -676,6 +685,15 @@
   "revisions": 1,
   "sha256": "b8e6f416183f7d470f6173d01caa93782d96ff7dd5e1ecd3d8bf1f4dfc1acf6f",
   "slug": "lega-basket-serie-a-2027-champion-bc-roma-spqr"
+ },
+ "0x68f6605ba15b4135b0ed411f851736309f8560cdf7579cac7a7986a9783a421f": {
+  "created_at": "2026-11-07T12:30:03.471168Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alexander Albon win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-albon-2026-12-06"
  },
  "0x6912b068be0ad0f332bef47197e3308f363aa6c3aa3c97f5707c8408b07fae1f": {
   "created_at": "2026-08-05T16:18:01.469073Z",
@@ -996,6 +1014,7 @@
   "created_at": "2026-10-10T11:30:31.934767Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Isack Hadjar achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -1027,6 +1046,24 @@
   "revisions": 1,
   "sha256": "1324c7df383b06f822ca4dafa0a3f41be80c2553c25efce43a90806e228409dd",
   "slug": "will-chronicle-play-for-team-heretics-in-2027-1788364450495"
+ },
+ "0xa04ceb9845f8447e7c7bf86e6438383f7f8da96f1da6b17af0717dea66b94d1f": {
+  "created_at": "2026-11-07T12:30:43.231737Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-fernando-alonso-2026-12-04"
+ },
+ "0xa22ee1c9afa2b5ee6da62d06d0778aeefce982861bfffb21e964469ffed8b21f": {
+  "created_at": "2026-11-07T00:10:43.155133Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yoaz Hendel receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-yoaz-hendel-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
  },
  "0xa24e26aab3a43e085e19f92d2b9e56570dc798c1f367306958dfed70a2c6df1f": {
   "created_at": "2026-08-10T15:03:16.007712Z",

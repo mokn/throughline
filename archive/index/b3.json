@@ -153,6 +153,15 @@
   "sha256": "777ff3403515611171f23faad420f7d16e5df3aa9f5daf3a369925bfd61a77bc",
   "slug": "will-the-democratic-party-candidate-win-the-2026-pa-17-house-election-by-5-10"
  },
+ "0x1af4f84eccfdb4db712bbe6c425610854738475679ea6afc7bab91fc271542b3": {
+  "created_at": "2026-11-07T12:31:05.103644Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-fernando-alonso-2026-12-05"
+ },
  "0x1b3b0ec31706959c563acb759df21db7140906955d2e36400f94e07da04efbb3": {
   "created_at": "2025-11-24T21:08:37.082469Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -607,6 +616,15 @@
   "sha256": "86ceb3b75052d661856c223e5eedd1b2ec5af3ca16de30c4f357e231c62c36a1",
   "slug": "will-forza-horizon-6-win-best-game-direction-at-the-2026-game-awards-1785857784737"
  },
+ "0x66c1ef44e6dc7205100130ef47d4f58a4664c4fdfafde5b306ab5dee1f3a4db3": {
+  "created_at": "2026-11-07T12:31:18.160183Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Verstappen or Piastri?",
+  "revisions": 1,
+  "sha256": "b2e5c56b7823798aa97ad69a6d890c0201a461a044b6ed9a7c707ccb38bd93da",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-verstappen-vs-piastri-2026-12-06"
+ },
  "0x67a521bdc738a03d6764097d850e1dba10d7d45243122b57d055cba215ab04b3": {
   "created_at": "2026-10-16T08:59:20.410207Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -894,6 +912,15 @@
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
   "slug": "will-brad-stuver-win-2026-mls-goalkeeper-of-the-year-492"
+ },
+ "0x9643a98259304580897626bbec617c975480eaf3fa450d820a957d127366cfb3": {
+  "created_at": "2026-11-07T12:31:21.592468Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-ocon-2026-12-06"
  },
  "0x9adcf836f52f2b6b1508c5bbec5e656a108bc7a1e451d884c8d54494276d9ab3": {
   "created_at": "2026-08-24T16:32:58.320756Z",
@@ -1371,6 +1398,7 @@
   "created_at": "2026-01-28T04:53:06.922821Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republican Party win the AZ-08 House seat?",
   "revisions": 1,
   "sha256": "180743e86aeb39b5213edd65c7f10d63fd944c3e05e3c69e3d5277ff00367900",

@@ -342,6 +342,15 @@
   "sha256": "603afa811ae65720e6de8b6f4356ac70841846109a622bd694209df8d43b254c",
   "slug": "cdr-bad-cdt-2026-10-28-spread-away-2pt5"
  },
+ "0x37d48b064abbea26207d8b0c5cce080a2e01a09e74cf657a4c4c0b618714b52d": {
+  "created_at": "2026-11-06T22:37:23.235236Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon hit 25% in any poll before the first round of the French presidential election?",
+  "revisions": 1,
+  "sha256": "55a0a611409ba2e47bf5ec7cf2084db545ebf49ae2f0cb40ba39ba04689e2d1d",
+  "slug": "will-jean-luc-melenchon-hit-25-in-any-poll-before-the-first-round-of-the-french-presidential-election"
+ },
  "0x38b333a3084f58649dd39dd4a78d57f9bd0408543bf679228a3f656aa3a5ab2d": {
   "created_at": "2026-08-21T17:37:17.849989Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1202,6 +1211,15 @@
   "sha256": "464024317ffa50dec85d166b8e70de558a7071a75c42342d349bc2ac292e4ea2",
   "slug": "will-pete-buttigieg-win-the-nevada-democratic-presidential-primary-20261028011"
  },
+ "0xce404c58b48556eeb2219def453d34b7b66fdd383b47d8b1ce366509584aa92d": {
+  "created_at": "2026-11-07T12:30:17.879689Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Valtteri Bottas get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-bottas-2026-12-05"
+ },
  "0xcedb9c0289911973b22190a8613a9e7153f7f9d234e57902224b05c937a4ba2d": {
   "created_at": "2026-09-13T08:44:24.936765Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1437,6 +1455,15 @@
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
   "slug": "cdr-red-bar-2026-10-28-exact-score-0-4"
+ },
+ "0xf651fd97bcd06873db5af42126c0484c3eb60dc160eabec77cf7832c7a3b732d": {
+  "created_at": "2026-11-07T12:30:47.099738Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-nico-hulkenberg-2026-12-04"
  },
  "0xf8e8d2ca6aee3e13207881947ce09d6a3a6ad8edc8eb628d5c8c1a73a7733f2d": {
   "created_at": "2026-08-05T10:29:54.511767Z",

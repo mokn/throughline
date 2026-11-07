@@ -284,6 +284,7 @@
   "created_at": "2026-01-28T04:53:38.409374Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the CA-11 House seat?",
   "revisions": 1,
   "sha256": "29a682a6e165e0adac0abdf34b23c5f2aa51e2531d45243ec4ae80d934283004",
@@ -552,6 +553,15 @@
   "revisions": 1,
   "sha256": "de528328197b46b7ef5385c6df3aac0b1590cda94f8c5c81076532900cfe1ad4",
   "slug": "travis-kelce-4pt5-receiving-touchdowns-2026-27"
+ },
+ "0x606ac9534b3dba02cb146d2c66177edf1fdae2bf492235fcb7084c912e405f74": {
+  "created_at": "2026-11-07T12:31:10.03558Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oscar Piastri achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-oscar-piastri-2026-12-05"
  },
  "0x622bca147c5f17d2d5b7b0ddb25ab81da964b3795925d4042ffa6195ee3b8574": {
   "created_at": "2026-08-11T18:24:56.642874Z",

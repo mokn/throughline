@@ -170,6 +170,15 @@
   "sha256": "4a0300f982673f62c12d806e89fc80053d2ac07a54a7241a0aefa9baf0d49172",
   "slug": "will-labrov-win-worlds-2026-finals-mvp"
  },
+ "0x24ba8f7599ff5556af6ebda5fa9b82babc94ee0e49484b0893badfa95bb35775": {
+  "created_at": "2026-11-07T12:31:19.086139Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Piastri or Russell?",
+  "revisions": 1,
+  "sha256": "024c3cdc5b0b09045072a816179f569e2e8ffc8079da18841db5bc3dd53364bf",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-piastri-vs-russell-2026-12-06"
+ },
  "0x29f88e50812b89facc288ec8b3a9530c54910c36dc352f0d068d76718043c775": {
   "created_at": "2026-09-27T20:10:30.389335Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -579,6 +588,7 @@
   "created_at": "2026-09-09T15:53:46.192264Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Jobe Bellingham win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1026,6 +1036,15 @@
   "sha256": "5f23119380411922a7c00a3ac8fb6fb6752e6ba551105c3babcdec20cd4a4c9b",
   "slug": "will-stripes-valuation-hit-high-190b-by-december-31"
  },
+ "0xba84a5d1499fd49f097505fd025647ccffd0075c33a227b9fa7fafbeaac2ad75": {
+  "created_at": "2026-11-07T00:05:06.147674Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Zehut support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-zehut-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353288"
+ },
  "0xbaedebf227348baac24df0c9dd558db5f02606a3bc2f9a55f00ccae1d3487375": {
   "created_at": "2026-09-04T19:22:28.240426Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1340,6 +1359,15 @@
   "revisions": 1,
   "sha256": "4d40aa21f65099410b6216a448af243a4b0747010f944d9396b541c270950dd0",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-rhode-island-be-between-250000-and-300000"
+ },
+ "0xeb6686cdd40c61757cd78831e97b1cf627aa98a8ae8bdc5915147af33419dc75": {
+  "created_at": "2026-11-07T12:30:12.435677Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ferrari have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-ferrari-2026-12-06"
  },
  "0xf1b9cf7b7aa6192b11f580c9c3144b931ffa7276c2381b132d5005435bd07875": {
   "created_at": "2026-10-26T22:46:04.345705Z",

@@ -54,6 +54,15 @@
   "sha256": "b133ebf606a92028b1613ac8a65adec0262cb4051d4d4fc7a68e79bd7538088b",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mi-11-house-election-by-15-20"
  },
+ "0x1272d3c6a1aa9bc6c3ae2daa5bcb0f6fb521b28ffa8c9e9c6e858a16a2b24022": {
+  "created_at": "2026-11-07T12:31:18.378142Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Verstappen or Russell?",
+  "revisions": 1,
+  "sha256": "e1142f97dbecf46d6574cad2575760a809fe5b69dc7ba8ce7042e6c33cf5a97e",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-verstappen-vs-russell-2026-12-06"
+ },
  "0x13ae995ae7b1c31d413b4bcd711e852f23eef58fcbad6db11142323961241322": {
   "created_at": "2026-08-07T16:01:55.873464Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -311,6 +320,7 @@
   "created_at": "2026-03-04T15:46:04.736336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Apple release a touchscreen MacBook in 2026?",
   "revisions": 1,
   "sha256": "6b5105217c8a3f4f93268aff3e68ce5ebb3ddc2c3e924709399c248a6d09db82",
@@ -1028,6 +1038,15 @@
   "sha256": "6fc1dc7b05f1a91a06e4735acbe4a2bf1f7f04f594e432e056409600f274f1e8",
   "slug": "will-one-piece-be-the-1-searched-tv-show-on-google-this-year-20260730185304505"
  },
+ "0x90b7535a02c92ed1a80286d9394f6cff80fb2c52998b254718c0d7c149133c22": {
+  "created_at": "2026-11-07T12:30:07.941524Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ryo Hirakawa win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-hirakawa-2026-12-06"
+ },
  "0x9235351ee3dd6313185e3b7d75730d3be90cf8c736985fa03ebb69cece650522": {
   "created_at": "2026-10-08T13:05:54.4508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1054,6 +1073,15 @@
   "revisions": 1,
   "sha256": "9f4015b580390564e88426dc4301b60492271d70eccda5b5d7f73ff77098242b",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-36-house-election-by-30-or-more"
+ },
+ "0x9d1ca618329e2e4c77a08b686f51e84e5fc7951c4cf422d9845bb96e1a447e22": {
+  "created_at": "2026-11-07T12:30:31.855843Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-stroll-2026-12-06"
  },
  "0xa21c11d42ac947ea415ce50a7d1d4e1f45c93c1c0800e139c683bd88b9b1e422": {
   "created_at": "2026-07-31T23:03:31.87289Z",
@@ -1246,6 +1274,24 @@
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
   "slug": "will-krzysztof-piatek-be-the-top-scorer-of-the-2026-27-uefa-nations-league"
  },
+ "0xc4a3e34f200135b0a84193e377c8692473c3c06429a18448f204fb8c29406022": {
+  "created_at": "2026-11-07T12:30:05.673818Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-hulkenberg-2026-12-06"
+ },
+ "0xc4f5fed03ccb7406a05e2b9f9a76597b4f4646f46948e8a85044143a2ad2ad22": {
+  "created_at": "2026-11-07T12:31:23.991916Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-hamilton-2026-12-06"
+ },
  "0xc6e54956b79ddf6f8640df06eea9ffb1f5e558907b2a9031aa00cefeb5f3ab22": {
   "created_at": "2026-01-04T19:45:34.06585Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1431,6 +1477,7 @@
   "created_at": "2026-08-12T15:01:15.147172Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will SMU have more than 6.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",

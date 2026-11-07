@@ -401,6 +401,7 @@
   "created_at": "2025-12-15T19:25:15.288355Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the CO-03 House seat?",
   "revisions": 1,
   "sha256": "73276d2e461a2782cc3d9f4403a5fbb94fe18e97cfe13344158248c267b51417",
@@ -513,6 +514,15 @@
   "revisions": 1,
   "sha256": "a813ce376cc78c0d4cd09293bf8081eeab68f039e9b47e9591701007339c26a5",
   "slug": "will-jason-robertson-win-the-2026-27-frank-jpt-selke-trophy"
+ },
+ "0x4ecb7f5a2907559408c9ac3c2f6a528341299267f3b715087086593d5dc5dd84": {
+  "created_at": "2026-11-07T12:30:48.748437Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oscar Piastri achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-oscar-piastri-2026-12-04"
  },
  "0x50699d46551bb495ce0c35eed4caa1db1837cc26e94833c79638a0b10ad2cf84": {
   "created_at": "2026-09-13T08:46:08.676361Z",
@@ -924,6 +934,7 @@
   "created_at": "2026-10-10T11:30:25.999751Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Kimi Antonelli achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1336,6 +1347,15 @@
   "sha256": "df692e49d5a09679ec69e6b7959bcd1f32f457558130b89eb3cf9176f319f375",
   "slug": "will-bayern-munich-win-the-2026-27-uefa-champions-league-championship-20260701202025565"
  },
+ "0xdad16084a3ec901c2bb03b95d673a691a89f3d53de2745dd38b4a85bd4f1f684": {
+  "created_at": "2026-11-07T12:30:04.616421Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-norris-2026-12-06"
+ },
  "0xdbc8041ef3e7fd8c4ef4b5d5682da120faf9047ca92f97f40f8b3c4eb202f384": {
   "created_at": "2026-10-31T14:14:11.703053Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1497,6 +1517,15 @@
   "revisions": 1,
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-jaylen-brown"
+ },
+ "0xe6e886665b9377d330eea7735d0f58d0782935d624c1c9aaf71afdab06246e84": {
+  "created_at": "2026-11-07T12:30:30.635215Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oliver Bearman achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-bearman-2026-12-06"
  },
  "0xe794b818bfbd8e184c06947c05780d06cb930d8569751850b38dc9e42eecab84": {
   "created_at": "2026-08-24T16:34:11.085427Z",

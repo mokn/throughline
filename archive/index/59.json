@@ -144,6 +144,15 @@
   "sha256": "cc3ba7b32524c9567bbccb378d10c01053fa5627dfc28f6d0823ef516524768d",
   "slug": "will-gangwon-fc-be-relegated-from-k-league-2026"
  },
+ "0x1509af2ce5825e5aed39259948d29cf26e67e62f27aee1137342136624899a59": {
+  "created_at": "2026-11-07T12:31:17.662367Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Norris or Russell?",
+  "revisions": 1,
+  "sha256": "cfcf4b618cbd2dc1cfaab49caa0db6b03bd6309257f73b36c86b0b6b7e49b589",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-norris-vs-russell-2026-12-06"
+ },
  "0x16b94a16bb86bcaee52e171355bd477cca27333ec1fd2c78750fd19a2c1e7d59": {
   "created_at": "2026-08-20T19:30:50.845358Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -161,6 +170,15 @@
   "revisions": 1,
   "sha256": "88a9ebc9b00f00a6ecb616edf77f9479d37709cf1e39556a678c086499aba3ef",
   "slug": "will-pp-win-the-most-seats-in-caceres-in-the-2026-spanish-general-election"
+ },
+ "0x1cc11b1093f1ce5365c7de0233962abd96079a5a48d82a92529b80788c846b59": {
+  "created_at": "2026-11-07T12:31:06.606164Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-esteban-ocon-2026-12-05"
  },
  "0x1ec921cec6b1e131dc592d0977617a04e435fb248bb3e869ed00718fe57f0059": {
   "created_at": "2026-09-22T23:05:29.83119Z",
@@ -596,6 +614,15 @@
   "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
   "slug": "will-sam-montembeault-win-the-2026-27-vezina-trophy"
  },
+ "0x58b49e1be464fe1b0a9a042cbfba0899ab7da79cb0dfa6aaa4f3b31c8b0a0559": {
+  "created_at": "2026-11-06T22:34:20.217248Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon receive between 12% and 15% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "91e62f7634e9da6fbdf0ef28c7e147275d06ebba136dfd5478b7cd5dc2e5b455",
+  "slug": "france-first-round-vote-share-jean-luc-melenchon-12-15"
+ },
  "0x5b73cc0674633da39564d092cdb44636fdf835f7c4e8c63896c6a2c9824d6559": {
   "created_at": "2026-09-02T20:14:15.494021Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -627,6 +654,7 @@
   "created_at": "2026-10-10T11:30:28.943503Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Pierre Gasly achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -654,6 +682,7 @@
   "created_at": "2026-10-02T17:59:20.603675Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the US add between 0 and 25k jobs in October?",
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",

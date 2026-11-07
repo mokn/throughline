@@ -654,6 +654,7 @@
   "created_at": "2026-10-24T04:00:03.703986Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Elon Musk post 200-219 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1324,6 +1325,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-nikola-vucevic"
+ },
+ "0xe3ee78a3fef0aa4da8b7357c4e86bc6a2fcbafae530d97a31818045c76108a34": {
+  "created_at": "2026-11-07T12:31:15.188849Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Perez or Bottas?",
+  "revisions": 1,
+  "sha256": "85e190a27b9144aab42dd322b85ea41ef93f8110fa2b6ccdc67609a4939e7be6",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-perez-vs-bottas-2026-12-06"
  },
  "0xe409072fb9af773658eb8a29e74ecf59b5cfdeb8073ed8ade26754d2fee72534": {
   "created_at": "2026-08-18T18:59:35.1606Z",

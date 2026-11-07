@@ -234,6 +234,15 @@
   "sha256": "a3389b9d400ffdf59d2d3259586f6c194b9034d2a003bece505afc22b3cd15bb",
   "slug": "will-marseille-reach-the-2027-uefa-europa-league-semifinal"
  },
+ "0x20d2e3b5d7c62d9471bff110a2fac94188f3b41be841684bc12d8c2cebb16365": {
+  "created_at": "2026-11-06T22:33:05.907753Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Angie Craig be the next to hold Klobuchar's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "02531a96867f7b76f154c81b1fb413aca8298700f52d7909deda2f62a26fbe4f",
+  "slug": "will-angie-craig-be-next-to-hold-klobuchars-senate-seat-by-march-31"
+ },
  "0x23229d3cc4a652a7624756e9a64bf0a0025671011120e82075420687085e5965": {
   "created_at": "2026-08-07T15:58:43.946752Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1053,6 +1062,15 @@
   "sha256": "14d713a70f92be9bee6edeb755faeaa75318b0842038808cae819025624c9c6b",
   "slug": "will-victor-alonso-record-the-most-assists-in-the-2026-27-uefa-conference-league"
  },
+ "0x9cb3397fb18e25d029568b8f1229b6f7af1e281f6eb588bdaa6207caf29e9465": {
+  "created_at": "2026-11-06T16:45:34.38973Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Hy4 debut at a score of at least 1480 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "6f98c8c9f83cae560e52b760f04da81483f1e18073a5a4844ed2cad1612573c1",
+  "slug": "will-hy4-debut-at-a-score-of-at-least-1480-by-june-30-2027"
+ },
  "0x9d31ba84da7b472f68034c4313b074d65ef6b0b9c8d4fb8b41cc3fec49b2df65": {
   "created_at": "2026-08-25T21:36:34.11683Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1129,6 +1147,7 @@
   "created_at": "2026-10-02T20:15:36.736772Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Lulu be the most played champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",

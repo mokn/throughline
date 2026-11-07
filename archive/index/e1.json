@@ -686,6 +686,15 @@
   "sha256": "d88f29dc7293f42c8276721f2d9a5fc5677ee854b03b6b18f088c05dc0f50ccb",
   "slug": "will-marseille-finish-in-the-top-4-of-the-2026-27-ligue-1-season"
  },
+ "0x65cd88790a8cd31b62c031c5264399df307d2861ce84b5d40113688370393de1": {
+  "created_at": "2026-11-07T12:30:59.330329Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oscar Piastri achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-oscar-piastri-2026-12-04"
+ },
  "0x65ee5971f684a5cc0caa2376f1974e0f0df70b3055886be454cd49a6388c42e1": {
   "created_at": "2026-08-12T17:21:42.091318Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1336,6 +1345,15 @@
   "revisions": 1,
   "sha256": "eaf777950e049a2e80daac661f22587985e09b52d79dd38f53644ab7525d799c",
   "slug": "will-chicago-fire-fc-win-the-2026-mls-eastern-conference"
+ },
+ "0xdd5dd9b862e24ed94110915f2225839388ad44606e4e0025f423dc0d03bb9ee1": {
+  "created_at": "2026-11-07T00:04:57.748302Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Bennett 2026 support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-bennett-2026-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353278"
  },
  "0xdda779ef1ea857e6107a6b31618fe3f4e88a5b3bfa100e514d3474ba859038e1": {
   "created_at": "2026-10-25T04:01:27.669407Z",

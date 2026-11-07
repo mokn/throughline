@@ -760,6 +760,15 @@
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
   "slug": "will-boaster-play-for-natus-vincere-in-2027-1788882258365"
  },
+ "0x6359cabae7683ea361d08e67ef2ec931def3807c72be981132649c817dddb591": {
+  "created_at": "2026-11-07T12:30:18.524187Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oscar Piastri get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-piastri-2026-12-05"
+ },
  "0x63ef6953efe23f3ff24f3e97f1e71e3c3c80549abb655943dbccc6f70e705791": {
   "created_at": "2026-09-02T19:38:44.370189Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1243,6 +1252,7 @@
   "created_at": "2026-10-15T16:33:22.864074Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Cassiopeia be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -1337,6 +1347,15 @@
   "revisions": 1,
   "sha256": "c9c6a92dfad4e288881fae9ab32e06a24a517bb0d63cac6ddedde1c0f57aff78",
   "slug": "will-the-democratic-party-candidate-win-the-2026-oh-01-house-election-by-9-12"
+ },
+ "0xc728d2fed1b2c02b309a77ce25e2519664302f90255afea761c7e5360b64ac91": {
+  "created_at": "2026-11-07T12:30:05.865411Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Valtteri Bottas win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-bottas-2026-12-06"
  },
  "0xc78e324f04c7d170fdbcd65742e81db75c7c832ce95a57006b82764e6e4ff391": {
   "created_at": "2026-08-24T16:34:27.373124Z",

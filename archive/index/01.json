@@ -166,6 +166,7 @@
   "created_at": "2026-03-26T21:57:38.27484Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Ceddanne Rafaela win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",
@@ -442,6 +443,15 @@
   "revisions": 1,
   "sha256": "00bc70fc767bad607e7ffb0cff10132db9907634cc0569d7f4d999b07085df04",
   "slug": "will-the-democratic-party-win-the-mn-07-house-seat"
+ },
+ "0x58a20307b430228d145157d645d4f2a67842b68c7af4b201fe56db3a0e1e5501": {
+  "created_at": "2026-11-06T23:21:35.669873Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Riksdag approves Swedish Prime Minister by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "8c2322b52227757c931e7cf408c3944bb0db505342d494f068771f67bc667e8e",
+  "slug": "riksdag-approves-swedish-prime-minister-by-june-30-2027-20261106"
  },
  "0x5964877eb7ee1930b3b7e27ac61956197f8c2733fa6479fb0607ebc1407fee01": {
   "created_at": "2026-08-17T21:07:40.184893Z",
@@ -1276,6 +1286,15 @@
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
   "slug": "scop-ran-abe-2026-10-31-exact-score-5-1"
+ },
+ "0xe6ff6701811fa5a2c970c8f1a9e1ee09ce1ca7cc0364708da3bc86c899360801": {
+  "created_at": "2026-11-07T12:30:50.938471Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ryo Hirakawa achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-ryo-hirakawa-2026-12-04"
  },
  "0xe74da5c3ddeac160b5483bebe0fe367d099c185add6a9f5c4f66fe2133254201": {
   "created_at": "2026-10-13T19:55:54.388875Z",

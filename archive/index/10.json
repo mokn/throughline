@@ -469,6 +469,15 @@
   "sha256": "0ee72253b8ed7287bd7fa27f272fbfbfa523585c7d1162a4977a6fceeb20b002",
   "slug": "2027-soccer-saudi-professional-league-winner-al-faisaly"
  },
+ "0x52f06408c54d2a5b1cdb8b17ffe7b7483f7d4c2b7f5440d3e1469df414e1bc10": {
+  "created_at": "2026-11-06T22:37:20.782562Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon hit 20% in any poll before the first round of the French presidential election?",
+  "revisions": 1,
+  "sha256": "55a0a611409ba2e47bf5ec7cf2084db545ebf49ae2f0cb40ba39ba04689e2d1d",
+  "slug": "will-jean-luc-melenchon-hit-20-in-any-poll-before-the-first-round-of-the-french-presidential-election"
+ },
  "0x548a125bf3117f553ae9af514732b5c64623ba6b5295bb81d59191988de16410": {
   "created_at": "2026-10-15T13:16:52.946711Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -780,6 +789,7 @@
   "created_at": "2026-07-10T01:59:20.227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Connie Chan win the CA-11 House seat?",
   "revisions": 1,
   "sha256": "2632b3304e970dc8774b1be58a782082806a164f3d1fca0aa2ceb89058f4a8ff",
@@ -1284,6 +1294,7 @@
   "created_at": "2026-07-30T19:41:27.114511Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Washington passes ballot measure restricting transgender school sports access?",
   "revisions": 1,
   "sha256": "fe522560ca66b53613c5d1f08f28f440b0cade1dc4c5995b7fc6f3a8f08798e8",

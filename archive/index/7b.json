@@ -126,6 +126,15 @@
   "sha256": "65fc855a4487a1f5ae5ce77dd6212379c49ff4160d5331c102a81da212095bb0",
   "slug": "will-meta-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-january-2027"
  },
+ "0x1a3d039f5266fcca4b44fc5e483422dcd4f0c9d84d6d5447096fb913bf90777b": {
+  "created_at": "2026-11-07T12:30:06.88337Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Arvid Lindblad win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-lindblad-2026-12-06"
+ },
  "0x1b01955bbe85b21ac71570f515dc5abe100cc7f57e62a6bb9389bc897f9a607b": {
   "created_at": "2026-08-07T20:08:22.263531Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -261,6 +270,15 @@
   "sha256": "24db1dd753b13416e756e4d99e915440c49da84f292fbf43f01857562b6b0dbe",
   "slug": "will-kisvarda-fc-finish-3rd-in-nb-i-hungary-2026-27"
  },
+ "0x321fa2d79df3f5c92f79f0da96de1f84228b3d6df609f6fc704b8abf4a56687b": {
+  "created_at": "2026-11-07T03:56:35.323952Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Russia and Ukraine hold any diplomatic meeting by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "b6fa04f4afdf67235fcd738112d346e73fe9f076cdd1819859a97ca6c5e367c9",
+  "slug": "will-russia-and-ukraine-hold-any-diplomatic-meeting-by-december-31-2026-20261106"
+ },
  "0x327f2c89f9976b93a323283b653036f7f6ea37a99deabb5a0dc458930d34a97b": {
   "created_at": "2026-10-13T15:48:36.949366Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -359,6 +377,15 @@
   "revisions": 1,
   "sha256": "635fae0e11cf94661fd32ac0988ade85249f33dcca738863ed13a8df0788788f",
   "slug": "f1-las-vegas-grand-prix-driver-podium-perez-2026-11-21"
+ },
+ "0x4404e0e6d86e56bb7a7386f432bf909914b63f17ec820057665cd76e7a3efe7b": {
+  "created_at": "2026-11-07T00:04:56.382115Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Likud support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-likud-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353276"
  },
  "0x44c1ae6a8e57724edb9c2c8dc801d40d6eb99f21ee35095cf8b9f1980bdb487b": {
   "created_at": "2026-08-12T00:11:32.763685Z",
@@ -632,6 +659,15 @@
   "sha256": "2ba2f5b98f7327821c7d461b3568906801375ca6f53720be17520a51afcee566",
   "slug": "will-trump-pardon-himself-before-2027"
  },
+ "0x6d9757071033f308691f7e99a84c69716dd7a74aed4665dba76164f023f8197b": {
+  "created_at": "2026-11-07T00:18:30.9875Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who leaves the Trump administration first: Rubio or Hegseth?",
+  "revisions": 1,
+  "sha256": "353d1420323b3218b1b0ecbe7218feac9f8d4a53739c712b3c7d16b38367cd20",
+  "slug": "who-leaves-the-trump-administration-first-rubio-or-hegseth"
+ },
  "0x715163439a2f8d74cc1285a862e5de4ce1088462c1ba78bcf71384f0768e0a7b": {
   "created_at": "2026-09-18T00:05:23.148333Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -667,6 +703,15 @@
   "revisions": 1,
   "sha256": "1c8593f0df96e157aa7652dacc4de1c2c35595989707cbe8d1904327d19361d4",
   "slug": "will-toluca-win-the-2027-concacaf-champions-cup"
+ },
+ "0x7445390f1bdf258c06b0244a6d8675b4214a6553da6ec317224aa557b8cb2d7b": {
+  "created_at": "2026-11-07T12:30:16.116042Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Charles Leclerc get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-leclerc-2026-12-05"
  },
  "0x775b4ed03aa8aadcc90f12dbc751a66b212a00e703ccf4577f5ac17b0bab3a7b": {
   "created_at": "2026-09-30T20:03:12.361251Z",
@@ -838,6 +883,15 @@
   "revisions": 1,
   "sha256": "f7848d61a87a01ff70269ce11d301e6ab2a6d388bd77b004f10bf417fb7949d2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-az-07-house-election-by-45-50"
+ },
+ "0x93991fc5806a5369d5847cf03d0207f56602163b0ae5d1ed04a65b125cf3667b": {
+  "created_at": "2026-11-07T12:30:25.357763Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Tgr Haas get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-tgr-haas-2026-12-05"
  },
  "0x9451a6563a2fdad999d3971d5c93257763ed75e0f22fee0e235ae5547ed9fe7b": {
   "created_at": "2026-04-08T23:18:58.043187Z",

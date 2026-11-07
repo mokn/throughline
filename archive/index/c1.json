@@ -361,6 +361,15 @@
   "sha256": "6c269a648d75b26496fa6312e5678986a67774b47e6a801787373336bb7f5a3e",
   "slug": "will-steph-currys-next-team-be-chicago-bulls-20260731023145458"
  },
+ "0x490dc96e1699718a4d681527e30152ba5af2f34111b76a39020a3c5f250263c1": {
+  "created_at": "2026-11-07T12:30:16.790854Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-antonelli-2026-12-05"
+ },
  "0x49501ff0c2d65172a90e7225f57eb33044b33ed180877dbdf35e7a8b6daf0cc1": {
   "created_at": "2026-10-14T12:31:21.455964Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -651,6 +660,15 @@
   "sha256": "5b0ad4e08a7394a6e77bd76ebd652e90970f672cb8ebde86aedcd6837dc50723",
   "slug": "will-the-republican-party-candidate-win-the-2026-al-01-house-election-by-50-or-more"
  },
+ "0x7a421e6affc9345a5a1ab9d5ac5610a2b9952d2dbff9dcfd513d76fa2408bcc1": {
+  "created_at": "2026-11-07T12:30:15.906859Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-perez-2026-12-05"
+ },
  "0x7a7d21e533ef7ccd949f28bebffa6d9d47d12fc05f18d2067e305108bdb0b6c1": {
   "created_at": "2026-07-20T20:02:41.916798Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -706,6 +724,15 @@
   "sha256": "92e43cefd534204663a5dab28f5322471a8577e5e8a10a234439bf0fd028946e",
   "slug": "2027-soccer-laliga-runner-up-levante"
  },
+ "0x81ad186028734ea9abd89ee9b085d92bedb87a6463b4df85afb9b7062b7b8bc1": {
+  "created_at": "2026-11-07T12:30:29.412881Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-verstappen-2026-12-06"
+ },
  "0x823ec3696d3231996425f818d75d6d42b5e128ccba56fedbb82e07b87bbe7ac1": {
   "created_at": "2026-04-08T23:19:00.738724Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -755,6 +782,7 @@
   "created_at": "2026-10-25T04:00:42.095401Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Opendoor Technologies Inc. (OPEN) hit (LOW) $1.50 in November?",
   "revisions": 1,
   "sha256": "f80a43f2a6545b4a95994a7d3d27401de409b26ed7442a81f36d920bea34dbea",
@@ -953,6 +981,7 @@
   "created_at": "2026-05-22T18:33:45.030883Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Doug Collins be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",

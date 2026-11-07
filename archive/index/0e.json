@@ -405,6 +405,15 @@
   "sha256": "2caa381881bb1e927d2b8f2551a684241c96767bd098130c0d6e3388c4e828dc",
   "slug": "2027-soccer-a-league-soccer-winner-western-sydney-wanderers"
  },
+ "0x429f5187941a6d13c5fbf3a28b03b7705d5ba6a50dafdd651a1d3fc6aded790e": {
+  "created_at": "2026-11-07T12:30:05.261556Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-colapinto-2026-12-06"
+ },
  "0x434e262f4d649a6713d2c00d005dba23d64cc69fc1d062a9f5c9393cbdf9900e": {
   "created_at": "2026-11-03T17:41:39.387183Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -725,6 +734,7 @@
   "created_at": "2026-08-12T14:55:49.966232Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Illinois have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",

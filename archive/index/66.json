@@ -449,6 +449,15 @@
   "sha256": "c2be9a8a2222164287e16c909ce278fea573f6b5b9fd0b4d368a7e9498c94a40",
   "slug": "cdr-red-bar-2026-10-28-first-half-total-1pt5"
  },
+ "0x48b3597053c9ae1931911c498ee5ade64fc68dbcd4dbdf2b5b4e785f1f91ea66": {
+  "created_at": "2026-11-07T12:30:19.43636Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-lawson-2026-12-05"
+ },
  "0x49f141d1f36a20379f726f03930db05a83860157d0a56cf0ab7fd35608fa8a66": {
   "created_at": "2026-11-03T21:31:18.490767Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -721,6 +730,15 @@
   "revisions": 1,
   "sha256": "a114272873c1af1824f6d5f96d1b53cc4cdc3b6c5d74b90bb79754ffdab3e9bf",
   "slug": "will-peter-farrelly-be-nominated-for-best-director-at-the-99th-academy-awards-20261014120000002"
+ },
+ "0x7a70afb1b55d42fdfdcbdefba62765feb7c471202e45b3db5beb1d4cf9b52266": {
+  "created_at": "2026-11-06T22:31:41.241014Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Christine Lagarde win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-christine-lagarde-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0x7abed80b88301210ee83b7b14ec41bc9a5161e1af07254fbb26c6e2bf7182766": {
   "created_at": "2025-07-10T16:58:20.730741Z",
@@ -1134,6 +1152,7 @@
   "created_at": "2026-05-22T18:33:46.290884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will John Ratcliffe be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -1345,6 +1364,15 @@
   "revisions": 1,
   "sha256": "2b21faac0d38ed4664ead758cfd14d0338f3928080e369782c3eddb3a24e7d8d",
   "slug": "will-the-total-domestic-gross-for-you-can-see-everything-be-between-50m-and-75m-by-november-30"
+ },
+ "0xedaf659ce687879a501c6861167684f8b65772eb395067f9b5461529e895fd66": {
+  "created_at": "2026-11-07T12:31:12.160541Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ryo Hirakawa achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-ryo-hirakawa-2026-12-05"
  },
  "0xedfe323d5e0e3cc92da4f87b57c5d27b5925b3db535353726c61fbe0cb054866": {
   "created_at": "2026-10-12T20:53:09.264253Z",

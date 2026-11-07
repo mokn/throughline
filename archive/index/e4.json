@@ -576,6 +576,15 @@
   "sha256": "675857a592e91637acc04fbd558af401d50393e45023d163a6831f9b7920499a",
   "slug": "will-pvem-win-the-most-seats-in-the-2027-hidalgo-congress-election"
  },
+ "0x721f1afa51a1966c060751bebbe79b7082dc14c38162fe7e2f6acfd7a46a8ce4": {
+  "created_at": "2026-11-07T12:30:48.081524Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-lewis-hamilton-2026-12-04"
+ },
  "0x722b5e17da37f871937f483c694851ad9a6a1893bbec72f7d641d1e4db3006e4": {
   "created_at": "2026-08-05T18:49:26.03147Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1135,6 +1144,15 @@
   "revisions": 1,
   "sha256": "6b360b86258f7f49d4887b487fee9bc416236946f32ddbbe23d58408f114bacd",
   "slug": "will-nd-mura-finish-3rd-in-slovenian-prvaliga-2026-27"
+ },
+ "0xd1d37569d574de9c1ceae4cf0b4f4ec7dcc96dfe0b0bfc4c3e56fcda7831cde4": {
+  "created_at": "2026-11-06T22:58:39.707601Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jamieson Greer be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-jamieson-greer-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xd1d4964e05bc5a9109d7d68def7258dbc06828463904fe7764831f52ad7a24e4": {
   "created_at": "2026-09-20T09:46:52.843484Z",

@@ -162,6 +162,15 @@
   "sha256": "46665c8bf3453487236ef10475fd29bc3d56b238bbaa77363276c66b5bb22066",
   "slug": "tuyo-fdv-above-1pt5b-one-day-after-launch"
  },
+ "0x12172838c5fb3d75e48d74d7cf7f874099a1d98ca437ed60167c84ed81d7991e": {
+  "created_at": "2026-11-07T12:31:05.506868Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alexander Albon achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-alexander-albon-2026-12-05"
+ },
  "0x131c8b3250a1008f4039fd9aed1945b3f681fabbc81cb516fbc0cf2224ffc91e": {
   "created_at": "2026-07-15T00:39:54.775999Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -677,6 +686,15 @@
   "sha256": "76828c0738dbd288f4cf8879e16943dbcb7fe4794cb690ed6920a1caf38d8168",
   "slug": "will-liz-truluck-reach-the-final-of-the-2027-ppa-tour-finals"
  },
+ "0x57a1f5c2e6f714d504068359268a66709a13f85131f50c15c1c87a2a6e07a31e": {
+  "created_at": "2026-11-07T12:31:09.189694Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Valtteri Bottas achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-valtteri-bottas-2026-12-05"
+ },
  "0x58621c7828d7afa6235b94106842d54b024749f2aa6133b101cd07274cde7d1e": {
   "created_at": "2026-10-25T04:00:18.299476Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -956,6 +974,15 @@
   "sha256": "37f93c57f1db9efb572007be66be4fd145896b05120bcace8098be8070aebdcb",
   "slug": "will-the-republican-party-candidate-win-the-2026-wv-01-house-election-by-45-or-more"
  },
+ "0x73a395736feee39d31aeaec0e3b0c13bfa4606a8f141dc37a62be9416dbbd11e": {
+  "created_at": "2026-11-07T12:30:24.281601Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Aston Martin get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-aston-martin-2026-12-05"
+ },
  "0x73a681899c386d17b3780121b8eda2c88a7ef877649e18b57ccace2f6af2c51e": {
   "created_at": "2026-08-12T00:10:41.578989Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1045,6 +1072,15 @@
   "revisions": 1,
   "sha256": "f927678d69e354a727f0be79ced2356b56d2cb88482ba96dc16b5d6425611484",
   "slug": "will-the-bank-of-canada-decrease-the-target-for-the-overnight-rate-by-50-bps-at-the-march-2027-interest-rate-announcement"
+ },
+ "0x8474a2f47c03e1e76b95be25f3cf39e760d23b42c02a44959e53cea48d790e1e": {
+  "created_at": "2026-11-06T21:50:25.584101Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Republicans win the Presidency, and the Democrats the Senate and House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-r-president-d-senate-d-house"
  },
  "0x864e3456cd499df96fa4de71203bcea7fa7e65ccb794c1a3f1988f91ce95181e": {
   "created_at": "2026-08-11T19:09:57.484258Z",
@@ -1354,6 +1390,15 @@
   "revisions": 1,
   "sha256": "9257d173fce3ec1c6f014a795800d9e8a68317c05b5a0a3d0a848c355b03a089",
   "slug": "will-ivana-lucakova-nesetova-be-the-next-mayor-of-ostrava"
+ },
+ "0xb907f40d4eeb9584034260cd6e9180c8879ec16a84dff72b7eec0d27f6985e1e": {
+  "created_at": "2026-11-07T12:30:31.24734Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Arvid Lindblad achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-lindblad-2026-12-06"
  },
  "0xb97984f0cc6b1acb05f76362356939cab8e9222409f568f8033cca52f960611e": {
   "created_at": "2026-09-13T08:45:27.355791Z",
@@ -1735,6 +1780,15 @@
   "revisions": 1,
   "sha256": "655ad8b9c0d0d4db5068a33f216936cb1152c75866e7845eb2e2bdc08c08e06d",
   "slug": "will-bohemians-1905-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0xe789dd22e3242edc253ab0805f9cd42d2e730e69ee8decb56f91345d49785d1e": {
+  "created_at": "2026-11-06T22:31:38.23144Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fran\u00e7ois Hollande win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-francois-hollande-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0xed26fb125ad827dc34b4d643e352559eb93daf03b9a556851fa8f04c28d8541e": {
   "created_at": "2026-10-01T23:00:11.878239Z",

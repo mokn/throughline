@@ -378,6 +378,15 @@
   "sha256": "35bc95d63e4844ffa3e9a9da459623dff33e3680fbff097227b70aa8a6aab693",
   "slug": "will-over-62-senators-vote-for-the-clarity-act-20260729193533311"
  },
+ "0x30d19f5872b2609f0adb9fb266e0e3305fe1b29f5d6c613bb5bb3b0dc5319c89": {
+  "created_at": "2026-11-07T00:10:43.945373Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Israel Katz receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-israel-katz-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x321b2605429875904d5833aed933831b55c6bb94c13c5c988b6841eae068ea89": {
   "created_at": "2026-09-30T14:02:24.444992Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -652,6 +661,7 @@
   "created_at": "2026-10-02T20:15:26.09644Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Syndra be the most played champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
@@ -1224,6 +1234,15 @@
   "revisions": 1,
   "sha256": "78226cfc7b9459ab6a1d190709ad181fa7df981444b0807bff7469842c1b720d",
   "slug": "2027-soccer-denmark-superliga-runner-up-midtjylland"
+ },
+ "0xd1ac73a0696158e6f6bb259769e6a294d03c128cda2015000792fe9afcfa1689": {
+  "created_at": "2026-11-06T22:58:35.134033Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Howard Lutnick be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-howard-lutnick-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xd2c55cb1674b79bffd1f5bd84d6d590b0755b5fc02cde8c908e2ffe906771589": {
   "created_at": "2026-10-13T15:57:37.035078Z",

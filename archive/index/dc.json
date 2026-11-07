@@ -748,6 +748,15 @@
   "sha256": "53f2cccdd30dbf0bb4cea2f99e8b9fc7d6214c4e1a9821a8454c8f513dd6f1b8",
   "slug": "will-malaga-cf-be-promoted-to-laliga-2026-27"
  },
+ "0x8e2a2e69457486a9c1b844b430f7553e92b1143bd6be9fb4ea3c29a67e174cdc": {
+  "created_at": "2026-11-06T22:31:37.080047Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will David Lisnard win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-david-lisnard-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0x90b8be0a33786fd74dfd3a5e85c3273e608873d5c583c76d94406863e45304dc": {
   "created_at": "2026-08-10T15:49:51.621863Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1253,6 +1262,15 @@
   "revisions": 1,
   "sha256": "9ef1d91d103cc4a3bc91b165308c8e0b915c46fbc050218f3f5b42d38bda5553",
   "slug": "el1-bla-lei-2026-10-03-second-half-team-total-away-2pt5"
+ },
+ "0xfd7a5f8e257f3f901fa343a2fbea36f771504d089eb95436344f28dc8323a8dc": {
+  "created_at": "2026-11-07T12:31:25.412887Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-lawson-2026-12-06"
  },
  "0xff0d9d1dfed72405ed80fd6cd67131e98e57ac42887f1e61ea50fdb740a097dc": {
   "created_at": "2026-08-24T16:36:27.177024Z",
