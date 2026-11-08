@@ -1,55 +1,55 @@
 # Polymarket open-market statistics
 
-Computed by `watch.py` from a complete sweep of every open market on 2026-11-07T13:00:35Z. Regenerated daily. Source numbers in `archive/stats.json`.
+Computed by `watch.py` from a complete sweep of every open market on 2026-11-08T13:24:49Z. Regenerated daily. Source numbers in `archive/stats.json`.
 
 | | |
 |---|---|
-| Open markets | **230,593** |
-| Visible to plain pagination | 2,100 (0.9%) |
-| Created in the last 7 days | 108,437 |
-| Created in the last 30 days | 177,463 |
-| End date already passed but still open | 39,154 |
+| Open markets | **208,591** |
+| Visible to plain pagination | 2,100 (1.0%) |
+| Created in the last 7 days | 107,748 |
+| Created in the last 30 days | 155,873 |
+| End date already passed but still open | 41,963 |
 | Empty resolution text | 0 (0.0%) |
-| Empty `resolutionSource` | 75,827 (32.9%) |
-| Negative-risk (multi-outcome event) markets | 84,737 (36.7%) |
-| Markets with zero volume | 183,231 (79.5%) |
-| Total volume (USD, as reported) | 4,777,435,660 |
-| Archived (lifetime ≥ 30 days) | 42,146 (18.3%) |
+| Empty `resolutionSource` | 69,190 (33.2%) |
+| Negative-risk (multi-outcome event) markets | 76,928 (36.9%) |
+| Markets with zero volume | 163,395 (78.3%) |
+| Total volume (USD, as reported) | 4,782,135,388 |
+| Archived (lifetime ≥ 30 days) | 41,576 (19.9%) |
 | Archived markets whose rules changed since the archive began | 0 |
 
 ## Market lifetime (end date minus creation)
 
 | lifetime | markets |
 |---|---|
-| <1 day | 12,036 |
-| 1-7 days | 49,271 |
-| 7-30 days | 127,140 |
-| 30-365 days | 38,452 |
-| >1 year | 3,691 |
+| <1 day | 14,648 |
+| 1-7 days | 35,909 |
+| 7-30 days | 116,458 |
+| 30-365 days | 37,881 |
+| >1 year | 3,692 |
 | unknown | 3 |
 
 ## Resolution text length (characters)
 
 | p10 | median | p90 | max | total |
 |---|---|---|---|---|
-| 609 | 1,524 | 3,210 | 6,371 | 411,832,278 |
+| 691 | 1,573 | 3,214 | 6,371 | 394,156,430 |
 
 ## Volume distribution
 
 | bucket | markets |
 |---|---|
-| 0 | 183,231 |
-| <1k | 27,302 |
-| 1k-10k | 14,319 |
-| 10k-100k | 4,172 |
-| 100k-1M | 1,067 |
-| >1M | 502 |
+| 0 | 163,395 |
+| <1k | 25,359 |
+| 1k-10k | 14,132 |
+| 10k-100k | 4,141 |
+| 100k-1M | 1,060 |
+| >1M | 504 |
 
 ## Outcomes per market
 
 | outcomes | markets |
 |---|---|
-| 2 | 230,593 |
+| 2 | 208,591 |
 
 ## Open markets by end month
 
@@ -61,15 +61,15 @@ Computed by `watch.py` from a complete sweep of every open market on 2026-11-07T
 | 2026-02 | 4 |
 | 2026-03 | 67 |
 | 2026-04 | 170 |
-| 2026-05 | 496 |
+| 2026-05 | 489 |
 | 2026-06 | 136 |
-| 2026-07 | 608 |
-| 2026-08 | 7,467 |
-| 2026-09 | 8,823 |
-| 2026-10 | 5,223 |
-| 2026-11 | 173,592 |
-| 2026-12 | 6,390 |
-| 2027-01 | 10,496 |
+| 2026-07 | 603 |
+| 2026-08 | 7,456 |
+| 2026-09 | 8,812 |
+| 2026-10 | 5,137 |
+| 2026-11 | 151,985 |
+| 2026-12 | 6,326 |
+| 2027-01 | 10,284 |
 | 2027-02 | 1,657 |
 | 2027-03 | 1,449 |
 | 2027-04 | 2,865 |
@@ -81,7 +81,7 @@ Computed by `watch.py` from a complete sweep of every open market on 2026-11-07T
 | 2027-10 | 153 |
 | 2027-11 | 55 |
 | 2027-12 | 61 |
-| 2028-01 | 1,151 |
+| 2028-01 | 1,152 |
 | 2028-02 | 42 |
 | 2028-04 | 20 |
 | 2028-05 | 15 |
