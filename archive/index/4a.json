@@ -113,6 +113,7 @@
   "created_at": "2026-08-10T23:56:16.230445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tetairoa McMillan have 2.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "b9041420d86f9cdc468fe8d322da6519bc069a0ddfaf2b6cf6a798e38b2ec964",
@@ -353,6 +354,15 @@
   "revisions": 1,
   "sha256": "81592ea01694bce899639d1c79268a1d8d85f55783ed67e9fedd4223043716a9",
   "slug": "el2-wal-cra-2026-10-03-second-half-total-4pt5"
+ },
+ "0x3f1eec161a0b6185cfa74ece375a8dc54f110efade9d20aae37d2f30e34f1c4a": {
+  "created_at": "2026-11-09T16:15:09.520076Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Jensen Huang announced resignation or removal by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "46ac0532183094f7b5e11e1f129b792997307126c2215fa8ef40186f717aad2d",
+  "slug": "jensen-huang-announced-resignation-or-removal-by-march-31-2027"
  },
  "0x40162145752befad1a8fe1950fdcc5c672b432b35a9ad7d14512e8fe49cf234a": {
   "created_at": "2026-10-13T15:56:08.4192Z",

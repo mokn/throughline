@@ -130,6 +130,7 @@
   "created_at": "2026-09-23T18:06:41.462086Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will 1w Team qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1844,6 +1845,15 @@
   "revisions": 1,
   "sha256": "380927154ae40d727212336228c62e4aef6343bbb2d2c8e52b5da108d73aa9b3",
   "slug": "enl-scu-fgr-2026-10-03-team-total-away-2pt5"
+ },
+ "0xfd58c5082fd4463487e1d166d73e07f6f5906d95e6bd5a20831c6e6395282f04": {
+  "created_at": "2026-11-09T15:58:48.240001Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Kimi K3.1 Pro debut at a score of at least 1450 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "bbe7489c59af0ad13a661d71cbdf18ff5519bb9b91ec4afccced466be3473226",
+  "slug": "will-kimi-k3pt1-pro-debut-at-a-score-of-at-least-1450-by-june-30-2027"
  },
  "0xfe25d075f5d28f0231ad8b64c2bde470ede796e9bb8cd8ac6bf40fd0e2270904": {
   "created_at": "2026-08-07T20:12:06.843675Z",

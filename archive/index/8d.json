@@ -270,6 +270,15 @@
   "sha256": "be0b4a24b1554279bd6b42d548a10e6ea839a313520bcf96d3d1995efc2db85d",
   "slug": "f1-qatar-grand-prix-practice-3-fastest-lap-sergio-perez-2026-11-28"
  },
+ "0x32d89de79026c18c80e0b41f0a7b72509e3f3438157568ad4f5ec09a84ea038d": {
+  "created_at": "2026-11-08T20:13:18.156975Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Next US president 45+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-45-plus-years-old-at-inauguration"
+ },
  "0x348925e920a36eb03191920b90b8f5cfa39e0eb1749cc24ae1668acda5554d8d": {
   "created_at": "2026-10-31T14:14:11.176514Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -745,6 +754,7 @@
   "created_at": "2026-08-24T16:34:03.770127Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Chengdu Rongcheng be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -1279,6 +1289,7 @@
   "created_at": "2026-10-10T11:30:45.040755Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Carlos Sainz Jr. finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",

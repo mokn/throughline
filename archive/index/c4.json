@@ -609,6 +609,7 @@
   "created_at": "2026-08-28T20:17:38.711621Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Rome Odunze be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -922,6 +923,15 @@
   "sha256": "d51b8c00e4d21555da441c63d6eddcd5a90bacce87075e008ef64f90fc157d74",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mi-12-house-election-by-65-or-more"
  },
+ "0x9b786700f51dc9540f016267a69245616f53e93563de3fc5a1ac3a16f66310c4": {
+  "created_at": "2026-11-08T22:40:05.181249Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Jensen Huang divorce by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "4fc50789374b8ebd63acad7380f2bd5efef22eda3a6b0eecd1569ceb1a0730f2",
+  "slug": "jensen-huang-divorce-in-2026"
+ },
  "0x9c99c7bfb4416dd29afcbd40aa28c74c4f042495067ff4fa6ff3cb78640a38c4": {
   "created_at": "2026-08-05T11:06:53.490676Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1052,6 +1062,7 @@
   "created_at": "2026-10-10T11:30:16.534274Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Pierre Gasly achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -1161,6 +1172,7 @@
   "created_at": "2026-09-20T08:45:06.527131Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: Luton Town FC O/U 5.5 Corners",
   "revisions": 1,
   "sha256": "458c74ceb30a9754cd0e5ed9eea04d7549e8bd50dbd9fc984153e71d52e0f740",

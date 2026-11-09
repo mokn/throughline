@@ -49,6 +49,7 @@
   "created_at": "2026-09-20T08:45:06.382101Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: Luton Town FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "1e104762606d9156808303b83e1a2dbfaef9d213721be28a7800ce164fe5fe43",
@@ -709,6 +710,15 @@
   "sha256": "fcce71771dcfcc759db4b2c14d91bf84e4e18e1799ab60ba5c7dcf83a29353ea",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-08-house-election-by-15-20"
  },
+ "0x6b0d8ed1f588b7ea3f6e55d799bf818431751c1dc6f015c18e3c62174978f756": {
+  "created_at": "2026-11-09T16:15:31.112188Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Jensen Huang divorce by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "a041fa2fe53489c30f061862214207f8397364460ba98d18b290a3f066b3b3f7",
+  "slug": "jensen-huang-divorce-by-march-31-2027"
+ },
  "0x6c19fb724f2ea7cb3c00d79b396238bbe25ac228e394f5a7e1c7e116eac1ad56": {
   "created_at": "2026-05-19T05:15:59.427423Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -840,6 +850,7 @@
   "created_at": "2026-08-28T20:17:33.089957Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will CeeDee Lamb be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -960,6 +971,7 @@
   "created_at": "2026-08-28T20:17:39.006556Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Carnell Tate be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",

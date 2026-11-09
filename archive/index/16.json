@@ -627,6 +627,7 @@
   "created_at": "2026-10-10T11:30:08.041755Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tgr Haas have the highest constructor score at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13711fb14177e94e215272f2feab2b3492c7a6cc383bfd8b11e15f9eef985aa7",
@@ -695,6 +696,15 @@
   "revisions": 1,
   "sha256": "b82b1d43ab90d322396a4a71974a366954717a1e95124cc5fffbbd132c37805a",
   "slug": "will-fbc-melgar-be-relegated-from-peru-liga-1-2026"
+ },
+ "0x8fdd9e4b5a37203382cfc812adbb5d5af22fa56346fc7dbf635741d677599416": {
+  "created_at": "2026-10-27T02:14:21.734282Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Vin\u00edcius J\u00fanior win the 2027 Ballon d'Or?",
+  "revisions": 1,
+  "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
+  "slug": "will-vinicius-junior-win-the-2027-ballon-dor"
  },
  "0x9047ea4c60d446771fd0bee4174fec83ab555d05912bb2dc71dc65db97860416": {
   "created_at": "2026-10-25T04:01:06.937632Z",

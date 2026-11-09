@@ -492,6 +492,7 @@
   "created_at": "2026-10-10T11:30:41.417795Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Norris or Russell?",
   "revisions": 1,
   "sha256": "522438ac59d28c7691360a5ccfaf29271d5125a25141d52fc4a234a9a06903f9",
@@ -1207,6 +1208,7 @@
   "created_at": "2026-08-28T20:17:37.773423Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Luther Burden III be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1239,6 +1241,15 @@
   "revisions": 1,
   "sha256": "6e7b3eedba4b8dc6bd96d68f46bee5ea7a846bb2ea7fe37d2d83808cb947e003",
   "slug": "will-the-republican-party-win-the-ga-07-house-seat"
+ },
+ "0xc12f29cd00f3b0ebf61e813ce99d793e90ecf62de52fb353f6da6450c80a1559": {
+  "created_at": "2025-07-08T19:06:29.799316Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Cory Booker win the 2028 US Presidential Election?",
+  "revisions": 1,
+  "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
+  "slug": "will-cory-booker-win-the-2028-us-presidential-election"
  },
  "0xc26f05506cf2f1b3ba6cf60815ccb90f6ae5f361822ed889eabc3b09ba54a559": {
   "created_at": "2026-08-18T14:19:27.733531Z",

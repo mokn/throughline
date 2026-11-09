@@ -628,6 +628,7 @@
   "created_at": "2026-08-12T16:51:48.544701Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Marixa Quispe Izquierdo win the next Chiclayo mayoral elections?",
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
@@ -1048,6 +1049,15 @@
   "revisions": 1,
   "sha256": "c47d9a703de6056895e28593504780686c9842386bfcddbfa9d76faf6664f9f4",
   "slug": "gtm-mix-mun-2026-10-03-corners-total-10pt5"
+ },
+ "0xd451e535b963121e9c46da16c7f0a0faa698bcedbe9f3ad2976c93c324b41af7": {
+  "created_at": "2026-11-08T22:02:47.239559Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Israel x Lebanon diplomatic meeting by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "29469088b5a81636c259e8162261094e20b5f0b82f558b2e2bc0385d2d4fe18e",
+  "slug": "israel-x-lebanon-diplomatic-meeting-by-december-31-2026-20261022"
  },
  "0xd4f90ae2d79e895b0cfc25c40608360e50e6d6b9f4b6cf2fd73d53f5256badf7": {
   "created_at": "2026-09-30T20:03:40.5111Z",

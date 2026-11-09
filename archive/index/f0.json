@@ -399,6 +399,7 @@
   "created_at": "2026-08-24T16:33:52.64062Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Meizhou Hakka be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",
@@ -1048,6 +1049,15 @@
   "revisions": 1,
   "sha256": "5829154c2ef434e81c782c4d2e068018b00d481bf45f3814f43296ce85d9546e",
   "slug": "israeli-basketball-premier-league-2027-champion-maccabi-tel-aviv"
+ },
+ "0xa94a136f09e41e796d3b2a52d0788ed5891651cc1fec311af61e8595d9cd43f0": {
+  "created_at": "2026-10-16T18:05:40.062198Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Dana W. White be the next White House Press Secretary?",
+  "revisions": 1,
+  "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
+  "slug": "will-dana-w-white-be-the-next-white-house-press-secretary-2027"
  },
  "0xaaaacb18e26b18332329fae25d2283dc0973e80c8f0aa7985d9c209977006ff0": {
   "created_at": "2026-10-13T23:25:00.960797Z",

@@ -126,6 +126,15 @@
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
   "slug": "cdr-por-iru-2026-10-28-exact-score-1-1"
  },
+ "0x245c7b58c9ccebc14d2d3c0b2b118f054cc59dacc1cedb8119ecb1206fc8ee35": {
+  "created_at": "2026-11-08T19:52:50.704797Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Natacha Polony be on the ballot for the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
+  "slug": "will-natacha-polony-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
  "0x25122ee792bd555d093f02c875977151ce6b04db1ae650defc9f92d21f853435": {
   "created_at": "2026-08-26T21:46:50.851742Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -412,6 +421,7 @@
   "created_at": "2026-10-10T11:30:04.610547Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will George Russell win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -522,6 +532,7 @@
   "created_at": "2026-08-12T16:51:34.231137Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jes\u00fas Armando Contreras Lazo win the next Huancayo mayoral elections?",
   "revisions": 1,
   "sha256": "e91be4dc7f6da21e2f3b8e02b0a54b9d2d57136e1579e8b08bc7aef33e102c24",
@@ -676,6 +687,7 @@
   "created_at": "2026-08-24T16:38:38.818236Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Coquimbo finish 3rd in the 2026 Chile Primera?",
   "revisions": 1,
   "sha256": "69effe3c8f0d8fc16486ffec413b846ee25c203b7bcec9feb8161f11ce3751d2",
@@ -1012,6 +1024,7 @@
   "created_at": "2026-08-26T21:46:40.947147Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Stab\u00e6k finish 3rd in the 2026 OBOS-ligaen (Norway)?",
   "revisions": 1,
   "sha256": "78ffa7d1ba6ab6a507a2c470b052961dbe097307c29e247b0fc6a5b9f7f2813c",

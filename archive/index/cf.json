@@ -12,6 +12,7 @@
   "created_at": "2026-08-12T16:51:50.504064Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jos\u00e9 Luis Morey Requejo win the next Piura mayoral elections?",
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
@@ -1059,6 +1060,7 @@
   "created_at": "2026-10-10T11:30:02.882582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Charles Leclerc win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1181,6 +1183,15 @@
   "sha256": "916e831eda1a0215716cdf39e83013421467f4388dc75b8c1b6d104813138feb",
   "slug": "will-james-harden-be-named-to-any-2027-all-nba-team"
  },
+ "0xc6f2318457cf17b45e0f6f7f633836bfc8025cf420b25ceca560037b378860cf": {
+  "created_at": "2026-11-09T15:48:15.714271Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Grok 5 be released by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "1379d46da97dd1ab95bce751d685eb5ba3b678df2f174b9b3e1727b9e61fbce4",
+  "slug": "will-grok-5-be-released-by-march-31-2027"
+ },
  "0xc907bc82f6ed5cb2eff6f0ab0b4d6c237068f4cfbd36d2b2676017f5fac382cf": {
   "created_at": "2026-09-09T15:47:56.697787Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1275,6 +1286,7 @@
   "created_at": "2026-08-26T21:46:08.820043Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will IF Gnistan be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -1518,6 +1530,7 @@
   "created_at": "2026-10-10T11:30:19.908236Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Yuki Tsunoda achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",

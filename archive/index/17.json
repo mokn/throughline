@@ -272,6 +272,15 @@
   "sha256": "7ba5045f6ca8042a58c0eff2e2bc060d49830057f794c269c74d07223b31ca90",
   "slug": "will-the-democrats-win-the-texas-senate-race-in-2026"
  },
+ "0x34eb3d7b7787555928f19d5ee057c9a8bb53668a9b86fcaec0103359f827ab17": {
+  "created_at": "2026-11-08T20:13:18.175543Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Next US president 40+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-40-plus-years-old-at-inauguration"
+ },
  "0x35b7825e43cbb5484a96fffe7e08955c470063564c5aa490eaef569d8c1d7f17": {
   "created_at": "2026-10-14T13:20:08.178501Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -801,6 +810,7 @@
   "created_at": "2026-10-10T11:30:22.396429Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Cadillac achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",

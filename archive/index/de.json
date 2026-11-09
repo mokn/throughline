@@ -1222,6 +1222,15 @@
   "sha256": "c698df99ff3ce749dfa78627abc19fbde2ef3934b02bbdd88e5a46edab9010ec",
   "slug": "will-psoe-win-the-most-seats-in-madrid-in-the-2026-spanish-general-election"
  },
+ "0xa411a2526eef15aed71b8929c1779298fa74b1b60d32660fff7639792033a8de": {
+  "created_at": "2026-11-09T16:07:17.210502Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "New US State admitted during Trump's term?",
+  "revisions": 1,
+  "sha256": "20569b412baf70f02861b55868c9a017784df69fc68afc9ee3dc853863cc1914",
+  "slug": "new-us-state-admitted-during-trumps-term"
+ },
  "0xa5c370a8f5e457e89e50d3d9fe824d5349321871382a306255550cfe150cccde": {
   "created_at": "2026-07-24T01:57:27.485476Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1371,6 +1380,7 @@
   "created_at": "2026-08-24T16:33:55.590884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Yanbian Longding be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",

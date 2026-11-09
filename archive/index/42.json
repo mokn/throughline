@@ -103,6 +103,7 @@
   "created_at": "2026-08-12T17:19:34.016186Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Huachipato be runner-up in the 2026 Chile Primera?",
   "revisions": 1,
   "sha256": "342398f33b39ebc4adebac1e5392a2d5dad9695801beb1e92cc890aad5703d56",
@@ -1181,10 +1182,20 @@
   "created_at": "2026-08-24T16:34:07.830965Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tianjin Jinmen Tiger be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
   "slug": "will-tianjin-jinmen-tiger-be-relegated-from-chinese-super-league-2026"
+ },
+ "0xd5e34ba5a21008bf44b58f9de2f5a5ae151ebada9f2e5725f71c1fb9123a5242": {
+  "created_at": "2025-07-08T19:06:28.413789Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Abdul El-Sayed win the 2028 US Presidential Election?",
+  "revisions": 1,
+  "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
+  "slug": "will-abdul-el-sayed-win-the-2028-us-presidential-election"
  },
  "0xd635de41969d76e6c3c5592adb0a6dc08fae5ae9cba32e06d60e7eb50901b242": {
   "created_at": "2026-09-02T20:14:24.545236Z",

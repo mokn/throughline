@@ -93,6 +93,7 @@
   "created_at": "2026-08-28T20:17:34.627338Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Chris Olave be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -712,6 +713,7 @@
   "created_at": "2026-08-12T00:14:57.755942Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will HJK Helsinki win the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "8141198b014409c994a9c8c461ed5628368fdf2098f4db51b0b65eea8e34fbc1",
@@ -1122,6 +1124,7 @@
   "created_at": "2026-08-26T21:46:08.484368Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ilves be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -1351,6 +1354,15 @@
   "revisions": 1,
   "sha256": "1e14e5a98c4b07ff77afb753044a96d7adcf413da05e592429a2d42b96194283",
   "slug": "will-cucuta-deportivo-be-relegated-from-colombia-primera-a-2026"
+ },
+ "0xe0881460dcd53df2f8410ff9ec4c151f22c15ad29ff581d8eb8ac9bce5124eef": {
+  "created_at": "2026-11-08T21:17:32.290833Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Jensen Huang announced resignation or removal by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "d9a72794b1bf59c49d9a0edcab078e5143f03a5d6c89df798fd828f094783fa1",
+  "slug": "jensen-huang-announced-resignation-or-removal-by-december-31"
  },
  "0xe4371aa7611c1a75ced6f7faafae30f49744d229945976ab9b1641f27107a8ef": {
   "created_at": "2026-09-09T15:52:47.025977Z",

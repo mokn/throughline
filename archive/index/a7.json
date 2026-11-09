@@ -561,6 +561,15 @@
   "sha256": "3f492dceee20b6604cf55c52e1d2fc4894006bcc33758624af50877d51748afe",
   "slug": "el1-ste-swe-2026-09-26-corners-first-half-total-5pt5"
  },
+ "0x6de8e2164b364eb87838b2289db8622fab81b5ce5931bb325e1b3a679314f1a7": {
+  "created_at": "2026-11-09T16:00:23.655763Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "US announces end of Iranian blockade by December 15, 2026?",
+  "revisions": 1,
+  "sha256": "7d7c42531b50a724873165a967969f21eea65e5613ed4333ad1258f60078c04e",
+  "slug": "us-announces-end-of-iranian-blockade-by-december-15-2026"
+ },
  "0x72f66472f7b9aa27bc835bb3693d1cc80b7c9ede50b8eeec0cb0a407c56a6ca7": {
   "created_at": "2026-08-04T18:04:00.614408Z",
   "first_seen": "2026-11-04T01:55:27Z",

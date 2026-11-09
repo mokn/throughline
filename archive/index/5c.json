@@ -148,6 +148,15 @@
   "sha256": "547fc1530d01b00561478fa09e93eb7676aa64b241bccf6fd241a45e8af221b0",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ne-02-house-election-by-5-10"
  },
+ "0x23eab07c0789be114109d52c8fec608a8653ffd4adcd2fd00fed89d70335cf5c": {
+  "created_at": "2026-11-08T19:52:50.93596Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Christine Lagarde be on the ballot for the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
+  "slug": "will-christine-lagarde-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
  "0x24a2f4194f009d82637b36e77e5ff1bcae5099d202b6c4e93fa48ff5e8f8255c": {
   "created_at": "2025-12-15T23:17:17.096179Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -244,6 +253,7 @@
   "created_at": "2026-09-13T08:44:41.983631Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Milton Keynes Dons FC vs. Bromley FC: Bromley FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "0a9ed75f712a1666b6a6aaea3335f79f59d5b89134923280342c9f23a90ca44f",
@@ -871,6 +881,15 @@
   "sha256": "115199cd0892bf7d629a8ab73f03d58f5e8f8b2b408f154f8676cd4788e70421",
   "slug": "will-vfb-stuttgart-finish-in-the-top-4-of-the-2026-27-bundesliga-season"
  },
+ "0x9d99aee560bc009687eda1b67e40dd275a42e1cb782af0fb0db6c8912008615c": {
+  "created_at": "2025-07-08T19:06:29.129679Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Marjorie Taylor Greene win the 2028 US Presidential Election?",
+  "revisions": 1,
+  "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
+  "slug": "will-marjorie-taylor-greene-win-the-2028-us-presidential-election"
+ },
  "0x9ddb31e5c873e6061704a0ca6510475f5cbc2b82febd1175cdc505da9277495c": {
   "created_at": "2026-09-08T16:59:19.975855Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -929,6 +948,7 @@
   "created_at": "2026-09-23T18:06:46.633482Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will 9z Team qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1128,6 +1148,7 @@
   "created_at": "2026-10-10T11:30:21.986084Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Aston Martin achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",

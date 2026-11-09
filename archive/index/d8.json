@@ -503,6 +503,15 @@
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-14-house-election-by-12-or-more"
  },
+ "0x605dcc70f122724a39fbe232e5b0a81f87f53500271ea6cc669b7e96f478fad8": {
+  "created_at": "2026-11-08T19:52:51.175139Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Jean Lassalle be on the ballot for the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
+  "slug": "will-jean-lassalle-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
  "0x61d3c37e7a84484964cb438c7c98ec4ba9fad4718dbee45e7a6189cbc1153ad8": {
   "created_at": "2026-08-28T20:17:09.666305Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -690,6 +699,7 @@
   "created_at": "2026-10-10T11:30:22.116781Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Williams achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",
@@ -1217,6 +1227,7 @@
   "created_at": "2026-10-14T02:20:06.783053Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will T1 win a fourth straight Worlds title?",
   "revisions": 1,
   "sha256": "76aa056ccaba386870bf995ba281505c0fc6e8654055d3788a21144bfd3ccd15",

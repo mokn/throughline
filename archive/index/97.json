@@ -172,6 +172,15 @@
   "sha256": "4088da5fc80aa6ba9cb5fade14bbbc1ce1a5062604ee6d044c7b8dd282972a78",
   "slug": "will-inter-milan-qualify-for-the-2027-28-uefa-champions-league"
  },
+ "0x226551f44f99c78636d5d6eb7ea8193bb2adba3459e950f2511fe71df47daf97": {
+  "created_at": "2026-11-09T15:58:49.338782Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Kimi K3.1 Pro debut at a score of at least 1460 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "bbe7489c59af0ad13a661d71cbdf18ff5519bb9b91ec4afccced466be3473226",
+  "slug": "will-kimi-k3pt1-pro-debut-at-a-score-of-at-least-1460-by-june-30-2027"
+ },
  "0x26f9956492fe504d06e193c0183dd18288fa98d964d85f39876cea2129e87997": {
   "created_at": "2026-07-29T19:31:54.124475Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -439,6 +448,7 @@
   "created_at": "2026-09-23T18:06:36.011001Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will BetBoom Team qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -511,6 +521,7 @@
   "created_at": "2026-08-24T16:34:04.840134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Dalian Yingbo be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -718,6 +729,7 @@
   "created_at": "2026-09-23T18:06:47.716413Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will NRG qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1207,6 +1219,7 @@
   "created_at": "2026-08-24T16:34:06.355363Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Henan be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
