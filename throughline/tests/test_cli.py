@@ -51,6 +51,8 @@ class Api:
         self.huge = False
         self.bad_link = False
         self.latest_calls = 0
+        self.force_code = None  # a fixed user code for the next pairing
+        self.drip = False       # answer with one byte at a time, forever
         self.server = ThreadingHTTPServer(("127.0.0.1", 0), self._handler())
         self.server.daemon_threads = True
         self.base = "http://127.0.0.1:%d" % self.server.server_address[1]
@@ -118,6 +120,20 @@ class Api:
                     self.send_header("Content-Length", "0")
                     self.end_headers()
                     return
+                if api.drip:
+                    self.send_response(200)
+                    self.send_header("Content-Type", "application/json")
+                    self.send_header("Content-Length", "100000")
+                    self.end_headers()
+                    try:
+                        while api.drip:
+                            self.wfile.write(b" ")
+                            self.wfile.flush()
+                            time.sleep(0.05)
+                    except OSError:
+                        pass
+                    self.close_connection = True
+                    return
                 if api.huge:
                     return self.reply(200, b'{"plan":"' + b"x" * (2 << 20) + b'"}')
                 bearer = headers.get("authorization", "")[7:]
@@ -132,8 +148,8 @@ class Api:
                     assert re.fullmatch(r"[0-9a-f]{64}", body["feed_key_hash"])
                     assert (body["management_token_hash"] is None) == (body["scopes"] == ["news:read"])
                     assert body["management_token_hash"] != body["feed_key_hash"]
-                    code = "".join(secrets.choice("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567") for _ in range(8))
-                    code = code[:4] + "-" + code[4:]
+                    code = "".join(secrets.choice("ABCDEFGHJKLMNPQRSTUVWXYZ23456789") for _ in range(8))
+                    code = api.force_code or code[:4] + "-" + code[4:]
                     device = secrets.token_urlsafe(32)
                     pairing = dict(body, id=secrets.token_hex(16), device_hash=sha(device),
                                    state="pending", granted=None)
@@ -312,7 +328,7 @@ class Login(Case):
     def test_full_flow_sends_only_hashes_until_a_human_approves(self):
         code, out = self.cli("login", "--name", "bot one")
         self.assertEqual((code, out["status"]), (2, "pending"))
-        self.assertRegex(out["user_code"], r"^[A-Z2-7]{4}-[A-Z2-7]{4}$")
+        self.assertRegex(out["user_code"], r"^[A-HJ-NP-Z2-9]{4}-[A-HJ-NP-Z2-9]{4}$")
         self.assertEqual(out["verification_uri"], self.api.base + "/account")
         self.assertEqual(out["verification_uri_complete"],
                          self.api.base + "/account#pair=" + out["user_code"])
@@ -535,6 +551,38 @@ class Login(Case):
                 self.assertNotIn(sha(secret), self.api.keys)
                 self.assertEqual(self.cli("status")[1]["error"], "no_credential")
 
+    def test_user_code_uses_the_server_alphabet(self):
+        self.api.force_code = "8899-ZZ22"
+        done = self.login()
+        self.assertEqual(done["status"], "delivered")
+        for bad in ("ABCI-2222", "ABCO-2222", "ABC0-2222", "ABC1-2222", "abcd-2222", "ABCD2222"):
+            self.api.force_code = bad
+            code, out = self.cli("login", "--replace")
+            self.assertEqual((code, out["error"]), (4, "invalid_response"), bad)
+            self.assertFalse((self.dir / ".throughline/pending.json").exists())
+
+    def test_edited_pending_state_never_shows_a_different_consent_link(self):
+        pending = self.login(approve=False)
+        path = self.dir / ".throughline/pending.json"
+        good = json.loads(path.read_text())
+        for field, value in (("verification_uri_complete", "https://evil.example/account#pair=" + good["user_code"]),
+                             ("verification_uri", "https://evil.example/account"),
+                             ("verification_uri_complete", good["verification_uri"] + "#pair=AAAA-BBBB"),
+                             ("user_code", "AAAA-BBBB"), ("device_code", "short"),
+                             ("scopes", ["news:read", "news:read"]), ("name", "bad\u001bname")):
+            path.write_text(json.dumps(dict(good, **{field: value})))
+            before = len(self.api.requests)
+            for command in (("login",), ("login", "--wait", "--max-wait", "0")):
+                code, out = self.cli(*command)
+                self.assertEqual((code, out["status"]), (4, "delivery_unknown"), field)
+                self.assertNotIn("evil.example", json.dumps(out))
+                self.assertNotIn("verification_uri", out)
+            self.assertEqual(len(self.api.requests), before)
+        path.write_text(json.dumps(good))
+        self.api.approve(pending["user_code"])
+        time.sleep(self.api.interval)
+        self.assertEqual(self.cli("login")[1]["status"], "delivered")
+
     def test_server_link_off_the_pinned_origin_is_never_shown_or_saved(self):
         self.api.bad_link = True
         code, out = self.cli("login")
@@ -731,6 +779,20 @@ class Limits(Case):
         self.assertEqual((code, out["error"]), (4, "network_error"))
         self.assertLess(time.monotonic() - started, 2.5)
 
+    def test_trickling_reply_cannot_outlast_the_whole_request_deadline(self):
+        self.login()
+        self.api.drip = True  # every socket read succeeds; only a wall clock stops this
+        self.addCleanup(setattr, self.api, "drip", False)
+        started = time.monotonic()
+        code, out = self.cli("status", "--timeout", "1")
+        self.assertEqual((code, out["error"]), (4, "network_error"))
+        self.assertLess(time.monotonic() - started, 3)
+        pending_started = time.monotonic()
+        code, out = self.cli("login", "--replace", "--timeout", "1")
+        self.assertEqual((code, out["error"]), (4, "network_error"))
+        self.assertLess(time.monotonic() - pending_started, 3)
+        self.assertFalse((self.dir / ".throughline/pending.json").exists())
+
     def test_redirects_are_refused_and_no_credential_is_forwarded(self):
         self.login("--scopes", ALL)
         other = Api()
@@ -830,12 +892,38 @@ class Files(Case):
 
     def test_unignored_files_are_refused_and_gitignore_is_never_edited(self):
         (self.dir / ".gitignore").write_text("*.log\n")
-        out = self.refused("not_ignored", paths=[".env", ".throughline/credentials.json"])
+        out = self.refused("not_ignored", paths=[".env", ".throughline/credentials.json",
+                                                 ".throughline/pending.json", ".throughline/cursor.json"])
         self.assertEqual(out["gitignore_lines"], [".env", ".throughline/"])
         self.assertEqual((self.dir / ".gitignore").read_text(), "*.log\n")
         self.assertFalse((self.dir / ".throughline").exists())
         self.refused("not_ignored", "login", "--no-git")  # the flag is not a bypass inside a repo
         self.refused("not_ignored", "start-from-now")
+
+    def test_tracked_state_files_are_refused_by_every_command(self):
+        self.login("--scopes", ALL)
+        self.assertEqual(self.cli("start-from-now")[0], 0)
+        for name, commands in (("credentials.json", (("account",), ("keys", "list"), ("billing", "status"),
+                                                      ("status",), ("login", "--replace"))),
+                               ("cursor.json", (("start-from-now",), ("status",)))):
+            self.git("add", "-f", ".throughline/" + name)
+            for command in commands:
+                self.refused("tracked_file", *command, paths=[".throughline/" + name])
+            self.git("rm", "-q", "--cached", ".throughline/" + name)
+        pending = self.login("--replace", approve=False)
+        self.git("add", "-f", ".throughline/pending.json")
+        self.api.approve(pending["user_code"])
+        for command in (("login",), ("login", "--wait"), ("cancel",)):
+            self.refused("tracked_file", *command, paths=[".throughline/pending.json"])
+        self.git("rm", "-q", "--cached", ".throughline/pending.json")
+        time.sleep(self.api.interval)
+        self.assertEqual(self.cli("login")[1]["status"], "delivered")
+
+    def test_readers_refuse_an_unignored_env_file(self):
+        self.login()
+        (self.dir / ".gitignore").write_text(".throughline/\n")
+        self.refused("not_ignored", "status", paths=[".env"])
+        self.refused("not_ignored", "cancel", paths=[".env"])
 
     def test_duplicate_variable_is_refused(self):
         env = self.dir / ".env"
@@ -914,7 +1002,10 @@ class NoGit(Case):
         code, out = self.cli("login", "--wait", "--no-git", **env)
         self.assertEqual((code, out["status"]), (0, "delivered"))
         self.assertEqual(self.mode(".env"), 0o600)
-        self.assertEqual(self.cli("status", **env)[0], 0)
+        # Reading the private key file needs the same acknowledgement as writing it.
+        code, out = self.cli("status", **env)
+        self.assertEqual((code, out["error"]), (4, "git_required"))
+        self.assertEqual(self.cli("status", "--no-git", **env)[0], 0)
 
 
 if __name__ == "__main__":

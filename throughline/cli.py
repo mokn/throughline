@@ -59,7 +59,9 @@ FEED_KEY = re.compile(r"tl_live_[A-Za-z0-9_-]{43}\Z")
 AGENT_TOKEN = re.compile(r"tl_agent_[A-Za-z0-9_-]{43}\Z")
 _SECRET = re.compile(r"tl_(?:live|agent)_[A-Za-z0-9_-]{8,}")
 _IDENT = re.compile(r"[0-9a-f]{32}\Z")
-_USER_CODE = re.compile(r"[A-Z2-7]{4}-[A-Z2-7]{4}\Z")
+# The server alphabet: 32 symbols, no I, O, 0 or 1.
+_USER_CODE = re.compile(r"[A-HJ-NP-Z2-9]{4}-[A-HJ-NP-Z2-9]{4}\Z")
+_DEVICE_CODE = re.compile(r"[A-Za-z0-9_-]{32,128}\Z")
 _CODE = re.compile(r"[a-z0-9_]{1,64}\Z")
 _ENV_LINE = re.compile(rb"[ \t]*(?:export[ \t]+)?THROUGHLINE_API_KEY[ \t]*=(.*)\Z", re.S)
 
@@ -67,6 +69,7 @@ MAX_RESPONSE = 1 << 20
 MAX_FILE = 1 << 20
 MIN_INTERVAL = 5.0
 STATE_DIR = ".throughline"
+PRIVATE_FILES = ("credentials.json", "pending.json", "cursor.json")
 ENV_FILE = ".env"
 FALLBACK = ("Sign in at https://api.throughline.markets/account, create a key and save "
             "its .env line to a private, git-ignored .env file. Do not paste it into chat.")
@@ -227,9 +230,15 @@ class Project:
                                           STATE_DIR + "/" if p.startswith(STATE_DIR + os.sep) else p
                                           for p in missing}))
 
-    def guard_state(self) -> None:
+    def guard_state(self, *, writing: bool = True) -> None:
+        """Every private artifact must be untracked and ignored before it is
+        read or written. Readers check the ones that exist; writers check all."""
         self.open_state(create=False, lock=False)  # name an unsafe directory before git does
-        self.guard(self.env, os.path.join(self.state, "credentials.json"))
+        paths = [self.env] + [os.path.join(self.state, name) for name in PRIVATE_FILES]
+        if not writing:
+            paths = [path for path in paths if os.path.lexists(path)]
+        if paths:
+            self.guard(*paths)
 
     # state directory and lock ----------------------------------------------
 
@@ -411,6 +420,37 @@ class Project:
 _OPENER = urllib.request.build_opener(_NoRedirect())
 
 
+class _DeadlineExceeded(OSError):
+    pass
+
+
+class _wall_clock:
+    """A hard whole-request deadline from the POSIX interval timer.
+
+    The CLI is a single-threaded process, so the alarm interrupts whatever
+    system call is blocking. Outside the main thread it is not available and
+    the per-socket timeout and the read-loop check remain the only bounds."""
+
+    def __init__(self, seconds: float) -> None:
+        self.seconds = seconds
+        self.armed = False
+
+    def __enter__(self) -> None:
+        def expire(signum: int, frame: Any) -> NoReturn:
+            raise _DeadlineExceeded()
+        try:
+            self.previous = signal.signal(signal.SIGALRM, expire)
+        except ValueError:  # not the main thread
+            return
+        self.armed = True
+        signal.setitimer(signal.ITIMER_REAL, self.seconds)
+
+    def __exit__(self, *exc: Any) -> None:
+        if self.armed:
+            signal.setitimer(signal.ITIMER_REAL, 0)
+            signal.signal(signal.SIGALRM, self.previous)
+
+
 def _http(base: str, method: str, path: str, *, token: str | None = None,
           body: dict[str, Any] | None = None, timeout: float) -> tuple[int, dict[str, Any], Any]:
     """One request, no retry, no redirect, bounded time and memory."""
@@ -427,7 +467,7 @@ def _http(base: str, method: str, path: str, *, token: str | None = None,
     def drain(response: Any) -> bytes:
         raw = b""
         while True:
-            chunk = response.read(65536)
+            chunk = response.read1(65536)  # returns what has arrived; never waits to fill
             if not chunk:
                 return raw
             raw += chunk
@@ -437,14 +477,17 @@ def _http(base: str, method: str, path: str, *, token: str | None = None,
                 _fail("network_error")
 
     try:
-        try:
-            with _OPENER.open(request, timeout=timeout) as response:
-                status, headers_in, raw = response.status, response.headers, drain(response)
-        except urllib.error.HTTPError as exc:
+        # The socket timeout bounds each wait; the timer bounds the whole request,
+        # including name resolution and a reply that trickles one byte at a time.
+        with _wall_clock(timeout):
             try:
-                status, headers_in, raw = exc.code, exc.headers, drain(exc)
-            finally:
-                exc.close()
+                with _OPENER.open(request, timeout=timeout) as response:
+                    status, headers_in, raw = response.status, response.headers, drain(response)
+            except urllib.error.HTTPError as exc:
+                try:
+                    status, headers_in, raw = exc.code, exc.headers, drain(exc)
+                finally:
+                    exc.close()
     except (urllib.error.URLError, HTTPException, OSError):
         # No exception text: it can contain the URL or proxy details.
         _fail("network_error")
@@ -527,8 +570,15 @@ def _load_pending(project: Project, base: str) -> dict[str, Any] | None:
                 ("pairing_id", "name", "feed_key", "device_code", "user_code",
                  "verification_uri", "verification_uri_complete", "base_url"))
         and _IDENT.fullmatch(pending["pairing_id"]) and FEED_KEY.fullmatch(pending["feed_key"])
+        and _DEVICE_CODE.fullmatch(pending["device_code"]) and _USER_CODE.fullmatch(pending["user_code"])
+        # A consent link is shown again only if it is still the pinned one.
+        and pending["verification_uri"] == pending["base_url"] + "/account"
+        and pending["verification_uri_complete"]
+        == pending["verification_uri"] + "#pair=" + pending["user_code"]
+        and 1 <= len(pending["name"]) <= 64 and all(32 <= ord(ch) < 127 for ch in pending["name"])
         and (management is None or isinstance(management, str) and AGENT_TOKEN.fullmatch(management))
-        and isinstance(scopes, list) and scopes and set(scopes) <= set(SCOPES)
+        and isinstance(scopes, list) and scopes and all(isinstance(x, str) for x in scopes)
+        and set(scopes) <= set(SCOPES) and len(set(scopes)) == len(scopes) and "news:read" in scopes
         and all(type(pending.get(k)) in (int, float) for k in ("interval", "expires_at", "next_poll_at"))
         and type(pending.get("replace")) is bool
     )
@@ -568,7 +618,7 @@ def _start(project: Project, base: str, args: argparse.Namespace) -> dict[str, A
     interval, expires = payload.get("interval"), payload.get("expires_in")
     account = base + "/account"
     if not (isinstance(payload.get("pairing_id"), str) and _IDENT.fullmatch(payload["pairing_id"])
-            and isinstance(device, str) and re.fullmatch(r"[A-Za-z0-9_-]{32,128}", device)
+            and isinstance(device, str) and _DEVICE_CODE.fullmatch(device)
             and isinstance(code, str) and _USER_CODE.fullmatch(code)
             and uri == account and complete == account + "#pair=" + code
             and type(interval) in (int, float) and type(expires) in (int, float)):
@@ -705,6 +755,7 @@ def cmd_login(project: Project, base: str, args: argparse.Namespace) -> dict[str
 
 
 def cmd_cancel(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
+    project.guard_state(writing=False)
     if not project.open_state(create=False):
         _fail("no_pending_request")
     try:
@@ -738,6 +789,7 @@ def cmd_cancel(project: Project, base: str, args: argparse.Namespace) -> dict[st
 
 
 def cmd_status(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
+    project.guard_state(writing=False)
     payload = _call(base, "GET", "/v1/usage", token=project.feed_key(), timeout=args.timeout)
     if not isinstance(payload.get("plan"), str) or not isinstance(payload.get("usage"), dict):
         _fail("invalid_response")
@@ -745,6 +797,7 @@ def cmd_status(project: Project, base: str, args: argparse.Namespace) -> dict[st
 
 
 def _management(project: Project, base: str, scope: str) -> str:
+    project.guard_state(writing=False)
     # Readers take no lock: files are replaced atomically, never edited in place.
     credentials = (project.read_json("credentials.json")
                    if project.open_state(create=False, lock=False) else None)
