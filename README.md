@@ -194,6 +194,12 @@ output, or a PR that adds it to `GOTCHAS.md` with a matching test in
 Not affiliated with, endorsed by, or operated by Polymarket. "Polymarket" is
 used only to identify the venue whose markets are covered. Throughline does
 not forecast outcomes, does not say what to trade, and is not investment
-advice. The person who runs Throughline also trades on Polymarket; nothing in
-this repository is a position, a forecast or a recommendation, and the archive
-records what Polymarket publishes, not what anyone holds. MIT licensed.
+advice. MIT licensed.
+
+**Disclosure.** Throughline is operated by Michael O'Rourke
+(access@throughline.markets), who also trades on Polymarket. His trading system
+processes news matches before API customers receive them. That is an ordering,
+not a measurement: no interval has been measured, not every match leads to a
+trade, and equal or simultaneous delivery is not promised. Nothing in this
+repository is a position, a forecast or a recommendation, and the archive
+records what Polymarket publishes, not what anyone holds.
