@@ -59,7 +59,8 @@ class ThroughlineError(RuntimeError):
         self.code = code if isinstance(code, str) else None
         self.request_id = self.details.get("request_id")
         self.upgrade_url = self.details.get("upgrade_url")
-        self.resets_at = self.details.get("resets_at")
+        self.reset_at = self.details.get("reset_at", self.details.get("resets_at"))
+        self.resets_at = self.reset_at  # Preserve the historical attribute.
         reason = self.details.get("message") or self.code or body[:400]
         super().__init__(f"HTTP {status}: {reason}")
         self.status = status
@@ -270,6 +271,14 @@ class Throughline:
         last screen.
         """
         return self._get("/v1/coverage")
+
+    def usage(self) -> dict[str, Any]:
+        """Own plan/allowance without spending a news request; separately limited."""
+        payload = self._get("/v1/usage")
+        if (not isinstance(payload.get("plan"), str) or not isinstance(payload.get("usage"), dict)
+                or any(type(value) is not int or value < 0 for value in payload["usage"].values())):
+            raise ThroughlineError(502, '{"error":"invalid_response"}')
+        return payload
 
     # -- streaming ----------------------------------------------------------
 

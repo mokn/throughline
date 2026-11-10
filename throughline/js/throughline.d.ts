@@ -5,6 +5,7 @@ export declare class ThroughlineError extends Error {
   details: Record<string, unknown>;
   requestId?: string;
   upgradeUrl?: string;
+  resetAt?: number;
   resetsAt?: number;
   constructor(status: number, body: string);
 }
@@ -49,6 +50,7 @@ export declare class Throughline {
   startFromNow(): Promise<number>;
   match(recordId: string, opts?: { streamId?: string }): Promise<Record<string, unknown> | null>;
   coverage(): Promise<Record<string, unknown>>;
+  usage(): Promise<{plan: string; usage: Record<string, number>}>;
   changes(cursor?: number, opts?: PageOptions): AsyncGenerator<Page, void, undefined>;
 }
 export declare const DEFAULT_BASE_URL: string;

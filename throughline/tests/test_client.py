@@ -162,6 +162,19 @@ def raise_http(code, body=b"{}", headers=None):
 
 
 class ClientTransport(unittest.TestCase):
+    def test_usage_uses_its_own_route_and_rejects_malformed_allowance(self):
+        body={'plan':'free','usage':{'requests':10,'requests_remaining':0,'reset_at':180}}
+        with mock.patch('urllib.request.OpenerDirector.open',return_value=ok(body)) as transport:
+            self.assertEqual(Throughline(api_key='k').usage(),body)
+        self.assertEqual(transport.call_args.args[0].full_url,'https://api.throughline.markets/v1/usage')
+        for body in ({'plan':None,'usage':{}},{'plan':'free','usage':[]},
+                     {'plan':'free','usage':{'requests':True}},{'plan':'free','usage':{'requests':-1}}):
+            with mock.patch('urllib.request.OpenerDirector.open',return_value=ok(body)):
+                with self.assertRaises(ThroughlineError):Throughline(api_key='k').usage()
+        error=ThroughlineError(429,'{"error":"account_quota_exceeded","reset_at":180}')
+        self.assertEqual(error.reset_at,180);self.assertEqual(error.resets_at,180)
+        self.assertEqual(ThroughlineError(429,'{"resets_at":240}').reset_at,240)
+
     def test_only_https_or_explicit_loopback_urls_can_receive_credentials(self):
         for base in ('http://api.example', 'file:///tmp/feed', 'https://user:password@api.example',
                      'https://api.example?key=private', 'https://api.example#private', 'https://api.example:99999'):

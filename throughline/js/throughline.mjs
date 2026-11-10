@@ -38,7 +38,8 @@ export class ThroughlineError extends Error {
     this.code = typeof details.error === "string" ? details.error : null;
     this.requestId = details.request_id;
     this.upgradeUrl = details.upgrade_url;
-    this.resetsAt = details.resets_at;
+    this.resetAt = details.reset_at ?? details.resets_at;
+    this.resetsAt = this.resetAt; // Preserve the historical attribute.
   }
 }
 
@@ -285,6 +286,16 @@ export class Throughline {
    */
   coverage() {
     return this._get("/v1/coverage");
+  }
+
+  /** Own plan/allowance without spending a news request; separately limited. */
+  async usage() {
+    const payload = await this._get("/v1/usage");
+    if (typeof payload.plan !== "string" || !payload.usage || typeof payload.usage !== "object" ||
+        Array.isArray(payload.usage) || Object.values(payload.usage).some((v) => !Number.isFinite(v) || v < 0)) {
+      throw new ThroughlineError(502, '{"error":"invalid_response"}');
+    }
+    return payload;
   }
 
   /**

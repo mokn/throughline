@@ -351,3 +351,19 @@ test("HTTP-date Retry-After preserves the server delay", () => {
     assert.equal(retryAfter("Fri, 02 Jan 1970 00:00:00 GMT"), 86400);
   } finally { Date.now = now; }
 });
+
+
+test("usage has its own route and validates allowance; reset aliases stay compatible", async () => {
+  let seen;
+  const body = { plan: "free", usage: { requests: 10, requests_remaining: 0, reset_at: 180 } };
+  const client = new Throughline(undefined, "k", { fetch: async (url) => { seen=url; return ok(body); } });
+  assert.deepEqual(await client.usage(),body);
+  assert.equal(seen,"https://api.throughline.markets/v1/usage");
+  for (const bad of [{plan:null,usage:{}},{plan:"free",usage:[]},{plan:"free",usage:{requests:true}},
+    {plan:"free",usage:{requests:-1}}]) {
+    await assert.rejects(new Throughline(undefined,"k",{fetch:async()=>ok(bad)}).usage(),e=>e.code==="invalid_response");
+  }
+  const error = new ThroughlineError(429,'{"error":"account_quota_exceeded","reset_at":180}');
+  assert.equal(error.resetAt,180); assert.equal(error.resetsAt,180);
+  assert.equal(new ThroughlineError(429,'{"resets_at":240}').resetAt,240);
+});
