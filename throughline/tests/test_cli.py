@@ -425,6 +425,81 @@ class Login(Case):
         code, out = self.cli("account")
         self.assertEqual((code, out["error"]), (4, "no_management_credential"))
 
+    def test_news_only_replacement_removes_the_older_management_credential(self):
+        self.login("--scopes", ALL)
+        old = self.state("credentials.json")
+        old_key = self.env_key()
+        self.assertEqual(self.cli("keys", "list")[0], 0)
+
+        # Pending and denied: the connection in use keeps both of its credentials.
+        pending = self.login("--replace", approve=False)
+        self.assertEqual(self.state("credentials.json"), old)
+        self.assertEqual(self.cli("keys", "list")[0], 0)
+        self.api.deny(pending["user_code"])
+        time.sleep(self.api.interval)
+        code, out = self.cli("login")
+        self.assertEqual((code, out["status"]), (3, "denied"))
+        self.assertEqual((self.state("credentials.json"), self.env_key()), (old, old_key))
+
+        # Delivered news-only: the older, wider token must not stay usable here.
+        done = self.login("--replace")
+        self.assertEqual(done["connection"]["scopes"], ["news:read"])
+        self.assertTrue(done["replaced_existing_key"])
+        self.assertTrue(done["removed_previous_management_credential"])
+        self.assertIsNone(done["credentials_file"])
+        self.assertIsNone(done["connection"]["management_expires_at"])
+        self.assertFalse((self.dir / ".throughline/credentials.json").exists())
+        self.assertNotEqual(self.env_key(), old_key)
+        before = len(self.api.requests)
+        for command in (("account",), ("keys", "list"), ("billing", "status")):
+            code, out = self.cli(*command)
+            self.assertEqual((code, out["error"]), (4, "no_management_credential"))
+        self.assertEqual(len(self.api.requests), before)
+        self.assertEqual(self.cli("status")[0], 0)
+
+    def test_narrowed_replacement_swaps_in_the_new_connection_only(self):
+        self.login("--scopes", ALL)
+        old = self.state("credentials.json")
+        done = self.login("--replace", "--scopes", ALL, scopes=["news:read", "account:read"])
+        new = self.state("credentials.json")
+        self.assertEqual(new["scopes"], ["news:read", "account:read"])
+        self.assertEqual(new["connection_id"], done["connection"]["id"])
+        self.assertNotEqual(new["connection_id"], old["connection_id"])
+        self.assertNotEqual(new["management_token"], old["management_token"])
+        self.assertFalse(done["removed_previous_management_credential"])
+        self.assertEqual(self.cli("keys", "list")[1]["error"], "missing_scope")
+        # Granted nothing extra although more was requested: no token is kept.
+        done = self.login("--replace", "--scopes", ALL, scopes=["news:read"])
+        self.assertTrue(done["removed_previous_management_credential"])
+        self.assertFalse((self.dir / ".throughline/credentials.json").exists())
+
+    def test_refused_replacement_keeps_the_management_credential(self):
+        self.login("--scopes", ALL)
+        old, old_key = self.state("credentials.json"), self.env_key()
+        (self.dir / ".env").write_text("")
+        os.chmod(self.dir / ".env", 0o600)
+        pending = self.login(approve=False)          # no key present, so no --replace
+        (self.dir / ".env").write_text("THROUGHLINE_API_KEY=" + old_key + "\n")
+        os.chmod(self.dir / ".env", 0o600)
+        self.api.approve(pending["user_code"])
+        time.sleep(self.api.interval)
+        code, out = self.cli("login")
+        self.assertEqual((code, out["error"]), (4, "credential_exists"))
+        self.assertEqual((self.state("credentials.json"), self.env_key()), (old, old_key))
+
+    def test_production_poll_floor_cannot_be_lowered(self):
+        sys.path.insert(0, str(ROOT))
+        self.addCleanup(sys.path.remove, str(ROOT))
+        from throughline import cli
+        from throughline.client import DEFAULT_BASE_URL
+        self.assertEqual(cli.MIN_INTERVAL, 5.0)
+        self.assertEqual(cli._poll_floor(DEFAULT_BASE_URL), 5.0)
+        self.assertEqual(cli._poll_floor(self.api.base), 0.0)
+        # The override that compresses the clock is loopback only.
+        code, out = self.cli("login", THROUGHLINE_API_BASE_URL="https://example.com")
+        self.assertEqual(code, 4)
+        self.assertEqual(self.api.requests, [])
+
     def test_partly_narrowed_scopes_refuse_locally_without_a_request(self):
         self.login("--scopes", ALL, scopes=["news:read", "account:read"])
         self.assertEqual(self.state("credentials.json")["scopes"], ["news:read", "account:read"])
@@ -497,14 +572,13 @@ class Recovery(Case):
         self.assertEqual((code, out["error"], out["reason"]), (4, "unsafe_file", "symlink"))
         self.assertEqual((self.dir / "elsewhere").read_text(), "untouched\n")
         self.assertEqual(self.state("pending.json")["feed_key"], before["feed_key"])
-        # The management half was already written; the retry must not duplicate or change it.
-        half = self.state("credentials.json")
+        # Refused before anything was written: no half-installed credential set.
+        self.assertFalse((self.dir / ".throughline/credentials.json").exists())
         os.unlink(self.dir / ".env")
         code, done = self.cli("login")
         self.assertEqual((code, done["status"]), (0, "delivered"))
         self.assertEqual(self.env_key(), before["feed_key"])
-        self.assertEqual(self.state("credentials.json"), half)
-        self.assertEqual(half["management_token"], before["management_token"])
+        self.assertEqual(self.state("credentials.json")["management_token"], before["management_token"])
         self.assertFalse((self.dir / ".throughline/pending.json").exists())
         self.assertEqual(sorted(p.name for p in (self.dir / ".throughline").iterdir()),
                          ["credentials.json", "lock"])

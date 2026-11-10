@@ -336,6 +336,14 @@ class Project:
             pass
         except OSError:
             _fail("storage_error", path=self.rel(path))
+        try:
+            dfd = os.open(os.path.dirname(path), os.O_RDONLY | os.O_CLOEXEC)
+            try:
+                os.fsync(dfd)
+            finally:
+                os.close(dfd)
+        except OSError:
+            _fail("storage_error", path=self.rel(path))
 
     def read_json(self, name: str) -> dict[str, Any] | None:
         raw = self.read(os.path.join(self.state, name))
@@ -500,6 +508,13 @@ def _valid_name(name: str) -> str:
     return name
 
 
+def _poll_floor(base: str) -> float:
+    """Production polls are never closer than the contract minimum, whatever a
+    server reply or an edited state file says. Only the loopback test override
+    may compress the clock."""
+    return MIN_INTERVAL if base == DEFAULT_BASE_URL else 0.0
+
+
 def _load_pending(project: Project, base: str) -> dict[str, Any] | None:
     pending = project.read_json("pending.json")
     if pending is None:
@@ -521,6 +536,7 @@ def _load_pending(project: Project, base: str) -> dict[str, Any] | None:
         raise CliError("delivery_unknown", status="delivery_unknown")
     if pending["base_url"] != base:
         _fail("base_url_changed")
+    pending["interval"] = max(float(pending["interval"]), _poll_floor(base))
     return pending
 
 
@@ -561,8 +577,7 @@ def _start(project: Project, base: str, args: argparse.Namespace) -> dict[str, A
     interval, expires = float(interval), float(expires)  # type: ignore[arg-type]
     if not (0 < interval <= 3600 and 0 < expires <= 86400):
         _fail("invalid_response")
-    if base == DEFAULT_BASE_URL:
-        interval = max(interval, MIN_INTERVAL)
+    interval = max(interval, _poll_floor(base))
     now = time.time()
     pending = dict(version=1, base_url=base, pairing_id=payload["pairing_id"], name=name,
                    scopes=scopes, feed_key=feed_key, management_token=management,
@@ -591,11 +606,26 @@ def _finalize(project: Project, pending: dict[str, Any], payload: dict[str, Any]
         _fail("invalid_response")
     scopes = [scope for scope in SCOPES if scope in connection["scopes"]]
     managed = len(scopes) > 1 and pending["management_token"] is not None
+    # Refuse before touching anything: a login that may not replace the key must
+    # not disturb the management credential of the connection still in use.
+    _, _, current = project.env_key()
+    if current and current != pending["feed_key"] and not pending["replace"]:
+        _fail("credential_exists")
+    # The project holds one connection. Its management credential is replaced by
+    # the new grant, or removed when the human granted none, so an older and
+    # wider token can never outlive the login that superseded it.
+    credentials = os.path.join(project.state, "credentials.json")
+    if not managed and os.path.lexists(credentials) and not pending.get("superseded"):
+        pending["superseded"] = True  # survives an interruption after the removal
+        project.write_json("pending.json", pending)
+    superseded = bool(pending.get("superseded"))
     if managed:
         project.write_json("credentials.json", dict(
             version=1, base_url=pending["base_url"], connection_id=ident,
             name=connection["name"], scopes=scopes, created_at=connection["created_at"],
             expires_at=connection["expires_at"], management_token=pending["management_token"]))
+    else:
+        project.remove(credentials)
     replaced = project.store_env_key(pending["feed_key"], replace=pending["replace"])
     project.remove(os.path.join(project.state, "pending.json"))
     result = dict(
@@ -606,10 +636,10 @@ def _finalize(project: Project, pending: dict[str, Any], payload: dict[str, Any]
                         management_expires_at=connection["expires_at"] if managed else None),
         requested_scopes=pending["scopes"], env_file=ENV_FILE, env_variable=KEY_ENV,
         credentials_file=STATE_DIR + "/credentials.json" if managed else None,
-        replaced_existing_key=replaced)
-    if replaced:
-        result["note"] = ("The previous key is still active. Revoke it in the account portal or "
-                          "with 'throughline keys revoke ID' once nothing uses it.")
+        replaced_existing_key=replaced, removed_previous_management_credential=superseded)
+    if replaced or superseded:
+        result["note"] = ("The previous connection is still active on the server. Revoke it in the "
+                          "account portal once nothing uses it.")
     return result
 
 
@@ -621,7 +651,7 @@ def _poll(project: Project, base: str, pending: dict[str, Any], timeout: float) 
     if status == 200 and payload.get("status") == "delivered":
         return _finalize(project, pending, payload)
     if status == 400 and code == "authorization_pending":
-        pending["next_poll_at"] = time.time() + pending["interval"]
+        pending["next_poll_at"] = time.time() + max(pending["interval"], _poll_floor(base))
         project.write_json("pending.json", pending)
         return _pending_view(pending)
     if status == 400 and code in ("access_denied", "expired_token"):
@@ -630,7 +660,8 @@ def _poll(project: Project, base: str, pending: dict[str, Any], timeout: float) 
                     pairing_id=pending["pairing_id"],
                     next="Nothing was activated. Run 'throughline login' to start again.")
     if status == 429:
-        wait = _retry_after(headers.get("Retry-After"), default=pending["interval"])
+        wait = max(_retry_after(headers.get("Retry-After"), default=pending["interval"]),
+                   _poll_floor(base))
         pending["next_poll_at"] = time.time() + wait
         project.write_json("pending.json", pending)
         return _pending_view(pending, "slow_down", retry_after=round(wait, 3))
