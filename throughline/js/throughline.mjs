@@ -21,14 +21,24 @@
  */
 
 const UA = "throughline-js/0.1 (+https://throughline.markets/api)";
+export const DEFAULT_BASE_URL = "https://api.throughline.markets";
+const TRANSIENT = new Set(["burst_limited", "burst_capacity", "server_capacity"]);
 
 export class ThroughlineError extends Error {
   /** @param {number} status @param {string} body */
   constructor(status, body) {
-    super(`HTTP ${status}: ${body.slice(0, 400)}`);
+    let details;
+    try { details = JSON.parse(body); } catch { details = {}; }
+    if (!details || typeof details !== "object" || Array.isArray(details)) details = {};
+    super(`HTTP ${status}: ${details.message || details.error || body.slice(0, 400)}`);
     this.name = "ThroughlineError";
     this.status = status;
     this.body = body;
+    this.details = details;
+    this.code = typeof details.error === "string" ? details.error : null;
+    this.requestId = details.request_id;
+    this.upgradeUrl = details.upgrade_url;
+    this.resetsAt = details.resets_at;
   }
 }
 
@@ -91,7 +101,10 @@ export class Page {
 export function retryAfter(value, fallback = 5) {
   if (value === null || value === undefined || value === "") return fallback;
   const n = Number(value);
-  if (!Number.isFinite(n)) return fallback;
+  if (!Number.isFinite(n)) {
+    const date = /^[A-Za-z]{3}, .+ GMT$/.test(value) ? Date.parse(value) : NaN;
+    return Number.isFinite(date) ? Math.max(0, (date - Date.now()) / 1000) : fallback;
+  }
   return Math.max(0, n);
 }
 
@@ -118,26 +131,36 @@ export function parsePage(payload, fallbackCursor) {
   );
 }
 
-const sleepMs = (s) => new Promise((r) => setTimeout(r, s * 1000));
+const sleepMs = (s, signal) => new Promise((resolve, reject) => {
+  if (signal?.aborted) return reject(signal.reason);
+  const abort = () => { clearTimeout(timer); reject(signal.reason); };
+  const timer = setTimeout(() => { signal?.removeEventListener("abort", abort); resolve(); }, s * 1000);
+  signal?.addEventListener("abort", abort, { once: true });
+});
 
 /**
- * A read-only client for the Throughline feed. `baseUrl` has no default: the
- * public origin is assigned at launch, so a guessed hostname would fail
- * confusingly rather than loudly.
+ * A read-only client. Defaults to the production origin. In Node the key may
+ * come from THROUGHLINE_API_KEY; browsers must supply one explicitly.
+ * Account quotas fail immediately; transient reads retry within retryBudget.
  */
 export class Throughline {
   /**
    * @param {string} baseUrl
    * @param {string} apiKey
-   * @param {{timeout?: number, maxRetries?: number, sleep?: (seconds: number) => Promise<void>, fetch?: typeof fetch}} [opts]
+   * @param {{timeout?: number, maxRetries?: number, retryBudget?: number, signal?: AbortSignal, sleep?: (seconds: number, signal?: AbortSignal) => Promise<void>, fetch?: typeof fetch}} [opts]
    */
-  constructor(baseUrl, apiKey, opts = {}) {
+  constructor(baseUrl = DEFAULT_BASE_URL, apiKey = globalThis.process?.env?.THROUGHLINE_API_KEY, opts = {}) {
     if (!baseUrl) throw new TypeError("baseUrl is required");
     if (!apiKey) throw new TypeError("apiKey is required");
     this._base = baseUrl.replace(/\/+$/, "");
     this._key = apiKey;
     this._timeout = opts.timeout ?? 30;
     this._maxRetries = opts.maxRetries ?? 5;
+    this._retryBudget = opts.retryBudget ?? 60;
+    if (!Number.isFinite(this._timeout) || this._timeout <= 0 ||
+        !Number.isFinite(this._retryBudget) || this._retryBudget < 0 ||
+        !Number.isInteger(this._maxRetries) || this._maxRetries < 0) throw new TypeError("invalid timeout or retry policy");
+    this._signal = opts.signal;
     this._sleep = opts.sleep ?? sleepMs;
     this._fetch = opts.fetch ?? globalThis.fetch;
     if (typeof this._fetch !== "function") throw new TypeError("a fetch implementation is required");
@@ -150,19 +173,40 @@ export class Throughline {
     const url = `${this._base}${path}${qs ? `?${qs}` : ""}`;
     const headers = { Authorization: `Bearer ${this._key}`, Accept: "application/json", "User-Agent": UA };
     let attempt = 0;
+    let waited = 0;
+    let lastError;
+    const started = performance.now();
     for (;;) {
-      const res = await this._fetch(url, { headers, signal: AbortSignal.timeout(this._timeout * 1000) });
-      if (res.ok) return await res.json();
-      const body = await res.text();
-      if (res.status === 429) {
-        const wait = retryAfter(res.headers.get("Retry-After"));
+      this._signal?.throwIfAborted();
+      let remaining = this._retryBudget - Math.max((performance.now() - started) / 1000, waited);
+      if (attempt && remaining <= 0) throw lastError;
+      const controller = new AbortController();
+      const abort = () => controller.abort(this._signal.reason);
+      this._signal?.addEventListener("abort", abort, { once: true });
+      const timeout = attempt ? Math.min(this._timeout, remaining) : this._timeout;
+      const timer = setTimeout(() => controller.abort(new DOMException("Request timed out", "TimeoutError")), timeout * 1000);
+      let res, body;
+      try {
+        res = await this._fetch(url, { headers, signal: controller.signal });
+        if (res.ok) return await res.json();
+        body = await res.text();
+      } finally {
+        clearTimeout(timer);
+        this._signal?.removeEventListener("abort", abort);
+      }
+      const wait = retryAfter(res.headers.get("Retry-After"), res.status === 503 ? 1 : 5);
+      const error = res.status === 429 ? new RateLimited(res.status, body, wait) : new ThroughlineError(res.status, body);
+      const transient = res.status === 503 || res.status === 429 && (!error.code || TRANSIENT.has(error.code));
+      remaining = this._retryBudget - Math.max((performance.now() - started) / 1000, waited);
+      if (transient && attempt < this._maxRetries && wait < remaining) {
+        // Never shorten Retry-After to fit the retry budget.
+        await this._sleep(wait, this._signal);
+        waited += wait;
         attempt += 1;
-        if (attempt > this._maxRetries) throw new RateLimited(res.status, body, wait);
-        // Honour the server's own number. Do not invent a faster backoff.
-        await this._sleep(wait);
+        lastError = error;
         continue;
       }
-      throw new ThroughlineError(res.status, body);
+      throw error;
     }
   }
 

@@ -1,6 +1,7 @@
 import json
 import pathlib
 import sys
+import threading
 import unittest
 import urllib.error
 from unittest import mock
@@ -124,6 +125,10 @@ class RetryAfter(unittest.TestCase):
         self.assertEqual(_retry_after("soon"), 5.0)
         self.assertEqual(_retry_after("-3"), 0.0)
 
+    def test_http_date_preserves_the_server_delay(self):
+        with mock.patch('time.time', return_value=0):
+            self.assertEqual(_retry_after('Fri, 02 Jan 1970 00:00:00 GMT'), 86400)
+
 
 def ok(body):
     return mock.MagicMock(
@@ -139,6 +144,96 @@ def raise_http(code, body=b"{}", headers=None):
 
 
 class ClientTransport(unittest.TestCase):
+    def test_production_url_and_environment_key_need_no_setup_arguments(self):
+        with mock.patch.dict('os.environ', {'THROUGHLINE_API_KEY': 'test-key'}):
+            with mock.patch('urllib.request.urlopen', return_value=ok(EXAMPLE)) as transport:
+                Throughline().page()
+        request = transport.call_args.args[0]
+        self.assertTrue(request.full_url.startswith('https://api.throughline.markets/v1/news?'))
+        self.assertEqual(request.get_header('Authorization'), 'Bearer test-key')
+
+    def test_account_allowance_errors_never_sleep_even_with_a_short_retry_after(self):
+        for code in ('account_quota_exceeded', 'account_data_limit', 'coverage_quota_exceeded',
+                     'management_quota_exceeded', 'billing_quota_exceeded'):
+            with self.subTest(code=code):
+                body = json.dumps({'error': code, 'message': 'Allowance reached',
+                                   'resets_at': 86400, 'upgrade_url': 'https://api.throughline.markets/account#upgrade',
+                                   'request_id': 'request-1'}).encode()
+                sleep = mock.Mock()
+                def fake(req, timeout=None):
+                    raise_http(429, body, {'Retry-After': '1'})
+                with mock.patch('urllib.request.urlopen', side_effect=fake) as transport:
+                    with self.assertRaises(RateLimited) as raised:
+                        Throughline(api_key='k', sleep=sleep).page()
+                self.assertEqual(transport.call_count, 1)
+                sleep.assert_not_called()
+                self.assertEqual(raised.exception.code, code)
+                self.assertEqual(raised.exception.resets_at, 86400)
+                self.assertEqual(raised.exception.request_id, 'request-1')
+                self.assertIn('Allowance reached', str(raised.exception))
+
+    def test_long_server_delay_is_raised_without_sleeping_or_shortening(self):
+        for status in (429, 503):
+            sleep = mock.Mock()
+            def fake(req, timeout=None):
+                raise_http(status, b'{"error":"burst_limited"}', {'Retry-After': '86400'})
+            with mock.patch('urllib.request.urlopen', side_effect=fake) as transport:
+                with self.assertRaises(ThroughlineError):
+                    Throughline(api_key='k', sleep=sleep).page()
+            self.assertEqual(transport.call_count, 1)
+            sleep.assert_not_called()
+
+    def test_retry_waits_have_one_total_budget(self):
+        slept = []
+        def fake(req, timeout=None):
+            raise_http(429, b'{"error":"burst_limited"}', {'Retry-After': '20'})
+        with mock.patch('urllib.request.urlopen', side_effect=fake) as transport:
+            with self.assertRaises(RateLimited):
+                Throughline(api_key='k', sleep=slept.append, retry_budget=45).page()
+        self.assertEqual(slept, [20, 20])
+        self.assertEqual(transport.call_count, 3)
+
+    def test_503_retries_briefly_and_then_returns_the_page(self):
+        def unavailable(req, timeout=None):
+            raise_http(503, b'{"error":"service_busy"}', {'Retry-After': '1'})
+        slept = []
+        calls = []
+        def transport(req, timeout=None):
+            calls.append(1)
+            if len(calls) == 1: unavailable(req, timeout)
+            return ok(EXAMPLE)
+        with mock.patch('urllib.request.urlopen', transport):
+            self.assertEqual(len(Throughline(api_key='k', sleep=slept.append).page().changes), 1)
+        self.assertEqual(slept, [1])
+        self.assertEqual(len(calls), 2)
+
+    def test_cancellation_during_retry_wait_stops_before_another_request(self):
+        cancel = threading.Event()
+        class CancelOnWait:
+            is_set = cancel.is_set
+            def wait(self, seconds):
+                cancel.set()
+                return True
+        def fake(req, timeout=None):
+            raise_http(503, b'busy', {'Retry-After': '1'})
+        with mock.patch('urllib.request.urlopen', side_effect=fake) as transport:
+            with self.assertRaises(InterruptedError):
+                Throughline(api_key='k', cancel=CancelOnWait()).page()
+        self.assertEqual(transport.call_count, 1)
+
+    def test_nonfinite_retry_after_uses_a_bounded_fallback(self):
+        for value in ('NaN', 'Infinity', '-Infinity'):
+            self.assertEqual(_retry_after(value), 5)
+
+    def test_unknown_json_error_shapes_do_not_crash_error_parsing(self):
+        for body in ('[]', 'null', '{"error": []}', 'not json'):
+            error = ThroughlineError(429, body)
+            self.assertIsNone(error.code)
+
+    def test_zero_retry_budget_still_allows_the_first_call(self):
+        with mock.patch('urllib.request.urlopen', return_value=ok(EXAMPLE)):
+            self.assertEqual(len(Throughline(api_key='k', retry_budget=0).page().changes), 1)
+
     def test_requires_base_url_and_key(self):
         with self.assertRaises(ValueError):
             Throughline("", "k")

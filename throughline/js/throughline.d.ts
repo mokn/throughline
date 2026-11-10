@@ -1,6 +1,11 @@
 export declare class ThroughlineError extends Error {
   status: number;
   body: string;
+  code: string | null;
+  details: Record<string, unknown>;
+  requestId?: string;
+  upgradeUrl?: string;
+  resetsAt?: number;
   constructor(status: number, body: string);
 }
 export declare class RateLimited extends ThroughlineError {
@@ -29,7 +34,9 @@ export declare function parsePage(payload: unknown, fallbackCursor: number): Pag
 export interface ThroughlineOptions {
   timeout?: number;
   maxRetries?: number;
-  sleep?: (seconds: number) => Promise<void>;
+  retryBudget?: number;
+  signal?: AbortSignal;
+  sleep?: (seconds: number, signal?: AbortSignal) => Promise<void>;
   fetch?: typeof fetch;
 }
 export interface PageOptions {
@@ -37,12 +44,13 @@ export interface PageOptions {
   marketId?: string;
 }
 export declare class Throughline {
-  constructor(baseUrl: string, apiKey: string, opts?: ThroughlineOptions);
+  constructor(baseUrl?: string, apiKey?: string, opts?: ThroughlineOptions);
   page(cursor?: number, opts?: PageOptions): Promise<Page>;
   match(recordId: string, opts?: { streamId?: string }): Promise<Record<string, unknown> | null>;
   coverage(): Promise<Record<string, unknown>>;
   changes(cursor?: number, opts?: PageOptions): AsyncGenerator<Page, void, undefined>;
 }
+export declare const DEFAULT_BASE_URL: string;
 export declare class MatchStore {
   get cursor(): number;
   get size(): number;

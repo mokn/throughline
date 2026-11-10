@@ -191,3 +191,84 @@ test("changes walks to the head and advances on empty pages", async () => {
   assert.match(seen[1], /cursor=1/);
   assert.match(seen[2], /cursor=2/);
 });
+
+test("production origin defaults without changing existing explicit calls", async () => {
+  let seen;
+  const client = new Throughline(undefined, "test-key", { fetch: async (url) => { seen = url; return ok(EXAMPLE); } });
+  await client.page();
+  assert.match(seen, /^https:\/\/api\.throughline\.markets\/v1\/news\?/);
+});
+
+test("account quotas expose recovery immediately and never sleep", async () => {
+  for (const code of ["account_quota_exceeded", "account_data_limit", "coverage_quota_exceeded", "management_quota_exceeded", "billing_quota_exceeded"]) {
+    let calls = 0, slept = 0;
+    const body = JSON.stringify({ error: code, message: "Allowance reached", resets_at: 86400, request_id: "request-1", upgrade_url: "https://api.throughline.markets/account#upgrade" });
+    const client = new Throughline(undefined, "k", {
+      fetch: async () => { calls++; return fail(429, body, { "Retry-After": "1" }); },
+      sleep: async () => { slept++; },
+    });
+    await assert.rejects(client.page(), (e) => e instanceof RateLimited && e.code === code && e.resetsAt === 86400 && e.requestId === "request-1" && e.message.includes("Allowance reached"));
+    assert.equal(calls, 1); assert.equal(slept, 0);
+  }
+});
+
+test("long Retry-After fails immediately without retrying sooner", async () => {
+  for (const status of [429, 503]) {
+    let calls = 0, slept = 0;
+    const client = new Throughline(undefined, "k", {
+      fetch: async () => { calls++; return fail(status, '{"error":"burst_limited"}', { "Retry-After": "86400" }); },
+      sleep: async () => { slept++; },
+    });
+    await assert.rejects(client.page(), ThroughlineError);
+    assert.equal(calls, 1); assert.equal(slept, 0);
+  }
+});
+
+test("retry waits share one total budget", async () => {
+  let calls = 0;
+  const slept = [];
+  const client = new Throughline(undefined, "k", { retryBudget: 45,
+    fetch: async () => { calls++; return fail(429, '{"error":"burst_limited"}', { "Retry-After": "20" }); },
+    sleep: async (seconds) => slept.push(seconds),
+  });
+  await assert.rejects(client.page(), RateLimited);
+  assert.deepEqual(slept, [20, 20]); assert.equal(calls, 3);
+});
+
+test("503 retries briefly and returns the page", async () => {
+  let calls = 0;
+  const slept = [];
+  const client = new Throughline(undefined, "k", {
+    fetch: async () => ++calls === 1 ? fail(503, '{"error":"service_busy"}', { "Retry-After": "1" }) : ok(EXAMPLE),
+    sleep: async (seconds) => slept.push(seconds),
+  });
+  assert.equal((await client.page()).changes.length, 1);
+  assert.deepEqual(slept, [1]); assert.equal(calls, 2);
+});
+
+test("abort cancels the built-in retry wait without another request", async () => {
+  const controller = new AbortController();
+  let calls = 0;
+  const client = new Throughline(undefined, "k", { signal: controller.signal,
+    fetch: async () => { calls++; queueMicrotask(() => controller.abort(new Error("cancelled"))); return fail(503, "busy", { "Retry-After": "10" }); },
+  });
+  await assert.rejects(client.page(), /cancelled/); assert.equal(calls, 1);
+});
+
+test("nonfinite Retry-After and malformed JSON error bodies are safe", () => {
+  for (const value of ["NaN", "Infinity", "-Infinity"]) assert.equal(retryAfter(value), 5);
+  for (const body of ["[]", "null", '{"error":[]}', "not json"]) assert.equal(new ThroughlineError(429, body).code, null);
+});
+
+test("zero retry budget permits the first call", async () => {
+  const client = new Throughline(undefined, "k", { retryBudget: 0, fetch: async () => ok(EXAMPLE) });
+  assert.equal((await client.page()).changes.length, 1);
+});
+
+test("HTTP-date Retry-After preserves the server delay", () => {
+  const now = Date.now;
+  try {
+    Date.now = () => 0;
+    assert.equal(retryAfter("Fri, 02 Jan 1970 00:00:00 GMT"), 86400);
+  } finally { Date.now = now; }
+});

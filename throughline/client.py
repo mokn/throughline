@@ -21,23 +21,40 @@ A match is identified by the ``(stream_id, record_id)`` pair, not by
 from __future__ import annotations
 
 import json
+import math
+import os
+import threading
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 from dataclasses import dataclass, field
+from email.utils import parsedate_to_datetime
 from typing import Any, Callable, Iterator
 
 __all__ = ["Throughline", "Page", "MatchStore", "ThroughlineError", "RateLimited"]
 
 _UA = "throughline-python/0.1 (+https://throughline.markets/api)"
+DEFAULT_BASE_URL = "https://api.throughline.markets"
+_TRANSIENT = {"burst_limited", "burst_capacity", "server_capacity"}
 
 
 class ThroughlineError(RuntimeError):
     """An error response from the feed."""
 
     def __init__(self, status: int, body: str) -> None:
-        super().__init__(f"HTTP {status}: {body[:400]}")
+        try:
+            details = json.loads(body)
+        except (ValueError, TypeError):
+            details = {}
+        self.details = details if isinstance(details, dict) else {}
+        code = self.details.get("error")
+        self.code = code if isinstance(code, str) else None
+        self.request_id = self.details.get("request_id")
+        self.upgrade_url = self.details.get("upgrade_url")
+        self.resets_at = self.details.get("resets_at")
+        reason = self.details.get("message") or self.code or body[:400]
+        super().__init__(f"HTTP {status}: {reason}")
         self.status = status
         self.body = body
 
@@ -87,28 +104,39 @@ class Page:
 class Throughline:
     """A read-only client for the Throughline feed.
 
-    ``base_url`` has no default: the public origin is assigned at launch, so a
-    guessed hostname would fail confusingly rather than loudly.
+    Defaults to the production origin and ``THROUGHLINE_API_KEY``. Existing
+    ``Throughline(base_url, api_key)`` calls remain supported. Only transient
+    read failures retry, within ``retry_budget`` seconds overall; account quotas
+    raise immediately. ``cancel`` interrupts retry waits without another call.
     """
 
     def __init__(
         self,
-        base_url: str,
-        api_key: str,
+        base_url: str = DEFAULT_BASE_URL,
+        api_key: str | None = None,
         *,
         timeout: float = 30.0,
         max_retries: int = 5,
+        retry_budget: float = 60.0,
         sleep: Callable[[float], None] = time.sleep,
+        cancel: threading.Event | None = None,
     ) -> None:
         if not base_url:
             raise ValueError("base_url is required")
+        api_key = os.environ.get("THROUGHLINE_API_KEY") if api_key is None else api_key
         if not api_key:
             raise ValueError("api_key is required")
+        if (not math.isfinite(timeout) or timeout <= 0 or
+                not math.isfinite(retry_budget) or retry_budget < 0 or
+                type(max_retries) is not int or max_retries < 0):
+            raise ValueError("invalid timeout or retry policy")
         self._base = base_url.rstrip("/")
         self._key = api_key
         self._timeout = timeout
         self._max_retries = max_retries
+        self._retry_budget = retry_budget
         self._sleep = sleep
+        self._cancel = cancel
 
     # -- transport ----------------------------------------------------------
 
@@ -126,22 +154,37 @@ class Throughline:
             },
         )
         attempt = 0
+        started, waited = time.monotonic(), 0.0
         while True:
+            if self._cancel is not None and self._cancel.is_set():
+                raise InterruptedError("Throughline read cancelled")
+            remaining = self._retry_budget - max(time.monotonic() - started, waited)
+            if attempt and remaining <= 0:
+                raise error
             try:
-                with urllib.request.urlopen(req, timeout=self._timeout) as resp:
+                timeout = min(self._timeout, remaining) if attempt else self._timeout
+                with urllib.request.urlopen(req, timeout=max(0.001, timeout)) as resp:
                     return json.loads(resp.read().decode("utf-8"))
             except urllib.error.HTTPError as exc:
-                body = exc.read().decode("utf-8", "replace")
-                if exc.code == 429:
-                    wait = _retry_after(exc.headers.get("Retry-After"))
+                try:
+                    body = exc.read().decode("utf-8", "replace")
+                finally:
+                    exc.close()
+                wait = _retry_after(exc.headers.get("Retry-After"), default=1.0 if exc.code == 503 else 5.0)
+                error = RateLimited(exc.code, body, wait) if exc.code == 429 else ThroughlineError(exc.code, body)
+                transient = exc.code == 503 or exc.code == 429 and (error.code is None or error.code in _TRANSIENT)
+                remaining = self._retry_budget - max(time.monotonic() - started, waited)
+                if transient and attempt < self._max_retries and wait < remaining:
+                    # Never shorten the server's Retry-After to fit our budget.
+                    if self._cancel is not None:
+                        if self._cancel.wait(wait):
+                            raise InterruptedError("Throughline read cancelled") from exc
+                    else:
+                        self._sleep(wait)
+                    waited += wait
                     attempt += 1
-                    if attempt > self._max_retries:
-                        raise RateLimited(exc.code, body, wait) from exc
-                    # Honour the server's own number. Do not invent a backoff
-                    # that is faster than what it asked for.
-                    self._sleep(wait)
                     continue
-                raise ThroughlineError(exc.code, body) from exc
+                raise error from exc
 
     # -- reads --------------------------------------------------------------
 
@@ -282,6 +325,11 @@ def _retry_after(value: str | None, *, default: float = 5.0) -> float:
     if not value:
         return default
     try:
-        return max(0.0, float(value))
+        seconds = float(value)
+        return max(0.0, seconds) if math.isfinite(seconds) else default
     except ValueError:
-        return default
+        try:
+            date = parsedate_to_datetime(value)
+            return max(0.0, date.timestamp() - time.time()) if date.tzinfo is not None else default
+        except (ValueError, TypeError, OverflowError):
+            return default
