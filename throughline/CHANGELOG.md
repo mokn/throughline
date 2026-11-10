@@ -1,17 +1,17 @@
 # Changelog
 
-## Unreleased
+## 0.2.0 — 2026-11-10
 
 - Added the `throughline` command (version 0.2.0): delegated setup where a
   signed-in human approves a locally generated key, private-file storage with
   git-ignore, symlink, owner and mode checks, resumable pending state, account,
   key and billing reads under optional scopes, and a once-only start-from-now
-  cursor. Requires the delegated-access server release; not a claim that those
-  routes are deployed.
+  cursor. The hosted API supports the pairing and usage routes.
 - `throughline login` no longer treats an expired request as proof that nothing
   was activated. It reports `delivery_unknown` (exit 4), keeps the pending
   secrets and names the connection to inspect or revoke in the portal. Denial
-  stays definitive. The `expired` status is gone.- `throughline start-from-now` reads the head through the command's own bounded
+  stays definitive. The `expired` status is gone.
+- `throughline start-from-now` reads the head through the command's own bounded
   request path: one attempt, one whole-request deadline, no redirect. A reply
   that is not an empty page with a numeric cursor is `invalid_response` and
   saves nothing. A saved cursor is still returned without a second capture.
@@ -29,7 +29,7 @@
 - Reject malformed pages, cursors and absent upsert records before they can corrupt saved state. Return deterministic response_too_large without retrying.
 
 - Reject whitespace, control characters and non-ASCII credentials before transport without echoing the key in an exception.
-- Start-from-now helpers require the foundation API release; publish clients only after that server release.
+- Both clients can capture the current hosted feed cursor before polling.
 
 - Refuse authenticated HTTP redirects in both clients; Python no longer forwards a bearer key through urllib redirects.
 

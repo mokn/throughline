@@ -68,10 +68,8 @@ explicitly; never put a private key in a public/shared frontend.
 dependencies). It lets an agent or script request access that **a signed-in human
 approves in the browser**, so no key is ever pasted into chat.
 
-These commands need the Throughline delegated-access server release. Until that
-release is deployed, `throughline login` fails with an HTTP error and the
-portal's **Copy .env line** above remains the way to get a key. This is source in
-this repository, not a claim that the hosted routes are live.
+Pairing is available at `https://api.throughline.markets`. If you prefer to
+create a key yourself, choose **Copy .env line** in the account portal.
 
 ```sh
 throughline login                 # prints a code and link, exits 2 (pending)
