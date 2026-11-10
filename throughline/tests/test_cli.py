@@ -51,6 +51,7 @@ class Api:
         self.huge = False
         self.bad_link = False
         self.latest_calls = 0
+        self.head = dict(items=[], next_cursor=4242, has_more=False)
         self.force_code = None  # a fixed user code for the next pairing
         self.drip = False       # answer with one byte at a time, forever
         self.server = ThreadingHTTPServer(("127.0.0.1", 0), self._handler())
@@ -242,7 +243,7 @@ class Api:
                 if route == ("GET", "/v1/news"):
                     assert query == "cursor=latest&limit=1"
                     api.latest_calls += 1
-                    return self.reply(200, dict(items=[], next_cursor=4242, has_more=False))
+                    return self.reply(200, api.head)
                 return self.error(404, "not_found")
 
             do_GET = do_POST = do_DELETE = handle_any
@@ -544,7 +545,7 @@ class Login(Case):
         time.sleep(self.api.interval)
         code, out = self.cli("login", "--wait")
         self.assertEqual((code, out["status"]), (3, "denied"))
-        self.assertIn("Nothing was activated", out["next"])
+        self.assertIn("No keys from this request are active.", out["next"])
         self.assertFalse((self.dir / ".throughline/pending.json").exists())
         self.assertFalse((self.dir / ".env").exists())
         self.assertNotIn(sha(secret), self.api.keys)
@@ -560,7 +561,7 @@ class Login(Case):
         for _ in range(2):  # separate processes, same answer, nothing discarded
             code, out = self.cli("login", "--wait")
             self.assertEqual((code, out["status"], out["reason"]), (4, "delivery_unknown", "expired_token"))
-            self.assertNotIn("Nothing was activated", json.dumps(out))
+            self.assertNotRegex(json.dumps(out), r"Nothing was activated|No keys from this request are active")
             self.assertIn("may be active", out["next"])
             self.assertEqual((out["pairing_id"], out["name"]), (pending["pairing_id"], pending["name"]))
             self.assertEqual((self.dir / ".throughline/pending.json").read_bytes(), before)
@@ -641,7 +642,7 @@ class Recovery(Case):
         self.assertIn("may be active", out["next"])
         self.assertIn(pending["pairing_id"], out["next"])
         self.assertIn("revoke", out["next"])
-        self.assertNotIn("Nothing was activated", json.dumps(out))
+        self.assertNotRegex(json.dumps(out), r"Nothing was activated|No keys from this request are active")
         # The only copy of the live key is still on disk, private, and not in .env.
         self.assertEqual(self.state("pending.json")["feed_key"], secret)
         self.assertEqual(self.mode(".throughline/pending.json"), 0o600)
@@ -874,6 +875,34 @@ class Limits(Case):
             code, out = self.cli("start-from-now")
             self.assertEqual((code, out["cursor"], out["captured"]), (0, 4242, False))
         self.assertEqual(self.api.latest_calls, 1)  # never repeated on resume
+        sent = [r for r in self.api.requests if r[2].startswith("/v1/news")]
+        self.assertEqual([(r[1], r[2]) for r in sent], [("GET", "/v1/news?cursor=latest&limit=1")])
+
+    def test_trickling_head_reply_cannot_outlast_the_deadline_or_save_a_cursor(self):
+        self.login()
+        self.api.drip = True  # every socket read succeeds; only a wall clock stops this
+        started = time.monotonic()
+        code, out = self.cli("start-from-now", "--timeout", "1")
+        self.api.drip = False
+        self.assertEqual((code, out["error"]), (4, "network_error"))
+        self.assertLess(time.monotonic() - started, 3)
+        heads = [r for r in self.api.requests if r[2].startswith("/v1/news")]
+        self.assertEqual(len(heads), 1, "the head read is a single attempt, never retried")
+        self.assertFalse((self.dir / ".throughline/cursor.json").exists())
+        code, out = self.cli("start-from-now")  # the failure left nothing behind; a later run captures
+        self.assertEqual((code, out["cursor"], out["captured"]), (0, 4242, True))
+        code, out = self.cli("start-from-now")
+        self.assertEqual((code, out["cursor"], out["captured"]), (0, 4242, False))
+
+    def test_head_reply_that_is_not_an_empty_numeric_head_is_refused(self):
+        self.login()
+        for bad in (dict(items=[], has_more=False, next_cursor="4242"), dict(items=[], has_more=True, next_cursor=1),
+                    dict(items=[{}], has_more=False, next_cursor=1), dict(items=[], has_more=False, next_cursor=-1),
+                    dict(items=[], has_more=False, next_cursor=True), dict(items=[], has_more=False)):
+            self.api.head = bad
+            code, out = self.cli("start-from-now")
+            self.assertEqual((code, out["error"]), (4, "invalid_response"), bad)
+            self.assertFalse((self.dir / ".throughline/cursor.json").exists())
 
 
 class Files(Case):

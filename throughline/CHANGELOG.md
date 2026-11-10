@@ -11,7 +11,12 @@
 - `throughline login` no longer treats an expired request as proof that nothing
   was activated. It reports `delivery_unknown` (exit 4), keeps the pending
   secrets and names the connection to inspect or revoke in the portal. Denial
-  stays definitive. The `expired` status is gone.
+  stays definitive. The `expired` status is gone.- `throughline start-from-now` reads the head through the command's own bounded
+  request path: one attempt, one whole-request deadline, no redirect. A reply
+  that is not an empty page with a numeric cursor is `invalid_response` and
+  saves nothing. A saved cursor is still returned without a second capture.
+- A denied request now says "No keys from this request are active."
+
 - Both feed clients gain a usage reader (`client.usage()` in Python and
   JavaScript) for the account's plan and current usage from `GET /v1/usage`. It
   does not spend a news response and has its own separate limit. It needs the

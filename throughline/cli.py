@@ -41,8 +41,6 @@ from typing import Any, NoReturn
 
 from .client import (
     DEFAULT_BASE_URL,
-    Throughline,
-    ThroughlineError,
     _NoRedirect,
     _retry_after,
 )
@@ -719,7 +717,7 @@ def _poll(project: Project, base: str, pending: dict[str, Any], timeout: float) 
         # A denial is definitive: this pairing never produced a key.
         project.remove(os.path.join(project.state, "pending.json"))
         return dict(status="denied", pairing_id=pending["pairing_id"],
-                    next="Nothing was activated. Run 'throughline login' to start again.")
+                    next="No keys from this request are active. Run 'throughline login' to start again.")
     if status == 400 and code == "expired_token":
         # Expiry does not prove the request was never approved: an approval whose
         # pickup window lapsed answers the same way. The secrets stay on disk.
@@ -936,17 +934,14 @@ def cmd_start_from_now(project: Project, base: str, args: argparse.Namespace) ->
             _fail("invalid_response", path=STATE_DIR + "/cursor.json")
         # Capturing the head again would skip everything published since.
         return dict(status="ok", cursor=cursor, captured=False, cursor_file=STATE_DIR + "/cursor.json")
-    client = Throughline(base, project.feed_key(), timeout=args.timeout)
-    try:
-        cursor = client.start_from_now()
-    except ThroughlineError as exc:
-        fields: dict[str, Any] = {"http_status": exc.status}
-        if isinstance(exc.request_id, str) and _IDENT.fullmatch(exc.request_id):
-            fields["request_id"] = exc.request_id
-        raise CliError(exc.code if exc.code and _CODE.fullmatch(exc.code) else f"http_{exc.status}",
-                       **fields) from None
-    except (urllib.error.URLError, HTTPException, OSError):
-        _fail("network_error")
+    # The same bounded, single-attempt request path as every other command: one
+    # whole-request deadline, no redirect, no retry.
+    payload = _call(base, "GET", "/v1/news?cursor=latest&limit=1", token=project.feed_key(),
+                    timeout=args.timeout)
+    cursor = payload.get("next_cursor")
+    if (type(cursor) is not int or not 0 <= cursor <= 2**63 - 1
+            or payload.get("items") != [] or payload.get("has_more") is not False):
+        _fail("invalid_response")
     project.write_json("cursor.json", dict(version=1, cursor=cursor, captured_at=time.time()))
     return dict(status="ok", cursor=cursor, captured=True, cursor_file=STATE_DIR + "/cursor.json",
                 next="Poll /v1/news with this numeric cursor and save each next_cursor with the "

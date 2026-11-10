@@ -94,7 +94,7 @@ credential. `status` is one of `ok`, `pending`, `delivered`, `denied`,
 `4` error or delivery unknown. Errors carry a stable `error` code and fixed
 fields only; response bodies are never echoed.
 
-A denial is definitive: nothing was activated and the pending request is
+A denial is definitive: no keys from that request are active and the pending request is
 cleared. An expired request is not. The server gives the same `expired_token`
 answer for a request nobody approved and for an approved one that was not
 picked up within its window, so the CLI reports `delivery_unknown` (exit `4`),
