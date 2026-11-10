@@ -46,6 +46,7 @@ export interface PageOptions {
 export declare class Throughline {
   constructor(baseUrl?: string, apiKey?: string, opts?: ThroughlineOptions);
   page(cursor?: number, opts?: PageOptions): Promise<Page>;
+  startFromNow(): Promise<number>;
   match(recordId: string, opts?: { streamId?: string }): Promise<Record<string, unknown> | null>;
   coverage(): Promise<Record<string, unknown>>;
   changes(cursor?: number, opts?: PageOptions): AsyncGenerator<Page, void, undefined>;

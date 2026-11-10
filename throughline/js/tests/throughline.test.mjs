@@ -128,6 +128,22 @@ test("retryAfter values", () => {
 const ok = (body) => ({ ok: true, status: 200, headers: new Headers(), json: async () => body, text: async () => JSON.stringify(body) });
 const fail = (status, body = "{}", headers = {}) => ({ ok: false, status, headers: new Headers(headers), json: async () => JSON.parse(body), text: async () => body });
 
+test("startFromNow captures a numeric cursor once and the next page uses it", async () => {
+  const urls = [];
+  const client = new Throughline(undefined, "k", { fetch: async (url) => {
+    urls.push(url); return ok(urls.length === 1 ? { items: [], next_cursor: 42, has_more: false } : EXAMPLE);
+  } });
+  const cursor = await client.startFromNow();
+  assert.equal(cursor, 42);
+  await client.page(cursor);
+  assert.match(urls[0], /cursor=latest/);
+  assert.match(urls[1], /cursor=42/);
+  for (const value of [undefined, -1, true, "42", 1.5, Number.MAX_SAFE_INTEGER + 1]) {
+    const bad = new Throughline(undefined, "k", { fetch: async () => ok({ items: [], next_cursor: value, has_more: false }) });
+    await assert.rejects(bad.startFromNow(), (e) => e.code === "invalid_start_cursor_response");
+  }
+});
+
 test("requires baseUrl and apiKey and a fetch", () => {
   assert.throws(() => new Throughline("", "k"), TypeError);
   assert.throws(() => new Throughline("http://x", ""), TypeError);

@@ -144,6 +144,21 @@ def raise_http(code, body=b"{}", headers=None):
 
 
 class ClientTransport(unittest.TestCase):
+    def test_start_from_now_is_explicit_and_next_page_uses_the_saved_number(self):
+        with mock.patch('urllib.request.urlopen', side_effect=[
+                ok({'items': [], 'next_cursor': 42, 'has_more': False}), ok(EXAMPLE)]) as transport:
+            client = Throughline(api_key='k')
+            cursor = client.start_from_now()
+            self.assertEqual(cursor, 42)
+            client.page(cursor)
+        self.assertIn('cursor=latest', transport.call_args_list[0].args[0].full_url)
+        self.assertIn('cursor=42', transport.call_args_list[1].args[0].full_url)
+        for value in (None, -1, True, '42', 1.5):
+            with mock.patch('urllib.request.urlopen', return_value=ok(
+                    {'items': [], 'next_cursor': value, 'has_more': False})):
+                with self.assertRaises(ThroughlineError):
+                    client.start_from_now()
+
     def test_production_url_and_environment_key_need_no_setup_arguments(self):
         with mock.patch.dict('os.environ', {'THROUGHLINE_API_KEY': 'test-key'}):
             with mock.patch('urllib.request.urlopen', return_value=ok(EXAMPLE)) as transport:

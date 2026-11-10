@@ -222,6 +222,20 @@ export class Throughline {
     return parsePage(payload, cursor);
   }
 
+  /** Capture the global head once, persist the number, then poll numerically.
+   * This empty poll counts as one request. Repeating it skips new publications.
+   * @returns {Promise<number>}
+   */
+  async startFromNow() {
+    const payload = await this._get("/v1/news", { cursor: "latest", limit: 1 });
+    const cursor = payload?.next_cursor;
+    if (!Number.isSafeInteger(cursor) || cursor < 0 || !Array.isArray(payload.items) ||
+        payload.items.length !== 0 || payload.has_more !== false) {
+      throw new ThroughlineError(502, '{"error":"invalid_start_cursor_response"}');
+    }
+    return cursor;
+  }
+
   /**
    * The current head of one match, or `null` if it is withdrawn. Pass
    * `streamId` to disambiguate; without it a shared record ID returns 409.

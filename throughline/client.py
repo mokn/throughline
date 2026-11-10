@@ -197,8 +197,8 @@ class Throughline:
     ) -> Page:
         """One page of changes at or after ``cursor``, oldest first.
 
-        ``cursor=0`` is the start of retained history. There is no snapshot
-        endpoint, so a new consumer replays from zero.
+        ``cursor=0`` is the start of retained history. For future changes only,
+        call ``start_from_now`` once and persist its numeric return value.
 
         ``market_id`` is an exact condition ID -- not a slug, event ID or token
         ID.
@@ -208,6 +208,19 @@ class Throughline:
             {"cursor": cursor, "limit": limit, "market_id": market_id},
         )
         return _parse_page(payload, fallback_cursor=cursor)
+
+    def start_from_now(self) -> int:
+        """Capture the current global head. Save it once, then poll numerically.
+
+        This empty poll uses one news request. Repeating it skips intervening
+        publications, so never call it on each application restart.
+        """
+        payload = self._get("/v1/news", {"cursor": "latest", "limit": 1})
+        cursor = payload.get("next_cursor")
+        if (type(cursor) is not int or not 0 <= cursor <= 2**63 - 1
+                or payload.get("items") != [] or payload.get("has_more") is not False):
+            raise ThroughlineError(502, '{"error":"invalid_start_cursor_response"}')
+        return cursor
 
     def match(self, record_id: str, *, stream_id: str | None = None) -> dict[str, Any] | None:
         """The current head of one match, or ``None`` if it is withdrawn.
