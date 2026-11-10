@@ -6,13 +6,15 @@ prediction-market contracts, and why: the article matched to the contract, the
 reason stated, the evidence it was drawn from labeled, and withdrawn matches
 kept readable instead of deleted. Geopolitical markets first.
 
-**It is not serving yet.** The analysis flow behind it runs today; the public
-feed does not. [Ask to be told when it opens](mailto:access@throughline.markets?subject=Throughline%20early%20access),
-or read the [proposed API](https://throughline.markets/api).
+Public testing is open. [Get a free API key](https://api.throughline.markets/account)
+or read the [API reference](https://throughline.markets/api). Free is 100 successful
+news responses per account per UTC day; the explicit seven-day no-card trial is
+5,000/day and Builder is $29/month for 5,000/day. Empty polls count.
 
-This repo is the public, working part. Everything here runs today, needs no
-API key and nothing from Throughline, and will stay useful whether or not you
-ever use the feed.
+[Python and JavaScript news clients](throughline/README.md) use
+`THROUGHLINE_API_KEY` and default to `https://api.throughline.markets`.
+The Gamma client, rules archive and archive MCP server below are separate public
+tools. They need no Throughline key.
 
 ## The thing you can use right now
 
@@ -171,7 +173,9 @@ closer read, or are `withdrawn` and stay readable.
 Never published: forecasts, probabilities, positions, financial eligibility, or
 anything that answers "is there edge against the current price". The published
 set is not narrowed by any volume, price or liquidity filter. A separate
-coverage endpoint distinguishes a quiet market from a broken pipeline.
+coverage endpoint reports declared scope and publisher-supplied availability.
+Dynamic screening and source health remain unknown; silence proves neither
+health nor an absence of relevant news.
 
 The contract is [`ThroughlinePublicationV3`](throughline/schema/upsert-single.json)
 and is not frozen; the [reference clients](throughline/) (Python, stdlib only;

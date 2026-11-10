@@ -216,7 +216,7 @@ class Throughline:
         publications, so never call it on each application restart.
         """
         payload = self._get("/v1/news", {"cursor": "latest", "limit": 1})
-        cursor = payload.get("next_cursor")
+        cursor = payload.get("next_cursor") if isinstance(payload, dict) else None
         if (type(cursor) is not int or not 0 <= cursor <= 2**63 - 1
                 or payload.get("items") != [] or payload.get("has_more") is not False):
             raise ThroughlineError(502, '{"error":"invalid_start_cursor_response"}')

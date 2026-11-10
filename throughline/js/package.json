@@ -1,7 +1,7 @@
 {
   "name": "@throughline/client",
-  "version": "0.1.0",
-  "description": "Reference client for the Throughline news relevance feed for Polymarket markets. Not serving yet.",
+  "version": "0.1.1",
+  "description": "Reference client for the Throughline news relevance API for Polymarket markets.",
   "type": "module",
   "main": "./throughline.mjs",
   "types": "./throughline.d.ts",

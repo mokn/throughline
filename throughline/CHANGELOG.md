@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Added explicit start-from-now cursor helpers; save the numeric result before polling.
+- Added local Python packaging as `throughline-news-client` and consistent production setup instructions. No registry release.
+
 - Quota/data-cap errors raise immediately with machine-readable error and recovery
   fields. Transient read failures alone retry, respecting numeric/HTTP-date
   `Retry-After`, a configurable 60-second retry budget and cancellation.
