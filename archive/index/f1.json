@@ -336,6 +336,15 @@
   "sha256": "d244041d96e0be5577acebe3439a8d08c6cbd872dca79d8c85ea7b0032316975",
   "slug": "will-devonta-smith-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-yards-20260715211950736"
  },
+ "0x31ef6cea3ab428b4f77ae3cf8e9136198c7b1b78a2d9d3fd41025a253e7d21f1": {
+  "created_at": "2026-11-09T22:27:55.522594Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Eddie Howe be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-eddie-howe-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x330105d5b6265190c907b24490816100d46f489c18cdcda258918714e1aad6f1": {
   "created_at": "2026-08-18T18:59:05.237533Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -612,6 +621,7 @@
   "created_at": "2026-09-29T00:12:16.846006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in India by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -838,6 +848,7 @@
   "created_at": "2026-08-31T18:27:35.707889Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Martin Slez\u00e1k be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",
@@ -1512,6 +1523,7 @@
   "created_at": "2026-09-09T15:53:48.62613Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Said El Mala win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",

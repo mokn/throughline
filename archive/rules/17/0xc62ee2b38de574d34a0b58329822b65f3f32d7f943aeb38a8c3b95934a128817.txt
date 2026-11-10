@@ -1,0 +1,19 @@
+This market will resolve "Yes" if a team from the listed region is crowned champion (wins the Grand Final) of at least one qualifying international VALORANT event concluding in the 2027 calendar year. Otherwise, this market will resolve "No."
+
+For the purposes of this market, "qualifying international VALORANT event" means any of the following, and only the following:
+VALORANT Masters Seoul 2027 (February 20 – March 3, 2027)
+VALORANT Masters València 2027 (June 5 – June 20, 2027)
+Esports World Cup 2027 — VALORANT (dates to be announced)
+VALORANT Champions 2027, Austin (September 16 – October 10, 2027)
+
+No other event counts.
+
+A team's region is the VCT international league (Americas, EMEA, Pacific, or China) which it competed in to qualify for the event, if a team did not qualify through a VCT international league it will be considered the region as affiliated on liquipedia, if the team has no listed region or no liquipedia page it will be based on the region of the last team it beat to qualify to the event.
+
+If multiple teams are officially declared co-winners of a qualifying event, the event will count for the region of the team whose listed team name comes first alphabetically.
+
+This market resolves "Yes" as soon as a team from the listed region wins any one qualifying event; winning more than one is not required. If no team from the listed region wins any of the listed events, this market resolves "No."
+
+If all qualifying events are cancelled, or are postponed such that no champion is determined for any of them by December 31, 2027, 11:59 PM ET, this market will resolve to "No".
+
+The resolution source for this market will be official information from Riot Games via the VALORANT Esports website (https://valorantesports.com) and, for the Esports World Cup, the official EWC website (https://esportsworldcup.com). A consensus of credible reporting may also be used.

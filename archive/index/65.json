@@ -94,6 +94,7 @@
   "created_at": "2026-09-09T15:53:46.036466Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Rodrigo Mora win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -206,6 +207,15 @@
   "revisions": 1,
   "sha256": "7cb1c475f124249dcdcfd99d65042f3995de016823ae102e94261bfb9ebdf566",
   "slug": "el1-bro-wyc-2026-10-03-corners-first-half-total-4pt5"
+ },
+ "0x1f47225021e5116effdf647ae8119c906ef79127ff63149d2143f1a20294aa65": {
+  "created_at": "2026-11-10T02:39:25.452986Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Nvidia run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-nvidia-run-an-ad-during-super-bowl-lxi"
  },
  "0x1fb7de94059b9fda2c139f47a7f6767ea2af74f2cbc465045c575cf583d45565": {
   "created_at": "2026-10-10T11:30:12.473131Z",

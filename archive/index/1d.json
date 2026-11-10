@@ -330,6 +330,7 @@
   "created_at": "2026-09-29T00:12:15.893318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Belarus by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -408,6 +409,15 @@
   "revisions": 1,
   "sha256": "32d85d3df19bfe913dab5362d8eeabc4e437a48a9afb6576f9e524813b6c0034",
   "slug": "will-sturm-graz-score-the-most-goals-in-the-uel-league-phase"
+ },
+ "0x393a8b2c9297e91f6e8e2a683fd62b6bfb0d432a46e1c34d1f82de3e48db211d": {
+  "created_at": "2026-11-10T02:41:29.693736Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Umbrella\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-umbrella-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0x3953a1b2640f3af82e77390a4df00100db6ba86a3c59cb590ba26f64b90c261d": {
   "created_at": "2026-06-25T17:29:09.603228Z",
@@ -735,6 +745,15 @@
   "sha256": "08862a5bea542ed24f31da84d5134cea8515755da6d11bae7736a2ff130e6a95",
   "slug": "will-gambia-win-afcon-2027-qualifying-group-c"
  },
+ "0x6c1a668346e067d200ae809199aadbdd4ddedfbda2c0943dd9177d6cab018c1d": {
+  "created_at": "2026-11-09T22:28:00.814419Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Carlo Ancelotti be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-carlo-ancelotti-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x6dcfdb2ea6a557609991bbd17252d68906c0aa63c0eab29381c55505e6ebaf1d": {
   "created_at": "2026-10-05T15:17:22.988291Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -752,6 +771,15 @@
   "revisions": 1,
   "sha256": "1504c2cebcd81c6fe62692d5ba57627d1739b307cef154e114ea019bb63f2a76",
   "slug": "will-the-republican-party-candidate-win-the-2026-pa-09-house-election-by-20-25"
+ },
+ "0x70336ff7d335af126a731dd084e896f8a1b727495fc4b3f1494791017688ee1d": {
+  "created_at": "2026-11-10T02:53:48.775864Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "JD Vance resigns as Vice President by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "9dfc9243f56d0aafebef8552d28ba3fbe1aecbcefa8bee418d49a134220e8743",
+  "slug": "jd-vance-resigns-as-vice-president-by-december-31-2027"
  },
  "0x70348f97d802e707b361c683b75e53aab1bb9be4cf5b59cc5336a3e205f7a41d": {
   "created_at": "2026-09-08T16:56:25.303038Z",

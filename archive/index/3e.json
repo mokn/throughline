@@ -446,6 +446,24 @@
   "sha256": "f498c10c62275839eeeffb5a2a276b2e578e0589b219bbca597a7ea61488926f",
   "slug": "dan-jpt-sullivan-charged-by-january-31"
  },
+ "0x54ebb82462c6ed89139f2995200a5196a502f1ab7ba52620592d2255bfd2fa3e": {
+  "created_at": "2026-11-10T02:45:37.509354Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Lionel Messi attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-lionel-messi-attend-super-bowl-lxi"
+ },
+ "0x59130a178e803ede482d9ad17125cde6b17579233e24bbc7ad813dae47717f3e": {
+  "created_at": "2026-11-10T02:45:19.779037Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Ariana Grande sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-ariana-grande-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x5c1ca64f372a0b36304ead231d81cc4bbbdbb153d21ac5f9a3c219928141233e": {
   "created_at": "2026-10-15T13:14:23.652075Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -874,6 +892,7 @@
   "created_at": "2026-08-12T17:30:31.516569Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Hartford Athletic be runner-up in the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "30bf7340fe7a1a7712b6b573d3c17935f357061bf3657e4733c348e2f4213d33",

@@ -72,6 +72,15 @@
   "sha256": "91744a294268812d15cdcebbabd1a63688d238742bd2213be807684ea381a1ab",
   "slug": "el1-pet-not-2026-10-03-second-half-team-total-home-0pt5"
  },
+ "0x0c4862a7a2c0e198bc0801ea7af504de79482f6632046ce0e7ad282940d76a6f": {
+  "created_at": "2026-11-10T02:41:51.198798Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Hard Knock Life (Ghetto Anthem)\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-hard-knock-life-ghetto-anthem-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0x0ed6fe94dc21bb20ac1d9a489773b50d8bdd52b35e551b82886ad0f88950026f": {
   "created_at": "2026-07-20T19:24:16.930655Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -764,6 +773,7 @@
   "created_at": "2026-03-25T21:41:47.955479Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Sal Stewart win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",

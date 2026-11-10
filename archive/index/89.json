@@ -206,6 +206,15 @@
   "sha256": "7ce4c2b250d8535253e443c6bfe6d9af8086894ca0f0a52c727fb9b7c67571eb",
   "slug": "theo-fdv-above-300m-one-day-after-launch"
  },
+ "0x1f40740f1ec52e61889638afa70955cf31f586c103977b41140f1419ba701389": {
+  "created_at": "2026-11-10T02:45:14.317065Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Jennifer Hudson sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-jennifer-hudson-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x1f7109778e71ba11a806d1c58f49b361638a6896cbc7491b148014e328620d89": {
   "created_at": "2026-08-12T00:18:58.858934Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1062,6 +1071,7 @@
   "created_at": "2026-10-28T21:55:05.73999Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Next Fable Model (5.2+) released before Anthropic IPO?",
   "revisions": 1,
   "sha256": "40ceda0705426206c28e783903f3690de3720ed128240c2f67379b0f90e26231",
@@ -1273,6 +1283,15 @@
   "revisions": 1,
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-kylian-mbapp-win-the-2027-ballon-dor"
+ },
+ "0xd6c9734052653627bed02b95483935073e26a09aea9d544c6173b254409bc589": {
+  "created_at": "2026-11-09T22:28:10.046427Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Oliver Glasner be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-oliver-glasner-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xd6db82684451f09d3f480d285cfc2a64521652c43c21dcc085023563eaf13b89": {
   "created_at": "2026-08-07T19:13:19.112585Z",

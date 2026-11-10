@@ -270,6 +270,15 @@
   "sha256": "6810b75463a716df1b0ccc72df29d3e3842d58f224cd386416b2788395f66965",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-09-house-election-by-35-40"
  },
+ "0x3a1f4bcbf6beea8a89b040ff60c16fcff3e2a5ee01c65c7577493e7a6bc06116": {
+  "created_at": "2026-11-09T21:18:06.126354Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will JD Gaming Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-jd-gaming-win-an-international-event-in-2027"
+ },
  "0x3e365ffc235373f1b85766e4f284a4a3c68fd2c50a29443b3ce3ceaf04cdc916": {
   "created_at": "2026-09-21T16:11:57.105961Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -305,6 +314,15 @@
   "revisions": 1,
   "sha256": "5f61dd1142ae9cd5f12f73b8721fda86dd88c6dc8297715ea283901774b753c8",
   "slug": "will-chloe-kelly-win-the-2027-womens-ballon-dor"
+ },
+ "0x43ba3aa54896ac4ed70a1cced8888ee633243516fae97b82c7ca9b580a43ca16": {
+  "created_at": "2026-11-10T02:45:15.638947Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Lady Gaga sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-lady-gaga-sing-the-national-anthem-at-the-2027-big-game"
  },
  "0x4425421f799aae6119b5384e3c3a8b497966c67d3f647a69d68aba1138a03816": {
   "created_at": "2026-08-28T19:39:42.811679Z",
@@ -872,6 +890,7 @@
   "created_at": "2026-08-12T17:30:29.800945Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Colorado Springs Switchbacks FC be runner-up in the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "30bf7340fe7a1a7712b6b573d3c17935f357061bf3657e4733c348e2f4213d33",
@@ -1298,6 +1317,7 @@
   "created_at": "2026-08-26T21:46:18.845551Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Waterford be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",

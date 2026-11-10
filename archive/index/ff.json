@@ -580,6 +580,15 @@
   "sha256": "337a9845824e66122a9e62f75ab36836a4b9c9260a554b71726770cf1ae12e92",
   "slug": "will-magnus-carlberg-be-the-next-regional-board-chair-of-region-kronoberg-1786127776871"
  },
+ "0x6778559ba39a98dcfb27eef5fbe4af4f2f6c050c66ab3afd65ee359a817320ff": {
+  "created_at": "2026-11-10T02:03:27.832508Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will no President of Brazil's Chamber of Deputies be elected by February 28?",
+  "revisions": 1,
+  "sha256": "4a00c903ea29af55c310be8de842b6ec4cc6a253923418649e340f9fc3e779e4",
+  "slug": "will-no-president-of-brazils-chamber-of-deputies-be-elected-by-february-28-20261106"
+ },
  "0x6e58063168b621fd74bc23445ab431b113e12a8e75010e84c8e64b7dcced66ff": {
   "created_at": "2026-09-04T04:04:11.325396Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -918,6 +927,7 @@
   "created_at": "2026-08-11T14:12:17.813157Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Democrats win exactly 6 House seats in Arizona in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "3ce8c2e54f72a254d99fb8fa2091a807b8dd844ee8faca6bed3d7b2f22f86912",

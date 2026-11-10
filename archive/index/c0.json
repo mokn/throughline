@@ -162,6 +162,15 @@
   "sha256": "46ee8417a4c8952b76317fcdc1083f16a251567742c471a509f8a9ad8b9d27aa",
   "slug": "will-bernd-leno-fulham-record-the-most-clean-sheets-in-the-2026-27-premier-league-season"
  },
+ "0x162233a2bccdaeda7cddd2f59ddbd59d9924d44a3852100bc9205ba8257c3bc0": {
+  "created_at": "2026-11-09T21:18:11.564051Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Movistar KOI Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-movistar-koi-win-an-international-event-in-2027"
+ },
  "0x167b68241e73b62d70496c43c6fe6d2f27914425b32557101cf3fd188dad1cc0": {
   "created_at": "2026-09-27T20:04:46.072702Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -793,6 +802,7 @@
   "created_at": "2026-09-29T00:12:11.191367Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Russia by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",

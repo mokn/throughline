@@ -212,6 +212,7 @@
   "created_at": "2026-03-25T21:41:49.099038Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Carson Benge win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -525,6 +526,15 @@
   "sha256": "5a217acc4dc1a24558b7344d5d882e82cf059923b54a4c23d09834b05a2ecb5f",
   "slug": "cze1-fsl-fbo-2026-10-24-exact-score-2-2"
  },
+ "0x5069100ff7bb66d6879814d63f50236a125c2715aed63b0f2decfad72f8c886c": {
+  "created_at": "2026-11-10T02:45:18.640997Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Post Malone sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-post-malone-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x509e4e02ffb0a6e6ca553fd16921bb2c710f303f16edb88c3d5638179f5e3e6c": {
   "created_at": "2026-08-25T21:10:19.477776Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -776,6 +786,15 @@
   "revisions": 1,
   "sha256": "618c5e75ec9a732021949745aaa6337c25541e14b0563ef3fda3d08890bd2a34",
   "slug": "will-the-democratic-party-candidate-win-the-2026-maine-gubernatorial-election-by-20-25"
+ },
+ "0x786fb99e7c05f3c0d430ffcf6500c1d9896fec9d73351208930288753d86866c": {
+  "created_at": "2026-11-10T03:01:12.912552Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will brand new chanel$ (Slayyyter) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-brand-new-chanels-slayyyter-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x7c8346e27eee6c573b77c53fe997d71b9fb0c730b1a2ef021e4beea3efa3f86c": {
   "created_at": "2026-09-08T16:54:45.368325Z",

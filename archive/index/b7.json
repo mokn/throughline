@@ -987,6 +987,15 @@
   "sha256": "60aed66b16e47381a62ec05aa5fa3581b9a586899838cb32cf44de5e0afbf74d",
   "slug": "will-meta-be-the-second-best-ai-lab-at-the-end-of-december-2026"
  },
+ "0xbe12000ef3343218577e7ad08de8e95c23139917394796a54e9c416ea3892db7": {
+  "created_at": "2026-11-09T22:28:10.986418Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Xabi Alonso be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-xabi-alonso-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0xbe25098eb27c3aea490cf656052c452686edc4b45381223edfc44ddc83b250b7": {
   "created_at": "2026-07-17T22:47:15.153604Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1421,6 +1430,15 @@
   "sha256": "dd98fe7152ca02c256a897489b80027381de4ac0e65762f926a93ba77735ce79",
   "slug": "will-the-worlds-2026-grand-final-end-3-1"
  },
+ "0xfe23bd957f3bd13d781ee5d68805ff748c41c7c54a11c57455353b7f40c9f7b7": {
+  "created_at": "2026-11-09T21:15:01.714093Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will a Team from Americas Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "b6989380230f7b81d9a11b4e4ef936aaf7c26b217313a05bd43619f2613c47c9",
+  "slug": "will-a-team-from-americas-win-an-international-event-in-2027"
+ },
  "0xfe45f48ffeff236475b44ed53ec858ab7d4ab5509485a515777c7558c4ca48b7": {
   "created_at": "2026-04-29T16:36:54.965954Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1429,5 +1447,14 @@
   "revisions": 1,
   "sha256": "41f25d7f6f446ac87eb7e039c39e62179a5379ebb32729551d7e5ca4fa0bba4c",
   "slug": "will-the-labour-party-win-40-44-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election"
+ },
+ "0xff614fcc25f67c9df665f904a9a2fa9968084faddfa4beaa00852a5298ce2fb7": {
+  "created_at": "2026-11-10T02:41:24.809641Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Holy Grail\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-holy-grail-be-played-last-at-the-2027-big-game-halftime-show"
  }
 }

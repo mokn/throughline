@@ -908,6 +908,15 @@
   "sha256": "881b9d35b301f2dbed7479bdee1d0254c7ee5f4a6b952405ed366b0fc0a43ed2",
   "slug": "liga-argentina-2027-champion-barrio-jardin"
  },
+ "0xa04c16368ee3288419caf5e8609da3933a5a617f2ef7d8fcf5354f11f8267e25": {
+  "created_at": "2026-11-09T23:32:33.558923Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Alice Huang be federally charged by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "a180caac1a0afa8f3c31eb689422e7bfc026dbaecf64fd08ec5f21af755a4455",
+  "slug": "alice-huang-federally-charged-by-december-31-2026"
+ },
  "0xa09d6a6066150be5ee3833208a173e2ed35b13301f3616d89e57faa0b270ac25": {
   "created_at": "2026-01-02T21:34:44.200385Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1296,6 +1305,15 @@
   "revisions": 1,
   "sha256": "9ff21ec23bacfd501083fcbf94b3451294738e904d49539f7b27ad492d910529",
   "slug": "will-boaster-retire-from-professional-valorant-in-2026"
+ },
+ "0xe3b96e00fe0c1195da7960a56490cb4fbe2d94a3b580df2fffe179efb5c36525": {
+  "created_at": "2026-11-10T02:42:17.457348Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Jigga What, Jigga Who\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-jigga-what-jigga-who-be-played-at-the-2027-big-game-halftime-show"
  },
  "0xe42c8d714ed9bcfdcd9e6539c1f3f3dca30d3f4d31a057837b6e2ef22eb09c25": {
   "created_at": "2026-08-11T17:52:14.500517Z",

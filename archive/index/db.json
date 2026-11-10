@@ -89,6 +89,24 @@
   "sha256": "1a3c17e41f542689bdab987dd31b24b8e10bab9fa3874f687fd1f9179094f025",
   "slug": "will-brad-ledford-win-the-bachelorette-season-22"
  },
+ "0x0c41de1789bf5f71f76bbe5e44b6d11a210f7ebc923dedc8b16d60abdbc9dfdb": {
+  "created_at": "2026-11-10T02:41:57.682483Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Can I Get A...\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-can-i-get-a-be-played-at-the-2027-big-game-halftime-show"
+ },
+ "0x0c8bec167fd69bd78fbc39254fd91930be07b67b5e07027f71cb27d0923d92db": {
+  "created_at": "2026-11-10T02:41:28.169533Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Heart of the City (Ain't No Love)\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-heart-of-the-city-aint-no-love-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x0fbe15eb1a8e09d9d0c17afe630ae66cbceff03652978c7488d89d08b28ca8db": {
   "created_at": "2026-09-04T19:50:04.501494Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -106,6 +124,15 @@
   "revisions": 1,
   "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
   "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-hamilton-2026-12-05"
+ },
+ "0x12b10914550c9458b1081c3d0d82aabc8b0fb5d84ad6c832149091fd0b11aedb": {
+  "created_at": "2026-11-10T02:40:50.046933Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Public Service Announcement\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-public-service-announcement-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0x15c5c009732014b126ffffc038a7febff2f67c4e565531245930a5520f1e50db": {
   "created_at": "2026-09-02T21:58:35.593356Z",

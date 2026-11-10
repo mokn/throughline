@@ -445,6 +445,15 @@
   "sha256": "9a73b041924b26b163e4df363732c817bc8fd4bef3ce892940baa421ea64677b",
   "slug": "el2-wal-cra-2026-10-03-corners-odd-even"
  },
+ "0x4bcdb44fcb0f848c53c9c2334285b67bf0decaa39cba73222304a42be57a4b35": {
+  "created_at": "2026-11-10T02:43:22.465229Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Gatorade shower at Super Bowl LXI be blue?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "will-the-gatorade-shower-at-super-bowl-lxi-be-blue"
+ },
  "0x4c32e140d29b04ec0291f36e6feadb85ca2148fa94cc9f7248caa8f8473c9835": {
   "created_at": "2026-10-24T04:00:07.396867Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -591,6 +600,15 @@
   "revisions": 1,
   "sha256": "9fcffbcc37cc7588942598790d7bfec8fa099629ce003267e3bf9863d76abad7",
   "slug": "2027-soccer-austrian-bundesliga-winner-lask"
+ },
+ "0x5baaea61984ff0db3093cf0b6ee9ecef7bbdfcdba485b967bd8da4f1b19e3d35": {
+  "created_at": "2026-11-09T22:28:10.489856Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Xavi Hernandez be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-xavi-hernandez-be-the-next-permanent-manager-of-manchester-united"
  },
  "0x5bcc5223bbf9dfe060a64887d0ba04a99ecaa9d6f72873d2b15f93848354f135": {
   "created_at": "2026-10-13T15:50:00.479687Z",
@@ -1092,6 +1110,15 @@
   "revisions": 1,
   "sha256": "da9b44d2c90d7d265bf9bd5d9788d95a504e289f4f0d0386b8b231a9ca7a863c",
   "slug": "will-bryant-wesco-jrpt-be-the-2026-d1-receiving-yards-leader-20260803213023216"
+ },
+ "0xb1669849e85f1213b08c2ae974958bcbebb1d72f59456698abfa03c2bb7c1835": {
+  "created_at": "2026-11-09T21:18:13.00247Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will DRX Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-drx-win-an-international-event-in-2027"
  },
  "0xb73b23b135bb40488931bbb9bde2a0a01c288c5896afb6d8baafcb3984840b35": {
   "created_at": "2026-04-22T18:25:35.234798Z",

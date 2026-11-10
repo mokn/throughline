@@ -271,6 +271,15 @@
   "sha256": "0fdaead949f10a6a1c647459b9430439a07bc58d3887e3a4e5494463608957e8",
   "slug": "will-japan-win-group-f-at-the-2027-afc-asian-cup"
  },
+ "0x281bba6f9e20e7e042dcb0cea7ae980d014521d00ec7529d76e28aeb5385b5f4": {
+  "created_at": "2026-11-09T22:27:56.580811Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Julian Nagelsmann be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-julian-nagelsmann-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x293ce2b646d4b076553842701cc817a40cf1873c64c93eb0c490466c9f6577f4": {
   "created_at": "2026-08-12T17:29:23.522453Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1139,6 +1148,7 @@
   "created_at": "2026-09-29T00:12:08.38823Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will no qualifying Russia x Ukraine peace talks take place by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -1335,6 +1345,15 @@
   "revisions": 1,
   "sha256": "541ff0230ccf6996c45419dd10073823393d830512dd39f89a4ab52d5820eb10",
   "slug": "will-betmoar-launch-a-token-by-september-30-2027"
+ },
+ "0xe643d2d4403c6dbdae7bab3300e1e798252b51a101ac1b948e105755c1b2d8f4": {
+  "created_at": "2026-11-09T21:18:13.802786Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Team Secret Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-team-secret-win-an-international-event-in-2027"
  },
  "0xe793da9ef4afd22ba2175b4a0e7abf1af7a703bda17245e5fa2da941feff09f4": {
   "created_at": "2026-10-25T04:01:34.81254Z",

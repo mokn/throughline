@@ -8,6 +8,15 @@
   "sha256": "39d71b59b6da72cbe24863bd588ac896f2c001ec0fcd6fe3b751d26122f6cb14",
   "slug": "will-the-median-home-value-in-the-dc-metro-be-between-511000-and-515000-on-december-31-2026"
  },
+ "0x020fe945f3798f6048d5675a3f5aa8ef7cca93ed3351808c9b2a51b7f774bf6d": {
+  "created_at": "2026-11-10T02:41:17.163157Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Crazy in Love\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-crazy-in-love-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x02f1d21eaaae9aa8922f869931e1e115389b184f1bef8439a39b6aaf66a3086d": {
   "created_at": "2026-08-12T14:50:54.426334Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -450,6 +459,15 @@
   "revisions": 1,
   "sha256": "37f4a0083249a1b43b56e1e8e59fd8a49c63ede1946c5ccb83e4ae3abf4d7756",
   "slug": "will-at-least-10-ships-transit-the-strait-of-hormuz-on-any-day-by-november-30-2026"
+ },
+ "0x3c08b2298435485a95d54a576d2f06a2aa0ae4c8b35cbfaf9baf946b371b246d": {
+  "created_at": "2026-11-10T02:41:35.485554Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Apeshit\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-apeshit-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0x3c42929381a492aff77e286a79c2263cf4420feee8134ad259c81afb4a808c6d": {
   "created_at": "2026-10-08T14:32:31.081709Z",
@@ -1446,6 +1464,7 @@
   "created_at": "2026-09-29T00:12:18.442593Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Egypt by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",

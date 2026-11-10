@@ -488,6 +488,15 @@
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-shayne-gostisbehere-win-the-2026-27-james-norris-memorial-trophy"
  },
+ "0x4dea6e8383c7894b252aab2fdec95a0e4127cd47ae2ddfcfb50bebeb1015920a": {
+  "created_at": "2026-11-10T03:01:18.470901Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Man I Need (Olivia Dean) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-man-i-need-olivia-dean-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x4e408cf5e89e46bad28f4ca0d8ac5a98afd3a2082896585234c98a8fe3e8760a": {
   "created_at": "2026-09-09T15:47:23.292314Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -763,6 +772,7 @@
   "created_at": "2026-08-26T21:46:18.782488Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Galway United be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",

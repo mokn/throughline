@@ -918,6 +918,15 @@
   "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
   "slug": "will-the-house-impeach-linda-mcmahon-by-june-30-2027"
  },
+ "0x834aecab6d5ceabd9fb3cc45e399d9d2ecc68f5596182bdc471a00140c8e1f1b": {
+  "created_at": "2026-11-10T02:45:36.02191Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Taylor Swift attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-taylor-swift-attend-super-bowl-lxi"
+ },
  "0x874f82a92e635a08c1e38aaa8eecc946327dfa4a2a010afd2bed0ec33c65851b": {
   "created_at": "2026-05-12T17:51:58.618422Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1108,6 +1117,15 @@
   "sha256": "2be9716113446eafdc75ebd43a9427151fe1e79dead12813e718819e7eb61db1",
   "slug": "2027-soccer-slovak-nik-liga-winner-fc-koice"
  },
+ "0xa09cca0f4c5e1405131b75022761a8545589057caf965938f486d4d76f5f5f1b": {
+  "created_at": "2026-11-09T17:18:03.392643Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Supreme Court lets parents sue over Washington trans law?",
+  "revisions": 1,
+  "sha256": "2d05cb27b656b757149e36fc742fbeddb4d58ccd86333a5075b92cbdd6942187",
+  "slug": "supreme-court-lets-parents-sue-over-washington-trans-law"
+ },
  "0xa14e3331436ab57ba517bcf41e3457856731cfbda73b4e01730c34b1729e771b": {
   "created_at": "2026-08-10T15:33:59.364967Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1153,6 +1171,15 @@
   "revisions": 1,
   "sha256": "e6c42409115a4269dc93326df8fa959a8ae68d5da3dc23496fdf28274b99141b",
   "slug": "will-the-democratic-party-win-the-pa-16-house-seat"
+ },
+ "0xa8f5b825211e413ecd16ad93505c435b7b55f7738cdb1b1657a7aa558d89f21b": {
+  "created_at": "2026-11-10T02:47:04.655553Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Big Game: Coin toss winner wins the Big Game?",
+  "revisions": 1,
+  "sha256": "686db617e5e94e043e697aa9e70f92f82ae87c79b6ef51f591f3f574b69e845e",
+  "slug": "super-bowl-lxi-coin-toss-winner-and-champion"
  },
  "0xa914840a4e44786e37c6bbe95004be7f98e4e2a1c695015f84f6dab14ca46d1b": {
   "created_at": "2026-10-20T18:27:56.962534Z",
@@ -1376,6 +1403,7 @@
   "created_at": "2026-10-06T18:40:35.129807Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will \"Wild Horse Nine\" score at least 90 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",

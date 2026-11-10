@@ -927,6 +927,15 @@
   "sha256": "7ba48f9e63907014aae3de43649011adf2671f39e1bc1d7d994dac1d32fd03e5",
   "slug": "will-genoa-qualify-for-the-2027-28-uefa-europa-league"
  },
+ "0xb72da76c2a5261d8fe6bb2341d0298c8fef71732e59f288f88d35d3317e2e6e7": {
+  "created_at": "2026-11-10T02:45:13.413223Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Mariah Carey sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-mariah-carey-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0xb7838deb29d0c65a18033879f3f87a9fd98573a50b70e516ec5b4e1b2ac5b9e7": {
   "created_at": "2026-07-18T20:23:06.652025Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1158,6 +1167,7 @@
   "created_at": "2026-09-29T00:12:09.980512Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in the United States by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",

@@ -1367,6 +1367,15 @@
   "sha256": "6c1bb8e30d04beaee4346b9f894a52259b82397888e7dfedbf05b4113e9e08cd",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-33-house-election"
  },
+ "0xd711332e08ee613395943cd5bf26137cee40c8733dfc8f6bacdc72be3ee91b10": {
+  "created_at": "2026-11-10T02:44:27.782686Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 120 and 130 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-120-and-130-seconds"
+ },
  "0xd7ee91e9e4b6e9e63079a05d65ef43a529f6cdef04c393de75505ec5a29ca810": {
   "created_at": "2026-07-29T02:09:17.34792Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1590,6 +1599,7 @@
   "created_at": "2026-10-06T18:40:35.560527Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will \"Wild Horse Nine\" score at least 92 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",

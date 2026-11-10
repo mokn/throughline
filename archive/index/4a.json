@@ -21,6 +21,7 @@
   "created_at": "2026-09-24T08:24:41.841771Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Anthropic's frontier output token price be at or above $30 in 2026?",
   "revisions": 1,
   "sha256": "2c8d943ec15467531ebd1eb5f9841ded6a03b87b11a8ce6ac459878174e7dbf9",
@@ -1029,6 +1030,15 @@
   "sha256": "de0824ce279fc0eef5fff6a1ddc655e8e0f2f32a8069065c40659ee7e1aec999",
   "slug": "will-luis-malagon-club-america-record-the-most-clean-sheets-in-the-2026-27-liga-mx-season-20260722172024373"
  },
+ "0xb4e91da0304abd7bb31ec71bb48e0ddf045c7ff5d02d94978c124d4c0065fa4a": {
+  "created_at": "2026-11-10T02:45:15.180191Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Christina Aguilera sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-christina-aguilera-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0xb76929b9ff163f87306c300191d132c93385f75b70f809c37e11d7d26483d04a": {
   "created_at": "2026-10-02T19:30:27.942196Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1145,6 +1155,15 @@
   "revisions": 1,
   "sha256": "0fba60e03908266ebca3e0912823008f81e7c17727c2f01637efc1e4a2c23df0",
   "slug": "will-alysa-liu-be-the-1-searched-person-on-google-this-year-20260717214426259"
+ },
+ "0xc4f8ae2024666a681db44945b27bcce182169a58654b78a1b20d76a15bae8c4a": {
+  "created_at": "2026-11-10T02:45:07.811958Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Rihanna sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-rihanna-sing-the-national-anthem-at-the-2027-big-game"
  },
  "0xc51ab15ef7b312a7dcfa4034d5e0d7f5f230113f1cd93fcffd5fbbeeb2c7af4a": {
   "created_at": "2026-08-21T17:31:49.547014Z",

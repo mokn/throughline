@@ -109,6 +109,15 @@
   "sha256": "0ec7ccab53f64302270c01d45e6de54db8162bdc8ec039b793cee982279c969b",
   "slug": "el1-wim-ste-2026-10-03-team-total-away-0pt5"
  },
+ "0x094aad5b4be0e1ca901380242518ea5900bfce9f621e2782f2d9890b499c62a6": {
+  "created_at": "2026-11-10T02:40:56.004052Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Show Me What You Got\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-show-me-what-you-got-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x0b0f285582792e6a18118aad175fb95a7ac829ec9bcbf9c64500fb7496fc68a6": {
   "created_at": "2026-09-04T04:02:09.659089Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -171,6 +180,15 @@
   "revisions": 1,
   "sha256": "36ce7b908cbd7f8d17928d632a9389870cbad13e5b09f761f702b032646b7970",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-13-house-election-by-0-45"
+ },
+ "0x13c42f3646c0d50a251c07c773cc075a1593309b639e878dfc4f260c97afe1a6": {
+  "created_at": "2026-11-10T02:45:10.427742Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will SZA sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-sza-sing-the-national-anthem-at-the-2027-big-game"
  },
  "0x13f28293b6d59f1ce47c63c9cc77c2acb4196ab42ac72d0c2690859d089ed7a6": {
   "created_at": "2026-08-12T17:27:09.491235Z",
@@ -1161,6 +1179,15 @@
   "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
   "slug": "will-jake-allen-win-the-2026-27-vezina-trophy"
  },
+ "0xca6555e47e85fb8f9f9bf2fa5776743d07a49897f35ef4bcb3bfe84a602c76a6": {
+  "created_at": "2026-11-10T01:00:48.209997Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "DeSantis's Republican nomination odds hit 25% by December 31?",
+  "revisions": 1,
+  "sha256": "c11c20f2fadbc073718528d605323fc6e9f1aa2faf429e2313d997bbd9b04f9f",
+  "slug": "desantiss-republican-nomination-odds-hit-25-by-december-31"
+ },
  "0xcd8981c782ac149f527b14c7bafcefc0473c049fb2aa5e82f1285f147c1c30a6": {
   "created_at": "2026-08-17T21:07:37.110684Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1178,6 +1205,15 @@
   "revisions": 1,
   "sha256": "31488cc5d64bb83f13e5dce67b05e5b6780d283f32f1326e2e760220a5c4d744",
   "slug": "jahmyr-gibbs-849pt5-receiving-yards-2026-27"
+ },
+ "0xcfbe11e2dbdf6fc1eac484b0906d80c3e53904dc26be283082fe473af8433ea6": {
+  "created_at": "2026-11-10T02:45:09.948401Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Mary J. Blige sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-mary-j-blige-sing-the-national-anthem-at-the-2027-big-game"
  },
  "0xcfbe2aeb7106aa9259d2a7ee8a0d42fa8e961a4f61dad446db5cb40874a313a6": {
   "created_at": "2026-07-24T15:53:22.714236Z",
@@ -1313,6 +1349,15 @@
   "revisions": 1,
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-kasper-dolberg-score-the-most-goals-in-the-2026-27-uefa-conference-league"
+ },
+ "0xe434ec27d697dc5815c98398adface1ec8e3e580eebc6fe539afdb4275336ba6": {
+  "created_at": "2026-11-09T17:24:15.057483Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Republicans win the Minnesota Senate special election in 2027?",
+  "revisions": 1,
+  "sha256": "e3085cf0c1933d12b70cb16d1be174ef178dee9c95482f4ea903263b8899e8c9",
+  "slug": "will-the-republicans-win-the-minnesota-senate-special-election-in-2027"
  },
  "0xe69bd38c9a32b5bacc8405e960d6b6d0d9cf80bc5098fd51f5cd93c64ca0aba6": {
   "created_at": "2026-10-13T19:55:55.214033Z",

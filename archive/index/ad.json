@@ -253,6 +253,15 @@
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-otar-kiteishvili-record-the-most-assists-in-the-2026-27-uefa-europa-league"
  },
+ "0x268b327425ebf046976933f494358e016c291bfdbb8dcc2e2ec3f3964578a8ad": {
+  "created_at": "2026-11-09T21:18:03.408437Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Rex Regum Qeon Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-rex-regum-qeon-win-an-international-event-in-2027"
+ },
  "0x2709a9392fcfe2348ad935b3158d5e4184ef484cf233d536ecdaa3148bda4aad": {
   "created_at": "2026-04-28T22:26:43.871112Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -867,6 +876,7 @@
   "created_at": "2026-08-26T21:46:18.405039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Shelbourne be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",

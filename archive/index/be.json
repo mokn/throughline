@@ -940,6 +940,15 @@
   "sha256": "76f1eb3624d36e9f8a42fc9c1bdd60856a7e4cc15b75fdcda84e35cfa29309cb",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-22-house-election-by-20-25"
  },
+ "0x85d6e14ca3e5f007eaea013a028126fc0a2536bb14760815a8b35c08b08cf8be": {
+  "created_at": "2026-11-10T02:45:07.313516Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Beyonc\u00e9 sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-beyonce-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x874d7e24977dfe8ea202aa5342205434b08a5a8f6f04e3a7667536e31274e0be": {
   "created_at": "2026-09-04T19:04:22.931736Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1300,6 +1309,7 @@
   "created_at": "2026-08-24T16:36:14.139202Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Deportes Concepci\u00f3n finish 14th in the 2026 Chile Primera?",
   "revisions": 1,
   "sha256": "ff9e547421a290ecf8abd8693efa91d32a3325481daccde0b0d50f0bfa1b464d",
@@ -1422,6 +1432,15 @@
   "revisions": 1,
   "sha256": "c8aad2ac2cd9b933e3a5dda5ab424500cc88c183e0d7e96e72bc18969cfed44a",
   "slug": "will-alexander-volkanovski-fight-jean-silva-next"
+ },
+ "0xdb9c25226d4d1481fcf9e8bbffcda08db0a6612eb4a948aaeff8ca4f610db5be": {
+  "created_at": "2026-11-10T01:01:59.323696Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Harris's Democratic nomination odds dip to 3% by December 31?",
+  "revisions": 1,
+  "sha256": "47e482e5f1185da909bc096da9b3fe9bfee4e21cb0dce3f992013abba16747ee",
+  "slug": "harriss-democratic-nomination-odds-dip-to-3-by-december-31"
  },
  "0xdc03f02cb2869324202289e02c07e3e8d1456d8592de5903c4963e9b69227ebe": {
   "created_at": "2026-08-04T18:35:49.059668Z",

@@ -451,6 +451,15 @@
   "sha256": "1fd8d292c8f2dac727c8ce23c6a33d47b44474a8b4ec5ff2d31cfb1c7dc63ce8",
   "slug": "will-morocco-join-the-mecca-agreement-by-december-31-2026"
  },
+ "0x498af17a253d45676a987a6a32bdf7543769c9a886c6e7bfe87cce388b4524b0": {
+  "created_at": "2026-11-10T02:41:31.701842Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"God Did\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-god-did-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x4a08c641f9dea7e6b8366cc6cef5758e955552051aef4bdc7d5f50c7ae1066b0": {
   "created_at": "2026-02-06T22:57:21.49254Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -661,6 +670,15 @@
   "revisions": 1,
   "sha256": "9dc50934f5a387ee355a8fb2dd25a23e0d8d0c228a1899cf92c8ad3084f01f97",
   "slug": "f1-las-vegas-grand-prix-practice-2-fastest-lap-george-russell-2026-11-19"
+ },
+ "0x795eb106f37ce5612213820565295b71972bccfea2828d1fc93391613c8b0fb0": {
+  "created_at": "2026-11-09T21:18:03.809615Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will T1 Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-t1-win-an-international-event-in-2027"
  },
  "0x79a4c7fc16e737ffeec47f55db6dbd3f10224399b3504d57e0979adf95c740b0": {
   "created_at": "2026-08-21T17:31:51.66963Z",
@@ -1182,6 +1200,7 @@
   "created_at": "2026-08-31T18:27:36.546788Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Petr Netolick\u00fd be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",

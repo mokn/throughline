@@ -75,6 +75,7 @@
   "created_at": "2026-09-14T20:32:52.370809Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Scorigami in Week 9 of the 2026-27 NFL season?",
   "revisions": 1,
   "sha256": "cd3a9fb534ce5ad336f771912a17fd49b1b57adc01d9b122f16926ea9c547c52",
@@ -1197,6 +1198,15 @@
   "revisions": 1,
   "sha256": "3b0d575e437cde06b2cde58b4f2f10a4a71e31cf6b1f6eee76c88394e74093c8",
   "slug": "el1-don-oxf-2026-09-26-total-4pt5"
+ },
+ "0xc6e188d8954137f66a6e4183b5ee8c58082f07ce2f2cba2819e8110e2fc9df6e": {
+  "created_at": "2026-11-10T02:26:58.598767Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be less than $100M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-less-than-100m-by-december-15-20261108"
  },
  "0xc7e16600e196500e8e76489149be7ff4be1db42b9a52e764194477c13e36426e": {
   "created_at": "2026-09-04T04:02:07.368191Z",

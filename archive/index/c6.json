@@ -353,6 +353,15 @@
   "sha256": "9e39147f5ce5721c38f995945230c3928b10ab118be74f1709a9d90dd82f043a",
   "slug": "will-los-angeles-chargers-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414218"
  },
+ "0x41f62854dfd1cbf2ecadcaec7442ed3a07211885710a20a6cd21f80e409a0bc6": {
+  "created_at": "2026-11-09T21:18:06.947745Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will TYLOO Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-tyloo-win-an-international-event-in-2027"
+ },
  "0x4279c24023b1ee38227683e58b756d7fe4f5983ef663dee91acb4fd5be32a4c6": {
   "created_at": "2025-12-11T20:51:23.245177Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -375,6 +384,7 @@
   "created_at": "2026-09-09T15:53:44.644165Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Pau Cubarsi win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -424,6 +434,15 @@
   "revisions": 1,
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-bradley-beal"
+ },
+ "0x4c0bff0588b9249a1567bbc8f5cefc731793ead9d335e5b61d81123600a2f7c6": {
+  "created_at": "2026-11-10T02:40:48.293095Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Encore\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-encore-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0x4c6c0e8d3a47021c3cb23a9b8e5126f831a411844fee653e7eda3042568a22c6": {
   "created_at": "2026-09-09T02:44:14.877619Z",
@@ -820,6 +839,7 @@
   "created_at": "2026-09-29T00:12:17.667158Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Serbia by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",

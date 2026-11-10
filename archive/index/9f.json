@@ -172,6 +172,24 @@
   "sha256": "9e1fb9dd3c2a462be7429d8e2e5790b054e4b2946f07076cbb7174a42490e2a9",
   "slug": "el1-bra-bar-2026-09-26-first-half-total-1pt5"
  },
+ "0x16095f9540eb045847cffab025f9425edfd6d6ca36b681bf82068adf74c5759f": {
+  "created_at": "2026-11-10T02:41:55.076779Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Crazy in Love\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-crazy-in-love-be-played-at-the-2027-big-game-halftime-show"
+ },
+ "0x1675e02062ecd4b2391b9dd04b06c5277c9c06943b72391522df4a0484aee69f": {
+  "created_at": "2026-11-10T02:45:19.220275Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Andra Day sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-andra-day-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x16783c25129111d46a927bd3ac7379fa729d485ceeb0960d7ec9697b648aea9f": {
   "created_at": "2026-01-28T15:35:49.517338Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -267,6 +285,7 @@
   "created_at": "2026-09-29T00:12:18.065908Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Azerbaijan by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -989,6 +1008,15 @@
   "revisions": 1,
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-nikita-kucherov-win-the-2026-27-ted-lindsay-award"
+ },
+ "0x95209ef496688dc426d3e65918c0e258101517fdb57a466730cc31430add129f": {
+  "created_at": "2026-10-16T18:05:40.448819Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Donald Trump be the next White House Press Secretary?",
+  "revisions": 1,
+  "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
+  "slug": "will-donald-trump-be-the-next-white-house-press-secretary-2027"
  },
  "0x95642c7a2d4cf2a410bd7ef5d8893a84c80fce8f62384b7ae1f49922ad44479f": {
   "created_at": "2026-08-06T09:00:31.239284Z",
@@ -1721,6 +1749,7 @@
   "created_at": "2026-10-25T04:01:15.75968Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will MicroStrategy (MSTR) hit (LOW) $120 in November?",
   "revisions": 1,
   "sha256": "e85d05457496bba4b9ea9c101023b9e1c7638dbb53b4f591e92d6f3001ff0a3f",

@@ -455,6 +455,15 @@
   "sha256": "8f432ca7e8bf04268c02ce0ffeb396ed263f0123f55bace5be72761c609f804f",
   "slug": "el2-pvl-nth-2026-09-26-second-half-team-total-away-2pt5"
  },
+ "0x373503404afbf0d5bf631a89ac6b705354f542c72ccef7ac9740d758a34e7d13": {
+  "created_at": "2026-11-10T02:27:01.396245Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be between $160M and $180M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-between-160m-and-180m-by-december-15-20261108"
+ },
  "0x3e4fa12e093d79a49608cd0650b7452cae5175091bc254dab6b856ae87ba4913": {
   "created_at": "2026-08-10T23:57:26.279924Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1334,6 +1343,15 @@
   "revisions": 1,
   "sha256": "9d4e9794d04396dabab726081cf4b6bc2cc55b75067e5fcf844152bcc4895b66",
   "slug": "will-rio-ave-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0xb85e77a0f48f0e494b37d7ef26fdaa511f871fc664cdc39c0448bddda4478d13": {
+  "created_at": "2026-11-10T02:41:53.196548Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Encore\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-encore-be-played-at-the-2027-big-game-halftime-show"
  },
  "0xb8864e7af7ac6312383a90a7c6621f8811f36d3965efd1acee72cf6e867da813": {
   "created_at": "2026-10-02T19:30:27.016164Z",

@@ -1023,6 +1023,15 @@
   "sha256": "7700111461687c11e0fbd54dad2e4d045c648522538eb76dddf9729bd9685076",
   "slug": "will-hong-kong-have-between-60-95mm-of-precipitation-in-november"
  },
+ "0xa867f88243c33ddbdade7384681c6f9ac0720559d26ac810a92fa0c88ce4e8ca": {
+  "created_at": "2026-11-10T02:45:39.040789Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Tom Brady attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-tom-brady-attend-super-bowl-lxi"
+ },
  "0xaa034dc646a0fd4b6ae5c1d467485255acf4739754a7e7a90b6dc304df2176ca": {
   "created_at": "2026-01-02T21:10:19.823035Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1234,6 +1243,7 @@
   "created_at": "2026-09-29T00:12:20.447535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in another country by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",

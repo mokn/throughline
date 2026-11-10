@@ -188,6 +188,15 @@
   "sha256": "ff8bbf7452edec5bb1081e36a2d1d32928c4102d0cc341739b8c062500d05ff5",
   "slug": "meta-above-600-on-november-30-2026"
  },
+ "0x1ed9499a3e6beb599dea177162bd953e8d701219bf75749981b16d55435d1d21": {
+  "created_at": "2026-11-09T22:28:11.462911Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Andoni Iraola be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-andoni-iraola-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x20a621fb8aa08243214a592f001823a7156162cbfcf6eb35d0565524e6435321": {
   "created_at": "2026-06-01T19:53:31.40428Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -282,6 +291,7 @@
   "created_at": "2026-08-12T17:30:30.691984Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will El Paso Locomotive FC be runner-up in the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "30bf7340fe7a1a7712b6b573d3c17935f357061bf3657e4733c348e2f4213d33",
@@ -1111,6 +1121,15 @@
   "sha256": "f60b2b041450f33ee45c88e73dfb30495ea9d255ecfb83af94b41b459a6a2fba",
   "slug": "will-devon-achane-be-the-highest-scoring-fantasy-football-player-of-the-2026-27-nfl-season-20260806180814390"
  },
+ "0xc059b86a6217f4036e617abf089667db557595175de23cce50b0fc06c5258921": {
+  "created_at": "2026-11-09T21:18:11.972797Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will PCIFIC Esports Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-pcific-esports-win-an-international-event-in-2027"
+ },
  "0xc140784f1169045e6bfdb541911013799877a46a1d70af31aea663c3835d1921": {
   "created_at": "2026-08-07T20:29:35.76714Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1209,6 +1228,15 @@
   "revisions": 1,
   "sha256": "ccacb2eea912c251f506cfb74c10a496ae55d75e8b2238910e35c79fc8443ff1",
   "slug": "will-there-be-no-somaliland-parliamentary-election-before-2027"
+ },
+ "0xd513cd2544f14f7e6144eb0cb64ff2208083a84a186a1185b9c065edaf53bd21": {
+  "created_at": "2026-11-10T02:40:45.154218Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Empire State of Mind\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-empire-state-of-mind-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xd69a09b24b80e017c7d824c56f528df62e814b67754e2dec1620dd011272f621": {
   "created_at": "2026-09-13T08:44:49.306553Z",

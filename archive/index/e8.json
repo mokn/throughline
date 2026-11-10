@@ -401,6 +401,15 @@
   "sha256": "20033560e3d802d225da65ec3dea2af6a51624ed5dba037248fd7816d52ed598",
   "slug": "will-jordan-dwyer-be-the-2026-d1-receiving-tds-leader"
  },
+ "0x40eaca2607c61d79886bfe9dd0147e494a1875053187c1b67f57b3a4c4e1e3e8": {
+  "created_at": "2026-11-09T23:32:05.607521Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Alice Huang be arrested by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7a8e55157b718383306d2a21eab92e7c6844773a8fbc1863f1555f37c562b5f1",
+  "slug": "alice-huang-arrested-by-december-31-2026"
+ },
  "0x429d6c3e2a847fe2b12b56a3784f7f8c6c34749b9049249c7641383f4716b9e8": {
   "created_at": "2026-08-06T21:37:59.966914Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -690,6 +699,15 @@
   "revisions": 1,
   "sha256": "2d6b8cb1b356e3ea2c1f61a85aac0b618a9451946825b78d7898c82c693a8a0d",
   "slug": "nba-2026-27-3pm-leader-tyrese-maxey"
+ },
+ "0x6858e92ec116e6a44fd571fbc70cdc606957c0962e0141dcc5cdfe78b599fde8": {
+  "created_at": "2026-11-10T02:40:46.025533Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Run This Town\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-run-this-town-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0x69366045ca68108d34ad7436760a709d22949ac250de44119c4f8734a47dc9e8": {
   "created_at": "2025-12-15T22:18:41.214425Z",
@@ -1299,6 +1317,15 @@
   "revisions": 1,
   "sha256": "6bb861bc8e67f2fd91dcd154135b5b6763cbaec43315577879f3ddf33eaa8a9e",
   "slug": "will-pp-win-the-most-seats-in-valencia-in-the-2026-spanish-general-election"
+ },
+ "0xc90d302b9fe38bd6d669572fa0ffa512f11225d53c4c5bed25d88265519afee8": {
+  "created_at": "2026-11-10T02:40:55.575786Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"I Just Wanna Love U (Give It 2 Me)\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-i-just-wanna-love-u-give-it-2-me-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xcafad649f851bd2de20957722919c54ff98fe1ad11c719673994ae90949aafe8": {
   "created_at": "2026-08-06T15:43:58.203785Z",

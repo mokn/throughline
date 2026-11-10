@@ -942,6 +942,7 @@
   "created_at": "2026-11-02T18:37:10.762349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will FENNEL qualify for LCP 2027?",
   "revisions": 1,
   "sha256": "5a7b40d25a2e3e66eaaefa293ce026747624ca23741c59cfe8d2d7980ae2d1b8",
@@ -1112,6 +1113,15 @@
   "sha256": "f033d3bcd98a7ff642d860255c4b35663bf0bc7a2304d6fb0e2ebe885370b4c5",
   "slug": "will-vfb-stuttgart-score-the-most-goals-in-the-ucl-league-phase"
  },
+ "0xa0a351780c227cf810b9a180da7dec91803edf398c549ce5ebf2308871df7a4f": {
+  "created_at": "2026-11-09T22:28:04.695126Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Brendan Rodgers be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-brendan-rodgers-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0xa166978799c3e92524bb87172cfe594d62205555451f9b338fbecf9f43c0024f": {
   "created_at": "2026-08-11T18:27:06.688195Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1229,6 +1239,15 @@
   "revisions": 1,
   "sha256": "863a637b36fe06a171c6f15ecf0bd694546e068ec078c41f5c196a66f3b4252b",
   "slug": "will-texas-am-make-college-football-playoff-semifinals-20260803204732776"
+ },
+ "0xade86920c0cd0ac7588fda6e6b579f487ab4e3a3dc1889fc293b49f7bf71934f": {
+  "created_at": "2026-11-10T02:45:45.889913Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Erika Kirk attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-erika-kirk-attend-super-bowl-lxi"
  },
  "0xae27764c02626c81bcbb732cb1e6cbb456ea16446c71fdbbd3f558b4469a804f": {
   "created_at": "2026-01-28T15:35:29.827191Z",

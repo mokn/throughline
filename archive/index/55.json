@@ -934,6 +934,15 @@
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
   "slug": "will-the-republican-party-candidate-win-the-2026-north-carolina-senate-election-by-6-or-more"
  },
+ "0xa494286bd8cfaafe423d3ad208b34558f3cf19ac576d403a52ef1d095bf90155": {
+  "created_at": "2026-11-09T21:17:59.466368Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Karmine Corp Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-karmine-corp-win-an-international-event-in-2027"
+ },
  "0xa54653f4ede768fbea4e54f86825998b73f63b92f67349a147dccbbcca2fbc55": {
   "created_at": "2026-07-24T01:47:16.54442Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1224,6 +1233,24 @@
   "sha256": "1793b0484da3522c6db831e6a4fdc7503edf01757a1b8c691cba446b01dda07b",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-governor-of-vermont-be-350000-or-more"
  },
+ "0xe0a63388edbb69bd0f991643e6a0307f6fe1f2c2a8638b7d07f8f26e70c06955": {
+  "created_at": "2026-11-10T02:44:25.865119Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 80 and 90 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-80-and-90-seconds"
+ },
+ "0xe19b25c027303f0b4f9309a49967396fef2909f6aa8c4bc57b7683726aec4b55": {
+  "created_at": "2026-11-09T21:18:02.583394Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Gen.G Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-genptg-win-an-international-event-in-2027"
+ },
  "0xe363700613303042c1ede7ffe1a0e6224790b6b55f9397d6ae797db80ebb5f55": {
   "created_at": "2026-08-10T23:33:39.365671Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1313,6 +1340,15 @@
   "revisions": 1,
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-jack-hughes-win-the-2026-27-maurice-rocket-richard-trophy"
+ },
+ "0xf5e9f76ea709566ed49ceb49734fd511a63734cbdd77c8191865a05c915a0a55": {
+  "created_at": "2026-11-10T02:40:53.699638Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"'03 Bonnie & Clyde\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-03-bonnie-and-clyde-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xf606e483ac3013a5908beb38f479caebd8048267f18a0f0d7116d9519413a355": {
   "created_at": "2026-08-12T17:22:02.759419Z",

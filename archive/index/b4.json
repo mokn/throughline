@@ -471,6 +471,15 @@
   "sha256": "7d0580befa3434fc95f34c788b4bdb29b4c9f591f6af5fdcc11302811d9d8fe1",
   "slug": "apyx-fdv-above-300m-one-day-after-launch"
  },
+ "0x5284abb393fa872d18c5d294e1fcf759a2b716b6212b6b0f225c01fe0d888db4": {
+  "created_at": "2026-11-10T02:45:16.631555Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Usher sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-usher-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x5300e3adfca0fea88150d8133dd8eabc7033a6c7db937accec1de59bd67af5b4": {
   "created_at": "2026-09-02T00:38:54.667811Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -479,6 +488,15 @@
   "revisions": 1,
   "sha256": "ca776e7414a0caeab43020e6477f6876579d139e3c6498915bbc2aab41d2b904",
   "slug": "will-neither-attal-nor-philippe-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
+ "0x535ae6c3455dc40d1f1c935ce43f6d8f459fca86a18e6a19f42ab363ae5251b4": {
+  "created_at": "2026-11-09T21:17:59.888513Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Team Heretics Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-team-heretics-win-an-international-event-in-2027"
  },
  "0x558e610c5396202dc08a704422157c1e63bd0d6efddf94c3e255f3f2966da2b4": {
   "created_at": "2026-09-04T19:42:52.995157Z",
@@ -751,6 +769,15 @@
   "revisions": 1,
   "sha256": "e060f00126ecc8672828c9f00c4127e6b21b9adb7119b2db70b1b05f84f2e199",
   "slug": "enl-scu-fgr-2026-10-03-first-to-score-home"
+ },
+ "0x8099805c23292d40a4cdbd828343459ae22615eb8119fa4b8dd43d4a57021eb4": {
+  "created_at": "2026-11-10T02:45:45.422439Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kendrick Lamar attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-kendrick-lamar-attend-super-bowl-lxi"
  },
  "0x80a10c4f04a8647fae13863481bc6dd07aa3fab71fc6855d7f7a9b1c8f15a2b4": {
   "created_at": "2026-08-21T17:37:01.25765Z",
@@ -1339,6 +1366,15 @@
   "revisions": 1,
   "sha256": "0eda20c0d9361dae46afe439f6194013cc199229fe397a1b287a97e6d26fe2d0",
   "slug": "will-gta-vi-have-a-metascore-of-at-least-94"
+ },
+ "0xd73d28a1e0eab4b04fecb831b9ecb99d1cb63c61700e8e161758f8c794a061b4": {
+  "created_at": "2026-11-10T02:42:02.139326Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Umbrella\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-umbrella-be-played-at-the-2027-big-game-halftime-show"
  },
  "0xd837d6d8ea6576ca69e09a9924c60ec0246fb3ff3feafc617db0df25e99660b4": {
   "created_at": "2026-09-09T15:42:27.252259Z",

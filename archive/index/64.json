@@ -663,6 +663,15 @@
   "sha256": "dd45b2bde0982978a0f96b2853986758dfd29b8e1600bc3c6277cd8f1c7db763",
   "slug": "will-michigan-vote-to-rewrite-the-state-constitution"
  },
+ "0x7f0b7fbc848d01784b326df2bae7981deb812d7cb2319c71c53ce5f022c5aa64": {
+  "created_at": "2026-11-10T02:43:25.630615Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Gatorade shower at Super Bowl LXI be green/yellow?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "will-the-gatorade-shower-at-super-bowl-lxi-be-green-yellow"
+ },
  "0x7f10d30d0c6d70637db9947af99143d83c90a8b7276da96e021adf337ebb7764": {
   "created_at": "2026-08-10T23:57:40.57401Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -788,6 +797,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-zach-werenski-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0x95beecc2763ff3abfeb0b3c5f1db30aca44115e6adc4bec6a7789ea7c3a2a464": {
+  "created_at": "2026-11-10T02:44:26.708664Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 100 and 110 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-100-and-110-seconds"
  },
  "0x9700630c6377dd45c496cda5f99e0338b167659e017f925660c928fc4cf28d64": {
   "created_at": "2026-10-13T19:53:30.021915Z",

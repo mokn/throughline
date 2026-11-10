@@ -770,6 +770,7 @@
   "created_at": "2026-09-29T00:12:11.986409Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Germany by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -784,6 +785,15 @@
   "revisions": 1,
   "sha256": "8f07694c96ea3bb4e8a28fed7feb1fd6040d48b98951af63e28854d68e87e587",
   "slug": "will-the-democratic-party-win-the-ia-03-house-seat"
+ },
+ "0x8b609c7cf595c0b49a76aaa20de2b35896bda9b877769c969be37ace228a8975": {
+  "created_at": "2026-11-09T22:28:01.370822Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Thomas Tuchel be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-thomas-tuchel-be-the-next-permanent-manager-of-manchester-united"
  },
  "0x8c53153b7548e02a4213c247e3b2b4f91cc52e92a2e2c7205dff985d6e7a6475": {
   "created_at": "2026-08-28T19:39:36.230107Z",
@@ -994,6 +1004,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-brady-tkachuk-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0xb1fb1beb4ecfe6a9a7aa5c0fb3b8fb0ba63944b3b4010dc24080bc30dfa0ac75": {
+  "created_at": "2026-11-10T02:41:11.272721Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Run This Town\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-run-this-town-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0xb2166c445303c65b81a45c30062c2837a0590cbf7ee3bed1859bf42a82d44575": {
   "created_at": "2026-08-10T23:57:19.893366Z",

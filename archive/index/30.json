@@ -470,6 +470,15 @@
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-moise-kean-score-the-most-goals-in-the-2026-27-uefa-champions-league"
  },
+ "0x39ec68b44fd819ae2709d3e3e93ded151b9ce64405fbfad2a45bfc8a0c6d4230": {
+  "created_at": "2026-11-10T02:03:25.642993Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will no President of the Brazilian Senate be elected by February 28?",
+  "revisions": 1,
+  "sha256": "2bb52fef4d7501e48c3715df632edddc248e2ffbca9f4addacb9d36a2f395915",
+  "slug": "will-no-president-of-the-brazilian-senate-be-elected-by-february-28-20261106"
+ },
  "0x3d64a2a707774eb442caa724dfcac690f07d6e8c634edc5bee38a704114f1730": {
   "created_at": "2026-01-02T21:08:43.969896Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1736,6 +1745,15 @@
   "revisions": 1,
   "sha256": "0b94e069f691ba11979c09a4c3987bc0f7fb96c735d10d84e9daa97f32667044",
   "slug": "will-sk-beveren-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0xfb0e4427a1784cc241e9178444c3ff12dfffefa65fb57659b2e9427cf4b74730": {
+  "created_at": "2026-11-09T22:28:00.217483Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Gareth Southgate be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-gareth-southgate-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xfe44f7b38cb15a1294b086adcc28c790990a2d726028544f39d2c6cce6adfc30": {
   "created_at": "2026-09-04T19:52:15.253747Z",

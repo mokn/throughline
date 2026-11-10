@@ -282,6 +282,15 @@
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
   "slug": "f1-brazilian-grand-prix-driver-pole-position-tsunoda-2026-11-07"
  },
+ "0x30c54defaab5cab1f68fcbb2aa776fd7582a11299dafa85f69f369689db9ba27": {
+  "created_at": "2026-11-10T02:39:23.758151Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Apple run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-apple-run-an-ad-during-super-bowl-lxi"
+ },
  "0x30cfecad2b8a451c00cf2bddb8444e41d315b32c421810c006a27b06894fa627": {
   "created_at": "2026-01-21T12:22:52.406695Z",
   "first_seen": "2026-11-04T01:55:27Z",

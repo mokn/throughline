@@ -185,6 +185,7 @@
   "created_at": "2026-08-26T21:46:18.464622Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Bohemians be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",
@@ -239,11 +240,19 @@
   "created_at": "2026-09-11T23:22:50.866017Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
-  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Houthis enter Saudi Arabia by December 31?",
   "revisions": 1,
   "sha256": "fdda9ed5dff3fca26e213310e6084ea47dec4e17231eaeaa31ec13878a6ca488",
   "slug": "will-the-houthis-enter-saudi-arabia-by-december-31"
+ },
+ "0x26cd4e80ecf48a6a5c033e77e2244841d1372042df59787405786941512ab5c3": {
+  "created_at": "2026-11-10T02:45:06.761927Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Alicia Keys sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-alicia-keys-sing-the-national-anthem-at-the-2027-big-game"
  },
  "0x28b21f91dd8f2911483a2fed02417fc274d8339e02fd39873f42d4582f39b6c3": {
   "created_at": "2026-01-02T21:12:04.989924Z",

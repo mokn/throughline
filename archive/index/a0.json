@@ -76,6 +76,7 @@
   "created_at": "2026-09-04T00:19:51.65556Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Fernando Mendoza be named the Raiders' starting QB by Week 9?",
   "revisions": 1,
   "sha256": "3b29b1e2feeddf05b8707d5bb16e382447fb68df4108224669650f9c8390fa36",
@@ -450,6 +451,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-dyson-daniels"
+ },
+ "0x399717a2b06ccfb982691b4dbb3a2af363f04f8dbbec3bb7a5f884406db7a4a0": {
+  "created_at": "2026-11-09T21:18:02.991705Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Paper Rex Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-paper-rex-win-an-international-event-in-2027"
  },
  "0x39d246013d021d78cdfa4ec3289cb9f0db4f2f2389119b6915d972b4edd77da0": {
   "created_at": "2026-10-13T15:48:40.016023Z",
@@ -1528,6 +1538,15 @@
   "revisions": 1,
   "sha256": "b10f9c046df855d519ea31f91eac28e01f2bc6529f4fb5c614193bdcf551745a",
   "slug": "will-yossi-cohen-be-the-next-israeli-minister-of-foreign-affairs"
+ },
+ "0xf073ebbeabd83ef5424fc7352b2372221baf19f50d6085c6eb1e1197096520a0": {
+  "created_at": "2026-11-10T03:01:12.313881Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Aperture (Harry Styles) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-aperture-harry-styles-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xf6001d0bcd6d0cf13bced322f3dac640a33119acdaff36577f70dbceaacb6da0": {
   "created_at": "2026-09-09T22:10:19.886246Z",

@@ -649,6 +649,15 @@
   "sha256": "6798e71718ec0fbe7bcc5ab788ca50926dddad90d25f60827f1231c3d16b1e59",
   "slug": "will-pan-win-the-most-seats-in-the-2027-aguascalientes-congress-election"
  },
+ "0x68f888f40b8441cbf72ca38589cb1e8a49e5f27cb1e985f9e7dba1f5f1e05631": {
+  "created_at": "2026-11-10T02:40:54.139717Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"God Did\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-god-did-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x69cffb9f9824b70c2a9806045538f104ecb050531c9b28674eb48c6002bc7131": {
   "created_at": "2026-10-13T19:55:48.879554Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1077,6 +1086,15 @@
   "revisions": 1,
   "sha256": "3610ad5184d125d5989acd5e9d4bb341f4708856dbf9a1c482bd72b7bcc8863f",
   "slug": "nba-2026-27-players-to-average-10-plus-rpg-ivica-zubac"
+ },
+ "0xb7d4c1e9261b8589f66382eaa1b9d38d5acefa4e104b23d027cac48334dbf831": {
+  "created_at": "2026-11-10T02:41:30.552627Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"'03 Bonnie & Clyde\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-03-bonnie-and-clyde-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0xb7d7684c2bf63c21d641d2d9e29ca22d1a7256e98e0032310eea19ae6836b931": {
   "created_at": "2026-08-12T17:33:08.633535Z",

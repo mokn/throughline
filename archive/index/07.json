@@ -36,6 +36,15 @@
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
   "slug": "spl-ahl-nsr-2026-10-15-exact-score-2-3"
  },
+ "0x05b08ba172447a700fc66556ee04496a33f918a297781e9225c33ec4744cc707": {
+  "created_at": "2026-11-10T02:45:20.268896Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kacey Musgraves sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-kacey-musgraves-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x062e466b1033324410cbfb6935717b4039cdcee9e97b000b03063ca4369dc707": {
   "created_at": "2026-10-28T21:53:24.472396Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1248,6 +1257,15 @@
   "revisions": 1,
   "sha256": "b1672b61e3ef957d29baa256788d5156ff0a8e752aae3e61123e3f90e3283ae9",
   "slug": "will-the-los-angeles-chargers-make-the-2027-nfl-playoffs"
+ },
+ "0xdacdaba92566db8bd90db66c21e8afd1dc4ab0cb8406007870386dbb10049107": {
+  "created_at": "2026-11-10T02:26:59.555817Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be between $100M and $120M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-between-100m-and-120m-by-december-15-20261108"
  },
  "0xdc9ffbc75c474ba71ffdbf69558c98df2a1f0ae8d21200c041bb14c57f8f9807": {
   "created_at": "2026-08-11T18:43:27.87425Z",

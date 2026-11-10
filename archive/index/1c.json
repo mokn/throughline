@@ -77,6 +77,7 @@
   "created_at": "2026-10-06T18:40:35.974346Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will \"Wild Horse Nine\" score at least 95 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",
@@ -1220,6 +1221,15 @@
   "revisions": 1,
   "sha256": "a01c704b53b67b0940099b402f3ebd30400695906172e4c9b47d11424b6dd3a4",
   "slug": "f1-qatar-grand-prix-practice-1-fastest-lap-oliver-bearman-2026-11-27"
+ },
+ "0xd7bad900697e8f0b350a83980f01857224b0f016d2d8459a96af8c607479441c": {
+  "created_at": "2026-11-10T02:43:26.565341Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Gatorade shower at Super Bowl LXI be red/pink?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "will-the-gatorade-shower-at-super-bowl-lxi-be-red-pink"
  },
  "0xd7c22655f66d66174d7498ff1397d066a600f46ac41173f956c1e6611db2421c": {
   "created_at": "2026-10-14T02:19:14.307859Z",

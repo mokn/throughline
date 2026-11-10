@@ -189,6 +189,15 @@
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-wisconsin-reach-the-2027-ncaa-mens-basketball-final-four"
  },
+ "0x231a704ba814a56a1eb3829228274427a5af6eacb6cd520eb7fea5e19d35eb33": {
+  "created_at": "2026-11-10T02:40:49.588392Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Holy Grail\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-holy-grail-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x26cfadacb304b864fbc8bac17df2db428149988e72989d5940b3f1dce336df33": {
   "created_at": "2026-09-04T19:42:53.514408Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1306,6 +1315,15 @@
   "revisions": 1,
   "sha256": "5a5682c8c58b74c2c887e01c7e58c30fc7e10bf6057309001e2c74edf7c891aa",
   "slug": "will-marseille-qualify-for-the-2027-28-uefa-conference-league"
+ },
+ "0xd8d154087e3644a7cdfa24c0e2589d9c49d87450689eea6b07d4a42714b29033": {
+  "created_at": "2026-11-10T02:45:40.587566Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kim Kardashian attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-kim-kardashian-attend-super-bowl-lxi"
  },
  "0xd9685a5976f982784ef7613c822d17cbcc59b65c47c13a730d2efcc38a47bc33": {
   "created_at": "2026-09-09T15:47:55.071927Z",

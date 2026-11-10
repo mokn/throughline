@@ -488,6 +488,15 @@
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-hawks-vs-warriors"
  },
+ "0x44f8b381ee852842ddf68972cf4502879e74816e494c4bc629b3d042e8413659": {
+  "created_at": "2026-11-10T02:41:29.126303Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"On to the Next One\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-on-to-the-next-one-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x4599b4f1b8ac66540fcd8d1bfda02927c6f48e107695c01864ff7fd8f9d38159": {
   "created_at": "2026-10-10T11:30:41.417795Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -770,6 +779,15 @@
   "sha256": "e757a45c10133e04dfcfa3ea188b2aff6ba0c3fda3a5d8266d23420f808af0d9",
   "slug": "will-luis-diaz-bayern-munich-record-the-most-assists-in-the-2026-27-bundesliga-season"
  },
+ "0x777377887e6bb3390d9e6f5e0aae1045869697a82e25dc90abda7cb7ec08fe59": {
+  "created_at": "2026-11-10T02:41:35.072999Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Show Me What You Got\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-show-me-what-you-got-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x7dae18f53f698e29f24a8739aba96b9560034f6fabe31951fc1b4e6c9e624d59": {
   "created_at": "2026-01-28T15:41:32.919535Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -965,6 +983,7 @@
   "created_at": "2026-09-09T15:53:48.950853Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Marc Bernal win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",

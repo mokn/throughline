@@ -424,6 +424,15 @@
   "sha256": "2d40d97d81a71bdca275e26cd0eba17c903be49bdd305320bd46008c55dbb3ce",
   "slug": "will-the-dallas-stars-record-80-points"
  },
+ "0x47a57796a66bc2603c19f77df5142b82052c649f9a2bd82afc320e15e8ece9cd": {
+  "created_at": "2026-11-09T21:18:11.176077Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will GIANTX Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-giantx-win-an-international-event-in-2027"
+ },
  "0x487748390a47e4966497415a69f592070b114ecc8e42061a5c50841d6ff0fccd": {
   "created_at": "2026-08-11T17:52:59.230826Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1476,6 +1485,15 @@
   "revisions": 1,
   "sha256": "2b44b7f32a8f161b0806de3e3673de510a5510316db9d3fa577236a64f8446f0",
   "slug": "will-vox-win-the-most-seats-in-burgos-in-the-2026-spanish-general-election"
+ },
+ "0xfc20a23864c0efa9846211d0dba7bbd493c121a6d1256e988439d413d3c872cd": {
+  "created_at": "2026-11-10T02:42:19.372364Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"I Just Wanna Love U (Give It 2 Me)\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-i-just-wanna-love-u-give-it-2-me-be-played-at-the-2027-big-game-halftime-show"
  },
  "0xfc777e4a56cfa81a5a5a9f53ba1ff21a28a03643e49906d6b043f02f7990dccd": {
   "created_at": "2026-09-20T08:45:28.783943Z",

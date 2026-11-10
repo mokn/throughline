@@ -586,6 +586,15 @@
   "sha256": "df9b0fc297208c2ba08048872dc329e5a20279d966afae21f919c44b3fd109ee",
   "slug": "will-the-republican-party-candidate-win-the-2026-arizona-attorney-general-election"
  },
+ "0x51c4169ea2cfc2a6ed37e00e2841e4a761f101bd886d0c75aa61496dd42dd769": {
+  "created_at": "2026-11-10T02:41:07.986579Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Empire State of Mind\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-empire-state-of-mind-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x528fbd8194e1aa1f094589a02f18477b0edd7c4fb413140774a781d847972869": {
   "created_at": "2025-11-04T19:10:03.420723Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1533,6 +1542,7 @@
   "created_at": "2026-09-09T15:53:48.30945Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Gianluca Prestianni win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1591,6 +1601,15 @@
   "revisions": 1,
   "sha256": "8dbac0416febdc32cbefbf940d06a60944ec16d17e9f0f5ac559688968ec582c",
   "slug": "will-bitcoin-dip-to-5000-by-december-31-2026-jy3n-991-141-345-117-196-482-674-487-176-555"
+ },
+ "0xe9d6e8868edea9b6143c0a763cde30bf610a3a17b5d3bbfba38ea79ba32d0669": {
+  "created_at": "2026-11-09T21:17:54.878889Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will KR\u00dc Esports Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-kru-esports-win-an-international-event-in-2027"
  },
  "0xeab1ce1d25691f499327fc5a0b9494f1284dcd8e2a256cd40ed48830ad318a69": {
   "created_at": "2026-08-11T18:24:12.426549Z",

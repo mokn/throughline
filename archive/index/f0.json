@@ -44,6 +44,15 @@
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
   "slug": "spl-ahl-nsr-2026-10-15-exact-score-1-5"
  },
+ "0x0eb872fa14c74df5b93798e66e49793884b80e01b08cd47b991bbb8ed3ee9bf0": {
+  "created_at": "2026-11-10T02:39:22.614055Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will OpenAI run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-openai-run-an-ad-during-super-bowl-lxi"
+ },
  "0x0f4edd6bc7a3d71aa55e99745cac207aeebed6cf601f3afed7dd58b68bc2a7f0": {
   "created_at": "2026-10-13T15:50:04.110443Z",
   "first_seen": "2026-11-04T01:55:27Z",

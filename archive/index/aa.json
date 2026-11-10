@@ -226,6 +226,15 @@
   "sha256": "0355b3c81139a0a2803642135c16fdcc099b05683f8eaf6327a3a271c08a47b4",
   "slug": "nba-2026-27-spg-leader-deanthony-melton"
  },
+ "0x2e7fb09a04fb6faa2ac1a9e5061a23b2902ba3ecbdfd7cc7bff777f4f3a15eaa": {
+  "created_at": "2026-11-09T21:18:04.667018Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will All Gamers Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-all-gamers-win-an-international-event-in-2027"
+ },
  "0x2eb24566084fd61b5f3373f65edb565b11a14e620de57ba36e4f8579c29381aa": {
   "created_at": "2026-11-01T15:01:22.572126Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -979,6 +988,15 @@
   "sha256": "5bbe73a6fc2cee6d2717edece23f4500dd5363ba95005dfdb7c2140350ea6aee",
   "slug": "closer-senate-race-nebraska-or-texas"
  },
+ "0xa82699004214aa3f755ede5d9e6d5c4850e3f69ec821a3b15433a1bd6a3a19aa": {
+  "created_at": "2026-11-10T02:14:32.437072Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Colette Kress be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "slug": "will-colette-kress-be-the-next-ceo-of-nvidia"
+ },
  "0xa8e3a806d143817625d119b3372f964a143d61331854194dad18a373e1ec2faa": {
   "created_at": "2026-11-03T17:06:06.365371Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1265,6 +1283,7 @@
   "created_at": "2026-09-24T08:24:42.214176Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Anthropic's frontier output token price be at or above $25 in 2026?",
   "revisions": 1,
   "sha256": "2c8d943ec15467531ebd1eb5f9841ded6a03b87b11a8ce6ac459878174e7dbf9",
@@ -1314,6 +1333,15 @@
   "revisions": 1,
   "sha256": "7af628088575f4f337d5bf66c3b37fb3380d36bca85512bddaab1948d30c2a6d",
   "slug": "will-liverpool-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0xd6aec488aaef9eb7e2bdbbcfc68353efab434f6c40c8ac7f3479419aae6752aa": {
+  "created_at": "2026-11-09T22:27:57.810144Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Antonio Conte be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-antonio-conte-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xd84c1465259ca62b9d968e06c4eca5a8b75589114704afdf508785a8b0a23aaa": {
   "created_at": "2026-10-30T22:00:40.920124Z",
@@ -1532,6 +1560,15 @@
   "revisions": 1,
   "sha256": "8a3ed366bcc820c28eee81f19a9ef7f85bbf5dd4d0d4d1e777c5dcf993c4e4d8",
   "slug": "will-iowa-be-the-number-1-ranked-defense-in-cfb-20260803220052978"
+ },
+ "0xf2a22e0b4cb3d356c30b89e29c07d95cbc020e7878468be69421a57dc65342aa": {
+  "created_at": "2026-11-09T22:28:03.11453Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Diego Simeone be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-diego-simeone-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xf2d23b87a0b954f5217f8734136aec4278b6171e7133ae5910e55f02082d7daa": {
   "created_at": "2026-08-10T23:57:43.296045Z",

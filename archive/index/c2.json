@@ -208,6 +208,15 @@
   "sha256": "25cf19db7c53b1dafa327e399c30650829712413f2f91a049ac8cae998fe840d",
   "slug": "will-michael-badgley-finish-as-a-top-12-k-in-the-2026-27-nfl-season"
  },
+ "0x1e8d853c74fca0de3b7b9f354803332b672626575596bbdcd526f3cb9868dac2": {
+  "created_at": "2026-11-09T21:18:08.16896Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Dragon Ranger Gaming Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-dragon-ranger-gaming-win-an-international-event-in-2027"
+ },
  "0x1eea8a36296a75177edf5b8df7e29eb71fa1f126145b6b1dc2853b57666b6ac2": {
   "created_at": "2026-08-05T21:01:14.085633Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1298,6 +1307,15 @@
   "revisions": 1,
   "sha256": "bf8ecf01cb00334fa84c7a4297ce9454f936dd0c3c19983f1d69ffdf384bf46c",
   "slug": "nba-2026-27-western-conference-1-seed-memphis-grizzlies"
+ },
+ "0xb8c3313d1b117f2cc31c6981f1ae7c9a836296a1a077dfdc020886cf8a8673c2": {
+  "created_at": "2026-11-09T17:16:04.066733Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Supreme Court overturns federal ban on home distilleries?",
+  "revisions": 1,
+  "sha256": "41996d0c029b5e0d2352ae2bcbb6d393cfb7eeb7ad4983e81cc26c625c53dd6f",
+  "slug": "supreme-court-overturns-federal-ban-on-home-distilleries"
  },
  "0xba639cc04b30c467e79a19aeef8203c715b157e9b8cbe8d2e903c804b7c522c2": {
   "created_at": "2026-08-24T16:35:57.684886Z",

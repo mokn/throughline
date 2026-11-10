@@ -673,6 +673,7 @@
   "created_at": "2026-10-31T00:26:36.903794Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Trump speak to Friedrich Merz by November 30?",
   "revisions": 1,
   "sha256": "3188e2637b8b05d5741b3ed47c5acc66e2d36bf6a54f5ff8c49be478c7e2088e",
@@ -1729,6 +1730,15 @@
   "revisions": 1,
   "sha256": "549b2765ce0088205e7070e5c99bd51a4f8d6cd27db352f08d3ff89fad4462ee",
   "slug": "will-a-derailment-be-nominated-for-best-documentary-short-film-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xf282298236c2b9a66d6f7ca7cd17a23969ebba9d93b818210090d7add5f4a83c": {
+  "created_at": "2026-11-10T02:14:35.779194Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Lisa Su be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "slug": "will-lisa-su-be-the-next-ceo-of-nvidia"
  },
  "0xf3c61ce4f5bb1e5e15f814804bebf5532e53f2291e08bc7a3f96381a3421cc3c": {
   "created_at": "2026-09-08T16:54:40.242875Z",

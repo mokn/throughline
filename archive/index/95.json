@@ -100,6 +100,15 @@
   "sha256": "df96f302b3874499ce31eaefc029b3c3076a0a0ec9235e981360155cee747287",
   "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election"
  },
+ "0x0ca63df4a001be8cd2f95b36119cb9adc169b7258c4cbb564d598f404b6de995": {
+  "created_at": "2026-11-10T02:40:49.168714Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Crazy in Love\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-crazy-in-love-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x13020efe51380a9c239edc3fff72de8403eca48d4a5e377d37ecaaf1768e1495": {
   "created_at": "2026-09-29T00:04:03.93375Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -390,6 +399,15 @@
   "sha256": "8d302d4ee4c4e243b8df2d90cd6c868248889730496e0d0fbea47ca6812ff602",
   "slug": "will-marco-rubio-announce-a-presidential-run-before-2027"
  },
+ "0x520a6761806e174a42f575fd8cd5705f520f2157099ae2c737fafc290216c295": {
+  "created_at": "2026-11-09T21:18:00.300905Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Team Liquid Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-team-liquid-win-an-international-event-in-2027"
+ },
  "0x528e6245ca3aa682adf6147face9a8f0fed034708baab334aeb72e3d92e11995": {
   "created_at": "2026-09-30T09:17:42.721607Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -612,6 +630,7 @@
   "created_at": "2026-09-02T21:58:31.664655Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Akron Zips advance to the 2026 MAC Championship Game?",
   "revisions": 1,
   "sha256": "999043ac8aeabbbef3ed71c9e4cd52e3613a8bd54e28381f42504e51cc912e13",
@@ -1232,6 +1251,15 @@
   "revisions": 1,
   "sha256": "dd539f980b1cbe6210c655fb69e59a6e8d61aa54841c573a0a3337ec449856c3",
   "slug": "will-jaguares-finish-18th-in-colombia-primera-a-2026"
+ },
+ "0xc6151bd5fcbbcc11867d020c2dc337fe01b95b634a02f3a2d74c07441b5e6895": {
+  "created_at": "2026-11-10T02:43:27.419253Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Gatorade shower at Super Bowl LXI be purple?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "will-the-gatorade-shower-at-super-bowl-lxi-be-purple"
  },
  "0xc69f9125759409e31c1b82e0243797a7e1eac97835691cee72090aa6c50cb995": {
   "created_at": "2026-11-01T15:01:09.490445Z",

@@ -815,6 +815,15 @@
   "sha256": "1fbcccd1bb02218f036cb39b1b970d48627d29781d2b35d93f522527228c0db8",
   "slug": "will-the-official-usd-to-ars-exchange-rate-be-between-1600pt00-and-1699pt99-at-the-end-of-december-2026"
  },
+ "0x6d688a79c2a72d93fd9d6a450ef696431fc26b383491e4c79e809e0cff2c4204": {
+  "created_at": "2026-11-10T02:53:48.236906Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "JD Vance resigns as Vice President by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "9dfc9243f56d0aafebef8552d28ba3fbe1aecbcefa8bee418d49a134220e8743",
+  "slug": "jd-vance-resigns-as-vice-president-by-december-31-2026"
+ },
  "0x6ea55a8c1d775e9af32f26c6bd2cf6c055a004d06a71c9ab43b2d96d9a185e04": {
   "created_at": "2026-08-12T14:51:03.019832Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1306,6 +1315,7 @@
   "created_at": "2026-09-29T00:12:19.241394Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in South Africa by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -1773,6 +1783,15 @@
   "revisions": 1,
   "sha256": "a813ce376cc78c0d4cd09293bf8081eeab68f039e9b47e9591701007339c26a5",
   "slug": "will-robert-thomas-win-the-2026-27-frank-jpt-selke-trophy"
+ },
+ "0xf34fea048a5bc7cee365c29735397c1cd4dd7d2acb09223d5fa659dd5e81fc04": {
+  "created_at": "2026-11-09T22:27:58.990505Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Fabian Hurzeler be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-fabian-hurzeler-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xf48cf16346673e8cdc914a7cd976e54b2cd1d4ce7dd5c0a31fd33f9766276c04": {
   "created_at": "2026-08-12T14:57:38.831234Z",

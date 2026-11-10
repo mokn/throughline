@@ -395,6 +395,7 @@
   "created_at": "2026-08-31T18:27:36.978781Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Leo\u0161 Janda be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",
@@ -1771,6 +1772,15 @@
   "revisions": 1,
   "sha256": "123b695b249629a8988f879acc70a1c191e333e19e09a7c16dd4d5ff008887b9",
   "slug": "will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year-20260624161716908"
+ },
+ "0xf41c41a0aaf4569a085cc20ae2874781d3aaef9d593a9276f2715928c6c7acf3": {
+  "created_at": "2026-11-10T02:45:41.128666Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will LeBron James attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-lebron-james-attend-super-bowl-lxi"
  },
  "0xf50b2f04812edbf5e60b6a560041f0a13492e54cf0d180da765e4355abf59cf3": {
   "created_at": "2026-08-18T18:59:56.860117Z",

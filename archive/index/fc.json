@@ -588,6 +588,15 @@
   "sha256": "fd6e3f4ca33fcd73ed6b724bd26a68d2e72b4e98b8d234ca8f81dace6bb2e2df",
   "slug": "will-fc-lugano-finish-3rd-in-swiss-super-league-2026-27"
  },
+ "0x577e48ff0be0849ebfcaff01a277ff57ee493f4b2db9ae32a4de19d6165dfefc": {
+  "created_at": "2026-11-10T02:40:50.577109Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Can I Get A...\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-can-i-get-a-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x57d098280ed56afe64bdd70a51087b86115783ef8855f8a3e6106b62875319fc": {
   "created_at": "2026-08-10T23:57:29.424556Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1069,6 +1078,15 @@
   "sha256": "3580ab0d33f7c1458e7cd2a11d4d53d16d2ec6739490ddd690b61a46672038c9",
   "slug": "2027-soccer-slovenian-prvaliga-winner-nd-mura"
  },
+ "0x9623c213dc6e7c2ded1f3cc08134fffecabc709cd31318e0f83aba94f67e68fc": {
+  "created_at": "2026-11-10T02:39:27.32809Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kraken run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-kraken-run-an-ad-during-super-bowl-lxi"
+ },
  "0x987385fc2c73e79655c8442be27d4862ae453b97e02a618bc87472dcfd0761fc": {
   "created_at": "2026-09-23T14:36:27.222619Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1467,6 +1485,15 @@
   "sha256": "e536f8398f9b04d1a41d81e8969e89e2dbdc018afffa2fcaab4a5fb9d16c2078",
   "slug": "will-tottenham-win-the-2026-27-english-premier-league-epl-championship-20260701200428765"
  },
+ "0xdb016e4433c7ad6f08b8e140b8144fe8d7c7308e4263d1a464a3967eb2130bfc": {
+  "created_at": "2026-11-10T02:40:56.430929Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Apeshit\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-apeshit-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0xdd6d86e9d8d102133a46b404d2a0a92a3472a20e87d0d4e6fdf9861bbcac6afc": {
   "created_at": "2026-10-15T18:02:11.386668Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1636,6 +1663,7 @@
   "created_at": "2026-09-24T08:53:10.394428Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Claude Fable 5.2+ debut at an output token price of at least $60 by June 30, 2027?",
   "revisions": 1,
   "sha256": "dd48260355b330c3d90bb699a9cdf449e1f7508cc68df11638c0852f147d0474",

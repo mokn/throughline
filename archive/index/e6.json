@@ -1171,6 +1171,15 @@
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-artemi-panarin-win-the-2026-27-ted-lindsay-award"
  },
+ "0xc4b1bcfd931f780d06146b3da8ffa1f1c5a54090707e68444e68809ce3aae2e6": {
+  "created_at": "2026-11-09T22:28:08.036826Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Lionel Scaloni be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-lionel-scaloni-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0xc6a2590da8128023b89b01c35fa229ffee89523aa9be031c94b1ecff2f78ede6": {
   "created_at": "2026-08-11T19:03:30.136955Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1206,6 +1215,15 @@
   "revisions": 1,
   "sha256": "81ed0b5840b95056df9b11c06a56cd6c84db51fec130e427e62642d417476bf4",
   "slug": "will-leroy-sane-record-the-most-assists-in-the-2026-27-uefa-champions-league"
+ },
+ "0xcc4b272351732787d0895766438acbd2ded275e0a2c5dde85ce1ca30e25618e6": {
+  "created_at": "2026-11-10T02:45:35.549469Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Donald Trump attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-donald-trump-attend-super-bowl-lxi"
  },
  "0xcd2640464754b9a894ffec98ac11554fdd507ea89ca01237eabb3a6de4a606e6": {
   "created_at": "2025-12-08T22:58:27.904499Z",
@@ -1312,6 +1330,7 @@
   "created_at": "2026-08-26T21:46:18.527144Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will St Patrick's Athletic be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",

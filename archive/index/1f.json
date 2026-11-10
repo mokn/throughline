@@ -466,6 +466,7 @@
   "created_at": "2026-09-09T15:53:48.468632Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Konstantinos Karetsas win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1482,6 +1483,15 @@
   "revisions": 1,
   "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
   "slug": "will-basilio-nunez-win-the-2028-paraguay-presidential-election"
+ },
+ "0xe6b81f4278665284996981a79e7e5ee28c2fec3b69f56a06e23ee6474b7da41f": {
+  "created_at": "2026-11-09T21:17:53.79609Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will 100 Thieves Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-100-thieves-win-an-international-event-in-2027"
  },
  "0xe6eb21883f57c3047cf7be1d7cff4554fbb82067e374bd07c53242170f57851f": {
   "created_at": "2026-02-28T21:23:59.226978Z",

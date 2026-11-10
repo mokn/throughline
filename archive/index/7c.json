@@ -708,6 +708,15 @@
   "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
   "slug": "will-mark-kelly-announce-a-presidential-run-before-2028-20260803143241621"
  },
+ "0x736049751d6367a3de108e9a33fac204311d7b0d8327384c117fc39716b4e97c": {
+  "created_at": "2026-11-10T02:39:25.063873Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will SpaceX run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-spacex-run-an-ad-during-super-bowl-lxi"
+ },
  "0x747086d10879ffb0c17404e1d59e0cb0fef52c29205f960e9aedc5b0f999fc7c": {
   "created_at": "2026-09-27T20:02:03.194059Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1575,6 +1584,15 @@
   "revisions": 1,
   "sha256": "eccb603c945976a90ff26f808c3b2bab6fffb2ef95179f6bba14eebc1f5c9576",
   "slug": "will-arda-be-relegated-from-efbet-liga-bulgaria-2026-27"
+ },
+ "0xe8c247015f7e5359ff6e75fab4cb76e3804a3daa381eb4aa5c2dd7124722e67c": {
+  "created_at": "2026-11-10T02:40:53.199004Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Drunk in Love\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-drunk-in-love-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xedefc6b00afa2800d32e3dcb703de18e9fdd134cb299091b4fd2e218fcb3667c": {
   "created_at": "2026-07-08T21:29:04.365241Z",

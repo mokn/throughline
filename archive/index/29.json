@@ -189,6 +189,15 @@
   "sha256": "b9b881c4e7669a1c6dac9bed110c4b96faf376663737654f7474179d3b86c3ce",
   "slug": "will-the-median-home-value-in-los-angeles-metro-be-between-1137000-and-1148000-on-december-31-2026"
  },
+ "0x1e33622e30370ce8378d5e87d6a50de57100c7c8420329fa54aefd521aa1f229": {
+  "created_at": "2026-11-10T02:16:00.974182Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "GTA VI Online released by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "cba4cddbb83297e2afb5640d79048fff0807add2082dbaf8f3d0a83d3c17b901",
+  "slug": "gta-vi-online-released-by-june-30-2027"
+ },
  "0x1e5f9d4da657ab3a34a2fb65738a035d425c1bf589d900d54498bd03814fb829": {
   "created_at": "2026-09-17T14:52:50.815212Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1064,6 +1073,15 @@
   "revisions": 1,
   "sha256": "5fb09769c263c443e6cc81e301993980abd4563f5c094426ca53d9a68af88757",
   "slug": "will-psoe-win-the-most-seats-in-castellon-in-the-2026-spanish-general-election"
+ },
+ "0xb11b6c50ea1c3df6b1e9a7acc6ca1aa0a0fb7f7e86b9c4318fca0856b54c3329": {
+  "created_at": "2026-11-10T02:41:10.658545Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"99 Problems\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-99-problems-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0xb19de6a725fa59669c5b363eb5c599101185db40fdcb6e53d90d857eac92aa29": {
   "created_at": "2026-08-24T16:32:57.928781Z",

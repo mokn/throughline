@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if GitHub's Git Operations service experiences an incident with an impact classified as “critical” between market creation and the listed date, 11:59 PM ET. Otherwise, this market will resolve to “No.”
+
+An incident will qualify if the official GitHub Status Page (githubstatus.com) or the official GitHub Status API (githubstatus.com/api) classifies the incident's impact as “critical” and lists Git Operations among the incident's affected components ones the incident is marked “Resolved”. GitHub classifies incident impact as None, Minor, Major, or Critical; only an impact of Critical will qualify. Component status labels (e.g. “Degraded Performance,” “Partial Outage,” or “Major Outage”) will have no bearing on this market absent a qualifying critical incident.
+
+Revisions published after an incident is marked “Resolved” will not be considered.
+
+If an incident that began before 11:59 PM ET on the listed date remains unresolved at that time, this market will remain open and resolve at the earlier of: (i) when the incident is officially resolved, or (ii) the end of the seventh calendar day (ET) after the listed date, at which point the market will resolve based on the official information available at that time.
+
+Incidents that do not list Git Operations among their affected components, including incidents that list no affected components, will not qualify. Scheduled maintenance will not qualify.
+
+The primary resolution source for this market will be official GitHub system-status information published at https://www.githubstatus.com/, including the official GitHub Status API (https://www.githubstatus.com/api); however, a consensus of credible reporting may also be used.

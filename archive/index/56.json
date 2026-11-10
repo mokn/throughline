@@ -524,6 +524,7 @@
   "created_at": "2026-09-14T20:34:48.160427Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Anna Leigh Waters win exactly one Triple Crown in the 2026-27 PPA Tour season?",
   "revisions": 1,
   "sha256": "c35a4f048bb74e1a06d74fc89a0dcb25742ed6263ef7ffe581000929f43e9941",
@@ -809,6 +810,15 @@
   "revisions": 1,
   "sha256": "1d4a17a06c3618f6849e87bd81c896829a996320afda54ba8f5fd5111c11ca10",
   "slug": "will-the-republican-party-candidate-win-the-2026-ky-05-house-election-by-45-50"
+ },
+ "0x7e76739de262c491dfc38acfbdb692eeeb6fd8bd940fdf6775cd5a8b9484a556": {
+  "created_at": "2026-11-10T02:27:02.827263Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be at least $200M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-at-least-200m-by-december-15-20261108"
  },
  "0x7eac4b4ebe0291583f0381a001f83a6c52ba54f5f069d1bb62fd429758415656": {
   "created_at": "2026-09-08T16:52:40.443159Z",
@@ -1113,6 +1123,15 @@
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
   "slug": "cze1-art-bop-2026-10-17-exact-score-4-0"
+ },
+ "0xaa0637fb57d730b25d610fde3d4fbc85ff2b884257c066868d249a536354a356": {
+  "created_at": "2026-11-10T02:45:48.065646Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kanye West attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-kanye-west-attend-super-bowl-lxi"
  },
  "0xab86efc20a30069577b6e614a88ed79b013b124ed79b084d302fc75ac3104e56": {
   "created_at": "2026-09-20T09:44:57.019781Z",

@@ -625,6 +625,7 @@
   "created_at": "2026-10-06T18:40:34.771762Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will \"Wild Horse Nine\" score at least 87 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",
@@ -1510,6 +1511,15 @@
   "revisions": 1,
   "sha256": "7dd505e15bece2d6c005e60abe18b301ff3e945bb3b766208a2f7490d2e589ef",
   "slug": "will-the-danube-river-fail-to-return-to-normal-levels-by-january-1-2027"
+ },
+ "0xf9078cb87d7cd8cfe3b6607819b157397ca0be98d8954f7aa9e90e7c4912946b": {
+  "created_at": "2026-11-10T03:01:17.982967Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the cure (Olivia Rodrigo) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-the-cure-olivia-rodrigo-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xfbed495c1c2dfe0ea4ef30c3bf4e8c676c590e82dd18ed4f3e6b740fc5668f6b": {
   "created_at": "2026-09-30T20:07:15.502655Z",

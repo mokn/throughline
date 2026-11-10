@@ -977,6 +977,7 @@
   "created_at": "2026-10-28T21:54:48.104924Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Fable model (5.2+) be released on November 29, 2026?",
   "revisions": 1,
   "sha256": "201e04f9a79ad68844f932332722a70ad74e7b1f01349fcececc85275c9881c1",
@@ -1154,6 +1155,15 @@
   "revisions": 1,
   "sha256": "ff66ba2f9b9ff4d4c74af2d32560e87711cd5c5b750e7da8aea8b80ac35d1138",
   "slug": "will-jordyn-tyson-average-11pt0-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
+ },
+ "0xbe935cf2c8cd2fe6198088ae13940c9d3b4a3171492dae0c818ff9bb94b5a4b8": {
+  "created_at": "2026-11-10T02:40:52.618099Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Umbrella\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-umbrella-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xc119c0dc45d79c90fc8f548de54ba88be94253b3249e69f9fe9c16a6843843b8": {
   "created_at": "2026-09-04T19:52:07.360485Z",

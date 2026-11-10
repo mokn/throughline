@@ -153,6 +153,15 @@
   "sha256": "77723388953fea16630f6726d68af60bdcd8cbbd6e47827c75798d496f5c7f37",
   "slug": "will-jb-pritzker-announce-a-presidential-run-before-2027"
  },
+ "0x235b1c4e5a42344a2c962222a678b8d9c133803f6d481c25c3c8bf69323e0d8b": {
+  "created_at": "2026-11-10T02:41:52.679887Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Izzo (H.O.V.A.)\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-izzo-hova-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0x2370f286c018850d6637b93169d6040e5ee6fcc4497288e00c4aa4b1e3669c8b": {
   "created_at": "2026-02-10T15:51:27.704562Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -508,6 +517,15 @@
   "revisions": 1,
   "sha256": "7cef382a9b1ebfc3a860dddefdd4fe7d9fc3e10959f3d15d0f6e523bfdbcf038",
   "slug": "will-alex-cora-win-the-2026-al-manager-of-the-year"
+ },
+ "0x54f8740540d7d197e5f0169f7d73948188269a56bde650a33431b89f0c35df8b": {
+  "created_at": "2026-11-10T02:45:36.558751Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Elon Musk attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-elon-musk-attend-super-bowl-lxi"
  },
  "0x55749e7bef79908b40dd46eb41572e15bca23a79330869b61cd434e288c81f8b": {
   "created_at": "2026-10-02T20:14:32.294977Z",
@@ -969,6 +987,15 @@
   "sha256": "3c79fc453f14e0dd0f723eb027a339c0eb3f2b798d2f7f692f3005a955a7bb1b",
   "slug": "will-geordin-hill-lewis-be-the-next-mayor-of-cape-town"
  },
+ "0x92dec443e4e599ce94cf3a00724361e8d32c497e5c6a4d4f0fb0642b766ee48b": {
+  "created_at": "2026-11-10T02:16:00.481709Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "GTA VI Online released by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "cba4cddbb83297e2afb5640d79048fff0807add2082dbaf8f3d0a83d3c17b901",
+  "slug": "gta-vi-online-released-by-december-31-2026"
+ },
  "0x93ab8512c9d7f2641c044397e65f07bbfc02c078df01da6d5c28679fee04aa8b": {
   "created_at": "2026-10-30T22:00:50.472795Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1192,6 +1219,7 @@
   "created_at": "2025-12-15T19:18:32.044036Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the Republican Party win the AZ-02 House seat?",
   "revisions": 1,
   "sha256": "fcf4fa20838da8685c7530b3cf44a7f673939b928f16fdecd4093cfd4cd020d4",
@@ -1563,6 +1591,7 @@
   "created_at": "2026-08-25T21:36:56.538717Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the Los Angeles Chargers have more than 9.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",

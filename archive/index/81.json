@@ -131,6 +131,7 @@
   "created_at": "2026-08-31T18:27:35.396674Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Jakub Rychteck\u00fd be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",
@@ -1376,6 +1377,15 @@
   "sha256": "409e54daf470dfe79a6c4ae3afa53807e5ca8e7d8477dfb4c384f5bd327eb4f3",
   "slug": "will-abha-club-finish-15th-in-saudi-professional-league-2026-27"
  },
+ "0xd9bb376cf318f5628fa34f565145388ff998bef1310df78ea086c409cedbae81": {
+  "created_at": "2026-11-09T23:32:34.271008Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Alice Huang be federally charged by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "a180caac1a0afa8f3c31eb689422e7bfc026dbaecf64fd08ec5f21af755a4455",
+  "slug": "alice-huang-federally-charged-by-march-31-2027"
+ },
  "0xdb0b2d421b61ededb94955b16d90cd9d5d0a3ecde37e2736d96302e326247281": {
   "created_at": "2026-09-09T15:41:21.791234Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1447,6 +1457,15 @@
   "revisions": 1,
   "sha256": "d78e5527d516eab489f92623f3fc2f4d94395c9ec8f465f6e9f3fcce256ae761",
   "slug": "will-pan-win-the-most-seats-in-the-2027-veracruz-congress-election"
+ },
+ "0xe7ce0b17eff247b46d57865c8d1233c4e834e32daab59b4fd674d9efacc77981": {
+  "created_at": "2026-11-10T02:45:44.877015Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Bad Bunny attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-bad-bunny-attend-super-bowl-lxi"
  },
  "0xe966ca52029f431b3ab0917e43bb95895a3e209fcdbad1832c0d6f16e2cac581": {
   "created_at": "2026-07-18T20:23:05.10265Z",

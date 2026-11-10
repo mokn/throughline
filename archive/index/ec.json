@@ -527,6 +527,15 @@
   "sha256": "91f3ba152a5251b8fa77871d455f53c830159d9f1f8f8c073f0c72029232dcc0",
   "slug": "will-ilia-topuria-fight-arman-tsarukyan-next-20260616144856074"
  },
+ "0x6205d1cf003a828e1393764892df201b17eef9923887264cec276ca9ab762bec": {
+  "created_at": "2026-11-09T22:27:59.555719Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kieran McKenna be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-kieran-mckenna-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x6275a005c7d9df0075bd64dfc4e12c74900cd4e724871b76790bee1fc66367ec": {
   "created_at": "2026-08-12T00:15:56.664219Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1334,6 +1343,15 @@
   "sha256": "58870a876014b54a6b7a14bdc941ae63412669cd2df065f57232a0d91922dec8",
   "slug": "will-john-barrasso-be-the-next-us-senate-minority-leader"
  },
+ "0xec4e464204b7ee0b3fd402d364e7e856e7e5b2e1403a27ed434065ce59302eec": {
+  "created_at": "2026-11-10T02:45:17.957722Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Lainey Wilson sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-lainey-wilson-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0xed068d27435243005fa409bf3300929c60d5d0a8dc0514836719dea048f070ec": {
   "created_at": "2026-09-08T16:06:00.821111Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1374,6 +1392,7 @@
   "created_at": "2026-09-09T15:53:49.879371Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Xavi Espart win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",

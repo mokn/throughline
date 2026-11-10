@@ -466,6 +466,7 @@
   "created_at": "2026-07-10T02:09:58.494572Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Young Kim win the CA-40 House seat?",
   "revisions": 1,
   "sha256": "b90009cd9ff43db36fe80e8262bd9c1f5a02dd2004ddb95b4c58e59a13cdecd6",
@@ -1299,6 +1300,15 @@
   "revisions": 1,
   "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
   "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-oliver-bearman-2026-12-04"
+ },
+ "0xe31f1b0b98628db9f1d67d902f5880aa149defa2c0776f06abecf0c910a5118c": {
+  "created_at": "2026-11-10T02:41:58.971233Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Young Forever\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-young-forever-be-played-at-the-2027-big-game-halftime-show"
  },
  "0xe4147afb4a79a377dd7098c8aaed175c3d4daac887d97b14fd276060f26cd48c": {
   "created_at": "2026-08-12T17:23:12.860496Z",

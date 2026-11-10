@@ -297,6 +297,15 @@
   "sha256": "05de4e1b6d7bc1e3d082b43e81cf5a2326f4b363b0381901f63150ef4d40214a",
   "slug": "will-donald-trump-visit-massachusetts-in-2026"
  },
+ "0x2e6f81fa9f6b7ad9f35f7bd91148ab40a3a546d81a059f9eefe3660b8220bf66": {
+  "created_at": "2026-11-09T21:18:06.542542Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Trace Esports Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-trace-esports-win-an-international-event-in-2027"
+ },
  "0x2f04b814ac43b8150c9cdc3fc0ce119724f14cb8823b13ee4005b5222e53e866": {
   "created_at": "2026-09-18T00:03:52.935266Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1407,6 +1416,7 @@
   "created_at": "2026-09-09T15:53:48.088824Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Eli Junior Kroupi win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",

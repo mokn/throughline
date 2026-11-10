@@ -482,6 +482,15 @@
   "sha256": "e2da1e1d002217f80d000b09247604e72a597b417d0161bf4806fc39b9787152",
   "slug": "cdr-por-iru-2026-10-28-first-half-team-total-away-2pt5"
  },
+ "0x4f39de9ac01ced96fe018cb7c8b8eed2ecb786acf8e2570b52db12c3a739c824": {
+  "created_at": "2026-11-10T02:45:42.18396Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Justin Bieber attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-justin-bieber-attend-super-bowl-lxi"
+ },
  "0x4ff66babd9440e4ca4097607aafa868bf734c5411463e14bffc5c330d7d0f524": {
   "created_at": "2025-10-09T23:52:18.54508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1233,6 +1242,7 @@
   "created_at": "2026-09-29T00:12:13.963334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Italy by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
