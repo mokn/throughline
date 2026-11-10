@@ -63,11 +63,12 @@ class ParsePage(unittest.TestCase):
         self.assertEqual(page.next_cursor, 97)
 
     def test_missing_next_cursor_does_not_reset_to_zero(self):
-        page = _parse_page({"items": []}, fallback_cursor=4096)
-        self.assertEqual(page.next_cursor, 4096)
+        with self.assertRaises(ThroughlineError):
+            _parse_page({"items": [], "has_more": False}, fallback_cursor=4096)
 
     def test_missing_items_key(self):
-        self.assertEqual(_parse_page({"next_cursor": 1}, fallback_cursor=0).changes, [])
+        with self.assertRaises(ThroughlineError):
+            _parse_page({"next_cursor": 1, "has_more": False}, fallback_cursor=0)
 
     def test_null_record_is_a_withdrawal(self):
         page = _parse_page(

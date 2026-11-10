@@ -112,7 +112,8 @@ export function retryAfter(value, fallback = 5) {
 export function parsePage(payload, fallbackCursor) {
   const invalid = () => { throw new ThroughlineError(502, '{"error":"invalid_response"}'); };
   if (!payload || typeof payload !== "object" || Array.isArray(payload) ||
-      Object.hasOwn(payload, "items") && !Array.isArray(payload.items)) invalid();
+      !["items", "next_cursor", "has_more"].every((k) => Object.hasOwn(payload, k)) ||
+      !Array.isArray(payload.items)) invalid();
   const changes = [];
   for (const item of payload?.items ?? []) {
     const env = item?.envelope ?? {};
@@ -129,12 +130,12 @@ export function parsePage(payload, fallbackCursor) {
       String(env.schema ?? ""),
     ));
   }
-  const next = payload.next_cursor ?? fallbackCursor;
+  const next = payload.next_cursor;
   if (!Number.isSafeInteger(next) || next < fallbackCursor || changes.some((c) => c.cursor > next) ||
       Object.hasOwn(payload, "has_more") && typeof payload.has_more !== "boolean") invalid();
   return new Page(
     changes,
-    // A missing next_cursor must not silently reset the caller to zero.
+    // A missing or invalid cursor fails; it never resets the caller's state.
     next,
     Boolean(payload?.has_more ?? false),
   );

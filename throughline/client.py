@@ -344,10 +344,11 @@ class MatchStore:
 def _parse_page(payload: dict[str, Any], *, fallback_cursor: int) -> Page:
     def invalid():
         raise ThroughlineError(502, '{"error":"invalid_response"}')
-    if not isinstance(payload, dict) or not isinstance(payload.get("items", []), list):
+    if (not isinstance(payload, dict) or not {"items", "next_cursor", "has_more"} <= payload.keys()
+            or not isinstance(payload["items"], list)):
         invalid()
     changes: list[Change] = []
-    for item in payload.get("items", []):
+    for item in payload["items"]:
         if not isinstance(item, dict) or not isinstance(item.get("envelope"), dict):
             invalid()
         envelope = item["envelope"]
@@ -369,16 +370,14 @@ def _parse_page(payload: dict[str, Any], *, fallback_cursor: int) -> Page:
                 schema=str(envelope.get("schema", "")),
             )
         )
-    next_cursor = payload.get("next_cursor")
-    if next_cursor is None:
-        next_cursor = fallback_cursor
+    next_cursor = payload["next_cursor"]
     if (type(next_cursor) is not int or not fallback_cursor <= next_cursor <= 2**63 - 1
             or any(change.cursor > next_cursor for change in changes)
-            or type(payload.get("has_more", False)) is not bool):
+            or type(payload["has_more"]) is not bool):
         invalid()
     return Page(
         changes=changes,
-        # A missing next_cursor must not silently reset the caller to zero.
+        # A missing or invalid cursor fails; it never resets the caller's state.
         next_cursor=next_cursor,
         has_more=bool(payload.get("has_more", False)),
     )

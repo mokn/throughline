@@ -46,11 +46,11 @@ test("empty page keeps the caller moving", () => {
 });
 
 test("missing next_cursor does not reset to zero", () => {
-  assert.equal(parsePage({ items: [] }, 4096).nextCursor, 4096);
+  assert.throws(() => parsePage({ items: [], has_more: false }, 4096), (e) => e.code === "invalid_response");
 });
 
 test("missing items key", () => {
-  assert.deepEqual(parsePage({ next_cursor: 1 }, 0).changes, []);
+  assert.throws(() => parsePage({ next_cursor: 1, has_more: false }, 0), (e) => e.code === "invalid_response");
 });
 
 test("null record is a withdrawal", () => {
