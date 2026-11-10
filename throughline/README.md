@@ -62,6 +62,86 @@ and ships TypeScript declarations. Its optional constructor is
 `new Throughline(baseUrl, apiKey, options)`. Browser callers must provide a key
 explicitly; never put a private key in a public/shared frontend.
 
+## Command line: set up without pasting a key
+
+`pip install .` also installs a `throughline` command (POSIX, Python 3.10+, no
+dependencies). It lets an agent or script request access that **a signed-in human
+approves in the browser**, so no key is ever pasted into chat.
+
+These commands need the Throughline delegated-access server release. Until that
+release is deployed, `throughline login` fails with an HTTP error and the
+portal's **Copy .env line** above remains the way to get a key. This is source in
+this repository, not a claim that the hosted routes are live.
+
+```sh
+throughline login                 # prints a code and link, exits 2 (pending)
+# a human opens the link, signs in, checks the code matches and approves
+throughline login --wait          # exits 0 once approved; the key is now in .env
+throughline status                # plan and remaining allowance
+throughline start-from-now        # capture the feed head once; later runs reuse it
+```
+
+`login` output (the code and link are not secrets):
+
+```json
+{"expires_in": 600, "interval": 5.0, "name": "Throughline CLI", "next": "Open the link, sign in and approve the matching code. Then run 'throughline login --wait'.", "pairing_id": "0123456789abcdef0123456789abcdef", "pending_file": ".throughline/pending.json", "scopes": ["news:read"], "status": "pending", "user_code": "KQ4T-7MZB", "verification_uri": "https://api.throughline.markets/account", "verification_uri_complete": "https://api.throughline.markets/account#pair=KQ4T-7MZB"}
+```
+
+Every command prints exactly one JSON object on stdout and never prints a
+credential. `status` is one of `ok`, `pending`, `delivered`, `denied`, `expired`,
+`slow_down`, `cancelled`, `delivery_unknown`, `error`. Exit codes: `0` success,
+`2` pending or slow down (run again later), `3` denied, expired or cancelled,
+`4` error or delivery unknown. Errors carry a stable `error` code and fixed
+fields only; response bodies are never echoed.
+
+How it works: the CLI generates the key locally and sends only its SHA-256 hash.
+The key is unusable until a human approves the request. The secret waits in
+`.throughline/pending.json`, so a lost reply or a restart loses nothing: run
+`throughline login` again and it finishes the same request. After approval the
+feed key is written to `.env` as `THROUGHLINE_API_KEY=...`. It does not expire;
+it works until revoked.
+
+Optional management scopes let the CLI read the account or manage keys:
+
+```sh
+throughline login --scopes account:read,keys:read,keys:write,billing:read
+throughline account
+throughline keys list --newest
+throughline keys create --name worker --output private/worker.env
+throughline keys revoke 0123456789abcdef0123456789abcdef
+throughline billing status
+```
+
+The human can approve fewer scopes than requested. The management credential is
+stored apart from the feed key in `.throughline/credentials.json` and expires 30
+days after approval; renewing it needs a new `login --replace` and a new
+approval. Revoking a connection in the portal also revokes its feed key and any
+keys created through it. Connections, trials and payment stay in the portal.
+
+File rules, enforced before anything is sent:
+
+- `.env` and `.throughline/` must be git-ignored and untracked. The CLI names the
+  missing `.gitignore` lines and never edits `.gitignore` itself. Outside a git
+  work tree, pass `--no-git` to acknowledge that.
+- Private files must be regular files owned by you with mode `0600`
+  (`.throughline` is `0700`). Symlinks, hard links, other owners and group or
+  world access are refused, not repaired.
+- Other `.env` lines are preserved byte for byte. More than one
+  `THROUGHLINE_API_KEY` line is refused. An existing key is never overwritten
+  unless you pass `--replace`; the old key then stays active until revoked.
+- `keys create` requires `--output`, a new ignored file inside the project. The
+  key is written there and never printed.
+- One command at a time per project: a second `login` while one is waiting gets
+  `state_locked`. `throughline cancel` drops a pending request locally; the
+  unapproved request then expires on its own. `cancel` refuses if the request was
+  already approved, and finishes delivery instead.
+- Credentials are never accepted as arguments. The API origin is fixed;
+  `THROUGHLINE_API_BASE_URL` is accepted only for loopback addresses, for tests.
+  Redirects are refused, and responses are bounded in size and time.
+
+These files keep a key out of chat, logs and source control. They do not hide it
+from a shell agent doing the setup, which can read local files.
+
 ## Cursors, replay and corrections
 
 `page()` / `page(0)` starts at the beginning of retained change history. To receive
@@ -121,8 +201,11 @@ From the repository root:
 
 ```sh
 python3 -I throughline/tests/test_client.py
+python3 throughline/tests/test_cli.py
 node --test throughline/js/tests/
 ```
 
 These exercise the actual clients at their HTTP boundaries, including quota
-failure, retry budgets, cancellation, saved cursors, withdrawals and replay.
+failure, retry budgets, cancellation, saved cursors, withdrawals and replay. The
+CLI tests run the real command as a subprocess in temporary git repositories
+against a local HTTP server; they need `git` and never contact the hosted service.

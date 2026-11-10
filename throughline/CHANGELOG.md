@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+- Added the `throughline` command (version 0.2.0): delegated setup where a
+  signed-in human approves a locally generated key, private-file storage with
+  git-ignore, symlink, owner and mode checks, resumable pending state, account,
+  key and billing reads under optional scopes, and a once-only start-from-now
+  cursor. Requires the delegated-access server release; not a claim that those
+  routes are deployed.
+
 - Require HTTPS base URLs except explicit loopback development; reject credentials, queries and fragments in the base URL.
 
 - Reject malformed pages, cursors and absent upsert records before they can corrupt saved state. Return deterministic response_too_large without retrying.
