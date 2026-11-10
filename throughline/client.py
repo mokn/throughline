@@ -21,6 +21,7 @@ A match is identified by the ``(stream_id, record_id)`` pair, not by
 from __future__ import annotations
 
 import json
+import ipaddress
 import math
 import os
 import threading
@@ -127,8 +128,22 @@ class Throughline:
         sleep: Callable[[float], None] = time.sleep,
         cancel: threading.Event | None = None,
     ) -> None:
-        if not base_url:
-            raise ValueError("base_url is required")
+        try:
+            if type(base_url) is not str or any(ord(ch) <= 32 or ord(ch) == 127 for ch in base_url):
+                raise ValueError
+            target = urllib.parse.urlsplit(base_url)
+            hostname = target.hostname
+            try:
+                loopback = ipaddress.ip_address(hostname).is_loopback
+            except ValueError:
+                loopback = hostname == "localhost"
+            if (not hostname or target.username is not None or target.password is not None
+                    or target.query or target.fragment
+                    or target.scheme != "https" and not (target.scheme == "http" and loopback)):
+                raise ValueError
+            _ = target.port
+        except (ValueError, TypeError):
+            raise ValueError("base_url must be an HTTPS URL without credentials, query or fragment; HTTP is allowed only for loopback") from None
         api_key = os.environ.get("THROUGHLINE_API_KEY") if api_key is None else api_key
         if (type(api_key) is not str or not api_key
                 or any(not 33 <= ord(ch) <= 126 for ch in api_key)):

@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Require HTTPS base URLs except explicit loopback development; reject credentials, queries and fragments in the base URL.
+
 - Reject malformed pages, cursors and absent upsert records before they can corrupt saved state. Return deterministic response_too_large without retrying.
 
 - Reject whitespace, control characters and non-ASCII credentials before transport without echoing the key in an exception.

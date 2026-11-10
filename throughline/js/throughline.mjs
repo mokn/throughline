@@ -159,7 +159,15 @@ export class Throughline {
    * @param {{timeout?: number, maxRetries?: number, retryBudget?: number, signal?: AbortSignal, sleep?: (seconds: number, signal?: AbortSignal) => Promise<void>, fetch?: typeof fetch}} [opts]
    */
   constructor(baseUrl = DEFAULT_BASE_URL, apiKey = globalThis.process?.env?.THROUGHLINE_API_KEY, opts = {}) {
-    if (!baseUrl) throw new TypeError("baseUrl is required");
+    try {
+      if (typeof baseUrl !== "string" || /[\x00-\x20\x7f]/.test(baseUrl)) throw new Error();
+      const target = new URL(baseUrl);
+      const local = target.hostname === "localhost" || target.hostname === "[::1]" || /^127\.\d+\.\d+\.\d+$/.test(target.hostname);
+      if (target.username || target.password || target.search || target.hash ||
+          target.protocol !== "https:" && !(target.protocol === "http:" && local)) throw new Error();
+    } catch {
+      throw new TypeError("baseUrl must be an HTTPS URL without credentials, query or fragment; HTTP is allowed only for loopback");
+    }
     if (typeof apiKey !== "string" || !/^[\x21-\x7e]+$/.test(apiKey)) {
       throw new TypeError("apiKey must be nonempty printable ASCII without whitespace");
     }

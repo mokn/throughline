@@ -161,6 +161,16 @@ def raise_http(code, body=b"{}", headers=None):
 
 
 class ClientTransport(unittest.TestCase):
+    def test_only_https_or_explicit_loopback_urls_can_receive_credentials(self):
+        for base in ('http://api.example', 'file:///tmp/feed', 'https://user:password@api.example',
+                     'https://api.example?key=private', 'https://api.example#private', 'https://api.example:99999'):
+            with self.subTest(kind=base.split(':')[0]), self.assertRaises(ValueError) as raised:
+                Throughline(base, 'k')
+            self.assertNotIn('password', str(raised.exception))
+            self.assertNotIn('private', str(raised.exception))
+        for base in ('https://api.example', 'http://127.0.0.1:8000', 'http://localhost:8000', 'http://[::1]:8000'):
+            Throughline(base, 'k')
+
     def test_malformed_key_is_rejected_without_echoing_the_credential_or_sending_a_request(self):
         for value in ('tl_live_secret\n', 'tl_live_\rsecret', 'tl_live_ secret', 'tl_live_secret\x00', 'tl_live_secreté'):
             with self.subTest(value_type=type(value).__name__):

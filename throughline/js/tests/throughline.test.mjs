@@ -142,6 +142,17 @@ test("retryAfter values", () => {
 const ok = (body) => ({ ok: true, status: 200, headers: new Headers(), json: async () => body, text: async () => JSON.stringify(body) });
 const fail = (status, body = "{}", headers = {}) => ({ ok: false, status, headers: new Headers(headers), json: async () => JSON.parse(body), text: async () => body });
 
+test("only HTTPS or explicit loopback URLs can receive credentials", () => {
+  for (const base of ["http://api.example", "http://127.evil.example", "file:///tmp/feed", "https://user:password@api.example",
+    "https://api.example?key=private", "https://api.example#private", "https://api.example:99999"]) {
+    assert.throws(() => new Throughline(base, "k"),
+      (e) => e instanceof TypeError && !e.message.includes("password") && !e.message.includes("private"));
+  }
+  for (const base of ["https://api.example", "http://127.0.0.1:8000", "http://localhost:8000", "http://[::1]:8000"]) {
+    new Throughline(base, "k");
+  }
+});
+
 test("malformed keys fail without echoing the credential or sending a request", () => {
   for (const value of ["tl_live_secret\n", "tl_live_\rsecret", "tl_live_ secret", "tl_live_secret\x00", "tl_live_secreté"]) {
     let sent = false;

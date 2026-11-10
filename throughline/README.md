@@ -41,6 +41,8 @@ server; those tools do not require a Throughline account or key.
 One environment variable, `THROUGHLINE_API_KEY`, is used by both clients. The
 production base URL defaults to `https://api.throughline.markets`.
 `Throughline(base_url, api_key)` remains available for explicit configuration.
+Use HTTPS; cleartext HTTP is accepted only for local loopback development. Base
+URLs cannot contain credentials, query strings or fragments.
 The Python constructor reads exported environment variables. The example above
 reads the single key line as data; the client does not parse `.env` itself. Never
 execute/source a secret file as shell code.
