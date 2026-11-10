@@ -4,12 +4,15 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "throughline-news-client"
-version = "0.1.1"
-description = "Python client for the Throughline news relevance API"
+version = "0.2.0"
+description = "Python client and command line for the Throughline news relevance API"
 readme = "throughline/README.md"
 requires-python = ">=3.10"
 license = {file = "LICENSE"}
 dependencies = []
+
+[project.scripts]
+throughline = "throughline.cli:main"
 
 [project.urls]
 Documentation = "https://throughline.markets/api"
