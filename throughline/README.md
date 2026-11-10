@@ -19,10 +19,18 @@ repository's root:
 python3 -m venv .venv
 . .venv/bin/activate
 python3 -m pip install .
-set -a
-. ./.env
-set +a
-python3 -c 'from throughline import Throughline; p = Throughline().page(limit=1); print(len(p.changes), p.next_cursor, p.has_more)'
+python3 - <<'PYTHON'
+import re
+from pathlib import Path
+from throughline import Throughline
+
+values = [line.partition("=")[2].strip() for line in Path(".env").read_text().splitlines()
+          if line.startswith("THROUGHLINE_API_KEY=")]
+if len(values) != 1 or not re.fullmatch(r"tl_live_[A-Za-z0-9_-]{43}", values[0]):
+    raise SystemExit("Expected one valid THROUGHLINE_API_KEY line; nothing was sent.")
+p = Throughline(api_key=values[0]).page(limit=1)
+print(len(p.changes), p.next_cursor, p.has_more)
+PYTHON
 ```
 
 The distribution is named `throughline-news-client`; the import is `throughline`.
@@ -33,7 +41,9 @@ server; those tools do not require a Throughline account or key.
 One environment variable, `THROUGHLINE_API_KEY`, is used by both clients. The
 production base URL defaults to `https://api.throughline.markets`.
 `Throughline(base_url, api_key)` remains available for explicit configuration.
-Python reads exported environment variables; it does not parse `.env` itself.
+The Python constructor reads exported environment variables. The example above
+reads the single key line as data; the client does not parse `.env` itself. Never
+execute/source a secret file as shell code.
 
 For Node 20.6+ with a private `.env` file, create `first-request.mjs` at the
 repository root:
