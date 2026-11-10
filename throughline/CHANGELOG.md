@@ -12,6 +12,12 @@
   was activated. It reports `delivery_unknown` (exit 4), keeps the pending
   secrets and names the connection to inspect or revoke in the portal. Denial
   stays definitive. The `expired` status is gone.
+- Both feed clients gain a usage reader (`client.usage()` in Python and
+  JavaScript) for the account's plan and current usage from `GET /v1/usage`. It
+  does not spend a news response and has its own separate limit. It needs the
+  same server release as the command. Quota errors expose `reset_at`
+  (`reset_at` in Python, `resetAt` in JavaScript); the older `resets_at` and
+  `resetsAt` attributes remain.
 
 - Require HTTPS base URLs except explicit loopback development; reject credentials, queries and fragments in the base URL.
 

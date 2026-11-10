@@ -8,8 +8,10 @@ lives 30 days or longer (statistics cover all of them).
 The separate Throughline news API is open for public testing. Agent setup:
 https://throughline.markets/agents.md . Contract: https://throughline.markets/api.md .
 Use the existing Python/JavaScript clients in throughline/ with
-THROUGHLINE_API_KEY; a person signs in before creating a key. Never request keys
-in chat. This repository’s archive MCP serves market/rules data, not news.
+THROUGHLINE_API_KEY; a person signs in and approves access or creates the key.
+The throughline command (throughline/README.md) asks for that approval and needs
+the delegated-access server release. Never request keys in chat; payment is the
+person's own action. This repository’s archive MCP serves market/rules data, not news.
 
 ## When an agent should use this repository
 

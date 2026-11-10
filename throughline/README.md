@@ -151,6 +151,14 @@ File rules, enforced before anything is sent:
 These files keep a key out of chat, logs and source control. They do not hide it
 from a shell agent doing the setup, which can read local files.
 
+## Your plan and usage
+
+`client.usage()` (Python) and `await client.usage()` (JavaScript) return
+`{"plan": ..., "usage": {...}}` for the account that owns the key, from
+`GET /v1/usage`. The call does not spend a news response; it has its own
+separate limit. It needs the same server release as the command above; older
+servers answer 404.
+
 ## Cursors, replay and corrections
 
 `page()` / `page(0)` starts at the beginning of retained change history. To receive
