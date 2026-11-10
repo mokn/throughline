@@ -75,6 +75,7 @@
   "created_at": "2026-09-14T20:32:52.370809Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Scorigami in Week 9 of the 2026-27 NFL season?",
   "revisions": 1,
   "sha256": "cd3a9fb534ce5ad336f771912a17fd49b1b57adc01d9b122f16926ea9c547c52",
@@ -121,6 +122,7 @@
   "created_at": "2026-08-26T08:45:19.933418Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "47f10f7c274a3cc6a57e2bc1f4bae71f0d73733d262ff761efd3bdce598ac266",
@@ -148,6 +150,7 @@
   "created_at": "2026-09-23T18:06:51.145155Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Galorys qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -320,6 +323,7 @@
   "created_at": "2026-09-30T23:57:45.806048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will at least 20 ships transit the Strait of Hormuz on any day by October 31, 2026?",
   "revisions": 1,
   "sha256": "2a98b935a343d21a18d64f39baf52c861dff3b1e1d8f7b7ee99f3f38217e73a5",
@@ -450,6 +454,15 @@
   "revisions": 1,
   "sha256": "0ff9af4efe312d2172174e2fed189f4506929254df947341a1aeebc150e77ba5",
   "slug": "will-ryan-wingo-be-the-2026-sec-receiving-tds-leader"
+ },
+ "0x46a4904249c196476b2ac9877e7a335d00f6c2cd0d5a39a0788a0464dc17c56e": {
+  "created_at": "2026-10-15T18:02:13.821628Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 5.5",
+  "revisions": 1,
+  "sha256": "4dc8fea8adfb937277f0d86271ba3927f3debd9636ecca876928ac918f2a8e60",
+  "slug": "cdr-ca-mal1-2026-10-28-total-5pt5"
  },
  "0x4839a141cfa632d37c2e1f23ddab424181a1b801454758aae508f9d01633206e": {
   "created_at": "2026-08-26T21:46:02.728738Z",
@@ -767,6 +780,15 @@
   "sha256": "1c169a8b66da879da6837569be1799fb43b1a6e8b864149092c16ca85c53b861",
   "slug": "will-the-median-home-value-in-the-us-be-between-411000-and-415000-on-december-31-2026"
  },
+ "0x7eadc8108bab65c0d86a0884155e521dd5c414ead66b78c5013e53454880f36e": {
+  "created_at": "2026-10-15T18:01:46.13483Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Badajoz (-2.5)",
+  "revisions": 1,
+  "sha256": "c22d9ac0a4205639f11d81291c718618b623e58c7719375b69c2f37f49739585",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-home-2pt5"
+ },
  "0x7f2eb362637d5067ac88c4ee7281772b23b6fea99cea1efa019bbc6d0c1e4e6e": {
   "created_at": "2026-07-23T22:41:05.049526Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -793,6 +815,15 @@
   "revisions": 1,
   "sha256": "0fba60e03908266ebca3e0912823008f81e7c17727c2f01637efc1e4a2c23df0",
   "slug": "will-nicolas-maduro-be-the-1-searched-person-on-google-this-year-20260717214426297"
+ },
+ "0x81b433adc0f10cc2602338ee353e9f541f5dc5f21da12adfcb54d5f7b45bad6e": {
+  "created_at": "2026-11-06T22:58:33.386146Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Scott Bessent be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-scott-bessent-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x822e61527476cabf98927e3aad385c5ecdae7086f945535f2c1fd9ae8dbfa46e": {
   "created_at": "2025-07-03T20:37:21.627643Z",
@@ -915,6 +946,7 @@
   "created_at": "2026-08-12T00:15:45.508893Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Talleres (C) win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -934,6 +966,7 @@
   "created_at": "2025-07-11T20:47:54.792432Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "2026 Balance of Power: R Senate, D House",
   "revisions": 1,
   "sha256": "f34f45b6b7464581ee4e02f4ae784532e248f81c5550b8542ad51517db1f06f4",
@@ -1030,6 +1063,15 @@
   "revisions": 1,
   "sha256": "4961d9163488131c20f0d809c884c2e16a26a098bb3750cfaed537d0be9e0ec9",
   "slug": "will-the-average-monthly-ethereum-gas-price-hit-5-gwei-before-2027"
+ },
+ "0xa6fdc42326eb316c759bba5a9ac8baa24801e3de79044640748047d0f20fe46e": {
+  "created_at": "2026-10-15T18:01:09.11917Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 5.5",
+  "revisions": 1,
+  "sha256": "048710a3cadc899e53968fe99279134708cb94866b5f410a7eee5e5afbf3c398",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-5pt5"
  },
  "0xa6ff2fc2eb5daba1d67240cea077ae15bfff3d8c629253b2aeec5ff57b7af36e": {
   "created_at": "2026-08-24T16:35:42.871592Z",
@@ -1157,6 +1199,15 @@
   "sha256": "3b0d575e437cde06b2cde58b4f2f10a4a71e31cf6b1f6eee76c88394e74093c8",
   "slug": "el1-don-oxf-2026-09-26-total-4pt5"
  },
+ "0xc6e188d8954137f66a6e4183b5ee8c58082f07ce2f2cba2819e8110e2fc9df6e": {
+  "created_at": "2026-11-10T02:26:58.598767Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be less than $100M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-less-than-100m-by-december-15-20261108"
+ },
  "0xc7e16600e196500e8e76489149be7ff4be1db42b9a52e764194477c13e36426e": {
   "created_at": "2026-09-04T04:02:07.368191Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1170,6 +1221,7 @@
   "created_at": "2026-08-12T16:52:06.73937Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ruccy Judith Oscco Polar win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -1179,6 +1231,7 @@
   "created_at": "2026-08-12T17:25:56.900576Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Inter Turku be runner-up in the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "a1f2dbaaa126b4b0c710ef29c3430086a4c28f521c5e8b8cedd18267d418db5d",
@@ -1305,6 +1358,7 @@
   "created_at": "2026-07-28T02:32:03.622729Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Alexandra Leclerc pregnant in 2026?",
   "revisions": 1,
   "sha256": "fc4f796e164dd99c66ab36edbd5e93e18ce6d631b9b0313b05db818cc207fdf1",

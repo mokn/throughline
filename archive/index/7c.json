@@ -57,6 +57,7 @@
   "created_at": "2026-10-10T11:30:08.197052Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Mclaren Mastercard have the highest constructor score at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13711fb14177e94e215272f2feab2b3492c7a6cc383bfd8b11e15f9eef985aa7",
@@ -66,6 +67,7 @@
   "created_at": "2026-08-26T21:46:53.298369Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Philadelphia Union keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -84,10 +86,20 @@
   "created_at": "2026-10-01T00:08:22.941756Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be between 0 and 5 average daily transits of the Strait of Hormuz on October 31?",
   "revisions": 1,
   "sha256": "86c1cf2a76ef55f9f5a756a6636cf057fcc0f2fb360dc96041fc6e30dac8f8ef",
   "slug": "will-there-be-between-0-and-5-average-daily-transits-of-the-strait-of-hormuz-on-october-31"
+ },
+ "0x1061da05243a023bc94f72b53087edb355a3d4f798b5dfe031c20397e541b07c": {
+  "created_at": "2026-10-15T17:01:04.715344Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 2 - 4 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-2-4"
  },
  "0x121daa86b63ada636e65b8b2d9284090cf19dc2485db3880c91f7dd95ec6a27c": {
   "created_at": "2026-10-13T19:55:28.469945Z",
@@ -183,6 +195,7 @@
   "created_at": "2026-10-01T00:02:08.376226Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be 35 or more average daily transits of the Bab el-Mandeb Strait on October 31?",
   "revisions": 1,
   "sha256": "b2158613ee34b2f4f271d267df930ca338f48c5d54bc933d94d3ba22a8b0ee84",
@@ -297,6 +310,15 @@
   "sha256": "fa180281116e9f867f5596d8aee6c32f1e3db0894fe87254cc101a371009fc69",
   "slug": "will-albania-win-the-uefa-euro-2028-20260720162754435"
  },
+ "0x36f238f40a3fa16a8cc0b9f686a737ecc1406b6bf763639428662ab7c88ae67c": {
+  "created_at": "2026-10-15T17:01:38.156825Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 3 - 5 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-3-5"
+ },
  "0x37771a6f8b5c3290d549cdb46a4d7d71744a40d015e56043113eafe560a6157c": {
   "created_at": "2026-09-14T20:32:35.777132Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -305,6 +327,15 @@
   "revisions": 1,
   "sha256": "40743b9d039d6b6c1e2a387776f5830ab5f95d3082043100de134a06af1ef03a",
   "slug": "will-agf-aarhus-finish-top-8-in-uecl-league-phase"
+ },
+ "0x381963fa8410e88ca318b7636184673038771e76906dcf596942be610c70d27c": {
+  "created_at": "2026-10-15T18:01:46.627353Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Tenerife (-3.5)",
+  "revisions": 1,
+  "sha256": "a5041fa6bfdf921f0c47c21be7501743f3787cbbc5a5a09875d82fa1d586be0f",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-away-3pt5"
  },
  "0x38d70059cb982d9c7fd425449768be5ad1ff20c8ca7b766ddddb17686b06f37c": {
   "created_at": "2026-09-09T15:47:15.16329Z",
@@ -427,6 +458,7 @@
   "created_at": "2026-07-30T19:46:18.802292Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will voters pick the 1873 Colt Single Action Army Revolver \"Peacemaker\" (.45 Colt) as the state gun of Idaho?",
   "revisions": 1,
   "sha256": "32c13a11589d2c4fbab1628201cac820bbea6df03df2fffeae39a34f6bc6fb4c",
@@ -676,6 +708,15 @@
   "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
   "slug": "will-mark-kelly-announce-a-presidential-run-before-2028-20260803143241621"
  },
+ "0x736049751d6367a3de108e9a33fac204311d7b0d8327384c117fc39716b4e97c": {
+  "created_at": "2026-11-10T02:39:25.063873Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will SpaceX run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-spacex-run-an-ad-during-super-bowl-lxi"
+ },
  "0x747086d10879ffb0c17404e1d59e0cb0fef52c29205f960e9aedc5b0f999fc7c": {
   "created_at": "2026-09-27T20:02:03.194059Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -842,6 +883,7 @@
   "created_at": "2026-10-08T22:00:03.468235Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Billam-Smith vs. Clarke end before Round 10?",
   "revisions": 1,
   "sha256": "4a2f48a20bc00ae7e1eb5287fb86daafe48a5b9473622de0c04271878ab262a6",
@@ -914,6 +956,7 @@
   "created_at": "2026-10-10T11:30:04.326664Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Oliver Bearman win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1063,6 +1106,15 @@
   "revisions": 1,
   "sha256": "32a94156792bdd186bd89f1336fed358178976b3bff69f78cc486b1853252c10",
   "slug": "will-the-jacksonville-jaguars-finish-the-2026-27-nfl-regular-season-with-the-best-record"
+ },
+ "0xadfbbadd95e6ec91c6943357524d5346179f3ddc7badc0f1979f3bf20142617c": {
+  "created_at": "2026-11-05T01:02:22.171358Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "250-254 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "250-254-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
  },
  "0xaf681bb7e57ee20f081c575c293c61d956c95e3c08246d216c5df123bcc1ff7c": {
   "created_at": "2025-12-15T20:54:17.475081Z",
@@ -1244,6 +1296,15 @@
   "revisions": 1,
   "sha256": "c324fccd7487b0d893650b15e3823df353f54cd393fc5cf0006fbc7848bcbfde",
   "slug": "will-mia-frisk-be-the-next-regional-board-chair-of-region-jonkoping-county-1786127776520"
+ },
+ "0xc703dd6efcd6191f65584447a7958f9a289ebf6a0e9d3990c24a31a280d1b47c": {
+  "created_at": "2026-11-05T01:14:44.680768Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will there be exactly 2 government shutdowns by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "8dc0163799f35f55665d0fda2eb9baa18ef71bc36586ab10fbed6ae30b31f93f",
+  "slug": "will-there-be-exactly-2-government-shutdowns-by-december-31-2027"
  },
  "0xc7a586ed8acde239f237595cb2d33032a7a709f99bcb45474dbbd49ad43a6a7c": {
   "created_at": "2026-08-11T18:43:35.968521Z",
@@ -1523,6 +1584,15 @@
   "revisions": 1,
   "sha256": "eccb603c945976a90ff26f808c3b2bab6fffb2ef95179f6bba14eebc1f5c9576",
   "slug": "will-arda-be-relegated-from-efbet-liga-bulgaria-2026-27"
+ },
+ "0xe8c247015f7e5359ff6e75fab4cb76e3804a3daa381eb4aa5c2dd7124722e67c": {
+  "created_at": "2026-11-10T02:40:53.199004Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Drunk in Love\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-drunk-in-love-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xedefc6b00afa2800d32e3dcb703de18e9fdd134cb299091b4fd2e218fcb3667c": {
   "created_at": "2026-07-08T21:29:04.365241Z",

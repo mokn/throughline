@@ -48,6 +48,7 @@
   "created_at": "2026-08-12T15:02:51.105851Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Utah State have more than 3.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -243,6 +244,15 @@
   "sha256": "d5bc11cfc552550730b17ba954963bafeb1c4dbd014b6d34ecae93819df6eb67",
   "slug": "will-mike-greenberg-be-the-next-indianapolis-colts-general-manager"
  },
+ "0x2ab2eb4bd0756da8bda66b4d3269e016a5a2624e522785e7f5a9fb3abf813c1d": {
+  "created_at": "2026-11-06T21:50:26.066666Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Republicans win the Presidency and House, and the Democrats the Senate in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-r-president-d-senate-r-house"
+ },
  "0x2c2d1ca309769bc95029fddfe022e86f5ac4ca26eb4f969824bc2e2035e5061d": {
   "created_at": "2026-10-01T13:32:10.002639Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -251,6 +261,15 @@
   "revisions": 1,
   "sha256": "edb1847a3b219af9e82b7ab95c4d1f89a345f3c6751bd5f17c249cf99664c2ec",
   "slug": "will-fmln-gain-the-most-seats-in-the-2027-salvadoran-legislative-election"
+ },
+ "0x2c4c6359b7edf513375899712372dfbb99cd15b673180d63d753b6f45db7d91d": {
+  "created_at": "2026-10-15T17:02:06.714272Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 3 - 5 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-3-5"
  },
  "0x2c63423f7ffdb49752310840ccc128d8ee992423c112c463a8131531b79e4d1d": {
   "created_at": "2026-01-28T15:40:45.311651Z",
@@ -289,6 +308,15 @@
   "sha256": "2966256705f6613f7d32d98b5a29368b23bcc2d97304bffa4c118c1f5c3883aa",
   "slug": "will-aston-villa-finish-the-ucl-league-phase-with-the-best-goal-differential"
  },
+ "0x31552cb613a016a0804ca8c8cb5c529b007f17cea7fbe8f6b3a4abf1b830a91d": {
+  "created_at": "2026-06-25T17:29:10.313076Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Cole Hutson win the 2026-27 Calder Trophy?",
+  "revisions": 1,
+  "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
+  "slug": "will-cole-hutson-win-the-2026-27-calder-trophy"
+ },
  "0x3346b5c3ace22c8f1cb63623b1b672436836a492c9bdde27ad30ac922551541d": {
   "created_at": "2026-08-05T18:35:30.022148Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -302,6 +330,7 @@
   "created_at": "2026-09-29T00:12:15.893318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Belarus by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -329,15 +358,26 @@
   "created_at": "2026-09-23T18:06:38.431339Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will PARIVISION qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
   "slug": "will-parivision-qualify-to-pgl-major-singapore-2026"
  },
+ "0x36134458464f14c49b8c2ec221d3ab3fabad644e97d59e251d33dfb8506a351d": {
+  "created_at": "2026-11-07T12:30:24.066186Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alpine get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-alpine-2026-12-05"
+ },
  "0x3613917f2f2c13557b20c3cc097faa39a42a0ded95448f177f8a8e145d24231d": {
   "created_at": "2026-09-20T08:45:05.872825Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: 2nd Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "ad140fe6a37ab1df2584268de7dfd481442084de1e1a0074794faf807c933708",
@@ -369,6 +409,24 @@
   "revisions": 1,
   "sha256": "32d85d3df19bfe913dab5362d8eeabc4e437a48a9afb6576f9e524813b6c0034",
   "slug": "will-sturm-graz-score-the-most-goals-in-the-uel-league-phase"
+ },
+ "0x393a8b2c9297e91f6e8e2a683fd62b6bfb0d432a46e1c34d1f82de3e48db211d": {
+  "created_at": "2026-11-10T02:41:29.693736Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Umbrella\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-umbrella-be-played-last-at-the-2027-big-game-halftime-show"
+ },
+ "0x3953a1b2640f3af82e77390a4df00100db6ba86a3c59cb590ba26f64b90c261d": {
+  "created_at": "2026-06-25T17:29:09.603228Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Jacob Fowler win the 2026-27 Calder Trophy?",
+  "revisions": 1,
+  "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
+  "slug": "will-jacob-fowler-win-the-2026-27-calder-trophy"
  },
  "0x3a49b9f4b37f59d3106991ff8bc93d0dc013689c1044d3b9b348599d54a0101d": {
   "created_at": "2026-10-05T23:00:47.879974Z",
@@ -645,6 +703,7 @@
   "created_at": "2026-09-09T02:41:24.853151Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Invictus Gaming win Worlds 2026?",
   "revisions": 1,
   "sha256": "8fc8e5fb6cae19590bbdd0f002496a91b8be414b57dfc5511c912c4feab80c70",
@@ -686,6 +745,15 @@
   "sha256": "08862a5bea542ed24f31da84d5134cea8515755da6d11bae7736a2ff130e6a95",
   "slug": "will-gambia-win-afcon-2027-qualifying-group-c"
  },
+ "0x6c1a668346e067d200ae809199aadbdd4ddedfbda2c0943dd9177d6cab018c1d": {
+  "created_at": "2026-11-09T22:28:00.814419Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Carlo Ancelotti be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-carlo-ancelotti-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x6dcfdb2ea6a557609991bbd17252d68906c0aa63c0eab29381c55505e6ebaf1d": {
   "created_at": "2026-10-05T15:17:22.988291Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -703,6 +771,15 @@
   "revisions": 1,
   "sha256": "1504c2cebcd81c6fe62692d5ba57627d1739b307cef154e114ea019bb63f2a76",
   "slug": "will-the-republican-party-candidate-win-the-2026-pa-09-house-election-by-20-25"
+ },
+ "0x70336ff7d335af126a731dd084e896f8a1b727495fc4b3f1494791017688ee1d": {
+  "created_at": "2026-11-10T02:53:48.775864Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "JD Vance resigns as Vice President by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "9dfc9243f56d0aafebef8552d28ba3fbe1aecbcefa8bee418d49a134220e8743",
+  "slug": "jd-vance-resigns-as-vice-president-by-december-31-2027"
  },
  "0x70348f97d802e707b361c683b75e53aab1bb9be4cf5b59cc5336a3e205f7a41d": {
   "created_at": "2026-09-08T16:56:25.303038Z",
@@ -762,6 +839,7 @@
   "created_at": "2026-10-10T11:30:38.441061Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Colapinto or Gasly?",
   "revisions": 1,
   "sha256": "2c756354390dc9915d40479af27a26e87298d238886b483189cc84a0151230ac",
@@ -771,6 +849,7 @@
   "created_at": "2026-10-10T11:30:34.060589Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Gabriel Bortoleto achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -1028,6 +1107,15 @@
   "sha256": "77bc455edc9b3ec888adc4b60f9dafb162c37744ad9c4a512677dd3cb24c2cd2",
   "slug": "el2-pvl-nth-2026-09-26-first-half-total-1pt5"
  },
+ "0xa8eac9559d6076410dd0148966f020a50471889ecf77a5b5287f50746652861d": {
+  "created_at": "2026-11-07T00:06:39.212425Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Next US president 70+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-70-plus-years-old-at-inauguration"
+ },
  "0xabd6a246bf096f1e87617125093277276c9b988c9fa89fd9905b10695a6b531d": {
   "created_at": "2026-10-07T09:14:40.462433Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1154,6 +1242,15 @@
   "sha256": "e1a85e236d7387863aa789f6538202f0c47f1bd644c05c6f36a382d8ec3ed15c",
   "slug": "will-alexandre-pantoja-be-the-next-fighter-to-be-ranked-first-in-the-ufc-pound-for-pound-rankings-in-2026-664"
  },
+ "0xc24ad66976ad7499a5f60758a1fe1421068e418355853959499f6589df17631d": {
+  "created_at": "2026-11-07T12:30:36.763795Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mclaren Mastercard achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-mclaren-mastercard-2026-12-06"
+ },
  "0xc32a544f65e3a8ffec6499e40290f10fa68a3f4a4819dfd366b6cb1fd7c4be1d": {
   "created_at": "2025-11-12T20:05:19.434279Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1276,6 +1373,7 @@
   "created_at": "2026-08-12T17:27:15.961253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Talleres (C) be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1294,6 +1392,7 @@
   "created_at": "2026-11-03T22:14:26.980172Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Harris's Democratic nomination odds dip to 4% by December 31?",
   "revisions": 1,
   "sha256": "2513141989f9a05b53bd37d5c1d642691696ccc3919a3c06a3faabdecf621fb3",

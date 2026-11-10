@@ -93,6 +93,7 @@
   "created_at": "2026-10-10T11:30:40.883437Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Leclerc or Russell?",
   "revisions": 1,
   "sha256": "56cc33470121290b754e6b65a2d1593abb1ae3e2bfc7dc3601112022b288c39b",
@@ -251,6 +252,15 @@
   "sha256": "9e39147f5ce5721c38f995945230c3928b10ab118be74f1709a9d90dd82f043a",
   "slug": "will-detroit-lions-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414224"
  },
+ "0x2f24469c5c3b8ef2e9b2b634922a835013c26876221753d3402213d8e325d22e": {
+  "created_at": "2026-11-07T12:30:35.750106Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Williams achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-williams-2026-12-06"
+ },
  "0x326950f5f951e8e380f00e14c13850877dbfa9e5de5805e137a5359321e3d22e": {
   "created_at": "2026-11-01T15:06:35.00057Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -268,6 +278,15 @@
   "revisions": 1,
   "sha256": "e29ffdba0469a446479bec01cb055277e560773aac61962e24a718dbabf2db83",
   "slug": "will-pafos-fc-finish-first-in-uecl-league-phase"
+ },
+ "0x348ec734332ff94b4e34b7a2f4cf163c49bb7d45c1b49b5f8beda1e55eda292e": {
+  "created_at": "2026-10-15T18:01:01.790265Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "b6029214f39f06df65d009ee877b1e8cb896ff769843f0edd2e3db1adf69982f",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-home-1pt5"
  },
  "0x34abda8fcff59d33607800634931edaa4bc29cb74218490150042fb5570c9f2e": {
   "created_at": "2026-08-28T19:59:44.371942Z",
@@ -437,6 +456,7 @@
   "created_at": "2025-12-10T18:05:31.572639Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party hold exactly 24 or 25 governorships after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cb4a6d2db6b0e17d1f68fb1ebd345806a34632c9cd578e8c03fccd5d3ea36f4b",
@@ -523,6 +543,15 @@
   "sha256": "0472a2aebbda5d8ee59618ee1b9f13a167b0f894fc22f66dc3c1a3bbfae58e8f",
   "slug": "will-the-bank-of-korea-decrease-the-base-rate-by-50-bps-at-the-january-2027-meeting"
  },
+ "0x50e50685c12533189d13285a2222e0834250cd78702042bd4bd0b2e644f6412e": {
+  "created_at": "2026-10-15T17:02:01.611768Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 5 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-5-2"
+ },
  "0x51bfdc3f81a755b64b34adaf8dafafe5126e7d7c45a6b14546084b9c299f9e2e": {
   "created_at": "2026-03-25T17:45:16.634257Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -540,6 +569,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-joel-embiid"
+ },
+ "0x54820e17796341f45ad0960da5715c3666288b701aff570667d92b8ba8475e2e": {
+  "created_at": "2026-10-15T17:01:21.954951Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 5 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-5-4"
  },
  "0x550fafba5cb05b159753cdfa4e60235b8c2a47d6908332854a8db633e0f05b2e": {
   "created_at": "2026-07-20T20:05:55.896116Z",
@@ -572,6 +610,7 @@
   "created_at": "2026-09-23T18:06:52.954705Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will 5star eSports qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -707,6 +746,7 @@
   "created_at": "2026-08-12T16:52:01.747024Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lizbeth Zavala Vilca win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -734,10 +774,20 @@
   "created_at": "2026-09-10T18:11:11.118832Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Republican Party control the Maine Senate after the 2026 Midterm elections?",
   "revisions": 1,
   "sha256": "257bb54a492010f974a4a7b15743c70843f1821c2b3748264d8406b9c35caf67",
   "slug": "will-the-republican-party-control-the-maine-senate-after-the-2026-midterm-elections"
+ },
+ "0x6b83e25174488848beaaa39e53923b08a61142cab29bc30899d084ec9678f12e": {
+  "created_at": "2026-11-07T12:30:43.9583Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-gabriel-bortoleto-2026-12-04"
  },
  "0x6caa780fdc2dc1614aa646404986c658ed6385f8efe9b9ca7de2b0a39e13e92e": {
   "created_at": "2026-08-04T18:16:21.245278Z",
@@ -847,6 +897,15 @@
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
   "slug": "2026-soccer-usl-league-one-runner-up-athletic-club-boise"
+ },
+ "0x7d6ff105cff798775ad45be446e3c55a5d7dc39efac8db82940dc050b5f4062e": {
+  "created_at": "2026-11-07T12:30:06.06636Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-hamilton-2026-12-06"
  },
  "0x7d90c8bea9e17a69e69ff3971ff577806d431afa14eed73791db33176956032e": {
   "created_at": "2026-10-13T15:51:30.699842Z",
@@ -1046,6 +1105,15 @@
   "sha256": "ce3efa01f29eac860f206862006d35de657ac51d1b82208674088dc39c250e18",
   "slug": "will-san-antonio-spurs-win-the-2027-nba-finals"
  },
+ "0x9e0afed07479b56be8975356e79c0af524ca2da77d0108569cbbaaba4f4a852e": {
+  "created_at": "2026-10-15T17:02:00.40858Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 1 - 0 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-1-0"
+ },
  "0x9e1461ce3d359487fa7864b24d502f246937a78fe540edf10541f79325dd212e": {
   "created_at": "2026-10-13T15:56:35.521742Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1122,6 +1190,7 @@
   "created_at": "2026-07-31T21:39:56.997427Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Bank of England decreases interest rates by 50+ bps after November 2026 meeting?",
   "revisions": 1,
   "sha256": "1894df47803f3fa3cb89bc6b0b437a94a0ea497a3d38d7e88aa34220121f7599",
@@ -1203,6 +1272,7 @@
   "created_at": "2026-10-02T20:15:46.585152Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Qiyana be the most played champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
@@ -1239,6 +1309,7 @@
   "created_at": "2026-09-01T17:41:32.295737Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democrats win Washoe County in the Nevada governor race in 2026?",
   "revisions": 1,
   "sha256": "e5fbb95ad3371123568786d70b9ec71b39076da935a7ca3baafaa1bd9fbf57d5",
@@ -1257,6 +1328,7 @@
   "created_at": "2026-08-12T17:31:25.762143Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Busan IPark be runner-up in the 2026 K League 2?",
   "revisions": 1,
   "sha256": "5eec421a990245a2171df11eb3513134b93abd02ca249d1b18333762f086360d",
@@ -1266,6 +1338,7 @@
   "created_at": "2026-09-09T15:53:48.771576Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Jon Martin win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1275,6 +1348,7 @@
   "created_at": "2026-09-09T02:41:23.587059Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Karmine Corp win Worlds 2026?",
   "revisions": 1,
   "sha256": "8fc8e5fb6cae19590bbdd0f002496a91b8be414b57dfc5511c912c4feab80c70",
@@ -1338,6 +1412,7 @@
   "created_at": "2026-03-25T20:08:27.727163Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Chase DeLauter win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -1482,6 +1557,7 @@
   "created_at": "2026-10-10T11:30:11.613761Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Oliver Bearman get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",

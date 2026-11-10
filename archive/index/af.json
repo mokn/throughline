@@ -71,6 +71,15 @@
   "sha256": "42b5f85610b14b992f4d833f9052b09c310edb1c9aceb53a79d24eaa84f0a2bc",
   "slug": "tony-pollard-7pt5-rushing-touchdowns-2026-27"
  },
+ "0x0913c051dc5a131694ef77f53854a4bf5b63aff6f45fcf9a433d26ea547bd7af": {
+  "created_at": "2026-11-10T02:45:43.626734Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Shohei Ohtani attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-shohei-ohtani-attend-super-bowl-lxi"
+ },
  "0x0a348cf938d971cb897706bdd42587bb7e2456cb8b5efef6e6e58abc26be77af": {
   "created_at": "2026-08-12T17:20:02.885152Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -79,6 +88,15 @@
   "revisions": 1,
   "sha256": "6844079682818058d1de2c1476766359daa2122552d75828bf3e291a8d785023",
   "slug": "2026-soccer-peru-liga-1-runner-up-deportivo-garcilaso"
+ },
+ "0x0a442669577a4297f491cc67ed2bb41d424457573d5b30c989a1fd23d32ed1af": {
+  "created_at": "2026-10-15T18:00:58.472037Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "ba984d829535d05bb5b7f8ff9fd67a964662bd15166d54860d171f2072f4ea40",
+  "slug": "cdr-cd17-car-2026-10-28-btts"
  },
  "0x0b701a510fe36844eb7a9839839b98dead384780e20b9504efcad1ab4b5b79af": {
   "created_at": "2026-07-02T18:53:20.373196Z",
@@ -302,6 +320,7 @@
   "created_at": "2026-09-23T18:06:55.462866Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Just Swing qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -437,6 +456,7 @@
   "created_at": "2026-10-02T17:59:59.785028Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 4.1%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -573,6 +593,7 @@
   "created_at": "2026-08-26T21:46:52.288196Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Minnesota United FC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -781,6 +802,7 @@
   "created_at": "2026-10-01T00:14:23.494661Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Trump speak to Volodymyr Zelenskyy by October 31?",
   "revisions": 1,
   "sha256": "cd2a34b1828e0bbe294ed69d21a4e0437f610a41a05a8b219fcb71de6c3250e0",
@@ -925,6 +947,7 @@
   "created_at": "2026-10-25T04:00:37.347159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $162 in November?",
   "revisions": 1,
   "sha256": "6fe3148cf281b45c622b21f6c573b49c208c3daad3287b0ae6aeda18ffcdd246",
@@ -1304,6 +1327,7 @@
   "created_at": "2026-10-10T11:30:44.878465Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Franco Colapinto finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",

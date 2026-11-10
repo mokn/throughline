@@ -144,6 +144,24 @@
   "sha256": "b16950b2d1aaf777db9e7cc3ef2d8177eed6e1c3dc99d923d72a1538d201430d",
   "slug": "will-rklb-reach-80-in-november-2026"
  },
+ "0x161588b21f9411195759acfca68c6b7379edc95be164e7dab227bba360bffafe": {
+  "created_at": "2026-11-10T02:41:51.691647Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Big Pimpin'\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-big-pimpin-be-played-at-the-2027-big-game-halftime-show"
+ },
+ "0x162a5aeb2d537903d3d042f03e800de5e0f70e23e94e223dee3741cfd51ad4fe": {
+  "created_at": "2026-11-06T22:31:43.011871Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jordan Bardella win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-jordan-bardella-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0x18ef75501ab74e6e75a8f3f3e5935dc7c6e0c02e4d2eca0d5728441fcf2c5efe": {
   "created_at": "2026-08-19T13:35:47.028729Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -166,6 +184,7 @@
   "created_at": "2026-10-08T22:00:11.563441Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bentley vs. Jr. end before Round 8?",
   "revisions": 1,
   "sha256": "50fcb3a0a8b4823685510efce89cd2afd4894f54e17f48930dc3c44e28054c2f",
@@ -492,6 +511,7 @@
   "created_at": "2026-08-28T19:43:46.399847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will New York Red Bulls win the 2026 MLS Eastern Conference?",
   "revisions": 1,
   "sha256": "eaf777950e049a2e80daac661f22587985e09b52d79dd38f53644ab7525d799c",
@@ -605,6 +625,15 @@
   "sha256": "a62152acda07d72e2b0817de093f32845fb1a09298ddeed94fc2fc8f2bda126e",
   "slug": "will-detroit-pistons-receive-the-first-overall-pick-at-the-2027-nba-draft-lottery"
  },
+ "0x689ccada472592800ff03529230d7c14d0973c4620a40af69d03a199f2da67fe": {
+  "created_at": "2026-10-25T10:15:19.647748Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 5 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-5"
+ },
  "0x69fcc5302870cb3020ac12a049b91b4cb6d509827f3c02770d3ab6d3ae58abfe": {
   "created_at": "2026-10-21T23:52:38.588308Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -649,6 +678,15 @@
   "revisions": 1,
   "sha256": "32380c6c2b17ff25dc44ebc0ce0f7a95b99edd43cb006a008f2a36e0e7436789",
   "slug": "will-liquipedia-win-the-2026-esports-supporting-service-of-the-year-award"
+ },
+ "0x749488daffd534a712c38cc5ca7474f4cd01490e731f8339f77f72280a663cfe": {
+  "created_at": "2026-11-10T02:41:12.841063Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Dirt Off Your Shoulder\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-dirt-off-your-shoulder-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0x7675dde556ba33ad5d7cc1748878a08f4ad78c7c1d6e51e4d2fff6da5c21b6fe": {
   "created_at": "2026-10-13T15:49:49.339927Z",
@@ -717,6 +755,7 @@
   "created_at": "2026-10-03T19:00:28.925412Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 5 - 5 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -829,6 +868,15 @@
   "revisions": 1,
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-macklin-celebrini-win-the-2026-27-ted-lindsay-award"
+ },
+ "0x96c7d6f6d2db42c80c26f72e140215bdda78be39161ea622694ad8974535c8fe": {
+  "created_at": "2026-10-15T18:02:12.447101Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Alcoyano (-4.5)",
+  "revisions": 1,
+  "sha256": "65da5f631b616adb18cdb6799d49eedea97ce17c66241c08cd5e764d061b62d2",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-home-4pt5"
  },
  "0x97193f06b83ca340c79757275f7e00f00ac90c222b85cb2f8d2e86a2ecd9f0fe": {
   "created_at": "2026-01-15T17:13:34.150398Z",
@@ -1073,6 +1121,15 @@
   "sha256": "5be67637dee9284e286b8594c9dca9b92cfe9951596a6c0a1be8407a873cebd4",
   "slug": "el1-not-bla-2026-09-26-exact-score-1-3"
  },
+ "0xb3ac82708c79d89fa203be1dca66398684606f63f959b8b021d7901710ad7ffe": {
+  "created_at": "2026-10-15T17:01:21.377032Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 1 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-1-5"
+ },
  "0xb56dd8333f58c0df07da8b5ba16d8cb8e71b1e0963b90c85154db2e63cd25afe": {
   "created_at": "2026-08-11T14:18:07.196909Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1185,6 +1242,7 @@
   "created_at": "2026-10-14T02:19:13.865336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will the Worlds 2026 Grand Final be LCK vs LPL?",
   "revisions": 1,
   "sha256": "2086260e7a6d189420bee5fbd2f1ad2a037c3abb89dfdafae6cb05bb3ccda27b",
@@ -1239,6 +1297,7 @@
   "created_at": "2026-09-30T23:47:56.853107Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Arizona passes ballot measure banning noncitizens from voting?",
   "revisions": 1,
   "sha256": "dba1efebfef150dc830fa1c9cb3b288b35215a077ab9e9f9b52ce44cea6f30c2",
@@ -1329,6 +1388,7 @@
   "created_at": "2026-09-23T18:06:55.16279Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will DEPO qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1415,6 +1475,15 @@
   "sha256": "85e66442d11be888b4802bd76c191900aea8b552e1292202372cba7c5b328883",
   "slug": "how-many-tesla-deliveries-in-q4-2026-575k-or-more"
  },
+ "0xe9e7628b3f4584fa29894003c11b5837ed9ae3045bbaa7fb5c789acbbfcf19fe": {
+  "created_at": "2026-11-07T12:30:11.761846Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Williams have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-williams-2026-12-06"
+ },
  "0xece369f57cb0e48d28c1b7039f7e237599320959cebfada031269af596239afe": {
   "created_at": "2026-10-01T15:53:30.577991Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1428,6 +1497,7 @@
   "created_at": "2026-09-30T23:57:45.405189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will at least 10 ships transit the Strait of Hormuz on any day by October 31, 2026?",
   "revisions": 1,
   "sha256": "2a98b935a343d21a18d64f39baf52c861dff3b1e1d8f7b7ee99f3f38217e73a5",
@@ -1437,6 +1507,7 @@
   "created_at": "2025-12-15T23:23:33.135378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the TX-09 House seat?",
   "revisions": 1,
   "sha256": "7b04f91e906e34918a087661d3e2fb1d9fdb84c61c497e2f7339502af9c88b45",

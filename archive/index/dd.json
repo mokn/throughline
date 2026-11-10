@@ -171,6 +171,15 @@
   "sha256": "175e5715f65040dd74298ad9a1b2231e932428f2bf12dfd7e7c9cb61fe78219c",
   "slug": "will-jonathan-reynolds-be-the-first-to-leave-the-burnham-cabinet-20260803162204125"
  },
+ "0x27b4cc8756daad266cfef0e690b14cb688b397ac2edec7dd7cda098df21b25dd": {
+  "created_at": "2026-10-25T10:45:17.792843Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 6.5",
+  "revisions": 1,
+  "sha256": "a4ab3815b1e5ad9ec4eaf17561b38f7dd1789e709e671c2bfd3ef3c0a36c5cba",
+  "slug": "gtm-mun-aur-2026-11-07-total-6pt5"
+ },
  "0x27f1b58012548eef9670a6949563ebf920a5658ed0fc049f31e1a869432c89dd": {
   "created_at": "2026-07-29T18:38:09.103536Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -229,6 +238,7 @@
   "created_at": "2026-08-12T15:01:42.705428Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Texas A&M have more than 7.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -446,6 +456,7 @@
   "created_at": "2026-08-26T08:45:19.018345Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Reading FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "9cfe0c75c4ef7459e662915bcdf550d1bf0e576e6348b4d879c0dcf4c665b99a",
@@ -633,6 +644,15 @@
   "sha256": "a1496a7d251e0bb4467f1d394c1c6843ba16718857cb5626171ba22481f393d9",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-18-house-election-by-45-or-more"
  },
+ "0x733aad38103552950b53f3572f8d185f6b542c2816304f2ff845131f1f9aacdd": {
+  "created_at": "2026-11-07T12:30:46.378447Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-franco-colapinto-2026-12-04"
+ },
  "0x7590cbc21f9c580c11c83294b29070e4ce8629ef869058d84128407ae7ec36dd": {
   "created_at": "2026-05-04T15:11:17.126607Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -673,6 +693,7 @@
   "created_at": "2026-09-01T17:41:07.432152Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republicans win Fort Bend County in the Texas Senate race in 2026?",
   "revisions": 1,
   "sha256": "f90109fe962a9c4b4c6fa9ed27a8e3c5a38ef33484c9570ae8cae8137eef6a94",
@@ -682,6 +703,7 @@
   "created_at": "2026-08-24T16:34:05.125901Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Liaoning Tieren be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -800,6 +822,7 @@
   "created_at": "2026-06-26T15:54:21.489773Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Dexter McCoy win the 2026 Fort Bend County Judge election?",
   "revisions": 1,
   "sha256": "4f39114f4e19f660d37b1276c492d816a3bcb4ee6d41389fe80dcb14509ca904",
@@ -809,10 +832,20 @@
   "created_at": "2026-10-25T04:01:11.324569Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Micron Technology, Inc. (MU) hit (LOW) $660 in November?",
   "revisions": 1,
   "sha256": "474df0f7ed1916e4121d1fc9365d84a2cf5eef49b4e7342c52d7a2c815c621ce",
   "slug": "will-mu-dip-to-660-in-november-2026"
+ },
+ "0x8eb306fa7348f5c414ab0aedfacbede48b7a20c3d83574e4471fe81f49525cdd": {
+  "created_at": "2026-11-07T12:30:05.467732Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-jr-2026-12-06"
  },
  "0x8f9acb3fb4f512d7552d2b008cc940488c89de9e510ce7672d88d4ee3fbca3dd": {
   "created_at": "2026-10-24T03:31:09.884648Z",
@@ -900,6 +933,7 @@
   "created_at": "2026-09-22T21:20:57.895648Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Invictus Gaming Make the Worlds 2026 Grand Final?",
   "revisions": 1,
   "sha256": "8e46f122df002d45630cf7e36c1f6d41e6df586fe9556ea854ab5d3ca00d86ca",
@@ -963,6 +997,7 @@
   "created_at": "2026-08-26T21:46:29.502657Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will V\u00e9lez Sarsfield finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -1139,6 +1174,15 @@
   "sha256": "02a5b24b869792dabe2bba50a32a2f5f015e04bdddbe9ea42c867abea189de54",
   "slug": "el1-not-bla-2026-09-26-total-7pt5"
  },
+ "0xd66cc0454baa3b6afeabbfbcac38debcab6034faef2e646a654fb1a1332750dd": {
+  "created_at": "2026-10-15T18:01:48.15925Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 4.5",
+  "revisions": 1,
+  "sha256": "9f49f17f753ab2f0075089d793b57cf48fe99e6b23f0af495c606915b7242bf5",
+  "slug": "cdr-bad-cdt-2026-10-28-total-4pt5"
+ },
  "0xd67691e4827082a9c3a139963bcacc2ccb2d59e69e5fa590ac61ee3788f307dd": {
   "created_at": "2026-10-13T19:55:48.683437Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1279,6 +1323,7 @@
   "created_at": "2025-11-25T17:18:00.623189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the CA-22 House seat?",
   "revisions": 1,
   "sha256": "08648b8755262663f4b3f2be7c8475c33e9a9f637a3ae46d8eece31365476dce",
@@ -1334,6 +1379,7 @@
   "created_at": "2025-12-15T20:51:04.36927Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the MT-01 House seat?",
   "revisions": 1,
   "sha256": "fcebc820f56db10d1420a4a55a61eca8f6e8e5d10f46d1a65027f7d94e6fed17",
@@ -1416,6 +1462,7 @@
   "created_at": "2026-07-14T02:36:15.212623Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Tigres UANL win the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "b21eb88fedd03240a0fbc442c4ddc943466f764be59ef1d2d7628b62bf1d0790",

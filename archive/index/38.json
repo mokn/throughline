@@ -66,6 +66,7 @@
   "created_at": "2026-08-11T14:10:43.864737Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 3 House seats in North Carolina in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e7e410e783f82c06392ed31b471dab1af4da67d1b15f78a43764fff4b5ad3bc7",
@@ -138,6 +139,7 @@
   "created_at": "2026-10-24T04:00:04.495035Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Elon Musk post 300-319 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -260,6 +262,15 @@
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-zach-edey"
  },
+ "0x2ecd86f514aeb68036d36e0a264bc96bc18d87e5548e55bf29e838261645a238": {
+  "created_at": "2026-10-25T10:15:17.800811Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 0 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-0"
+ },
  "0x3343bb81d3f84a103935ccbf53349c40429dbe6aa945686051b67a913c097d38": {
   "created_at": "2026-08-07T19:09:53.035707Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -296,6 +307,15 @@
   "sha256": "827b9d8d8f032c8a1feda153c245b6df1281a611e07d0be53f6c8038f70299aa",
   "slug": "will-kolos-kovalivka-keep-the-most-clean-sheets-in-ukrainian-premier-league-2026-27"
  },
+ "0x3b42b0ef26894aa9b755f12f93124c965c7014fcf4d6f3bf8d2d0bf44c497a38": {
+  "created_at": "2026-11-06T22:39:07.926373Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 13 or more candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-13-or-more-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
+ },
  "0x3bb394839a1136334c3ae16fc111a48bb1c7108013cd5656329b3ac6dd967938": {
   "created_at": "2026-03-31T18:49:10.638861Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -318,6 +338,7 @@
   "created_at": "2026-11-04T06:07:23.874794Z",
   "first_seen": "2026-11-04T14:32:33Z",
   "last_changed": "2026-11-04T14:32:33Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "US x Iran effective ceasefire continues through December 31, 2026?",
   "revisions": 1,
   "sha256": "799385e1f64fa59ea73f594bcba71e7fcd4f2036fb28dea6cc66bef4e3374004",
@@ -345,6 +366,7 @@
   "created_at": "2026-09-20T08:45:05.18698Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: 1st Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "708e9e4b48a57b8e68e3913925108d91c2c7c05e60df3dd31f234b5ebe1cdcfa",
@@ -512,6 +534,15 @@
   "sha256": "09168b699800558ade8da669bc66aaac92b0623d5dc2a2684d5e351cac204acc",
   "slug": "will-nec-finish-9th-24th-in-uel-league-phase"
  },
+ "0x6138f69a29ab974f5a0826198d648d11ff0f41e5f1c1eb9104277482431b4338": {
+  "created_at": "2026-10-15T18:01:50.73532Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 3.5",
+  "revisions": 1,
+  "sha256": "e66fcd094fba909b88ae5fd27d210528bc905834a358b485a9033ce4837d4dbb",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-3pt5"
+ },
  "0x62c611ee0688a4fc99555b9f879592625ff939332ae3c3a194161a0db0345638": {
   "created_at": "2026-10-18T23:30:12.970875Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -678,6 +709,7 @@
   "created_at": "2026-08-26T21:46:09.010556Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will TPS be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -736,6 +768,15 @@
   "revisions": 1,
   "sha256": "39f0d90befbb8d54066ba4c15880ab5c81c43157aca645b51ee3243b5a58b940",
   "slug": "will-tcu-be-a-top-4-seed-in-the-2027-college-football-playoffs-20260803204017382"
+ },
+ "0x80cc8df743250f47eece7178cca0b84b7ef1a13ada989697afab96dc53c08d38": {
+  "created_at": "2026-11-07T12:31:15.616254Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Norris or Piastri?",
+  "revisions": 1,
+  "sha256": "90cd7f077e5cbb7c42e7338f4ab882dafbe017022820f7e4c532c9067c424be4",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-norris-vs-piastri-2026-12-06"
  },
  "0x82f89562b5f27b616b3154db50e56b81e949ead512ce2929607dfe7a7d833638": {
   "created_at": "2025-12-30T21:32:08.999491Z",
@@ -1033,6 +1074,15 @@
   "revisions": 1,
   "sha256": "528ad98672a03cae8c6451d320007ab93247a5541ff8d91aea9d68f5bf657513",
   "slug": "will-nuno-mendes-psg-record-the-most-assists-in-the-2026-27-ligue-1-season"
+ },
+ "0xbe13db42c377848959a3eb2b7611189f6bccd2917147b221ce89bc2f5fd33638": {
+  "created_at": "2026-11-07T12:30:58.754595Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-lewis-hamilton-2026-12-04"
  },
  "0xbee858a90c5add2f6cb7125ce204f3417b0763c3c7e54717613706f7bcf63938": {
   "created_at": "2026-11-02T18:37:08.15687Z",
@@ -1389,6 +1439,7 @@
   "created_at": "2026-08-12T16:52:00.5428Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Alfredo Willy Benavente Godoy win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -1488,6 +1539,7 @@
   "created_at": "2026-09-02T10:19:45.855414Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Russia-Ukraine peace talks by November 30, 2026?",
   "revisions": 1,
   "sha256": "22bfd07723ff41bcec1214b43d03a51f9e53ef7c1dbed1bb32bd9e745d32607a",

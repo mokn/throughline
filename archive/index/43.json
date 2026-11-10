@@ -147,6 +147,7 @@
   "created_at": "2026-08-28T19:43:52.861486Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Minnesota United FC win the 2026 MLS Western Conference?",
   "revisions": 1,
   "sha256": "4a90d1c2db75f71506fc1c06af80b3b34de1196dd77e8d2509aaaf525e038ab9",
@@ -192,6 +193,7 @@
   "created_at": "2026-09-10T18:11:10.76571Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Democratic Party control the Maine Senate after the 2026 Midterm elections?",
   "revisions": 1,
   "sha256": "257bb54a492010f974a4a7b15743c70843f1821c2b3748264d8406b9c35caf67",
@@ -214,6 +216,15 @@
   "revisions": 1,
   "sha256": "313cb50e7cccdaddf0b69d30f0ee34540799d76f542f7075d715e3d69300a96b",
   "slug": "will-alex-debrincat-record-40-goals-in-the-2026-27-regular-season"
+ },
+ "0x3a1d07cc1631d28583c01382560ca2ad44baa37539bb0fa76040f7a77215c543": {
+  "created_at": "2026-10-15T18:01:04.159735Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Barakaldo CF (-3.5)",
+  "revisions": 1,
+  "sha256": "b74a306b6b0c815ef6f6982896c5e885fc70ac17800422a0e60b6969fd26dc6d",
+  "slug": "cdr-red-bar-2026-10-28-spread-away-3pt5"
  },
  "0x3aaa863da111e73e43e8be3748c2e9741bd2bc34176dc21e15935a2c04208643": {
   "created_at": "2026-09-27T20:01:53.837839Z",
@@ -269,6 +280,15 @@
   "revisions": 1,
   "sha256": "161df224a0b135dbeba439788bc97458152b5072428f86a5d2e62a46e33260d9",
   "slug": "will-the-republican-party-candidate-win-the-2026-va-05-house-election-by-0-5"
+ },
+ "0x3fde79b15b4d2cba321fc6bd5b911d4bb67fd4c4e807f1d2347c33825b55cd43": {
+  "created_at": "2026-10-15T18:02:44.280278Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CE Sabadell FC (-5.5)",
+  "revisions": 1,
+  "sha256": "d23681ec09ec2a2c7e31878364caafaa4aacd32090277ccd4b6d31f1615a17ef",
+  "slug": "cdr-ute-sab-2026-10-28-spread-away-5pt5"
  },
  "0x40b87e57753d8bf61393140c5d983fbc1b4028d7fa7d6d4c8746e8e4cd37ad43": {
   "created_at": "2026-09-30T13:34:04.634946Z",
@@ -561,6 +581,15 @@
   "sha256": "99171b6c34ea02c303a808e8d8247511d576ce12d8fb6a3d3cf6807ed93cf71f",
   "slug": "will-trump-talk-to-mojtaba-khamenei-by-december-31"
  },
+ "0x6df8e0562f6a0902ab1a0c1f63813c105d33edd3ac7003124f4070cc261ac143": {
+  "created_at": "2026-11-09T22:28:02.541531Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Ole Gunnar Solskjaer be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-ole-gunnar-solskjaer-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x6eeae3a767dcbe6e3b9feb08c7dd9f623f042a0df0b4d98d8fcd37ae2526ca43": {
   "created_at": "2026-08-10T23:57:11.306239Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -605,6 +634,15 @@
   "revisions": 1,
   "sha256": "337a9845824e66122a9e62f75ab36836a4b9c9260a554b71726770cf1ae12e92",
   "slug": "will-ida-eriksson-be-the-next-regional-board-chair-of-region-kronoberg-1786127776879"
+ },
+ "0x762aeb50cb4267fbb964cc576b2397b9d64c46b9add5b476fe975bff48366143": {
+  "created_at": "2026-10-25T10:45:18.535241Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "ec2cca6eb75164a11ee18720bd3a6cd7f195aec2eab73e9fce881352eff3c571",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-total-0pt5"
  },
  "0x7652a250c723daff5770d09308264a1f74e9ba062763df481a39b06a8da4ba43": {
   "created_at": "2026-10-18T23:30:09.593312Z",
@@ -696,6 +734,15 @@
   "revisions": 1,
   "sha256": "5a49eca46374a36e7eda94077481d3a3fba0b36aacdfceff890b0c2062157775",
   "slug": "will-the-highest-score-achieved-on-humanitys-last-exam-in-2026-be-70-or-higher-20260723190142925"
+ },
+ "0x8eeaa84de20f6448aedeb4aa2d6c07ce40c8b420ffeb05517973a57dfb728843": {
+  "created_at": "2026-10-15T18:01:06.847026Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "3caf3110736911f6a7df5b9fbd0adbc5bcb8bc6757b5a2bfe34134f48a33b967",
+  "slug": "cdr-red-bar-2026-10-28-first-half-total-2pt5"
  },
  "0x8ef28a205bc389c6d2677c5c8a48c32171cd6fb0a453c84f4b100f2e421b4f43": {
   "created_at": "2026-08-04T21:40:58.962092Z",
@@ -845,6 +892,7 @@
   "created_at": "2026-08-12T17:32:02.132229Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Atlanta be runner-up in the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "535242f33d28aedce5a3e9c960a1829109af50a5cfa6cbbe1d4d68d7c0d5846f",
@@ -927,10 +975,20 @@
   "created_at": "2026-08-12T00:16:33.028458Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Independiente del Valle win the 2026 LigaPro Serie A (Ecuador)?",
   "revisions": 1,
   "sha256": "d59c08325b1f437444be0ad389c86077dfd9e6eb2b75baead0b1a9c8554cdc40",
   "slug": "2026-soccer-ligapro-serie-a-ecuador-winner-independiente-del-valle"
+ },
+ "0xba142fb821bb297ff1e7a64e30189a42a5a11de8e22683237fa91fa2f4c3ae43": {
+  "created_at": "2026-04-14T15:40:28.891639Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Marie Gluesenkamp Perez be the 2028 Democratic Vice-Presidential nominee?",
+  "revisions": 1,
+  "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
+  "slug": "will-marie-gluesenkamp-perez-be-the-2028-democratic-vice-presidential-nominee"
  },
  "0xba4f59bffae0f739ed274637a9eabe81645b1ec776b9221ec768fb660628f143": {
   "created_at": "2026-08-05T18:34:51.741511Z",
@@ -945,6 +1003,7 @@
   "created_at": "2026-10-15T16:33:38.71004Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Seraphine be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -995,6 +1054,15 @@
   "sha256": "d0aaf65b8eb522999ea92fd10d22edc1e43ba6504fdbdb1fc46157c16cc4fa4d",
   "slug": "will-trabzonspor-finish-15th-in-super-lig-2026-27"
  },
+ "0xc204fa9b669fa976506960add73380bd7546afd4d711747a6cfaed74fc1e7043": {
+  "created_at": "2026-10-15T18:01:51.56385Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 2.5",
+  "revisions": 1,
+  "sha256": "34b21babc733a6f8cd84d6762ee75a94d9c9e6589c5d2b58933ebcb0ab93cd14",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-2pt5"
+ },
  "0xc26f8b494ace82d71fe732950daa25dd3bf795f9e8e34aab71784718e7e19f43": {
   "created_at": "2026-08-26T21:46:23.353869Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1021,6 +1089,15 @@
   "revisions": 1,
   "sha256": "123b695b249629a8988f879acc70a1c191e333e19e09a7c16dd4d5ff008887b9",
   "slug": "will-dailyn-swain-win-the-2026-27-nba-rookie-of-the-year-20260624161716894"
+ },
+ "0xc679135930cdb2669a179231ca6043f441d74dec4cb11ab2bfbf17c4d58a9643": {
+  "created_at": "2026-10-25T10:45:15.831542Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: Aurora FC (-2.5)",
+  "revisions": 1,
+  "sha256": "f5fcbd204f780b5a3ebf41aba05d7406192fa76959f6f4c4415cac039d2a83ed",
+  "slug": "gtm-mun-aur-2026-11-07-spread-away-2pt5"
  },
  "0xc692f94f490874b93e46a2715f27b999caa0854be0222b82b89ceaddfbb19c43": {
   "created_at": "2026-10-22T00:03:13.338075Z",
@@ -1062,6 +1139,7 @@
   "created_at": "2026-03-25T22:01:50.060059Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Skip Schumaker win the 2026 AL Manager of the Year?",
   "revisions": 1,
   "sha256": "7cef382a9b1ebfc3a860dddefdd4fe7d9fc3e10959f3d15d0f6e523bfdbcf038",
@@ -1148,10 +1226,20 @@
   "sha256": "00e1a764ddae1a1a91ce809a70e41145e9341c3211e9d41a7807425324274d80",
   "slug": "will-kathy-hochul-win-nassau-county-in-the-new-york-governor-race-in-2026"
  },
+ "0xd338b7f23037da7bbd3a23bca70bad7272486fc8a08850debae76b1537653643": {
+  "created_at": "2026-11-10T02:45:41.70286Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Drake attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-drake-attend-super-bowl-lxi"
+ },
  "0xd466ce069fb244692dec4f193542d22b547269a73b79308abb04657c2643c643": {
   "created_at": "2026-03-25T22:06:59.337183Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Rob Thomson win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
@@ -1197,6 +1285,7 @@
   "created_at": "2026-09-09T15:53:46.66235Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Geovany Quenda win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1228,6 +1317,15 @@
   "revisions": 1,
   "sha256": "bd99d90282ff4ec77aa35abb6907d992604d4f2da7379faf3df6cff3e9be2a13",
   "slug": "el2-wal-cra-2026-10-03-spread-away-1pt5"
+ },
+ "0xdcc3361e073cb7c1224de9c600cd0a2effdb320d34bfd6613f906aeec9498f43": {
+  "created_at": "2026-11-10T02:03:28.749397Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Renan Calheiros be the next President of the Brazilian Senate?",
+  "revisions": 1,
+  "sha256": "2bb52fef4d7501e48c3715df632edddc248e2ffbca9f4addacb9d36a2f395915",
+  "slug": "will-renan-calheiros-be-the-next-president-of-the-brazilian-senate-20261106"
  },
  "0xdf8c3c10e9c6411ac99134e17bfa2822ec7edf75ff8e9efebc89a4cb5c88e443": {
   "created_at": "2026-08-28T20:24:39.807668Z",
@@ -1390,6 +1488,15 @@
   "revisions": 1,
   "sha256": "12369ec89df4602604936eeb74dee7586f302aadd2c07287e79f7b59b06cde67",
   "slug": "will-eurozone-annual-gdp-growth-in-2026-be-between-5pt0-and-6pt0"
+ },
+ "0xfc665c97b58af550e72d683dc038e916304f8d0ead03e225834342254287a543": {
+  "created_at": "2026-11-10T02:03:27.4737Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Rog\u00e9rio Marinho be the next President of the Brazilian Senate?",
+  "revisions": 1,
+  "sha256": "2bb52fef4d7501e48c3715df632edddc248e2ffbca9f4addacb9d36a2f395915",
+  "slug": "will-rogerio-marinho-be-the-next-president-of-the-brazilian-senate-20261106"
  },
  "0xfde0e88eb652223c67207987fb9586b7e9928ca3527fda3b4106a69bdbed3543": {
   "created_at": "2026-07-30T18:55:06.683137Z",

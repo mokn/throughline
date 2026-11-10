@@ -242,6 +242,15 @@
   "sha256": "bff246b5573500da0c5fc7b4f2d97d41cc7eebb9c04d7d51dbe7f81378250a55",
   "slug": "will-the-democratic-party-win-the-fl-27-house-seat"
  },
+ "0x3acb2d5cdbe2293a5daab10ad96e3e6822e93a3eede19e2b008682fbb7025125": {
+  "created_at": "2026-10-15T18:00:59.202846Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "023c8c9863cae2beff06f61dfc4b39f41d37a9885a0ac836b10652fe61186739",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-total-3pt5"
+ },
  "0x3d5acb317f33bc08ed2d3e9896eec99e68c12a4aa38942ee2ecfb9ed64c25725": {
   "created_at": "2026-08-11T19:19:24.952337Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -268,6 +277,15 @@
   "revisions": 1,
   "sha256": "c2405aee41bed19c7ae9d5f296603ed1b99799bce1e6b40ccdb65faad54bc709",
   "slug": "will-ian-strong-be-the-2026-acc-receiving-yards-leader"
+ },
+ "0x43454e364b290d767aa915afc88e70d33e04848a3e3788388dd3298e4bd4d525": {
+  "created_at": "2026-10-15T18:01:00.048735Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 4.5",
+  "revisions": 1,
+  "sha256": "8d1abea63a13c4a048156a73d297bde943ff79fe8a3caa62ee6b8218cf54866a",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-4pt5"
  },
  "0x454005ba2b2a2f3bfeb354e18d8c0cb82136009c8f39589645f9cf2af25f0d25": {
   "created_at": "2025-10-28T15:00:20.478489Z",
@@ -773,6 +791,15 @@
   "sha256": "c324fccd7487b0d893650b15e3823df353f54cd393fc5cf0006fbc7848bcbfde",
   "slug": "will-hakan-karlsson-nyborg-be-the-next-regional-board-chair-of-region-jonkoping-county-1786127776516"
  },
+ "0x8ce21c071c678552a5679e3de09c65a0d73d36ece9b879209f29290f1b881825": {
+  "created_at": "2026-10-25T10:15:17.706304Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 2 - 1 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-2-1"
+ },
  "0x902cd112c189e1afa85c511a3f7d50262af39ff7ff755bd9f2ce8e9849820e25": {
   "created_at": "2026-01-02T21:01:10.978719Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -881,6 +908,15 @@
   "sha256": "881b9d35b301f2dbed7479bdee1d0254c7ee5f4a6b952405ed366b0fc0a43ed2",
   "slug": "liga-argentina-2027-champion-barrio-jardin"
  },
+ "0xa04c16368ee3288419caf5e8609da3933a5a617f2ef7d8fcf5354f11f8267e25": {
+  "created_at": "2026-11-09T23:32:33.558923Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Alice Huang be federally charged by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "a180caac1a0afa8f3c31eb689422e7bfc026dbaecf64fd08ec5f21af755a4455",
+  "slug": "alice-huang-federally-charged-by-december-31-2026"
+ },
  "0xa09d6a6066150be5ee3833208a173e2ed35b13301f3616d89e57faa0b270ac25": {
   "created_at": "2026-01-02T21:34:44.200385Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -903,6 +939,7 @@
   "created_at": "2026-08-24T16:34:06.673379Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Shanghai Port be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -1269,6 +1306,15 @@
   "sha256": "9ff21ec23bacfd501083fcbf94b3451294738e904d49539f7b27ad492d910529",
   "slug": "will-boaster-retire-from-professional-valorant-in-2026"
  },
+ "0xe3b96e00fe0c1195da7960a56490cb4fbe2d94a3b580df2fffe179efb5c36525": {
+  "created_at": "2026-11-10T02:42:17.457348Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Jigga What, Jigga Who\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-jigga-what-jigga-who-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0xe42c8d714ed9bcfdcd9e6539c1f3f3dca30d3f4d31a057837b6e2ef22eb09c25": {
   "created_at": "2026-08-11T17:52:14.500517Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1318,6 +1364,7 @@
   "created_at": "2026-08-11T14:14:15.957305Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 16 House seats in New York in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "a2e86a17427eaaba8a77fd283b8b2ddcd38e60f505fa0bd7509f26305178c627",

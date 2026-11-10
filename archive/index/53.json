@@ -189,6 +189,15 @@
   "sha256": "07621f6b2e81bc6d29ad89e3dea77482e3e55c41410a34c009c44501b0027989",
   "slug": "el2-col-pvl-2026-10-03-second-half-result-away"
  },
+ "0x2a7b2f5b899aae759a555b275c6d99963c9e624c681444bda2e2ad850cd1e953": {
+  "created_at": "2026-10-15T18:01:07.679661Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 1.5",
+  "revisions": 1,
+  "sha256": "6b1f3b6ca5076e6134ce4006da275e38c71040ddf3174a1f92958313c97813f6",
+  "slug": "cdr-red-bar-2026-10-28-team-total-home-1pt5"
+ },
  "0x2a96b94f17f126ce63a7d6ba87ef2b70cf4279bdb9edb1485bb16219bfeb6553": {
   "created_at": "2026-10-13T15:51:23.890556Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -311,6 +320,7 @@
   "created_at": "2026-10-01T00:08:24.868978Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be between 20 and 25 average daily transits of the Strait of Hormuz on October 31?",
   "revisions": 1,
   "sha256": "86c1cf2a76ef55f9f5a756a6636cf057fcc0f2fb360dc96041fc6e30dac8f8ef",
@@ -329,6 +339,7 @@
   "created_at": "2026-08-12T17:28:41.595889Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Suchitep\u00e9quez be runner-up in the 2026 Liga Nacional (Guatemala)?",
   "revisions": 1,
   "sha256": "7cba628d20d6c8f4e59e7c65267cb47c8391108f2e90676ac5e84d3eec1d4242",
@@ -448,6 +459,7 @@
   "created_at": "2026-10-10T11:30:29.85625Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Esteban Ocon achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -480,6 +492,15 @@
   "sha256": "d5bc11cfc552550730b17ba954963bafeb1c4dbd014b6d34ecae93819df6eb67",
   "slug": "will-ray-agnew-be-the-next-indianapolis-colts-general-manager"
  },
+ "0x572c2dc6cbd784019316d53e94d32750dc29165e644ea9b948e2e8753e280553": {
+  "created_at": "2026-10-15T17:01:04.28185Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 4 - 0 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-4-0"
+ },
  "0x5cde9ca3d47969240e64adadc49a21c419c778ec04b200497305307d39f0e053": {
   "created_at": "2026-07-29T23:00:33.88166Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -498,10 +519,20 @@
   "sha256": "170c8ba1ac2f5186db2110110ce372aa7ad5127cfd39141eca350272038cdfce",
   "slug": "2027-soccer-japan-j-league-winner-nagoya-grampus"
  },
+ "0x6270633b21f9954cb94b2cd4fdb9ac545cc7cf018e768f40b6a5e8660a131f53": {
+  "created_at": "2026-10-15T17:02:05.407148Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 0 - 2 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-0-2"
+ },
  "0x6296ffa06023e840a8e5982c9439250a0504e498edf8f272ea511cc5b72f9853": {
   "created_at": "2026-08-12T00:15:43.55847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Racing win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -579,6 +610,15 @@
   "sha256": "6a8fe4d12b5ef7ba13a07d4b3c599f4ab922435a0c8a7167c4a8f18df6bcfcbf",
   "slug": "will-the-republican-party-candidate-win-the-2026-tn-03-house-election-by-30-35"
  },
+ "0x72fcf5f9af7d8845df50c00b80605cf95a7ab1dd0eacf13e9ed0a568ae9bc053": {
+  "created_at": "2026-10-15T18:01:48.498827Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 6.5",
+  "revisions": 1,
+  "sha256": "3d94ef550c188aa007d1906be8fe145bf65f504f77136b4b02b5a68a696e5cbb",
+  "slug": "cdr-bad-cdt-2026-10-28-total-6pt5"
+ },
  "0x74e97c72c8760c8653c2d841bd310cdc3d3f8bfde38410ee2fd7284f44978c53": {
   "created_at": "2026-09-20T11:16:15.364858Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -587,6 +627,15 @@
   "revisions": 1,
   "sha256": "f232fb3a64fa2e3c3219120ee9592162580dbfa8766a0555773ebb9a10495103",
   "slug": "enl-scu-fgr-2026-10-03-exact-score-1-1"
+ },
+ "0x75c44e9183691b19e1b6d54a895027af58f35c21421938d10bc94b0c0be36d53": {
+  "created_at": "2026-11-07T12:31:04.721518Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-pierre-gasly-2026-12-05"
  },
  "0x7612a43dcc352e98f122c60fcb2c91a099f230105db942c7e6006215855e6453": {
   "created_at": "2026-08-12T17:22:42.514519Z",
@@ -709,6 +758,7 @@
   "created_at": "2026-09-10T18:20:32.247119Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Democratic Party control the Wisconsin Senate after the 2026 Midterm elections?",
   "revisions": 1,
   "sha256": "43b6a2929a47050eab0a6422c5d9ba3817f7554e1468dcd1dc49555ab39069b7",
@@ -772,6 +822,7 @@
   "created_at": "2026-10-01T16:15:40.898919Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Drake release a new album by October 31?",
   "revisions": 1,
   "sha256": "565d51a044f7bcd4f93bd059505d00cfd53afffdb0233c8e59dea40eca961c4b",
@@ -790,6 +841,7 @@
   "created_at": "2026-08-28T20:17:40.709524Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Brian Thomas Jr. be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -940,6 +992,15 @@
   "sha256": "584daef7ee7ef63ab3d137d9e333c302162c4c3aca2adae268090959d330cdb1",
   "slug": "will-ashton-daniels-be-the-2026-acc-passing-tds-leader"
  },
+ "0xa94b1de671aee08d46a4f84df07433d35647302d7afba177012d12ce4b25c153": {
+  "created_at": "2026-10-15T17:02:00.857144Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 2 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-2-2"
+ },
  "0xa9aa873b222923b2ef53f9a2525fd953590572d8d6331277c7cbbc9d52367f53": {
   "created_at": "2026-09-03T22:23:35.224946Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1026,6 +1087,7 @@
   "created_at": "2026-10-02T20:19:04.23344Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Gen.G and T1 meet in the Worlds 2026 Grand Final?",
   "revisions": 1,
   "sha256": "0c4fe7601d91795ab3caea3c9cfd3b85f2790ec31f88c01f7630bbb5ebe03499",
@@ -1066,6 +1128,15 @@
   "revisions": 1,
   "sha256": "d37f9af2e5930d93b66a0e692726928b58ec913e72bbe67b4455480074763b9a",
   "slug": "will-patrick-mahomes-finish-the-2026-27-nfl-regular-season-with-the-most-total-qbr-among-qualified-players-20260715213900182"
+ },
+ "0xbab2028284af92ec6eebc2880bb1fa33f110274a4279ffd1f5e2d1524c5ed553": {
+  "created_at": "2026-11-07T12:30:36.969297Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mercedes achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-mercedes-2026-12-06"
  },
  "0xbd7144a36ed9aff7e0af7816ca9482288212667f63c77ac4231c775cca331253": {
   "created_at": "2026-09-24T08:36:23.107459Z",
@@ -1125,6 +1196,7 @@
   "created_at": "2026-10-06T15:23:10.747003Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win Latino voters in the Texas Senate election?",
   "revisions": 1,
   "sha256": "d32636930cc25d8184b4d6a56dbce512af0cc1ed0c062165d56b84544215a8f5",
@@ -1194,6 +1266,15 @@
   "sha256": "d927b7f10022dc5c817ee902210b9e50e5f4bf862cd7bbe9a8b1dd0d23fd48ef",
   "slug": "will-waymo-launch-in-washington-dc-by-december-31-2026-20260626203025666"
  },
+ "0xd89f4ffa807072c4240183a7bc344275e5d44aeac88721a18ba12f839287a853": {
+  "created_at": "2026-10-15T17:02:00.901573Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 3 - 1 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-3-1"
+ },
  "0xd8eb5bfa1944b20c8001ed89d52baf3fa40e87294a76b03a8c02657843a60553": {
   "created_at": "2026-10-14T20:18:52.126742Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1238,6 +1319,15 @@
   "revisions": 1,
   "sha256": "4ad66f10fa479fbc69ca20b863954ff382fc5210de5fa1e9c0a3d01d4b3653fd",
   "slug": "will-nvidia-be-the-third-best-ai-lab-at-the-end-of-december-2026"
+ },
+ "0xe0661d007836569ea1d4f31595550566e8013cf323833f96c451e20559a47153": {
+  "created_at": "2026-11-07T12:30:57.978603Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-carlos-sainz-jr-2026-12-04"
  },
  "0xe143594f06e5699fd3d74fece5b2ee238cfe435ab49b63ef595a65d8b3679353": {
   "created_at": "2026-10-29T21:01:13.681112Z",
@@ -1360,6 +1450,7 @@
   "created_at": "2026-10-10T11:30:35.048246Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Max Verstappen achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",

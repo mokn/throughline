@@ -62,6 +62,15 @@
   "sha256": "493694adc6a0a1ec2df43d9e0e30b9a535bdf7042a9219ee6363621d35942b14",
   "slug": "will-rashee-rice-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-yards"
  },
+ "0x086c5b7d4c4edd2517568aca580bf1e47018b3617334e3e475ee515c8f87aad7": {
+  "created_at": "2026-10-15T17:01:04.05798Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 0 - 4 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-0-4"
+ },
  "0x0aeb404a2b7d06a43ef085a6a059d24396a45d32e084d7098c015eadd91ec2d7": {
   "created_at": "2026-10-16T19:05:59.484512Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -120,6 +129,7 @@
   "created_at": "2026-03-26T21:57:37.043254Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Dillon Dingler win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",
@@ -314,6 +324,15 @@
   "sha256": "7700111461687c11e0fbd54dad2e4d045c648522538eb76dddf9729bd9685076",
   "slug": "will-hong-kong-have-between-5-10mm-of-precipitation-in-november"
  },
+ "0x31d28b93664d4373e30be7c1155dd16a2bc29e180b2d6963f3099d51888070d7": {
+  "created_at": "2026-11-07T12:31:14.532524Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Alonso or Stroll?",
+  "revisions": 1,
+  "sha256": "24c318b23290ad896d890833d0223306becf183b84f7f4c28a6143020159d051",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-alonso-vs-stroll-2026-12-06"
+ },
  "0x34817b7d0a57bec6cd21cd353f31f745dfc594118fba9cc26393efd48100cad7": {
   "created_at": "2026-09-09T15:46:59.068468Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -359,6 +378,15 @@
   "sha256": "464024317ffa50dec85d166b8e70de558a7071a75c42342d349bc2ac292e4ea2",
   "slug": "will-james-talarico-win-the-nevada-democratic-presidential-primary-20261028016"
  },
+ "0x3809e48bb590276e3342173605a3c3aade70d3279fc7603e3f3f8600b2a7f8d7": {
+  "created_at": "2026-11-10T02:40:46.928254Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Big Pimpin'\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-big-pimpin-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x39c39e8299ee7dfd327025b564febd9a581692a93f0e07742898c6cd638a1ad7": {
   "created_at": "2026-01-28T15:34:47.151568Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -368,6 +396,15 @@
   "revisions": 1,
   "sha256": "75294e7a5c838da1afeed53135f3ebce177414f08a4807cb8faa51caa0237451",
   "slug": "will-the-democratic-party-win-the-mn-04-house-seat"
+ },
+ "0x3b201dbda84f91d0f87da1c7692c3e86bb2ebaf4fe2799038b03bd81fdf77ed7": {
+  "created_at": "2026-10-15T18:01:05.585495Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 4.5",
+  "revisions": 1,
+  "sha256": "46ca7f7be9d51c658f17e89dc606fdafad08ab94c22d70410a3d9a9c75c73152",
+  "slug": "cdr-red-bar-2026-10-28-total-4pt5"
  },
  "0x3c5fdd026bc019e0c22259e910e8c54f52d4070e18f780adddaf0e1f0ac50dd7": {
   "created_at": "2026-10-13T15:49:35.893367Z",
@@ -409,6 +446,7 @@
   "created_at": "2026-08-28T20:08:23.679696Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Layne Riggs win the 2026 NASCAR Craftsman Truck Series championship?",
   "revisions": 1,
   "sha256": "fd3be89b73ed60655a64c80b5d63ec7ed88aa6d72ed3d0284662dce7bfaaf63d",
@@ -1067,6 +1105,7 @@
   "created_at": "2026-02-18T22:47:44.007616Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Otto Lopez win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -1352,6 +1391,15 @@
   "sha256": "079bcd7c829e5697e61beb8bec1b4a0133388aa236cb18a4be5e78d521e151f2",
   "slug": "will-fc-lugano-keep-the-most-clean-sheets-in-swiss-super-league-2026-27"
  },
+ "0xc916288be54f9473bb263652748cbf073038874c9660c322b88c65cf8ec9f9d7": {
+  "created_at": "2026-11-05T18:19:57.746503Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Marco Rubio out as Secretary of State by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "fca80f82fe6848a20b949a5d7df7518038bee690af71db47e9445ef11b3c825d",
+  "slug": "marco-rubio-out-as-secretary-of-state-by-december-31-2026"
+ },
  "0xc9919a01bc6ff558a9d1b5d720d07b63631cdbb08f5761484662685750393ad7": {
   "created_at": "2026-10-13T19:55:48.643139Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1577,6 +1625,15 @@
   "sha256": "c75bb110bc84023caa3078f029f8dc7c6daae984e45af14f6f5a1a0702b0912c",
   "slug": "will-john-mercado-score-the-most-goals-in-the-2026-27-uefa-europa-league"
  },
+ "0xf12aacb25743b8bcceeb8972f91b9ed9c57ababd28f4d31396549c73c1682cd7": {
+  "created_at": "2026-11-05T20:54:06.929952Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Luis Pettengill win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-luis-pettengill-win-the-2028-paraguay-presidential-election"
+ },
  "0xf3192d9ccdd8c93bea02997e066054c90c89ea9cd16abedd0830c28a3bfb4dd7": {
   "created_at": "2026-11-03T17:40:25.061309Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1594,6 +1651,15 @@
   "revisions": 1,
   "sha256": "4e79a56e737d7baa161ebf057a43837b47c10fe35436da891317cf2879319730",
   "slug": "will-russia-capture-myropillia-by-december-31"
+ },
+ "0xf50a7ef0b5b3f53be5fb5353dc6fc585c75bb002ef48b98c98e631aebd932cd7": {
+  "created_at": "2026-11-06T19:54:30.416963Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Democratic 2028 presidential odds dip to 60% by March 31?",
+  "revisions": 1,
+  "sha256": "05ddf3a470ede51a8f4d1e6bcad1d17aafb8494262921380d2428cc2b9370f81",
+  "slug": "democratic-2028-presidential-odds-dip-to-60-by-march-31"
  },
  "0xf537989d5ea866d8ca4139589864fb2c929a2d8db5a026fd580c211331a124d7": {
   "created_at": "2026-08-24T16:34:51.378226Z",
@@ -1653,6 +1719,7 @@
   "created_at": "2025-12-08T23:53:54.450816Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Ferrari be the 2026 F1 Constructors' Champion?",
   "revisions": 1,
   "sha256": "3fc3966423ebbf44814937a55e2279a90f393832c3871f7789ea6dc8bfce3fc4",

@@ -84,6 +84,7 @@
   "created_at": "2026-08-11T14:18:40.342334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 5 House seats in Florida in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "207b56eb0446a51d25ca4cb213a9eb2e63b80c730578b75f1d33cd3e9113ca12",
@@ -369,6 +370,15 @@
   "sha256": "686f31bff4389afef6af391d347c7ac79e6802ea97fa6a1134c88a610b8834e2",
   "slug": "will-josh-hawley-win-the-iowa-republican-presidential-caucus-20261028213"
  },
+ "0x42367d815f3691e4b5d66981a4bbb487260e4d2d430c60956ca3bf747cb5b610": {
+  "created_at": "2026-10-15T18:02:44.988097Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: O/U 3.5",
+  "revisions": 1,
+  "sha256": "0f22d3c7e5ec653f8a1369442eb76716e0b9425d58bbf5339ae65436926353a4",
+  "slug": "cdr-ute-sab-2026-10-28-total-3pt5"
+ },
  "0x42648942ee847ef2045f98ee2a6c91676e8f548380fea59849c3cdc753337b10": {
   "created_at": "2026-08-05T10:27:35.797626Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -458,6 +468,15 @@
   "revisions": 1,
   "sha256": "0ee72253b8ed7287bd7fa27f272fbfbfa523585c7d1162a4977a6fceeb20b002",
   "slug": "2027-soccer-saudi-professional-league-winner-al-faisaly"
+ },
+ "0x52f06408c54d2a5b1cdb8b17ffe7b7483f7d4c2b7f5440d3e1469df414e1bc10": {
+  "created_at": "2026-11-06T22:37:20.782562Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon hit 20% in any poll before the first round of the French presidential election?",
+  "revisions": 1,
+  "sha256": "55a0a611409ba2e47bf5ec7cf2084db545ebf49ae2f0cb40ba39ba04689e2d1d",
+  "slug": "will-jean-luc-melenchon-hit-20-in-any-poll-before-the-first-round-of-the-french-presidential-election"
  },
  "0x548a125bf3117f553ae9af514732b5c64623ba6b5295bb81d59191988de16410": {
   "created_at": "2026-10-15T13:16:52.946711Z",
@@ -625,15 +644,26 @@
   "created_at": "2026-08-28T20:17:40.096464Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Parker Washington be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
   "slug": "parker-washington-first-to-1000-receiving-yards-2026-27"
  },
+ "0x6cdb55545d2c2b867adbbc6fbb7c0ac8364e2098a91c487fe5e045d4f7ad9c10": {
+  "created_at": "2026-10-15T18:01:53.856991Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "f1f1abb4a59fd30a3bb5b1c446d701583f7794803c5df39b834aaad56c5885d0",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-away-3pt5"
+ },
  "0x6e95c121389c8d0940f5f1b48a997492891067f526e4489e71f3723065739010": {
   "created_at": "2026-10-10T11:30:15.156034Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tgr Haas get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "7ea8f93fa1a54e6036981326164be1cc7c9b93909384958de042d23e59d78a7b",
@@ -725,6 +755,7 @@
   "created_at": "2026-10-08T22:00:05.135511Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dzambekov vs. Parker end before Round 3?",
   "revisions": 1,
   "sha256": "c6105a7fd104936bc22cefde09e4cc3b95fd9b241bc9aebbe818efb003477f75",
@@ -761,6 +792,7 @@
   "created_at": "2026-07-10T01:59:20.227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Connie Chan win the CA-11 House seat?",
   "revisions": 1,
   "sha256": "2632b3304e970dc8774b1be58a782082806a164f3d1fca0aa2ceb89058f4a8ff",
@@ -905,6 +937,7 @@
   "created_at": "2026-08-24T16:39:21.407856Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Paide Linnameeskond finish 3rd in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "b6a3468cf61a291c1848fd22bd29e303cde5a6960649161e088290f496e494de",
@@ -1117,6 +1150,15 @@
   "sha256": "b3d217c9968a8616284daa35955d10914b06a1bf4503dcf2ff23d570c2b04c10",
   "slug": "will-cristiano-ronaldo-score-his-1000th-career-goal-by-february-14-2027"
  },
+ "0xb31c918ba8a7bebe79e75250c199f4b614e4017ed99cd54573da32e0abf95410": {
+  "created_at": "2026-10-15T18:00:56.468274Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-3.5)",
+  "revisions": 1,
+  "sha256": "8eb3776a050b4e6c7e07c6d367ae857ec4e071f876b79206b84f88495e225515",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-3pt5"
+ },
  "0xb4d30b65fc486e309af1a8ba4abce5ef2cc78fd930da6e09855b4f3d70d93310": {
   "created_at": "2026-08-11T18:49:59.591386Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1256,6 +1298,7 @@
   "created_at": "2026-07-30T19:41:27.114511Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Washington passes ballot measure restricting transgender school sports access?",
   "revisions": 1,
   "sha256": "fe522560ca66b53613c5d1f08f28f440b0cade1dc4c5995b7fc6f3a8f08798e8",
@@ -1323,6 +1366,15 @@
   "revisions": 1,
   "sha256": "6c1bb8e30d04beaee4346b9f894a52259b82397888e7dfedbf05b4113e9e08cd",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-33-house-election"
+ },
+ "0xd711332e08ee613395943cd5bf26137cee40c8733dfc8f6bacdc72be3ee91b10": {
+  "created_at": "2026-11-10T02:44:27.782686Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 120 and 130 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-120-and-130-seconds"
  },
  "0xd7ee91e9e4b6e9e63079a05d65ef43a529f6cdef04c393de75505ec5a29ca810": {
   "created_at": "2026-07-29T02:09:17.34792Z",
@@ -1454,6 +1506,7 @@
   "created_at": "2026-10-10T11:30:41.247259Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Norris or Hamilton?",
   "revisions": 1,
   "sha256": "88ddfb01697efdef81482bbf8fb6e9de5602c6ffef009f13088a3400e3462a05",
@@ -1481,6 +1534,7 @@
   "created_at": "2026-09-09T02:47:54.863466Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Dplus KIA Make the Worlds 2026 Grand Final?",
   "revisions": 1,
   "sha256": "8e46f122df002d45630cf7e36c1f6d41e6df586fe9556ea854ab5d3ca00d86ca",
@@ -1508,6 +1562,7 @@
   "created_at": "2026-08-24T16:33:23.727805Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Norrby IF be promoted to Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "94e1a6f7540850de3ee55b5cabc282e35005267d170ec576f9d6bbbeb4cf9513",
@@ -1544,6 +1599,7 @@
   "created_at": "2026-10-06T18:40:35.560527Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will \"Wild Horse Nine\" score at least 92 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",

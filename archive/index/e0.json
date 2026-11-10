@@ -562,6 +562,7 @@
   "created_at": "2026-09-16T02:24:23.285495Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "France, UK, or Germany military action against Yemen by October 31, 2026?",
   "revisions": 1,
   "sha256": "e8ecc18373af8950f9e5b0c1f1577b802bb37345beb54afbf17e39bf1a50a17a",
@@ -616,6 +617,7 @@
   "created_at": "2026-08-24T16:38:26.196262Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will S\u00e3o Paulo finish 3rd in the 2026 Brazil S\u00e9rie A?",
   "revisions": 1,
   "sha256": "ce70c4fd79fdd55ab2d9267cb1d6e3e2d4f66e5a2610f0f16a0e2da27cd4a532",
@@ -652,6 +654,7 @@
   "created_at": "2026-09-29T00:12:12.765912Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in the UAE by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -707,6 +710,7 @@
   "created_at": "2026-08-14T21:19:07.723247Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-11 House Election?",
   "revisions": 1,
   "sha256": "b04b4f06c2f32ba2527e589ec5e65e1bbe5d01af96e2a0fef2fecbc84dec7841",
@@ -797,6 +801,7 @@
   "created_at": "2026-10-13T23:25:02.23871Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will \"Fire Emblem: Fortune's Weave\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
@@ -806,6 +811,7 @@
   "created_at": "2026-10-10T11:30:44.376486Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lando Norris finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -824,6 +830,7 @@
   "created_at": "2026-08-24T16:34:04.329103Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Yunnan Yukun be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -851,6 +858,7 @@
   "created_at": "2026-08-24T16:33:24.170274Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Sandvikens IF be promoted to Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "94e1a6f7540850de3ee55b5cabc282e35005267d170ec576f9d6bbbeb4cf9513",
@@ -869,10 +877,20 @@
   "created_at": "2026-06-18T02:20:03.796739Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Russia-Ukraine peace talks by December 31, 2026?",
   "revisions": 1,
   "sha256": "22bfd07723ff41bcec1214b43d03a51f9e53ef7c1dbed1bb32bd9e745d32607a",
   "slug": "russia-ukraine-peace-talks-by-december-31-2026-20260609012542189-588"
+ },
+ "0x8f8787776890fdcc2dbc965350e43d6b6fa61098e5220f9c394ddd246c14a8e0": {
+  "created_at": "2026-10-15T18:00:59.4858Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 0.5",
+  "revisions": 1,
+  "sha256": "5597c8f0db7b97f7220ea12a4274343a6b49636809fc184c1d02516460408cac",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-0pt5"
  },
  "0x8f887e89576c2a52e0a041bd8c81322ca7f9bfd6530340e205a1134e9b7e60e0": {
   "created_at": "2026-10-14T13:24:23.165371Z",
@@ -1036,6 +1054,15 @@
   "sha256": "4a0ade553193f535ab23a276ac6606507fe81f69ca266098b6b13cf15da04bf4",
   "slug": "will-alibaba-have-the-best-ai-agent-at-the-end-of-january-2027"
  },
+ "0xa83c7bd84ad6cf307ca025f1a13371d8d3a01c0f353a5ce69eca363f4da9f6e0": {
+  "created_at": "2026-10-15T18:01:49.757033Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "040932c92c3977048288fe3fa40c27cf0419a19f61c21a2a21debaf37048242e",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-total-2pt5"
+ },
  "0xa8d06b15dea210b6214ba7a44193e437a8e15de499335b9f5de8220f87c2ace0": {
   "created_at": "2026-06-10T19:12:35.188784Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1080,6 +1107,15 @@
   "revisions": 1,
   "sha256": "0aa4fdfeef923e776e33ce8a1b4f1d818ccef4b21aa3d5bc734331f33d75d1f5",
   "slug": "will-baker-mayfield-average-16pt0-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
+ },
+ "0xad89a53726c677c02017935093a1b1dc0f4bf02cbee125f0d8ad6c383a59ade0": {
+  "created_at": "2026-11-09T22:57:31.857109Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Johnny Walker fight Alexander Volkov next?",
+  "revisions": 1,
+  "sha256": "4c35e7ea9c056a76c44483379e6250d9826639f9a5b301b630f80dc49ba4f167",
+  "slug": "will-johnny-walker-fight-alexander-volkov-next"
  },
  "0xb07e80b488b911f7775b204b1b293b3876b2b75c0d11ed518ea2f8c726a287e0": {
   "created_at": "2026-10-05T19:30:30.042281Z",
@@ -1181,6 +1217,15 @@
   "sha256": "70a42a77654b80c2fc1c01e8bf0d8575eeac2eb203c548cb7fadf433e6e43861",
   "slug": "will-amazon-be-the-third-best-math-ai-lab-at-the-end-of-november-2026"
  },
+ "0xbde927fdcc89d8ae3596a284a3c9f8f93213a131ba091a81fe6e709e9b389be0": {
+  "created_at": "2026-11-10T02:40:45.615995Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"99 Problems\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-99-problems-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0xbf5e58cd19351ca604721ec1aa800be1db3fce2ca5f6e4b7aa4d5573075a6ce0": {
   "created_at": "2026-08-10T14:53:17.755065Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1194,6 +1239,7 @@
   "created_at": "2026-10-10T11:30:03.031344Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Esteban Ocon win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1267,6 +1313,7 @@
   "created_at": "2026-10-08T22:00:08.55215Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Roehrig vs. Mcdonald end before Round 5?",
   "revisions": 1,
   "sha256": "5ac586021c0bfb11440536126bca49ec27e9349f96d01709c99bf95513dfcc5e",
@@ -1601,6 +1648,7 @@
   "created_at": "2026-10-24T04:00:04.653897Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Elon Musk post 320-339 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",

@@ -144,6 +144,15 @@
   "sha256": "cc3ba7b32524c9567bbccb378d10c01053fa5627dfc28f6d0823ef516524768d",
   "slug": "will-gangwon-fc-be-relegated-from-k-league-2026"
  },
+ "0x1509af2ce5825e5aed39259948d29cf26e67e62f27aee1137342136624899a59": {
+  "created_at": "2026-11-07T12:31:17.662367Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Norris or Russell?",
+  "revisions": 1,
+  "sha256": "cfcf4b618cbd2dc1cfaab49caa0db6b03bd6309257f73b36c86b0b6b7e49b589",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-norris-vs-russell-2026-12-06"
+ },
  "0x16b94a16bb86bcaee52e171355bd477cca27333ec1fd2c78750fd19a2c1e7d59": {
   "created_at": "2026-08-20T19:30:50.845358Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -161,6 +170,15 @@
   "revisions": 1,
   "sha256": "88a9ebc9b00f00a6ecb616edf77f9479d37709cf1e39556a678c086499aba3ef",
   "slug": "will-pp-win-the-most-seats-in-caceres-in-the-2026-spanish-general-election"
+ },
+ "0x1cc11b1093f1ce5365c7de0233962abd96079a5a48d82a92529b80788c846b59": {
+  "created_at": "2026-11-07T12:31:06.606164Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-esteban-ocon-2026-12-05"
  },
  "0x1ec921cec6b1e131dc592d0977617a04e435fb248bb3e869ed00718fe57f0059": {
   "created_at": "2026-09-22T23:05:29.83119Z",
@@ -383,6 +401,7 @@
   "created_at": "2026-08-11T14:12:06.784041Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win 9 or more House seats in Virginia in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "caec01e66d8f8d15d91cbe1c29920df716bed7a02f2ed568f4d39166f4163052",
@@ -469,10 +488,20 @@
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-hawks-vs-warriors"
  },
+ "0x44f8b381ee852842ddf68972cf4502879e74816e494c4bc629b3d042e8413659": {
+  "created_at": "2026-11-10T02:41:29.126303Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"On to the Next One\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-on-to-the-next-one-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x4599b4f1b8ac66540fcd8d1bfda02927c6f48e107695c01864ff7fd8f9d38159": {
   "created_at": "2026-10-10T11:30:41.417795Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Norris or Russell?",
   "revisions": 1,
   "sha256": "522438ac59d28c7691360a5ccfaf29271d5125a25141d52fc4a234a9a06903f9",
@@ -595,6 +624,15 @@
   "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
   "slug": "will-sam-montembeault-win-the-2026-27-vezina-trophy"
  },
+ "0x58b49e1be464fe1b0a9a042cbfba0899ab7da79cb0dfa6aaa4f3b31c8b0a0559": {
+  "created_at": "2026-11-06T22:34:20.217248Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon receive between 12% and 15% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "91e62f7634e9da6fbdf0ef28c7e147275d06ebba136dfd5478b7cd5dc2e5b455",
+  "slug": "france-first-round-vote-share-jean-luc-melenchon-12-15"
+ },
  "0x5b73cc0674633da39564d092cdb44636fdf835f7c4e8c63896c6a2c9824d6559": {
   "created_at": "2026-09-02T20:14:15.494021Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -626,6 +664,7 @@
   "created_at": "2026-10-10T11:30:28.943503Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Pierre Gasly achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -653,6 +692,7 @@
   "created_at": "2026-10-02T17:59:20.603675Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the US add between 0 and 25k jobs in October?",
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",
@@ -694,6 +734,15 @@
   "sha256": "ed06588c89a77cbe87f782abaf1b319a956ed45a73e1d52c50543ab94ab75f9b",
   "slug": "will-majid-takht-ravanchi-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221272"
  },
+ "0x6e2512cdbb88a007211188c9a356e05911dd45bca39d506d289936e2f4ca1359": {
+  "created_at": "2026-10-15T17:01:34.523724Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Badajoz vs. CD Tenerife end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-bad-cdt-2026-10-28-draw"
+ },
  "0x6f6889f7bdc5d188d423d851fb38af150a8a8a13e39e0f2fae3ee8b407a1a359": {
   "created_at": "2026-09-20T11:16:18.088325Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -730,10 +779,20 @@
   "sha256": "e757a45c10133e04dfcfa3ea188b2aff6ba0c3fda3a5d8266d23420f808af0d9",
   "slug": "will-luis-diaz-bayern-munich-record-the-most-assists-in-the-2026-27-bundesliga-season"
  },
+ "0x777377887e6bb3390d9e6f5e0aae1045869697a82e25dc90abda7cb7ec08fe59": {
+  "created_at": "2026-11-10T02:41:35.072999Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Show Me What You Got\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-show-me-what-you-got-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x7dae18f53f698e29f24a8739aba96b9560034f6fabe31951fc1b4e6c9e624d59": {
   "created_at": "2026-01-28T15:41:32.919535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the VA-05 House seat?",
   "revisions": 1,
   "sha256": "39afe9f4555228c18e57ac6c4e0e6fdba09775d4fa44f6a45230fc8881615801",
@@ -896,6 +955,7 @@
   "created_at": "2026-10-08T22:00:10.504949Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Jr. win by KO/TKO?",
   "revisions": 1,
   "sha256": "bcad0fe032e6bdf89a742be0194b78a8bcd8785e150cd46e04e4677affd0ebca",
@@ -923,6 +983,7 @@
   "created_at": "2026-09-09T15:53:48.950853Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Marc Bernal win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1166,6 +1227,7 @@
   "created_at": "2026-08-28T20:17:37.773423Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Luther Burden III be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1198,6 +1260,15 @@
   "revisions": 1,
   "sha256": "6e7b3eedba4b8dc6bd96d68f46bee5ea7a846bb2ea7fe37d2d83808cb947e003",
   "slug": "will-the-republican-party-win-the-ga-07-house-seat"
+ },
+ "0xc12f29cd00f3b0ebf61e813ce99d793e90ecf62de52fb353f6da6450c80a1559": {
+  "created_at": "2025-07-08T19:06:29.799316Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Cory Booker win the 2028 US Presidential Election?",
+  "revisions": 1,
+  "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
+  "slug": "will-cory-booker-win-the-2028-us-presidential-election"
  },
  "0xc26f05506cf2f1b3ba6cf60815ccb90f6ae5f361822ed889eabc3b09ba54a559": {
   "created_at": "2026-08-18T14:19:27.733531Z",
@@ -1439,6 +1510,7 @@
   "created_at": "2026-09-04T18:02:59.648373Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party candidate win the 2026 Guam gubernatorial election?",
   "revisions": 1,
   "sha256": "5835095199450e7596934ec7278bd17a8c1c3ea79bbf39067eb1e1d6ada57ab5",
@@ -1511,6 +1583,7 @@
   "created_at": "2026-10-25T04:00:28.052931Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will NVIDIA (NVDA) hit (LOW) $200 in November?",
   "revisions": 1,
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",

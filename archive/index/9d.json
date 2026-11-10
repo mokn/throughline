@@ -346,6 +346,7 @@
   "created_at": "2026-08-12T14:54:56.663139Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Georgia Tech have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -368,6 +369,15 @@
   "revisions": 1,
   "sha256": "5742d4c50bf4305b8138f5f5275729554e10321f08f2fb455755b094c41d37a4",
   "slug": "will-zptai-have-the-best-ai-agent-at-the-end-of-december-2026"
+ },
+ "0x4214d2f8db8173ca5b62d149d59b427d2d61d218cf661b417daba7d2b621909d": {
+  "created_at": "2026-10-15T17:01:06.303129Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Real Uni\u00f3n Club to score first vs. Club Portugalete?",
+  "revisions": 1,
+  "sha256": "1c911b994ea78df9c40505e0237f23fa6211c23cab03ddad7571a46b347087c2",
+  "slug": "cdr-por-iru-2026-10-28-first-to-score-away"
  },
  "0x421c7a8194724319bfeac96b6f902634bb8b0244abf0f77b34e6901e56d5509d": {
   "created_at": "2026-08-24T16:38:29.631667Z",
@@ -400,6 +410,7 @@
   "created_at": "2026-08-28T20:17:39.885849Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Courtland Sutton be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -436,6 +447,7 @@
   "created_at": "2026-10-08T22:00:01.890851Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Billam-Smith win by KO/TKO?",
   "revisions": 1,
   "sha256": "5349e1ed05314f0580f886022c8ee5d6865c93c065985d60a17efa11194663ab",
@@ -571,6 +583,7 @@
   "created_at": "2026-06-26T15:50:34.275138Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will James Graf win the 2026 Montgomery County Judge election?",
   "revisions": 1,
   "sha256": "2a1719c770780d2d976cc58b8c5d3026743d5217b87976b67915daf2727ba741",
@@ -909,6 +922,15 @@
   "sha256": "250631af5f73fd8fc4a846a56726c72c8f2e9b1bd6a49f82a5b749fde9b53952",
   "slug": "nflx-above-60-on-november-30-2026"
  },
+ "0x99b3754298bd0574fe58e593cd1e1e0c05ee3e4861b419966590ba1cb2ad479d": {
+  "created_at": "2026-06-25T17:29:11.74229Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Dylan Garand win the 2026-27 Calder Trophy?",
+  "revisions": 1,
+  "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
+  "slug": "will-dylan-garand-win-the-2026-27-calder-trophy"
+ },
  "0x9d1d398bf5a6f6a57ac8aa9035c7571814810acb5abc982308686ae5af35bd9d": {
   "created_at": "2026-08-06T21:37:59.200196Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1008,6 +1030,15 @@
   "sha256": "e8c4bf572087343d59a5ac34b29d48ae4edf4f8726fda69fc642f329d5917f12",
   "slug": "will-los-angeles-rams-finish-the-2026-27-nfl-regular-season-with-the-most-sacks-20260715221610084"
  },
+ "0xb097d0c519a5c4ca6818604946c196b7860c37feacf4a0ad1217145953bf679d": {
+  "created_at": "2026-10-15T17:02:01.165336Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 4 - 1 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-4-1"
+ },
  "0xb12760ab7ba0efbb30d50692fb1b884bac08a2f4dc71cdac6f8ee8dda2157a9d": {
   "created_at": "2026-08-06T21:37:01.626606Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1048,6 +1079,7 @@
   "created_at": "2026-08-26T08:45:15.103843Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 0.5",
   "revisions": 1,
   "sha256": "1164577a96e31e0d7ab552de0819ffc3a1caa2603cdfdbe946363b3a4b5115cf",
@@ -1116,6 +1148,15 @@
   "sha256": "5efee5b3133339d51eabcdc7dea344168676aacb8ce856bb3ce7af075ae36c3d",
   "slug": "2027-soccer-morocco-botola-pro-runner-up-widad-tmara"
  },
+ "0xbd0d71f515d0381a1a93e03da371e956a51fdf4025094ec5acc07b62ceddc09d": {
+  "created_at": "2026-11-07T12:30:20.205247Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ryo Hirakawa get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-hirakawa-2026-12-05"
+ },
  "0xbe2a80db9597a23c0c0f21cfeb33eab70efdc51e5e86bbd635091c3153542e9d": {
   "created_at": "2026-07-20T20:01:14.189712Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1147,6 +1188,7 @@
   "created_at": "2025-12-10T18:05:32.055482Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party hold exactly 26 or 27 governorships after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cb4a6d2db6b0e17d1f68fb1ebd345806a34632c9cd578e8c03fccd5d3ea36f4b",
@@ -1255,6 +1297,7 @@
   "created_at": "2026-08-11T14:14:31.044043Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 8 House seats in Texas in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9c3a46290209e6bbb1e52b1b0848fcc086f4d4c82763f50a5b91bc7076c7616a",
@@ -1373,6 +1416,7 @@
   "created_at": "2026-08-12T17:19:06.459587Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Cruzeiro be runner-up in the 2026 Brazil S\u00e9rie A?",
   "revisions": 1,
   "sha256": "b767be953d945c844caadb7f0855fa8d647014518aa4e49ed471303618948fe5",

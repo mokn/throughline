@@ -144,6 +144,15 @@
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",
   "slug": "will-the-republican-party-candidate-win-the-2026-sd-al-house-election-by-30-35"
  },
+ "0x2630dcebfdb828acddda71736e266767eb0407069facc653575f01d7cf7dcc03": {
+  "created_at": "2026-11-07T12:30:31.448742Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-hadjar-2026-12-06"
+ },
  "0x27fbd5e6c11d1ef2538ce69474490b2fb9a4b735c072f1c3a331d0802412be03": {
   "created_at": "2026-08-24T16:35:51.373153Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -242,6 +251,15 @@
   "revisions": 1,
   "sha256": "df692e49d5a09679ec69e6b7959bcd1f32f457558130b89eb3cf9176f319f375",
   "slug": "will-sabah-win-the-2026-27-uefa-champions-league-championship"
+ },
+ "0x3a0494cb4041ef9e4cdb603b891d4e02d7e3d859351eb41b6119088048a92f03": {
+  "created_at": "2026-11-04T17:37:54.835403Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Wildcard Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-wildcard-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x3ab254eba59333a4165e744c03eb523591d5beb52475ac79d3521ab97f06f103": {
   "created_at": "2026-05-27T21:56:10.388518Z",
@@ -434,6 +452,15 @@
   "sha256": "7d5e7a6e20edb15356046d51e7a586107205390d843f6cd20845fe3a529257d7",
   "slug": "will-tyreek-hill-sign-with-the-pittsburgh-steelers-in-2026"
  },
+ "0x599842a220ae5359b94da9138087b6a8da62dfce8b732dd1a173b21d4e13fc03": {
+  "created_at": "2026-10-15T18:00:57.604405Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 3.5",
+  "revisions": 1,
+  "sha256": "9e5361db330dea8948d143342a5a3fb61b5dc6f077952168e839bdd0431f86cb",
+  "slug": "cdr-cd17-car-2026-10-28-total-3pt5"
+ },
  "0x59a624a70bb9f3a6d182b07e6427c8c879bee9c8dac2bfb89d18cb4aefcea803": {
   "created_at": "2025-11-19T22:50:57.180093Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -510,6 +537,7 @@
   "created_at": "2026-09-01T17:27:51.907396Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Genesee County in the Michigan Senate race in 2026?",
   "revisions": 1,
   "sha256": "536747a03addde13af322470c502404f588455d2b343ddee9afeecafa51900ba",
@@ -546,6 +574,7 @@
   "created_at": "2026-09-28T20:07:20.933092Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republicans win Mahoning County in the Ohio Senate race in 2026?",
   "revisions": 1,
   "sha256": "b6fab57321edec2b55df7e8b906e19ff19596bb9056942c8b475fa6ba5ce9176",
@@ -798,10 +827,20 @@
   "created_at": "2026-11-02T00:46:28.409986Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and a Democrat win the 2028 presidential election?",
   "revisions": 1,
   "sha256": "09a032c897418a3e6f432da0bc55c87d5c38033e57c465a258b2bdc4110a66a7",
   "slug": "democrat-wins-2028-presidency-no-dem-sweep-yes"
+ },
+ "0x94f6dc4d94320a2a69831a47463b5a62f97c8ca736afba48b5ab36c062aa3803": {
+  "created_at": "2026-11-07T12:30:11.311921Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alpine have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-alpine-2026-12-06"
  },
  "0x9538a8ba751294a43ce374e64aaa41775be18e98e0dbde21a8a65dc2c9587c03": {
   "created_at": "2026-08-07T16:01:19.737434Z",
@@ -848,6 +887,15 @@
   "sha256": "a39b3a90f46825c61ba572527aa0715eb7528da9464dc71dff9d2fd5e3cd29a2",
   "slug": "france-elite-2-2027-champion-alliance-sport-alsace"
  },
+ "0x9f9c6a470973cb2fe3d82b5dc046b5c5e0ba3a9a5fbfde1c3a2a9491777db703": {
+  "created_at": "2026-11-07T00:06:39.72915Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Next US president 80+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-80-plus-years-old-at-inauguration"
+ },
  "0x9fe303f4c1768df88653a2639abde1dbe16697d23ea080073dba0853a837a403": {
   "created_at": "2026-10-29T20:52:36.774302Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -865,6 +913,15 @@
   "revisions": 1,
   "sha256": "772342e05915ae1dd24a380604508b4793482917d28fcafdcedceb38ad7122da",
   "slug": "will-the-bank-of-brazil-make-no-change-to-the-target-for-the-selic-rate-at-the-december-meeting-20260918"
+ },
+ "0xa31548a8fc27f425f933f8fddf4ba0bfa4ae58b72c426f7b3c40073644a70903": {
+  "created_at": "2026-10-15T17:00:57.708535Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 3 - 0 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-3-0"
  },
  "0xa33c80666e5ae31599ec93e282dad481921cb47ee89a5e7142b69c07f7365303": {
   "created_at": "2026-10-21T22:04:43.289087Z",
@@ -1244,6 +1301,15 @@
   "revisions": 1,
   "sha256": "a605461467f332fcf230469d3ecbd9e0d326acca075c58643037aacb2cd5da2e",
   "slug": "will-kashiwa-reysol-win-the-2026-27-afc-champions-league-elite"
+ },
+ "0xdc467614b608966d4e9f83d72dbdb3857041da0fde8e25f0aac004fb5de0e603": {
+  "created_at": "2026-11-07T12:30:40.246592Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will there be a safety car during the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "bd74c09c267582ecd788c330bd17f6d63bb47db7c6083df4f7bc91427e1f6a75",
+  "slug": "f1-abu-dhabi-grand-prix-safety-car-2026-12-06"
  },
  "0xdfb15816f735446a0457d14fec168ee6ad38bad9225e748c8dbc22ed6005ff03": {
   "created_at": "2026-09-30T20:37:24.487814Z",

@@ -107,6 +107,15 @@
   "sha256": "ec27e6df04c2a6b37b29c34d278f91cc0f4745fd5f264bfaa9a6c2393fc213c0",
   "slug": "ukr1-kry-met-2026-09-12-first-half-total-0pt5"
  },
+ "0x0f05497b887abb104ea2beaf43feef6709cfe7db51b7f664df59472fab5f04c9": {
+  "created_at": "2026-05-18T16:26:44.853845Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Nicholas Hoult announced as next James Bond?",
+  "revisions": 1,
+  "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
+  "slug": "nicholas-hoult-announced-as-next-james-bond"
+ },
  "0x100c9ad3b8f08656388d0ac02ea619ba621d2e6ea84cba15258db44ef9f532c9": {
   "created_at": "2026-09-20T08:16:07.047987Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -120,6 +129,7 @@
   "created_at": "2026-09-01T17:43:12.918993Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democrats win Clark County in the Nevada governor race in 2026?",
   "revisions": 1,
   "sha256": "c70472e6de3c2c5278547157796d665004ec49ba6130fa6c2e7e22063e126717",
@@ -234,6 +244,15 @@
   "sha256": "5d207b444d84fee9c49989cd0998a12121e3ad5c9dbd0a1c90a5dddbfe6fb9e4",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-32-house-election-by-21-or-more"
  },
+ "0x25389f37a88bfaffd7054c08c75b10491d3eee4888aed444746048622dcf8dc9": {
+  "created_at": "2026-10-15T17:01:04.917278Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 4 - 2 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-4-2"
+ },
  "0x2693ceef3b28f4ed1a717f91dd83198b9f01786ed7d845a1b17f52259358c6c9": {
   "created_at": "2026-04-14T15:40:26.456545Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -319,6 +338,7 @@
   "created_at": "2026-08-12T17:27:05.43463Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Argentinos Juniors be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -337,6 +357,7 @@
   "created_at": "2026-01-28T15:38:06.221306Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the OH-10 House seat?",
   "revisions": 1,
   "sha256": "33fe433c86e1c4b00371789f183d1a4d79db4b30ea8ac78bd09b5a02e7f760ad",
@@ -727,6 +748,7 @@
   "created_at": "2026-02-18T23:32:38.36952Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Logan Webb win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -889,6 +911,7 @@
   "created_at": "2026-10-10T11:30:03.469234Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Max Verstappen win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1310,6 +1333,15 @@
   "sha256": "26c99de4d1c24ac61173a0d33a7acf03bd99332f8259a6053915dd2f4c7aece4",
   "slug": "lamar-jackson-974pt5-rushing-yards-2026-27"
  },
+ "0xc32c0ec7320e656eac5ab6189b491bc71a9ecb0e596657677207eeb4ca1b8bc9": {
+  "created_at": "2026-11-07T12:31:20.378395Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-alonso-2026-12-06"
+ },
  "0xc60123346def3c8452be04c3588b5555ef7378038f560bb22b2d7c9e8cb19bc9": {
   "created_at": "2026-09-04T19:22:14.238374Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1712,6 +1744,7 @@
   "created_at": "2026-09-23T18:06:52.627122Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lynn Vision Gaming qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",

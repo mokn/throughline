@@ -1,4 +1,13 @@
 {
+ "0x00e927a4e46513c8be202641843441d2d7b53554f54dd3856dc19e2ed3ba1361": {
+  "created_at": "2026-11-07T12:31:18.850866Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Hamilton or Russell?",
+  "revisions": 1,
+  "sha256": "847da53e85bbb176535514903284b1038c02536dc56a7c161e3364e468cd04b6",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-hamilton-vs-russell-2026-12-06"
+ },
  "0x035a8294c84b2128ff6765a18d779295331d995ee18e84313589f48160782f61": {
   "created_at": "2026-08-18T19:45:35.542362Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -93,6 +102,7 @@
   "created_at": "2026-08-12T16:51:49.077401Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Kelly Ann Stefany Morillas Bogado win the next Piura mayoral elections?",
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
@@ -138,6 +148,7 @@
   "created_at": "2026-01-28T15:30:28.147586Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the Republican Party win the FL-26 House seat?",
   "revisions": 1,
   "sha256": "d90eae5ace0f5eb6f00a9a8fe4ef8db48170b04fdf02fd11cb1642e18d15392d",
@@ -147,6 +158,7 @@
   "created_at": "2026-10-24T04:00:03.540003Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Elon Musk post 180-199 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -412,10 +424,20 @@
   "created_at": "2026-08-19T19:59:14.021375Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Republicans sweep the Kansas Senate and Governor elections?",
   "revisions": 1,
   "sha256": "6a6d8d5b8045123ce7efc5674ef0efd0c816ec6a7c3bae0574f414fa69a503f3",
   "slug": "will-republicans-sweep-the-kansas-senate-and-governor-elections"
+ },
+ "0x64d9b221dc8dd370f7c480d7782c278fac269ffb5902bb01126d5cf4703ab761": {
+  "created_at": "2026-11-07T12:30:56.09632Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-sergio-perez-2026-12-04"
  },
  "0x657ac56b6862c36fc5e24d7ad98646d8959d491ddec4013b3f9b8246c3205061": {
   "created_at": "2026-09-20T08:45:16.648419Z",
@@ -624,6 +646,15 @@
   "sha256": "b8e6f416183f7d470f6173d01caa93782d96ff7dd5e1ecd3d8bf1f4dfc1acf6f",
   "slug": "lega-basket-serie-a-2027-champion-reyer-venezia"
  },
+ "0x92299ccfb5526231f7a6fbf0a07139e3531c37d2980fccfca73fab3722497661": {
+  "created_at": "2026-11-09T21:17:57.240911Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Sentinels Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-sentinels-win-an-international-event-in-2027"
+ },
  "0x93cd654e90be5755462dbc20988ea53c64ac16f207b17d736b5253381ae0b561": {
   "created_at": "2026-08-20T19:36:11.4734Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -641,6 +672,15 @@
   "revisions": 1,
   "sha256": "5b7c2c5428d745237e005aeccde87d523c249359bc8a5b58b4c595d1b96af2f6",
   "slug": "will-warren-buffett-be-3rd-richest-person-on-december-31"
+ },
+ "0x94a3a9a980eb0c7720e5a4610269cda0a57791af5efd19ab18954bbd723cec61": {
+  "created_at": "2026-11-10T02:45:12.823892Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Carrie Underwood sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-carrie-underwood-sing-the-national-anthem-at-the-2027-big-game"
  },
  "0x94a5a07c5a4527c9ff1b513331437053026a0f968e3924f72e780f35d895de61": {
   "created_at": "2026-08-11T17:52:11.670942Z",
@@ -728,6 +768,7 @@
   "created_at": "2026-10-03T19:00:27.448194Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 2 - 1 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -800,6 +841,7 @@
   "created_at": "2026-10-02T20:15:31.841978Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Nautilus be the most played champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
@@ -909,6 +951,7 @@
   "created_at": "2026-10-10T11:30:22.68457Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tgr Haas achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",
@@ -999,6 +1042,7 @@
   "created_at": "2026-08-26T21:46:09.082977Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will IFK Mariehamn be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -1008,6 +1052,7 @@
   "created_at": "2026-08-12T15:02:47.17937Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Utah have more than 8.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1062,6 +1107,7 @@
   "created_at": "2026-08-26T21:46:53.969876Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will San Diego FC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -1080,6 +1126,7 @@
   "created_at": "2026-03-25T20:08:33.812637Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Leo De Vries win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -1134,6 +1181,7 @@
   "created_at": "2026-10-01T00:08:25.927292Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be 30 or more average daily transits of the Strait of Hormuz on October 31?",
   "revisions": 1,
   "sha256": "86c1cf2a76ef55f9f5a756a6636cf057fcc0f2fb360dc96041fc6e30dac8f8ef",
@@ -1219,5 +1267,23 @@
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
   "slug": "will-lask-finish-first-in-the-2026-27-ucl-league-phase"
+ },
+ "0xfec69e5d335a3eabf985e90b919cd80aedb57360b1a3059fbdb55d70fc7d5461": {
+  "created_at": "2026-11-07T00:10:45.053952Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nir Barkat receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-nir-barkat-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
+ "0xffe874ab925d77181f5b8913fcbc02bc0715c5d1cb2455a05c37bcfe40d8fd61": {
+  "created_at": "2026-11-10T02:45:46.589632Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Barron Trump attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-barron-trump-attend-super-bowl-lxi"
  }
 }

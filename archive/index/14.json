@@ -165,6 +165,7 @@
   "created_at": "2026-01-28T15:38:28.36174Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the OK-05 House seat?",
   "revisions": 1,
   "sha256": "63f1d9a61c7fbd228068a351d37747b5f882c85145087d62a2e5b91fb261f1c2",
@@ -264,6 +265,7 @@
   "created_at": "2026-08-11T14:14:16.662174Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 18 House seats in New York in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "a2e86a17427eaaba8a77fd283b8b2ddcd38e60f505fa0bd7509f26305178c627",
@@ -295,6 +297,15 @@
   "revisions": 1,
   "sha256": "ff751e58354066dd4bbdcb1cb0514d55dbe859720f4b34b830d47417b430b514",
   "slug": "will-kairat-finish-second-in-uecl-league-phase"
+ },
+ "0x3de7e2edf6792bdfd61765787e092b65484794eecb3c7ed0e4fde0f51d9f1c14": {
+  "created_at": "2026-10-15T18:01:08.840641Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 3.5",
+  "revisions": 1,
+  "sha256": "5c20117f427401998bc84644be7a94725c5e3e360e3c671ea8734a0204e3c6bc",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-3pt5"
  },
  "0x3e8dbac97737d027ba04554ad40c782b1e019625f7da9a2964b9e78aee6f6c14": {
   "created_at": "2026-11-03T03:07:31.947011Z",
@@ -690,6 +701,7 @@
   "created_at": "2026-08-12T17:27:07.896744Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Central C\u00f3rdoba (SdE) be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -799,6 +811,7 @@
   "created_at": "2026-09-20T08:45:04.999441Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: 1st Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "ecc437f8eb78bebd4220bf8d0a28788d234cc05ecdce33fe9b984b8d905a5329",
@@ -813,6 +826,15 @@
   "sha256": "a114852b5d7bfaa0f2ad7791d194b679684565f7ced3d54f7eff2d897a82b065",
   "slug": "will-john-mcentee-win-the-2028-republican-presidential-nomination"
  },
+ "0x90d40d3c9981ea762bd7397d5fc2353c788e80f37312759091e86b95f7865014": {
+  "created_at": "2026-11-10T02:41:59.731665Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"On to the Next One\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-on-to-the-next-one-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0x92da6cbffc42d5c4d847fc95a41ce823bc6bb35463026dad68437f41d99ccd14": {
   "created_at": "2026-06-30T17:20:40.557688Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -821,6 +843,15 @@
   "revisions": 1,
   "sha256": "644ccd618620e943f2b80832464d41e968090e71b7e606530ba1e0a40c77170d",
   "slug": "will-apple-purchase-memory-cxmt-chips-in-2026-20260630171913147"
+ },
+ "0x94013057873ca51ebc34e269853fc4c7f1c3354123f5fceaca11345bac395114": {
+  "created_at": "2026-10-15T18:01:52.81785Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "593e3c00a5fae0f267baf7e838573c5e0b848ff756171ff79d18ab06f8cbee67",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-home-2pt5"
  },
  "0x94521176f57d2ce81dde01e0b7699ca4279423042d37ed53908f0c8bfefe7e14": {
   "created_at": "2025-10-10T19:25:46.24843Z",
@@ -854,6 +885,7 @@
   "created_at": "2026-08-28T20:11:14.195313Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the KT Wiz win the 2026 Korean Series?",
   "revisions": 1,
   "sha256": "3791c4cf5fb482ac2306d82e68c0258b7b62392fce98f85483c7350bfd9f7723",
@@ -1052,6 +1084,7 @@
   "created_at": "2026-03-25T20:08:26.077759Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Trey Yesavage win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -1074,6 +1107,15 @@
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-vanderbilt-have-more-than-5pt5-wins-during-the-2026-cfb-season-20260810194049672"
+ },
+ "0xb9b4c43911c236f2c823c8ba35d268612d1113d2aa62e92c80d1018c0bc1b814": {
+  "created_at": "2026-11-09T22:28:09.056953Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Erik ten Hag be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-erik-ten-hag-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xb9fd78addea5fb46f999c13ef7a601ad55e16c7656607bd3d16e9f5e4ac64314": {
   "created_at": "2026-08-11T19:03:42.868827Z",
@@ -1151,6 +1193,7 @@
   "created_at": "2026-08-12T00:15:43.140041Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Platense win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -1160,6 +1203,7 @@
   "created_at": "2025-12-15T23:37:07.954151Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the UT-02 House seat?",
   "revisions": 1,
   "sha256": "e469a4aba54d05571fd987863703131ff5cecab099b64bd83a7a5af94c570875",
@@ -1223,6 +1267,7 @@
   "created_at": "2026-01-28T04:53:01.682245Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republican Party win the AZ-05 House seat?",
   "revisions": 1,
   "sha256": "ff6e812ddabfc75877bb62bedabef20d7e7550f12bb0c9c81ee6c6b79588e2a8",
@@ -1331,6 +1376,7 @@
   "created_at": "2026-08-28T20:01:30.857202Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Sheldon Creed win the 2026 NASCAR O'Reilly Auto Parts Series championship?",
   "revisions": 1,
   "sha256": "28df0c625d8ff3558db374cf6b0ad8a2f5691f86706b910cd45cd6d6cfb32586",

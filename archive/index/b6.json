@@ -138,6 +138,7 @@
   "created_at": "2026-08-26T21:46:07.372242Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will N\u00f5mme United be relegated from the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "5a33c82239cf7c22e870897154fc597c476a70f3eacc7b28cbef5739655b1869",
@@ -318,6 +319,7 @@
   "created_at": "2026-07-01T22:30:22.000004Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "California Rainy Day Fund Proposition",
   "revisions": 1,
   "sha256": "04b136563ff2e99132718981eb0909d5d4267386927cde2f54fd80872c2de12e",
@@ -372,6 +374,7 @@
   "created_at": "2026-03-25T22:07:02.023326Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Oliver Marmol win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
@@ -399,6 +402,7 @@
   "created_at": "2026-08-26T21:46:29.194378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will River Plate finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -466,6 +470,15 @@
   "revisions": 1,
   "sha256": "a064b21b226aa24ba245af8870d32ddaa9ad34fd976b17476b91f8a27dbaa2dd",
   "slug": "will-pumpfun-dip-to-0pt0026-by-december-31-2026-from-august-25"
+ },
+ "0x56f962fa6b60beb7c0ed8cc65db120c6636d1bf71b54ceb2608f1debd81168b6": {
+  "created_at": "2026-10-15T17:00:56.682306Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
+  "slug": "cdr-ute-sab-2026-10-28-halftime-result-draw"
  },
  "0x56f9da24fa2c5ed006352e05c9834dab8c499a35bd2370e5c3bb37e2fd3699b6": {
   "created_at": "2026-11-03T15:36:39.740698Z",
@@ -543,6 +556,7 @@
   "created_at": "2026-08-26T21:46:29.275555Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will San Lorenzo finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -588,6 +602,7 @@
   "created_at": "2026-07-10T22:33:46.190991Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Ornn H200 Index hit $7.00 (HIGH) by December 31, 2026?",
   "revisions": 1,
   "sha256": "89b46f491dc0e1c318727f0c72b42694c6e9b27be8116746e7723bfa684772d9",
@@ -687,6 +702,7 @@
   "created_at": "2026-08-12T16:51:46.004126Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Nilton Emilio Chafloque C\u00f3rdova win the next Chiclayo mayoral elections?",
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
@@ -867,6 +883,7 @@
   "created_at": "2026-09-29T00:12:14.551056Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Austria by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -1016,6 +1033,15 @@
   "sha256": "eaf6939224e6b85b445bb30dca0c9568a0105d06885da97df7582a26a0c8fab5",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mn-05-house-election-by-60-65"
  },
+ "0xaa6677861a33cd686a336170e1f01e444070f991a15368085c1e5425cebf1fb6": {
+  "created_at": "2026-10-15T17:00:58.325671Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 4 - 1 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-4-1"
+ },
  "0xacf7113dc9045db7ee5163c3f1bdef4dbdfd2050f2e33b35b5f3d0fdad136cb6": {
   "created_at": "2026-10-13T15:55:53.415751Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1110,6 +1136,7 @@
   "created_at": "2026-08-12T17:27:11.387408Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Independiente be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1119,6 +1146,7 @@
   "created_at": "2026-10-09T15:06:37.611006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will STRC hit $100 by November 30?",
   "revisions": 1,
   "sha256": "5615060b8b1958a6b4f897878330c4d518140b5ae8053dfa86e4c5396e31b003",
@@ -1160,6 +1188,15 @@
   "sha256": "732461fd3dfcf1e7e5bdff170e05bdba42139b0fd141f9dfd2134223c0caa36a",
   "slug": "omarion-hampton-949pt5-rushing-yards-2026-27"
  },
+ "0xc05daf4e175837d74685a70a9bdbbeb6553db1d0f95efabc289f8bf1bcbb3ab6": {
+  "created_at": "2026-11-10T02:43:29.6834Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "No Gatorade shower at Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "no-gatorade-shower-at-super-bowl-lxi"
+ },
  "0xc0fb51ed549323443063964076f84efb3f0d8e74e1b7a194ed1eccb291f1feb6": {
   "created_at": "2026-01-30T23:20:25.343281Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1191,6 +1228,7 @@
   "created_at": "2026-08-12T17:28:25.128401Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Puntarenas be runner-up in the 2026 Liga FPD (Costa Rica)?",
   "revisions": 1,
   "sha256": "05e44eb86dd2cd104b1003ffabfaaf5029ff53bfd51bf8b1f53cfed1e086ca5d",
@@ -1204,6 +1242,15 @@
   "revisions": 1,
   "sha256": "655ad8b9c0d0d4db5068a33f216936cb1152c75866e7845eb2e2bdc08c08e06d",
   "slug": "will-fc-zbrojovka-brno-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0xc6fd658c56a823401b056b0afd3ef2ec8f3f7b3b72799b986ccd7853cc98b8b6": {
+  "created_at": "2026-11-06T22:39:06.014193Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 10 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-10-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
  },
  "0xc76c3f6a42f501191ed36f6017edcd9e4a79d1d6048ace8b252cb050f648aab6": {
   "created_at": "2026-09-08T16:02:51.877431Z",
@@ -1222,6 +1269,15 @@
   "revisions": 1,
   "sha256": "985d5311ad86f067e1de5929df742e374393b86acec53e959a5a2ea928c805c2",
   "slug": "will-stranger-things-rank-in-googles-top-5-most-searched-tv-shows-of-2026"
+ },
+ "0xc9da2f696e2ae9f0d46d2a915e707f8b323e5b62ef94bf470d57e3200f608eb6": {
+  "created_at": "2026-11-10T02:39:26.945869Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Robinhood run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-robinhood-run-an-ad-during-super-bowl-lxi"
  },
  "0xc9de637529ac973baeb2a923fc6e977018a430fde4dcd219357c9c8cdb837bb6": {
   "created_at": "2026-08-24T16:32:24.694074Z",
@@ -1285,6 +1341,15 @@
   "revisions": 1,
   "sha256": "9e31d8ead43fdc2ce0d1228a11da7dc55b60a8da15d70f1d7729d6b258a5ec1c",
   "slug": "spl-abh-kho-2026-10-19-halftime-result-away"
+ },
+ "0xda3358212ee94c07804f630815603d2b9708fa9819dfad4e36e5f377ce6d0db6": {
+  "created_at": "2026-11-06T22:58:34.223965Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Doug Burgum be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-doug-burgum-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xdcc07910de1a376a048e6c759c7bb7deaaf1049452023bc59a50137973e025b6": {
   "created_at": "2026-08-07T19:09:13.588857Z",

@@ -156,6 +156,7 @@
   "created_at": "2026-10-01T23:38:29.236683Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the 2-year Treasury yield dip below 4.50% before 2027?",
   "revisions": 1,
   "sha256": "f3a355a8683b34993c67d90a85a32e803e2e9ade75762dc0dd42764ae3b6ca36",
@@ -210,6 +211,7 @@
   "created_at": "2026-08-24T16:38:15.739152Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will V\u00e5lerenga finish 3rd in the 2026 Norway Eliteserien?",
   "revisions": 1,
   "sha256": "c39995b81026889ab38537f9b279ba8820b8630638ae057bbfcb695384bf877d",
@@ -271,6 +273,15 @@
   "sha256": "7ba5045f6ca8042a58c0eff2e2bc060d49830057f794c269c74d07223b31ca90",
   "slug": "will-the-democrats-win-the-texas-senate-race-in-2026"
  },
+ "0x34eb3d7b7787555928f19d5ee057c9a8bb53668a9b86fcaec0103359f827ab17": {
+  "created_at": "2026-11-08T20:13:18.175543Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Next US president 40+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-40-plus-years-old-at-inauguration"
+ },
  "0x35b7825e43cbb5484a96fffe7e08955c470063564c5aa490eaef569d8c1d7f17": {
   "created_at": "2026-10-14T13:20:08.178501Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -302,6 +313,7 @@
   "created_at": "2026-10-06T15:23:45.672545Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Republicans win white voters in the Texas Senate election?",
   "revisions": 1,
   "sha256": "f9e024d8cc98e394b274b29651c1d7b9621ff4efcbfade1f4c4a5e34eb87b511",
@@ -414,6 +426,15 @@
   "revisions": 1,
   "sha256": "f5e18d07fb0252bda5839ad194832dbb82af61634a6cfd060233dc6fccec8f9f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-va-01-house-election-by-9-12"
+ },
+ "0x583cdd31fe35573df740f9761ef6b72e306c897038e6d7bb6c4fb433b3d53617": {
+  "created_at": "2026-11-09T22:28:08.560302Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Ange Postecoglou be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-ange-postecoglou-be-the-next-permanent-manager-of-manchester-united"
  },
  "0x5a35c8d26f024d73b504530a3f33945741ff1152473c7393250f19d73d518a17": {
   "created_at": "2026-07-22T23:10:20.522054Z",
@@ -799,6 +820,7 @@
   "created_at": "2026-10-10T11:30:22.396429Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Cadillac achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",
@@ -949,6 +971,24 @@
   "sha256": "a2cf5a67666d98154eea25f38b4918363037c31ed1ee1d77612bc9b7284f8447",
   "slug": "will-independiente-rivadavia-be-relegated-from-liga-profesional-argentina-2026"
  },
+ "0xc1f32408d6adc8f3efb6a6c83a15761a4d21b36870563ca2ca1ab1b0b5ca2917": {
+  "created_at": "2026-11-07T12:30:18.756981Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-russell-2026-12-05"
+ },
+ "0xc62ee2b38de574d34a0b58329822b65f3f32d7f943aeb38a8c3b95934a128817": {
+  "created_at": "2026-11-09T21:15:02.770207Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will a Team from Pacific Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "b6989380230f7b81d9a11b4e4ef936aaf7c26b217313a05bd43619f2613c47c9",
+  "slug": "will-a-team-from-pacific-win-an-international-event-in-2027"
+ },
  "0xc6806521634585674320a3b85f6debbbe174641c8767ac86cf2f0424d3c85717": {
   "created_at": "2026-10-20T23:03:03.710953Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -957,6 +997,15 @@
   "revisions": 1,
   "sha256": "c357d9466bbaaf4c8a5f99e9f0349641c222010370794e86210cdf6b76761e5d",
   "slug": "will-valyn-play-for-leviatan-esports-in-2027"
+ },
+ "0xc7caa83f5540efe3ecec07b359a4f1777e9cf04c651804fba90da7a37be97617": {
+  "created_at": "2026-10-15T17:01:05.346236Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 4 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-4"
  },
  "0xcacebfae171b5a2dcd17e6df5ee9185b672b0ec102d6b3c093a234b5e8222317": {
   "created_at": "2026-09-28T17:20:10.988388Z",
@@ -1007,6 +1056,7 @@
   "created_at": "2026-09-15T18:16:05.192249Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Jim Jordan run for Republican House Leader?",
   "revisions": 1,
   "sha256": "62b88b23b998bdbd0f7a7fd7af38356cbcdc34f49c07957e68b241f0a00789a7",
@@ -1106,6 +1156,7 @@
   "created_at": "2026-10-25T04:00:02.061963Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Apple (AAPL) hit (HIGH) $352 in November?",
   "revisions": 1,
   "sha256": "8ded059cf267e615ccfe6a1f5e27337406924aa1ce8579a9b47daeba3b95e9fc",
@@ -1318,6 +1369,15 @@
   "sha256": "b45e065869f0006c06bd024105cb359f1291b1892fc470049bd45390010affa7",
   "slug": "will-shehu-bawa-win-the-2027-kaduna-state-gubernatorial-election"
  },
+ "0xf631782c39e473c15e42d37796f7b4c4b563ba9246ac9823ad50724b644ad417": {
+  "created_at": "2026-10-15T17:02:01.248112Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 1 - 5 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-1-5"
+ },
  "0xf9055886e22246370f717a4e9d18fa1934baa9095269c477902b08af58041917": {
   "created_at": "2026-08-24T16:38:02.131144Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1344,6 +1404,15 @@
   "revisions": 1,
   "sha256": "1cfb264e5794d081fe8bdd076f106a6e3d6d788cac8895f65fd7c5b913e7cfc8",
   "slug": "el2-cra-bar-2026-09-26-btts-first-half"
+ },
+ "0xfd706df55177c6764101f9d4ecf9e75107e5f778efd90fc68e76e5ff792d7e17": {
+  "created_at": "2026-10-25T10:15:17.061307Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 0 - 1 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-0-1"
  },
  "0xfde66e0c1a9968c8371ff634f59b9c2072d5410c713780ebfd3f4ede7919db17": {
   "created_at": "2026-08-27T12:23:57.857113Z",

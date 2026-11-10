@@ -280,6 +280,15 @@
   "sha256": "401ab72c0018b7a789c21141c3adc32612b58ec093af1664dd9e2a3ecbce3ce0",
   "slug": "2027-nba-draft-1st-overall-pick-braylon-mullins"
  },
+ "0x2c93cdff5e2420ed1fb90289b50c2308d9076e878f852f1497bd383d6ba892b0": {
+  "created_at": "2026-10-15T18:02:36.0937Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 1.5",
+  "revisions": 1,
+  "sha256": "cf4342b691b0c480fe7975e83bb331cf199c3c4fa5f1dae72a3ec30ab46d7f91",
+  "slug": "cdr-por-iru-2026-10-28-total-1pt5"
+ },
  "0x2f6d2c823a2f2eaea54472f00817ca221ad40e3753ad9427adc4c78c8bab14b0": {
   "created_at": "2026-11-01T15:01:32.563291Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -442,6 +451,15 @@
   "sha256": "1fd8d292c8f2dac727c8ce23c6a33d47b44474a8b4ec5ff2d31cfb1c7dc63ce8",
   "slug": "will-morocco-join-the-mecca-agreement-by-december-31-2026"
  },
+ "0x498af17a253d45676a987a6a32bdf7543769c9a886c6e7bfe87cce388b4524b0": {
+  "created_at": "2026-11-10T02:41:31.701842Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"God Did\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-god-did-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x4a08c641f9dea7e6b8366cc6cef5758e955552051aef4bdc7d5f50c7ae1066b0": {
   "created_at": "2026-02-06T22:57:21.49254Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -536,6 +554,7 @@
   "created_at": "2026-10-28T22:31:58.164855Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Trump say \"Space Force\" in November?",
   "revisions": 1,
   "sha256": "ff0f7753e231c7ceef773c19854a014a00da43fc2a8582ea38e4d58746d0bc9d",
@@ -554,6 +573,7 @@
   "created_at": "2026-08-11T14:14:31.372712Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 10 House seats in Texas in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9c3a46290209e6bbb1e52b1b0848fcc086f4d4c82763f50a5b91bc7076c7616a",
@@ -590,6 +610,7 @@
   "created_at": "2026-01-28T15:40:00.073151Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the TN-09 House seat?",
   "revisions": 1,
   "sha256": "6df42336c944b64331141f5240f91a8739b8e565ae47e4349dac631fce968086",
@@ -622,6 +643,15 @@
   "sha256": "d56c5e351d86a1644f1006c899bafc8bd77b029ee5f3237ae59d127d765fc478",
   "slug": "will-the-republican-party-candidate-win-the-2026-florida-gubernatorial-election-by-15-18"
  },
+ "0x737b01f950f55ddbdd06d977451d648c220a746ad7f061ecb612400961984bb0": {
+  "created_at": "2026-11-07T12:30:07.743359Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yuki Tsunoda win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-tsunoda-2026-12-06"
+ },
  "0x7441b8705230ec9ec80a0891205ce7590279bbb4d62867cc78350ff116f8ccb0": {
   "created_at": "2026-01-28T15:29:10.543674Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -640,6 +670,15 @@
   "revisions": 1,
   "sha256": "9dc50934f5a387ee355a8fb2dd25a23e0d8d0c228a1899cf92c8ad3084f01f97",
   "slug": "f1-las-vegas-grand-prix-practice-2-fastest-lap-george-russell-2026-11-19"
+ },
+ "0x795eb106f37ce5612213820565295b71972bccfea2828d1fc93391613c8b0fb0": {
+  "created_at": "2026-11-09T21:18:03.809615Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will T1 Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-t1-win-an-international-event-in-2027"
  },
  "0x79a4c7fc16e737ffeec47f55db6dbd3f10224399b3504d57e0979adf95c740b0": {
   "created_at": "2026-08-21T17:31:51.66963Z",
@@ -1016,6 +1055,7 @@
   "created_at": "2026-08-28T19:43:52.465717Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will LA Galaxy win the 2026 MLS Western Conference?",
   "revisions": 1,
   "sha256": "4a90d1c2db75f71506fc1c06af80b3b34de1196dd77e8d2509aaaf525e038ab9",
@@ -1160,6 +1200,7 @@
   "created_at": "2026-08-31T18:27:36.546788Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Petr Netolick\u00fd be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",
@@ -1178,6 +1219,7 @@
   "created_at": "2025-11-14T20:11:35.245371Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Republicans lose a seat in the US Senate for any state Trump won in 2024?",
   "revisions": 1,
   "sha256": "955994bb21653eb9fb177880050b2dd9cd7688e0446e450178e91254e18a07c7",
@@ -1313,6 +1355,7 @@
   "created_at": "2026-07-31T21:39:57.270759Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "No change in Bank of England\u2019s interest rates after November 2026 meeting?",
   "revisions": 1,
   "sha256": "1894df47803f3fa3cb89bc6b0b437a94a0ea497a3d38d7e88aa34220121f7599",
@@ -1331,6 +1374,7 @@
   "created_at": "2026-08-12T17:27:08.279193Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Defensa y Justicia be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1367,6 +1411,7 @@
   "created_at": "2026-10-10T11:30:19.01811Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Oscar Piastri achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -1416,6 +1461,15 @@
   "revisions": 1,
   "sha256": "c1df377d5e98a64abe74b5fa98d5acb81eb0c9321b016944af87cb9fdfcbc30f",
   "slug": "cma-2026-fvoty-megan-moroney"
+ },
+ "0xf9ec8f1aceb9eebb6f8cb61ec50f6f3d9d8723931433ad3c0c5597fcaf335eb0": {
+  "created_at": "2026-10-15T18:02:45.67493Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: O/U 7.5",
+  "revisions": 1,
+  "sha256": "99444a1faec8d2538b713d23932565a6cf0ddc939ffa6c62aa86891a3208ab58",
+  "slug": "cdr-ute-sab-2026-10-28-total-7pt5"
  },
  "0xfb76d3f971fb5b3d900e0fa8bbc9ceff4fd275a23730dd31e49de91ad1385fb0": {
   "created_at": "2026-01-28T15:34:20.016981Z",

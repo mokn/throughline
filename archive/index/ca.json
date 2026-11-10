@@ -17,6 +17,15 @@
   "sha256": "2a90fdaa6a8b9ad7633ad32e030ff778582d67924e8e9077d49c20bed8b523f4",
   "slug": "will-jonathan-taylor-be-the-highest-scoring-rb-of-the-2026-27-nfl-season-20260806224130431"
  },
+ "0x011e75f99449b230156ef466972d817639484c7bb8c6893348140a1f8e4896ca": {
+  "created_at": "2026-11-06T22:58:31.823271Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will no one leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-no-one-leave-the-trump-cabinet-before-2029"
+ },
  "0x014db8ebbbb0cc6ca887c63421a4c0d69a13b9cec8a1e27b48c66ddf6334f4ca": {
   "created_at": "2026-10-24T11:31:04.875026Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -156,10 +165,20 @@
   "created_at": "2026-10-01T00:14:29.286479Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Trump speak to Pope Leo XIV by October 31?",
   "revisions": 1,
   "sha256": "cd2a34b1828e0bbe294ed69d21a4e0437f610a41a05a8b219fcb71de6c3250e0",
   "slug": "will-trump-speak-to-pope-leo-xiv-by-october-31"
+ },
+ "0x185fe9893dbd80d5d8b857e46382adb8cff47cfd804e6e36dc9e68d39e4ddeca": {
+  "created_at": "2026-10-15T18:02:36.262797Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 2.5",
+  "revisions": 1,
+  "sha256": "808a0f15aec243e1822949b45272752ee288e6efaa8e4378296aff3a2b4f4875",
+  "slug": "cdr-por-iru-2026-10-28-total-2pt5"
  },
  "0x18a93c3502e11057d65c3903611ecd012cf885a40a59991c99ce6afec443a9ca": {
   "created_at": "2026-09-02T18:48:53.301568Z",
@@ -178,6 +197,15 @@
   "revisions": 1,
   "sha256": "a89e1f4216f5cd9b73e6c221a96e74ed2c1ec74d23c1fac7726c22d35e8314f4",
   "slug": "enl-scu-fgr-2026-10-03-halftime-result-away"
+ },
+ "0x1a2d12107217456f21e62945bc35917fa467058e70672f8abceab909ee25e5ca": {
+  "created_at": "2026-10-15T18:02:41.100801Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "1aaeb537c8a882824a72b7ec2d65bf4c4691e686578d1a2021ca9874cc136b6b",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-away-0pt5"
  },
  "0x1b580b6738188eb8f12959f391db6a6cd3714a6b027c250233eb8e59405559ca": {
   "created_at": "2026-09-08T16:08:46.806343Z",
@@ -591,6 +619,7 @@
   "created_at": "2026-10-10T11:30:28.010422Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Yuki Tsunoda achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -654,6 +683,7 @@
   "created_at": "2026-09-03T22:06:03.393095Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Republicans win white women in the midterms?",
   "revisions": 1,
   "sha256": "521fc6921b2c20c166cc56dd7aebb76c4bba678744a2b230e4309125a8bd4a75",
@@ -812,6 +842,15 @@
   "sha256": "b3706285f794baf06998414eb00dcfaf2c6b26854812a12db97d56d655353248",
   "slug": "will-christian-pulisic-be-the-2-searched-person-on-google-this-year-20260914"
  },
+ "0x8ec15b52e97ce98887575822f021c5e4c1d322bc340d0afe5da196ca07a547ca": {
+  "created_at": "2026-11-06T22:34:25.921412Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Rapha\u00ebl Glucksmann receive between 7% and 10% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "009c41adec7ec964ac2f6e2cbb81829cc818266c330ce69a4ba165590e3df491",
+  "slug": "france-first-round-vote-share-raphael-glucksmann-7-10"
+ },
  "0x8fe50f0994b8106800ce5332271087007efa9ba8a356b5d4c0f2f81dfda0a8ca": {
   "created_at": "2026-05-20T20:02:16.436666Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -888,6 +927,7 @@
   "created_at": "2026-10-10T11:30:19.764783Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lance Stroll achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -983,6 +1023,15 @@
   "sha256": "7700111461687c11e0fbd54dad2e4d045c648522538eb76dddf9729bd9685076",
   "slug": "will-hong-kong-have-between-60-95mm-of-precipitation-in-november"
  },
+ "0xa867f88243c33ddbdade7384681c6f9ac0720559d26ac810a92fa0c88ce4e8ca": {
+  "created_at": "2026-11-10T02:45:39.040789Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Tom Brady attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-tom-brady-attend-super-bowl-lxi"
+ },
  "0xaa034dc646a0fd4b6ae5c1d467485255acf4739754a7e7a90b6dc304df2176ca": {
   "created_at": "2026-01-02T21:10:19.823035Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1063,6 +1112,15 @@
   "revisions": 1,
   "sha256": "135a5801fbd3cefbbd4014166ffa05dba4660da17d4fd37f5522a83a13e1014d",
   "slug": "will-pafos-fc-record-the-most-clean-sheets-in-the-uecl-league-phase"
+ },
+ "0xb436b2e96c3fdbaf12693faa2256912255e903f727afcfcba7ea798a749f8eca": {
+  "created_at": "2026-11-07T00:04:57.060775Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yashar support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-yashar-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353277"
  },
  "0xb514616d858d366db45d075cc659ff41185f136b4f34516c01dd028eeff6ebca": {
   "created_at": "2026-06-17T23:20:54.278782Z",
@@ -1185,6 +1243,7 @@
   "created_at": "2026-09-29T00:12:20.447535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in another country by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -1212,6 +1271,7 @@
   "created_at": "2026-08-11T14:01:17.056012Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 1 House seats in Alabama in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "799b6762cd663f36b81425a6622fa57cb743eeede2d41718ff1a65e18fb2abfa",

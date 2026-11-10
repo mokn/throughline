@@ -63,6 +63,15 @@
   "sha256": "1f2e018cfe14b95a3b5b1d2ffecb9fec3f85c12a6a70edd03927c3879bdf01b4",
   "slug": "2026-soccer-categora-primera-b-colombia-winner-unin-magdalena"
  },
+ "0x0a9f99e8e468c80b68e79e3a71c7c63d6a2da4f88fff9f9a1b9020d272ffda44": {
+  "created_at": "2026-11-07T00:04:59.075278Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yesh Atid support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-yesh-atid-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353279"
+ },
  "0x0bff6cb6535776ff1e6f3a7ddb92876d6db2ef8caf48906f4c69b8fd1c5ad444": {
   "created_at": "2026-09-08T17:02:33.858286Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -94,6 +103,7 @@
   "created_at": "2025-12-15T19:15:17.884118Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the AZ-01 House seat?",
   "revisions": 1,
   "sha256": "b64c6711f1edb71a2bca8b70f59f0ff670c76224fabbab8258577349bdcba986",
@@ -112,6 +122,7 @@
   "created_at": "2026-08-26T08:44:16.87608Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "c1be55a5f51755e3b8b44ece11f97cd245267b885b89a8d935fc94ba45015062",
@@ -220,6 +231,7 @@
   "created_at": "2026-10-03T19:00:27.021971Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 0 - 0 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -229,6 +241,7 @@
   "created_at": "2026-03-25T20:08:26.558052Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Munetaka Murakami win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -332,6 +345,24 @@
   "revisions": 1,
   "sha256": "a1d5241e9dce92774ceddd310a07b6c998838a8d591a6344ffc110150605c6b5",
   "slug": "will-fmln-win-the-most-seats-in-the-2027-salvadoran-legislative-election"
+ },
+ "0x38c1f27acfa12971fa045ac196b21a9b7035415f198a5c9354d46c980a06f344": {
+  "created_at": "2026-10-15T18:01:02.587869Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "92911acf7d4911f22aa4e369324e2767ee8991b9214006fa23a902b0b3a57f12",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-away-2pt5"
+ },
+ "0x3af986d04f51fe357c4d999a1a293e2cea3be57cf4d9fed2f402970f19cacd44": {
+  "created_at": "2026-10-15T18:02:39.502085Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 1.5",
+  "revisions": 1,
+  "sha256": "cef39bdcfed6ec2236ebbd0ca164436f3baf0dffb46b252c414f70d90eb5e579",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-1pt5"
  },
  "0x3bae734291ce3ff479f09731696f3adcab27c4bc81858fef99c6183bc2efcd44": {
   "created_at": "2025-11-28T16:19:05.655971Z",
@@ -504,6 +535,15 @@
   "sha256": "ed0af71c6556006f2e4c8d0ff52b473b7d2fb11135acdfa14b927fb54b88c3a4",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-new-mexico-be-less-than-550000"
  },
+ "0x60162b33c6e3fd5e688ee3307091193d214fe705cc14b7c80222464671cc1144": {
+  "created_at": "2026-11-05T01:14:45.938166Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will there be 3 or more government shutdowns by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "8dc0163799f35f55665d0fda2eb9baa18ef71bc36586ab10fbed6ae30b31f93f",
+  "slug": "will-there-be-3-or-more-government-shutdowns-by-december-31-2027"
+ },
  "0x65d3916da7218744d602781833a5aabfc922ab8da872d7c478792fcafa237644": {
   "created_at": "2026-09-20T09:44:55.867489Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -631,6 +671,15 @@
   "sha256": "a54f1db4fb8e7b235c9f507931e1adbf5916c20f9a27bf242515dc35984a7484",
   "slug": "will-baltimore-ravens-win-the-2026-afc-north"
  },
+ "0x74903cab4e4baccc37295f5b1d48bbd5d244dc2f97a47cd644cfb1ab0d220744": {
+  "created_at": "2026-10-25T10:45:21.57519Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "0bbb5c19bab928a54fdbf6eabcc529ee34193b12dd8485a5b7e866fc490a1624",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-home-3pt5"
+ },
  "0x75c4087382428391821484fdb6ceeef112f084010be5f4b90536cba6e221f944": {
   "created_at": "2026-11-03T19:35:45.071453Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -639,6 +688,24 @@
   "revisions": 1,
   "sha256": "844b90ee57d84a1ba756c7f61b8cfa48d835c0ba6a349d198625a36e92717071",
   "slug": "will-no-knesset-confidence-vote-occur-by-february-28-abstentions"
+ },
+ "0x76d1f618e8b9211d20ba84eeca6a95dd626e5b5c175a9d0e6198417e4aab6044": {
+  "created_at": "2026-11-09T21:18:10.79101Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Natus Vincere Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-natus-vincere-win-an-international-event-in-2027"
+ },
+ "0x77747f1978059101532a50df2d0f726243ef0a1153fba5e88061240eae6add44": {
+  "created_at": "2026-10-15T18:01:05.303144Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 2.5",
+  "revisions": 1,
+  "sha256": "03c676d59dc7f9568c0f25e9a37480d43d326ab03e6e030a20c1a3ff3e03fbda",
+  "slug": "cdr-red-bar-2026-10-28-total-2pt5"
  },
  "0x78bb07f24792b6a39d452364754ea6323ea0e6bf2c9980b0989c664294ec0f44": {
   "created_at": "2026-02-06T22:38:13.275105Z",
@@ -743,6 +810,7 @@
   "created_at": "2026-08-26T21:46:29.156505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Racing finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -956,10 +1024,20 @@
   "sha256": "916e831eda1a0215716cdf39e83013421467f4388dc75b8c1b6d104813138feb",
   "slug": "will-devin-booker-be-named-to-any-2027-all-nba-team"
  },
+ "0xb0ba2ca9912e0c36be8db591895c37326a5e976e1ff2a62bcd02e60bce9de544": {
+  "created_at": "2026-10-15T18:02:18.538149Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "a6db5119a827088cd64929609849193c1fbf0f7b82338097e42af2253bca9273",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-away-3pt5"
+ },
  "0xb179e18098d68f3b2b1f81c5cfb1220fb4ccdd4fc25efe3b959bb79420761644": {
   "created_at": "2026-11-02T01:07:26.990769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democrats sweep the House and Senate and the US-Iran ceasefire not hold through 2027?",
   "revisions": 1,
   "sha256": "64926afdfb7e2f8ca35b7ddf0a80de14743ca065ebb77c2c171435c582d05ac8",
@@ -1077,10 +1155,20 @@
   "created_at": "2026-08-10T23:55:59.780546Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Brock Bowers have 5.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "8899d62ce54c3f0b363eb72299962c409148a97349b4b131bd2897400a3c8659",
   "slug": "brock-bowers-5pt5-receiving-touchdowns-2026-27"
+ },
+ "0xc147439f727a2cc20f8263317c7aae06bb3bd56c1e6dbc3c319c60ef3cb37a44": {
+  "created_at": "2026-11-04T17:37:53.451832Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will DENDELE Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-dendele-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0xc167a7967ffbc3b1a864ffbaf11fa1c9fd6904877692a5ba25e3e7f3d01ed644": {
   "created_at": "2026-06-03T20:57:27.390317Z",
@@ -1392,10 +1480,20 @@
   "created_at": "2026-10-08T22:00:13.607576Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Vanhouter vs. Balaz end before Round 3?",
   "revisions": 1,
   "sha256": "3d68495badc73f1912677ddbb6627f0d2538ba0055c6418a4647c7230c7a34ae",
   "slug": "zuffa-vanho-balaz-2026-11-07-ends-before-round-3"
+ },
+ "0xf134f2851e8a0ff3e90c46da7d81abb4b5894f9bbeae8492b9a330196f247544": {
+  "created_at": "2026-10-15T17:02:03.76709Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Minera win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "e28e1150ec8b999eae667b65af334794273f5b93b4ac46edfe97ee43e3425165",
+  "slug": "cdr-cd17-car-2026-10-28-cd17"
  },
  "0xf35733dcac738a7b27f8f64a462664958f6a9a93d16c0b798cb4cfe1cf8b5244": {
   "created_at": "2026-08-24T16:35:40.861475Z",

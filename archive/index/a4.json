@@ -39,6 +39,7 @@
   "created_at": "2026-08-26T08:45:18.640783Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "bd7769fec925c789b4cd7ef18c2c80af42c7de57bd7d72f2b78d282348f4ac22",
@@ -216,6 +217,15 @@
   "sha256": "f692ef8dacff6bf0bb75af37b44762982ff021d8b6883deadc6e97be2709ba9f",
   "slug": "will-the-denver-broncos-win-more-than-9pt5-games-in-the-2026-nfl-regular-season"
  },
+ "0x296ad2a39c7c60e6f9ff08b5dede1f012302e8da01a3a1647747a29568e096a4": {
+  "created_at": "2026-10-25T10:15:22.705195Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "d74cad6e1d8784df8293357c82d06d201ec930c5c432bce2ad0d12725c5c92ec",
+  "slug": "gtm-mun-aur-2026-11-07-first-to-score-neither"
+ },
  "0x29a98defcd799b7802e660dfefb915ea6b4df1c5020959705bab64d367e22ea4": {
   "created_at": "2026-08-26T21:46:13.414152Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -310,6 +320,7 @@
   "created_at": "2026-08-31T18:17:55.566211Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jan Va\u0161\u00ed\u0159 be the next Mayor of Olomouc?",
   "revisions": 1,
   "sha256": "7281809af5844bfd3378ddb1858b3c2ef39b80ab36da07ff4d846bec8a535f99",
@@ -373,6 +384,7 @@
   "created_at": "2026-09-17T15:54:12.416798Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "US x Iran ceasefire continues through October 31?",
   "revisions": 1,
   "sha256": "6241ff11d320d9cc6bff3df70c1d1690e213559f8d9952a23ca3f016c2dc6932",
@@ -400,6 +412,7 @@
   "created_at": "2026-08-26T21:46:54.707413Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will St. Louis City SC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -504,6 +517,15 @@
   "sha256": "6498ed0fdc44b8a4a7ad636e2e9fe5cbc9859c44e07368e3c9ff5b7a2a9b014a",
   "slug": "will-voter-turnout-be-84-or-higher-in-the-2026-new-zealand-general-election"
  },
+ "0x52b8f89d243af4072f46b53330889ec2aefea5b30feb0921fa75ca892ce01ea4": {
+  "created_at": "2026-10-15T18:02:39.055848Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete O/U 4.5",
+  "revisions": 1,
+  "sha256": "627e6836118ce53430ed3bea065b94074baa96c192486a7596c8ce9adc2d7f50",
+  "slug": "cdr-por-iru-2026-10-28-team-total-home-4pt5"
+ },
  "0x533c11feb787e1a7dca4598a07f38f48a8ee454ba792679621df20a0831707a4": {
   "created_at": "2026-08-28T19:59:44.530459Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -512,6 +534,24 @@
   "revisions": 1,
   "sha256": "5746ebc8b621544b6da91302f1f3469aec10c88d6bcb1a4df8d96cec7360cad1",
   "slug": "will-wisconsin-win-the-2027-ncaa-mens-basketball-national-championship"
+ },
+ "0x551e9ed175ebf6292bac280de6bb42882494aefbb51d5261fe0fe656bd46c9a4": {
+  "created_at": "2026-10-15T18:02:37.047511Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 7.5",
+  "revisions": 1,
+  "sha256": "20c0ccc267e90cda671431d97842e498dac9e9f2b25b2699745cfece61f6a524",
+  "slug": "cdr-por-iru-2026-10-28-total-7pt5"
+ },
+ "0x55f3093847f3dfb21d09b0b41e45e1a1c94145f623f56af2edc6b6f7ba9b26a4": {
+  "created_at": "2026-10-15T17:01:22.90077Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "RCD Mallorca to score first vs. CD Alcoyano?",
+  "revisions": 1,
+  "sha256": "055e6a0e1255934a57fd2ada889dba7f95c8c5a42d7070a177283c21f9173e8b",
+  "slug": "cdr-ca-mal1-2026-10-28-first-to-score-away"
  },
  "0x5a0e4ff1801ea0d846df1d6e29cb485a9ed48b87f4b57fb7694fad52f7d8c6a4": {
   "created_at": "2026-08-07T20:17:38.169509Z",
@@ -575,6 +615,15 @@
   "revisions": 1,
   "sha256": "6e407418e46c8cb875fb5897335b3394c0b4bf0645705def74e1b1b25457edf5",
   "slug": "will-minnesota-lynx-win-the-2027-wnba-finals"
+ },
+ "0x61486e63942cd5dec6ba9f9470965a7d15a4e5c87b28bc55c300e6c87bdd03a4": {
+  "created_at": "2026-11-06T22:58:32.9412Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marco Rubio be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-marco-rubio-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x61d843e06e7027d55c7b4625503a6356c3e34eb40ea11bb99c7d105c0da796a4": {
   "created_at": "2026-08-21T17:35:28.318951Z",
@@ -662,10 +711,20 @@
   "created_at": "2026-09-30T22:23:07.155348Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Israel x Lebanon Effective Ceasefire by October 31?",
   "revisions": 1,
   "sha256": "c871e8de25f8c46aff8878de0e7770193556dc10a27b445ca3ff150367a9a9e3",
   "slug": "israel-x-lebanon-effective-ceasefire-by-october-31"
+ },
+ "0x71c07b8b257d901683e1939c8cc60dfb0a9c7d9de02193cd90f352208db9b1a4": {
+  "created_at": "2026-10-15T18:01:48.993111Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "31f5ae9c6b1caea374425a18d962c313fefd99dff4c14d95b8139215b2cb6c6f",
+  "slug": "cdr-bad-cdt-2026-10-28-btts"
  },
  "0x7263c9b168812ddd53e7ba9a8d729384db7143f1232abca90dc97cbb5af8c3a4": {
   "created_at": "2026-09-04T19:52:09.277999Z",
@@ -844,6 +903,7 @@
   "created_at": "2026-10-03T19:00:27.232195Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 1 - 1 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -992,6 +1052,15 @@
   "revisions": 1,
   "sha256": "1c006c42481bec52cca445da9f2da356da411eca44f7e1513505d938e8f983eb",
   "slug": "will-juan-brunetta-tigres-uanl-record-the-most-assists-in-the-2027-liga-mx-clausura-20260729194614826"
+ },
+ "0xb1312e43c3deda129a2d53b77ad8f5ceb65808e21e4c1985030f33c0f9f44aa4": {
+  "created_at": "2026-10-25T10:45:19.583414Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 2.5",
+  "revisions": 1,
+  "sha256": "fd526d5db319a2352e2bfb7a423f3beb9f52377101e359b6ee4bda43c8630ec9",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-2pt5"
  },
  "0xb1f37e73c06294a81686341b40aa4d0f3faeb7871e7b4b1200b53da3d8bad8a4": {
   "created_at": "2026-08-24T16:40:35.003052Z",
@@ -1437,6 +1506,15 @@
   "sha256": "f692ef8dacff6bf0bb75af37b44762982ff021d8b6883deadc6e97be2709ba9f",
   "slug": "will-the-kansas-city-chiefs-win-more-than-10pt5-games-in-the-2026-nfl-regular-season"
  },
+ "0xf2b4439e50cb0226aff8099c51a187f6defeb0e94d5995b7b2802e46708e85a4": {
+  "created_at": "2026-10-15T18:01:53.702184Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "02b70f8b5dca758669823beccfe8e1f27286b3d5a143deead5c5de47aca2b798",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-away-2pt5"
+ },
  "0xf3df71a1be590b07b71ec3e00ce793a2bf3d07fa0c5ce1c2b6c1c3bc84d907a4": {
   "created_at": "2026-11-01T15:01:16.49813Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1513,6 +1591,7 @@
   "created_at": "2026-08-24T16:38:35.865909Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Palestino finish 3rd in the 2026 Chile Primera?",
   "revisions": 1,
   "sha256": "69effe3c8f0d8fc16486ffec413b846ee25c203b7bcec9feb8161f11ce3751d2",

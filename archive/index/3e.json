@@ -3,6 +3,7 @@
   "created_at": "2026-08-12T00:15:38.325591Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Defensa y Justicia win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -112,6 +113,7 @@
   "created_at": "2026-11-02T01:06:44.159227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and the US government take a stake in OpenAI or Anthropic by the end of 2027?",
   "revisions": 1,
   "sha256": "985794153a7ddebd7b11766a5c17a0704266ae0a44c57117993a88a791f3da15",
@@ -324,6 +326,15 @@
   "sha256": "9e39147f5ce5721c38f995945230c3928b10ab118be74f1709a9d90dd82f043a",
   "slug": "will-tampa-bay-buccaneers-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414230"
  },
+ "0x3fb94156b40c8bf504c4b41035bd575783aade7cdff2486562fd2792c276933e": {
+  "created_at": "2026-10-15T17:02:07.001281Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-any-other"
+ },
  "0x427caabb481da82dcd84c3bccf6216d633be0fa0a2fc5c883b4116b673b9493e": {
   "created_at": "2026-01-28T15:34:38.807258Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -365,10 +376,20 @@
   "created_at": "2026-08-24T16:33:21.627772Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Helsingborgs IF be promoted to Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "94e1a6f7540850de3ee55b5cabc282e35005267d170ec576f9d6bbbeb4cf9513",
   "slug": "will-helsingborgs-if-be-promoted-to-allsvenskan-sweden-2026"
+ },
+ "0x4be5b86e1a519e251b49c7fe66a4ac2892abbc1b3b361e141d5803e0427db13e": {
+  "created_at": "2026-10-15T17:02:06.128673Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 3 - 2 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-3-2"
  },
  "0x4ec5da16531085a4edfe7d614a2c7a60d5143c34857342315513d5eb5f33973e": {
   "created_at": "2026-09-14T20:34:11.6282Z",
@@ -401,6 +422,7 @@
   "created_at": "2026-08-12T16:51:48.795543Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Mart\u00edn Gerardo Olivares Chanduv\u00ed win the next Piura mayoral elections?",
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
@@ -424,6 +446,24 @@
   "sha256": "f498c10c62275839eeeffb5a2a276b2e578e0589b219bbca597a7ea61488926f",
   "slug": "dan-jpt-sullivan-charged-by-january-31"
  },
+ "0x54ebb82462c6ed89139f2995200a5196a502f1ab7ba52620592d2255bfd2fa3e": {
+  "created_at": "2026-11-10T02:45:37.509354Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Lionel Messi attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-lionel-messi-attend-super-bowl-lxi"
+ },
+ "0x59130a178e803ede482d9ad17125cde6b17579233e24bbc7ad813dae47717f3e": {
+  "created_at": "2026-11-10T02:45:19.779037Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Ariana Grande sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-ariana-grande-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x5c1ca64f372a0b36304ead231d81cc4bbbdbb153d21ac5f9a3c219928141233e": {
   "created_at": "2026-10-15T13:14:23.652075Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -446,6 +486,7 @@
   "created_at": "2026-02-18T17:10:58.424631Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Hugo Cuypers win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -851,6 +892,7 @@
   "created_at": "2026-08-12T17:30:31.516569Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Hartford Athletic be runner-up in the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "30bf7340fe7a1a7712b6b573d3c17935f357061bf3657e4733c348e2f4213d33",
@@ -977,6 +1019,7 @@
   "created_at": "2026-08-12T17:31:08.704886Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Angel City FC be runner-up in the 2026 NWSL?",
   "revisions": 1,
   "sha256": "af90e7dd070dd115d47ca39081e4de865a3ae1d09329abe648852ed1dc0c1d58",
@@ -1082,6 +1125,15 @@
   "sha256": "a640afca47232a58cfb93528d9cd90faa07fe828bf27eb3027f8cc625aee6a80",
   "slug": "ostium-fdv-above-500m-one-day-after-launch-834-581-767"
  },
+ "0xd54c794ee6a67b546b2b7a6831a8906b88650710603da0e7b26a09cf5da24c3e": {
+  "created_at": "2026-11-07T12:30:28.18514Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-bortoleto-2026-12-06"
+ },
  "0xd55fb4fe685eb92338cbc7bd4e2c50dae5fde3a55963f270ef7e66f2853ec13e": {
   "created_at": "2026-11-03T22:16:31.936819Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1104,6 +1156,7 @@
   "created_at": "2026-03-25T21:41:54.611669Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Jonah Tong win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -1185,6 +1238,7 @@
   "created_at": "2026-08-28T20:17:32.129077Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jaxon Smith-Njigba be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1393,6 +1447,7 @@
   "created_at": "2026-08-26T08:45:17.525178Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC O/U 1.5",
   "revisions": 1,
   "sha256": "179df12ea89af40fc28d105366fe6b101ff4bbdfb162a282e5dd2b72f72aa7da",

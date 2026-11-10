@@ -360,6 +360,15 @@
   "sha256": "406e5982512d752d8d29bbbfd79b7e581c2a6460702606c02917c93883c730b1",
   "slug": "will-esteban-ocon-win-the-2026-action-of-the-year"
  },
+ "0x426317ccc950f40a9ac9334410e2ea062bfbceb8c5c794635b08cf54b7387ae4": {
+  "created_at": "2026-10-15T17:01:34.672483Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Tenerife win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "af78f9df3aaf4aa28ceda68e4b4e17e850e6dca1670fd2d6db7cff0c2538227e",
+  "slug": "cdr-bad-cdt-2026-10-28-cdt"
+ },
  "0x44d83b4a05ad2a8b876d5e9f4a57f23f77b07c5ed07cd4b3327ec5b47f1870e4": {
   "created_at": "2026-09-04T19:06:40.117709Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -544,6 +553,7 @@
   "created_at": "2026-10-08T22:00:11.868727Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bentley vs. Jr. end before Round 10?",
   "revisions": 1,
   "sha256": "67b5cd11c58070d50328175fe9dea8cb6baf471de029cbe90ead38d2a381acc4",
@@ -566,6 +576,15 @@
   "revisions": 1,
   "sha256": "675857a592e91637acc04fbd558af401d50393e45023d163a6831f9b7920499a",
   "slug": "will-pvem-win-the-most-seats-in-the-2027-hidalgo-congress-election"
+ },
+ "0x721f1afa51a1966c060751bebbe79b7082dc14c38162fe7e2f6acfd7a46a8ce4": {
+  "created_at": "2026-11-07T12:30:48.081524Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-lewis-hamilton-2026-12-04"
  },
  "0x722b5e17da37f871937f483c694851ad9a6a1893bbec72f7d641d1e4db3006e4": {
   "created_at": "2026-08-05T18:49:26.03147Z",
@@ -774,10 +793,20 @@
   "sha256": "a5b16d19d2c0c704ffe788361cbe877c0843febbdc4199666e65f380ca5d5717",
   "slug": "ashton-jeanty-1174pt5-rushing-yards-2026-27"
  },
+ "0x93a9f86fc9591a4002bffaaf2639bdf8e6928b9597f52c3543d5c0b5e96751e4": {
+  "created_at": "2026-10-15T18:02:39.886901Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 3.5",
+  "revisions": 1,
+  "sha256": "8c87556a8a4cddde558f6bfc685625ac38e75ecab71e7f62d2f66cad882252b6",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-3pt5"
+ },
  "0x94db2f147d69aea4636f8fe5a2bb3c10250ccc0b4f0bcd051893d5779eb804e4": {
   "created_at": "2026-09-29T00:12:20.0326Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in another Middle East/North Africa country by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -877,6 +906,7 @@
   "created_at": "2026-07-31T21:39:57.415481Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Bank of England increases interest rates by 25 bps after November 2026 meeting?",
   "revisions": 1,
   "sha256": "1894df47803f3fa3cb89bc6b0b437a94a0ea497a3d38d7e88aa34220121f7599",
@@ -958,6 +988,7 @@
   "created_at": "2026-02-18T17:11:11.888869Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Germ\u00e1n Berterame win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -999,6 +1030,15 @@
   "sha256": "719a5aae1ce500ebfd049ad6ecb5dedb4746015aeb86b315efd1745deaa8813b",
   "slug": "devonta-smith-1500-scrimmage-yards-2026-27"
  },
+ "0xbc2af47917821a762e7eb7c3c206bfd5def49b3c4d29190dd9f37518f04fabe4": {
+  "created_at": "2026-11-04T17:37:41.702269Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Falcons Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-falcons-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0xbda2b7ec54e1ee9c4841a98d08d6def2ff71a17b42a8022d0ccab8e9ecba2ae4": {
   "created_at": "2026-10-09T16:29:57.722691Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1039,6 +1079,7 @@
   "created_at": "2026-10-24T04:00:03.198799Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Elon Musk post 140-159 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1106,6 +1147,15 @@
   "revisions": 1,
   "sha256": "6b360b86258f7f49d4887b487fee9bc416236946f32ddbbe23d58408f114bacd",
   "slug": "will-nd-mura-finish-3rd-in-slovenian-prvaliga-2026-27"
+ },
+ "0xd1d37569d574de9c1ceae4cf0b4f4ec7dcc96dfe0b0bfc4c3e56fcda7831cde4": {
+  "created_at": "2026-11-06T22:58:39.707601Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jamieson Greer be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-jamieson-greer-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xd1d4964e05bc5a9109d7d68def7258dbc06828463904fe7764831f52ad7a24e4": {
   "created_at": "2026-09-20T09:46:52.843484Z",
@@ -1197,6 +1247,15 @@
   "revisions": 1,
   "sha256": "c06578fc1fa851cb1ea5d98f8b1ac00f55ac0d69d2d70c8682f96857beadd35f",
   "slug": "drake-london-9pt5-receiving-touchdowns-2026-27"
+ },
+ "0xe732a4eafbe828f57e59697721a07d913b263200a9262ebdd6ce3156494b9be4": {
+  "created_at": "2026-11-10T02:40:47.84339Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Izzo (H.O.V.A.)\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-izzo-hova-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xea325a8fc6af70291f10ed78148cb9e50c4278b16315c77d661a6a603bd690e4": {
   "created_at": "2026-10-13T19:55:55.291363Z",

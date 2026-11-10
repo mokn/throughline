@@ -1,0 +1,17 @@
+A presidential election is scheduled to take place in France on April 18, 2027.
+
+This market will resolve according to the percentage of valid votes received by Marine Le Pen in the first round of this election.
+
+The percentage of valid votes received by the specified candidate will be determined by dividing the total number of valid votes the candidate receives in the first round by the sum of all valid votes cast in the first round.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+If the specified candidate does not appear on the ballot in the first round, or otherwise receives no valid votes, this market will resolve to the lowest range bracket.
+
+This market will resolve based on the official vote count.
+
+If a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.
+
+If the result of this election isn't known definitively by December 31, 2027, 11:59 PM ET, this market will resolve to the lowest range bracket.
+
+This market will resolve based on the result of the election, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the French Government, specifically the Ministry of the Interior (https://www.interieur.gouv.fr/).

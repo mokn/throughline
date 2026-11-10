@@ -49,6 +49,7 @@
   "created_at": "2026-09-20T08:45:06.382101Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: Luton Town FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "1e104762606d9156808303b83e1a2dbfaef9d213721be28a7800ce164fe5fe43",
@@ -139,6 +140,7 @@
   "created_at": "2026-02-18T23:01:08.943103Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Gavin Williams win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -175,6 +177,7 @@
   "created_at": "2026-08-24T16:37:58.215021Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Crici\u00fama finish 3rd in the 2026 Brazil S\u00e9rie B?",
   "revisions": 1,
   "sha256": "6e0ae26a06862d3adea7b58ebd2995048192772870f6561bacc4ebb153a2390c",
@@ -193,6 +196,7 @@
   "created_at": "2026-09-10T18:14:30.430787Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Republican Party control the Minnesota Senate after the 2026 Midterm elections?",
   "revisions": 1,
   "sha256": "9b2b5648dfbdf4bdc2b13a61c8ca0f42e1b207cb4d099be1f3b4697e10c2e3e1",
@@ -520,6 +524,7 @@
   "created_at": "2026-09-14T20:34:48.160427Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Anna Leigh Waters win exactly one Triple Crown in the 2026-27 PPA Tour season?",
   "revisions": 1,
   "sha256": "c35a4f048bb74e1a06d74fc89a0dcb25742ed6263ef7ffe581000929f43e9941",
@@ -691,6 +696,7 @@
   "created_at": "2026-01-28T15:40:50.600072Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the TX-22 House seat?",
   "revisions": 1,
   "sha256": "0d1d62bca415695a149fbce26cfc96aceec70ae099a7c0f6a0468f610c7fe479",
@@ -704,6 +710,15 @@
   "revisions": 1,
   "sha256": "fcce71771dcfcc759db4b2c14d91bf84e4e18e1799ab60ba5c7dcf83a29353ea",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-08-house-election-by-15-20"
+ },
+ "0x6b0d8ed1f588b7ea3f6e55d799bf818431751c1dc6f015c18e3c62174978f756": {
+  "created_at": "2026-11-09T16:15:31.112188Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Jensen Huang divorce by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "a041fa2fe53489c30f061862214207f8397364460ba98d18b290a3f066b3b3f7",
+  "slug": "jensen-huang-divorce-by-march-31-2027"
  },
  "0x6c19fb724f2ea7cb3c00d79b396238bbe25ac228e394f5a7e1c7e116eac1ad56": {
   "created_at": "2026-05-19T05:15:59.427423Z",
@@ -745,6 +760,7 @@
   "created_at": "2026-02-18T17:11:12.930385Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Cheikh Sabaly win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -795,6 +811,15 @@
   "sha256": "1d4a17a06c3618f6849e87bd81c896829a996320afda54ba8f5fd5111c11ca10",
   "slug": "will-the-republican-party-candidate-win-the-2026-ky-05-house-election-by-45-50"
  },
+ "0x7e76739de262c491dfc38acfbdb692eeeb6fd8bd940fdf6775cd5a8b9484a556": {
+  "created_at": "2026-11-10T02:27:02.827263Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be at least $200M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-at-least-200m-by-december-15-20261108"
+ },
  "0x7eac4b4ebe0291583f0381a001f83a6c52ba54f5f069d1bb62fd429758415656": {
   "created_at": "2026-09-08T16:52:40.443159Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -835,6 +860,7 @@
   "created_at": "2026-08-28T20:17:33.089957Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will CeeDee Lamb be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -945,6 +971,7 @@
   "created_at": "2026-08-26T08:44:17.841685Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Total Corners Odd or Even?",
   "revisions": 1,
   "sha256": "65e4af794910e2a4b4e7cbd72ab18c613681f594365c41b12ac50e596aad5776",
@@ -954,10 +981,20 @@
   "created_at": "2026-08-28T20:17:39.006556Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Carnell Tate be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
   "slug": "carnell-tate-first-to-1000-receiving-yards-2026-27"
+ },
+ "0x944efc4b798bae8b9a94160ac5766c9ed97c1cf697f427f4bcf19aeffba1f456": {
+  "created_at": "2026-11-07T12:30:35.538794Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Aston Martin achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-aston-martin-2026-12-06"
  },
  "0x96a68620f4788fc5b54ea5d8149345198b7587977ef20a2b46e44d721fbc5a56": {
   "created_at": "2026-10-30T00:20:22.05274Z",
@@ -1081,10 +1118,20 @@
   "created_at": "2026-10-03T19:00:27.76088Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 4 - 0 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
   "slug": "cze1-art-bop-2026-10-17-exact-score-4-0"
+ },
+ "0xaa0637fb57d730b25d610fde3d4fbc85ff2b884257c066868d249a536354a356": {
+  "created_at": "2026-11-10T02:45:48.065646Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kanye West attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-kanye-west-attend-super-bowl-lxi"
  },
  "0xab86efc20a30069577b6e614a88ed79b013b124ed79b084d302fc75ac3104e56": {
   "created_at": "2026-09-20T09:44:57.019781Z",
@@ -1139,6 +1186,15 @@
   "revisions": 1,
   "sha256": "ab070f9edbc6770f2f897c855b465fdf959964e6a752d252937c8ffc3e6e5afa",
   "slug": "will-radomir-saicic-win-the-next-serbia-presidential-election-20260629192336840"
+ },
+ "0xb3b54b6e59a9f34dfc7fd7608be730c046bd280e078ad6770e2a90ceca02dd56": {
+  "created_at": "2026-10-15T17:02:02.722005Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis to score first vs. Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "f4bd3ededabc57991dafdc63319713c44ea9450182b4d41fcd7ecbfdfede30ee",
+  "slug": "cdr-red-bar-2026-10-28-first-to-score-home"
  },
  "0xb4b73fad181afe8bce36e741bff0979694b0d68491243b2700931fe331004456": {
   "created_at": "2026-01-28T15:42:15.518661Z",
@@ -1249,6 +1305,15 @@
   "sha256": "85e66442d11be888b4802bd76c191900aea8b552e1292202372cba7c5b328883",
   "slug": "how-many-tesla-deliveries-in-q4-2026-450k-to-475k"
  },
+ "0xc5a702becbd4a6113c77a4d962dd99eddbf96c2b4eebd99811efb400f7107456": {
+  "created_at": "2026-10-15T17:02:02.770451Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Barakaldo CF to score first vs. Reus FC Reddis?",
+  "revisions": 1,
+  "sha256": "f4bd3ededabc57991dafdc63319713c44ea9450182b4d41fcd7ecbfdfede30ee",
+  "slug": "cdr-red-bar-2026-10-28-first-to-score-away"
+ },
  "0xcbb99ffa85e7000f6cf5c544d2b308640d163e147b0c493e52c8ab52bc625856": {
   "created_at": "2025-12-29T19:08:23.97152Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1262,6 +1327,7 @@
   "created_at": "2026-02-18T23:01:13.320878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Sean Burke win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -1527,6 +1593,15 @@
   "revisions": 1,
   "sha256": "540746eb3bbcf2274d88fd38246909ea5285b689f857edb0f9193782d5e8b1eb",
   "slug": "spl-riy-hil-2026-10-16-total-3pt5"
+ },
+ "0xee0857c48194edfa85de62058e13d0684eb10c6bd374cbef16f00c34eb926256": {
+  "created_at": "2026-11-07T00:05:03.703256Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Homat Torat Yisrael support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-homat-torat-yisrael-support-the-new-israeli-government-in-the-vote-of-confidence-20261104180003"
  },
  "0xee126ccb19e1b989633254731df0c77b01f984327531d3e9f54bb0ea9d7d7356": {
   "created_at": "2026-10-15T13:22:22.830372Z",

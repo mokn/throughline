@@ -48,6 +48,7 @@
   "created_at": "2026-08-12T00:19:03.511728Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Union Omaha win the 2026 USL League One?",
   "revisions": 1,
   "sha256": "9a3d2ef2bf6cdadb4d1edff83ef5eba1d2853f63d3e5e4835ddebd3cfde9f868",
@@ -75,6 +76,7 @@
   "created_at": "2026-09-04T00:19:51.65556Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Fernando Mendoza be named the Raiders' starting QB by Week 9?",
   "revisions": 1,
   "sha256": "3b29b1e2feeddf05b8707d5bb16e382447fb68df4108224669650f9c8390fa36",
@@ -156,6 +158,7 @@
   "created_at": "2026-07-30T19:46:19.214305Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will voters pick the Colt M1911 .45 automatic Colt pistol (.45 ACP) as the state gun of Idaho?",
   "revisions": 1,
   "sha256": "32c13a11589d2c4fbab1628201cac820bbea6df03df2fffeae39a34f6bc6fb4c",
@@ -350,6 +353,15 @@
   "sha256": "145619c7c35c6ef78043a2c197f71e502c69548429e3ba9ab85c8a1cc3955343",
   "slug": "el2-wal-cra-2026-10-03-halftime-result-draw"
  },
+ "0x24eaf5243f5d99bb094849769065d90bfd931d67009be81456b744d20fa874a0": {
+  "created_at": "2026-10-15T18:01:48.321909Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 5.5",
+  "revisions": 1,
+  "sha256": "f532c27aa040fce3067d173e4d5516d735ba572cb871f7a75e846d4e04fd1b5e",
+  "slug": "cdr-bad-cdt-2026-10-28-total-5pt5"
+ },
  "0x250889060b06206331c8590a97ae88b37709d92fc2885cb2f01ea19e4fd415a0": {
   "created_at": "2026-09-02T21:51:34.021284Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -439,6 +451,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-dyson-daniels"
+ },
+ "0x399717a2b06ccfb982691b4dbb3a2af363f04f8dbbec3bb7a5f884406db7a4a0": {
+  "created_at": "2026-11-09T21:18:02.991705Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Paper Rex Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-paper-rex-win-an-international-event-in-2027"
  },
  "0x39d246013d021d78cdfa4ec3289cb9f0db4f2f2389119b6915d972b4edd77da0": {
   "created_at": "2026-10-13T15:48:40.016023Z",
@@ -710,6 +731,15 @@
   "sha256": "56973e261ba5523cb4004106ca2b0a63d537ac2eb516df4a769889220f042354",
   "slug": "shapiros-democratic-nomination-odds-hit-8-by-december-31"
  },
+ "0x613fd4568faddb1b73e9f819d3df65d0052148ddb26f0fcca35e421a22eeb1a0": {
+  "created_at": "2026-11-07T12:30:04.398453Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-ocon-2026-12-06"
+ },
  "0x6276a588314065fff2a66eefbb6fda2a9c9bbda492ca2dd6c10fac7e8f28f2a0": {
   "created_at": "2026-10-13T15:57:38.802295Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -728,6 +758,15 @@
   "revisions": 1,
   "sha256": "5a54633f86c7021f72923609f5ec14dccd84e4a51e5bdb3032485143355e01a2",
   "slug": "will-the-democratic-party-win-the-il-01-house-seat"
+ },
+ "0x66daed62b7dfebae91511a47e7bf173977933c83833704471346229236f3a4a0": {
+  "created_at": "2026-11-06T22:34:21.651652Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon receive between 21% and 24% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "91e62f7634e9da6fbdf0ef28c7e147275d06ebba136dfd5478b7cd5dc2e5b455",
+  "slug": "france-first-round-vote-share-jean-luc-melenchon-21-24"
  },
  "0x684c776026b4f8039e96b4e99eccc0db43d136525fdec61fe899850b03f393a0": {
   "created_at": "2026-08-24T16:32:45.889189Z",
@@ -800,6 +839,15 @@
   "revisions": 1,
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
   "slug": "f1-las-vegas-grand-prix-driver-pole-position-ocon-2026-11-20"
+ },
+ "0x789d94a4373305836ed47a2e312926a4a07c8562416eeed7f4af23ce52d0b8a0": {
+  "created_at": "2026-10-15T17:01:04.773415Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 3 - 3 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-3-3"
  },
  "0x7a4ddd066c01025c1f97739238a872546c73ac4a32f75f8045f526a8eb27d1a0": {
   "created_at": "2026-01-12T17:31:28.94748Z",
@@ -919,6 +967,15 @@
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
   "slug": "will-bayern-munich-finish-first-in-the-2026-27-ucl-league-phase"
  },
+ "0x8f975cc6790c09c1aa48e1534528ddf1f7edcc08474c693d8192bd884feee9a0": {
+  "created_at": "2026-11-07T12:30:15.686191Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-bortoleto-2026-12-05"
+ },
  "0x92be6d39b001a10a10b487018774ead120e6c315d98145b43ee9399d9a66b6a0": {
   "created_at": "2026-08-19T21:59:03.755623Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -950,10 +1007,20 @@
   "created_at": "2026-08-12T16:51:44.410189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will F\u00e9lix Orlando Gamarra Reyes win the next Chiclayo mayoral elections?",
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
   "slug": "will-felix-orlando-gamarra-reyes-win-the-next-chiclayo-mayoral-elections-20260811165718006"
+ },
+ "0x9713d33c77797a51e849f3734cee080e3b051227b60cae9fefc88e246a3bb0a0": {
+  "created_at": "2026-10-15T17:02:01.524098Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 3 - 4 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-3-4"
  },
  "0x975e97d500a9d547790d21069f65a6235386729d1ca5e71935386c11795f3da0": {
   "created_at": "2026-10-13T15:51:23.562421Z",
@@ -1131,6 +1198,7 @@
   "created_at": "2026-10-10T11:30:30.480697Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Franco Colapinto achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -1176,6 +1244,7 @@
   "created_at": "2026-08-28T20:17:41.000925Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Chris Godwin be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1262,6 +1331,15 @@
   "revisions": 1,
   "sha256": "09abf1953f61d59c46575d7d15eada17da4f9e181b8e61ea309ecec79dd08a8d",
   "slug": "will-the-republican-party-win-the-mt-02-house-seat"
+ },
+ "0xce4679706e8d5f1ee7c1c9a204c6ca5f6fcefff0b28a10a6499373040e8617a0": {
+  "created_at": "2026-10-15T18:01:09.259331Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "e20fd8f953fef5451a36882dedc1bf1fbf7dd82293db95e724c4e165a6a63e06",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-home-0pt5"
  },
  "0xd0af199df783c0a46c4f66df09e77c24add986d02a477ae66724fe8800a315a0": {
   "created_at": "2026-08-10T15:05:36.69275Z",
@@ -1416,6 +1494,15 @@
   "sha256": "c4248034b599587338c202a04c30e9f368a17db12fb154ff853036bd36440a74",
   "slug": "will-angers-finish-3rd-in-ligue-1-2026-27"
  },
+ "0xe53868b94f61e68303f70182d3ebeb21d2e59a3dd973b33cef2c0d5e218659a0": {
+  "created_at": "2026-10-15T17:01:36.6419Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 2 - 0 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-2-0"
+ },
  "0xe9c4206d0326dd0ce452c07c2d630b04801e83496c5e6a3b08c810fcaffb4aa0": {
   "created_at": "2026-09-13T08:15:33.763277Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1451,6 +1538,15 @@
   "revisions": 1,
   "sha256": "b10f9c046df855d519ea31f91eac28e01f2bc6529f4fb5c614193bdcf551745a",
   "slug": "will-yossi-cohen-be-the-next-israeli-minister-of-foreign-affairs"
+ },
+ "0xf073ebbeabd83ef5424fc7352b2372221baf19f50d6085c6eb1e1197096520a0": {
+  "created_at": "2026-11-10T03:01:12.313881Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Aperture (Harry Styles) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-aperture-harry-styles-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xf6001d0bcd6d0cf13bced322f3dac640a33119acdaff36577f70dbceaacb6da0": {
   "created_at": "2026-09-09T22:10:19.886246Z",
@@ -1510,6 +1606,7 @@
   "created_at": "2026-07-31T21:39:57.624149Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Bank of England increases interest rates by 50+ bps after November 2026 meeting?",
   "revisions": 1,
   "sha256": "1894df47803f3fa3cb89bc6b0b437a94a0ea497a3d38d7e88aa34220121f7599",

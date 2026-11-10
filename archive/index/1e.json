@@ -30,6 +30,7 @@
   "created_at": "2026-08-10T20:08:57.137351Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Bj\u00f6rn Asserhed be the next Regional Board Chair of Region \u00d6sterg\u00f6tland?",
   "revisions": 1,
   "sha256": "1d51b59e70c38fb0d8f6e3d6dac2b5119d465d2203d5a34d41a2637edee7e2b4",
@@ -161,6 +162,15 @@
   "sha256": "46665c8bf3453487236ef10475fd29bc3d56b238bbaa77363276c66b5bb22066",
   "slug": "tuyo-fdv-above-1pt5b-one-day-after-launch"
  },
+ "0x12172838c5fb3d75e48d74d7cf7f874099a1d98ca437ed60167c84ed81d7991e": {
+  "created_at": "2026-11-07T12:31:05.506868Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alexander Albon achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-alexander-albon-2026-12-05"
+ },
  "0x131c8b3250a1008f4039fd9aed1945b3f681fabbc81cb516fbc0cf2224ffc91e": {
   "created_at": "2026-07-15T00:39:54.775999Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -282,6 +292,7 @@
   "created_at": "2026-10-10T11:30:14.576265Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Williams get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "7ea8f93fa1a54e6036981326164be1cc7c9b93909384958de042d23e59d78a7b",
@@ -309,6 +320,7 @@
   "created_at": "2026-08-04T22:28:55.162987Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Bank of Brazil increase the target for the Selic rate by 25 bps at the November meeting?",
   "revisions": 1,
   "sha256": "7b46465ab829afba59698f1d60c7d20c52487066065d76a5a6d59c8e2ed60ea6",
@@ -327,6 +339,7 @@
   "created_at": "2026-10-10T11:30:46.238426Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Arvid Lindblad finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -395,6 +408,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-lauri-markkanen"
  },
+ "0x3aaf0a01111513e2b65c96ea05a7ffc97a93f6db7790cd7c42c21b215c2a181e": {
+  "created_at": "2026-10-15T18:01:49.350462Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "0c413a16db7b2a612738ad6a8edcd78234820e73e8d89f8a9718a9cfef9e729f",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-total-0pt5"
+ },
  "0x3b4e5588525b157216ef93c7149e67f937f5dd386e2d88ab68949c27a6ff751e": {
   "created_at": "2026-01-28T15:32:26.734931Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -409,6 +431,7 @@
   "created_at": "2026-08-12T17:26:15.428969Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will BK H\u00e4cken be runner-up in the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "dc7f01ad57ab4c6b74e2696ace587dfefbb5452f8e415f0a1049e696eec73978",
@@ -666,6 +689,15 @@
   "sha256": "76828c0738dbd288f4cf8879e16943dbcb7fe4794cb690ed6920a1caf38d8168",
   "slug": "will-liz-truluck-reach-the-final-of-the-2027-ppa-tour-finals"
  },
+ "0x57a1f5c2e6f714d504068359268a66709a13f85131f50c15c1c87a2a6e07a31e": {
+  "created_at": "2026-11-07T12:31:09.189694Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Valtteri Bottas achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-valtteri-bottas-2026-12-05"
+ },
  "0x58621c7828d7afa6235b94106842d54b024749f2aa6133b101cd07274cde7d1e": {
   "created_at": "2026-10-25T04:00:18.299476Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -746,6 +778,15 @@
   "revisions": 1,
   "sha256": "43284963fab8ba3063ef480110c53ddb316e727db17d36d9bfeb20cb3fbd2794",
   "slug": "will-national-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-5-10"
+ },
+ "0x5f0ec45538b192005af1a182f56443055de9740d2c9e9789615c63e1be1c131e": {
+  "created_at": "2026-10-15T17:01:05.15268Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 2 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-2"
  },
  "0x62363812c6a1ea26a7a05079129b556740dda57a170174819282d166beefea1e": {
   "created_at": "2026-08-11T19:03:41.727913Z",
@@ -868,6 +909,7 @@
   "created_at": "2026-02-18T22:47:43.456702Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Jordan Walker win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -936,6 +978,15 @@
   "sha256": "37f93c57f1db9efb572007be66be4fd145896b05120bcace8098be8070aebdcb",
   "slug": "will-the-republican-party-candidate-win-the-2026-wv-01-house-election-by-45-or-more"
  },
+ "0x73a395736feee39d31aeaec0e3b0c13bfa4606a8f141dc37a62be9416dbbd11e": {
+  "created_at": "2026-11-07T12:30:24.281601Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Aston Martin get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-aston-martin-2026-12-05"
+ },
  "0x73a681899c386d17b3780121b8eda2c88a7ef877649e18b57ccace2f6af2c51e": {
   "created_at": "2026-08-12T00:10:41.578989Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -953,6 +1004,15 @@
   "revisions": 1,
   "sha256": "3188e2637b8b05d5741b3ed47c5acc66e2d36bf6a54f5ff8c49be478c7e2088e",
   "slug": "will-trump-speak-to-mark-rutte-by-november-30-2026"
+ },
+ "0x7776d658638551ed81740f68dce2c5c19d79346e4cad998704b4f48b66a1a81e": {
+  "created_at": "2026-10-15T18:01:05.025425Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 0.5",
+  "revisions": 1,
+  "sha256": "187d3bb78072d104e3007a1cc9667040f6257caf893efff0b0b14ae430c95240",
+  "slug": "cdr-red-bar-2026-10-28-total-0pt5"
  },
  "0x79455ad0030dc12e33cbd084eefcac5816450156873f166f278f91fe6337e21e": {
   "created_at": "2026-10-10T11:30:39.483156Z",
@@ -1016,6 +1076,15 @@
   "revisions": 1,
   "sha256": "f927678d69e354a727f0be79ced2356b56d2cb88482ba96dc16b5d6425611484",
   "slug": "will-the-bank-of-canada-decrease-the-target-for-the-overnight-rate-by-50-bps-at-the-march-2027-interest-rate-announcement"
+ },
+ "0x8474a2f47c03e1e76b95be25f3cf39e760d23b42c02a44959e53cea48d790e1e": {
+  "created_at": "2026-11-06T21:50:25.584101Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Republicans win the Presidency, and the Democrats the Senate and House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-r-president-d-senate-d-house"
  },
  "0x864e3456cd499df96fa4de71203bcea7fa7e65ccb794c1a3f1988f91ce95181e": {
   "created_at": "2026-08-11T19:09:57.484258Z",
@@ -1148,6 +1217,7 @@
   "created_at": "2026-09-23T18:06:52.307537Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will FlyQuest qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1189,6 +1259,15 @@
   "revisions": 1,
   "sha256": "be41b75cd333fbd4c091eb64bd8e9ca306b2ca0e22dabfc708ce5ec1639a5f36",
   "slug": "nba-lebron-james-2026-27-regular-season-triple-doubles-4-plus"
+ },
+ "0xa0afeccf72356d88deb62e63eb21ca44949d55f9c4d0a0d7bc1ff604751caf1e": {
+  "created_at": "2026-11-10T02:14:33.908305Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Madison Huang be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "slug": "will-madison-huang-be-the-next-ceo-of-nvidia"
  },
  "0xa19f9b3f3d8c4e49a3782b722953ae718b411c7169032ec393e7e170028f0e1e": {
   "created_at": "2026-07-31T23:05:57.800751Z",
@@ -1293,6 +1372,7 @@
   "created_at": "2026-08-11T14:13:34.497846Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 11 House seats in Pennsylvania in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "d7734c9f2ef886fbbc5c40c1d477759b926cdd73451ac69b7d2fee4966739c65",
@@ -1320,10 +1400,20 @@
   "created_at": "2026-08-31T18:12:50.420347Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ivana Luc\u00e1kov\u00e1 Nes\u00e9tov\u00e1 be the next Mayor of Ostrava?",
   "revisions": 1,
   "sha256": "9257d173fce3ec1c6f014a795800d9e8a68317c05b5a0a3d0a848c355b03a089",
   "slug": "will-ivana-lucakova-nesetova-be-the-next-mayor-of-ostrava"
+ },
+ "0xb907f40d4eeb9584034260cd6e9180c8879ec16a84dff72b7eec0d27f6985e1e": {
+  "created_at": "2026-11-07T12:30:31.24734Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Arvid Lindblad achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-lindblad-2026-12-06"
  },
  "0xb97984f0cc6b1acb05f76362356939cab8e9222409f568f8033cca52f960611e": {
   "created_at": "2026-09-13T08:45:27.355791Z",
@@ -1428,6 +1518,7 @@
   "created_at": "2026-08-26T21:46:26.363989Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will SJK finish 10th in the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "2b2c6f8c377a00de5b36b261412ee04027cfa2fc44626e789ac376a9fb5a5ea1",
@@ -1446,6 +1537,7 @@
   "created_at": "2026-07-28T01:45:06.576749Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Brenda Grisham win the Oakland Mayor election?",
   "revisions": 1,
   "sha256": "3b311dade83b91908cf156de11751110d20d8a7ed281ccff46995db672100bd3",
@@ -1500,6 +1592,7 @@
   "created_at": "2026-09-23T18:06:49.059511Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Wildcard qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1536,6 +1629,7 @@
   "created_at": "2026-08-12T17:16:19.106287Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Deportivo Pereira be runner-up in the 2026-II Colombia Primera A?",
   "revisions": 1,
   "sha256": "3948e596f84fda095465e69647f4f96c0516acd8d206c58b00ed43fa48861308",
@@ -1618,6 +1712,7 @@
   "created_at": "2026-10-10T11:30:17.525075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lando Norris achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -1705,6 +1800,15 @@
   "sha256": "655ad8b9c0d0d4db5068a33f216936cb1152c75866e7845eb2e2bdc08c08e06d",
   "slug": "will-bohemians-1905-qualify-for-the-2027-28-uefa-europa-league"
  },
+ "0xe789dd22e3242edc253ab0805f9cd42d2e730e69ee8decb56f91345d49785d1e": {
+  "created_at": "2026-11-06T22:31:38.23144Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fran\u00e7ois Hollande win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-francois-hollande-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0xed26fb125ad827dc34b4d643e352559eb93daf03b9a556851fa8f04c28d8541e": {
   "created_at": "2026-10-01T23:00:11.878239Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1713,6 +1817,15 @@
   "revisions": 1,
   "sha256": "7619c5e6954d9d412e0bab9e07f5e63a8b9e87b8b8df349745ed2054a8fef976",
   "slug": "spl-ahl-nsr-2026-10-15-spread-away-2pt5"
+ },
+ "0xf0969653284ff420a42bcb4ecae7e6141e111da19fc85a7abed08f805bc0791e": {
+  "created_at": "2026-10-15T17:01:37.063943Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 2 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-2-2"
  },
  "0xf211234e3d4842b0da3aab5e0db384b866d6e96eed307afe9ed640f053a5d41e": {
   "created_at": "2026-09-23T14:07:38.521899Z",

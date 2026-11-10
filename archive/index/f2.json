@@ -116,6 +116,15 @@
   "sha256": "0fb895e407904faf7492c22d224f2bc3addf867b5073f9d473aa3fe10c5bb17d",
   "slug": "abstract-fdv-above-2pt5b-one-day-after-launch"
  },
+ "0x205c18b66da21cf5cbf6ec488ebab07143eb01b998d4af84f4e640aa1fda19f2": {
+  "created_at": "2026-10-15T18:02:15.123199Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "7bbc1847877d53d956e2a171234922e36b099faf134d49b18ce763796ed18af9",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-total-2pt5"
+ },
  "0x2096143f93a7e2a83953b992e5e52d7b0929f8d99bd5bb56e5d91c36712c32f2": {
   "created_at": "2026-09-04T19:52:34.254732Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -156,6 +165,7 @@
   "created_at": "2026-07-08T22:20:15.762435Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Florida's \"Save Our Homes from Excessive Property Taxes\" referendum pass in November 2026?",
   "revisions": 1,
   "sha256": "b56d572895f0fddf77d89e28a98aa60d954911d86435f583a6ef0b9a0396984f",
@@ -441,6 +451,15 @@
   "sha256": "40a37e0596e85f0c32359f536fb2593ce269f427fc8bb1ebe2308759484cf905",
   "slug": "will-jameson-williams-average-12pt5-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
  },
+ "0x4ba6a59d6f47eaf78cb3541ed6bda923e0c282fca28ca74b56e825fb910443f2": {
+  "created_at": "2026-11-09T21:18:13.418843Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Global Esports Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-global-esports-win-an-international-event-in-2027"
+ },
  "0x4ceb90daf4764b6cd8e4de25cdf7fc8f9b6064895a347021e94a022876d2a1f2": {
   "created_at": "2026-08-20T18:22:52.753325Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -459,6 +478,15 @@
   "sha256": "db52f6afbe07eced140e1f0ac63ff3f14842de537cc690a8246b479b8704a7e1",
   "slug": "will-the-spacex-starship-launch-from-florida-by-june-30-2027-20260617154758585"
  },
+ "0x4e9747401f0d6f51d1d78cb450291ff9218dffcbbb059e5d245a39fbddc017f2": {
+  "created_at": "2026-11-06T22:34:27.22906Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Rapha\u00ebl Glucksmann receive 16% or more of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "009c41adec7ec964ac2f6e2cbb81829cc818266c330ce69a4ba165590e3df491",
+  "slug": "france-first-round-vote-share-raphael-glucksmann-16-plus"
+ },
  "0x50ad023ddb046a23cbe6df533f58eb412c628c40d9df7f03b81cecda57979bf2": {
   "created_at": "2026-09-20T09:44:47.548572Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -476,6 +504,15 @@
   "revisions": 1,
   "sha256": "d37f9af2e5930d93b66a0e692726928b58ec913e72bbe67b4455480074763b9a",
   "slug": "will-cptjpt-stroud-finish-the-2026-27-nfl-regular-season-with-the-most-total-qbr-among-qualified-players-20260715213900193"
+ },
+ "0x549af42f1f15cc213d34333353aad96caf3045210bcc0889f262ca0fcdbde2f2": {
+  "created_at": "2026-11-06T22:31:42.283793Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will \u00c9ric Zemmour win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-eric-zemmour-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0x598873b61a00acecde0b7650aa2fb1b8983e5f19a54d97f18b245d4d828aaaf2": {
   "created_at": "2026-08-24T16:35:13.781847Z",
@@ -517,6 +554,7 @@
   "created_at": "2026-08-12T17:32:07.221823Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Col\u00f3n be runner-up in the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "535242f33d28aedce5a3e9c960a1829109af50a5cfa6cbbe1d4d68d7c0d5846f",
@@ -667,6 +705,15 @@
   "sha256": "edf665cffad448e3617d1ca47fb0529455cf1c45497311d745223579783d731f",
   "slug": "will-thinky-have-the-best-ai-model-on-livebench-overall-at-the-end-of-november-2026"
  },
+ "0x742f357cbaab5bdadd0afd93ccc6a652a117be544ee582a86c7babcf5a6d86f2": {
+  "created_at": "2026-11-07T12:30:31.654959Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-lawson-2026-12-06"
+ },
  "0x7a2483ee7a633ccf30154586118abd1614b82e1384ca6ef38263ba97a57070f2": {
   "created_at": "2026-08-04T17:49:06.507633Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -765,6 +812,15 @@
   "revisions": 1,
   "sha256": "f28b5ae481d8300b4fd040b773b8db725e90c91c52666a623a2099f49d712958",
   "slug": "will-the-ecb-announce-a-50-bps-increase-at-the-december-2026-meeting"
+ },
+ "0x843d6ab4e8eb5a12b9c9de693e822c7dfe17d9ce61d0d02f19e8f3729a64faf2": {
+  "created_at": "2026-10-15T18:01:07.313914Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "a9cf713ad53ea926e4246b002a17e5c383ea0b91ec65a2ce6d30e97aaa9f870a",
+  "slug": "cdr-red-bar-2026-10-28-first-half-total-4pt5"
  },
  "0x897c17e1ea23128d1d281d1169c1003cef46b20169a5ec61ad6c0c19443192f2": {
   "created_at": "2026-08-25T23:59:54.063115Z",
@@ -950,6 +1006,7 @@
   "created_at": "2026-08-28T20:17:37.572726Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will DK Metcalf be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1090,6 +1147,15 @@
   "sha256": "76f1c2a38451c8b774a0a46aaaba1bec32297adaae2e5e8ea355c6fb662537bb",
   "slug": "el1-ste-swe-2026-09-26-team-total-away-5pt5"
  },
+ "0xbccb5f863e57f784a2a2c170a8a30236d17e12017ca5902e54ebc474a49beef2": {
+  "created_at": "2026-10-15T18:01:49.510826Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "434f69d22fdbf9216c3eb820ec40db15f33b2ae0fa0ba25090541da22aa68714",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-total-1pt5"
+ },
  "0xbcd3bd6424a129d74dd905f061217b4c56af00618512e600c7911d8da79603f2": {
   "created_at": "2026-08-26T21:46:50.11624Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1121,6 +1187,7 @@
   "created_at": "2026-08-10T23:57:02.587203Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jahmyr Gibbs have 8.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "587fd3b24ae31e8f15d0462e89b49159d12a4b3512b581c5f78c67d325f63401",
@@ -1247,6 +1314,7 @@
   "created_at": "2026-09-20T08:45:03.999171Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: O/U 9.5 Total Corners",
   "revisions": 1,
   "sha256": "e13f80e860bee62d2065de7b421d50d725a751965abcc5a15906b6632839638c",
@@ -1315,6 +1383,15 @@
   "revisions": 1,
   "sha256": "5a59ef0260da3ea6a083fb7ed809a0e0138d9ecd0514cbe5bfa49b12cdf3436d",
   "slug": "2027-soccer-saudi-professional-league-runner-up-al-ittihad"
+ },
+ "0xe220b8b341aac2e5ba373cf45c2692fd2d8a5875735c9759a4febc7771340ff2": {
+  "created_at": "2026-11-10T02:39:24.492Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Microsoft run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-microsoft-run-an-ad-during-super-bowl-lxi"
  },
  "0xe29af21f8c8b4646f0d9b771193ab99a2a75a3ae8b360c138f8fad1acdd12cf2": {
   "created_at": "2026-01-28T15:35:40.718808Z",

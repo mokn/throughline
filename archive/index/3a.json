@@ -67,6 +67,7 @@
   "created_at": "2026-08-17T19:17:41.172649Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the peak RONI for the 2026\u201327 El Ni\u00f1o be at least 1.5 but below 2.0?",
   "revisions": 1,
   "sha256": "39ae2990ca13ee2ee1a5611b6c23232c300ba765e00b478cdf07318cdc5d3eac",
@@ -157,6 +158,7 @@
   "created_at": "2026-10-06T15:23:45.234432Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win white voters in the Texas Senate election?",
   "revisions": 1,
   "sha256": "f9e024d8cc98e394b274b29651c1d7b9621ff4efcbfade1f4c4a5e34eb87b511",
@@ -175,6 +177,7 @@
   "created_at": "2026-08-06T19:14:55.737008Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Bank of Mexico increases interest rates by 50+ bps after November 2026 meeting?",
   "revisions": 1,
   "sha256": "2cb44d0a3570e471b79923a918e732437a164bf32b7a6582eeaf55d8c0313fb8",
@@ -211,6 +214,7 @@
   "created_at": "2026-10-02T17:59:59.006587Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 3.9%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -343,6 +347,15 @@
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-gianluca-scamacca-score-the-most-goals-in-the-2026-27-uefa-conference-league"
  },
+ "0x48b8d5fbf3e145d47ac9eda0b0c02f3f4501d5d02882642ab655e11ed14d123a": {
+  "created_at": "2026-11-07T00:05:02.678401Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Degel HaTorah support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-degel-hatorah-support-the-new-israeli-government-in-the-vote-of-confidence-20261104180001"
+ },
  "0x48e2b67721830dd1a9e187827b6ec4dc8d3f41732f12ce9f44717b187001bb3a": {
   "created_at": "2026-06-26T16:49:23.48263Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -351,6 +364,15 @@
   "revisions": 1,
   "sha256": "4f332d37820451194ce6e19aa0ff665bc5422c0ef7ebdf243a28ff7d1273ade3",
   "slug": "will-maria-jesus-montero-be-the-next-prime-minister-of-spain-20260625005710097"
+ },
+ "0x4da940ddff5aad1369a3a3a0b457bc915ddf04f337f6db61437eaddde739a63a": {
+  "created_at": "2026-11-06T21:50:23.921988Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Democrats win the Presidency and Senate, and the Republicans the House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-d-president-d-senate-r-house"
  },
  "0x4e65afb9a49448f865bcfaf4d50f5435dbadf27866c41199f864f2acac18133a": {
   "created_at": "2026-08-14T12:51:22.79602Z",
@@ -644,6 +666,7 @@
   "created_at": "2026-06-26T15:54:21.373797Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Daniel Wong win the 2026 Fort Bend County Judge election?",
   "revisions": 1,
   "sha256": "4f39114f4e19f660d37b1276c492d816a3bcb4ee6d41389fe80dcb14509ca904",
@@ -698,6 +721,7 @@
   "created_at": "2026-07-10T02:08:34.887202Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Jimmy Gomez win the CA-34 House seat?",
   "revisions": 1,
   "sha256": "c049c102c3c652af011545928c1b4f893a04da5c3d4a0598d33bbef1fd8f04ea",
@@ -788,6 +812,7 @@
   "created_at": "2026-03-25T21:41:47.430651Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will JJ Wetherholt win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -869,6 +894,7 @@
   "created_at": "2026-10-28T21:56:25.411999Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "New Anthropic model released before IPO?",
   "revisions": 1,
   "sha256": "320b1ca4b5a53b2c79c093da81012f8fbfceb8178c4e4b66e3161bf9fed91154",
@@ -1058,6 +1084,7 @@
   "created_at": "2026-09-23T18:06:54.817849Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Rare Atom qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1094,6 +1121,7 @@
   "created_at": "2026-08-28T20:17:33.901802Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will A.J. Brown be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1216,6 +1244,15 @@
   "sha256": "36239fa6ab18c7aa291f3bb002bdf0226c62b4094adfa9e786356e82489f33d9",
   "slug": "will-chippa-united-keep-the-most-clean-sheets-in-south-africa-premiership-2026-27"
  },
+ "0xddbd3c316c8b7d70822350f550a03ca07d3b64d19160260e71976a18cb46883a": {
+  "created_at": "2026-11-07T12:31:21.077522Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-perez-2026-12-06"
+ },
  "0xddd3f79d71aabcc290da3a9f17569660f5b9fb524ebbe7813b0349ba868bcd3a": {
   "created_at": "2026-09-14T20:34:08.668747Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1238,6 +1275,7 @@
   "created_at": "2026-10-10T11:30:32.081518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Liam Lawson achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -1297,6 +1335,15 @@
   "sha256": "5746ebc8b621544b6da91302f1f3469aec10c88d6bcb1a4df8d96cec7360cad1",
   "slug": "will-florida-win-the-2027-ncaa-mens-basketball-national-championship"
  },
+ "0xebd26e29a55f18ed134341668c11c06b9f7a868e4faa68c80b892972fd28e63a": {
+  "created_at": "2026-11-06T22:39:04.104629Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 6 or fewer candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-6-or-fewer-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
+ },
  "0xef908b4084a830a7bd9d68a3fdad40c723558ff052b3623218af553d61c2e13a": {
   "created_at": "2026-06-26T03:52:11.819255Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1319,6 +1366,7 @@
   "created_at": "2026-09-20T08:45:07.133657Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: Doncaster Rovers FC O/U 5.5 Corners",
   "revisions": 1,
   "sha256": "62a1d0ebc13f4bb85398b35af62e625b00be8bb68b4ba76e5328de12bbadefd3",
@@ -1364,6 +1412,7 @@
   "created_at": "2026-08-24T16:33:54.65719Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Shijiazhuang Gongfu be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",

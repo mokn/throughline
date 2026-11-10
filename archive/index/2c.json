@@ -175,6 +175,7 @@
   "created_at": "2026-10-10T11:30:30.629241Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -515,6 +516,15 @@
   "sha256": "4f65377e6d4989060b36101d8b431d52dfcace879779714891259e008b280f4e",
   "slug": "will-david-eby-be-the-next-premier-of-british-columbia"
  },
+ "0x5d0a9590cca04b7ae7cb897ee80b6902119aa77957fc3edbf6951cf72bb60c2c": {
+  "created_at": "2026-11-07T12:30:07.080715Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-hadjar-2026-12-06"
+ },
  "0x60c783646ea8e1b967b22fee633c248e4dba8edcb7e5736d19835a0cc298be2c": {
   "created_at": "2026-08-17T21:04:38.179234Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -681,10 +691,20 @@
   "created_at": "2026-08-26T08:15:21.050553Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC to score first vs. Reading FC?",
   "revisions": 1,
   "sha256": "f9850989e9fd4411712adf0aa582698298fd3a20007d3a3922c5949e08000869",
   "slug": "el1-oxf-rea-2026-09-08-first-to-score-home"
+ },
+ "0x7e1e13e8639c0f7f8e51592bdbf032d0c56d13bcd418021bbd9a2a849ed6ea2c": {
+  "created_at": "2026-11-10T01:00:03.877412Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Ossoff's Democratic nomination odds hit 35% by December 31?",
+  "revisions": 1,
+  "sha256": "352b67cfe20469aeeca0eaf0f5f0e3214ec6402a367cfb5cd867071e47862a80",
+  "slug": "ossoffs-democratic-nomination-odds-hit-35-by-december-31"
  },
  "0x7fd65500028ea59d40dab077a56c56b42de8f3d62aa3c41107905ce0b5f3a02c": {
   "created_at": "2026-10-29T20:54:44.117842Z",
@@ -1079,6 +1099,7 @@
   "created_at": "2026-08-12T15:02:34.579309Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will UCLA have more than 8.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1182,6 +1203,15 @@
   "revisions": 1,
   "sha256": "e403d49a450deb48a8a8a76f021f4b2f4ef531ce854904a2f9c5c933ed7a144a",
   "slug": "will-paris-saint-germain-finish-second-in-ucl-league-phase"
+ },
+ "0xd015b4ac2a8f642a0c01e4d8cdf4d6526632ceab76b687dcfa36bc599f8e342c": {
+  "created_at": "2026-11-10T01:01:03.063774Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "DeSantis's Republican nomination odds dip to 10% by December 31?",
+  "revisions": 1,
+  "sha256": "597704bb074bef19b9bed30c6af47b9aa7c9d216c591c3da08554b9d9a39de21",
+  "slug": "desantiss-republican-nomination-odds-dip-to-10-by-december-31"
  },
  "0xd13c254b0b7bfd0872fca76326267dfe28d3493e3dacb60f5eeea9b7163fc82c": {
   "created_at": "2026-10-23T02:08:40.889309Z",
@@ -1328,6 +1358,15 @@
   "sha256": "f46155dc485204349bfab0b62492076cc5e5c838b6f71cf3bef59673eadf1562",
   "slug": "jordan-love-30-passing-touchdowns-2026-27"
  },
+ "0xe9fd7495a63ea34b6ce8955fed92c8389dec9547604ba3cf671a0f5f43c6c12c": {
+  "created_at": "2026-11-10T02:45:43.159574Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Gavin Newsom attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-gavin-newsom-attend-super-bowl-lxi"
+ },
  "0xecdb9f9e421667d45e8da2077ede157ec765a0166b087c4091eb92f558d1132c": {
   "created_at": "2026-08-12T16:51:57.635619Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1378,6 +1417,7 @@
   "created_at": "2026-09-23T18:06:54.087194Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ground Zero Gaming qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",

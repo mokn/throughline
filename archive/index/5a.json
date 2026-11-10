@@ -161,6 +161,15 @@
   "sha256": "39d71b59b6da72cbe24863bd588ac896f2c001ec0fcd6fe3b751d26122f6cb14",
   "slug": "will-the-median-home-value-in-the-dc-metro-be-less-than-503000-on-december-31-2026"
  },
+ "0x190ecfb58a5057784e2be2192d14cb584940cf6fa68d38263b245122f3cb065a": {
+  "created_at": "2026-11-07T12:30:19.665397Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-stroll-2026-12-05"
+ },
  "0x19f151166b902ff89c740417fa4fef8038fba321a1057f44e06ff1c9c78aed5a": {
   "created_at": "2026-10-13T15:43:42.779976Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -169,6 +178,15 @@
   "revisions": 1,
   "sha256": "388b6eb9f40dcb0b88e7d53ab025976e77688774c65e67f6de9166ecb4b74344",
   "slug": "nba-teams-40-plus-wins-2026-27-utah-jazz"
+ },
+ "0x1a6a870f266857d3287ca0db2d55da3ff1178bcd5df627d9d514ae19c3684e5a": {
+  "created_at": "2026-10-15T18:00:55.909501Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-1.5)",
+  "revisions": 1,
+  "sha256": "dc08ce948e144853f175a656d53eafc8d856a9c5abe5420b2958be01d4394ecc",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-1pt5"
  },
  "0x1ac7acaae93c250935c0c73167e522216c6b5789bfab3133db2ad9d9b39a755a": {
   "created_at": "2026-08-10T15:33:48.906689Z",
@@ -201,6 +219,7 @@
   "created_at": "2026-06-26T15:47:19.792602Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Eric J. Tatum win the 2026 Fulton Commission Chair election?",
   "revisions": 1,
   "sha256": "f1f91bcaaa02c024d79471391d2e92f2127e95e3f19c720f5be9008eef8defd1",
@@ -259,6 +278,15 @@
   "revisions": 1,
   "sha256": "1295ed960381daf08c777d0d3c1991b6c6c4cdde1b66df571666fe66be6a36d9",
   "slug": "will-spd-be-in-the-next-mecklenburg-vorpommern-state-government"
+ },
+ "0x24a035cfd27fdf7f701ebd8d94e77925166c82cb2b1a6b6c1dda40e301f7cd5a": {
+  "created_at": "2026-10-15T17:02:00.446925Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-2"
  },
  "0x25ac3183a36f9b7561396e7ddfb871f7675a16f013c67b5f066380420eee9a5a": {
   "created_at": "2026-08-11T18:33:32.267643Z",
@@ -414,6 +442,15 @@
   "sha256": "d16da4c904f2657073e98d90d54e46175bdd8f087eff4f60bc64d0e3c384fa72",
   "slug": "will-james-comey-be-arrested-before-2027-614"
  },
+ "0x41669100bc05a60f8bbd6aefb301c1c5c80ce413d3106e38824d248ec56a9e5a": {
+  "created_at": "2026-10-15T18:02:17.105239Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 3.5",
+  "revisions": 1,
+  "sha256": "e2b286c5ec06c40cca3a99c817b518dbcc5b5993778c7bb1294ae8638a94346b",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-3pt5"
+ },
  "0x42c3fe0a8bcaa8936cd62a5ec72e1c7da32308776bda8fad5a37fe418afb1f5a": {
   "created_at": "2026-08-24T16:38:49.432729Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -440,6 +477,15 @@
   "revisions": 1,
   "sha256": "d384fe4571ad95701e2cab987d69c9bdf659cca93ea89a0daa3ca83c6bbe26ff",
   "slug": "will-gpt-astra-6pt1-be-released-between-january-4-and-january-10-2027"
+ },
+ "0x461cc93ccc1d475001282ea19d0e6962896f35c8c615260dc0526b7fa35d885a": {
+  "created_at": "2026-10-15T17:01:05.075055Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 3 - 4 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-3-4"
  },
  "0x4736beb403bb64d50153d96e1fd3cd3caea70b49e8534c06bd15c8639a29c85a": {
   "created_at": "2026-06-29T20:53:22.483841Z",
@@ -504,10 +550,20 @@
   "sha256": "6935ec789826b2cfe075dfe849af73d0e9a338b53865ae978ec064d9c766a61f",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-23-house-election-by-0-3"
  },
+ "0x4c2b4d7292b9b5738a6c9ae45b8fac3a4ac20b03f3d7bbe1a8e862f3dd24635a": {
+  "created_at": "2026-10-15T17:01:21.468756Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 3 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-3-3"
+ },
  "0x4cb1ac3ef097a74505416d18bf27734c843a365709a183ce2667f168ee6fd05a": {
   "created_at": "2026-08-31T18:27:34.981216Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Ond\u0159ej Tich\u00fd be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",
@@ -526,6 +582,7 @@
   "created_at": "2026-10-28T01:14:52.338331Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Next Fable Model (5.2+) released by November 30, 2026?",
   "revisions": 1,
   "sha256": "b8af7fbf0b4776baf7ace1e29639bf841ddce8dd5051fd9e1de45966331e3d38",
@@ -580,6 +637,7 @@
   "created_at": "2026-02-18T23:01:11.718198Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Drew Rasmussen win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -688,6 +746,7 @@
   "created_at": "2026-08-31T18:12:49.315717Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ale\u0161 Boh\u00e1\u010d be the next Mayor of Ostrava?",
   "revisions": 1,
   "sha256": "9257d173fce3ec1c6f014a795800d9e8a68317c05b5a0a3d0a848c355b03a089",
@@ -783,6 +842,15 @@
   "sha256": "70d7a88aa2efa3edae573fe8c00e2d47d4527c0ac9c65ba5338eac790b46f785",
   "slug": "will-union-san-felipe-be-promoted-to-chile-primera-2026"
  },
+ "0x7392923a82ffac8f6583dcc27081646833c1baee9a357ee8e28e8763a9856d5a": {
+  "created_at": "2026-10-15T17:00:58.990986Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 5 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-5-3"
+ },
  "0x76f52099cedfeb2f02c40ebdaf6f66abfd14babec83208f8d7158f2221bbd65a": {
   "created_at": "2026-01-28T15:39:05.206868Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -819,6 +887,15 @@
   "revisions": 1,
   "sha256": "f7259b2119bb37018425bca4b92b8a08948760d253f41008febe7c3e0aaf3816",
   "slug": "will-jose-guadalupe-torres-sanchez-win-the-2027-san-luis-potosi-governor-election-20260803173856693"
+ },
+ "0x7d6a81606296c52a8a553ba6be59c8456bb95eea421be9dbf60148069281a75a": {
+  "created_at": "2026-11-07T12:30:17.653959Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-hulkenberg-2026-12-05"
  },
  "0x8054dde528ab7ecf7abfc009660f63b7bf61d846e8ebb9c1078bfbb8a6809d5a": {
   "created_at": "2026-08-07T14:05:21.222099Z",
@@ -909,6 +986,15 @@
   "revisions": 1,
   "sha256": "47a6e956c287ec001b0bfb25f02f8183ce4203de1bb4eb8e7b849b6a6b76f63a",
   "slug": "will-the-republican-party-candidate-win-the-2026-il-17-house-election"
+ },
+ "0x8cb12055445c1953088de1b0ca3a12e8137fd5330ae04b5dc813823e9c4ae65a": {
+  "created_at": "2026-11-06T22:58:35.631688Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-robert-f-kennedy-jr-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x919953c9402ca97410a4414212cfd067b4a71892bc98d291a356aec6a357395a": {
   "created_at": "2026-08-07T20:17:08.044401Z",
@@ -1058,6 +1144,7 @@
   "created_at": "2026-04-02T15:15:08.750621Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dalian Yingbo win Chinese Super League?",
   "revisions": 1,
   "sha256": "b6d756a9f1e7efc7997d03b74c534951215f5c307ddeea43fc84401bf3c6ab70",
@@ -1117,6 +1204,15 @@
   "sha256": "a96a4328add66ad7dd33809111f1d13729ddeff9c472733861bf54d241cfade3",
   "slug": "f1-las-vegas-grand-prix-constructor-scores-1st-cadillac-2026-11-21"
  },
+ "0xb67aa6c540d3f4ed4ff1d755fec46b31ff73fac59a7fe84e5e5af3a11f4cfa5a": {
+  "created_at": "2026-11-07T12:31:14.746795Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Albon or Jr.?",
+  "revisions": 1,
+  "sha256": "19423c0b0aa4cc63cb10ece817fcc6d57c9e6b9c089423ec78afdf0bf7bbf161",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-albon-vs-jr-2026-12-06"
+ },
  "0xbaad1cef5c1f6f7a14c65f6eccd0c1ab51ef03550862473eefb3041c3e4cf85a": {
   "created_at": "2026-10-01T14:59:37.693571Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1166,6 +1262,7 @@
   "created_at": "2026-10-10T11:30:32.385269Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Yuki Tsunoda achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -1445,6 +1542,7 @@
   "created_at": "2026-01-28T04:54:14.759039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the CA-29 House seat?",
   "revisions": 1,
   "sha256": "49a1fa866133f681376a195c8388c73bbff08480250a6fc2ba47c719bf5b2191",
@@ -1481,6 +1579,7 @@
   "created_at": "2026-08-11T14:14:31.523743Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 11 House seats in Texas in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9c3a46290209e6bbb1e52b1b0848fcc086f4d4c82763f50a5b91bc7076c7616a",

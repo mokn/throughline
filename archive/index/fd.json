@@ -122,6 +122,7 @@
   "created_at": "2026-10-25T04:00:28.593412Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will NVIDIA (NVDA) hit (LOW) $176 in November?",
   "revisions": 1,
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
@@ -149,6 +150,7 @@
   "created_at": "2026-09-01T16:40:58.336788Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Miami-Dade County in the Florida Senate race in 2026?",
   "revisions": 1,
   "sha256": "bdfea899363170b7088b5f6c93be6ddc02d4048f2d5f490d586c57d66986b6d1",
@@ -299,6 +301,15 @@
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-gonzaga-reach-the-2027-ncaa-mens-basketball-final-four"
  },
+ "0x34ba2d6ad214448766d18aeb1fbaf46d41d65b0bae2e768871bcbb67ac2757fd": {
+  "created_at": "2026-11-07T12:30:13.505589Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Racing Bulls have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-racing-bulls-2026-12-06"
+ },
  "0x3647d603eb956cd874e239c440fbb3aa6e7b9eeb0d052427e6777c63b27e82fd": {
   "created_at": "2026-01-28T15:39:35.577124Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -349,6 +360,7 @@
   "created_at": "2026-08-11T14:11:48.01496Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 4 House seats in Iowa in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e0efbdf7ae9b35d25fe95a0f1208e37d45f97bb0a625645d50dd06b728679013",
@@ -412,6 +424,7 @@
   "created_at": "2026-08-26T21:46:08.751633Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will SJK be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -461,6 +474,15 @@
   "revisions": 1,
   "sha256": "985d5311ad86f067e1de5929df742e374393b86acec53e959a5a2ea928c805c2",
   "slug": "will-a-knight-of-the-seven-kingdoms-rank-in-googles-top-5-most-searched-tv-shows-of-2026"
+ },
+ "0x495f7387b0829273cb3ae8e6f953226075d90ce9b783d68cd3f428e7332bf9fd": {
+  "created_at": "2026-11-10T02:41:48.538273Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"99 Problems\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-99-problems-be-played-at-the-2027-big-game-halftime-show"
  },
  "0x496ff730b779e0aafd7a6067d3b645158bc35e1d7205af0551452af22341a2fd": {
   "created_at": "2026-08-07T15:59:32.975115Z",
@@ -978,6 +1000,15 @@
   "sha256": "f660cc24adc1427e1781fe56f874c92020924db42f59ee55c2dcba80617478c7",
   "slug": "will-micron-q1-nand-revenue-be-above-16pt0b"
  },
+ "0x921686f2df9d2ab4394a3996cc7b5118327c27d66b2f78ece5c7cfe4acc3f0fd": {
+  "created_at": "2026-11-07T12:30:37.537413Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Racing Bulls achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-racing-bulls-2026-12-06"
+ },
  "0x93158447b78290c1abb5ccf3e025dd03290865972b3fc9c8d2803aa64ae1cbfd": {
   "created_at": "2026-02-09T00:15:02.220881Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1108,6 +1139,7 @@
   "created_at": "2026-06-26T15:47:19.678574Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Mo Ivory win the 2026 Fulton Commission Chair election?",
   "revisions": 1,
   "sha256": "f1f91bcaaa02c024d79471391d2e92f2127e95e3f19c720f5be9008eef8defd1",
@@ -1488,6 +1520,7 @@
   "created_at": "2026-08-12T00:20:00.882889Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Atlanta win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -1529,6 +1562,15 @@
   "sha256": "6477a312074b1a2340a3162d794c52c7eba0789ec95a9dffd04059464bc7cf7f",
   "slug": "will-dardo-be-named-fnatic-lol-general-manager-by-december-31-2026"
  },
+ "0xef3ec8943887ec4111aa78d877a0b903e110fd62dd7f5d965afe842f728669fd": {
+  "created_at": "2026-11-10T03:01:17.140105Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will WHERE IS MY HUSBAND! (RAYE) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-where-is-my-husband-raye-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xefb20d29314203871f17f03cc380b303e49b9a56af8091dccf77d8e6fb9f1bfd": {
   "created_at": "2026-09-20T08:47:24.53438Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1560,6 +1602,7 @@
   "created_at": "2026-07-29T21:12:57.461222Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Atlante FC finish 2nd in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
@@ -1569,6 +1612,7 @@
   "created_at": "2026-08-26T08:45:15.294143Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 1.5",
   "revisions": 1,
   "sha256": "40af962ffb1566f71091deb661d79112b65a4f88c229805c1f4bb95c8aaed44c",
@@ -1606,6 +1650,7 @@
   "created_at": "2026-09-09T20:34:56.697877Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Next GPT Image Model (2.6+) released by December 31, 2026?",
   "revisions": 1,
   "sha256": "e2d1a252b2c44311089b486abeafda07e54033ac1444bb90ec890b9d2bb922a8",

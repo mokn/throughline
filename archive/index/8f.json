@@ -99,6 +99,24 @@
   "sha256": "f729a8c10b859ae069a53a2b0b54bad0684e521f88ab54e6cd25b63f28c4dbdc",
   "slug": "el1-ste-swe-2026-09-26-halftime-result-home"
  },
+ "0x1602313f12c4a59168d08371f3b0d0cd3b3b3bb958a5e75ff76f43e000f36f8f": {
+  "created_at": "2026-11-07T12:30:45.788926Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-kimi-antonelli-2026-12-04"
+ },
+ "0x1668ed00a954beb92ce10cee90dd471adcb5a8f10311bdfcdc0d3bb61f91748f": {
+  "created_at": "2026-10-15T18:01:01.621489Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "4ba7ac26d8598b3316f302755202a63875b00d1593a5750586e37421965f104f",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-home-0pt5"
+ },
  "0x180397434f4331628109d945fd3ca33fea3b8164f7e8fc3d9953da5f3038c48f": {
   "created_at": "2026-10-14T13:24:28.978917Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -274,6 +292,7 @@
   "created_at": "2026-10-24T04:00:04.158237Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Elon Musk post 260-279 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -360,6 +379,15 @@
   "sha256": "be8deef1da5ff249e7c9f8ed872d8a38a80e14a1836ea5ab6e851e2356f47f24",
   "slug": "pro-football-any-player-2000-rushing-yards-2026-27"
  },
+ "0x40ea900d4d1c6dc6316d1cb7777eec2db69b66092895e1c5a7bda2fd81422e8f": {
+  "created_at": "2026-11-07T12:31:25.193846Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-hadjar-2026-12-06"
+ },
  "0x41b239d97215af069a7f2889706fa94ef883d118e5eaa31140db54991a07698f": {
   "created_at": "2026-08-24T16:33:31.781997Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -382,6 +410,7 @@
   "created_at": "2026-08-11T14:10:59.655874Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 1 House seats in Nevada in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9842e2670455f8cfbaa10bdcd392ee7c8f3ff3742d0cc1ba11e92fbd6bfb1dfc",
@@ -427,6 +456,7 @@
   "created_at": "2026-02-18T22:47:37.677164Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bryce Harper win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -697,6 +727,7 @@
   "created_at": "2026-08-26T21:46:25.434174Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will FC Kuressaare finish 8th in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "a72bde597da2a1f7c84239cf9622ba24c7578cc73fc75153dc48cd62e545e3e9",
@@ -814,6 +845,7 @@
   "created_at": "2026-08-24T16:33:21.881376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will IFK Norrk\u00f6ping be promoted to Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "94e1a6f7540850de3ee55b5cabc282e35005267d170ec576f9d6bbbeb4cf9513",
@@ -845,6 +877,15 @@
   "revisions": 1,
   "sha256": "f0b7b210f193bdac017bd7ec8975a5473454b9f5c5aa093e23a926f5d027dcb5",
   "slug": "will-nyc-have-less-than-2-inches-of-precipitation-in-november"
+ },
+ "0x7e395cb8ed20aa81d49a7656d59237758d87293e9ca78dd28c6e0b00e333558f": {
+  "created_at": "2026-11-07T12:30:15.053242Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-gasly-2026-12-05"
  },
  "0x7fa574d01f3219e49ab6dca5ba296695ef26b0054992fcfdda91c1e1bf8a3b8f": {
   "created_at": "2026-07-17T22:44:54.582899Z",
@@ -931,6 +972,7 @@
   "created_at": "2026-07-10T02:09:58.38084Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Ken Calvert win the CA-40 House seat?",
   "revisions": 1,
   "sha256": "b90009cd9ff43db36fe80e8262bd9c1f5a02dd2004ddb95b4c58e59a13cdecd6",
@@ -1066,6 +1108,7 @@
   "created_at": "2025-12-12T12:41:06.612838Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party hold below 190 House seats after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "dc12fa929e71a406dba9c8ed4ab183deaa24f050c0e96c4bf1006104cfb74278",
@@ -1360,6 +1403,15 @@
   "sha256": "ba88224a2a5a9ef82d0b51c75a070666bfdacf62be0730b43529cac6c9dab826",
   "slug": "el1-bla-lei-2026-10-03-exact-score-1-1"
  },
+ "0xce6f8027fefe9d6ab8f74d9b62352b20d89c8dd1976a5231e198bf29f6837f8f": {
+  "created_at": "2026-11-05T20:54:08.863409Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Ricardo Estigarribia win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-ricardo-estigarribia-win-the-2028-paraguay-presidential-election"
+ },
  "0xcfc643148baed393691000c72b8afba948a6fc5f8a85d55465a317edfba90d8f": {
   "created_at": "2026-08-17T21:13:43.133664Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1459,6 +1511,15 @@
   "sha256": "153c5b9a0c4fb85610ab9a79a5d09ec1d561341b6e4765129c6bfd2b3faef39b",
   "slug": "will-the-republican-party-candidate-win-the-2026-ut-04-house-election-by-0-5"
  },
+ "0xe092354cca06f15c22d98923716bc9fc24373601e01a7df59d3b21e4d2a8c58f": {
+  "created_at": "2026-11-06T22:33:14.928334Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive 40% or more of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-40-plus"
+ },
  "0xe0c9e2e8a169b020ad7d6f76f7ae59d9088f698499153764a39f9c836319ad8f": {
   "created_at": "2026-09-04T17:19:42.113143Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1526,6 +1587,7 @@
   "created_at": "2026-10-25T04:00:19.801297Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Meta Platforms, Inc. (META) hit (LOW) $600 in November?",
   "revisions": 1,
   "sha256": "bba1a4c2163514bd9b7dda94119ee56f2fbd9d42c75cce8d8a2189025e1eb1fd",
@@ -1557,5 +1619,14 @@
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",
   "slug": "will-the-republican-party-candidate-win-the-2026-sd-al-house-election-by-15-20"
+ },
+ "0xf9a4ec87e9aadb03eca78a0f8bdda085642fb2bde288fa3dc46d0301c6b5828f": {
+  "created_at": "2026-10-15T17:02:01.445526Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 5 - 1 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-5-1"
  }
 }

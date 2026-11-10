@@ -129,6 +129,7 @@
   "created_at": "2026-09-30T23:57:46.807627Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will at least 40 ships transit the Strait of Hormuz on any day by October 31, 2026?",
   "revisions": 1,
   "sha256": "2a98b935a343d21a18d64f39baf52c861dff3b1e1d8f7b7ee99f3f38217e73a5",
@@ -300,6 +301,7 @@
   "created_at": "2026-10-10T11:30:40.704591Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Leclerc or Piastri?",
   "revisions": 1,
   "sha256": "8e0e8db5eb18a247d1a9828b8035ce88dfc3388f89fa119d9ffe032d24b499e8",
@@ -377,6 +379,15 @@
   "sha256": "b05400ea6c544a8bde4aeeda16d00104d257594b0e06e9fa79e81d3f17ec1f86",
   "slug": "jaxon-smith-njigba-1000-receiving-yards-2026-27"
  },
+ "0x420c61201f75883ea828d0f3b89735eaca827343f7d46126fe927a08c6a153d4": {
+  "created_at": "2026-10-15T17:01:21.19598Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 2 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-2-3"
+ },
  "0x432f3b8364395dd44e7dbc02ebee2e1fe04f89b42fb40e36b41522d86ecb35d4": {
   "created_at": "2026-09-04T19:43:10.632666Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -385,6 +396,15 @@
   "revisions": 1,
   "sha256": "40b28c0544f8c58c4b1d104885fe201f1fc72923d9bcbdd2d8c756279bb3a299",
   "slug": "will-dawson-pendergrass-be-the-2026-big-12-rushing-yards-leader"
+ },
+ "0x43f94f3fd4a4d2e099b3b05456bf0eaa4a44222d5885344be46fbe10e446d4d4": {
+  "created_at": "2026-10-15T17:02:01.78284Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 4 - 5 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-4-5"
  },
  "0x473df6a95de7bcbe8078c734519ec6aeccee677df1b91c14192373bcc865f1d4": {
   "created_at": "2026-08-12T14:57:36.422003Z",
@@ -403,6 +423,15 @@
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
   "slug": "will-sergej-jakirovic-be-the-first-premier-league-manager-sacked-in-2026-27"
+ },
+ "0x4d6dbf8ed834f32986c603e2ec5ce4ad15607368e15eb10b67fef48f4e5611d4": {
+  "created_at": "2026-11-07T12:30:46.083241Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-max-verstappen-2026-12-04"
  },
  "0x4dc4c233ce8927a44678e05d1446f629478647cb41b9088b3c68593c0c4612d4": {
   "created_at": "2026-11-03T17:06:07.041569Z",
@@ -440,6 +469,15 @@
   "sha256": "13c5f6632abf6901e02a6c20828eb7cef5425971b75a2f655fe49a9611148ca1",
   "slug": "will-jeremiah-smith-be-the-2026-big-ten-receiving-tds-leader"
  },
+ "0x507ca95788cd5cfdbf122e615f0787947073ad86cf7ae7e50de10772c9b279d4": {
+  "created_at": "2026-10-15T18:02:39.347888Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 0.5",
+  "revisions": 1,
+  "sha256": "c269a9aa61cede94b7c5a9bfc931da1fd1428df6b542bec9e474589738191d37",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-0pt5"
+ },
  "0x507fcd247a900ab38f28113ea16e0db7abc4f89b9ad67865c7c445f293ff34d4": {
   "created_at": "2026-10-13T15:48:48.527744Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -457,6 +495,15 @@
   "revisions": 1,
   "sha256": "c7be1a92d2e14c8b47126d1e3b2a9fd2882f5f55301ee43b060aaaa511c64ece",
   "slug": "will-the-democratic-party-candidate-win-the-2026-wi-04-house-election-by-40-45"
+ },
+ "0x523641247b02d13e4cbe7cedda6a6b3f68313e69450afaf97142a4de4fc95dd4": {
+  "created_at": "2026-10-15T18:02:40.926169Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "98e9346978beb150fa12da8d6e4a8ec18af710177807143285b22bf1d2c92e70",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-home-3pt5"
  },
  "0x529658f6fbed1f5a59c211faf3408dd9003e73f641bb9234bce3c88f1989d6d4": {
   "created_at": "2026-07-02T18:52:41.756512Z",
@@ -480,6 +527,7 @@
   "created_at": "2026-08-11T14:04:47.140331Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win 5 or more House seats in Wisconsin in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "2342764c11b82315aa8b15c077d5c88a389181fc632c29c7e79f6bc3ad858e9b",
@@ -661,6 +709,7 @@
   "created_at": "2026-08-14T21:19:24.790133Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-09 House Election?",
   "revisions": 1,
   "sha256": "301a9cdf4043278dfdd2371b1ff551cf209d46b33506cb4fc8f47e8a8169ef52",
@@ -670,6 +719,7 @@
   "created_at": "2025-12-12T12:41:08.018734Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party hold between 200 and 204 House seats after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "dc12fa929e71a406dba9c8ed4ab183deaa24f050c0e96c4bf1006104cfb74278",
@@ -706,6 +756,7 @@
   "created_at": "2026-10-10T11:30:26.555247Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Nico Hulkenberg achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -995,6 +1046,7 @@
   "created_at": "2026-08-12T17:27:14.215761Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will River Plate be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1067,6 +1119,7 @@
   "created_at": "2026-10-10T11:30:37.078736Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Lance Stroll achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -1091,10 +1144,20 @@
   "sha256": "7975072a7ee0ee22ff2dee00e34b9a1929a8a5bcf94fb3693352da813dc38fdf",
   "slug": "will-the-democrats-win-the-michigan-senate-race-in-2026"
  },
+ "0xc2dea6056868cf2126a0d9d79a7a4d34592b1679722677bc268daf73719425d4": {
+  "created_at": "2026-10-15T18:02:47.52226Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Utebo FC O/U 2.5",
+  "revisions": 1,
+  "sha256": "a939e89d5007238c390a45588ca45e83b3acd7cf74484c996af169506a89ea9e",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-home-2pt5"
+ },
  "0xc43c6c3bd979cb17e2ff931fbf8c4a5bef3778eb727f3504b79d97eab86138d4": {
   "created_at": "2026-11-02T00:47:23.116898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and the US enter a recession by the end of 2027?",
   "revisions": 1,
   "sha256": "7b1e7bb6099c8fdb53e43587f67993355168ae20ceab45d75d56740d231a71eb",
@@ -1158,6 +1221,7 @@
   "created_at": "2026-10-08T22:00:05.445883Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dzambekov vs. Parker end before Round 5?",
   "revisions": 1,
   "sha256": "aba1579e75112b95b21d9fe1be33086a4aef6345ef7ca7c3395117f773e140d1",

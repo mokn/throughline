@@ -170,6 +170,15 @@
   "sha256": "4a0300f982673f62c12d806e89fc80053d2ac07a54a7241a0aefa9baf0d49172",
   "slug": "will-labrov-win-worlds-2026-finals-mvp"
  },
+ "0x24ba8f7599ff5556af6ebda5fa9b82babc94ee0e49484b0893badfa95bb35775": {
+  "created_at": "2026-11-07T12:31:19.086139Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Piastri or Russell?",
+  "revisions": 1,
+  "sha256": "024c3cdc5b0b09045072a816179f569e2e8ffc8079da18841db5bc3dd53364bf",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-piastri-vs-russell-2026-12-06"
+ },
  "0x29f88e50812b89facc288ec8b3a9530c54910c36dc352f0d068d76718043c775": {
   "created_at": "2026-09-27T20:10:30.389335Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -431,6 +440,15 @@
   "sha256": "61abb00f01eb902b15957ffed4f52616675daa5f874567da5e119211e2fd332e",
   "slug": "2027-soccer-denmark-superliga-winner-snderjyske"
  },
+ "0x62a5d0dc77c35d9882940c67312f1427091956f52947ee89cf3c0bceb7580c75": {
+  "created_at": "2026-10-15T18:02:46.184778Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "358a7d823c75047d00669277fb452f5b03a29a5928be523de7448e0fede249fb",
+  "slug": "cdr-ute-sab-2026-10-28-btts-first-half"
+ },
  "0x6482dab76e6e1d0f7be91b915422c93fa7687a5c60c98e47ff53e062820f3d75": {
   "created_at": "2026-10-05T23:00:46.116985Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -439,6 +457,15 @@
   "revisions": 1,
   "sha256": "2339a3ac02ce9f572d78b6c246c43ccbe7c803fcdab9d45d8123dad7bf10c8e1",
   "slug": "spl-abh-kho-2026-10-19-first-half-total-1pt5"
+ },
+ "0x64ddccfecfff9cfd3f4f36e21c2a71b6cee83ff5131bf6da73392db5e4b7f375": {
+  "created_at": "2026-10-15T18:01:53.00217Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "4d5e145a752bdb3057fc054241f8318c68c588a01e98133f3554d73a396fb237",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-home-3pt5"
  },
  "0x650d864619abf2b769745646394dfb7dbfc6fe5ee226bdf1b50a8a64d543f275": {
   "created_at": "2026-08-10T23:38:23.862687Z",
@@ -530,6 +557,15 @@
   "sha256": "b05400ea6c544a8bde4aeeda16d00104d257594b0e06e9fa79e81d3f17ec1f86",
   "slug": "michael-pittman-jr-1000-receiving-yards-2026-27"
  },
+ "0x7456f304dedcb1808cd5814561b61a84f6d00f9d64d942564b0c4ad0f1622a75": {
+  "created_at": "2026-11-05T20:54:04.604063Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Juan Carlos Baruja win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-juan-carlos-baruja-win-the-2028-paraguay-presidential-election"
+ },
  "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75": {
   "created_at": "2025-11-25T15:10:30.228568Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -552,6 +588,7 @@
   "created_at": "2026-09-09T15:53:46.192264Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Jobe Bellingham win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -615,6 +652,7 @@
   "created_at": "2026-10-08T22:00:01.744314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Billam-Smith vs. Clarke be won by decision?",
   "revisions": 1,
   "sha256": "e09bf85db30fcb331a2b16fd3a4d80489a2fb59ced4f4e3bc521f38f12d591af",
@@ -732,6 +770,7 @@
   "created_at": "2026-09-29T00:12:11.986409Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Germany by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -746,6 +785,15 @@
   "revisions": 1,
   "sha256": "8f07694c96ea3bb4e8a28fed7feb1fd6040d48b98951af63e28854d68e87e587",
   "slug": "will-the-democratic-party-win-the-ia-03-house-seat"
+ },
+ "0x8b609c7cf595c0b49a76aaa20de2b35896bda9b877769c969be37ace228a8975": {
+  "created_at": "2026-11-09T22:28:01.370822Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Thomas Tuchel be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-thomas-tuchel-be-the-next-permanent-manager-of-manchester-united"
  },
  "0x8c53153b7548e02a4213c247e3b2b4f91cc52e92a2e2c7205dff985d6e7a6475": {
   "created_at": "2026-08-28T19:39:36.230107Z",
@@ -814,6 +862,7 @@
   "created_at": "2026-02-18T17:11:03.518865Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Hany Mukhtar win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -827,6 +876,15 @@
   "revisions": 1,
   "sha256": "ed06588c89a77cbe87f782abaf1b319a956ed45a73e1d52c50543ab94ab75f9b",
   "slug": "will-donald-trump-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221262"
+ },
+ "0x9c221dad2c718a0f4f0e93d7a5bd925bfcf6e11f3945aa04634cdbf743fd3475": {
+  "created_at": "2026-10-15T18:00:59.345525Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "f90abe2e645e0d18f514918d5ecab4fdb3de9652c4e91a41f88421f369406ccb",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-total-4pt5"
  },
  "0x9d306c2b193aa41f71732ce103683038bca91e35f329b79597a72ad54ba55775": {
   "created_at": "2026-09-09T15:51:20.190102Z",
@@ -877,6 +935,7 @@
   "created_at": "2026-09-09T02:41:22.221586Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will T1 win Worlds 2026?",
   "revisions": 1,
   "sha256": "8fc8e5fb6cae19590bbdd0f002496a91b8be414b57dfc5511c912c4feab80c70",
@@ -895,6 +954,7 @@
   "created_at": "2026-08-31T18:17:56.490318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Matou\u0161 Pelik\u00e1n be the next Mayor of Olomouc?",
   "revisions": 1,
   "sha256": "7281809af5844bfd3378ddb1858b3c2ef39b80ab36da07ff4d846bec8a535f99",
@@ -945,6 +1005,15 @@
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-brady-tkachuk-win-the-2026-27-hart-memorial-trophy"
  },
+ "0xb1fb1beb4ecfe6a9a7aa5c0fb3b8fb0ba63944b3b4010dc24080bc30dfa0ac75": {
+  "created_at": "2026-11-10T02:41:11.272721Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Run This Town\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-run-this-town-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0xb2166c445303c65b81a45c30062c2837a0590cbf7ee3bed1859bf42a82d44575": {
   "created_at": "2026-08-10T23:57:19.893366Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -989,6 +1058,15 @@
   "revisions": 1,
   "sha256": "5f23119380411922a7c00a3ac8fb6fb6752e6ba551105c3babcdec20cd4a4c9b",
   "slug": "will-stripes-valuation-hit-high-190b-by-december-31"
+ },
+ "0xba84a5d1499fd49f097505fd025647ccffd0075c33a227b9fa7fafbeaac2ad75": {
+  "created_at": "2026-11-07T00:05:06.147674Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Zehut support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-zehut-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353288"
  },
  "0xbaedebf227348baac24df0c9dd558db5f02606a3bc2f9a55f00ccae1d3487375": {
   "created_at": "2026-09-04T19:22:28.240426Z",
@@ -1075,6 +1153,7 @@
   "created_at": "2026-08-12T17:31:14.184431Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will San Diego Wave FC be runner-up in the 2026 NWSL?",
   "revisions": 1,
   "sha256": "af90e7dd070dd115d47ca39081e4de865a3ae1d09329abe648852ed1dc0c1d58",
@@ -1174,6 +1253,7 @@
   "created_at": "2026-08-12T16:51:47.059129Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Luis Felipe Romero Pe\u00f1a win the next Chiclayo mayoral elections?",
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
@@ -1304,6 +1384,15 @@
   "revisions": 1,
   "sha256": "4d40aa21f65099410b6216a448af243a4b0747010f944d9396b541c270950dd0",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-rhode-island-be-between-250000-and-300000"
+ },
+ "0xeb6686cdd40c61757cd78831e97b1cf627aa98a8ae8bdc5915147af33419dc75": {
+  "created_at": "2026-11-07T12:30:12.435677Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ferrari have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-ferrari-2026-12-06"
  },
  "0xf1b9cf7b7aa6192b11f580c9c3144b931ffa7276c2381b132d5005435bd07875": {
   "created_at": "2026-10-26T22:46:04.345705Z",

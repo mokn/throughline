@@ -197,6 +197,15 @@
   "sha256": "1e011e9cec02ec51ac7ffb8314fa373dfb95632a541d0a47dc6dabd2f4429b94",
   "slug": "will-the-reserve-bank-of-new-zealand-increase-the-official-cash-rate-by-25-bps-at-the-march-2027-meeting"
  },
+ "0x216cd5d6ad9a597e4f12b7d265a3e7590b2a0b7203509d54f7c990ad18aa1826": {
+  "created_at": "2026-11-10T02:27:00.571109Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be between $140M and $160M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-between-140m-and-160m-by-december-15-20261108"
+ },
  "0x21bf9a7dae81b6bd51acae73185686ab8997b81b1401e4be10e114d472599c26": {
   "created_at": "2025-11-13T19:48:43.887364Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -404,6 +413,15 @@
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
   "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-cup"
  },
+ "0x3cd370626442b1a467f0e387148560dd0a82c98a3ad446021005880275a62826": {
+  "created_at": "2026-10-15T17:02:01.905032Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-any-other"
+ },
  "0x3d89fe6faccf6dde022d81a69aae7dd2647b0c7297f300ff8402546491673e26": {
   "created_at": "2026-10-13T19:55:52.92329Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -476,6 +494,15 @@
   "sha256": "5364af3fda1190280b4d9ac66c862fb0084bba3fe5b8daadcd267d4de9843edf",
   "slug": "will-macva-keep-the-most-clean-sheets-in-serbian-superliga-2026-27"
  },
+ "0x4734b6661d632b4085fd895e4a3cc8cf4372aede58f4e24894c9bef1286b3c26": {
+  "created_at": "2026-10-15T18:01:06.145966Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 8.5",
+  "revisions": 1,
+  "sha256": "8dbd8d9b6424b8e5105710dd4aec55d115863b73f2a69f2287626ea02bf3e697",
+  "slug": "cdr-red-bar-2026-10-28-total-8pt5"
+ },
  "0x485baf56bea0d7461db72dcfe010516d0f99f8257e7f517081ab589992a8bd26": {
   "created_at": "2026-01-28T15:37:19.125414Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -508,10 +535,20 @@
   "created_at": "2026-10-10T11:30:04.753476Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Arvid Lindblad win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
   "slug": "f1-brazilian-grand-prix-winner-lindblad-2026-11-08"
+ },
+ "0x5463552974264d8d7dabd7cdc8a64abb794d5451e4ab0ff15232f64b8fc41926": {
+  "created_at": "2026-10-15T17:01:06.352182Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "1c911b994ea78df9c40505e0237f23fa6211c23cab03ddad7571a46b347087c2",
+  "slug": "cdr-por-iru-2026-10-28-first-to-score-neither"
  },
  "0x554add9e783edf8cd8a7cc802a69db2740a61d3221dbe346f5d0f51004be4226": {
   "created_at": "2026-10-02T23:00:13.693678Z",
@@ -553,10 +590,20 @@
   "created_at": "2026-08-12T16:52:08.61665Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Alfredo \u00c1lvarez D\u00edaz win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
   "slug": "will-alfredo-alvarez-diaz-win-the-next-arequipa-mayoral-elections-20260811165718019"
+ },
+ "0x583f425d06281eda55139ce0ac67a7a8cc2c801c1dcb09ba32223779c32b8e26": {
+  "created_at": "2026-11-05T01:02:22.716396Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "255-259 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "255-259-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
  },
  "0x587462724ab92763b44f54b1cac0013123071075d256025b47495b814fd9db26": {
   "created_at": "2026-08-07T15:58:44.886482Z",
@@ -580,10 +627,20 @@
   "created_at": "2026-09-23T18:06:42.861581Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will 100 Thieves qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
   "slug": "will-100-thieves-qualify-to-pgl-major-singapore-2026"
+ },
+ "0x5c0c519b918b2f0a0b8146f4a9b2faf4d979f548254d2fe4560ed052c722de26": {
+  "created_at": "2026-10-15T18:02:36.732744Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 5.5",
+  "revisions": 1,
+  "sha256": "aecddead64b23c7021c83c829c2075a502b82b56b5623fdbc2b710d2c7899a49",
+  "slug": "cdr-por-iru-2026-10-28-total-5pt5"
  },
  "0x5cbcadf30c012dfca1120b6918c10ba5e202f856842efdafeed25b0ea85ffa26": {
   "created_at": "2026-08-07T20:09:10.425849Z",
@@ -625,6 +682,7 @@
   "created_at": "2026-02-18T23:32:47.419921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Mason Miller win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -773,6 +831,15 @@
   "revisions": 1,
   "sha256": "25cf19db7c53b1dafa327e399c30650829712413f2f91a049ac8cae998fe840d",
   "slug": "will-jason-sanders-finish-as-a-top-12-k-in-the-2026-27-nfl-season"
+ },
+ "0x7dc7796e8ac35b3bfb59bd774e837f6ba08a157965bddc4624600ec162510826": {
+  "created_at": "2026-11-09T21:18:14.187789Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Nongshim RedForce Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-nongshim-redforce-win-an-international-event-in-2027"
  },
  "0x7ecebfbb38ab8a6eeba78da117fc77ea80789b61b2044c9dede289ff10e77c26": {
   "created_at": "2026-10-13T15:48:36.719771Z",
@@ -968,6 +1035,7 @@
   "created_at": "2026-11-02T01:07:01.657124Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and a Chinese company have the #1 AI model by the end of 2027?",
   "revisions": 1,
   "sha256": "e04667122d90da7b0a66e4d421ff150c3149027e3e9543ea3da6e64080340a09",
@@ -986,6 +1054,7 @@
   "created_at": "2026-08-26T08:45:18.113582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Reading FC O/U 1.5",
   "revisions": 1,
   "sha256": "ee793005a4101990630ae1e4ba1675a45154f770dffa1d04f818f7b0397699fa",
@@ -1122,6 +1191,7 @@
   "created_at": "2026-08-04T22:28:55.373198Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Bank of Brazil make no change to the target for the Selic rate at the November meeting?",
   "revisions": 1,
   "sha256": "7b46465ab829afba59698f1d60c7d20c52487066065d76a5a6d59c8e2ed60ea6",
@@ -1176,6 +1246,7 @@
   "created_at": "2026-08-11T14:18:48.568829Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 2 House seats in Ohio in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "29dc5f10c23d57527652f7c3535d8e2f4af415ca88f1735398744aff2a2b4708",
@@ -1203,6 +1274,7 @@
   "created_at": "2026-02-18T23:01:04.109792Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Nathan Eovaldi win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -1257,6 +1329,7 @@
   "created_at": "2026-09-09T15:53:45.387264Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Franco Mastantuono win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1443,6 +1516,15 @@
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",
   "slug": "will-besiktas-record-the-most-clean-sheets-in-the-uel-league-phase"
  },
+ "0xdceb3f10cbd332a1c911d66291443fcefd73216562a079f07192819327663426": {
+  "created_at": "2026-10-15T17:01:21.119109Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 0 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-0-5"
+ },
  "0xdcf00582b7b0dc9c95048f81be8dd66a09db6d1291934427cf74766e2783db26": {
   "created_at": "2026-08-10T23:55:56.267749Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1510,6 +1592,7 @@
   "created_at": "2026-10-10T11:30:09.704608Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Alexander Albon get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",

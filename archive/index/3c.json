@@ -35,6 +35,15 @@
   "sha256": "584daef7ee7ef63ab3d137d9e333c302162c4c3aca2adae268090959d330cdb1",
   "slug": "will-jaron-keawe-sagapolutele-be-the-2026-acc-passing-tds-leader"
  },
+ "0x05f030e560bdae1197dbea1d4032f1dfd93bd7033960b927dfd4d8bdee74bf3c": {
+  "created_at": "2026-11-06T22:37:08.05511Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen hit 40% in any poll before the first round of the French presidential election?",
+  "revisions": 1,
+  "sha256": "5cc4b0fb27083f82eb432a2e45e16c890c78844136d92e3f2dace4004695b5a5",
+  "slug": "will-marine-le-pen-hit-40-in-any-poll-before-the-first-round-of-the-french-presidential-election"
+ },
  "0x0643a9edd0e8b0dbe0e471371818f5c61a84949ae1e3fc72c8e4572be3a0fe3c": {
   "created_at": "2026-01-08T01:34:15.635656Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -97,6 +106,15 @@
   "revisions": 1,
   "sha256": "06b716e3d7979e969c9dcdc848d1e46a70b011fa5cd8574dd62a393158c90133",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-13-house-election-by-18-or-more"
+ },
+ "0x0d47b7c501ef49f254dbc6dbcd0b7b06d642e5f146a186ce77e2a853e59bf53c": {
+  "created_at": "2026-04-14T15:40:29.493717Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Rob Sand be the 2028 Democratic Vice-Presidential nominee?",
+  "revisions": 1,
+  "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
+  "slug": "will-rob-sand-be-the-2028-democratic-vice-presidential-nominee"
  },
  "0x0d6c715f8174ee82be74335e7b493664b02376bcc92b95518a05a5178330b53c": {
   "created_at": "2026-10-20T21:48:38.572658Z",
@@ -174,6 +192,7 @@
   "created_at": "2025-12-10T18:05:33.476645Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party hold 32 or more governorships after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cb4a6d2db6b0e17d1f68fb1ebd345806a34632c9cd578e8c03fccd5d3ea36f4b",
@@ -228,6 +247,7 @@
   "created_at": "2026-08-12T16:52:03.231272Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Yamel Deyson Romero Peralta win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -354,6 +374,7 @@
   "created_at": "2026-07-02T19:52:22.465954Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Republicans win 1 Senate and Governor election in states won by Kamala?",
   "revisions": 1,
   "sha256": "2c47dd999a052c6bf012bcf825cc2e04e967b0a87b36b09e4c14a2d9186afbe3",
@@ -413,6 +434,15 @@
   "sha256": "bfdd2fe3bbf2ece1b4df24ccc550eeece4624e6d738fcbba57af2f85d961eb2d",
   "slug": "czech-extraliga-2027-champion-kometa-brno"
  },
+ "0x33d95e53b8c15fd586feefa6aac8fa54edc3daa7b51f56528ff8190909f8863c": {
+  "created_at": "2026-10-15T17:01:20.496809Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 1 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-1-0"
+ },
  "0x34bd30f4a21696474ffee377412f6345fd85b67903cb24769881476291a8ac3c": {
   "created_at": "2026-03-26T16:21:26.155221Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -432,6 +462,15 @@
   "sha256": "9480e21279c0196d200be0aeadd88be172cdf9b921e916d28dceeca73a1da55a",
   "slug": "will-republicans-hold-53-senate-seats-and-208222-house-seats-after-the-2026-midterms-20260625152834691"
  },
+ "0x37496ace08c102ab308aa34c9a9ba3dff4898c7e60d25e6d2a475b7f527b273c": {
+  "created_at": "2026-10-15T18:02:12.598985Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: RCD Mallorca (-4.5)",
+  "revisions": 1,
+  "sha256": "fb35962e5aa9dfeafac188baddac10db5f695970a7f7c444eb550568619245f5",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-away-4pt5"
+ },
  "0x3aba74cd5357f0859036460cc36d639b0d50daaa73378de2464538337918823c": {
   "created_at": "2025-12-27T15:33:13.783105Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -449,6 +488,15 @@
   "revisions": 1,
   "sha256": "9e3b7df7967b26b163295dfb6f5b03efd501d0d825fa95a5d67a4c35861e4c8d",
   "slug": "will-fns-stream-team-qualify-for-vct-kickoff-2027"
+ },
+ "0x3e6225a079d27b5522ed9a455de1d7c4c1a0e781e68f7f5750c06a89f404b83c": {
+  "created_at": "2026-11-07T12:31:20.863789Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-bortoleto-2026-12-06"
  },
  "0x433ad403d0ed3b82ee8c4afd7eaa59e3ad289a6b1c036e8c5a837151acf69b3c": {
   "created_at": "2026-09-04T16:01:30.134972Z",
@@ -625,6 +673,7 @@
   "created_at": "2026-10-31T00:26:36.903794Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Trump speak to Friedrich Merz by November 30?",
   "revisions": 1,
   "sha256": "3188e2637b8b05d5741b3ed47c5acc66e2d36bf6a54f5ff8c49be478c7e2088e",
@@ -765,6 +814,15 @@
   "sha256": "5d6a3c2c1abed2e6aa8b35a7eca2daf46139929f17bc7c52b03d5f6f2b257db8",
   "slug": "will-thomas-muller-retire-before-1-july-2027"
  },
+ "0x6140a5f83ba35f1f74a97a957cf7094f8efdd5122e8d0ca51b3dd0d2a63e573c": {
+  "created_at": "2026-11-04T17:37:46.269279Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will MIBR Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-mibr-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x614b930a69255925355bda332515ff474d91913345b104a64d5a321118ac003c": {
   "created_at": "2026-08-26T21:46:31.611754Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -832,10 +890,20 @@
   "created_at": "2025-12-15T23:23:33.564622Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the TX-09 House seat?",
   "revisions": 1,
   "sha256": "7b04f91e906e34918a087661d3e2fb1d9fdb84c61c497e2f7339502af9c88b45",
   "slug": "will-the-democratic-party-win-the-tx-09-house-seat"
+ },
+ "0x6a5cca15e98801616b747b85f6b567986a8a315ff8c501fa57ecb6d17a88043c": {
+  "created_at": "2026-11-06T23:09:52.231691Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will there be no House floor vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "no-house-floor-vote-to-impeach-hegseth-by-december-31"
  },
  "0x6d43e2f1898f1f3bbfdc18a59fbb493f616fa9bea79d8f32c7bb0577dfb5ff3c": {
   "created_at": "2026-10-24T11:30:19.91576Z",
@@ -881,6 +949,15 @@
   "revisions": 1,
   "sha256": "6a54aa0ef690e8bd53773919c0d88b1188e82888b016ff80fcd24f027426641a",
   "slug": "will-a-player-from-the-sec-win-the-2026-heisman-trophy-20260803170245587"
+ },
+ "0x7529d78d012f26a358002386f09661bb0fbfa3afb207fc7527c029ec4b87093c": {
+  "created_at": "2026-10-15T17:01:05.033268Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 2 - 5 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-2-5"
  },
  "0x75fdaba1030f9fa0b644d8cc3fcd619ab1053a283f5d5ebc623e76adbc1a763c": {
   "created_at": "2026-07-14T16:58:13.190743Z",
@@ -972,6 +1049,15 @@
   "sha256": "ed4802b85f507b60dcfef02360e14fa507444c5ec02783308482d5dbe5a2b1fa",
   "slug": "will-putin-and-zelenskyy-meet-next-in-austria"
  },
+ "0x8aa7b130c5a85d2759e6400b5d903a80bde3642593923998169a2b5a19a9e23c": {
+  "created_at": "2026-11-06T23:09:50.161391Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 230-234 House members vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "230-234-house-members-vote-to-impeach-hegseth-by-december-31"
+ },
  "0x8defc5e304730c9fc2d5b409a6568f98314b61ff183c012337dbe5e5eb5e903c": {
   "created_at": "2026-09-14T20:21:14.905411Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1054,6 +1140,15 @@
   "revisions": 1,
   "sha256": "43cfad04c9ace87c49915455a0b56038e5f53a41849cbf5f8396df4b88beb69b",
   "slug": "will-there-be-another-us-government-shutdown-by-january-31-and-will-the-democratic-party-win-the-house-in-2026"
+ },
+ "0x9615b330413d1e08a5d357d2926102a1f1ba75e98439f12c51ec23e0325b733c": {
+  "created_at": "2026-10-15T17:00:58.218875Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 2 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-2-3"
  },
  "0x969645695c96c4f9092c8855d996b5bc21bc474865bba8ba291cb0a62d2ec13c": {
   "created_at": "2026-10-13T15:49:41.856058Z",
@@ -1140,6 +1235,7 @@
   "created_at": "2026-03-25T22:01:43.524397Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Aaron Boone win the 2026 AL Manager of the Year?",
   "revisions": 1,
   "sha256": "7cef382a9b1ebfc3a860dddefdd4fe7d9fc3e10959f3d15d0f6e523bfdbcf038",
@@ -1329,6 +1425,7 @@
   "created_at": "2026-06-26T15:48:04.982554Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Steven Snell win the 2026 Williamson County Judge election?",
   "revisions": 1,
   "sha256": "a4501c5aec3f2e0c8a5d7431b64fe4481e05fe9c98b5ce8a190b9b54d76bb90d",
@@ -1406,6 +1503,15 @@
   "sha256": "39904faaa9597741cd27ee315abee1e68ae34edb2c40a17c11b09bf625c1fa8c",
   "slug": "will-kamario-taylor-be-the-2026-sec-passing-yards-leader"
  },
+ "0xd6a0b3cacf0cd221110b46afd8d0fc8f5959924cec6e7300148dd75719cfb63c": {
+  "created_at": "2026-10-15T17:02:06.61783Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 4 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-4-3"
+ },
  "0xd7b71d46292081c7450431b039a9ff2a5d0d31664f6efdb0c046fbc430a35a3c": {
   "created_at": "2026-09-20T08:47:24.967191Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1455,6 +1561,7 @@
   "created_at": "2026-08-12T17:27:15.123832Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will San Lorenzo be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1528,6 +1635,7 @@
   "created_at": "2026-02-18T23:01:02.564063Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Kyle Bradish win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -1622,6 +1730,15 @@
   "revisions": 1,
   "sha256": "549b2765ce0088205e7070e5c99bd51a4f8d6cd27db352f08d3ff89fad4462ee",
   "slug": "will-a-derailment-be-nominated-for-best-documentary-short-film-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xf282298236c2b9a66d6f7ca7cd17a23969ebba9d93b818210090d7add5f4a83c": {
+  "created_at": "2026-11-10T02:14:35.779194Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Lisa Su be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "slug": "will-lisa-su-be-the-next-ceo-of-nvidia"
  },
  "0xf3c61ce4f5bb1e5e15f814804bebf5532e53f2291e08bc7a3f96381a3421cc3c": {
   "created_at": "2026-09-08T16:54:40.242875Z",

@@ -12,6 +12,7 @@
   "created_at": "2026-10-10T11:30:25.584292Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Charles Leclerc achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -43,6 +44,15 @@
   "revisions": 1,
   "sha256": "fc7ce0cee91d17e813ee17eb77caf7541f6dabfcd9b6ccf458bae1b2a33f7ca2",
   "slug": "will-moonshot-be-the-second-best-math-ai-lab-at-the-end-of-december-2026"
+ },
+ "0x089fb06893d1cf3691e18ca9184c391d7382268f9ee8686bbe2a5a92c4dc3eb1": {
+  "created_at": "2026-11-06T00:02:39.565152Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Pete Hegseth be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-pete-hegseth-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0x0b3436db02371b0539f732cfceab07ccba4536da1b4fd67a9cd25f8c58fdfbb1": {
   "created_at": "2026-08-05T20:56:56.802049Z",
@@ -343,6 +353,15 @@
   "sha256": "aafb3e584a4faba63595393e779f834897775d5348987627313cf77be50ab006",
   "slug": "will-george-kittle-finish-as-a-top-5-te-in-the-2026-27-nfl-season"
  },
+ "0x3b67c31ad8652ad035d50214da7d66d4358be9043d751b38d17311057e194cb1": {
+  "created_at": "2026-11-07T12:30:11.538274Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Aston Martin have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-aston-martin-2026-12-06"
+ },
  "0x3c11f8ef986c3e0f7b038d5789dae62151926ccd996cff76d138d221184456b1": {
   "created_at": "2026-09-13T08:44:28.466691Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -455,6 +474,7 @@
   "created_at": "2026-08-26T21:46:51.559905Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Austin FC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -559,6 +579,15 @@
   "sha256": "4e129a0d1e87db076675b05bd9751735a7314cc73540735e8c74522762696340",
   "slug": "will-justin-fields-finish-as-a-top-5-qb-in-the-2026-27-nfl-season"
  },
+ "0x6a37df3677a9740f939d4e03ece103aca5f3a48a2f62a66bd03223a4c348ceb1": {
+  "created_at": "2026-11-06T22:34:22.047288Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon receive 24% or more of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "91e62f7634e9da6fbdf0ef28c7e147275d06ebba136dfd5478b7cd5dc2e5b455",
+  "slug": "france-first-round-vote-share-jean-luc-melenchon-24-plus"
+ },
  "0x6a94b5cac88840e504bcb23dfe3c212e4fb8ae9aee547f7975e12b1cfffdfbb1": {
   "created_at": "2026-09-02T19:31:10.18598Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -585,6 +614,15 @@
   "revisions": 1,
   "sha256": "77723388953fea16630f6726d68af60bdcd8cbbd6e47827c75798d496f5c7f37",
   "slug": "will-bernie-sanders-announce-a-presidential-run-before-2027"
+ },
+ "0x6cfafcf7a8949362cfc32429a49752deab7e60c6bc477b85a3a73ff3a8dba2b1": {
+  "created_at": "2026-10-15T18:02:48.142537Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 0.5",
+  "revisions": 1,
+  "sha256": "b55402d6cc608494b2634438b559e672c7b37fd6d31fd171ac0bdd25589f7b6d",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-away-0pt5"
  },
  "0x6d6c66af7899b30790f3b9f33209c9c484b93ccdf390d262ce89b2231fcde5b1": {
   "created_at": "2026-08-17T21:04:38.967883Z",
@@ -753,6 +791,7 @@
   "created_at": "2026-08-10T23:33:22.020424Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Jaxon Smith-Njigba have 8.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "06b23bd2fb3bc59438f14d1f62a120129e1d35fe609e21fa0bd82f78800586c2",
@@ -852,6 +891,7 @@
   "created_at": "2026-10-03T19:00:26.583588Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Bohemians Praha 1905 to win the second half?",
   "revisions": 1,
   "sha256": "a1f7e7673e4095cb98a325c861e152ffcdff994b1caf8c3ce1c2433882847bad",
@@ -874,6 +914,15 @@
   "revisions": 1,
   "sha256": "c9f072637888cbf15806b0e40057af34931bb7c24c1d9764c0955e5bb7814528",
   "slug": "will-nansen-launch-a-token-by-december-31-2027"
+ },
+ "0x9a81517c0437dd03c19e2d41a5b3128eeb081abcfb0b4101cc0b63374c47e6b1": {
+  "created_at": "2026-11-10T02:40:52.192183Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"On to the Next One\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-on-to-the-next-one-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0x9a873b4a1b3e2908eecc42cff7518beb4ad048c519f8e43ff5f12781c8bb3fb1": {
   "created_at": "2026-09-27T20:11:25.225342Z",
@@ -996,6 +1045,7 @@
   "created_at": "2026-08-26T08:45:20.140533Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "91bbf3c01fde7c052488b6b5b20446bac96c03467a496826256d522ecb15123f",
@@ -1055,6 +1105,15 @@
   "sha256": "3edca5256c28c5489df705bdfb445497f342388b5bf3a945be71d7bfd6ae5268",
   "slug": "will-the-us-strike-12-countries-in-2026"
  },
+ "0xac776f363c1251b361aaa651ec7b3b48535e5d125bac9f6a4b7eef126b25d0b1": {
+  "created_at": "2026-10-25T10:15:18.807239Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 5 - 0 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-5-0"
+ },
  "0xad8b1ae859cab444868bca603cc0c636c7107b43f46d90ae9fada45115083cb1": {
   "created_at": "2026-08-24T16:33:34.785359Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1108,6 +1167,15 @@
   "revisions": 1,
   "sha256": "4d1b646137460330bd30f8c47f78f142941598bae0e92f3c8aed0bf50b0736e7",
   "slug": "tsla-above-390-on-november-30-2026"
+ },
+ "0xb287b6434f532436b73cda2c8771acd228b015df151559945fb824e588a298b1": {
+  "created_at": "2026-10-15T17:02:00.947127Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 4 - 0 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-4-0"
  },
  "0xb33efd4da12392af897732fffbf8bf6dfaed67e81396ed0488f796cc31ae1fb1": {
   "created_at": "2026-10-01T00:10:05.567655Z",
@@ -1298,6 +1366,15 @@
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-jamal-murray"
  },
+ "0xe25eab4b0e7a17c7db1648927482591e0f2a4cf953c238e423eb44370b9627b1": {
+  "created_at": "2026-11-06T22:31:39.26393Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Rapha\u00ebl Glucksmann win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-raphael-glucksmann-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0xe3253f02d16ffcd7460e53a3f71ebbb9f4b533c73a355eda7706b7f9951793b1": {
   "created_at": "2026-08-28T19:59:39.768933Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1411,6 +1488,7 @@
   "created_at": "2026-05-22T18:33:42.323821Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Doug Burgum be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -1424,6 +1502,15 @@
   "revisions": 1,
   "sha256": "c87cf6ba38095d415ba9da9f922890236a84e5eee2b64acc803663ef6362c2b2",
   "slug": "will-vegalta-sendai-be-promoted-to-japan-j-league-2026-27"
+ },
+ "0xfc7f28116621b9abfc4fe79651cf4a460dc83ffb0c9d5645b38eaaa6ffeff1b1": {
+  "created_at": "2026-10-15T18:01:00.334362Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 0.5",
+  "revisions": 1,
+  "sha256": "02dfb2bdb511234be9d0e2675af5ca1cbdb2f48f13c20f1d581482a85c13df2b",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-away-0pt5"
  },
  "0xfd5520eec131437a821138d429501b3f67ddab8a2d58e5ef7f157fda013bb4b1": {
   "created_at": "2026-10-16T19:06:00.731798Z",

@@ -192,6 +192,7 @@
   "created_at": "2026-10-25T04:00:41.799714Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $2.00 in November?",
   "revisions": 1,
   "sha256": "f80a43f2a6545b4a95994a7d3d27401de409b26ed7442a81f36d920bea34dbea",
@@ -363,6 +364,7 @@
   "created_at": "2026-10-02T18:00:01.169784Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 4.4%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
@@ -552,6 +554,7 @@
   "created_at": "2026-08-26T21:46:44.728522Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will FC Kairat keep the most clean sheets in the 2026 Kazakhstan Premier League?",
   "revisions": 1,
   "sha256": "32b9ea714a646b3d9ab79335791909795aa603337b605c609ef1945c5b6b08e9",
@@ -701,6 +704,15 @@
   "sha256": "884c6e8e81433ab154a6687fd724dbc49935e9c0cc8fe78b4b9fc8753c1b87fc",
   "slug": "will-tencent-be-the-second-best-ai-lab-at-the-end-of-november-2026"
  },
+ "0x7372598c81b705a2bc74b6be30c499cdb3c61ce862e42874793e35879012f2e5": {
+  "created_at": "2026-11-06T23:09:49.362274Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 225-229 House members vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "225-229-house-members-vote-to-impeach-hegseth-by-december-31"
+ },
  "0x73bd903e32e72ead0d99eb082c9e731c1a0e4ddab3cccb57ec8c55684b55dde5": {
   "created_at": "2026-09-04T19:23:14.161823Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -755,6 +767,15 @@
   "sha256": "a7cd60844bd1bc9031fd2f02f1e8c3ebed2a78a3c67b93142b19e8bb6238f50b",
   "slug": "will-chad-ryland-be-the-highest-scoring-k-of-the-2026-27-nfl-season-20260806224131988"
  },
+ "0x7eec34441b94932f9e4fc11356c1ddfe4328b4d40a62fd026d0aa4dca6a1a5e5": {
+  "created_at": "2026-10-15T18:02:12.249697Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: RCD Mallorca (-3.5)",
+  "revisions": 1,
+  "sha256": "d0b80688f43fc7b4a84768d33647efca2bea7ae50a2b11180bfa250c8c7e4d1b",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-away-3pt5"
+ },
  "0x7f9819d82d55e21471501e6ec3b4f9aab948718e7d88bcdd33383d8735cb62e5": {
   "created_at": "2026-08-26T21:46:35.966852Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -804,6 +825,7 @@
   "created_at": "2026-08-26T08:44:17.977513Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Team to Take First Corner",
   "revisions": 1,
   "sha256": "d61e3b1bbad0ac9fc51ecb4d94591081bb261aae9433a9a421e811bf71052aad",
@@ -981,6 +1003,15 @@
   "sha256": "ca9e380ace940610b7b9538f7db88b58c91d182aac322a767de06043b1b71fa2",
   "slug": "will-the-republican-party-candidate-win-the-2026-texas-senate-election-by-3-6"
  },
+ "0xad3bf5d4b52ff7b8aec96877fc2e765515635d9ec04657bc52aa51fb5ef17ce5": {
+  "created_at": "2026-11-06T22:58:36.102145Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Scott Turner be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-scott-turner-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0xae42a3fff8be8a66b00e8dc806fb21f378c2f800d056a4c3746bc54712573de5": {
   "created_at": "2026-08-24T16:33:36.934861Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1075,6 +1106,7 @@
   "created_at": "2026-06-26T16:24:42.247955Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Hollie Chadwick win the 2026 Henderson mayoral election?",
   "revisions": 1,
   "sha256": "e99a2966cbd8f6cf0bf0b1bc9e969c4d4bd8e7e96c3921bcb3f33f1b6cc3dc56",
@@ -1219,6 +1251,7 @@
   "created_at": "2026-08-24T16:33:51.108022Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Dalian Kun City be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",
@@ -1300,6 +1333,7 @@
   "created_at": "2026-10-10T11:30:44.20582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Esteban Ocon finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -1313,6 +1347,15 @@
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-clemson-have-more-than-7pt5-wins-during-the-2026-cfb-season-20260810194014674"
+ },
+ "0xe486c0fb9ea92466be82ea8c4696ef3fcc6e9b9994b21f6c7d198c60f190aee5": {
+  "created_at": "2026-11-10T02:43:28.169537Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Gatorade shower at Super Bowl LXI be clear/water?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "will-the-gatorade-shower-at-super-bowl-lxi-be-clear-water"
  },
  "0xe4a4162f0de2364305207de22e732b5ac92d01fddfe036f23879978a484c19e5": {
   "created_at": "2026-08-12T17:23:25.917026Z",
@@ -1336,6 +1379,7 @@
   "created_at": "2026-10-10T11:30:14.293544Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Alpine get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "7ea8f93fa1a54e6036981326164be1cc7c9b93909384958de042d23e59d78a7b",
@@ -1376,6 +1420,15 @@
   "revisions": 1,
   "sha256": "a2cf5a67666d98154eea25f38b4918363037c31ed1ee1d77612bc9b7284f8447",
   "slug": "will-defensa-y-justicia-be-relegated-from-liga-profesional-argentina-2026"
+ },
+ "0xe8ec71995b17e7b5c8ec616e79c48f295db377a381c6ec761f4ebeae4a2126e5": {
+  "created_at": "2026-10-15T18:02:17.820292Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "1d881098aad2cd35eae968a9d3c392bfcfdc5608bf877eea38d6c4e36fcfa8c5",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-home-2pt5"
  },
  "0xe9d66898d7e7dfbd044222b5dd362f407a11101d84db3e097260ac6509e21fe5": {
   "created_at": "2026-10-01T14:01:05.702512Z",
@@ -1462,6 +1515,7 @@
   "created_at": "2026-09-02T21:58:36.666645Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Sacramento State Hornets advance to the 2026 MAC Championship Game?",
   "revisions": 1,
   "sha256": "999043ac8aeabbbef3ed71c9e4cd52e3613a8bd54e28381f42504e51cc912e13",

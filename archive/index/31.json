@@ -404,6 +404,15 @@
   "sha256": "4260c09d3fadb7e18df47f54d8ed887e56d191a57a167c5c84e4ee899715cd34",
   "slug": "will-gaziantep-keep-the-most-clean-sheets-in-super-lig-2026-27"
  },
+ "0x44b31370f012c536b14ab48ef56d8dbee49a55926adebeb378b2cc648cce7e31": {
+  "created_at": "2026-11-04T17:37:54.350479Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will 100 Thieves Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-100-thieves-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x45101e29772434f38853e41aa3f28e4a933b7c7d2e0243d82ad7c342d9a76931": {
   "created_at": "2026-09-18T08:46:19.050921Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -489,6 +498,7 @@
   "created_at": "2026-10-10T11:30:31.330335Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Oliver Bearman achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -639,6 +649,15 @@
   "sha256": "6798e71718ec0fbe7bcc5ab788ca50926dddad90d25f60827f1231c3d16b1e59",
   "slug": "will-pan-win-the-most-seats-in-the-2027-aguascalientes-congress-election"
  },
+ "0x68f888f40b8441cbf72ca38589cb1e8a49e5f27cb1e985f9e7dba1f5f1e05631": {
+  "created_at": "2026-11-10T02:40:54.139717Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"God Did\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-god-did-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x69cffb9f9824b70c2a9806045538f104ecb050531c9b28674eb48c6002bc7131": {
   "created_at": "2026-10-13T19:55:48.879554Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -764,6 +783,15 @@
   "revisions": 1,
   "sha256": "a7e0b987a1d9c93ef944bbe7194c0b6c67c73404c1273669106793d4e669fdd6",
   "slug": "will-sv-ried-be-relegated-from-austrian-bundesliga-2026-27"
+ },
+ "0x86738c9c13d46906e8b99ea22081eca07d252c0d17cdb36c7233d2aa92bf9931": {
+  "created_at": "2026-11-06T22:58:37.848409Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Doug Collins be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-doug-collins-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x8a17dd70d5ac5055411b1898e0b73770bf18ec6626339f0241f16a84601d1b31": {
   "created_at": "2026-11-03T02:59:25.857594Z",
@@ -911,6 +939,15 @@
   "sha256": "470a07e828e932e9e986711e1bd4bd7ec1cc361747c06882f1a5a7895de59ac2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-12-house-election-by-55-60"
  },
+ "0xa3ab2535cfab3b5117527b56842afc47bf0663001f2c725752b0bf714da54831": {
+  "created_at": "2026-11-07T12:31:21.354704Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Charles Leclerc finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-leclerc-2026-12-06"
+ },
  "0xa4a1a83cb4b6e6bdbb5506fe9978548b4234e57df21e0186b5e9709d123f4631": {
   "created_at": "2026-08-06T08:37:15.924219Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -970,6 +1007,7 @@
   "created_at": "2026-08-26T21:46:53.652753Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Real Salt Lake keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -1034,6 +1072,7 @@
   "created_at": "2026-01-28T15:36:50.836555Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the NV-02 House seat?",
   "revisions": 1,
   "sha256": "f39cadfca86e17f42058157e3b3473f51edffcb39626385720165ffbfff08e12",
@@ -1047,6 +1086,15 @@
   "revisions": 1,
   "sha256": "3610ad5184d125d5989acd5e9d4bb341f4708856dbf9a1c482bd72b7bcc8863f",
   "slug": "nba-2026-27-players-to-average-10-plus-rpg-ivica-zubac"
+ },
+ "0xb7d4c1e9261b8589f66382eaa1b9d38d5acefa4e104b23d027cac48334dbf831": {
+  "created_at": "2026-11-10T02:41:30.552627Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"'03 Bonnie & Clyde\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-03-bonnie-and-clyde-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0xb7d7684c2bf63c21d641d2d9e29ca22d1a7256e98e0032310eea19ae6836b931": {
   "created_at": "2026-08-12T17:33:08.633535Z",
@@ -1273,6 +1321,15 @@
   "sha256": "2cab82c9a3b70912b27317706782f9309f4d9c96f238a352da26cad126576ace",
   "slug": "will-an-afc-south-team-win-the-2027-nfl-league-championship"
  },
+ "0xe3d13a3d854cc67fe299bf6b70baa43bd83e7fb8f344f59ddb04dcfe78d98e31": {
+  "created_at": "2026-10-25T10:15:16.043599Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal leading at halftime?",
+  "revisions": 1,
+  "sha256": "848941c4a24f2094091605497a7e5a8568d90fee928bbdc2fc522aec17557084",
+  "slug": "gtm-mun-aur-2026-11-07-halftime-result-home"
+ },
  "0xe3ff1d57e15048342335fa2a0e3fee488f13d86adff2608e06fab4bebfc8a131": {
   "created_at": "2026-08-26T21:46:08.229207Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1340,6 +1397,7 @@
   "created_at": "2026-08-28T19:43:59.232125Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Vasco da Gama win the 2026 Copa do Brasil?",
   "revisions": 1,
   "sha256": "132cb5a78f699a3f4748f53cd6dae452615ea804fb2ae60ea9cbc130de572443",

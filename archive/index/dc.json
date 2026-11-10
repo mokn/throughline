@@ -84,6 +84,7 @@
   "created_at": "2026-08-24T16:35:47.334456Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lillestr\u00f8m finish 13th in the 2026 Norway Eliteserien?",
   "revisions": 1,
   "sha256": "1fdc92a20f9e9bb537b72d34ec4f616ee93041f908dd28cc1414391d44073daa",
@@ -207,6 +208,15 @@
   "sha256": "18c425994c6fcaf862c271f1828d8137c6f497258bef9247cebf1735ea903188",
   "slug": "nba-2026-27-apg-leader-ja-morant"
  },
+ "0x271a4167852665a2602cbf191b5aee132ca1fcbf6a4d9ebc68bb27a1277facdc": {
+  "created_at": "2026-10-15T17:01:37.781703Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 4 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-4-2"
+ },
  "0x271a9f9b8638502f90361736fbf9d4327d74802cda3036b7e0c427f381d558dc": {
   "created_at": "2026-09-02T21:58:00.007227Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -324,6 +334,15 @@
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
   "slug": "will-nvda-reach-216-in-november-2026"
  },
+ "0x418cdb8d544f13cbf2031a96521860bc212ec9c289f64e0efc79ab5c962dd0dc": {
+  "created_at": "2026-10-25T10:15:19.728544Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 4 - 4 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-4-4"
+ },
  "0x433c870e489ec43502acdf71e142135836d446393e1f6137829568a0e60d13dc": {
   "created_at": "2026-08-28T20:17:54.23862Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -437,6 +456,7 @@
   "created_at": "2026-09-09T15:53:47.109384Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Luka Vuskovic win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -644,6 +664,7 @@
   "created_at": "2026-10-10T11:30:33.560993Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Pierre Gasly achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -730,6 +751,15 @@
   "sha256": "53f2cccdd30dbf0bb4cea2f99e8b9fc7d6214c4e1a9821a8454c8f513dd6f1b8",
   "slug": "will-malaga-cf-be-promoted-to-laliga-2026-27"
  },
+ "0x8e2a2e69457486a9c1b844b430f7553e92b1143bd6be9fb4ea3c29a67e174cdc": {
+  "created_at": "2026-11-06T22:31:37.080047Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will David Lisnard win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-david-lisnard-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0x90b8be0a33786fd74dfd3a5e85c3273e608873d5c583c76d94406863e45304dc": {
   "created_at": "2026-08-10T15:49:51.621863Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -765,6 +795,15 @@
   "revisions": 1,
   "sha256": "f46155dc485204349bfab0b62492076cc5e5c838b6f71cf3bef59673eadf1562",
   "slug": "brock-purdy-30-passing-touchdowns-2026-27"
+ },
+ "0x9c0499e9be18fd445cbca5ed25b03cd3aaee321652de1e7370c282b717286bdc": {
+  "created_at": "2026-11-04T17:37:51.737196Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Eternal Fire Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-eternal-fire-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x9c58a9ce053dfa8638d446bb1287858b1286707d81864c1c592d5224d66209dc": {
   "created_at": "2026-08-24T16:34:18.399051Z",
@@ -815,6 +854,7 @@
   "created_at": "2026-08-26T08:15:19.197719Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Oxford United FC 1 - 3 Reading FC?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
@@ -883,6 +923,15 @@
   "revisions": 1,
   "sha256": "814a2915e3f50765ad42ecf96aa1709a377c70ddb3e332d383e6a0b2a95ee3d5",
   "slug": "will-pais-win-the-third-most-seats-in-the-2027-salvadoran-legislative-election"
+ },
+ "0xb05b57486f7a80b7c0317dee639359e8abaf86d6af0721f06f4b408ba94014dc": {
+  "created_at": "2026-10-15T18:02:42.545646Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Utebo FC (-1.5)",
+  "revisions": 1,
+  "sha256": "f305406f129c527cdae6340f5ed3687fe0dab3e65f3f4bc49d581deba51f8dd2",
+  "slug": "cdr-ute-sab-2026-10-28-spread-home-1pt5"
  },
  "0xb32644ff32a063a0cc0c12811220cf0837e9378cd6b08cb9cfce45f82fd418dc": {
   "created_at": "2026-08-21T21:01:41.124283Z",
@@ -1216,6 +1265,15 @@
   "revisions": 1,
   "sha256": "9ef1d91d103cc4a3bc91b165308c8e0b915c46fbc050218f3f5b42d38bda5553",
   "slug": "el1-bla-lei-2026-10-03-second-half-team-total-away-2pt5"
+ },
+ "0xfd7a5f8e257f3f901fa343a2fbea36f771504d089eb95436344f28dc8323a8dc": {
+  "created_at": "2026-11-07T12:31:25.412887Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-lawson-2026-12-06"
  },
  "0xff0d9d1dfed72405ed80fd6cd67131e98e57ac42887f1e61ea50fdb740a097dc": {
   "created_at": "2026-08-24T16:36:27.177024Z",

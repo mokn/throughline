@@ -125,6 +125,15 @@
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
   "slug": "f1-las-vegas-grand-prix-driver-pole-position-hamilton-2026-11-20"
  },
+ "0x1961ded66550ba4f1722e239e71cf865c8f92725e436fcabc944cb291a3edede": {
+  "created_at": "2026-10-15T17:00:55.036079Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Utebo FC vs. CE Sabadell FC end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-ute-sab-2026-10-28-draw"
+ },
  "0x1a224c56007d03e144ae0fd3af59cd594d20dad56529c683e579a0ba66bc7dde": {
   "created_at": "2026-08-04T19:27:30.046595Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -196,6 +205,15 @@
   "revisions": 1,
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-carlos-soler-record-the-most-assists-in-the-2026-27-uefa-europa-league"
+ },
+ "0x256123c33702ee08c02f103283c502a6f1e51ac7f98f16718f652dbc051444de": {
+  "created_at": "2026-10-15T17:02:05.802431Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 1 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-1-3"
  },
  "0x275f2d768760496158d28670e72a35bb5172345379f4b09ed1bac41885bd75de": {
   "created_at": "2026-09-02T18:48:52.163509Z",
@@ -496,6 +514,15 @@
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-titans-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
  },
+ "0x441ba03f6fb86c6181dc5203900c23fea786b5a39d9ae91116e8a5aceaeefade": {
+  "created_at": "2026-10-25T10:45:20.516074Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 2.5",
+  "revisions": 1,
+  "sha256": "bc5e76f36c89cb7d0f90956d19ffe3e8bfc079967dd1f741f067aa7846a2b816",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-away-2pt5"
+ },
  "0x4491c8a57d74a91dd26d3158f24aedf218d1ed98a1f1adda4ee4069b4fe114de": {
   "created_at": "2026-09-04T20:09:36.897563Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -626,6 +653,7 @@
   "created_at": "2026-09-22T13:49:06.971878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Iran target the United Arab Emirates by October 31, 2026?",
   "revisions": 1,
   "sha256": "7808bcfb6925c40d7322dd6611e7146128eecddd63bb6a28d8a4be311399e0ac",
@@ -871,10 +899,20 @@
   "created_at": "2026-09-03T22:06:02.634707Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win white women in the midterms?",
   "revisions": 1,
   "sha256": "521fc6921b2c20c166cc56dd7aebb76c4bba678744a2b230e4309125a8bd4a75",
   "slug": "will-democrats-win-white-women-in-the-midterms"
+ },
+ "0x7a445e11fbada420203666119476cf215307be43bf83603888edd0c30591efde": {
+  "created_at": "2026-10-15T17:01:05.451333Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-any-other"
  },
  "0x7ad33d62d11cd53d7969262c21837750b03c1b36c64979d1f133ec1e27d721de": {
   "created_at": "2026-09-04T19:28:55.333801Z",
@@ -1078,6 +1116,7 @@
   "created_at": "2026-10-10T11:30:27.545505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Isack Hadjar achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1183,6 +1222,15 @@
   "sha256": "c698df99ff3ce749dfa78627abc19fbde2ef3934b02bbdd88e5a46edab9010ec",
   "slug": "will-psoe-win-the-most-seats-in-madrid-in-the-2026-spanish-general-election"
  },
+ "0xa411a2526eef15aed71b8929c1779298fa74b1b60d32660fff7639792033a8de": {
+  "created_at": "2026-11-09T16:07:17.210502Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "New US State admitted during Trump's term?",
+  "revisions": 1,
+  "sha256": "20569b412baf70f02861b55868c9a017784df69fc68afc9ee3dc853863cc1914",
+  "slug": "new-us-state-admitted-during-trumps-term"
+ },
  "0xa5c370a8f5e457e89e50d3d9fe824d5349321871382a306255550cfe150cccde": {
   "created_at": "2026-07-24T01:57:27.485476Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1255,6 +1303,15 @@
   "sha256": "5f785ad9a26c5d272898bbaf52c4759857752e8b503e5788ab4af39387e2a475",
   "slug": "will-cristiano-ronaldo-announce-his-retirement-in-2026"
  },
+ "0xae53cf75cfa634717c471325bf11512d62f34dcbd6955cfe46920bb3d7a52dde": {
+  "created_at": "2026-10-15T17:00:58.93808Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 4 - 4 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-4-4"
+ },
  "0xb055fc1032e4fb8af34182d84a286f826ed6afcd49982bda6b7e3f9c20aea7de": {
   "created_at": "2026-05-18T20:33:31.274543Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1323,6 +1380,7 @@
   "created_at": "2026-08-24T16:33:55.590884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Yanbian Longding be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",
@@ -1341,6 +1399,7 @@
   "created_at": "2026-10-10T11:30:35.945909Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Lewis Hamilton achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -1414,6 +1473,7 @@
   "created_at": "2026-08-12T00:15:35.450512Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Argentinos Juniors win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -1644,6 +1704,15 @@
   "sha256": "e4cd216b38b12696fee8e4625b3588e017877caa53b0ca75c604bf4bb605118e",
   "slug": "will-josh-jacobs-win-the-2026-nfl-offensive-player-of-the-year-award-for-the-2026-27-nfl-season-20260716005216324"
  },
+ "0xf71d7890def158b3c90c54dbe2bee80f843c5aa980699f92488b5b777afbddde": {
+  "created_at": "2026-10-25T10:15:19.478383Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 4 - 3 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-4-3"
+ },
  "0xfb1169decea0d01a53f9b2323e28b55c743841b1f68f7885174ce0cf0e4e50de": {
   "created_at": "2026-08-04T21:40:54.99294Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1675,6 +1744,7 @@
   "created_at": "2026-10-03T19:00:28.022399Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 4 - 1 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",

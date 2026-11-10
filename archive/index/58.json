@@ -108,6 +108,15 @@
   "sha256": "2ffca77b8fab5ff42efce4c008e82b4df6160755692b30e3199ffd86d87e20fd",
   "slug": "will-madden-win-best-makeup-and-hairstyling-at-the-99th-academy-awards-20260805190946930"
  },
+ "0x112d978e3125f7ee8cc82ea4dbca6cf0c828196f8918d08a5d341fe66c92f458": {
+  "created_at": "2026-11-10T02:41:52.150222Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Dirt Off Your Shoulder\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-dirt-off-your-shoulder-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0x11d61558d9b81132b498a60d30285f7dffd90e25711e376c28b8fb0faf5a3858": {
   "created_at": "2026-05-26T21:16:16.797949Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -442,6 +451,15 @@
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-mark-scheifele-win-the-2026-27-maurice-rocket-richard-trophy"
  },
+ "0x3c6918f6944f05883477c01f0f4380a63096e8e11f00c11595ac1aa1294c3358": {
+  "created_at": "2026-11-10T02:14:35.114909Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Debora Shoquist be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "slug": "will-debora-shoquist-be-the-next-ceo-of-nvidia"
+ },
  "0x3d302c76e076e3ee880be4d154ba724d1bc0eeed0c63824fbeb242252acd8358": {
   "created_at": "2026-09-09T15:53:09.689099Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -549,6 +567,15 @@
   "revisions": 1,
   "sha256": "b05400ea6c544a8bde4aeeda16d00104d257594b0e06e9fa79e81d3f17ec1f86",
   "slug": "jakobi-meyers-1000-receiving-yards-2026-27"
+ },
+ "0x47b1d0399f58364f3dc4c97a3244845fc32651ceffdda9c0663900024138d758": {
+  "created_at": "2026-11-07T12:31:17.233154Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Norris or Verstappen?",
+  "revisions": 1,
+  "sha256": "b4cb7ea36dc05e3a8d6fe60d98656997558d2bdfe2faeebfefc72d3d490cd98f",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-norris-vs-verstappen-2026-12-06"
  },
  "0x47ccfd58bb40b3a7181c027ad430843ec737076b8ce8afaa8a375fd85f011658": {
   "created_at": "2026-08-21T17:31:53.343989Z",
@@ -853,6 +880,7 @@
   "created_at": "2026-08-28T20:17:36.645794Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jaylen Waddle be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -938,6 +966,15 @@
   "revisions": 1,
   "sha256": "1d4a17a06c3618f6849e87bd81c896829a996320afda54ba8f5fd5111c11ca10",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ky-05-house-election"
+ },
+ "0x9ba34aed5a40fb8254d2ea2b88c55d7b27312f26d4ac2f31ce5c0c810529cf58": {
+  "created_at": "2026-10-25T10:15:17.426072Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 2 - 0 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-2-0"
  },
  "0x9d48989071ce5b16bac542ed693f589a2fde1950e0a4fc360150f2320059f758": {
   "created_at": "2025-11-19T15:53:31.333635Z",
@@ -1150,6 +1187,7 @@
   "created_at": "2026-08-26T08:15:19.449681Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Oxford United FC 2 - 3 Reading FC?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
@@ -1186,6 +1224,7 @@
   "created_at": "2026-08-12T15:00:31.529549Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will South Carolina have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1231,6 +1270,7 @@
   "created_at": "2026-01-28T15:36:21.866782Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NJ-02 House seat?",
   "revisions": 1,
   "sha256": "6b8f0f5d139ae8a61b51cdf40a5a9bc3fff4c5098057012c34deef1fbdc80b6e",
@@ -1281,6 +1321,24 @@
   "revisions": 1,
   "sha256": "9c3524a07a4c5422ce0d89a147153e22fa65a5b5b283f75a52fdb51975870aed",
   "slug": "will-usdkrw-hit-1700-high-in-2026"
+ },
+ "0xe35edec69605f254838229aa32362c81fa5a62c677a9e62a46c6e01de80d9058": {
+  "created_at": "2026-10-15T18:01:08.978911Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 4.5",
+  "revisions": 1,
+  "sha256": "1635e101380cb3a0c5f9b05540c8b27422ce55dc5318c5dad4a1bde9352762a6",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-4pt5"
+ },
+ "0xe6123cdd2cd17523cbb806731566f3ec3447623781a36481dc23c3bc3a170758": {
+  "created_at": "2026-11-09T21:17:54.368557Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will G2 Esports Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-g2-esports-win-an-international-event-in-2027"
  },
  "0xe9ad26f23becd7102d2631ac45c1ab3a57254ed6736eb7a73575bccf6ecda358": {
   "created_at": "2026-10-03T11:32:14.844263Z",
@@ -1430,6 +1488,7 @@
   "created_at": "2026-09-29T00:12:11.591491Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Ukraine by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",

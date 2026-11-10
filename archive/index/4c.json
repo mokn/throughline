@@ -152,6 +152,15 @@
   "sha256": "fd27468195c362fe1b19236c0b99cbaaae0a03ff0fea22b4ce0f3853842515c1",
   "slug": "will-seoul-have-between-30-45mm-of-precipitation-in-november"
  },
+ "0x120238000bf8c31d1ae3a13dcecf84037e99542ce02aff36d1edbcd4f8e5fb4c": {
+  "created_at": "2026-11-10T01:01:33.397245Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Newsom's Democratic nomination odds hit 15% by December 31?",
+  "revisions": 1,
+  "sha256": "2f7a9f54cbd623ed0955d2f6a92b28fd344a55db2b7f3b89f03d12cb9604b161",
+  "slug": "newsoms-democratic-nomination-odds-hit-15-by-december-31"
+ },
  "0x1295f32dd594927e3a46dcf6f041233d2e762b5e3eb6d900235ce0a5ebf2364c": {
   "created_at": "2026-01-05T13:50:27.340029Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -242,10 +251,20 @@
   "sha256": "a045889b124fc1fc8b1870a06355ca351e356d751297ca1e46c2edd9762fde25",
   "slug": "2027-soccer-2-bundesliga-runner-up-karlsruher-sc"
  },
+ "0x22f905d63b64067ed93f8bd1bd0a3407965a8d51f590f53798671975eaf9f94c": {
+  "created_at": "2026-11-05T02:12:12.590227Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the new Senate confirm a Trump Cabinet or federal judge nominee by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "3685844e49a2b1e05520755247664499174a1591b11dbcf0a50f3a59c138bff3",
+  "slug": "new-senate-confirms-a-trump-cabinet-or-federal-judge-nominee-by-january-31-2027"
+ },
  "0x23dae02624e2eac0ab4d7e452cdf29959646c6154afa33f40c20a1ac38a1914c": {
   "created_at": "2026-03-25T22:06:57.794661Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Clayton McCullough win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
@@ -255,6 +274,7 @@
   "created_at": "2026-10-10T11:30:02.182012Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Pierre Gasly win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -327,6 +347,7 @@
   "created_at": "2025-12-15T23:46:57.642477Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the WA-03 House seat?",
   "revisions": 1,
   "sha256": "6367d285fdd61bd26a4ae79dfecb9ac46779a99254dd96fedfeed31f07d35975",
@@ -336,6 +357,7 @@
   "created_at": "2026-08-26T21:46:55.121597Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Vancouver Whitecaps FC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -358,6 +380,15 @@
   "revisions": 1,
   "sha256": "d244041d96e0be5577acebe3439a8d08c6cbd872dca79d8c85ea7b0032316975",
   "slug": "will-malik-nabers-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-yards-20260715211950745"
+ },
+ "0x33289d2b5a73efae8651d29eb75bebe4fe9bfd4c5f73cb759046ab4ddd7c3b4c": {
+  "created_at": "2026-11-06T23:09:48.449245Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 220-224 House members vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "220-224-house-members-vote-to-impeach-hegseth-by-december-31"
  },
  "0x358f013d6fda68ac23284cd6df77487f2b587de214d5ed7a7bdd97c38028784c": {
   "created_at": "2026-08-05T16:18:07.039466Z",
@@ -569,6 +600,15 @@
   "sha256": "10e49100d490b4ba2b4c05dded0a3a12bf14f21498d98b12dbbdd189572ea0d3",
   "slug": "will-nk-aluminij-finish-8th-in-slovenian-prvaliga-2026-27"
  },
+ "0x5bc3c73db3f90ad35eaec8c52cb6f5a15af825e533ef35039bfff2ee4dfd794c": {
+  "created_at": "2026-11-09T21:17:56.730313Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will NRG Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-nrg-win-an-international-event-in-2027"
+ },
  "0x5c3c581aec73f716ea10fc03953b4a18123df4714310c93f43d73be91aa5f04c": {
   "created_at": "2026-09-30T20:28:32.022707Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -591,6 +631,7 @@
   "created_at": "2026-04-02T15:16:56.751734Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Cusco FC win Peru Liga 1?",
   "revisions": 1,
   "sha256": "e856666fdf6897e1e64561e5a585033b58d079375e5418212f3c689d515892ad",
@@ -735,6 +776,7 @@
   "created_at": "2026-09-03T00:10:56.488077Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Next Fable Model (5.2+) released by December 31, 2026?",
   "revisions": 1,
   "sha256": "b8af7fbf0b4776baf7ace1e29639bf841ddce8dd5051fd9e1de45966331e3d38",
@@ -784,6 +826,15 @@
   "revisions": 1,
   "sha256": "28325ed7bd4785b8ae289ecbff1a69667a853b6c03d32b46513f2d1f947fecd4",
   "slug": "spl-riy-hil-2026-10-16-exact-score-4-4"
+ },
+ "0x83546a07f0143cbe15b117b92f76d2a2096cd8283cefee54f3e0be3c1711a54c": {
+  "created_at": "2026-11-06T00:02:48.073181Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will David Kustoff be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-david-kustoff-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0x83a297617742d4cb63949123938eccc1a4875727ddb0657523f0a8e2fbfaad4c": {
   "created_at": "2026-10-01T23:00:13.483196Z",
@@ -1019,6 +1070,15 @@
   "sha256": "fa367963e31df6a888fd2e79ac5ea488dd82689a2d66150cba0ec224054ead92",
   "slug": "arc-fdv-above-10b-one-day-after-launch"
  },
+ "0xa0cc0e537c14a34e067700746fb9c7982a1926513c5254fb12c4a7d24e59974c": {
+  "created_at": "2026-11-10T03:01:16.077382Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will So Easy (To Fall in Love) (Olivia Dean) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-so-easy-to-fall-in-love-olivia-dean-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xa3355998e867f48b3d4a77c850477d89e390dc32859652ff4fd7abfbd0ea7b4c": {
   "created_at": "2026-09-09T15:41:24.410026Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1072,6 +1132,15 @@
   "revisions": 1,
   "sha256": "d9bfb74e7925abe8b87729c2132036425a34083c29e67652afb010d83fe2bde8",
   "slug": "will-keisha-lance-bottoms-underperform-kamala-in-georgia"
+ },
+ "0xa94b36c1beaa4f0fa0341a4921b6cacee0100d4ef95c74f7e5c378130855ec4c": {
+  "created_at": "2026-11-09T22:28:05.874214Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Sebastian Hoeness be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-sebastian-hoeness-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xadae076a0b8eb6aec68e97b68fc43f87ffc5dc5c8c4c8c9a933d5ca2d7a1d24c": {
   "created_at": "2026-08-10T15:34:06.019737Z",
@@ -1295,6 +1364,7 @@
   "created_at": "2026-10-03T19:00:27.557382Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 0 - 4 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1430,6 +1500,7 @@
   "created_at": "2026-10-01T00:02:06.959016Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be between 20 and 24 average daily transits of the Bab el-Mandeb Strait on October 31?",
   "revisions": 1,
   "sha256": "b2158613ee34b2f4f271d267df930ca338f48c5d54bc933d94d3ba22a8b0ee84",
@@ -1470,6 +1541,15 @@
   "revisions": 1,
   "sha256": "b82b1d43ab90d322396a4a71974a366954717a1e95124cc5fffbbd132c37805a",
   "slug": "will-deportivo-garcilaso-be-relegated-from-peru-liga-1-2026"
+ },
+ "0xed55dc7cc9d9e70cc2cab4e70536723cf27b159241bc300c8bbf4ca765b47f4c": {
+  "created_at": "2026-11-07T12:30:16.566286Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-norris-2026-12-05"
  },
  "0xedf2687ae6c30c2061ac8295d898aa4a1d43369387fe019ed5385a4dbee6ef4c": {
   "created_at": "2026-10-13T19:55:43.581888Z",
@@ -1587,6 +1667,15 @@
   "revisions": 1,
   "sha256": "af9cd72def46729474be5d335fdeb4a1efd342b1e1e4667817e83862fd5345d7",
   "slug": "will-the-vegas-golden-knights-finish-the-2026-27-regular-season-with-the-fewest-points"
+ },
+ "0xfe59043581cf36eeedef120c358961df537b8cdeb39e088baf9d91eb5e88024c": {
+  "created_at": "2026-11-09T17:24:14.62402Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Democrats win the Minnesota Senate special election in 2027?",
+  "revisions": 1,
+  "sha256": "e3085cf0c1933d12b70cb16d1be174ef178dee9c95482f4ea903263b8899e8c9",
+  "slug": "will-the-democrats-win-the-minnesota-senate-special-election-in-2027"
  },
  "0xfeaaaf52bdd5286d106eb67a25a10abd4898748d285d7717963ce02506f8a94c": {
   "created_at": "2026-08-28T05:57:30.350637Z",

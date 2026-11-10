@@ -8,6 +8,15 @@
   "sha256": "d16da4c904f2657073e98d90d54e46175bdd8f087eff4f60bc64d0e3c384fa72",
   "slug": "will-lee-jun-seok-be-arrested-before-2027"
  },
+ "0x0087fc54eeff7712bdd99d0689791db8948d94319d47260062870ba277d1cacb": {
+  "created_at": "2026-11-07T12:31:11.52123Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-lance-stroll-2026-12-05"
+ },
  "0x015d6cd87e3bed3bfab71eb29bab83f1fcbb30ba184ad24ec2aba17de0e43fcb": {
   "created_at": "2026-10-01T14:00:58.458292Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -109,6 +118,15 @@
   "sha256": "95faa9c0ecc57ddc6dddb806477d707db701126ef80f8f5d7fa6e12f792d296f",
   "slug": "will-podemos-win-the-most-seats-in-leon-in-the-2026-spanish-general-election"
  },
+ "0x154b10f0f083af91ef344a9e256db64acbc57886a6f35836989c66073bf927cb": {
+  "created_at": "2026-11-07T12:31:08.513953Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-carlos-sainz-jr-2026-12-05"
+ },
  "0x159519042dbcf0e6390ca7f6803ae557ded23f642b318b46650b4aa793ef7bcb": {
   "created_at": "2026-09-21T23:00:35.801147Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -158,6 +176,7 @@
   "created_at": "2026-08-26T21:46:40.09533Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Varbergs BoIS finish 3rd in the 2026 Superettan (Sweden)?",
   "revisions": 1,
   "sha256": "e9570056ce693d45575aef3e79248e575fea2f07a8f4481138bef7aaafe417c5",
@@ -288,6 +307,15 @@
   "revisions": 1,
   "sha256": "175e5715f65040dd74298ad9a1b2231e932428f2bf12dfd7e7c9cb61fe78219c",
   "slug": "will-stephen-kinnock-be-the-first-to-leave-the-burnham-cabinet-20260803162204133"
+ },
+ "0x360aca9dce902bbe8b98739d11e22a78b09bd69dfbb10c5519fbab35507acccb": {
+  "created_at": "2026-10-15T18:00:56.192534Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-2.5)",
+  "revisions": 1,
+  "sha256": "e34e2dc2d5a87e88fb517d1b058b9678cd8616942e973bbd54665e6792af8b4e",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-2pt5"
  },
  "0x371c9fc38da8bafeb582e1a07f22b72e8719fe3d91a170130703c0fd670b6bcb": {
   "created_at": "2026-11-03T17:40:21.581352Z",
@@ -514,6 +542,15 @@
   "sha256": "585d390dbc98e768ee2a1852f58943710a9b7fc2484402ca6ce9d81a30e01edb",
   "slug": "will-1w-team-make-a-dota-2-roster-change-before-2027"
  },
+ "0x6947ce2cabb41567879f4354d7f032797489b99d1e7cb4db2810893f494d75cb": {
+  "created_at": "2026-10-15T18:01:47.154316Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Badajoz (-5.5)",
+  "revisions": 1,
+  "sha256": "16ffbd4b749dc6bd7dcbaa3d7150d2feb2ee651036c3be189ca30077945d85ff",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-home-5pt5"
+ },
  "0x694e5795fcd4edc773a7a19000d1d1b974688e5c3d028491b9941208e1d277cb": {
   "created_at": "2026-08-10T23:56:28.405552Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -523,6 +560,15 @@
   "sha256": "b23fc220b1ef091a8effe900a4c272ea818bce79716360a6273fca706ce2bb78",
   "slug": "parker-washington-349pt5-receiving-yards-2026-27"
  },
+ "0x69badcddb2a870fe20a4a6264a48655518f7fc6b6ba52d37fec72d3d9dd439cb": {
+  "created_at": "2026-10-15T18:01:08.127813Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 4.5",
+  "revisions": 1,
+  "sha256": "da9059584729320bc1f08d5db733e8ff056eaa2d4ce389e55063f6f9f402afa5",
+  "slug": "cdr-red-bar-2026-10-28-team-total-home-4pt5"
+ },
  "0x6c60c09a5bd2affa28321cfd4e64aee76276bdfd79a20855e87495a0083cefcb": {
   "created_at": "2026-08-24T16:40:50.768986Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -531,6 +577,15 @@
   "revisions": 1,
   "sha256": "b0548f98e0273c231c0c5f16b9f9f24f6bbf2de1abd170722227a614ebc608f4",
   "slug": "will-celta-vigo-keep-the-most-clean-sheets-in-laliga-2026-27"
+ },
+ "0x6cd3ac54d9198e216bcd964170d98d85280e542c73468ce53d2878f598300dcb": {
+  "created_at": "2026-10-15T17:01:04.977167Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 1 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-1"
  },
  "0x6f5bd5fd447fa2d3e73dd7873b19c0a8667ac1effe1c86c422f91f193bc3e3cb": {
   "created_at": "2026-08-24T16:33:04.519312Z",
@@ -549,6 +604,15 @@
   "revisions": 1,
   "sha256": "5054fa85cd57568105e0c2587b9ff1a05abaa12e9993b132f0f5b89657337455",
   "slug": "el1-pet-not-2026-10-03-first-to-score-away"
+ },
+ "0x71869093530cb18a9be9483fd5892159d6851a9415d797bdcfe134cd58afe8cb": {
+  "created_at": "2026-11-07T12:31:23.771453Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Valtteri Bottas finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-bottas-2026-12-06"
  },
  "0x78030906642e850bec96cfc78d6744b6a1d084cb20470ec0e82babb696e2b5cb": {
   "created_at": "2026-08-25T03:58:35.023106Z",
@@ -716,6 +780,7 @@
   "created_at": "2026-08-28T20:17:37.96353Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will DJ Moore be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -725,10 +790,20 @@
   "created_at": "2026-08-10T23:56:07.174753Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Christian Watson have 6.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "853738a0e7381e85dc7366816494462348a59a93afef2a34283a050bd11f95ec",
   "slug": "christian-watson-6pt5-receiving-touchdowns-2026-27"
+ },
+ "0x9b28da5c9411fa418f0aa15df8897b2df8a0f17f25945288a96ddc1f927f80cb": {
+  "created_at": "2026-11-06T00:02:41.102787Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Tim Burchett be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-tim-burchett-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0x9b66cbca24f91b50ba81ef9acb20f1df62b7235a5dc5db12184d014761320dcb": {
   "created_at": "2026-08-10T15:50:01.215711Z",
@@ -995,6 +1070,7 @@
   "created_at": "2026-03-25T22:07:04.235732Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Andy Green win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
@@ -1058,6 +1134,7 @@
   "created_at": "2026-01-28T15:36:13.227655Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the NE-01 House seat?",
   "revisions": 1,
   "sha256": "4aa29d62df33cc6e2e2f55d50dfe0ab5f37e3e5a224460e9db8886561efdd405",
@@ -1206,6 +1283,15 @@
   "revisions": 1,
   "sha256": "1ab166f112639540323eb4c3a913ba396374b3a81397b409a6c673deb8d18e24",
   "slug": "will-argentinas-annual-inflation-in-2026-be-between-30-and-34pt9"
+ },
+ "0xe1490dda12a0420f0cfbbbd993d82bf8bc19add3e9347d89d479708c0f2196cb": {
+  "created_at": "2026-11-07T00:05:06.818303Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ta'al support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-taal-support-the-new-israeli-government-in-the-vote-of-confidence"
  },
  "0xe24ac0c9c63826720feb3bd4c42fe4f13c114122dcceaea0d681c4f3220214cb": {
   "created_at": "2026-08-31T15:11:00.531433Z",

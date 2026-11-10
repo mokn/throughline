@@ -12,6 +12,7 @@
   "created_at": "2026-08-12T16:51:50.504064Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jos\u00e9 Luis Morey Requejo win the next Piura mayoral elections?",
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
@@ -214,6 +215,15 @@
   "revisions": 1,
   "sha256": "be6363e8230799ccb0ea41d9d27f68c33aa35b04ae5994ee7cdce1b21df06669",
   "slug": "will-shohei-ohtani-be-on-the-cover-of-mlb-the-show-27"
+ },
+ "0x250d253b5a00b57f92ff0b04955a58e0dfa748cf885af5098c1fa67daabeb7cf": {
+  "created_at": "2026-11-07T12:30:28.994228Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-norris-2026-12-06"
  },
  "0x254f1cea11c5537dfa919395d0aee730848c503530a19af8e5c9d83acd5ccacf": {
   "created_at": "2026-09-30T14:02:33.515319Z",
@@ -819,6 +829,15 @@
   "sha256": "d01aa14c0990927c4a0e8db4eef391d574369b37397e7473f78d4e70b562c74c",
   "slug": "will-the-median-home-value-in-miami-be-less-than-767000-on-december-31-2026"
  },
+ "0x9a89ecc5e411bddcb8b880d7eb70e961b9ba91acb3267a668d718d38d8156bcf": {
+  "created_at": "2026-10-15T18:01:06.00674Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 7.5",
+  "revisions": 1,
+  "sha256": "184330b50b6b2f1cf3522ababc45d0ea7e17171d000b3a8df69436b1ae896d40",
+  "slug": "cdr-red-bar-2026-10-28-total-7pt5"
+ },
  "0x9b43096c5ffeaa486d022dab605bd01357c5df52b3f052fbc483273e0291e4cf": {
   "created_at": "2026-10-21T17:55:29.631027Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -859,6 +878,7 @@
   "created_at": "2026-11-03T22:16:27.422632Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "DeSantis's Republican nomination odds hit 8% by December 31?",
   "revisions": 1,
   "sha256": "6649d6e88e3f88bf6a6db7040cfdee92d6a8509453ec9680b6843ab8af9250af",
@@ -882,6 +902,15 @@
   "sha256": "2fb4509b6de2a958edc2eca4dfc28cc3213e54c857eea43ac38adc1e7fddee2b",
   "slug": "will-edoardo-corvi-parma-record-the-most-clean-sheets-in-the-2026-27-serie-a-season"
  },
+ "0xa04862d09292dc1b3dcbb8f3e1c595c4b9dea4aecf5cd4b86fda6c05c69125cf": {
+  "created_at": "2026-11-07T12:30:49.668117Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-isack-hadjar-2026-12-04"
+ },
  "0xa0b95ca3fedf3fa4c22685e3daad662a93bd8dacdb87dbdbe7f02f5ee7cab3cf": {
   "created_at": "2026-10-01T14:00:59.546441Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -895,6 +924,7 @@
   "created_at": "2026-11-02T18:37:11.207118Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Gromp Esports qualify for LCP 2027?",
   "revisions": 1,
   "sha256": "5a7b40d25a2e3e66eaaefa293ce026747624ca23741c59cfe8d2d7980ae2d1b8",
@@ -1031,6 +1061,7 @@
   "created_at": "2026-10-10T11:30:02.882582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Charles Leclerc win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1153,6 +1184,15 @@
   "sha256": "916e831eda1a0215716cdf39e83013421467f4388dc75b8c1b6d104813138feb",
   "slug": "will-james-harden-be-named-to-any-2027-all-nba-team"
  },
+ "0xc6f2318457cf17b45e0f6f7f633836bfc8025cf420b25ceca560037b378860cf": {
+  "created_at": "2026-11-09T15:48:15.714271Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Grok 5 be released by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "1379d46da97dd1ab95bce751d685eb5ba3b678df2f174b9b3e1727b9e61fbce4",
+  "slug": "will-grok-5-be-released-by-march-31-2027"
+ },
  "0xc907bc82f6ed5cb2eff6f0ab0b4d6c237068f4cfbd36d2b2676017f5fac382cf": {
   "created_at": "2026-09-09T15:47:56.697787Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1247,6 +1287,7 @@
   "created_at": "2026-08-26T21:46:08.820043Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will IF Gnistan be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -1324,6 +1365,15 @@
   "sha256": "05de4e1b6d7bc1e3d082b43e81cf5a2326f4b363b0381901f63150ef4d40214a",
   "slug": "will-donald-trump-visit-new-mexico-in-2026"
  },
+ "0xe8709ddf1d1bcf09c500edc8b286217393d547281da4b2007dda280e4c3ae2cf": {
+  "created_at": "2026-10-15T18:01:00.619415Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 2.5",
+  "revisions": 1,
+  "sha256": "83bc4b94fea5ec06bc0bdc197a8562b060026619888c15552870108cf0d8113c",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-away-2pt5"
+ },
  "0xe8af0a3019b8548cef998b2a74c7519de56d780312d30f460c047f41e4be56cf": {
   "created_at": "2026-08-05T12:10:06.257384Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1332,6 +1382,15 @@
   "revisions": 1,
   "sha256": "1221f3a8e8b680fe53e9ccd2ced55d006458f8dc673e4095bf5abddcb7489689",
   "slug": "madison-beer-and-justin-herbert-confirmed-married-by-december-31-20260804005421104"
+ },
+ "0xe8d7b06b6203a5bd87d6f101f89e7337fdf64064b01881e35a642c8b057e4ccf": {
+  "created_at": "2026-11-06T22:39:06.737385Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 11 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-11-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
  },
  "0xe99d3675e351726917d47335ca1c362525805b8493fa71c0b6f438088978a5cf": {
   "created_at": "2026-10-25T04:01:52.417564Z",
@@ -1414,6 +1473,15 @@
   "sha256": "72c51c65394dd79e8196e50a6b9dc8a874b192837c8c68dc86ba4d7f0db53cf6",
   "slug": "nba-teams-30-plus-wins-2026-27-milwaukee-bucks"
  },
+ "0xf6ade513cd7b611cc0017deafcd5a5d994d7809a05e94c0bf65d27d9aff75bcf": {
+  "created_at": "2026-10-25T10:45:20.960336Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "48ef1673678a622f7791b06596dbeabd64e48bf3bcc7bde58e425025cc68567d",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-away-5pt5"
+ },
  "0xf6c3f909be91d8a6eb7fcc661328b969548cf4e3756a1e7176053b3d68b2aacf": {
   "created_at": "2026-10-30T15:20:03.047305Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1463,6 +1531,7 @@
   "created_at": "2026-10-10T11:30:19.908236Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Yuki Tsunoda achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",

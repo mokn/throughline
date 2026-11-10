@@ -8,6 +8,15 @@
   "sha256": "f902e97444525a7d9848d854c607ca0ddcaaa448bf6c165db05cf6ad5a5372a4",
   "slug": "devonta-smith-1249pt5-receiving-yards-2026-27"
  },
+ "0x01797f77b0fc455ded16f2679cd5d910c8c8321930f65bc83b4f8c8ef105c81b": {
+  "created_at": "2026-10-25T10:15:19.068888Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 3 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-3"
+ },
  "0x03f83404d2b290116786895570f96c0df0022634a4ecc86a35ed5c10399e0b1b": {
   "created_at": "2026-08-24T16:33:44.342824Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -115,6 +124,15 @@
   "revisions": 1,
   "sha256": "1bfb6b9302aab7089f47b08982e30e39b3e7c9f2cfb473ac58b4c4d0328c843a",
   "slug": "will-the-us-federal-government-take-a-stake-in-openai"
+ },
+ "0x1299854977eab198af6dbd8a0d48356e6ac3268cdde49086ba5a6d2d6c682e1b": {
+  "created_at": "2026-11-07T12:30:28.791743Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-ocon-2026-12-06"
  },
  "0x13269612320f79933f32cd0e8627a47f07f17fbe0e0c40df0dbc7d38633d971b": {
   "created_at": "2026-06-12T19:23:51.252675Z",
@@ -448,6 +466,15 @@
   "revisions": 1,
   "sha256": "339526c65a28bbfd7dc7035ac64229dad4fa68dbaee8f14f5ea8225f2414036e",
   "slug": "new-orleans-pelicans-2026-27-regular-season-wins-ou-26pt5"
+ },
+ "0x495f28cc6a8554b2913ebcc30748863afb6d1c5cead3f4faaba6cd709a40be1b": {
+  "created_at": "2026-11-06T16:38:22.228633Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Christine Lagarde advance to the second round of the next French presidential election?",
+  "revisions": 1,
+  "sha256": "ae49a52662279851de0c5be36f1a133b93d2216b2668e7c19c108db739101b70",
+  "slug": "will-christine-lagarde-advance-to-the-second-round-of-the-next-french-presidential-election"
  },
  "0x4ab54ef8464d7f0d24075a67fcad5b7155e62807d7d0d64ebc9941c8a7d1ae1b": {
   "created_at": "2026-09-29T00:02:42.603869Z",
@@ -882,6 +909,24 @@
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
   "slug": "will-the-democratic-party-candidate-win-the-2026-north-carolina-senate-election-by-0-3"
  },
+ "0x82a5f95c7bbaa263ae7bbee7cba8027aeee14734ffe9df34f5319eb72e505f1b": {
+  "created_at": "2026-11-05T02:25:48.642225Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Linda McMahon by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-linda-mcmahon-by-june-30-2027"
+ },
+ "0x834aecab6d5ceabd9fb3cc45e399d9d2ecc68f5596182bdc471a00140c8e1f1b": {
+  "created_at": "2026-11-10T02:45:36.02191Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Taylor Swift attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-taylor-swift-attend-super-bowl-lxi"
+ },
  "0x874f82a92e635a08c1e38aaa8eecc946327dfa4a2a010afd2bed0ec33c65851b": {
   "created_at": "2026-05-12T17:51:58.618422Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -931,6 +976,7 @@
   "created_at": "2026-06-26T15:45:55.780754Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will \tMauro Garza win the 2026 Cameron County Judge election?",
   "revisions": 1,
   "sha256": "58c21aef9d6c8107873e5ee0695bc66561b57903edb0d979c834f67ccbc93dc1",
@@ -1071,6 +1117,15 @@
   "sha256": "2be9716113446eafdc75ebd43a9427151fe1e79dead12813e718819e7eb61db1",
   "slug": "2027-soccer-slovak-nik-liga-winner-fc-koice"
  },
+ "0xa09cca0f4c5e1405131b75022761a8545589057caf965938f486d4d76f5f5f1b": {
+  "created_at": "2026-11-09T17:18:03.392643Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Supreme Court lets parents sue over Washington trans law?",
+  "revisions": 1,
+  "sha256": "2d05cb27b656b757149e36fc742fbeddb4d58ccd86333a5075b92cbdd6942187",
+  "slug": "supreme-court-lets-parents-sue-over-washington-trans-law"
+ },
  "0xa14e3331436ab57ba517bcf41e3457856731cfbda73b4e01730c34b1729e771b": {
   "created_at": "2026-08-10T15:33:59.364967Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1117,6 +1172,15 @@
   "sha256": "e6c42409115a4269dc93326df8fa959a8ae68d5da3dc23496fdf28274b99141b",
   "slug": "will-the-democratic-party-win-the-pa-16-house-seat"
  },
+ "0xa8f5b825211e413ecd16ad93505c435b7b55f7738cdb1b1657a7aa558d89f21b": {
+  "created_at": "2026-11-10T02:47:04.655553Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Big Game: Coin toss winner wins the Big Game?",
+  "revisions": 1,
+  "sha256": "686db617e5e94e043e697aa9e70f92f82ae87c79b6ef51f591f3f574b69e845e",
+  "slug": "super-bowl-lxi-coin-toss-winner-and-champion"
+ },
  "0xa914840a4e44786e37c6bbe95004be7f98e4e2a1c695015f84f6dab14ca46d1b": {
   "created_at": "2026-10-20T18:27:56.962534Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1148,6 +1212,7 @@
   "created_at": "2026-02-06T22:22:40.041871Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Rodrigues win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1271,6 +1336,15 @@
   "sha256": "488551c9751675aa96f8965372d3610a2f8f08129c728df57adced328feb2899",
   "slug": "will-jetblue-announce-bankruptcy-by-june-30-2027"
  },
+ "0xc1fa16c04b5eae360f6810b341962165a263d5403ce8021150e729a70b5da01b": {
+  "created_at": "2026-10-15T18:02:47.040233Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "2154041923f0df872f8d89dbe50f7a209d6eff73ca3c4f63d122f66861adec44",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-total-4pt5"
+ },
  "0xc2fa436aab8dc7744569f7ff1681b173a82b3d8bb5334f0e0bfb3425faa6f81b": {
   "created_at": "2026-10-16T02:56:27.520934Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1279,6 +1353,15 @@
   "revisions": 1,
   "sha256": "12338eb608824b08eb9a332c46bedc3275280cfaf9a8f9f012b015686d8a952c",
   "slug": "kamala-harris-2028-presidential-odds-leader-on-november-30"
+ },
+ "0xc589ed693b8d2f08ddfefb58a6bf7eaf6fc1f884bf1bbd4cbf80fc27bf63fc1b": {
+  "created_at": "2026-11-07T12:30:56.940124Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-lando-norris-2026-12-04"
  },
  "0xc7b646d598e6e860a939b865056d91f27666f0d7b642b893d62016b32ea3881b": {
   "created_at": "2026-05-12T17:52:04.741513Z",
@@ -1320,6 +1403,7 @@
   "created_at": "2026-10-06T18:40:35.129807Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will \"Wild Horse Nine\" score at least 90 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",
@@ -1387,6 +1471,15 @@
   "revisions": 1,
   "sha256": "de0f84223fe19a4ade2cc27412f157597babe76404c3e7a8f67d566c0f5513b6",
   "slug": "putin-and-zelenskyy-shake-hands-by-december-31"
+ },
+ "0xd77b21159f9fb0fbc6e3b008050b7fc568db7f2e34d13253828ab0314f5c321b": {
+  "created_at": "2026-10-15T17:00:59.174607Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 5 - 5 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-5-5"
  },
  "0xd8f3faa5089951315bc54b9f39ada82d207c894690adc899ca6e2f248b8bfe1b": {
   "created_at": "2026-09-08T16:08:44.770349Z",
@@ -1636,9 +1729,19 @@
   "created_at": "2026-10-10T11:30:30.941677Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Valtteri Bottas achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
   "slug": "f1-brazilian-grand-prix-practice-2-fastest-lap-valtteri-bottas-2026-11-06"
+ },
+ "0xff53771935747728fae6867bb31ad695e1482e7db053e9730082027d0bed9c1b": {
+  "created_at": "2026-11-07T12:31:22.44148Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-verstappen-2026-12-06"
  }
 }

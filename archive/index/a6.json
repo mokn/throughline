@@ -30,6 +30,7 @@
   "created_at": "2026-08-12T17:28:23.306582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Herediano be runner-up in the 2026 Liga FPD (Costa Rica)?",
   "revisions": 1,
   "sha256": "05e44eb86dd2cd104b1003ffabfaaf5029ff53bfd51bf8b1f53cfed1e086ca5d",
@@ -84,6 +85,7 @@
   "created_at": "2026-10-10T11:30:31.481805Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Oscar Piastri achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -106,6 +108,15 @@
   "revisions": 1,
   "sha256": "0ec7ccab53f64302270c01d45e6de54db8162bdc8ec039b793cee982279c969b",
   "slug": "el1-wim-ste-2026-10-03-team-total-away-0pt5"
+ },
+ "0x094aad5b4be0e1ca901380242518ea5900bfce9f621e2782f2d9890b499c62a6": {
+  "created_at": "2026-11-10T02:40:56.004052Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Show Me What You Got\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-show-me-what-you-got-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0x0b0f285582792e6a18118aad175fb95a7ac829ec9bcbf9c64500fb7496fc68a6": {
   "created_at": "2026-09-04T04:02:09.659089Z",
@@ -170,10 +181,20 @@
   "sha256": "36ce7b908cbd7f8d17928d632a9389870cbad13e5b09f761f702b032646b7970",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-13-house-election-by-0-45"
  },
+ "0x13c42f3646c0d50a251c07c773cc075a1593309b639e878dfc4f260c97afe1a6": {
+  "created_at": "2026-11-10T02:45:10.427742Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will SZA sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-sza-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x13f28293b6d59f1ce47c63c9cc77c2acb4196ab42ac72d0c2690859d089ed7a6": {
   "created_at": "2026-08-12T17:27:09.491235Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Estudiantes (RC) be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -264,6 +285,7 @@
   "created_at": "2026-08-26T21:46:44.833054Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will FC Ordabasy keep the most clean sheets in the 2026 Kazakhstan Premier League?",
   "revisions": 1,
   "sha256": "32b9ea714a646b3d9ab79335791909795aa603337b605c609ef1945c5b6b08e9",
@@ -691,6 +713,7 @@
   "created_at": "2026-08-12T16:52:06.403849Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Isidro Flores Sosa win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -912,6 +935,15 @@
   "sha256": "ab192d039142cdfb85c11813b9879bcd3359f5dc2815fcc57a4540ae4110abb1",
   "slug": "will-moghreb-de-tetouan-keep-the-most-clean-sheets-in-morocco-botola-pro-2026-27"
  },
+ "0x966c3f9454e9cac3db26c9d8d39e680a7efeee55416e0262fa1821b7bab77aa6": {
+  "created_at": "2026-11-07T12:30:28.39009Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-perez-2026-12-06"
+ },
  "0x96bd471bcc51deebf82ccefc892a73bdaf71893b481ad8f4acd70efd5d7953a6": {
   "created_at": "2026-08-11T19:09:31.024976Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1111,6 +1143,15 @@
   "sha256": "713af8f1a7db833afad164cbb52997349ba12a433d104607975a97817df353be",
   "slug": "amzn-above-220-on-november-30-2026"
  },
+ "0xbff84af1b384310969fd94e7109bf54b00c342b9936f3bd11ad3c1dbba78a9a6": {
+  "created_at": "2026-11-07T12:31:11.20297Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-liam-lawson-2026-12-05"
+ },
  "0xc5dde14894e7cc336f0c19b071cba59bb688bd9bda746221778476598d5a3da6": {
   "created_at": "2026-07-22T16:30:21.497488Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1138,6 +1179,15 @@
   "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
   "slug": "will-jake-allen-win-the-2026-27-vezina-trophy"
  },
+ "0xca6555e47e85fb8f9f9bf2fa5776743d07a49897f35ef4bcb3bfe84a602c76a6": {
+  "created_at": "2026-11-10T01:00:48.209997Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "DeSantis's Republican nomination odds hit 25% by December 31?",
+  "revisions": 1,
+  "sha256": "c11c20f2fadbc073718528d605323fc6e9f1aa2faf429e2313d997bbd9b04f9f",
+  "slug": "desantiss-republican-nomination-odds-hit-25-by-december-31"
+ },
  "0xcd8981c782ac149f527b14c7bafcefc0473c049fb2aa5e82f1285f147c1c30a6": {
   "created_at": "2026-08-17T21:07:37.110684Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1155,6 +1205,15 @@
   "revisions": 1,
   "sha256": "31488cc5d64bb83f13e5dce67b05e5b6780d283f32f1326e2e760220a5c4d744",
   "slug": "jahmyr-gibbs-849pt5-receiving-yards-2026-27"
+ },
+ "0xcfbe11e2dbdf6fc1eac484b0906d80c3e53904dc26be283082fe473af8433ea6": {
+  "created_at": "2026-11-10T02:45:09.948401Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Mary J. Blige sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-mary-j-blige-sing-the-national-anthem-at-the-2027-big-game"
  },
  "0xcfbe2aeb7106aa9259d2a7ee8a0d42fa8e961a4f61dad446db5cb40874a313a6": {
   "created_at": "2026-07-24T15:53:22.714236Z",
@@ -1290,6 +1349,15 @@
   "revisions": 1,
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-kasper-dolberg-score-the-most-goals-in-the-2026-27-uefa-conference-league"
+ },
+ "0xe434ec27d697dc5815c98398adface1ec8e3e580eebc6fe539afdb4275336ba6": {
+  "created_at": "2026-11-09T17:24:15.057483Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Republicans win the Minnesota Senate special election in 2027?",
+  "revisions": 1,
+  "sha256": "e3085cf0c1933d12b70cb16d1be174ef178dee9c95482f4ea903263b8899e8c9",
+  "slug": "will-the-republicans-win-the-minnesota-senate-special-election-in-2027"
  },
  "0xe69bd38c9a32b5bacc8405e960d6b6d0d9cf80bc5098fd51f5cd93c64ca0aba6": {
   "created_at": "2026-10-13T19:55:55.214033Z",

@@ -8,6 +8,15 @@
   "sha256": "888f4b78d807720abe1c05609ffc387bb953d563370329268b557ddc569071bd",
   "slug": "2027-soccer-serie-a-runner-up-roma"
  },
+ "0x03429f178799b59a5cf0410d07db9fbdfb7a9b677523a3ed49000e235f1a8827": {
+  "created_at": "2026-11-07T00:10:36.147082Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Benny Gantz receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-benny-gantz-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x03fb0a191010200e06217ff284eac83c3b8c63d98816f7b55a4ff006af992f27": {
   "created_at": "2026-08-17T21:24:07.439713Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -66,10 +75,20 @@
   "created_at": "2026-04-02T15:16:55.52468Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Alianza Atl\u00e9tico Sullana win Peru Liga 1?",
   "revisions": 1,
   "sha256": "e856666fdf6897e1e64561e5a585033b58d079375e5418212f3c689d515892ad",
   "slug": "2026-soccer-peru-liga-1-winner-alianza-atltico-sullana"
+ },
+ "0x0c68135349d40c073531a1cce1f5fd4a1bc66505b03ed8e98698c3d926968627": {
+  "created_at": "2026-10-15T17:02:06.464171Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 5 - 1 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-5-1"
  },
  "0x0eab98b4acabeca625e10173b5aaaeec8f828fc0e0971e5394740755a3f9e027": {
   "created_at": "2026-08-07T20:34:01.708692Z",
@@ -257,10 +276,20 @@
   "created_at": "2026-10-10T11:30:12.609993Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Yuki Tsunoda get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
   "slug": "f1-brazilian-grand-prix-driver-pole-position-tsunoda-2026-11-07"
+ },
+ "0x30c54defaab5cab1f68fcbb2aa776fd7582a11299dafa85f69f369689db9ba27": {
+  "created_at": "2026-11-10T02:39:23.758151Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Apple run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-apple-run-an-ad-during-super-bowl-lxi"
  },
  "0x30cfecad2b8a451c00cf2bddb8444e41d315b32c421810c006a27b06894fa627": {
   "created_at": "2026-01-21T12:22:52.406695Z",
@@ -275,6 +304,7 @@
   "created_at": "2026-08-12T14:58:43.709449Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will North Carolina have more than 4.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -320,6 +350,7 @@
   "created_at": "2026-08-12T00:20:10.330771Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Gimnasia y Esgrima (Jujuy) win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -420,6 +451,7 @@
   "created_at": "2026-02-18T22:47:39.268847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Francisco Lindor win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -492,10 +524,20 @@
   "created_at": "2026-02-18T22:38:24.825113Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Corey Seager win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
   "slug": "will-corey-seager-win-the-2026-american-league-mvp-award"
+ },
+ "0x52d68816cf4ea3a77395ef738860a43dfaaebc8149f8064cc73a1b8602425227": {
+  "created_at": "2026-10-15T18:02:46.873948Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "4a72daf9e21a0b70e36247cc7858ed30725f0de223cf093721d6be5de365a5da",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-total-3pt5"
  },
  "0x549800e22ab601e7718ac2e7ccd02fa2552560478512aec8fec94a6224bf6f27": {
   "created_at": "2026-01-28T15:39:52.139577Z",
@@ -602,6 +644,7 @@
   "created_at": "2026-09-10T16:18:53.148456Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Trump lower tariffs on Canada by December 31?",
   "revisions": 1,
   "sha256": "7612bc512d981c663310fb1f214fa9ae093b75891d99835a48ebfbee2d691eb2",
@@ -624,6 +667,15 @@
   "revisions": 1,
   "sha256": "92e43cefd534204663a5dab28f5322471a8577e5e8a10a234439bf0fd028946e",
   "slug": "2027-soccer-laliga-runner-up-real-madrid"
+ },
+ "0x632ce517d165ecf77cfc990de402326688efe724dfc3c223d5b0871e7046f527": {
+  "created_at": "2026-11-04T17:37:48.68662Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will PARIVISION Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-parivision-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x634b03994d6d0e73479bea3494813588a47791238aa6c61701a93e48f9511727": {
   "created_at": "2026-08-26T21:46:14.850385Z",
@@ -660,6 +712,15 @@
   "revisions": 1,
   "sha256": "d518a2dbc18ae6fac2e5728c3948c0292be25907512b96df508dd063299de32c",
   "slug": "trump-x-taliban-mineral-deal-signed-in-2026"
+ },
+ "0x67d1af0c77d9b5d0cb5785b00447c10846752c573df7fa181936d797ceef2727": {
+  "created_at": "2026-11-06T23:21:34.651305Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Riksdag approves Swedish Prime Minister by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "8c2322b52227757c931e7cf408c3944bb0db505342d494f068771f67bc667e8e",
+  "slug": "riksdag-approves-swedish-prime-minister-by-december-31-2026-20261106"
  },
  "0x6ac9fad9637e94fec3e0febdee68bcd10a07e247ddd3a0d0a865fafb0b26c727": {
   "created_at": "2026-08-10T23:56:59.445889Z",
@@ -746,6 +807,7 @@
   "created_at": "2026-08-11T14:14:17.313654Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Democrats win 21 or more House seats in New York in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "a2e86a17427eaaba8a77fd283b8b2ddcd38e60f505fa0bd7509f26305178c627",
@@ -1004,6 +1066,15 @@
   "sha256": "5a1d7fc71c89859ab56ab6b156676528e1839f9d29f303fe3347d0c8d187afac",
   "slug": "will-riley-newman-qualify-for-the-2027-ppa-tour-finals"
  },
+ "0xa04eba6eeb3a2c1fc470cd779220cd4b5c9cafd06fa262ff014e14b4795ada27": {
+  "created_at": "2026-10-15T17:02:01.569431Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 4 - 3 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-4-3"
+ },
  "0xa0ac0c3986338b8c25b5e12a86113d7dd94bd99d9b11eafb057468d4b26f0127": {
   "created_at": "2026-09-08T17:03:32.749971Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1152,6 +1223,7 @@
   "created_at": "2026-08-12T00:20:09.059584Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Ferrocarril Midland win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -1364,6 +1436,15 @@
   "sha256": "7b9786876981655c6442e843915728e9dff8fe9dc1496a46254fefa29d10d43d",
   "slug": "will-a-8pt5-earthquake-occur-worldwide-by-november-30"
  },
+ "0xd20c74bdcfa5f246c4bc59fdcaf0679323659b19861f2c75fb57f24fd70ea427": {
+  "created_at": "2026-11-07T12:30:59.612912Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-george-russell-2026-12-04"
+ },
  "0xd339058f6879b22b649e9119e50f981baa0bfad6bd168e0e69e79667d43e8927": {
   "created_at": "2026-01-28T15:29:56.796621Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1378,6 +1459,7 @@
   "created_at": "2026-10-03T19:00:07.024796Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will SK Artis Brno win on 2026-10-17?",
   "revisions": 1,
   "sha256": "bd04baf4e372d70e27c2882b97b9a187028ea3af69ea7058d0d6dd03a228dc9e",
@@ -1500,6 +1582,15 @@
   "sha256": "73eca2b61cfe1940ae0496f263f3253fbc3af05918919f52f40b09cfc6e5a1df",
   "slug": "will-nooshi-dadgostar-be-the-next-prime-minister-of-sweden"
  },
+ "0xe8909c8ff32635a73d66cc3638a849c5ab0b4d5b11b9ee3ed95ef7d5d6660927": {
+  "created_at": "2026-10-15T18:02:48.759467Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 4.5",
+  "revisions": 1,
+  "sha256": "d1e514b153ddda4c59843f27c0de8f269effdacf04a4b47a2ce3eff652d85d5d",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-away-4pt5"
+ },
  "0xe927a891c7559d68922e4c3d0f771332432a557fbad9d2343deb7fb4e8da2427": {
   "created_at": "2026-08-21T20:31:37.199526Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1595,6 +1686,7 @@
   "created_at": "2026-11-02T01:07:02.05938Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and no Chinese company have the #1 AI model by the end of 2027?",
   "revisions": 1,
   "sha256": "e04667122d90da7b0a66e4d421ff150c3149027e3e9543ea3da6e64080340a09",
@@ -1614,6 +1706,7 @@
   "created_at": "2026-09-13T08:44:42.282285Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Milton Keynes Dons FC vs. Bromley FC: Total Corners Odd or Even?",
   "revisions": 1,
   "sha256": "f27a4f897b86991779b320fecaa3f889f95b95576be191dd3f6eb69c33f5513b",

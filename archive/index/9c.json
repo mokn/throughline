@@ -26,6 +26,15 @@
   "sha256": "1d7b9aa3e5c21f08ed858fee8258636dab219c58cc7ed086d95834a326430d8a",
   "slug": "will-the-republican-party-candidate-win-the-2026-kentucky-senate-election-by-0-10"
  },
+ "0x050784e05fa1b81603312cd9d6616ea18f42c2b8e533c8581df3c164d7db8e9c": {
+  "created_at": "2026-11-10T02:41:11.72176Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Hard Knock Life (Ghetto Anthem)\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-hard-knock-life-ghetto-anthem-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x0509fab92f6308e38878454013d61968a35d16b4db09e810d1cfa123babd489c": {
   "created_at": "2026-09-04T19:35:23.082249Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -386,6 +395,15 @@
   "sha256": "bf3587875b4f56f3d68de39ffadd6ffb6e9efa6ca3d9ea1d85e6bdc3d3ddc225",
   "slug": "will-humberto-ambriz-delgadillo-win-the-2027-aguascalientes-governor-election-20260803173849660"
  },
+ "0x4de1bbef2b5a143a455ee92fe666b30899349e3503d9136d703f7b27999ae89c": {
+  "created_at": "2026-10-15T18:00:56.88522Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Minera (-5.5)",
+  "revisions": 1,
+  "sha256": "501bc7beef58c84d601556ae72e15742c5f9cc549ced8184d7fb0832bccc7dc3",
+  "slug": "cdr-cd17-car-2026-10-28-spread-home-5pt5"
+ },
  "0x4ee83d27eb608be30eec6f8e8e6475d8d212f7e125deb114d1a665c5b430f39c": {
   "created_at": "2026-08-12T17:22:47.48715Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -471,6 +489,7 @@
   "created_at": "2026-08-24T16:33:21.397169Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will GIF Sundsvall be promoted to Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "94e1a6f7540850de3ee55b5cabc282e35005267d170ec576f9d6bbbeb4cf9513",
@@ -494,6 +513,15 @@
   "revisions": 1,
   "sha256": "6b7b80a9ed8d827ed4c03eb7a815ef37919ea601ffc2034ada819083d84645b5",
   "slug": "will-the-democrats-win-the-maine-senate-race-in-2026"
+ },
+ "0x6746bb70c4d94dfe1b7e44881e5b6735d49d6a31d2f840610fc68413f118569c": {
+  "created_at": "2026-11-09T21:15:04.003108Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will a Team from China Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "b6989380230f7b81d9a11b4e4ef936aaf7c26b217313a05bd43619f2613c47c9",
+  "slug": "will-a-team-from-china-win-an-international-event-in-2027"
  },
  "0x67b8d2a9145ac6ba2c98dbd3777201f8ce2cb3212fc2d1ad400916c57f54209c": {
   "created_at": "2026-08-17T21:24:14.379201Z",
@@ -751,10 +779,20 @@
   "created_at": "2025-12-15T22:05:26.017233Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NY-17 House seat?",
   "revisions": 1,
   "sha256": "4f42c5488ef98a5cd28fc81bd6b9b661dd099f096582823f679b69f60e8f815d",
   "slug": "will-the-democratic-party-win-the-ny-17-house-seat"
+ },
+ "0x9869e33548067fe4fdc065bd373aeade828b15c8aab6dae5fbc799d38b1b2d9c": {
+  "created_at": "2026-10-15T17:01:37.117306Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 3 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-3-1"
  },
  "0x99ee34760c5a9bcbc6c1593e52b130b5c77bd054360bd71f9f279fe99499249c": {
   "created_at": "2026-09-13T08:44:22.97463Z",
@@ -773,6 +811,15 @@
   "revisions": 1,
   "sha256": "515cd57a913e8bedf3df5d6e6be4bf8e8f7a8bb590612d67ac2122471ddfadbf",
   "slug": "aba-league-2027-champion-bc-dubai"
+ },
+ "0x9bcd6d7d55c789e97b24f4a8376ed83cc2cba30df714840f242203d3384ea49c": {
+  "created_at": "2026-11-07T12:31:17.921826Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Verstappen or Hamilton?",
+  "revisions": 1,
+  "sha256": "a6ff9b26850cd827a63a6d305b2a3d0326fb010d034ede66d5aa4eee8747ddfa",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-verstappen-vs-hamilton-2026-12-06"
  },
  "0x9c47ba9e666983bd8d82bfab790509153bf7756c43913f6ef269e33c8955939c": {
   "created_at": "2025-11-12T16:38:03.954328Z",
@@ -895,6 +942,7 @@
   "created_at": "2026-09-20T08:45:06.979617Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: Doncaster Rovers FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "445c1f0f8b244fc9779f85b6dde1475b0b3a57f9125f54a0d1bf702f281240cc",
@@ -1030,6 +1078,7 @@
   "created_at": "2026-08-26T21:46:07.302247Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will N\u00f5mme Kalju be relegated from the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "5a33c82239cf7c22e870897154fc597c476a70f3eacc7b28cbef5739655b1869",
@@ -1139,6 +1188,7 @@
   "created_at": "2026-10-10T11:30:11.325519Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Valtteri Bottas get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
@@ -1162,6 +1212,15 @@
   "sha256": "a59ef2f0ce6e98ef5830282a94d9511e52cbac875dd5e6e8880a07a699e8a3ae",
   "slug": "will-nk-bravo-keep-the-most-clean-sheets-in-slovenian-prvaliga-2026-27"
  },
+ "0xda46382b2e21c38b5180b0265647e7747c90c0714d314ea2bf085f99a7099d9c": {
+  "created_at": "2026-11-06T22:31:28.957852Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-marine-le-pen-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0xda80fe038c02512fc82e310c602f7f0b1d3679b0a0138c91ebe68392eaaac59c": {
   "created_at": "2026-10-13T19:55:53.316041Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1170,6 +1229,15 @@
   "revisions": 1,
   "sha256": "5574d96c3369774d5e6e7b909a232f46d1d0d78e89b6438ae219d302239fbb68",
   "slug": "ukraine-superleague-2027-champion-cherkaski-mavpy"
+ },
+ "0xdb30103301d8ef001189a24cc014d59de3b0bde807f59af7d7509a14548e709c": {
+  "created_at": "2026-11-04T17:37:52.905225Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will HEROIC Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-heroic-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0xddb4dd544e18fa35a4342a8e71b01125ef6277aa34a13371e62e2ab92dcce69c": {
   "created_at": "2026-08-10T23:56:02.401497Z",
@@ -1247,6 +1315,7 @@
   "created_at": "2026-10-25T04:01:34.249239Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will South Korea ETF (EWY) hit (LOW) $148 in November?",
   "revisions": 1,
   "sha256": "aa033054bc4e6eee478381e2d05184e386602f7815f06580f02dfc1cac649bb5",
@@ -1319,6 +1388,7 @@
   "created_at": "2026-10-10T11:30:30.177465Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Kimi Antonelli achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",

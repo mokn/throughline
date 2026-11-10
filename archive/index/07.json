@@ -36,6 +36,15 @@
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
   "slug": "spl-ahl-nsr-2026-10-15-exact-score-2-3"
  },
+ "0x05b08ba172447a700fc66556ee04496a33f918a297781e9225c33ec4744cc707": {
+  "created_at": "2026-11-10T02:45:20.268896Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kacey Musgraves sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-kacey-musgraves-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x062e466b1033324410cbfb6935717b4039cdcee9e97b000b03063ca4369dc707": {
   "created_at": "2026-10-28T21:53:24.472396Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -58,6 +67,7 @@
   "created_at": "2026-02-18T22:47:38.211245Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Kyle Tucker win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -469,6 +479,15 @@
   "sha256": "d95e2dcab2b0f78b7a4eb0a8c599ef74b2a5453510e5eb78956bde97228be600",
   "slug": "terry-mclaurin-1349pt5-receiving-yards-2026-27"
  },
+ "0x5b90d7f23f27c19cca37934fb1040936f107bcc6c3af1ca29034e90b85d8c907": {
+  "created_at": "2026-10-15T18:02:16.67196Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 0.5",
+  "revisions": 1,
+  "sha256": "8fa3e831fc28e83d2be0af2450fdb4f442eb8c83d8fc16674a47d43e9ff940ce",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-0pt5"
+ },
  "0x5c324100551290f85ba6f2c98e4cb318cc3ebc1e78d8731c50982a493efdb307": {
   "created_at": "2026-09-28T15:12:44.042454Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -594,6 +613,15 @@
   "revisions": 1,
   "sha256": "49a98279f7c965a53766d094c28c3f7bc416f621c32c834370a5186c788b2076",
   "slug": "will-chargers-dst-be-the-highest-scoring-dst-of-the-2026-27-nfl-season-20260806224132354"
+ },
+ "0x73915280dbbfcd16604b793a6beeab4ef242555e3066c8f5985886ca3cf22307": {
+  "created_at": "2026-11-06T19:54:30.642851Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Democratic 2028 presidential odds hit 70% by March 31?",
+  "revisions": 1,
+  "sha256": "05ddf3a470ede51a8f4d1e6bcad1d17aafb8494262921380d2428cc2b9370f81",
+  "slug": "democratic-2028-presidential-odds-hit-70-by-march-31"
  },
  "0x759891ac4f11c032b71b8e15ed3ef41a94a20eb50bb48eaa0a40b03fc38dfd07": {
   "created_at": "2026-08-10T23:57:36.376555Z",
@@ -862,6 +890,7 @@
   "created_at": "2026-10-10T11:30:36.429158Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will George Russell achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -1020,6 +1049,15 @@
   "revisions": 1,
   "sha256": "c331b78b376af1e407a91c87cdd28e6199bad8ba13f9c4d2bdb93c2749b80ed7",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ok-02-house-election"
+ },
+ "0xb2c2fff2eacda5588f46853b1b7c2e919074079bcfc5bb4627af343e23bc4607": {
+  "created_at": "2026-11-06T00:02:47.603015Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Matt Van Epps be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-matt-van-epps-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0xb57f3ca76be1abee4b722450bc5a24764afb0ae790c4495e579514b1dda1c907": {
   "created_at": "2026-09-02T19:39:41.247357Z",
@@ -1219,6 +1257,15 @@
   "revisions": 1,
   "sha256": "b1672b61e3ef957d29baa256788d5156ff0a8e752aae3e61123e3f90e3283ae9",
   "slug": "will-the-los-angeles-chargers-make-the-2027-nfl-playoffs"
+ },
+ "0xdacdaba92566db8bd90db66c21e8afd1dc4ab0cb8406007870386dbb10049107": {
+  "created_at": "2026-11-10T02:26:59.555817Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be between $100M and $120M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-between-100m-and-120m-by-december-15-20261108"
  },
  "0xdc9ffbc75c474ba71ffdbf69558c98df2a1f0ae8d21200c041bb14c57f8f9807": {
   "created_at": "2026-08-11T18:43:27.87425Z",

@@ -153,6 +153,15 @@
   "sha256": "777ff3403515611171f23faad420f7d16e5df3aa9f5daf3a369925bfd61a77bc",
   "slug": "will-the-democratic-party-candidate-win-the-2026-pa-17-house-election-by-5-10"
  },
+ "0x1af4f84eccfdb4db712bbe6c425610854738475679ea6afc7bab91fc271542b3": {
+  "created_at": "2026-11-07T12:31:05.103644Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-fernando-alonso-2026-12-05"
+ },
  "0x1b3b0ec31706959c563acb759df21db7140906955d2e36400f94e07da04efbb3": {
   "created_at": "2025-11-24T21:08:37.082469Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -175,6 +184,7 @@
   "created_at": "2026-09-10T16:17:30.424535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Trump raise tariffs on Canada by October 31?",
   "revisions": 1,
   "sha256": "82d284dcba68994e02a1d70e5f276aed17443077534e39a92640d0106291aa68",
@@ -229,6 +239,7 @@
   "created_at": "2026-08-24T16:38:31.962624Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Santos finish 3rd in the 2026 Brazil S\u00e9rie A?",
   "revisions": 1,
   "sha256": "ce70c4fd79fdd55ab2d9267cb1d6e3e2d4f66e5a2610f0f16a0e2da27cd4a532",
@@ -274,6 +285,7 @@
   "created_at": "2026-10-10T11:30:43.700462Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Gabriel Bortoleto finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -382,6 +394,7 @@
   "created_at": "2026-03-25T21:41:50.492155Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Owen Caissie win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -414,10 +427,20 @@
   "sha256": "0d20795f21c0d9c0437fca8ce47de27b2fd39db17e71888884c1db73f1e97103",
   "slug": "will-arsenal-finish-in-the-top-6-of-the-2026-27-english-premier-league-season"
  },
+ "0x42abec63c948fd6538879efd5f2d22de0e17b8df857362afab993b6b407c2cb3": {
+  "created_at": "2026-10-15T17:02:06.418631Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 4 - 2 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-4-2"
+ },
  "0x455661d1577dfdafd5f9617860e3d35a820b4378879efbfbad340e1b074922b3": {
   "created_at": "2026-09-23T18:06:47.009365Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Team Liquid qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -527,6 +550,7 @@
   "created_at": "2026-08-26T08:44:14.644585Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 8.5 Total Corners",
   "revisions": 1,
   "sha256": "22fffd61dcf4aa3922267d5be41fd68e9ed44b926fbec65cd715fa6dd9667409",
@@ -545,6 +569,7 @@
   "created_at": "2026-09-23T18:06:53.716568Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will NEXVOID qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -554,6 +579,7 @@
   "created_at": "2026-08-26T08:44:15.465229Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 12.5 Total Corners",
   "revisions": 1,
   "sha256": "7f3c85ffa8380b7ae3ad43b24db7f74fbb61e8aab78474dbf45f2dd582a56cb5",
@@ -594,6 +620,15 @@
   "revisions": 1,
   "sha256": "86ceb3b75052d661856c223e5eedd1b2ec5af3ca16de30c4f357e231c62c36a1",
   "slug": "will-forza-horizon-6-win-best-game-direction-at-the-2026-game-awards-1785857784737"
+ },
+ "0x66c1ef44e6dc7205100130ef47d4f58a4664c4fdfafde5b306ab5dee1f3a4db3": {
+  "created_at": "2026-11-07T12:31:18.160183Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Verstappen or Piastri?",
+  "revisions": 1,
+  "sha256": "b2e5c56b7823798aa97ad69a6d890c0201a461a044b6ed9a7c707ccb38bd93da",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-verstappen-vs-piastri-2026-12-06"
  },
  "0x67a521bdc738a03d6764097d850e1dba10d7d45243122b57d055cba215ab04b3": {
   "created_at": "2026-10-16T08:59:20.410207Z",
@@ -743,6 +778,7 @@
   "created_at": "2026-10-08T22:00:13.309796Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Balaz win by KO/TKO?",
   "revisions": 1,
   "sha256": "acdbe27dc3b45ee1fb777fb63442a5ea8b72455126d9350b11879fe239cfe7d5",
@@ -797,6 +833,7 @@
   "created_at": "2025-12-15T19:18:32.521162Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the Democratic Party win the AZ-02 House seat?",
   "revisions": 1,
   "sha256": "fcf4fa20838da8685c7530b3cf44a7f673939b928f16fdecd4093cfd4cd020d4",
@@ -819,6 +856,15 @@
   "revisions": 1,
   "sha256": "8784d94eb4640f15eae4d2e61e9b159f0bef882ad72d5ebb36d2f48e133fe929",
   "slug": "townsquare-fdv-above-500m-one-day-after-launch-20260720191919479"
+ },
+ "0x88b462b225c8c5e437b2228a30ac11793442c74c7c183a736139a7d3d75f35b3": {
+  "created_at": "2026-11-10T02:45:40.122025Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Rihanna attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-rihanna-attend-super-bowl-lxi"
  },
  "0x88d7dd38a47f54496c6ece45733abeb697dde38de7e8917b775b7ec007fc94b3": {
   "created_at": "2026-08-24T16:40:45.571909Z",
@@ -882,6 +928,15 @@
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
   "slug": "will-brad-stuver-win-2026-mls-goalkeeper-of-the-year-492"
+ },
+ "0x9643a98259304580897626bbec617c975480eaf3fa450d820a957d127366cfb3": {
+  "created_at": "2026-11-07T12:31:21.592468Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-ocon-2026-12-06"
  },
  "0x9adcf836f52f2b6b1508c5bbec5e656a108bc7a1e451d884c8d54494276d9ab3": {
   "created_at": "2026-08-24T16:32:58.320756Z",
@@ -965,10 +1020,20 @@
   "sha256": "564569e10fa485c9690b4f4068b054e4177b216560bc8e5088d253ebc5a2814a",
   "slug": "will-aminu-abdussalam-gwarzo-win-the-2027-kano-state-gubernatorial-election"
  },
+ "0xaac7d3ec522a8d1eacb89ec1a58503194a2f2afda7d75b587e672d5862cdaeb3": {
+  "created_at": "2026-11-09T21:18:01.119353Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Crazy Raccoon Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-crazy-raccoon-win-an-international-event-in-2027"
+ },
  "0xac7223603d2db2657dcdf1ccaa5a87cb12d957fa5e08230b35a6bafab433c0b3": {
   "created_at": "2026-08-26T21:46:52.870665Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will New York Red Bulls keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -1151,6 +1216,7 @@
   "created_at": "2026-08-28T20:17:36.898198Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tee Higgins be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1295,6 +1361,7 @@
   "created_at": "2026-03-25T20:08:27.119525Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tatsuya Imai win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -1359,6 +1426,7 @@
   "created_at": "2026-01-28T04:53:06.922821Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republican Party win the AZ-08 House seat?",
   "revisions": 1,
   "sha256": "180743e86aeb39b5213edd65c7f10d63fd944c3e05e3c69e3d5277ff00367900",

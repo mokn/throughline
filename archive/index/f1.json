@@ -120,6 +120,7 @@
   "created_at": "2026-08-11T14:06:04.541072Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 8 House seats in New Jersey in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e036a188ca854c56a73e17db7803426cb520ec55aa15fe6a3611482e3fe414f8",
@@ -147,10 +148,20 @@
   "created_at": "2026-10-10T11:30:16.823711Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Alexander Albon achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
   "slug": "f1-brazilian-grand-prix-driver-fastest-lap-albon-2026-11-08"
+ },
+ "0x1b9ea0020d8b857c44380ca625eff5eba8c4b9d2bd8eb8ec61707357bb78b7f1": {
+  "created_at": "2026-10-15T18:02:35.774518Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Real Uni\u00f3n Club (-5.5)",
+  "revisions": 1,
+  "sha256": "b9b5ffc5bbfb80c58ef2ad05179f09879a3b1c7e51d174f794b9825e19cf4871",
+  "slug": "cdr-por-iru-2026-10-28-spread-away-5pt5"
  },
  "0x1c2c28872b47dbc74df6bd9c8574cc58b20a513bc4b218361d8435329d3b78f1": {
   "created_at": "2026-08-24T16:40:49.322138Z",
@@ -325,6 +336,15 @@
   "sha256": "d244041d96e0be5577acebe3439a8d08c6cbd872dca79d8c85ea7b0032316975",
   "slug": "will-devonta-smith-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-yards-20260715211950736"
  },
+ "0x31ef6cea3ab428b4f77ae3cf8e9136198c7b1b78a2d9d3fd41025a253e7d21f1": {
+  "created_at": "2026-11-09T22:27:55.522594Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Eddie Howe be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-eddie-howe-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x330105d5b6265190c907b24490816100d46f489c18cdcda258918714e1aad6f1": {
   "created_at": "2026-08-18T18:59:05.237533Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -361,6 +381,15 @@
   "sha256": "d5c0fab055ec6f8b4dd4974efc6b8128d572b1584952355da826e393972cda1e",
   "slug": "friedrich-merz-out-as-chancellor-of-germany-before-november-30-2026"
  },
+ "0x38be873cffeefbaa43ac826dd709c6b21cd4fd61e160345e3ba5d73ee4030df1": {
+  "created_at": "2026-11-07T12:31:06.818711Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-lando-norris-2026-12-05"
+ },
  "0x38cd96bc47d7753befb318ea82ab93fe2df84b6db4d230286572582f84896cf1": {
   "created_at": "2026-09-07T15:04:01.033532Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -392,6 +421,7 @@
   "created_at": "2026-05-22T18:33:44.368768Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Chris Wright be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -437,6 +467,7 @@
   "created_at": "2025-11-25T17:18:01.361404Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the CA-22 House seat?",
   "revisions": 1,
   "sha256": "08648b8755262663f4b3f2be7c8475c33e9a9f637a3ae46d8eece31365476dce",
@@ -590,6 +621,7 @@
   "created_at": "2026-09-29T00:12:16.846006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in India by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -635,6 +667,7 @@
   "created_at": "2026-10-10T11:30:36.912276Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Liam Lawson achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -815,6 +848,7 @@
   "created_at": "2026-08-31T18:27:35.707889Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Martin Slez\u00e1k be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",
@@ -829,6 +863,15 @@
   "sha256": "1b092083ed67ea2d00512f47a3d15bddce55f8fb9e37d4ce5d45b560dedd9ef9",
   "slug": "will-the-debut-be-nominated-for-best-film-editing-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x80f7782d854f276390029ec8430a8464fb0332322f4205c70d2bdaf0271129f1": {
+  "created_at": "2026-10-15T17:02:05.665722Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 2 - 1 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-2-1"
+ },
  "0x8157b83867ca85d62724c277c7c88074622fd1c1fc84f6f4b5bdc492e68400f1": {
   "created_at": "2026-08-12T00:11:26.162403Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -842,6 +885,7 @@
   "created_at": "2026-08-12T14:57:49.082339Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Miami FL have more than 11.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -977,6 +1021,7 @@
   "created_at": "2026-08-11T14:11:00.212244Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 4 House seats in Nevada in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9842e2670455f8cfbaa10bdcd392ee7c8f3ff3742d0cc1ba11e92fbd6bfb1dfc",
@@ -1277,6 +1322,7 @@
   "created_at": "2026-10-03T19:00:28.872253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 5 - 4 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1313,6 +1359,7 @@
   "created_at": "2026-08-28T20:17:35.881171Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tetairoa McMillan be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1476,6 +1523,7 @@
   "created_at": "2026-09-09T15:53:48.62613Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Said El Mala win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1508,6 +1556,15 @@
   "revisions": 1,
   "sha256": "760db3a207ae39894ee3749948b22449ef7a4565d8bba49c3906164bdc65c029",
   "slug": "will-the-democratic-party-win-the-ny-13-house-seat"
+ },
+ "0xe0b7250d20090df5f97a208c00a848db6f7f29a48b1738a8aeac3dcb85150bf1": {
+  "created_at": "2026-10-15T18:01:06.284272Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "67f8ce51b1308e8ad7d5d2cebb6665ef435ee43ef18793c5c49eab7fe45c4154",
+  "slug": "cdr-red-bar-2026-10-28-btts"
  },
  "0xe2cd7ef9917fd20bfc18f050bed426ffcaab351f3680dfa50600ec6898d51bf1": {
   "created_at": "2026-08-10T15:05:23.113987Z",
@@ -1590,6 +1647,15 @@
   "sha256": "1afdba8555a5ccec2c9823f215e4ba9378223be642d453cd8f9159ab91e39500",
   "slug": "will-alex-pretti-rank-in-googles-top-5-most-searched-passings-of-2026-us"
  },
+ "0xf4a48ed123af3cf03ce87c69f773c7b074bd18236289f7a533ba9238db9476f1": {
+  "created_at": "2026-11-07T12:30:55.296359Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-fernando-alonso-2026-12-04"
+ },
  "0xf66adbcb05fb95973019bbd04ec29ca9221ccbba63edb3833bf4cb51bcf960f1": {
   "created_at": "2026-05-26T17:22:43.072044Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1634,6 +1700,15 @@
   "revisions": 1,
   "sha256": "861353f8ba14df10c7ba985fbc3538878da30be2de42be8510a072ab49fe2c80",
   "slug": "el2-wal-cra-2026-10-03-spread-away-2pt5"
+ },
+ "0xff525715bb77923574260960a7f7ac65c1b56204f200f2eba72c9635f847bef1": {
+  "created_at": "2026-11-07T12:31:23.521961Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-hulkenberg-2026-12-06"
  },
  "0xff7064b4b4666e96196195806156f380acb035b54b4b56a8548799892d3a7af1": {
   "created_at": "2026-06-26T06:31:43.855431Z",

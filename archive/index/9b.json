@@ -226,10 +226,20 @@
   "sha256": "d29638c5fecd36cfce18e23e0ba2c6a90e8433ec9488c498ed4f0595133a960e",
   "slug": "nba-2026-27-players-to-average-30-plus-ppg-stephen-curry"
  },
+ "0x23de2c2393edddf681d878662a83c34fd185da40dcd041c9d9c7fc4b5bb31a9b": {
+  "created_at": "2026-11-07T12:30:31.048847Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-russell-2026-12-06"
+ },
  "0x24616ce096cda6fc1b3e72beb79cef139360606ca3aac79b62d874c34a9d749b": {
   "created_at": "2026-02-18T22:38:27.521374Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Julio Rodriguez win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
@@ -261,6 +271,15 @@
   "revisions": 1,
   "sha256": "a81f678370ba161b9f1d446eb4f990084a280e0b8b0d7d4b33b4e519f0536fb9",
   "slug": "will-vitoria-keep-the-most-clean-sheets-in-brazil-serie-a-2026"
+ },
+ "0x2edb548ba41b9e47c34058bbd6289423a60768214498c7daa8038eb5f72f149b": {
+  "created_at": "2026-11-06T22:31:40.336046Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sarah Knafo win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-sarah-knafo-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0x31954ca0d6cd4259f5c614b7ca2fda98f277b3d5a3cc2c792b34a8c4e9dd429b": {
   "created_at": "2026-09-27T20:08:50.649156Z",
@@ -599,6 +618,7 @@
   "created_at": "2026-08-25T21:38:35.473642Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the Philadelphia Eagles have more than 10.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
@@ -662,6 +682,7 @@
   "created_at": "2026-07-22T05:29:34.494622Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will the Seahawks win the season series against the Cardinals during the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "9c80dbd6faeee51c05a061991eba9d8077b700c13aab52c6a6efc0d5cf1f471f",
@@ -698,6 +719,7 @@
   "created_at": "2026-08-12T14:56:06.31209Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Kansas have more than 6.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -911,6 +933,15 @@
   "sha256": "502e1a2f146e176becb6a8cbba137f5ec11c20d65ad4a9a627e2e19081701da9",
   "slug": "will-the-tampa-bay-buccaneers-finish-the-2026-27-nfl-regular-season-with-the-worst-record"
  },
+ "0xaf23c02afaf87466bc8d488af9d0dcffb2be40a256f9f70feaa97d69c87b949b": {
+  "created_at": "2026-11-06T00:02:45.114819Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Cameron Sexton be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-cameron-sexton-be-next-to-hold-blackburns-senate-seat-by-march-31"
+ },
  "0xafce95464747ff7a88052462ebfa4c0d673157b7c58feb3873ca818d1d10e49b": {
   "created_at": "2026-09-08T16:08:42.833347Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -951,6 +982,7 @@
   "created_at": "2026-10-25T16:37:15.210882Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will WTI Crude Oil (WTI) hit (LOW) $85 in November?",
   "revisions": 1,
   "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
@@ -987,6 +1019,7 @@
   "created_at": "2026-10-10T11:30:05.223929Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lance Stroll win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1009,6 +1042,15 @@
   "revisions": 1,
   "sha256": "8c123f116cddf68041aa64af9bddbac487942a9db40697b5f2de212dd459f063",
   "slug": "will-greg-abbott-win-the-south-carolina-republican-presidential-primary-20261028418"
+ },
+ "0xbf9be6ed0a700564ca45bb3385b544f5bc7f9d8297726080365b68b437991f9b": {
+  "created_at": "2026-11-09T21:17:59.064788Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Gentle Mates Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-gentle-mates-win-an-international-event-in-2027"
  },
  "0xbfe96d50581032d229cd39c8d61317fc05cb3314bbdd568e856a89d79ee03a9b": {
   "created_at": "2026-01-07T19:30:32.958457Z",
@@ -1212,6 +1254,7 @@
   "created_at": "2026-02-18T22:38:25.376665Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Vladimir Guerrero Jr. win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
@@ -1338,6 +1381,7 @@
   "created_at": "2026-08-12T00:15:44.350852Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Rosario Central win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -1406,6 +1450,15 @@
   "sha256": "9d2eb89633dc3b44603e116444764b0d51109e8c18163494934a1d9c1cfd5183",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-illinois-be-less-than-3250000"
  },
+ "0xe9ff00ecc927292da26509c1a07a551ee0ccc680644548b0fa2dc990c8ba6f9b": {
+  "created_at": "2026-11-06T22:39:05.112777Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 8 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-8-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
+ },
  "0xeb892eb524e7bfdc630f0fd19c759668e2c62d88f2aaebcb2f830823fd9e629b": {
   "created_at": "2026-10-21T00:11:07.745306Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1468,6 +1521,15 @@
   "revisions": 1,
   "sha256": "680a8e9d029d1325bfd3ddb9d6babc684b136583ebafcd58329354d51220a857",
   "slug": "will-the-bank-of-japan-make-no-change-to-the-uncollateralized-overnight-call-rate-at-the-january-2027-meeting"
+ },
+ "0xf4f442247ee3c25a2c1d65fa7d8a7dce6d72743d108078940eadc7dd8cc7e89b": {
+  "created_at": "2026-10-15T17:02:06.17779Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 4 - 1 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-4-1"
  },
  "0xf6be2536ff3a32074ef67a9ff035f26eff4ece6e283c43e4da0169aaab13c79b": {
   "created_at": "2026-09-13T08:15:34.762448Z",

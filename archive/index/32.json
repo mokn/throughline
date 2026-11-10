@@ -121,6 +121,7 @@
   "created_at": "2026-03-25T20:08:29.730475Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dylan Beavers win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -306,6 +307,15 @@
   "sha256": "c2405aee41bed19c7ae9d5f296603ed1b99799bce1e6b40ccdb65faad54bc709",
   "slug": "will-cooper-barkate-be-the-2026-acc-receiving-yards-leader"
  },
+ "0x3cb1de93776bcd577a01674c7adb79e099b585ea98bdfec02c6e2fde119d5f32": {
+  "created_at": "2026-10-15T18:00:59.626545Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 1.5",
+  "revisions": 1,
+  "sha256": "99481d36a6f9d193fb9b76b19f7f8a8a91a06e18738f27691de9d79e2f57fbfc",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-1pt5"
+ },
  "0x3fb26d41e68aa193b5277513755c22840dfd92d51fbddf74f85f3d6beba87032": {
   "created_at": "2026-07-31T17:27:58.242581Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -332,6 +342,15 @@
   "revisions": 1,
   "sha256": "05de4e1b6d7bc1e3d082b43e81cf5a2326f4b363b0381901f63150ef4d40214a",
   "slug": "will-donald-trump-visit-minnesota-in-2026"
+ },
+ "0x417a3a4b1089525eda2bc9c7053ab04dc25200f7b5930b2fb5fb3767c4f17532": {
+  "created_at": "2026-10-15T18:01:45.965267Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Tenerife (-1.5)",
+  "revisions": 1,
+  "sha256": "8b6c341291d6f0302e8f2ff1ad7224730815ca74f31f2ea4cee3c4d960accf81",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-away-1pt5"
  },
  "0x418b00781da95bd3d211ede49f5675684f101ce2f247842233de40c442614832": {
   "created_at": "2026-10-25T04:01:14.052067Z",
@@ -436,6 +455,7 @@
   "created_at": "2025-12-15T20:31:03.08511Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the MI-04 House seat?",
   "revisions": 1,
   "sha256": "c381497dba009116921245ab0be6c2327d1d6f1d1c410009ab53eb7a5937a58e",
@@ -662,6 +682,7 @@
   "created_at": "2026-08-12T14:55:58.00928Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Iowa have more than 6.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -749,6 +770,15 @@
   "sha256": "7d081507403f9fc056073b1fc220cd581784edca6ad501b4c09ca8c9f0be17df",
   "slug": "will-life-insurance-corporation-of-india-be-the-largest-indian-company-20260629145852105"
  },
+ "0x799fcab41ea5d4b9cb0280c0ce2a87ac7be2924e4d60f99f82e1995afbe19732": {
+  "created_at": "2026-11-10T02:44:26.280425Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 90 and 100 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-90-and-100-seconds"
+ },
  "0x7bd9175072d530e704947edbb8157708cee767a544e3eade500973da5cec9532": {
   "created_at": "2026-10-14T13:19:26.136212Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -771,6 +801,7 @@
   "created_at": "2026-08-11T14:12:30.099301Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 5 House seats in Michigan in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "b6c17b236c3ee1cc3efe5225b557298a09a9e87e5a2a17a4fd5bf9806e016370",
@@ -1141,6 +1172,7 @@
   "created_at": "2026-02-18T17:11:10.655003Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Idan Toklomati win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -1273,6 +1305,15 @@
   "sha256": "9995107b52256cb9d5bfea30045cbfec3249575004da22750ef1e272dc2e0acc",
   "slug": "2027-soccer-efbet-liga-bulgaria-winner-septemvri-sofia"
  },
+ "0xc0ea314ca8c2303a67be2dbc99d577e0e4d83c7122e9975516ad291180469f32": {
+  "created_at": "2026-10-25T10:45:15.987849Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: CSD Municipal (-3.5)",
+  "revisions": 1,
+  "sha256": "35748a93fabbc1427878056a3c44ead823e934405bb2344644ab98848ae319b7",
+  "slug": "gtm-mun-aur-2026-11-07-spread-home-3pt5"
+ },
  "0xc3bdf4caa937776e894dd0357dc441ed57cd764ebc5f5ca8f2ec1a5edb58c832": {
   "created_at": "2026-05-04T15:24:07.40726Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1391,6 +1432,15 @@
   "sha256": "d78e5527d516eab489f92623f3fc2f4d94395c9ec8f465f6e9f3fcce256ae761",
   "slug": "will-pri-win-the-most-seats-in-the-2027-veracruz-congress-election"
  },
+ "0xd7599f743c9b33d6e12a383b960bd449acf80209eef2f628f57b478f737c7932": {
+  "created_at": "2026-11-10T02:44:27.164366Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 110 and 120 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-110-and-120-seconds"
+ },
  "0xd8eee256d60cf6ae20fa86055706ebd5318d6118ac66842466c8e170ed1c8232": {
   "created_at": "2026-10-13T15:56:54.28891Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1431,6 +1481,7 @@
   "created_at": "2026-10-24T04:00:04.797943Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Elon Musk post 340-359 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1494,6 +1545,7 @@
   "created_at": "2026-01-28T15:36:04.009326Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NC-13 House seat?",
   "revisions": 1,
   "sha256": "22ba298dc42c47b1be288baaa079a08e7a8736c393c710e880696568cca788f8",

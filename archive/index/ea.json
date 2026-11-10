@@ -341,6 +341,15 @@
   "sha256": "535242f33d28aedce5a3e9c960a1829109af50a5cfa6cbbe1d4d68d7c0d5846f",
   "slug": "2026-soccer-primera-nacional-argentina-runner-up-tristn-surez"
  },
+ "0x33ea8df1e12a1329dbfab7f221ca2beebfd9fc1988db70fecd5416a36bfc7cea": {
+  "created_at": "2026-11-05T01:14:43.306053Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will there be no government shutdown by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "8dc0163799f35f55665d0fda2eb9baa18ef71bc36586ab10fbed6ae30b31f93f",
+  "slug": "will-there-be-no-government-shutdown-by-december-31-2027"
+ },
  "0x3722f4bc972e791fa797306572a523d4dee6ec0e2ec51788b6f0972384622aea": {
   "created_at": "2026-08-24T16:35:13.472084Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -399,6 +408,7 @@
   "created_at": "2026-02-06T22:38:11.145574Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will \u00d3scar Pareja win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -666,6 +676,15 @@
   "sha256": "bcfe356a6919de657f2cbc31ddcff0ea35448a3def4b2ebb3e0cf7c905664af7",
   "slug": "will-gabriela-bernal-resendiz-win-the-2027-guerrero-governor-election-20260803173852845"
  },
+ "0x7dad47b434aa982559c955ec105c970aeb9305ad815f8b3e5b97c87e2cea56ea": {
+  "created_at": "2026-10-25T10:15:17.905771Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 0 - 4 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-0-4"
+ },
  "0x82149821f84b140a03f375a4220a12a4e4cf0b71b33955dbb2b50e43ead22eea": {
   "created_at": "2026-09-04T19:06:37.43919Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -842,6 +861,7 @@
   "created_at": "2026-08-12T17:27:07.179708Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Belgrano be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -892,6 +912,15 @@
   "sha256": "e2a0604ead96f6f5872b110cc9c7909881d1b494756a97f5626f245f7ee30e6a",
   "slug": "will-alphabets-market-capitalization-be-less-than-3pt00t-at-the-end-of-2026-1785882876116"
  },
+ "0xb724577b47a41809271dc6f37444a15f0b74dbe9f4574cfb8bd0bc54d72d05ea": {
+  "created_at": "2026-11-10T02:42:14.826432Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"No Church in the Wild\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-no-church-in-the-wild-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0xb76391af906116db8a330273f394f56ba60f9c083fe1a219f8434cac581c8fea": {
   "created_at": "2026-10-31T00:26:32.201326Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -914,6 +943,7 @@
   "created_at": "2026-08-10T23:56:54.731649Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Bijan Robinson have 4.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "c7103ea04399509fba7b91ed7581a68104dc33f591bca8202a08014e72e83c51",
@@ -1058,6 +1088,7 @@
   "created_at": "2025-11-27T18:00:53.690873Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will there be at least 5000 measles cases in the U.S. in 2026?",
   "revisions": 1,
   "sha256": "aff22e838d8c514d1ed5bb653d1182c926a0bb95468faf559bcf2e26e6281b21",
@@ -1217,6 +1248,15 @@
   "sha256": "7d07d36dd2ade6b85bebc5a7580786be55f430b1e21b370e6bc947b48992d125",
   "slug": "2027-soccer-austrian-bundesliga-runner-up-rheindorf-altach"
  },
+ "0xf74c2c32764c1c30ae9fec8ff310af9f43b6bd3683dac58b9b9bb913ad7fffea": {
+  "created_at": "2026-11-10T02:14:33.051485Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Jay Puri be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "slug": "will-jay-puri-be-the-next-ceo-of-nvidia"
+ },
  "0xf8fc96dcb0856f4bce419f507cc9eb9aec72e3e852db0a6317b0e901b4cefbea": {
   "created_at": "2026-10-16T18:05:27.69389Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1239,6 +1279,7 @@
   "created_at": "2026-08-28T20:17:40.431792Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Michael Wilson be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",

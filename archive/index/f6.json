@@ -138,6 +138,7 @@
   "created_at": "2026-09-09T15:53:45.885748Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Warren Zaire-Emery win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -261,6 +262,15 @@
   "sha256": "3eb67783aaf72618154ef5445941953b6327abc7d44391556b375038b5a851b2",
   "slug": "will-xiaomi-be-the-third-best-chinese-ai-company-at-the-end-of-january-2027"
  },
+ "0x25a6927816f606600eb5c535b64b2040c442c6a50c2e4a71e565fb16f2d3e1f6": {
+  "created_at": "2026-11-10T02:45:47.363271Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Livvy Dunne attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-livvy-dunne-attend-super-bowl-lxi"
+ },
  "0x2744a61350ecb3d85db0ea85bd1ea72542f2ec67e6efa7e5c0d65aad649d02f6": {
   "created_at": "2026-08-24T16:35:40.382961Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -342,10 +352,20 @@
   "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
   "slug": "will-josh-shapiro-be-the-2028-democratic-vice-presidential-nominee"
  },
+ "0x33117da989d1d5b0455dd4a898abd2d645a61c60305ae2e9bd5f015d019a8bf6": {
+  "created_at": "2026-10-15T18:02:15.289443Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "07a9122296790b26f124ffc302c339341588b52f57a1cca19e172767ee7cf3cd",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-total-3pt5"
+ },
  "0x3bf5b7fb14a91682def43c3b373e951ba83c2e8d8eb0d84ef6396b0ef9867bf6": {
   "created_at": "2026-10-25T04:00:47.626905Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $56 in November?",
   "revisions": 1,
   "sha256": "b16950b2d1aaf777db9e7cc3ef2d8177eed6e1c3dc99d923d72a1538d201430d",
@@ -751,6 +771,7 @@
   "created_at": "2026-08-12T17:30:57.582785Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Spokane Velocity FC be runner-up in the 2026 USL League One?",
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
@@ -787,6 +808,7 @@
   "created_at": "2026-08-26T21:46:07.15164Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will FCI Levadia be relegated from the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "5a33c82239cf7c22e870897154fc597c476a70f3eacc7b28cbef5739655b1869",
@@ -1023,6 +1045,7 @@
   "created_at": "2026-08-26T08:45:19.372756Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "f6993cb36de1cbe01cac33ae3e18fc5228051fd1545463a6103fbb5f3793c79b",
@@ -1072,6 +1095,15 @@
   "revisions": 1,
   "sha256": "adc9312f2edfca2bacf46d0a8e0bd8b6cfaa83e2dbc10613e24917533bd35e8b",
   "slug": "will-pri-win-the-most-seats-in-the-2027-nayarit-congress-election"
+ },
+ "0xad8b5d2e764bb8a20a51790e4f7aef4e543f538815f2eec714901d7fd021c6f6": {
+  "created_at": "2026-11-09T21:18:08.705171Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Nova Esports Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-nova-esports-win-an-international-event-in-2027"
  },
  "0xadb59ae4fcc193ee1b6671d5b8d122499aa9ce54be499b37a776153568c399f6": {
   "created_at": "2026-08-28T05:54:52.278575Z",
@@ -1163,6 +1195,15 @@
   "sha256": "68178190da80e62a440ab458f51b1c95120c49ea32c68d7da98e62d2fbc64b25",
   "slug": "scop-ran-abe-2026-10-31-spread-away-5pt5"
  },
+ "0xb7efa9c7d7d007df76ef9fa24ad01c51cbe9464b096740a4ae8c37dc0fcf7df6": {
+  "created_at": "2025-07-03T20:37:37.424486Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Scott Colom win the 2028 Democratic presidential nomination?",
+  "revisions": 1,
+  "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
+  "slug": "will-scott-colom-win-the-2028-democratic-presidential-nomination"
+ },
  "0xb9570a32a260c824b491aafe166801ba683054e0bdf68c59d9cd75b2243aaaf6": {
   "created_at": "2026-08-26T21:46:05.388151Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1176,6 +1217,7 @@
   "created_at": "2026-08-26T21:46:29.048622Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Newell's Old Boys finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -1185,6 +1227,7 @@
   "created_at": "2026-10-10T11:30:19.609335Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Liam Lawson achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -1492,6 +1535,7 @@
   "created_at": "2026-10-10T11:30:34.880372Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Kimi Antonelli achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -1505,6 +1549,15 @@
   "revisions": 1,
   "sha256": "f9293f9ca768ac66e297b540ec85c07ca6c676769fc2ca1f491a6a16e7f9f06a",
   "slug": "pro-football-2027-champion-winning-conference"
+ },
+ "0xe582df61d2f9ea0a9722e0edcddd050063bf407b35b7c7eec7cfa908d383b4f6": {
+  "created_at": "2026-11-10T02:39:26.57376Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Coinbase run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-coinbase-run-an-ad-during-super-bowl-lxi"
  },
  "0xe5e6a06e2ebe6e2c5fbf3dbce4e51d2376891c4d1b2c745262b8bb496305d1f6": {
   "created_at": "2026-09-27T20:12:00.112931Z",

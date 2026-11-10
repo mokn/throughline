@@ -99,6 +99,15 @@
   "sha256": "dc2b850f76fe42b022fe5a7a1b57d38bc53b3f4e036dfad62f0bdd5e2fc5abc4",
   "slug": "glider-fdv-above-50m-one-day-after-launch"
  },
+ "0x197eb81549329d603906f75510f6867d674563ad28841a96459d776b187be296": {
+  "created_at": "2026-10-15T18:02:14.953355Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "017ad22f0c0d59b2703df127d5c20adf63668549822f9d982e4ca664c2e2fbeb",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-total-1pt5"
+ },
  "0x1a16562475159e0f3ec081b7b7b9009a0385e3e8b8a7600690f356a2a7766296": {
   "created_at": "2026-09-28T17:20:32.129956Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -166,6 +175,7 @@
   "created_at": "2026-08-24T16:38:37.387368Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Deportes La Serena finish 3rd in the 2026 Chile Primera?",
   "revisions": 1,
   "sha256": "69effe3c8f0d8fc16486ffec413b846ee25c203b7bcec9feb8161f11ce3751d2",
@@ -211,6 +221,7 @@
   "created_at": "2026-08-26T21:46:28.170296Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Atl\u00e9tico Tucum\u00e1n finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -238,6 +249,7 @@
   "created_at": "2026-08-12T00:15:39.521704Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Estudiantes (RC) win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -301,6 +313,7 @@
   "created_at": "2026-09-09T15:53:47.422474Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Rayan win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -481,6 +494,7 @@
   "created_at": "2026-08-12T16:51:32.709394Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Angello Alberto Ocampo Guti\u00e9rrez win the next Huancayo mayoral elections?",
   "revisions": 1,
   "sha256": "e91be4dc7f6da21e2f3b8e02b0a54b9d2d57136e1579e8b08bc7aef33e102c24",
@@ -523,6 +537,15 @@
   "sha256": "aefba93cf7edf0c0ed5078b6bfe876490a06d6f6f1ba97ed73aec36c2f5d00e3",
   "slug": "will-merriam-webster-2026-word-of-the-year-contain-vibe"
  },
+ "0x64c9e8eaeeda6b2000ad65932815645c971a54af6d0d17c7e2d527731a05d296": {
+  "created_at": "2026-10-15T18:02:17.968933Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "7613b043e3df2a84009535cf51a3aeb69ff01fc96db0733c68131c627a254e33",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-home-3pt5"
+ },
  "0x684e5b72d4e407695397a79ed75ef37273c2655ca2548791a4153233d3744696": {
   "created_at": "2025-11-11T17:42:50.059443Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -558,6 +581,15 @@
   "revisions": 1,
   "sha256": "c1934b337bfa5456577cc6cfd977f17a3fe3a47b8c3eef820bbd51199a77e751",
   "slug": "mex-que-mon1-2026-09-05-btts-second-half"
+ },
+ "0x6bdf4b3c5c07af8dc244b454e0ce8345c11a433910bbfa1033f2532e51c1b496": {
+  "created_at": "2026-11-09T21:18:09.108626Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Cloud9 Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-cloud9-win-an-international-event-in-2027"
  },
  "0x6ca7ae53c7e1baf9883fd5c237b95d7978f3d6180c741956808b8f0968116f96": {
   "created_at": "2026-08-11T18:15:55.252368Z",
@@ -1059,6 +1091,7 @@
   "created_at": "2026-10-13T23:25:06.162527Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will \"Mewgenics\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
@@ -1159,6 +1192,7 @@
   "created_at": "2026-01-28T15:37:36.243708Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the NY-21 House seat?",
   "revisions": 1,
   "sha256": "54cf04e67c6a0eb4523a8364186ec48d43f4618c26ae276dc391cde536f09d2a",
@@ -1181,6 +1215,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-trevor-zegras-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0xde1b3c7671caac83dd9563dad861617445262e0ad5d3649eeabd9c3dab8ad196": {
+  "created_at": "2026-11-06T22:58:40.135348Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mike Waltz be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-mike-waltz-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xdea9c31e8e1e7dc4a8a6f6b00d2140ea19611ee113ec4a6f3272ab0206edc896": {
   "created_at": "2026-02-05T20:58:47.315536Z",
@@ -1350,6 +1393,7 @@
   "created_at": "2026-10-25T04:01:38.38847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will US Dollar Index (DXY) hit (HIGH) 102.00 in November?",
   "revisions": 1,
   "sha256": "08d2b061d4fa8b9799e948f4fff2cc2b7776a2ea3d26a544e009fcf1f9fc6a3e",

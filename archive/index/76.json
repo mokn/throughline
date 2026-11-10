@@ -166,6 +166,7 @@
   "created_at": "2026-08-24T16:33:22.636518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will IK Oddevold be promoted to Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "94e1a6f7540850de3ee55b5cabc282e35005267d170ec576f9d6bbbeb4cf9513",
@@ -189,10 +190,20 @@
   "sha256": "3223acc7af0e127c03a18af2e83915aa1fc688b957a77f30ab83c1c042433b4a",
   "slug": "bitcoin-all-time-high-by-december-31-2026"
  },
+ "0x1c1128929499c326c38144a03e429b3cf3a39937ee71f7c41868de41c9662676": {
+  "created_at": "2026-10-15T18:01:46.459912Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Badajoz (-3.5)",
+  "revisions": 1,
+  "sha256": "f4a3a538dcddbd7c77fdcacc80009f3dd069dbd3490cb4d2601806723f0eaf68",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-home-3pt5"
+ },
  "0x1e9b3cee885872f3e0338076013eddfb62bb1a6ef0b94ec56863dd41edb54b76": {
   "created_at": "2026-08-26T21:46:54.443747Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Sporting Kansas City keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -639,6 +650,15 @@
   "sha256": "af28842884a01e725c206bdccd06442eafc4bd380c1554d5ca38546924ab6fbb",
   "slug": "el2-wal-cra-2026-10-03-first-half-total-0pt5"
  },
+ "0x60e1f25cf5e61bc692074996db79f6c3bf9ecb140a1d62f216c1fb01bee50d76": {
+  "created_at": "2026-10-15T17:02:05.612517Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 1 - 2 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-1-2"
+ },
  "0x6303c153849d80c623161ad55c516b2089744f32cc40d37e6eed3923c32d6276": {
   "created_at": "2026-08-04T17:47:08.812447Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -855,6 +875,15 @@
   "sha256": "4e65f28e7e9690e0ca3024b8891a495fff407ea149e5b3762dcc9493680ed216",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-19-house-election-by-12-15"
  },
+ "0x83aa666e724c452540a87e1d4c468be65fe5c3b417783e874c682d2688e8e976": {
+  "created_at": "2026-11-07T12:31:07.37244Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-kimi-antonelli-2026-12-05"
+ },
  "0x83c229a82bdf8bb5a313c2d9f090f9845763c30703fd20c2cfd9052af4f71d76": {
   "created_at": "2026-08-18T14:22:41.576077Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -868,6 +897,7 @@
   "created_at": "2026-08-12T00:15:46.276399Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Uni\u00f3n win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -895,6 +925,7 @@
   "created_at": "2026-09-29T23:44:44.971337Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Trump say \"Burger\" in October?",
   "revisions": 1,
   "sha256": "b23f3581fc0a7c5ce13d111293838b576b95ff029a30ead894560a618084c6ca",
@@ -1075,6 +1106,7 @@
   "created_at": "2026-08-24T16:39:58.002998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Sandefjord keep the most clean sheets in the 2026 Norway Eliteserien?",
   "revisions": 1,
   "sha256": "b4edf5b5a2386ac50f8e5dce51b1bbea7d3959ae4d907feab3bb718e8d25de62",
@@ -1121,6 +1153,7 @@
   "created_at": "2026-08-31T18:17:57.286802Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Pavel Jel\u00ednek be the next Mayor of Olomouc?",
   "revisions": 1,
   "sha256": "7281809af5844bfd3378ddb1858b3c2ef39b80ab36da07ff4d846bec8a535f99",
@@ -1229,6 +1262,7 @@
   "created_at": "2026-08-24T16:33:53.222196Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Nantong Zhiyun be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",
@@ -1247,6 +1281,7 @@
   "created_at": "2026-09-29T00:12:17.298032Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Poland by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -1274,6 +1309,7 @@
   "created_at": "2026-08-24T16:33:50.809304Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Changchun Yatai be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",

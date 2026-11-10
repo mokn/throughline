@@ -3,6 +3,7 @@
   "created_at": "2026-08-26T08:44:15.020101Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "95812fc789b822665c363a0b560aedec520a14d3060fc149304b8f94c13450fd",
@@ -174,6 +175,7 @@
   "created_at": "2026-10-08T22:00:14.0791Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Vanhouter vs. Balaz end before Round 6?",
   "revisions": 1,
   "sha256": "7ea66e69af63b8199ae51360b6b418a0e8514fcf45cd0af2c89b3ef2b0793796",
@@ -427,6 +429,7 @@
   "created_at": "2026-09-02T18:10:26.03386Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win Latino men in the midterms?",
   "revisions": 1,
   "sha256": "78623866c0b62de87475ad5d8b9f0daaf70bc331f5dc05d9762889e98ab2a13d",
@@ -500,6 +503,7 @@
   "created_at": "2026-09-13T08:44:30.562667Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Huddersfield Town AFC vs. Luton Town FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "5781dab2de389e32eed4b6751efdb4e58807a8c073e54174bf905a6bbd3443ca",
@@ -732,6 +736,15 @@
   "sha256": "ff07c38a6df5ec38b8c0e88e42adde1d026d011c52dcc1898c7fb64369fa6670",
   "slug": "2027-soccer-swiss-super-league-winner-fc-zrich"
  },
+ "0x8b53a31bb2d8096b1501ded8d0ddfad246b37b621064448e4414799d24d8e085": {
+  "created_at": "2026-10-15T18:02:38.295Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "9fcd1b41795dfff45d7001eeac974d5c3a146cd153f7613442afcc4002975f02",
+  "slug": "cdr-por-iru-2026-10-28-first-half-total-4pt5"
+ },
  "0x8c3dd41a3f80c0f6970d99110053e086327327b665c98fb31a575d5d8e58df85": {
   "created_at": "2026-10-30T16:23:36.691116Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -754,6 +767,7 @@
   "created_at": "2026-08-12T17:28:22.668891Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Escorpiones de Bel\u00e9n be runner-up in the 2026 Liga FPD (Costa Rica)?",
   "revisions": 1,
   "sha256": "05e44eb86dd2cd104b1003ffabfaaf5029ff53bfd51bf8b1f53cfed1e086ca5d",
@@ -894,6 +908,15 @@
   "sha256": "3a2287c69794667bcccbf22f6c18173730051d89e5759498e6f05dc12ff50744",
   "slug": "will-jayson-tatum-win-the-2026-27-nba-mvp"
  },
+ "0xa7ba4563954892f7bdfd3cca6338d99bb4094ced275b459f121d2b40c046f585": {
+  "created_at": "2026-11-08T02:48:26.85233Z",
+  "first_seen": "2026-11-08T13:24:49Z",
+  "last_changed": "2026-11-08T13:24:49Z",
+  "question": "US x Iran Effective Ceasefire by December 31?",
+  "revisions": 1,
+  "sha256": "2f8d7522c72db9491d3b0ea5ba79de611b1c9edaa7ce4b8dae96e400680436e2",
+  "slug": "us-x-iran-effective-ceasefire-by-december-31-20261108"
+ },
  "0xa8f9bfde001ddb60758e96c91cd30776c2ee8cd046358a613233846a36f2dd85": {
   "created_at": "2026-08-10T14:53:53.580057Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -929,6 +952,15 @@
   "revisions": 1,
   "sha256": "9e99434225854e2d5c146f80f6908d5318e8d4d5ad9086fc35aae2fb5d890c47",
   "slug": "will-metas-market-capitalization-be-at-least-1pt875t-at-the-end-of-december-2026"
+ },
+ "0xaa8055bc5ede0b58917cb313672bd3eddcbe6801629853903f51b8ea0e779385": {
+  "created_at": "2026-10-25T10:45:16.724719Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: Aurora FC (-5.5)",
+  "revisions": 1,
+  "sha256": "378f976514ae68e1b177b7d91f59f5480097def597b9f72a85e8aef73a25fc43",
+  "slug": "gtm-mun-aur-2026-11-07-spread-away-5pt5"
  },
  "0xab50a427801a1aa30680769919583ac971399149dc89c57b5c096fce52a96485": {
   "created_at": "2026-07-15T00:40:34.449305Z",
@@ -988,6 +1020,7 @@
   "created_at": "2026-08-12T14:49:57.114535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Baylor have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1123,6 +1156,7 @@
   "created_at": "2026-09-09T15:53:49.125227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Kerim Alajbegovic win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1285,6 +1319,7 @@
   "created_at": "2026-07-24T02:06:46.83561Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Kyle Larson win the 2026 NASCAR Cup Series championship?",
   "revisions": 1,
   "sha256": "0a16e7bd5087d77e72f9013ee6e8bfea57d27aafd26c057abdf38e1656a1cedc",
@@ -1345,6 +1380,15 @@
   "sha256": "916e831eda1a0215716cdf39e83013421467f4388dc75b8c1b6d104813138feb",
   "slug": "will-luka-doncic-be-named-to-any-2027-all-nba-team"
  },
+ "0xe9ac2d99ada4eaa1b1833ca5a9f04152a8de7dfdb5f30ea386c509163af83385": {
+  "created_at": "2026-11-06T23:49:50.048629Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson have an F1 seat in 2027?",
+  "revisions": 1,
+  "sha256": "ab479822758a3f0f83075160035c23b980cc02798a593a6d2d51fc1868950f08",
+  "slug": "will-liam-lawson-have-an-f1-seat-in-2027"
+ },
  "0xea8134d89349a1fc8f75ee1c704896b1b91e1c6d294e0ae1e43b97054e02c185": {
   "created_at": "2026-09-04T19:22:09.843264Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1367,6 +1411,7 @@
   "created_at": "2026-09-28T20:07:20.416357Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Mahoning County in the Ohio Senate race in 2026?",
   "revisions": 1,
   "sha256": "b6fab57321edec2b55df7e8b906e19ff19596bb9056942c8b475fa6ba5ce9176",

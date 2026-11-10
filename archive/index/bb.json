@@ -57,6 +57,7 @@
   "created_at": "2026-03-25T20:08:29.206172Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Carson Williams win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -350,6 +351,15 @@
   "sha256": "73d273ab2ff0df92e6e25acbb2ce4214431c707a2dc342e59d6af10cad9285b0",
   "slug": "megan-thee-stallion-and-klay-thompson-engaged-in-2026"
  },
+ "0x37de509195024849f466ae3f3346587657eff91cf2813ab5926f8215dc4866bb": {
+  "created_at": "2026-10-15T21:53:19.274124Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kozo Tashima be the next President of FIFA?",
+  "revisions": 1,
+  "sha256": "b8a46a5269def1a4065ced207f4a3758bac5d6e16bd4b44eff03a31b04bb711d",
+  "slug": "will-kozo-tashima-be-the-next-president-of-fifa-20261015100426413"
+ },
  "0x380d45592658c6f87f981f750c1a62c2d0128250142351485458390057f195bb": {
   "created_at": "2026-08-24T16:38:37.015284Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -408,6 +418,7 @@
   "created_at": "2026-10-25T04:01:01.889492Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Coinbase Global, Inc. (COIN) hit (LOW) $135 in November?",
   "revisions": 1,
   "sha256": "b897c73fdc996b07255e6a1f447e9126f523f692b365d453bc3eaf58ccacbc58",
@@ -760,6 +771,7 @@
   "created_at": "2026-08-26T08:15:17.374107Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC to win the second half?",
   "revisions": 1,
   "sha256": "7e3f5fdb2dc1032ee687e72c6445c0c346073eeb1f2b3258253d9f788dbda162",
@@ -792,6 +804,15 @@
   "sha256": "07850e310f1dfc6813460cc97fe442777dc2841cc08729e7e59f573bd7ae6a14",
   "slug": "will-the-odyssey-win-best-cinematography-at-the-99th-academy-awards-20260805190946680"
  },
+ "0x6cc979b73de9f99a7df2b28e4792bfea8b5534e603ef75c9091952d9167100bb": {
+  "created_at": "2026-10-15T17:01:20.393309Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 0 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-0-0"
+ },
  "0x7014e449022f95b6a7346763d61ccdb55eb71d8a795d95557fdd17f14c1119bb": {
   "created_at": "2026-08-24T16:39:46.431705Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -823,6 +844,7 @@
   "created_at": "2026-10-10T11:30:25.049229Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Fernando Alonso achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1219,6 +1241,7 @@
   "created_at": "2026-08-12T14:47:51.287568Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Arizona have more than 6.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1246,6 +1269,7 @@
   "created_at": "2026-08-26T08:45:18.436915Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "c72107408942c44d412d0ffe99899bb2a7d631b4105a17c9b0beb71f984fab9f",
@@ -1291,6 +1315,7 @@
   "created_at": "2026-08-26T08:15:18.754016Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Oxford United FC 0 - 3 Reading FC?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
@@ -1300,6 +1325,7 @@
   "created_at": "2026-08-26T08:45:15.495725Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 2.5",
   "revisions": 1,
   "sha256": "80b73feb8844b3168b5dd5cc5f70122a445cf1ace9ab93e01280afa4a0fa8aaa",
@@ -1368,6 +1394,15 @@
   "sha256": "7d5e7a6e20edb15356046d51e7a586107205390d843f6cd20845fe3a529257d7",
   "slug": "will-tyreek-hill-sign-with-the-seattle-seahawks-in-2026"
  },
+ "0xd92d2aee0e0a6e5fb23ed297d73f6463951f6964224c828f53709a73bd016fbb": {
+  "created_at": "2026-11-09T22:28:01.949682Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Darren Fletcher be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-darren-fletcher-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0xdac94fc2e946b86aae13a674cbdc91124890574be8056fd26aab14db2a3289bb": {
   "created_at": "2026-09-30T14:02:34.567376Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1390,6 +1425,7 @@
   "created_at": "2026-01-28T15:35:55.339673Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NC-09 House seat?",
   "revisions": 1,
   "sha256": "51bf73a2a7349ab1128bf0b318076e695207d2e4a9432ed815750c79d11901f9",

@@ -57,6 +57,7 @@
   "created_at": "2026-09-23T18:06:54.455383Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Alter Ego qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -165,6 +166,7 @@
   "created_at": "2026-09-23T17:54:59.383314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will 100 or more unique champions be played at Worlds 2026?",
   "revisions": 1,
   "sha256": "b9e9c017e595297c97b484d3c7566f074239fd37290742f870ef5c9b0c70df62",
@@ -214,6 +216,15 @@
   "revisions": 1,
   "sha256": "a89cb161bea4e1876fe16b1b8b5259ef3bd65209bfe7be3eeb876fbe7f3076d0",
   "slug": "rubios-republican-nomination-odds-hit-25-by-december-31"
+ },
+ "0x1e763ed9f3a26a63d00f5154ed61f5e06b0b48d920bf9183c07f474bb1e1ea30": {
+  "created_at": "2026-10-25T10:15:19.147244Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 4 - 2 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-4-2"
  },
  "0x1e955ea4f1d37e09c3a1fa32db6d0c9442d030dd0431bf27b7df292e56e8f030": {
   "created_at": "2026-08-10T23:37:24.182548Z",
@@ -458,6 +469,15 @@
   "revisions": 1,
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-moise-kean-score-the-most-goals-in-the-2026-27-uefa-champions-league"
+ },
+ "0x39ec68b44fd819ae2709d3e3e93ded151b9ce64405fbfad2a45bfc8a0c6d4230": {
+  "created_at": "2026-11-10T02:03:25.642993Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will no President of the Brazilian Senate be elected by February 28?",
+  "revisions": 1,
+  "sha256": "2bb52fef4d7501e48c3715df632edddc248e2ffbca9f4addacb9d36a2f395915",
+  "slug": "will-no-president-of-the-brazilian-senate-be-elected-by-february-28-20261106"
  },
  "0x3d64a2a707774eb442caa724dfcac690f07d6e8c634edc5bee38a704114f1730": {
   "created_at": "2026-01-02T21:08:43.969896Z",
@@ -947,6 +967,15 @@
   "sha256": "a7cd60844bd1bc9031fd2f02f1e8c3ebed2a78a3c67b93142b19e8bb6238f50b",
   "slug": "will-younghoe-koo-be-the-highest-scoring-k-of-the-2026-27-nfl-season-20260806224131994"
  },
+ "0x84a7a75e5bf90ade5dd577e1e2fb12a213246df999b9a109707a12c6b94e7b30": {
+  "created_at": "2026-11-06T23:21:35.091398Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Riksdag approves Swedish Prime Minister by February 28, 2027?",
+  "revisions": 1,
+  "sha256": "8c2322b52227757c931e7cf408c3944bb0db505342d494f068771f67bc667e8e",
+  "slug": "riksdag-approves-swedish-prime-minister-by-february-28-2027-20261106"
+ },
  "0x85c7fdcef8dba0cb91d61639675fea8f525ed487d5c9d0eb222f2c81f5c17930": {
   "created_at": "2026-08-24T16:36:25.942309Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1014,6 +1043,7 @@
   "created_at": "2026-08-28T20:01:31.260022Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Corey Day win the 2026 NASCAR O'Reilly Auto Parts Series championship?",
   "revisions": 1,
   "sha256": "28df0c625d8ff3558db374cf6b0ad8a2f5691f86706b910cd45cd6d6cfb32586",
@@ -1086,6 +1116,7 @@
   "created_at": "2026-09-23T18:06:53.293563Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will THUNDERdOWNUNDER qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1104,6 +1135,7 @@
   "created_at": "2026-03-25T21:41:55.634718Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Robby Snelling win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -1343,6 +1375,15 @@
   "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
   "slug": "will-gina-raimondo-win-the-2028-democratic-presidential-nomination-676"
  },
+ "0xcb436c676637abec33e263c29215bb6b42c7b3d64630542c3832c4aa43a91c30": {
+  "created_at": "2026-11-07T12:30:03.054065Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-gasly-2026-12-06"
+ },
  "0xcdfb83b7304f180f311d0967ff873dfc731638cec8a6ab0c38e3900c7ec10130": {
   "created_at": "2026-10-30T17:28:42.543661Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1424,6 +1465,15 @@
   "sha256": "24076dd6571d59a554b8102d42143624c324a43e3d33f424cf551bcd3786f515",
   "slug": "will-the-republican-party-candidate-win-the-2026-ut-03-house-election-by-20-25"
  },
+ "0xd70686e1c50707fe669e53c5e20aed15c1a219efad5075fb518bfc3fd8493f30": {
+  "created_at": "2026-10-15T18:02:47.371121Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Utebo FC O/U 1.5",
+  "revisions": 1,
+  "sha256": "af219c534fb75168b5246c6dad6da7b24ff6926a09167365a14bb6420c64d0f5",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-home-1pt5"
+ },
  "0xd81ce4e061f3c6bd0e45d898027d2c43efd0fda51ec32806b3fc2fbf72463730": {
   "created_at": "2026-09-09T15:42:47.968949Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1459,6 +1509,15 @@
   "revisions": 1,
   "sha256": "bba1a4c2163514bd9b7dda94119ee56f2fbd9d42c75cce8d8a2189025e1eb1fd",
   "slug": "will-meta-dip-to-500-in-november-2026"
+ },
+ "0xddb24bb8143471c089f0b78c421f57f1ee5bf0e3d024e83e820a15d1e1158e30": {
+  "created_at": "2026-11-06T22:39:04.655661Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 7 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-7-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
  },
  "0xdf552f518d1b4ba2904ec019c3e6a776eaf9666abe35d819a7386b910c140730": {
   "created_at": "2026-08-10T23:56:17.805414Z",
@@ -1600,6 +1659,7 @@
   "created_at": "2026-10-01T00:02:07.434062Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be between 25 and 29 average daily transits of the Bab el-Mandeb Strait on October 31?",
   "revisions": 1,
   "sha256": "b2158613ee34b2f4f271d267df930ca338f48c5d54bc933d94d3ba22a8b0ee84",
@@ -1686,6 +1746,15 @@
   "sha256": "0b94e069f691ba11979c09a4c3987bc0f7fb96c735d10d84e9daa97f32667044",
   "slug": "will-sk-beveren-qualify-for-the-2027-28-uefa-europa-league"
  },
+ "0xfb0e4427a1784cc241e9178444c3ff12dfffefa65fb57659b2e9427cf4b74730": {
+  "created_at": "2026-11-09T22:28:00.217483Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Gareth Southgate be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-gareth-southgate-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0xfe44f7b38cb15a1294b086adcc28c790990a2d726028544f39d2c6cce6adfc30": {
   "created_at": "2026-09-04T19:52:15.253747Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1712,5 +1781,14 @@
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
   "slug": "will-harry-wilson-be-the-top-scorer-of-the-2026-27-uefa-nations-league"
+ },
+ "0xff99fa3c88223b2ea30987618ac0d359d0a04ada5a44d5f28e3b7057b2bf2730": {
+  "created_at": "2026-10-15T18:01:08.409585Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 0.5",
+  "revisions": 1,
+  "sha256": "fdb5ede86bec9fd24b84c84169e7e5bbf14986e9c3c1d861c50f05672943b0eb",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-0pt5"
  }
 }

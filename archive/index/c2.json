@@ -62,6 +62,15 @@
   "sha256": "1f1405a067da0320c7df8ea27f1b7f2c61888ea27bbb12669df37d3bc5c44ac5",
   "slug": "jamarr-chase-1324pt5-receiving-yards-2026-27"
  },
+ "0x0d4d277606b5f5b1e672a6d6c87e9687aa171d5d0a5737d8717cf36f389459c2": {
+  "created_at": "2026-10-15T17:01:04.393694Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 1 - 4 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-1-4"
+ },
  "0x10582a8b75b78221cbeb241a493f85234e41b6d775f7adb766ddf048da987dc2": {
   "created_at": "2026-08-12T00:18:27.911218Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -84,6 +93,7 @@
   "created_at": "2026-10-03T19:00:29.752615Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "SK Artis Brno to score first vs. Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "e5388627036ad4a6530444b7fad5caf38ce957742f5d4b50ff37141ed2fca7d2",
@@ -138,6 +148,7 @@
   "created_at": "2026-08-28T19:43:45.543367Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will CF Montr\u00e9al win the 2026 MLS Eastern Conference?",
   "revisions": 1,
   "sha256": "eaf777950e049a2e80daac661f22587985e09b52d79dd38f53644ab7525d799c",
@@ -196,6 +207,15 @@
   "revisions": 1,
   "sha256": "25cf19db7c53b1dafa327e399c30650829712413f2f91a049ac8cae998fe840d",
   "slug": "will-michael-badgley-finish-as-a-top-12-k-in-the-2026-27-nfl-season"
+ },
+ "0x1e8d853c74fca0de3b7b9f354803332b672626575596bbdcd526f3cb9868dac2": {
+  "created_at": "2026-11-09T21:18:08.16896Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Dragon Ranger Gaming Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-dragon-ranger-gaming-win-an-international-event-in-2027"
  },
  "0x1eea8a36296a75177edf5b8df7e29eb71fa1f126145b6b1dc2853b57666b6ac2": {
   "created_at": "2026-08-05T21:01:14.085633Z",
@@ -275,6 +295,7 @@
   "created_at": "2026-10-10T11:30:44.045518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Charles Leclerc finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -461,6 +482,15 @@
   "sha256": "1f0ec6de7b3591563ecc808031d74ff0b25f9c198be54887ee79e5e9a9a4d42c",
   "slug": "will-uro-macut-be-the-next-prime-minister-of-serbia-20260629223938647"
  },
+ "0x46d78461a50e7d7653ad3e60e0429978cb2f866956dd26e9c4ed187c2b2092c2": {
+  "created_at": "2026-10-15T18:01:48.660373Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 7.5",
+  "revisions": 1,
+  "sha256": "9f6f78d4d1c3ed0323d96bd517d5be10f9e31efc3747ec5ac5a88f9cb2ee8e99",
+  "slug": "cdr-bad-cdt-2026-10-28-total-7pt5"
+ },
  "0x4769e6eb48b0e587abc7972c12c0b70f513b4f973f2b9fd30e3040d13f9b67c2": {
   "created_at": "2026-08-18T19:59:44.347997Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -564,6 +594,7 @@
   "created_at": "2026-11-03T22:16:34.603263Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Vance's Republican nomination odds dip to 30% by December 31?",
   "revisions": 1,
   "sha256": "cded31798af6309c22965f0a9b191f41105746bea3f8c71195179c2bf3b42deb",
@@ -872,6 +903,7 @@
   "created_at": "2026-10-10T11:30:46.759621Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lance Stroll finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -903,6 +935,15 @@
   "revisions": 1,
   "sha256": "937f8fc6a4933d119b1cb0a60444dd6f1553609630286adf529186f7660ff137",
   "slug": "will-miami-dolphins-advance-to-the-divisional-round-in-the-2027-nfl-playoffs"
+ },
+ "0x88b80f44d6057215fbabf2bcaf279eb2858cb974ce044490e1a1c29c1315e9c2": {
+  "created_at": "2026-11-06T22:31:45.087449Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Tondelier win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-marine-tondelier-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0x890a7367a1420a80c965aff388027f371eb5a2e30a393542056a7f12bf0b30c2": {
   "created_at": "2026-10-27T16:57:31.763104Z",
@@ -1017,6 +1058,7 @@
   "created_at": "2026-08-26T08:45:19.568803Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "c5d197cefcb66f2d1683b589ed3c3eacfdc38073231fc9ec2adca96166e5c54c",
@@ -1266,6 +1308,15 @@
   "sha256": "bf8ecf01cb00334fa84c7a4297ce9454f936dd0c3c19983f1d69ffdf384bf46c",
   "slug": "nba-2026-27-western-conference-1-seed-memphis-grizzlies"
  },
+ "0xb8c3313d1b117f2cc31c6981f1ae7c9a836296a1a077dfdc020886cf8a8673c2": {
+  "created_at": "2026-11-09T17:16:04.066733Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Supreme Court overturns federal ban on home distilleries?",
+  "revisions": 1,
+  "sha256": "41996d0c029b5e0d2352ae2bcbb6d393cfb7eeb7ad4983e81cc26c625c53dd6f",
+  "slug": "supreme-court-overturns-federal-ban-on-home-distilleries"
+ },
  "0xba639cc04b30c467e79a19aeef8203c715b157e9b8cbe8d2e903c804b7c522c2": {
   "created_at": "2026-08-24T16:35:57.684886Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1292,6 +1343,15 @@
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
   "slug": "will-sporting-cp-finish-first-in-the-2026-27-ucl-league-phase"
+ },
+ "0xbcf833211a926cb5b33f100d5130e94d989cd45874331e4f2fc797892f0318c2": {
+  "created_at": "2026-11-06T16:45:33.86364Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Hy4 debut at a score of at least 1460 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "6f98c8c9f83cae560e52b760f04da81483f1e18073a5a4844ed2cad1612573c1",
+  "slug": "will-hy4-debut-at-a-score-of-at-least-1460-by-june-30-2027"
  },
  "0xbdcac48a961a1da872539f9a30c80d9230c8ade022e3fc9ae8f41aac16a8d6c2": {
   "created_at": "2026-07-29T20:35:17.345808Z",
@@ -1329,6 +1389,15 @@
   "sha256": "ab0cb8e8582bba69fe27812cee5f72144e0c06279b4b09fbeeaa7070a412274c",
   "slug": "will-the-median-home-value-in-nyc-be-between-484000-and-497000-on-december-31-2026"
  },
+ "0xc36ae995f27212c3e982837a68643c2bc838b48257ccf9767cf06c3dd982b1c2": {
+  "created_at": "2026-10-15T17:02:05.456723Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 1 - 1 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-1-1"
+ },
  "0xc599fa56a02ebb5cc4929f441383b8ecb328943feab82821926fc5036da1cbc2": {
   "created_at": "2026-10-27T16:58:15.595033Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1351,10 +1420,20 @@
   "created_at": "2026-09-22T13:52:59.798512Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Iran target Syria by October 31, 2026?",
   "revisions": 1,
   "sha256": "415fb102a072625dc3a4b82abc3dcc4f636127244263595dc408b1861df4d052",
   "slug": "will-iran-target-syria-by-october-31-2026"
+ },
+ "0xc88d3c85dd137ae4b0e2f1cf5f97648c09684a1e8196965f2d9d759a3930cfc2": {
+  "created_at": "2026-10-15T17:01:05.190248Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 3 - 5 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-3-5"
  },
  "0xc8a2dee57a4c1431e7ea74c00e820e8c3ea58fcbe5d83ebf51dd1b11a08940c2": {
   "created_at": "2026-02-19T00:14:48.167322Z",
@@ -1392,6 +1471,15 @@
   "revisions": 1,
   "sha256": "d2c7e6dd0e9a411d15410f53549d0a1e2f4ff8482cbf97bcc73ec3d32bf4b241",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-07-house-election-by-50-55"
+ },
+ "0xccb16049cbd4564fe35254befc355c46f1eab7432a0511ec8ee5f537494dacc2": {
+  "created_at": "2026-10-15T17:00:57.47238Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 1 - 1 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-1-1"
  },
  "0xcd32c6e78726f8e58b81528d86b695a6fd4cb7c7d9e95806e868ad662ae2aec2": {
   "created_at": "2026-09-13T09:44:18.752927Z",
@@ -1626,6 +1714,15 @@
   "revisions": 1,
   "sha256": "9995107b52256cb9d5bfea30045cbfec3249575004da22750ef1e272dc2e0acc",
   "slug": "2027-soccer-efbet-liga-bulgaria-winner-spartak-varna"
+ },
+ "0xf8a2a52c4cff0d54e13cc592e8b534cb3cc0967958a85a6c4869a986ab0effc2": {
+  "created_at": "2026-10-15T17:02:06.814347Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 5 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-5-3"
  },
  "0xf8cda711293ca6e9089af77b327caf4ba1ad40eabdc9240d5f1ebc02e4518ac2": {
   "created_at": "2026-08-18T14:23:05.500911Z",

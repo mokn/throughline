@@ -26,6 +26,15 @@
   "sha256": "d74903f417c21aef12a86d6a1a64a98d370a8810e24d00a00ecbe7e8b599c6d8",
   "slug": "will-crystal-palace-win-the-2026-27-uefa-europa-league-championship-20260701202403682"
  },
+ "0x01d657f0a047913f328f59b51aaee668415830b3ef12bfb343279588e08249ba": {
+  "created_at": "2026-10-15T18:02:41.622857Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "96f3ffc29494a00df9a88e78a904522c0421c0ce2849f30dcddb7e09661bed73",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-away-3pt5"
+ },
  "0x01f30d229050b22e57f11f01d5f0abd9d9d9d55dfdcc3f4ec956a7f82fbfdcba": {
   "created_at": "2026-09-20T08:46:04.214852Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -44,6 +53,15 @@
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
   "slug": "2026-soccer-usl-league-one-runner-up-westchester-sc"
+ },
+ "0x06fa0412599aa2069a6758d4d1b2d141e2cff4c192c2fb9c8de7da6469831cba": {
+  "created_at": "2026-11-06T22:39:05.574079Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will exactly 9 candidates appear on the first-round ballot of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "011d52202cdf5c342989e6570b6242cf99f500e1a33896c2d44d30f33f317736",
+  "slug": "will-9-candidates-appear-on-the-first-round-ballot-of-the-2027-french-presidential-election"
  },
  "0x07153835986bfab1f1fdf4162d835f08fbcbb7c722e5777697044cdafa60d8ba": {
   "created_at": "2026-08-10T23:57:18.133811Z",
@@ -211,6 +229,7 @@
   "created_at": "2026-03-02T22:35:29.384066Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Virginia abortion protection amendment pass?",
   "revisions": 1,
   "sha256": "2e91684083273b3684d81ab28e8f2aec93bede35a55fc0dd4f60bfbeea635a0c",
@@ -238,6 +257,7 @@
   "created_at": "2026-08-12T17:26:55.473228Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Toronto FC be runner-up in the 2026 MLS?",
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
@@ -256,6 +276,7 @@
   "created_at": "2026-07-30T19:48:31.955323Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Idaho passes ballot measure legalizing abortion?",
   "revisions": 1,
   "sha256": "3b86844b24fc419ad97f43371ce6cdea2303877411871bac4e4c0fb3683e4e61",
@@ -278,6 +299,15 @@
   "revisions": 1,
   "sha256": "82eab1c0b41a1d5784b9e3c94195fad9fe7a3dfca60c58e2ad655b09524d8743",
   "slug": "del-2027-champion-augsburger-panther"
+ },
+ "0x2ccdf3b607629cc4af9fd142168d344af8084dcd3dad243594e7ba4c8a322eba": {
+  "created_at": "2026-11-07T12:30:55.04178Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-pierre-gasly-2026-12-04"
  },
  "0x2dcbc71a3f8108936e768b503d565fbda7a644b2a0bd9ed45f74982a2bb11fba": {
   "created_at": "2026-08-26T14:05:23.76548Z",
@@ -333,6 +363,15 @@
   "sha256": "e5542726942937d32cb4b304b41495f3b9e84f74102fd1d300cbfcabfc2eea3d",
   "slug": "will-chris-hunter-be-the-2026-big-12-receiving-tds-leader"
  },
+ "0x380e798f726a2cfd6427d7dc85f1fe7dfe2b4f34f83286d51489e858553507ba": {
+  "created_at": "2026-11-10T02:45:17.432615Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will H.E.R. sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-her-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x3815ee46bb31a713a50aff02a9ba89c7ce12174695545abc550889d355f620ba": {
   "created_at": "2026-08-05T10:29:56.349408Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -373,6 +412,7 @@
   "created_at": "2026-10-10T11:30:10.999231Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Carlos Sainz Jr. get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
@@ -639,6 +679,15 @@
   "sha256": "8fe55ccd80d74a64fcd6306c947381871d0a7d9e79b154a376d6b384a5f238cc",
   "slug": "will-disclosure-day-win-best-picture-at-the-99th-academy-awards-20260727174029852"
  },
+ "0x6aeb20529ad9a3966981ff6ad7fc340080caf904fc86733145b963b1c40f45ba": {
+  "created_at": "2026-11-09T22:28:06.987546Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Ralf Rangnick be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-ralf-rangnick-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x6b03a6b4d5ea6d94f298c9812fbcf1008b65714f339b8a3c07782845465ae5ba": {
   "created_at": "2026-08-21T17:22:07.578948Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -842,15 +891,26 @@
   "created_at": "2026-07-30T19:46:18.31701Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will voters pick the Winchester Model 1894 (.30-30) as the state gun of Idaho?",
   "revisions": 1,
   "sha256": "32c13a11589d2c4fbab1628201cac820bbea6df03df2fffeae39a34f6bc6fb4c",
   "slug": "will-voters-pick-the-winchester-model-1894-pt30-30-as-the-state-gun-of-idaho-20260729163706904"
  },
+ "0x8d06b72a53b74da0fc97608311b2779a50bddf317c85df2f74f0e6119187c1ba": {
+  "created_at": "2026-10-15T18:01:01.946751Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "1d8c987240ba5ded452d09c0307bc589d7a68e0a1bf4150da25ccbfbb116982c",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-home-2pt5"
+ },
  "0x8d729c1018e7b84f97bb0a4080b0e91736bb1b897cb7e49351d1a3ff0844e5ba": {
   "created_at": "2026-08-11T14:10:44.197724Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 4 House seats in North Carolina in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e7e410e783f82c06392ed31b471dab1af4da67d1b15f78a43764fff4b5ad3bc7",
@@ -910,6 +970,15 @@
   "sha256": "22cefdf01fc7cade1e764ed4964cb2d03b0fe9052bd9d5c186be2995b3f1001c",
   "slug": "will-mfk-ruzomberok-be-relegated-from-slovak-nike-liga-2026-27"
  },
+ "0x931c487c32efa834e495f095c5ffcadc67fee95c31738fb2ac192175d31a6eba": {
+  "created_at": "2026-10-25T10:45:18.236479Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "c647b38666fc6317917aa6109e7d27721e6ec7be685c3990451038f7775b3890",
+  "slug": "gtm-mun-aur-2026-11-07-btts"
+ },
  "0x9502aad6d9d7c4e9638976cd04ef07bfd92aad5a261f909b4391d0458d279cba": {
   "created_at": "2026-01-02T21:10:22.381479Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -927,6 +996,15 @@
   "revisions": 1,
   "sha256": "0eae79869c34000e97a1ef5ba8840d30d9c17df5ba0cba36d0c49db173097ff0",
   "slug": "will-the-5-year-treasury-yield-hit-4pt90-before-2027-readd"
+ },
+ "0x961165636ded2469a4aecdbadb3d3704570bfeac2d6032ad86bddd1586a051ba": {
+  "created_at": "2026-11-06T22:58:39.308666Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will John Ratcliffe be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-john-ratcliffe-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x997918077933556d933b744855bd657f884e10a528a697923589da7b9f6569ba": {
   "created_at": "2026-08-12T17:29:23.171057Z",
@@ -1158,6 +1236,7 @@
   "created_at": "2026-10-08T22:00:11.250675Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bentley vs. Jr. end before Round 6?",
   "revisions": 1,
   "sha256": "56c77d77954c49001879e3b1451686e50a47ce1c3303b428f6969087d4148bcf",
@@ -1248,6 +1327,7 @@
   "created_at": "2026-02-18T17:11:11.270721Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Marco Pa\u0161ali\u0107 win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -1412,6 +1492,7 @@
   "created_at": "2026-10-08T22:00:14.386969Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Vanhouter vs. Balaz end before Round 8?",
   "revisions": 1,
   "sha256": "494e2247b5264d084c59e9bfc5d35042a1dc89c39a30451f4d2ecdb6556accee",

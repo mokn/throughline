@@ -45,6 +45,15 @@
   "sha256": "64fbb4c46fa29157bc60f222a0d70d3c737a1abd01a0605439ddd0a5beda6556",
   "slug": "will-the-republican-party-win-the-ny-24-house-seat"
  },
+ "0x080b136ba23dd00ab7d07f28b9b81444bb61683cddea01df2b1d8d65a2f93faa": {
+  "created_at": "2026-10-25T10:45:16.582339Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: CSD Municipal (-5.5)",
+  "revisions": 1,
+  "sha256": "dbdacfb661e79d7d98ffb8f82f8b7193061c40238e530ad4e200234068b929f0",
+  "slug": "gtm-mun-aur-2026-11-07-spread-home-5pt5"
+ },
  "0x09c457043c18969276a457165a4dd347ff3609625f3cd17db9c76a247bb0ddaa": {
   "created_at": "2026-01-30T23:23:03.135665Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -202,6 +211,7 @@
   "created_at": "2026-08-31T18:17:56.812623Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Otakar \u0160t\u011bp\u00e1n Ba\u010d\u00e1k be the next Mayor of Olomouc?",
   "revisions": 1,
   "sha256": "7281809af5844bfd3378ddb1858b3c2ef39b80ab36da07ff4d846bec8a535f99",
@@ -216,6 +226,15 @@
   "sha256": "0355b3c81139a0a2803642135c16fdcc099b05683f8eaf6327a3a271c08a47b4",
   "slug": "nba-2026-27-spg-leader-deanthony-melton"
  },
+ "0x2e7fb09a04fb6faa2ac1a9e5061a23b2902ba3ecbdfd7cc7bff777f4f3a15eaa": {
+  "created_at": "2026-11-09T21:18:04.667018Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will All Gamers Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-all-gamers-win-an-international-event-in-2027"
+ },
  "0x2eb24566084fd61b5f3373f65edb565b11a14e620de57ba36e4f8579c29381aa": {
   "created_at": "2026-11-01T15:01:22.572126Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -229,6 +248,7 @@
   "created_at": "2026-09-22T16:22:19.039403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Grand Traverse County in the Michigan Senate race in 2026?",
   "revisions": 1,
   "sha256": "dcb271d03e57ec95fc92a425154b8b5230864f476598b533ae428234bf422407",
@@ -287,6 +307,15 @@
   "revisions": 1,
   "sha256": "afef1f29030cded4e654979400d7d1f5bef9c2b8afc1d2a1e422f6b0d12493d0",
   "slug": "will-the-republican-party-candidate-win-the-2026-kansas-senate-election-by-10-15"
+ },
+ "0x35054cbc2cbece6f0fad483a0530e07298997cd1e3457d1814e983bd73cabeaa": {
+  "created_at": "2026-10-15T17:01:18.868667Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Alcoyano vs. RCD Mallorca end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-ca-mal1-2026-10-28-draw"
  },
  "0x353bf8de26d74d55bba0b39a9c96925a90582d83ffb20e1b986e729504841daa": {
   "created_at": "2026-08-11T18:42:34.194157Z",
@@ -423,6 +452,15 @@
   "sha256": "84eaf53c7d8cda850ab134fb83b6c122534d397b075c494a5f6a288ea9cdade6",
   "slug": "will-anders-carlson-finish-as-a-top-5-k-in-the-2026-27-nfl-season"
  },
+ "0x587c956d5dd1241cf1b496aed1d71ad5c17e304a67412a5c825040d8a8361baa": {
+  "created_at": "2026-10-15T18:02:10.956048Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Alcoyano (-1.5)",
+  "revisions": 1,
+  "sha256": "cbe06c34ee9492a0b6a3b72c2b8353493eb469675148aef4409d3cee96ed30bb",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-home-1pt5"
+ },
  "0x5ea9ed878a3dd7cae2c2c5089860f46b3c8d57d39e48a8819e18854b10e16caa": {
   "created_at": "2026-05-12T20:06:19.688837Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -472,6 +510,7 @@
   "created_at": "2026-05-11T21:26:37.977984Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Puffpaw launch a token by December 31, 2026?",
   "revisions": 1,
   "sha256": "0f34111e5aa2a72d8314c65bbc8b20df5945ed6a6a2cf9025d5cb1f185c65d58",
@@ -634,6 +673,7 @@
   "created_at": "2026-03-25T22:06:55.244339Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Torey Lovullo win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
@@ -779,6 +819,7 @@
   "created_at": "2026-08-24T16:36:34.965718Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Oriente Petrolero finish 14th in the 2026 Bolivia LFPB?",
   "revisions": 1,
   "sha256": "93bc870875a24e609086afb85f03e2d358e03d39ba20d766b82e44cb695e6c1e",
@@ -878,6 +919,7 @@
   "created_at": "2026-09-02T18:11:42.424866Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Republicans win less than 8% of the Black vote?",
   "revisions": 1,
   "sha256": "42466225b54a9dd55e702df629190490b0c8a52d006735341faf0394a35c3e66",
@@ -928,6 +970,15 @@
   "sha256": "c92c6a8b0e78ba4caa1f5f9327e2de2b475868bc025eba6024046428cc034dab",
   "slug": "will-the-republican-party-candidate-win-the-2026-mi-03-house-election"
  },
+ "0xa4ec78a49fad3ec4f8dfa1b0268fc99a5d6672aa6ed702c1401d896ee8805aaa": {
+  "created_at": "2026-10-15T17:02:05.318774Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 0 - 1 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-0-1"
+ },
  "0xa6dbcdc29c17fe6f1acf36970fdb058f221acb95da260016e9dc06d81702b8aa": {
   "created_at": "2026-09-28T20:16:18.956527Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -936,6 +987,15 @@
   "revisions": 1,
   "sha256": "5bbe73a6fc2cee6d2717edece23f4500dd5363ba95005dfdb7c2140350ea6aee",
   "slug": "closer-senate-race-nebraska-or-texas"
+ },
+ "0xa82699004214aa3f755ede5d9e6d5c4850e3f69ec821a3b15433a1bd6a3a19aa": {
+  "created_at": "2026-11-10T02:14:32.437072Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Colette Kress be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "slug": "will-colette-kress-be-the-next-ceo-of-nvidia"
  },
  "0xa8e3a806d143817625d119b3372f964a143d61331854194dad18a373e1ec2faa": {
   "created_at": "2026-11-03T17:06:06.365371Z",
@@ -1213,6 +1273,7 @@
   "created_at": "2026-02-18T22:47:40.816129Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Corbin Carroll win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -1222,6 +1283,7 @@
   "created_at": "2026-09-24T08:24:42.214176Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Anthropic's frontier output token price be at or above $25 in 2026?",
   "revisions": 1,
   "sha256": "2c8d943ec15467531ebd1eb5f9841ded6a03b87b11a8ce6ac459878174e7dbf9",
@@ -1271,6 +1333,15 @@
   "revisions": 1,
   "sha256": "7af628088575f4f337d5bf66c3b37fb3380d36bca85512bddaab1948d30c2a6d",
   "slug": "will-liverpool-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0xd6aec488aaef9eb7e2bdbbcfc68353efab434f6c40c8ac7f3479419aae6752aa": {
+  "created_at": "2026-11-09T22:27:57.810144Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Antonio Conte be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-antonio-conte-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xd84c1465259ca62b9d968e06c4eca5a8b75589114704afdf508785a8b0a23aaa": {
   "created_at": "2026-10-30T22:00:40.920124Z",
@@ -1402,6 +1473,7 @@
   "created_at": "2026-08-12T17:15:43.340048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Fortaleza be runner-up in the 2026 Brazil S\u00e9rie B?",
   "revisions": 1,
   "sha256": "7777a7d3c97d95dd9af73cee9b04d916de1320567a748a903e6fda216c186271",
@@ -1489,6 +1561,15 @@
   "sha256": "8a3ed366bcc820c28eee81f19a9ef7f85bbf5dd4d0d4d1e777c5dcf993c4e4d8",
   "slug": "will-iowa-be-the-number-1-ranked-defense-in-cfb-20260803220052978"
  },
+ "0xf2a22e0b4cb3d356c30b89e29c07d95cbc020e7878468be69421a57dc65342aa": {
+  "created_at": "2026-11-09T22:28:03.11453Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Diego Simeone be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-diego-simeone-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0xf2d23b87a0b954f5217f8734136aec4278b6171e7133ae5910e55f02082d7daa": {
   "created_at": "2026-08-10T23:57:43.296045Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1502,6 +1583,7 @@
   "created_at": "2026-09-10T18:27:17.249006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Democratic Party control the Arizona Senate after the 2026 Midterm elections?",
   "revisions": 1,
   "sha256": "f9487facd8fe270d4386f58968fbc19d892783850bd9228948d3601d04ca1fc6",

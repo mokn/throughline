@@ -81,6 +81,15 @@
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-andy-beshear-win-the-2028-us-presidential-election"
  },
+ "0x0abc3733d8c49af6899822211e261dd63ae19e05d4181c6f1441586043b683b9": {
+  "created_at": "2026-11-07T12:30:36.359181Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ferrari achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-ferrari-2026-12-06"
+ },
  "0x0abe968d262276a9b2ce003702952d44333149679d2848a002909676d9e695b9": {
   "created_at": "2026-10-21T23:29:52.54305Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -153,6 +162,15 @@
   "sha256": "5bfba3f89fb0fa259042c77501648c8c72486b1083f8aed37193732d1c35a3dc",
   "slug": "garrett-wilson-90pt5-receptions-2026-27"
  },
+ "0x10e1da47d5d35e07251e28e082fd8204c50e6010dc1445a735aa2bf3ed1b57b9": {
+  "created_at": "2026-11-07T12:30:56.345533Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Charles Leclerc achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-charles-leclerc-2026-12-04"
+ },
  "0x12a6f540b5281f6c4cf164d4c629b8d39f7c312a4f9c5274d85cb414875bf4b9": {
   "created_at": "2026-09-27T20:09:16.558776Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -166,6 +184,7 @@
   "created_at": "2026-01-28T15:36:53.808499Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NY-01 House seat?",
   "revisions": 1,
   "sha256": "f4aae1b937bcbecdc7d804788503fe263297d6502241e9268fbd6b121bd3e3d4",
@@ -640,6 +659,15 @@
   "sha256": "6764ddea7cc6da598316d7e77a81d9134971229085e84f1f576d1e4add9ea818",
   "slug": "f1-qatar-grand-prix-winner-norris-2026-11-29"
  },
+ "0x5c4713f113bd32ebeb49f31d54f0f46ca5405a291bf9e740e49ef709d14c07b9": {
+  "created_at": "2026-11-06T22:33:06.402286Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kelly Morrison be the next to hold Klobuchar's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "02531a96867f7b76f154c81b1fb413aca8298700f52d7909deda2f62a26fbe4f",
+  "slug": "will-kelly-morrison-be-next-to-hold-klobuchars-senate-seat-by-march-31"
+ },
  "0x5cc5fc53043ba65e914fb8f6d0f834e639c667c0e3ead57d49cda3d8247122b9": {
   "created_at": "2026-10-13T15:57:39.694398Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -662,6 +690,7 @@
   "created_at": "2026-01-12T22:53:21.372035Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Blue tsunami in 2026?",
   "revisions": 1,
   "sha256": "d687416d36b932718e3940ea492807bc969262e8237cb64e5db7338a7e8d17bd",
@@ -932,6 +961,7 @@
   "created_at": "2026-08-26T21:46:07.431998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Paide Linnameeskond be relegated from the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "5a33c82239cf7c22e870897154fc597c476a70f3eacc7b28cbef5739655b1869",
@@ -941,6 +971,7 @@
   "created_at": "2026-08-12T17:27:10.440752Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Gimnasia y Esgrima (M) be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -982,6 +1013,15 @@
   "sha256": "e94ab8ba852cc091be8da9bcb1814c23c442982e27fdbc4405b54674d22cd04b",
   "slug": "2027-soccer-2-bundesliga-winner-arminia-bielefeld"
  },
+ "0x9caba49d0cd494931c220760e3141287cbb2d3da458d1e39d1dd88a3be9f0cb9": {
+  "created_at": "2026-11-06T22:58:36.978537Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Chris Wright be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-chris-wright-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0xa2bbc8eaf5d29007b3f8d208164d069d56e1bfc80bcc7b920fedf9365ae06db9": {
   "created_at": "2026-08-07T15:59:35.114273Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1008,6 +1048,15 @@
   "revisions": 1,
   "sha256": "c175a715d73f08c89077cd7de260f27a3371560ead836cffc184b1ba01fd707d",
   "slug": "will-milwaukee-brewers-advance-to-the-world-series-in-the-2027-mlb-playoffs"
+ },
+ "0xa561abda66e8500f75d3ec2f0edb86bf4c5e174052f338e8b083fed857a93ab9": {
+  "created_at": "2026-10-15T18:02:48.91095Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "a49fdfc613fe05d3f45753b8e82075940a9b3a29f625a792f7ac914b6c42d2fc",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-away-5pt5"
  },
  "0xa59a3b26ddd2139456e754b5de319486b28316dec7c8cad1c005af55fda45bb9": {
   "created_at": "2026-09-30T09:18:21.155699Z",
@@ -1347,6 +1396,7 @@
   "created_at": "2026-09-23T18:06:35.552999Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will B8 qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1384,6 +1434,7 @@
   "created_at": "2026-08-12T00:15:40.353165Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Gimnasia y Esgrima (M) win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -1411,10 +1462,20 @@
   "created_at": "2026-02-18T23:32:40.589376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Shohei Ohtani win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
   "slug": "will-shohei-ohtani-win-the-2026-nl-cy-young-award"
+ },
+ "0xf67d424ec132af6ff21ee7f5f6622357acaea21ec5e119e5f766c550a28bdcb9": {
+  "created_at": "2026-11-07T12:31:21.928612Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lando Norris finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-norris-2026-12-06"
  },
  "0xf6f2f693d57f417cd154875962cde0302e7666e0866b907292bb2d8672f9a3b9": {
   "created_at": "2026-09-04T20:19:42.31312Z",

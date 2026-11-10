@@ -99,6 +99,15 @@
   "sha256": "4d1b646137460330bd30f8c47f78f142941598bae0e92f3c8aed0bf50b0736e7",
   "slug": "tsla-above-420-on-november-30-2026"
  },
+ "0x1108f5096f1eb81062f8dcfd0529d2eb018b0ae891d1f75b7699459994d7b498": {
+  "created_at": "2026-10-15T18:02:35.617919Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Club Portugalete (-5.5)",
+  "revisions": 1,
+  "sha256": "c62243226a36c0e2a083160e414c808146d09af2cd9fb8a644e4c20c8eca409d",
+  "slug": "cdr-por-iru-2026-10-28-spread-home-5pt5"
+ },
  "0x11ddcca4ae4fdfee29cd9032b7670ce33141f93d9af753cd5a651cf57c70c498": {
   "created_at": "2026-09-08T19:55:48.119878Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -139,6 +148,7 @@
   "created_at": "2026-10-23T01:56:11.484383Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the 5-year Treasury yield dip below 4.60% before 2027?",
   "revisions": 1,
   "sha256": "7c52cfe9b5c8098de41d80c9015bf081e20892e9145f94eb126d2d4877e4cd84",
@@ -465,6 +475,7 @@
   "created_at": "2026-08-14T21:26:58.130016Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the LA-02 House Election?",
   "revisions": 1,
   "sha256": "60f4ef8616fd4fdd11c29426c7e045dfacd5503bac0c7a75b83aa710ce2b12fb",
@@ -604,6 +615,15 @@
   "revisions": 1,
   "sha256": "9c958e7ce2e81d39efc976780db7c6773683e53938ab977f547f3d12f4c659e2",
   "slug": "will-isabella-rossellini-win-best-supporting-actress-at-the-99th-academy-awards-20260805190945894"
+ },
+ "0x78f40924d86f140e0a84e5b2e3f4470c65823c7d64b2ed7169a5b866f8bb2598": {
+  "created_at": "2026-11-07T04:02:09.951812Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the next Qwen Max model (3.9+) debut at a score of at least 1460 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d23243119156661febc2be6430222dd35579e84f98071c74d7d87ce94d8d5194",
+  "slug": "will-the-next-qwen-max-model-3pt9-debut-at-a-score-of-at-least-1460-by-june-30-2027"
  },
  "0x79436df43397aa508596a0701c2ae3e09b6dacbefeba2fd7655f5b246a8c4598": {
   "created_at": "2026-10-20T00:30:33.838637Z",
@@ -983,6 +1003,15 @@
   "sha256": "4e129a0d1e87db076675b05bd9751735a7314cc73540735e8c74522762696340",
   "slug": "will-tommy-devito-finish-as-a-top-5-qb-in-the-2026-27-nfl-season"
  },
+ "0xb5b74a12cc379cebbd3036b093f2c65ee3e82c0b7f697e61ce1e603910f1a598": {
+  "created_at": "2026-11-07T12:30:17.436455Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-jr-2026-12-05"
+ },
  "0xb64b5643f8cbc75cc366ea30d42827c0b2133bb58087818b0ee75fa34f705398": {
   "created_at": "2026-02-19T00:54:39.200392Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1100,6 +1129,15 @@
   "revisions": 1,
   "sha256": "7ddd816e4ec3abe4470d120960b6bd9968adb6d7209c319e2c12a69c24ca30da",
   "slug": "will-sigma-olomouc-be-relegated-from-chance-liga-czechia-2026-27"
+ },
+ "0xd13cd9754a8f785ec3fbf4b665d1dc0f888c84f90cafd36d15306e58b05a2b98": {
+  "created_at": "2026-11-10T03:01:16.586995Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Risk It All (Bruno Mars) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-risk-it-all-bruno-mars-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xd196b751d58df5761715da0b986492148a0273a40e412f4c6bd9bc3bd737d598": {
   "created_at": "2026-08-26T21:46:29.947421Z",
@@ -1371,5 +1409,14 @@
   "revisions": 1,
   "sha256": "c75bb110bc84023caa3078f029f8dc7c6daae984e45af14f6f5a1a0702b0912c",
   "slug": "will-boulaye-dia-score-the-most-goals-in-the-2026-27-uefa-europa-league"
+ },
+ "0xfcca75003949ab9a6546d94b9f4788e4be524b7758153b7f30f73bc0e6a36598": {
+  "created_at": "2026-11-07T12:30:12.649425Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Tgr Haas have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-tgr-haas-2026-12-06"
  }
 }

@@ -39,6 +39,7 @@
   "created_at": "2025-12-15T20:43:25.053498Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the MI-10 House seat?",
   "revisions": 1,
   "sha256": "0ae0c315ebaf98eae353c72c44ec0052b8940c7e100c96d6c4d96d235b2ac214",
@@ -143,6 +144,15 @@
   "sha256": "17a34044e35e8aa09fa8e451ef4e1379903e447eafc3413d40b63167bad8290d",
   "slug": "will-t1-beat-grok-ai-in-2026"
  },
+ "0x1c493a6309dfb4652dfe3d0b1bfd9f40cb4ec2d73be6c1ec107e77e3b9f89833": {
+  "created_at": "2026-10-15T17:01:38.093473Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 5 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-5-2"
+ },
  "0x1deceff4fe504e1084afd2b1f1842321a25de3ef505a0a638078d09c8e680133": {
   "created_at": "2026-09-14T21:41:59.77905Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -178,6 +188,15 @@
   "revisions": 1,
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-wisconsin-reach-the-2027-ncaa-mens-basketball-final-four"
+ },
+ "0x231a704ba814a56a1eb3829228274427a5af6eacb6cd520eb7fea5e19d35eb33": {
+  "created_at": "2026-11-10T02:40:49.588392Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Holy Grail\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-holy-grail-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0x26cfadacb304b864fbc8bac17df2db428149988e72989d5940b3f1dce336df33": {
   "created_at": "2026-09-04T19:42:53.514408Z",
@@ -265,6 +284,7 @@
   "created_at": "2026-10-08T22:00:10.198679Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bentley vs. Jr. be won by decision?",
   "revisions": 1,
   "sha256": "30a68b2cb6c964e9777c6452543477ef2b748aa6e4d396dda53f1db9c0d694ab",
@@ -717,6 +737,7 @@
   "created_at": "2026-08-26T21:46:28.117981Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Argentinos Juniors finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -799,6 +820,7 @@
   "created_at": "2026-10-25T04:01:24.862058Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will SpaceX (SPCX) hit (LOW) $130 in November?",
   "revisions": 1,
   "sha256": "50a18ec2e1b8d8c0fa8b360d4158e4825d7c667f7796be4a68e8cd466d560c7a",
@@ -876,6 +898,15 @@
   "sha256": "345dd400340212ad1ddda839a7a40e3aa52b2c53e748726546ccee092a446a19",
   "slug": "will-florida-atlantic-owls-win-the-2026-american-conference-20260731201100092"
  },
+ "0x9f423fb6d375e1e874808f75deccffcba48cb7c7f5adab9d5b96a7f771c7eb33": {
+  "created_at": "2026-10-15T18:02:35.009664Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Club Portugalete (-3.5)",
+  "revisions": 1,
+  "sha256": "a4c8936b302aeddf211c03445c08e0adeaca65b7928a7b1d38f4fc31b23cf15a",
+  "slug": "cdr-por-iru-2026-10-28-spread-home-3pt5"
+ },
  "0x9f5036d127dbcd3dbd82f468f3d69a784a7c8fa7356c7f62ee17d7100e955a33": {
   "created_at": "2026-09-04T19:29:07.293742Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -889,6 +920,7 @@
   "created_at": "2026-10-08T22:00:02.213336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Billam-Smith vs. Clarke end before Round 2?",
   "revisions": 1,
   "sha256": "9dad486cbe890a2ca4be738c1280635b4c6f3e58c034a0b745e42101904bac3e",
@@ -1066,6 +1098,15 @@
   "sha256": "d3b1c4f2353737ce39949e5b2c27d960a3f421d97773f0d6405079ae4d902da4",
   "slug": "lithuanian-lkl-2027-champion-bc-jonava"
  },
+ "0xb8ddd3a28d8d7f0a7347d79e3308f7b53276a04478316351fa14fde2b3dc7d33": {
+  "created_at": "2026-10-15T17:01:21.716325Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 5 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-5-2"
+ },
  "0xb8f08eca86a10d7af9e2cce2a43f801dfc0329ca9d05f97f4caf820b11e4b733": {
   "created_at": "2025-11-19T22:51:26.368076Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1143,6 +1184,7 @@
   "created_at": "2026-10-10T11:30:38.626667Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Alonso or Stroll?",
   "revisions": 1,
   "sha256": "a2161f1cae7661a8c5cd75d88c561706b919bd5efedecca4b5d0fe68b6d9e39c",
@@ -1274,6 +1316,15 @@
   "sha256": "5a5682c8c58b74c2c887e01c7e58c30fc7e10bf6057309001e2c74edf7c891aa",
   "slug": "will-marseille-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0xd8d154087e3644a7cdfa24c0e2589d9c49d87450689eea6b07d4a42714b29033": {
+  "created_at": "2026-11-10T02:45:40.587566Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kim Kardashian attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-kim-kardashian-attend-super-bowl-lxi"
+ },
  "0xd9685a5976f982784ef7613c822d17cbcc59b65c47c13a730d2efcc38a47bc33": {
   "created_at": "2026-09-09T15:47:55.071927Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1336,6 +1387,15 @@
   "revisions": 1,
   "sha256": "5e43c3006ed39280cd35241fdcbcafad13c4d5386a07123e0f77d091df2d50a1",
   "slug": "will-the-next-governing-coalition-of-new-zealand-include-national-act-maori"
+ },
+ "0xe33df081331a8b12867b16f9115dea3770cf0caa638336b09eb980c4e7c64b33": {
+  "created_at": "2026-10-15T17:00:58.790754Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 4 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-4-3"
  },
  "0xe562b53b9165e07c80573175796e19de19d028f2596b9d09cbfc97b6d8bd1d33": {
   "created_at": "2026-10-16T23:05:11.91924Z",
@@ -1440,6 +1500,7 @@
   "created_at": "2026-03-25T20:08:23.816313Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Kazuma Okamoto win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",

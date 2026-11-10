@@ -193,6 +193,7 @@
   "created_at": "2026-10-08T22:00:07.952459Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Mcdonald win by KO/TKO?",
   "revisions": 1,
   "sha256": "4aba6f44efd2caf229392940d17fda8fefa2930b3b604cb75e9b3b2167a1a806",
@@ -289,6 +290,15 @@
   "sha256": "2e53fb701e96aae72493d256809897fdd8c6700bb17b7af705aca9640eb095d4",
   "slug": "will-the-democratic-party-win-the-fl-05-house-seat"
  },
+ "0x3b0a747227e9ff54fec8d9e7bc0b1d3a80634da9534903eac671629106502cda": {
+  "created_at": "2026-10-15T17:01:20.720449Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 2 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-2-0"
+ },
  "0x3d9f53bfb10379cb40a0900b515f8d7749197fa1e28682adb9e1eb5ec8b551da": {
   "created_at": "2026-08-18T20:30:41.273142Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -302,6 +312,7 @@
   "created_at": "2026-10-03T19:00:28.136602Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 1 - 5 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -392,6 +403,7 @@
   "created_at": "2026-10-10T11:30:26.988477Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Oliver Bearman achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -401,6 +413,7 @@
   "created_at": "2026-08-11T14:14:31.2084Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 9 House seats in Texas in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9c3a46290209e6bbb1e52b1b0848fcc086f4d4c82763f50a5b91bc7076c7616a",
@@ -595,6 +608,15 @@
   "sha256": "7731b3e59d6053460ff31d00ef77968dcd081ddb06414c0cbd9e290977de49d6",
   "slug": "will-meghan-dizon-qualify-for-the-2027-ppa-tour-finals"
  },
+ "0x6cbea8ca2d892715f8e09f296ad8d39580d6a6e94fcc684fba1bc49e139a91da": {
+  "created_at": "2026-10-15T18:01:52.268933Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 5.5",
+  "revisions": 1,
+  "sha256": "7e531c49e228af0f45e273b5ca5fd42980959244be43c282df39ec3d9e190c8d",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-5pt5"
+ },
  "0x6ce85b63aad51bfd143744768b27cc8599a0e97c0fad6bb458dc4f41683b87da": {
   "created_at": "2026-08-07T20:32:06.553412Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -703,6 +725,15 @@
   "sha256": "9b7726fe72e7987eea92a46b17c158465f55e52d8a235561d52f76413f463852",
   "slug": "jahmyr-gibbs-249pt5-receiving-yards-2026-27"
  },
+ "0x73e66b8a13496abf2d1c1f55bdc42ca675bf0288bbc758a0a53ae13e48d232da": {
+  "created_at": "2026-11-07T12:30:19.208668Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-hadjar-2026-12-05"
+ },
  "0x744f442de356db04289d1b027065533e28f34f243c7504ce8274980f4568a4da": {
   "created_at": "2026-04-14T15:40:24.586552Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -711,6 +742,15 @@
   "revisions": 1,
   "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
   "slug": "will-lebron-james-be-the-2028-democratic-vice-presidential-nominee"
+ },
+ "0x7606fc5cb70e53deac40b8b2fe2cc7b5d75d18f8152993daa5b7a43e575848da": {
+  "created_at": "2026-11-04T17:37:40.848221Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Aurora Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-aurora-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x7753cbf49fa1a91fa652c3e12ec9cb0f6d66cde99156e0a89f60330d50d58fda": {
   "created_at": "2026-10-21T23:34:17.798928Z",
@@ -1056,6 +1096,15 @@
   "sha256": "5d9714e01187e1508d5b112758b82393fb145df3105cd5158da5d3b9c3c05783",
   "slug": "nba-2026-27-coach-of-the-year-mike-brown"
  },
+ "0xb88b2ecd8170ce9e1e01419f9d71af53a4662c513c6512279bbda864e08eaada": {
+  "created_at": "2026-10-25T10:45:17.606181Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 5.5",
+  "revisions": 1,
+  "sha256": "d56906571aba341c4c5999edc53bc97b645e16d01e8e531ceebe618c1250ce22",
+  "slug": "gtm-mun-aur-2026-11-07-total-5pt5"
+ },
  "0xb990b60dd39cd57480d7cce5fcf02197f5e5c84c65862f433572c7664bb441da": {
   "created_at": "2026-06-25T18:11:04.590223Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1317,6 +1366,15 @@
   "sha256": "d927b7f10022dc5c817ee902210b9e50e5f4bf862cd7bbe9a8b1dd0d23fd48ef",
   "slug": "will-waymo-launch-in-tokyo-japan-by-december-31-2026-20260626203025665"
  },
+ "0xe099592701c61ce7fe8c67f989f0bb67ef5e7b4b227d96101bbffdf4b40749da": {
+  "created_at": "2026-11-07T03:57:18.184231Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Another vessel struck in the Black Sea by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "11d97ff057466594483b107bef5fe380242f4d54d1b19e28605b43df8928bfc1",
+  "slug": "another-vessel-struck-in-the-black-sea-by-december-31-2026-20261106"
+ },
  "0xe2de83652b48a990592df6b367879c2f81d4c4bc14b7e9619a404858548ac5da": {
   "created_at": "2026-08-10T18:10:37.189102Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1375,6 +1433,7 @@
   "created_at": "2026-08-12T00:19:16.526372Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will San Diego Wave FC win the 2026 NWSL?",
   "revisions": 1,
   "sha256": "28c43d94e076a347f0063de2dc02b601bbd2690db887f510e8f539b8ef4b1496",
@@ -1465,6 +1524,7 @@
   "created_at": "2026-08-12T17:27:59.619356Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Barcelona SC be runner-up in the 2026 LigaPro Serie A (Ecuador)?",
   "revisions": 1,
   "sha256": "22fbf71e44bb333afa44042e75ed75545ce639ae1601678604cd7ade948c91bf",

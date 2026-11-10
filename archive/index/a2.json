@@ -71,6 +71,15 @@
   "sha256": "46c54a6e1f138622bb0407fe5e1b63a00b2b8b2dc24e945981e2db32750475ae",
   "slug": "will-pt-win-the-most-seats-in-the-2027-oaxaca-congress-election"
  },
+ "0x0a1076c4c635d9fb36fae83a4a2d2ca02c911f27e663ba761483903859336ea2": {
+  "created_at": "2026-11-07T12:31:17.439566Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Norris or Hamilton?",
+  "revisions": 1,
+  "sha256": "fe582946ae335f16ce90ee539e406187178d69d6c16185ded279f03c3a1130ce",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-norris-vs-hamilton-2026-12-06"
+ },
  "0x0c272237ba5042ed78a42cb474b7bfd047276771e152db2fc06c0932bb9488a2": {
   "created_at": "2026-10-25T04:00:02.830336Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -120,10 +129,20 @@
   "created_at": "2026-08-26T16:30:21.168826Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will the Philadelphia Eagles win more than 10.5 games in the 2026 NFL Regular Season?",
   "revisions": 1,
   "sha256": "f692ef8dacff6bf0bb75af37b44762982ff021d8b6883deadc6e97be2709ba9f",
   "slug": "will-the-philadelphia-eagles-win-more-than-10pt5-games-in-the-2026-nfl-regular-season"
+ },
+ "0x13871ded213b5501fc282ee49255ba86daebfc67477c01b320600fbe4b6a33a2": {
+  "created_at": "2026-10-15T17:02:07.968585Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "FC Cartagena to score first vs. CD Minera?",
+  "revisions": 1,
+  "sha256": "f95edd7c6232283c00edc42bf21d809c92b32b07ae1dc721f2c66b48eaca2549",
+  "slug": "cdr-cd17-car-2026-10-28-first-to-score-away"
  },
  "0x1404a4f3f226307e53d63d731960fa43872d25ac57c6044407d26c0ed6294ca2": {
   "created_at": "2026-08-10T14:53:02.190872Z",
@@ -201,6 +220,7 @@
   "created_at": "2026-10-25T04:01:29.765324Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will S&P 500 (SPY) hit (LOW) $740 in November?",
   "revisions": 1,
   "sha256": "c12e97d270acbc2685a5229e6f547ee877996549315cd83aa653ce4a5a586390",
@@ -408,6 +428,7 @@
   "created_at": "2026-08-24T16:39:20.560271Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will FC Flora finish 3rd in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "b6a3468cf61a291c1848fd22bd29e303cde5a6960649161e088290f496e494de",
@@ -505,6 +526,15 @@
   "sha256": "5fa9ae6d4c24fdff920e2265b57e397fe5bc3dd2d5402d86b20a32e9649b4f62",
   "slug": "will-the-ornn-a100-index-be-between-1pt00-and-1pt25-on-november-30-2026"
  },
+ "0x4935306580792d7550ebb0102dab5526d28bee28ca01b771ea67b1d9d4ed5ca2": {
+  "created_at": "2026-11-07T00:05:07.281409Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Balad support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-balad-support-the-new-israeli-government-in-the-vote-of-confidence"
+ },
  "0x499e700e278ce29d0b542376294d536b26182b269c4326114c9940ef92ca05a2": {
   "created_at": "2026-08-18T18:58:45.558539Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -532,6 +562,15 @@
   "revisions": 1,
   "sha256": "d49c33ea1273669ad8cd6e1ace4e2b6e973c467ae72ee4ab9b318577fed5cbb5",
   "slug": "will-the-republican-party-win-the-nm-03-house-seat"
+ },
+ "0x4b13ed5be12fc8892a3bbe187e4721dd1092fae9fb11376a2df5ac5fede40aa2": {
+  "created_at": "2026-10-15T17:01:03.424977Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 0 - 1 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-0-1"
  },
  "0x4c08f5b4a7e419215a5175995cd11c899bb40f19cd5c64d5864b0cae58fb0ea2": {
   "created_at": "2026-08-21T17:37:04.671683Z",
@@ -654,6 +693,7 @@
   "created_at": "2026-08-26T21:46:54.108231Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will San Jose Earthquakes keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -758,6 +798,15 @@
   "sha256": "195f52083f16b97ab8131ebcf34c6f557a7e8bbdbafc0a727a491304fb790527",
   "slug": "will-broad-front-fa-win-the-most-seats-in-segovia-in-the-2026-spanish-general-election"
  },
+ "0x68795b497f94580613c36c44d62e108a0fe98a60097d8e67c900ad30ed1ecfa2": {
+  "created_at": "2026-10-25T10:45:20.043218Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 5.5",
+  "revisions": 1,
+  "sha256": "87fe60620c3f3be7f137ad91acb34169c48b61835755ca9cee43d5fcd7dba5b3",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-5pt5"
+ },
  "0x6ce395a556114593270b25fa154512fd0f5067d49a400eca03c88b249fe700a2": {
   "created_at": "2026-10-13T19:48:18.778491Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -826,6 +875,7 @@
   "created_at": "2026-08-24T16:38:18.120378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Fredrikstad finish 3rd in the 2026 Norway Eliteserien?",
   "revisions": 1,
   "sha256": "c39995b81026889ab38537f9b279ba8820b8630638ae057bbfcb695384bf877d",
@@ -898,6 +948,7 @@
   "created_at": "2026-08-12T16:51:50.247928Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Guillermo Ch\u00e1vez Timoteo win the next Piura mayoral elections?",
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
@@ -1313,6 +1364,7 @@
   "created_at": "2026-08-26T08:15:02.063766Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Oxford United FC win on 2026-09-08?",
   "revisions": 1,
   "sha256": "d0a0fccd3bc3c34b883063a14867942399d35e2127966ca347867730c8ab0d41",
@@ -1331,6 +1383,7 @@
   "created_at": "2026-08-12T16:51:35.418618Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Paulo C\u00e9sar Beltr\u00e1n Ponce win the next Huancayo mayoral elections?",
   "revisions": 1,
   "sha256": "e91be4dc7f6da21e2f3b8e02b0a54b9d2d57136e1579e8b08bc7aef33e102c24",
@@ -1435,6 +1488,15 @@
   "sha256": "c7d31f12e5635372c2b94dd3de1c32bdcc897a6e2098d08be13aa4e1d2d5cd5e",
   "slug": "will-tennessee-titans-win-the-2027-nfl-afc-championship-594"
  },
+ "0xc71b4d1eb54da05c9a78e0c4bf9d8c5eaa809a84ed8fee06e464d7f6013645a2": {
+  "created_at": "2026-09-27T20:12:03.678426Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Jacob Fowler win the 2026-27 Vezina Trophy?",
+  "revisions": 1,
+  "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
+  "slug": "will-jacob-fowler-win-the-2026-27-vezina-trophy"
+ },
  "0xc962db8d30f3a4a57f35477b40fc0b3da1accef19c17bead33c2af1100e51fa2": {
   "created_at": "2026-09-08T16:53:15.913057Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1502,6 +1564,7 @@
   "created_at": "2026-05-22T18:33:44.014015Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Sean Duffy be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -1588,6 +1651,15 @@
   "sha256": "6e9137c6b8ad1af7611199771611c442730ceab7fb707c0d246e2f0acb40553c",
   "slug": "will-the-median-home-value-in-denver-metro-be-less-than-458000-on-december-31-2026"
  },
+ "0xec4fec2dce22f101bb49c5f520acd8446cb43b6e0db0aafa27da71579cd1e2a2": {
+  "created_at": "2026-11-07T12:31:16.560813Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Leclerc or Verstappen?",
+  "revisions": 1,
+  "sha256": "22be4cc183387fa2eb3f312676484ebdb4d9ee4fddecb6f02e69734a7f667b56",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-leclerc-vs-verstappen-2026-12-06"
+ },
  "0xed8bfe8b95224bfff9bbd55ba0401285c970ac7874296557ffbe82efa13a4fa2": {
   "created_at": "2026-10-31T11:31:04.813846Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1661,6 +1733,15 @@
   "sha256": "d48a322a7a4508bee757582c47b57b228c390f343a9febf9c2511cd8ebe35ae1",
   "slug": "will-hyperliquid-hit-100-by-december-31-2026"
  },
+ "0xf814e8597fa3f884e441d443490ed40c1b781594c24ba45cff81f9111115b0a2": {
+  "created_at": "2026-11-05T01:02:21.682843Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "245-249 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "245-249-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
  "0xfb42afaad14e6eed406a69daf6170ea7276f5e0ef176c7ec12e5f58b8f3edba2": {
   "created_at": "2026-07-23T15:37:20.719845Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1683,6 +1764,7 @@
   "created_at": "2026-02-18T22:38:31.817283Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Munetaka Murakami win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",

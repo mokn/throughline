@@ -44,6 +44,15 @@
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
   "slug": "spl-ahl-nsr-2026-10-15-exact-score-1-5"
  },
+ "0x0eb872fa14c74df5b93798e66e49793884b80e01b08cd47b991bbb8ed3ee9bf0": {
+  "created_at": "2026-11-10T02:39:22.614055Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will OpenAI run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-openai-run-an-ad-during-super-bowl-lxi"
+ },
  "0x0f4edd6bc7a3d71aa55e99745cac207aeebed6cf601f3afed7dd58b68bc2a7f0": {
   "created_at": "2026-10-13T15:50:04.110443Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -269,6 +278,15 @@
   "sha256": "f2a6cfff332c03ff6ecae7492c37d1f8f71ebe5f831984dd76590699726e9859",
   "slug": "will-n1-launch-a-token-by-december-31-2026"
  },
+ "0x2d7f87f06c572a46fafc2b8fc9ffc43821259b55519034b83244898ed89d57f0": {
+  "created_at": "2026-11-07T12:30:03.705031Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-bortoleto-2026-12-06"
+ },
  "0x2e82122b7a93c5af53c274f469f7461904653a8facaf21b8ed551716ff965df0": {
   "created_at": "2026-09-02T20:12:57.486482Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -390,6 +408,7 @@
   "created_at": "2026-08-24T16:33:52.64062Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Meizhou Hakka be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",
@@ -399,6 +418,7 @@
   "created_at": "2026-08-12T17:16:19.564229Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Alianza Valledupar be runner-up in the 2026-II Colombia Primera A?",
   "revisions": 1,
   "sha256": "3948e596f84fda095465e69647f4f96c0516acd8d206c58b00ed43fa48861308",
@@ -444,6 +464,7 @@
   "created_at": "2026-08-12T17:26:18.246878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will IF Elfsborg be runner-up in the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "dc7f01ad57ab4c6b74e2696ace587dfefbb5452f8e415f0a1049e696eec73978",
@@ -814,6 +835,7 @@
   "created_at": "2026-09-02T18:11:42.780971Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Republicans win 8\u20139% of the Black vote?",
   "revisions": 1,
   "sha256": "42466225b54a9dd55e702df629190490b0c8a52d006735341faf0394a35c3e66",
@@ -1013,6 +1035,7 @@
   "created_at": "2026-10-10T11:30:27.855473Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Lance Stroll achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1035,6 +1058,15 @@
   "revisions": 1,
   "sha256": "5829154c2ef434e81c782c4d2e068018b00d481bf45f3814f43296ce85d9546e",
   "slug": "israeli-basketball-premier-league-2027-champion-maccabi-tel-aviv"
+ },
+ "0xa94a136f09e41e796d3b2a52d0788ed5891651cc1fec311af61e8595d9cd43f0": {
+  "created_at": "2026-10-16T18:05:40.062198Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Dana W. White be the next White House Press Secretary?",
+  "revisions": 1,
+  "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
+  "slug": "will-dana-w-white-be-the-next-white-house-press-secretary-2027"
  },
  "0xaaaacb18e26b18332329fae25d2283dc0973e80c8f0aa7985d9c209977006ff0": {
   "created_at": "2026-10-13T23:25:00.960797Z",
@@ -1116,6 +1148,15 @@
   "revisions": 1,
   "sha256": "a707af50727de921c2cbe24d4e4642c1d4ab684307e41c422bca562e54dc1b29",
   "slug": "will-marcus-thuram-inter-record-the-most-assists-in-the-2026-27-serie-a-season"
+ },
+ "0xb766a781b332d284de9df1eba6d6ec0daf7eab7a515495e389b3b50e24f02bf0": {
+  "created_at": "2026-11-05T02:25:46.55471Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Pete Hegseth by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-pete-hegseth-by-june-30-2027"
  },
  "0xb77e45b16b32918af59d0792550f64790a0bd366e2655381773bf80c8d5dbcf0": {
   "created_at": "2026-07-10T14:12:10.775346Z",
@@ -1301,6 +1342,7 @@
   "created_at": "2026-02-18T17:10:55.454891Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Sam Surridge win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -1310,6 +1352,7 @@
   "created_at": "2026-02-18T17:11:06.351004Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Mart\u00edn Ojeda win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -1332,6 +1375,15 @@
   "revisions": 1,
   "sha256": "1f0ec6de7b3591563ecc808031d74ff0b25f9c198be54887ee79e5e9a9a4d42c",
   "slug": "will-stefan-krkobabic-be-the-next-prime-minister-of-serbia-20260629223938648"
+ },
+ "0xd23e1919a2c342596a8e5cd3476e171fc106beb6ddd411c031d9e9df016bd2f0": {
+  "created_at": "2026-11-05T20:54:09.463932Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Miguel Prieto win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-miguel-prieto-win-the-2028-paraguay-presidential-election"
  },
  "0xd713bf5d393d83df4fab3a3ffd0c1a97b39df4cc857ff002e84c8bf74cf8bef0": {
   "created_at": "2026-07-06T16:01:08.952785Z",
@@ -1428,6 +1480,7 @@
   "created_at": "2026-10-25T04:00:54.44433Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $176 in November?",
   "revisions": 1,
   "sha256": "a4ee061de54158f4d004a948db49a3c4611c493b93073e0d608bc5a71775ffc4",

@@ -201,6 +201,7 @@
   "created_at": "2026-08-10T23:56:05.530567Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tee Higgins have 4.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "43fb15296f5c38bad7e1b87b2c83ca3a76fae2ee2a4c8e140e839b3a843eec7d",
@@ -259,6 +260,15 @@
   "revisions": 1,
   "sha256": "139ed31ff18249b4b2124d8035769fa3318c82ac855e2431283b33c0056263e1",
   "slug": "will-twente-finish-3rd-in-eredivisie-2026-27"
+ },
+ "0x2b77e24442ea711749556315a94d75c319290fcdc38d6ddf64e4dfe3c21ade6b": {
+  "created_at": "2026-10-15T18:02:13.973505Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 6.5",
+  "revisions": 1,
+  "sha256": "5a67b6a5dc31bce80869a552cc045bd61d5cc9aaf17338ac2abeb5c9c8b1b45a",
+  "slug": "cdr-ca-mal1-2026-10-28-total-6pt5"
  },
  "0x2d05e7aefc2aa3cc3a6519e4dd686ccddf927d944d607583ea38bd6b8c3a136b": {
   "created_at": "2026-08-11T18:36:10.893429Z",
@@ -350,6 +360,15 @@
   "sha256": "9e84c39af5d59512e03659965988a8c08790b00ac7940973fac5555e9a2a5d91",
   "slug": "fuse-fdv-above-800m-one-day-after-launch"
  },
+ "0x3bd9a97ea7d7277818b785a6c777795a99cbc17118e4f700c69f5a9dde40dd6b": {
+  "created_at": "2026-10-15T18:02:45.169561Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: O/U 4.5",
+  "revisions": 1,
+  "sha256": "4b5148a8af7e5f583a9ceadfe33b53830739a4c5f90006d1586134c193c4480a",
+  "slug": "cdr-ute-sab-2026-10-28-total-4pt5"
+ },
  "0x3c545651a5b404d2a3ec9e74e847ce8a433a9a215ffc587a422cf999f627186b": {
   "created_at": "2026-08-28T19:39:42.94911Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -367,6 +386,15 @@
   "revisions": 1,
   "sha256": "8c55725870adfc4c38007e9c817b89125b0845ade5703247d6705c3a2aa39347",
   "slug": "danielle-hunter-15-sacks-2026-27"
+ },
+ "0x40c30c31e48c7138d576b1c9a62b883f3fd3d2fd91625b74b13e01f9b1ae296b": {
+  "created_at": "2026-10-15T17:02:04.735471Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "FC Cartagena leading at halftime?",
+  "revisions": 1,
+  "sha256": "87187b088d5c20f9c1c3fdb94f583e573fb085e230d944945f3ab4d90cdb1008",
+  "slug": "cdr-cd17-car-2026-10-28-halftime-result-away"
  },
  "0x42d21cabf44f60b4b1f05e0bd0819ad9cf52c6f3621a6a989d027bd1a6e01d6b": {
   "created_at": "2026-08-11T17:53:32.557982Z",
@@ -597,6 +625,7 @@
   "created_at": "2026-10-06T18:40:34.771762Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will \"Wild Horse Nine\" score at least 87 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",
@@ -651,6 +680,7 @@
   "created_at": "2026-02-18T23:00:57.842865Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tarik Skubal win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -687,6 +717,7 @@
   "created_at": "2026-10-31T14:14:12.597904Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will US gas hit $4.05 (Low) in November?",
   "revisions": 1,
   "sha256": "225859b7f0cbcd2ea6abb1a1631b4479af14cfed5b5b7b4f4ab7b37a5bb0777d",
@@ -710,6 +741,15 @@
   "sha256": "59429fd02aa0dc56416178d13525fbc2776b5a40c8980f8e5d2afb9871926260",
   "slug": "garrett-wilson-120pt5-receptions-2026-27"
  },
+ "0x80e9eae41c6a70458c5a2f9dbb6fac5ca4d49571e8c567197e2045aae42c096b": {
+  "created_at": "2026-10-15T18:01:50.419966Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 1.5",
+  "revisions": 1,
+  "sha256": "4c976a44a9b7f5799cb65260232a3bac1128a131d1d126d54f5964fa71af99a3",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-1pt5"
+ },
  "0x834951817fcfbcc1e9f8d01b6be2b875284b53e1c3c31b75ccb230ce32d5e16b": {
   "created_at": "2026-09-28T17:20:17.097632Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -723,6 +763,7 @@
   "created_at": "2026-03-25T22:01:49.04067Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Mark Kotsay win the 2026 AL Manager of the Year?",
   "revisions": 1,
   "sha256": "7cef382a9b1ebfc3a860dddefdd4fe7d9fc3e10959f3d15d0f6e523bfdbcf038",
@@ -885,6 +926,7 @@
   "created_at": "2026-09-02T18:10:26.347148Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Republicans win Latino men in the midterms?",
   "revisions": 1,
   "sha256": "78623866c0b62de87475ad5d8b9f0daaf70bc331f5dc05d9762889e98ab2a13d",
@@ -1020,6 +1062,7 @@
   "created_at": "2026-10-03T19:00:28.085111Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 5 - 0 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1146,6 +1189,7 @@
   "created_at": "2025-07-11T20:47:55.353588Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "2026 Balance of Power: R Senate, R House",
   "revisions": 1,
   "sha256": "f34f45b6b7464581ee4e02f4ae784532e248f81c5550b8542ad51517db1f06f4",
@@ -1205,6 +1249,15 @@
   "sha256": "d88f29dc7293f42c8276721f2d9a5fc5677ee854b03b6b18f088c05dc0f50ccb",
   "slug": "will-brest-finish-in-the-top-4-of-the-2026-27-ligue-1-season"
  },
+ "0xd1f69ec1124093f567a8f730a1e2af5e21a839ad43adabbb96a6586e4d7f0f6b": {
+  "created_at": "2026-06-25T17:29:11.035937Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Anton Frondell win the 2026-27 Calder Trophy?",
+  "revisions": 1,
+  "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
+  "slug": "will-anton-frondell-win-the-2026-27-calder-trophy"
+ },
  "0xd60b9918018ff88e3d23b7f9b1282e877d8f5121304f8b6c373ea3b97c6bd16b": {
   "created_at": "2026-08-26T21:46:15.555054Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1254,6 +1307,7 @@
   "created_at": "2026-10-10T11:30:03.330402Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Kimi Antonelli win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1425,10 +1479,20 @@
   "created_at": "2026-10-03T19:00:28.644094Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 3 - 5 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
   "slug": "cze1-art-bop-2026-10-17-exact-score-3-5"
+ },
+ "0xf4897a84d5f9edc2f7d0cfe8c94d06996fa6a219adb6397f7df25b0a7099226b": {
+  "created_at": "2026-11-07T12:31:22.205451Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-antonelli-2026-12-06"
  },
  "0xf48e4d7ea29ff08e8d7250cf0ed7b90813fcac5ac46329c237b5bd03a771366b": {
   "created_at": "2026-09-04T19:23:15.043655Z",
@@ -1447,6 +1511,15 @@
   "revisions": 1,
   "sha256": "7dd505e15bece2d6c005e60abe18b301ff3e945bb3b766208a2f7490d2e589ef",
   "slug": "will-the-danube-river-fail-to-return-to-normal-levels-by-january-1-2027"
+ },
+ "0xf9078cb87d7cd8cfe3b6607819b157397ca0be98d8954f7aa9e90e7c4912946b": {
+  "created_at": "2026-11-10T03:01:17.982967Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the cure (Olivia Rodrigo) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-the-cure-olivia-rodrigo-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xfbed495c1c2dfe0ea4ef30c3bf4e8c676c590e82dd18ed4f3e6b740fc5668f6b": {
   "created_at": "2026-09-30T20:07:15.502655Z",

@@ -62,6 +62,15 @@
   "sha256": "d31c6e05dc49bec5bedc37c2cd1201ef9a72eebc20ef6e1d0c2b1a6760a5a053",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-ohio-be-5100000-or-more"
  },
+ "0x18bda7ab30c2d53b4a45c517e81b70cd8426be9205382f0404e350718aaffbf8": {
+  "created_at": "2026-10-25T10:45:16.428862Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: Aurora FC (-4.5)",
+  "revisions": 1,
+  "sha256": "cea1b17da83899961f1b6f5c80041adaaa29aaab6ac182f08d06b8be778df5ab",
+  "slug": "gtm-mun-aur-2026-11-07-spread-away-4pt5"
+ },
  "0x22c6bc4d794564d751bab9f18a4902a750d8f936a6f0a6ee90614851e58927f8": {
   "created_at": "2026-08-12T17:16:52.420336Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -174,6 +183,7 @@
   "created_at": "2026-05-22T18:33:42.946475Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Howard Lutnick be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -410,6 +420,7 @@
   "created_at": "2026-11-02T00:49:58.641663Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and US gas not hit $3.50 by the end of 2026?",
   "revisions": 1,
   "sha256": "bdff453084702031b17d19791480adf6808576156fed55ed2a21020fdeb6f226",
@@ -455,6 +466,7 @@
   "created_at": "2026-08-29T00:12:21.625014Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will 9z Make a Roster Change by December 31?",
   "revisions": 1,
   "sha256": "1eef5ee35d6e908dd674f48490ca856eb5579e887a36b0898e227af457a4f047",
@@ -662,6 +674,7 @@
   "created_at": "2026-08-12T17:27:16.737957Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Uni\u00f3n be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -860,6 +873,7 @@
   "created_at": "2026-08-11T14:06:04.741366Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 8 House seats in New Jersey in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e036a188ca854c56a73e17db7803426cb520ec55aa15fe6a3611482e3fe414f8",
@@ -959,6 +973,7 @@
   "created_at": "2026-02-18T17:11:07.172839Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Philip Zinckernagel win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -1017,6 +1032,15 @@
   "revisions": 1,
   "sha256": "1db8e8758a2be45a744f208931eded1a6775b4b98a18c59879047fe61952faee",
   "slug": "will-the-republican-party-candidate-win-the-2026-texas-gubernatorial-election-by-12-15"
+ },
+ "0xbbded1cb6d6861c3fdcb829a8429d1d43ba6008584b0d9c809f6f4fbfd62cef8": {
+  "created_at": "2026-10-25T10:45:17.016062Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 1.5",
+  "revisions": 1,
+  "sha256": "7f7451b81f579002993d50bc802b2545bf1206e376e88743d6ee34b7ad27b427",
+  "slug": "gtm-mun-aur-2026-11-07-total-1pt5"
  },
  "0xbda0e972f137b57ef09ebe61130c2a238590682366facf74e8ba30bb4ac41ff8": {
   "created_at": "2026-09-20T08:44:49.960165Z",
@@ -1306,6 +1330,15 @@
   "revisions": 1,
   "sha256": "b50ebb26a049785260327be4904183dfadbf1962424663ba5040065267414bbc",
   "slug": "2027-soccer-croatian-hnl-winner-nk-istra-1961"
+ },
+ "0xe7461c5d9da15be885551a8cc8dc7a65e95c15e078d250ab7c59bc03978718f8": {
+  "created_at": "2026-10-15T17:02:00.681577Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 2 - 1 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-2-1"
  },
  "0xe97df33ca281e92127ab0c16343194f491cfc090ec1152762b0659b90d87cdf8": {
   "created_at": "2026-07-29T14:49:17.95289Z",

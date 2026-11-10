@@ -3,6 +3,7 @@
   "created_at": "2026-03-26T21:57:40.782847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Tanner Bibee win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",
@@ -34,6 +35,15 @@
   "revisions": 1,
   "sha256": "057aff74a586817f1b12b78be4f783e5a33f6da86a0593731bfef2434ebe06f5",
   "slug": "colston-loveland-999pt5-receiving-yards-2026-27"
+ },
+ "0x07ab7318e253c08cf8f0f20e04c4d756194530ee345fdda83fd1e4f2a27e970a": {
+  "created_at": "2026-11-07T00:10:31.074323Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Naftali Bennett receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-naftali-bennett-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
  },
  "0x07ba8595060277749ea0e3e70cc66aa5bec172b92116051c9820afa065ed960a": {
   "created_at": "2026-10-21T19:38:41.153725Z",
@@ -274,6 +284,7 @@
   "created_at": "2026-08-26T14:06:25.74445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will a European country take military action on Iran by October 31?",
   "revisions": 1,
   "sha256": "9e1b10c3c660251f741e28d0d0f6e50c0fb694482e4451c58cb2f268b8b3f32e",
@@ -477,6 +488,15 @@
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-shayne-gostisbehere-win-the-2026-27-james-norris-memorial-trophy"
  },
+ "0x4dea6e8383c7894b252aab2fdec95a0e4127cd47ae2ddfcfb50bebeb1015920a": {
+  "created_at": "2026-11-10T03:01:18.470901Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Man I Need (Olivia Dean) win Best Pop Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
+  "slug": "will-man-i-need-olivia-dean-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x4e408cf5e89e46bad28f4ca0d8ac5a98afd3a2082896585234c98a8fe3e8760a": {
   "created_at": "2026-09-09T15:47:23.292314Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -549,6 +569,15 @@
   "sha256": "d1b5baf9bf26696e08c185fbc65f6d580656129aff83a53ea3997dea976ee141",
   "slug": "will-pvem-win-the-most-seats-in-the-2027-state-of-mexico-congress-election"
  },
+ "0x5ad9e545fef6424f4f5508df4eb13750bda5109a69959b2f9fc9b4df2696980a": {
+  "created_at": "2026-07-01T15:53:17.359621Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ivanka Popovi\u0107 be the next Prime Minister of Serbia?",
+  "revisions": 1,
+  "sha256": "1f0ec6de7b3591563ecc808031d74ff0b25f9c198be54887ee79e5e9a9a4d42c",
+  "slug": "will-ivanka-popovic-be-the-next-prime-minister-of-serbia"
+ },
  "0x5cc519c4c403c6f5fbe39f5393b2c840916b3c3c82c6813d39c44b1d0b6f400a": {
   "created_at": "2026-08-05T10:57:27.193752Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -562,6 +591,7 @@
   "created_at": "2026-08-12T00:20:11.185921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Gimnasia y Tiro (Salta) win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -742,6 +772,7 @@
   "created_at": "2026-08-26T21:46:18.782488Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Galway United be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",
@@ -1039,6 +1070,7 @@
   "created_at": "2026-08-11T14:11:47.304405Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 1 House seat in Iowa in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e0efbdf7ae9b35d25fe95a0f1208e37d45f97bb0a625645d50dd06b728679013",
@@ -1057,6 +1089,7 @@
   "created_at": "2026-10-03T19:00:25.645539Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "SK Artis Brno leading at halftime?",
   "revisions": 1,
   "sha256": "40d261746071c814cd7b4d5b79cdc4e2649a023286342358a69b7ab820941c38",
@@ -1391,6 +1424,7 @@
   "created_at": "2026-10-01T00:14:28.568771Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Trump speak to Luiz In\u00e1cio Lula da Silva by October 31?",
   "revisions": 1,
   "sha256": "cd2a34b1828e0bbe294ed69d21a4e0437f610a41a05a8b219fcb71de6c3250e0",

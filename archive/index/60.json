@@ -143,10 +143,20 @@
   "sha256": "00d3ca6150d7f90db2ec5d091421c4005930feeeff1f6db36d2ff034d0c3cde5",
   "slug": "will-saturn-launch-a-token-by-december-31-2027"
  },
+ "0x11f1d7a305b44b91df2f5824514e2cca8c44ea69822f3f8aa4918f9467136160": {
+  "created_at": "2026-11-07T12:31:08.199902Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-franco-colapinto-2026-12-05"
+ },
  "0x12f62fed8b7d9dbce2b4169b7c2a8196c30a771bc99b008960eee238699d9260": {
   "created_at": "2026-09-23T18:06:43.365324Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will JiJieHao qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -156,6 +166,7 @@
   "created_at": "2026-10-10T11:30:42.282224Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Hamilton or Russell?",
   "revisions": 1,
   "sha256": "513cfdfe12599e12edf09275584b587240e590be5b2584cf201af3c2275c0e8b",
@@ -435,6 +446,7 @@
   "created_at": "2026-10-08T22:00:03.165939Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Billam-Smith vs. Clarke end before Round 8?",
   "revisions": 1,
   "sha256": "c6da8295f5c420fd66066e6f4035994f57c3b01af9d09e1c2f3b3fb162308c85",
@@ -498,6 +510,7 @@
   "created_at": "2026-10-10T11:30:18.094734Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Carlos Sainz Jr. achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -525,6 +538,7 @@
   "created_at": "2026-10-03T19:00:27.61034Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 1 - 3 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -897,6 +911,7 @@
   "created_at": "2026-10-23T01:56:11.611699Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the 5-year Treasury yield dip below 4.65% before 2027?",
   "revisions": 1,
   "sha256": "7c52cfe9b5c8098de41d80c9015bf081e20892e9145f94eb126d2d4877e4cd84",
@@ -997,6 +1012,7 @@
   "created_at": "2026-08-12T15:00:28.323435Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Rutgers have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1087,10 +1103,20 @@
   "created_at": "2026-10-03T19:00:28.490963Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 3 - 4 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
   "slug": "cze1-art-bop-2026-10-17-exact-score-3-4"
+ },
+ "0xa9010b369fc3b8cee354b8b7245705918b7000a764411ba35d18e17785a74260": {
+  "created_at": "2026-11-10T02:40:51.700612Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Young Forever\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-young-forever-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xa906f3bf745c301f60402e1b775119057d373cdb6ceefe586eab85d86a398160": {
   "created_at": "2026-08-24T16:40:41.826137Z",
@@ -1371,6 +1397,15 @@
   "sha256": "9c36e4f6e92ef27876ff93e7f3d7dd25c8d789e52256a6394a17c8dfdbac367d",
   "slug": "will-ink-win-best-film-editing-at-the-99th-academy-awards-20261013180153422"
  },
+ "0xd85080870a1480ec3bcc87a3f66d49ae019169c82e7ebcd30bd85fddc20e5b60": {
+  "created_at": "2026-10-15T18:02:16.386967Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 4.5",
+  "revisions": 1,
+  "sha256": "21236942dfca33796b8ab545ab92a3ae908a70b4d0e072c6fe736b2410f76bbf",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-4pt5"
+ },
  "0xd8741c92c91fb9e37f4df07000b7d9f57b6e18837474cb35cdbe7d1c8e7fe760": {
   "created_at": "2026-10-13T15:50:25.708844Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1402,6 +1437,7 @@
   "created_at": "2026-08-11T14:11:47.139965Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 0 House seats in Iowa in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e0efbdf7ae9b35d25fe95a0f1208e37d45f97bb0a625645d50dd06b728679013",
@@ -1417,10 +1453,20 @@
   "sha256": "9cea4e0ec5218518b20c7156e24f68cb3ea836b094df8f49b2d8743c4e8d27de",
   "slug": "will-wisconsin-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections"
  },
+ "0xde9107a5795eda039d8c613219e2467a6635145716383228a54c2dbefa441060": {
+  "created_at": "2026-11-10T02:45:36.97597Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will J.D. Vance attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-jd-vance-attend-super-bowl-lxi"
+ },
  "0xdea110a73dfc8e2141d8e83c5a852420d7e587070212dff60bd627030f054360": {
   "created_at": "2026-08-26T21:46:28.319184Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Belgrano finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -1430,6 +1476,7 @@
   "created_at": "2026-08-11T14:18:06.713298Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win exactly 44 House seats in California in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cc33e62a2bb4c50e1d904dce0a2bfd6b6ab4da9b5ab7d7f1d5769d3f3831637a",
@@ -1452,6 +1499,15 @@
   "revisions": 1,
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-zach-hyman-win-the-2026-27-ted-lindsay-award"
+ },
+ "0xe3df6d9a48ac7a6c2740fee7c2d840a63f4cd242d19ff3be37a298284da26d60": {
+  "created_at": "2026-11-07T12:31:15.413688Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Leclerc or Hamilton?",
+  "revisions": 1,
+  "sha256": "0f26fda36a216d7b16efc22e4d966a68e4db6a2779cf6fd191732079a484f480",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-leclerc-vs-hamilton-2026-12-06"
  },
  "0xe43a4a68150b713a0913b7bde7b15800fe0f99b662e1ece8303ae27c3de14a60": {
   "created_at": "2026-08-10T14:51:46.862396Z",
@@ -1479,6 +1535,15 @@
   "revisions": 1,
   "sha256": "0d22e93f18ec2b96e2253b21078baacc8af91025749e107c66afe6a9e4490e2c",
   "slug": "will-openais-public-ticker-be-aagi"
+ },
+ "0xe64b9d11bd6d50e15ab015ed613bfdf408e4145b4da709f8deed8cc9a16a7b60": {
+  "created_at": "2026-11-07T12:31:09.406678Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-lewis-hamilton-2026-12-05"
  },
  "0xe7af9b009e9047959a5ecbd12cef00bb15ca29e93695aeca277b43408f3c0b60": {
   "created_at": "2026-08-24T16:37:49.286884Z",

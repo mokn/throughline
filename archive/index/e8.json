@@ -202,6 +202,7 @@
   "created_at": "2026-08-26T21:46:52.664508Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will New York City FC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -257,6 +258,7 @@
   "created_at": "2026-09-30T23:56:31.019096Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "West Virginia passes ballot measure banning noncitizens from voting?",
   "revisions": 1,
   "sha256": "e9626ac545de1416189a9124d2ed7713b6cd17ef92351ee260dee676586f05aa",
@@ -298,6 +300,15 @@
   "revisions": 1,
   "sha256": "ccb8a0f5a97ff75b29d2ab316000a1cd193eec635963acb1dee6ae402a93bc81",
   "slug": "will-gonzaga-be-a-number-1-seed-in-the-2027-ncaa-mens-basketball-tournament"
+ },
+ "0x2b66080d5777ffe8fad629bbc7ed5619c3313bb6258fa1230337ae8ff2df34e8": {
+  "created_at": "2026-11-07T12:30:17.219375Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-colapinto-2026-12-05"
  },
  "0x2f3ff188918ed93ab23fcbe9d4ecb7bb1f521de0b505bc8007f7ba67e96c44e8": {
   "created_at": "2026-10-26T20:49:21.952266Z",
@@ -363,6 +374,15 @@
   "sha256": "fe83a2f5f6346d304426c403248d53d2ae314af635791af745282d163bf38d41",
   "slug": "will-bayern-munich-record-82-or-more-points-in-the-2026-27-bundesliga-season"
  },
+ "0x3ae704f3f3dcb7e714577caab15fe18cdb8835faabb59d32cbb15b709eb611e8": {
+  "created_at": "2026-10-15T18:02:34.312156Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Club Portugalete (-1.5)",
+  "revisions": 1,
+  "sha256": "ade3b65a52e1dacb0c9a77f28d135ba38f62f59bc990134a75dd1641a1696f9c",
+  "slug": "cdr-por-iru-2026-10-28-spread-home-1pt5"
+ },
  "0x3f86eb482598a1085439291dfb1905c180e93922624266e12533e3545c1583e8": {
   "created_at": "2026-09-08T16:52:48.875427Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -380,6 +400,15 @@
   "revisions": 1,
   "sha256": "20033560e3d802d225da65ec3dea2af6a51624ed5dba037248fd7816d52ed598",
   "slug": "will-jordan-dwyer-be-the-2026-d1-receiving-tds-leader"
+ },
+ "0x40eaca2607c61d79886bfe9dd0147e494a1875053187c1b67f57b3a4c4e1e3e8": {
+  "created_at": "2026-11-09T23:32:05.607521Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Alice Huang be arrested by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7a8e55157b718383306d2a21eab92e7c6844773a8fbc1863f1555f37c562b5f1",
+  "slug": "alice-huang-arrested-by-december-31-2026"
  },
  "0x429d6c3e2a847fe2b12b56a3784f7f8c6c34749b9049249c7641383f4716b9e8": {
   "created_at": "2026-08-06T21:37:59.966914Z",
@@ -439,6 +468,7 @@
   "created_at": "2026-08-12T16:51:44.072524Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Miguel \u00c1ngel Bartra Grosso win the next Chiclayo mayoral elections?",
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
@@ -615,10 +645,20 @@
   "sha256": "1361e3ffb202fc869b007235cc764fe69996b028f63a31de8538cf741e7232ae",
   "slug": "will-italy-win-the-2027-fifa-womens-world-cup"
  },
+ "0x609f7abd4701725fa3ff0e5d808cb599aec77d01b5f679dab106fe82e4c0f3e8": {
+  "created_at": "2026-11-07T12:31:24.747629Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-russell-2026-12-06"
+ },
  "0x6313408a0391c88836a16724674402d1e0e73d86349dc4dafe0d3e762f5347e8": {
   "created_at": "2026-10-10T11:30:19.455012Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Isack Hadjar achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -659,6 +699,15 @@
   "revisions": 1,
   "sha256": "2d6b8cb1b356e3ea2c1f61a85aac0b618a9451946825b78d7898c82c693a8a0d",
   "slug": "nba-2026-27-3pm-leader-tyrese-maxey"
+ },
+ "0x6858e92ec116e6a44fd571fbc70cdc606957c0962e0141dcc5cdfe78b599fde8": {
+  "created_at": "2026-11-10T02:40:46.025533Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Run This Town\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-run-this-town-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0x69366045ca68108d34ad7436760a709d22949ac250de44119c4f8734a47dc9e8": {
   "created_at": "2025-12-15T22:18:41.214425Z",
@@ -863,6 +912,7 @@
   "created_at": "2026-08-28T20:17:32.569783Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ja'Marr Chase be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -890,6 +940,7 @@
   "created_at": "2026-10-03T19:00:25.878781Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "SK Artis Brno vs. Bohemians Praha 1905: Draw at halftime?",
   "revisions": 1,
   "sha256": "78fd35d0390b31cd5b55c070b7b489a6eb4fb3038c13163e0770ecfc2e0643f4",
@@ -912,6 +963,15 @@
   "revisions": 1,
   "sha256": "563ecc63bb23ec3a0c199caaf0aa2f23344c3e3e275dbf6814982a9373cf4892",
   "slug": "will-the-democratic-party-candidate-win-the-2026-pa-04-house-election-by-15-20"
+ },
+ "0x959860856d5d5665a72651c96f2ab6a01f1352af685bacb60dcabf426c5c65e8": {
+  "created_at": "2026-10-15T18:01:50.900265Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 4.5",
+  "revisions": 1,
+  "sha256": "cacf868637ee95ec92595db103628ca025fa1d8f279eaa275f6602f88276f9b6",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-4pt5"
  },
  "0x975f806bf228775ed51af7214989322c30899a42affae50dfae811d3f4c230e8": {
   "created_at": "2026-08-12T14:47:42.752838Z",
@@ -1258,6 +1318,15 @@
   "sha256": "6bb861bc8e67f2fd91dcd154135b5b6763cbaec43315577879f3ddf33eaa8a9e",
   "slug": "will-pp-win-the-most-seats-in-valencia-in-the-2026-spanish-general-election"
  },
+ "0xc90d302b9fe38bd6d669572fa0ffa512f11225d53c4c5bed25d88265519afee8": {
+  "created_at": "2026-11-10T02:40:55.575786Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"I Just Wanna Love U (Give It 2 Me)\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-i-just-wanna-love-u-give-it-2-me-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0xcafad649f851bd2de20957722919c54ff98fe1ad11c719673994ae90949aafe8": {
   "created_at": "2026-08-06T15:43:58.203785Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1393,6 +1462,15 @@
   "sha256": "3f40deb793abb7c5d3738fd1696cf1057e31389e125e66612c26a373b962b0ca",
   "slug": "f1-qatar-grand-prix-h2h-hamilton-vs-russell-2026-11-29"
  },
+ "0xdb54fcc5a694cad5ed761a918815b8d6f31bb1968e6563055dee607d1ac361e8": {
+  "created_at": "2026-11-07T00:04:59.975766Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Hadash support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-hadash-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353280"
+ },
  "0xdd8b3a99c3fb6697bd2d28da2703828348adbc41334dc72d964a51fd16cbfde8": {
   "created_at": "2026-10-21T22:06:59.747364Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1406,6 +1484,7 @@
   "created_at": "2026-08-25T04:21:43.591082Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will XRP dip to $1.20 by December 31, 2026?",
   "revisions": 1,
   "sha256": "e7ded5f84d33cb56ca8a6d3e19a1f54d009aa757005a574a7df568b015ac7384",
@@ -1451,6 +1530,7 @@
   "created_at": "2026-08-12T00:20:06.890348Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Deportivo Madryn win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -1483,6 +1563,24 @@
   "revisions": 1,
   "sha256": "398c56312585c2cff64423b7ee2f0f9c17bb8fe6dfb316f40a821bbacea121f5",
   "slug": "will-the-democratic-party-win-the-al-06-house-seat"
+ },
+ "0xe6212b2113720a2913e53134f6c35e9a932131969105a3148f77b4d3bca245e8": {
+  "created_at": "2026-11-07T12:30:47.719477Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Valtteri Bottas achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-valtteri-bottas-2026-12-04"
+ },
+ "0xea8a124147d06362c70861e48906dacd68181d722264d43c2e050b40426bbee8": {
+  "created_at": "2026-10-15T17:01:36.955701Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 0 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-0-4"
  },
  "0xead958c3c7b6843fe15731812a148ee5bd69665b5ae58365d4ccfcc8f20d14e8": {
   "created_at": "2026-06-30T23:18:40.429646Z",

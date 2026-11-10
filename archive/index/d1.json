@@ -93,6 +93,7 @@
   "created_at": "2026-02-18T17:11:01.924109Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tai Baribo win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -283,6 +284,7 @@
   "created_at": "2026-01-28T15:39:54.823393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the TN-07 House seat?",
   "revisions": 1,
   "sha256": "51a170da286dd983857d9756e2edf1e0f03a491a636a3cb7bf20d7d3cb9d76f7",
@@ -724,6 +726,7 @@
   "created_at": "2026-09-23T18:06:42.403754Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Luminosity Gaming qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -823,6 +826,7 @@
   "created_at": "2026-08-26T21:46:18.722225Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Derry City be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",
@@ -1064,6 +1068,15 @@
   "sha256": "772342e05915ae1dd24a380604508b4793482917d28fcafdcedceb38ad7122da",
   "slug": "will-the-bank-of-brazil-decrease-the-target-for-the-selic-rate-by-50-bps-at-the-december-meeting-20260918"
  },
+ "0xa07ab897be6b540ac2ed3f84541de4ecf39e25a1f14ac0bafa8bdf3d4b28f1d1": {
+  "created_at": "2026-11-07T12:30:24.481909Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Williams get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-williams-2026-12-05"
+ },
  "0xa35b8f5d6dc01179ba413cf62ef5c957aa0af88b675da27d73e66dc544688bd1": {
   "created_at": "2026-08-11T19:03:44.819669Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1086,6 +1099,7 @@
   "created_at": "2026-09-09T15:53:44.935217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Arda Guler win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1176,6 +1190,7 @@
   "created_at": "2026-02-18T23:32:38.932134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Zack Wheeler win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -1275,6 +1290,7 @@
   "created_at": "2026-08-12T15:01:33.902039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tennessee have more than 6.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1523,6 +1539,15 @@
   "sha256": "ba87e2390172bbecabd35d3b08c9f6c93434cca2453e777ed24e71f10e702d1b",
   "slug": "will-mara-corina-machado-be-the-de-facto-leader-of-venezuela-at-the-end-of-2026"
  },
+ "0xe68d3dd6093a33247d0a8463a3afbe044d3984878eed4b7725be26ddd90895d1": {
+  "created_at": "2026-10-15T17:02:00.590555Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 3 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-3"
+ },
  "0xe8c39a22e11f5b3c85ddf9054f7c71a9951d53c3fb55d6f33caaef8bdcb00ed1": {
   "created_at": "2026-08-12T16:52:18.095403Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1531,6 +1556,15 @@
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
   "slug": "will-jesyka-guevara-villanueva-win-the-next-cusco-mayoral-elections-20260811162428008"
+ },
+ "0xe8dd19f008b1a7c2ab0c46580c005c3a9cc6a78471207da97e920dbc7c2458d1": {
+  "created_at": "2026-10-15T17:02:01.356824Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 3 - 3 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-3-3"
  },
  "0xe99323483c8f7b9ee0aa48019bbe83388639bd33cbcea78e7dda7d348b9f58d1": {
   "created_at": "2026-10-15T10:17:28.726698Z",
@@ -1581,6 +1615,7 @@
   "created_at": "2026-09-09T15:53:44.78423Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Kenan Yildiz win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1617,6 +1652,7 @@
   "created_at": "2026-08-26T21:46:28.564535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Estudiantes (LP) finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",

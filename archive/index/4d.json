@@ -39,6 +39,7 @@
   "created_at": "2026-10-08T22:00:10.654318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bentley vs. Jr. end before Round 2?",
   "revisions": 1,
   "sha256": "44e2c8bd7e8a5b535a126f63c4aa0878138bfeee200dc2961c90735e4ec29cd8",
@@ -116,6 +117,15 @@
   "sha256": "1f242c88922f8863e977e7859bd94b2d8686e3dd2bb61c60a437cb79bf974614",
   "slug": "will-glider-launch-a-token-by-march-31-2027"
  },
+ "0x0ee3ac148e69f4728efad058c38cf20ca2a3f1311725054ebe9d128cc9936f4d": {
+  "created_at": "2026-11-07T12:31:16.772074Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Leclerc or Piastri?",
+  "revisions": 1,
+  "sha256": "5ed243816539623aa8cef771a42db966afa44c48c6ce927d2a29fdeac858b2b3",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-leclerc-vs-piastri-2026-12-06"
+ },
  "0x0fce74c76c38084c505224c6d46f7c047de2a1ebf27cba6047fb6e743449bf4d": {
   "created_at": "2026-08-10T15:44:25.496646Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -188,6 +198,15 @@
   "sha256": "da417a44dd44ae737a55ecdbbefd0d7f86e0562fc7a0fcb25690d00f31e0c668",
   "slug": "will-easyeats-win-the-2026-polymarket-fantasy-league"
  },
+ "0x1edc4a62d130607be001c921d138ed9fcd2545815de94bd7a69e1f1a2a9be04d": {
+  "created_at": "2026-11-10T02:44:28.964593Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 140 and 150 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-140-and-150-seconds"
+ },
  "0x21a5c325f5c4c86d95609045e20fa5ecfd48602e138383a01ce2068841bc574d": {
   "created_at": "2026-08-25T03:58:31.719356Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -201,6 +220,7 @@
   "created_at": "2026-02-18T22:47:42.933033Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Jacob Misiorowski win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -435,6 +455,7 @@
   "created_at": "2026-10-25T04:01:51.859013Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will WTI Crude Oil (WTI) hit (LOW) $90 in November?",
   "revisions": 1,
   "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
@@ -462,6 +483,7 @@
   "created_at": "2026-08-28T20:17:33.677249Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Justin Jefferson be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -508,6 +530,7 @@
   "created_at": "2026-10-08T22:00:02.377075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Billam-Smith vs. Clarke end before Round 3?",
   "revisions": 1,
   "sha256": "fa6064f500a929bd1804a960fed58bffdace2e42468a05f89afa68431f854cb0",
@@ -829,6 +852,15 @@
   "sha256": "7a94628b659744f392dd7bd311e091a85e9d071c5e16ccef04dbad0c79795bf8",
   "slug": "davante-adams-1174pt5-receiving-yards-2026-27"
  },
+ "0x9ef8639ce4d419e1342ee0008d5d1608a7f4d3df5bdf2f15a82fdbd834083a4d": {
+  "created_at": "2026-10-15T18:01:05.440975Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 3.5",
+  "revisions": 1,
+  "sha256": "9c177bbc76d2e1bae7d65724044a0ce188572871c0db0bd16249a9bb8a8d18f9",
+  "slug": "cdr-red-bar-2026-10-28-total-3pt5"
+ },
  "0x9f09d4eded61624a266bc1120efbe5c3966d3cf635caa5e50c14a56d93aaba4d": {
   "created_at": "2026-08-28T05:57:37.932339Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -851,6 +883,7 @@
   "created_at": "2026-10-01T14:27:23.091851Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Donald Trump publicly insult J.B. Pritzker by October 31, 2026?",
   "revisions": 1,
   "sha256": "173a792e74b8aedb6c62436a8de48402eded0a4acc0609b09a6a3625c86c307e",
@@ -869,6 +902,7 @@
   "created_at": "2026-08-12T16:51:33.599107Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Rony Paolo Vejarano P\u00e9rez win the next Huancayo mayoral elections?",
   "revisions": 1,
   "sha256": "e91be4dc7f6da21e2f3b8e02b0a54b9d2d57136e1579e8b08bc7aef33e102c24",
@@ -891,6 +925,15 @@
   "revisions": 1,
   "sha256": "e61da17b033ffcd189b17db77cb78b0ec672570c86f9ad6a50f209f30abdbebd",
   "slug": "will-saquon-barkley-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-touchdowns-20260715212820933"
+ },
+ "0xb598dfa814345579ff96e04c4d2b08605867d9740e18f91073960f3004261d4d": {
+  "created_at": "2026-11-05T18:19:58.85607Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Marco Rubio out as Secretary of State by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "fca80f82fe6848a20b949a5d7df7518038bee690af71db47e9445ef11b3c825d",
+  "slug": "marco-rubio-out-as-secretary-of-state-by-march-31-2027"
  },
  "0xb5a8db1a944fa1562db0e53979425a1d00154491b683d92f2f74c064f2746d4d": {
   "created_at": "2026-08-07T15:58:39.627277Z",
@@ -1086,6 +1129,7 @@
   "created_at": "2026-08-26T21:46:25.264397Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will P\u00e4rnu JK Vaprus finish 8th in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "a72bde597da2a1f7c84239cf9622ba24c7578cc73fc75153dc48cd62e545e3e9",
@@ -1113,6 +1157,7 @@
   "created_at": "2026-10-08T22:00:09.010445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Roehrig vs. Mcdonald end before Round 8?",
   "revisions": 1,
   "sha256": "44ffd27c4389c0a844a4c1cf7c5443589d2a566d555704b96bd5903f0520ac9b",
@@ -1176,6 +1221,7 @@
   "created_at": "2026-09-30T23:53:07.464411Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Kansas passes ballot measure banning noncitizens from voting?",
   "revisions": 1,
   "sha256": "53f901d67719c9c9db0aeafed440b23a1fa1cde252e096684878c01cd6668d0c",
@@ -1329,6 +1375,7 @@
   "created_at": "2026-10-10T11:30:32.234249Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Lance Stroll achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",

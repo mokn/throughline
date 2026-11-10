@@ -90,6 +90,15 @@
   "sha256": "d9c22daee3c3a3ead5cce097bb8dead63ff8df973339d566f7f7c08ed4633e1f",
   "slug": "nba-players-to-be-traded-before-the-2027-trade-deadline-donovan-mitchell"
  },
+ "0x0b40c77d0d075137377af68852b250f2d306ab8ce6b0f3fd8dbd17eddba303a7": {
+  "created_at": "2026-10-15T17:01:20.923399Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 0 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-0-4"
+ },
  "0x15bd78d2477ec41b963778b031cbc1e0d38d5d1e96e2eabf067b4af6463b6fa7": {
   "created_at": "2026-11-03T22:35:24.57198Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -420,6 +429,7 @@
   "created_at": "2026-08-12T17:27:08.717828Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Deportivo Riestra be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -550,6 +560,15 @@
   "revisions": 1,
   "sha256": "3f492dceee20b6604cf55c52e1d2fc4894006bcc33758624af50877d51748afe",
   "slug": "el1-ste-swe-2026-09-26-corners-first-half-total-5pt5"
+ },
+ "0x6de8e2164b364eb87838b2289db8622fab81b5ce5931bb325e1b3a679314f1a7": {
+  "created_at": "2026-11-09T16:00:23.655763Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "US announces end of Iranian blockade by December 15, 2026?",
+  "revisions": 1,
+  "sha256": "7d7c42531b50a724873165a967969f21eea65e5613ed4333ad1258f60078c04e",
+  "slug": "us-announces-end-of-iranian-blockade-by-december-15-2026"
  },
  "0x72f66472f7b9aa27bc835bb3693d1cc80b7c9ede50b8eeec0cb0a407c56a6ca7": {
   "created_at": "2026-08-04T18:04:00.614408Z",
@@ -682,6 +701,7 @@
   "created_at": "2026-11-02T01:07:26.559666Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democrats sweep the House and Senate and the US-Iran ceasefire hold through 2027?",
   "revisions": 1,
   "sha256": "64926afdfb7e2f8ca35b7ddf0a80de14743ca065ebb77c2c171435c582d05ac8",
@@ -1297,6 +1317,7 @@
   "created_at": "2026-08-26T21:46:36.709181Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Nasaf finish 3rd in the 2026 Uzbekistan Super League?",
   "revisions": 1,
   "sha256": "77802a2242a5c27f87da20ad22cdbfc0b35ac07b32e47c591b2c0d6a2555f5ef",

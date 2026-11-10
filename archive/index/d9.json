@@ -26,6 +26,15 @@
   "sha256": "4515a6fde12b8ee50fd2777b71253a17205f5adab98e8664a903c56c32193a19",
   "slug": "will-ayoze-perez-win-the-2026-27-laliga-player-of-the-season-award"
  },
+ "0x02c4252d32c28b4c872a34c697ebe9ef50227e03a79cce8fd43da52090e792d9": {
+  "created_at": "2026-10-25T10:45:18.828457Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "ebbac79bae095632b6d0b9d643804f059ebc1e2c3941052466f4dce4bac27119",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-total-2pt5"
+ },
  "0x045ffcee329af1ea72d5f3b693eb2e026f709401f7f24433d9049d7888bc0bd9": {
   "created_at": "2026-01-24T23:29:30.211722Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -39,6 +48,7 @@
   "created_at": "2026-08-24T16:39:47.659786Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tianjin Jinmen Tiger keep the most clean sheets in the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "3e6019f221c7b687ed6b1d7adc920d3ad55bf49ddcc35a27be2e85c52eaddc61",
@@ -84,6 +94,7 @@
   "created_at": "2026-09-23T18:06:48.393473Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will paiN Gaming qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -102,6 +113,7 @@
   "created_at": "2026-03-25T22:07:01.403128Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tony Vitello win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
@@ -363,6 +375,7 @@
   "created_at": "2026-10-25T04:00:28.403265Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will NVIDIA (NVDA) hit (LOW) $184 in November?",
   "revisions": 1,
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
@@ -403,6 +416,15 @@
   "revisions": 1,
   "sha256": "cc3273b3f4e7ba6d0799833ce0bb6219f88bd01ef22dfc88d78ea5bc7ecb4d7b",
   "slug": "will-any-state-legalize-flying-the-tesla-roadster-by-december-31-2028"
+ },
+ "0x3737d415edfc0978fa5dcb4bc682ab8e8327dcf05c1dca0a072b8df4cbc39fd9": {
+  "created_at": "2026-10-15T18:01:47.664271Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 1.5",
+  "revisions": 1,
+  "sha256": "32e49bd111692a05741e5cb97eddd6f5eedf1f1e3035f3463d46f91ef741bae5",
+  "slug": "cdr-bad-cdt-2026-10-28-total-1pt5"
  },
  "0x3a0c5c8ec11e32ffe859b286047b6866d7207b8b0f97ce31f20ab3922bfe43d9": {
   "created_at": "2026-08-25T05:03:16.712421Z",
@@ -480,6 +502,7 @@
   "created_at": "2026-08-12T14:50:44.779003Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will BYU have more than 10.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -553,6 +576,7 @@
   "created_at": "2026-08-14T21:18:46.46312Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-13 House Election?",
   "revisions": 1,
   "sha256": "2c9f28127daeba47f960ee2c4780a1e4fbed57e0fbed0e3d0d37b28dba63a3ed",
@@ -562,6 +586,7 @@
   "created_at": "2026-06-24T22:16:34.254393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Ken Welch win the St. Petersburg mayoral election?",
   "revisions": 1,
   "sha256": "405db246932382e7f0ca67b037a813919abef2e9389feb8961efff891649922d",
@@ -951,6 +976,7 @@
   "created_at": "2026-10-10T11:30:22.947033Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Mercedes achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",
@@ -964,6 +990,15 @@
   "revisions": 1,
   "sha256": "cff88bb325004531604cb2b96bb9fe236d90de19ca402b8252e0c2fa866624c7",
   "slug": "justin-jefferson-75pt5-receptions-2026-27"
+ },
+ "0x94cf04b5e5720fcc168a96e35d60c4063df1205eff6df863ec75db672c0975d9": {
+  "created_at": "2026-11-07T00:10:39.936787Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gideon Sa\u2019ar receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-gideon-saar-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
  },
  "0x952cd93257f89447fba4190da4dfaa460d19ea07a078e54a5deed1cde821bbd9": {
   "created_at": "2026-08-26T21:46:32.854434Z",
@@ -1028,6 +1063,15 @@
   "sha256": "bc3b8cf5ecd0f9488c0bf350208bc3ced3dae5e893564f4c650f2da778d1a603",
   "slug": "will-yoaz-hendel-be-the-next-israeli-minister-of-national-security"
  },
+ "0x9bed31d991c26802cdf48c05e6422e2312fa0a946f02e0c03e1c56236972d3d9": {
+  "created_at": "2026-10-15T18:01:05.726053Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: O/U 5.5",
+  "revisions": 1,
+  "sha256": "8903b6436c9eb63d46d7223cc585448f494628aef565f119dcb65aa1b7e223fa",
+  "slug": "cdr-red-bar-2026-10-28-total-5pt5"
+ },
  "0x9c5e1af6e23cb1a383c961be1174477801c4f88a9955206af4a01f48c82708d9": {
   "created_at": "2026-08-18T14:20:12.783007Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1045,6 +1089,15 @@
   "revisions": 1,
   "sha256": "a77cfa4563ed5dacd67bad6fe71554bdbbe70f57218b80cf1117521d89d4def5",
   "slug": "2026-soccer-bolivia-lfpb-winner-bolvar"
+ },
+ "0xa048e1fc95d7f14c24215e978f9c75f319c831e13bcd46ad70856b5c685991d9": {
+  "created_at": "2026-10-15T18:02:36.413274Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 3.5",
+  "revisions": 1,
+  "sha256": "8369f261096a3b33380f5de303ab6de7d7e03bd763443dcbe50de67d5b9a6c2e",
+  "slug": "cdr-por-iru-2026-10-28-total-3pt5"
  },
  "0xa31af342d01d5e4a44052e5caabfddd02d24eb5de227f71fcf35717fc1fdcfd9": {
   "created_at": "2026-06-26T03:52:12.506363Z",
@@ -1338,6 +1391,7 @@
   "created_at": "2026-08-24T16:34:06.9437Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Wuhan Three Towns be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -1428,6 +1482,7 @@
   "created_at": "2026-02-18T22:38:30.166183Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dillon Dingler win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
@@ -1464,6 +1519,7 @@
   "created_at": "2026-10-08T22:00:04.852355Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Parker win by KO/TKO?",
   "revisions": 1,
   "sha256": "e6be83adf289f1a9f029ff6e6b4528add35d04f84570d03f6c8029aa8538a6d1",

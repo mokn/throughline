@@ -8,6 +8,15 @@
   "sha256": "1f9e9adb0909453844a8d9bd5f473b5830129c7bb73c99ccac38b1fa0f5bf23e",
   "slug": "will-gabriel-attal-win-the-second-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
+ "0x017c8f7060e3f99ff83f0c3f86cbcf964c7e0e9ef711e0e7e44d69712133fd89": {
+  "created_at": "2026-10-15T18:02:18.108385Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "1c74617f1197137921587e6ba40e1c8a379d6b0533c0e86bee0be001202366ca",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-away-0pt5"
+ },
  "0x02b4c679f6feb229d1c665d140bdd739053d801751aae2a60e4c3272aa0fa889": {
   "created_at": "2026-08-24T16:34:56.696213Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -197,10 +206,20 @@
   "sha256": "7ce4c2b250d8535253e443c6bfe6d9af8086894ca0f0a52c727fb9b7c67571eb",
   "slug": "theo-fdv-above-300m-one-day-after-launch"
  },
+ "0x1f40740f1ec52e61889638afa70955cf31f586c103977b41140f1419ba701389": {
+  "created_at": "2026-11-10T02:45:14.317065Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Jennifer Hudson sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-jennifer-hudson-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x1f7109778e71ba11a806d1c58f49b361638a6896cbc7491b148014e328620d89": {
   "created_at": "2026-08-12T00:18:58.858934Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Chattanooga Red Wolves SC win the 2026 USL League One?",
   "revisions": 1,
   "sha256": "9a3d2ef2bf6cdadb4d1edff83ef5eba1d2853f63d3e5e4835ddebd3cfde9f868",
@@ -282,6 +301,7 @@
   "created_at": "2026-04-02T15:16:36.81777Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Universidad de Chile win Chile Primera?",
   "revisions": 1,
   "sha256": "0b07a38d16dd0c29b8c7e157ac19af78ef39dd19703b745bfcdf021bec4c8b92",
@@ -369,6 +389,15 @@
   "sha256": "35bc95d63e4844ffa3e9a9da459623dff33e3680fbff097227b70aa8a6aab693",
   "slug": "will-over-62-senators-vote-for-the-clarity-act-20260729193533311"
  },
+ "0x30d19f5872b2609f0adb9fb266e0e3305fe1b29f5d6c613bb5bb3b0dc5319c89": {
+  "created_at": "2026-11-07T00:10:43.945373Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Israel Katz receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-israel-katz-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x321b2605429875904d5833aed933831b55c6bb94c13c5c988b6841eae068ea89": {
   "created_at": "2026-09-30T14:02:24.444992Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -436,6 +465,7 @@
   "created_at": "2026-10-10T11:30:40.186898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Verstappen or Hadjar?",
   "revisions": 1,
   "sha256": "c4bc945e70819695bac34dbe0b9cbcf0544ba3e993f159ea12a536275c9a8288",
@@ -643,6 +673,7 @@
   "created_at": "2026-10-02T20:15:26.09644Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Syndra be the most played champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
@@ -868,6 +899,7 @@
   "created_at": "2026-10-03T19:00:28.699878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 4 - 4 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1026,10 +1058,20 @@
   "sha256": "a554964fb936620b5a5087ef81e45a497757f57b63720fb3f10bf8848aa742f7",
   "slug": "nba-players-to-be-traded-before-the-2027-trade-deadline-andrew-wiggins"
  },
+ "0xad031dc47e9f434bfc2d50511cd3d48d37fdf4eb356b0bf2290ff68ec113df89": {
+  "created_at": "2026-10-15T18:02:17.53357Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "c61056248472c89f56f9066756b043e7abc34e4757d00127a401512fcd295140",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-home-0pt5"
+ },
  "0xae984a42f999b0dd9a67d1445725c2e6d0f2971f6bf59dfce4ab6aab12eb6189": {
   "created_at": "2026-10-28T21:55:05.73999Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Next Fable Model (5.2+) released before Anthropic IPO?",
   "revisions": 1,
   "sha256": "40ceda0705426206c28e783903f3690de3720ed128240c2f67379b0f90e26231",
@@ -1070,6 +1112,15 @@
   "revisions": 1,
   "sha256": "bbe7489c59af0ad13a661d71cbdf18ff5519bb9b91ec4afccced466be3473226",
   "slug": "will-kimi-k3pt1-pro-debut-at-a-score-of-at-least-1490-by-june-30-2027"
+ },
+ "0xb7475e240b6875bcf4ab3c3dff9e1f508db4a47aafa857f88ee4a414bbc78889": {
+  "created_at": "2026-10-15T17:00:56.741447Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CE Sabadell FC leading at halftime?",
+  "revisions": 1,
+  "sha256": "d5134958d3473dcfce262d364d37864462e39eda59f579f845aff897ec310f6c",
+  "slug": "cdr-ute-sab-2026-10-28-halftime-result-away"
  },
  "0xb91be12388b3d4079c3ed9b5783cb42d8c33051d37746a49300227e0f45fc089": {
   "created_at": "2025-07-03T20:37:28.688864Z",
@@ -1197,6 +1248,15 @@
   "sha256": "78226cfc7b9459ab6a1d190709ad181fa7df981444b0807bff7469842c1b720d",
   "slug": "2027-soccer-denmark-superliga-runner-up-midtjylland"
  },
+ "0xd1ac73a0696158e6f6bb259769e6a294d03c128cda2015000792fe9afcfa1689": {
+  "created_at": "2026-11-06T22:58:35.134033Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Howard Lutnick be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-howard-lutnick-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0xd2c55cb1674b79bffd1f5bd84d6d590b0755b5fc02cde8c908e2ffe906771589": {
   "created_at": "2026-10-13T15:57:37.035078Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1224,6 +1284,15 @@
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-kylian-mbapp-win-the-2027-ballon-dor"
  },
+ "0xd6c9734052653627bed02b95483935073e26a09aea9d544c6173b254409bc589": {
+  "created_at": "2026-11-09T22:28:10.046427Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Oliver Glasner be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-oliver-glasner-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0xd6db82684451f09d3f480d285cfc2a64521652c43c21dcc085023563eaf13b89": {
   "created_at": "2026-08-07T19:13:19.112585Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1237,6 +1306,7 @@
   "created_at": "2026-03-25T22:06:56.760876Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Terry Francona win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",

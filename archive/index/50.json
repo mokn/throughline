@@ -143,10 +143,20 @@
   "sha256": "a605461467f332fcf230469d3ecbd9e0d326acca075c58643037aacb2cd5da2e",
   "slug": "will-gamba-osaka-win-the-2026-27-afc-champions-league-elite"
  },
+ "0x176b1dc562b957ae2db457cd09d1c66d6acc3fca9eb85081413cbbab4b588250": {
+  "created_at": "2026-10-25T10:45:18.685426Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "0e5c5b194d898e1fed07c8f61d5d24895029bea74bb65c8a9fd2031db1587170",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-total-1pt5"
+ },
  "0x19b2f0f83076c8a3a1ed1b2f696203c71c1d6d1eba9fb909481b610aad0f4c50": {
   "created_at": "2026-10-24T04:00:03.842378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Elon Musk post 220-239 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -229,6 +239,7 @@
   "created_at": "2026-02-18T17:11:01.319783Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Evander win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -252,6 +263,15 @@
   "sha256": "59dc2ac3054eeae7280ce7d4b70111eeda0a2c1ed6a0d0b8abc9a3fe881c1e56",
   "slug": "el1-bar-mkd-2026-10-03-first-to-score-neither"
  },
+ "0x2fe239180e93ecc800613997961c108d25d85ba08ad865d0aebc0d0946c9d950": {
+  "created_at": "2026-11-10T02:41:58.314014Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Heart of the City (Ain't No Love)\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-heart-of-the-city-aint-no-love-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0x319c43c4766d1e1da5b1637e21e748fa80d3d7ba01d8dccb7ca589dd4388de50": {
   "created_at": "2026-09-09T15:40:58.816383Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -269,6 +289,15 @@
   "revisions": 1,
   "sha256": "14d6e7038a71a6deb60739176482722db725bc207af34802e2c0904898ab56d9",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-08-house-election-by-30-35"
+ },
+ "0x3363e9466b21bce077613a5728eeffa7680aea421a34a6582f4ad0ab0a971150": {
+  "created_at": "2026-11-07T12:30:57.436962Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-max-verstappen-2026-12-04"
  },
  "0x3686da538872195bafb0d059e59320f8047b249b3d935622227a1ce2c5ac3250": {
   "created_at": "2026-09-09T15:41:27.562536Z",
@@ -491,6 +520,7 @@
   "created_at": "2026-08-26T21:46:24.827681Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will N\u00f5mme United finish 8th in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "a72bde597da2a1f7c84239cf9622ba24c7578cc73fc75153dc48cd62e545e3e9",
@@ -518,6 +548,7 @@
   "created_at": "2026-10-01T14:27:26.512653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Donald Trump publicly insult Hakeem Jeffries by October 31, 2026?",
   "revisions": 1,
   "sha256": "173a792e74b8aedb6c62436a8de48402eded0a4acc0609b09a6a3625c86c307e",
@@ -572,6 +603,7 @@
   "created_at": "2026-02-18T23:32:47.933471Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Chase Burns win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -685,6 +717,15 @@
   "sha256": "ef697cce15ffd241ee78cd15bc4a5746afea01d707e8942bf8d6bf8338be9966",
   "slug": "will-jesse-minter-be-the-next-head-coach-fired-2026-27"
  },
+ "0x7095f0ac268369429bddb1f0248576e2d5a04033e9258d5d4acf5add2add7750": {
+  "created_at": "2026-10-15T18:01:01.225964Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 4.5",
+  "revisions": 1,
+  "sha256": "9fad90986d010823dd633d9a8cd520e02fcb820f0919719f61bdb78f70143882",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-away-4pt5"
+ },
  "0x7253a17a33712dd3fafd704ab02c7523817cea046508e51a7dbdabeb32978250": {
   "created_at": "2026-10-13T15:57:19.950069Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -726,6 +767,7 @@
   "created_at": "2026-08-28T20:17:41.515271Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Malik Nabers be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -920,6 +962,15 @@
   "sha256": "d37f9af2e5930d93b66a0e692726928b58ec913e72bbe67b4455480074763b9a",
   "slug": "will-drake-maye-finish-the-2026-27-nfl-regular-season-with-the-most-total-qbr-among-qualified-players-20260715213900183"
  },
+ "0x937f922b4bcfefea26dd5157cd6670c0f7c09c0004827da67ca809e7520be750": {
+  "created_at": "2026-11-04T17:37:48.149867Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Astralis Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-astralis-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x94a9e47f27a369a944959d2b2513ea81262a71868afd0f56b670fce742c84c50": {
   "created_at": "2026-08-11T18:36:06.904445Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -969,6 +1020,7 @@
   "created_at": "2026-08-11T14:14:30.877744Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 8 House seats in Texas in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9c3a46290209e6bbb1e52b1b0848fcc086f4d4c82763f50a5b91bc7076c7616a",
@@ -1036,6 +1088,15 @@
   "revisions": 1,
   "sha256": "5564e959909f17bf2822780ffd7c8877bc95ba6c1a2d4e978354bc16b22e91ba",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mn-01-house-election-by-6-or-more"
+ },
+ "0x9f93b3f5f238319a4ca452b7e2c00e2b20a6bedf74e89e6f5d96df5f50f01050": {
+  "created_at": "2026-10-15T18:01:00.189824Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: CD Minera O/U 5.5",
+  "revisions": 1,
+  "sha256": "e58fbe88da486fc4db51ef150825065a7a4db53a8e9527cf828eecc53ac9cabe",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-home-5pt5"
  },
  "0xa01ba24728a62ef30d5949c1ba3b2daa699ef8c2a57c4e257ca5ef85480e9050": {
   "created_at": "2026-08-05T10:41:56.877802Z",
@@ -1248,6 +1309,7 @@
   "created_at": "2026-10-10T11:30:35.532551Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Nico Hulkenberg achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -1257,6 +1319,7 @@
   "created_at": "2026-10-08T22:00:12.688282Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Zuffa Boxing 12: Vanhouter vs. Balaz (Heavyweight, Main Card)",
   "revisions": 1,
   "sha256": "3a20822302e0734770c38b93ca1de9cf17a8a125f4cd9ee42612d3b4a4b5af8d",
@@ -1428,6 +1491,7 @@
   "created_at": "2026-08-26T08:44:14.826075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 9.5 Total Corners",
   "revisions": 1,
   "sha256": "9bc26b5d4a32daeeef6a7acdd9d6c1ad6831431f224149607559f863a5d18d11",
@@ -1465,6 +1529,7 @@
   "created_at": "2026-01-04T19:07:21.852853Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will pump.fun buybacks hit $500M by December 31?",
   "revisions": 1,
   "sha256": "99d073dcca69817f1d6b92f6108d45266d5289f649608f5008ed5eb171b9f25a",
@@ -1595,6 +1660,15 @@
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
   "slug": "el1-ste-swe-2026-09-26-exact-score-1-2"
+ },
+ "0xff4f53ffed85c47dfe6cce51afc07ccaf56318afe94283992d33277f87e77e50": {
+  "created_at": "2026-11-10T02:03:26.806573Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Davi Alcolumbre be the next President of the Brazilian Senate?",
+  "revisions": 1,
+  "sha256": "2bb52fef4d7501e48c3715df632edddc248e2ffbca9f4addacb9d36a2f395915",
+  "slug": "will-davi-alcolumbre-be-the-next-president-of-the-brazilian-senate-20261106"
  },
  "0xffe718cd57d4de3396d8b7b6e80723ac21a697984788201794c0694933e51a50": {
   "created_at": "2026-07-24T01:47:41.814791Z",

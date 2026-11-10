@@ -30,6 +30,7 @@
   "created_at": "2026-10-25T04:00:53.805305Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $184 in November?",
   "revisions": 1,
   "sha256": "a4ee061de54158f4d004a948db49a3c4611c493b93073e0d608bc5a71775ffc4",
@@ -66,6 +67,7 @@
   "created_at": "2026-11-03T22:14:31.935471Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Newsom's Democratic nomination odds dip to 12% by December 31?",
   "revisions": 1,
   "sha256": "0626cd9729f68646ac0da64988c57fd4eed8d65fc76f488d8da058e986d522f3",
@@ -75,6 +77,7 @@
   "created_at": "2026-10-06T18:40:35.974346Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will \"Wild Horse Nine\" score at least 95 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",
@@ -88,6 +91,15 @@
   "revisions": 1,
   "sha256": "27abafc7b456613501b64f01ab8bfc13de4feb71933a98b6f2d714223a6a26db",
   "slug": "will-the-next-governing-coalition-of-sweden-include-s-m"
+ },
+ "0x1819005db4865ef219ef2fa771f10a086661c0bfe473d597b2c1b1b520f3ee1c": {
+  "created_at": "2026-10-15T18:02:17.678112Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "0e30f4915030d90b5f162c59673f652e03d157a6a697c16fa9a0845055835353",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-home-1pt5"
  },
  "0x1b729217f6ffbcb1684787ea99c3075384ff419252f67e8e9e4c9ccd4614901c": {
   "created_at": "2026-10-05T23:00:43.739735Z",
@@ -242,6 +254,15 @@
   "sha256": "7a34bbe7728de91b348591c34b4a6404d821517c1b83e362ba76fec70cc3a431",
   "slug": "f1-las-vegas-grand-prix-winner-leclerc-2026-11-21"
  },
+ "0x38c214e5abe02dd3c7f71d21c5002ae4e7f18518eb132f8633829bd8b5092a1c": {
+  "created_at": "2026-10-15T18:01:46.987524Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Tenerife (-4.5)",
+  "revisions": 1,
+  "sha256": "5d95ad8903cc73577ad23b3a6942d57dfbd53ecf2a6557d44636c4c836014d93",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-away-4pt5"
+ },
  "0x391e786b90c18c1194c1bc28d1859c2edca836cd7ffec809245d18bd8379cd1c": {
   "created_at": "2026-08-11T18:44:26.203791Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -336,6 +357,7 @@
   "created_at": "2026-02-18T17:10:59.85582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Brian White win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -848,6 +870,15 @@
   "sha256": "0a8ce695a085918107d511791d2792df140d61b308dc55fbb339c0a54a233534",
   "slug": "will-cincinnati-bengals-finish-the-2026-27-nfl-regular-season-with-the-most-rushing-yards-20260716001413699"
  },
+ "0x9f3d2a6475ec9f1608d246ece4d88d60a99898e172ad432370cba5b2ea82581c": {
+  "created_at": "2026-06-29T20:53:23.052369Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Aleksandar \u010cupi\u0107 win the next Serbia presidential election?",
+  "revisions": 1,
+  "sha256": "ab070f9edbc6770f2f897c855b465fdf959964e6a752d252937c8ffc3e6e5afa",
+  "slug": "will-aleksandar-cupic-win-the-next-serbia-presidential-election-20260629192336842"
+ },
  "0xa03eaa95bffa2b21f9dcc89698cd44de468eb0aaf4243450169e6bdfc80c601c": {
   "created_at": "2026-09-30T14:02:10.373539Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -938,6 +969,15 @@
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
   "slug": "ukr1-kry-met-2026-09-12-exact-score-2-2"
  },
+ "0xb48576d14917f88398e62eecabbec5da07598ab44192f76e20c95c5c9a501d1c": {
+  "created_at": "2026-10-15T17:01:06.254895Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete to score first vs. Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "1c911b994ea78df9c40505e0237f23fa6211c23cab03ddad7571a46b347087c2",
+  "slug": "cdr-por-iru-2026-10-28-first-to-score-home"
+ },
  "0xb83b39ae2c55de30b3a3304341aaae989a5ee19d361c9e3c611e28a632cd4d1c": {
   "created_at": "2026-03-09T18:47:50.368134Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -960,6 +1000,7 @@
   "created_at": "2026-08-26T21:46:51.896079Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will D.C. United keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -1181,10 +1222,20 @@
   "sha256": "a01c704b53b67b0940099b402f3ebd30400695906172e4c9b47d11424b6dd3a4",
   "slug": "f1-qatar-grand-prix-practice-1-fastest-lap-oliver-bearman-2026-11-27"
  },
+ "0xd7bad900697e8f0b350a83980f01857224b0f016d2d8459a96af8c607479441c": {
+  "created_at": "2026-11-10T02:43:26.565341Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Gatorade shower at Super Bowl LXI be red/pink?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "will-the-gatorade-shower-at-super-bowl-lxi-be-red-pink"
+ },
  "0xd7c22655f66d66174d7498ff1397d066a600f46ac41173f956c1e6611db2421c": {
   "created_at": "2026-10-14T02:19:14.307859Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Worlds 2026 Grand Final be LPL vs LPL?",
   "revisions": 1,
   "sha256": "2086260e7a6d189420bee5fbd2f1ad2a037c3abb89dfdafae6cb05bb3ccda27b",
@@ -1248,6 +1299,7 @@
   "created_at": "2026-10-10T11:30:34.22013Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Sergio Perez achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",

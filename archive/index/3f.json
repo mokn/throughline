@@ -242,6 +242,15 @@
   "sha256": "1a3c17e41f542689bdab987dd31b24b8e10bab9fa3874f687fd1f9179094f025",
   "slug": "will-mike-turitto-win-the-bachelorette-season-22"
  },
+ "0x1f1dd0269aa07229d4db1fbe28af0265919f1a3c7e8bae04723f05159319223f": {
+  "created_at": "2026-11-07T12:31:09.655181Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oliver Bearman achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-oliver-bearman-2026-12-05"
+ },
  "0x1f352e60ec49b728d58bc7dc9a7d0e2d6dcb08036197ed468b56c0c2527c253f": {
   "created_at": "2026-10-01T19:30:25.294159Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -597,6 +606,7 @@
   "created_at": "2026-08-28T20:17:39.472865Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Josh Downs be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -706,6 +716,7 @@
   "created_at": "2026-08-31T18:17:55.877135Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lucie Tungul be the next Mayor of Olomouc?",
   "revisions": 1,
   "sha256": "7281809af5844bfd3378ddb1858b3c2ef39b80ab36da07ff4d846bec8a535f99",
@@ -854,6 +865,15 @@
   "revisions": 1,
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-karl-anthony-towns"
+ },
+ "0x80da4a5fb47fb28b2a39e552111bcb40b795af0b1cf289ebe89d2baa7f25c33f": {
+  "created_at": "2026-10-15T18:00:58.173025Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 7.5",
+  "revisions": 1,
+  "sha256": "41873b9cead5768fb67149362935ca6331373342acd45787951fb2a1ea8bbb3c",
+  "slug": "cdr-cd17-car-2026-10-28-total-7pt5"
  },
  "0x832cd0ecaa2544055ca74901ea1e4d9f2d1d0dabc3b42343de45e6043deb8d3f": {
   "created_at": "2026-08-24T16:07:54.715135Z",
@@ -1081,6 +1101,15 @@
   "sha256": "8840ac4333ed939eeb19925b1050821fa51fc02783f43eaf857110e41abe1548",
   "slug": "will-california-make-college-football-playoff-quarterfinals-20260803204558941"
  },
+ "0xa29386f30fe3b0b109b1510916dd04f8f4460a61f46ef89c4fca147c8583543f": {
+  "created_at": "2026-10-15T18:02:36.890024Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 6.5",
+  "revisions": 1,
+  "sha256": "49f9ed2518d93cbf1a79fed9fc2b0a097a8737371dc1066d4c70a6c790657a28",
+  "slug": "cdr-por-iru-2026-10-28-total-6pt5"
+ },
  "0xa42333db4ddce56862ce41df613b506ab955be2d67f236660052cab09de63f3f": {
   "created_at": "2026-08-07T20:17:38.889898Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1131,6 +1160,7 @@
   "created_at": "2026-10-03T19:00:28.187977Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 2 - 4 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1176,6 +1206,7 @@
   "created_at": "2026-10-10T11:30:10.855539Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Franco Colapinto get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
@@ -1513,6 +1544,15 @@
   "revisions": 1,
   "sha256": "a0243321d20b27b1b51aaca771605eb35378b3637a20e875c2b9ee21ef3861a6",
   "slug": "will-stravas-market-cap-be-between-5b-and-7b-at-market-close-on-ipo-day"
+ },
+ "0xf6cf3a051f15c3f09b2a6d439d1f02960c37cca062366c6ecf168cace27d983f": {
+  "created_at": "2026-10-25T10:45:18.087742Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 8.5",
+  "revisions": 1,
+  "sha256": "47d9665eed1d8e9c3c55610eea354f433f06d84abc24ac25d34604eab0f7500d",
+  "slug": "gtm-mun-aur-2026-11-07-total-8pt5"
  },
  "0xf853457e2bccad86240767ad3e0af45ff0e47bddb0157c65fa1f47c7a1bdb33f": {
   "created_at": "2026-10-09T16:29:10.702286Z",

@@ -21,6 +21,7 @@
   "created_at": "2026-08-14T21:26:43.676588Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the LA-05 House Election?",
   "revisions": 1,
   "sha256": "aedc2c371da25d32f7ef8cad219d20f268ce612f60905daab8f388605b0b34f9",
@@ -43,6 +44,15 @@
   "revisions": 1,
   "sha256": "36239fa6ab18c7aa291f3bb002bdf0226c62b4094adfa9e786356e82489f33d9",
   "slug": "will-kruger-united-keep-the-most-clean-sheets-in-south-africa-premiership-2026-27"
+ },
+ "0x030cada031ae580d5b772c01c81c6e917fa15c70dc657874a21caae6853ac0bf": {
+  "created_at": "2026-10-25T10:15:18.640625Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 3 - 2 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-3-2"
  },
  "0x03f25a502c89531784fa2725e3c6a8c773020f39dfee8143fbf74bced882b3bf": {
   "created_at": "2026-10-02T19:30:26.454694Z",
@@ -192,6 +202,7 @@
   "created_at": "2026-01-28T15:36:06.890105Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NC-14 House seat?",
   "revisions": 1,
   "sha256": "1e61bdcbe6c41a8396c898c65b157adabc0a5143db0935454f267b500d17b478",
@@ -296,6 +307,15 @@
   "sha256": "cc3ba7b32524c9567bbccb378d10c01053fa5627dfc28f6d0823ef516524768d",
   "slug": "will-daejeon-hana-citizen-be-relegated-from-k-league-2026"
  },
+ "0x26b205095fe1e6c7bcb15035e9b4ad7b524fd8c9c83dbbcfb398998756abbdbf": {
+  "created_at": "2026-10-25T10:15:19.977286Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 5 - 4 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-5-4"
+ },
  "0x273bfff7e975966338cf1d2c8c9485175e5c019a1d865be8a7f6ccf5bfae26bf": {
   "created_at": "2026-09-26T04:20:17.061082Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -381,6 +401,7 @@
   "created_at": "2026-08-12T16:51:48.12614Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Carlos Augusto Pe\u00f1a Reluz win the next Chiclayo mayoral elections?",
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
@@ -453,6 +474,7 @@
   "created_at": "2026-08-11T14:18:06.968806Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win exactly 45 House seats in California in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cc33e62a2bb4c50e1d904dce0a2bfd6b6ab4da9b5ab7d7f1d5769d3f3831637a",
@@ -503,6 +525,15 @@
   "revisions": 1,
   "sha256": "5829154c2ef434e81c782c4d2e068018b00d481bf45f3814f43296ce85d9546e",
   "slug": "israeli-basketball-premier-league-2027-champion-hapoel-haemek"
+ },
+ "0x4ed48ceb9f62c6d23760fc8d6d56777c4303f8ceb0dd1d6d658415e216fb0abf": {
+  "created_at": "2026-11-09T21:18:14.604259Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will FunPlus Phoenix Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-funplus-phoenix-win-an-international-event-in-2027"
  },
  "0x52aacef55fab4cf131a33b84a6321c5887081a308d1c71fed3e86c9cfc5428bf": {
   "created_at": "2026-08-12T14:55:02.40122Z",
@@ -620,6 +651,15 @@
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-08-house-election-by-6-or-more"
+ },
+ "0x68fee945b992b64418ab41acae5ff84329891f851fe55326f725a29aa8e04abf": {
+  "created_at": "2026-10-15T18:01:07.845267Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 2.5",
+  "revisions": 1,
+  "sha256": "689d92626844669bee5cc69b18caf96ad7a6599f11e03b61e62c19e7023c530f",
+  "slug": "cdr-red-bar-2026-10-28-team-total-home-2pt5"
  },
  "0x6a063e27abbd4ede034912d70c16f6810c41c5cca6e50032a5f5399a33e976bf": {
   "created_at": "2026-10-30T01:18:38.920558Z",
@@ -913,6 +953,7 @@
   "created_at": "2026-10-13T19:31:55.785382Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Oscar Piastri finish second in the 2026 F1 Drivers' Championship?",
   "revisions": 1,
   "sha256": "bff5ba071dac538f68398d2645e4e3b2585f17cade8aadf211889c9b31083755",
@@ -1284,6 +1325,7 @@
   "created_at": "2026-10-10T11:30:36.109438Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Oliver Bearman achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -1338,6 +1380,7 @@
   "created_at": "2026-08-24T16:38:06.228367Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Dalian Yingbo finish 3rd in the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "194458e4e5a9108627bd00906566c77e1b4b16c8e1ce3612c4fa9e9c76c4a865",
@@ -1474,6 +1517,7 @@
   "created_at": "2026-11-02T00:48:14.202409Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and Israel and Hamas agree to ceasefire Phase II by the end of 2027?",
   "revisions": 1,
   "sha256": "ebbfbcce08e4f37e8d62cb33d1841e6fdb506d55cdaadd54052043ecc1525cb5",

@@ -166,6 +166,7 @@
   "created_at": "2026-09-09T15:53:44.486424Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Estevao win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -193,6 +194,7 @@
   "created_at": "2026-08-26T21:46:52.346053Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Nashville SC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -337,6 +339,7 @@
   "created_at": "2026-10-25T04:01:11.100776Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Micron Technology, Inc. (MU) hit (LOW) $720 in November?",
   "revisions": 1,
   "sha256": "474df0f7ed1916e4121d1fc9365d84a2cf5eef49b4e7342c52d7a2c815c621ce",
@@ -405,10 +408,20 @@
   "sha256": "48e92832ff705414897e1138324bd39653537641d3f0ee3feafcc98e68c57ad3",
   "slug": "ukr1-kry-met-2026-09-12-team-total-away-2pt5"
  },
+ "0x53158d834e3a3f564bab188e46911c41765eadb39ca9da1c8e4b615cdb0fb234": {
+  "created_at": "2026-11-10T02:41:34.528094Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"I Just Wanna Love U (Give It 2 Me)\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-i-just-wanna-love-u-give-it-2-me-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x55f887e762754b4c0cbe078cbbf86ea662be42c46ba2c45392be9b69de0c9e34": {
   "created_at": "2026-08-26T08:45:19.165284Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Both Teams to Score in Second Half",
   "revisions": 1,
   "sha256": "6c8673b8af516bd14c4c486691316e129f38b91fe56cf4328a442bf3de96e808",
@@ -445,6 +458,7 @@
   "created_at": "2026-08-28T20:17:38.169524Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Mike Evans be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -598,6 +612,7 @@
   "created_at": "2026-10-10T11:30:35.210412Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Franco Colapinto achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -625,6 +640,7 @@
   "created_at": "2026-02-18T22:38:34.029474Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Miguel Vargas win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
@@ -652,10 +668,20 @@
   "created_at": "2026-10-24T04:00:03.703986Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Elon Musk post 200-219 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
   "slug": "elon-musk-of-tweets-november-2026-200-219"
+ },
+ "0x7a3191cfc130045f3e2df48044e47388a0d663e74e070965a794393fba6d3f34": {
+  "created_at": "2026-11-09T21:18:00.707885Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Team Vitality Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-team-vitality-win-an-international-event-in-2027"
  },
  "0x7efaa478a060f503fafbe31912bafe75f437e5037f88bf03250b969ca0bb4234": {
   "created_at": "2026-08-17T19:20:32.169583Z",
@@ -1003,6 +1029,7 @@
   "created_at": "2026-02-18T23:32:43.960388Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tyler Glasnow win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -1134,6 +1161,24 @@
   "sha256": "6309903aabf286fdab67f7e5522e911540b42c222beb1a6f83412eba75f1809f",
   "slug": "will-pat-freiermuth-finish-as-a-top-12-te-in-the-2026-27-nfl-season"
  },
+ "0xc0b70b1ff217baf57536aabc3f8ab0f9acea2232476dcd74d6a8c4f2b9b80e34": {
+  "created_at": "2026-10-15T18:00:57.026317Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: FC Cartagena (-5.5)",
+  "revisions": 1,
+  "sha256": "b1e3571d196ed827d13b66d797b334deeb481d49a8d8f3e592c32fa11eca45cf",
+  "slug": "cdr-cd17-car-2026-10-28-spread-away-5pt5"
+ },
+ "0xc102b56c183580b9b30994e543e4612a9f762ee1a07cf3f3e4e4792025116534": {
+  "created_at": "2026-11-09T15:48:38.477236Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Claude 6 released by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "288dd937d06b7c03a0e482b66f4a6c298d7da999405d5be081a19c68bad529d2",
+  "slug": "claude-6-released-by-december-31-2026"
+ },
  "0xc514a4387e360cbb8b7dd4278e11c1238b48d14e6e739fcbd34e699114b5ae34": {
   "created_at": "2026-09-08T16:53:15.009941Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1205,6 +1250,15 @@
   "revisions": 1,
   "sha256": "e93be0f5fc74a200f2fb94c98c517404939483d185bdc22bedb06f82fb6db688",
   "slug": "will-torino-be-relegated-from-serie-a-2026-27"
+ },
+ "0xd33a1bdb0386f1f8af261bdd08667e37503a480613af04c1fd4a3493f42c5234": {
+  "created_at": "2026-10-15T17:02:00.325895Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 0 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-0"
  },
  "0xd4fa773f8400ea313466282e626be0e5d1b358c729402a310590d249f7dffb34": {
   "created_at": "2026-10-20T23:04:25.956955Z",
@@ -1305,6 +1359,15 @@
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-nikola-vucevic"
  },
+ "0xe3ee78a3fef0aa4da8b7357c4e86bc6a2fcbafae530d97a31818045c76108a34": {
+  "created_at": "2026-11-07T12:31:15.188849Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Perez or Bottas?",
+  "revisions": 1,
+  "sha256": "85e190a27b9144aab42dd322b85ea41ef93f8110fa2b6ccdc67609a4939e7be6",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-perez-vs-bottas-2026-12-06"
+ },
  "0xe409072fb9af773658eb8a29e74ecf59b5cfdeb8073ed8ade26754d2fee72534": {
   "created_at": "2026-08-18T18:59:35.1606Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1394,6 +1457,15 @@
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-22-house-election-by-9-12"
+ },
+ "0xf3a2ebce3ee5259601300314d91d47d133ad0d9d3498b645305b833b93a7c734": {
+  "created_at": "2026-10-15T18:02:16.964988Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 2.5",
+  "revisions": 1,
+  "sha256": "5963735d8b983c595362cf8b3f6790a3c780fbd532f3d6943ce339b15e96af29",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-2pt5"
  },
  "0xf4a1c32b24d7aa054e7568a9db1c1d607cd8875ef06b7a59118505c58ef90534": {
   "created_at": "2026-10-30T14:53:34.736978Z",

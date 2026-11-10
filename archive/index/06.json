@@ -66,6 +66,7 @@
   "created_at": "2026-01-28T15:28:37.54592Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the CA-47 House seat?",
   "revisions": 1,
   "sha256": "19078b0ba5db66f16655577ccc210e1ab82f0530996e64bc0eb8b42c14711360",
@@ -93,6 +94,7 @@
   "created_at": "2026-08-11T14:12:31.056578Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 9 House seats in Michigan in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "b6c17b236c3ee1cc3efe5225b557298a09a9e87e5a2a17a4fd5bf9806e016370",
@@ -354,6 +356,7 @@
   "created_at": "2026-08-31T18:12:49.667722Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Mat\u011bj Gregor be the next Mayor of Ostrava?",
   "revisions": 1,
   "sha256": "9257d173fce3ec1c6f014a795800d9e8a68317c05b5a0a3d0a848c355b03a089",
@@ -408,6 +411,7 @@
   "created_at": "2026-08-10T21:53:46.54419Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Alabama have more than 6.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -624,6 +628,7 @@
   "created_at": "2026-10-10T11:30:46.57763Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Liam Lawson finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -642,6 +647,7 @@
   "created_at": "2025-12-15T22:13:48.822112Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NC-01 House seat?",
   "revisions": 1,
   "sha256": "eb58a4c55a889bb0c286472f9930517bc26061d450f7e40cb057f693216a13eb",
@@ -691,6 +697,15 @@
   "revisions": 1,
   "sha256": "4d9415d6386e74e226389e9aae4fdec1a09bf513b45ca73837942a36a013429b",
   "slug": "nba-teams-60-plus-wins-2026-27-dallas-mavericks"
+ },
+ "0x5da5d957c4d8e35721a3cdaf3626c16d2abae754582918ccebe8f7cbe5c3ee06": {
+  "created_at": "2026-11-06T00:02:44.471671Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Andy Ogles be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-andy-ogles-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0x5ebd0b3d8416eaa4f5bcc19c935bbcf0a256446309e663d855eb7fd03a843c06": {
   "created_at": "2026-09-02T20:15:12.889103Z",
@@ -795,6 +810,7 @@
   "created_at": "2026-08-12T00:19:16.902116Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Seattle Reign FC win the 2026 NWSL?",
   "revisions": 1,
   "sha256": "28c43d94e076a347f0063de2dc02b601bbd2690db887f510e8f539b8ef4b1496",
@@ -849,6 +865,7 @@
   "created_at": "2026-10-08T22:00:14.224621Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Vanhouter vs. Balaz end before Round 7?",
   "revisions": 1,
   "sha256": "6542bc34c27af7783c82c78b5a205b51fe538bcdfcd1ff708d0ebb1551a25193",
@@ -944,6 +961,15 @@
   "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
   "slug": "will-barack-obama-win-the-2028-democratic-presidential-nomination-265"
  },
+ "0x8fe9d472eafa6ed599ee83bf7f50d801021f77ae38bbc88e5d91c7953f4db506": {
+  "created_at": "2026-11-06T22:58:43.07093Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jay Clayton be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-jay-clayton-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0x91467d5c49b5e06a68d101c3ea2e227ffd76215060d93381aca203ee26cf2d06": {
   "created_at": "2026-03-01T19:19:57.080414Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -952,6 +978,15 @@
   "revisions": 1,
   "sha256": "f0fe8d68a91e3c2d7ac4aa7568f2a82532fe8d8192be9d51960946336cbe5d7f",
   "slug": "will-the-us-reopen-its-embassy-in-iran-in-2026"
+ },
+ "0x91cb70968ee72e3d58405da2ccaa38e348c9c62feaba1c28cb061f991cbaf706": {
+  "created_at": "2026-10-15T18:01:50.251592Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 0.5",
+  "revisions": 1,
+  "sha256": "3d31d14a274f21e857b3114ec6f8d475ea0ca44605f42163f4bc28c30ebe1509",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-0pt5"
  },
  "0x91d503ad773c5c870aee6892ad7f5ee5b40e48ff134365afa09770d3f18ae206": {
   "created_at": "2026-09-20T08:47:25.599338Z",
@@ -1266,6 +1301,7 @@
   "created_at": "2026-01-28T15:40:13.918998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the TX-05 House seat?",
   "revisions": 1,
   "sha256": "7c4eb11c0bc23a8cc4052f4ede8d73dc01df05f07072c098c49a39f5feb143d5",
@@ -1414,6 +1450,15 @@
   "revisions": 1,
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-miro-heiskanen-win-the-2026-27-james-norris-memorial-trophy"
+ },
+ "0xd7ba74d618106f29dffe3099267bd4efe246945c847c488edc9d33036def8506": {
+  "created_at": "2026-10-15T18:02:37.67701Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "18c107f3dad5507d357f812a45715fb2a4d8cff035a9fdfd5877568287e29baa",
+  "slug": "cdr-por-iru-2026-10-28-first-half-total-0pt5"
  },
  "0xd81d243e9d8a3fe8acaeb59650dbd7ba68e757c0fcfa96c97c782f76d9dc1706": {
   "created_at": "2026-08-18T14:23:58.967346Z",

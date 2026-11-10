@@ -48,6 +48,7 @@
   "created_at": "2026-01-28T04:52:49.102028Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the AR-02 House seat?",
   "revisions": 1,
   "sha256": "ea5d2bce5c807ba4b87cd9878e56596f1989044a19f15291ee7e5acc7d920ac8",
@@ -84,6 +85,7 @@
   "created_at": "2026-08-11T14:01:17.488424Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win 3 or more House seats in Alabama in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "799b6762cd663f36b81425a6622fa57cb743eeede2d41718ff1a65e18fb2abfa",
@@ -233,6 +235,15 @@
   "sha256": "4f332d37820451194ce6e19aa0ff665bc5422c0ef7ebdf243a28ff7d1273ade3",
   "slug": "will-ernest-urtasun-be-the-next-prime-minister-of-spain-20260625005710099"
  },
+ "0x20d32374a47a4eb5a483bcf4b42b50707d25ecac503fecd0c586be557dd90179": {
+  "created_at": "2026-11-10T02:44:30.152772Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last at least 150 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-at-least-150-seconds"
+ },
  "0x26c22ad6113e81a58e267f2ff4f9f45b6632f1162c2ab7521bb9c59f8a030a79": {
   "created_at": "2026-11-02T18:37:10.367837Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -277,6 +288,15 @@
   "revisions": 1,
   "sha256": "7c5dc64bb42c3abddfa3e2bc9ca5bd7d3a133fa806ed28ad63b56da554b01409",
   "slug": "will-coward-win-best-international-feature-film-at-the-99th-academy-awards-20260805190946424"
+ },
+ "0x2f4c702d079b963ddd1eafb6216759878c1d4503b18f7909b809d9da04bdbd79": {
+  "created_at": "2026-11-10T02:41:16.614757Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"N****s in Paris\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-ns-in-paris-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0x306b4a89bbc50140edb577e7d362bcded85dc00cbeddb1d4f09606d08a13e879": {
   "created_at": "2026-10-14T12:40:42.266597Z",
@@ -482,6 +502,7 @@
   "created_at": "2025-12-10T18:05:32.522724Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party hold exactly 28 or 29 governorships after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cb4a6d2db6b0e17d1f68fb1ebd345806a34632c9cd578e8c03fccd5d3ea36f4b",
@@ -518,6 +539,7 @@
   "created_at": "2026-06-19T01:48:25.359259Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will STRC hit $100 by December 31?",
   "revisions": 1,
   "sha256": "5615060b8b1958a6b4f897878330c4d518140b5ae8053dfa86e4c5396e31b003",
@@ -555,6 +577,7 @@
   "created_at": "2026-10-15T16:34:01.239987Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Renata Glasc be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -618,10 +641,20 @@
   "created_at": "2026-10-10T11:30:02.596861Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Gabriel Bortoleto win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
   "slug": "f1-brazilian-grand-prix-winner-bortoleto-2026-11-08"
+ },
+ "0x6ce0b1a9e24b4d8f23292f19fe7b0c32cc2680ccce4f8c8cf43f6564051d9e79": {
+  "created_at": "2026-10-15T18:02:44.104478Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Utebo FC (-5.5)",
+  "revisions": 1,
+  "sha256": "283c02939bbd9002426992d628ba368beb413bf205daf85dd46065cd612b3bb2",
+  "slug": "cdr-ute-sab-2026-10-28-spread-home-5pt5"
  },
  "0x6dacc1819be3a9cbf0b2bee90c4f9c6d1623273d092bbbffa5ac82e7cbf78e79": {
   "created_at": "2026-10-02T23:00:26.32826Z",
@@ -636,6 +669,7 @@
   "created_at": "2026-01-28T04:53:38.204656Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Republican Party win the CA-11 House seat?",
   "revisions": 1,
   "sha256": "29a682a6e165e0adac0abdf34b23c5f2aa51e2531d45243ec4ae80d934283004",
@@ -663,6 +697,7 @@
   "created_at": "2026-09-20T08:45:07.478248Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: Team to Take First Corner",
   "revisions": 1,
   "sha256": "46af3b96f9569d79b1f360a9c6b7828cbb41aab6c4b0e9bc94cfe144f94dfaa3",
@@ -816,6 +851,7 @@
   "created_at": "2026-09-23T18:06:45.571072Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ninjas in Pyjamas qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1191,6 +1227,15 @@
   "sha256": "04e987511a2c81e5fc39ce709f229278562ec7ca261c84e3494dc2d6a5bf5762",
   "slug": "nba-2026-27-defensive-player-of-the-year-jalen-suggs"
  },
+ "0xdcd58e73b45fcfb68f102bafbb169b427609a68044ac74d314742fa81b99c479": {
+  "created_at": "2026-10-15T17:02:05.563113Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 0 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-0-3"
+ },
  "0xdea233cc74c8a57a36f0318d7215a3da8afb35fa8175ec101e28d43f918ef679": {
   "created_at": "2026-01-28T15:33:10.806183Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1272,6 +1317,15 @@
   "revisions": 1,
   "sha256": "9dafa208a54cfe6be76834b8a7f0ba5a50c72d91a5b2f48047d5c292bcda4476",
   "slug": "will-dorian-thomas-be-the-2026-acc-receiving-tds-leader"
+ },
+ "0xed2eec23eb5482ad3b78c1c1a496cfb21191c2cde6c93eb713c8ac393c506279": {
+  "created_at": "2026-11-07T12:31:25.707726Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-stroll-2026-12-06"
  },
  "0xee105d7ebe2a1245d982abc26edbdfb1ee744494c02c1b4d1d35e0c48c9fbb79": {
   "created_at": "2026-11-02T21:05:30.665223Z",
@@ -1385,6 +1439,7 @@
   "created_at": "2026-08-24T16:34:04.569337Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Shenzhen Peng City be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",

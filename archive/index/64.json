@@ -125,6 +125,15 @@
   "sha256": "e42b7b3eb0f8878def7488dfe07d9dd831c6b3a14c572206c0323abe756602db",
   "slug": "will-mistral-have-the-best-math-ai-model-at-the-end-of-november-2026"
  },
+ "0x187e7d026bed0c91e5ffad28d57fc482a8fd800f77eead6a2477c2c9f656fc64": {
+  "created_at": "2026-10-15T18:02:16.242103Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 3.5",
+  "revisions": 1,
+  "sha256": "2de5fc6c26833b38cdf7807aa3294df5ab50463e48ca02bc40915f66f63a0253",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-3pt5"
+ },
  "0x1982e956523846cefb9756bbd23b2b7937aa02fb8699650b991a3f8904907064": {
   "created_at": "2026-08-12T17:30:11.805683Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -147,6 +156,7 @@
   "created_at": "2026-08-14T21:26:41.195447Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the LA-06 House Election?",
   "revisions": 1,
   "sha256": "ec45fba89381024bdf33a03509a681915405e159d5b17bf91bcac61788c3eb97",
@@ -237,6 +247,7 @@
   "created_at": "2026-10-27T18:57:10.378382Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Conductor (Melty Labs) be acquired before 2027?",
   "revisions": 1,
   "sha256": "4b05b32aa7a05b1894949f742ae271fc6aac41276db5c39e13b0980e735f659e",
@@ -278,6 +289,15 @@
   "sha256": "688e0183466807127ccf0df91f24c97b89b0959a168e8b73ec054590a8d05429",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ga-12-house-election-by-5-or-more"
  },
+ "0x38bb27d742251002627c3866797e1e23aa53228aa07bd41b81e217132aa19164": {
+  "created_at": "2026-10-15T18:02:39.707228Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 2.5",
+  "revisions": 1,
+  "sha256": "ad6c5582ecc25fd35814512b060f1125332d4627731b60c0c781e260d7b7e4f3",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-2pt5"
+ },
  "0x3b7d62b30c40265ac030f611f973a7b9a4c9d99c18c9bd7382ff48b9939fdd64": {
   "created_at": "2026-08-10T15:43:21.869616Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -300,6 +320,7 @@
   "created_at": "2026-10-10T11:30:16.965108Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Gabriel Bortoleto achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -472,6 +493,7 @@
   "created_at": "2026-08-12T15:01:30.190934Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will TCU have more than 7.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -550,6 +572,15 @@
   "sha256": "35a683ccbd671237e92a586c9cf95707f1d61891c777ba6ebc6077e16dc8261f",
   "slug": "will-mario-draghi-be-the-next-prime-minister-of-italy"
  },
+ "0x6fa6b575ea847a607cf14fc5258e092105b8ef89479aeb046413189ebcc16364": {
+  "created_at": "2026-11-06T21:50:27.163544Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Republicans win the Presidency, Senate, and House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-r-president-r-senate-r-house"
+ },
  "0x71337f366d90a063df2e9901231d0081d355a7e4b70620af5e84572a1d16f464": {
   "created_at": "2026-09-04T19:52:33.726326Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -626,10 +657,20 @@
   "created_at": "2026-03-02T21:53:55.799175Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Michigan vote to rewrite the state Constitution?",
   "revisions": 1,
   "sha256": "dd45b2bde0982978a0f96b2853986758dfd29b8e1600bc3c6277cd8f1c7db763",
   "slug": "will-michigan-vote-to-rewrite-the-state-constitution"
+ },
+ "0x7f0b7fbc848d01784b326df2bae7981deb812d7cb2319c71c53ce5f022c5aa64": {
+  "created_at": "2026-11-10T02:43:25.630615Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Gatorade shower at Super Bowl LXI be green/yellow?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "will-the-gatorade-shower-at-super-bowl-lxi-be-green-yellow"
  },
  "0x7f10d30d0c6d70637db9947af99143d83c90a8b7276da96e021adf337ebb7764": {
   "created_at": "2026-08-10T23:57:40.57401Z",
@@ -756,6 +797,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-zach-werenski-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0x95beecc2763ff3abfeb0b3c5f1db30aca44115e6adc4bec6a7789ea7c3a2a464": {
+  "created_at": "2026-11-10T02:44:26.708664Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 100 and 110 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-100-and-110-seconds"
  },
  "0x9700630c6377dd45c496cda5f99e0338b167659e017f925660c928fc4cf28d64": {
   "created_at": "2026-10-13T19:53:30.021915Z",
@@ -937,6 +987,15 @@
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
   "slug": "will-kanye-west-headline-coachella-2027"
  },
+ "0xaf98b4518deecba994f8c3089be2a0006fe209888aa3445e7bd0b5d35d369d64": {
+  "created_at": "2026-10-15T18:02:18.395123Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "743eae84efd71e5606c58265a12ab0c6c9fc3027ccffbaf98ef219bc01a921a3",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-away-2pt5"
+ },
  "0xb18fb0d13a891c7f538b4ce712bdcaadb7647cc173a6e03574eb4ca6459f5164": {
   "created_at": "2026-08-11T19:10:29.798711Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1050,6 +1109,7 @@
   "created_at": "2026-08-26T21:46:28.992973Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Lan\u00fas finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -1108,6 +1168,15 @@
   "revisions": 1,
   "sha256": "ef697cce15ffd241ee78cd15bc4a5746afea01d707e8942bf8d6bf8338be9966",
   "slug": "will-dave-canales-be-the-next-head-coach-fired-2026-27"
+ },
+ "0xc6843a648f1ccf1eeb20134ef9c8d94cf7d7796291b67c3a2411408f1682f464": {
+  "created_at": "2026-10-15T17:01:18.736535Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CD Alcoyano win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "f6153475c1ff598a926fe822f53b0d70058e3d69e0bb166318312f8dcd51a21d",
+  "slug": "cdr-ca-mal1-2026-10-28-ca"
  },
  "0xc6fb5df0257d52f1344795b38aaebc04801de4b9aaf8569435c15fb5711e2c64": {
   "created_at": "2026-08-10T08:21:50.41998Z",
@@ -1173,6 +1242,15 @@
   "sha256": "6ca1d6274fbaa52a0a48c645e8536532afdfab119380c2749865dfc11dc37600",
   "slug": "betclic-elite-2027-champion-le-mans"
  },
+ "0xcd5db210dbe7ef39c2cddcca41c3c0965a7afc9afcc0ded157cf39ceb1818764": {
+  "created_at": "2026-11-07T12:30:49.342577Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Arvid Lindblad achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-arvid-lindblad-2026-12-04"
+ },
  "0xcd8257e8b53cb20079af16ca5ad4262c9b5b09c7e3e461027b1b0768a14bad64": {
   "created_at": "2026-07-02T18:03:47.844231Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1204,6 +1282,7 @@
   "created_at": "2026-08-12T17:27:13.849804Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Racing be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1217,6 +1296,15 @@
   "revisions": 1,
   "sha256": "ff9e547421a290ecf8abd8693efa91d32a3325481daccde0b0d50f0bfa1b464d",
   "slug": "will-nublense-finish-14th-in-chile-primera-2026"
+ },
+ "0xd87855a4cd9d72a92cda7011f6329ec886b4635a122a919aa1690465baecee64": {
+  "created_at": "2026-11-06T22:31:36.600088Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will \u00c9douard Philippe win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-edouard-philippe-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0xdca61cae5fc26850f7527a9bc65dbcdb4f557c20ea403923df858803ea174e64": {
   "created_at": "2026-05-11T21:03:36.790547Z",

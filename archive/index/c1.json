@@ -184,6 +184,7 @@
   "created_at": "2026-08-12T16:52:07.621394Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ricardo Alfredo Ram\u00edrez del Villar Llosa win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -229,6 +230,7 @@
   "created_at": "2026-01-28T04:54:14.565436Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the CA-29 House seat?",
   "revisions": 1,
   "sha256": "49a1fa866133f681376a195c8388c73bbff08480250a6fc2ba47c719bf5b2191",
@@ -337,6 +339,7 @@
   "created_at": "2026-10-13T23:25:05.237047Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will \"Star Wars Zero Company\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
@@ -359,6 +362,15 @@
   "revisions": 1,
   "sha256": "6c269a648d75b26496fa6312e5678986a67774b47e6a801787373336bb7f5a3e",
   "slug": "will-steph-currys-next-team-be-chicago-bulls-20260731023145458"
+ },
+ "0x490dc96e1699718a4d681527e30152ba5af2f34111b76a39020a3c5f250263c1": {
+  "created_at": "2026-11-07T12:30:16.790854Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-antonelli-2026-12-05"
  },
  "0x49501ff0c2d65172a90e7225f57eb33044b33ed180877dbdf35e7a8b6daf0cc1": {
   "created_at": "2026-10-14T12:31:21.455964Z",
@@ -582,6 +594,7 @@
   "created_at": "2026-10-10T11:30:10.714964Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Max Verstappen get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
@@ -650,6 +663,15 @@
   "sha256": "5b0ad4e08a7394a6e77bd76ebd652e90970f672cb8ebde86aedcd6837dc50723",
   "slug": "will-the-republican-party-candidate-win-the-2026-al-01-house-election-by-50-or-more"
  },
+ "0x7a421e6affc9345a5a1ab9d5ac5610a2b9952d2dbff9dcfd513d76fa2408bcc1": {
+  "created_at": "2026-11-07T12:30:15.906859Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sergio Perez get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-perez-2026-12-05"
+ },
  "0x7a7d21e533ef7ccd949f28bebffa6d9d47d12fc05f18d2067e305108bdb0b6c1": {
   "created_at": "2026-07-20T20:02:41.916798Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -658,6 +680,15 @@
   "revisions": 1,
   "sha256": "d37f9af2e5930d93b66a0e692726928b58ec913e72bbe67b4455480074763b9a",
   "slug": "will-michael-penix-jrpt-finish-the-2026-27-nfl-regular-season-with-the-most-total-qbr-among-qualified-players-20260715213900209"
+ },
+ "0x7dd95fc0d22a5e90df6238c20f8e335d691d1540315779dc467f6c85bf5e71c1": {
+  "created_at": "2026-10-15T17:00:58.844291Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 5 - 2 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-5-2"
  },
  "0x7e131b29b5420d1385f8a3e8401f10eeba9fd078efb0fa6b84625992d725f0c1": {
   "created_at": "2026-09-02T19:40:14.548819Z",
@@ -672,6 +703,7 @@
   "created_at": "2026-08-12T17:27:09.106891Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Estudiantes (LP) be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -694,6 +726,15 @@
   "revisions": 1,
   "sha256": "92e43cefd534204663a5dab28f5322471a8577e5e8a10a234439bf0fd028946e",
   "slug": "2027-soccer-laliga-runner-up-levante"
+ },
+ "0x81ad186028734ea9abd89ee9b085d92bedb87a6463b4df85afb9b7062b7b8bc1": {
+  "created_at": "2026-11-07T12:30:29.412881Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-verstappen-2026-12-06"
  },
  "0x823ec3696d3231996425f818d75d6d42b5e128ccba56fedbb82e07b87bbe7ac1": {
   "created_at": "2026-04-08T23:19:00.738724Z",
@@ -744,6 +785,7 @@
   "created_at": "2026-10-25T04:00:42.095401Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Opendoor Technologies Inc. (OPEN) hit (LOW) $1.50 in November?",
   "revisions": 1,
   "sha256": "f80a43f2a6545b4a95994a7d3d27401de409b26ed7442a81f36d920bea34dbea",
@@ -848,6 +890,15 @@
   "sha256": "5a3ca9fd8c189440dbd42bfff0c8a7cfe69bcbc4e03f4ec8518d900d6e2ffb3a",
   "slug": "ahl-2027-champion-chicago-wolves"
  },
+ "0x90d22dc100c407d85f80621fc605e957c76582d4208ecb713ac1ef873a046ec1": {
+  "created_at": "2026-10-15T18:01:51.061763Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 5.5",
+  "revisions": 1,
+  "sha256": "d6fd14ff5619e9984e4e76a721a395b1d48abf64782f1943b38c7cc9cc9d7141",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-5pt5"
+ },
  "0x93bb318aa5afa4439e6490c442e8539c6ae69282adb1062537677a7251c4f7c1": {
   "created_at": "2026-07-31T21:51:49.982737Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -933,6 +984,7 @@
   "created_at": "2026-05-22T18:33:45.030883Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Doug Collins be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -1082,10 +1134,20 @@
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-artemi-panarin-record-80-points-in-the-2026-27-regular-season"
  },
+ "0xbf9daeb722d9c7242f751840e4f6561aabb95923b58a7744d135b1d1d7f4d0c1": {
+  "created_at": "2026-10-15T18:00:59.039915Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "0409d8c42e231dc766b3cbfab69241f24416de68ea6fa3217f33f926a4c7ae2d",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-total-2pt5"
+ },
  "0xbfbbd476eb3f08eedb62e3c2c8b51376c50671d877172f4c062f9a9fcc456dc1": {
   "created_at": "2026-08-12T00:09:04.434443Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Deportivo Pereira win the 2026-II Colombia Primera A?",
   "revisions": 1,
   "sha256": "b9314ffdd245db77d513367f3580083f235dcae6b499ea4389aa8c2d3e4cb759",
@@ -1293,6 +1355,7 @@
   "created_at": "2026-08-26T08:44:15.661098Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 13.5 Total Corners",
   "revisions": 1,
   "sha256": "badf51621d7563644b0ddc995669d729ce145fdf1e8b12d59ef6b84c2a7352f6",

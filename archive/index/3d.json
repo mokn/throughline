@@ -148,6 +148,7 @@
   "created_at": "2026-10-10T11:30:07.183876Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Alpine have the highest constructor score at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13711fb14177e94e215272f2feab2b3492c7a6cc383bfd8b11e15f9eef985aa7",
@@ -628,6 +629,7 @@
   "created_at": "2026-07-01T22:27:46.278309Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "California Higher Local Tax Vote Threshold Proposition",
   "revisions": 1,
   "sha256": "ae699443533c1c58014410a04570d8daca949e90be52e3d0a55c811537d96f34",
@@ -700,6 +702,7 @@
   "created_at": "2025-07-11T20:47:55.924227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "2026 Balance of Power: Other",
   "revisions": 1,
   "sha256": "f34f45b6b7464581ee4e02f4ae784532e248f81c5550b8542ad51517db1f06f4",
@@ -837,6 +840,7 @@
   "created_at": "2026-08-26T08:45:16.927785Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "723e2a17e58ed00ecdd3be373cc27d0dab578c812dbb684d6b7e12b1629bd53d",
@@ -846,6 +850,7 @@
   "created_at": "2026-10-03T19:00:28.541325Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 4 - 3 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -896,6 +901,15 @@
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-lautaro-martinez-win-the-2027-ballon-dor"
  },
+ "0x9add86ea342870305c364e01a1b2dc740dfbb2ccf47a54ff1353a5ab98b2a53d": {
+  "created_at": "2026-10-25T10:15:18.889219Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 1 - 5 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-1-5"
+ },
  "0x9c749e841b108fa679e28d86eb20ecd461ead09084b67ef4ba39dc799506923d": {
   "created_at": "2026-10-27T16:57:32.629885Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -913,6 +927,15 @@
   "revisions": 1,
   "sha256": "1d7b9aa3e5c21f08ed858fee8258636dab219c58cc7ed086d95834a326430d8a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-kentucky-senate-election"
+ },
+ "0x9db1d5dee9bedd093babe0eeccc6d181f11f511017abff08b0c7dedf23363c3d": {
+  "created_at": "2026-11-07T12:30:06.679866Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-russell-2026-12-06"
  },
  "0x9e52cec9fa4cedcdcd1f985c02f00bda002002423c381082d558a7ef62669f3d": {
   "created_at": "2026-09-04T19:49:19.991504Z",
@@ -945,6 +968,7 @@
   "created_at": "2026-08-26T21:46:28.826451Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Independiente finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -981,6 +1005,7 @@
   "created_at": "2026-10-10T11:30:39.834302Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Norris or Piastri?",
   "revisions": 1,
   "sha256": "ab971c76f04d96987f85e9210992d648f4482b79bc83540671738fbf1dceecc9",
@@ -1031,10 +1056,20 @@
   "sha256": "4bda331d1c268a5f7f6921a09cf0de94f727c6885e107a705248fc66a96fa4e8",
   "slug": "will-the-republican-party-candidate-win-the-2026-in-07-house-election"
  },
+ "0xae63eb1cd0c84d5450344d88fbc701b00e5fe7afebeed889da19a5c72c569f3d": {
+  "created_at": "2026-10-15T18:00:57.171467Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 0.5",
+  "revisions": 1,
+  "sha256": "12a2632f865d5cab18d5e5ddcbe0e1648b0a9a95d8ac3d1025b0842d35249522",
+  "slug": "cdr-cd17-car-2026-10-28-total-0pt5"
+ },
  "0xaf5a920bdd775e7fc68c59fd5c1b355e5b28ecb91af733d8f670d449a248253d": {
   "created_at": "2026-10-08T22:00:05.589531Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dzambekov vs. Parker end before Round 6?",
   "revisions": 1,
   "sha256": "182545ed01effb15abf49f017a2519286055cab6dd67650d4def07058ffe9c9a",
@@ -1120,6 +1155,15 @@
   "revisions": 1,
   "sha256": "05e44eb86dd2cd104b1003ffabfaaf5029ff53bfd51bf8b1f53cfed1e086ca5d",
   "slug": "2026-soccer-liga-fpd-costa-rica-runner-up-san-carlos"
+ },
+ "0xb78f9ac30e5f2010da51bf6ccdfa4ddd397e67c07ccc5ed23689754c9952593d": {
+  "created_at": "2026-11-09T22:28:03.975867Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Luis Enrique be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-luis-enrique-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xb8afb86784d482047d6153141d09c6f8b64c1d8049cc80e1161b9aa2b344843d": {
   "created_at": "2026-08-26T21:46:21.886453Z",
@@ -1438,6 +1482,15 @@
   "sha256": "4353964d14f020c77ac43e39deca1fbe47d55658f1d99660827d5047fe67daf3",
   "slug": "will-republicans-sweep-the-texas-senate-and-governor-elections-20260804162614414"
  },
+ "0xe96a79b52b8a7116c59d98441a90f51c9daead87c470fe1100e09e7dc704333d": {
+  "created_at": "2026-10-15T17:00:58.735747Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 3 - 4 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-3-4"
+ },
  "0xeae7a6c0d258b1441bdc8b59e0b14f18abce0131fb613f1cd61f70996582c13d": {
   "created_at": "2026-08-18T14:57:37.606233Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1519,6 +1572,15 @@
   "sha256": "f1d0c8eb292d09aacc94aacd4771639787f4a9740eac0d36d4f4f3b8beed711c",
   "slug": "will-kenny-kunene-be-the-next-mayor-of-johannesburg-20260609220255154"
  },
+ "0xf1ddf294bf7c5de73c8646d6ac67f9b172a0a5e5633c64b77fa31bdc5164fc3d": {
+  "created_at": "2026-10-15T17:02:00.36698Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 1 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-1"
+ },
  "0xf343eeb389e6294ed7724971a934ef39e8531cf197cfd320680d8c301ec6fe3d": {
   "created_at": "2026-05-20T20:58:01.049103Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1546,6 +1608,15 @@
   "revisions": 1,
   "sha256": "a0176bf16a54ef2639db94b82f0a45f91e6bd8e56eb6ebb8f4b4a92460eaf025",
   "slug": "will-buffalo-sabres-advance-to-the-eastern-conference-finals-of-the-2027-stanley-cup-playoffs"
+ },
+ "0xf83aeea6e9dc358f5191085023327fca2aba68ac7935591d9914af5b97fa763d": {
+  "created_at": "2026-11-07T00:25:30.855219Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "French presidential election delayed?",
+  "revisions": 1,
+  "sha256": "83d61b42ebd4d13ddc5c4728c893c3859ae87769e5dfb9e09533ce25335a4a28",
+  "slug": "french-presidential-election-delayed"
  },
  "0xf94e4835b38cacc65d8f250b388c40be1334669ed677b3aac75e82055219803d": {
   "created_at": "2026-09-27T20:09:32.838363Z",

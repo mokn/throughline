@@ -44,6 +44,15 @@
   "sha256": "b071fdc771af0aec7e6aedb3cc98b98975a543c49bb27c25de1f6628856432ca",
   "slug": "will-klingai-have-the-best-text-to-video-ai-at-the-end-of-december-2026"
  },
+ "0x0b3b4a1d7529ce1efad8fef907620b7396f9b359927361de308564c4c961564f": {
+  "created_at": "2026-10-15T17:02:07.916751Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera to score first vs. FC Cartagena?",
+  "revisions": 1,
+  "sha256": "f95edd7c6232283c00edc42bf21d809c92b32b07ae1dc721f2c66b48eaca2549",
+  "slug": "cdr-cd17-car-2026-10-28-first-to-score-home"
+ },
  "0x0bbb24d541f4ea0bb3f95c766e6e0b5f4e13645be3960acebb1a639601b38f4f": {
   "created_at": "2026-08-10T23:57:09.09394Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -79,6 +88,15 @@
   "revisions": 1,
   "sha256": "ab8134f085187e074442c69895aef267c5df4ce0aa086df89324477a34b1d432",
   "slug": "will-modern-sport-finish-17th-in-egypt-premier-league-2026-27"
+ },
+ "0x0e6bfa2ac3ddf5564323df148868358cf7441a1fa750be9f68cfbbb5cfa7794f": {
+  "created_at": "2026-11-06T22:33:13.357054Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive between 28% and 31% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-28-31"
  },
  "0x10373ee158f8f5a715ef97d7f1e87ab42ce766c146fde3b02196169f9eb8dd4f": {
   "created_at": "2026-09-04T19:52:36.382562Z",
@@ -156,6 +174,7 @@
   "created_at": "2026-10-25T04:00:28.227231Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will NVIDIA (NVDA) hit (LOW) $192 in November?",
   "revisions": 1,
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
@@ -323,10 +342,20 @@
   "sha256": "1c4b2fae177f5a3ba27097c326268215c0784ccf4f4c11404e87641beed7768b",
   "slug": "f1-qatar-grand-prix-constructor-fastest-lap-ferrari-2026-11-29"
  },
+ "0x33551ea36ff7fe1f394fb12e5a5e4a36bde58d881a32b9b7da96bee417204f4f": {
+  "created_at": "2026-10-25T10:15:17.15389Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 1 - 0 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-1-0"
+ },
  "0x336e8907fc329914984308c2cff4a5cbedc275975d6c2b81372c32398a073f4f": {
   "created_at": "2026-08-12T14:54:50.581126Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Georgia have more than 7.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -394,6 +423,15 @@
   "revisions": 1,
   "sha256": "b499b32a5b099c6cdde69f1823895ac8efdf14221371b495900f4be8e542d2de",
   "slug": "will-obsession-win-best-casting-at-the-99th-academy-awards-20260805190946806"
+ },
+ "0x3c1b9b221e5e23b1e0e996d7002eafe17959eba03864ce7d565d50f6eb09824f": {
+  "created_at": "2026-11-07T12:30:56.641557Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Esteban Ocon achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-esteban-ocon-2026-12-04"
  },
  "0x3d9b16b91c70e6eebda08591ef9e0fe4ec1d421084f5880acff82d37617fda4f": {
   "created_at": "2026-09-04T15:53:06.255969Z",
@@ -904,6 +942,7 @@
   "created_at": "2026-11-02T18:37:10.762349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will FENNEL qualify for LCP 2027?",
   "revisions": 1,
   "sha256": "5a7b40d25a2e3e66eaaefa293ce026747624ca23741c59cfe8d2d7980ae2d1b8",
@@ -936,6 +975,15 @@
   "revisions": 1,
   "sha256": "0c2aadc6d2b21f24b2682cfa9f21f1a5691423174ffb471309cc4232c83124be",
   "slug": "will-the-democratic-party-candidate-win-the-2026-or-03-house-election-by-65-or-more"
+ },
+ "0x87dd522759293aad6d0cf7a42f5c07c6b1232eb5d38cd73603d50b8e99beeb4f": {
+  "created_at": "2026-10-15T18:01:02.725475Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "d2fd55f4ca1ed5fc49c05aaedd417704ef7ee70f0566c34aaf6f325476e1b31f",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-away-3pt5"
  },
  "0x886dfd9bb6e06690c44972bf23a8fc417a2234d7ecfc3a49f98f923def2d284f": {
   "created_at": "2026-07-02T17:57:32.482998Z",
@@ -1032,6 +1080,7 @@
   "created_at": "2026-08-12T00:15:41.17498Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Independiente win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -1063,6 +1112,15 @@
   "revisions": 1,
   "sha256": "f033d3bcd98a7ff642d860255c4b35663bf0bc7a2304d6fb0e2ebe885370b4c5",
   "slug": "will-vfb-stuttgart-score-the-most-goals-in-the-ucl-league-phase"
+ },
+ "0xa0a351780c227cf810b9a180da7dec91803edf398c549ce5ebf2308871df7a4f": {
+  "created_at": "2026-11-09T22:28:04.695126Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Brendan Rodgers be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-brendan-rodgers-be-the-next-permanent-manager-of-manchester-united"
  },
  "0xa166978799c3e92524bb87172cfe594d62205555451f9b338fbecf9f43c0024f": {
   "created_at": "2026-08-11T18:27:06.688195Z",
@@ -1181,6 +1239,15 @@
   "revisions": 1,
   "sha256": "863a637b36fe06a171c6f15ecf0bd694546e068ec078c41f5c196a66f3b4252b",
   "slug": "will-texas-am-make-college-football-playoff-semifinals-20260803204732776"
+ },
+ "0xade86920c0cd0ac7588fda6e6b579f487ab4e3a3dc1889fc293b49f7bf71934f": {
+  "created_at": "2026-11-10T02:45:45.889913Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Erika Kirk attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-erika-kirk-attend-super-bowl-lxi"
  },
  "0xae27764c02626c81bcbb732cb1e6cbb456ea16446c71fdbbd3f558b4469a804f": {
   "created_at": "2026-01-28T15:35:29.827191Z",
@@ -1567,6 +1634,7 @@
   "created_at": "2026-09-04T17:46:32.038322Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Democratic Party candidate win the 2026 Kansas Attorney General election?",
   "revisions": 1,
   "sha256": "afc43517439360c54ee2630cf4a9e73159ccd4291a471406ba3739ef1bf31f8f",

@@ -192,6 +192,7 @@
   "created_at": "2026-05-22T18:33:41.659995Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Scott Bessent be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -201,6 +202,7 @@
   "created_at": "2026-08-12T17:15:38.230396Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Crici\u00fama be runner-up in the 2026 Brazil S\u00e9rie B?",
   "revisions": 1,
   "sha256": "7777a7d3c97d95dd9af73cee9b04d916de1320567a748a903e6fda216c186271",
@@ -247,6 +249,7 @@
   "created_at": "2026-08-26T21:46:47.498626Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will FCI Levadia keep the most clean sheets in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "a2ce1d59ccdd94f281e0ca2def50a19e386e35511bef7c6073f126cd1e55a222",
@@ -481,6 +484,7 @@
   "created_at": "2026-08-12T00:15:11.305896Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will BK H\u00e4cken win the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "e49dc1ecf4cc7f1c8827e7b1151e05dfc4150f96565b9129f29286fde5a83c90",
@@ -580,6 +584,7 @@
   "created_at": "2026-09-22T13:53:52.486766Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Iran target Oman by October 31, 2026?",
   "revisions": 1,
   "sha256": "757a25e66dbeb57c41a16337380811c60fa03619c47e5a3d5c4f268d83b7b33a",
@@ -715,6 +720,7 @@
   "created_at": "2026-10-10T11:30:34.375826Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Charles Leclerc achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
@@ -746,6 +752,15 @@
   "revisions": 1,
   "sha256": "8d10d5d0f683f040f262a9aca6c6847fb7ad2c093a2fb781879835b4bafdf3a5",
   "slug": "caleb-williams-3500-passing-yards-2026-27"
+ },
+ "0x89e43532243cfea43c7abc3dcd69594f06985785e1f2525cd750e45630893855": {
+  "created_at": "2026-11-07T12:30:17.003344Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Max Verstappen get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-verstappen-2026-12-05"
  },
  "0x8a5fd6011b60f204f6554d147f67b365ee433664bb5344143a2c6bfa06b54855": {
   "created_at": "2026-09-18T08:45:26.452124Z",
@@ -783,6 +798,15 @@
   "revisions": 1,
   "sha256": "096f845843467432645710b0368dfba2d6cb62eeec1d355afc9ec42148b1d1ca",
   "slug": "will-the-weeknd-be-the-top-spotify-artist-for-2026"
+ },
+ "0x947ff7fb71fa0055d0db5750bf0ea63a51fa6267c4c297a3bd95dd2e2285ec55": {
+  "created_at": "2026-10-15T18:02:40.75221Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "5ed8221ee12eb519fc60be4ee33676869b50a09af33f68c8ca3d9fc09ef1934a",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-home-2pt5"
  },
  "0x94db1afac3a30430f18333a57741b5deb69188fc7b4e39a7b31c9ddf3d79ab55": {
   "created_at": "2026-08-28T20:16:55.854217Z",
@@ -910,6 +934,15 @@
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
   "slug": "will-the-republican-party-candidate-win-the-2026-north-carolina-senate-election-by-6-or-more"
  },
+ "0xa494286bd8cfaafe423d3ad208b34558f3cf19ac576d403a52ef1d095bf90155": {
+  "created_at": "2026-11-09T21:17:59.466368Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Karmine Corp Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-karmine-corp-win-an-international-event-in-2027"
+ },
  "0xa54653f4ede768fbea4e54f86825998b73f63b92f67349a147dccbbcca2fbc55": {
   "created_at": "2026-07-24T01:47:16.54442Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -968,6 +1001,7 @@
   "created_at": "2026-08-12T15:05:57.625827Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Washington have more than 8.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1199,6 +1233,24 @@
   "sha256": "1793b0484da3522c6db831e6a4fdc7503edf01757a1b8c691cba446b01dda07b",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-governor-of-vermont-be-350000-or-more"
  },
+ "0xe0a63388edbb69bd0f991643e6a0307f6fe1f2c2a8638b7d07f8f26e70c06955": {
+  "created_at": "2026-11-10T02:44:25.865119Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the 2027 Big Game national anthem last between 80 and 90 seconds?",
+  "revisions": 1,
+  "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
+  "slug": "will-the-2027-big-game-national-anthem-last-between-80-and-90-seconds"
+ },
+ "0xe19b25c027303f0b4f9309a49967396fef2909f6aa8c4bc57b7683726aec4b55": {
+  "created_at": "2026-11-09T21:18:02.583394Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Gen.G Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-genptg-win-an-international-event-in-2027"
+ },
  "0xe363700613303042c1ede7ffe1a0e6224790b6b55f9397d6ae797db80ebb5f55": {
   "created_at": "2026-08-10T23:33:39.365671Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1289,6 +1341,15 @@
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-jack-hughes-win-the-2026-27-maurice-rocket-richard-trophy"
  },
+ "0xf5e9f76ea709566ed49ceb49734fd511a63734cbdd77c8191865a05c915a0a55": {
+  "created_at": "2026-11-10T02:40:53.699638Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"'03 Bonnie & Clyde\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-03-bonnie-and-clyde-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0xf606e483ac3013a5908beb38f479caebd8048267f18a0f0d7116d9519413a355": {
   "created_at": "2026-08-12T17:22:02.759419Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1302,6 +1363,7 @@
   "created_at": "2026-08-12T17:27:16.346663Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Tigre be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1339,6 +1401,7 @@
   "created_at": "2026-08-11T14:11:00.012397Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 3 House seats in Nevada in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9842e2670455f8cfbaa10bdcd392ee7c8f3ff3742d0cc1ba11e92fbd6bfb1dfc",

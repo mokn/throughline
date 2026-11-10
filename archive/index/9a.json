@@ -279,6 +279,15 @@
   "sha256": "25cf19db7c53b1dafa327e399c30650829712413f2f91a049ac8cae998fe840d",
   "slug": "will-matthew-wright-finish-as-a-top-12-k-in-the-2026-27-nfl-season"
  },
+ "0x2dc207ef9938ee8f72c6630f539c50f5e500fa2e9a921fafcb7ac79bc10bcd9a": {
+  "created_at": "2026-10-25T10:15:17.33226Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 1 - 1 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-1-1"
+ },
  "0x30bfb5c1f7eeadf1268f4e85f8ed76c4db5a1243011888995fe3011ff7e1ac9a": {
   "created_at": "2026-08-10T15:49:59.615145Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -608,6 +617,7 @@
   "created_at": "2026-10-08T22:00:05.287592Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dzambekov vs. Parker end before Round 4?",
   "revisions": 1,
   "sha256": "0e37cebfc4bb1b165d4b2ff8e31bd8d0f1bdd8af6c55d51b4581f5aa3d300f75",
@@ -635,6 +645,7 @@
   "created_at": "2026-02-18T22:38:30.738714Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Byron Buxton win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
@@ -644,10 +655,20 @@
   "created_at": "2026-03-25T20:08:36.656008Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Gage Jump win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
   "slug": "will-gage-jump-win-the-2026-al-rookie-of-the-year-award"
+ },
+ "0x716680a67629e3356f90dbb68afd42188747d28c104078b4552da09b6523db9a": {
+  "created_at": "2026-10-25T10:45:20.664547Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 3.5",
+  "revisions": 1,
+  "sha256": "69a667c5d26d2df5c8b8757018d1c0f89c129adaa366b5f41167d427466c8b71",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-away-3pt5"
  },
  "0x717fdd145cc5b012fcd3ffb979ad01b2cea1dd9155fa4fcd67fc6fce38147a9a": {
   "created_at": "2026-10-09T16:34:26.213819Z",
@@ -658,10 +679,20 @@
   "sha256": "5123cc7eb18f5c7247bbdb9d28cf459e1d677d51d824e0b906fda0fd69f12cf7",
   "slug": "will-pan-win-the-most-seats-in-the-2027-quintana-roo-congress-election"
  },
+ "0x7392aee74e1cfde1d9cc3b8e6783cffa5054922b62bf06b4704b422ae57cb29a": {
+  "created_at": "2026-10-15T18:02:35.46257Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Real Uni\u00f3n Club (-4.5)",
+  "revisions": 1,
+  "sha256": "4c8b41a98fee77582c13cf3382ecaa63a235988dab3057bb43d92f2f3568e471",
+  "slug": "cdr-por-iru-2026-10-28-spread-away-4pt5"
+ },
  "0x73e86292e643869fa8a56d51704188c1c58e55007d178ebafc9f38c2e359b69a": {
   "created_at": "2026-09-24T08:36:24.052138Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Claude Fable's output price be at or below $45 in 2026?",
   "revisions": 1,
   "sha256": "a0c460d888a3e4cbc1a10ac0b4b36a6bf2ee99f981af3ef18d6b7a2df441d9f7",
@@ -1019,6 +1050,15 @@
   "sha256": "421153c0756436b90f40d44334b33bbf3bfca082c8daca6e92615a141501c972",
   "slug": "revolut-ipo-before-2027"
  },
+ "0xae0d90d36d5d6d760dc9361b70378a5fe1a8ae3920e89bfc9df46a1efa026f9a": {
+  "created_at": "2026-11-04T18:50:21.34762Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Jacob Fowler record 4+ shutouts?",
+  "revisions": 1,
+  "sha256": "07e67ab253eb85b0e06078d35baf06b7bc3420870ca0721e39e066ec0da42f83",
+  "slug": "will-jacob-fowler-record-4-shutouts"
+ },
  "0xb06fb2a00b13d505e6f05677c545745c3ce1622f8b890b4ec0751b27fda8759a": {
   "created_at": "2026-09-02T21:58:26.9334Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1072,6 +1112,15 @@
   "revisions": 1,
   "sha256": "c83d613acfdfe212b5ea098cf69d74b0be63eb8b4dc6f350585666186ad0573c",
   "slug": "will-the-las-vegas-nba-franchise-and-arena-price-be-between-12b-and-13b"
+ },
+ "0xb5125a7b717b8b814cc7ea48ffc235ce46df8fc4167de286b613d8dc4cab899a": {
+  "created_at": "2026-11-07T00:06:38.216991Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Next US president 60+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-60-plus-years-old-at-inauguration"
  },
  "0xb574b9f97e635b3b68105318be37a49371ad267051e8168e16e6c33fe69b2b9a": {
   "created_at": "2026-10-10T19:00:28.02789Z",
@@ -1226,6 +1275,15 @@
   "sha256": "bae4d7f3fb8af288d5eb82320c9ba7b649f942da225cf7c6427ce5c1247bb3a9",
   "slug": "will-the-republican-party-candidate-win-the-2026-ny-23-house-election-by-20-25"
  },
+ "0xc51e12a9f65c3a06d7a96d9f00c406d94acd780683b6b012f30aeb844e2e539a": {
+  "created_at": "2026-11-04T17:37:43.047232Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Legacy Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-legacy-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0xc55e9ec2db843eec457c59b115ed90d02f86e84156be472c5365e857a3edb69a": {
   "created_at": "2026-10-14T20:18:56.743096Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1266,6 +1324,7 @@
   "created_at": "2026-08-12T00:15:43.948703Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will River Plate win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -1284,6 +1343,7 @@
   "created_at": "2026-10-10T11:30:35.375378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 3 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",

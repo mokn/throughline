@@ -229,6 +229,7 @@
   "created_at": "2026-10-25T04:00:23.666858Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Tesla, Inc. (TSLA) hit (LOW) $360 in November?",
   "revisions": 1,
   "sha256": "469b1b282cf721ea6e55933c07fc210034368da92957af0da862546a256f65b2",
@@ -269,6 +270,15 @@
   "revisions": 1,
   "sha256": "baf36440feb3944a5e461124327f0d636e4473ae30fe4e3d5b16c7ebb3d07588",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-38-house-election-by-15-20"
+ },
+ "0x266446f4f03e1deee63c2cba4790b3f53340a316b9e6fbe480dfb36695d3cd37": {
+  "created_at": "2026-10-15T18:00:58.323829Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 8.5",
+  "revisions": 1,
+  "sha256": "f32e4609b9002af9b89ff0d2de27e3f9e5a66aa3b0f206963e6aaf18e9529f37",
+  "slug": "cdr-cd17-car-2026-10-28-total-8pt5"
  },
  "0x27a4dd39adf63849239f3b260b701e1ce1c3a08b8e3624b1dbc2c1268ea87537": {
   "created_at": "2025-12-15T22:24:14.078905Z",
@@ -545,6 +555,7 @@
   "created_at": "2026-08-12T00:15:40.802967Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Hurac\u00e1n win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -621,6 +632,15 @@
   "revisions": 1,
   "sha256": "e86b707da123e51ca67e2a6de161720d5b4a0c77c21de1b560d2b14fd84200a2",
   "slug": "ryan-reynolds-as-deadpool"
+ },
+ "0x60da86545e2490e46e665130b19779e890daa6a9a1c262c2d259d75793e4ee37": {
+  "created_at": "2026-11-07T12:31:05.989644Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Bortoleto achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-gabriel-bortoleto-2026-12-05"
  },
  "0x61f6d78583a854080eee11b0e9b46e74d0fe4ac3348cdf8ab20011159cc17137": {
   "created_at": "2026-08-07T20:29:34.743305Z",
@@ -879,6 +899,7 @@
   "created_at": "2026-01-28T15:41:03.819978Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the TX-27 House seat?",
   "revisions": 1,
   "sha256": "c1a235a0b32db3857fc760a6ed371fef5fccecd9239b01a5ed5eec851f26b3c6",
@@ -1078,6 +1099,7 @@
   "created_at": "2026-02-18T17:10:53.693943Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Lionel Messi win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -1087,6 +1109,7 @@
   "created_at": "2025-12-09T17:54:28.590709Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will ACA premium tax credits not be extended and will the Democratic Party win the House in 2026?",
   "revisions": 1,
   "sha256": "b699af446200097353222604fd955702de3a8f0ebba20fbf4b4cedc25bc6bba2",
@@ -1675,6 +1698,7 @@
   "created_at": "2026-11-03T22:16:20.324525Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Trump Jr.'s Republican nomination odds dip to 2% by December 31?",
   "revisions": 1,
   "sha256": "34a4d68b9f4223ca144dfb65a8ebceb579c317322a81ffd2a306af8cf42ab706",

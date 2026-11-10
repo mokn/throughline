@@ -147,6 +147,7 @@
   "created_at": "2025-07-11T20:47:53.368542Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "2026 Balance of Power: D Senate, D House",
   "revisions": 1,
   "sha256": "f34f45b6b7464581ee4e02f4ae784532e248f81c5550b8542ad51517db1f06f4",
@@ -274,6 +275,7 @@
   "created_at": "2026-08-12T14:57:38.959964Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ole Miss have more than 9.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -350,6 +352,15 @@
   "revisions": 1,
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-michael-wilson-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
+ },
+ "0x404ad462795b078c21af8dc90b011bc6c0165fc8a89f27c456a6a60bb8ecf90d": {
+  "created_at": "2026-10-15T18:02:43.053587Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CE Sabadell FC (-2.5)",
+  "revisions": 1,
+  "sha256": "bf361132c608a55617a5a4c4c090a67d4ff51d39cd33eef2d3cec58a18d75956",
+  "slug": "cdr-ute-sab-2026-10-28-spread-away-2pt5"
  },
  "0x40f6d58fa4ceff77be05c34aa503022038caf7e08c247e33a4722067e6ccd30d": {
   "created_at": "2026-08-10T14:51:34.383319Z",
@@ -436,6 +447,7 @@
   "created_at": "2026-08-12T00:15:37.454619Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Boca Juniors win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -499,6 +511,7 @@
   "created_at": "2026-08-11T14:12:30.866308Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 8 House seats in Michigan in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "b6c17b236c3ee1cc3efe5225b557298a09a9e87e5a2a17a4fd5bf9806e016370",
@@ -559,6 +572,15 @@
   "sha256": "719a5aae1ce500ebfd049ad6ecb5dedb4746015aeb86b315efd1745deaa8813b",
   "slug": "ashton-jeanty-1500-scrimmage-yards-2026-27"
  },
+ "0x67c202a630becf3d88fd29837c000bbaaa179118963e171e7a93120afc3ace0d": {
+  "created_at": "2026-10-15T17:01:01.490931Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Club Portugalete win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "b8be0db7d031f36eab369f874835817480edc688e7a5f57703bedb0bc2775470",
+  "slug": "cdr-por-iru-2026-10-28-por"
+ },
  "0x680c0d5b723eed4b2eafeb89f1fbe94623836aea9130cb50ffe0af7293829f0d": {
   "created_at": "2026-04-21T16:27:00.930234Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -568,10 +590,20 @@
   "sha256": "35a683ccbd671237e92a586c9cf95707f1d61891c777ba6ebc6077e16dc8261f",
   "slug": "will-roberto-vannacci-be-the-next-prime-minister-of-italy"
  },
+ "0x6862d3b3a263246c47c45fcfe4c7268bc21e568e12784c09d97fc5fb3b7eb70d": {
+  "created_at": "2026-11-07T12:30:46.774332Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-carlos-sainz-jr-2026-12-04"
+ },
  "0x6b4e789651a4745748102eb668ac58100203197a3f73c443191962604356390d": {
   "created_at": "2026-05-11T21:26:38.264393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Puffpaw launch a token by March 31, 2027?",
   "revisions": 1,
   "sha256": "0f34111e5aa2a72d8314c65bbc8b20df5945ed6a6a2cf9025d5cb1f185c65d58",
@@ -653,6 +685,7 @@
   "created_at": "2026-08-10T20:08:58.038615Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Joakim H\u00f6rsing be the next Regional Board Chair of Region \u00d6sterg\u00f6tland?",
   "revisions": 1,
   "sha256": "1d51b59e70c38fb0d8f6e3d6dac2b5119d465d2203d5a34d41a2637edee7e2b4",
@@ -771,6 +804,7 @@
   "created_at": "2026-08-31T18:12:48.020192Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jan Dohnal be the next Mayor of Ostrava?",
   "revisions": 1,
   "sha256": "9257d173fce3ec1c6f014a795800d9e8a68317c05b5a0a3d0a848c355b03a089",
@@ -780,10 +814,20 @@
   "created_at": "2026-08-24T16:39:20.847929Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will N\u00f5mme Kalju finish 3rd in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "b6a3468cf61a291c1848fd22bd29e303cde5a6960649161e088290f496e494de",
   "slug": "will-nomme-kalju-finish-3rd-in-premium-liiga-estonia-2026"
+ },
+ "0x98b2772924d97511d7bb79b5c48240e39e09f03f1e243e3c5d666dc68701210d": {
+  "created_at": "2026-10-25T10:45:21.269074Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "70329d7a1d21060117043a319a914201ccf2be29f2b215185617957b1352a3e4",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-home-1pt5"
  },
  "0x9a052fe4f66f5c062821e3b80577f9de2e0c5a06520592ee2ed10504d44ba30d": {
   "created_at": "2026-08-06T15:43:58.709743Z",
@@ -807,6 +851,7 @@
   "created_at": "2026-08-12T00:16:47.367422Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Inter de San Carlos win the 2026 Liga FPD (Costa Rica)?",
   "revisions": 1,
   "sha256": "806faf943de42db81c8db65f00cadb99a7a65b53ef631961f87ee4140a94b815",
@@ -861,6 +906,7 @@
   "created_at": "2026-03-25T21:41:53.098416Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Rhett Lowder win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -906,6 +952,7 @@
   "created_at": "2026-02-18T17:10:59.155202Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Petar Musa win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -988,6 +1035,7 @@
   "created_at": "2026-10-15T16:33:29.391079Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Locke be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -1180,6 +1228,7 @@
   "created_at": "2026-08-26T08:44:17.014791Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Oxford United FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "cfe03b16af4babf96089a7e2624d42edbfa4eed2f91300c76ad3f6e4c3d8959a",
@@ -1311,6 +1360,15 @@
   "sha256": "e4f597551f76aaea75b91a12eb5cb4b0e1b535aa9ccba31a46cd57750c88cd1a",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-13-house-election-by-35-40"
  },
+ "0xeaa02b3f7e93135e423834a0bd3d371e65f87a7edb811be4967cf0474021a10d": {
+  "created_at": "2026-11-07T12:30:27.550158Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-gasly-2026-12-06"
+ },
  "0xebe7b01546ccd6b7fd1e446708aa29c6052aa600ff6ce2693a3916ae3f048c0d": {
   "created_at": "2025-12-12T20:50:45.72578Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1369,6 +1427,7 @@
   "created_at": "2026-03-25T22:06:58.811492Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Carlos Mendoza win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",

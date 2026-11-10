@@ -21,6 +21,7 @@
   "created_at": "2026-08-12T17:26:50.973728Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will New York City FC be runner-up in the 2026 MLS?",
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
@@ -138,6 +139,7 @@
   "created_at": "2026-04-21T18:01:58.675778Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will 0 people leave the Trump Cabinet by December 31, 2026?",
   "revisions": 1,
   "sha256": "a6df429abc2c0e54cad4479d71af6e7d071eee4f01b80ddef20448f3923a4198",
@@ -147,6 +149,7 @@
   "created_at": "2026-08-12T00:15:37.926441Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Central C\u00f3rdoba (SdE) win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -309,6 +312,7 @@
   "created_at": "2026-08-24T16:33:53.927216Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Shaanxi Union be promoted to Chinese Super League?",
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",
@@ -708,6 +712,7 @@
   "created_at": "2026-02-18T23:00:58.696283Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Garrett Crochet win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -868,6 +873,15 @@
   "sha256": "57926af47cf0af4ea40f30bac405d0c648b3a95a5efcdb1822eefa6009a06d28",
   "slug": "will-katin-houser-be-the-2026-big-ten-passing-tds-leader"
  },
+ "0x97e6cd8019d54777a3f6ce8efeb630fbc8f2a2d02a6c71e1ba14cfd536a11262": {
+  "created_at": "2026-11-06T22:58:37.381586Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Linda McMahon be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-linda-mcmahon-be-the-next-to-leave-the-trump-cabinet-before-2029"
+ },
  "0x980f259c1c47423e0d8881ecdfb509c94e9e26bec0f0474f9f7de418fa108062": {
   "created_at": "2026-09-02T19:39:29.120827Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -881,6 +895,7 @@
   "created_at": "2026-06-26T15:57:38.391256Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Alisa Simmons win the 2026 Tarrant County Judge election?",
   "revisions": 1,
   "sha256": "c4ec6d6f7790e3f6cdf6277e1b78869c5fe39425a5b6a0eef7939f17fdceb1a5",
@@ -926,10 +941,20 @@
   "created_at": "2026-08-26T08:15:16.645694Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Draw at halftime?",
   "revisions": 1,
   "sha256": "5dbb2a21d617089968be539116aac5acf0c0248a1afbbdb8c67274b78629d4a8",
   "slug": "el1-oxf-rea-2026-09-08-halftime-result-draw"
+ },
+ "0xa5d49e2ef2d8b7ef1b19b38f3a463aa6871268f835ba5538895b04b2addcbf62": {
+  "created_at": "2026-10-25T10:15:18.988331Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 2 - 4 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-2-4"
  },
  "0xa64f41d0ac376d6fe4e824d4c99eccb7c9ec681d0e93464cb9ee81be41767162": {
   "created_at": "2026-01-28T15:29:07.632221Z",
@@ -1329,6 +1354,24 @@
   "sha256": "493694adc6a0a1ec2df43d9e0e30b9a535bdf7042a9219ee6363621d35942b14",
   "slug": "will-emeka-egbuka-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-yards"
  },
+ "0xdc6d743d617087c1036884212aced0518c3c2b6d7706f6aa9389385bbd5e5862": {
+  "created_at": "2026-10-15T18:02:17.243041Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 4.5",
+  "revisions": 1,
+  "sha256": "baf24b5a182ef477a513089d8f256698f8d152b9645ed01b8b575c4492e63bc9",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-4pt5"
+ },
+ "0xdd4a4c1c38b2634f9cf506f068bcd29675a07dd474d51ef3504327e534051062": {
+  "created_at": "2026-11-06T22:31:44.434991Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fran\u00e7ois Ruffin win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-francois-ruffin-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0xde52c0268d7c06ee34ba9eee7bbaaac50e1420328454e1b3d3ef8063df92c962": {
   "created_at": "2026-08-26T21:46:17.042048Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1382,6 +1425,15 @@
   "revisions": 1,
   "sha256": "d244041d96e0be5577acebe3439a8d08c6cbd872dca79d8c85ea7b0032316975",
   "slug": "will-nico-collins-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-yards-20260715211950733"
+ },
+ "0xe505b8a5924e596c6fa9870bdf3e7c60546414a9127eec1a66b00428a1d03462": {
+  "created_at": "2026-10-25T10:45:17.162514Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 2.5",
+  "revisions": 1,
+  "sha256": "886ae5336220eef93c3a64530a0f2d801be0b49404dc3a5e000f283d68a2aeed",
+  "slug": "gtm-mun-aur-2026-11-07-total-2pt5"
  },
  "0xe792081571be4ffd7eab9b579f3767a02bb428590941be97f7d55dbb86814a62": {
   "created_at": "2026-09-04T19:22:05.653576Z",

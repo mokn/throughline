@@ -89,6 +89,24 @@
   "sha256": "1a3c17e41f542689bdab987dd31b24b8e10bab9fa3874f687fd1f9179094f025",
   "slug": "will-brad-ledford-win-the-bachelorette-season-22"
  },
+ "0x0c41de1789bf5f71f76bbe5e44b6d11a210f7ebc923dedc8b16d60abdbc9dfdb": {
+  "created_at": "2026-11-10T02:41:57.682483Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Can I Get A...\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-can-i-get-a-be-played-at-the-2027-big-game-halftime-show"
+ },
+ "0x0c8bec167fd69bd78fbc39254fd91930be07b67b5e07027f71cb27d0923d92db": {
+  "created_at": "2026-11-10T02:41:28.169533Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Heart of the City (Ain't No Love)\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-heart-of-the-city-aint-no-love-be-played-last-at-the-2027-big-game-halftime-show"
+ },
  "0x0fbe15eb1a8e09d9d0c17afe630ae66cbceff03652978c7488d89d08b28ca8db": {
   "created_at": "2026-09-04T19:50:04.501494Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -97,6 +115,24 @@
   "revisions": 1,
   "sha256": "3458e8b1aaecee59ef02d98eb8c665f31c23d0e222061970d71c8fca0fd37df7",
   "slug": "will-dejuan-williams-be-the-2026-big-ten-rushing-yards-leader"
+ },
+ "0x11e1101be9144232c498bb7444423d6c6fb5a25d0e0a9fd30a816455adf0cbdb": {
+  "created_at": "2026-11-07T12:30:18.093982Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-hamilton-2026-12-05"
+ },
+ "0x12b10914550c9458b1081c3d0d82aabc8b0fb5d84ad6c832149091fd0b11aedb": {
+  "created_at": "2026-11-10T02:40:50.046933Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Public Service Announcement\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-public-service-announcement-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0x15c5c009732014b126ffffc038a7febff2f67c4e565531245930a5520f1e50db": {
   "created_at": "2026-09-02T21:58:35.593356Z",
@@ -134,10 +170,20 @@
   "sha256": "1aa4e26a1a066446a2dd3c2d13724575056b2e884574ed224a2c0e156fdc2476",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-32-house-election-by-15-20"
  },
+ "0x1a78be0a3050b8fbc06822a31f533fd2e26e6edaa8010a8f6ea5be146503a5db": {
+  "created_at": "2026-10-25T10:45:17.311864Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 3.5",
+  "revisions": 1,
+  "sha256": "0b1afdce3819616c2047a229622bfc95037265821e256cfe63ebbb1445a1019c",
+  "slug": "gtm-mun-aur-2026-11-07-total-3pt5"
+ },
  "0x1c0408d969ca7245b8e8d671ba95e0e7062375ae185a124d1384fe5aa2608adb": {
   "created_at": "2026-02-18T23:32:41.717463Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Freddy Peralta win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -793,6 +839,15 @@
   "sha256": "9b6c40eb9d25b509c810b1fc892e335d700a03745b2ebaa6e373fdf343993873",
   "slug": "will-italy-send-warships-through-the-strait-of-hormuz-by-december-31-2026"
  },
+ "0x92c8a86402755884c634c121fc66f1d82fe0cef582e830ef39c2088df505bddb": {
+  "created_at": "2026-10-25T10:45:17.456935Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 4.5",
+  "revisions": 1,
+  "sha256": "e6289982324df162b8d3305aa275295788cfb1d3b0e329ad1b5f5edcaad11b85",
+  "slug": "gtm-mun-aur-2026-11-07-total-4pt5"
+ },
  "0x93c6ed768f751eb193c132958134237717900e89c6d46ae2e3b47f0642a79ddb": {
   "created_at": "2026-08-26T21:46:17.667325Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -815,6 +870,7 @@
   "created_at": "2026-10-10T11:30:08.345598Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Mercedes have the highest constructor score at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13711fb14177e94e215272f2feab2b3492c7a6cc383bfd8b11e15f9eef985aa7",
@@ -843,6 +899,7 @@
   "created_at": "2026-08-24T16:38:35.256095Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Colo-Colo finish 3rd in the 2026 Chile Primera?",
   "revisions": 1,
   "sha256": "69effe3c8f0d8fc16486ffec413b846ee25c203b7bcec9feb8161f11ce3751d2",
@@ -988,6 +1045,7 @@
   "created_at": "2025-12-15T23:40:17.584222Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the VA-01 House seat?",
   "revisions": 1,
   "sha256": "4ce7dcee596c7d975bc25bab5714a2b7d6a2f40637ada38b109df6014ae09d4a",
@@ -1087,6 +1145,7 @@
   "created_at": "2026-10-10T11:30:17.811977Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Max Verstappen achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -1191,6 +1250,15 @@
   "sha256": "a813ce376cc78c0d4cd09293bf8081eeab68f039e9b47e9591701007339c26a5",
   "slug": "will-sidney-crosby-win-the-2026-27-frank-jpt-selke-trophy"
  },
+ "0xd86281fbab2632e75f50d0d8e361d9ef1ef450b0eed622d9c40747d2058deedb": {
+  "created_at": "2026-11-06T22:31:38.761936Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gabriel Attal win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-gabriel-attal-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0xd86a225278d13642c5ecb71845c1f41383812cb99f1dee65ba58f329b46797db": {
   "created_at": "2026-10-27T16:58:02.509902Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1208,6 +1276,15 @@
   "revisions": 1,
   "sha256": "12bf78e8df13dc24d97d7401925db8b539bd3e8e87121ede46897aa2efb7d043",
   "slug": "will-defensor-sporting-be-relegated-from-uruguayan-primera-division-2026"
+ },
+ "0xdb9452bf960d64d1b67f36a1f99f9fe1939313938d29a5d61b2d8860cb8ef2db": {
+  "created_at": "2026-11-07T00:01:03.4014Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "French Presidential Election: United Right & Center Primary Announced?",
+  "revisions": 1,
+  "sha256": "a41a2a21c11590d46af818fc3b729072fa6cca6f9b9e07cf85ed384bd35e72eb",
+  "slug": "french-presidential-election-united-right-center-primary-announced"
  },
  "0xde8bf0fb9a1ccb1debb736d1561e65a0d61aa61cf2fb5a94416a5361159f4adb": {
   "created_at": "2026-09-27T20:12:01.024946Z",

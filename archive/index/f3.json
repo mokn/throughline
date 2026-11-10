@@ -39,6 +39,7 @@
   "created_at": "2026-08-26T21:46:08.9478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will FC Lahti be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -237,6 +238,7 @@
   "created_at": "2026-10-10T11:30:10.414752Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Lando Norris get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
@@ -383,6 +385,7 @@
   "created_at": "2026-07-01T22:26:59.847635Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "California High-Earner Permanent Tax Proposition",
   "revisions": 1,
   "sha256": "a02d2ff486a72dbd0c88f0486817a053dd7ee5fc927c6bbfc7083f32ccff0494",
@@ -392,6 +395,7 @@
   "created_at": "2026-08-31T18:27:36.978781Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Leo\u0161 Janda be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",
@@ -405,6 +409,15 @@
   "revisions": 1,
   "sha256": "73c815263d70bc45e3917df10a9a8e769cbf2614806a180c2d8ac48ddbb643b2",
   "slug": "will-martin-satriano-win-the-2026-27-ligue-1-player-of-the-season-award"
+ },
+ "0x3c5244813b6165847d374397535aa2037ebd35640f6cad73bfe3b31dee9d26f3": {
+  "created_at": "2026-11-07T12:31:11.845171Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yuki Tsunoda achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-yuki-tsunoda-2026-12-05"
  },
  "0x3c573d9189de9a09bd86a2f26ddbdbc6b9acb835f51681f2363b18ef86f67ef3": {
   "created_at": "2026-08-26T21:46:29.611058Z",
@@ -843,6 +856,7 @@
   "created_at": "2026-08-11T14:13:34.63946Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win 12 or more House seats in Pennsylvania in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "d7734c9f2ef886fbbc5c40c1d477759b926cdd73451ac69b7d2fee4966739c65",
@@ -1091,6 +1105,15 @@
   "sha256": "0f20fc898046308d039367f8d45b49c8520252ad0740c9e10b3533192818c2ac",
   "slug": "will-south-sudan-have-an-ebola-case-in-2026"
  },
+ "0x92c95156663bbb5839f7a6cfea2479b77d02c727b5cd5e6b94671f384e28d3f3": {
+  "created_at": "2026-11-07T12:30:30.434097Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lewis Hamilton achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-hamilton-2026-12-06"
+ },
  "0x930eb05c4056cde07fdfe95901abbf061e351c17b435600b7036c06b933ba8f3": {
   "created_at": "2026-01-28T15:33:26.080339Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1099,6 +1122,15 @@
   "revisions": 1,
   "sha256": "23381dabfc057f9f0d4424097b463c850f7c3e4a56cd13f8d9fe02e37171f24d",
   "slug": "will-the-democratic-party-win-the-la-06-house-seat"
+ },
+ "0x95160da4518267bf4e915a7796643f2d62581bde32dc60d3a5ed0a59a645f4f3": {
+  "created_at": "2026-11-07T12:30:12.86427Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mclaren Mastercard have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-mclaren-mastercard-2026-12-06"
  },
  "0x9533d48112c0d1560d020523a1b86c23cf62e2a9760471c5219945267dda7ff3": {
   "created_at": "2026-10-25T04:01:16.142066Z",
@@ -1299,6 +1331,15 @@
   "sha256": "dc15d70ae3197b12a1d5171269d8363291fd143181efe6422901ad778fdc323c",
   "slug": "will-nvidia-be-the-second-largest-company-in-the-world-by-market-cap-on-december-31-20260806175739817"
  },
+ "0xba27e1c58ca0ba5938eca3527b76bd75d430d56614a57d20797f49e1ead271f3": {
+  "created_at": "2026-11-05T02:25:49.206152Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Marco Rubio by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-marco-rubio-by-june-30-2027"
+ },
  "0xbcca54aec4037b37eafeb0edb5aa2a72a602a1da655a539a71a18050e9bd11f3": {
   "created_at": "2026-11-03T17:40:57.695415Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1348,6 +1389,7 @@
   "created_at": "2026-10-10T11:30:04.046298Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Valtteri Bottas win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1730,6 +1772,15 @@
   "revisions": 1,
   "sha256": "123b695b249629a8988f879acc70a1c191e333e19e09a7c16dd4d5ff008887b9",
   "slug": "will-alex-karaban-win-the-2026-27-nba-rookie-of-the-year-20260624161716908"
+ },
+ "0xf41c41a0aaf4569a085cc20ae2874781d3aaef9d593a9276f2715928c6c7acf3": {
+  "created_at": "2026-11-10T02:45:41.128666Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will LeBron James attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-lebron-james-attend-super-bowl-lxi"
  },
  "0xf50b2f04812edbf5e60b6a560041f0a13492e54cf0d180da765e4355abf59cf3": {
   "created_at": "2026-08-18T18:59:56.860117Z",

@@ -44,6 +44,24 @@
   "sha256": "777ff3403515611171f23faad420f7d16e5df3aa9f5daf3a369925bfd61a77bc",
   "slug": "will-the-democratic-party-candidate-win-the-2026-pa-17-house-election-by-25-30"
  },
+ "0x0b7ddbbeadaf0bfce985c7a3d7b9afb6e03f75e47db3151376b8a7c23c8505ce": {
+  "created_at": "2026-11-07T00:05:01.555896Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yisrael Beiteinu support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-yisrael-beiteinu-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353283"
+ },
+ "0x0c8fa5391258bb6a146610b8ac91b0ad75b69e5c760e562ee3716ddf5013d3ce": {
+  "created_at": "2026-11-10T02:47:00.422364Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Big Game: Coin Toss",
+  "revisions": 1,
+  "sha256": "e6295e453aa99869572c7d0912fe187b554588675d78552f99a454707890c1e1",
+  "slug": "super-bowl-lxi-coin-toss"
+ },
  "0x0cf590d725d158ac8e0cc3f5500a7da543069e80cedaf2a65ed3229bb827b5ce": {
   "created_at": "2026-08-11T18:16:54.254965Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -337,6 +355,7 @@
   "created_at": "2026-09-04T18:02:59.383678Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party candidate win the 2026 Guam gubernatorial election?",
   "revisions": 1,
   "sha256": "5835095199450e7596934ec7278bd17a8c1c3ea79bbf39067eb1e1d6ada57ab5",
@@ -427,6 +446,7 @@
   "created_at": "2025-12-15T19:20:59.483189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the AZ-06 House seat?",
   "revisions": 1,
   "sha256": "6268538a7d1b97fbdae54fed02e8b95bd82336b17bb907322d5eb1fd5ef20e61",
@@ -490,6 +510,7 @@
   "created_at": "2026-10-13T23:25:04.537712Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will \"Valheim\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
@@ -643,6 +664,7 @@
   "created_at": "2026-05-22T18:33:46.919491Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Mike Waltz be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -652,6 +674,7 @@
   "created_at": "2026-10-10T11:30:40.009303Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Russell or Antonelli?",
   "revisions": 1,
   "sha256": "97c9d42ecab756aade0b525e305b3a360d3408467ea18231112173727b2bfa74",
@@ -724,6 +747,7 @@
   "created_at": "2026-08-26T21:46:08.629607Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will VPS be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -932,6 +956,7 @@
   "created_at": "2025-12-15T20:33:57.383481Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the MI-07 House seat?",
   "revisions": 1,
   "sha256": "423c2d9757a2f9b06b687dbda396261806f43a0ce1ba023b0aa82b29124b0b47",
@@ -941,6 +966,7 @@
   "created_at": "2025-12-29T18:12:23.662347Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will a team from LEC (Europe / EMEA) win LoL Worlds 2026?",
   "revisions": 1,
   "sha256": "d073794b934ddd1d21a7185929274e0e5040ac99936743fb4bab0d0d0737b1d4",
@@ -1099,6 +1125,15 @@
   "sha256": "7419df33a1c87cda1765a52a1f5da37f7ada3ed79995df0785b42b5f3ae4fc62",
   "slug": "will-kyren-williams-finish-as-a-top-12-rb-in-the-2026-27-nfl-season"
  },
+ "0xb2376346c15e21958f3713541f3befb4c10999546398c2c6c7e365f36e6b4fce": {
+  "created_at": "2026-11-06T22:33:07.316601Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ilhan Omar be the next to hold Klobuchar's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "02531a96867f7b76f154c81b1fb413aca8298700f52d7909deda2f62a26fbe4f",
+  "slug": "will-ilhan-omar-be-next-to-hold-klobuchars-senate-seat-by-march-31"
+ },
  "0xb73f3146fd2d46e39f2021c3fcb2d85be828c65be00a42886ea0504a732716ce": {
   "created_at": "2026-08-26T14:30:27.612383Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1144,6 +1179,15 @@
   "sha256": "512dea95f0b3ec7e64578720a0546ae53294a2e2734d7cb8c97d4cad785c0219",
   "slug": "el1-don-oxf-2026-09-26-corners-second-half-total-3pt5"
  },
+ "0xbfc4d996a531bee4e631ed64669eafcc64f2d15fdc28024df993e9a87c09b8ce": {
+  "created_at": "2026-10-15T18:02:18.249248Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "d52258584628512a6960dc13867e661947fea22789ee102c2d55438d421e01e5",
+  "slug": "cdr-ca-mal1-2026-10-28-first-half-team-total-away-1pt5"
+ },
  "0xc06fce4db8a9bfd1c42c0f6632239ca2ede0492535084735211a21a58e7100ce": {
   "created_at": "2026-10-26T15:52:27.450796Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1175,6 +1219,7 @@
   "created_at": "2026-07-22T05:29:34.604334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will the season series between the Cardinals and Seahawks end in a tie during the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "9c80dbd6faeee51c05a061991eba9d8077b700c13aab52c6a6efc0d5cf1f471f",
@@ -1409,6 +1454,7 @@
   "created_at": "2026-08-12T17:30:57.996478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Union Omaha be runner-up in the 2026 USL League One?",
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
@@ -1422,6 +1468,15 @@
   "revisions": 1,
   "sha256": "f507b1d484afd0194e4d2e0f4761f2ef3cfb6975df4aebe3193bbc33a7844793",
   "slug": "will-lane-hutson-record-100-points"
+ },
+ "0xe7ebba23a0175fd1b379eaa65c4ab5fe10b62f1d0c01c2f1dd764170258ebace": {
+  "created_at": "2026-10-15T18:02:16.529065Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 5.5",
+  "revisions": 1,
+  "sha256": "275475ce05a85a38396193f34a876b11068b4682b7ab3671006679aafc862baa",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-5pt5"
  },
  "0xea2cde8aa9683b96bd55ce84cb6c74bc041eb8b6242d5aea4aaacb9d5b9a0bce": {
   "created_at": "2026-07-08T17:39:05.868986Z",
@@ -1476,6 +1531,15 @@
   "revisions": 1,
   "sha256": "c34ed101599e292c679d4413b74cae15f67df9ad75dc999d79231ea9bb4d6bd0",
   "slug": "will-yoane-wissa-win-the-2026-27-english-premier-league-player-of-the-season-award"
+ },
+ "0xee92512d793c110da1b783a8cf82dd12c142675ba1bdfa8f10821552b10f6fce": {
+  "created_at": "2026-11-10T02:41:26.446524Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Public Service Announcement\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-public-service-announcement-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0xef8e1614a58c77e3e968e89535944ff4c34a5a1b881b9f549fee1874e933e7ce": {
   "created_at": "2026-09-20T11:44:19.136626Z",

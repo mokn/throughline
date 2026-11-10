@@ -165,6 +165,7 @@
   "created_at": "2026-01-28T15:39:55.016149Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the TN-07 House seat?",
   "revisions": 1,
   "sha256": "51a170da286dd983857d9756e2edf1e0f03a491a636a3cb7bf20d7d3cb9d76f7",
@@ -350,6 +351,15 @@
   "sha256": "0ab2c8b4cc2f4a61892f234412911caf01a3dbfab652d7c5f5c3d5a32c3c4698",
   "slug": "will-usd-denominated-stablecoin-market-share-fall-below-99-in-2026"
  },
+ "0x3a0e7e6bfffbacfcbc958bc4c0125186c23d72088024c161fdbe084470cb9b99": {
+  "created_at": "2026-10-15T18:02:16.811949Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 1.5",
+  "revisions": 1,
+  "sha256": "a7a93ae0f553650f7767d7b4aa0bc79cd7f68f6bbd2744c0651993db5e117548",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-away-1pt5"
+ },
  "0x3c78a7766c726e745ff965df328336cb5e81d6448dfc81bae180f8dc0a63ed99": {
   "created_at": "2026-08-24T16:35:56.619442Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -471,6 +481,7 @@
   "created_at": "2026-08-26T08:45:16.518739Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "368c8dcbfc30c06fb25f1e512dbc025a41ba715db7501c4809859f9798c67620",
@@ -521,6 +532,15 @@
   "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
   "slug": "will-joey-daccord-win-the-2026-27-vezina-trophy"
  },
+ "0x4d1ccd44dae940f73669828dbd5a49aabf2a974a29438b806d0913e26db7e099": {
+  "created_at": "2026-11-08T19:51:59.871069Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Chris Christie announce a Presidential run before 2028?",
+  "revisions": 1,
+  "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
+  "slug": "will-chris-christie-announce-a-presidential-run-before-2028"
+ },
  "0x4e867ad64cd6af59e625299016ce1536e329de22fd2535c48ae55238c12b1b99": {
   "created_at": "2026-08-13T21:36:37.045979Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -547,6 +567,15 @@
   "revisions": 1,
   "sha256": "4004e40a6899116042f9f41bb354069b95c0604cd93590f40ddcedf7d58b899d",
   "slug": "will-based-polymarket-revenue-hit-2m-before-2027"
+ },
+ "0x53f45146306177ff40486d00fb9166bdaa9f81ee617fcf7ac378f61a027c5a99": {
+  "created_at": "2026-11-04T17:37:52.378554Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Ninjas in Pyjamas Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-ninjas-in-pyjamas-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x54b58a574b48854fce5d680c9d343707e8f163779293a981a7a4be8217159c99": {
   "created_at": "2026-09-02T21:55:46.022711Z",
@@ -624,6 +653,7 @@
   "created_at": "2026-08-11T14:13:34.184699Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 9 House seats in Pennsylvania in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "d7734c9f2ef886fbbc5c40c1d477759b926cdd73451ac69b7d2fee4966739c65",
@@ -953,6 +983,15 @@
   "sha256": "d746dd039dc18c67993aedc7050cff54c68ebd5e6e98b2e20adad0bedc8c582a",
   "slug": "will-mahershala-ali-win-best-actor-at-the-99th-academy-awards-20260727174302940"
  },
+ "0x919f6051c04c9642a3a43979a43933da153d673fd1489800ea10127864650899": {
+  "created_at": "2026-11-10T02:45:12.08448Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Chris Stapleton sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-chris-stapleton-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x937ff32a48a6f125a9c45d019bdde040f9c4c4648b2d249befa9eef63f933a99": {
   "created_at": "2026-09-20T08:44:51.032165Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1029,6 +1068,7 @@
   "created_at": "2026-06-26T15:56:18.791009Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Chris Hill win the 2026 Collin County Judge election?",
   "revisions": 1,
   "sha256": "2baa2b598ee8cdcfb86b1c87d9b8a452546edad85543d744f3a4c198f16bd599",
@@ -1160,10 +1200,20 @@
   "sha256": "9995107b52256cb9d5bfea30045cbfec3249575004da22750ef1e272dc2e0acc",
   "slug": "2027-soccer-efbet-liga-bulgaria-winner-lokomotiv-sofia"
  },
+ "0xc03f31f3fd26cdaab4daa0911edfcc8448d9c6a5fa52b21f2c2ac110e142fc99": {
+  "created_at": "2026-11-06T22:33:12.97468Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive less than 28% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-less-than-28"
+ },
  "0xc2e3da9353e0a15d69673a9d037aaf99012e992b1f8952f21a261ee357fa2c99": {
   "created_at": "2026-03-25T21:41:58.191973Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will A.J. Ewing win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -1213,6 +1263,15 @@
   "revisions": 1,
   "sha256": "c34ed101599e292c679d4413b74cae15f67df9ad75dc999d79231ea9bb4d6bd0",
   "slug": "will-joao-pedro-win-the-2026-27-english-premier-league-player-of-the-season-award"
+ },
+ "0xce73403dbb29b9f5b01d0ac338cd2a6a3fdc1eab9ec2a254d201c2b4858ece99": {
+  "created_at": "2026-10-15T17:00:57.579498Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 0 - 3 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-0-3"
  },
  "0xd314d6368a21776bd1901f0e9222232f6c6b25f2aadfbecc409c0dd692d42799": {
   "created_at": "2026-10-13T19:55:57.621074Z",
@@ -1286,6 +1345,15 @@
   "sha256": "470ebb17c297a594def52b4c1044fdc6243398e5843e99ba2d476eaad1eb5cb7",
   "slug": "will-keyjuan-brown-be-the-2026-acc-rushing-tds-leader"
  },
+ "0xdb0124df71f2b51d8e596d91f192869a0e7d0c90738c531659474cb79250a199": {
+  "created_at": "2026-11-07T12:30:30.839192Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oscar Piastri achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-piastri-2026-12-06"
+ },
  "0xdbf626d2c097690179fbd0f7d6d669ef8ad199a32bd41c4b0d82119ed3a5b099": {
   "created_at": "2026-07-08T21:32:59.568554Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1326,6 +1394,7 @@
   "created_at": "2026-07-21T22:51:35.584335Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Colorado passes ballot measure imposing life sentences on underage sex traffickers?",
   "revisions": 1,
   "sha256": "bfab8bfc4db73efc94709c4509158fa6cf1256fee23dda2aac79e74ffb96af63",
@@ -1353,6 +1422,7 @@
   "created_at": "2026-09-09T15:53:47.734446Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Lennart Karl win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1484,6 +1554,15 @@
   "revisions": 1,
   "sha256": "75831c8ce49d78e4943de53c02269293f62f5d30e7bfbb05944b5f66d6743d70",
   "slug": "will-the-republican-party-candidate-win-the-2026-sc-02-house-election-by-10-15"
+ },
+ "0xfa0d4378f08431439ac96a689d7cc44ccf22362d8f040fb1efc5511ae84d1c99": {
+  "created_at": "2026-11-10T02:41:53.940685Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"N****s in Paris\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-ns-in-paris-be-played-at-the-2027-big-game-halftime-show"
  },
  "0xfa9b0b141e3a692da286c5cbd438274eea9501a4bedc4b2a550997ccd1cc9699": {
   "created_at": "2026-08-11T18:43:49.221588Z",

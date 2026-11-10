@@ -39,6 +39,7 @@
   "created_at": "2026-08-11T14:10:44.368341Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 5 House seats in North Carolina in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e7e410e783f82c06392ed31b471dab1af4da67d1b15f78a43764fff4b5ad3bc7",
@@ -111,6 +112,7 @@
   "created_at": "2026-09-09T02:47:54.268739Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will T1 Make the Worlds 2026 Grand Final?",
   "revisions": 1,
   "sha256": "8e46f122df002d45630cf7e36c1f6d41e6df586fe9556ea854ab5d3ca00d86ca",
@@ -183,6 +185,7 @@
   "created_at": "2026-10-08T22:00:02.52189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Billam-Smith vs. Clarke end before Round 4?",
   "revisions": 1,
   "sha256": "459bc0d1c585e37f7d5ab298feb33c6bd46a704de50c36258485501deb8d209e",
@@ -327,6 +330,7 @@
   "created_at": "2026-08-26T08:44:17.567724Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Reading FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "c288015212c25e680b57235399111b46b3d4ae1373d94826ec2bd8ecdfc7e557",
@@ -471,6 +475,7 @@
   "created_at": "2026-05-22T18:33:40.738594Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will no one leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -714,6 +719,7 @@
   "created_at": "2026-07-10T02:04:03.207336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Melissa Hernandez win the CA-14 House seat?",
   "revisions": 1,
   "sha256": "517ebea4bcfaa839242f903221f60fc902301dbfd82b94b895f4906ca32a0fb7",
@@ -727,6 +733,15 @@
   "revisions": 1,
   "sha256": "fc6dea3f110fd85a00a251e150a37bd72fc3fa232cfdf62f693daf10afad158a",
   "slug": "will-hunter-henry-average-9pt0-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
+ },
+ "0x7ef990809fc0dad8a9fcf9dbec5d9bd4235dfc18eef74975f80fea9fb9640968": {
+  "created_at": "2026-11-09T21:17:58.263366Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will FNATIC Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-fnatic-win-an-international-event-in-2027"
  },
  "0x80689a62869f77d8bc45b306e781a026cf40280863da66e205799ed01f142868": {
   "created_at": "2026-04-29T16:27:16.961162Z",
@@ -863,6 +878,15 @@
   "sha256": "3e6846d740f913a43dbea6709ce3cc3fa0af974292a3f5f607f0d6c174942fd7",
   "slug": "will-the-bitcoin-halving-occur-by-june-30-2028"
  },
+ "0x97fb39853e18cf70550c8b96336a18971f57bc6300f334dae275f4a3bbc57168": {
+  "created_at": "2026-11-04T17:37:55.307313Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Lynn Vision Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-lynn-vision-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x99f81e0d29a27fd8444847073ae5b72e78a4ecccb8b79d48837dc9a27b5b1368": {
   "created_at": "2026-09-22T19:15:40.805374Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -971,6 +995,15 @@
   "sha256": "6715266b03c2105cfb2ce9d80f28f65aa25a46f9f26e1f4bb344f13dffc22659",
   "slug": "will-quinton-byfield-record-the-most-hat-tricks-in-the-2026-27-regular-season"
  },
+ "0xa89aa84f290506251a0fa8b12302b62451e3000b300b79cf651610ff1d2dad68": {
+  "created_at": "2026-11-06T21:50:24.830714Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Democrats win the Presidency, and the Republicans the Senate and House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-d-president-r-senate-r-house"
+ },
  "0xa9026abd814bca17ec21ba6bf1e15d2c4891d7ee5fa8419f0fbe1780472ac568": {
   "created_at": "2026-08-07T19:11:26.27Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1066,6 +1099,7 @@
   "created_at": "2026-10-10T11:30:04.183745Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lewis Hamilton win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1156,6 +1190,7 @@
   "created_at": "2026-08-26T21:46:07.493885Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tartu JK Tammeka be relegated from the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "5a33c82239cf7c22e870897154fc597c476a70f3eacc7b28cbef5739655b1869",
@@ -1174,6 +1209,7 @@
   "created_at": "2026-10-01T14:27:19.642317Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Donald Trump publicly praise Bryson DeChambeau by October 31, 2026?",
   "revisions": 1,
   "sha256": "e9649fb26bf982c05288c7e037c8fa392b6de9df3b3f1cc92475b3d4d037e340",
@@ -1205,6 +1241,15 @@
   "revisions": 1,
   "sha256": "2c46ae081a4de584f90579bb8366c8000156286eca399ef7c070b7fcc499372e",
   "slug": "will-devon-achane-finish-as-a-top-5-flex-in-the-2026-27-nfl-season"
+ },
+ "0xdf644fbc26db23c566ade683072cb0aae3e5a33592a84f2f1fa2b604595be568": {
+  "created_at": "2026-11-07T12:30:50.628552Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yuki Tsunoda achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-yuki-tsunoda-2026-12-04"
  },
  "0xdf91ee36f4d298d1b20ef19681a4c84cdd5061783e43ac4f78ec1be0a309c168": {
   "created_at": "2026-08-24T16:39:03.953501Z",

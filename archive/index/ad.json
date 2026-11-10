@@ -148,6 +148,7 @@
   "created_at": "2025-12-10T18:05:32.997946Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party hold exactly 30 or 31 governorships after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cb4a6d2db6b0e17d1f68fb1ebd345806a34632c9cd578e8c03fccd5d3ea36f4b",
@@ -252,6 +253,15 @@
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-otar-kiteishvili-record-the-most-assists-in-the-2026-27-uefa-europa-league"
  },
+ "0x268b327425ebf046976933f494358e016c291bfdbb8dcc2e2ec3f3964578a8ad": {
+  "created_at": "2026-11-09T21:18:03.408437Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Rex Regum Qeon Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-rex-regum-qeon-win-an-international-event-in-2027"
+ },
  "0x2709a9392fcfe2348ad935b3158d5e4184ef484cf233d536ecdaa3148bda4aad": {
   "created_at": "2026-04-28T22:26:43.871112Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -274,6 +284,7 @@
   "created_at": "2026-08-26T21:46:52.237629Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Los Angeles FC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -301,6 +312,7 @@
   "created_at": "2026-10-10T11:30:11.895921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will George Russell get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
@@ -459,6 +471,15 @@
   "sha256": "b7f1c3b289ab04e4832a940159319e1df60d9f040189da9a000881ccaa2e4dd2",
   "slug": "will-monza-win-the-2026-27-serie-a-championship-20260701200118410"
  },
+ "0x42dba12a646764aaafa4f267e2164b8a9fb4b6e85708cb7c16d38cc8f0ce9aad": {
+  "created_at": "2026-11-05T01:02:24.377388Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "270-274 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "270-274-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
  "0x47c00bed87e4377d296a04c2e21599f67524c75ed780c5d8e16b70f56ff415ad": {
   "created_at": "2026-09-09T02:44:18.136356Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -531,6 +552,15 @@
   "sha256": "160c5fec246ddab82d4a2c8b2481078a3bbfa49991417422a4b2333ec2cb11be",
   "slug": "tyler-warren-1124pt5-receiving-yards-2026-27"
  },
+ "0x56249d6e651f7ddd4ddd547542d39731479f0120f8d73e07482b34576bedb5ad": {
+  "created_at": "2026-10-15T17:02:01.076779Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 2 - 3 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-2-3"
+ },
  "0x5812de342a16f8fc0743ec338094fb39a5cffb819dd8116205da2e63f0866aad": {
   "created_at": "2026-09-02T21:57:53.363823Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -553,6 +583,7 @@
   "created_at": "2026-08-12T00:15:36.658008Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Barracas Central win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
@@ -572,6 +603,7 @@
   "created_at": "2026-05-19T04:51:25.968845Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Perplexity's valuation hit (HIGH) $22.5B by December 31?",
   "revisions": 1,
   "sha256": "326a1d1faf84e7151bc9f696bfcba955cd56872c6326cc1cf26a2e28363fa1d6",
@@ -844,6 +876,7 @@
   "created_at": "2026-08-26T21:46:18.405039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Shelbourne be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",
@@ -943,6 +976,7 @@
   "created_at": "2026-08-12T17:20:08.616505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Cusco FC be runner-up in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "6844079682818058d1de2c1476766359daa2122552d75828bf3e291a8d785023",
@@ -1010,6 +1044,15 @@
   "revisions": 1,
   "sha256": "03530dc4a1f530757407d89c854a33eae10e52688cf99cf40f1c87ac10a7778a",
   "slug": "will-the-republican-party-candidate-win-the-2026-nj-04-house-election-by-30-35"
+ },
+ "0xaae26d9f39feef4bf358e642005a3de7b62288402bc42c6c1e15cf1cf15083ad": {
+  "created_at": "2026-11-07T12:31:14.963639Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Bortoleto or Hulkenberg?",
+  "revisions": 1,
+  "sha256": "f300cbc84aff87b089a688f581f2211906db805b30e1499f191e782e0008bf10",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-bortoleto-vs-hulkenberg-2026-12-06"
  },
  "0xabe90f8b5b16fe3e4cd6fb2d6bf35461e752719ea9cdb0947c4ec1b383ec18ad": {
   "created_at": "2026-09-29T15:56:48.295868Z",
@@ -1211,6 +1254,15 @@
   "sha256": "6589c05a0469769ef2057cb8b5ee4fd9a47bff11ee09f6e6f46576f3ed8c52f6",
   "slug": "will-podemos-win-the-most-seats-in-the-balearic-islands-in-the-2026-spanish-general-election"
  },
+ "0xd52835fcb5164e8787a66d90c411cd34c514944fa74fc094e36613b0761788ad": {
+  "created_at": "2026-11-07T12:30:04.194047Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Charles Leclerc win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-leclerc-2026-12-06"
+ },
  "0xd66b2e80271b404814e968e94691af0be9d89de208eb7a76c79c15df43bf28ad": {
   "created_at": "2026-07-15T00:40:34.755598Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1406,6 +1458,7 @@
   "created_at": "2026-08-04T22:28:55.505974Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Bank of Brazil decrease the target for the Selic rate by 25 bps at the November meeting?",
   "revisions": 1,
   "sha256": "7b46465ab829afba59698f1d60c7d20c52487066065d76a5a6d59c8e2ed60ea6",
@@ -1469,6 +1522,7 @@
   "created_at": "2026-09-02T18:09:53.442533Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win young men in the midterms?",
   "revisions": 1,
   "sha256": "697b742fe6d4e85b3c64d070d14f2824a2bea99b48ecc5ef00463f99eee8cbfc",

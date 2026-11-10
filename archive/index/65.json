@@ -3,6 +3,7 @@
   "created_at": "2026-09-13T08:44:32.008617Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Huddersfield Town AFC vs. Luton Town FC: 2nd Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "83a1a1454095e741336811aa3eed6b85f5351f8b492a06ee1bc45346a59144aa",
@@ -93,6 +94,7 @@
   "created_at": "2026-09-09T15:53:46.036466Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Rodrigo Mora win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -206,10 +208,20 @@
   "sha256": "7cb1c475f124249dcdcfd99d65042f3995de016823ae102e94261bfb9ebdf566",
   "slug": "el1-bro-wyc-2026-10-03-corners-first-half-total-4pt5"
  },
+ "0x1f47225021e5116effdf647ae8119c906ef79127ff63149d2143f1a20294aa65": {
+  "created_at": "2026-11-10T02:39:25.452986Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Nvidia run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-nvidia-run-an-ad-during-super-bowl-lxi"
+ },
  "0x1fb7de94059b9fda2c139f47a7f6767ea2af74f2cbc465045c575cf583d45565": {
   "created_at": "2026-10-10T11:30:12.473131Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Lance Stroll get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
@@ -233,6 +245,15 @@
   "sha256": "a3389b9d400ffdf59d2d3259586f6c194b9034d2a003bece505afc22b3cd15bb",
   "slug": "will-marseille-reach-the-2027-uefa-europa-league-semifinal"
  },
+ "0x20d2e3b5d7c62d9471bff110a2fac94188f3b41be841684bc12d8c2cebb16365": {
+  "created_at": "2026-11-06T22:33:05.907753Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Angie Craig be the next to hold Klobuchar's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "02531a96867f7b76f154c81b1fb413aca8298700f52d7909deda2f62a26fbe4f",
+  "slug": "will-angie-craig-be-next-to-hold-klobuchars-senate-seat-by-march-31"
+ },
  "0x23229d3cc4a652a7624756e9a64bf0a0025671011120e82075420687085e5965": {
   "created_at": "2026-08-07T15:58:43.946752Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -246,6 +267,7 @@
   "created_at": "2026-08-26T08:44:16.445134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 2nd Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "d79baee4b72457df046efd3c4aebe1bafa47ea820ed5ec3b50291f251a36c736",
@@ -282,6 +304,7 @@
   "created_at": "2026-08-28T19:43:53.517857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will San Diego FC win the 2026 MLS Western Conference?",
   "revisions": 1,
   "sha256": "4a90d1c2db75f71506fc1c06af80b3b34de1196dd77e8d2509aaaf525e038ab9",
@@ -341,10 +364,20 @@
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-ousmane-dembl-win-the-2027-ballon-dor"
  },
+ "0x339860ec93e5f9314abbe11784aff4b4a8b437722c6bfbe93b72b6a32bb7c165": {
+  "created_at": "2026-10-15T18:02:48.448441Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 2.5",
+  "revisions": 1,
+  "sha256": "ef3d95434947f3490451fcc9782eda52c5fc1e2caf2dd3a349ba4e9593c66c97",
+  "slug": "cdr-ute-sab-2026-10-28-team-total-away-2pt5"
+ },
  "0x33cce3e3095035b0bf0be6533649a1aa4c78ae1eca64f9220f0fc546e4031d65": {
   "created_at": "2026-10-03T19:00:27.386619Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 1 - 2 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -442,6 +475,15 @@
   "sha256": "228c322611dbd275ae64fe3b6bd80aa5edaa2a4a19f2c923c3d1299a593f188d",
   "slug": "will-xiaomi-be-the-3-ai-lab-at-the-end-of-november-2026-style-control-on"
  },
+ "0x40eedc4d2ff533bda4a8be4f50523089fb1bcc5d7af321082e9cb2dd673d3765": {
+  "created_at": "2026-06-25T17:29:09.841356Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Michael Brandsegg-Nyg\u00e5rd win the 2026-27 Calder Trophy?",
+  "revisions": 1,
+  "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
+  "slug": "will-michael-brandsegg-nygard-win-the-2026-27-calder-trophy"
+ },
  "0x4258301401c3604302c2895b84a8ad002b38cca0f0cb490ecc6eee60eea6d765": {
   "created_at": "2026-08-07T16:01:20.150641Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -518,6 +560,7 @@
   "created_at": "2026-08-11T14:18:06.469565Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 43 House seats in California in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cc33e62a2bb4c50e1d904dce0a2bfd6b6ab4da9b5ab7d7f1d5769d3f3831637a",
@@ -626,6 +669,7 @@
   "created_at": "2026-08-28T20:17:34.857688Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Garrett Wilson be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -813,6 +857,15 @@
   "revisions": 1,
   "sha256": "17ed6ab8e978d7a3b19d741b0af39f3107fbff2fc014ebba6c344e814bb84b79",
   "slug": "will-the-swiss-national-bank-decrease-the-snb-policy-rate-by-50-bps-at-the-march-2027-meeting"
+ },
+ "0x6fb2b787cfafdcfa41b5fb65a3decb8268bc1fa0acc483e1fbc3fd802082b165": {
+  "created_at": "2026-11-05T20:54:12.560921Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Alberto Mart\u00ednez Sim\u00f3n win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-alberto-martinez-simon-win-the-2028-paraguay-presidential-election"
  },
  "0x721789ffa98af303c54f35c212980b6e34eca8dc40fabcfc0c3a8e10b191a265": {
   "created_at": "2026-09-04T19:04:39.805575Z",
@@ -1021,6 +1074,15 @@
   "sha256": "14d713a70f92be9bee6edeb755faeaa75318b0842038808cae819025624c9c6b",
   "slug": "will-victor-alonso-record-the-most-assists-in-the-2026-27-uefa-conference-league"
  },
+ "0x9cb3397fb18e25d029568b8f1229b6f7af1e281f6eb588bdaa6207caf29e9465": {
+  "created_at": "2026-11-06T16:45:34.38973Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Hy4 debut at a score of at least 1480 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "6f98c8c9f83cae560e52b760f04da81483f1e18073a5a4844ed2cad1612573c1",
+  "slug": "will-hy4-debut-at-a-score-of-at-least-1480-by-june-30-2027"
+ },
  "0x9d31ba84da7b472f68034c4313b074d65ef6b0b9c8d4fb8b41cc3fec49b2df65": {
   "created_at": "2026-08-25T21:36:34.11683Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1079,6 +1141,7 @@
   "created_at": "2026-10-08T22:00:07.798355Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Roehrig win by KO/TKO?",
   "revisions": 1,
   "sha256": "66161efb33f9ed337aa3726d643c12c8671a202f0f1fb9a0b1c9d3b645f872f8",
@@ -1097,6 +1160,7 @@
   "created_at": "2026-10-02T20:15:36.736772Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Lulu be the most played champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
@@ -1323,6 +1387,7 @@
   "created_at": "2026-09-29T23:33:22.758114Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Nothing Ever Happens: October",
   "revisions": 1,
   "sha256": "539026bfc06fa77d516e6f3841d5877f9014da2eda72ad79a2c15931802a1f80",
@@ -1386,6 +1451,7 @@
   "created_at": "2026-08-26T21:46:36.198692Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will AGMK finish 3rd in the 2026 Uzbekistan Super League?",
   "revisions": 1,
   "sha256": "77802a2242a5c27f87da20ad22cdbfc0b35ac07b32e47c591b2c0d6a2555f5ef",
@@ -1450,6 +1516,7 @@
   "created_at": "2026-10-14T01:17:23.197066Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Blue mega-tsunami in 2026?",
   "revisions": 1,
   "sha256": "d2ab72739727e5df72c0df265d3b471ac80e8fbeab09c46881613dc5a57267bb",
@@ -1459,6 +1526,7 @@
   "created_at": "2026-08-26T08:45:17.914349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: Reading FC O/U 0.5",
   "revisions": 1,
   "sha256": "078a32608ae34470072a99ce08a7fbadac82dc2ab8e137b4834ac3f8e19b24ea",

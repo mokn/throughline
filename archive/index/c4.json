@@ -1,4 +1,13 @@
 {
+ "0x00e8582880afc2158638e491ad4350fc4f89b978a5fa15fa3a8f1ec3924e2dc4": {
+  "created_at": "2026-10-15T18:01:50.581129Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 2.5",
+  "revisions": 1,
+  "sha256": "bf2a1ecaee48c273867dde6233b9a8a931ab678dbe44745549258dcb33c83755",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-home-2pt5"
+ },
  "0x013ddbabffc728a7b87c249ea68d1459af2f9232584dce14a0d7654d02d4dec4": {
   "created_at": "2026-09-13T09:44:17.851495Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -7,6 +16,15 @@
   "revisions": 1,
   "sha256": "f4a2dcb580e173b60922cc9496bb1b22a9c45613cbc94ee1a07e7dbfd319b342",
   "slug": "el2-pvl-nth-2026-09-26-corners-total-13pt5"
+ },
+ "0x03144c0ebffe794cd945a1bdc7c121ac087dc7d44b70a3b952f6277132415bc4": {
+  "created_at": "2026-11-06T22:58:34.700368Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Brooke Rollins be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-brooke-rollins-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x03455c40793828e88f450df6a472617c8f52d3e2811d747b63a5a59d1c3686c4": {
   "created_at": "2026-09-18T00:07:59.099763Z",
@@ -58,6 +76,7 @@
   "created_at": "2026-08-12T14:48:45.015134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Auburn have more than 4.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -67,6 +86,7 @@
   "created_at": "2026-09-10T18:20:32.785546Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Republican Party control the Wisconsin Senate after the 2026 Midterm elections?",
   "revisions": 1,
   "sha256": "43b6a2929a47050eab0a6422c5d9ba3817f7554e1468dcd1dc49555ab39069b7",
@@ -522,6 +542,15 @@
   "sha256": "1c006c42481bec52cca445da9f2da356da411eca44f7e1513505d938e8f983eb",
   "slug": "will-carlos-rotondi-cruz-azul-record-the-most-assists-in-the-2027-liga-mx-clausura-20260729194614827"
  },
+ "0x6c15c5c1feae861e4fad2e80c4d440e0937fd6b64267406df84177cc6446f1c4": {
+  "created_at": "2026-11-09T22:27:57.183262Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Didier Deschamps be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-didier-deschamps-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x6de0e81c817c3dea91137e2cf4994a2a284363368ddabfc58eb52eac1b5ea2c4": {
   "created_at": "2026-08-28T20:17:58.450201Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -589,6 +618,7 @@
   "created_at": "2026-08-28T20:17:38.711621Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Rome Odunze be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -670,6 +700,7 @@
   "created_at": "2026-08-12T17:27:05.822221Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Atl\u00e9tico Tucum\u00e1n be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -901,6 +932,15 @@
   "sha256": "d51b8c00e4d21555da441c63d6eddcd5a90bacce87075e008ef64f90fc157d74",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mi-12-house-election-by-65-or-more"
  },
+ "0x9b786700f51dc9540f016267a69245616f53e93563de3fc5a1ac3a16f66310c4": {
+  "created_at": "2026-11-08T22:40:05.181249Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Jensen Huang divorce by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "4fc50789374b8ebd63acad7380f2bd5efef22eda3a6b0eecd1569ceb1a0730f2",
+  "slug": "jensen-huang-divorce-in-2026"
+ },
  "0x9c99c7bfb4416dd29afcbd40aa28c74c4f042495067ff4fa6ff3cb78640a38c4": {
   "created_at": "2026-08-05T11:06:53.490676Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -927,6 +967,15 @@
   "revisions": 1,
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-monday-etim-score-the-most-goals-in-the-2026-27-uefa-conference-league"
+ },
+ "0x9d72cd710857c18eb79647d6e8f81fda4dd0b550c9e368eb2926d82f9a1b1bc4": {
+  "created_at": "2026-11-05T02:25:49.934069Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Russ Vought by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-russ-vought-by-june-30-2027"
  },
  "0xa05d8a684b40450d2b8a8fdf07df0b50089de97f675bb4489ffa81b00abb60c4": {
   "created_at": "2026-04-16T16:26:34.49143Z",
@@ -1022,6 +1071,7 @@
   "created_at": "2026-10-10T11:30:16.534274Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Pierre Gasly achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
@@ -1094,6 +1144,7 @@
   "created_at": "2025-12-15T19:35:01.444742Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the FL-13 House seat?",
   "revisions": 1,
   "sha256": "82a71eea4edb058a3568400f04ab891e66a28f579178b3ac4b8c666460f9b94a",
@@ -1130,6 +1181,7 @@
   "created_at": "2026-09-20T08:45:06.527131Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: Luton Town FC O/U 5.5 Corners",
   "revisions": 1,
   "sha256": "458c74ceb30a9754cd0e5ed9eea04d7549e8bd50dbd9fc984153e71d52e0f740",
@@ -1460,6 +1512,15 @@
   "sha256": "2676e349f1a8c95a69e718e44cbcfc385aa7190c7589ab66677b4d1f267ced2b",
   "slug": "tucker-kraft-649pt5-receiving-yards-2026-27"
  },
+ "0xe8b9f3005311decfc1f8b35ec9a8e52065b2915b1928c37df123d9d6a195e3c4": {
+  "created_at": "2026-10-25T10:15:18.721112Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 4 - 1 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-4-1"
+ },
  "0xebe00b10145cbf65440226981cb63de173c96fe83ec4a2cdf9155acb2a3d42c4": {
   "created_at": "2026-05-20T20:57:58.520985Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1486,6 +1547,15 @@
   "revisions": 1,
   "sha256": "4c0a348e45e533ce5efb754760cffcc56762480d6ef2cc403443891a4364c2d5",
   "slug": "will-celta-vigo-finish-3rd-in-laliga-2026-27"
+ },
+ "0xecd936f65fdedf6b7ceda8e7d17812c1c138748b32ac12ce9f91426e6d437fc4": {
+  "created_at": "2026-11-09T21:18:09.910308Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will FURIA Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-furia-win-an-international-event-in-2027"
  },
  "0xecf0787ad7ffc7044e8671070a63b02becb063f23ba54494ccf645127d90ebc4": {
   "created_at": "2026-07-31T23:05:52.058821Z",

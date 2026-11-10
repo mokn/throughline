@@ -93,6 +93,7 @@
   "created_at": "2026-08-28T20:17:34.627338Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Chris Olave be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -165,6 +166,7 @@
   "created_at": "2026-06-24T22:16:33.782386Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Charlie Crist win the St. Petersburg mayoral election?",
   "revisions": 1,
   "sha256": "405db246932382e7f0ca67b037a813919abef2e9389feb8961efff891649922d",
@@ -192,6 +194,7 @@
   "created_at": "2026-02-18T23:01:10.667528Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Gerrit Cole win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -255,6 +258,7 @@
   "created_at": "2026-08-26T21:46:47.613336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will N\u00f5mme Kalju keep the most clean sheets in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "a2ce1d59ccdd94f281e0ca2def50a19e386e35511bef7c6073f126cd1e55a222",
@@ -278,6 +282,15 @@
   "sha256": "f3ccd0f4b1434270ffbe93842d10e79da316bf3d502768082af9075f24b51474",
   "slug": "will-boston-river-finish-13th-in-uruguayan-primera-division-2026"
  },
+ "0x25c779607dbb8064e4b9f9005784ff2b785a3cf11845addf11ccd90c1f17ecef": {
+  "created_at": "2026-11-05T02:25:46.021623Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Donald Trump by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-donald-trump-by-june-30-2027"
+ },
  "0x2a0b371e8dd7d55bb21f978d22c840bf4da6734ad46a2b73aebd039a44a661ef": {
   "created_at": "2026-06-10T15:15:37.855015Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -295,6 +308,15 @@
   "revisions": 1,
   "sha256": "e5fd6ceba548aad9e1cbd48ca2390ddbfc8ccd90aaef035379c61776d230cdb1",
   "slug": "will-ali-khamenei-be-the-1-searched-passing-on-google-this-year-20260717220846801"
+ },
+ "0x2a56e968dafdd43769f819e42420f8a0b0e864c7c78c4bc487e5ef34316b5def": {
+  "created_at": "2026-11-07T12:30:36.558305Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Tgr Haas achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-tgr-haas-2026-12-06"
  },
  "0x2ad2024e235ef34eeeb3a15b78026150540ace23bc2bd3071536e3dade17fcef": {
   "created_at": "2026-08-21T17:37:00.152142Z",
@@ -418,6 +440,7 @@
   "created_at": "2026-10-03T19:00:07.205857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will SK Artis Brno vs. Bohemians Praha 1905 end in a draw?",
   "revisions": 1,
   "sha256": "754c5efc02b8ae5b0b20af1441faa33c6151e1ddfd728f3b0ee1e93d21899ff9",
@@ -427,6 +450,7 @@
   "created_at": "2026-01-28T15:40:05.878665Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the TX-02 House seat?",
   "revisions": 1,
   "sha256": "0c5a6dafcec28d010a34555153469c0b33709a7a8711ccc05241842d127dc33d",
@@ -640,6 +664,15 @@
   "sha256": "f5c23e560934931f83bf44144b491ad3cce1da2f62012f7147714feaba99a7e1",
   "slug": "will-joel-padilla-pena-win-the-2027-colima-governor-election-20260803173852328"
  },
+ "0x758a53e9d029ce9d3c22b012745477759b5e3df45d73bfdaa1f6c133f2ddcaef": {
+  "created_at": "2026-10-25T10:45:20.19242Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 0.5",
+  "revisions": 1,
+  "sha256": "7cc39590c9ad444046fb09169722e8c2631e2b078458f29acc2745fd570753b0",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-away-0pt5"
+ },
  "0x76a52e3e29b60d053ba2188a47802e8fdb59e549d054865fed9019f3601282ef": {
   "created_at": "2026-08-31T18:14:53.98524Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -680,6 +713,7 @@
   "created_at": "2026-08-12T00:14:57.755942Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will HJK Helsinki win the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "8141198b014409c994a9c8c461ed5628368fdf2098f4db51b0b65eea8e34fbc1",
@@ -757,6 +791,15 @@
   "sha256": "d47c070996fae6764cb7c92539bcfab712f59efe342104e94f3524155ae476e1",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-05-house-election-by-3-6"
  },
+ "0x889a73ab92818044fc6dcab5f9284cf61caa314a9a20df577bdc78f31e4365ef": {
+  "created_at": "2026-10-15T18:01:45.809431Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Badajoz (-1.5)",
+  "revisions": 1,
+  "sha256": "a09f1b341bbaab3280653162868e2a6e17fb69d4b8f9890387cbb0f25c0574c4",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-home-1pt5"
+ },
  "0x8b6d9191d40b7d6264204ef139297f514e66728501b1d486be87e3385fac0bef": {
   "created_at": "2026-10-18T09:00:29.807898Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -825,6 +868,7 @@
   "created_at": "2026-08-10T20:08:58.717009Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Per Larsson be the next Regional Board Chair of Region \u00d6sterg\u00f6tland?",
   "revisions": 1,
   "sha256": "1d51b59e70c38fb0d8f6e3d6dac2b5119d465d2203d5a34d41a2637edee7e2b4",
@@ -834,6 +878,7 @@
   "created_at": "2026-05-22T18:33:47.230486Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Kelly Loeffler be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -1005,6 +1050,7 @@
   "created_at": "2026-10-10T11:30:31.636186Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will George Russell achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -1078,6 +1124,7 @@
   "created_at": "2026-08-26T21:46:08.484368Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ilves be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -1200,6 +1247,15 @@
   "sha256": "105678b6ef6aa21dff4caa6b12717132b1dc5b39df24ceb6f6a4129746d2c7a8",
   "slug": "will-the-2026-trade-deficit-be-between-800b-and-900b"
  },
+ "0xd4e687f1c08b0462edde28ca151956eb3f4233a9a9700a367b7626f6964cf4ef": {
+  "created_at": "2026-11-07T12:30:24.716336Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Audi Revolut get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-audi-revolut-2026-12-05"
+ },
  "0xd94a6e66f3263a2e95912ea20277a8e17f29bb3da6b3f2852fb1a18726afb8ef": {
   "created_at": "2026-09-02T19:30:24.906793Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1298,6 +1354,15 @@
   "revisions": 1,
   "sha256": "1e14e5a98c4b07ff77afb753044a96d7adcf413da05e592429a2d42b96194283",
   "slug": "will-cucuta-deportivo-be-relegated-from-colombia-primera-a-2026"
+ },
+ "0xe0881460dcd53df2f8410ff9ec4c151f22c15ad29ff581d8eb8ac9bce5124eef": {
+  "created_at": "2026-11-08T21:17:32.290833Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Jensen Huang announced resignation or removal by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "d9a72794b1bf59c49d9a0edcab078e5143f03a5d6c89df798fd828f094783fa1",
+  "slug": "jensen-huang-announced-resignation-or-removal-by-december-31"
  },
  "0xe4371aa7611c1a75ced6f7faafae30f49744d229945976ab9b1641f27107a8ef": {
   "created_at": "2026-09-09T15:52:47.025977Z",

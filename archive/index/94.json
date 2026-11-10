@@ -1,4 +1,13 @@
 {
+ "0x026eb8758d1b51a4bee5bed94a3e80214d0d39c521aaaeef493193c73f3b7094": {
+  "created_at": "2026-11-07T12:30:15.266946Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-alonso-2026-12-05"
+ },
  "0x04e8e3b1978375e0d0e902ff2276e31fb58ad98bb09ab405bc0ad370e16df394": {
   "created_at": "2026-10-13T19:48:12.158502Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -157,6 +166,7 @@
   "created_at": "2025-12-12T12:41:07.095226Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party hold between 190 and 194 House seats after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "dc12fa929e71a406dba9c8ed4ab183deaa24f050c0e96c4bf1006104cfb74278",
@@ -374,6 +384,7 @@
   "created_at": "2026-05-22T18:33:43.371835Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Robert F. Kennedy Jr. be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -383,6 +394,7 @@
   "created_at": "2026-02-18T17:10:57.080302Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Tadeo Allende win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -410,6 +422,7 @@
   "created_at": "2026-06-26T16:24:42.129888Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Michelle Romero win the 2026 Henderson mayoral election?",
   "revisions": 1,
   "sha256": "e99a2966cbd8f6cf0bf0b1bc9e969c4d4bd8e7e96c3921bcb3f33f1b6cc3dc56",
@@ -464,6 +477,7 @@
   "created_at": "2026-11-03T22:14:37.085301Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Ossoff's Democratic nomination odds hit 25% by December 31?",
   "revisions": 1,
   "sha256": "0ffca37b6e65b4225b99579e8ab534e1e89cff107c47fca109c41d8a96153515",
@@ -478,6 +492,15 @@
   "sha256": "ec3dab1fba7a90cb882188ca92c01407a4e9eefbe8cf01de63e66fdf1a84cce6",
   "slug": "will-jackson-harris-be-the-2026-sec-receiving-yards-leader"
  },
+ "0x3dd01670aa5aacfa6566ced4f6e33264134075d855663d7bcec0570b7fb85594": {
+  "created_at": "2026-11-10T02:27:00.151216Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be between $120M and $140M by December 15?",
+  "revisions": 1,
+  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-between-120m-and-140m-by-december-15-20261108"
+ },
  "0x3ebebe2f3a3b113a44dc3d043f5dca19ee06019de74ccd257911fd722b282194": {
   "created_at": "2026-09-09T15:48:30.892959Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -491,10 +514,20 @@
   "created_at": "2026-10-02T18:00:01.585689Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the October 2026 unemployment rate be 4.5%?",
   "revisions": 1,
   "sha256": "9c0ac26d297b765094ef48cae793188cce75273183a463e66d6bccc8d67fb26e",
   "slug": "will-the-october-2026-unemployment-rate-be-4pt5"
+ },
+ "0x43e1e9f70acbefe815df234764d339fd48af1ba22fbccf87e99ed36a91b8e194": {
+  "created_at": "2026-11-09T21:18:12.498754Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will ULF Esports Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-ulf-esports-win-an-international-event-in-2027"
  },
  "0x46a9fe76ab1a29beb359b382e158b7ff8c7ae92b907fe07c59d90ecba85b3394": {
   "created_at": "2026-07-15T00:36:16.357098Z",
@@ -572,6 +605,7 @@
   "created_at": "2026-02-18T23:32:35.354505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Yoshinobu Yamamoto win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -604,6 +638,15 @@
   "sha256": "ad4ac70a50fc9edf11bfa81c2d0ae35352b274523624ee984a48752561f96ef0",
   "slug": "will-zoran-tegeltija-be-the-next-chairman-of-the-council-of-ministers-of-bosnia-and-herzegovina-20260702191248530"
  },
+ "0x58acfe8a77053afba813b87e150a26e18e4f3183a42e5e13b1a6e43fc069f794": {
+  "created_at": "2026-10-15T17:00:57.982892Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 3 - 1 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-3-1"
+ },
  "0x58c2978287875f8f6c1d50ef39677686ad2a971069eddd36d12abd1209ae0d94": {
   "created_at": "2026-07-20T20:08:32.49097Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -617,6 +660,7 @@
   "created_at": "2026-08-28T20:17:34.125857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Nico Collins be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -654,6 +698,7 @@
   "created_at": "2026-09-08T20:36:11.143252Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Missouri passes ballot measure to redistrict?",
   "revisions": 1,
   "sha256": "ed90ef5b545fff3592d2ee3f4e2ad418d77a8b9b9601172be84629bd24eeb116",
@@ -844,6 +889,7 @@
   "created_at": "2026-08-11T14:02:48.584141Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win fewer than 3 House seats in Minnesota in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "76ef8f28c317f04aff56beb26da42b4a6929e10b41a7155279dd797b4f6874e5",
@@ -880,6 +926,7 @@
   "created_at": "2026-02-18T23:32:45.138495Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Nick Pivetta win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -925,6 +972,7 @@
   "created_at": "2026-10-08T22:00:02.857642Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Billam-Smith vs. Clarke end before Round 6?",
   "revisions": 1,
   "sha256": "684ef51480ec6a44581b9247a5db72e962bf09e486688553718bceb908a2dc44",
@@ -975,6 +1023,15 @@
   "sha256": "1b811de71c5b9320fc03e68b24adb1d5c77462efd9812c10a394e58b7b348637",
   "slug": "will-colon-be-promoted-to-liga-profesional-argentina-2026"
  },
+ "0x9f399cfd5182add9f890156ebc44288fed918f6ded94ddca71e6bed48f5c7794": {
+  "created_at": "2026-11-07T12:30:29.616615Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-colapinto-2026-12-06"
+ },
  "0xa0562ac765e26c04e158149cbdf1bc74d42b21669a20f48c4ef716d8738e6d94": {
   "created_at": "2025-12-15T19:39:11.484536Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -989,6 +1046,7 @@
   "created_at": "2026-08-12T00:19:15.698551Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Portland Thorns FC win the 2026 NWSL?",
   "revisions": 1,
   "sha256": "28c43d94e076a347f0063de2dc02b601bbd2690db887f510e8f539b8ef4b1496",
@@ -1025,6 +1083,7 @@
   "created_at": "2026-08-28T19:43:54.197525Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Sporting Kansas City win the 2026 MLS Western Conference?",
   "revisions": 1,
   "sha256": "4a90d1c2db75f71506fc1c06af80b3b34de1196dd77e8d2509aaaf525e038ab9",
@@ -1475,6 +1534,7 @@
   "created_at": "2026-08-12T16:51:50.769852Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Javier Fernando Miguel Atkins Lerggios win the next Piura mayoral elections?",
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",

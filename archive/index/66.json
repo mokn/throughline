@@ -192,6 +192,7 @@
   "created_at": "2026-08-24T16:33:23.139362Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Ljungskile SK be promoted to Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "94e1a6f7540850de3ee55b5cabc282e35005267d170ec576f9d6bbbeb4cf9513",
@@ -296,6 +297,15 @@
   "sha256": "05de4e1b6d7bc1e3d082b43e81cf5a2326f4b363b0381901f63150ef4d40214a",
   "slug": "will-donald-trump-visit-massachusetts-in-2026"
  },
+ "0x2e6f81fa9f6b7ad9f35f7bd91148ab40a3a546d81a059f9eefe3660b8220bf66": {
+  "created_at": "2026-11-09T21:18:06.542542Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Trace Esports Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-trace-esports-win-an-international-event-in-2027"
+ },
  "0x2f04b814ac43b8150c9cdc3fc0ce119724f14cb8823b13ee4005b5222e53e866": {
   "created_at": "2026-09-18T00:03:52.935266Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -322,6 +332,15 @@
   "revisions": 1,
   "sha256": "923e029f4b5231c6ed6540cafbdc712ecf21730320671b67c1814907fbfc088c",
   "slug": "will-sergio-herrera-osasuna-record-the-most-clean-sheets-in-the-2026-27-la-liga-season"
+ },
+ "0x307bd6e5686c69cdca805d402024e827afeb07cf17fa8f57bd46d312fae30c66": {
+  "created_at": "2026-11-05T01:02:23.966475Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "265-269 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "265-269-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
  },
  "0x320840959cb2a69979737fff9bacfc3653656bedb510b7f24ae170f2f9f47b66": {
   "created_at": "2026-10-31T11:30:29.874992Z",
@@ -430,6 +449,24 @@
   "revisions": 1,
   "sha256": "e93be0f5fc74a200f2fb94c98c517404939483d185bdc22bedb06f82fb6db688",
   "slug": "will-inter-milan-be-relegated-from-serie-a-2026-27"
+ },
+ "0x4839faa861eb13264fc0e5e57e146e982e29d3e4f07156af48fa9fc6c08f4166": {
+  "created_at": "2026-10-15T18:01:06.707939Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "c2be9a8a2222164287e16c909ce278fea573f6b5b9fd0b4d368a7e9498c94a40",
+  "slug": "cdr-red-bar-2026-10-28-first-half-total-1pt5"
+ },
+ "0x48b3597053c9ae1931911c498ee5ade64fc68dbcd4dbdf2b5b4e785f1f91ea66": {
+  "created_at": "2026-11-07T12:30:19.43636Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-lawson-2026-12-05"
  },
  "0x49f141d1f36a20379f726f03930db05a83860157d0a56cf0ab7fd35608fa8a66": {
   "created_at": "2026-11-03T21:31:18.490767Z",
@@ -689,6 +726,7 @@
   "created_at": "2026-08-26T21:46:28.664359Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Gimnasia y Esgrima (LP) finish 28th in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
@@ -702,6 +740,15 @@
   "revisions": 1,
   "sha256": "a114272873c1af1824f6d5f96d1b53cc4cdc3b6c5d74b90bb79754ffdab3e9bf",
   "slug": "will-peter-farrelly-be-nominated-for-best-director-at-the-99th-academy-awards-20261014120000002"
+ },
+ "0x7a70afb1b55d42fdfdcbdefba62765feb7c471202e45b3db5beb1d4cf9b52266": {
+  "created_at": "2026-11-06T22:31:41.241014Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Christine Lagarde win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-christine-lagarde-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
  "0x7abed80b88301210ee83b7b14ec41bc9a5161e1af07254fbb26c6e2bf7182766": {
   "created_at": "2025-07-10T16:58:20.730741Z",
@@ -929,6 +976,15 @@
   "sha256": "2044402509bd79a00e3623704b73298461695064d03a6a69f7bfc20ff736631d",
   "slug": "will-pp-receive-between-34-and-36-of-the-vote-in-the-2026-spanish-general-election"
  },
+ "0xa5f1f6bff52484e7c5ea3e081bc56b5079831b77bd9ab1eabdf6b778b36fcd66": {
+  "created_at": "2026-10-25T10:15:19.559438Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 5 - 2 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-5-2"
+ },
  "0xa654e3d49a97302b2174ba224b0b77078682a35e677f40ca08dbc5e2e4eafb66": {
   "created_at": "2026-01-28T04:54:17.44742Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -947,6 +1003,15 @@
   "revisions": 1,
   "sha256": "70a42a77654b80c2fc1c01e8bf0d8575eeac2eb203c548cb7fadf433e6e43861",
   "slug": "will-minimax-be-the-third-best-math-ai-lab-at-the-end-of-november-2026"
+ },
+ "0xaa020935fec9854a3492acb7ac551dcf82b2fb851e724c5a25ecda4691e38f66": {
+  "created_at": "2026-10-15T18:02:38.131206Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "c204957dffd3009d2cf1911f02b4ac2fa319ba561db0333f364e5d3c6164d2d7",
+  "slug": "cdr-por-iru-2026-10-28-first-half-total-3pt5"
  },
  "0xab0d7b51496a888b38972d9170bf0cc8ed2a54815f112508159c90ab0256f466": {
   "created_at": "2026-08-07T20:32:21.067029Z",
@@ -1097,6 +1162,7 @@
   "created_at": "2026-05-22T18:33:46.290884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will John Ratcliffe be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -1259,6 +1325,7 @@
   "created_at": "2026-08-31T18:12:50.96975Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ond\u0159ej N\u011bme\u010dek be the next Mayor of Ostrava?",
   "revisions": 1,
   "sha256": "9257d173fce3ec1c6f014a795800d9e8a68317c05b5a0a3d0a848c355b03a089",
@@ -1309,6 +1376,15 @@
   "sha256": "2b21faac0d38ed4664ead758cfd14d0338f3928080e369782c3eddb3a24e7d8d",
   "slug": "will-the-total-domestic-gross-for-you-can-see-everything-be-between-50m-and-75m-by-november-30"
  },
+ "0xedaf659ce687879a501c6861167684f8b65772eb395067f9b5461529e895fd66": {
+  "created_at": "2026-11-07T12:31:12.160541Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ryo Hirakawa achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-ryo-hirakawa-2026-12-05"
+ },
  "0xedfe323d5e0e3cc92da4f87b57c5d27b5925b3db535353726c61fbe0cb054866": {
   "created_at": "2026-10-12T20:53:09.264253Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1340,6 +1416,7 @@
   "created_at": "2026-09-09T15:53:48.088824Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Eli Junior Kroupi win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",

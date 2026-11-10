@@ -3,6 +3,7 @@
   "created_at": "2026-09-10T20:05:16.982379Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Houthis enter Aden by October 31, 2026?",
   "revisions": 1,
   "sha256": "43855a319a10351af84df8e1b0049ec486596b2662aa025025276d574545e322",
@@ -84,6 +85,7 @@
   "created_at": "2026-01-28T04:54:27.770809Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the CA-34 House seat?",
   "revisions": 1,
   "sha256": "0c38e6562445c9b75349717dc0870a234f294573245cd55b3c222cc3ee1e1833",
@@ -129,6 +131,7 @@
   "created_at": "2026-08-31T18:27:35.396674Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Jakub Rychteck\u00fd be the next Mayor of Pardubice?",
   "revisions": 1,
   "sha256": "91e3dc1bccf2ce8586433db690b15592c4f66d3734d5ee016f24aac6921251c1",
@@ -310,6 +313,7 @@
   "created_at": "2026-03-25T21:41:52.585044Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bryce Eldridge win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -364,6 +368,7 @@
   "created_at": "2026-08-12T17:27:11.74434Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Independiente Rivadavia be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -386,6 +391,15 @@
   "revisions": 1,
   "sha256": "5d9714e01187e1508d5b112758b82393fb145df3105cd5158da5d3b9c3c05783",
   "slug": "nba-2026-27-coach-of-the-year-dusty-may"
+ },
+ "0x36ef30c8380a0bb18341ddd3a602f9b7b9355fad6ce92217d49efe5f15d28081": {
+  "created_at": "2026-10-15T18:02:42.720311Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CE Sabadell FC (-1.5)",
+  "revisions": 1,
+  "sha256": "32b0c486cf6f16c4c8cf0e7e9fdbecb8e62066e2c6db1c4e0d6c82bf4a6728a8",
+  "slug": "cdr-ute-sab-2026-10-28-spread-away-1pt5"
  },
  "0x37a1bf899030c5296fd5624f39596fe349d9b55603d36301e887f6743ca68981": {
   "created_at": "2026-08-07T19:11:27.949457Z",
@@ -657,6 +671,24 @@
   "sha256": "20c277c105a6567aad4e22527df703688bc3ea7326ad0d9814a33addf4e62b2d",
   "slug": "will-el-qanah-keep-the-most-clean-sheets-in-egypt-premier-league-2026-27"
  },
+ "0x677144503e51ba6a2ad93bfb81a84ab91e5a20587b167f506639cec2b2091a81": {
+  "created_at": "2026-11-07T12:30:50.285054Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lance Stroll achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-lance-stroll-2026-12-04"
+ },
+ "0x6c6ff9ce037a2ce3d028d588964fea999cb42c018eef3d43861db3b044fe6681": {
+  "created_at": "2026-11-07T12:30:27.764077Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-alonso-2026-12-06"
+ },
  "0x6d0e5a42e047f408419ef0e5cb3f6bbcfd135dd596835e1b2700eae701823881": {
   "created_at": "2026-08-10T23:38:02.452342Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -706,6 +738,7 @@
   "created_at": "2026-07-14T02:36:16.161224Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will FC Ju\u00e1rez win the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "b21eb88fedd03240a0fbc442c4ddc943466f764be59ef1d2d7628b62bf1d0790",
@@ -991,6 +1024,15 @@
   "sha256": "788ecb6c0c21c5b7b58fca5732e29ab4d21d7d64bed4f410f66908c5000114f7",
   "slug": "estonia-kml-2027-champion-taltech-alexela"
  },
+ "0x9acbf231ea1c28bcbe349115aa0ca75dd336f36e3d05fd920ea4b0161713e381": {
+  "created_at": "2026-10-15T18:02:35.311649Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Club Portugalete (-4.5)",
+  "revisions": 1,
+  "sha256": "4116cd9e71c72f86a6c7f66900c75b12cac02622b0c1e6ec6acd9649e0f04198",
+  "slug": "cdr-por-iru-2026-10-28-spread-home-4pt5"
+ },
  "0x9b07dfacbdc94b2e543ba5e97e93aca88f0a0dae698199d475850f4414887781": {
   "created_at": "2026-08-21T21:06:28.927989Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1063,6 +1105,15 @@
   "sha256": "f5f99294050f81a0e45eddf1f0807f7b5ce14298252b0d4072b0ff7b3925fa5b",
   "slug": "unit-fdv-above-2b-one-day-after-launch"
  },
+ "0xa79b4f9165ef5c788d16ebc716185e05e50a358d35ccebdd890744137cc57d81": {
+  "created_at": "2026-11-07T12:30:13.080313Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Mercedes have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-mercedes-2026-12-06"
+ },
  "0xa8c4dd03be6a62120d0658d3e8abd36bcbcf6a7519355092d2302d3957d0be81": {
   "created_at": "2026-08-06T08:21:19.931133Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1121,6 +1172,7 @@
   "created_at": "2026-10-10T11:30:46.412225Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Isack Hadjar finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -1171,6 +1223,15 @@
   "revisions": 1,
   "sha256": "9766939d1915eab00df79329ed8e004382648aee26bcd32f357122dcc8c54701",
   "slug": "will-bnb-dip-to-600-by-december-31-2026-from-august-24"
+ },
+ "0xc213d825f293770a581d0c6ded5a85bc12737edf8b97f5ca0a2f6c846fd16b81": {
+  "created_at": "2026-11-04T17:37:47.607961Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will 1win Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-1win-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0xc26d54794370a77b0a326a0e4b1d9cf3417f5692f1ba6e618ad2618bd14d6a81": {
   "created_at": "2026-08-24T16:34:41.041416Z",
@@ -1316,6 +1377,15 @@
   "sha256": "409e54daf470dfe79a6c4ae3afa53807e5ca8e7d8477dfb4c384f5bd327eb4f3",
   "slug": "will-abha-club-finish-15th-in-saudi-professional-league-2026-27"
  },
+ "0xd9bb376cf318f5628fa34f565145388ff998bef1310df78ea086c409cedbae81": {
+  "created_at": "2026-11-09T23:32:34.271008Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Alice Huang be federally charged by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "a180caac1a0afa8f3c31eb689422e7bfc026dbaecf64fd08ec5f21af755a4455",
+  "slug": "alice-huang-federally-charged-by-march-31-2027"
+ },
  "0xdb0b2d421b61ededb94955b16d90cd9d5d0a3ecde37e2736d96302e326247281": {
   "created_at": "2026-09-09T15:41:21.791234Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1387,6 +1457,15 @@
   "revisions": 1,
   "sha256": "d78e5527d516eab489f92623f3fc2f4d94395c9ec8f465f6e9f3fcce256ae761",
   "slug": "will-pan-win-the-most-seats-in-the-2027-veracruz-congress-election"
+ },
+ "0xe7ce0b17eff247b46d57865c8d1233c4e834e32daab59b4fd674d9efacc77981": {
+  "created_at": "2026-11-10T02:45:44.877015Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Bad Bunny attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-bad-bunny-attend-super-bowl-lxi"
  },
  "0xe966ca52029f431b3ab0917e43bb95895a3e209fcdbad1832c0d6f16e2cac581": {
   "created_at": "2026-07-18T20:23:05.10265Z",
@@ -1504,6 +1583,15 @@
   "revisions": 1,
   "sha256": "59097d6070ae27d464dfd9b59206721f26133aee7c7b249fef9de506af5787a6",
   "slug": "will-abde-ezzalzouli-real-betis-record-the-most-assists-in-the-2026-27-la-liga-season"
+ },
+ "0xf730a7e6b7390f20a897ab3119688ede040da5efb1166ab8076fc72465b98781": {
+  "created_at": "2026-11-07T12:30:49.072963Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will George Russell achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-george-russell-2026-12-04"
  },
  "0xf849c126f2f810e117082c780ca290fdf710e2071e3ef89a1e46a25fcd02e581": {
   "created_at": "2026-09-04T19:40:22.965164Z",

@@ -89,6 +89,15 @@
   "sha256": "410157ebcab45a0b153b9a0b994726d0447ab55118bf045b610fe351da7ccccc",
   "slug": "2027-soccer-serbian-superliga-runner-up-vojvodina"
  },
+ "0x0efa7bc6821242dedc1f87e0281a567ec429f2ed4591b4b4a544008e3dfdda7d": {
+  "created_at": "2026-10-15T18:01:06.568987Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "4405eaed04a4bb705bdc4cee1a972cc152ccd89a2d26003ec5065570737a462c",
+  "slug": "cdr-red-bar-2026-10-28-first-half-total-0pt5"
+ },
  "0x115866dccf502b739a6399165287cb71eea3fb11319beaec3615a2bf8fa1e47d": {
   "created_at": "2026-09-08T16:55:57.972863Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -102,6 +111,7 @@
   "created_at": "2026-10-08T22:00:09.911422Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Zuffa Boxing 12: Bentley vs. Jr. (Middleweight, Main Card)",
   "revisions": 1,
   "sha256": "4651ca53f8c4d824c5c438b59c0df9c612b186c277ae52ff946ec2a7af7ea057",
@@ -295,6 +305,15 @@
   "revisions": 1,
   "sha256": "8144fddfd56f59670516203a9b92af94d71a45d1b6b1f5e5d4616403f3473e5f",
   "slug": "israel-military-action-against-syria-by-november-30-2026"
+ },
+ "0x338deee91d69de1df914dc73b42c1899f32a60f155eedad7f4f4c2b9e5b7317d": {
+  "created_at": "2026-10-15T17:01:58.770666Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Reus FC Reddis vs. Barakaldo CF end in a draw?",
+  "revisions": 1,
+  "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
+  "slug": "cdr-red-bar-2026-10-28-draw"
  },
  "0x349837a05f087faf1c6038c886c85fdb16e9e46530b3cf8dbad172963313f47d": {
   "created_at": "2026-01-02T20:58:01.479969Z",
@@ -494,6 +513,15 @@
   "sha256": "313433c281c51ec819dc62212a6017e825795a814fe3a6200f49205a7a5e257a",
   "slug": "will-eric-jones-win-the-ca-04-house-seat-20260630172947750"
  },
+ "0x581c7633978031a75afa02de46170caf105c6ab846bd8342d8cec48c3934fa7d": {
+  "created_at": "2026-10-15T17:01:02.843563Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
+  "slug": "cdr-por-iru-2026-10-28-halftime-result-draw"
+ },
  "0x5877fbcf6247ed85d05bed3f0d4fbe6d0838dedeb174279322c5d699bf881c7d": {
   "created_at": "2026-09-08T17:03:05.307723Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -507,6 +535,7 @@
   "created_at": "2026-08-10T23:55:55.901639Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ja'Marr Chase have 6.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "5439478387dfac4b437446f541cf23ca77923f2a9da9c4f2f38777bf8994a9b1",
@@ -846,6 +875,15 @@
   "sha256": "5b5ae7e8cc570b884b7ad52aa42f6d6e29c7e84e76894c6bbf4a05d7f91b48b6",
   "slug": "will-mainz-05-be-the-2026-27-bundesliga-champion-20260708164840312"
  },
+ "0x939932987f3133be0d5b667b95d8550a4061a9335db3e48bfb48fcf9a1c3c77d": {
+  "created_at": "2026-11-09T21:18:05.29717Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Bilibili Gaming Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-bilibili-gaming-win-an-international-event-in-2027"
+ },
  "0x9833b9603768d0f588ac6e953fad247e70bf49ee12faa14d9f8c09835d2d877d": {
   "created_at": "2026-10-20T23:04:39.770727Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1129,6 +1167,7 @@
   "created_at": "2026-09-23T18:06:43.87217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Fnatic qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1160,6 +1199,15 @@
   "revisions": 1,
   "sha256": "35ad234c7e8ef108ea31b5fb05548f8f3a69b6050a5e333768731cb4447adf8c",
   "slug": "nba-teams-50-plus-wins-2026-27-golden-state-warriors"
+ },
+ "0xbf53956b70a05eeff59e2e889977cd6502345747416413e3e8ab754c73e81f7d": {
+  "created_at": "2026-10-25T10:15:15.184926Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Aurora FC win on 2026-11-07?",
+  "revisions": 1,
+  "sha256": "ce7afa7229199f505ce3973970bb3f0e3424429615858747db28ff7f4f38ccce",
+  "slug": "gtm-mun-aur-2026-11-07-aur"
  },
  "0xbfc156b76894b427162a0b03f9e77a1aeb67a5105a62f7a5299ac7b30b7f597d": {
   "created_at": "2026-09-29T19:54:13.821396Z",
@@ -1314,6 +1362,15 @@
   "sha256": "1ac26b5b09c5c04601971b411e54b34263f9d5c915b3894bc903f891b1e242da",
   "slug": "will-frosinone-finish-in-the-top-4-of-the-2026-27-serie-a-season"
  },
+ "0xe0872032920815808e05fc5ecccbd30c050e8b880f80ee0cc59fcd74f7bf0f7d": {
+  "created_at": "2026-11-05T02:25:47.537008Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will the House impeach Kash Patel by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "999fb80b48f000832e0e85a1abc4165a97c8ea39b56480d526a17a25b42ceebb",
+  "slug": "will-the-house-impeach-kash-patel-by-june-30-2027"
+ },
  "0xe0c2341317bd91e11b7371ccf0b53566b1d2fc8718f5d8786378d265f7d5eb7d": {
   "created_at": "2026-09-27T20:25:37.32082Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1408,6 +1465,7 @@
   "created_at": "2026-10-10T11:30:18.72532Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lewis Hamilton achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",

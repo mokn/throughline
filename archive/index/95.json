@@ -94,15 +94,26 @@
   "created_at": "2025-10-09T20:11:15.977865Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Karen Bass win the 2026 Los Angeles mayoral election?",
   "revisions": 1,
   "sha256": "df96f302b3874499ce31eaefc029b3c3076a0a0ec9235e981360155cee747287",
   "slug": "will-karen-bass-win-the-2026-los-angeles-mayoral-election"
  },
+ "0x0ca63df4a001be8cd2f95b36119cb9adc169b7258c4cbb564d598f404b6de995": {
+  "created_at": "2026-11-10T02:40:49.168714Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Crazy in Love\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-crazy-in-love-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x13020efe51380a9c239edc3fff72de8403eca48d4a5e377d37ecaaf1768e1495": {
   "created_at": "2026-09-29T00:04:03.93375Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Reps lose Senate Seat in any Trump+10 State and win in a Kamala State?",
   "revisions": 1,
   "sha256": "48eb6108d21936394397d520ff8d6db0804a84d161af87ba4a8b775b23f012da",
@@ -134,6 +145,15 @@
   "revisions": 1,
   "sha256": "a65092c255fec8dd39c1de853d1900b15df5c66be6c87a3f2530bed670da1afe",
   "slug": "will-jonathan-taylor-be-the-highest-scoring-flex-of-the-2026-27-nfl-season-20260806224131580"
+ },
+ "0x1baa6503752b5aac46371237dc092472da23203a5e0f67b5dc87341562d3f295": {
+  "created_at": "2026-10-25T10:45:21.722261Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: Aurora FC 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "493fe374676657fa095c38341a51ea3d22a2fae523120d8d6def3531eaaac821",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-away-0pt5"
  },
  "0x1ca549d0232aaabc79e842b50cf1ffb40d89dab82c0e9ce5f7d640f22359d595": {
   "created_at": "2026-07-01T21:01:50.552161Z",
@@ -211,6 +231,7 @@
   "created_at": "2026-10-10T11:30:03.753455Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Carlos Sainz Jr. win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -351,6 +372,15 @@
   "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
   "slug": "will-liz-cheney-win-the-2028-democratic-presidential-nomination-551"
  },
+ "0x49f987ceb684258ac85093dc5dbc3b3ad815e8171c1a985a83de557fe928b895": {
+  "created_at": "2026-11-07T12:30:06.479744Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oscar Piastri win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-piastri-2026-12-06"
+ },
  "0x4d7b88ad4ad1751efcec4bbaf03f90cac10e6aa55d20d5e88af32125d6813395": {
   "created_at": "2026-07-31T17:27:59.143901Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -368,6 +398,15 @@
   "revisions": 1,
   "sha256": "8d302d4ee4c4e243b8df2d90cd6c868248889730496e0d0fbea47ca6812ff602",
   "slug": "will-marco-rubio-announce-a-presidential-run-before-2027"
+ },
+ "0x520a6761806e174a42f575fd8cd5705f520f2157099ae2c737fafc290216c295": {
+  "created_at": "2026-11-09T21:18:00.300905Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Team Liquid Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-team-liquid-win-an-international-event-in-2027"
  },
  "0x528e6245ca3aa682adf6147face9a8f0fed034708baab334aeb72e3d92e11995": {
   "created_at": "2026-09-30T09:17:42.721607Z",
@@ -445,6 +484,7 @@
   "created_at": "2026-08-26T21:46:38.830739Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Busan IPark finish 3rd in the 2026 K League 2?",
   "revisions": 1,
   "sha256": "747df0443de626cc99c3ed509434dae557ecf0f2ac13a850909db88048d8d74d",
@@ -463,6 +503,7 @@
   "created_at": "2026-11-03T22:16:27.985753Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "DeSantis's Republican nomination odds hit 6% by December 31?",
   "revisions": 1,
   "sha256": "7c6372f7275460f2ee447f9b1ea9d526b34bd6ef50308a4f08a0146ae839fdb3",
@@ -589,6 +630,7 @@
   "created_at": "2026-09-02T21:58:31.664655Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Akron Zips advance to the 2026 MAC Championship Game?",
   "revisions": 1,
   "sha256": "999043ac8aeabbbef3ed71c9e4cd52e3613a8bd54e28381f42504e51cc912e13",
@@ -656,6 +698,15 @@
   "revisions": 1,
   "sha256": "6c6dc94d95eaeb04b91c0a96581ed7a416138e5d4824f9bfbea9b6b6cea82326",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nj-12-house-election-by-20-25"
+ },
+ "0x793f9c0d1b6c065122850842d41e3d28666292d30718e3c17ba88450799e5195": {
+  "created_at": "2026-10-15T17:01:37.716621Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 3 - 3 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-3-3"
  },
  "0x796bae5e5ee1a2842c4ddcfd56f7079a7dd77c39a477906e96bc80623c51bc95": {
   "created_at": "2026-08-24T16:33:17.163705Z",
@@ -733,6 +784,7 @@
   "created_at": "2026-08-26T21:46:53.206948Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Orlando City SC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -778,6 +830,7 @@
   "created_at": "2026-10-08T22:00:04.43413Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dzambekov vs. Parker go the distance?",
   "revisions": 1,
   "sha256": "e0304f18a2c190e45e4eca8f23e272e9b49969b4b01d6ea87b17e3d4e888b174",
@@ -1112,6 +1165,7 @@
   "created_at": "2026-08-12T00:20:07.956621Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Deportivo Mor\u00f3n win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -1198,6 +1252,15 @@
   "sha256": "dd539f980b1cbe6210c655fb69e59a6e8d61aa54841c573a0a3337ec449856c3",
   "slug": "will-jaguares-finish-18th-in-colombia-primera-a-2026"
  },
+ "0xc6151bd5fcbbcc11867d020c2dc337fe01b95b634a02f3a2d74c07441b5e6895": {
+  "created_at": "2026-11-10T02:43:27.419253Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will the Gatorade shower at Super Bowl LXI be purple?",
+  "revisions": 1,
+  "sha256": "7f264e6ffc63e3aa41ef7aa2a9ef4aa703b968b4658b13fb4cb6197b38629cb4",
+  "slug": "will-the-gatorade-shower-at-super-bowl-lxi-be-purple"
+ },
  "0xc69f9125759409e31c1b82e0243797a7e1eac97835691cee72090aa6c50cb995": {
   "created_at": "2026-11-01T15:01:09.490445Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1211,6 +1274,7 @@
   "created_at": "2026-09-23T18:06:49.383545Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will ShindeN qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1238,6 +1302,7 @@
   "created_at": "2026-10-02T20:18:35.759465Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will a Western team reach the Worlds 2026 Grand Final?",
   "revisions": 1,
   "sha256": "cc07e9a7765ee994c9564ffbe842c22875fab2ce9c0142bd279e6a1c411bdc18",
@@ -1265,6 +1330,7 @@
   "created_at": "2026-10-10T11:30:03.609058Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Franco Colapinto win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1274,6 +1340,7 @@
   "created_at": "2026-08-12T00:15:38.73752Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Deportivo Riestra win the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",

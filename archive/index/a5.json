@@ -292,6 +292,7 @@
   "created_at": "2026-08-12T00:20:05.56237Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Col\u00f3n win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -341,6 +342,15 @@
   "revisions": 1,
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-michael-pittman-jrpt-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
+ },
+ "0x34b7bf92bec303d698fac1434c1fd8592e774646b82ceddc55a28948f6c332a5": {
+  "created_at": "2026-11-04T17:37:57.55769Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Chinggis Warriors Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-chinggis-warriors-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x35f5b40760f18595b4b64563cecc84edfc8940e27b3905b1f9a1808a95e51ba5": {
   "created_at": "2026-08-04T18:18:32.588762Z",
@@ -729,6 +739,15 @@
   "sha256": "bf610e28fe76b919ec33e48801f174b64e26f4bd563441b54d894845253a19d6",
   "slug": "will-moonshot-be-the-third-best-ai-lab-at-the-end-of-january-2027"
  },
+ "0x723d7c7ffbbec06ee5fb549f792e57f7010070029a73a2b666643943e462d8a5": {
+  "created_at": "2026-10-15T18:02:38.754816Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete O/U 2.5",
+  "revisions": 1,
+  "sha256": "1775795d8a0a22d55a1c590bfb314c00aaaeec82498833c41043d55b9a604593",
+  "slug": "cdr-por-iru-2026-10-28-team-total-home-2pt5"
+ },
  "0x74a5ea8aed0261817e6be4371a73a9647bf143857c62bc66211c2d9b97d091a5": {
   "created_at": "2025-10-13T19:13:56.806947Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -788,6 +807,7 @@
   "created_at": "2026-10-02T17:59:19.858393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the US lose more than 25k jobs in October?",
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",
@@ -1416,6 +1436,15 @@
   "sha256": "959c1c572a4abf1760a4bea4c643ab191379bfdd3c5abb2c54e3f0bbf3e1d015",
   "slug": "el1-pet-not-2026-10-03-spread-away-3pt5"
  },
+ "0xda4328813f1affd22e130ad6449a0ad8b3ec13158b49e563aa2fa1022dac24a5": {
+  "created_at": "2026-10-15T18:02:38.434657Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete O/U 0.5",
+  "revisions": 1,
+  "sha256": "90a929d53ff27078ec49859f6ec5461b4b9a9a8116e6a3010f1c0a5f73581763",
+  "slug": "cdr-por-iru-2026-10-28-team-total-home-0pt5"
+ },
  "0xdc2a498e5a2be76d8fc42013f56a18792a1b179e18d9bbbf5d2d235c37be72a5": {
   "created_at": "2026-10-30T15:06:52.322128Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1560,6 +1589,15 @@
   "sha256": "bb647fbc90163c09da2e37ae7086c33333ee1fe16b7998f23b823b767ba99d11",
   "slug": "will-tacticalrab-win-the-2026-esports-content-creator-of-the-year-award-20260806165628001"
  },
+ "0xf3467bed2c7b74d974b482352895217b107e742d98a317321a710df0daf752a5": {
+  "created_at": "2026-11-06T22:31:39.877595Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Bruno Retailleau win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-bruno-retailleau-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0xf72096d3fd3da83090bcba789967f8efd0764f30106b5edaf94c084ca1c12ca5": {
   "created_at": "2026-09-28T20:15:08.016361Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1587,6 +1625,15 @@
   "sha256": "6db10b5e61bd6dbea6968a5c225f8f8438cd0d8f602d737839a5fe1b9d3c3ee1",
   "slug": "will-alberta-join-the-us"
  },
+ "0xf9d54c2c0758b02dba579be75ea93f84b605ac6f204618195609e1e8b65c3ca5": {
+  "created_at": "2026-11-10T01:01:49.972636Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Rubio's Republican nomination odds dip to 12% by December 31?",
+  "revisions": 1,
+  "sha256": "97156fcbf446bbb4c031da13032e7d68ec38004d6b736d259e23d51f72d5ee2f",
+  "slug": "rubios-republican-nomination-odds-dip-to-12-by-december-31"
+ },
  "0xfb16035ae66a29023ac616d22152870924130abc7ee956e5c2343227143231a5": {
   "created_at": "2026-10-31T11:31:05.52748Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1609,6 +1656,7 @@
   "created_at": "2026-03-25T20:08:32.278568Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Carlos Lagrange win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",

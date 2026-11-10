@@ -21,6 +21,7 @@
   "created_at": "2026-08-12T17:25:33.970261Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Paide Linnameeskond be runner-up in the 2026 Premium Liiga (Estonia)?",
   "revisions": 1,
   "sha256": "3df9cc96242d20ea27b446e15b82d5f66e517e9fb6b98b946df27be2839376a9",
@@ -48,6 +49,7 @@
   "created_at": "2026-10-28T21:54:48.571878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Fable model (5.2+) be released on November 30, 2026?",
   "revisions": 1,
   "sha256": "201e04f9a79ad68844f932332722a70ad74e7b1f01349fcececc85275c9881c1",
@@ -75,6 +77,7 @@
   "created_at": "2026-02-06T22:57:17.789792Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Minnesota United FC win the 2026 MLS Cup?",
   "revisions": 1,
   "sha256": "d6f522c00936c03b8c2049913f0da00091a5d704ee163919a2dedc8c2e2a932c",
@@ -248,6 +251,7 @@
   "created_at": "2026-09-24T08:53:10.796092Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Claude Fable 5.2+ debut at an output token price of at least $75 by June 30, 2027?",
   "revisions": 1,
   "sha256": "dd48260355b330c3d90bb699a9cdf449e1f7508cc68df11638c0852f147d0474",
@@ -573,6 +577,7 @@
   "created_at": "2026-10-01T14:27:22.119524Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Donald Trump publicly praise Volodymyr Zelenskyy by October 31, 2026?",
   "revisions": 1,
   "sha256": "e9649fb26bf982c05288c7e037c8fa392b6de9df3b3f1cc92475b3d4d037e340",
@@ -699,6 +704,7 @@
   "created_at": "2026-09-22T16:20:31.410725Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Denton County in the Texas Senate race in 2026?",
   "revisions": 1,
   "sha256": "9a01a171976779301df79e43436536b4ef02dd9c2a11bf9e8cdfcaf68d90161d",
@@ -744,6 +750,7 @@
   "created_at": "2025-11-14T16:11:43.792973Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Republicans lose a seat in the House of Representatives in any state Trump won in 2024?",
   "revisions": 1,
   "sha256": "3a3b8cf33456d62e62fbe7ca0b731fcd89b78c0ad86e2a07d5a5cd788beb8638",
@@ -821,6 +828,15 @@
   "revisions": 1,
   "sha256": "0e1d2ba96ea92adb433b37b61b0e55e0b2030e372c31e0cd7be11037789fc5d3",
   "slug": "will-the-republican-party-candidate-win-the-2026-va-09-house-election-by-45-50"
+ },
+ "0x8ca5913270b81e33b9667dd7e6d449aec2ce2b71c0a90108e2667337762a7d40": {
+  "created_at": "2026-11-10T02:41:57.126959Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Public Service Announcement\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-public-service-announcement-be-played-at-the-2027-big-game-halftime-show"
  },
  "0x8d334dd3dca241ccefa7c385ce50b03bd5494f41a1dbb85ab0b499438fa2f940": {
   "created_at": "2026-07-08T21:32:58.888705Z",
@@ -907,6 +923,7 @@
   "created_at": "2026-10-10T11:30:38.805464Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Who will finish higher: Albon or Jr.?",
   "revisions": 1,
   "sha256": "a264547f5392d05a397d04b16632f5062eb42b83140dd8f05a79afd2858d8a5a",
@@ -920,6 +937,15 @@
   "revisions": 1,
   "sha256": "f2b5eaeeaac2cb739053968bc00c001edbb06cc072bcbc7ed6eae5c4e24b5ee5",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-08-house-election-by-35-or-more"
+ },
+ "0x9d8556df5b0e2a01d157c3ba8edd73c43309b0834af3891dfcfd5477018c6440": {
+  "created_at": "2026-10-15T17:01:21.421314Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 2 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-2-4"
  },
  "0x9f9f3485b2deacb72e21acfe1f9ab04bbb45dd71d0569f392bd50a32784eb040": {
   "created_at": "2026-09-18T08:45:53.656281Z",
@@ -958,6 +984,15 @@
   "sha256": "f46155dc485204349bfab0b62492076cc5e5c838b6f71cf3bef59673eadf1562",
   "slug": "malik-willis-30-passing-touchdowns-2026-27"
  },
+ "0xad6338947912d886205a2fb5c1abc8a50f610d08c088b804eb7962bbd9e16f40": {
+  "created_at": "2026-11-07T00:10:47.161411Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Gilad Erdan receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-gilad-erdan-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0xae6a47137560e4eff884c1bf454abea0507615efb06510c6d1f86a57cda9e540": {
   "created_at": "2026-08-04T03:09:32.442901Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -975,6 +1010,15 @@
   "revisions": 1,
   "sha256": "4b8788ad6c4a691244956d6fe964cc0e3f516da6adee939b3eac6a5f7a6b8a0a",
   "slug": "will-there-be-no-gemini-carbon-release-by-november-30-2026"
+ },
+ "0xb0c876950f575d5debbc2399971b920856ac4081ecfec889e0b3589c9a445c40": {
+  "created_at": "2026-11-07T00:06:37.621005Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Next US president 50+ years old at inauguration?",
+  "revisions": 1,
+  "sha256": "d3f30e4d712f5560af96c6ceeeabed309a0678be5b8bffe923588b8f4c9dc9e7",
+  "slug": "next-us-president-50-plus-years-old-at-inauguration"
  },
  "0xb1eb1b122f64c57ec33d3cf9e1bcfb6f5fd48a540a5f36d6097b57d1424d3f40": {
   "created_at": "2026-08-10T15:43:12.307629Z",
@@ -1034,6 +1078,7 @@
   "created_at": "2026-10-15T16:33:29.974526Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Jarvan IV be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -1115,6 +1160,7 @@
   "created_at": "2026-10-03T19:00:28.823692Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 4 - 5 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -1205,6 +1251,7 @@
   "created_at": "2026-09-30T23:47:09.425365Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Alaska passes ballot measure banning noncitizens from voting?",
   "revisions": 1,
   "sha256": "cb80509b4e8126bd1b8020a2947651f29c007aeac1616d6c14878dbe58a3c56a",
@@ -1283,6 +1330,15 @@
   "sha256": "b73e7af3888b716d326a8c721d70dabd191b5b61d2f66bb4d397044bd2ba8c7f",
   "slug": "f1-qatar-grand-prix-h2h-verstappen-vs-hadjar-2026-11-29"
  },
+ "0xe1401b722d417482cbc2929ab5273e54ec65a28ada495f6e1961f1e927dda740": {
+  "created_at": "2026-11-07T00:10:42.613935Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ayelet Shaked receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-ayelet-shaked-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0xe18b79488273cbb0db4a8ed09561821a788fb1704251bb35d3fc1c26bd7e7540": {
   "created_at": "2026-07-24T01:47:38.698416Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1332,6 +1388,7 @@
   "created_at": "2026-06-26T15:51:13.692019Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Ricardo Samaniego win the 2026 El Paso County Judge election?",
   "revisions": 1,
   "sha256": "d64f0247b3a9814273dc53e080bdfbe852d8997ddf6caeceed5911c5f890ba1b",
@@ -1363,6 +1420,24 @@
   "revisions": 1,
   "sha256": "88b90fe87fe6bdfd88822a1c73021886f11ff7d47f888d40fb8e07555269428c",
   "slug": "will-dylan-lonergan-be-the-2026-big-ten-passing-yards-leader"
+ },
+ "0xec08dac952463fe5f68158df865b4489bfc67e04c348bec4e057841764e39040": {
+  "created_at": "2026-11-06T23:16:56.815442Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Hasbulla attend a UFC event by May 31, 2027?",
+  "revisions": 1,
+  "sha256": "75de7e60b623950b1399ac463d89703b8ddf02b362cd52ccc4219353f0f5e0b3",
+  "slug": "will-hasbulla-attend-a-ufc-event-by-may-31-2027"
+ },
+ "0xf07911315f12b279058e258849131a3dd1eeab7a8c55d0ee68b4ec61548e0340": {
+  "created_at": "2026-11-06T00:02:41.808619Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Damon Hininger be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-damon-hininger-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0xf0d2ca21efacbcae416f6e997064452c78f4037cfac070b691c70122de89d640": {
   "created_at": "2026-09-27T20:09:01.534582Z",
@@ -1422,6 +1497,7 @@
   "created_at": "2026-10-25T04:01:34.622814Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will South Korea ETF (EWY) hit (LOW) $144 in November?",
   "revisions": 1,
   "sha256": "aa033054bc4e6eee478381e2d05184e386602f7815f06580f02dfc1cac649bb5",

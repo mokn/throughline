@@ -220,6 +220,7 @@
   "created_at": "2026-08-12T14:59:28.597835Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Oklahoma State have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -405,6 +406,15 @@
   "sha256": "3358c0c78e84da417bb233abd522fcac94c308d69794ad06c5ff505abc4341c3",
   "slug": "will-jamal-musiala-win-the-most-player-of-the-match-awards-in-the-2026-27-uefa-champions-league"
  },
+ "0x3d70d43781b18c094dd7557775d7b5e555f7b479583396861b5a0d0b43793d05": {
+  "created_at": "2026-11-07T12:31:20.156688Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Pierre Gasly finish on the podium at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ec572481bc5d457e6f22dc27ceb03e317a2b6ecc2be79601dea824efe75f7096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-podium-gasly-2026-12-06"
+ },
  "0x3eab57caa701b4a4afe9ad5af246157871cded947adff727318d873d88938205": {
   "created_at": "2026-09-28T15:12:29.66095Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -449,6 +459,15 @@
   "revisions": 1,
   "sha256": "e72f081f269eb83da4e815009e291507ce52a6d9a9649eb6de95ff2e39add450",
   "slug": "will-the-republican-party-candidate-win-the-2026-nebraska-gubernatorial-election-by-30-35"
+ },
+ "0x4690b13f320699699eef5c1131e72d26416b62bceb57a64d83ef9020a3002505": {
+  "created_at": "2026-10-15T18:01:09.39987Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "275565eed0c1332d2b983cd132d8ee8c362b31f7d709874399e5df7f4c3fd2eb",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-home-1pt5"
  },
  "0x48c3d5d3f39be4ad5ebb4c0a3bbbd69a5bcea298df64fabf884270b856385a05": {
   "created_at": "2026-07-20T20:02:38.421533Z",
@@ -639,6 +658,15 @@
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-khalil-shakir-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
  },
+ "0x65c3bda258f4a0bc56b1c24dadee17cd56145f57b8deaaeffbafa247635f6605": {
+  "created_at": "2026-11-07T04:03:44.186976Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Putin meets with Iranian officials by December 31?",
+  "revisions": 1,
+  "sha256": "b8113e44dec14f3b4bd7bf79fc360f6cb5302a66e2c32c414cf4c3a3b3f71813",
+  "slug": "putin-meets-with-iranian-officials-by-december-31-20261106"
+ },
  "0x665b013ed6f0c54d35b7ca072dbb8775aae2f2a9cc3307b2a06009f9041c1c05": {
   "created_at": "2026-07-20T19:37:25.981132Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -747,6 +775,15 @@
   "revisions": 1,
   "sha256": "b45e065869f0006c06bd024105cb359f1291b1892fc470049bd45390010affa7",
   "slug": "will-danjuma-laah-win-the-2027-kaduna-state-gubernatorial-election"
+ },
+ "0x71a1ea44cfcfc642a5a2d3ae890f4aafbbd2142c0fdb637203b740f9299c5305": {
+  "created_at": "2026-11-10T02:39:23.378132Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Meta run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-meta-run-an-ad-during-super-bowl-lxi"
  },
  "0x735b6471551a46d6573ef4339c88257932e3746687467778c43a7ae629efa305": {
   "created_at": "2026-09-27T20:09:44.056123Z",
@@ -943,6 +980,7 @@
   "created_at": "2025-12-15T22:05:25.499837Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NY-17 House seat?",
   "revisions": 1,
   "sha256": "4f42c5488ef98a5cd28fc81bd6b9b661dd099f096582823f679b69f60e8f815d",
@@ -1201,6 +1239,15 @@
   "sha256": "a5a282d44d1ca5fbb35160552fd3d491aab195d5f133212be569f123ddc262e3",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-47-house-election-by-10-15"
  },
+ "0xb9c3701450a78381af489f8ef1dcd544c2cb4b9ec88220e18b1739ada5116b05": {
+  "created_at": "2026-11-06T21:50:26.70348Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Republicans win the Presidency and Senate, and the Democrats the House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-r-president-r-senate-d-house"
+ },
  "0xbb9c075b017c2fa0e41a6abfa1e8798a64031ab4a1ff6cf053adf551f5892c05": {
   "created_at": "2026-10-13T15:50:44.85974Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1392,10 +1439,20 @@
   "sha256": "9e39147f5ce5721c38f995945230c3928b10ab118be74f1709a9d90dd82f043a",
   "slug": "will-miami-dolphins-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414204"
  },
+ "0xe38791dbd06f4ec01bcabc507eca779c7a7b0512c526e9e1bd25082f8d570005": {
+  "created_at": "2026-10-15T18:02:12.914943Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: RCD Mallorca (-5.5)",
+  "revisions": 1,
+  "sha256": "5c5dd112cf46407aea0c1420461baa1c65990812b6dce30dd56a4c0f32fed68d",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-away-5pt5"
+ },
  "0xe49199a43e00fc932c202a504b03f257ff4aee661d8a83e387670862919a8405": {
   "created_at": "2026-07-10T02:08:35.005875Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Angela Gonzales-Torres win the CA-34 House seat?",
   "revisions": 1,
   "sha256": "c049c102c3c652af011545928c1b4f893a04da5c3d4a0598d33bbef1fd8f04ea",

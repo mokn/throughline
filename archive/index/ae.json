@@ -17,6 +17,15 @@
   "sha256": "064c10d8be9fa1f4b70632230f4e6966d8a75385756649ee23f94075562e55fb",
   "slug": "nawrocki-out-by-december-31-2026"
  },
+ "0x00941641b32ade97ce5d9c2b41236b61cac02cfa2ca855ec23983a7cb19258ae": {
+  "created_at": "2026-11-06T22:31:43.65879Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will S\u00e9bastien Lecornu win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-sebastien-lecornu-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0x00f9736b39c8fb806774bc7e6e43a74db284a597221aabc21f5e6bb8ab9680ae": {
   "created_at": "2026-10-15T10:09:44.474249Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -211,6 +220,7 @@
   "created_at": "2025-12-15T20:33:57.939623Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the MI-07 House seat?",
   "revisions": 1,
   "sha256": "423c2d9757a2f9b06b687dbda396261806f43a0ce1ba023b0aa82b29124b0b47",
@@ -252,6 +262,15 @@
   "revisions": 1,
   "sha256": "7af628088575f4f337d5bf66c3b37fb3380d36bca85512bddaab1948d30c2a6d",
   "slug": "will-ipswich-town-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0x1d90593d6147472085aa592738cfb773b91ca1eeb191c0ee176d3f63cb939eae": {
+  "created_at": "2026-10-15T18:02:14.578485Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "2a091e3fc9af59b44693aa2abd1f72508144fda41d81dfad25417d5c3aedfa43",
+  "slug": "cdr-ca-mal1-2026-10-28-btts-first-half"
  },
  "0x1fd62e3d378300ddbd9d03ea92a8f1058c72a2ae58ab4d81db9a02a2783061ae": {
   "created_at": "2026-10-13T15:50:54.594605Z",
@@ -374,6 +393,7 @@
   "created_at": "2026-10-08T22:00:10.055344Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bentley vs. Jr. go the distance?",
   "revisions": 1,
   "sha256": "76181e4cc67e53d8d2a8c48e52d7d6806334dc1e4da99dd2c0cd21d173420e87",
@@ -781,6 +801,7 @@
   "created_at": "2026-08-12T14:58:48.528272Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will NC State have more than 7.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -854,6 +875,7 @@
   "created_at": "2026-10-27T21:55:54.80872Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Another vessel struck in the Black Sea by November 30, 2026?",
   "revisions": 1,
   "sha256": "11d97ff057466594483b107bef5fe380242f4d54d1b19e28605b43df8928bfc1",
@@ -885,6 +907,15 @@
   "revisions": 1,
   "sha256": "58a9e34122f272beaa29ed6868faa72b485135546128c07766a0e64f6d5faf94",
   "slug": "will-the-denver-broncos-be-the-afc-1-seed-for-the-2027-nfl-playoffs"
+ },
+ "0x8e968028f5b5d09e18fac2769ffd64b2d902e03d41a33cf585e6be0d038ad3ae": {
+  "created_at": "2026-10-15T17:01:36.458259Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 1 - 0 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-1-0"
  },
  "0x8ebc4b044a7fc525820908d25f0a6927c740aa19241de35535e230b8592c44ae": {
   "created_at": "2026-08-07T20:30:51.490447Z",
@@ -940,6 +971,15 @@
   "revisions": 1,
   "sha256": "2a90fdaa6a8b9ad7633ad32e030ff778582d67924e8e9077d49c20bed8b523f4",
   "slug": "will-aaron-jones-srpt-be-the-highest-scoring-rb-of-the-2026-27-nfl-season-20260806224130460"
+ },
+ "0x96d1cfc311745834c3db9da6fb22349cfc3b2c3207d25b12311b93281a0c43ae": {
+  "created_at": "2026-11-06T22:33:14.130796Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Marine Le Pen receive between 34% and 37% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "df3d2d3ef52bd220c8f27b1ad76289b42f91b656465cc83e4165bfd7b786ef1a",
+  "slug": "france-first-round-vote-share-marine-le-pen-34-37"
  },
  "0x97790f92a16ad056732f75418d033a48b6ec4a43d4fd8bc7bb813b3a2352c2ae": {
   "created_at": "2026-08-20T17:32:10.326508Z",
@@ -1003,6 +1043,15 @@
   "revisions": 1,
   "sha256": "53cfe7e3de33a9211813f9b147efdcf515f7a3a8b9e3e7dc0728e2b0682e8b7e",
   "slug": "will-the-republican-party-candidate-win-the-2026-in-09-house-election-by-30-35"
+ },
+ "0xa1c04a73c6c3cfb240134d9dbc232a8dadf9e3b1b5f63e813dcae82397df51ae": {
+  "created_at": "2026-11-09T21:18:01.743251Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will FULL SENSE Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-full-sense-win-an-international-event-in-2027"
  },
  "0xa2b2652fa197ce00ebd83bdb5e41e8addaa1f9f71933e17405ec4abe84988fae": {
   "created_at": "2026-07-07T13:07:48.796369Z",
@@ -1350,6 +1399,7 @@
   "created_at": "2026-08-28T19:43:46.988374Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Toronto FC win the 2026 MLS Eastern Conference?",
   "revisions": 1,
   "sha256": "eaf777950e049a2e80daac661f22587985e09b52d79dd38f53644ab7525d799c",
@@ -1359,6 +1409,7 @@
   "created_at": "2026-02-18T22:47:35.703363Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Juan Soto win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -1409,6 +1460,15 @@
   "revisions": 1,
   "sha256": "81ed0b5840b95056df9b11c06a56cd6c84db51fec130e427e62642d417476bf4",
   "slug": "will-geny-catamo-record-the-most-assists-in-the-2026-27-uefa-champions-league"
+ },
+ "0xe09c3bbc85f82721357513dcd67081447d1b27b5a0c1214fde17355a155f08ae": {
+  "created_at": "2026-11-07T12:31:16.986255Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Leclerc or Russell?",
+  "revisions": 1,
+  "sha256": "b437f932c23507a3d5672ec34c5414e5d409f78afeda8e9a746842c00c4be6ab",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-leclerc-vs-russell-2026-12-06"
  },
  "0xe29b33ef5bf351c8a22bfd79f8b58e62649d54ceee6f9735387cef79f52fecae": {
   "created_at": "2025-07-08T19:06:01.329385Z",
@@ -1473,6 +1533,15 @@
   "sha256": "7419df33a1c87cda1765a52a1f5da37f7ada3ed79995df0785b42b5f3ae4fc62",
   "slug": "will-chase-brown-finish-as-a-top-12-rb-in-the-2026-27-nfl-season"
  },
+ "0xec8acae7b31f44a37463f706c8b0323c2894c8a0246abf492e20a2a9f6b673ae": {
+  "created_at": "2026-11-06T00:02:46.538577Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Scott DesJarlais be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-scott-desjarlais-be-next-to-hold-blackburns-senate-seat-by-march-31"
+ },
  "0xed8f3f1a89d51c187bd8867136d246d16b6c5c8751cf46fef572205c6179c2ae": {
   "created_at": "2026-09-04T04:02:11.432502Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1481,6 +1550,15 @@
   "revisions": 1,
   "sha256": "47960a84b87f5e919552743c5559c2b94694f042c982cf075ee1e8395003e904",
   "slug": "will-the-los-angeles-rams-be-the-nfc-1-seed-for-the-2027-nfl-playoffs"
+ },
+ "0xef00ebe2a5f61650822a25ce00324b7aeeda5df00a33c7b6b99c350ce4e5d5ae": {
+  "created_at": "2026-11-07T12:30:55.62384Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alexander Albon achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-alexander-albon-2026-12-04"
  },
  "0xef909d6e7306a929a561cd247d1768ad4bc78ce2ad9eb6f8594c450a795e13ae": {
   "created_at": "2026-10-13T15:50:02.972916Z",

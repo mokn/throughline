@@ -120,6 +120,7 @@
   "created_at": "2025-12-15T21:12:35.289977Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the NY-03 House seat?",
   "revisions": 1,
   "sha256": "f0db1a5bb9ac2a88db81e2f3f4a45e9cf041e11384cf53b7286cc88f6e0037ad",
@@ -160,6 +161,15 @@
   "revisions": 1,
   "sha256": "fa7860a19c7590b49f634a4d18e90c2cb02cd2bb05872d8d8747defb57efe231",
   "slug": "will-the-republican-party-candidate-win-the-2026-co-03-house-election-by-3-6"
+ },
+ "0x27f7356fa35a3bf1ef8c9b0d02b5d795dea27bdd74144a08d75400afe9b64116": {
+  "created_at": "2026-10-15T17:01:21.677475Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 4 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-4-3"
  },
  "0x293fb1c36ea0f8f34e60205c9d0d8923c9eae6ef65459f18f83c028a09c88f16": {
   "created_at": "2026-08-24T16:35:47.692332Z",
@@ -260,6 +270,15 @@
   "sha256": "6810b75463a716df1b0ccc72df29d3e3842d58f224cd386416b2788395f66965",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-09-house-election-by-35-40"
  },
+ "0x3a1f4bcbf6beea8a89b040ff60c16fcff3e2a5ee01c65c7577493e7a6bc06116": {
+  "created_at": "2026-11-09T21:18:06.126354Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will JD Gaming Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-jd-gaming-win-an-international-event-in-2027"
+ },
  "0x3e365ffc235373f1b85766e4f284a4a3c68fd2c50a29443b3ce3ceaf04cdc916": {
   "created_at": "2026-09-21T16:11:57.105961Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -296,6 +315,15 @@
   "sha256": "5f61dd1142ae9cd5f12f73b8721fda86dd88c6dc8297715ea283901774b753c8",
   "slug": "will-chloe-kelly-win-the-2027-womens-ballon-dor"
  },
+ "0x43ba3aa54896ac4ed70a1cced8888ee633243516fae97b82c7ca9b580a43ca16": {
+  "created_at": "2026-11-10T02:45:15.638947Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Lady Gaga sing the national anthem at the 2027 Big Game?",
+  "revisions": 1,
+  "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
+  "slug": "will-lady-gaga-sing-the-national-anthem-at-the-2027-big-game"
+ },
  "0x4425421f799aae6119b5384e3c3a8b497966c67d3f647a69d68aba1138a03816": {
   "created_at": "2026-08-28T19:39:42.811679Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -309,6 +337,7 @@
   "created_at": "2026-02-18T17:11:09.9269Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Albert Rusn\u00e1k win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -377,6 +406,15 @@
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
   "slug": "will-jack-elliott-win-2026-mls-defender-of-the-year"
  },
+ "0x627d62bd06311aa754fbcca180355d57648982fd8ea208735026518b3dba4616": {
+  "created_at": "2026-10-15T18:01:51.728319Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 3.5",
+  "revisions": 1,
+  "sha256": "cb5915c62aadd3c229eb86419b445f7fa9506359bee781b0bb4f02c80427bede",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-3pt5"
+ },
  "0x631e6ea11502174f72cbe57b6fde430120edbe4fbd88cee6f32d07e15bcfb916": {
   "created_at": "2026-08-18T14:22:33.284431Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -412,6 +450,15 @@
   "revisions": 1,
   "sha256": "59097d6070ae27d464dfd9b59206721f26133aee7c7b249fef9de506af5787a6",
   "slug": "will-lamine-yamal-barcelona-record-the-most-assists-in-the-2026-27-la-liga-season"
+ },
+ "0x65bd37980714f5c30cabde90148dc3517754900e2380221abaf512629a689f16": {
+  "created_at": "2026-10-15T18:02:40.051997Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 4.5",
+  "revisions": 1,
+  "sha256": "42662c33746cf292b94d945c73900bc81830605517e85a3df3330a25bfe1da64",
+  "slug": "cdr-por-iru-2026-10-28-team-total-away-4pt5"
  },
  "0x684c63557f46fa18da30d43362d04630ed183b9d8c68c68b71727f72bd7f3616": {
   "created_at": "2025-12-29T19:08:36.860246Z",
@@ -503,6 +550,15 @@
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-09-house-election-by-0-3"
  },
+ "0x781fb28b633fa2f9731d6c6a5350072e4642e6473980950c267296ffd078dd16": {
+  "created_at": "2026-11-07T12:30:19.89492Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Yuki Tsunoda get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-tsunoda-2026-12-05"
+ },
  "0x78c3df5bbefe5d039391db5536b19481b1a508a871578535125f100a97398116": {
   "created_at": "2026-08-26T21:46:46.671977Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -589,6 +645,7 @@
   "created_at": "2026-10-10T11:30:08.041755Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Tgr Haas have the highest constructor score at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13711fb14177e94e215272f2feab2b3492c7a6cc383bfd8b11e15f9eef985aa7",
@@ -658,6 +715,15 @@
   "sha256": "b82b1d43ab90d322396a4a71974a366954717a1e95124cc5fffbbd132c37805a",
   "slug": "will-fbc-melgar-be-relegated-from-peru-liga-1-2026"
  },
+ "0x8fdd9e4b5a37203382cfc812adbb5d5af22fa56346fc7dbf635741d677599416": {
+  "created_at": "2026-10-27T02:14:21.734282Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Vin\u00edcius J\u00fanior win the 2027 Ballon d'Or?",
+  "revisions": 1,
+  "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
+  "slug": "will-vinicius-junior-win-the-2027-ballon-dor"
+ },
  "0x9047ea4c60d446771fd0bee4174fec83ab555d05912bb2dc71dc65db97860416": {
   "created_at": "2026-10-25T04:01:06.937632Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -720,6 +786,15 @@
   "revisions": 1,
   "sha256": "a541cfe3a59cb25f8581339214745d225b5340a9d7f10db672cfb90513f0ba56",
   "slug": "mex-que-mon1-2026-09-05-exact-score-3-2"
+ },
+ "0x9934f900deca4b8d00090752120391ad351e5c9faac907a28858b37dd00bd516": {
+  "created_at": "2026-10-15T18:02:49.947003Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "0d4f05f57927e2c01f36a4213d2c83ae46e27fa3671413e9271fd3d3577a235b",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-team-total-away-1pt5"
  },
  "0x9a22f275ad5ebdac774ea6ad6f9e52fcb252187980a0be2becdb24c338b9a716": {
   "created_at": "2026-04-01T17:55:22.279187Z",
@@ -815,6 +890,7 @@
   "created_at": "2026-08-12T17:30:29.800945Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Colorado Springs Switchbacks FC be runner-up in the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "30bf7340fe7a1a7712b6b573d3c17935f357061bf3657e4733c348e2f4213d33",
@@ -1041,6 +1117,7 @@
   "created_at": "2026-10-10T11:30:14.876269Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Cadillac get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "7ea8f93fa1a54e6036981326164be1cc7c9b93909384958de042d23e59d78a7b",
@@ -1054,6 +1131,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-new-york-giants-have-more-than-8pt5-wins-during-the-2026-nfl-season"
+ },
+ "0xc23318292d1d276c8fbdab9c03815864b013a73ff9ece7863db7b6beedd2af16": {
+  "created_at": "2026-10-15T17:02:01.398396Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 4 - 2 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-4-2"
  },
  "0xc2a7588ef39cf75fa19d0892436081f010c69967c82a5ec544352e8bb2052a16": {
   "created_at": "2026-10-13T15:55:43.248251Z",
@@ -1167,6 +1253,7 @@
   "created_at": "2026-02-18T23:01:00.487053Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Hunter Brown win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -1230,6 +1317,7 @@
   "created_at": "2026-08-26T21:46:18.845551Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Waterford be relegated from the 2026 League of Ireland Premier Division?",
   "revisions": 1,
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",
@@ -1252,6 +1340,15 @@
   "revisions": 1,
   "sha256": "7d25aee8c5e3e94bc66c75b03fcc1ce1c9c812c6b8a8ac517be98e3b448c9f08",
   "slug": "will-the-bank-of-russia-increase-the-key-rate-by-25-bps-at-the-february-2027-meeting"
+ },
+ "0xe35d52183301ba73fa98f4f7944b6bf6fde7686d3382f99406652b6c359fcc16": {
+  "created_at": "2026-11-07T12:30:03.257122Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Fernando Alonso win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-alonso-2026-12-06"
  },
  "0xe77faaafd7c25fd0427e12422a4a8926af53af7b87fcf9cd30ce7b4dae67f416": {
   "created_at": "2026-10-28T03:00:11.801874Z",
@@ -1306,6 +1403,15 @@
   "revisions": 1,
   "sha256": "ee3d0e483d3fef0db5b804f7b837d3a6b02ff0f7a5e4b03afe2a2f53cad5a5bc",
   "slug": "will-wen-shih-cheng-win-the-next-nantou-county-magistrate-election-20260813135716702"
+ },
+ "0xed67d536a855b301ddd40dd943f93e0de49753894e22b46c536bdf3609f6da16": {
+  "created_at": "2026-10-15T18:01:52.61583Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Badajoz 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "f84b6694b1806340e52ba47749473bf556977b1201f505b82bb75f069e8e6796",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-home-1pt5"
  },
  "0xee14a95547381cf97d33feccbcb862f65cbd628efb666336f3deb75d6619d316": {
   "created_at": "2026-09-18T00:10:56.059055Z",

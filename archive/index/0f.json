@@ -48,6 +48,7 @@
   "created_at": "2026-08-26T08:44:16.603672Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 2nd Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "d8db7e98462efd10b8c27921d0a7523fea1162de88582dd674e432bd17179370",
@@ -178,6 +179,15 @@
   "revisions": 1,
   "sha256": "ff751e58354066dd4bbdcb1cb0514d55dbe859720f4b34b830d47417b430b514",
   "slug": "will-sc-freiburg-finish-second-in-uecl-league-phase"
+ },
+ "0x1f1396a444b12c5f7cf0d840aae5fa8dee8984d9371b99bef2fd10e5143a890f": {
+  "created_at": "2026-10-15T17:02:04.063281Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will FC Cartagena win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "66ba38715730c827cf8043fa50e15d1095779ed2b634b1738568a653ef5add6d",
+  "slug": "cdr-cd17-car-2026-10-28-car"
  },
  "0x1fab35067db952ff09d08e47e65c324ab2e06d88762884779e13d437a7b5410f": {
   "created_at": "2025-11-11T21:45:52.289087Z",
@@ -599,6 +609,7 @@
   "created_at": "2026-07-01T22:41:31.944961Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "California wealth tax defeats opposing propositions?",
   "revisions": 1,
   "sha256": "a1796d54ceac1a6f77a7dcb8db2269b3eaf41fd01fd3ccd90394edac43285e00",
@@ -608,6 +619,7 @@
   "created_at": "2026-08-14T21:26:44.934349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the LA-04 House Election?",
   "revisions": 1,
   "sha256": "2d75727dde58ae8514f411264d584b4e15f882f7517ba938077b0a15e30745e3",
@@ -780,6 +792,7 @@
   "created_at": "2026-08-12T00:20:09.621099Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Ferro Carril Oeste win the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "ad2eabc2f95a991fb3dba4d013c8728b64537d01899da0096a012b78178ff8a6",
@@ -857,6 +870,15 @@
   "sha256": "e516bed633e0cffd82e5f0a06ae8cd2b8ab949875a31eda3dff60fcbad04a622",
   "slug": "will-durban-city-finish-3rd-in-south-africa-premiership-2026-27"
  },
+ "0x8cd20b37a7e305838f1079a383f5a11b544c08434a9a0993200d06fe8590190f": {
+  "created_at": "2026-10-25T10:15:18.114221Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 2 - 2 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-2-2"
+ },
  "0x8d9d5adb0dde49b1351886b201c37b6c40feb926200a3ebff1037969a6d9640f": {
   "created_at": "2026-10-11T11:46:09.807794Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -922,6 +944,15 @@
   "sha256": "e5fd6ceba548aad9e1cbd48ca2390ddbfc8ccd90aaef035379c61776d230cdb1",
   "slug": "will-clive-davis-be-the-1-searched-passing-on-google-this-year-20260717220846818"
  },
+ "0xa0f22ef5ed006767ca4a06edc7f860495f74f3badcd9923932d8f6ab8e53560f": {
+  "created_at": "2026-10-15T17:02:05.361385Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 1 - 0 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-1-0"
+ },
  "0xa320c9e24ff2a53625dd901306783ccb1c567a8be3670be2244a261db5a3740f": {
   "created_at": "2026-09-04T15:57:50.122145Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -966,6 +997,15 @@
   "revisions": 1,
   "sha256": "f067aa1686b006d2ad8bee85c6e0a383c9a30117713d1bc67b00c2c6f3441023",
   "slug": "will-moonton-games-win-the-2026-esports-tournament-organiser-of-the-year-award"
+ },
+ "0xa67eabd11f35ba99d1752953143ec0e1251dda89b5fbce053aa66208bc1f590f": {
+  "created_at": "2026-11-10T02:40:46.487366Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Hard Knock Life (Ghetto Anthem)\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-hard-knock-life-ghetto-anthem-be-played-first-at-the-2027-big-game-halftime-show"
  },
  "0xa7a514a686487b8d4a042638af04b821d2044cdd2dfa10fe2b931c9587bdde0f": {
   "created_at": "2026-08-24T16:39:11.807363Z",
@@ -1085,6 +1125,15 @@
   "sha256": "378c7c93a0eb53dc2b10a004ac1810dd0c18bdaabdc33caa67cdbaadc4b547c9",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-01-house-election-by-0-3"
  },
+ "0xb4652099308b8ed46583d51e1f33ce745b667ee3c613027d29a0844696297b0f": {
+  "created_at": "2026-11-06T22:34:19.798682Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon receive less than 12% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "91e62f7634e9da6fbdf0ef28c7e147275d06ebba136dfd5478b7cd5dc2e5b455",
+  "slug": "france-first-round-vote-share-jean-luc-melenchon-less-than-12"
+ },
  "0xb65ea6fc8e34f05b7d0221af116552a419845606310e14e6628162e1194bcd0f": {
   "created_at": "2026-07-29T21:13:54.162969Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1179,6 +1228,7 @@
   "created_at": "2026-08-24T16:38:02.78978Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Fortaleza finish 3rd in the 2026 Brazil S\u00e9rie B?",
   "revisions": 1,
   "sha256": "6e0ae26a06862d3adea7b58ebd2995048192772870f6561bacc4ebb153a2390c",
@@ -1237,6 +1287,15 @@
   "revisions": 1,
   "sha256": "7285db3c234ba8b0cb1ec256f7e0fb0021dd78fca347697aa735d23da4acbefe",
   "slug": "will-the-democratic-party-win-the-fl-09-house-seat"
+ },
+ "0xd18d883747fac9eef71cb1d773589f25b37480a9cfb88aa3444e359fbfb5370f": {
+  "created_at": "2026-10-15T18:02:13.522812Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 3.5",
+  "revisions": 1,
+  "sha256": "94fa9202b11c8c3181fe9b811f4cd0e4cdab1a25ae454ea0f4599dbfc0a33481",
+  "slug": "cdr-ca-mal1-2026-10-28-total-3pt5"
  },
  "0xd1c4866b28d6b1dbc3eb6dc71a55d6d29e06f36773ba0a7d2449f4d922338c0f": {
   "created_at": "2026-10-21T17:09:18.427011Z",
@@ -1404,6 +1463,7 @@
   "created_at": "2026-08-14T21:18:59.598438Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-12 House Election?",
   "revisions": 1,
   "sha256": "d9d209780beecce78cbdf382bc78f28c8f821a4e50ab7dd778ea4882533947e9",
@@ -1522,6 +1582,7 @@
   "created_at": "2026-08-26T21:46:35.666096Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will V\u00e4ster\u00e5s SK finish 3rd in the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "e4df93d6040341dd05d996a49cb83ee995b6f5b0a26cf999df7f0fa82ef6356c",

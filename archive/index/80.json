@@ -147,6 +147,7 @@
   "created_at": "2026-08-26T08:44:16.307805Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 2nd Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "f1f4ce4a0b257dce7a401191ad90c38c52c03f480e630b81695ff4bd79097f1b",
@@ -378,6 +379,15 @@
   "sha256": "ed6afa8a002a543b173dcaa43be09024dcbd69cc6626b69a7d767032451943de",
   "slug": "will-cristiano-ronaldo-join-the-liga-mx-next"
  },
+ "0x3d72e06f95e0daf3d87f55cbf28c43300d6940d0a941d7b717ec3e16e5bfbb80": {
+  "created_at": "2026-10-15T17:01:38.216016Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 4 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-4-4"
+ },
  "0x40249d25f830ea7e88f01d5a41a118f1982adf9786588002a823b38cb3f24d80": {
   "created_at": "2026-01-28T15:29:10.767068Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -442,6 +452,15 @@
   "revisions": 1,
   "sha256": "0ed4bbd3e337c88f73286cd4a6a816a7101297712901ada21704914b528cf286",
   "slug": "will-the-colorado-avalanche-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657079"
+ },
+ "0x485ddd5568304f5b5daa987f33fd2432bf23615b90af2648dfc477873483ce80": {
+  "created_at": "2026-11-07T12:30:12.223055Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Cadillac have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-cadillac-2026-12-06"
  },
  "0x4cd4202b0a6b8c1704576bc0aa86d7214da0e20f7424c4cbe27cbf7c4c27d980": {
   "created_at": "2026-10-29T20:54:45.69464Z",
@@ -546,6 +565,7 @@
   "created_at": "2026-01-28T15:36:56.72318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the NY-02 House seat?",
   "revisions": 1,
   "sha256": "409eeb32d7c1fd2f4bf60294cded4957e3c5b4424c6e19d79f851af36daf9e8e",
@@ -555,6 +575,7 @@
   "created_at": "2026-05-22T18:33:45.975147Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Russell T. Vought be the next to leave the Trump Cabinet before 2027?",
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
@@ -832,6 +853,15 @@
   "revisions": 1,
   "sha256": "b2003a4ef9a3cf2ff01dcb5f29c2b854d61fc2f861cf46f523b00f51dbf2330f",
   "slug": "will-erling-haaland-man-city-be-the-top-goalscorer-of-the-2026-27-premier-league-season"
+ },
+ "0x90ee50959e92394a3c8fd0493c0384a794a999f1ad1168b527135d1f028fbc80": {
+  "created_at": "2026-11-10T02:03:32.209269Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Nikolas Ferreira be the next President of Brazil's Chamber of Deputies?",
+  "revisions": 1,
+  "sha256": "4a00c903ea29af55c310be8de842b6ec4cc6a253923418649e340f9fc3e779e4",
+  "slug": "will-nikolas-ferreira-be-the-next-president-of-brazils-chamber-of-deputies-20261106"
  },
  "0x928d82137cedb27c275a1b0a602a45ffaf998a8478682151a98686688302fb80": {
   "created_at": "2026-04-22T21:53:28.708002Z",
@@ -1245,6 +1275,7 @@
   "created_at": "2026-08-31T18:17:56.112636Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Marek Zelenka be the next Mayor of Olomouc?",
   "revisions": 1,
   "sha256": "7281809af5844bfd3378ddb1858b3c2ef39b80ab36da07ff4d846bec8a535f99",
@@ -1263,6 +1294,7 @@
   "created_at": "2026-10-10T11:30:45.212203Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Nico Hulkenberg finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -1456,6 +1488,15 @@
   "revisions": 1,
   "sha256": "bcb84c1f17eeafea27ccedaffe510b1b498ebdfb17bf8e87585ebb9230c719f3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-21-house-election"
+ },
+ "0xf33a334a3eae17d8b1c22ed663e6218e75afc14ae1959e7039bd74032c784d80": {
+  "created_at": "2026-10-15T18:01:47.503476Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 0.5",
+  "revisions": 1,
+  "sha256": "219316a1f0446e0c37e968821fa5087dd461e4e27a6693629f820fd2aa5d1896",
+  "slug": "cdr-bad-cdt-2026-10-28-total-0pt5"
  },
  "0xf45f5a6ce7ebffefc48f4cd298bbc319fa6e705087c4406e3109ab6ac1d11780": {
   "created_at": "2026-08-26T21:46:43.721053Z",

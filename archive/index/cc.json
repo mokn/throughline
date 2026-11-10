@@ -147,6 +147,7 @@
   "created_at": "2026-01-28T15:41:54.013201Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party win the WA-04 House seat?",
   "revisions": 1,
   "sha256": "1b42af98f1dfc45487ab0869c70234f24d63269e1ea8bcb4ba9cb558dcc21fae",
@@ -202,6 +203,7 @@
   "created_at": "2026-09-02T18:10:01.290023Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win older women in the midterms?",
   "revisions": 1,
   "sha256": "e4d16f3a2957d15ca611ac4db8ba6b0fb9f5e76ac9601bfa61d99c282c54e07c",
@@ -270,6 +272,15 @@
   "revisions": 1,
   "sha256": "a541cfe3a59cb25f8581339214745d225b5340a9d7f10db672cfb90513f0ba56",
   "slug": "mex-que-mon1-2026-09-05-exact-score-any-other"
+ },
+ "0x29b2bb35f958dd572449cf05b1a543fc63d5f9746ccdd089d4d15c7a10f5c8cc": {
+  "created_at": "2026-10-15T18:02:49.559082Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: Utebo FC 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "10d1ded1779dcaa6bbe220b13cecb7db5e8c5fc30e73c257bb25ec5bae71e39b",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-team-total-home-3pt5"
  },
  "0x29bac54c808714e8cd14cb6f3624e7c37540709069cb942264b56b874ec3c0cc": {
   "created_at": "2026-10-28T18:01:12.738457Z",
@@ -501,6 +512,7 @@
   "created_at": "2026-01-28T04:53:07.106751Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the AZ-08 House seat?",
   "revisions": 1,
   "sha256": "180743e86aeb39b5213edd65c7f10d63fd944c3e05e3c69e3d5277ff00367900",
@@ -614,6 +626,15 @@
   "sha256": "ab45d5463363818e7216cb171462aa0ad4d6eee5e2318c5bf359b53a25608874",
   "slug": "will-cahir-die-during-the-witcher-season-5"
  },
+ "0x6e75b251f9e0a7e4b7df2190e0633809b5834f166606dc268433a3510d8abacc": {
+  "created_at": "2026-11-10T02:03:31.07569Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Kim Kataguiri be the next President of Brazil's Chamber of Deputies?",
+  "revisions": 1,
+  "sha256": "4a00c903ea29af55c310be8de842b6ec4cc6a253923418649e340f9fc3e779e4",
+  "slug": "will-kim-kataguiri-be-the-next-president-of-brazils-chamber-of-deputies-20261106"
+ },
  "0x6f0d06d359ab76f3a285ff977d0d481728bc5c9760047a40b17917af646a0ecc": {
   "created_at": "2026-09-18T08:46:17.431655Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -654,6 +675,7 @@
   "created_at": "2026-02-18T17:10:57.795432Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Alonso Mart\u00ednez win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -844,6 +866,7 @@
   "created_at": "2026-10-02T20:15:28.329725Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Orianna be the most played champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
@@ -1225,6 +1248,7 @@
   "created_at": "2026-08-11T14:10:59.487585Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 0 House seats in Nevada in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9842e2670455f8cfbaa10bdcd392ee7c8f3ff3742d0cc1ba11e92fbd6bfb1dfc",
@@ -1306,6 +1330,7 @@
   "created_at": "2026-06-26T16:00:03.369961Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Clay Jenkins win the 2026 Dallas County Judge election?",
   "revisions": 1,
   "sha256": "b32a96bef3ebf2e8e996228b9147ef681191dedd78fa0a3893eb0d9c07e2a7cd",

@@ -274,6 +274,7 @@
   "created_at": "2026-03-25T20:08:24.525241Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Kevin McGonigle win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -319,6 +320,7 @@
   "created_at": "2026-08-28T20:01:30.614051Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Carson Kvapil win the 2026 NASCAR O'Reilly Auto Parts Series championship?",
   "revisions": 1,
   "sha256": "28df0c625d8ff3558db374cf6b0ad8a2f5691f86706b910cd45cd6d6cfb32586",
@@ -332,6 +334,24 @@
   "revisions": 1,
   "sha256": "ac6538e89d91ae3454454563d14199a2025b9b3073cb187d6bb8478d91d6d6ef",
   "slug": "will-kelvin-sampson-win-the-mens-2027-naismith-coach-of-the-year-award"
+ },
+ "0x3590156fc074e982e5c11184700093fc29c9f08d1810b90dc6e37279f9db8c2d": {
+  "created_at": "2026-10-15T18:01:46.299928Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Tenerife (-2.5)",
+  "revisions": 1,
+  "sha256": "603afa811ae65720e6de8b6f4356ac70841846109a622bd694209df8d43b254c",
+  "slug": "cdr-bad-cdt-2026-10-28-spread-away-2pt5"
+ },
+ "0x37d48b064abbea26207d8b0c5cce080a2e01a09e74cf657a4c4c0b618714b52d": {
+  "created_at": "2026-11-06T22:37:23.235236Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon hit 25% in any poll before the first round of the French presidential election?",
+  "revisions": 1,
+  "sha256": "55a0a611409ba2e47bf5ec7cf2084db545ebf49ae2f0cb40ba39ba04689e2d1d",
+  "slug": "will-jean-luc-melenchon-hit-25-in-any-poll-before-the-first-round-of-the-french-presidential-election"
  },
  "0x38b333a3084f58649dd39dd4a78d57f9bd0408543bf679228a3f656aa3a5ab2d": {
   "created_at": "2026-08-21T17:37:17.849989Z",
@@ -418,6 +438,7 @@
   "created_at": "2026-10-15T16:33:32.182381Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Syndra be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -482,6 +503,7 @@
   "created_at": "2026-08-26T21:46:51.7279Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Chicago Fire FC keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -491,6 +513,7 @@
   "created_at": "2026-02-18T23:32:34.553081Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Paul Skenes win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -540,6 +563,15 @@
   "revisions": 1,
   "sha256": "165d08b4b8edb79303018141387bcc397b06529a21cc58925c1bcb211f20e3ef",
   "slug": "will-al-fateh-be-relegated-from-saudi-professional-league-2026-27"
+ },
+ "0x53f9e47c86d68c6604d463d5b9cf2f608a873d0f8b378f02197af138efbe362d": {
+  "created_at": "2026-10-15T17:01:19.737728Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano leading at halftime?",
+  "revisions": 1,
+  "sha256": "6f38bdd1ad9ae268a4a76bbbf761fcb07767156fbc59762b04f4a5d317528776",
+  "slug": "cdr-ca-mal1-2026-10-28-halftime-result-home"
  },
  "0x59008d6a2868dd14e6004797a9df19efcf13a58acd7a81a763b0bc45a93c1e2d": {
   "created_at": "2026-10-21T23:52:35.359672Z",
@@ -594,6 +626,15 @@
   "revisions": 1,
   "sha256": "7f86005e698dd2fe58c794046e339225fde33b187028f2d136c879da6c836409",
   "slug": "will-venezuela-recognize-israel-by-december-31"
+ },
+ "0x5ef53b419289d3e09e125da8257fc92e15fff118c3196d94fabd03885ea7c72d": {
+  "created_at": "2026-10-15T17:02:00.988926Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 5 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-5"
  },
  "0x62ef6cd583a7301458da4823519fb5b2dc7d236eaa052cccafbec7326a48a02d": {
   "created_at": "2025-11-11T17:52:01.587171Z",
@@ -794,6 +835,15 @@
   "sha256": "c4444341aaa190b0ddcfc8dcde79c4d74d98ac9cc8d5aaa42e3ea46b34799e81",
   "slug": "will-beezie-launch-a-token-by-june-30-2027-20260727145435058"
  },
+ "0x882fd6ac2811aa52293fdc7711ddec03e6adae1c2c2aeac06d02fb48c4e79e2d": {
+  "created_at": "2026-10-15T17:01:20.997104Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 2 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-2-2"
+ },
  "0x88a41d4a2482d2839a59b18f6679e6cfeb3152b9dcf00cbf9ec14d247e019a2d": {
   "created_at": "2026-08-05T10:57:25.520121Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -834,6 +884,7 @@
   "created_at": "2026-08-24T16:34:04.066333Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Chongqing Tonglianglong be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -870,6 +921,7 @@
   "created_at": "2026-08-12T17:26:53.367566Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will San Diego FC be runner-up in the 2026 MLS?",
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
@@ -956,6 +1008,15 @@
   "sha256": "70600f34353419ad1277ec3c7641a93ceff13366d70e58eb843c916f5a9b1196",
   "slug": "will-republic-of-ireland-take-a-reserved-host-slot-at-uefa-euro-2028"
  },
+ "0xb065a8f3d15195e1a5a3ee24121a49ec8e507386e9492b4d57cb92c47c066a2d": {
+  "created_at": "2026-10-15T17:01:04.61084Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 0 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-0"
+ },
  "0xb2209b4416b040de798a9a4e859dfab395a8a69ed3acc7015a9521cc7482bb2d": {
   "created_at": "2026-08-11T18:25:10.821371Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -969,6 +1030,7 @@
   "created_at": "2026-10-13T23:25:04.231617Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will \"Escape from Tarkov\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
@@ -1077,6 +1139,7 @@
   "created_at": "2026-08-12T17:27:17.118556Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will V\u00e9lez Sarsfield be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1090,6 +1153,15 @@
   "revisions": 1,
   "sha256": "de438fa7cc03ef807e7b671336bb94399d4c2bf7535dd08685454077510c8ea0",
   "slug": "will-the-la-clippers-be-the-2027-nba-western-conference-champion-20260624160106899"
+ },
+ "0xc8f2bd77e2b1f56293b349607df7375c9fdfc776dcb6d50aa44ecc4ec7ded32d": {
+  "created_at": "2026-10-15T18:02:46.5475Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "4eae4120ff6947d862c01a24826691749e4a80472ea45761a2b0510aa0c8038b",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-total-1pt5"
  },
  "0xc9338dfb1d347ae11e119aab33edc4a7bde236289cb369904180fcde477fa42d": {
   "created_at": "2026-09-18T08:45:18.692901Z",
@@ -1113,6 +1185,7 @@
   "created_at": "2026-10-08T22:00:05.87712Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dzambekov vs. Parker end before Round 8?",
   "revisions": 1,
   "sha256": "fdc9cfd3ba7391ef37c7fdca490b88705ee56aa85eef5dbb442f64cd0487d2c2",
@@ -1144,6 +1217,15 @@
   "revisions": 1,
   "sha256": "464024317ffa50dec85d166b8e70de558a7071a75c42342d349bc2ac292e4ea2",
   "slug": "will-pete-buttigieg-win-the-nevada-democratic-presidential-primary-20261028011"
+ },
+ "0xce404c58b48556eeb2219def453d34b7b66fdd383b47d8b1ce366509584aa92d": {
+  "created_at": "2026-11-07T12:30:17.879689Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Valtteri Bottas get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-bottas-2026-12-05"
  },
  "0xcedb9c0289911973b22190a8613a9e7153f7f9d234e57902224b05c937a4ba2d": {
   "created_at": "2026-09-13T08:44:24.936765Z",
@@ -1181,6 +1263,15 @@
   "sha256": "a1e904f29028d90307c80b030fb2c0ad2dde285ab35813877dc5f8693a7873ae",
   "slug": "japan-b-league-2027-champion-shimane-susanoo-magic"
  },
+ "0xd2fe85085d33ddb0a72ff822defb912ae70d46e7ad37a852f49a5575f7573e2d": {
+  "created_at": "2026-10-15T18:02:40.381637Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "83834adcc619f95d3b33ab5acd13ec4bcb73f7f6cd024e52ce227744c85dd372",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-home-0pt5"
+ },
  "0xd3a85830aa6fe28c40a62364884a4f10d7be2402590c73550b1d8240e2843d2d": {
   "created_at": "2026-03-26T00:58:39.736119Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1199,10 +1290,20 @@
   "sha256": "6e7abdecb87015a31f7302beda82f59e6e499310308126cc2fbbf8b330729933",
   "slug": "enl-scu-fgr-2026-10-03-second-half-team-total-home-1pt5"
  },
+ "0xd6da4d316ea9d9261235146d6db09ad0739c2b118d24b048473956115524cf2d": {
+  "created_at": "2026-10-15T18:00:57.315112Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 1.5",
+  "revisions": 1,
+  "sha256": "4cdbfa77ada8eee0e3528babad715478ece8ec1cb412e506adda4482d3dfab8e",
+  "slug": "cdr-cd17-car-2026-10-28-total-1pt5"
+ },
  "0xd8b6f6894628a7342392086941337b0807580770351b00746df3827a986a412d": {
   "created_at": "2026-09-09T15:53:46.81123Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Ayyoub Bouaddi win the 2026 Golden Boy award?",
   "revisions": 1,
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
@@ -1230,6 +1331,7 @@
   "created_at": "2026-02-06T22:22:30.164895Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Marcelo Silva win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1284,6 +1386,7 @@
   "created_at": "2026-09-01T17:32:04.097205Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Tarrant County in the Texas Senate race in 2026?",
   "revisions": 1,
   "sha256": "b593bd4591a3d27288f30c1fc3ee173701e9e62261633fd58fef53e1ff09d676",
@@ -1352,6 +1455,24 @@
   "sha256": "a580f752a660da571f2dea8d1fc580903acff49c381af8fabdfa466d85465f5c",
   "slug": "will-municipal-keep-the-most-clean-sheets-in-liga-nacional-guatemala-2026-27"
  },
+ "0xf5aa8358890760131fc39fcf5082bbffdca828e2c6354684eafbb1408413fe2d": {
+  "created_at": "2026-10-15T17:02:00.75802Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 0 - 4 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-0-4"
+ },
+ "0xf651fd97bcd06873db5af42126c0484c3eb60dc160eabec77cf7832c7a3b732d": {
+  "created_at": "2026-11-07T12:30:47.099738Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Nico Hulkenberg achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-nico-hulkenberg-2026-12-04"
+ },
  "0xf8e8d2ca6aee3e13207881947ce09d6a3a6ad8edc8eb628d5c8c1a73a7733f2d": {
   "created_at": "2026-08-05T10:29:54.511767Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1405,6 +1526,15 @@
   "revisions": 1,
   "sha256": "6c269a648d75b26496fa6312e5678986a67774b47e6a801787373336bb7f5a3e",
   "slug": "will-steph-currys-next-team-be-la-clippers-20260731023145466"
+ },
+ "0xfee42af3ec5ec298f8adfbf6abb08d8a4c2b8dea587575f7e5d2ce400e2aa32d": {
+  "created_at": "2026-10-15T18:02:43.726941Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CE Sabadell FC (-4.5)",
+  "revisions": 1,
+  "sha256": "efab3cbb08c77e79accf1018ed9a91cd15e72533d94b2101f6847ac786ab0cf6",
+  "slug": "cdr-ute-sab-2026-10-28-spread-away-4pt5"
  },
  "0xffa18176e7816fc17f9fb35af330ce1a15c266ec0f9fc707c6dc4144b513032d": {
   "created_at": "2026-10-02T18:09:22.567675Z",

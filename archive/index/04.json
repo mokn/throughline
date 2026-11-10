@@ -66,6 +66,7 @@
   "created_at": "2026-10-08T22:00:12.84644Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Vanhouter vs. Balaz go the distance?",
   "revisions": 1,
   "sha256": "90d22e319eb67e7b311d6baa5dffb9fc2b468ebecccaa65091c86148104884b3",
@@ -88,6 +89,15 @@
   "revisions": 1,
   "sha256": "1e14e5a98c4b07ff77afb753044a96d7adcf413da05e592429a2d42b96194283",
   "slug": "will-deportes-tolima-be-relegated-from-colombia-primera-a-2026"
+ },
+ "0x0aed678df971e423975ee3a9dc87c491e89e1f65e804603eea5e2224e19f2304": {
+  "created_at": "2026-10-15T18:01:04.779711Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Barakaldo CF (-5.5)",
+  "revisions": 1,
+  "sha256": "f8306a5ce9e140fc5cfca7a65e0645a9fbd06bf91dc73cce25e9e222db0e67a9",
+  "slug": "cdr-red-bar-2026-10-28-spread-away-5pt5"
  },
  "0x0b2bf927ca73f9ec0c9d3ca32cd50e467303267d41e192013456202392ebbc04": {
   "created_at": "2026-10-09T14:10:14.083778Z",
@@ -120,6 +130,7 @@
   "created_at": "2026-09-23T18:06:41.462086Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will 1w Team qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -142,6 +153,15 @@
   "revisions": 1,
   "sha256": "9c958e7ce2e81d39efc976780db7c6773683e53938ab977f547f3d12f4c659e2",
   "slug": "will-tao-okamoto-win-best-supporting-actress-at-the-99th-academy-awards-20260805190945893"
+ },
+ "0x12a26acc9422dca2e69565ecd0d6ff01d73a636d53bdc08dcfefbba8bc5f7f04": {
+  "created_at": "2026-11-07T12:30:04.838057Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Kimi Antonelli win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-antonelli-2026-12-06"
  },
  "0x1388e29719cd6f4c11763ce9bd06fb0856717f02bf988cc487032bc8f9684504": {
   "created_at": "2026-10-19T19:54:21.429748Z",
@@ -219,6 +239,7 @@
   "created_at": "2026-08-14T21:19:18.145638Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-10 House Election?",
   "revisions": 1,
   "sha256": "cbd3aaf6fc0ddb67a3a5928f70be76394b9c29062a7951887efd8585eea0db03",
@@ -304,6 +325,15 @@
   "revisions": 1,
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-dolphins-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
+ },
+ "0x286dd3c94caa5947693ea5590c1f8792fbe63b803ff5983e3ff2b3378fc39404": {
+  "created_at": "2026-10-15T17:02:04.696464Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
+  "slug": "cdr-cd17-car-2026-10-28-halftime-result-draw"
  },
  "0x29b6490bf2f7b06c4ad92d37a56bbdc2be7769ff46e3fd764b97ae1b0ea80f04": {
   "created_at": "2026-09-04T19:51:32.025457Z",
@@ -785,6 +815,15 @@
   "sha256": "1fbcccd1bb02218f036cb39b1b970d48627d29781d2b35d93f522527228c0db8",
   "slug": "will-the-official-usd-to-ars-exchange-rate-be-between-1600pt00-and-1699pt99-at-the-end-of-december-2026"
  },
+ "0x6d688a79c2a72d93fd9d6a450ef696431fc26b383491e4c79e809e0cff2c4204": {
+  "created_at": "2026-11-10T02:53:48.236906Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "JD Vance resigns as Vice President by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "9dfc9243f56d0aafebef8552d28ba3fbe1aecbcefa8bee418d49a134220e8743",
+  "slug": "jd-vance-resigns-as-vice-president-by-december-31-2026"
+ },
  "0x6ea55a8c1d775e9af32f26c6bd2cf6c055a004d06a71c9ab43b2d96d9a185e04": {
   "created_at": "2026-08-12T14:51:03.019832Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -956,6 +995,15 @@
   "sha256": "b04de75863e74154583e8859d6e25a6e4451d31775894970e91e78376bf75d79",
   "slug": "nba-2026-27-players-to-average-10-plus-apg-domantas-sabonis"
  },
+ "0x7f9b8db03e2e5f853a0e2627832c5156af1c16cff7be8665a066f3ff07c4ef04": {
+  "created_at": "2026-11-04T17:37:46.935568Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will The MongolZ Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-the-mongolz-win-the-pgl-major-singapore-2026-1793811600000"
+ },
  "0x819dfa503b96a04f798ba95d5a0243bc1900f75dcb6d366ade03e3acf3499204": {
   "created_at": "2026-09-02T20:14:15.245236Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -996,6 +1044,7 @@
   "created_at": "2026-08-26T08:15:02.309921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Oxford United FC vs. Reading FC end in a draw?",
   "revisions": 1,
   "sha256": "cc55f835a3565d3a7262685508f18872ba5886eb80942e5d58d6bdc3b68520fb",
@@ -1181,6 +1230,15 @@
   "sha256": "cff6947d096b10f359e5f269e7c8906c8fcd76954d1d2f6a86cdac69dea26e3d",
   "slug": "aapl-above-380-on-november-30-2026"
  },
+ "0xa37b4801bd3b08f800e47cd541eba02bb5ae1a9da7faa2beb6852ea99985c104": {
+  "created_at": "2026-11-07T00:05:05.364778Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Religious Zionist Party support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-religious-zionist-party-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353287"
+ },
  "0xa7a4cb793ab1c6700295be6730b2d210a631e1286becd9fb16ff65ad7f824704": {
   "created_at": "2026-08-07T16:01:30.041295Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1257,6 +1315,7 @@
   "created_at": "2026-09-29T00:12:19.241394Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in South Africa by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -1374,6 +1433,7 @@
   "created_at": "2026-08-14T21:17:07.09607Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the Georgia Senate Election?",
   "revisions": 1,
   "sha256": "31232db10a1101e5b7f4228140396cf4c78fa2087cc5853327dad5240be664c8",
@@ -1423,6 +1483,15 @@
   "revisions": 1,
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-guerschon-yabusele"
+ },
+ "0xcdff15258ca89574a3aed638521475c48ce6df1284f6a89d2c518c59e803ab04": {
+  "created_at": "2026-10-15T17:01:21.510973Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 4 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-4-2"
  },
  "0xd0e1990369fa7d5e64ce4783de14cbb2b898bc77b34265f70a52447cc616c104": {
   "created_at": "2026-08-11T19:20:49.701247Z",
@@ -1482,6 +1551,7 @@
   "created_at": "2026-10-01T00:08:23.508022Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be between 5 and 10 average daily transits of the Strait of Hormuz on October 31?",
   "revisions": 1,
   "sha256": "86c1cf2a76ef55f9f5a756a6636cf057fcc0f2fb360dc96041fc6e30dac8f8ef",
@@ -1545,6 +1615,7 @@
   "created_at": "2026-03-26T21:53:44.504906Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Alex Bregman win the 2026 NL Platinum Glove award?",
   "revisions": 1,
   "sha256": "78d41609970e0c83a93f77d52403028aa352e20810884caa4b09a2c242343fab",
@@ -1635,6 +1706,7 @@
   "created_at": "2026-03-25T21:41:57.25129Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will TJ Rumfield win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -1712,6 +1784,15 @@
   "sha256": "a813ce376cc78c0d4cd09293bf8081eeab68f039e9b47e9591701007339c26a5",
   "slug": "will-robert-thomas-win-the-2026-27-frank-jpt-selke-trophy"
  },
+ "0xf34fea048a5bc7cee365c29735397c1cd4dd7d2acb09223d5fa659dd5e81fc04": {
+  "created_at": "2026-11-09T22:27:58.990505Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Fabian Hurzeler be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-fabian-hurzeler-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0xf48cf16346673e8cdc914a7cd976e54b2cd1d4ce7dd5c0a31fd33f9766276c04": {
   "created_at": "2026-08-12T14:57:38.831234Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1783,6 +1864,15 @@
   "revisions": 1,
   "sha256": "380927154ae40d727212336228c62e4aef6343bbb2d2c8e52b5da108d73aa9b3",
   "slug": "enl-scu-fgr-2026-10-03-team-total-away-2pt5"
+ },
+ "0xfd58c5082fd4463487e1d166d73e07f6f5906d95e6bd5a20831c6e6395282f04": {
+  "created_at": "2026-11-09T15:58:48.240001Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Kimi K3.1 Pro debut at a score of at least 1450 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "bbe7489c59af0ad13a661d71cbdf18ff5519bb9b91ec4afccced466be3473226",
+  "slug": "will-kimi-k3pt1-pro-debut-at-a-score-of-at-least-1450-by-june-30-2027"
  },
  "0xfe25d075f5d28f0231ad8b64c2bde470ede796e9bb8cd8ac6bf40fd0e2270904": {
   "created_at": "2026-08-07T20:12:06.843675Z",

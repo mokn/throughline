@@ -44,6 +44,15 @@
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-raptors-vs-rockets"
  },
+ "0x0711ef4d790cfb88083f63166b716e755ef881d270dbf62e45debe427b1ec924": {
+  "created_at": "2026-10-25T10:45:16.870376Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: O/U 0.5",
+  "revisions": 1,
+  "sha256": "80a30a1859d04c3f5c0d25bb574bdc1bcdd9854983fbae90b4c7559afc4dc7fd",
+  "slug": "gtm-mun-aur-2026-11-07-total-0pt5"
+ },
  "0x071a14d45ba119a6bd359cce07c4ff793a3ea24c4bdbf0a35ad59ee72973e424": {
   "created_at": "2026-10-16T18:05:37.636156Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -129,6 +138,7 @@
   "created_at": "2026-02-18T23:32:46.282724Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Eury Perez win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -289,6 +299,15 @@
   "sha256": "016eafabbc2c4a8da059875bacfe20efbc5ea502899ec4252596257dd13c6055",
   "slug": "hungary-nb-i-a-2027-champion-ose-lions-oroshaza"
  },
+ "0x34cd1e2928d78c0ba7442d152027438786b9c2c8a9094953d85f6ab8de43c524": {
+  "created_at": "2026-11-07T00:11:28.672073Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "The Hunger Games: Sunrise on the Reaping vs. Dune: Part Three Opening Weekend Box Office",
+  "revisions": 1,
+  "sha256": "68ab388a57aa51ac96a146e94fa04253784abeddfe50867d8a3028f0ff1b0a11",
+  "slug": "the-hunger-games-sunrise-on-the-reaping-vs-dune-part-three-opening-weekend-box-office"
+ },
  "0x3695fbe235bdbd1bf5af90565b66990309d76f411732aa625c0138a299361024": {
   "created_at": "2026-09-04T19:51:31.587228Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -330,6 +349,7 @@
   "created_at": "2026-08-24T16:38:16.753843Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Sarpsborg 08 finish 3rd in the 2026 Norway Eliteserien?",
   "revisions": 1,
   "sha256": "c39995b81026889ab38537f9b279ba8820b8630638ae057bbfcb695384bf877d",
@@ -453,6 +473,24 @@
   "sha256": "d8bb2e827220612c7da6063db8ded8ee57f7d3745c33134cc0561edf08beafae",
   "slug": "will-the-next-google-gemini-pro-model-debut-with-a-humanitys-last-exam-score-of-40-or-higher-20260729192434645"
  },
+ "0x4f363a9dd186b9e7f309660a2c0a51ca5f0344070e97ee71f8dfd87ce9a61924": {
+  "created_at": "2026-10-15T18:02:41.443064Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "e2da1e1d002217f80d000b09247604e72a597b417d0161bf4806fc39b9787152",
+  "slug": "cdr-por-iru-2026-10-28-first-half-team-total-away-2pt5"
+ },
+ "0x4f39de9ac01ced96fe018cb7c8b8eed2ecb786acf8e2570b52db12c3a739c824": {
+  "created_at": "2026-11-10T02:45:42.18396Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Justin Bieber attend Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
+  "slug": "will-justin-bieber-attend-super-bowl-lxi"
+ },
  "0x4ff66babd9440e4ca4097607aafa868bf734c5411463e14bffc5c330d7d0f524": {
   "created_at": "2025-10-09T23:52:18.54508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -566,6 +604,7 @@
   "created_at": "2026-08-12T16:51:41.63024Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Jorge Luis Arboleda \u00d1eco win the next Chiclayo mayoral elections?",
   "revisions": 1,
   "sha256": "9ecd35520c31f1c5debdc2f5d48e6d4be07e4992d765ef28b489eac036092938",
@@ -710,6 +749,7 @@
   "created_at": "2026-03-02T21:40:47.571185Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Missouri abortion & sex change for minors ban pass?",
   "revisions": 1,
   "sha256": "2e9336e8a88c70a6db9302ad0b82ae54af47966eb93e734c01f04d0153391120",
@@ -746,6 +786,7 @@
   "created_at": "2026-08-12T16:52:00.128554Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Andr\u00e9s Eliseo Risue\u00f1o Portugal win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -791,6 +832,7 @@
   "created_at": "2026-03-25T20:08:35.713166Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will George Lombard Jr. win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -1035,6 +1077,7 @@
   "created_at": "2026-10-10T11:30:02.313862Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Fernando Alonso win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1089,6 +1132,7 @@
   "created_at": "2026-03-25T22:01:47.482628Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will John Schneider win the 2026 AL Manager of the Year?",
   "revisions": 1,
   "sha256": "7cef382a9b1ebfc3a860dddefdd4fe7d9fc3e10959f3d15d0f6e523bfdbcf038",
@@ -1170,6 +1214,7 @@
   "created_at": "2026-08-12T16:52:03.63321Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Deyanira Yajaira Salazar Rivera win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -1197,6 +1242,7 @@
   "created_at": "2026-09-29T00:12:13.963334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Italy by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -1251,6 +1297,7 @@
   "created_at": "2026-08-24T16:36:20.737681Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Atl\u00e9tico Grau finish 16th in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "b0207a8daa496040be2daca45c9d723777f13bf4effe3f9f42e0ae7aa55bc95f",
@@ -1500,6 +1547,15 @@
   "revisions": 1,
   "sha256": "d65ad8f9306c57226c09890be89c28604a28021e84d7237e02228cab66ef58f2",
   "slug": "will-the-democratic-party-win-the-va-10-house-seat"
+ },
+ "0xf8446923a5100797caa47c0d0502d2403568d45ccddc995f2aa56a8611dcb024": {
+  "created_at": "2025-07-03T20:37:36.80788Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Abdul El-Sayed win the 2028 Democratic presidential nomination?",
+  "revisions": 1,
+  "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
+  "slug": "will-abdul-el-sayed-win-the-2028-democratic-presidential-nomination"
  },
  "0xf849753d38551c5832c4d4c76c3ba47daa97c86da412354a078c6725fcbe7524": {
   "created_at": "2026-08-10T14:52:09.636209Z",

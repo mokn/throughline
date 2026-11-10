@@ -3,6 +3,7 @@
   "created_at": "2026-08-06T19:14:55.541727Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Bank of Mexico increases interest rates by 25 bps after November 2026 meeting?",
   "revisions": 1,
   "sha256": "2cb44d0a3570e471b79923a918e732437a164bf32b7a6582eeaf55d8c0313fb8",
@@ -205,6 +206,15 @@
   "revisions": 1,
   "sha256": "8d7649fb397f0b4c861c4afeb26c0932e032bbd55722c810cc5710c45f3e2cee",
   "slug": "will-the-democratic-party-candidate-win-the-2026-virginia-senate-election-by-0-3"
+ },
+ "0x21aa0c2bd86bf1947aae4eab5be879738c585a21950abfd936afd1b752e911e9": {
+  "created_at": "2026-11-10T02:42:20.439384Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Apeshit\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-apeshit-be-played-at-the-2027-big-game-halftime-show"
  },
  "0x235b29ed02a6d1b6bbc51dc8c56fc882ca5a690214767b34895bf7a0d064bbe9": {
   "created_at": "2026-11-02T20:56:37.882049Z",
@@ -489,6 +499,7 @@
   "created_at": "2025-12-15T23:29:53.638794Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the TX-32 House seat?",
   "revisions": 1,
   "sha256": "debee0ddf913f7e7620addeaa05d951028c93b3b7fed593d6ae5438815582cf7",
@@ -525,6 +536,7 @@
   "created_at": "2026-08-12T17:27:12.643228Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Lan\u00fas be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -580,6 +592,7 @@
   "created_at": "2026-08-26T21:46:26.172388Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will FS Jelgava finish 8th in the 2026 Virsl\u012bga (Latvia)?",
   "revisions": 1,
   "sha256": "c72c6c9062e8010cc8f05b3888f215eff6b28a1291d5929cd13fb5452b6b5a0d",
@@ -598,6 +611,7 @@
   "created_at": "2026-10-27T01:20:53.629589Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Riyadh airport reopen (50+ departures) by November 30?",
   "revisions": 1,
   "sha256": "b524eb570ccfefcbf9eb32a68efe3770d62dba917eb57f5b8b762671e198d5cc",
@@ -683,6 +697,15 @@
   "revisions": 1,
   "sha256": "c02e69877e981955210e56682946e7eba83815efe1be0b109c7b00c016e64329",
   "slug": "enl-bar-fgr-2026-10-24-exact-score-2-5"
+ },
+ "0x6c81acd72cc408c113fe94d596526680c89d2067f161050838d433adda4007e9": {
+  "created_at": "2026-11-06T22:58:36.559007Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Sean Duffy be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-sean-duffy-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x6d417e4aa3e11b79a208980eb0f458388e4258cbc5ab1fa4a37d04317a6681e9": {
   "created_at": "2026-08-05T16:09:51.324612Z",
@@ -992,6 +1015,24 @@
   "sha256": "55e604c294fb3b5ef2e31337a47a2933071a02c9719e0470998cb8fb7c0c4758",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-44-house-election-by-45-50"
  },
+ "0x99cbbcc5f023918081cb41747883a96a7d164a78899f305fe4c9d54035fe74e9": {
+  "created_at": "2026-10-15T18:00:57.890944Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: O/U 5.5",
+  "revisions": 1,
+  "sha256": "fcef46dc6beb17b2a98eb66501bcfa394fc5363275c7dabd99d7edaea9380da0",
+  "slug": "cdr-cd17-car-2026-10-28-total-5pt5"
+ },
+ "0x9eda39661dd418737ba96f7e789c221edfe62e5ce9a06f8b5236e9aadf035de9": {
+  "created_at": "2026-10-15T18:01:03.846095Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Barakaldo CF (-2.5)",
+  "revisions": 1,
+  "sha256": "85bcb2e7edeceb3e14e250d656e7276d0b06fb84cc812be18ec7103c4329f8db",
+  "slug": "cdr-red-bar-2026-10-28-spread-away-2pt5"
+ },
  "0x9f5001a1e6542f81fc296bfcf73764a1c7ab2767d8c036441ab222a01da585e9": {
   "created_at": "2026-08-07T00:16:26.685655Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1105,6 +1146,7 @@
   "created_at": "2026-08-12T17:30:52.119176Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Chattanooga Red Wolves SC be runner-up in the 2026 USL League One?",
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
@@ -1273,6 +1315,15 @@
   "revisions": 1,
   "sha256": "32c94564326684906cba98f016998e1440887a872121fd246c8564689ef0f137",
   "slug": "ukr1-kry-met-2026-09-12-corners-total-10pt5"
+ },
+ "0xdc6cac4d6b84db687bdf31699bc38df6eef45667c9710f019e4283151442a2e9": {
+  "created_at": "2026-06-25T17:29:11.257971Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Roman Kantserov win the 2026-27 Calder Trophy?",
+  "revisions": 1,
+  "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
+  "slug": "will-roman-kantserov-win-the-2026-27-calder-trophy"
  },
  "0xdcd434a983102ddd0531854befa08400d250d3a218a4be5f00600b560c07c2e9": {
   "created_at": "2026-07-22T05:38:41.08944Z",

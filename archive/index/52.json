@@ -44,6 +44,15 @@
   "sha256": "ed4802b85f507b60dcfef02360e14fa507444c5ec02783308482d5dbe5a2b1fa",
   "slug": "will-putin-and-zelenskyy-meet-next-in-switzerland"
  },
+ "0x092dd1002ddc4be72ec97b29569918fcd6a9593f8e96c24e50e195f0a65d2d52": {
+  "created_at": "2026-10-15T18:02:37.20122Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 8.5",
+  "revisions": 1,
+  "sha256": "612b533ac638d57cd86786ab1923972e24bccf269c857e05be58a858e7e060e3",
+  "slug": "cdr-por-iru-2026-10-28-total-8pt5"
+ },
  "0x09b5705bc4f832c18726d667c8e481874221d9bd023c2180385f4299cdfe6552": {
   "created_at": "2026-08-07T16:01:49.285658Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -70,6 +79,15 @@
   "revisions": 1,
   "sha256": "8bb50e7fce7edcec50a9aebdc55fa9305093f23ce4165d442847bbecc400efd0",
   "slug": "will-jared-goff-be-the-highest-scoring-qb-of-the-2026-27-nfl-season-20260806224129822"
+ },
+ "0x0de97ba5374473c172caeef8e81f1f7f6b8d2d4ec819f87b4dfc3b96caa62d52": {
+  "created_at": "2026-10-15T18:02:46.71162Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "223d8fefd31ac66c4451470d2056cea181c59aed4e171009fe52371f71633df6",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-total-2pt5"
  },
  "0x0e29011b8c397b72f6c4247ebfabf8fd86465baa115eb26d6ba8e3e7dbf0f552": {
   "created_at": "2026-10-13T15:50:57.635084Z",
@@ -156,6 +174,7 @@
   "created_at": "2026-08-12T17:21:02.36807Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Real Potos\u00ed be runner-up in the 2026 Bolivia LFPB?",
   "revisions": 1,
   "sha256": "c095a1b2bae51f86994838027adaaeb55f98a256c50ca6529eb480e1ef45160e",
@@ -183,6 +202,7 @@
   "created_at": "2026-08-26T21:46:36.332304Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bukhara finish 3rd in the 2026 Uzbekistan Super League?",
   "revisions": 1,
   "sha256": "77802a2242a5c27f87da20ad22cdbfc0b35ac07b32e47c591b2c0d6a2555f5ef",
@@ -202,6 +222,7 @@
   "created_at": "2026-10-08T22:00:08.865529Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Roehrig vs. Mcdonald end before Round 7?",
   "revisions": 1,
   "sha256": "ce29308a290b7bfc1cff7079d3529020cce4824243f9ef1ebe1e50bd2ad799c0",
@@ -319,6 +340,7 @@
   "created_at": "2026-08-10T20:08:58.265531Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Richard Svensson be the next Regional Board Chair of Region \u00d6sterg\u00f6tland?",
   "revisions": 1,
   "sha256": "1d51b59e70c38fb0d8f6e3d6dac2b5119d465d2203d5a34d41a2637edee7e2b4",
@@ -626,6 +648,7 @@
   "created_at": "2026-08-12T17:30:55.597706Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will One Knoxville SC be runner-up in the 2026 USL League One?",
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
@@ -725,6 +748,7 @@
   "created_at": "2026-11-03T22:14:37.607267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Ossoff's Democratic nomination odds hit 20% by December 31?",
   "revisions": 1,
   "sha256": "3d1a84d8c4a0f3d1cfbf6b87e34e382431bb4cd7a072ce089038fa35f6c58054",
@@ -828,6 +852,15 @@
   "revisions": 1,
   "sha256": "fd38a54f0d53ea7805430be2a42f32c864e4cefff4fdf2bd50813ab8fa09d3af",
   "slug": "will-the-republican-party-candidate-win-the-2026-new-jersey-senate-election-by-3-or-more"
+ },
+ "0xa3282fd4ed6ff65dab6ea12310c5afa7732b7dfc455b7051eb7d7a053fda1f52": {
+  "created_at": "2026-10-15T18:01:06.427274Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "f90575fe053f1dc961e193595aaa35a37f0bc7480292e35c4f4e383ec2f964e1",
+  "slug": "cdr-red-bar-2026-10-28-btts-first-half"
  },
  "0xa37aac7ca4039843fc175476d45d4602cb2057bc72a1fd61a5a32c3a7e68f952": {
   "created_at": "2026-10-13T19:55:51.30482Z",
@@ -946,6 +979,15 @@
   "sha256": "035d67fdfaa4d5c92c42c366514b1f450c0fbf9f2c2565b128cf3c337ef51c6c",
   "slug": "will-ittihad-tanger-finish-3rd-in-morocco-botola-pro-2026-27"
  },
+ "0xb3a0e924eb56427c8addf93e8c2f62393575c01e9ff1acf4f26180786f880152": {
+  "created_at": "2026-10-15T18:01:04.0062Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Reus FC Reddis (-3.5)",
+  "revisions": 1,
+  "sha256": "2b48852fd90814b03903e9920ef321e6c20ed855cb9dd1847a35d70184261866",
+  "slug": "cdr-red-bar-2026-10-28-spread-home-3pt5"
+ },
  "0xb49b196760f0c707e0ebb5071dc8c5ada1d93f30c92da223e88068fd131cc752": {
   "created_at": "2026-09-08T16:54:32.587365Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -995,6 +1037,7 @@
   "created_at": "2026-08-26T21:46:32.757872Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Lokomotiv Tashkent finish 11th in the 2026 Uzbekistan Super League?",
   "revisions": 1,
   "sha256": "f605ac646fc46ccf5a8451ff051ba995ce983e76aca1a9cfecfde33755b3e26a",
@@ -1303,6 +1346,7 @@
   "created_at": "2026-02-18T17:11:04.38499Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Danny Musovski win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -1317,6 +1361,15 @@
   "sha256": "d5bc11cfc552550730b17ba954963bafeb1c4dbd014b6d34ecae93819df6eb67",
   "slug": "will-glenn-cook-be-the-next-indianapolis-colts-general-manager"
  },
+ "0xf96271ac9abe12ce54db5e34a6b0ad1abd604755ed13f85b67ecf729159bb352": {
+  "created_at": "2026-10-15T18:01:10.04748Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "64be507bd99f5fdb3d9b0378f1434f9d616eda0242cb38b4367dc92bf826b848",
+  "slug": "cdr-red-bar-2026-10-28-first-half-team-total-away-1pt5"
+ },
  "0xf9cb010c80cad7a458a4a6b512cbc965ef511a3b19966be94dede02a9fca2252": {
   "created_at": "2026-09-18T00:15:23.87755Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1325,6 +1378,15 @@
   "revisions": 1,
   "sha256": "a9250f7c6be8e82a58d0bf1bc9a938d253cb86732a34a80544744cdc1afafd32",
   "slug": "will-openai-have-the-best-text-to-video-ai-at-the-end-of-november-2026"
+ },
+ "0xfb7f7d7ddb1e10b44b28308b993b8e54eb1cbf3a1186508d24db660fa3e9c652": {
+  "created_at": "2026-11-06T00:02:40.629023Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Glenn Jacobs be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-glenn-jacobs-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
  "0xfc9fb330238f31f2cddaea047715515b8a7269783710cd5b7075aca1d1b4be52": {
   "created_at": "2026-10-02T16:08:22.767325Z",

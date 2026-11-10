@@ -39,6 +39,7 @@
   "created_at": "2026-07-28T01:45:06.743543Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Barbara Lee win the Oakland Mayor election?",
   "revisions": 1,
   "sha256": "3b311dade83b91908cf156de11751110d20d8a7ed281ccff46995db672100bd3",
@@ -228,6 +229,7 @@
   "created_at": "2026-09-23T18:06:47.366848Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will M80 qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -304,6 +306,15 @@
   "revisions": 1,
   "sha256": "87d76d5556f45d38363f4e7eedc9d7e2207170390a66ab86c0b373251a1159fa",
   "slug": "will-jose-narro-cespedes-win-the-2027-zacatecas-governor-election-20260803173858834"
+ },
+ "0x373165cfc514f813c008476d53115dafc9367db4625693aeb89f6adb3f46678e": {
+  "created_at": "2026-10-15T18:00:55.767204Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Minera (-1.5)",
+  "revisions": 1,
+  "sha256": "41ddf2f1dd0867a4049d1385a97a865d58a660eb3e65e7a218753bbf64d38973",
+  "slug": "cdr-cd17-car-2026-10-28-spread-home-1pt5"
  },
  "0x374b3e5300d44a23e27ca22a48dcb307a4195838296874aafe6374f884a32f8e": {
   "created_at": "2026-10-22T22:20:49.329329Z",
@@ -427,6 +438,7 @@
   "created_at": "2026-01-28T15:41:22.0545Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republican Party win the TX-38 House seat?",
   "revisions": 1,
   "sha256": "0354a41a1d50352eb3cd6995521cf7116675880f52f5d0dd47d341d5433df875",
@@ -617,6 +629,7 @@
   "created_at": "2026-09-29T00:12:12.369914Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Russia x Ukraine peace talks take place in Saudi Arabia by December 31, 2027?",
   "revisions": 1,
   "sha256": "9c91705b378606236f2d31486e88f6da331d78b1725c5c9ea9dc5184e67704e1",
@@ -689,6 +702,7 @@
   "created_at": "2026-09-23T18:06:46.203947Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will MIBR qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -720,6 +734,15 @@
   "revisions": 1,
   "sha256": "1ac26b5b09c5c04601971b411e54b34263f9d5c915b3894bc903f891b1e242da",
   "slug": "will-roma-finish-in-the-top-4-of-the-2026-27-serie-a-season"
+ },
+ "0x79084476641da0a09e80bb845d8c5e4ec2a6e69efde6e5e304ba2a84b364da8e": {
+  "created_at": "2026-11-06T22:58:38.439302Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Lee Zeldin be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-lee-zeldin-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0x7b0f2c01ab81082c4739752880b434dabc1c7c1b9ca564f4276eacad332bc38e": {
   "created_at": "2026-08-06T09:00:32.409573Z",
@@ -860,6 +883,7 @@
   "created_at": "2026-10-10T11:30:25.183562Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Alexander Albon achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -942,6 +966,7 @@
   "created_at": "2025-12-15T20:43:25.687446Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the MI-10 House seat?",
   "revisions": 1,
   "sha256": "0ae0c315ebaf98eae353c72c44ec0052b8940c7e100c96d6c4d96d235b2ac214",
@@ -1082,6 +1107,24 @@
   "revisions": 1,
   "sha256": "1d558322e6e5a11c19dc0c94547c8e1bf654b3112f1114ba9f27353cf75ba389",
   "slug": "el1-ste-swe-2026-09-26-spread-away-5pt5"
+ },
+ "0xbd2f126022760a89a8637d2e56784bd8ff9994afa4fae174d680db0cb5d1e18e": {
+  "created_at": "2026-11-07T00:05:04.857817Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Shas support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-shas-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353286"
+ },
+ "0xbe5bae4a5aeca14602c179eee46ede0ddeb670576ac65d528dc590c6763d3c8e": {
+  "created_at": "2026-10-15T18:00:58.610505Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "7f1509ce44c144a996324ea86547739864a4b0793975f87866147721217fca85",
+  "slug": "cdr-cd17-car-2026-10-28-btts-first-half"
  },
  "0xc1784968ce4793213c35075e67b9e49e88aced5f45f1171fa8ae447472964f8e": {
   "created_at": "2026-09-04T19:52:35.419296Z",
@@ -1312,6 +1355,7 @@
   "created_at": "2026-10-10T11:30:26.414302Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1321,6 +1365,7 @@
   "created_at": "2026-10-10T11:30:15.590209Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Red Bull get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "7ea8f93fa1a54e6036981326164be1cc7c9b93909384958de042d23e59d78a7b",
@@ -1343,6 +1388,15 @@
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
   "slug": "will-giancarlo-stanton-win-the-2026-edgar-martinez-outstanding-designated-hitter-award"
+ },
+ "0xeb9a331cd7200796c0579108eddb17b77a3dab41513bccfdc34cc98e5eb3da8e": {
+  "created_at": "2026-10-25T10:45:21.420135Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "b3f9fa91ef00d891e45487698a30149dd7a7ff1d7060045c2e7f1ae3f800b395",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-team-total-home-2pt5"
  },
  "0xebef9a2973f1195d6de4fab5652f8ee5c50fd2106f477618a37131b126285e8e": {
   "created_at": "2026-08-11T19:00:08.402348Z",

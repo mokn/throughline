@@ -3,6 +3,7 @@
   "created_at": "2026-09-02T18:11:43.027776Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Republicans win 10\u201311% of the Black vote?",
   "revisions": 1,
   "sha256": "42466225b54a9dd55e702df629190490b0c8a52d006735341faf0394a35c3e66",
@@ -30,6 +31,7 @@
   "created_at": "2026-09-17T14:26:50.342411Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Saudi Arabia military action against Iran by October 31, 2026?",
   "revisions": 1,
   "sha256": "c583401678f127081bb94b33a7ce9dba3dd1cbf5196f082002d0c44ecb481d33",
@@ -88,6 +90,15 @@
   "revisions": 1,
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",
   "slug": "will-celje-record-the-most-clean-sheets-in-the-uel-league-phase"
+ },
+ "0x0b1de0276314de21ab64e74f592cceaa901161c916fa058cc2165c75d29fa02a": {
+  "created_at": "2026-10-15T18:00:58.751417Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "651b0b7984ea69eab46303e43241606720183dbe7195a9b7f8456f6ba5f94dd1",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-total-0pt5"
  },
  "0x0b568179415bd48c5718e4904b0e335b50c4e9814c55120bf23574ed47acd92a": {
   "created_at": "2026-08-24T16:33:07.479849Z",
@@ -170,6 +181,15 @@
   "sha256": "474a6c390d9f28b387f3640e3e0af150ab771c25540cf53cba5cd10ff0ff66b7",
   "slug": "scorigami-in-week-15-of-the-2026-27-nfl-season"
  },
+ "0x18259010a9f6234a9c9c8708839c91eabb86d789e26916b3b8898cb9ec59c22a": {
+  "created_at": "2026-10-15T17:02:06.566416Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 3 - 4 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-3-4"
+ },
  "0x1b6f519a83ba16e7fbdec41d17ea10cb9840c832bcd376b67ceda46cd69ff72a": {
   "created_at": "2026-08-14T13:01:48.796971Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -214,6 +234,15 @@
   "revisions": 1,
   "sha256": "45d51499fadb7506d75f1047e3b4a737053be7dc5c0642460a5bac57c0a53480",
   "slug": "tee-higgins-12pt5-receiving-touchdowns-2026-27"
+ },
+ "0x2297052c46a8b090648b7ff655c7afb2cabeaec42bf9d556e4d429796eb8b82a": {
+  "created_at": "2026-10-25T10:15:18.480815Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 1 - 4 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-1-4"
  },
  "0x23f84485554c048d2ca5b7c30f125b3f77887e35e9c5811607fe1cd384600e2a": {
   "created_at": "2026-08-12T14:57:44.600343Z",
@@ -642,6 +671,7 @@
   "created_at": "2026-08-14T21:20:20.48228Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "First Round Outright Winner in the GA-04 House Election?",
   "revisions": 1,
   "sha256": "3844304119b5742731040868a5857e5d708499467d0c309807806e444f9c50d8",
@@ -669,6 +699,7 @@
   "created_at": "2026-08-12T15:01:46.58032Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Texas State have more than 4.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -700,6 +731,15 @@
   "revisions": 1,
   "sha256": "11d8f27dbd0fb1e61ad5ab1d279777d1b567018c83611c11cb9453bb67a84d5c",
   "slug": "andrew-tate-released-from-custody-by-december-31-2026-20260719025109264"
+ },
+ "0x7eb11847de710d21c0223801c1c515fc9fe003835ae4131c787fd1bac9e8102a": {
+  "created_at": "2026-11-10T01:01:24.432736Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Newsom's Democratic nomination odds dip to 8% by December 31?",
+  "revisions": 1,
+  "sha256": "d76263c6b2137f8be5ec25a5a8e693ff87b7c0349d2b2d8059f2f564e99b8856",
+  "slug": "newsoms-democratic-nomination-odds-dip-to-8-by-december-31"
  },
  "0x7fc73761df8bd002f4be18c1d56f57e0ff190c2fdfaab11af96056aaa7cb7e2a": {
   "created_at": "2026-10-30T16:41:49.627459Z",
@@ -797,6 +837,7 @@
   "created_at": "2026-07-01T22:32:16.672929Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "California Clinic Funding Proposition",
   "revisions": 1,
   "sha256": "96da5777a85521642c404cb2336b7ddb537bb74c93e4f48e721c83552872b493",
@@ -865,6 +906,15 @@
   "revisions": 1,
   "sha256": "5c1b427cc66d80c3ab5e780ff16ec01d68060ada2a346a870eb5ff3b78cd892a",
   "slug": "el1-wim-ste-2026-10-03-corners-team-away-3pt5"
+ },
+ "0xa2a5717a277bc47c59e696e3318e620acb042b34e0ba0945ceb7536a024cd02a": {
+  "created_at": "2026-10-15T18:02:16.095602Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 2.5",
+  "revisions": 1,
+  "sha256": "c35dcfd1741805f198b3fbf6bfd8a0ab1142a7bea7c207ff58b181effbbc2cbc",
+  "slug": "cdr-ca-mal1-2026-10-28-team-total-home-2pt5"
  },
  "0xa2c188ca10155463e579974b4942510541fca77d85253edaad01c293bc329c2a": {
   "created_at": "2026-08-20T15:41:25.745172Z",
@@ -987,6 +1037,7 @@
   "created_at": "2026-10-10T11:30:45.380365Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Valtteri Bottas finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -996,6 +1047,7 @@
   "created_at": "2026-03-26T21:57:39.491005Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Caleb Durbin win the 2026 AL Platinum Glove award?",
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",
@@ -1054,6 +1106,15 @@
   "revisions": 1,
   "sha256": "07b765b1d2f27c1ac9df39d5da7090f9c358ae17f27eafde18da8dadfe42b993",
   "slug": "will-justin-jefferson-be-the-highest-scoring-wr-of-the-2026-27-nfl-season-20260806224130844"
+ },
+ "0xcb4edab2eceef0afd0ce4fa36e2dcf69ee49890f0f7fa480f9253d4ad9d1572a": {
+  "created_at": "2026-10-15T17:01:37.295227Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 1 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-1-4"
  },
  "0xcd3ff3c2f5febbbe7efa122fa87abe9b71439ca7be4abeca35bff01b8c3b2d2a": {
   "created_at": "2026-08-21T17:34:51.653041Z",
@@ -1150,6 +1211,7 @@
   "created_at": "2026-09-01T17:30:18.249361Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats win Oakland County in the Michigan Senate race in 2026?",
   "revisions": 1,
   "sha256": "14c71699590cac718606cb847b5996ffb6da913ab482f55c2261d3aa9c4e6829",
@@ -1177,6 +1239,7 @@
   "created_at": "2026-06-26T16:00:03.514003Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Mike Immler win the 2026 Dallas County Judge election?",
   "revisions": 1,
   "sha256": "b32a96bef3ebf2e8e996228b9147ef681191dedd78fa0a3893eb0d9c07e2a7cd",
@@ -1186,6 +1249,7 @@
   "created_at": "2026-06-25T17:26:23.744945Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Republicans hold \u226446 Senate seats and 193\u2013207 House seats after the 2026 midterms?",
   "revisions": 1,
   "sha256": "9480e21279c0196d200be0aeadd88be172cdf9b921e916d28dceeca73a1da55a",
@@ -1249,6 +1313,7 @@
   "created_at": "2026-07-10T02:05:45.758218Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Luz Rivas win the CA-29 House seat?",
   "revisions": 1,
   "sha256": "77d6a6c32adba9732679db0a0b67adad5d662020a24eaba8d47eef4dcf8d7944",

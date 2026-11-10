@@ -189,6 +189,15 @@
   "sha256": "b9b881c4e7669a1c6dac9bed110c4b96faf376663737654f7474179d3b86c3ce",
   "slug": "will-the-median-home-value-in-los-angeles-metro-be-between-1137000-and-1148000-on-december-31-2026"
  },
+ "0x1e33622e30370ce8378d5e87d6a50de57100c7c8420329fa54aefd521aa1f229": {
+  "created_at": "2026-11-10T02:16:00.974182Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "GTA VI Online released by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "cba4cddbb83297e2afb5640d79048fff0807add2082dbaf8f3d0a83d3c17b901",
+  "slug": "gta-vi-online-released-by-june-30-2027"
+ },
  "0x1e5f9d4da657ab3a34a2fb65738a035d425c1bf589d900d54498bd03814fb829": {
   "created_at": "2026-09-17T14:52:50.815212Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -296,6 +305,15 @@
   "revisions": 1,
   "sha256": "33a9fe47909e1a49de183427e46b4b198fc2f21065d962a1f9943ec2278f35a3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-va-04-house-election-by-40-45"
+ },
+ "0x343728472dadb8ee61a10519269abd5b65d60142a131a44b267dacb46445f429": {
+  "created_at": "2026-11-07T00:10:46.655534Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Amir Ohana receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-amir-ohana-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
  },
  "0x369a4e03dc746c2d76aa548e581a1641c4e59df0027576fc46b5be7f21795529": {
   "created_at": "2026-09-27T20:02:00.091543Z",
@@ -797,6 +815,7 @@
   "created_at": "2026-08-31T18:17:55.096548Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Miroslava Ferancov\u00e1 be the next Mayor of Olomouc?",
   "revisions": 1,
   "sha256": "7281809af5844bfd3378ddb1858b3c2ef39b80ab36da07ff4d846bec8a535f99",
@@ -815,6 +834,7 @@
   "created_at": "2026-08-12T14:51:33.558635Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Clemson have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -1036,6 +1056,15 @@
   "sha256": "d09775b1656a968073e0eb26905b9e1d92e886eb710f2f90b1425843297e9a6f",
   "slug": "el2-pvl-nth-2026-09-26-corners-team-home-2pt5"
  },
+ "0xb0653ba189ef301af4cadb8438914202cfe30b390e873337028572cb69991329": {
+  "created_at": "2026-11-05T01:02:23.409108Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "260-264 votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "260-264-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
  "0xb06ffd3db8d21ee7138bb39b0bad1de71c2ea25e62666e4ce1d8abe0a77bda29": {
   "created_at": "2026-10-21T23:34:13.825292Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1044,6 +1073,15 @@
   "revisions": 1,
   "sha256": "5fb09769c263c443e6cc81e301993980abd4563f5c094426ca53d9a68af88757",
   "slug": "will-psoe-win-the-most-seats-in-castellon-in-the-2026-spanish-general-election"
+ },
+ "0xb11b6c50ea1c3df6b1e9a7acc6ca1aa0a0fb7f7e86b9c4318fca0856b54c3329": {
+  "created_at": "2026-11-10T02:41:10.658545Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"99 Problems\" be played last at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
+  "slug": "will-99-problems-be-played-last-at-the-2027-big-game-halftime-show"
  },
  "0xb19de6a725fa59669c5b363eb5c599101185db40fdcb6e53d90d857eac92aa29": {
   "created_at": "2026-08-24T16:32:57.928781Z",
@@ -1220,6 +1258,7 @@
   "created_at": "2026-01-28T15:38:06.403076Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the OH-10 House seat?",
   "revisions": 1,
   "sha256": "33fe433c86e1c4b00371789f183d1a4d79db4b30ea8ac78bd09b5a02e7f760ad",
@@ -1238,6 +1277,7 @@
   "created_at": "2026-10-10T11:30:29.69731Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Charles Leclerc achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -1382,6 +1422,7 @@
   "created_at": "2026-03-26T21:53:37.420703Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Gabriel Moreno win the 2026 NL Platinum Glove award?",
   "revisions": 1,
   "sha256": "78d41609970e0c83a93f77d52403028aa352e20810884caa4b09a2c242343fab",

@@ -143,10 +143,20 @@
   "sha256": "7c5dc64bb42c3abddfa3e2bc9ca5bd7d3a133fa806ed28ad63b56da554b01409",
   "slug": "will-minotaur-win-best-international-feature-film-at-the-99th-academy-awards-20260805190946422"
  },
+ "0x1b11b3275e597e585045f35c1de715887c47e16f666a8b9fc2a0e53222f4f30e": {
+  "created_at": "2026-10-15T17:00:55.403204Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will CE Sabadell FC win on 2026-10-28?",
+  "revisions": 1,
+  "sha256": "4b4cd668955c1cf3950c0559e8268cacee27e3ae6a15785ba9669b5169ae3f72",
+  "slug": "cdr-ute-sab-2026-10-28-sab"
+ },
  "0x1baa3959c2dfed5979fb46a7738118c3be6d5742b01729da4c370f90b9f0f00e": {
   "created_at": "2026-08-12T16:52:07.943502Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Lorenzo Filomeno Colque Arias win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -264,6 +274,7 @@
   "created_at": "2026-10-01T00:02:07.941299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be between 30 and 34 average daily transits of the Bab el-Mandeb Strait on October 31?",
   "revisions": 1,
   "sha256": "b2158613ee34b2f4f271d267df930ca338f48c5d54bc933d94d3ba22a8b0ee84",
@@ -378,6 +389,15 @@
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
   "slug": "will-blackpink-headline-coachella-2027"
  },
+ "0x421572675654b92eaac75fa62eb3ac8f274c12a313caf90d685ddb1a63f78e0e": {
+  "created_at": "2026-10-15T17:02:05.510672Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 2 - 0 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-2-0"
+ },
  "0x427c4226b5ca5e27116fbcbd4499df1832dffe77c95d3d7e3c657959027d940e": {
   "created_at": "2026-08-12T00:10:03.813164Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -386,6 +406,15 @@
   "revisions": 1,
   "sha256": "2caa381881bb1e927d2b8f2551a684241c96767bd098130c0d6e3388c4e828dc",
   "slug": "2027-soccer-a-league-soccer-winner-western-sydney-wanderers"
+ },
+ "0x429f5187941a6d13c5fbf3a28b03b7705d5ba6a50dafdd651a1d3fc6aded790e": {
+  "created_at": "2026-11-07T12:30:05.261556Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Franco Colapinto win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-colapinto-2026-12-06"
  },
  "0x434e262f4d649a6713d2c00d005dba23d64cc69fc1d062a9f5c9393cbdf9900e": {
   "created_at": "2026-11-03T17:41:39.387183Z",
@@ -707,6 +736,7 @@
   "created_at": "2026-08-12T14:55:49.966232Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Illinois have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -817,10 +847,20 @@
   "created_at": "2025-12-15T19:35:02.024597Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the FL-13 House seat?",
   "revisions": 1,
   "sha256": "82a71eea4edb058a3568400f04ab891e66a28f579178b3ac4b8c666460f9b94a",
   "slug": "will-the-democratic-party-win-the-fl-13-house-seat"
+ },
+ "0x8b26b4c5bfc74f732b259caea7481d16e53394f167ef73e311efc903575b940e": {
+  "created_at": "2026-01-30T17:32:38.84037Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Don Lemon sentenced to prison?",
+  "revisions": 1,
+  "sha256": "0b52d880d00c2ef5c3b05c1875380feb94e67ad62cfa82d251d4f520ee519178",
+  "slug": "don-lemon-sentenced-to-prison"
  },
  "0x8b58a34d759b114a1743fc19852db01c1222cab7707e5755c2844e9a426bff0e": {
   "created_at": "2026-10-21T22:00:43.823918Z",
@@ -935,6 +975,7 @@
   "created_at": "2026-10-10T11:30:09.987522Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Sergio Perez get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "78418ad97441bc0cd2e7af52b9ed2ce1a4b08ea4026fdb461fdcf5d1274aeec2",
@@ -1436,6 +1477,15 @@
   "revisions": 1,
   "sha256": "c54b28626d0f5a8e38ddbaff58b0af4cf520ea0a004b52eb709e5e1dd2e71922",
   "slug": "will-bryan-mbeumo-man-utd-record-the-most-assists-in-the-2026-27-premier-league-season"
+ },
+ "0xe7650159e2148937693770f0e8748d001e631f67284d28d3e318a868e9f8770e": {
+  "created_at": "2026-10-15T17:01:05.263229Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 3 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-3"
  },
  "0xe79df03e4fbb13c9b40f418518bfa419a70faaa17aac64c94989662d283cd20e": {
   "created_at": "2026-08-17T21:24:00.039718Z",

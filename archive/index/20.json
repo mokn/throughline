@@ -85,6 +85,7 @@
   "created_at": "2026-08-11T14:06:05.285374Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 10 House seats in New Jersey in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "e036a188ca854c56a73e17db7803426cb520ec55aa15fe6a3611482e3fe414f8",
@@ -94,6 +95,7 @@
   "created_at": "2026-10-15T16:33:28.705985Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Olaf be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -170,6 +172,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-dylan-strome-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0x1afa16a5293be22782953e9dda565953370a9a2400fc0fd5d768070e44bd1f20": {
+  "created_at": "2026-10-15T18:02:34.460165Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Real Uni\u00f3n Club (-1.5)",
+  "revisions": 1,
+  "sha256": "e36de31bd5ab9dacc43904cd8995108c5d56a47e06c244a04956a27efaecd06a",
+  "slug": "cdr-por-iru-2026-10-28-spread-away-1pt5"
  },
  "0x1f2b9426925cb434b229c18f5eef8988e94ecfee5d2764fdbd5d2b9a3985d120": {
   "created_at": "2026-10-21T23:54:13.62213Z",
@@ -328,6 +339,7 @@
   "created_at": "2026-08-12T16:51:51.87342Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Mercedes Paola Maza Valencia win the next Piura mayoral elections?",
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
@@ -433,6 +445,15 @@
   "sha256": "a114852b5d7bfaa0f2ad7791d194b679684565f7ced3d54f7eff2d897a82b065",
   "slug": "will-mike-pence-win-the-2028-republican-presidential-nomination"
  },
+ "0x44024151acd7ad99e2212815887c853cedc3aa653a64e27ac5fae337357d7c20": {
+  "created_at": "2026-10-15T18:02:43.221941Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: Utebo FC (-3.5)",
+  "revisions": 1,
+  "sha256": "dc7300c2da657cd92c6ce9237801a3135a186e2f5c0fd6164f6eb26df017bea3",
+  "slug": "cdr-ute-sab-2026-10-28-spread-home-3pt5"
+ },
  "0x444ca37f4270269dc5c50eb59479a8286dbdc038653e451e2fce5c725c3a6d20": {
   "created_at": "2026-08-10T23:57:25.144248Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -455,6 +476,7 @@
   "created_at": "2026-08-24T16:39:45.519114Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Beijing Guoan keep the most clean sheets in the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "3e6019f221c7b687ed6b1d7adc920d3ad55bf49ddcc35a27be2e85c52eaddc61",
@@ -464,6 +486,7 @@
   "created_at": "2026-08-12T16:51:51.057361Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Walther Guerrero Silva win the next Piura mayoral elections?",
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
@@ -599,6 +622,7 @@
   "created_at": "2026-10-10T11:30:44.54462Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Kimi Antonelli finish on the podium at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
@@ -738,6 +762,15 @@
   "revisions": 1,
   "sha256": "f15b2a888025f79a833f10d20126ff4a556de15484bb6ea94c0eb02d5e956963",
   "slug": "will-plasma-reach-0pt60-by-december-31-2026"
+ },
+ "0x754ab4247c590606f2b2655da7f3e327ea3cf723089844687709d094a61fe920": {
+  "created_at": "2025-11-12T20:05:45.147509Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Teddy Riner win the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "dee7db4ccb37acb3221169f92c04d65bf0e57aeef252370c8028be32049b0565",
+  "slug": "will-teddy-riner-win-the-2027-french-presidential-election"
  },
  "0x75aa5e68e799c47d07b00a4605ca438e1f6112d8787773b2b0eb92b89dd8ba20": {
   "created_at": "2026-04-14T15:40:24.275973Z",
@@ -911,6 +944,15 @@
   "sha256": "0fb895e407904faf7492c22d224f2bc3addf867b5073f9d473aa3fe10c5bb17d",
   "slug": "abstract-fdv-above-2b-one-day-after-launch"
  },
+ "0x8c1ff920c62565fa565029b6b626bd584824f5566886ed8a8727692d3a468020": {
+  "created_at": "2026-11-09T21:18:05.705838Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will EDward Gaming Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-edward-gaming-win-an-international-event-in-2027"
+ },
  "0x8cced1092fe716b34c0e92b86d387c3578f47edf08ed87e3bc02e4800691d320": {
   "created_at": "2026-08-26T21:46:17.59779Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -956,6 +998,15 @@
   "sha256": "389c43fb3b60ef28f857b6f9faeb9ff0e04584aaf468fa8c8b601aff30439fea",
   "slug": "el1-not-bla-2026-09-26-not"
  },
+ "0x972ab67f8991c17e447b88d5dbb3d7b7a4b77754da81a60fa21c9051abd1b520": {
+  "created_at": "2026-10-15T17:01:39.54577Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Tenerife to score first vs. CD Badajoz?",
+  "revisions": 1,
+  "sha256": "030b440c4a86a160cbcd15209d1bf23120ab8fb1d060fa9e4b32109f2fddd035",
+  "slug": "cdr-bad-cdt-2026-10-28-first-to-score-away"
+ },
  "0x97930f6cd7b1616291e074af8f4625b7c85bcbddccd2110a8db4957a5d9ef920": {
   "created_at": "2026-01-28T15:39:30.487356Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -974,6 +1025,15 @@
   "revisions": 1,
   "sha256": "170c8ba1ac2f5186db2110110ce372aa7ad5127cfd39141eca350272038cdfce",
   "slug": "2027-soccer-japan-j-league-winner-kashiwa-reysol"
+ },
+ "0x9a925a9768805dc7d5cd7551e07a52a73d412672dbf42ef85e259d8b5c22e320": {
+  "created_at": "2026-11-07T12:30:15.480027Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alexander Albon get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
+  "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-albon-2026-12-05"
  },
  "0x9c25363f0ab06992ca1ecbab9a48dd8b990cc2e405f116c765d7337723e08d20": {
   "created_at": "2026-09-30T14:02:27.117942Z",
@@ -1042,6 +1102,7 @@
   "created_at": "2026-08-12T17:20:06.822047Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Alianza Atl\u00e9tico Sullana be runner-up in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "6844079682818058d1de2c1476766359daa2122552d75828bf3e291a8d785023",
@@ -1367,6 +1428,7 @@
   "created_at": "2025-12-15T19:23:21.059912Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the CA-13 House seat?",
   "revisions": 1,
   "sha256": "869e1e3585bfb9fdae28347ba89bcffcdd558bfdabe7355ac0e79c556923b4a3",
@@ -1412,6 +1474,7 @@
   "created_at": "2026-03-25T21:41:56.175188Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Charlie Condon win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -1547,6 +1610,7 @@
   "created_at": "2026-08-10T23:55:55.845571Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Christian McCaffrey have 0.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "49ea4155ee6dd3712f37b027ec9ed25e3f3614983d345f4ca3424991dea95bf4",

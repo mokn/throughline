@@ -75,6 +75,7 @@
   "created_at": "2026-10-08T22:00:07.651121Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Roehrig vs. Mcdonald be won by decision?",
   "revisions": 1,
   "sha256": "edac8738a6cb1230e5dcb6265b8e796e25521c30211635ff74310205df3eafb5",
@@ -170,6 +171,15 @@
   "revisions": 1,
   "sha256": "0ab5cdbb11451c9b59493acb05bec3489ad6e575e97f390e3fbb71a9b708ce7b",
   "slug": "will-the-democratic-party-candidate-win-the-2026-iowa-senate-election-by-3-6"
+ },
+ "0x1f78ec06609927bcd3d56adc9fe91999f557f8c5f9c568663ba687224c4cb357": {
+  "created_at": "2026-11-10T02:42:02.661228Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Drunk in Love\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-drunk-in-love-be-played-at-the-2027-big-game-halftime-show"
  },
  "0x203f771c3e2c6bf506776a894326d192daaa9d6f38e8eff40b6fa5eb9ebb7057": {
   "created_at": "2026-09-20T11:44:19.406346Z",
@@ -324,6 +334,15 @@
   "sha256": "115fdadb3d59a8617ce5d92e0a152f344a689308bc050ccaef8bd6041baff690",
   "slug": "will-the-democratic-party-candidate-win-the-2026-rhode-island-senate-election-by-25-30"
  },
+ "0x38b7c05aaae3bad64b4aa7da5bc958b68d70759ef2938f071a04a0ec247b8a57": {
+  "created_at": "2026-10-25T10:45:16.135915Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: Aurora FC (-3.5)",
+  "revisions": 1,
+  "sha256": "41efabcac1ed626d7fb259cdc51edac66b8671d6f3636ffd10946a7ced423efe",
+  "slug": "gtm-mun-aur-2026-11-07-spread-away-3pt5"
+ },
  "0x39c02a56e932101c74b42a53912052f0a3a3191a4ef50a8c108b7f72af136557": {
   "created_at": "2026-08-29T00:16:11.796007Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -423,6 +442,15 @@
   "sha256": "8840ac4333ed939eeb19925b1050821fa51fc02783f43eaf857110e41abe1548",
   "slug": "will-arizona-make-college-football-playoff-quarterfinals-20260803204558935"
  },
+ "0x3d8d2083c8ec5726dcc1fe580ec8292402f06cce8f89bdba81e6cedfe8349057": {
+  "created_at": "2026-11-07T00:10:48.10784Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Eli Cohen receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-eli-cohen-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x3ffcf790e6e5a6508aef773370715aaebdb06e74a10596fe698b8df81f9ead57": {
   "created_at": "2026-09-13T08:45:27.566846Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -517,6 +545,7 @@
   "created_at": "2026-08-12T17:32:11.906146Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Ferro Carril Oeste be runner-up in the 2026 Primera Nacional (Argentina)?",
   "revisions": 1,
   "sha256": "535242f33d28aedce5a3e9c960a1829109af50a5cfa6cbbe1d4d68d7c0d5846f",
@@ -535,6 +564,7 @@
   "created_at": "2026-08-12T17:26:46.242449Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Colorado Rapids be runner-up in the 2026 MLS?",
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
@@ -666,6 +696,15 @@
   "sha256": "ea4a0f0a8528b2e6b537f6195662305aa0ed2e83e0aff7f4d909b3bbdc98afb8",
   "slug": "will-hyperliquid-reach-140-by-december-31-2026"
  },
+ "0x6458a6bab0d3ab046cef491733b30b48cb5200a35b7600fb875a3ac7fcb7bf57": {
+  "created_at": "2026-11-07T12:31:18.6036Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Who will finish higher: Hamilton or Piastri?",
+  "revisions": 1,
+  "sha256": "dbe867d99ecdf954ec7770f756a553a09bd601ce7b53e6e5d2ff367b3d965e72",
+  "slug": "f1-abu-dhabi-grand-prix-h2h-hamilton-vs-piastri-2026-12-06"
+ },
  "0x64975ca4b7321d831e58613586bae171f157cd06747730017c76940193b31c57": {
   "created_at": "2026-09-20T08:46:02.634512Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -692,6 +731,15 @@
   "revisions": 1,
   "sha256": "bc1dcbd678b5afd92f3abe6cb1ec12ac3ee80c7242182ebfcf238ccb7707abc4",
   "slug": "spl-abh-kho-2026-10-19-second-half-total-3pt5"
+ },
+ "0x67138a7f2ef9ae152eb74d56bcf482af49dc1f8474b68e4e36f4847bff86a857": {
+  "created_at": "2026-10-25T10:15:17.241729Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 0 - 2 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-0-2"
  },
  "0x67c568e14e9691872d6f893fe3fc1e5560d792c066357d1d54f644c26ac36457": {
   "created_at": "2026-04-29T16:27:12.994492Z",
@@ -791,6 +839,24 @@
   "revisions": 1,
   "sha256": "62c4f000b4a4432b57a39af7eca2739f4a8b7e253611a4f652cd8f5b596fbb6a",
   "slug": "will-razer-win-the-2026-esports-commercial-partner-of-the-year-award"
+ },
+ "0x7da0b83a382d3b3f2419cbf5dd5012482305b97786fad7b14aa4db46d6725a57": {
+  "created_at": "2026-11-06T00:02:42.536421Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Stuart McWhorter be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-stuart-mcwhorter-be-next-to-hold-blackburns-senate-seat-by-march-31"
+ },
+ "0x7f9bfe4b2665b36c982edb5435005d8e97bf27c637cfb85cdc7a065f8fdf0f57": {
+  "created_at": "2026-11-06T23:09:51.407616Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will 240 or more House members vote to impeach Hegseth by December 31?",
+  "revisions": 1,
+  "sha256": "f3d95092926b0f83e8fd56301eddd62792803f21dd68dd69716d4d7ff60e819c",
+  "slug": "240-or-more-house-members-vote-to-impeach-hegseth-by-december-31"
  },
  "0x816ec3b3211089197c974b8f8c782850546a1d710424bd260cf210fef7b86e57": {
   "created_at": "2026-08-18T18:59:33.608495Z",
@@ -1165,6 +1231,7 @@
   "created_at": "2026-08-12T17:27:10.829602Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Hurac\u00e1n be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -1431,6 +1498,15 @@
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-granit-xhaka-record-the-most-assists-in-the-2026-27-uefa-europa-league"
  },
+ "0xe5ad5d21ca6c4c431576ac82c73e5974750f62649d3b6853642acfc48bdcdb57": {
+  "created_at": "2026-11-07T00:10:39.12577Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Itamar Ben Gvir receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-itamar-ben-gvir-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0xe6abf14ee00363210b7f83083b36bf14d1270e044da9dd104e50a4cb66bb1457": {
   "created_at": "2026-10-22T00:03:15.003957Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1444,6 +1520,7 @@
   "created_at": "2026-08-11T14:13:33.981884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 8 House seats in Pennsylvania in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "d7734c9f2ef886fbbc5c40c1d477759b926cdd73451ac69b7d2fee4966739c65",

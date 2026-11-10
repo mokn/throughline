@@ -135,6 +135,15 @@
   "sha256": "e8730c763cda11043750fcef65cbcd79d101d90652b7565f73997e51ff8adddb",
   "slug": "will-gent-finish-9th-24th-in-uecl-league-phase"
  },
+ "0x11bf37ff195b70d2b275dfe96c8940d72d064bad3a64931673763a63c89e8582": {
+  "created_at": "2026-11-05T01:02:20.990616Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "244 or fewer votes for Hakeem Jeffries to be Speaker on first ballot?",
+  "revisions": 1,
+  "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
+  "slug": "244-or-fewer-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
  "0x126b152cdc117693acf4092d97b663644fcf6b8ac6615d7817f0e284d60a6d82": {
   "created_at": "2026-08-11T19:03:49.824912Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -211,6 +220,7 @@
   "created_at": "2026-10-10T11:30:15.015741Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Ferrari get pole position at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "7ea8f93fa1a54e6036981326164be1cc7c9b93909384958de042d23e59d78a7b",
@@ -306,6 +316,15 @@
   "sha256": "a088067638c29dc1bfb38cbed80e812a29dc28009f597feffb4148f12fd18b1b",
   "slug": "omarion-hampton-7pt5-rushing-touchdowns-2026-27"
  },
+ "0x2d8f371cc6729dc890d1bf5494794cb373a3386802d9e7b8b819e50221585282": {
+  "created_at": "2026-11-04T21:46:42.353703Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Next James Bond announced by December 15, 2026?",
+  "revisions": 1,
+  "sha256": "67fd95d32f2bd3831d515c6fb241e59b1b14a968e17034da519a71a61a106009",
+  "slug": "next-james-bond-announced-by-december-15-2026"
+ },
  "0x2fa33a7b10abef628d5832c1126705ae279a540c18ca9ad10fffdf6853acec82": {
   "created_at": "2026-08-12T00:16:49.168036Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -314,6 +333,15 @@
   "revisions": 1,
   "sha256": "806faf943de42db81c8db65f00cadb99a7a65b53ef631961f87ee4140a94b815",
   "slug": "2026-soccer-liga-fpd-costa-rica-winner-sporting"
+ },
+ "0x3192c2c0b0dd6ad735ee179dfd95adc0f0b2fe1adc77c39e62867a518fc64f82": {
+  "created_at": "2026-11-07T12:31:00.518365Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Liam Lawson achieve the fastest lap in Practice 2 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "7021bb9cb958009d12e3e0b39fb5e9c1fa181ca2eb7c0ee7dcfe266be5c09a39",
+  "slug": "f1-abu-dhabi-grand-prix-practice-2-fastest-lap-liam-lawson-2026-12-04"
  },
  "0x32773263d589a2bf12fbbea38c309b40dac082e237677245d8dd608638bd7c82": {
   "created_at": "2026-10-12T18:35:38.456572Z",
@@ -328,6 +356,7 @@
   "created_at": "2026-09-02T18:11:43.316135Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Republicans win 12\u201313% of the Black vote?",
   "revisions": 1,
   "sha256": "42466225b54a9dd55e702df629190490b0c8a52d006735341faf0394a35c3e66",
@@ -474,6 +503,7 @@
   "created_at": "2026-08-24T16:36:10.809082Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Palestino finish 14th in the 2026 Chile Primera?",
   "revisions": 1,
   "sha256": "ff9e547421a290ecf8abd8693efa91d32a3325481daccde0b0d50f0bfa1b464d",
@@ -515,10 +545,20 @@
   "sha256": "62b7eb7c2fa0994ea2ec65df6aacd48eac709f8b2df07126d280680cbfc0c365",
   "slug": "will-the-republican-party-candidate-win-the-2026-pa-15-house-election-by-20-25"
  },
+ "0x4e1a1b4232c8dddbdf64d91e0fe2ebe276e051401d95f9f1edecf281fcd5e082": {
+  "created_at": "2026-10-15T17:00:58.105807Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 0 - 5 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-0-5"
+ },
  "0x50006a1a6d22a6a0c7ae35e19356ffd71da34f72ef22d3ebb65ab28157316782": {
   "created_at": "2026-10-03T19:00:28.403653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 2 - 5 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -700,6 +740,7 @@
   "created_at": "2026-09-24T22:53:30.459779Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Democrats win white voters in the midterms?",
   "revisions": 1,
   "sha256": "172443304c79b26c566d222cd89169ae1e2dc501b9fff839430299c8a599d019",
@@ -781,6 +822,7 @@
   "created_at": "2026-09-10T18:03:09.103754Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will the Democratic Party control the Pennsylvania Senate after the 2026 Midterm elections?",
   "revisions": 1,
   "sha256": "b93d8004fd820ac3a6a6cab484a06ed8faf8ef008ff5e01e01f2d72160123f14",
@@ -921,6 +963,15 @@
   "sha256": "66446108ad784f94787831a57a473e43c4c79244e1b21bac9449eef982b87796",
   "slug": "liga-acb-2027-champion-real-madrid"
  },
+ "0x9671633e57c877e2d47c9c782862f35a940fad3f81b1dae8855d3b46f0ea7982": {
+  "created_at": "2026-10-15T17:01:05.399233Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Club Portugalete 5 - 5 Real Uni\u00f3n Club?",
+  "revisions": 1,
+  "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
+  "slug": "cdr-por-iru-2026-10-28-exact-score-5-5"
+ },
  "0x9698c4e40dadc531b02ab567fd41385786f7106a9963c751e1d978875ef27882": {
   "created_at": "2026-10-28T21:24:09.457854Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1015,6 +1066,7 @@
   "created_at": "2026-08-11T14:04:46.889415Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 3 House seats in Wisconsin in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "2342764c11b82315aa8b15c077d5c88a389181fc632c29c7e79f6bc3ad858e9b",
@@ -1250,6 +1302,7 @@
   "created_at": "2026-01-28T15:39:17.449886Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the Democratic Party win the SC-01 House seat?",
   "revisions": 1,
   "sha256": "bf8f0f9a4b1ddfcd664d1d5cfbbdfa7075b23779e6534d42cbd744d5147ce836",
@@ -1364,6 +1417,15 @@
   "sha256": "bfc9b15c395c59f705e403758630e6f9dcf2d46d22ea7ef8e454db516484bf94",
   "slug": "will-ferencvarosi-tc-keep-the-most-clean-sheets-in-nb-i-hungary-2026-27"
  },
+ "0xe3c6fe139f01a63f7f8b89e23532a27efdabc4789c52ae275e3c61330c99fa82": {
+  "created_at": "2026-10-25T10:45:19.282488Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 0.5",
+  "revisions": 1,
+  "sha256": "6b68443c502cb0d77391a8033e65375fd5014c0113759ebae468a3e4dd075180",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-0pt5"
+ },
  "0xe48aec63b708adaad1e25e947a5b2a07295ed6a2b2af57844b6128e51f904582": {
   "created_at": "2026-08-11T18:36:33.481912Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1413,6 +1475,7 @@
   "created_at": "2026-08-12T17:28:05.017934Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Macar\u00e1 be runner-up in the 2026 LigaPro Serie A (Ecuador)?",
   "revisions": 1,
   "sha256": "22fbf71e44bb333afa44042e75ed75545ce639ae1601678604cd7ade948c91bf",

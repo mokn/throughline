@@ -72,6 +72,15 @@
   "sha256": "91744a294268812d15cdcebbabd1a63688d238742bd2213be807684ea381a1ab",
   "slug": "el1-pet-not-2026-10-03-second-half-team-total-home-0pt5"
  },
+ "0x0c4862a7a2c0e198bc0801ea7af504de79482f6632046ce0e7ad282940d76a6f": {
+  "created_at": "2026-11-10T02:41:51.198798Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Hard Knock Life (Ghetto Anthem)\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-hard-knock-life-ghetto-anthem-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0x0ed6fe94dc21bb20ac1d9a489773b50d8bdd52b35e551b82886ad0f88950026f": {
   "created_at": "2026-07-20T19:24:16.930655Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -301,10 +310,20 @@
   "created_at": "2026-08-11T14:12:06.378447Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Democrats win exactly 7 House seats in Virginia in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "caec01e66d8f8d15d91cbe1c29920df716bed7a02f2ed568f4d39166f4163052",
   "slug": "will-democrats-win-exactly-7-house-seats-in-virginia-in-the-2026-midterm-elections-20260811010742826"
+ },
+ "0x3399ddd95c84560d472488141fb13372a25ff62988e5d2a1651afb84e908736f": {
+  "created_at": "2026-10-15T18:02:12.755845Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: CD Alcoyano (-5.5)",
+  "revisions": 1,
+  "sha256": "4b88f38cdf1cd8bfc6aa90aa636ec05e6427614849d9c992d9ea9842c86b2beb",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-home-5pt5"
  },
  "0x34eb6d624986fc8050ba1a051be71fed6033a51247c1567103ade401e9f2bd6f": {
   "created_at": "2026-08-12T16:51:56.773274Z",
@@ -409,6 +428,7 @@
   "created_at": "2026-08-26T08:45:17.129666Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "ab39b284a5b8a5f57340f788afa62c16448eadffbc9ee7eb4d082ba837c4b1ea",
@@ -577,6 +597,15 @@
   "sha256": "f43fc2c550264ae6075eda85d1897421594fdd1d4769dc633a84b613725d76f5",
   "slug": "will-the-republican-party-candidate-win-the-2026-va-08-house-election"
  },
+ "0x5694d83625b662ac94ce213a99ec75c2be3466ebe22f357dfbdf872a2298866f": {
+  "created_at": "2026-11-07T00:10:47.66312Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Ofer Winter receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-ofer-winter-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x58998da8fa20593cf07618032acd580344a79279a8bcc3ed128b668d793c3d6f": {
   "created_at": "2026-04-17T15:45:42.304315Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -608,6 +637,7 @@
   "created_at": "2026-10-08T22:00:10.948949Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Bentley vs. Jr. end before Round 4?",
   "revisions": 1,
   "sha256": "71cabce0fc0c8cc10114f14dff80fdf60b7faeb6bd807e224a809cbd6987dab6",
@@ -743,6 +773,7 @@
   "created_at": "2026-03-25T21:41:47.955479Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Sal Stewart win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -788,6 +819,7 @@
   "created_at": "2026-10-02T17:59:20.984758Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the US add between 25k and 50k jobs in October?",
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",
@@ -903,6 +935,15 @@
   "sha256": "399949523ca15b431a5021d63ffe4fbe9e8d8c70657b734b620f55f04a3792ca",
   "slug": "will-the-republican-party-and-democratic-party-hold-the-same-number-of-governorships-after-the-midterms"
  },
+ "0x828350bf5884c9b235052b496b1851ec65437bf77f45080f00e40077dbe2d76f": {
+  "created_at": "2026-11-05T20:54:10.585182Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Yolanda Paredes win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-yolanda-paredes-win-the-2028-paraguay-presidential-election"
+ },
  "0x83ad6b453c5283a79a148eb8c669e3e611be323db6ee0e73ffabbbe4cdf50c6f": {
   "created_at": "2026-08-11T18:25:21.991827Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -965,6 +1006,15 @@
   "revisions": 1,
   "sha256": "475e3dceb2f9e766fc52aa0ac2d65ef2c564d16fe0b9d8f85e04cfa306dfe6ba",
   "slug": "will-the-winnipeg-jets-record-110-points"
+ },
+ "0x8b24d31346a900f287beaf2e8a808cf8f83dd9382c89eed1a547133caacaa16f": {
+  "created_at": "2026-10-15T18:01:47.826708Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: O/U 2.5",
+  "revisions": 1,
+  "sha256": "34a470582d47ae3f963f01785ec6fa040c12b0bd43449a1ffcc8da09ddabbcde",
+  "slug": "cdr-bad-cdt-2026-10-28-total-2pt5"
  },
  "0x8cb02665440236b107b0bd9545ec8c17682879bdb3fdba06cb108c9b112ae76f": {
   "created_at": "2026-08-05T19:51:49.957288Z",
@@ -1150,6 +1200,7 @@
   "created_at": "2026-08-11T14:04:46.764984Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win exactly 2 House seats in Wisconsin in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "2342764c11b82315aa8b15c077d5c88a389181fc632c29c7e79f6bc3ad858e9b",
@@ -1195,6 +1246,7 @@
   "created_at": "2026-10-10T11:30:27.123075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Oscar Piastri achieve the fastest lap in Practice 1 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
@@ -1430,6 +1482,7 @@
   "created_at": "2026-08-12T00:19:00.711139Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will FC Naples win the 2026 USL League One?",
   "revisions": 1,
   "sha256": "9a3d2ef2bf6cdadb4d1edff83ef5eba1d2853f63d3e5e4835ddebd3cfde9f868",

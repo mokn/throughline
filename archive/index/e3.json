@@ -53,6 +53,15 @@
   "sha256": "2d7a57a4aea5cc4838e9d8c32691bbcce18ea4f624acf53b00992b151f13f1b2",
   "slug": "will-mc-win-the-most-seats-in-the-2027-guerrero-congress-election"
  },
+ "0x0c8217713edc0cbcd07fb8c04443347ec638f17df6200e190a2af107f82aabe3": {
+  "created_at": "2026-10-15T17:02:00.716875Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Reus FC Reddis 3 - 0 Barakaldo CF?",
+  "revisions": 1,
+  "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
+  "slug": "cdr-red-bar-2026-10-28-exact-score-3-0"
+ },
  "0x0e35f3452ad2a982f1b96a384c2c1c2d99e27feb3ed1044dea59bed87dff37e3": {
   "created_at": "2026-07-31T22:45:18.76578Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -120,6 +129,7 @@
   "created_at": "2026-03-25T20:08:31.279112Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will Payton Tolle win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -169,6 +179,15 @@
   "revisions": 1,
   "sha256": "22ea0ee3da3b82b80ac23f534aea49de8a280859f961918b5be823b2e3781035",
   "slug": "will-rose-be-nominated-for-best-makeup-and-hairstyling-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x1e077148e8d7cab7e2fac232132f8ce2a4fd2e78efea1b3af05b84f572a6c4e3": {
+  "created_at": "2026-11-04T17:37:49.799074Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will 9z Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-9z-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x229e784d2f7598ef198dd3253172f3a0769af4d3c80e88a72b381cfac01bade3": {
   "created_at": "2026-10-31T11:30:44.070544Z",
@@ -318,6 +337,7 @@
   "created_at": "2026-10-10T11:30:07.475695Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Williams have the highest constructor score at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13711fb14177e94e215272f2feab2b3492c7a6cc383bfd8b11e15f9eef985aa7",
@@ -936,10 +956,20 @@
   "sha256": "e5ae53c626884a3f6cc8cc77074286501762ec2b8e6e21bd7d04cef6ecdf54ba",
   "slug": "will-thinky-have-the-best-ai-model-at-the-end-of-november-2026"
  },
+ "0x85a62fab8a3b9aaafd1afef25f700ed18247a70dbe98fb97ce6081e8b84d9ce3": {
+  "created_at": "2026-11-07T00:05:02.083056Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Otzma Yehudit support the new Israeli government in the vote of confidence?",
+  "revisions": 1,
+  "sha256": "b1aedaceaadae708ca1b1d5cb864bc06eaa5801f311cf1fe614a83d8f217b602",
+  "slug": "will-otzma-yehudit-support-the-new-israeli-government-in-the-vote-of-confidence-20261103170353284"
+ },
  "0x85ac8bd6094d3f66aaf76a94ea9886bcef6f5b9d762133685b0857bd061fd3e3": {
   "created_at": "2026-09-09T20:34:57.059779Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Next GPT Image Model (2.6+) released by January 31, 2027?",
   "revisions": 1,
   "sha256": "e2d1a252b2c44311089b486abeafda07e54033ac1444bb90ec890b9d2bb922a8",
@@ -1310,6 +1340,7 @@
   "created_at": "2026-11-02T00:47:23.640737Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democrats fail to sweep the House and Senate and the US not enter a recession by the end of 2027?",
   "revisions": 1,
   "sha256": "7b1e7bb6099c8fdb53e43587f67993355168ae20ceab45d75d56740d231a71eb",

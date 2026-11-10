@@ -278,10 +278,20 @@
   "sha256": "955109b2c91e2314cc1ee4ca459947f93ed856268bbf51efb98ebb5ee45fda9c",
   "slug": "will-usdcad-hit-1pt45-high-in-2026"
  },
+ "0x3d6d9bccbc121765302b509d9d3dc5926ac6044a82c1bab0ed98577d79515fbc": {
+  "created_at": "2026-10-15T17:02:06.370363Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 3 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-3-3"
+ },
  "0x3dd4956935961d450888b3ac094fe1d4ecd58b932e114eaa733fdf59f88d0fbc": {
   "created_at": "2026-02-18T17:11:00.618767Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dejan Jovelji\u0107 win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -410,6 +420,7 @@
   "created_at": "2026-02-18T22:38:29.118759Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Nick Kurtz win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
@@ -540,6 +551,15 @@
   "revisions": 1,
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-luke-onien-record-the-most-assists-in-the-2026-27-uefa-europa-league"
+ },
+ "0x68dc4b089469cd10d2c61ff5fbd4848fd7d738bc9aeaabe1f6a0804b2633d1bc": {
+  "created_at": "2026-10-15T18:02:13.673325Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 4.5",
+  "revisions": 1,
+  "sha256": "8882574f077fb731a70f111a56bce512fb89f2b66a3b24a17f3967b237420762",
+  "slug": "cdr-ca-mal1-2026-10-28-total-4pt5"
  },
  "0x69f99fc2a8f1149845b4887fc92e77c06df91c5ff5e968bc06c563666adc59bc": {
   "created_at": "2026-05-07T20:33:53.091894Z",
@@ -730,10 +750,20 @@
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-maximilian-beier-score-the-most-goals-in-the-2026-27-uefa-champions-league"
  },
+ "0x933cdee64fcb290acf51442bfaa132ab005eabc7fdabbd979c38b8ef16d283bc": {
+  "created_at": "2026-10-15T17:01:38.345486Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 4 - 5 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-4-5"
+ },
  "0x945b03e59056e7c417e7e13ebc13ae8e86ea1927b18cc15f904aa82528457bbc": {
   "created_at": "2026-02-18T17:10:54.6876Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Denis Bouanga win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -883,6 +913,15 @@
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-zion-williamson"
  },
+ "0xaafa97e7923ea635d5fb8c31c9e502aa60ce47b4d7ad3e56bfe6c5e21e1dc4bc": {
+  "created_at": "2026-10-15T17:01:38.533588Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-any-other"
+ },
  "0xab39b5639bae98e07546513ae756bbebdcfb57f738e713f89c03bcca467b43bc": {
   "created_at": "2026-09-14T20:32:31.29038Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -914,6 +953,7 @@
   "created_at": "2026-08-12T17:32:56.904807Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Str\u00f8msgodset be runner-up in the 2026 OBOS-ligaen (Norway)?",
   "revisions": 1,
   "sha256": "125173aba9642b0e024184cf1085bb6e48082c89fadf92f451af585b81333528",
@@ -927,6 +967,15 @@
   "revisions": 1,
   "sha256": "e5542726942937d32cb4b304b41495f3b9e84f74102fd1d300cbfcabfc2eea3d",
   "slug": "will-joseph-williams-be-the-2026-big-12-receiving-tds-leader"
+ },
+ "0xae6c88b69b7f11c06a98d2356f934343a4901c3eb458db14036befcd2d1327bc": {
+  "created_at": "2026-11-06T21:50:23.438228Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will the Democrats win the Presidency, Senate, and House in 2028?",
+  "revisions": 1,
+  "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
+  "slug": "2028-balance-of-power-d-president-d-senate-d-house"
  },
  "0xaf5298491708267117c9a585a8caadbb140ebe906548e7d204e834c4efe20dbc": {
   "created_at": "2026-10-01T14:00:58.122635Z",
@@ -945,6 +994,15 @@
   "revisions": 1,
   "sha256": "493694adc6a0a1ec2df43d9e0e30b9a535bdf7042a9219ee6363621d35942b14",
   "slug": "will-luther-burden-iii-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-yards"
+ },
+ "0xb1c586665fe3671266e9542c0fe45ca794ffd5a6861fada70698cc534aa1d9bc": {
+  "created_at": "2026-10-25T10:45:16.283743Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Spread: CSD Municipal (-4.5)",
+  "revisions": 1,
+  "sha256": "bb39332df727980271dda0dab1440d0469259a31cc22af71a3e17a73fff75709",
+  "slug": "gtm-mun-aur-2026-11-07-spread-home-4pt5"
  },
  "0xb1e28d4a0c7805d4d4c0d0acb586123848b3cf12ad0f15f30c012d440dc7a9bc": {
   "created_at": "2026-08-04T18:04:00.285425Z",
@@ -1085,6 +1143,7 @@
   "created_at": "2026-08-12T16:51:35.134872Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Albino Aguirre Pacheco win the next Huancayo mayoral elections?",
   "revisions": 1,
   "sha256": "e91be4dc7f6da21e2f3b8e02b0a54b9d2d57136e1579e8b08bc7aef33e102c24",
@@ -1285,10 +1344,20 @@
   "created_at": "2026-10-28T21:54:47.232951Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-10T14:52:55Z",
   "question": "Will the next Fable model (5.2+) be released on November 27, 2026?",
   "revisions": 1,
   "sha256": "201e04f9a79ad68844f932332722a70ad74e7b1f01349fcececc85275c9881c1",
   "slug": "will-the-next-fable-model-5pt2-be-released-on-november-27-2026"
+ },
+ "0xf169d5e7d40a86c2368a947f087e4cf348f3347db7fdd429bab730e75b41a1bc": {
+  "created_at": "2026-10-15T17:01:36.401205Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Badajoz 0 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
+  "slug": "cdr-bad-cdt-2026-10-28-exact-score-0-1"
  },
  "0xf2f1dd77ef1d0144b6773a09efd045169fee0b9e6324a35723357268fe1192bc": {
   "created_at": "2026-11-03T17:41:59.764479Z",

@@ -99,6 +99,15 @@
   "sha256": "e8b4903dc21162e3df4dccf4bac77797167e555cccc8b3c606954ac32e7c5ee9",
   "slug": "amon-ra-stpt-brown-105pt5-receptions-2026-27"
  },
+ "0x110282ab476d87bb035a617544216bd30e04f3a2131e5b43d11c2e7ac906c793": {
+  "created_at": "2026-11-06T00:02:47.11067Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will John Rose be the next to hold Blackburn's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
+  "slug": "will-john-rose-be-next-to-hold-blackburns-senate-seat-by-march-31"
+ },
  "0x11dd403efdc16265deefbb894a1bb5d0a95ba17fb82c5f61982ce67a21936393": {
   "created_at": "2026-09-08T16:54:49.630931Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -139,6 +148,7 @@
   "created_at": "2026-08-26T21:46:08.419106Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will KuPS be relegated from the 2026 Veikkausliiga (Finland)?",
   "revisions": 1,
   "sha256": "e9ca6e77eb983d1f8c4c1b381ef70df31aea8b74035221c1c8a50439700d0e6c",
@@ -226,10 +236,20 @@
   "sha256": "03bf6e75e07656721c7458f837ccca57708c55b6f61413f853f2d8c9d33213ac",
   "slug": "will-truist-fail-by-end-of-2026"
  },
+ "0x240964c184cf79dbe9a1919a43f32b3a98099ee1abb4b9b119922dfeda0b7893": {
+  "created_at": "2026-11-07T12:30:27.982569Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Alexander Albon achieve the fastest lap at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "ad321da284368f8e8845c4b639147380f89995f20991d79932f8496b43217096",
+  "slug": "f1-abu-dhabi-grand-prix-driver-fastest-lap-albon-2026-12-06"
+ },
  "0x24db9973e84c4cfbf0ab77a533161aee58bb30f0d59a542311ea7e99e5c59e93": {
   "created_at": "2026-08-26T08:45:16.74879Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "f467e0f4662cc0bd7f1d6fb69f89565db216fecea7dcdc3cbe85209a35c5e3e8",
@@ -302,6 +322,7 @@
   "created_at": "2026-09-01T17:34:37.268148Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Republicans win Collin County in the Texas Senate race in 2026?",
   "revisions": 1,
   "sha256": "95153ca03d6affc773ad473567ea8cd6f09aec2e2af3f8d8aadda49ce90fa902",
@@ -338,6 +359,7 @@
   "created_at": "2026-10-08T22:00:13.906254Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Vanhouter vs. Balaz end before Round 5?",
   "revisions": 1,
   "sha256": "f9329d8578ba27c29d6507c7482ed1172d9c41e9d924a204c39d149c218a9ede",
@@ -396,6 +418,15 @@
   "revisions": 1,
   "sha256": "a5c1d3e0c6f1d0e5f38fae8cfd97a40b7046142d60476456613a0c65b677e1b2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-07-house-election-by-75-80"
+ },
+ "0x475271944519411451b495bcb65d1ecebeafcabfc2640d5af85589c538096b93": {
+  "created_at": "2026-11-05T20:54:13.217178Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Paraguayo Cubas win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-paraguayo-cubas-win-the-2028-paraguay-presidential-election"
  },
  "0x4756b37a30ef00481da0a343d1467b86c8ed0704fb56348674b6d33966944293": {
   "created_at": "2026-09-09T15:41:17.124236Z",
@@ -504,6 +535,15 @@
   "revisions": 1,
   "sha256": "00d756585611d14e319cdaa0c6abfc65c8adba0df2f50083d81843aa30515b91",
   "slug": "will-cptjpt-stroud-finish-the-2026-27-nfl-regular-season-with-the-most-passing-touchdowns-20260715212611263"
+ },
+ "0x5a4b05ef393ff9babd90141413af3b8d526562d4ee99c84627b5edc35c6ef293": {
+  "created_at": "2026-11-04T17:37:50.29981Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Liquid Win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
+  "slug": "will-liquid-win-the-pgl-major-singapore-2026-1793811600000"
  },
  "0x5af2241ecc3a9a253d6cf3ea41fa539b52acfabad3ba9018a2b8b618b8681e93": {
   "created_at": "2026-07-14T16:58:12.979915Z",
@@ -645,6 +685,7 @@
   "created_at": "2026-09-23T18:06:38.021713Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Magic qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -895,6 +936,15 @@
   "sha256": "49a98279f7c965a53766d094c28c3f7bc416f621c32c834370a5186c788b2076",
   "slug": "will-rams-dst-be-the-highest-scoring-dst-of-the-2026-27-nfl-season-20260806224132347"
  },
+ "0xa7d67f701d8b451f995fc52fb3d2c6d0a1ae483e941aaca15c2b258b29750e93": {
+  "created_at": "2026-11-06T22:31:37.561002Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Jean-Luc M\u00e9lenchon win the fourth-most votes in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
+  "slug": "will-jean-luc-melenchon-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
+ },
  "0xa8f432c2245de9cfd02ae60e86ed1b857ddb99d53331f27b0b2d4da33be05293": {
   "created_at": "2026-08-18T18:59:47.675314Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -921,6 +971,15 @@
   "revisions": 1,
   "sha256": "09b37d17d3ddc5d61cf53dbe9cc2e86ae4f45e3f8efc10f5d215c66b4d71687f",
   "slug": "ept-jean-carroll-federally-charged-by-december-31-2026"
+ },
+ "0xaafed9ff982c6610413c80bea053a2e59d87c7d386ebd1e16f9c888942a81693": {
+  "created_at": "2026-10-15T18:01:08.700265Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 2.5",
+  "revisions": 1,
+  "sha256": "13758f748f963aa6b951da923f97d705d556617cb1f99a3a6f25aadd806918ee",
+  "slug": "cdr-red-bar-2026-10-28-team-total-away-2pt5"
  },
  "0xab89089214e13764bf96894bc15ae779a595d9dc717d761593713fe050275d93": {
   "created_at": "2026-09-20T08:45:07.879735Z",
@@ -1007,6 +1066,7 @@
   "created_at": "2026-09-23T18:06:40.698518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will HOTU qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -1350,6 +1410,7 @@
   "created_at": "2026-08-28T20:17:34.394479Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will DeVonta Smith be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1427,6 +1488,15 @@
   "revisions": 1,
   "sha256": "a7f2dbfc8aab797e5b0d746d15b18f77d715fb887032a938f3e87aa27bc4add6",
   "slug": "will-waymo-operate-in-12-15-cities-on-june-30-2026-20260626203648852"
+ },
+ "0xf66d581edf5e6346f53b61e340a7f23e3ae0bdc6b58f4b5a896408a9430f6793": {
+  "created_at": "2026-11-06T22:33:07.857342Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Steve Simon be the next to hold Klobuchar's Senate seat by March 31?",
+  "revisions": 1,
+  "sha256": "02531a96867f7b76f154c81b1fb413aca8298700f52d7909deda2f62a26fbe4f",
+  "slug": "will-steve-simon-be-next-to-hold-klobuchars-senate-seat-by-march-31"
  },
  "0xf7bb5862c1d6eaab08d4961c785cbd6f7c66394da167d4adbe93f2d57d840993": {
   "created_at": "2026-09-04T19:04:16.580098Z",

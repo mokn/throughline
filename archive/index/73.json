@@ -116,6 +116,15 @@
   "sha256": "83611643a2f0267dff504a14fc765cd7885898d3741c3196270229f81c510b10",
   "slug": "will-cucuta-deportivo-keep-the-most-clean-sheets-in-colombia-primera-a-2026"
  },
+ "0x0ce53ff7ee18ec43cd42d33e0f15b92b336c0eed1c178262c01b7e5735917673": {
+  "created_at": "2026-10-15T17:01:21.15765Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 1 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-1-4"
+ },
  "0x0d0cfa4b51aacb2ec63404877749183b27d0e1f6eeaa0472975bd363f378e373": {
   "created_at": "2026-08-11T19:08:31.495633Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -364,6 +373,7 @@
   "created_at": "2026-10-02T17:59:22.080192Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will the US add at least 100k jobs in October?",
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",
@@ -377,6 +387,15 @@
   "revisions": 1,
   "sha256": "aa5200ee5d9fa22d3bd2581738e018e0e97e3fd974c9db1deb19f2ea37d75309",
   "slug": "will-bng-win-the-most-seats-in-pontevedra-in-the-2026-spanish-general-election"
+ },
+ "0x33364a4539ba527e4f67e4e44584e201d4fc1a9fbd4818d68cf4d7e9897c8173": {
+  "created_at": "2026-11-09T22:28:05.193132Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Daniel Farke be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-daniel-farke-be-the-next-permanent-manager-of-manchester-united"
  },
  "0x35b15247ee90454739244de2c85dcfdd03ebd32cf4009ce82b1bb47d4330a173": {
   "created_at": "2026-01-28T15:37:54.204789Z",
@@ -573,6 +592,7 @@
   "created_at": "2026-08-12T17:27:04.924604Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Aldosivi be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -658,6 +678,15 @@
   "revisions": 1,
   "sha256": "725f39ee1af9316d2793fc23aab422fee30a74d85722d478b3e007235d5f14ab",
   "slug": "f1-abu-dhabi-grand-prix-take-place-2026-12-06"
+ },
+ "0x6146afeb457b42934dad4f57cbf42055a2a6e1d4e04acd23c3a868a9cbf73d73": {
+  "created_at": "2026-11-07T12:31:10.962188Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Isack Hadjar achieve the fastest lap in Practice 3 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "3f71e2c2b9aff1b82a8729193472d8a3167aa99e7aeab3b20b1f1667ec8e0f18",
+  "slug": "f1-abu-dhabi-grand-prix-practice-3-fastest-lap-isack-hadjar-2026-12-05"
  },
  "0x6330b781421ff1072dc13b915342b621e2107b0694aec56b472e519418bbe073": {
   "created_at": "2026-10-13T23:25:01.955815Z",
@@ -813,6 +842,15 @@
   "sha256": "8c123f116cddf68041aa64af9bddbac487942a9db40697b5f2de212dd459f063",
   "slug": "will-josh-hawley-win-the-south-carolina-republican-presidential-primary-20261028413"
  },
+ "0x73bcd86f674768bd4a2a2ba0a6042ee4bf328301eb51cfbd7407305629ebdf73": {
+  "created_at": "2026-11-07T00:10:30.565127Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Benjamin Netanyahu receive the second mandate to form a government after the 2026 Israeli election?",
+  "revisions": 1,
+  "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
+  "slug": "will-benjamin-netanyahu-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
+ },
  "0x73e5d9042a54a7c2e2f5844f957280e96b97f98ea88c46ec550d985ea2b04273": {
   "created_at": "2026-09-27T20:09:57.362777Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -863,6 +901,7 @@
   "created_at": "2026-01-28T15:35:46.687624Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the NC-06 House seat?",
   "revisions": 1,
   "sha256": "2827cfae3ea293f4e589df5f4299eb6a365d19914cb5eba790d6d76908c8f75d",
@@ -881,6 +920,7 @@
   "created_at": "2026-03-25T20:08:30.215142Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Travis Bazzana win the 2026 AL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
@@ -899,6 +939,7 @@
   "created_at": "2026-10-03T19:00:28.7579Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: SK Artis Brno 5 - 3 Bohemians Praha 1905?",
   "revisions": 1,
   "sha256": "f92fb052df9c2465ee518c86dc12293b83eed6d30420241a8c5477760b7062f1",
@@ -948,6 +989,15 @@
   "revisions": 1,
   "sha256": "c83291817cb833773fd3736da0180a8770b522a8719fc3c767182c907906f985",
   "slug": "will-meta-have-the-best-ai-agent-at-the-end-of-november-2026"
+ },
+ "0x9398865012a9f6b9595f6511d07f2a7425cb7af404171f1cbb38a2f8818bb473": {
+  "created_at": "2026-10-15T18:01:02.288138Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "93af4cc2d25933a823bf2d9d509dfa4e1c541c6e68a2911a4d5e5c686c258254",
+  "slug": "cdr-cd17-car-2026-10-28-first-half-team-total-away-0pt5"
  },
  "0x9546cb4e54920de567215535b40cc25f134da632ea52f1b06ff203024cb14173": {
   "created_at": "2026-08-04T17:57:15.209864Z",
@@ -1021,6 +1071,15 @@
   "sha256": "9131fea407c9430c52ab2eb7b86dcf0442831c1cb3793813b55a7e84cec1ccfc",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-10-house-election"
  },
+ "0x9e791e3db2a35a798184e3b8651f5b492463c8c15c7545134b91e7616d32ec73": {
+  "created_at": "2026-10-15T17:02:06.077107Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Minera 2 - 3 FC Cartagena?",
+  "revisions": 1,
+  "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
+  "slug": "cdr-cd17-car-2026-10-28-exact-score-2-3"
+ },
  "0xa04e0b913613a6b6956fe47c236189e1e73b9c6c72f43dd7003b0c01e29c8273": {
   "created_at": "2026-09-18T00:09:40.515406Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1029,6 +1088,15 @@
   "revisions": 1,
   "sha256": "884c6e8e81433ab154a6687fd724dbc49935e9c0cc8fe78b4b9fc8753c1b87fc",
   "slug": "will-alibaba-be-the-second-best-ai-lab-at-the-end-of-november-2026"
+ },
+ "0xa1724acc3381b1ddc14c7bb02e23fbfd581adcc896055175ccbc69331ee03473": {
+  "created_at": "2026-10-15T18:01:51.234667Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 0.5",
+  "revisions": 1,
+  "sha256": "0d936ea573dd12b6cac7509026c70c5af794bcc33d7d734e7ddb2af3d4014e0e",
+  "slug": "cdr-bad-cdt-2026-10-28-team-total-away-0pt5"
  },
  "0xa1f478f6ee6e24b33bb8f93b58edc14395e5398d9bd7cae37d85030ae2690073": {
   "created_at": "2026-10-09T16:33:46.027514Z",
@@ -1094,6 +1162,15 @@
   "sha256": "6fea68a41ccb41f127cd507746441848fac76fd93c417d8cf7b3a55d2316a957",
   "slug": "will-baidu-be-the-second-best-chinese-ai-company-at-the-end-of-december-2026"
  },
+ "0xa67f1e3a12a5564f7544d8a0e701608e01e7fab497156dd705f43bf975b94473": {
+  "created_at": "2026-11-07T12:30:13.295889Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Red Bull have the highest constructor score at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-red-bull-2026-12-06"
+ },
  "0xa6d78fda7d1ac4a19b7429a1bdfd3c80263a2c06a5e9911e2f1517fa11302273": {
   "created_at": "2026-08-24T08:00:32.117657Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1156,6 +1233,15 @@
   "revisions": 1,
   "sha256": "21268d5d05ea261a7e1b7d42706f2aa87e4fd3ce2de5efda81fc2ea3f2b59783",
   "slug": "nvda-above-240-on-november-30-2026"
+ },
+ "0xb22c4337706ab3b61b3b5681726f8987962f88a5aa4cd445c1e5b2465e1d1873": {
+  "created_at": "2026-10-15T18:02:11.180254Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Spread: RCD Mallorca (-1.5)",
+  "revisions": 1,
+  "sha256": "93d2c24764eae89cef2acbf18fdf70ff94b67250fd531c6363f7cb8b7cc5f575",
+  "slug": "cdr-ca-mal1-2026-10-28-spread-away-1pt5"
  },
  "0xb2fa7b664aa2c7d3faef657b24cd0a7ceb11aef060bd99234dd60b32d4ffa973": {
   "created_at": "2026-07-20T20:12:27.287379Z",
@@ -1229,10 +1315,20 @@
   "sha256": "849613631f1cf41f3bd9cdc1b4ea5c600e850b3594842464497e251cedd61696",
   "slug": "will-diable-play-for-ultra-prime-in-2027"
  },
+ "0xbdae335afcab79276d5d4d7bfb0146e6ff26e3d7bf0d211a28d94484cd423273": {
+  "created_at": "2025-07-03T20:37:37.912983Z",
+  "first_seen": "2026-11-09T16:19:26Z",
+  "last_changed": "2026-11-09T16:19:26Z",
+  "question": "Will Shawn Fain win the 2028 Democratic presidential nomination?",
+  "revisions": 1,
+  "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
+  "slug": "will-shawn-fain-win-the-2028-democratic-presidential-nomination"
+ },
  "0xbff059485617832b385db6ac0470366905089bbe490175685e1da69e50de3673": {
   "created_at": "2026-08-12T17:30:54.549483Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will FC Naples be runner-up in the 2026 USL League One?",
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
@@ -1359,6 +1455,7 @@
   "created_at": "2026-08-28T20:17:39.710815Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Davante Adams be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",

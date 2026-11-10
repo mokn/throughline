@@ -206,6 +206,15 @@
   "sha256": "e8730c763cda11043750fcef65cbcd79d101d90652b7565f73997e51ff8adddb",
   "slug": "will-twente-finish-9th-24th-in-uecl-league-phase"
  },
+ "0x2fd105874cacdaaddd09cadbd9d15e7f4ad6f13f6d690f364ee106e54a2d54fa": {
+  "created_at": "2026-10-15T18:02:13.066282Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Alcoyano vs. RCD Mallorca: O/U 0.5",
+  "revisions": 1,
+  "sha256": "1bf81a5394d4e4f1113403f13867c61b01041dc601727ec508dd29143ef90dfc",
+  "slug": "cdr-ca-mal1-2026-10-28-total-0pt5"
+ },
  "0x315023aa5af49ef558b01601b0a7c452bc7baeb7b66f5dfcc0058832fcb6fefa": {
   "created_at": "2026-08-24T16:39:11.195907Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -273,6 +282,7 @@
   "created_at": "2026-08-12T17:27:13.443046Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Platense be runner-up in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
@@ -701,6 +711,15 @@
   "sha256": "4f5d92e944a53e22440a7109bb9c36ed4fee18a05bc9e0201bfcc619048ab7ab",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-05-house-election-by-50-55"
  },
+ "0x870f58521a0d0deb6816abaedc532a95c944b60dc830999c3ae2c1ca71218bfa": {
+  "created_at": "2026-11-09T22:28:09.552835Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Wayne Rooney be the next permanent manager of Manchester United?",
+  "revisions": 1,
+  "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
+  "slug": "will-wayne-rooney-be-the-next-permanent-manager-of-manchester-united"
+ },
  "0x89eab7372dc13d1d62b531069ecca0db4ff6c148adee7f056ad589d4e972fcfa": {
   "created_at": "2026-02-18T21:17:12.992042Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -773,6 +792,15 @@
   "sha256": "1fd8d292c8f2dac727c8ce23c6a33d47b44474a8b4ec5ff2d31cfb1c7dc63ce8",
   "slug": "will-iran-join-the-mecca-agreement-by-december-31-2026"
  },
+ "0x9a065a208463440c28f8cb4598924060fc8c4a0c78975f1548a2f657eacb38fa": {
+  "created_at": "2026-10-25T10:45:19.132974Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "9344ce68e6cf21f6f79e1e650a5183fbce4ff9748325c5722e981966860ba528",
+  "slug": "gtm-mun-aur-2026-11-07-first-half-total-4pt5"
+ },
  "0x9a9a1a4fce5da9b859bbbaea4270ee9c91a2b1422d8ea9e9eb99c267b46bb6fa": {
   "created_at": "2026-10-30T00:22:35.853115Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -782,6 +810,15 @@
   "sha256": "1e011e9cec02ec51ac7ffb8314fa373dfb95632a541d0a47dc6dabd2f4429b94",
   "slug": "will-the-reserve-bank-of-new-zealand-increase-the-official-cash-rate-by-50-bps-at-the-march-2027-meeting"
  },
+ "0x9af4216061ffc2c63201cdd6447219152cac94bbd4a8f34eb60bf919dbf0cafa": {
+  "created_at": "2026-11-10T02:42:03.691086Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"God Did\" be played at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
+  "slug": "will-god-did-be-played-at-the-2027-big-game-halftime-show"
+ },
  "0x9de752be1ed9c1dd0920952f2c1047fabd112675ae176cf16e182cabe82a65fa": {
   "created_at": "2026-09-13T09:45:25.260931Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -790,6 +827,15 @@
   "revisions": 1,
   "sha256": "65d7f77611504ea616f67099d31a7932dab9b657ea4e773700f9df358a010bb5",
   "slug": "el2-pvl-nth-2026-09-26-team-total-home-2pt5"
+ },
+ "0x9eba899d4eb73c75d0ae555d0b007e87be3089e7d116875e8b8f078fab6b8cfa": {
+  "created_at": "2026-11-09T21:18:04.211234Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will ZETA DIVISION Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-zeta-division-win-an-international-event-in-2027"
  },
  "0x9f3cb60a6deb4c1c8aa7b67a2c24120e3b3d5dbc3aa4a30f3b2911daac293dfa": {
   "created_at": "2026-10-01T14:01:08.141265Z",
@@ -863,6 +909,15 @@
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-matvei-michkov-win-the-2026-27-maurice-rocket-richard-trophy"
  },
+ "0xa83238c3f1dc26bf9bacedfae06a60c49c22abd5db65d55315ef980a2b360bfa": {
+  "created_at": "2026-11-10T02:03:29.277932Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will S\u00f3stenes Cavalcante be the next President of Brazil's Chamber of Deputies?",
+  "revisions": 1,
+  "sha256": "4a00c903ea29af55c310be8de842b6ec4cc6a253923418649e340f9fc3e779e4",
+  "slug": "will-sostenes-cavalcante-be-the-next-president-of-brazils-chamber-of-deputies-20261106"
+ },
  "0xa9094646c233bf6a125543b5cc8d8b39fd6220c8d77cec6c7dd21e0879264dfa": {
   "created_at": "2026-09-20T09:46:52.984643Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -931,6 +986,7 @@
   "created_at": "2026-08-11T14:14:32.240364Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Democrats win 14 or more House seats in Texas in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "9c3a46290209e6bbb1e52b1b0848fcc086f4d4c82763f50a5b91bc7076c7616a",
@@ -1193,6 +1249,7 @@
   "created_at": "2026-08-12T17:28:03.336733Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will LDU Quito be runner-up in the 2026 LigaPro Serie A (Ecuador)?",
   "revisions": 1,
   "sha256": "22fbf71e44bb333afa44042e75ed75545ce639ae1601678604cd7ade948c91bf",
@@ -1216,6 +1273,15 @@
   "revisions": 1,
   "sha256": "fad96cfec9de836aef914df4f712794ac6448178f6e1ed0737ad230c5ff86052",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ct-02-house-election-by-20-25"
+ },
+ "0xf52029df2d70b764ed7005976dc3e18058643f73c90e87f8f5a2ea60bdf534fa": {
+  "created_at": "2026-11-05T20:54:08.248174Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Will Eduardo Nakayama win the 2028 Paraguay presidential election?",
+  "revisions": 1,
+  "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
+  "slug": "will-eduardo-nakayama-win-the-2028-paraguay-presidential-election"
  },
  "0xf5f51f0c39ffbfa1c3a4233eed751dc0220c9bdee797b5dd25a889aed3d510fa": {
   "created_at": "2026-08-24T16:39:55.379894Z",
@@ -1288,5 +1354,14 @@
   "revisions": 1,
   "sha256": "88b90fe87fe6bdfd88822a1c73021886f11ff7d47f888d40fb8e07555269428c",
   "slug": "will-dante-moore-be-the-2026-big-ten-passing-yards-leader"
+ },
+ "0xfed8f05c857c9eb5b53436a8e10d7157738e0a52550a18a1be0518a44bfaacfa": {
+  "created_at": "2026-11-09T21:18:10.329113Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will ENVY Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-envy-win-an-international-event-in-2027"
  }
 }

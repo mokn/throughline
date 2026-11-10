@@ -48,6 +48,7 @@
   "created_at": "2026-10-08T22:00:08.401683Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Roehrig vs. Mcdonald end before Round 4?",
   "revisions": 1,
   "sha256": "c95e7f32a109580d037fac2f1b2219e4d8ad24bb4d97f1e4a9ad9144e4274b07",
@@ -75,6 +76,7 @@
   "created_at": "2026-10-01T00:08:25.506779Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will there be between 25 and 30 average daily transits of the Strait of Hormuz on October 31?",
   "revisions": 1,
   "sha256": "86c1cf2a76ef55f9f5a756a6636cf057fcc0f2fb360dc96041fc6e30dac8f8ef",
@@ -93,6 +95,7 @@
   "created_at": "2026-09-23T18:06:50.509856Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Team Voca qualify to PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
@@ -211,6 +214,7 @@
   "created_at": "2026-10-08T22:00:04.994195Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Dzambekov vs. Parker end before Round 2?",
   "revisions": 1,
   "sha256": "741a90576626962258298b5322befa4a06466f09a8b65d678939cd99d9b2b6b2",
@@ -229,6 +233,7 @@
   "created_at": "2026-08-26T08:15:18.397856Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Exact Score: Oxford United FC 1 - 0 Reading FC?",
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
@@ -256,6 +261,7 @@
   "created_at": "2026-08-12T17:30:53.659638Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Forward Madison FC be runner-up in the 2026 USL League One?",
   "revisions": 1,
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
@@ -409,6 +415,7 @@
   "created_at": "2026-06-26T15:57:17.174851Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Patrick Von Dohlen win the 2026 Bexar County Judge election?",
   "revisions": 1,
   "sha256": "54adbd483686301823cf28528391dfe31d366ed812062ec150f726117b2eed31",
@@ -616,6 +623,7 @@
   "created_at": "2026-08-24T16:34:07.228605Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Shandong Taishan be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -778,10 +786,20 @@
   "created_at": "2026-08-12T16:52:02.690349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Juan Roberto Mu\u00f1oz Pinto win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
   "slug": "will-juan-roberto-munoz-pinto-win-the-next-arequipa-mayoral-elections-20260811165718006"
+ },
+ "0x7b671502e6652943f1773faba92ccdf5429d6d15d62e4eaf9c5a7eece7c08a5f": {
+  "created_at": "2026-11-10T02:39:23.006325Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Google run an Ad during Super Bowl LXI?",
+  "revisions": 1,
+  "sha256": "f16577dcd2e3e8696891946a0f90affd243bb521e482dd186b8deb0e267c9b77",
+  "slug": "will-google-run-an-ad-during-super-bowl-lxi"
  },
  "0x7c6253c60cc56776ed04acfb05636b032c635c2edf1543d6425b4d802a77b05f": {
   "created_at": "2026-08-10T15:49:58.732906Z",
@@ -841,6 +859,7 @@
   "created_at": "2026-08-12T16:52:02.211673Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Manuel Enrique Vera Paredes win the next Arequipa mayoral elections?",
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
@@ -1167,6 +1186,7 @@
   "created_at": "2026-02-18T17:10:56.082089Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Anders Dreyer win the 2026 MLS Golden Boot?",
   "revisions": 1,
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
@@ -1239,6 +1259,7 @@
   "created_at": "2026-01-28T15:36:51.064847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will the Democratic Party win the NV-02 House seat?",
   "revisions": 1,
   "sha256": "f39cadfca86e17f42058157e3b3473f51edffcb39626385720165ffbfff08e12",
@@ -1311,6 +1332,7 @@
   "created_at": "2026-05-26T20:34:46.506366Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Republicans win any Senate or Governor's Election in a Biden-Trump state?",
   "revisions": 1,
   "sha256": "aa374f3fce9d3e282123415c0578e4553502749db1541d8001c60e1191ee9c99",
@@ -1333,6 +1355,15 @@
   "revisions": 1,
   "sha256": "c1d0604f9a3b2d2817e2ced58c5227d163572039b1a08d7d5537e99f43648df9",
   "slug": "will-amazons-market-capitalization-be-less-than-1pt50t-at-the-end-of-2026-1785882876095"
+ },
+ "0xbc65ede2125de93fd006f9722f68a24a52d7317c35d36c5769c346ddb3706b5f": {
+  "created_at": "2026-11-06T22:58:42.66402Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Keith Sonderling be the next to leave the Trump Cabinet before 2029?",
+  "revisions": 1,
+  "sha256": "c325c2e81777e5562515fb074b1de606d69ed6e9b00f55f32aaaf8af3a126499",
+  "slug": "will-keith-sonderling-be-the-next-to-leave-the-trump-cabinet-before-2029"
  },
  "0xbf462d9d486b3367409db29e7263a9e7d025c55711d4d55406944ed8d5ec9a5f": {
   "created_at": "2026-08-17T21:04:40.252264Z",
@@ -1614,6 +1645,15 @@
   "sha256": "cec6b26dce5ae6d054db9ae6ae9932ec0c4a9007e94217f09523054571074bd2",
   "slug": "will-avispa-fukuoka-keep-the-most-clean-sheets-in-japan-j-league-2026-27"
  },
+ "0xec4fc2a9ee0f8cc59a605096170d88a33e22f00e642f2dafeb52402458c8d55f": {
+  "created_at": "2026-10-15T17:00:59.029746Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 4 - 5 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-4-5"
+ },
  "0xedef61bebfc58d0d6e890f6fa8c277f7da8a0a0df71180ae49efd90ee037925f": {
   "created_at": "2026-03-02T19:41:04.457204Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1649,6 +1689,15 @@
   "revisions": 1,
   "sha256": "f117dc7e240e75dcb147a843dd40851cc448f75115fbd0d38d5be1ee7edfc901",
   "slug": "christian-mccaffrey-12pt5-rushing-touchdowns-2026-27"
+ },
+ "0xf59b97a4f93176b35f94e44e848714ff35b455f3fe579a19b391598a853e185f": {
+  "created_at": "2026-11-07T12:30:25.990321Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Red Bull get pole position at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
+  "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-red-bull-2026-12-05"
  },
  "0xf6a12523d875ecab7e207a32da285154e58dfdb01a89accb818ddc3f82e4ae5f": {
   "created_at": "2026-09-02T19:40:03.060316Z",
@@ -1703,6 +1752,15 @@
   "revisions": 1,
   "sha256": "aec6cfbaf620e8a57d0824e2d3170a975f755cc7484dfc644510f5aa371dfb94",
   "slug": "will-union-de-touarga-be-relegated-from-morocco-botola-pro-2026-27"
+ },
+ "0xfc818ed6b85ddbe3ad710f9b2d6814612d97868a33743011c99825c04efb725f": {
+  "created_at": "2026-10-25T10:45:19.896119Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 4.5",
+  "revisions": 1,
+  "sha256": "f687f349c05cf651400f7929c798250f65d6520c1935655cbf3471c882f72d5d",
+  "slug": "gtm-mun-aur-2026-11-07-team-total-home-4pt5"
  },
  "0xfcdebcb1d4c8955ec61a3e2506358b22f0851e8ca024aeea522932ee1e37355f": {
   "created_at": "2026-10-13T19:55:47.702506Z",

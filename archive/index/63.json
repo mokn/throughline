@@ -171,6 +171,15 @@
   "sha256": "fd6e3f4ca33fcd73ed6b724bd26a68d2e72b4e98b8d234ca8f81dace6bb2e2df",
   "slug": "will-fc-st-gallen-finish-3rd-in-swiss-super-league-2026-27"
  },
+ "0x1b794e7810067cd0de9616f458859140830188c6476075ff928ac8578b306f63": {
+  "created_at": "2026-11-10T02:40:55.108581Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will \"Jigga What, Jigga Who\" be played first at the 2027 Big Game halftime show?",
+  "revisions": 1,
+  "sha256": "4315900ea82e85851f0a762c8b13b569fc560a653404cf6043b745887b6d309f",
+  "slug": "will-jigga-what-jigga-who-be-played-first-at-the-2027-big-game-halftime-show"
+ },
  "0x1c008508d424634eb01e47889e0fefb2fad4c776f973148f80a86b5be8331c63": {
   "created_at": "2026-09-11T23:22:50.100031Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -690,6 +699,7 @@
   "created_at": "2026-08-26T08:45:16.158255Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Oxford United FC vs. Reading FC: O/U 5.5",
   "revisions": 1,
   "sha256": "7abe8a455074c1c7716535752a2090e226d2ef0303c11a89582ebde82f04b2a7",
@@ -736,10 +746,20 @@
   "created_at": "2025-10-09T20:11:23.33988Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will Nithya Raman win the 2026 Los Angeles mayoral election?",
   "revisions": 1,
   "sha256": "df96f302b3874499ce31eaefc029b3c3076a0a0ec9235e981360155cee747287",
   "slug": "will-nithya-raman-win-the-2026-los-angeles-mayoral-election-876"
+ },
+ "0x6978b9c35189c6828e89ef6d56c7d5befa6742cf7cdd6d2ae343205c5c1b2563": {
+  "created_at": "2026-10-25T10:15:15.023933Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will CSD Municipal vs. Aurora FC end in a draw?",
+  "revisions": 1,
+  "sha256": "797629855e22223ec26ce46ef0815e4a2a7dffff625fab2bd97b865882215223",
+  "slug": "gtm-mun-aur-2026-11-07-draw"
  },
  "0x69f7294fab44b1a63575fcdff9b683d3c48a7f92a160aa274af8e2837a356e63": {
   "created_at": "2025-11-18T19:56:42.29939Z",
@@ -1141,6 +1161,7 @@
   "created_at": "2026-09-09T14:35:35.604769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Maryland passes redistricting requirements ballot measure?",
   "revisions": 1,
   "sha256": "02683e30d00261e95c368fd61df6da2307bfd71fd1dde1237511885e450374d0",
@@ -1321,6 +1342,7 @@
   "created_at": "2026-08-12T17:28:23.808173Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Inter de San Carlos be runner-up in the 2026 Liga FPD (Costa Rica)?",
   "revisions": 1,
   "sha256": "05e44eb86dd2cd104b1003ffabfaaf5029ff53bfd51bf8b1f53cfed1e086ca5d",
@@ -1479,6 +1501,15 @@
   "sha256": "8840ac4333ed939eeb19925b1050821fa51fc02783f43eaf857110e41abe1548",
   "slug": "will-texas-tech-make-college-football-playoff-quarterfinals-20260803204558969"
  },
+ "0xd575855bf049b57fe540841b19df5cc0d821f8a1c8203fa80f08bbbf24c11463": {
+  "created_at": "2026-11-07T12:30:44.597396Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Charles Leclerc achieve the fastest lap in Practice 1 at the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
+  "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-charles-leclerc-2026-12-04"
+ },
  "0xd743fb82c82355a71e0e35b38bd5998cbace24ec9101b56bbee5918ccad6c063": {
   "created_at": "2026-09-08T16:53:34.517197Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1564,6 +1595,7 @@
   "created_at": "2026-10-10T11:30:03.907658Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Nico Hulkenberg win the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
@@ -1573,6 +1605,7 @@
   "created_at": "2026-08-26T08:15:16.765911Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Reading FC leading at halftime?",
   "revisions": 1,
   "sha256": "d4821b51e8bb3379a999409fbe0ad43e0c383ef5e7f60e321f93a48bc00bdade",
@@ -1586,6 +1619,15 @@
   "revisions": 1,
   "sha256": "857cd3fe48a13c5b3a3bb7af5e11f7671d0ca8d8dd695d86294c63858c269cfb",
   "slug": "decibel-fdv-above-300m-one-day-after-launch"
+ },
+ "0xe9ef5de869ecc1f7e16db2f6e35fa9f734159f52d9df7c4d66fd04be7dad5963": {
+  "created_at": "2026-10-15T18:01:50.090157Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "f643f4794b39c5975b179ecd45436258eaa040dd48779c1e5680fefc2f06b79f",
+  "slug": "cdr-bad-cdt-2026-10-28-first-half-total-4pt5"
  },
  "0xec3f074c816b4005e2f5342b95d2466662de2c7daeb09ce0b4beb4f4dde11f63": {
   "created_at": "2026-08-05T10:54:40.304249Z",
@@ -1663,6 +1705,7 @@
   "created_at": "2026-10-10T11:30:07.336711Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Aston Martin have the highest constructor score at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "13711fb14177e94e215272f2feab2b3492c7a6cc383bfd8b11e15f9eef985aa7",

@@ -121,6 +121,7 @@
   "created_at": "2026-08-24T16:34:08.135639Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Shanghai Shenhua be relegated from the 2026 Chinese Super League?",
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
@@ -139,10 +140,20 @@
   "created_at": "2026-10-15T16:33:27.502005Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-05T14:39:41Z",
   "question": "Will Jayce be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
   "slug": "will-jayce-be-the-most-banned-champion-at-worlds-2026"
+ },
+ "0x16430a92c1b50f47ce52dbcc5a12c7377ad2f5b1e24b42742412e613f341f05d": {
+  "created_at": "2026-10-15T17:00:57.251018Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: Utebo FC 0 - 0 CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
+  "slug": "cdr-ute-sab-2026-10-28-exact-score-0-0"
  },
  "0x172f1906622465054b7392be7390830c9b7e9265afb03d82328682f8b6555e5d": {
   "created_at": "2026-09-28T17:20:10.326377Z",
@@ -220,6 +231,7 @@
   "created_at": "2026-10-10T11:30:22.545772Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Ferrari achieve the fastest lap at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",
@@ -369,6 +381,15 @@
   "sha256": "44a06029bfe49cba18cc51dd085244688121161aa07da3b7377a91f19688b790",
   "slug": "el1-pet-not-2026-10-03-exact-score-0-0"
  },
+ "0x3ef838e886a3ba346a92cd12bc446018687eab54f01b123c124103b973583a5d": {
+  "created_at": "2026-10-15T18:01:01.364054Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 5.5",
+  "revisions": 1,
+  "sha256": "ba03b38b2930b42fea2d5ebfdb79d33abd2a7d25e21542883ebfd8210dd22567",
+  "slug": "cdr-cd17-car-2026-10-28-team-total-away-5pt5"
+ },
  "0x3f604093006dfaf8b3f4e440e7c601f992d7a47075b954a939c4174a34668f5d": {
   "created_at": "2026-11-03T17:43:38.147464Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -391,6 +412,7 @@
   "created_at": "2026-03-25T21:41:53.645564Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Jett Williams win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -697,6 +719,7 @@
   "created_at": "2026-10-10T11:30:30.783279Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-07T13:00:35Z",
   "question": "Will Nico Hulkenberg achieve the fastest lap in Practice 2 at the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
@@ -751,6 +774,7 @@
   "created_at": "2026-09-20T08:45:07.286704Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Luton Town FC vs. Doncaster Rovers FC: Total Corners Odd or Even?",
   "revisions": 1,
   "sha256": "50ab336f59a8135fbb7122f2c6da62f94683f1079d62ef77862f59cdf5758169",
@@ -792,6 +816,15 @@
   "sha256": "805091a27edc5cb9125286efe14f4cb26255def68ef7c44d1ddc04cca3cded86",
   "slug": "will-townsquare-launch-a-token-by-november-30-2026-20260720193329912"
  },
+ "0x828fe0ae58a2bce597ba954d98862668209ceeffa567581b36e1810a2e04a95d": {
+  "created_at": "2026-11-09T21:18:07.347522Z",
+  "first_seen": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-10T14:52:55Z",
+  "question": "Will Weibo Gaming Win an International Event in 2027?",
+  "revisions": 1,
+  "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
+  "slug": "will-weibo-gaming-win-an-international-event-in-2027"
+ },
  "0x84b4fb351fa455e2ec20a648165f7994646c3339599b58390afd49763668ff5d": {
   "created_at": "2026-09-14T20:21:37.785125Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -814,6 +847,7 @@
   "created_at": "2026-08-26T21:46:52.400284Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will New England Revolution keep the most clean sheets in the 2026 MLS?",
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
@@ -827,6 +861,15 @@
   "revisions": 1,
   "sha256": "66446108ad784f94787831a57a473e43c4c79244e1b21bac9449eef982b87796",
   "slug": "liga-acb-2027-champion-basquet-girona"
+ },
+ "0x8c7a5307dda41e867b10200c8e8f48da19be6e2bc6a6036fbd0951ca5da3fc5d": {
+  "created_at": "2026-11-05T02:10:07.529121Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Will Trump sign a bill from the new Congress by March 31?",
+  "revisions": 1,
+  "sha256": "304410d868b55057a01f25c4bc5d1ee51ee360b62ab0e40a4ae1d4e747a0c9ee",
+  "slug": "trump-signs-a-bill-from-the-new-congress-by-march-31-2027"
  },
  "0x8f03c517639006af5e631f2747dfce9b1806fa7446ff04baf7529edce5a1c75d": {
   "created_at": "2026-09-02T21:57:49.337795Z",
@@ -873,6 +916,15 @@
   "sha256": "aeac7acaf835dd63954e25aec3194b47fb9a4ae912bd54a50c51941b2cbd1556",
   "slug": "will-guy-pearce-be-nominated-for-best-supporting-actor-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x9820759a74d3724efad3998b4dba9f1a88cc3503036029d4b792c48950aafa5d": {
+  "created_at": "2026-10-15T18:02:46.361408Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "870f78bc84f3e9218c683a0239d1a95c0b0a97a52c3444f22115c44d01b94495",
+  "slug": "cdr-ute-sab-2026-10-28-first-half-total-0pt5"
+ },
  "0x98b88610a1485920ec5e553302285fa4b4af52429e8b0adc3dceb54adc0a3c5d": {
   "created_at": "2026-08-11T19:20:53.206537Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -913,6 +965,7 @@
   "created_at": "2025-12-12T12:41:07.567631Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Republican Party hold between 195 and 199 House seats after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "dc12fa929e71a406dba9c8ed4ab183deaa24f050c0e96c4bf1006104cfb74278",
@@ -953,6 +1006,15 @@
   "revisions": 1,
   "sha256": "a8ca05c74d47af86ea80334d7e726e09a75028adf528ec79e7e34db2ed688e77",
   "slug": "will-cape-verde-win-afcon-2027"
+ },
+ "0xacc5875005be3cd672d30083be07d9cf45d5bac13c060f4cca49519020f3125d": {
+  "created_at": "2026-10-25T10:15:16.96323Z",
+  "first_seen": "2026-11-05T14:39:41Z",
+  "last_changed": "2026-11-05T14:39:41Z",
+  "question": "Exact Score: CSD Municipal 0 - 0 Aurora FC?",
+  "revisions": 1,
+  "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
+  "slug": "gtm-mun-aur-2026-11-07-exact-score-0-0"
  },
  "0xad9eaec3ddbf0fcbf120545a9b927db273d732eaafb2b0410488ac3014bd425d": {
   "created_at": "2026-10-30T22:00:53.49216Z",
@@ -1021,6 +1083,7 @@
   "created_at": "2026-08-28T20:17:41.799818Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-09T16:19:26Z",
   "question": "Will Rashee Rice be the first WR to 1,000 receiving yards in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
@@ -1048,6 +1111,7 @@
   "created_at": "2026-01-28T15:29:01.954831Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-06T14:17:12Z",
   "question": "Will the Democratic Party win the CO-05 House seat?",
   "revisions": 1,
   "sha256": "89b857b96ec529f0a019d0d0868af113cfe90eda45eedf549a5304f85d908b07",
@@ -1282,6 +1346,7 @@
   "created_at": "2026-03-25T21:41:51.98486Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-08T13:24:49Z",
   "question": "Will Didier Fuentes win the 2026 NL Rookie of the Year award?",
   "revisions": 1,
   "sha256": "38d994465525d2db5fa8c8f2ac309f3c42bbb303271f3eb3a32dae10ee67e3be",
@@ -1295,6 +1360,15 @@
   "revisions": 1,
   "sha256": "e2e176a6879108ec4882fb8760587058ec9b86398ac0de536ad28da8ca2eb005",
   "slug": "el1-pet-not-2026-10-03-total-2pt5"
+ },
+ "0xedf829b2d780702c8f5dea831c670b6d42e7b833a3fa60cea57c7ce39d722d5d": {
+  "created_at": "2026-11-07T12:30:06.268526Z",
+  "first_seen": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-07T13:00:35Z",
+  "question": "Will Oliver Bearman win the 2026 F1 Abu Dhabi Grand Prix?",
+  "revisions": 1,
+  "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
+  "slug": "f1-abu-dhabi-grand-prix-winner-bearman-2026-12-06"
  },
  "0xef7347431f760fff5703141b1bb2a51301282532ef52268c9340594e2f04d85d": {
   "created_at": "2026-08-26T21:46:33.064944Z",
@@ -1323,6 +1397,15 @@
   "sha256": "3a2287c69794667bcccbf22f6c18173730051d89e5759498e6f05dc12ff50744",
   "slug": "will-scottie-barnes-win-the-2026-27-nba-mvp"
  },
+ "0xf1558e4e790411ef3d5d874dd84151c13393c952b869e79c50df05a61faffd5d": {
+  "created_at": "2026-10-15T17:01:00.112449Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Utebo FC to score first vs. CE Sabadell FC?",
+  "revisions": 1,
+  "sha256": "ad665ceeb92aec47eb18753c426ad363125d75b9b8bd007489ea393b7136d43c",
+  "slug": "cdr-ute-sab-2026-10-28-first-to-score-home"
+ },
  "0xf6173373890ac4f5654dd57f51acd4734e84af94adeac967ff99289dc237ee5d": {
   "created_at": "2026-08-24T16:32:28.915215Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1331,6 +1414,15 @@
   "revisions": 1,
   "sha256": "9d4e9794d04396dabab726081cf4b6bc2cc55b75067e5fcf844152bcc4895b66",
   "slug": "will-academico-de-viseu-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0xf757e35804a432b903b3d9fb64bb67437032647ed8a31b5ca7bce30d833d235d": {
+  "created_at": "2026-10-15T17:01:20.436856Z",
+  "first_seen": "2026-11-06T14:17:12Z",
+  "last_changed": "2026-11-06T14:17:12Z",
+  "question": "Exact Score: CD Alcoyano 0 - 1 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
+  "slug": "cdr-ca-mal1-2026-10-28-exact-score-0-1"
  },
  "0xf7ac48ddfd99463f06616c0c4443671f37cbdba3f07952fa115db92a3c2aa45d": {
   "created_at": "2026-10-13T15:57:35.292142Z",
