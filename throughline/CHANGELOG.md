@@ -8,6 +8,10 @@
   key and billing reads under optional scopes, and a once-only start-from-now
   cursor. Requires the delegated-access server release; not a claim that those
   routes are deployed.
+- `throughline login` no longer treats an expired request as proof that nothing
+  was activated. It reports `delivery_unknown` (exit 4), keeps the pending
+  secrets and names the connection to inspect or revoke in the portal. Denial
+  stays definitive. The `expired` status is gone.
 
 - Require HTTPS base URLs except explicit loopback development; reject credentials, queries and fragments in the base URL.
 

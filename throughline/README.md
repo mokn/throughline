@@ -88,11 +88,20 @@ throughline start-from-now        # capture the feed head once; later runs reuse
 ```
 
 Every command prints exactly one JSON object on stdout and never prints a
-credential. `status` is one of `ok`, `pending`, `delivered`, `denied`, `expired`,
+credential. `status` is one of `ok`, `pending`, `delivered`, `denied`,
 `slow_down`, `cancelled`, `delivery_unknown`, `error`. Exit codes: `0` success,
-`2` pending or slow down (run again later), `3` denied, expired or cancelled,
+`2` pending or slow down (run again later), `3` denied or cancelled,
 `4` error or delivery unknown. Errors carry a stable `error` code and fixed
 fields only; response bodies are never echoed.
+
+A denial is definitive: nothing was activated and the pending request is
+cleared. An expired request is not. The server gives the same `expired_token`
+answer for a request nobody approved and for an approved one that was not
+picked up within its window, so the CLI reports `delivery_unknown` (exit `4`),
+keeps `.throughline/pending.json`, and names the connection to look for. Sign in
+to the account portal; if that connection is listed, revoke it. Then run
+`throughline cancel` to discard the local request and `throughline login` to
+start again.
 
 How it works: the CLI generates the key locally and sends only its SHA-256 hash.
 The key is unusable until a human approves the request. The secret waits in

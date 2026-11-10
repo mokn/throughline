@@ -537,19 +537,35 @@ class Login(Case):
         self.assertEqual(len(self.api.requests), before)
         self.assertEqual(self.cli("status")[0], 0)  # the feed key is not tied to that expiry
 
-    def test_denial_and_expiry_activate_nothing(self):
-        for decide, status in ((self.api.deny, "denied"), (self.api.expire, "expired")):
-            with self.subTest(status=status):
-                pending = self.login(approve=False)
-                secret = self.state("pending.json")["feed_key"]
-                decide(pending["user_code"])
-                time.sleep(self.api.interval)
-                code, out = self.cli("login", "--wait")
-                self.assertEqual((code, out["status"]), (3, status))
-                self.assertFalse((self.dir / ".throughline/pending.json").exists())
-                self.assertFalse((self.dir / ".env").exists())
-                self.assertNotIn(sha(secret), self.api.keys)
-                self.assertEqual(self.cli("status")[1]["error"], "no_credential")
+    def test_denial_is_definitive_and_activates_nothing(self):
+        pending = self.login(approve=False)
+        secret = self.state("pending.json")["feed_key"]
+        self.api.deny(pending["user_code"])
+        time.sleep(self.api.interval)
+        code, out = self.cli("login", "--wait")
+        self.assertEqual((code, out["status"]), (3, "denied"))
+        self.assertIn("Nothing was activated", out["next"])
+        self.assertFalse((self.dir / ".throughline/pending.json").exists())
+        self.assertFalse((self.dir / ".env").exists())
+        self.assertNotIn(sha(secret), self.api.keys)
+        self.assertEqual(self.cli("status")[1]["error"], "no_credential")
+
+    def test_expiry_never_claims_that_nothing_was_activated(self):
+        # The server answers expired_token both for a request nobody approved and
+        # for an approved one whose pickup window lapsed. The client cannot tell.
+        pending = self.login(approve=False)
+        before = (self.dir / ".throughline/pending.json").read_bytes()
+        self.api.expire(pending["user_code"])
+        time.sleep(self.api.interval)
+        for _ in range(2):  # separate processes, same answer, nothing discarded
+            code, out = self.cli("login", "--wait")
+            self.assertEqual((code, out["status"], out["reason"]), (4, "delivery_unknown", "expired_token"))
+            self.assertNotIn("Nothing was activated", json.dumps(out))
+            self.assertIn("may be active", out["next"])
+            self.assertEqual((out["pairing_id"], out["name"]), (pending["pairing_id"], pending["name"]))
+            self.assertEqual((self.dir / ".throughline/pending.json").read_bytes(), before)
+        self.assertEqual(len(self.api.pairings), 1)  # no second request minted over it
+        self.assertFalse((self.dir / ".env").exists())
 
     def test_user_code_uses_the_server_alphabet(self):
         self.api.force_code = "8899-ZZ22"
@@ -608,6 +624,36 @@ class Recovery(Case):
         self.assertEqual(len(self.api.pairings), 1)
         self.assertEqual(len(self.api.keys), 1)
         self.assertEqual(self.cli("status")[0], 0)
+
+    def test_approved_request_picked_up_after_the_receipt_window_keeps_the_only_key(self):
+        pending = self.login(approve=False)
+        path = self.dir / ".throughline/pending.json"
+        secret = self.state("pending.json")["feed_key"]
+        self.api.approve(pending["user_code"])
+        self.api.drop_token_replies = 1
+        time.sleep(self.api.interval)
+        self.assertEqual(self.cli("login")[1]["error"], "network_error")  # the reply was lost
+        self.api.expire(pending["user_code"])  # more than 24 hours pass on the server
+        self.assertIn(sha(secret), self.api.keys)  # the approved key is live
+        code, out = self.cli("login", "--wait")
+        self.assertEqual((code, out["status"], out["reason"]), (4, "delivery_unknown", "expired_token"))
+        self.assertTrue(out["local_state_kept"])
+        self.assertIn("may be active", out["next"])
+        self.assertIn(pending["pairing_id"], out["next"])
+        self.assertIn("revoke", out["next"])
+        self.assertNotIn("Nothing was activated", json.dumps(out))
+        # The only copy of the live key is still on disk, private, and not in .env.
+        self.assertEqual(self.state("pending.json")["feed_key"], secret)
+        self.assertEqual(self.mode(".throughline/pending.json"), 0o600)
+        self.assertFalse((self.dir / ".env").exists())
+        self.assertEqual(self.cli("status")[1]["error"], "no_credential")
+        # Discarding it is an explicit owner decision that names what to revoke.
+        code, out = self.cli("cancel")
+        self.assertEqual((code, out["status"], out["delivery"]), (3, "cancelled", "unknown"))
+        self.assertIn(pending["pairing_id"], out["next"])
+        self.assertIn("revoke", out["next"])
+        self.assertFalse(path.exists())
+        self.assertEqual(self.cli("login")[1]["status"], "pending")
 
     def test_interrupted_finalization_finishes_the_same_files(self):
         pending = self.login("--scopes", ALL, approve=False)

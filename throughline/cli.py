@@ -75,7 +75,7 @@ FALLBACK = ("Sign in at https://api.throughline.markets/account, create a key an
             "its .env line to a private, git-ignored .env file. Do not paste it into chat.")
 
 EXIT = {"ok": 0, "delivered": 0, "pending": 2, "slow_down": 2, "denied": 3,
-        "expired": 3, "cancelled": 3, "error": 4, "delivery_unknown": 4}
+        "cancelled": 3, "error": 4, "delivery_unknown": 4}
 
 MESSAGES = {
     "usage": "Invalid command line. Run 'throughline --help'.",
@@ -693,6 +693,17 @@ def _finalize(project: Project, pending: dict[str, Any], payload: dict[str, Any]
     return result
 
 
+def _receipt_expired(pending: dict[str, Any]) -> dict[str, Any]:
+    return dict(status="delivery_unknown", reason="expired_token",
+                pairing_id=pending["pairing_id"], name=pending["name"],
+                pending_file=STATE_DIR + "/pending.json", local_state_kept=True,
+                next=f"The server no longer answers for this request. If it was approved, a key "
+                     f"may be active. Sign in at {pending['verification_uri']} and look for the "
+                     f"connection named '{pending['name']}' (id {pending['pairing_id']}); revoke "
+                     f"it if it is there. Then run 'throughline cancel' to discard the local "
+                     f"request and 'throughline login' to start again.")
+
+
 def _poll(project: Project, base: str, pending: dict[str, Any], timeout: float) -> dict[str, Any]:
     """One metadata pickup. The server reply carries no secret, so it is idempotent."""
     status, payload, headers = _http(base, "POST", "/auth/v1/token", timeout=timeout,
@@ -704,11 +715,15 @@ def _poll(project: Project, base: str, pending: dict[str, Any], timeout: float) 
         pending["next_poll_at"] = time.time() + max(pending["interval"], _poll_floor(base))
         project.write_json("pending.json", pending)
         return _pending_view(pending)
-    if status == 400 and code in ("access_denied", "expired_token"):
+    if status == 400 and code == "access_denied":
+        # A denial is definitive: this pairing never produced a key.
         project.remove(os.path.join(project.state, "pending.json"))
-        return dict(status="denied" if code == "access_denied" else "expired",
-                    pairing_id=pending["pairing_id"],
+        return dict(status="denied", pairing_id=pending["pairing_id"],
                     next="Nothing was activated. Run 'throughline login' to start again.")
+    if status == 400 and code == "expired_token":
+        # Expiry does not prove the request was never approved: an approval whose
+        # pickup window lapsed answers the same way. The secrets stay on disk.
+        return _receipt_expired(pending)
     if status == 429:
         wait = max(_retry_after(headers.get("Retry-After"), default=pending["interval"]),
                    _poll_floor(base))
@@ -775,10 +790,18 @@ def cmd_cancel(project: Project, base: str, args: argparse.Namespace) -> dict[st
         if exc.code in ("credential_exists", "storage_error", "unsafe_file", "duplicate_variable"):
             raise
         result = dict(status="pending")
-    if result["status"] in ("delivered", "denied", "expired"):
+    if result["status"] in ("delivered", "denied"):
         if result["status"] == "delivered":
             result["cancel"] = "refused_already_approved"
         return result
+    if result["status"] == "delivery_unknown":
+        # An explicit cancel is the owner's decision to discard the unused secrets.
+        project.remove(os.path.join(project.state, "pending.json"))
+        return dict(status="cancelled", pairing_id=pending["pairing_id"], name=pending["name"],
+                    local_state_removed=True, delivery="unknown",
+                    next=f"Local secrets were discarded. If a connection named '{pending['name']}' "
+                         f"(id {pending['pairing_id']}) is listed at {pending['verification_uri']}, "
+                         f"revoke it: its key can no longer be recovered here.")
     project.remove(os.path.join(project.state, "pending.json"))
     return dict(status="cancelled", pairing_id=pending["pairing_id"], user_code=pending["user_code"],
                 next="Cancellation is local. Do not approve this code; the request expires on its "
