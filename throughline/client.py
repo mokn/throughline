@@ -172,7 +172,13 @@ class Throughline:
             try:
                 timeout = min(self._timeout, remaining) if attempt else self._timeout
                 with self._opener.open(req, timeout=max(0.001, timeout)) as resp:
-                    return json.loads(resp.read().decode("utf-8"))
+                    try:
+                        payload = json.loads(resp.read().decode("utf-8"))
+                    except (ValueError, UnicodeError):
+                        raise ThroughlineError(502, '{"error":"invalid_response"}') from None
+                    if not isinstance(payload, dict):
+                        raise ThroughlineError(502, '{"error":"invalid_response"}')
+                    return payload
             except urllib.error.HTTPError as exc:
                 try:
                     body = exc.read().decode("utf-8", "replace")
@@ -180,7 +186,8 @@ class Throughline:
                     exc.close()
                 wait = _retry_after(exc.headers.get("Retry-After"), default=1.0 if exc.code == 503 else 5.0)
                 error = RateLimited(exc.code, body, wait) if exc.code == 429 else ThroughlineError(exc.code, body)
-                transient = exc.code == 503 or exc.code == 429 and (error.code is None or error.code in _TRANSIENT)
+                transient = (exc.code == 503 and error.code != "response_too_large"
+                             or exc.code == 429 and (error.code is None or error.code in _TRANSIENT))
                 remaining = self._retry_budget - max(time.monotonic() - started, waited)
                 if transient and attempt < self._max_retries and wait < remaining:
                     # Never shorten the server's Retry-After to fit our budget.
@@ -320,12 +327,26 @@ class MatchStore:
 
 
 def _parse_page(payload: dict[str, Any], *, fallback_cursor: int) -> Page:
+    def invalid():
+        raise ThroughlineError(502, '{"error":"invalid_response"}')
+    if not isinstance(payload, dict) or not isinstance(payload.get("items", []), list):
+        invalid()
     changes: list[Change] = []
-    for item in payload.get("items") or []:
-        envelope = item.get("envelope") or {}
+    for item in payload.get("items", []):
+        if not isinstance(item, dict) or not isinstance(item.get("envelope"), dict):
+            invalid()
+        envelope = item["envelope"]
+        cursor = item.get("cursor")
+        if (type(cursor) is not int or not 1 <= cursor <= 2**63 - 1
+                or any(type(envelope.get(name)) is not str or not envelope[name]
+                       for name in ("stream_id", "record_id"))
+                or "record" not in envelope or not (
+                    envelope.get("operation") == "upsert" and isinstance(envelope["record"], dict)
+                    or envelope.get("operation") == "withdraw" and envelope["record"] is None)):
+            invalid()
         changes.append(
             Change(
-                cursor=int(item.get("cursor", 0)),
+                cursor=cursor,
                 stream_id=str(envelope.get("stream_id", "")),
                 record_id=str(envelope.get("record_id", "")),
                 operation=str(envelope.get("operation", "")),
@@ -334,10 +355,16 @@ def _parse_page(payload: dict[str, Any], *, fallback_cursor: int) -> Page:
             )
         )
     next_cursor = payload.get("next_cursor")
+    if next_cursor is None:
+        next_cursor = fallback_cursor
+    if (type(next_cursor) is not int or not fallback_cursor <= next_cursor <= 2**63 - 1
+            or any(change.cursor > next_cursor for change in changes)
+            or type(payload.get("has_more", False)) is not bool):
+        invalid()
     return Page(
         changes=changes,
         # A missing next_cursor must not silently reset the caller to zero.
-        next_cursor=int(next_cursor) if next_cursor is not None else fallback_cursor,
+        next_cursor=next_cursor,
         has_more=bool(payload.get("has_more", False)),
     )
 

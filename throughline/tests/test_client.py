@@ -30,6 +30,22 @@ def change(cursor, operation="upsert", record=None, stream="s", rid="r"):
 
 
 class ParsePage(unittest.TestCase):
+    def test_malformed_pages_cannot_remove_saved_records_or_corrupt_the_cursor(self):
+        store = MatchStore()
+        store.apply(Page([change(1, record={'title': 'saved'})], 1, False))
+        malformed = [[], {'items': None}, {'items': [], 'next_cursor': 'abc'},
+            {'items': [], 'next_cursor': -1}, {'items': [], 'next_cursor': True},
+            {'items': [], 'next_cursor': 0}, {'items': [], 'next_cursor': 2, 'has_more': 'false'},
+            {'items': [{'cursor': 2, 'envelope': {'operation': 'upsert', 'stream_id': 's', 'record_id': 'r'}}],
+             'next_cursor': 2, 'has_more': False}]
+        for payload in malformed:
+            with self.subTest(payload=payload):
+                with self.assertRaises(ThroughlineError) as raised:
+                    store.apply(_parse_page(payload, fallback_cursor=1))
+                self.assertEqual(raised.exception.code, 'invalid_response')
+                self.assertEqual(store.current(), [{'title': 'saved'}])
+                self.assertEqual(store.cursor, 1)
+
     def test_parses_the_published_example(self):
         page = _parse_page(EXAMPLE, fallback_cursor=0)
         self.assertEqual(len(page.changes), 1)
@@ -179,7 +195,8 @@ class ClientTransport(unittest.TestCase):
 
     def test_start_from_now_is_explicit_and_next_page_uses_the_saved_number(self):
         with mock.patch('urllib.request.OpenerDirector.open', side_effect=[
-                ok({'items': [], 'next_cursor': 42, 'has_more': False}), ok(EXAMPLE)]) as transport:
+                ok({'items': [], 'next_cursor': 42, 'has_more': False}),
+                ok({'items': [], 'next_cursor': 42, 'has_more': False})]) as transport:
             client = Throughline(api_key='k')
             cursor = client.start_from_now()
             self.assertEqual(cursor, 42)
@@ -219,6 +236,19 @@ class ClientTransport(unittest.TestCase):
                 self.assertEqual(raised.exception.resets_at, 86400)
                 self.assertEqual(raised.exception.request_id, 'request-1')
                 self.assertIn('Allowance reached', str(raised.exception))
+
+    def test_malformed_success_and_response_size_errors_return_without_retrying(self):
+        for body in ([], None, '<html>not a page</html>'):
+            with mock.patch('urllib.request.OpenerDirector.open', return_value=ok(body)):
+                with self.assertRaises(ThroughlineError) as raised:
+                    Throughline(api_key='k').page()
+            self.assertEqual(raised.exception.code, 'invalid_response')
+        def too_large(req, timeout=None):
+            raise_http(503, b'{"error":"response_too_large"}')
+        with mock.patch('urllib.request.OpenerDirector.open', side_effect=too_large) as transport:
+            with self.assertRaises(ThroughlineError):
+                Throughline(api_key='k').page()
+        self.assertEqual(transport.call_count, 1)
 
     def test_long_server_delay_is_raised_without_sleeping_or_shortening(self):
         for status in (429, 503):

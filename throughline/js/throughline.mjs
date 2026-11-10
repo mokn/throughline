@@ -110,9 +110,16 @@ export function retryAfter(value, fallback = 5) {
 
 /** @param {any} payload @param {number} fallbackCursor */
 export function parsePage(payload, fallbackCursor) {
+  const invalid = () => { throw new ThroughlineError(502, '{"error":"invalid_response"}'); };
+  if (!payload || typeof payload !== "object" || Array.isArray(payload) ||
+      Object.hasOwn(payload, "items") && !Array.isArray(payload.items)) invalid();
   const changes = [];
   for (const item of payload?.items ?? []) {
     const env = item?.envelope ?? {};
+    if (!Number.isSafeInteger(item?.cursor) || item.cursor < 1 || !Object.hasOwn(env, "record") || !(
+        env.operation === "upsert" && env.record && typeof env.record === "object" && !Array.isArray(env.record) ||
+        env.operation === "withdraw" && env.record === null)) invalid();
+    if ([env.stream_id, env.record_id].some((v) => typeof v !== "string" || !v)) invalid();
     changes.push(new Change(
       Number(item?.cursor ?? 0),
       String(env.stream_id ?? ""),
@@ -122,11 +129,13 @@ export function parsePage(payload, fallbackCursor) {
       String(env.schema ?? ""),
     ));
   }
-  const next = payload?.next_cursor;
+  const next = payload.next_cursor ?? fallbackCursor;
+  if (!Number.isSafeInteger(next) || next < fallbackCursor || changes.some((c) => c.cursor > next) ||
+      Object.hasOwn(payload, "has_more") && typeof payload.has_more !== "boolean") invalid();
   return new Page(
     changes,
     // A missing next_cursor must not silently reset the caller to zero.
-    next === null || next === undefined ? fallbackCursor : Number(next),
+    next,
     Boolean(payload?.has_more ?? false),
   );
 }
@@ -190,7 +199,18 @@ export class Throughline {
       let res, body;
       try {
         res = await this._fetch(url, { headers, signal: controller.signal, redirect: "error" });
-        if (res.ok) return await res.json();
+        if (res.ok) {
+          let payload;
+          try { payload = await res.json(); }
+          catch {
+            if (controller.signal.aborted) throw controller.signal.reason;
+            throw new ThroughlineError(502, '{"error":"invalid_response"}');
+          }
+          if (!payload || typeof payload !== "object" || Array.isArray(payload)) {
+            throw new ThroughlineError(502, '{"error":"invalid_response"}');
+          }
+          return payload;
+        }
         body = await res.text();
       } finally {
         clearTimeout(timer);
@@ -198,7 +218,7 @@ export class Throughline {
       }
       const wait = retryAfter(res.headers.get("Retry-After"), res.status === 503 ? 1 : 5);
       const error = res.status === 429 ? new RateLimited(res.status, body, wait) : new ThroughlineError(res.status, body);
-      const transient = res.status === 503 || res.status === 429 && (!error.code || TRANSIENT.has(error.code));
+      const transient = res.status === 503 && error.code !== "response_too_large" || res.status === 429 && (!error.code || TRANSIENT.has(error.code));
       remaining = this._retryBudget - Math.max((performance.now() - started) / 1000, waited);
       if (transient && attempt < this._maxRetries && wait < remaining) {
         // Never shorten Retry-After to fit the retry budget.

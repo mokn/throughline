@@ -102,7 +102,10 @@ to the caller, never shortened. Configure `retry_budget` (Python) or `retryBudge
 interrupt retry waits; JavaScript accepts an `AbortSignal` as `signal` for waits
 and fetches. Python's active blocking HTTP request still uses its request timeout.
 Redirects are refused so bearer credentials cannot be forwarded to a different
-endpoint. Other 4xx responses return immediately. Network failures are not automatically
+endpoint. Other 4xx responses return immediately. A deterministic `response_too_large`
+503 also returns immediately; reducing the page size needs a caller decision.
+Malformed successful pages raise `invalid_response` before changing saved records
+or cursor. Only explicit withdrawals remove stored matches. Network failures are not automatically
 retried because an admitted read may already have counted.
 
 Errors retain `status`, `body`, `code` and parsed `details`. Additive response

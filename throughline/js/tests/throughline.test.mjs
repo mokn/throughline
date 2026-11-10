@@ -26,6 +26,19 @@ test("parses the published example", () => {
   assert.equal(c.isWithdrawal, false);
 });
 
+test("malformed pages cannot remove saved records or corrupt their cursor", () => {
+  const store = new MatchStore();
+  store.apply(new Page([change(1, { record: { title: "saved" } })], 1, false));
+  for (const payload of [[], { items: null }, { items: [], next_cursor: "abc" },
+    { items: [], next_cursor: -1 }, { items: [], next_cursor: true }, { items: [], next_cursor: 0 },
+    { items: [], next_cursor: 2, has_more: "false" },
+    { items: [{ cursor: 2, envelope: { operation: "upsert", stream_id: "s", record_id: "r" } }], next_cursor: 2, has_more: false }]) {
+    assert.throws(() => store.apply(parsePage(payload, 1)), (e) => e.code === "invalid_response");
+    assert.deepEqual(store.current(), [{ title: "saved" }]);
+    assert.equal(store.cursor, 1);
+  }
+});
+
 test("empty page keeps the caller moving", () => {
   const page = parsePage({ items: [], next_cursor: 97, has_more: false }, 12);
   assert.deepEqual(page.changes, []);
@@ -157,7 +170,7 @@ test("redirects are refused before a key is forwarded to another endpoint", asyn
 test("startFromNow captures a numeric cursor once and the next page uses it", async () => {
   const urls = [];
   const client = new Throughline(undefined, "k", { fetch: async (url) => {
-    urls.push(url); return ok(urls.length === 1 ? { items: [], next_cursor: 42, has_more: false } : EXAMPLE);
+    urls.push(url); return ok({ items: [], next_cursor: 42, has_more: false });
   } });
   const cursor = await client.startFromNow();
   assert.equal(cursor, 42);
@@ -168,6 +181,19 @@ test("startFromNow captures a numeric cursor once and the next page uses it", as
     const bad = new Throughline(undefined, "k", { fetch: async () => ok({ items: [], next_cursor: value, has_more: false }) });
     await assert.rejects(bad.startFromNow(), (e) => e.code === "invalid_start_cursor_response");
   }
+});
+
+test("malformed success and response size errors return without retrying", async () => {
+  for (const body of [[], null, "<html>not a page</html>"]) {
+    await assert.rejects(new Throughline(undefined, "k", { fetch: async () => ok(body) }).page(),
+      (e) => e.code === "invalid_response");
+  }
+  let calls = 0;
+  const client = new Throughline(undefined, "k", { fetch: async () => {
+    calls += 1; return fail(503, '{"error":"response_too_large"}');
+  } });
+  await assert.rejects(client.page());
+  assert.equal(calls, 1);
 });
 
 test("requires baseUrl and apiKey and a fetch", () => {
