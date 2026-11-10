@@ -39,6 +39,12 @@ DEFAULT_BASE_URL = "https://api.throughline.markets"
 _TRANSIENT = {"burst_limited", "burst_capacity", "server_capacity"}
 
 
+class _NoRedirect(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        # A feed read must never send its bearer credential to a redirect target.
+        return None
+
+
 class ThroughlineError(RuntimeError):
     """An error response from the feed."""
 
@@ -137,6 +143,7 @@ class Throughline:
         self._retry_budget = retry_budget
         self._sleep = sleep
         self._cancel = cancel
+        self._opener = urllib.request.build_opener(_NoRedirect())
 
     # -- transport ----------------------------------------------------------
 
@@ -163,7 +170,7 @@ class Throughline:
                 raise error
             try:
                 timeout = min(self._timeout, remaining) if attempt else self._timeout
-                with urllib.request.urlopen(req, timeout=max(0.001, timeout)) as resp:
+                with self._opener.open(req, timeout=max(0.001, timeout)) as resp:
                     return json.loads(resp.read().decode("utf-8"))
             except urllib.error.HTTPError as exc:
                 try:

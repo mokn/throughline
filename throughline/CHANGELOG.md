@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Refuse authenticated HTTP redirects in both clients; Python no longer forwards a bearer key through urllib redirects.
+
 - Added explicit start-from-now cursor helpers; save the numeric result before polling.
 - Added local Python packaging as `throughline-news-client` and consistent production setup instructions. No registry release.
 

@@ -89,7 +89,8 @@ to the caller, never shortened. Configure `retry_budget` (Python) or `retryBudge
 (JavaScript) in seconds. Python accepts a `threading.Event` as `cancel` to
 interrupt retry waits; JavaScript accepts an `AbortSignal` as `signal` for waits
 and fetches. Python's active blocking HTTP request still uses its request timeout.
-Other 4xx responses return immediately. Network failures are not automatically
+Redirects are refused so bearer credentials cannot be forwarded to a different
+endpoint. Other 4xx responses return immediately. Network failures are not automatically
 retried because an admitted read may already have counted.
 
 Errors retain `status`, `body`, `code` and parsed `details`. Additive response

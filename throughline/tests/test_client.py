@@ -4,6 +4,7 @@ import sys
 import threading
 import unittest
 import urllib.error
+from http.server import BaseHTTPRequestHandler, HTTPServer
 from unittest import mock
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[2]))
@@ -144,8 +145,30 @@ def raise_http(code, body=b"{}", headers=None):
 
 
 class ClientTransport(unittest.TestCase):
+    def test_redirect_never_sends_a_bearer_key_to_another_endpoint(self):
+        seen = []
+        class Redirect(BaseHTTPRequestHandler):
+            def log_message(self, *args):
+                pass
+            def do_GET(self):
+                seen.append(self.path)
+                self.send_response(302)
+                self.send_header('Location', '/stolen')
+                self.end_headers()
+        server = HTTPServer(('127.0.0.1', 0), Redirect)
+        worker = threading.Thread(target=server.serve_forever, daemon=True)
+        worker.start()
+        try:
+            client = Throughline('http://127.0.0.1:' + str(server.server_port), 'fixture-key')
+            with self.assertRaises(ThroughlineError) as raised:
+                client.page()
+            self.assertEqual(raised.exception.status, 302)
+            self.assertEqual(seen, ['/v1/news?cursor=0'])
+        finally:
+            server.shutdown(); worker.join(2); server.server_close()
+
     def test_start_from_now_is_explicit_and_next_page_uses_the_saved_number(self):
-        with mock.patch('urllib.request.urlopen', side_effect=[
+        with mock.patch('urllib.request.OpenerDirector.open', side_effect=[
                 ok({'items': [], 'next_cursor': 42, 'has_more': False}), ok(EXAMPLE)]) as transport:
             client = Throughline(api_key='k')
             cursor = client.start_from_now()
@@ -154,14 +177,14 @@ class ClientTransport(unittest.TestCase):
         self.assertIn('cursor=latest', transport.call_args_list[0].args[0].full_url)
         self.assertIn('cursor=42', transport.call_args_list[1].args[0].full_url)
         for value in (None, -1, True, '42', 1.5):
-            with mock.patch('urllib.request.urlopen', return_value=ok(
+            with mock.patch('urllib.request.OpenerDirector.open', return_value=ok(
                     {'items': [], 'next_cursor': value, 'has_more': False})):
                 with self.assertRaises(ThroughlineError):
                     client.start_from_now()
 
     def test_production_url_and_environment_key_need_no_setup_arguments(self):
         with mock.patch.dict('os.environ', {'THROUGHLINE_API_KEY': 'test-key'}):
-            with mock.patch('urllib.request.urlopen', return_value=ok(EXAMPLE)) as transport:
+            with mock.patch('urllib.request.OpenerDirector.open', return_value=ok(EXAMPLE)) as transport:
                 Throughline().page()
         request = transport.call_args.args[0]
         self.assertTrue(request.full_url.startswith('https://api.throughline.markets/v1/news?'))
@@ -177,7 +200,7 @@ class ClientTransport(unittest.TestCase):
                 sleep = mock.Mock()
                 def fake(req, timeout=None):
                     raise_http(429, body, {'Retry-After': '1'})
-                with mock.patch('urllib.request.urlopen', side_effect=fake) as transport:
+                with mock.patch('urllib.request.OpenerDirector.open', side_effect=fake) as transport:
                     with self.assertRaises(RateLimited) as raised:
                         Throughline(api_key='k', sleep=sleep).page()
                 self.assertEqual(transport.call_count, 1)
@@ -192,7 +215,7 @@ class ClientTransport(unittest.TestCase):
             sleep = mock.Mock()
             def fake(req, timeout=None):
                 raise_http(status, b'{"error":"burst_limited"}', {'Retry-After': '86400'})
-            with mock.patch('urllib.request.urlopen', side_effect=fake) as transport:
+            with mock.patch('urllib.request.OpenerDirector.open', side_effect=fake) as transport:
                 with self.assertRaises(ThroughlineError):
                     Throughline(api_key='k', sleep=sleep).page()
             self.assertEqual(transport.call_count, 1)
@@ -202,7 +225,7 @@ class ClientTransport(unittest.TestCase):
         slept = []
         def fake(req, timeout=None):
             raise_http(429, b'{"error":"burst_limited"}', {'Retry-After': '20'})
-        with mock.patch('urllib.request.urlopen', side_effect=fake) as transport:
+        with mock.patch('urllib.request.OpenerDirector.open', side_effect=fake) as transport:
             with self.assertRaises(RateLimited):
                 Throughline(api_key='k', sleep=slept.append, retry_budget=45).page()
         self.assertEqual(slept, [20, 20])
@@ -217,7 +240,7 @@ class ClientTransport(unittest.TestCase):
             calls.append(1)
             if len(calls) == 1: unavailable(req, timeout)
             return ok(EXAMPLE)
-        with mock.patch('urllib.request.urlopen', transport):
+        with mock.patch("urllib.request.OpenerDirector.open", staticmethod(transport)):
             self.assertEqual(len(Throughline(api_key='k', sleep=slept.append).page().changes), 1)
         self.assertEqual(slept, [1])
         self.assertEqual(len(calls), 2)
@@ -231,7 +254,7 @@ class ClientTransport(unittest.TestCase):
                 return True
         def fake(req, timeout=None):
             raise_http(503, b'busy', {'Retry-After': '1'})
-        with mock.patch('urllib.request.urlopen', side_effect=fake) as transport:
+        with mock.patch('urllib.request.OpenerDirector.open', side_effect=fake) as transport:
             with self.assertRaises(InterruptedError):
                 Throughline(api_key='k', cancel=CancelOnWait()).page()
         self.assertEqual(transport.call_count, 1)
@@ -246,7 +269,7 @@ class ClientTransport(unittest.TestCase):
             self.assertIsNone(error.code)
 
     def test_zero_retry_budget_still_allows_the_first_call(self):
-        with mock.patch('urllib.request.urlopen', return_value=ok(EXAMPLE)):
+        with mock.patch('urllib.request.OpenerDirector.open', return_value=ok(EXAMPLE)):
             self.assertEqual(len(Throughline(api_key='k', retry_budget=0).page().changes), 1)
 
     def test_requires_base_url_and_key(self):
@@ -263,7 +286,7 @@ class ClientTransport(unittest.TestCase):
             captured["auth"] = req.get_header("Authorization")
             return ok(EXAMPLE)
 
-        with mock.patch("urllib.request.urlopen", fake):
+        with mock.patch("urllib.request.OpenerDirector.open", staticmethod(fake)):
             Throughline("https://api.example/", "tl_secret").page(0)
         self.assertEqual(captured["auth"], "Bearer tl_secret")
         self.assertIn("cursor=0", captured["url"])
@@ -281,7 +304,7 @@ class ClientTransport(unittest.TestCase):
             return ok(EXAMPLE)
 
         client = Throughline("https://api.example", "k", sleep=slept.append)
-        with mock.patch("urllib.request.urlopen", fake):
+        with mock.patch("urllib.request.OpenerDirector.open", staticmethod(fake)):
             page = client.page(0)
         self.assertEqual(slept, [7.0])
         self.assertEqual(len(page.changes), 1)
@@ -291,7 +314,7 @@ class ClientTransport(unittest.TestCase):
             raise_http(429, b"nope", {"Retry-After": "1"})
 
         client = Throughline("https://api.example", "k", max_retries=2, sleep=lambda _: None)
-        with mock.patch("urllib.request.urlopen", fake):
+        with mock.patch("urllib.request.OpenerDirector.open", staticmethod(fake)):
             with self.assertRaises(RateLimited) as ctx:
                 client.page(0)
         self.assertEqual(ctx.exception.retry_after, 1.0)
@@ -306,7 +329,7 @@ class ClientTransport(unittest.TestCase):
                 raise_http(_c)
 
             client = Throughline("https://api.example", "k", sleep=lambda _: None)
-            with mock.patch("urllib.request.urlopen", fake):
+            with mock.patch("urllib.request.OpenerDirector.open", staticmethod(fake)):
                 with self.assertRaises(ThroughlineError) as ctx:
                     client.page(0)
             self.assertEqual(ctx.exception.status, code)
@@ -315,7 +338,7 @@ class ClientTransport(unittest.TestCase):
     def test_match_returns_none_for_a_withdrawn_head(self):
         body = {"envelope": {"stream_id": "s", "record_id": "r",
                              "operation": "withdraw", "record": None}}
-        with mock.patch("urllib.request.urlopen", lambda req, timeout=None: ok(body)):
+        with mock.patch("urllib.request.OpenerDirector.open", staticmethod(lambda req, timeout=None: ok(body))):
             self.assertIsNone(Throughline("https://api.example", "k").match("r", stream_id="s"))
 
     def test_changes_walks_to_the_head_and_advances_on_empty_pages(self):
@@ -333,7 +356,7 @@ class ClientTransport(unittest.TestCase):
             return ok(pages.pop(0))
 
         client = Throughline("https://api.example", "k")
-        with mock.patch("urllib.request.urlopen", fake):
+        with mock.patch("urllib.request.OpenerDirector.open", staticmethod(fake)):
             collected = list(client.changes(0))
         self.assertEqual(len(collected), 3)
         self.assertEqual(sum(len(p.changes) for p in collected), 2)

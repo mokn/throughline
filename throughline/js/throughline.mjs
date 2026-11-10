@@ -187,7 +187,7 @@ export class Throughline {
       const timer = setTimeout(() => controller.abort(new DOMException("Request timed out", "TimeoutError")), timeout * 1000);
       let res, body;
       try {
-        res = await this._fetch(url, { headers, signal: controller.signal });
+        res = await this._fetch(url, { headers, signal: controller.signal, redirect: "error" });
         if (res.ok) return await res.json();
         body = await res.text();
       } finally {

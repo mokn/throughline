@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { createServer } from "node:http";
 import { Change, MatchStore, Page, RateLimited, Throughline, ThroughlineError, parsePage, retryAfter } from "../throughline.mjs";
 
 const here = dirname(fileURLToPath(import.meta.url));
@@ -127,6 +128,22 @@ test("retryAfter values", () => {
 
 const ok = (body) => ({ ok: true, status: 200, headers: new Headers(), json: async () => body, text: async () => JSON.stringify(body) });
 const fail = (status, body = "{}", headers = {}) => ({ ok: false, status, headers: new Headers(headers), json: async () => JSON.parse(body), text: async () => body });
+
+test("redirects are refused before a key is forwarded to another endpoint", async () => {
+  const paths = [];
+  const server = createServer((req, res) => {
+    paths.push(req.url);
+    res.writeHead(302, { Location: "/stolen" }); res.end();
+  });
+  await new Promise((resolve) => server.listen(0, "127.0.0.1", resolve));
+  try {
+    const client = new Throughline(`http://127.0.0.1:${server.address().port}`, "fixture-key");
+    await assert.rejects(client.page());
+    assert.deepEqual(paths, ["/v1/news?cursor=0"]);
+  } finally {
+    await new Promise((resolve) => server.close(resolve));
+  }
+});
 
 test("startFromNow captures a numeric cursor once and the next page uses it", async () => {
   const urls = [];
