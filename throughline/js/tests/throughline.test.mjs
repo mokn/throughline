@@ -129,6 +129,15 @@ test("retryAfter values", () => {
 const ok = (body) => ({ ok: true, status: 200, headers: new Headers(), json: async () => body, text: async () => JSON.stringify(body) });
 const fail = (status, body = "{}", headers = {}) => ({ ok: false, status, headers: new Headers(headers), json: async () => JSON.parse(body), text: async () => body });
 
+test("malformed keys fail without echoing the credential or sending a request", () => {
+  for (const value of ["tl_live_secret\n", "tl_live_\rsecret", "tl_live_ secret", "tl_live_secret\x00", "tl_live_secreté"]) {
+    let sent = false;
+    assert.throws(() => new Throughline(undefined, value, { fetch: () => { sent = true; } }),
+      (e) => e instanceof TypeError && !e.message.includes(value) && !e.message.includes("tl_live_secret"));
+    assert.equal(sent, false);
+  }
+});
+
 test("redirects are refused before a key is forwarded to another endpoint", async () => {
   const paths = [];
   const server = createServer((req, res) => {

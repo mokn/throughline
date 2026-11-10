@@ -145,6 +145,16 @@ def raise_http(code, body=b"{}", headers=None):
 
 
 class ClientTransport(unittest.TestCase):
+    def test_malformed_key_is_rejected_without_echoing_the_credential_or_sending_a_request(self):
+        for value in ('tl_live_secret\n', 'tl_live_\rsecret', 'tl_live_ secret', 'tl_live_secret\x00', 'tl_live_secreté'):
+            with self.subTest(value_type=type(value).__name__):
+                with mock.patch('urllib.request.OpenerDirector.open') as transport:
+                    with self.assertRaises(ValueError) as raised:
+                        Throughline(api_key=value)
+                self.assertNotIn('tl_live_secret', str(raised.exception))
+                self.assertNotIn(value, str(raised.exception))
+                transport.assert_not_called()
+
     def test_redirect_never_sends_a_bearer_key_to_another_endpoint(self):
         seen = []
         class Redirect(BaseHTTPRequestHandler):

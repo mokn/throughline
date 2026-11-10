@@ -151,7 +151,9 @@ export class Throughline {
    */
   constructor(baseUrl = DEFAULT_BASE_URL, apiKey = globalThis.process?.env?.THROUGHLINE_API_KEY, opts = {}) {
     if (!baseUrl) throw new TypeError("baseUrl is required");
-    if (!apiKey) throw new TypeError("apiKey is required");
+    if (typeof apiKey !== "string" || !/^[\x21-\x7e]+$/.test(apiKey)) {
+      throw new TypeError("apiKey must be nonempty printable ASCII without whitespace");
+    }
     this._base = baseUrl.replace(/\/+$/, "");
     this._key = apiKey;
     this._timeout = opts.timeout ?? 30;

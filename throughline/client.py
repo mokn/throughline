@@ -130,8 +130,9 @@ class Throughline:
         if not base_url:
             raise ValueError("base_url is required")
         api_key = os.environ.get("THROUGHLINE_API_KEY") if api_key is None else api_key
-        if not api_key:
-            raise ValueError("api_key is required")
+        if (type(api_key) is not str or not api_key
+                or any(not 33 <= ord(ch) <= 126 for ch in api_key)):
+            raise ValueError("api_key must be nonempty printable ASCII without whitespace")
         if (not math.isfinite(timeout) or timeout <= 0 or
                 not math.isfinite(retry_budget) or retry_budget < 0 or
                 type(max_retries) is not int or max_retries < 0):

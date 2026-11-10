@@ -63,9 +63,11 @@ explicitly; never put a private key in a public/shared frontend.
 ## Cursors, replay and corrections
 
 `page()` / `page(0)` starts at the beginning of retained change history. To receive
-only future publications, call `client.start_from_now()` in Python or
+only future publications on a server supporting `cursor=latest`, call `client.start_from_now()` in Python or
 `await client.startFromNow()` in JavaScript **once**, then save that numeric
-cursor and pass it to `page(cursor)`. This initial empty poll uses one request.
+cursor and pass it to `page(cursor)`. These helpers require the Throughline foundation API release (server source
+`c79aba5` or later). Older servers return 400; use numeric replay until that
+release is deployed. This initial empty poll uses one request.
 Do not repeat the head capture on restart: doing so skips intervening changes.
 
 Follow `next_cursor` (`nextCursor` in JavaScript), including empty filtered pages.

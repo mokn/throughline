@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- Reject whitespace, control characters and non-ASCII credentials before transport without echoing the key in an exception.
+- Start-from-now helpers require the foundation API release; publish clients only after that server release.
+
 - Refuse authenticated HTTP redirects in both clients; Python no longer forwards a bearer key through urllib redirects.
 
 - Added explicit start-from-now cursor helpers; save the numeric result before polling.
