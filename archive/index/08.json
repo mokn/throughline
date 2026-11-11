@@ -230,6 +230,7 @@
   "created_at": "2026-08-05T21:02:05.969219Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming gubernatorial election by 20%-25%?",
   "revisions": 1,
   "sha256": "e8cb04ba2e7e99435ccbd4ea94fcdb9cb206050fbfa8a481446d38bb2e577213",
@@ -642,6 +643,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-pittsburgh-steelers-have-more-than-7pt5-wins-during-the-2026-nfl-season"
+ },
+ "0x686bf776b71e7099af023edebcd2a1d1e653068d11b2b93d747280914e2fef08": {
+  "created_at": "2026-10-26T06:00:14.58606Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: O/U 1.5",
+  "revisions": 1,
+  "sha256": "a06f4b415d71750736ac256b41d616af76d803789f2fdff202d183b7ecba1a6a",
+  "slug": "ukr1-met-kar-2026-11-07-total-1pt5"
  },
  "0x68a180ed856f8cca423d4ead77691be2468b73c519b4078865d177000a96a208": {
   "created_at": "2026-09-03T01:05:18.598638Z",

@@ -454,6 +454,15 @@
   "sha256": "2d8e30cd399fb10f4cec176eee39c1c678c68b7d4eed3ce157ccb84dc9f7f67d",
   "slug": "will-thomas-lee-appear-on-the-uponly-podcast-by-december-31-919"
  },
+ "0x4cb77ddb9f9e99607333fc97c9dc9389ccb29b2d3b0c26a8205da8b82e18517b": {
+  "created_at": "2026-11-11T01:19:27.979017Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will the next Gemini model family be named Gemini Barium?",
+  "revisions": 1,
+  "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-barium"
+ },
  "0x4d3689247cc161a5525827cecab12f6bfc1d2f37f87b7150f95d827417ca6a7b": {
   "created_at": "2026-08-11T18:42:17.707522Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1312,6 +1321,15 @@
   "sha256": "6810b75463a716df1b0ccc72df29d3e3842d58f224cd386416b2788395f66965",
   "slug": "will-a-republican-party-candidate-win-the-2026-wa-09-house-election"
  },
+ "0xc9b739cbd019ca06f7032f526fd5b49052d36980da4107171292145371e4717b": {
+  "created_at": "2026-10-19T09:00:12.326876Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 2 - 0 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-2-0"
+ },
  "0xc9caee27c64a6bc0d7dc9a4abe1d8dbc5ef2afa5ec155de9f0f3be92def9897b": {
   "created_at": "2026-08-11T18:18:16.139461Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1626,6 +1644,7 @@
   "created_at": "2026-10-25T04:01:38.217915Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will US Dollar Index (DXY) hit (HIGH) 102.50 in November?",
   "revisions": 1,
   "sha256": "08d2b061d4fa8b9799e948f4fff2cc2b7776a2ea3d26a544e009fcf1f9fc6a3e",

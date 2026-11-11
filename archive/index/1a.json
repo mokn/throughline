@@ -35,6 +35,15 @@
   "sha256": "63d9307aa0ad0cc213ff1317b289603742c5cc2be2fe0828762a216957fb1d00",
   "slug": "will-isaiah-sategna-iii-be-the-2026-d1-receptions-leader"
  },
+ "0x0768ff56b23504daa59fbf6aaad37cc839d6898a7760048c86d82f980dc9be1a": {
+  "created_at": "2026-10-25T09:00:11.76442Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "a7419deb73653a536160b22bc598655d5ad3cf4ae9436543da35ead413818ad9",
+  "slug": "ukr1-met-kar-2026-11-07-halftime-result-draw"
+ },
  "0x0b5dc0d23374586c92d59043b5e46ef3865082edf964711d9f17d870140c7c1a": {
   "created_at": "2026-11-03T21:32:35.584883Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -294,6 +303,7 @@
   "created_at": "2026-10-20T23:04:57.588445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will crashies play for ULF Esports in 2027?",
   "revisions": 1,
   "sha256": "c242e320a26f0c93a28f1aa21d57a45b3698f6fbcfd2f650fe45ee94dd00c855",
@@ -1017,6 +1027,15 @@
   "sha256": "3dca940b8d41c1cd39ef34915c1a6221bed57eb0a5ead8a17a70359bb6505087",
   "slug": "denzel-boston-874pt5-receiving-yards-2026-27"
  },
+ "0xc6e68c0d1ea75aee38544c6c4b662ff6ed142bb1db52f93c5040c191c3add81a": {
+  "created_at": "2026-11-10T15:49:29.845115Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Hegseth impeached and removed by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "88062e0e4ef52ee656beff88ea3a7fca72f1988571b432b8edc24cbb858138dd",
+  "slug": "hegseth-impeached-and-removed-by-december-31-2026"
+ },
  "0xc76e45fb5598de9a14c00712683c6dd4d8742cbadcb0aae124726e53c7f52e1a": {
   "created_at": "2026-08-24T16:38:34.896309Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1192,6 +1211,7 @@
   "created_at": "2026-08-07T19:14:32.037094Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 DE-AL House election by 40% or more?",
   "revisions": 1,
   "sha256": "5dcf590b6de2f25791fbe001fe5615a73df37686b28671cd02e8cd80fff5ac90",

@@ -977,6 +977,15 @@
   "sha256": "421153c0756436b90f40d44334b33bbf3bfca082c8daca6e92615a141501c972",
   "slug": "bytedance-ipo-before-2027"
  },
+ "0x7bd51a3b03fad71dd042faf998576f5f02ada4112fb1448ea949a5b82084a13c": {
+  "created_at": "2026-10-20T06:00:07.653894Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Polissia (-5.5)",
+  "revisions": 1,
+  "sha256": "a22f5e39109853ad4af4fc60e952d5975efb15a252dca1c959a31d15ba6e8b84",
+  "slug": "ukr1-kol-pol-2026-11-01-spread-away-5pt5"
+ },
  "0x7cd7ea767ad48ef4d513e9991e946a00d2d977949538542cc2c93c80d125ff3c": {
   "created_at": "2026-10-12T20:53:30.869431Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1816,6 +1825,7 @@
   "created_at": "2026-08-11T18:50:12.461716Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-03 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "4dc36b76383632c21571dfb1ef09044f9ef6b2fd791fde0327ebb0e14518b7db",

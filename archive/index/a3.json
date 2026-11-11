@@ -993,6 +993,7 @@
   "created_at": "2026-09-09T15:47:06.162681Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Honduras win the 2026-27 CONCACAF Nations League?",
   "revisions": 1,
   "sha256": "778499c1c5d259b66b6ae3e9fefa6c559aa9ce3fc3fa8933b31df14ee61e7e74",
@@ -1254,6 +1255,7 @@
   "created_at": "2026-08-11T18:49:59.359223Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-04 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "e2825361546feedd42b90f5c9ee73756ccc0d8d0f15b355e039d95801d08d38e",
@@ -1439,6 +1441,15 @@
   "revisions": 1,
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-cristiano-ronaldo-win-the-2027-ballon-dor"
+ },
+ "0xf5609fca92ed8ea9a00a192f34afaecc71b78b01fc9e2e3669fcb1df77a8bca3": {
+  "created_at": "2026-10-20T06:00:08.589569Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: O/U 5.5",
+  "revisions": 1,
+  "sha256": "d1b1bb9d64826ddebb2ac3838647e056d139a6cac293dbacf913b191a69e2c7a",
+  "slug": "ukr1-kol-pol-2026-11-01-total-5pt5"
  },
  "0xf645ab17dc02311002519f2b24019b752d0d1ef6fd9351b3d58ca13546d099a3": {
   "created_at": "2026-09-23T18:06:37.037779Z",

@@ -239,6 +239,7 @@
   "created_at": "2026-09-04T00:19:52.079652Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Fernando Mendoza be named the Raiders' starting QB by Week 12?",
   "revisions": 1,
   "sha256": "48ba8848493a13dac4ea8852fc687a55bd68d84ffa9ab3579e2016750c22d7ee",
@@ -302,10 +303,10 @@
  "0x34cd1e2928d78c0ba7442d152027438786b9c2c8a9094953d85f6ab8de43c524": {
   "created_at": "2026-11-07T00:11:28.672073Z",
   "first_seen": "2026-11-07T13:00:35Z",
-  "last_changed": "2026-11-07T13:00:35Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "The Hunger Games: Sunrise on the Reaping vs. Dune: Part Three Opening Weekend Box Office",
-  "revisions": 1,
-  "sha256": "68ab388a57aa51ac96a146e94fa04253784abeddfe50867d8a3028f0ff1b0a11",
+  "revisions": 2,
+  "sha256": "d7b2aa522c57e89b1abd083900fe81b414de6a33a7e429cf30f808387f5cc5ec",
   "slug": "the-hunger-games-sunrise-on-the-reaping-vs-dune-part-three-opening-weekend-box-office"
  },
  "0x3695fbe235bdbd1bf5af90565b66990309d76f411732aa625c0138a299361024": {
@@ -682,6 +683,15 @@
   "sha256": "5e72e7a2a2ef09272e5ee18abf8e64dc1c896a880a075f09f61898661b8f97f2",
   "slug": "will-guitarricadelafuente-win-best-supporting-actor-at-the-99th-academy-awards-20260805190945759"
  },
+ "0x69aa377d1efcfe6552c8282e8ee39d0ac4d20a666742453c5571240daa8d0624": {
+  "created_at": "2026-10-20T06:00:09.394026Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "2c41f6fdda235cc1f1d09760e1c2b8be717283149344d0af448944f65cb18d48",
+  "slug": "ukr1-kol-pol-2026-11-01-btts-first-half"
+ },
  "0x6a4f88eb53fc1836c94a15a1736a503ff69272262994dd0b8d8b1517761a4f24": {
   "created_at": "2026-08-12T01:24:23.977585Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -708,6 +718,15 @@
   "revisions": 1,
   "sha256": "5e186d5f1620cd92f06bf85ef8cd0d66c59f0f42ac18646a578d9296117756f8",
   "slug": "ethereal-fdv-above-300m-one-day-after-launch-833"
+ },
+ "0x6c3a8c998e81575cbbe6e02d911fd986d43cff148c6d3295f79e233e118cdf24": {
+  "created_at": "2026-11-11T01:19:45.854475Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Z.ai have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-zptai-have-the-best-ai-model-on-december-15-2026"
  },
  "0x6d48ea0eabc3af2cc5057aa5ca1085f29485a34343aa1f47bc384d6a2226af24": {
   "created_at": "2026-08-04T21:40:56.746736Z",

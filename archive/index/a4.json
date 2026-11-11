@@ -181,10 +181,20 @@
   "sha256": "27abafc7b456613501b64f01ab8bfc13de4feb71933a98b6f2d714223a6a26db",
   "slug": "will-the-next-governing-coalition-of-sweden-include-s-c"
  },
+ "0x20fd91a83c5c82110670397a711a753a7b57d245f1587dc0f0308f4404f65fa4": {
+  "created_at": "2026-10-25T09:00:13.053669Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 0 - 4 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-0-4"
+ },
  "0x2206652c30ff173dbfe0f897982ff24bb3180a00847b72fcf6db180766dd69a4": {
   "created_at": "2026-07-31T22:45:20.913356Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Rutgers Scarlet Knights Win the 2026 Big Ten Championship?",
   "revisions": 1,
   "sha256": "fc45931270469f07370bd80caec0e54d5292fb568697373133e4eec6be4ea8bc",
@@ -366,6 +376,7 @@
   "created_at": "2026-09-02T21:58:09.218524Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Rutgers Scarlet Knights advance to the 2026 Big Ten Championship Game?",
   "revisions": 1,
   "sha256": "fd4c7e8ceedd980d34926e9e21652b32ffb8583154f3bbd149a27f1f589e512c",
@@ -566,6 +577,7 @@
   "created_at": "2026-10-28T21:52:36.866449Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will there be no Gemini Carbon release by January 3, 2027?",
   "revisions": 1,
   "sha256": "51f3d77ca8e4aa09bcf508e9465649d08f8037cbe08841067db4ca2e32e9ec55",
@@ -939,10 +951,10 @@
  "0xa35edadd9cdea2c9371557eb8b8e8a1f50227889594992855a072e00ab67cea4": {
   "created_at": "2026-10-30T23:55:30.805528Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Avengers: Doomsday\" Opening Weekend Box Office be between 360m and 400m?",
-  "revisions": 1,
-  "sha256": "b3ce6dc14b07ec809a85d2a38b29cdab375d4d1782def0dfc0907b9274d37f90",
+  "revisions": 2,
+  "sha256": "f981aff0c0741559f57eb548f18e6eb27f360662ced9f35afb4ee9325f81b67f",
   "slug": "will-avengers-doomsday-opening-weekend-box-office-be-between-360m-and-400m"
  },
  "0xa3e82fc602a3f7d0feb2b26bbdaa028c02400f18b1a7d6e8470abd850eb7b1a4": {

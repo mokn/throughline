@@ -17,6 +17,15 @@
   "sha256": "2b7e899e89547f4fd2ffde19de508e768f64bffb967fd6e3600d83618e4bf093",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-15-house-election-by-0-3"
  },
+ "0x051749a571b2863ea92efe86822f349d73d3f049a98eab15d6ec65d4d236b57d": {
+  "created_at": "2026-10-19T09:00:11.270904Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "45b59ae4a8d264b28d840eeb951454193d85b04979afe8b309a9b471d0a78731",
+  "slug": "ukr1-kol-pol-2026-11-01-halftime-result-draw"
+ },
  "0x0695816909b1370f56275225238d0ec36de3ffd4a35023f670e30ed4c0f62d7d": {
   "created_at": "2026-10-16T08:58:32.873922Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -106,6 +115,15 @@
   "revisions": 1,
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-taras-romanczuk-record-the-most-assists-in-the-2026-27-uefa-europa-league"
+ },
+ "0x1244838353dd15739368afcd3777db6b684d8e0a64215bbebdc41be2441a1d7d": {
+  "created_at": "2026-10-26T06:00:16.068867Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "916d32f2be7e02d0cde2fd1539752d63f3e71b73ae1d1bc6891186b2f1b3b405",
+  "slug": "ukr1-met-kar-2026-11-07-btts-first-half"
  },
  "0x12f53e643763cdc4d31cdbcfe179df706d6b93d600543c07c39b2b5c4a4f027d": {
   "created_at": "2026-10-08T22:00:09.911422Z",
@@ -874,6 +892,15 @@
   "revisions": 1,
   "sha256": "5b5ae7e8cc570b884b7ad52aa42f6d6e29c7e84e76894c6bbf4a05d7f91b48b6",
   "slug": "will-mainz-05-be-the-2026-27-bundesliga-champion-20260708164840312"
+ },
+ "0x92200cfac3dfdbb01b9bb651fd6ee5b93ff85b3271ccf6d5c3a8f4ee1f58d17d": {
+  "created_at": "2026-10-19T09:00:12.221184Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 0 - 2 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-0-2"
  },
  "0x939932987f3133be0d5b667b95d8550a4061a9335db3e48bfb48fcf9a1c3c77d": {
   "created_at": "2026-11-09T21:18:05.29717Z",

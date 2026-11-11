@@ -102,6 +102,7 @@
   "created_at": "2026-08-11T18:49:59.821786Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 SC-04 House election?",
   "revisions": 1,
   "sha256": "e2825361546feedd42b90f5c9ee73756ccc0d8d0f15b355e039d95801d08d38e",
@@ -310,6 +311,7 @@
   "created_at": "2026-08-24T16:40:33.878658Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Atl\u00e9tico Grau keep the most clean sheets in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "d5c32b7a8d676069b2dd9fc5e7ad8a77e4ce61b124691b6878781e9124298c6d",
@@ -478,6 +480,15 @@
   "sha256": "1c1de2abf475ce0b2c929726f6b5b7397c49147633ceaf0e86658d36c77c6d4a",
   "slug": "will-stablecoins-hit-500b-before-2027"
  },
+ "0x550de447271951c0647d7f8be3245eb07377148def00d126c9bdfb0597bcb447": {
+  "created_at": "2026-10-26T06:00:14.274767Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Karpaty Lviv (-5.5)",
+  "revisions": 1,
+  "sha256": "af74d1604b8f0b4f7eaa86aee487d4c476f9f30b2c1ddeae11959e49bf44547f",
+  "slug": "ukr1-met-kar-2026-11-07-spread-away-5pt5"
+ },
  "0x58be5495b4f1e98f83a907e611891a2e1f3f3bc9efd55c60fa7de1341dc1c047": {
   "created_at": "2026-02-18T17:37:43.90792Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -603,6 +614,15 @@
   "revisions": 1,
   "sha256": "487a0e700a499234d4e77c45938615ec2f654d8bb2eeb501c51c6a446cd44567",
   "slug": "f1-qatar-grand-prix-practice-2-fastest-lap-fernando-alonso-2026-11-27"
+ },
+ "0x709fd34c4738d82f7f175628116cc28cee23d897ce464c4f6df5fd29ddc11f47": {
+  "created_at": "2026-11-10T16:34:43.904759Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "EU adopts Chinese telecom gear phase-out law by December 31, 2028?",
+  "revisions": 1,
+  "sha256": "92ca09f086084644b3a514be6a1e07d73632d9a56f2c13413755dad8540e1292",
+  "slug": "eu-adopts-chinese-telecom-gear-phase-out-law-by-december-31-2028"
  },
  "0x7318d4ebd2191848d3450a414a7ba71c5540c2ff904b096eabe2912b72a1dc47": {
   "created_at": "2026-10-13T15:51:05.889432Z",

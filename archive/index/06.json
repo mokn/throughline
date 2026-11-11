@@ -529,6 +529,7 @@
   "created_at": "2026-08-18T14:06:41.97326Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Delaware be between 300,000 and 325,000?",
   "revisions": 1,
   "sha256": "5cda66ad81637be3e0ca8836c7609a36a7e6069ae52a304e1404debbaa9dd28a",
@@ -879,6 +880,15 @@
   "revisions": 1,
   "sha256": "f507b1d484afd0194e4d2e0f4761f2ef3cfb6975df4aebe3193bbc33a7844793",
   "slug": "will-patrik-laine-record-100-points"
+ },
+ "0x7d18651c2d7fb25068d1486ad0805300631173ea9df28a0bac46c4e820360d06": {
+  "created_at": "2026-11-10T19:07:46.931935Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 60% or higher?",
+  "revisions": 1,
+  "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
+  "slug": "will-claude-fable-5pt2-debut-with-an-hle-diamond-score-of-60-or-higher"
  },
  "0x7d3212aabba121834acc4a85721a26add37fa571ad3601eb4dd1dfbdd5a76306": {
   "created_at": "2026-11-03T17:43:33.366463Z",
@@ -1477,6 +1487,15 @@
   "revisions": 1,
   "sha256": "2a90fdaa6a8b9ad7633ad32e030ff778582d67924e8e9077d49c20bed8b523f4",
   "slug": "will-rj-harvey-be-the-highest-scoring-rb-of-the-2026-27-nfl-season-20260806224130464"
+ },
+ "0xd9cbbaa0c95e99ca29cea0b0aa2bdf9740baf67d1b882330927b74ee55c5d506": {
+  "created_at": "2026-10-25T09:00:14.553195Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-any-other"
  },
  "0xddb1b1affe2c2f133fa8091ffb7c1f423f6b65b6c949484306aba490fd8e2b06": {
   "created_at": "2026-08-11T18:18:16.881884Z",

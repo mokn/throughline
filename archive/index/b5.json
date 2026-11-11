@@ -181,6 +181,15 @@
   "sha256": "9b182bb4c775a6602982c0b03c2a2cd679783ac3966f5fa812f4abd466d4d2ac",
   "slug": "will-vox-win-the-third-most-seats-in-the-2026-spanish-general-election"
  },
+ "0x1c1df99abaa5aa3474471f21042793c7b5c4126c556936769dd9812ed1dccdb5": {
+  "created_at": "2026-11-11T00:50:59.848983Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut at a score of at least 1480 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d367b97fa0476fb5edde9f2e4d0124da416050865764079ee0a73fe4d28b71c4",
+  "slug": "will-gemini-hydrogen-debut-at-a-score-of-at-least-1480-by-june-30-2027"
+ },
  "0x1c82015e318902d1f56f23aee622cfd8a08a42eb87817fea31b641bf38c5fab5": {
   "created_at": "2026-10-29T20:53:52.175604Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -353,6 +362,15 @@
   "sha256": "32ed12669082c1de0d70a27b5ed4e9800004919a6ff472477b66afe60a58bd5f",
   "slug": "will-a-republican-party-candidate-win-the-2026-wa-04-house-election-by-25-30"
  },
+ "0x33298e2faec878852d5a73e8f623facd6a3d2a7997626d5a1802c7f0e5fd06b5": {
+  "created_at": "2026-11-11T01:19:25.425407Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will the next Gemini model family be named Gemini Krypton?",
+  "revisions": 1,
+  "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-krypton"
+ },
  "0x34c5caeaebdce81d67a02d63e9e6938d8b0cb1c40c90540da1a1ea44592731b5": {
   "created_at": "2026-09-13T09:15:38.841154Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -475,6 +493,7 @@
   "created_at": "2026-08-18T14:06:43.508877Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Delaware be between 450,000 and 475,000?",
   "revisions": 1,
   "sha256": "5cda66ad81637be3e0ca8836c7609a36a7e6069ae52a304e1404debbaa9dd28a",
@@ -1496,6 +1515,7 @@
   "created_at": "2026-08-11T19:03:13.424947Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 WY-AL House election by 45%-50%?",
   "revisions": 1,
   "sha256": "6ed73371451eb368dbd1edb7d0b2d8f65ed4034667bd22fa7d78cb6ce26e270d",
@@ -1859,6 +1879,7 @@
   "created_at": "2026-08-04T18:40:25.654973Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming Senate election by 35%-40%?",
   "revisions": 1,
   "sha256": "df468581691e2cd5e547ea98b2e62fd482e75c312833748d22f274054dec15d7",

@@ -435,6 +435,7 @@
   "created_at": "2026-09-02T21:58:05.28777Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will NC State Wolfpack advance to the 2026 ACC Championship Game?",
   "revisions": 1,
   "sha256": "e4f5335639de7eac5d65af07ba2b61ba0c1733a198d7ef702d46e726bc0ecf6b",
@@ -675,6 +676,15 @@
   "sha256": "1c43341c46fcf68950fb74a2236ebbcb431868a14db8742ec3a9a38566460d97",
   "slug": "el1-wim-ste-2026-10-03-corners-team-home-4pt5"
  },
+ "0x695b30876b1f9ff41db614bf0599b907d2067d363edee3548e64e685771e7d3f": {
+  "created_at": "2026-10-19T09:00:12.950541Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 1 - 4 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-1-4"
+ },
  "0x6a192256859204a483fe3e4110db652bfff03c6b48328c1b7faff038a461713f": {
   "created_at": "2025-11-24T22:08:53.048998Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -734,10 +744,10 @@
  "0x6d7b7bb1411775c6f4123105d266e4cf1bc182ff49b6ec556eb855c9b512d83f": {
   "created_at": "2026-10-14T23:18:04.08748Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be between 65m and 75m?",
-  "revisions": 1,
-  "sha256": "fb4df60d8e9ec189689268ce66c470e9c32d37c30260e8472b7144069a03aa8d",
+  "revisions": 2,
+  "sha256": "57ab6cee00ffbf3d5021a8bd1a8388bcb13e02785fb7153d94e81c5f78481318",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-opening-weekend-box-office-be-between-65m-and-75m"
  },
  "0x726d59efe5a1784916bf5a4d172d0553567e94f6de0f94c2c0998b63b76b303f": {
@@ -807,6 +817,7 @@
   "created_at": "2026-08-11T18:50:14.829347Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-05 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "3ee36825ef4a19356c1edddb146ef90823787c1b701fbe44f1df69455135840e",

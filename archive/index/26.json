@@ -26,6 +26,15 @@
   "sha256": "f692ef8dacff6bf0bb75af37b44762982ff021d8b6883deadc6e97be2709ba9f",
   "slug": "will-the-miami-dolphins-win-more-than-4pt5-games-in-the-2026-nfl-regular-season"
  },
+ "0x0453f2430e4b06fd44b5d2d10f56f23d9632037163d7c840e0e1952931bb7126": {
+  "created_at": "2026-10-25T09:00:13.315777Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 0 - 5 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-0-5"
+ },
  "0x050742fef389c14aa268c4e4262e2297ab357884de8057771733f5881c3fb726": {
   "created_at": "2026-09-02T21:57:50.151346Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -143,6 +152,15 @@
   "sha256": "00d756585611d14e319cdaa0c6abfc65c8adba0df2f50083d81843aa30515b91",
   "slug": "will-tyler-shough-finish-the-2026-27-nfl-regular-season-with-the-most-passing-touchdowns-20260715212611280"
  },
+ "0x177707e5a4940a1968721d550c59e69b8a8418c9615ccf8a846e2371ac704f26": {
+  "created_at": "2026-10-20T06:00:10.835062Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Kolos Kovalivka O/U 3.5",
+  "revisions": 1,
+  "sha256": "7e8fb4fe7758432fcb79d84aca2c422239e280d35e7e2a0019e9440e69fda102",
+  "slug": "ukr1-kol-pol-2026-11-01-team-total-home-3pt5"
+ },
  "0x184759cfba72fed73435c34ae33760290d2ca3a540f9a0ac54a2ea2e39bb0a26": {
   "created_at": "2026-08-21T17:34:48.564708Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -200,10 +218,10 @@
  "0x216cd5d6ad9a597e4f12b7d265a3e7590b2a0b7203509d54f7c990ad18aa1826": {
   "created_at": "2026-11-10T02:27:00.571109Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be between $140M and $160M by December 15?",
-  "revisions": 1,
-  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "revisions": 2,
+  "sha256": "b1fd34eacc0686331bbdcf78aa08533baf920a03b3357e068998c26d64cbeba3",
   "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-between-140m-and-160m-by-december-15-20261108"
  },
  "0x21bf9a7dae81b6bd51acae73185686ab8997b81b1401e4be10e114d472599c26": {
@@ -462,6 +480,7 @@
   "created_at": "2026-07-31T22:42:24.220035Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Northern Illinois Huskies Win the 2026 Mountain West Championship?",
   "revisions": 1,
   "sha256": "8862799b3fbca5d75138c6bf80655a0327d1cae8ef6c7208ae29cde680cc69d2",
@@ -571,10 +590,10 @@
  "0x56c715d3ab88e8d3825394f2a1975e186d7bec0e12cb7f5b840225c4057c6f26": {
   "created_at": "2026-09-23T21:29:04.27697Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Spider-Man: Brand New Day reach $1B in domestic box office in 2026?",
-  "revisions": 1,
-  "sha256": "7c341cceb38338c4761f4b18b627e081910a31364b8f1b2320f26faf561387d6",
+  "revisions": 2,
+  "sha256": "61b6f6b37a86c19c74fc76afec0539d268f13619c42a3fcb203a11e2a6dbef17",
   "slug": "will-spider-man-brand-new-day-cross-1b-in-domestic-box-office"
  },
  "0x57229065a4b6f038b38b8c4c5e35816711ea95e8df336792d225a357401e8a26": {
@@ -1457,6 +1476,7 @@
   "created_at": "2026-08-26T21:46:51.621415Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Atl\u00e9tico Tucum\u00e1n keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",

@@ -779,6 +779,15 @@
   "sha256": "a5a70734d216d44cd3a42b202da2404d7e8c6231c6d1643f04501c714e2b270a",
   "slug": "greece-elite-league-2027-champion-lavrio"
  },
+ "0x7e3e377c775fad22a09cd4c84761904a8b6aed30e236303ba9ae3001661fab0e": {
+  "created_at": "2026-10-19T09:00:13.7682Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 4 - 4 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-4-4"
+ },
  "0x8067f9733b5f0dd56bd663874173d07dd9a8f990da1986c1de68cb98a5ccc80e": {
   "created_at": "2026-09-08T16:52:55.368294Z",
   "first_seen": "2026-11-04T01:55:27Z",

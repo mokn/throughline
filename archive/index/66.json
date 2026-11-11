@@ -56,10 +56,10 @@
  "0x0a81307d8259f6bf3942778b807a3fa27ca45ddc2a94ca4937c3b3738e3a4e66": {
   "created_at": "2026-10-20T23:21:41.572022Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will the total domestic gross for \"You Can See Everything\" be between $150M and $175M by November 30?",
-  "revisions": 1,
-  "sha256": "2b21faac0d38ed4664ead758cfd14d0338f3928080e369782c3eddb3a24e7d8d",
+  "revisions": 2,
+  "sha256": "5dd7f3f256500cc4c82467b0c2be0f6823394a720708b7e9726ba250d45be417",
   "slug": "will-the-total-domestic-gross-for-you-can-see-everything-be-between-150m-and-175m-by-november-30"
  },
  "0x0b117939f2d008097434456654a534ca556094554b633df02670c2891961b666": {
@@ -355,6 +355,7 @@
   "created_at": "2026-08-04T17:55:57.02223Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 Delaware Senate election by 0%-10%?",
   "revisions": 1,
   "sha256": "2864b855d100623988f9b87711e3cd8044a97a194e07f6ad56e677364d213ca5",
@@ -418,6 +419,7 @@
   "created_at": "2026-07-06T22:02:48.533096Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Mai Vang win the CA-07 House seat?",
   "revisions": 1,
   "sha256": "a88a9f2f2542409457224325c1d2c2ebb7dd5b206b6c201522691d931f22ad92",
@@ -949,6 +951,15 @@
   "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
   "slug": "will-nathan-mackinnon-record-50-goals-in-the-2026-27-regular-season"
  },
+ "0x9f31c41821cdd6d89791398d54e68a0dd08d57718d1d96ad7960f0c3e0432a66": {
+  "created_at": "2026-10-20T06:00:11.454003Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Polissia O/U 1.5",
+  "revisions": 1,
+  "sha256": "5317a7b7bdb3157e0ecc64d80c96b6756064d2f50e4da1c4630b89e8fe66cbab",
+  "slug": "ukr1-kol-pol-2026-11-01-team-total-away-1pt5"
+ },
  "0xa02ac3b32b55b08eadfe7055444419d9f8b8c39cd7280bef3da2338654f53e66": {
   "created_at": "2026-09-14T20:21:45.176176Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1370,10 +1381,10 @@
  "0xebca05e1d42f405df871be34f76b82cf8efa75a76309faabbdb23816ff193d66": {
   "created_at": "2026-10-20T23:21:38.992602Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will the total domestic gross for \"You Can See Everything\" be between $50M and $75M by November 30?",
-  "revisions": 1,
-  "sha256": "2b21faac0d38ed4664ead758cfd14d0338f3928080e369782c3eddb3a24e7d8d",
+  "revisions": 2,
+  "sha256": "5dd7f3f256500cc4c82467b0c2be0f6823394a720708b7e9726ba250d45be417",
   "slug": "will-the-total-domestic-gross-for-you-can-see-everything-be-between-50m-and-75m-by-november-30"
  },
  "0xedaf659ce687879a501c6861167684f8b65772eb395067f9b5461529e895fd66": {

@@ -85,6 +85,7 @@
   "created_at": "2026-08-24T16:40:35.065671Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Deportivo Moquegua keep the most clean sheets in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "d5c32b7a8d676069b2dd9fc5e7ad8a77e4ce61b124691b6878781e9124298c6d",
@@ -960,6 +961,15 @@
   "sha256": "4b32510cc6e57c0a91c124b4e29a0facba542a6bd8f5a3b50f8d502ea3938722",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-10-house-election-by-35-40"
  },
+ "0x9abdf37fb2107df00f1c7de3359a046535c8d5949686f294ef5b011d1268e944": {
+  "created_at": "2026-10-20T06:00:10.512006Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Kolos Kovalivka O/U 1.5",
+  "revisions": 1,
+  "sha256": "6e25a1902b7af437ecefbcc9e86406f75617ae844a605f7c9cda0d565555ac9c",
+  "slug": "ukr1-kol-pol-2026-11-01-team-total-home-1pt5"
+ },
  "0x9b41e48f00f050276280bd99dd8c896d38fb57a0e49bdfcd61147abf0d2bb244": {
   "created_at": "2026-10-01T23:15:45.447369Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1014,6 +1024,15 @@
   "revisions": 1,
   "sha256": "7d25aee8c5e3e94bc66c75b03fcc1ce1c9c812c6b8a8ac517be98e3b448c9f08",
   "slug": "will-the-bank-of-russia-decrease-the-key-rate-by-50-bps-at-the-february-2027-meeting"
+ },
+ "0xac4f37faec267a85aa721c95bef1cf4ce316b880b032d44619ba48f725d84644": {
+  "created_at": "2026-11-11T01:19:47.493131Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will DeepSeek have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-deepseek-have-the-best-ai-model-on-december-15-2026"
  },
  "0xadf59c3e3c1bf6e5739f26816b404ccbd06420e1ae2badb7907db4d01cdb3744": {
   "created_at": "2026-11-03T17:41:00.445485Z",
@@ -1182,10 +1201,10 @@
  "0xc20fb58a4e3ded47a09da5123799487729861ad55694da4edb3e87a376c38b44": {
   "created_at": "2026-10-30T23:54:22.320292Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Dune: Part Three\" Opening Weekend Box Office be less than 70m?",
-  "revisions": 1,
-  "sha256": "d56180981e4a632023033fc8afd291225f426512055a9dde3f756755e4b20c7a",
+  "revisions": 2,
+  "sha256": "843364d840ea300ea65e4cc147ed0d15375b5e82670bb8b958899a8cb8d16e8f",
   "slug": "will-dune-part-three-opening-weekend-box-office-be-less-than-70m"
  },
  "0xc331430a3798be1393400045817a58baf72637d1f045446f17f567036ab2b744": {
@@ -1513,6 +1532,15 @@
   "sha256": "0805723db46bc551e8563e83ba2ffeef70175f8308228637087e4822bc91bb9c",
   "slug": "el1-wim-ste-2026-10-03-first-to-score-home"
  },
+ "0xf8e6a311dde0da3f759898ee6e622c92f344fa20a55b9f4626991fca92c7c744": {
+  "created_at": "2026-10-26T06:00:12.828338Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Karpaty Lviv (-1.5)",
+  "revisions": 1,
+  "sha256": "83c2a942453c27f92a15ef2277a7680a659efcd7e55a035afbf693d3b3a2ebf6",
+  "slug": "ukr1-met-kar-2026-11-07-spread-away-1pt5"
+ },
  "0xf9fc2c2fbabd64a0f0dffe42eff6615f495819ad1f85196f7f79012d78b83f44": {
   "created_at": "2026-09-08T16:56:13.706139Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1526,6 +1554,7 @@
   "created_at": "2026-08-18T14:27:09.682593Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Wyoming be between 150,000 and 170,000?",
   "revisions": 1,
   "sha256": "3354ff826b756fd645cd1941f33ace75f40e79f85894e04e3c95b1c217dbd968",

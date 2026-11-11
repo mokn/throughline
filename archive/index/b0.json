@@ -1225,6 +1225,15 @@
   "sha256": "955994bb21653eb9fb177880050b2dd9cd7688e0446e450178e91254e18a07c7",
   "slug": "will-republicans-lose-a-seat-in-the-us-senate-for-any-state-trump-won-in-2024"
  },
+ "0xccb45e6e346e428dae573e24d4f1602f04ac68c5ba25a5a7926b990fb298c8b0": {
+  "created_at": "2026-10-20T06:00:07.956973Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: O/U 1.5",
+  "revisions": 1,
+  "sha256": "2abb2ed14a49e26bc91ef32fbacac526b3f227ccef4d15e98d1aa932506650b1",
+  "slug": "ukr1-kol-pol-2026-11-01-total-1pt5"
+ },
  "0xcd4e192aa188831ad7e96458a40aa9d376af3e5c34793ad59d19a68e1e282eb0": {
   "created_at": "2026-10-13T15:51:01.850265Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1429,10 +1438,10 @@
  "0xf3aee82c37b7b8b84194e66bd333502bf66011aae74f55e7ac02d9ff38e54bb0": {
   "created_at": "2026-10-14T23:18:04.734373Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be between 85m and 95m?",
-  "revisions": 1,
-  "sha256": "fb4df60d8e9ec189689268ce66c470e9c32d37c30260e8472b7144069a03aa8d",
+  "revisions": 2,
+  "sha256": "57ab6cee00ffbf3d5021a8bd1a8388bcb13e02785fb7153d94e81c5f78481318",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-opening-weekend-box-office-be-between-85m-and-95m"
  },
  "0xf5a6240857118b0ba2256d853c089e7fc99f3eaa19b18d0191fa431ef1adf2b0": {
@@ -1493,10 +1502,10 @@
  "0xfdbe0ebb1dd49620998b96761a653d1883154c4cd0b90eed91d5da585e8dd9b0": {
   "created_at": "2026-07-23T15:37:20.368297Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Spider-Man: Brand New Day have the 3rd best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "491abb1aeb2f0380a3f848c482f50507d35902f29d1342cbe9b3d33fd459c6ac",
+  "revisions": 2,
+  "sha256": "4f499e5443675a84a39f2ca53298881e98a49079e8a7f560e9734b1b03f4785b",
   "slug": "will-spider-man-brand-new-day-have-the-3rd-best-domestic-opening-weekend-in-2026-20260722232204880"
  }
 }

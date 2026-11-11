@@ -53,6 +53,15 @@
   "sha256": "8a7c7ed6de5a82959030855ff09dc5cffd623cb8dbc306bcdaa6263ab57fc80e",
   "slug": "will-the-weeknd-have-the-second-greatest-number-of-monthly-spotify-listeners-this-month-20261130"
  },
+ "0x0c84e103f50ba06c0a77657ba7e9ff86b313b83aa18543036ac4c27415a113b2": {
+  "created_at": "2026-10-19T09:00:12.792181Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 3 - 1 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-3-1"
+ },
  "0x122b845320067b01dc4f5546d7884bc891c3920c88eeca294ea38b66e8fab7b2": {
   "created_at": "2026-09-04T19:38:00.341143Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -503,6 +512,15 @@
   "revisions": 1,
   "sha256": "547fc1530d01b00561478fa09e93eb7676aa64b241bccf6fd241a45e8af221b0",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ne-02-house-election-by-15-20"
+ },
+ "0x442c7ca3f0334d3c35cb763af137ad777278262b9d446adc9b451e25aaf72fb2": {
+  "created_at": "2026-11-11T00:12:35.28224Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Russia x Ukraine energy ceasefire agreement by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "991ed0c602deb5dcac8e9ca1e6e63950356447a28b4a3494fcce773b23b021f6",
+  "slug": "russia-x-ukraine-energy-ceasefire-agreement-by-december-31-2026"
  },
  "0x4599581bb1c59905c9b811c0f2043dd33b744f180270ee487df4ff2f4b9736b2": {
   "created_at": "2026-11-03T17:43:42.479099Z",
@@ -1279,6 +1297,7 @@
   "created_at": "2026-10-31T14:14:12.773685Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will US gas hit $4.00 (Low) in November?",
   "revisions": 1,
   "sha256": "225859b7f0cbcd2ea6abb1a1631b4479af14cfed5b5b7b4f4ab7b37a5bb0777d",

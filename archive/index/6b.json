@@ -183,6 +183,7 @@
   "created_at": "2025-12-23T17:31:08.259999Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Puffpaw FDV above $100M one day after launch?",
   "revisions": 1,
   "sha256": "542a177060d98f436895981a11c3c5abf722c5427c14e47799de5be82643ac16",
@@ -740,6 +741,15 @@
   "revisions": 1,
   "sha256": "59429fd02aa0dc56416178d13525fbc2776b5a40c8980f8e5d2afb9871926260",
   "slug": "garrett-wilson-120pt5-receptions-2026-27"
+ },
+ "0x7fe22c8cb825a074eac42e2a4d11e48b7604d6ef1a7fc4df2b53c6217cddf26b": {
+  "created_at": "2026-10-20T06:00:09.860352Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "ee3e272afaeffa7971f77e693d52e2b2abda09723ec6788fdfe4c42a004d9cba",
+  "slug": "ukr1-kol-pol-2026-11-01-first-half-total-2pt5"
  },
  "0x80e9eae41c6a70458c5a2f9dbb6fac5ca4d49571e8c567197e2045aae42c096b": {
   "created_at": "2026-10-15T18:01:50.419966Z",

@@ -311,6 +311,7 @@
   "created_at": "2026-08-11T18:49:19.542981Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-01 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "effc1a214676c4b5f64d1e3523470016c5a82e5ac5bf91b1ebe6ce7f3b74616a",
@@ -400,10 +401,10 @@
  "0x43ec89c2e065f512f18e941cdff94158ede6ddc57591cb21e4d252a931fa7d10": {
   "created_at": "2026-10-14T23:18:04.405555Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be between 75m and 85m?",
-  "revisions": 1,
-  "sha256": "fb4df60d8e9ec189689268ce66c470e9c32d37c30260e8472b7144069a03aa8d",
+  "revisions": 2,
+  "sha256": "57ab6cee00ffbf3d5021a8bd1a8388bcb13e02785fb7153d94e81c5f78481318",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-opening-weekend-box-office-be-between-75m-and-85m"
  },
  "0x449bb53a80d03f5a5132184e9d4c0ae6250fb7c7cc4c38adce229fceff720410": {
@@ -705,6 +706,15 @@
   "revisions": 1,
   "sha256": "e536f8398f9b04d1a41d81e8969e89e2dbdc018afffa2fcaab4a5fb9d16c2078",
   "slug": "will-coventry-city-win-the-2026-27-english-premier-league-epl-championship-20260701200428767"
+ },
+ "0x71dde02fba4c92332cc72fe4e7f9c7cc151c1d73421fd91b90495cb355070f10": {
+  "created_at": "2026-10-19T09:00:13.364469Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 3 - 3 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-3-3"
  },
  "0x733850faea737b4f3ab3494c9f2ab5cd4047b9b6b5c690f2a895075a9b186810": {
   "created_at": "2026-09-18T00:02:12.233634Z",
@@ -1163,6 +1173,7 @@
   "created_at": "2026-08-11T18:49:59.591386Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-04 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "e2825361546feedd42b90f5c9ee73756ccc0d8d0f15b355e039d95801d08d38e",
@@ -1425,6 +1436,7 @@
   "created_at": "2026-08-12T00:18:42.599483Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Hartford Athletic win the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "17568a1deefe9d080c06e155ce4265ec9436c6c77d7ad392ea2ff0365b2cedad",

@@ -562,6 +562,7 @@
   "created_at": "2026-10-20T23:04:51.707782Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will crashies play for BBL Esports in 2027?",
   "revisions": 1,
   "sha256": "c242e320a26f0c93a28f1aa21d57a45b3698f6fbcfd2f650fe45ee94dd00c855",
@@ -777,10 +778,10 @@
  "0x96ac3bb9c6b2ebc1b8d4e7be1f64ad2639df0dac7b4394de1a3529cbfb2bf4fa": {
   "created_at": "2026-07-23T15:37:21.306492Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will The Super Mario Galaxy Movie have the 3rd best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "491abb1aeb2f0380a3f848c482f50507d35902f29d1342cbe9b3d33fd459c6ac",
+  "revisions": 2,
+  "sha256": "4f499e5443675a84a39f2ca53298881e98a49079e8a7f560e9734b1b03f4785b",
   "slug": "will-the-super-mario-galaxy-movie-have-the-3rd-best-domestic-opening-weekend-in-2026-20260722232204885"
  },
  "0x97c0314e6d7c3d3126567c47e7749718f6515ffc952e0ffefda26b637b5f8dfa": {

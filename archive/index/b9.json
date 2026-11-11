@@ -180,6 +180,15 @@
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-jordan-binnington-win-the-2026-27-ted-lindsay-award"
  },
+ "0x14c3d57661b1d162a61e2076fea7fa7539a6fe0b63c5340a765d056e5b1293b9": {
+  "created_at": "2026-10-26T06:00:15.119352Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: O/U 4.5",
+  "revisions": 1,
+  "sha256": "0c1b5531fb8bcc9047d160b2cc12a4092f0f1cd519bb4de28c7ef76ff4486b79",
+  "slug": "ukr1-met-kar-2026-11-07-total-4pt5"
+ },
  "0x14cf6280a2c40fef96816f47721044135d460621580e58c152774923f9f424b9": {
   "created_at": "2026-01-28T15:36:53.808499Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -298,6 +307,15 @@
   "sha256": "f0f74609eb8ac99c9e0d777baca7cc12a4da9690866fb4fc94cdd739bc230c81",
   "slug": "will-atlanta-falcons-finish-the-2026-27-nfl-regular-season-with-the-most-interceptions-20260716001411928"
  },
+ "0x2e0305bcddabfa7c5da7d559814d55df8cc3fe7e98852a2ae101daa5ddffb1b9": {
+  "created_at": "2026-10-19T09:00:13.927217Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 5 - 4 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-5-4"
+ },
  "0x30efbe1580dacf2bf87a89bdb1015e3f3398f8bc7e4453210e83bbdbb0f621b9": {
   "created_at": "2025-11-17T18:39:12.396758Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -374,6 +392,7 @@
   "created_at": "2026-10-28T19:37:06.573844Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Israel Election: Arab party disqualified?",
   "revisions": 1,
   "sha256": "db104270a43ed2663ee32c46f0f40c00d7404bb3a4010a15ac67c284eb5aa5f7",
@@ -590,6 +609,7 @@
   "created_at": "2026-10-28T21:52:35.203105Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Gemini Carbon be released between December 14 and December 20, 2026?",
   "revisions": 1,
   "sha256": "51f3d77ca8e4aa09bcf508e9465649d08f8037cbe08841067db4ca2e32e9ec55",
@@ -718,6 +738,7 @@
   "created_at": "2026-08-11T14:18:40.90117Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Democrats win exactly 9 House seats in Florida in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "207b56eb0446a51d25ca4cb213a9eb2e63b80c730578b75f1d33cd3e9113ca12",
@@ -1206,6 +1227,7 @@
   "created_at": "2026-01-28T15:29:40.808735Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party win the FL-07 House seat?",
   "revisions": 1,
   "sha256": "e650a824fa9b4af807614d18e6334af7c455e60dd8ec24abe06f4db864673c75",

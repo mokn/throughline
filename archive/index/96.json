@@ -240,6 +240,7 @@
   "created_at": "2026-08-05T21:02:07.07614Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 Wyoming gubernatorial election?",
   "revisions": 1,
   "sha256": "e8cb04ba2e7e99435ccbd4ea94fcdb9cb206050fbfa8a481446d38bb2e577213",
@@ -440,6 +441,7 @@
   "created_at": "2026-10-28T01:38:10.941606Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Next Alibaba Qwen Max (3.9+) released by December 31, 2026?",
   "revisions": 1,
   "sha256": "705be342304ef8f14b32acb09672e7dacb4735dba7077286c59ca4a192d9e54e",
@@ -910,10 +912,10 @@
  "0xa7874544b2e08b9b0291f22568d4d8499d00afb15d39397ca8201d0e68cf3196": {
   "created_at": "2026-07-23T15:24:20.069994Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Avengers: Doomsday have the 2nd best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "908209e1aeb118d2e0df0363801f0d005598d025da8d479e5dfec3ca6e82a422",
+  "revisions": 2,
+  "sha256": "7655d2812dfcb0f0e9a6a7649e3049f9aab0d5f7bdbb3965843489489cf31137",
   "slug": "will-avengers-doomsday-have-the-2nd-best-domestic-opening-weekend-in-2026-20260722231944211"
  },
  "0xa7fc5ad7139050252c39c2cbd45e159b036b78a811683406816501fb4dc94696": {
@@ -1155,6 +1157,7 @@
   "created_at": "2026-01-28T04:53:28.104457Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party win the CA-07 House seat?",
   "revisions": 1,
   "sha256": "68898b39f69ad087ec167e1d620afe88430ca3835020e17a14b8638be3759cca",
@@ -1443,5 +1446,14 @@
   "revisions": 1,
   "sha256": "3ec623553e1f5773cf191d19badbb3405f29da0ac11a52d7246fe3df8b7fb587",
   "slug": "chinese-cba-2027-champion-shandong-hi-speed-kirin"
+ },
+ "0xffb4d7a161ad1d9c8e510a819c677db39d6498753bb3a8771c62149832d83b96": {
+  "created_at": "2026-10-26T06:00:14.755074Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: O/U 2.5",
+  "revisions": 1,
+  "sha256": "55dd668ecdfe94d25d2b3ad5f2f2db7629d8a7b4ed00e955f9bb42eeeac49530",
+  "slug": "ukr1-met-kar-2026-11-07-total-2pt5"
  }
 }

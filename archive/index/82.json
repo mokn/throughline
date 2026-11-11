@@ -193,6 +193,7 @@
   "created_at": "2026-09-02T21:58:13.277184Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Colorado Buffaloes advance to the 2026 Big 12 Championship Game?",
   "revisions": 1,
   "sha256": "2c83490a840325bd6f83a94a096cf328d58b2fea5d9820164ba58f2bb7e582af",
@@ -699,6 +700,15 @@
   "revisions": 1,
   "sha256": "379b2ee7557065c04dbd4e2806b5190dbd3f94c032206f0e50b9495e5a03bc0f",
   "slug": "vtb-united-league-2027-champion-bc-samara"
+ },
+ "0x5d1fcb682064f19d8ded30a07229f22bf621b6cbf06c0f11d123c859c4534b82": {
+  "created_at": "2026-10-26T06:00:16.389912Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "23daf1a4dc06c5e27916c778bed2654d84ecce5a09b1e283bd715b30ae8bf9e8",
+  "slug": "ukr1-met-kar-2026-11-07-first-half-total-1pt5"
  },
  "0x60c0bbe533d69fcfba3acdbbae01b85c919ef16b659eaa4bcbf9ef552f56b682": {
   "created_at": "2026-05-27T18:03:37.462761Z",
@@ -1389,6 +1399,15 @@
   "revisions": 1,
   "sha256": "ff751e58354066dd4bbdcb1cb0514d55dbe859720f4b34b830d47417b430b514",
   "slug": "will-twente-finish-second-in-uecl-league-phase"
+ },
+ "0xe09263e29c1c7971aadd1a5152167e9f9d72890a07c9f7ee3d2710214f860382": {
+  "created_at": "2026-11-11T00:21:38.639326Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will the Democrats win the Mississippi governor race in 2027?",
+  "revisions": 1,
+  "sha256": "eaa7e83f6aee43eea1bb35ded9be56389ebf4fb73a28dbee321460dab30bd1d7",
+  "slug": "will-the-democrats-win-the-mississippi-governor-race-in-2027"
  },
  "0xe1a717cca1d898e96a2216d4b3c4a4820779896928addfdab74dd861648a6382": {
   "created_at": "2026-06-09T23:43:39.724374Z",

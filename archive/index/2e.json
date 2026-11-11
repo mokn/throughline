@@ -1344,6 +1344,15 @@
   "sha256": "954e5f8a70b3cfa1e39fd098550310670c67a845207cff016c83dc7ad53be60a",
   "slug": "will-jon-martin-win-the-2026-golden-boy-award"
  },
+ "0xcc75abbfe5a08860548d9b19783c945fa9ad5e31c7a9a2f52f2751606446052e": {
+  "created_at": "2026-10-26T06:00:19.727478Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Karpaty Lviv 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "551225538a60784bca3237fe2e62ae72e880c144e99ea3ece74db70d30a488fb",
+  "slug": "ukr1-met-kar-2026-11-07-first-half-team-total-away-1pt5"
+ },
  "0xcccee6ec39880178d72a254694097a24c621f88eaf6b1779054d87b26ef55f2e": {
   "created_at": "2026-09-09T02:41:23.587059Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1553,6 +1562,15 @@
   "sha256": "09168b699800558ade8da669bc66aaac92b0623d5dc2a2684d5e351cac204acc",
   "slug": "will-union-saint-gilloise-finish-9th-24th-in-uel-league-phase"
  },
+ "0xeef54f31b3f2de25d4466642d804320409242c34ff43a897db8df31c745ff22e": {
+  "created_at": "2026-09-30T09:18:22.438493Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Yair Golan be the next Israeli Minister of Justice?",
+  "revisions": 1,
+  "sha256": "677e84ca0a2e4c875c3790ff3c4d5cbba0ffa633a20fb40cccf5ba942f74606a",
+  "slug": "will-yair-golan-be-the-next-israeli-minister-of-justice"
+ },
  "0xf1da2d3bdf2beb548704aff8c3c9813fefd329949c0ba4094a7294a4e3a44f2e": {
   "created_at": "2026-10-10T11:30:11.613761Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1576,6 +1594,7 @@
   "created_at": "2026-08-18T14:27:10.377666Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Wyoming be between 230,000 and 250,000?",
   "revisions": 1,
   "sha256": "3354ff826b756fd645cd1941f33ace75f40e79f85894e04e3c95b1c217dbd968",

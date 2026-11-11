@@ -215,6 +215,15 @@
   "sha256": "52ba84dfb2c136c03b450f9b654d32fd80ae202c038e113ea8b65fbf15c4de3f",
   "slug": "will-harold-fannin-jrpt-be-the-highest-scoring-te-of-the-2026-27-nfl-season-20260806224131150"
  },
+ "0x2e73c939f175384dc0b378d2364960522f7be3a312788fbde42c7715465abf54": {
+  "created_at": "2026-10-19T09:00:10.442345Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will FK Polissia win on 2026-11-01?",
+  "revisions": 1,
+  "sha256": "546981d71831b62ca2760051fb3bbd25478afaad2325efca633feaa9f5945b63",
+  "slug": "ukr1-kol-pol-2026-11-01-pol"
+ },
  "0x30c131f96af6df5f92993c5ee9c1bf66cd3b7221448cabddec54745c7ca97454": {
   "created_at": "2026-10-29T20:53:35.909088Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -821,6 +830,15 @@
   "sha256": "03471f20c5f9d30bf5278905f880e0664c35b925248538f94d01980154f7a3ba",
   "slug": "will-baltimore-ravens-finish-the-2026-27-nfl-regular-season-with-the-most-special-teams-and-defensive-touchdowns-20260716001414588"
  },
+ "0x9bcf2ec391b724173032b77a396b0c581e801ec6e0db73d2ca04fd1b60a82554": {
+  "created_at": "2026-10-25T09:00:13.230001Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 3 - 1 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-3-1"
+ },
  "0x9e4032cc4324e1244ee39a49eb736aa73aa09f7ff55e4880f3d3a94206319d54": {
   "created_at": "2026-08-24T16:38:21.973793Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1042,10 +1060,10 @@
  "0xd292951cdb6e1db86636fff90d08b78f43cd63880d7c9325a72e9ba6fc0b7054": {
   "created_at": "2025-11-12T16:58:34.643118Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will The Hunger Games: Sunrise on the Reaping have the best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "3faadd630cfe8beca5940fe2453fdd8193ca86d9343ef99907e4198bc8b67ddf",
+  "revisions": 2,
+  "sha256": "00dbe608b751d47eea70c217c7155db08c74cce5f15a71d50c681e4abe810836",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-have-the-best-domestic-opening-weekend-in-2026"
  },
  "0xd38f97117caf693a23a0b1ec6af94d172678bc826dde109534ea8019b7aca254": {

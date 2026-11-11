@@ -72,6 +72,15 @@
   "sha256": "48f8e88971fbeb1640192f1e32751f0022357dac918a0ba686f08acdf5dad494",
   "slug": "will-the-republican-party-win-the-mi-09-house-seat"
  },
+ "0x0cb2f04877bd14d0fab826246130be2d47de530b301fb6011f1646f149b053cb": {
+  "created_at": "2026-11-11T01:19:44.017391Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Moonshot have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-moonshot-have-the-best-ai-model-on-december-15-2026"
+ },
  "0x0ec9d07c5db84e54c67aa19e2277fdfe585a68f88f812e63e8aa5872c70ff5cb": {
   "created_at": "2026-09-09T15:47:23.081582Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -935,6 +944,7 @@
   "created_at": "2026-08-04T18:36:49.800887Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 10%-15%?",
   "revisions": 1,
   "sha256": "313263bcd6569123f03e3c07b305180a95ee6a24eb3f0838d7617de171b4645d",
@@ -1447,6 +1457,15 @@
   "revisions": 1,
   "sha256": "32ed12669082c1de0d70a27b5ed4e9800004919a6ff472477b66afe60a58bd5f",
   "slug": "will-a-republican-party-candidate-win-the-2026-wa-04-house-election-by-30-35"
+ },
+ "0xfbfeb6da7d38050690acfca87d764e81d64ff3d8cd18f153633505c33f3b54cb": {
+  "created_at": "2026-10-19T09:00:13.621192Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 4 - 3 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-4-3"
  },
  "0xfd6bc944c42bdcb1e1579a1569b9193b78b56248e1f472d18a0ff18f340a78cb": {
   "created_at": "2026-08-28T20:17:47.350331Z",

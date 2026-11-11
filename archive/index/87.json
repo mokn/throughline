@@ -48,6 +48,7 @@
   "created_at": "2026-09-02T21:58:06.20638Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Virginia Cavaliers advance to the 2026 ACC Championship Game?",
   "revisions": 1,
   "sha256": "e4f5335639de7eac5d65af07ba2b61ba0c1733a198d7ef702d46e726bc0ecf6b",
@@ -478,6 +479,15 @@
   "sha256": "260e7c364e6fbfe598ec739b22e4e9ac226894bfe6f6c1f6d845d4572d5bc968",
   "slug": "tre-tucker-974pt5-receiving-yards-2026-27"
  },
+ "0x5d175639e0bfc2f77fa3da64ba30b26f3402307e08b00cc0ee4d4a55458f7587": {
+  "created_at": "2026-11-10T19:07:49.878466Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 70% or higher?",
+  "revisions": 1,
+  "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
+  "slug": "will-claude-fable-5pt2-debut-with-an-hle-diamond-score-of-70-or-higher"
+ },
  "0x5d6ebd5d3d559adc4883485327a32875001579b39ba61b30207ff3eaa66c0087": {
   "created_at": "2026-10-12T20:53:26.833976Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -568,6 +578,15 @@
   "revisions": 1,
   "sha256": "bb060d9144fa41a16079c8610e9cc006358dcbb89e78fa6a1c80fba1ebde6939",
   "slug": "tom-lee-charged-by-december-31"
+ },
+ "0x6ea105360a2b871eb88595c326e57e3e9d58ebd1a5252541fe8917bcd9ac6787": {
+  "created_at": "2026-11-11T01:19:42.276397Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Anthropic have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-anthropic-have-the-best-ai-model-on-december-15-2026"
  },
  "0x6f422231dc948dee840a9cbc44088ec9bedad0b3e6d7da29c1923ffe5f558487": {
   "created_at": "2026-08-07T20:33:17.078369Z",
@@ -921,6 +940,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-nazem-kadri-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0x9fe11a2b6e659e33493f15e7c3dadc02648f0d4ccdccdd32b6ccdd2551dab687": {
+  "created_at": "2026-11-10T15:49:31.688286Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Hegseth impeached and removed by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "88062e0e4ef52ee656beff88ea3a7fca72f1988571b432b8edc24cbb858138dd",
+  "slug": "hegseth-impeached-and-removed-by-march-31-2027"
  },
  "0xa1076725bb305f1bf665af9651db3cabd796403c2413c1e991abd9e4c1936587": {
   "created_at": "2026-09-30T20:03:54.38505Z",

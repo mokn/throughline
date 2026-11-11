@@ -48,6 +48,7 @@
   "created_at": "2026-08-18T14:27:10.229645Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Wyoming be between 210,000 and 230,000?",
   "revisions": 1,
   "sha256": "3354ff826b756fd645cd1941f33ace75f40e79f85894e04e3c95b1c217dbd968",
@@ -233,6 +234,15 @@
   "revisions": 1,
   "sha256": "db6af1a55eedc7800d166216f97770abd54311fc4c4d2c9f91a5c188fea213f3",
   "slug": "justin-herbert-3349pt5-passing-yards-2026-27"
+ },
+ "0x1e23cc36a83edd8cc476550c0a8c9be4c931f9d3af476ab05942e7ea55d5068a": {
+  "created_at": "2026-10-26T06:00:15.60938Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: O/U 7.5",
+  "revisions": 1,
+  "sha256": "d7217d1b7d90326a23f56be93710dbc0e36c6bf0c1e28a6abad030d9305b5f44",
+  "slug": "ukr1-met-kar-2026-11-07-total-7pt5"
  },
  "0x1ebae32178d931989cc0a22539fc54e4e3c2cbc26aaa5caec4f80727b0c8768a": {
   "created_at": "2026-08-10T23:36:50.610862Z",
@@ -743,6 +753,15 @@
   "revisions": 1,
   "sha256": "858c55e2ff34cdf601e661c0a66b1c03d216582e1745c44d74cd7ac28bcd6865",
   "slug": "will-the-republican-party-win-the-md-03-house-seat"
+ },
+ "0x6b6e38a4dd24d004794b3ce05e47a24e38877e027dc40ea18c5bcad87c54e38a": {
+  "created_at": "2026-10-25T09:00:14.473194Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 5 - 4 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-5-4"
  },
  "0x6d49e08ed067ac21c8782c86291220d6e2716013158963ae9ad43a143013798a": {
   "created_at": "2026-08-10T23:56:52.627291Z",
@@ -1433,6 +1452,15 @@
   "revisions": 1,
   "sha256": "8ccb9a1938bdbb449261e3948f7042d96f8c4f16632dfde85fe1d7cb571d9ac4",
   "slug": "spl-riy-hil-2026-10-16-corners-total-9pt5"
+ },
+ "0xd2ef72f89bbd053f4c80ce4a81c3eb45ec2d9250abacba8cef73b303aa3bb68a": {
+  "created_at": "2026-11-11T00:51:34.050773Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut with an HLE-Diamond score of 35% or higher?",
+  "revisions": 1,
+  "sha256": "5c75c2058420922fafb244b46e7b4df31e662bd02d943b39ea4c6b7e27e81adc",
+  "slug": "will-gemini-hydrogen-debut-with-an-hle-diamond-score-of-35-or-higher"
  },
  "0xd57956067cc7f8202dbe656f433441e81fc02d68e0722bb087ae39f0388e858a": {
   "created_at": "2026-11-10T02:41:15.123439Z",

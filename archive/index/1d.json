@@ -546,6 +546,15 @@
   "sha256": "df4d7fc661b8fd70e3ad01c7c2f0993e40a5df7c3944a8634cf53e6a1195761d",
   "slug": "el1-bro-wyc-2026-10-03-corners-odd-even"
  },
+ "0x4dd8f57153fecd150931049fb3a8608942f9e991f7c825469c9017df9b70561d": {
+  "created_at": "2026-10-26T06:00:14.438794Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: O/U 0.5",
+  "revisions": 1,
+  "sha256": "c13b29b9b6e4ef5d8346afa0a45aa3c967864f76aa78edc64ecd69abdc94d4e1",
+  "slug": "ukr1-met-kar-2026-11-07-total-0pt5"
+ },
  "0x50965926233f959bd3b6f0a83cd798630d994fc4163c6501fee1a52a8b34101d": {
   "created_at": "2026-05-15T21:40:21.058728Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -613,6 +622,7 @@
   "created_at": "2026-08-26T21:46:52.082748Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Estudiantes (LP) keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -698,6 +708,15 @@
   "revisions": 1,
   "sha256": "7a34bbe7728de91b348591c34b4a6404d821517c1b83e362ba76fec70cc3a431",
   "slug": "f1-las-vegas-grand-prix-winner-albon-2026-11-21"
+ },
+ "0x68a4686dc39d8441f98ca45aa88bedaf7c39cf38c17b7b1640d615d8a2535e1d": {
+  "created_at": "2026-10-25T09:00:10.738536Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will FK Kharkiv vs. FK Karpaty Lviv end in a draw?",
+  "revisions": 1,
+  "sha256": "797629855e22223ec26ce46ef0815e4a2a7dffff625fab2bd97b865882215223",
+  "slug": "ukr1-met-kar-2026-11-07-draw"
  },
  "0x68cb2ebbe9df9ace26db76f61905a4a41dc65e44fc6b8640793505dda37f191d": {
   "created_at": "2026-09-09T02:41:24.853151Z",

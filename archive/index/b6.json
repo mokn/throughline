@@ -26,6 +26,15 @@
   "sha256": "09e74ea2d7812a3a670abc2948d65aca4138dfffdbe856c589102118f1aea80f",
   "slug": "el1-don-oxf-2026-09-26-spread-home-2pt5"
  },
+ "0x0a7f971f6d716b9db995637d9330ef90a6fb52a668533c18c0e6f7e53ae624b6": {
+  "created_at": "2026-10-20T06:00:06.715398Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Kolos Kovalivka (-3.5)",
+  "revisions": 1,
+  "sha256": "549e9eee9cd40e2f140d0b959cafaf030eccac3f38e3aa57d19752727c32dc10",
+  "slug": "ukr1-kol-pol-2026-11-01-spread-home-3pt5"
+ },
  "0x0b42b501e716e34e75eaa56507b780b5c2194a24d84625852e0c3365ce9b9fb6": {
   "created_at": "2026-09-02T21:55:44.400417Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -798,6 +807,15 @@
   "sha256": "dc057930c93edea9f8fb3d5a6795dd3588964cffdda91bd94430f7aac935c025",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-21-house-election-by-20-25"
  },
+ "0x8869b9d893aa6e40b6b78dbc6e88b5d7d0794d1e55445c034100b870ec2087b6": {
+  "created_at": "2026-11-11T00:51:24.397346Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut in the top 10 of the Text Arena leaderboard by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "da55b0032c9b8da270ff2d47214b7a391418f22bc93481b6c064f4122f8f9343",
+  "slug": "will-gemini-hydrogen-debut-in-the-top-10-of-the-text-arena-leaderboard-by-june-30-2027"
+ },
  "0x88aba88e96d4ecee310c1c1cf3a4ec41ef919f27fe16acabec09b420a17feab6": {
   "created_at": "2026-08-11T15:07:32.728146Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1091,6 +1109,7 @@
   "created_at": "2026-07-06T22:02:48.409237Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Doris Matsui win the CA-07 House seat?",
   "revisions": 1,
   "sha256": "a88a9f2f2542409457224325c1d2c2ebb7dd5b206b6c201522691d931f22ad92",
@@ -1160,6 +1179,15 @@
   "revisions": 1,
   "sha256": "07e67ab253eb85b0e06078d35baf06b7bc3420870ca0721e39e066ec0da42f83",
   "slug": "will-yaroslav-askarov-record-4-shutouts"
+ },
+ "0xbcc89b1f454eb200f834447cd1932b9bac38a02a1daaae8676be990a92e4fdb6": {
+  "created_at": "2026-10-19T09:00:12.154357Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 1 - 0 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-1-0"
  },
  "0xbe1218658c788bb1b5841c18e4b285ba4b826d78da510dfadad347f04669ccb6": {
   "created_at": "2026-10-28T22:31:54.401662Z",

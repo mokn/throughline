@@ -35,6 +35,15 @@
   "sha256": "04540373b1dada9056782db4c15c714de865a7885e816ef81f4618633771ab44",
   "slug": "will-luiz-inacio-lula-da-silva-be-the-next-leader-out-before-2027-20260630194627375"
  },
+ "0x0b502afbbe498403cb4c22cea22c9a1c270fba88c6d8a4815032f3218135d4dc": {
+  "created_at": "2026-10-20T06:00:12.275077Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Kolos Kovalivka 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "b2df1d19f1f66d65e04b599c8e61f295932431f4a1fe3e56b5ea9f537dcc1b45",
+  "slug": "ukr1-kol-pol-2026-11-01-first-half-team-total-home-0pt5"
+ },
  "0x0c4f6d42aa4ad1611467705365bf8a120be6b40d043f26fba2be64a2bde832dc": {
   "created_at": "2026-08-06T19:25:05.60292Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -406,6 +415,15 @@
   "revisions": 1,
   "sha256": "4312620f629817cd35c8a2fadaf18d8e0be7e86b19d86dba3901db43499dcbc9",
   "slug": "will-the-democratic-party-win-the-ny-08-house-seat"
+ },
+ "0x5152eb763e8d473af56c57de5c72b7869a147af0421e079d5554ba3dddd448dc": {
+  "created_at": "2026-10-26T06:00:13.919574Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Karpaty Lviv (-4.5)",
+  "revisions": 1,
+  "sha256": "06efa1fff0af6e06c247d1d37d0851623ea4f83f4c00b8d86c3957ae120383e9",
+  "slug": "ukr1-met-kar-2026-11-07-spread-away-4pt5"
  },
  "0x51af716c54e1d1f9cc4c5516d08b60dab18fe6d2fd0aada09d802bafe9cfa2dc": {
   "created_at": "2026-07-02T20:41:30.311276Z",
@@ -1126,6 +1144,7 @@
   "created_at": "2026-09-09T15:47:06.778257Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Suriname win the 2026-27 CONCACAF Nations League?",
   "revisions": 1,
   "sha256": "778499c1c5d259b66b6ae3e9fefa6c559aa9ce3fc3fa8933b31df14ee61e7e74",

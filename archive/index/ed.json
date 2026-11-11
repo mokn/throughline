@@ -369,6 +369,15 @@
   "sha256": "bba1a4c2163514bd9b7dda94119ee56f2fbd9d42c75cce8d8a2189025e1eb1fd",
   "slug": "will-meta-reach-660-in-november-2026"
  },
+ "0x406dd2c39aaa733085402269c0bfdf207bc944df3cb5ca50273ffcbb4e24afed": {
+  "created_at": "2026-10-19T09:00:11.337258Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Polissia leading at halftime?",
+  "revisions": 1,
+  "sha256": "cd226ed5609d2bf6f98e8d4b3437335fd8b7512f17dd0c97e32db0f8b6d3c84e",
+  "slug": "ukr1-kol-pol-2026-11-01-halftime-result-away"
+ },
  "0x4114456cd498aba2e45a6a1c14cc7f048c74556adaa6ad06c5ef4428f751f9ed": {
   "created_at": "2026-03-26T16:07:57.488184Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1303,6 +1312,7 @@
   "created_at": "2026-08-18T14:06:43.261156Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Delaware be between 425,000 and 450,000?",
   "revisions": 1,
   "sha256": "5cda66ad81637be3e0ca8836c7609a36a7e6069ae52a304e1404debbaa9dd28a",
@@ -1498,6 +1508,15 @@
   "revisions": 1,
   "sha256": "5aca71f294755237b293068f75671907cfa8182af82ac5e0af5bf96b3a347d0e",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-08-house-election-by-15-20"
+ },
+ "0xef6aefe78a211b9d42a2f97869427a077fd81ad4391dafa1b1ec6a2ce99c3bed": {
+  "created_at": "2026-11-10T22:03:29.17575Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Congress passes Iran War Powers Resolution by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "6abc2c1b6aa9870a18d9a7c4d658dbf681f8caf452bd5b63157a1e00d48416b8",
+  "slug": "congress-passes-iran-war-powers-resolution-by-march-31-2027"
  },
  "0xefd4689bb365d447d56bdbeaf4adcf52e0ad5d05039eff24dfb116e5674619ed": {
   "created_at": "2026-09-02T19:31:21.961426Z",

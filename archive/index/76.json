@@ -492,6 +492,7 @@
   "created_at": "2026-08-11T14:18:40.765065Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Democrats win exactly 8 House seats in Florida in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "207b56eb0446a51d25ca4cb213a9eb2e63b80c730578b75f1d33cd3e9113ca12",
@@ -582,6 +583,7 @@
   "created_at": "2026-08-04T17:55:59.96286Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 Delaware Senate election by 45% or more?",
   "revisions": 1,
   "sha256": "2864b855d100623988f9b87711e3cd8044a97a194e07f6ad56e677364d213ca5",
@@ -757,6 +759,15 @@
   "revisions": 1,
   "sha256": "56f97860b2dbbbc0f9288ab5a2e8c4308f81d390826ca333bc6d9510f0957e52",
   "slug": "ukr1-kry-met-2026-09-12-corners-team-away-5pt5"
+ },
+ "0x7787183a3193a6a5d1528ce70d19d5e19e6f03e949bd9b6dad55970251567476": {
+  "created_at": "2026-11-11T01:19:51.474711Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Meituan have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-meituan-have-the-best-ai-model-on-december-15-2026"
  },
  "0x77c20b45bcf71674430285f387aab661c0067cdb1ff6bc1c45d0f3f6f7967776": {
   "created_at": "2026-10-13T15:50:55.933437Z",
@@ -1681,6 +1692,7 @@
   "created_at": "2026-08-07T19:14:32.729193Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 DE-AL House election by 25%-30%?",
   "revisions": 1,
   "sha256": "5dcf590b6de2f25791fbe001fe5615a73df37686b28671cd02e8cd80fff5ac90",

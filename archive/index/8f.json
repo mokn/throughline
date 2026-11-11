@@ -62,6 +62,15 @@
   "sha256": "1f09cb5cbaad6d567a08fcbed5afe52329852f0ce4329c73c850873d64d43e37",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mi-13-house-election-by-65-or-more"
  },
+ "0x0e19b411b4dc771f3e23804fa29d396649d19a032ca9599ada4d7505fe07028f": {
+  "created_at": "2026-10-26T06:00:18.597719Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Karpaty Lviv O/U 4.5",
+  "revisions": 1,
+  "sha256": "6cebafbf4cf0272e1d7c6b0d94f26bbf4f70971dffe28a66338bab033befe839",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-away-4pt5"
+ },
  "0x0fa5a792770735b40d6807d618b25b758d737b33ece999602c19e9fc25955e8f": {
   "created_at": "2026-04-08T16:17:59.00603Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -316,6 +325,15 @@
   "sha256": "4da6d08fb5fcbb5dc20b7dd273601b26fbe7cf205465018356db2394d2829f1e",
   "slug": "will-atletico-de-madrid-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0x2fa132a37c107078994db38d074b4c47adde51338bdb416c72a614f4d3fc6a8f": {
+  "created_at": "2026-11-10T16:44:03.143078Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Jensen Huang announced resignation or removal by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "3948b0d88ca4d2f68183e1c185e4a4fd8974bfad98b83b55f286ee9fe1c84c57",
+  "slug": "jensen-huang-announced-resignation-or-removal-by-december-31-2027"
+ },
  "0x304d0fa4874853ab011215531cdd12d05f05a4e4ffe7fc3da40076b742dc358f": {
   "created_at": "2026-02-12T20:34:23.597355Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -351,6 +369,15 @@
   "revisions": 1,
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-jesper-bratt-win-the-2026-27-ted-lindsay-award"
+ },
+ "0x34ba89a79a2a32f9bea54550ebff82ef01e045bcd66676b3a01c8046d777a68f": {
+  "created_at": "2026-10-20T06:00:06.558686Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Polissia (-2.5)",
+  "revisions": 1,
+  "sha256": "edf69272071f24c0584f0ead61018047fa04cb7738ce677d4b2d3e25495b4b9c",
+  "slug": "ukr1-kol-pol-2026-11-01-spread-away-2pt5"
  },
  "0x39785a387434777f4384c06b9e8bedf9abaa174db5d05b8771b2b58a8ff20c8f": {
   "created_at": "2026-08-06T19:25:06.602698Z",

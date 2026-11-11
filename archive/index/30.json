@@ -181,6 +181,15 @@
   "sha256": "a045889b124fc1fc8b1870a06355ca351e356d751297ca1e46c2edd9762fde25",
   "slug": "2027-soccer-2-bundesliga-runner-up-1-fc-heidenheim"
  },
+ "0x1a411a35884d2393aefe673b55f74db6a56395a99befde5f8884d1ec29bd5b30": {
+  "created_at": "2026-10-20T06:00:06.40433Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Kolos Kovalivka (-2.5)",
+  "revisions": 1,
+  "sha256": "a5e7f55554c2ef1210955a31b553de4a094872a539c3543e73f1343db262d456",
+  "slug": "ukr1-kol-pol-2026-11-01-spread-home-2pt5"
+ },
  "0x1bc98bbcdc7bdc0f019c5c8a2ea9121c49ba4f2a7a8d1307b72fc6a3c8195830": {
   "created_at": "2026-09-25T23:28:16.530761Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -239,6 +248,7 @@
   "created_at": "2026-08-26T21:46:53.207674Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Newell's Old Boys keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -736,6 +746,7 @@
   "created_at": "2026-08-07T19:14:33.182295Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 DE-AL House election by 15%-20%?",
   "revisions": 1,
   "sha256": "5dcf590b6de2f25791fbe001fe5615a73df37686b28671cd02e8cd80fff5ac90",
@@ -758,6 +769,15 @@
   "revisions": 1,
   "sha256": "56b366a677a5136a3ac66ae196e133b1655782626873182d7f29f8c4217720fe",
   "slug": "spl-riy-hil-2026-10-16-second-half-total-3pt5"
+ },
+ "0x60bb452e1ee5e746d09618c07e0299fbf23b6c723735a5e3ee7b11c73de99130": {
+  "created_at": "2026-10-19T09:00:12.476818Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 1 - 2 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-1-2"
  },
  "0x61f16828019ac0f4f715e2927fbb24085c02046b3940f08f378481f84f214130": {
   "created_at": "2026-10-13T20:02:46.360766Z",
@@ -866,6 +886,15 @@
   "revisions": 1,
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-donovan-mitchell"
+ },
+ "0x7184dad9447b7003a01119677fb82630e53fcaac5e422606ee36521854411c30": {
+  "created_at": "2026-10-19T09:00:12.896428Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 0 - 5 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-0-5"
  },
  "0x7241c4151e860bf86b8a540d66f10f21cffa4f9b600a98c65741f41850da0c30": {
   "created_at": "2026-08-12T17:30:57.165359Z",
@@ -1754,6 +1783,15 @@
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
   "slug": "will-gareth-southgate-be-the-next-permanent-manager-of-manchester-united"
+ },
+ "0xfb1aade3312e967b58ce528b05ac8833996a74bde7df63bdd7dc909765f6af30": {
+  "created_at": "2026-11-11T01:19:44.627652Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will OpenAI have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-openai-have-the-best-ai-model-on-december-15-2026"
  },
  "0xfe44f7b38cb15a1294b086adcc28c790990a2d726028544f39d2c6cce6adfc30": {
   "created_at": "2026-09-04T19:52:15.253747Z",

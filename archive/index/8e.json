@@ -58,6 +58,7 @@
   "created_at": "2026-08-04T17:55:58.413299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 Delaware Senate election by 25%-30%?",
   "revisions": 1,
   "sha256": "2864b855d100623988f9b87711e3cd8044a97a194e07f6ad56e677364d213ca5",
@@ -71,6 +72,15 @@
   "revisions": 1,
   "sha256": "ea4a0f0a8528b2e6b537f6195662305aa0ed2e83e0aff7f4d909b3bbdc98afb8",
   "slug": "will-hyperliquid-dip-to-70-by-december-31-2026"
+ },
+ "0x1ef9a0c3326a2712ee1ddad93aed902988981e5dc804e03bc84198738b97478e": {
+  "created_at": "2026-10-20T06:00:07.804809Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: O/U 0.5",
+  "revisions": 1,
+  "sha256": "ca92cde71a75a4425097f9beb8be93e1449859865ba2bcc4e7965f272dd81d85",
+  "slug": "ukr1-kol-pol-2026-11-01-total-0pt5"
  },
  "0x1f820e22ef4ad3a987265ffdedb807210dc5a131586d1885c648688cdb191d8e": {
   "created_at": "2026-09-09T02:44:15.324894Z",
@@ -384,6 +394,7 @@
   "created_at": "2026-08-11T18:50:16.986813Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-07 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "61ae0921491fcd9a0ae2d5dcc2782cec87ebda67b350bc7228f8195a3a0ce18d",

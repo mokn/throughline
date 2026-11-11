@@ -21,6 +21,7 @@
   "created_at": "2026-10-28T22:19:46.969772Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Gemini Carbon be released on November 28, 2026?",
   "revisions": 1,
   "sha256": "4b8788ad6c4a691244956d6fe964cc0e3f516da6adee939b3eac6a5f7a6b8a0a",
@@ -110,10 +111,10 @@
  "0x16447642a72ff99e654308d1bc9674c0ab779f2acf19817a3d0d1072b0532cd2": {
   "created_at": "2026-07-23T15:24:19.946321Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will The Hunger Games: Sunrise on the Reaping have the 2nd best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "908209e1aeb118d2e0df0363801f0d005598d025da8d479e5dfec3ca6e82a422",
+  "revisions": 2,
+  "sha256": "7655d2812dfcb0f0e9a6a7649e3049f9aab0d5f7bdbb3965843489489cf31137",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-have-the-2nd-best-domestic-opening-weekend-in-2026-20260722231944210"
  },
  "0x169322128b39f7f659454159e0cf9277b30b815b9bb6211a1b705187782478d2": {
@@ -944,6 +945,7 @@
   "created_at": "2026-08-11T18:49:18.337877Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-01 House election by 18% or more?",
   "revisions": 1,
   "sha256": "effc1a214676c4b5f64d1e3523470016c5a82e5ac5bf91b1ebe6ce7f3b74616a",
@@ -1229,6 +1231,15 @@
   "revisions": 1,
   "sha256": "78873945d143a4e35fda91eec98885b7d26f498bef414877bedb53f7318fe1c2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-iowa-gubernatorial-election-by-12-or-more"
+ },
+ "0xc87079aa56ebbe61ed357397b2b59f494c9d9b707ae07cc9d9213fa4da61e8d2": {
+  "created_at": "2026-10-25T09:00:13.967643Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 5 - 1 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-5-1"
  },
  "0xc882daae05f57fd1e6143e309b784ffe8a5f747ab5b25d154182d6d9fab3dbd2": {
   "created_at": "2026-08-24T16:33:35.644329Z",

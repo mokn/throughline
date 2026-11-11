@@ -173,10 +173,10 @@
  "0x14d327328063504ab74b2ab11fe68ad305525fafc70effcd5ba5c5c688971988": {
   "created_at": "2025-11-12T16:58:35.123883Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Avengers: Doomsday have the best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "3faadd630cfe8beca5940fe2453fdd8193ca86d9343ef99907e4198bc8b67ddf",
+  "revisions": 2,
+  "sha256": "00dbe608b751d47eea70c217c7155db08c74cce5f15a71d50c681e4abe810836",
   "slug": "will-avengers-doomsday-have-the-best-domestic-opening-weekend-in-2026"
  },
  "0x19e2d32572aae93e6a39c688b74d1e7f9d115068933553c6dd05dde7d2295988": {
@@ -837,6 +837,15 @@
   "sha256": "9ced7df17f9b24622c0078993e7e4d865c23066cab6c6302d387aacad4df0bde",
   "slug": "will-the-democrats-win-the-oklahoma-senate-race-in-2026"
  },
+ "0x839d6cf9498ccce7ae7da29e31e7f694e62a060c7914d516ae7de0e6b4405e88": {
+  "created_at": "2026-10-19T09:00:13.821543Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 5 - 3 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-5-3"
+ },
  "0x86646cf754b06b8c287924eebd0af205e928c68c0d0fe1b86182a5636a88e988": {
   "created_at": "2026-10-16T18:54:38.648019Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1090,6 +1099,15 @@
   "sha256": "0204dcfea602ed642e866265327789cd564066f36616ab1c80e62a69022d41ad",
   "slug": "will-st-johnstone-keep-the-most-clean-sheets-in-scottish-premiership-2026-27"
  },
+ "0xb4f3216b14caa33a7b93d24bd6e31ec3fd4dafa0df2b652c56be883bca1c5e88": {
+  "created_at": "2026-10-25T09:00:12.405603Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 0 - 0 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-0-0"
+ },
  "0xb60a268c45fe481c2f838e5e5933247a4b582d652fa5778dbdf3f35b75e78388": {
   "created_at": "2026-11-03T17:39:26.487408Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1179,6 +1197,15 @@
   "revisions": 1,
   "sha256": "c72ebeefb283c3495c08320c1c6bb9f788a5be78a487444940c91d6e5e5cf138",
   "slug": "davante-adams-13pt5-receiving-touchdowns-2026-27"
+ },
+ "0xc0f869be03d5df9cd98ec440dfefcce0aeec2a6fd2659230dcbbf86abcaca188": {
+  "created_at": "2026-10-19T09:00:13.414162Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 4 - 2 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-4-2"
  },
  "0xc1c536f1d71e1a8d17e6595f06389761780e5f9ac073cc29cdfe4be1e5662288": {
   "created_at": "2026-01-28T15:29:16.18654Z",

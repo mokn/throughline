@@ -563,10 +563,10 @@
  "0x4ffbbc7b5ec3a043fbd4a52d4f2ad0a30b29b54da387402c79778aca0423e9e1": {
   "created_at": "2026-10-30T23:55:31.267471Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Avengers: Doomsday\" Opening Weekend Box Office be at least 400m?",
-  "revisions": 1,
-  "sha256": "b3ce6dc14b07ec809a85d2a38b29cdab375d4d1782def0dfc0907b9274d37f90",
+  "revisions": 2,
+  "sha256": "f981aff0c0741559f57eb548f18e6eb27f360662ced9f35afb4ee9325f81b67f",
   "slug": "will-avengers-doomsday-opening-weekend-box-office-be-at-least-400m"
  },
  "0x506b1d63f40c2eb0fd346e67663141e951b95185c07f4e1d04ee6a3dec1af3e1": {
@@ -713,6 +713,7 @@
   "created_at": "2026-08-11T18:50:12.1678Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-05 House election by 35% or more?",
   "revisions": 1,
   "sha256": "3ee36825ef4a19356c1edddb146ef90823787c1b701fbe44f1df69455135840e",

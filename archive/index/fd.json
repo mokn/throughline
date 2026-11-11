@@ -543,10 +543,10 @@
  "0x50d4c559fd4a04a20c2945fd7d9d7b560b89077c37cc479213c6d7c293c839fd": {
   "created_at": "2026-10-30T23:55:30.201977Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Avengers: Doomsday\" Opening Weekend Box Office be between 340m and 360m?",
-  "revisions": 1,
-  "sha256": "b3ce6dc14b07ec809a85d2a38b29cdab375d4d1782def0dfc0907b9274d37f90",
+  "revisions": 2,
+  "sha256": "f981aff0c0741559f57eb548f18e6eb27f360662ced9f35afb4ee9325f81b67f",
   "slug": "will-avengers-doomsday-opening-weekend-box-office-be-between-340m-and-360m"
  },
  "0x51489c274f870fde9eb028eb24a289e595d720e03fb4194e5b9aa95d79f73cfd": {
@@ -810,6 +810,15 @@
   "sha256": "1ac26b5b09c5c04601971b411e54b34263f9d5c915b3894bc903f891b1e242da",
   "slug": "will-torino-finish-in-the-top-4-of-the-2026-27-serie-a-season"
  },
+ "0x74171df40eff77cb33dba68141490b167b4f83f61f988b830b773959d5961cfd": {
+  "created_at": "2026-10-19T09:00:13.66926Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 5 - 2 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-5-2"
+ },
  "0x74850ed6c26a3ca1949b24f67d2c9be9e92db50f92b3eabe790fcf16ab27aefd": {
   "created_at": "2026-08-21T17:22:11.481508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -923,6 +932,7 @@
   "created_at": "2026-10-20T23:04:52.584915Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will crashies play for FUT Esports in 2027?",
   "revisions": 1,
   "sha256": "c242e320a26f0c93a28f1aa21d57a45b3698f6fbcfd2f650fe45ee94dd00c855",
@@ -932,6 +942,7 @@
   "created_at": "2026-08-11T18:50:11.214249Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-03 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "4dc36b76383632c21571dfb1ef09044f9ef6b2fd791fde0327ebb0e14518b7db",

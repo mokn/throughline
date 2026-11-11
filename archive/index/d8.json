@@ -62,6 +62,15 @@
   "sha256": "840cf2dfa7b16b1c32843d7fba5084c8d09f2bf9b92911c9638267edec80df5c",
   "slug": "will-arsenal-finish-in-the-top-10-of-the-2026-27-english-premier-league-season"
  },
+ "0x0f1e7f6469f9dd8a36b860d545177f94b77c0c46d85b702e4b5d5de797bf5ad8": {
+  "created_at": "2026-10-20T06:00:07.495268Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Kolos Kovalivka (-5.5)",
+  "revisions": 1,
+  "sha256": "e30fbadb15e218d2e27a51bfe7c84ffa791eccc75faad68397296d2bd1b282af",
+  "slug": "ukr1-kol-pol-2026-11-01-spread-home-5pt5"
+ },
  "0x0f9a57b94096f7f7d587388e819917a0e105aa99ed99646dcd7568d7d26736d8": {
   "created_at": "2026-08-06T08:16:41.364005Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -160,6 +169,15 @@
   "revisions": 1,
   "sha256": "d1e36ea1732f901147a38121d8454274bd5d60354c7d5a61ef5cacda2df67ddc",
   "slug": "will-cashcat-dip-to-0pt07-by-december-31-2026"
+ },
+ "0x252f94da566a0d4ad1e706db68f2cd83a6ba05ca0d26fc290dba1f1f1bdea5d8": {
+  "created_at": "2026-10-26T06:00:12.649869Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Kharkiv (-1.5)",
+  "revisions": 1,
+  "sha256": "61754813e1a3b665819f165fe7ee6d662a039f748d4b0a8bb453fc142e1fa041",
+  "slug": "ukr1-met-kar-2026-11-07-spread-home-1pt5"
  },
  "0x27dcf3218163c07c9509240174f145ec03631f5598ad8d216fa369878b94fbd8": {
   "created_at": "2026-06-01T18:35:06.535036Z",
@@ -426,6 +444,7 @@
   "created_at": "2026-08-26T21:46:52.418982Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Independiente Rivadavia keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -511,6 +530,15 @@
   "revisions": 1,
   "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
   "slug": "will-jean-lassalle-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
+ "0x61a334e9fb2167e020b4eff786ccfb3622bcb500b0ddd5a705d404f90b16fbd8": {
+  "created_at": "2026-11-11T01:19:47.044349Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will SpaceXAI have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-spacexai-have-the-best-ai-model-on-december-15-2026"
  },
  "0x61d3c37e7a84484964cb438c7c98ec4ba9fad4718dbee45e7a6189cbc1153ad8": {
   "created_at": "2026-08-28T20:17:09.666305Z",
@@ -1010,6 +1038,7 @@
   "created_at": "2026-08-11T19:03:13.704365Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 WY-AL House election by 40%-45%?",
   "revisions": 1,
   "sha256": "6ed73371451eb368dbd1edb7d0b2d8f65ed4034667bd22fa7d78cb6ce26e270d",
@@ -1287,6 +1316,15 @@
   "revisions": 1,
   "sha256": "bd0e5fa1e6057c5eda9967dbe45495fe7c633e9d5a20600d36243801d18e89dc",
   "slug": "will-exactly-5-typhoons-make-landfall-in-china-during-2026-20260805183925811"
+ },
+ "0xd938741c6b6a64a2f91d744fcf9f9f985ce5d0146272b86438f0802a85d428d8": {
+  "created_at": "2026-10-26T06:00:16.859407Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "6b9b50581c1235524c7f6b9ebe851ce1678031b4f7933d8a0d6b7eabdf1b3ee3",
+  "slug": "ukr1-met-kar-2026-11-07-first-half-total-4pt5"
  },
  "0xdb949c29645f4964b6ff22c0f37a6e3c400bb7ec1124bb44b3be8f28d25608d8": {
   "created_at": "2026-03-09T18:47:51.509033Z",

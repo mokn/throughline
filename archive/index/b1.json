@@ -58,6 +58,7 @@
   "created_at": "2026-08-05T20:56:56.802049Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 South Carolina gubernatorial election by 20%-25%?",
   "revisions": 1,
   "sha256": "b4d74d2a9a8401c31882e530ba1acafbeb763ecd97f1f450a524442d126bb516",
@@ -700,6 +701,7 @@
   "created_at": "2026-08-11T19:03:14.769334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 WY-AL House election by 20%-25%?",
   "revisions": 1,
   "sha256": "6ed73371451eb368dbd1edb7d0b2d8f65ed4034667bd22fa7d78cb6ce26e270d",
@@ -1262,6 +1264,7 @@
   "created_at": "2026-10-20T23:04:54.621032Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will crashies play for Karmine Corp in 2027?",
   "revisions": 1,
   "sha256": "c242e320a26f0c93a28f1aa21d57a45b3698f6fbcfd2f650fe45ee94dd00c855",
@@ -1447,6 +1450,15 @@
   "revisions": 1,
   "sha256": "e6762fa983ac4f7c6d2984e078d1965433dc8517cf93283053050c5b42b855f1",
   "slug": "will-mike-pence-be-the-2028-republican-vice-presidential-nominee"
+ },
+ "0xef16b2a6373c4454fe6f1e017719dc70ed907e030414588f7e9523fefff515b1": {
+  "created_at": "2026-11-11T01:19:26.697393Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will the next Gemini model family be named Gemini Neon?",
+  "revisions": 1,
+  "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-neon"
  },
  "0xf1d25eb09aa99d0b57f68c39cb8a26b8f822a2e2cadfa335d5f11926c5c1bab1": {
   "created_at": "2026-07-08T17:47:48.936982Z",

@@ -83,10 +83,10 @@
  "0x0c67af31f2b335b7d347d3f64930464635586e5e87292fc22ce17b176a763dcd": {
   "created_at": "2026-10-14T23:18:03.565328Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be less than 65m?",
-  "revisions": 1,
-  "sha256": "fb4df60d8e9ec189689268ce66c470e9c32d37c30260e8472b7144069a03aa8d",
+  "revisions": 2,
+  "sha256": "57ab6cee00ffbf3d5021a8bd1a8388bcb13e02785fb7153d94e81c5f78481318",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-opening-weekend-box-office-be-less-than-65m"
  },
  "0x1026ab5a7d0fd425a6c0bef1958224a2d88f1f46d10a27cbd1fd8c2e7c5717cd": {
@@ -269,6 +269,15 @@
   "revisions": 1,
   "sha256": "c75bb110bc84023caa3078f029f8dc7c6daae984e45af14f6f5a1a0702b0912c",
   "slug": "will-raul-florucz-score-the-most-goals-in-the-2026-27-uefa-europa-league"
+ },
+ "0x3183f67b958ec1023c9e778af6958694b3b3ff240988e8d5dc41474e102b82cd": {
+  "created_at": "2026-10-19T09:00:11.201606Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka leading at halftime?",
+  "revisions": 1,
+  "sha256": "32ac654ef91b9261982222fe4b2b2e5c6562424cb8e76053f5c27badbf0ee098",
+  "slug": "ukr1-kol-pol-2026-11-01-halftime-result-home"
  },
  "0x31845ea44e536eaa59de8beedec6bc821394045b6127a2aa68f6ac145204d2cd": {
   "created_at": "2026-08-05T10:54:39.864595Z",

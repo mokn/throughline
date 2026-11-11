@@ -462,6 +462,15 @@
   "sha256": "ddefc347b727d94656935e362c7a2edf59da6e856aab067a4cd56c4835b3a175",
   "slug": "cma-2026-sgoty-choosin-texas"
  },
+ "0x45f6bdf95b5ba3d9f69fd56c0c90c364f917de7e3ef58232e3e10c0d2ba1647f": {
+  "created_at": "2026-11-11T00:51:35.11549Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut with an HLE-Diamond score of 40% or higher?",
+  "revisions": 1,
+  "sha256": "5c75c2058420922fafb244b46e7b4df31e662bd02d943b39ea4c6b7e27e81adc",
+  "slug": "will-gemini-hydrogen-debut-with-an-hle-diamond-score-of-40-or-higher"
+ },
  "0x4603d566768fe8e34a4861ffcac8be67560ec3dcb07184c7494541eae7c60a7f": {
   "created_at": "2026-10-13T15:48:35.875748Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1103,6 +1112,7 @@
   "created_at": "2026-08-11T18:50:15.044811Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-07 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "61ae0921491fcd9a0ae2d5dcc2782cec87ebda67b350bc7228f8195a3a0ce18d",

@@ -117,6 +117,15 @@
   "sha256": "cc15cb02a16a8e2e197c438facce39355c73186ff154cc6f09061c5b42e53eff",
   "slug": "will-raiders-dst-finish-as-a-top-5-dst-in-the-2026-27-nfl-season"
  },
+ "0x12f062c642917d7d28e6042dd8dfcef0da08141c4a6730d047e18dbdc0f18f2c": {
+  "created_at": "2026-11-11T01:19:42.657266Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Meta have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-meta-have-the-best-ai-model-on-december-15-2026"
+ },
  "0x1645e84eba76054f1f879938aab04034fe48a491d671f352a099ee4f60cfca2c": {
   "created_at": "2026-05-19T04:40:11.246329Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -859,6 +868,15 @@
   "sha256": "32d85d3df19bfe913dab5362d8eeabc4e437a48a9afb6576f9e524813b6c0034",
   "slug": "will-crystal-palace-score-the-most-goals-in-the-uel-league-phase"
  },
+ "0x979bc0951e0c478837867c19ff9c887143f1221ea5e85f7924c60fa84ed32a2c": {
+  "created_at": "2026-10-20T06:00:11.289567Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Polissia O/U 0.5",
+  "revisions": 1,
+  "sha256": "06669e6d59d9a9f0870e844bf5948a6fed854748abf755b71942097760631aec",
+  "slug": "ukr1-kol-pol-2026-11-01-team-total-away-0pt5"
+ },
  "0x97ee3f3786556a9805a994d1c2eb8568e584526962a91aa37179920a5201652c": {
   "created_at": "2026-07-24T01:47:28.951286Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1331,6 +1349,15 @@
   "sha256": "f48e7ed9bfe47aa7bda266255c6cc8ca07e7219573b7e7e9a4bf47e3f1f6b700",
   "slug": "zay-flowers-3pt5-receiving-touchdowns-2026-27"
  },
+ "0xe7a4ff59db02ade2e0f266bea55c4035d1fcbd13b1dcc6d0cb4aeff329c40f2c": {
+  "created_at": "2026-11-11T01:14:54.030929Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Gemini Hydrogen released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "7bbb2065437fb9b65585e26cf594ea28bca8b56b824481fda9163480c826fe72",
+  "slug": "gemini-hydrogen-released-by-january-31-2027-20261110"
+ },
  "0xe95fcc4cf3f3060ef4ad071538ff484eff7bc3798ef0b57fc3895e0c7bc8142c": {
   "created_at": "2026-09-03T22:03:33.048782Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1403,6 +1430,15 @@
   "sha256": "81e883fd472e791e1169121518c54634e91c7f3d6f32577fd408192ad69fa3ec",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-governor-of-nevada-be-between-975000-and-1050000"
  },
+ "0xf09d01259a5483e322d40591e3937a0f9b2119ec4a0cd813adff02e95a2e7a2c": {
+  "created_at": "2026-11-11T01:19:43.087632Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Google have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-google-have-the-best-ai-model-on-december-15-2026"
+ },
  "0xf0e2374e59f471eee1ee40d64dc1ae7c8dde26c0c32eb638078466699ef2d82c": {
   "created_at": "2025-12-15T22:09:27.729238Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1444,10 +1480,10 @@
  "0xf3e7ce232a7fcbba01223c05df276996d07ed5b9320c12889dff6ee40a211d2c": {
   "created_at": "2026-10-30T23:54:25.138669Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Dune: Part Three\" Opening Weekend Box Office be between 110m and 130m?",
-  "revisions": 1,
-  "sha256": "d56180981e4a632023033fc8afd291225f426512055a9dde3f756755e4b20c7a",
+  "revisions": 2,
+  "sha256": "843364d840ea300ea65e4cc147ed0d15375b5e82670bb8b958899a8cb8d16e8f",
   "slug": "will-dune-part-three-opening-weekend-box-office-be-between-110m-and-130m"
  },
  "0xf4cc54850fdaed36ad32baeb904a88fd23004153a2084f1acc4ec15e3de07e2c": {

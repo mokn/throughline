@@ -389,6 +389,15 @@
   "sha256": "6c8e5d5258233f0799b986e6be249b4d94d6631ace3d806b0303b4b850e54afc",
   "slug": "jaxson-dart-1pt5-rushing-touchdowns-2026-27"
  },
+ "0x364b3683ce76515c42df0850a760d043e87d76a68267e0821d6599a7c85dc06a": {
+  "created_at": "2026-10-20T06:00:09.046359Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: O/U 8.5",
+  "revisions": 1,
+  "sha256": "12bfd7fdd32d95eea9f9a5bb5485a87631133a154b64a59782a3a445f5088704",
+  "slug": "ukr1-kol-pol-2026-11-01-total-8pt5"
+ },
  "0x37cbce7569723d13c06f3fb7906054371eac12a04a07d8bb8ebadad61c8fb66a": {
   "created_at": "2026-08-10T14:51:39.913401Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -493,6 +502,7 @@
   "created_at": "2026-03-25T22:06:58.300314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Pat Murphy win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
@@ -926,6 +936,15 @@
   "revisions": 1,
   "sha256": "8141198b014409c994a9c8c461ed5628368fdf2098f4db51b0b65eea8e34fbc1",
   "slug": "2026-soccer-veikkausliiga-finland-winner-inter-turku"
+ },
+ "0x889eeef416e0116ac07f6b52479b9072738b2b1a6899af5af4d3ea99ee1ecb6a": {
+  "created_at": "2026-10-20T06:00:12.941841Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Polissia 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "b3aba087ca950d9b53ff57423ca11c575f7d14466273e1c3b9615c02694a7699",
+  "slug": "ukr1-kol-pol-2026-11-01-first-half-team-total-away-0pt5"
  },
  "0x8929d79eff31fcfbf0ea377b0db656d44c6ed7dfa610fcb6a14f58339e052c6a": {
   "created_at": "2026-08-12T00:10:43.520319Z",
@@ -1716,5 +1735,14 @@
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
   "slug": "will-cam-schlittler-win-the-2026-al-cy-young-award"
+ },
+ "0xfff36bb6c932d84760007ba5bbc8ddd075abe29b14c11ffc1af721909519246a": {
+  "created_at": "2026-10-26T06:00:14.968262Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: O/U 3.5",
+  "revisions": 1,
+  "sha256": "e6e130817d8afdd0b45db174acf9d5c6ceb66749e5c49d7923182af3546a9b24",
+  "slug": "ukr1-met-kar-2026-11-07-total-3pt5"
  }
 }

@@ -200,6 +200,15 @@
   "sha256": "fd3425dcd0304bd19d444ba594ab57a7d5ee7ed338a3f8a744bea20298253f89",
   "slug": "will-the-highest-magnitude-earthquake-in-2026-be-9pt0-or-above"
  },
+ "0x2262279950c04e82b8efa941204461564a02bae1007695eab535f982b2e25d68": {
+  "created_at": "2026-10-25T09:00:14.110458Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 3 - 4 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-3-4"
+ },
  "0x253c9b6e61cb777fe3becde69fb0863e00cb29625d7e068fa16cbcb21784d468": {
   "created_at": "2026-09-02T20:14:33.447511Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -407,6 +416,15 @@
   "revisions": 1,
   "sha256": "a548aef9b5b741c459873a82334627e2645ad665e23079749827f3ff7f611935",
   "slug": "czech-nbl-2027-champion-basket-brno"
+ },
+ "0x42a015a1f0e8afcfefa4ce34e263caa1928800b87030536f89fbc349c6898a68": {
+  "created_at": "2026-10-25T09:00:13.377575Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 1 - 4 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-1-4"
  },
  "0x42bcc36397626672ecbc7b06c1ff529ef646daa97605b74d0ef34e88a8575768": {
   "created_at": "2026-09-04T19:42:28.422445Z",

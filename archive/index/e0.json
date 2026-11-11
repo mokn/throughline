@@ -517,6 +517,7 @@
   "created_at": "2026-10-28T22:31:57.243396Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Trump say \"Keep America Great\" in November?",
   "revisions": 1,
   "sha256": "ff0f7753e231c7ceef773c19854a014a00da43fc2a8582ea38e4d58746d0bc9d",
@@ -691,6 +692,7 @@
   "created_at": "2026-08-05T20:56:56.568378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 South Carolina gubernatorial election by 25% or more?",
   "revisions": 1,
   "sha256": "b4d74d2a9a8401c31882e530ba1acafbeb763ecd97f1f450a524442d126bb516",
@@ -773,10 +775,10 @@
  "0x76c1a69f2b0a7fcfa97b56ddbeaad1981a8cb3d8f24c1adce62ffa2d010ebbe0": {
   "created_at": "2025-11-12T16:58:34.166095Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Spider-Man: Brand New Day have the best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "3faadd630cfe8beca5940fe2453fdd8193ca86d9343ef99907e4198bc8b67ddf",
+  "revisions": 2,
+  "sha256": "00dbe608b751d47eea70c217c7155db08c74cce5f15a71d50c681e4abe810836",
   "slug": "will-spider-man-brand-new-day-have-the-best-domestic-opening-weekend-in-2026"
  },
  "0x77ac37abf2e3b7648ca1dd937a4a48c69ef313a1739d4b54ef720f7f2acfa2e0": {
@@ -816,6 +818,15 @@
   "revisions": 1,
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
   "slug": "f1-brazilian-grand-prix-driver-podium-norris-2026-11-08"
+ },
+ "0x7bbdcba37c7b3775ea54935375d83cc712889c4b49a419b59cc260c3fb718ae0": {
+  "created_at": "2026-11-10T16:34:43.399343Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "EU adopts Chinese telecom gear phase-out law by June 30, 2028?",
+  "revisions": 1,
+  "sha256": "92ca09f086084644b3a514be6a1e07d73632d9a56f2c13413755dad8540e1292",
+  "slug": "eu-adopts-chinese-telecom-gear-phase-out-law-by-june-30-2028"
  },
  "0x7e2aa5f8c2f85bae2114f701e7f7362dc1b35ef9603ebee0f5dfaae2f6dd72e0": {
   "created_at": "2026-09-18T00:09:54.393342Z",
@@ -1639,6 +1650,7 @@
   "created_at": "2026-10-24T03:31:09.408157Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Kimi K3.1 Pro debut at a score of at least 1470 by June 30, 2027?",
   "revisions": 1,
   "sha256": "bbe7489c59af0ad13a661d71cbdf18ff5519bb9b91ec4afccced466be3473226",

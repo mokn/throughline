@@ -235,6 +235,15 @@
   "sha256": "e3ee8f643f9d6b2e92b87814e869c25061f5ce137e27dc046954db6d33fb5929",
   "slug": "will-the-republican-party-candidate-win-the-2026-ms-01-house-election-by-40-45"
  },
+ "0x1bdaed74547cb46881ac343351be10dd6024eff195ff9c2c3fca40f43a0184bf": {
+  "created_at": "2026-10-25T09:00:10.549451Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will FK Kharkiv win on 2026-11-07?",
+  "revisions": 1,
+  "sha256": "aac509551ccac3ff41fbdb7f58ab739ae6e4d08f836a0ea7939ca8c57b8b5314",
+  "slug": "ukr1-met-kar-2026-11-07-met"
+ },
  "0x1c2ea09f4ea3f445f427e8846f7438693d13cf02ea1d3cfc081b7896154ebebf": {
   "created_at": "2026-10-02T23:00:20.920226Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -270,6 +279,15 @@
   "revisions": 1,
   "sha256": "14d713a70f92be9bee6edeb755faeaa75318b0842038808cae819025624c9c6b",
   "slug": "will-maximilian-eggestein-record-the-most-assists-in-the-2026-27-uefa-conference-league"
+ },
+ "0x209c7e900eee16d5ff1c6b0825e5024a76e56e266b84a5dec7829e5b4ae47dbf": {
+  "created_at": "2026-10-25T09:00:13.904679Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 4 - 2 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-4-2"
  },
  "0x221b9aa0a5df5905ffd0604e1ac280d620802e86092ce253d9e5abdd204ff4bf": {
   "created_at": "2026-08-10T15:02:35.379317Z",
@@ -863,6 +881,7 @@
   "created_at": "2026-01-31T00:01:31.193093Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Puffpaw FDV above $400M one day after launch?",
   "revisions": 1,
   "sha256": "542a177060d98f436895981a11c3c5abf722c5427c14e47799de5be82643ac16",
@@ -917,6 +936,7 @@
   "created_at": "2026-08-11T19:03:15.277707Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 WY-AL House election by 0%-10%?",
   "revisions": 1,
   "sha256": "6ed73371451eb368dbd1edb7d0b2d8f65ed4034667bd22fa7d78cb6ce26e270d",

@@ -56,10 +56,10 @@
  "0x095b34ebc38495f68bd8d94c7c76cbb7ee6c473ec4a5c899437e5908c6772627": {
   "created_at": "2026-07-23T15:24:19.623593Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Toy Story 5 have the 2nd best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "908209e1aeb118d2e0df0363801f0d005598d025da8d479e5dfec3ca6e82a422",
+  "revisions": 2,
+  "sha256": "7655d2812dfcb0f0e9a6a7649e3049f9aab0d5f7bdbb3965843489489cf31137",
   "slug": "will-toy-story-5-have-the-2nd-best-domestic-opening-weekend-in-2026-20260722231944207"
  },
  "0x098d480f1ea786dc8b4eb4ceb2f1c019d1616c0495e7af539361111117f32d27": {
@@ -916,6 +916,7 @@
   "created_at": "2025-12-23T17:31:07.7695Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Puffpaw FDV above $50M one day after launch?",
   "revisions": 1,
   "sha256": "542a177060d98f436895981a11c3c5abf722c5427c14e47799de5be82643ac16",
@@ -1052,6 +1053,7 @@
   "created_at": "2026-08-11T19:03:14.259058Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 WY-AL House election by 30%-35%?",
   "revisions": 1,
   "sha256": "6ed73371451eb368dbd1edb7d0b2d8f65ed4034667bd22fa7d78cb6ce26e270d",

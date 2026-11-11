@@ -1,0 +1,15 @@
+This market will resolve according to the model family name of the next model Google releases in a new model family, released by December 31, 2026, 11:59 PM ET.
+
+A qualifying release is Google's first publicly released model of a new model family in its core, general-purpose Gemini model lineup, meaning the tiers alongside Gemini Pro, Flash, Flash-Lite, Argon, and Carbon. New versions, updates, modes, variants, or re-releases of models in existing families will not qualify, nor will specialized models such as Gemini Robotics, Gemini Embedding, Gemini Diffusion, Gemini Live, or text-to-speech, image, audio, or video models.
+
+Each listed option's family name is its name excluding "Gemini". This market will resolve to the listed option whose family name, together with "Gemini", appears in the qualifying model's official name, regardless of word order, capitalization, spacing, punctuation, or hyphenation, and regardless of accompanying modifiers such as version numbers, dates, or mode, size, or variant designations. A family name appearing only as part of a longer word will not count. If the official name contains the family names of multiple listed options, this market will resolve to the option that comes first in alphabetical order, exactly as listed in this market group.
+
+This market will resolve to "Other" if no qualifying release occurs by December 31, 2026, 11:59 PM ET, if the qualifying model's official name does not include "Gemini", contains no word other than "Gemini" and such modifiers, or contains no listed option's family name.
+
+The official name is the name under which the model is presented in Google's primary launch announcement or, absent one, its model card. API identifiers, URL slugs, interface labels, and codenames will not be considered. Any subsequent renaming, cancellation, or reclassification will not affect resolution.
+
+A qualifying model must be launched and publicly accessible, including via open beta or open rolling waitlist signups. A closed beta or any form of private access will not suffice. The release must either be clearly defined and publicly announced by Google as accessible to the general public, or otherwise be made publicly accessible and explicitly labeled on the company's official website. Labeling errors, placeholder text, or version names displayed on the website that do not correspond to a model that is actually accessible to the general public will not qualify.
+
+This market will resolve according to the first qualifying release. If multiple models are released on the same calendar date (ET), all will be considered; if only one qualifies, this market will resolve according to it. If multiple qualify, this market will resolve to the option that comes first in alphabetical order, exactly as listed in this market group.
+
+The primary resolution source for this market will be official information from Google, with additional verification from a consensus of credible reporting.

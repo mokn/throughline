@@ -112,6 +112,7 @@
   "created_at": "2026-08-26T21:46:52.023733Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Deportivo Riestra keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -416,6 +417,15 @@
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-12-house-election-by-65-or-more"
+ },
+ "0x2ff8d831dba724c46c57e5c794a8ff286647030b7203dbcbb6c05a00ac3453ae": {
+  "created_at": "2026-10-26T06:00:17.016237Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Kharkiv O/U 0.5",
+  "revisions": 1,
+  "sha256": "a9173ab19967cac94840403440748a684be83847c84ca88940bade6e4fdff8c2",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-home-0pt5"
  },
  "0x316e875f78a14d7af0f5f7b036a202fe259efc5c988742029b0faaacf531f2ae": {
   "created_at": "2026-08-17T21:27:13.005532Z",
@@ -1631,6 +1641,15 @@
   "revisions": 1,
   "sha256": "40743b9d039d6b6c1e2a387776f5830ab5f95d3082043100de134a06af1ef03a",
   "slug": "will-nordsjaelland-finish-top-8-in-uecl-league-phase"
+ },
+ "0xfd0ce7c42cc13968ef2caff6450d5fb66f013e54cecd6aadc6cb6e9e9e6681ae": {
+  "created_at": "2026-11-11T00:51:01.097666Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut at a score of at least 1540 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d367b97fa0476fb5edde9f2e4d0124da416050865764079ee0a73fe4d28b71c4",
+  "slug": "will-gemini-hydrogen-debut-at-a-score-of-at-least-1540-by-june-30-2027"
  },
  "0xfe7b02f5829a30e0975105ab1970f81a6812d87436cb41dd863c2f13eb3287ae": {
   "created_at": "2026-10-24T04:00:06.810605Z",

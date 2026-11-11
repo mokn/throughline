@@ -181,6 +181,15 @@
   "sha256": "54970f3d1d5794eac4863eb081d430b64f0aaf459ae7e656aca537eab37a8951",
   "slug": "will-werder-bremen-finish-3rd-in-bundesliga-2026-27"
  },
+ "0x1cac556a3299dd1c2c0c52a7f29950ad5bfd7936a6df2027b25d7c8abaf8f970": {
+  "created_at": "2026-10-20T06:00:06.250196Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Polissia (-1.5)",
+  "revisions": 1,
+  "sha256": "4ca5ec3f2d1800ce197800c8aa01f628df107217c766acb9470c342cea668df8",
+  "slug": "ukr1-kol-pol-2026-11-01-spread-away-1pt5"
+ },
  "0x1e2160963031641655eeb3f20330a3118166f0deb1a63c55c8b2fc0b9b8b7270": {
   "created_at": "2026-08-11T19:08:47.362919Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -391,6 +400,15 @@
   "sha256": "a9347e5e97dcf66bf3244584f42422b2f2d92f9f67a42df165f389642edc4342",
   "slug": "will-doctor-strange-die-in-avengers-doomsday-20260701214259198"
  },
+ "0x401b34f8aa973e86bc0b869d57221512d1f207f44d617f441814ad711fbe3770": {
+  "created_at": "2026-11-11T00:55:52.400135Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Krypton debut in the top 5 of the Text Arena leaderboard by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "7f0c441a8ce1c5972c7f3c647e06f18d31d4786dd0073746a1090d64e0e166e6",
+  "slug": "will-gemini-krypton-debut-in-the-top-5-of-the-text-arena-leaderboard-by-june-30-2027"
+ },
  "0x4185959c137b5c477cda12c0b2d7e15389caad615deaca8dee36e3308b3e3870": {
   "created_at": "2026-07-22T16:30:25.64021Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -422,6 +440,7 @@
   "created_at": "2026-08-26T21:46:54.158722Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Sarmiento (J) keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -1330,6 +1349,15 @@
   "revisions": 1,
   "sha256": "1e83d360de7a4df691c3f7a4b61052622dbc576f42e23f8e8c677e92817f52ba",
   "slug": "will-jamie-joyce-win-the-ca-12-house-seat-20260708143309449"
+ },
+ "0xe421e02560173f1864cbfeaa46cf5af91331af23f4437a34dd4ba18e2cb12c70": {
+  "created_at": "2026-10-26T06:00:19.407512Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Kharkiv 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "c16b9c22f9a0e9e89bc1b23a9cb0765348e1429d2392f5c63eec2668e0632c6b",
+  "slug": "ukr1-met-kar-2026-11-07-first-half-team-total-home-3pt5"
  },
  "0xe426ad1e6853493262ce1092983124743a91581b010fda452fb4a72a1cb4bf70": {
   "created_at": "2026-10-01T14:01:09.123686Z",

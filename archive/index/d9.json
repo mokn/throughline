@@ -128,6 +128,15 @@
   "sha256": "df8739d5bc0d28e94933414073de4b93b50a0eea214f54f56c8693ad3b3e9792",
   "slug": "2027-soccer-j2-league-winner-blaublitz-akita"
  },
+ "0x0b29bc09c7c7799dd2dff14ff1b7011891357d8ed9a863b2c8f49119b2831ed9": {
+  "created_at": "2026-11-11T00:26:42.032845Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will the Democrats win the Louisiana governor race in 2027?",
+  "revisions": 1,
+  "sha256": "a34358dcb24e4820dd7dafcd83bc106bec7684c33b32187ce449abdac9643f69",
+  "slug": "will-the-democrats-win-the-louisiana-governor-race-in-2027"
+ },
  "0x0ca6bafe0195bb2299bc77a09862f9f9aab109af3736495d30bdcd726a793cd9": {
   "created_at": "2026-10-13T19:55:47.674311Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -267,6 +276,7 @@
   "created_at": "2026-08-11T18:50:12.040846Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-03 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "4dc36b76383632c21571dfb1ef09044f9ef6b2fd791fde0327ebb0e14518b7db",
@@ -352,6 +362,15 @@
   "revisions": 1,
   "sha256": "165d08b4b8edb79303018141387bcc397b06529a21cc58925c1bcb211f20e3ef",
   "slug": "will-al-shabab-be-relegated-from-saudi-professional-league-2026-27"
+ },
+ "0x3193cb50026f5ca3c58b18512e6ed07e180f389e5695a1c52abf5b6720d74dd9": {
+  "created_at": "2026-10-25T09:00:14.37849Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 5 - 3 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-5-3"
  },
  "0x348121fe5b574dbdeacac4c4dbd7d8a38d79fb31d755e5c735a8e6ced354cdd9": {
   "created_at": "2026-09-09T15:17:31.845087Z",
@@ -596,6 +615,7 @@
   "created_at": "2026-08-05T21:02:06.796521Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming gubernatorial election by 0%-10%?",
   "revisions": 1,
   "sha256": "e8cb04ba2e7e99435ccbd4ea94fcdb9cb206050fbfa8a481446d38bb2e577213",
@@ -719,6 +739,15 @@
   "sha256": "7ce4c2b250d8535253e443c6bfe6d9af8086894ca0f0a52c727fb9b7c67571eb",
   "slug": "theo-fdv-above-1b-one-day-after-launch"
  },
+ "0x66f77f8e50ecb9eb67368eecbd47f9dfe7b84583cb7ca9a81c2526ed3542a0d9": {
+  "created_at": "2026-10-20T06:00:12.569995Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Kolos Kovalivka 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "0993cafd981e0326c0d4a9c522905f5bdafa138bbb29d3e98855f6eb8e472b5d",
+  "slug": "ukr1-kol-pol-2026-11-01-first-half-team-total-home-2pt5"
+ },
  "0x69624d7ad74fa173d2354c2650b42e7ec51638a4996aac09dbbcdfa84a1e27d9": {
   "created_at": "2026-10-13T19:55:24.076804Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -808,6 +837,15 @@
   "revisions": 1,
   "sha256": "0ff9af4efe312d2172174e2fed189f4506929254df947341a1aeebc150e77ba5",
   "slug": "will-dallas-wilson-be-the-2026-sec-receiving-tds-leader"
+ },
+ "0x7181af41255f2c9374a2915f74a2480a6be0fefc45a26258054fbc86950eb8d9": {
+  "created_at": "2026-11-11T00:54:23.822987Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Krypton debut at a score of at least 1540 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "1c5b27c33f9a7646bac03ec8010b664842a73d6bb66f51e1d069037d0c03a850",
+  "slug": "will-gemini-krypton-debut-at-a-score-of-at-least-1540-by-june-30-2027"
  },
  "0x73a26068c1e92e3ead91e69c4e7a1f399f6c2313cb409e2214f78994dcebacd9": {
   "created_at": "2026-08-28T05:56:16.109776Z",
@@ -936,6 +974,15 @@
   "sha256": "04e6b290dadbbfc84adfa24305457e43f1dfce50d2ff64899ceb5240cb388137",
   "slug": "will-a-short-documentary-about-a-giant-pencil-win-best-documentary-short-film-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x876879a35bf520a576a5f99bac13493054dd59dc40d39360977f7be27ed230d9": {
+  "created_at": "2026-10-25T09:00:12.915264Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 2 - 1 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-2-1"
+ },
  "0x894a61a2baa777adf1d03a263a4b2d8faa7e1ebc7bf6694a37701fae8add01d9": {
   "created_at": "2025-11-12T16:37:59.635648Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1031,6 +1078,7 @@
   "created_at": "2026-09-30T14:02:27.157998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will a 6.0+ magnitude earthquake occur in United States this month?",
   "revisions": 1,
   "sha256": "8abf415d4d1ddbdee77de0dab96a2069b0bf4039d9290a7e6cbc835a95e62320",

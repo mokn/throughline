@@ -586,6 +586,15 @@
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-robert-thomas-win-the-2026-27-hart-memorial-trophy"
  },
+ "0x5e64c6ef1abe6f1aab83c02ba5fbfd0b133dc29b1f996a18ad7aed88c13517c8": {
+  "created_at": "2026-11-11T00:51:23.158901Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut in the top 1 of the Text Arena leaderboard by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "da55b0032c9b8da270ff2d47214b7a391418f22bc93481b6c064f4122f8f9343",
+  "slug": "will-gemini-hydrogen-debut-in-the-top-1-of-the-text-arena-leaderboard-by-june-30-2027"
+ },
  "0x5e911b6faf62e9e250c0e8812c32c7f2e94550ed14f51f5031b6ce6bd962dac8": {
   "created_at": "2026-08-06T09:26:39.587504Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -843,6 +852,7 @@
   "created_at": "2026-08-04T18:40:27.646292Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming Senate election by 0%-10%?",
   "revisions": 1,
   "sha256": "df468581691e2cd5e547ea98b2e62fd482e75c312833748d22f274054dec15d7",
@@ -959,10 +969,10 @@
  "0xaf19d77206495052d91f2bbd0cf91097e8b5385f3a6561af7d847dacc8d20ec8": {
   "created_at": "2026-10-20T23:21:40.011401Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will the total domestic gross for \"You Can See Everything\" be between $100M and $125M by November 30?",
-  "revisions": 1,
-  "sha256": "2b21faac0d38ed4664ead758cfd14d0338f3928080e369782c3eddb3a24e7d8d",
+  "revisions": 2,
+  "sha256": "5dd7f3f256500cc4c82467b0c2be0f6823394a720708b7e9726ba250d45be417",
   "slug": "will-the-total-domestic-gross-for-you-can-see-everything-be-between-100m-and-125m-by-november-30"
  },
  "0xb111ed4e1f7f5619f0bdbc2f27a2bf5add523db09a196e3ab0e546aaf8369dc8": {
@@ -1314,6 +1324,7 @@
   "created_at": "2026-08-11T18:50:15.358669Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-07 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "61ae0921491fcd9a0ae2d5dcc2782cec87ebda67b350bc7228f8195a3a0ce18d",

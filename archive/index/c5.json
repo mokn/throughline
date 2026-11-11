@@ -83,10 +83,10 @@
  "0x0ccad472e6991187f2d574a8f9c002948608ef01b9269ff33fd88c4b617a4bc5": {
   "created_at": "2026-10-30T23:54:24.093739Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Dune: Part Three\" Opening Weekend Box Office be between 90m and 110m?",
-  "revisions": 1,
-  "sha256": "d56180981e4a632023033fc8afd291225f426512055a9dde3f756755e4b20c7a",
+  "revisions": 2,
+  "sha256": "843364d840ea300ea65e4cc147ed0d15375b5e82670bb8b958899a8cb8d16e8f",
   "slug": "will-dune-part-three-opening-weekend-box-office-be-between-90m-and-110m"
  },
  "0x0d6642ddd35287eb369945b9c2b00000b7526d341e3dfe6db11b92bdd02a04c5": {
@@ -192,6 +192,7 @@
   "created_at": "2026-08-26T21:46:54.58393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Tigre keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -349,6 +350,7 @@
   "created_at": "2026-08-11T18:49:59.136615Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-04 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "e2825361546feedd42b90f5c9ee73756ccc0d8d0f15b355e039d95801d08d38e",
@@ -811,10 +813,10 @@
  "0x7633d90db17a6e43c5f6748d7e71ec1bfe45e2c1741d69409a4f42d7a864b8c5": {
   "created_at": "2026-04-16T16:26:33.995529Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will The Hunger Games: Sunrise on the Reaping have the best domestic opening week in 2026?",
-  "revisions": 1,
-  "sha256": "c49a549a9a0758742b7861be0c4ac07c7cf6e56030df05ed8f1011455415a14a",
+  "revisions": 2,
+  "sha256": "32fe8a3c5b5b611545ab36e45b0951741445a594a1da5d2287db3cb28960a6bf",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-have-the-best-domestic-opening-week-in-2026"
  },
  "0x7721f08ec216ba15dfb123df74e8af12e84b9e392cd9c66100e7cd0a8cd221c5": {
@@ -876,6 +878,7 @@
   "created_at": "2026-08-12T17:20:02.439077Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will FBC Melgar be runner-up in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "6844079682818058d1de2c1476766359daa2122552d75828bf3e291a8d785023",
@@ -1525,6 +1528,15 @@
   "revisions": 1,
   "sha256": "54f6f14d1314aafe1b99e1f5dbc20d27946f08ed1cbd2d401e34fc32c1efb8d6",
   "slug": "kyle-pitts-4pt5-receiving-touchdowns-2026-27"
+ },
+ "0xfd8267049b5024c78c5337ca231b961b477e95b1c0e5f81ab12177daf71e74c5": {
+  "created_at": "2026-10-20T06:00:12.426264Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Kolos Kovalivka 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "bc0c562780856b9b661ee6a93486510b04bc4bf511155e2bc9c185c2e3f8b6eb",
+  "slug": "ukr1-kol-pol-2026-11-01-first-half-team-total-home-1pt5"
  },
  "0xff4a6904f6d8070f70ad68f0913eb72989fb5440bb13a25849e44f5ef71925c5": {
   "created_at": "2026-09-20T09:15:48.954558Z",

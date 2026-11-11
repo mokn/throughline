@@ -184,6 +184,7 @@
   "created_at": "2026-09-11T23:22:50.100031Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Houthis enter Saudi Arabia by October 31?",
   "revisions": 1,
   "sha256": "fdda9ed5dff3fca26e213310e6084ea47dec4e17231eaeaa31ec13878a6ca488",
@@ -1438,6 +1439,15 @@
   "sha256": "85849a9577f78a00b106dae15533e5d3a5fdb0a7301e8b8c749e5648ef14b915",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-05-house-election-by-50-55"
  },
+ "0xcaa7f3b86fb01ba37ae4a40f328be62e469c2ef090f135c511ef818b44ce7c63": {
+  "created_at": "2026-11-11T01:19:52.670757Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Microsoft have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-microsoft-have-the-best-ai-model-on-december-15-2026"
+ },
  "0xcbb9fd6d090c428f2f2cae71a4593c1a7aecd9a9dc37b2a34cbfe57394d68463": {
   "created_at": "2026-08-18T14:57:11.326426Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1628,6 +1638,15 @@
   "revisions": 1,
   "sha256": "f643f4794b39c5975b179ecd45436258eaa040dd48779c1e5680fefc2f06b79f",
   "slug": "cdr-bad-cdt-2026-10-28-first-half-total-4pt5"
+ },
+ "0xec0c83a1bfed8f69175d0e7c6016a4000e0514fd201b50bbc6c467df47f75563": {
+  "created_at": "2026-10-26T06:00:17.17555Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Kharkiv O/U 1.5",
+  "revisions": 1,
+  "sha256": "837ceac80b21c2815cff07b78072dccc2072a06a7e79acd3e576b748d7b37657",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-home-1pt5"
  },
  "0xec3f074c816b4005e2f5342b95d2466662de2c7daeb09ce0b4beb4f4dde11f63": {
   "created_at": "2026-08-05T10:54:40.304249Z",

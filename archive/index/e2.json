@@ -84,6 +84,7 @@
   "created_at": "2026-08-04T18:40:28.008216Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 Wyoming Senate election?",
   "revisions": 1,
   "sha256": "df468581691e2cd5e547ea98b2e62fd482e75c312833748d22f274054dec15d7",
@@ -393,10 +394,10 @@
  "0x3f0c6867147da5c857ccdfdfe5838e0fae9eae8d98d407854ffb8d71ee65ede2": {
   "created_at": "2026-07-23T15:24:19.813638Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Spider-Man: Brand New Day have the 2nd best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "908209e1aeb118d2e0df0363801f0d005598d025da8d479e5dfec3ca6e82a422",
+  "revisions": 2,
+  "sha256": "7655d2812dfcb0f0e9a6a7649e3049f9aab0d5f7bdbb3965843489489cf31137",
   "slug": "will-spider-man-brand-new-day-have-the-2nd-best-domestic-opening-weekend-in-2026-20260722231944209"
  },
  "0x3f812382502b3f389f08788ce45e7188711edc9ede6e308fad6c3c45788beee2": {
@@ -847,6 +848,7 @@
   "created_at": "2026-10-26T17:03:31.394079Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Gemini Carbon released by December 31, 2026?",
   "revisions": 1,
   "sha256": "cc3249635cf13f14ba5a4a5b7e3faf4ab4d564fa030a38703f5a4dbe894e2489",

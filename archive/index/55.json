@@ -566,6 +566,7 @@
   "created_at": "2026-10-20T23:04:52.130279Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will crashies play for Eternal Fire in 2027?",
   "revisions": 1,
   "sha256": "c242e320a26f0c93a28f1aa21d57a45b3698f6fbcfd2f650fe45ee94dd00c855",
@@ -706,6 +707,15 @@
   "revisions": 1,
   "sha256": "dcaf775df394a90245696592a4fb55e734d58746f2db3c8ddf3515522e093a66",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-17-house-election-by-9-12"
+ },
+ "0x7abfbb3942042e9c2627566e1696b1da86c700a3748c2c14d0030bf96f231c55": {
+  "created_at": "2026-10-25T09:00:11.659985Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv leading at halftime?",
+  "revisions": 1,
+  "sha256": "ac1eba018325794f08617f64e2bda611ebc9a9205fedecdf90eee28e84d79ebf",
+  "slug": "ukr1-met-kar-2026-11-07-halftime-result-home"
  },
  "0x7b2c1b5591cdfc4907b8e7554b49ea0035fe12c9c744e88c9bafd30db4378e55": {
   "created_at": "2026-10-13T15:49:25.087837Z",
@@ -1075,6 +1085,7 @@
   "created_at": "2026-08-26T21:46:52.238627Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Gimnasia y Esgrima (M) keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -1340,6 +1351,15 @@
   "revisions": 1,
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-jack-hughes-win-the-2026-27-maurice-rocket-richard-trophy"
+ },
+ "0xf4d4505ebfcd3bfa3ee02bbb34775a096445ccef4c3a3c4b16e1fa01f4e2e755": {
+  "created_at": "2026-11-10T21:10:24.65199Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 80% or higher?",
+  "revisions": 1,
+  "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
+  "slug": "will-claude-fable-5pt2-debut-with-an-hle-diamond-score-of-80-or-higher"
  },
  "0xf5e9f76ea709566ed49ceb49734fd511a63734cbdd77c8191865a05c915a0a55": {
   "created_at": "2026-11-10T02:40:53.699638Z",

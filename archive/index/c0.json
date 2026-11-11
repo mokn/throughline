@@ -203,6 +203,7 @@
   "created_at": "2026-07-31T22:43:27.405234Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Sacramento State Hornets Win the 2026 MAC Championship?",
   "revisions": 1,
   "sha256": "c6a79fc9d7babd4be173503b175d44448a99402e6ce65c23cd45683b61ced0ea",
@@ -416,6 +417,15 @@
   "revisions": 1,
   "sha256": "0688d9971336fcc57e19bbc47b1e21fab5a88f7409246241f2e1ecb4649f403f",
   "slug": "will-there-be-exactly-4-confirmed-vei-4-or-higher-volcanic-eruptions-worldwide-in-2026-912"
+ },
+ "0x36980518266ce566360a76862a328fde4ea45aa3d92e0eb3319aef2d796289c0": {
+  "created_at": "2026-10-19T09:00:13.718382Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 3 - 5 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-3-5"
  },
  "0x373aea9c0203b6ca472d0ebfcbad4aefa16f2e3ff36b0463f1e43b81ff7648c0": {
   "created_at": "2026-10-13T15:56:49.077873Z",
