@@ -878,17 +878,25 @@ def cmd_disconnect(project: Project, base: str, args: argparse.Namespace) -> dic
     project.open_state(create=True)
     receipt = project.read_json("disconnect.json")
     credentials = project.read_json("credentials.json")
-    if receipt is None:
+    if receipt is None or receipt.get("acknowledged") is False:
         token = _management(project, base, None)
-        current = cmd_whoami(project, base, args)["connection"]
+        try:
+            current = cmd_whoami(project, base, args)["connection"]
+        except CliError as exc:
+            if receipt is not None and receipt.get("acknowledged") is False:
+                raise CliError("disconnect_unknown", connection_id=credentials["connection_id"], recovery_url=base + "/account") from None
+            raise
         if current.get("id") != credentials.get("connection_id"):
             _fail("invalid_response")
+        receipt = dict(base_url=base, connection_id=current["id"], credential_hash=_sha256(token),
+                       feed_key_hash=credentials.get("feed_key_hash"), acknowledged=False)
+        project.write_json("disconnect.json", receipt)
         try:
             result = _call(base, "DELETE", "/account/v1/connection", token=token, timeout=args.timeout)
         except CliError as exc:
-            if exc.code in ("network_error", "invalid_response", "response_too_large"):
+            if exc.code in ("network_error", "invalid_response", "response_too_large") or exc.fields.get("http_status", 0) >= 500:
                 raise CliError("disconnect_unknown", connection_id=credentials["connection_id"],
-                               recovery_url=DEFAULT_BASE_URL + "/account") from None
+                               recovery_url=base + "/account") from None
             raise
         if result.get("id") != current["id"] or result.get("revoked") is not True:
             _fail("disconnect_unknown", connection_id=current["id"])
@@ -1014,6 +1022,47 @@ def cmd_keys_create(project: Project, base: str, args: argparse.Namespace) -> di
                 next="Switch the consumer to this file, verify its call, then explicitly revoke the old key ID.")
 
 
+
+def cmd_keys_pending(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
+    """Move only the active pointer; never discard a potentially active secret."""
+    project.guard_state()
+    project.open_state(create=True)
+    active = project.read_json("key-create.json")
+    if args.resume is not None:
+        if not _IDENT.fullmatch(args.resume):
+            _fail("invalid_id")
+        name = "key-create-" + args.resume + ".json"
+        project.guard(os.path.join(project.state, name))
+        saved = project.read_json(name)
+        if saved is None or saved.get("id") != args.resume:
+            _fail("no_pending_request")
+        if active is not None and active != saved:
+            _fail("pending_key_creation")
+        project.write_json("key-create.json", saved)
+        active = saved
+    elif args.park:
+        if active is None or not isinstance(active.get("id"), str) or not _IDENT.fullmatch(active["id"]):
+            _fail("no_pending_request")
+        name = "key-create-" + active["id"] + ".json"
+        project.guard(os.path.join(project.state, name))
+        saved = project.read_json(name)
+        if saved is not None and saved != active:
+            _fail("pending_key_creation")
+        project.write_json(name, active)
+        project.remove(os.path.join(project.state, "key-create.json"))
+        active = None
+    parked = []
+    for name in sorted(os.listdir(project.state)):
+        if re.fullmatch(r"key-create-[0-9a-f]{32}\.json", name):
+            project.guard(os.path.join(project.state, name))
+            saved = project.read_json(name)
+            if saved is not None:
+                parked.append({k: saved.get(k) for k in ("id", "name", "output", "connection_id")})
+    return dict(status="ok", pending=None if active is None else
+                {k: active.get(k) for k in ("id", "name", "output", "connection_id")}, parked=parked,
+                note="All keys and private output files were kept. Parking is local only; a key may be active. Resume by ID and repeat its original creation command, or inspect/revoke that connection in the portal.")
+
+
 def cmd_start_from_now(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
     project.guard_state()
     project.open_state(create=True)
@@ -1089,6 +1138,11 @@ def _parser() -> argparse.ArgumentParser:
     create.add_argument("--name", required=True)
     create.add_argument("--output", required=True, help="new private ignored file for the key")
     create.set_defaults(run=cmd_keys_create)
+    pending = keys.add_parser("pending", parents=[common], help="inspect or park recoverable key creation without discarding it")
+    move = pending.add_mutually_exclusive_group()
+    move.add_argument("--park", action="store_true", help="keep all material but free the active operation slot")
+    move.add_argument("--resume", default=None, metavar="ID", help="restore a parked operation as active")
+    pending.set_defaults(run=cmd_keys_pending)
     revoke = keys.add_parser("revoke", parents=[common])
     revoke.add_argument("id")
     revoke.set_defaults(run=cmd_keys_revoke)

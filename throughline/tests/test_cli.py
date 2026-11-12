@@ -44,6 +44,8 @@ class Api:
         self.expires_in = 600
         self.drop_token_replies = 0
         self.drop_key_replies = 0
+        self.drop_disconnect_replies = 0
+        self.key_refusal = None
         self.token_429 = []     # Retry-After values to serve before answering
         self.start_reply = None  # (status, headers, body) override
         self.usage_reply = None
@@ -76,7 +78,9 @@ class Api:
                                                  revoked_at=None)
             if len(granted) > 1:
                 self.agents[p["management_token_hash"]] = dict(scopes=granted,
-                                                               expires_at=now + 30 * 86400)
+                                                               expires_at=now + 30 * 86400,
+                                                               id=p["id"], name=p["name"], created_at=now,
+                                                               keys=[p["feed_key_hash"]])
 
     def deny(self, user_code):
         self.pairings[user_code]["state"] = "denied"
@@ -204,6 +208,21 @@ class Api:
                             self.error(403, "insufficient_scope")
                             return False
                         return True
+                    if route == ("GET", "/account/v1/connection"):
+                        return self.reply(200, dict(account_id="c"*64,connection=dict(
+                            id=grant["id"], name=grant["name"], scopes=grant["scopes"],
+                            expires_at=grant["expires_at"], created_at=grant["created_at"],
+                            keys=[dict(id=api.keys[h]["id"], name=api.keys[h]["name"],revoked_at=api.keys[h]["revoked_at"]) for h in grant["keys"]],
+                            first_news_at=None,last_used_at=None,revoked_at=None,feed_keys_expire=False)))
+                    if route == ("DELETE", "/account/v1/connection"):
+                        api.agents.pop(sha(bearer))
+                        for digest in grant["keys"]: api.keys[digest]["revoked_at"] = time.time()
+                        if api.drop_disconnect_replies:
+                            api.drop_disconnect_replies -= 1
+                            self.connection.shutdown(2); self.connection.close(); return
+                        return self.reply(200, dict(id=grant["id"],revoked=True))
+                    if route == ("GET", "/account/v1/audit"):
+                        return self.reply(200, dict(items=[],next_cursor=None,retention=dict(days=30,rows_per_actor_class=100)))
                     if route == ("GET", "/account/v1/me"):
                         return need("account:read") and self.reply(200, dict(
                             id="cd" * 16, plan="free", usage=dict(requests=3, request_limit=100)))
@@ -215,11 +234,14 @@ class Api:
                     if route == ("POST", "/account/v1/keys"):
                         if not need("keys:write"):
                             return
+                        if api.key_refusal:
+                            return self.error(*api.key_refusal)
                         assert set(body) == {"id", "name", "key_hash"}
                         existing = api.keys.get(body["key_hash"])
                         row = existing or dict(id=body["id"], name=body["name"],
                                                created_at=time.time(), revoked_at=None)
                         api.keys[body["key_hash"]] = row
+                        if body["key_hash"] not in grant["keys"]: grant["keys"].append(body["key_hash"])
                         if api.drop_key_replies:
                             api.drop_key_replies -= 1
                             self.connection.shutdown(2)
@@ -616,6 +638,45 @@ class Login(Case):
 
 
 class LifecycleRecovery(Case):
+    def test_definitively_refused_key_creation_can_be_parked_and_resumed_without_losing_material(self):
+        self.login('--scopes', ALL)
+        (self.dir / 'private').mkdir()
+        self.api.key_refusal = (409, 'active_key_limit')
+        args = ('keys', 'create', '--name', 'worker', '--output', 'private/worker.env')
+        self.assertEqual(self.cli(*args)[1]['error'], 'active_key_limit')
+        pending = self.state('key-create.json')
+        text = (self.dir / 'private/worker.env').read_bytes()
+        parked = self.cli('keys', 'pending', '--park')[1]
+        self.assertIsNone(parked['pending'])
+        self.assertEqual(parked['parked'][0]['id'], pending['id'])
+        self.assertEqual(self.state('key-create-' + pending['id'] + '.json'), pending)
+        self.assertEqual((self.dir / 'private/worker.env').read_bytes(), text)
+        self.assertEqual(self.cli('keys', 'pending', '--resume', pending['id'])[1]['pending']['id'], pending['id'])
+        self.api.key_refusal = None
+        self.assertEqual(self.cli(*args)[1]['key']['id'], pending['id'])
+
+    def test_doctor_identity_audit_and_acknowledged_disconnect_keep_other_env_lines(self):
+        self.login('--scopes', ALL)
+        with (self.dir / '.env').open('ab') as f: f.write(b'OTHER=keep-me\n')
+        self.assertEqual(self.cli('whoami')[1]['connection']['scopes'], ['news:read'] + ALL.split(','))
+        self.assertEqual(self.cli('doctor')[1]['plan'], 'free')
+        self.assertEqual(self.cli('audit')[1]['items'], [])
+        done = self.cli('disconnect')[1]
+        self.assertTrue(done['revoked'])
+        self.assertEqual((self.dir / '.env').read_bytes(), b'OTHER=keep-me\n')
+        self.assertFalse((self.dir / '.throughline/credentials.json').exists())
+        self.assertFalse((self.dir / '.throughline/disconnect.json').exists())
+
+    def test_lost_disconnect_reply_and_retry_remain_unknown_instead_of_claiming_expiry_is_revocation(self):
+        self.login('--scopes', ALL)
+        self.api.drop_disconnect_replies = 1
+        for _ in range(2):
+            code, result = self.cli('disconnect')
+            self.assertEqual((code, result['error']), (4, 'disconnect_unknown'))
+            self.assertTrue((self.dir / '.throughline/credentials.json').exists())
+            self.assertFalse(self.state('disconnect.json')['acknowledged'])
+        self.assertEqual(self.cli('status')[1]['error'], 'invalid_key')
+
     def test_unknown_key_creation_keeps_private_material_and_recovers_exactly_one_key(self):
         self.login('--scopes', ALL)
         (self.dir / 'private').mkdir()
