@@ -329,6 +329,7 @@
   "created_at": "2026-08-04T18:36:49.311101Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 20%-25%?",
   "revisions": 1,
   "sha256": "313263bcd6569123f03e3c07b305180a95ee6a24eb3f0838d7617de171b4645d",
@@ -378,6 +379,15 @@
   "revisions": 1,
   "sha256": "124b16de324847cf3f1cace4004fe2b39a032f843f63c4c6aa245d83e3fbf485",
   "slug": "iran-leadership-change-by-december-31-974-976-658-482-568-685-996-469-827"
+ },
+ "0x38d05a6001e1cc9dc695f16f7d83421529342f628a94b0c87ef3dcc10137b007": {
+  "created_at": "2026-11-11T01:15:09.221128Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Gemini Krypton released by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "d588788be0d378dbe21252cee01a2de8b31895425a5d48d8d7e8f64c9bff4d8d",
+  "slug": "gemini-krypton-released-by-december-31-2026-20261110"
  },
  "0x407e1b08f6885ced5ea7c124cc272730ef10a204802c2d774819680856c36a07": {
   "created_at": "2026-10-13T19:55:50.778959Z",
@@ -937,6 +947,7 @@
   "created_at": "2026-09-02T21:58:13.869215Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Kansas State Wildcats advance to the 2026 Big 12 Championship Game?",
   "revisions": 1,
   "sha256": "2c83490a840325bd6f83a94a096cf328d58b2fea5d9820164ba58f2bb7e582af",
@@ -1261,10 +1272,10 @@
  "0xdacdaba92566db8bd90db66c21e8afd1dc4ab0cb8406007870386dbb10049107": {
   "created_at": "2026-11-10T02:26:59.555817Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be between $100M and $120M by December 15?",
-  "revisions": 1,
-  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "revisions": 2,
+  "sha256": "b1fd34eacc0686331bbdcf78aa08533baf920a03b3357e068998c26d64cbeba3",
   "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-between-100m-and-120m-by-december-15-20261108"
  },
  "0xdc9ffbc75c474ba71ffdbf69558c98df2a1f0ae8d21200c041bb14c57f8f9807": {

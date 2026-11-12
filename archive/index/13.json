@@ -458,10 +458,10 @@
  "0x373503404afbf0d5bf631a89ac6b705354f542c72ccef7ac9740d758a34e7d13": {
   "created_at": "2026-11-10T02:27:01.396245Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be between $160M and $180M by December 15?",
-  "revisions": 1,
-  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "revisions": 2,
+  "sha256": "b1fd34eacc0686331bbdcf78aa08533baf920a03b3357e068998c26d64cbeba3",
   "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-between-160m-and-180m-by-december-15-20261108"
  },
  "0x3e4fa12e093d79a49608cd0650b7452cae5175091bc254dab6b856ae87ba4913": {
@@ -1191,6 +1191,15 @@
   "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
   "slug": "will-order-of-the-sinking-star-win-best-independent-game-at-the-2026-game-awards-1785857780330"
  },
+ "0xa5d1c11ac3c366e45483301064ebec835c23e5b091913933e58b7f8df3f58913": {
+  "created_at": "2026-10-25T09:00:12.602431Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 0 - 2 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-0-2"
+ },
  "0xa67cce4321fb2ca71323547c89ac1fa510d8bf4a193ad4f1b3c8894ac20c6813": {
   "created_at": "2026-10-15T18:01:08.265547Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1781,6 +1790,15 @@
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-zhuo-have-the-most-kills-at-worlds-2026"
  },
+ "0xf8360ccc5485d6e1511b490f74a22a814927d0bc6b4b5d9934c7b29d3daf1e13": {
+  "created_at": "2026-10-19T09:00:13.31514Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 2 - 4 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-2-4"
+ },
  "0xf8f8433fdd92a67ed1c94658dfb013fc49f0983164c5c4873281b20344e59e13": {
   "created_at": "2026-10-29T20:51:15.636164Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1793,10 +1811,10 @@
  "0xfbaed3d610dea0402e099cfe6eeee7c3d6f5b450cfbc3c4e0d83b359907e9813": {
   "created_at": "2026-08-24T22:37:12.424672Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Dunesday beat Barbenheimer's opening weekend record?",
-  "revisions": 1,
-  "sha256": "ab7ad695b5627a69d9f2f3be84b0b8f6114c4cab7add6c8537539703883ddf23",
+  "revisions": 2,
+  "sha256": "b997a73508a5f0d46851c54e813b52dd6eee147918338e3f68875b44b402e28f",
   "slug": "will-dunesday-beat-barbenheimers-opening-weekend-record"
  },
  "0xfd33bb051d9c316b6f1d23a53c9765ca93c91bdd1599f04760fc68d38549ab13": {

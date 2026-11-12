@@ -297,6 +297,15 @@
   "sha256": "cdb07db6f75b079def2f23ec288634f02c3b0684285e8cb5d16614fd6f5121bc",
   "slug": "2026-senate-or-governor-race-goes-to-full-recount"
  },
+ "0x3ef8b7ece18fc9c806fbd7a3200769e36d305b1dbd432204be6ec368df06d816": {
+  "created_at": "2026-11-10T22:13:44.408898Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Trump meets with Kim Jong Un by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "efdedc7bacddb4865bbb182d50dc45829cbae3786c65d51bbf571f28552ebd02",
+  "slug": "trump-meets-with-kim-jong-un-by-december-31-2027"
+ },
  "0x4048b6095c016d93ded2877cfbcb088370856e874111f9ba79c71152954db316": {
   "created_at": "2026-10-30T14:53:38.438012Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -536,6 +545,7 @@
   "created_at": "2026-10-26T17:03:30.806299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Gemini Carbon released by November 30, 2026?",
   "revisions": 1,
   "sha256": "cc3249635cf13f14ba5a4a5b7e3faf4ab4d564fa030a38703f5a4dbe894e2489",
@@ -1439,6 +1449,15 @@
   "revisions": 1,
   "sha256": "be1356a8b1efee0be1dabe61a2d40624432fa5e4313e365b81e4b96af0c0bd5b",
   "slug": "f1-qatar-grand-prix-constructor-pole-position-racing-bulls-2026-11-28"
+ },
+ "0xf2664dc8bd907b09f9459be949f58608c81337c87e55495d9b880e38c431a416": {
+  "created_at": "2026-10-20T06:00:12.753191Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Kolos Kovalivka 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "7b01987d7ebce3281c77ed9ab7590cea4430328fe2c7cce15d315f4a362571f2",
+  "slug": "ukr1-kol-pol-2026-11-01-first-half-team-total-home-3pt5"
  },
  "0xf2bc1ed26ac2f387270c516b2cfde77d4396c51a758e61ccd11fe90dd63c4516": {
   "created_at": "2026-08-06T08:16:41.66062Z",

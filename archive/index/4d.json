@@ -75,10 +75,10 @@
  "0x0a450772a93368d4797127c60e1a42924f430d4a5921e13e78c8bd7e8562f94d": {
   "created_at": "2026-10-20T23:21:40.686813Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will the total domestic gross for \"You Can See Everything\" be between $125M and $150M by November 30?",
-  "revisions": 1,
-  "sha256": "2b21faac0d38ed4664ead758cfd14d0338f3928080e369782c3eddb3a24e7d8d",
+  "revisions": 2,
+  "sha256": "5dd7f3f256500cc4c82467b0c2be0f6823394a720708b7e9726ba250d45be417",
   "slug": "will-the-total-domestic-gross-for-you-can-see-everything-be-between-125m-and-150m-by-november-30"
  },
  "0x0af4b09e4db339c755d863019b3b94ade9e8458674771d1892dfba0947565d4d": {
@@ -797,6 +797,15 @@
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
   "slug": "f1-las-vegas-grand-prix-practice-3-fastest-lap-carlos-sainz-jr-2026-11-20"
  },
+ "0x980fa81623def86cee38c4083d88d6ae9abd399d17056874d7f11b60f275eb4d": {
+  "created_at": "2026-11-11T01:19:26.227936Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will the next Gemini model family be named Gemini Helium?",
+  "revisions": 1,
+  "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-helium"
+ },
  "0x9826355ea18ae77199fbf64bb121fdce76e8490d94391e6ee41b98d53c1f294d": {
   "created_at": "2026-05-04T15:11:19.448527Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1348,6 +1357,7 @@
   "created_at": "2026-08-11T18:50:12.95038Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-05 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "3ee36825ef4a19356c1edddb146ef90823787c1b701fbe44f1df69455135840e",

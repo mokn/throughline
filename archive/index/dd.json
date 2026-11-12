@@ -112,6 +112,7 @@
   "created_at": "2026-01-28T15:29:40.618197Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party win the FL-07 House seat?",
   "revisions": 1,
   "sha256": "e650a824fa9b4af807614d18e6334af7c455e60dd8ec24abe06f4db864673c75",
@@ -279,6 +280,15 @@
   "revisions": 1,
   "sha256": "9311c4c4d531687352f03bf9a6b02b2b77706637e2e88ec9cd6186ed1bc71c02",
   "slug": "will-the-republican-party-candidate-win-the-2026-arkansas-senate-election-by-15-20"
+ },
+ "0x3ed1fb66b2f288a9a9c9136f3397ee0e873f41d1738552023c2ed7331bd431dd": {
+  "created_at": "2026-11-10T16:40:32.040955Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Next Israeli government formed by December 15, 2026?",
+  "revisions": 1,
+  "sha256": "a0b7e9bf61d6e8b8bc623f97f99f4ab95e2d52b32e038c36fd2daab6eac04f98",
+  "slug": "next-israeli-government-formed-by-december-15-2026"
  },
  "0x3f183b4ae44f8f9bf8967b3a47667fbbbd192b0f344fd3320bae1e271a0bf4dd": {
   "created_at": "2026-10-13T15:44:09.512086Z",
@@ -851,6 +861,7 @@
   "created_at": "2026-10-24T03:31:09.884648Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Kimi K3.1 Pro debut at a score of at least 1480 by June 30, 2027?",
   "revisions": 1,
   "sha256": "bbe7489c59af0ad13a661d71cbdf18ff5519bb9b91ec4afccced466be3473226",
@@ -1129,6 +1140,15 @@
   "sha256": "fc4a8e2e185cf0638db9e5457961dd23d0f718c0690fa2a4eea7f6d50e676db9",
   "slug": "will-star-wars-the-mandalorian-and-grogu-be-the-1-searched-movie-on-google-this-year-20260730181459214"
  },
+ "0xcefc033293b686dc9de571e652d0277c136d8a53bc4d2b789d4a18d99b66b4dd": {
+  "created_at": "2026-10-26T06:00:18.760251Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Karpaty Lviv O/U 5.5",
+  "revisions": 1,
+  "sha256": "f7591908ad4a41b08ba6c1c29504a2581cedcc124a67694898bc852c04787bac",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-away-5pt5"
+ },
  "0xcf027a001828dbde0ccf448dcd5dff25bc50f3fb13e93abcbf780999881c9cdd": {
   "created_at": "2026-08-24T16:33:22.326187Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1242,6 +1262,7 @@
   "created_at": "2026-08-26T21:46:52.187113Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Gimnasia y Esgrima (LP) keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -1365,6 +1386,15 @@
   "revisions": 1,
   "sha256": "587c934d8756b6510c76a8f370baa5b84b2daff2fb11fb898e67cb653a670cd1",
   "slug": "jaxon-smith-njigba-1524pt5-receiving-yards-2026-27"
+ },
+ "0xefe7468dde0c27ba47bb957ade10134ada3cde36ebcc044bf372dc34ac0126dd": {
+  "created_at": "2026-10-25T09:00:13.610722Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 4 - 1 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-4-1"
  },
  "0xf10f706f6015daeb3f81d088c1d6b41b44e66c58750296236b8cd40ff1fed8dd": {
   "created_at": "2026-09-13T09:44:17.991224Z",

@@ -840,6 +840,15 @@
   "sha256": "7ca1c48c1366acd3f87b8c9f2434a82812eacc1b4821188298ea2acba23d49d9",
   "slug": "will-the-highest-recorded-wind-on-mtpt-washington-in-november-be-at-least-125-mph"
  },
+ "0x8ca439750d930876caf00a64a1d5b979af4b915c4f33804101667a64014364f2": {
+  "created_at": "2026-11-11T01:19:51.873968Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Tencent have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-tencent-have-the-best-ai-model-on-december-15-2026"
+ },
  "0x8e7d5adb2251a60d2d839b503e24b75c5e2b0c1a78993a2c4825425b80765ef2": {
   "created_at": "2026-03-10T17:24:56.847899Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1337,6 +1346,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-sam-reinhart-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0xd3b8bb711502cfc916581bc0150bd07e1f5e6cd2396781a02cc0bf759cb3a2f2": {
+  "created_at": "2026-10-26T06:00:19.886468Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Karpaty Lviv 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "0f54b4590b6aa13351b0873ebea2895d356c731d20cd87e9ddaf8eb2725a7df0",
+  "slug": "ukr1-met-kar-2026-11-07-first-half-team-total-away-2pt5"
  },
  "0xd3f9d7d38d54d31915e3c6b557ca33d26d8944bb3384b6f074a4a708515b38f2": {
   "created_at": "2026-09-28T17:21:33.860899Z",

@@ -310,10 +310,10 @@
  "0x314cde701db3864df8b445a46a66ff06b07f3d7e9357ddb3bb7fcbd9d652f21f": {
   "created_at": "2026-10-30T23:55:27.533857Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Avengers: Doomsday\" Opening Weekend Box Office be less than 260m?",
-  "revisions": 1,
-  "sha256": "b3ce6dc14b07ec809a85d2a38b29cdab375d4d1782def0dfc0907b9274d37f90",
+  "revisions": 2,
+  "sha256": "f981aff0c0741559f57eb548f18e6eb27f360662ced9f35afb4ee9325f81b67f",
   "slug": "will-avengers-doomsday-opening-weekend-box-office-be-less-than-260m"
  },
  "0x34924a7909210d5e92f1d427f8543497809d7e6a4775b6d63dd1c8e1493b1e1f": {
@@ -566,6 +566,7 @@
   "created_at": "2026-09-02T21:58:07.359729Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Maryland Terrapins advance to the 2026 Big Ten Championship Game?",
   "revisions": 1,
   "sha256": "fd4c7e8ceedd980d34926e9e21652b32ffb8583154f3bbd149a27f1f589e512c",
@@ -971,6 +972,7 @@
   "created_at": "2026-08-26T21:46:52.870377Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Lan\u00fas keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -1528,6 +1530,15 @@
   "revisions": 1,
   "sha256": "0f2e549ed8062fcec528698c9fe54e1ce87405d9f074d4c3ee3a9a98758415a6",
   "slug": "jalen-hurts-2999pt5-passing-yards-2026-27"
+ },
+ "0xea72fb0cba447ad5461664dfbc3e6a734dc45b4fbf9892e9dacfb88ff3d2171f": {
+  "created_at": "2026-10-16T18:05:41.37831Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Ben Ferguson be the next White House Press Secretary?",
+  "revisions": 1,
+  "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
+  "slug": "will-ben-ferguson-be-the-next-white-house-press-secretary-2027"
  },
  "0xed11a3ef7203d66fb05a70680a001ff2305f299005f5b62fdfaa1e9aa67aff1f": {
   "created_at": "2026-08-07T20:18:26.893822Z",

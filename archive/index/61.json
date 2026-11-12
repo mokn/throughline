@@ -461,6 +461,7 @@
   "created_at": "2026-10-28T21:52:34.042033Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Gemini Carbon be released between November 30 and December 6, 2026?",
   "revisions": 1,
   "sha256": "51f3d77ca8e4aa09bcf508e9465649d08f8037cbe08841067db4ca2e32e9ec55",
@@ -855,6 +856,15 @@
   "revisions": 1,
   "sha256": "1dd93a2ed328338be39b74de88bb4683cc446dc8136c26236d8cc7bb3c21c129",
   "slug": "will-nancy-guthrie-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940436"
+ },
+ "0xb014adaa62d02d0b5588cab2942210acf34599e8c01819c90b4b63c0563ca961": {
+  "created_at": "2026-10-19T09:00:13.464803Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 5 - 1 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-5-1"
  },
  "0xb44a6322269d5ea20f28bcd63221bf06a2ee8d89061fa3e4e22e9bb43880bf61": {
   "created_at": "2026-01-28T04:54:38.563795Z",

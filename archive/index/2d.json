@@ -53,6 +53,15 @@
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",
   "slug": "will-deft-play-for-ninjas-in-pyjamas-in-2027-1790107563296"
  },
+ "0x0afa615e793a7dfa147ff29c6af046b58aa8ce804ad2cd41bc9b9c16d43b452d": {
+  "created_at": "2026-10-25T09:00:12.470742Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 0 - 1 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-0-1"
+ },
  "0x0c39750e9725274408e4b928c7580b94d9a35bd457f9540d09ed0a0e4ded222d": {
   "created_at": "2026-11-03T17:03:57.003408Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -812,6 +821,7 @@
   "created_at": "2026-08-05T20:56:57.307115Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 South Carolina gubernatorial election by 10%-15%?",
   "revisions": 1,
   "sha256": "b4d74d2a9a8401c31882e530ba1acafbeb763ecd97f1f450a524442d126bb516",

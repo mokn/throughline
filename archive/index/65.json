@@ -337,6 +337,15 @@
   "sha256": "d902db81bbbee656a0286e3fb77ae952cc2c455e228d2311c85cc97463479567",
   "slug": "will-the-republican-party-candidate-win-the-2026-mn-08-house-election-by-3-6"
  },
+ "0x28fcbfb09eeeffd96a96777d5b530866aa54b0d7fa8b45f6605b9bf2fa234365": {
+  "created_at": "2026-10-26T06:00:16.220864Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "007ed45116acc41203dd88d2d2a2c1c59812e1dd5fe6b266569563efc0525ff5",
+  "slug": "ukr1-met-kar-2026-11-07-first-half-total-0pt5"
+ },
  "0x2c608c3253f59fcc563081dc3bab61694973f0e3ba22701c17f9d82a96511565": {
   "created_at": "2026-05-05T18:03:38.941421Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -433,10 +442,10 @@
  "0x3b79cc53bbbccf8b67982e1912163b1ec53ff910b64b787591d29fe93bf27665": {
   "created_at": "2026-10-14T23:18:05.044301Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be between 95m and 105m?",
-  "revisions": 1,
-  "sha256": "fb4df60d8e9ec189689268ce66c470e9c32d37c30260e8472b7144069a03aa8d",
+  "revisions": 2,
+  "sha256": "57ab6cee00ffbf3d5021a8bd1a8388bcb13e02785fb7153d94e81c5f78481318",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-opening-weekend-box-office-be-between-95m-and-105m"
  },
  "0x3d3d3caf10661e5d1be2c2f81e20a190bdd4571d8cdd3f29456c901441d91665": {
@@ -497,6 +506,7 @@
   "created_at": "2026-08-26T21:46:51.520198Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Aldosivi keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -565,6 +575,15 @@
   "revisions": 1,
   "sha256": "cc33e62a2bb4c50e1d904dce0a2bfd6b6ab4da9b5ab7d7f1d5769d3f3831637a",
   "slug": "will-democrats-win-exactly-43-house-seats-in-california-in-the-2026-midterm-elections-20260811010741876"
+ },
+ "0x4b57d423281da60c32a405b7c5bcfa91ab69aa69e2d5d9999f4d616930326b65": {
+  "created_at": "2026-10-26T06:00:17.328308Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Kharkiv O/U 2.5",
+  "revisions": 1,
+  "sha256": "a404d2e04ae2986b7ae37d79f9abe2f875f7a2d6721a1ab87de204ff315f308a",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-home-2pt5"
  },
  "0x4c557fac970ab6f35678cb09800794d2f47e170b8b0ce8a173ebdc62e752ea65": {
   "created_at": "2026-10-01T00:03:19.440118Z",
@@ -789,6 +808,7 @@
   "created_at": "2026-08-11T18:50:27.090769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 SC-06 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "fe127d058e1681f51c386d30d20bc82b6634fcd313d9b2e3cfc25d6ce65d324d",
@@ -1717,6 +1737,7 @@
   "created_at": "2026-07-31T22:45:19.014585Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Michigan State Spartans Win the 2026 Big Ten Championship?",
   "revisions": 1,
   "sha256": "fc45931270469f07370bd80caec0e54d5292fb568697373133e4eec6be4ea8bc",

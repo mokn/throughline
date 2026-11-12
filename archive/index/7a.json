@@ -40,6 +40,7 @@
   "created_at": "2026-08-11T18:50:13.251526Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-03 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "4dc36b76383632c21571dfb1ef09044f9ef6b2fd791fde0327ebb0e14518b7db",
@@ -184,6 +185,7 @@
   "created_at": "2026-08-04T18:36:50.057624Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 5%-10%?",
   "revisions": 1,
   "sha256": "313263bcd6569123f03e3c07b305180a95ee6a24eb3f0838d7617de171b4645d",
@@ -203,6 +205,7 @@
   "created_at": "2026-10-28T21:52:32.494593Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Gemini Carbon be released between November 23 and November 29, 2026?",
   "revisions": 1,
   "sha256": "51f3d77ca8e4aa09bcf508e9465649d08f8037cbe08841067db4ca2e32e9ec55",
@@ -421,6 +424,7 @@
   "created_at": "2026-08-05T21:02:04.448935Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming gubernatorial election by 45%-50%?",
   "revisions": 1,
   "sha256": "e8cb04ba2e7e99435ccbd4ea94fcdb9cb206050fbfa8a481446d38bb2e577213",
@@ -633,6 +637,15 @@
   "sha256": "91fc1ae8a779d4e7836224c7adfe95d42bb3428826bf7d77bae865bdcf125aa1",
   "slug": "will-santa-clara-finish-3rd-in-primeira-liga-2026-27"
  },
+ "0x658baf6c6bcb7b24eedbf4f48a8f5c3d3ae13ca2ce77fc8bad11fddd86c2127a": {
+  "created_at": "2026-10-25T09:00:14.242261Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 5 - 2 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-5-2"
+ },
  "0x65dd01ea657af1db37e7b53a4db84a93aa33e08577c90c7b314f84a8d56bb57a": {
   "created_at": "2026-09-29T00:12:19.6516Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -760,6 +773,15 @@
   "revisions": 1,
   "sha256": "8f5d4d1da1ddcb7c115f16db5e37ae994f0f16b1b895579af5c8e651a683ab9a",
   "slug": "dk-metcalf-5pt5-receiving-touchdowns-2026-27"
+ },
+ "0x7a9cd9078a44b556a8c70cad0b50d846cf537cdb0894686faaf99f88fac3517a": {
+  "created_at": "2026-10-26T06:00:19.562333Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Karpaty Lviv 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "9530442419eaec71bb97ee654f253d09796ac905c25494bec63e8e195515145c",
+  "slug": "ukr1-met-kar-2026-11-07-first-half-team-total-away-0pt5"
  },
  "0x7aeff8e6e463a7db6e5f3e6ec6f40fa48831c2047157bd5cba5861b603fe197a": {
   "created_at": "2026-08-11T22:55:19.626056Z",
@@ -931,6 +953,15 @@
   "revisions": 1,
   "sha256": "9c36e4f6e92ef27876ff93e7f3d7dd25c8d789e52256a6394a17c8dfdbac367d",
   "slug": "will-digger-win-best-film-editing-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x9058ebfd8bef22a275967afaa9e1a1de8518f9f6e7c44366d8d5c48457ab797a": {
+  "created_at": "2026-11-11T01:19:50.56015Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will MiniMax have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-minimax-have-the-best-ai-model-on-december-15-2026"
  },
  "0x90f15a7d54cc507dabd869d0c92b870449703437eac9c7814518c81f46f6ab7a": {
   "created_at": "2026-01-28T15:41:51.368189Z",
@@ -1108,6 +1139,7 @@
   "created_at": "2026-08-11T19:03:13.947972Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 WY-AL House election by 35%-40%?",
   "revisions": 1,
   "sha256": "6ed73371451eb368dbd1edb7d0b2d8f65ed4034667bd22fa7d78cb6ce26e270d",

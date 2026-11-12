@@ -231,6 +231,7 @@
   "created_at": "2026-08-11T18:50:28.197826Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 SC-06 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "fe127d058e1681f51c386d30d20bc82b6634fcd313d9b2e3cfc25d6ce65d324d",
@@ -398,6 +399,15 @@
   "revisions": 1,
   "sha256": "a4ee061de54158f4d004a948db49a3c4611c493b93073e0d608bc5a71775ffc4",
   "slug": "will-abnb-dip-to-144-in-november-2026"
+ },
+ "0x4f7a90b57a25d2dd4e84f46eb05088d0d1c84754f35845c6f3baa01229786d01": {
+  "created_at": "2026-10-20T06:00:08.425845Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: O/U 4.5",
+  "revisions": 1,
+  "sha256": "a06d6178270ba7a7890d38045c5241dfbe142de95271f13a51874d40bc93deee",
+  "slug": "ukr1-kol-pol-2026-11-01-total-4pt5"
  },
  "0x505ba0e93ea67bad2f0360fb36e9c82b2137fb4d70fbe01b8805d77f5bcb7901": {
   "created_at": "2026-08-11T18:24:21.868797Z",

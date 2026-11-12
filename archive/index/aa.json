@@ -402,6 +402,7 @@
   "created_at": "2026-08-04T18:40:24.558302Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming Senate election by 50% or more?",
   "revisions": 1,
   "sha256": "df468581691e2cd5e547ea98b2e62fd482e75c312833748d22f274054dec15d7",
@@ -924,6 +925,15 @@
   "revisions": 1,
   "sha256": "42466225b54a9dd55e702df629190490b0c8a52d006735341faf0394a35c3e66",
   "slug": "will-republicans-win-less-than-8-of-the-black-vote"
+ },
+ "0x9ca4c735a5e5a68372d96074dfd18607b7bcee180232c8fe31b7b8682cd85baa": {
+  "created_at": "2026-10-25T09:00:12.538038Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 1 - 0 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-1-0"
  },
  "0x9cc84f82cdd41fdc7db259145514d0dc44716eba581793f9d40601e666f082aa": {
   "created_at": "2026-09-30T20:03:54.091314Z",

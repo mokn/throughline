@@ -347,6 +347,15 @@
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-gianluca-scamacca-score-the-most-goals-in-the-2026-27-uefa-conference-league"
  },
+ "0x47e166a8578fdbd926ea8d2286c349ff03222eedd3f3f20caa3b72a2eaf7303a": {
+  "created_at": "2026-10-25T09:00:13.16889Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 2 - 2 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-2-2"
+ },
  "0x48b8d5fbf3e145d47ac9eda0b0c02f3f4501d5d02882642ab655e11ed14d123a": {
   "created_at": "2026-11-07T00:05:02.678401Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -603,6 +612,7 @@
   "created_at": "2026-10-24T03:36:09.581359Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Kimi K3.1 Pro debut in the top 10 of the Text Arena leaderboard by June 30, 2027?",
   "revisions": 1,
   "sha256": "4dba840a74d420fcde1028b33cc1eb81bbe35ab32284b561e571f329821d0b1f",
@@ -1048,6 +1058,7 @@
   "created_at": "2026-09-23T14:51:18.371431Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Houthis successfully target shipping by October 31, 2026?",
   "revisions": 1,
   "sha256": "7b758f632d548b1c8de18f9ca37a1f0cb04d526ba0304f490d3e819393cce300",

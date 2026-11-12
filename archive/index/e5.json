@@ -98,6 +98,15 @@
   "sha256": "5123cc7eb18f5c7247bbdb9d28cf459e1d677d51d824e0b906fda0fd69f12cf7",
   "slug": "will-pt-win-the-most-seats-in-the-2027-quintana-roo-congress-election"
  },
+ "0x11f40dd24cd83a71a46f7f62e3b0cbda3dd32914b147eee08220110fd64859e5": {
+  "created_at": "2026-10-26T06:00:17.479917Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Kharkiv O/U 3.5",
+  "revisions": 1,
+  "sha256": "eda3d8da403723dd91b7e857314e8558f71d4817462ec13800d5fdd89b696835",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-home-3pt5"
+ },
  "0x133faf3d1328d5ec3a7a6b1bd28af7eaae746ecba9f59ca70ac25a601ea9bae5": {
   "created_at": "2026-09-04T19:25:44.547673Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -704,6 +713,15 @@
   "sha256": "884c6e8e81433ab154a6687fd724dbc49935e9c0cc8fe78b4b9fc8753c1b87fc",
   "slug": "will-tencent-be-the-second-best-ai-lab-at-the-end-of-november-2026"
  },
+ "0x70d3c3028d99d5613f3d0ffca968603c577f186ef6d1a94f6487894ad31e46e5": {
+  "created_at": "2026-11-11T01:14:39.543922Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Krypton debut with an HLE-Diamond score of 60% or higher?",
+  "revisions": 1,
+  "sha256": "541291542ab41c4ee7a37dd7403c7b48c0816e74c63170ed14aa2254751ace3a",
+  "slug": "will-gemini-krypton-debut-with-an-hle-diamond-score-of-60-or-higher"
+ },
  "0x7372598c81b705a2bc74b6be30c499cdb3c61ce862e42874793e35879012f2e5": {
   "created_at": "2026-11-06T23:09:49.362274Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1215,6 +1233,7 @@
   "created_at": "2026-03-25T22:07:03.715907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Don Mattingly win the 2026 NL Manager of the Year?",
   "revisions": 1,
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",

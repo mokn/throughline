@@ -144,6 +144,15 @@
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
   "slug": "will-queretaro-finish-2nd-in-the-2026-liga-mx-apertura-20260722170637358"
  },
+ "0x16c120f0d314f7f24c8765af2e942b10458cdb52e8391380049c0385d3333185": {
+  "created_at": "2026-10-25T09:00:11.834838Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Karpaty Lviv leading at halftime?",
+  "revisions": 1,
+  "sha256": "a605d2256c1968c58cc4b5a3e6ccc55431b48e93cdee4f680899d83bddf2a8ca",
+  "slug": "ukr1-met-kar-2026-11-07-halftime-result-away"
+ },
  "0x17a0a4c8d29c95bf6f3e3576fc603faf29ae681a0924719cf27a89ec46efa185": {
   "created_at": "2026-02-28T21:24:00.955745Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1225,6 +1234,15 @@
   "sha256": "41fa9e79b5b804f34e2e23bc763f0af3476a1aace9c5d405b98896bc6f9a4c58",
   "slug": "will-the-republican-party-candidate-win-the-2026-ne-03-house-election-by-60-65"
  },
+ "0xcbc01ec21fc7e17c4ab63b6c36e34f6a2949b700e622fbc9bb51d8e278064985": {
+  "created_at": "2026-10-19T09:00:10.115389Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will FK Kolos Kovalivka win on 2026-11-01?",
+  "revisions": 1,
+  "sha256": "d11d1ce87b4dd8a009010de223b8c5d70eaf9c8bddc9e587d0b308fa40af16af",
+  "slug": "ukr1-kol-pol-2026-11-01-kol"
+ },
  "0xcde6bde7badb78c5786de2f17b8e737fb012c73c3915b139a66b6993d8e0d185": {
   "created_at": "2026-10-01T14:01:04.594405Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1406,6 +1424,15 @@
   "revisions": 1,
   "sha256": "8b446790da37aeb4b35c36966a7b408f61ac0fb8d5db8043fc324bb9ae7ab6bf",
   "slug": "luther-burden-iii-824pt5-receiving-yards-2026-27"
+ },
+ "0xf0fbdaa382ab207dc473d1062c678e91b19d6da57fae4b8a68ad30823dd33385": {
+  "created_at": "2026-10-25T09:00:12.801621Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 0 - 3 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-0-3"
  },
  "0xf177376cf64c5aa76e7e25e4bec67acbb7530785f29c7c03589d221adbca0f85": {
   "created_at": "2026-09-28T20:07:20.416357Z",

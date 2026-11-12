@@ -391,6 +391,15 @@
   "sha256": "1f4dac7703e6c7a366df688c61c1de1ea9086934883bc4ee986a4201b5075349",
   "slug": "will-russia-enter-kharkiv-by-december-31-2026"
  },
+ "0x39a7f1c1069df176852e571ac80e5af5070fe5bad8656c3172218435236fce84": {
+  "created_at": "2026-11-11T01:19:45.060524Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Baidu have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-baidu-have-the-best-ai-model-on-december-15-2026"
+ },
  "0x39adbfc4aa6897b33e855c4c389fd9964a576bda96901b4f98796a6369c33084": {
   "created_at": "2026-07-29T21:47:11.891097Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -645,6 +654,15 @@
   "revisions": 1,
   "sha256": "68964fb86d9f09f22688b7e15974b63470029652859b042ea15337057c68261d",
   "slug": "barcelona-uefa-negreira-verdict-announced-by-january-31-2027"
+ },
+ "0x624186a9112d6238c8bf5e5b6135385e669407ddda10eb1ac8f32ab2c07e0e84": {
+  "created_at": "2026-10-19T09:00:12.583264Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 3 - 0 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-3-0"
  },
  "0x63b5e315b0293832e9f42a7f94983da7df8664dc0fc9a9d03e34a9ebb8ec4384": {
   "created_at": "2026-10-13T15:49:35.199461Z",
@@ -1331,6 +1349,7 @@
   "created_at": "2026-07-31T22:42:24.645696Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will UTEP Miners Win the 2026 Mountain West Championship?",
   "revisions": 1,
   "sha256": "8862799b3fbca5d75138c6bf80655a0327d1cae8ef6c7208ae29cde680cc69d2",

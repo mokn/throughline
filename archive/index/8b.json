@@ -693,6 +693,7 @@
   "created_at": "2026-10-05T21:55:18.110855Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Dua Lipa headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -968,6 +969,15 @@
   "revisions": 1,
   "sha256": "7e2f4e277f827f89b038e3aa331253cce8c1673238161c53909b87e1a74f7f3f",
   "slug": "will-aleksandar-repic-win-the-2026-ljubljana-mayoral-election"
+ },
+ "0x8d697e0ef239d705a504beab5da249feb7f339a198e0fb7671aa496ff610d08b": {
+  "created_at": "2026-10-20T06:00:06.876413Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Polissia (-3.5)",
+  "revisions": 1,
+  "sha256": "6240f775130e9cbc888c2d271e056bf21cdc43b05682eff1bca5431bfa215671",
+  "slug": "ukr1-kol-pol-2026-11-01-spread-away-3pt5"
  },
  "0x8e8c42281afb239bf4f4d574b72016a6bca1c13edbcb000bb7cce69d30ba208b": {
   "created_at": "2026-09-02T20:14:50.478563Z",
@@ -1355,6 +1365,7 @@
   "created_at": "2026-08-04T18:36:49.556386Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 South Carolina Senate election by 15%-20%?",
   "revisions": 1,
   "sha256": "313263bcd6569123f03e3c07b305180a95ee6a24eb3f0838d7617de171b4645d",
@@ -1373,6 +1384,7 @@
   "created_at": "2026-08-24T16:40:30.492013Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Universitario keep the most clean sheets in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "d5c32b7a8d676069b2dd9fc5e7ad8a77e4ce61b124691b6878781e9124298c6d",
@@ -1527,6 +1539,7 @@
   "created_at": "2026-10-28T21:52:36.400383Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Gemini Carbon be released between December 28, 2026 and January 3, 2027?",
   "revisions": 1,
   "sha256": "51f3d77ca8e4aa09bcf508e9465649d08f8037cbe08841067db4ca2e32e9ec55",

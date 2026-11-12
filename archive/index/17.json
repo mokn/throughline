@@ -563,6 +563,15 @@
   "sha256": "287cabed31489cb8d46bd3171095e68baf26c3556a579ffbc38bd0ab533cc502",
   "slug": "will-anthropic-announce-bankruptcy-before-2027-kuqe-632"
  },
+ "0x7b04f9e5541a183bda7f62e9e311b51cc4e1e877095a622214099249fa909e17": {
+  "created_at": "2026-11-10T19:07:45.175249Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 55% or higher?",
+  "revisions": 1,
+  "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
+  "slug": "will-claude-fable-5pt2-debut-with-an-hle-diamond-score-of-55-or-higher"
+ },
  "0x7bec3361c613929e115c6abd4877a98da108559e9c58443f073ba6d9205e7617": {
   "created_at": "2026-02-09T20:45:34.252544Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -694,6 +703,7 @@
   "created_at": "2026-09-02T21:58:42.332782Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Old Dominion Monarchs advance to the 2026 Sun Belt Championship Game?",
   "revisions": 1,
   "sha256": "78b24eb42d21ffefeb4ea00c712a17830ae06b8c8a0bc258d1f0140f82a20d23",
@@ -979,6 +989,15 @@
   "revisions": 1,
   "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
   "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-russell-2026-12-05"
+ },
+ "0xc2ceb43188e67ca1bcfc0e5e4e8ec29889271acd17019eb5968485e3cd3eee17": {
+  "created_at": "2026-11-11T00:51:00.673974Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut at a score of at least 1520 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d367b97fa0476fb5edde9f2e4d0124da416050865764079ee0a73fe4d28b71c4",
+  "slug": "will-gemini-hydrogen-debut-at-a-score-of-at-least-1520-by-june-30-2027"
  },
  "0xc62ee2b38de574d34a0b58329822b65f3f32d7f943aeb38a8c3b95934a128817": {
   "created_at": "2026-11-09T21:15:02.770207Z",
@@ -1310,10 +1329,20 @@
   "created_at": "2026-08-18T14:06:41.565532Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Delaware be less than 275,000?",
   "revisions": 1,
   "sha256": "5cda66ad81637be3e0ca8836c7609a36a7e6069ae52a304e1404debbaa9dd28a",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-delaware-be-less-than-275000"
+ },
+ "0xf1906979b0da757496f9dafbdc1cd0f6e2fd20ce276d9f1346ca0da386489617": {
+  "created_at": "2026-10-20T06:00:07.317661Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Polissia (-4.5)",
+  "revisions": 1,
+  "sha256": "bfec73fa489fb9e673a422741e32975bb2c023adb0ec5a3070d6e05e95a80c90",
+  "slug": "ukr1-kol-pol-2026-11-01-spread-away-4pt5"
  },
  "0xf1ba696849e70bdec038aff7ad41017f868e5548ff5ac0956d7b654adaa34a17": {
   "created_at": "2026-07-24T01:47:28.684889Z",

@@ -260,6 +260,15 @@
   "sha256": "1edddabb5e2893c4e283345230e8b142fd640b262add4e5b8747680f9e4afe1e",
   "slug": "will-blaze-berlowitz-be-the-2026-sec-passing-tds-leader"
  },
+ "0x2b83de07f49d2fe8f53fe104d7f39e1fe26cc4549ba607f58348a14014db1fea": {
+  "created_at": "2026-10-25T09:00:13.276201Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 4 - 0 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-4-0"
+ },
  "0x2be1e912646a778220071ad285a99ef95027da965b33e0d2b2d7e04f44a166ea": {
   "created_at": "2026-10-26T21:33:58.668612Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -517,6 +526,7 @@
   "created_at": "2026-10-28T01:38:10.994493Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Next Alibaba Qwen Max (3.9+) released by November 30, 2026?",
   "revisions": 1,
   "sha256": "705be342304ef8f14b32acb09672e7dacb4735dba7077286c59ca4a192d9e54e",
@@ -1121,6 +1131,24 @@
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-rayan-cherki-win-the-2027-ballon-dor"
  },
+ "0xda897587bbc9bbf59e83dc5496b86fef2cb99bcd163b5d5e59fd843ee672c4ea": {
+  "created_at": "2026-11-11T01:19:52.273277Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will StepFun have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-stepfun-have-the-best-ai-model-on-december-15-2026"
+ },
+ "0xdb0606910ca9e8b3fdab3e0a36607cde33bcea74409cc30ddedb4d4d608446ea": {
+  "created_at": "2026-10-19T09:00:12.279765Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 1 - 1 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-1-1"
+ },
  "0xdc5c5287959387838cae1d923c99747c50c7dfc4e519b97dd73a3a35c02989ea": {
   "created_at": "2026-08-07T20:17:55.547762Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1138,6 +1166,15 @@
   "revisions": 1,
   "sha256": "41254663981fa3180d82b9bfc36352ea177aca93a1c0987e5afe54ed9dfba639",
   "slug": "israel-x-syria-diplomatic-meeting-by-november-30-2026"
+ },
+ "0xdd2477a364c0d06880afbbad646c9ea6fc525c200fb05356ca33dac2092a99ea": {
+  "created_at": "2026-10-26T06:00:17.628862Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Kharkiv O/U 4.5",
+  "revisions": 1,
+  "sha256": "e9baa9f42bd94783058baeb9d6eda9ee745760c841cba2588b6154007fede42e",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-home-4pt5"
  },
  "0xdf4ce480fd2ba9087d1e5933197eebf890a56a3db31823afba3f613a0b3282ea": {
   "created_at": "2026-08-11T18:34:08.63359Z",

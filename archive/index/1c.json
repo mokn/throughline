@@ -137,6 +137,15 @@
   "sha256": "b827314f4e27265ebcdc05976147959c439e3ce108014e94c1d63c4d08a900be",
   "slug": "el1-bra-bar-2026-09-26-second-half-result-draw"
  },
+ "0x2432b72af3a9c54efe6aa94dcce68dea1fdd580bcb3965888e8623b0c0173c1c": {
+  "created_at": "2026-10-25T09:00:14.337825Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 4 - 4 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-4-4"
+ },
  "0x24bf8708fc841e6bbff3e1b1dcde5864c80561022ce7ec7edffed45eef4f6e1c": {
   "created_at": "2026-08-24T16:36:16.745457Z",
   "first_seen": "2026-11-04T01:55:27Z",

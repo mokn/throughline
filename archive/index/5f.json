@@ -165,6 +165,15 @@
   "sha256": "aea884d42c3804d52315baf7f777cf08b63761a6ea1b151de4c4c31a64eb8fd9",
   "slug": "drake-maye-824pt5-rushing-yards-2026-27"
  },
+ "0x1b161c60881ca025df360c664359d73c7f299e52d1e77d01d4c8ccb3d3c90c5f": {
+  "created_at": "2026-11-11T01:14:38.750378Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Krypton debut with an HLE-Diamond score of 50% or higher?",
+  "revisions": 1,
+  "sha256": "541291542ab41c4ee7a37dd7403c7b48c0816e74c63170ed14aa2254751ace3a",
+  "slug": "will-gemini-krypton-debut-with-an-hle-diamond-score-of-50-or-higher"
+ },
  "0x1b56e8c26dc84f9ba437f11ef89896763b5b2641e29de5239b9964da930e6d5f": {
   "created_at": "2026-08-18T14:57:11.142353Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -950,6 +959,7 @@
   "created_at": "2026-08-07T19:14:32.274125Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 DE-AL House election by 35%-40%?",
   "revisions": 1,
   "sha256": "5dcf590b6de2f25791fbe001fe5615a73df37686b28671cd02e8cd80fff5ac90",
@@ -1017,6 +1027,15 @@
   "revisions": 1,
   "sha256": "c86866edffdd8e58ed9fca50b0f49e335bc454549c937034703a0ab614ee1020",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ar-04-house-election"
+ },
+ "0x92026f112e03460dcdcd03dbda6ca5a5d256e0584dd38f427f60c72995c91f5f": {
+  "created_at": "2026-11-11T00:54:22.901778Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Krypton debut at a score of at least 1520 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "1c5b27c33f9a7646bac03ec8010b664842a73d6bb66f51e1d069037d0c03a850",
+  "slug": "will-gemini-krypton-debut-at-a-score-of-at-least-1520-by-june-30-2027"
  },
  "0x92aa13a2776a84f443f145fd9fe674b8d516e7bdd1c902d3d3cc1e329a64ea5f": {
   "created_at": "2026-05-14T18:33:24.196581Z",

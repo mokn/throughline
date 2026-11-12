@@ -343,6 +343,15 @@
   "sha256": "4da6d08fb5fcbb5dc20b7dd273601b26fbe7cf205465018356db2394d2829f1e",
   "slug": "will-espanyol-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0x41be5aa3ee3a7de416a358c29d7b4055f5f7912daee65429a548cd197bf5a14e": {
+  "created_at": "2026-11-10T19:07:49.336394Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 65% or higher?",
+  "revisions": 1,
+  "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
+  "slug": "will-claude-fable-5pt2-debut-with-an-hle-diamond-score-of-65-or-higher"
+ },
  "0x44ec3321a0b09e5fa812b042819f2ce8129b3e06c4c3890b63e8e7799a99264e": {
   "created_at": "2026-10-13T15:49:41.6262Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -378,6 +387,15 @@
   "revisions": 1,
   "sha256": "ea794d50c1fe7055e6f4eed63236440980175638805ce87dd7ae17ec691234ec",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-franz-wagner"
+ },
+ "0x49d3a3807c7e5b9439a9e38c0359a3936b755cc4cb6e3bdd3c8eed175db4fe4e": {
+  "created_at": "2026-10-25T09:00:12.974894Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 3 - 0 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-3-0"
  },
  "0x4ae565c37d23830f9f0a2cffa5c28d017ed0bf1733e0cb5dd50884fcbfe8934e": {
   "created_at": "2026-08-10T23:57:25.66521Z",
@@ -536,6 +554,7 @@
   "created_at": "2026-08-11T18:50:15.183798Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 SC-05 House election?",
   "revisions": 1,
   "sha256": "3ee36825ef4a19356c1edddb146ef90823787c1b701fbe44f1df69455135840e",
@@ -554,6 +573,7 @@
   "created_at": "2026-08-04T18:40:27.041923Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming Senate election by 15%-20%?",
   "revisions": 1,
   "sha256": "df468581691e2cd5e547ea98b2e62fd482e75c312833748d22f274054dec15d7",

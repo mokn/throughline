@@ -1,4 +1,13 @@
 {
+ "0x02eae065ef55895815ae83a83ea615289b240e28c37a82dae5fb659f1956ff80": {
+  "created_at": "2026-10-26T06:00:16.552563Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "3a2f159758690c0dcd01e59598f94c0b5b665cada12af0cb48397ff41b382acb",
+  "slug": "ukr1-met-kar-2026-11-07-first-half-total-2pt5"
+ },
  "0x03c8e237dc07b9be5bb2ab0bf924d78e9629f0c759b10cf10469ad26d61b7580": {
   "created_at": "2026-10-13T15:56:39.811366Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -21,6 +30,7 @@
   "created_at": "2026-08-05T21:02:04.200218Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming gubernatorial election by 50% or more?",
   "revisions": 1,
   "sha256": "e8cb04ba2e7e99435ccbd4ea94fcdb9cb206050fbfa8a481446d38bb2e577213",
@@ -813,6 +823,7 @@
   "created_at": "2026-01-28T04:53:27.913633Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party win the CA-07 House seat?",
   "revisions": 1,
   "sha256": "68898b39f69ad087ec167e1d620afe88430ca3835020e17a14b8638be3759cca",

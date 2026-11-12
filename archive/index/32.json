@@ -194,6 +194,7 @@
   "created_at": "2026-10-05T21:55:24.964061Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Tame Impala headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -473,10 +474,10 @@
  "0x53dd034c865cfc7222e042e7abd26fbd26f9550b8e769a12c6df70116dd16432": {
   "created_at": "2026-10-30T23:54:25.651274Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Dune: Part Three\" Opening Weekend Box Office be at least 130m?",
-  "revisions": 1,
-  "sha256": "d56180981e4a632023033fc8afd291225f426512055a9dde3f756755e4b20c7a",
+  "revisions": 2,
+  "sha256": "843364d840ea300ea65e4cc147ed0d15375b5e82670bb8b958899a8cb8d16e8f",
   "slug": "will-dune-part-three-opening-weekend-box-office-be-at-least-130m"
  },
  "0x540190c4f4c82df1f2a6b3cdc8ca109c587bbb0677ad920e649444e58e3f7932": {
@@ -970,6 +971,15 @@
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
   "slug": "will-dan-ndoye-be-the-top-scorer-of-the-2026-27-uefa-nations-league"
  },
+ "0x9961b5dbc806a0d2c5a2a9c4a109b0a56bdd0a9e3091f52698b4b570190da732": {
+  "created_at": "2026-10-19T09:00:12.09268Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 0 - 1 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-0-1"
+ },
  "0x9b80f4746a0a53adeaef2f14742abb35b872b93f9c42556d2e5f23c4cd6ca132": {
   "created_at": "2026-10-13T15:56:40.287118Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1215,6 +1225,15 @@
   "sha256": "f9164d00dc50ad9b2a1c41e676b6f758af0cacc85e9ed5ced7fe08861f1c2588",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-16-house-election-by-55-60"
  },
+ "0xb90936ab94b55818a821a2241c852a987324243494066a5a9651961131cd2832": {
+  "created_at": "2026-10-20T06:00:11.95249Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Polissia O/U 4.5",
+  "revisions": 1,
+  "sha256": "45408dc441f66dee5870a0d352e8e4e11cfde50bcba3a2030c2f46af6584acbb",
+  "slug": "ukr1-kol-pol-2026-11-01-team-total-away-4pt5"
+ },
  "0xbaf4f06502de14f08ed845bb124f888183c6d1f16feb392a38cf6697ae56ea32": {
   "created_at": "2026-08-05T11:47:04.301253Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1327,6 +1346,7 @@
   "created_at": "2026-09-04T00:19:51.93957Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Fernando Mendoza be named the Raiders' starting QB by Week 11?",
   "revisions": 1,
   "sha256": "12318b85743e308cb39f74bf0f239804f6879d800ce3da57e0fd625b344f08f2",

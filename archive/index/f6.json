@@ -216,6 +216,15 @@
   "sha256": "3a19ea7049a3b6fef797fda3d7cd3b32ad71ba1f6f7a19dd30368d878f65ea87",
   "slug": "will-lens-keep-the-most-clean-sheets-in-ligue-1-2026-27"
  },
+ "0x1f78d778024896a154490b16dff2401d1a9f7611896f72b391977e31a3e7acf6": {
+  "created_at": "2026-10-16T18:05:40.897055Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Ben Moss be the next White House Press Secretary?",
+  "revisions": 1,
+  "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
+  "slug": "will-ben-moss-be-the-next-white-house-press-secretary-2027"
+ },
  "0x1f98ec58aa845d073cfb1f7f7bbe8bc5c5b45379df937bc77b728c26055205f6": {
   "created_at": "2026-01-28T15:35:16.041131Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1254,10 +1263,10 @@
  "0xbd8f87f5a0b904443a273cd14e723461649c7f430e537235c1e38b2aff96b9f6": {
   "created_at": "2026-10-30T23:55:29.701715Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Avengers: Doomsday\" Opening Weekend Box Office be between 300m and 340m?",
-  "revisions": 1,
-  "sha256": "b3ce6dc14b07ec809a85d2a38b29cdab375d4d1782def0dfc0907b9274d37f90",
+  "revisions": 2,
+  "sha256": "f981aff0c0741559f57eb548f18e6eb27f360662ced9f35afb4ee9325f81b67f",
   "slug": "will-avengers-doomsday-opening-weekend-box-office-be-between-300m-and-340m"
  },
  "0xbe555c50fc49ae7f1a970fbe13f226d179c192d87daa71c7ca082464b71fb8f6": {

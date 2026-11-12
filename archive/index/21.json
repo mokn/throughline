@@ -414,6 +414,15 @@
   "sha256": "84af221c8744c80433f0980b8c4439c142f0bfc80e490b61207c5bec01775076",
   "slug": "will-ground-beef-hit-10-per-pound-in-2026"
  },
+ "0x4fcac148737d48c7e5d1e44b1cc20f9c4787f7a09749255d893706568b09c421": {
+  "created_at": "2026-10-20T06:00:09.5417Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "628a71fe48519963f4982a3f68b1edf07c417dcec32772ea487229d40126604f",
+  "slug": "ukr1-kol-pol-2026-11-01-first-half-total-0pt5"
+ },
  "0x508cb0dbc5c2cdde1693828d304571e36c17672b0421e7ee6f59a50412f6b721": {
   "created_at": "2026-09-20T08:46:07.379153Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -821,6 +830,15 @@
   "revisions": 1,
   "sha256": "f5d9f2293f78205d5b97b16105dc17fc89bfea34ac6c930c7d0093b6a9529600",
   "slug": "will-crude-oil-reach-a-new-all-time-high-by-december-31"
+ },
+ "0x8a82dc80fd3ba41fb89baf39ee6ef24561f7841be58cb08c5ec6b9013806c021": {
+  "created_at": "2026-11-11T01:19:48.034684Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Amazon have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-amazon-have-the-best-ai-model-on-december-15-2026"
  },
  "0x8a932ac73f0a6c880d8806d3a36f5ec5fccdfb64f048978df64d4c258cd2bc21": {
   "created_at": "2026-09-04T19:50:31.485567Z",

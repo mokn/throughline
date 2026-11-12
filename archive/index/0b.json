@@ -1103,6 +1103,7 @@
   "created_at": "2026-10-20T23:04:56.537452Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will crashies play for Team Liquid in 2027?",
   "revisions": 1,
   "sha256": "c242e320a26f0c93a28f1aa21d57a45b3698f6fbcfd2f650fe45ee94dd00c855",
@@ -1139,6 +1140,7 @@
   "created_at": "2026-09-02T21:58:35.437108Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Hawai'i Rainbow Warriors advance to the 2026 Mountain West Championship Game?",
   "revisions": 1,
   "sha256": "5003b0df6850ea7a640af4d45d69147fd60d1833da5a724696142ab7e34c4266",
@@ -1542,6 +1544,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-jake-oettinger-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0xd9efad30f1bab9642946fc76a0570c5c5ab901e1c1596ba3ee29d6478471d30b": {
+  "created_at": "2026-10-26T06:00:14.120175Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Kharkiv (-5.5)",
+  "revisions": 1,
+  "sha256": "cbb11c34bbda3d7ec049aba5b7e40c19f847e2455255c73ba576311e8c12d834",
+  "slug": "ukr1-met-kar-2026-11-07-spread-home-5pt5"
  },
  "0xda67aa9d45d5dcfd5f4e7a2b002dbf5d91bd84b1db64381a85ddb341e39a350b": {
   "created_at": "2026-10-01T00:10:23.977145Z",

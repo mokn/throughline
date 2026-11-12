@@ -610,6 +610,7 @@
   "created_at": "2026-09-02T21:58:36.542133Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Northern Illinois Huskies advance to the 2026 Mountain West Championship Game?",
   "revisions": 1,
   "sha256": "5003b0df6850ea7a640af4d45d69147fd60d1833da5a724696142ab7e34c4266",
@@ -1015,6 +1016,15 @@
   "revisions": 1,
   "sha256": "9fcf1ad099a9fb56df0dd5350bbca8d0a989f760c9eab666200369eecd0e45c3",
   "slug": "will-willem-ii-be-relegated-from-eredivisie-2026-27"
+ },
+ "0x9936ad1d56b93862ddddad0c6d8593be9f60c84aee4c319867a8817252c2a459": {
+  "created_at": "2026-11-10T21:10:24.553232Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 75% or higher?",
+  "revisions": 1,
+  "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
+  "slug": "will-claude-fable-5pt2-debut-with-an-hle-diamond-score-of-75-or-higher"
  },
  "0x9f239c8b2cc987ce7bc416c93fa538ee11a34ec57afb486968a5e1584c0ded59": {
   "created_at": "2026-08-11T18:43:57.836935Z",
@@ -1620,6 +1630,7 @@
   "created_at": "2026-08-26T21:46:53.969624Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Rosario Central keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",

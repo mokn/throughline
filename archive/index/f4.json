@@ -108,6 +108,15 @@
   "sha256": "86ceb3b75052d661856c223e5eedd1b2ec5af3ca16de30c4f357e231c62c36a1",
   "slug": "will-cairn-win-best-game-direction-at-the-2026-game-awards-1785857784740"
  },
+ "0x154c5a764ba924baf340196195786e80b61ec79af76b3cfd6caaf187f67ce4f4": {
+  "created_at": "2026-10-20T06:00:11.614948Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Polissia O/U 2.5",
+  "revisions": 1,
+  "sha256": "dc38f365ae6e4c6696e0cd0fbab40a73f9b04c722714e7c578928797376c3c0a",
+  "slug": "ukr1-kol-pol-2026-11-01-team-total-away-2pt5"
+ },
  "0x15ff32e9c6daa4b089c9b729162175a0f3bece75ace2e4fce6ed247c9f65a6f4": {
   "created_at": "2026-10-13T15:44:11.229644Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -371,6 +380,15 @@
   "revisions": 1,
   "sha256": "e94ab8ba852cc091be8da9bcb1814c23c442982e27fdbc4405b54674d22cd04b",
   "slug": "2027-soccer-2-bundesliga-winner-hertha-bsc"
+ },
+ "0x4376479cfde9156772c19554b4c4a88e04bc814af80d5d00c801be0d6d7056f4": {
+  "created_at": "2026-11-11T01:14:39.926361Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Krypton debut with an HLE-Diamond score of 65% or higher?",
+  "revisions": 1,
+  "sha256": "541291542ab41c4ee7a37dd7403c7b48c0816e74c63170ed14aa2254751ace3a",
+  "slug": "will-gemini-krypton-debut-with-an-hle-diamond-score-of-65-or-higher"
  },
  "0x43f89dcbfe11505da4c7d450655a275c7a01fde347cdd824fece7f73e25240f4": {
   "created_at": "2026-09-04T19:42:27.565191Z",
@@ -874,6 +892,7 @@
   "created_at": "2026-08-24T16:35:48.377099Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Troms\u00f8 finish 13th in the 2026 Norway Eliteserien?",
   "revisions": 1,
   "sha256": "1fdc92a20f9e9bb537b72d34ec4f616ee93041f908dd28cc1414391d44073daa",
@@ -1429,6 +1448,15 @@
   "sha256": "f4d81b3e3329e469b99ba413f4392ef9b87a6808740c8cd642b0f81b5d466773",
   "slug": "will-celeste-amarilla-win-the-2028-paraguay-presidential-election"
  },
+ "0xf663b0eb63b669fa31ee6e7f70918f9894a332c197b6a6f3f2de603fb88249f4": {
+  "created_at": "2026-11-11T01:19:46.231369Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Xiaomi have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-xiaomi-have-the-best-ai-model-on-december-15-2026"
+ },
  "0xf6eb2947a85af09821ed9e466c91498330a9b7b867845fe47084ab79f1bd5cf4": {
   "created_at": "2025-11-28T16:19:20.210127Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1451,6 +1479,7 @@
   "created_at": "2026-08-24T16:40:33.601837Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Cienciano keep the most clean sheets in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "d5c32b7a8d676069b2dd9fc5e7ad8a77e4ce61b124691b6878781e9124298c6d",

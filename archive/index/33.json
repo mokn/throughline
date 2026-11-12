@@ -339,6 +339,7 @@
   "created_at": "2026-08-18T14:22:45.176362Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from South Carolina be between 1,600,000 and 1,800,000?",
   "revisions": 1,
   "sha256": "cef23d474530ec1a22c5d494ac357d2d2d922b7f10873bc6bb48ed41a8d0fb81",
@@ -597,6 +598,15 @@
   "revisions": 1,
   "sha256": "1f0ec6de7b3591563ecc808031d74ff0b25f9c198be54887ee79e5e9a9a4d42c",
   "slug": "will-ilija-srdanovic-be-the-next-prime-minister-of-serbia-20260629223938652"
+ },
+ "0x7774238fdfccc13d0e263b6805b9d150fffb0fac88984c8881b11b0736523233": {
+  "created_at": "2026-10-20T06:00:12.122532Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: FK Polissia O/U 5.5",
+  "revisions": 1,
+  "sha256": "ee3c6ab4ce90936a59f84a198bb966c469ca7e2e619572ae093e75bd4d9896bd",
+  "slug": "ukr1-kol-pol-2026-11-01-team-total-away-5pt5"
  },
  "0x78f5e3b8f9b5ae12b305889375f6dcb4ce63df48f7df892727235ad319a83433": {
   "created_at": "2026-10-31T11:31:06.834568Z",

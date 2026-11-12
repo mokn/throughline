@@ -11,10 +11,10 @@
  "0x020833060a0ad6234bb27bf52a0cd87293d34da7335cbabccedb13e3c9527235": {
   "created_at": "2026-07-23T15:24:20.180181Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Dune: Messiah have the 2nd best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "908209e1aeb118d2e0df0363801f0d005598d025da8d479e5dfec3ca6e82a422",
+  "revisions": 2,
+  "sha256": "7655d2812dfcb0f0e9a6a7649e3049f9aab0d5f7bdbb3965843489489cf31137",
   "slug": "will-dune-messiah-have-the-2nd-best-domestic-opening-weekend-in-2026-20260722231944212"
  },
  "0x03a9c2efff642655e724d326db3c41fe3c16ea47d73f753391860a68f7980335": {
@@ -94,6 +94,7 @@
   "created_at": "2026-08-11T14:18:40.627028Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Democrats win exactly 7 House seats in Florida in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "207b56eb0446a51d25ca4cb213a9eb2e63b80c730578b75f1d33cd3e9113ca12",
@@ -435,6 +436,15 @@
   "revisions": 1,
   "sha256": "313cb50e7cccdaddf0b69d30f0ee34540799d76f542f7075d715e3d69300a96b",
   "slug": "will-artemi-panarin-record-40-goals-in-the-2026-27-regular-season"
+ },
+ "0x4a8d4ee24cafe29d369f25e2d0d9e0a79f02e995aa0f46bd28d0c421f063d735": {
+  "created_at": "2026-11-11T01:15:09.655127Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Gemini Krypton released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "d588788be0d378dbe21252cee01a2de8b31895425a5d48d8d7e8f64c9bff4d8d",
+  "slug": "gemini-krypton-released-by-january-31-2027-20261110"
  },
  "0x4ab5e4cf77d0d9a44e6b6e9dfd6d6c5811c83a82af1c8bbc2101e24c6b443635": {
   "created_at": "2026-09-20T09:44:49.157397Z",
@@ -1037,6 +1047,15 @@
   "revisions": 1,
   "sha256": "d663cf7b9f84e90dedc31f166a784ba3ec0f25f99e2ee104320e438c347a946d",
   "slug": "will-eh-bildu-win-the-most-seats-in-the-basque-country-in-the-2026-spanish-general-election"
+ },
+ "0xa9f26110a6ff39efef86cb0b4a35282be33dbaf0a9673b7eea767d161d153f35": {
+  "created_at": "2026-10-26T06:00:15.437444Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: O/U 6.5",
+  "revisions": 1,
+  "sha256": "6eba66fe137b582ed634cdba5f9b3b00bd69ff67ba7cd3ecca82da110c9f9c55",
+  "slug": "ukr1-met-kar-2026-11-07-total-6pt5"
  },
  "0xab697611de53a08e66be8b5c44cdbd7614a924defe7990ead37a731cef116a35": {
   "created_at": "2026-08-26T21:46:40.947147Z",

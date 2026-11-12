@@ -481,6 +481,7 @@
   "created_at": "2026-08-18T14:27:09.340453Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Wyoming be less than 150,000?",
   "revisions": 1,
   "sha256": "3354ff826b756fd645cd1941f33ace75f40e79f85894e04e3c95b1c217dbd968",
@@ -541,6 +542,15 @@
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
   "slug": "2026-soccer-liga-profesional-argentina-runner-up-lans"
+ },
+ "0x4f394594143b6da94b723486252f43a284f91b29f7cd7de5fa4c0bd591f35be9": {
+  "created_at": "2026-10-25T09:00:14.512766Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 5 - 5 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-5-5"
  },
  "0x5231336cc76faa6a92f137cd82af76053da9d576cd899df25cb70ecfd431a8e9": {
   "created_at": "2026-08-21T17:34:03.929154Z",
@@ -969,6 +979,15 @@
   "sha256": "d2b2351fad01e9bce215159052b3588d888406f522c90e537bf4a28d8921a151",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-arkansas-be-1050000-or-more"
  },
+ "0x8fb5be519138df3be11d24642a330f8e88ccc1577974c614605242e6031d98e9": {
+  "created_at": "2026-10-25T09:00:14.04217Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 2 - 5 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-2-5"
+ },
  "0x95baba0130649df0327aa9121f1e9ba061ba7d22b52109bab2c9b46200a773e9": {
   "created_at": "2026-08-24T16:34:03.451228Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1228,6 +1247,7 @@
   "created_at": "2026-08-04T17:55:59.115358Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Democratic Party candidate win the 2026 Delaware Senate election by 35%-40%?",
   "revisions": 1,
   "sha256": "2864b855d100623988f9b87711e3cd8044a97a194e07f6ad56e677364d213ca5",
@@ -1523,6 +1543,15 @@
   "revisions": 1,
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-louisville-reach-the-2027-ncaa-mens-basketball-final-four"
+ },
+ "0xfa93c3bf2b325afa25165fb9264be6bd09de055cab6025fa857af161f24cace9": {
+  "created_at": "2026-10-19T09:00:13.065284Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 2 - 3 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-2-3"
  },
  "0xfdfe7cd2ac4d045c3e809e45e7a0fb2616a7fb7f6ce4f07de80fde87af3816e9": {
   "created_at": "2026-09-09T02:44:07.05981Z",

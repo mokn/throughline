@@ -417,6 +417,15 @@
   "sha256": "b897c73fdc996b07255e6a1f447e9126f523f692b365d453bc3eaf58ccacbc58",
   "slug": "will-coin-reach-190-in-november-2026"
  },
+ "0x46a0358f7739c08ca4c1394765f4c25ad527686e710289ef2d48658b91f790d6": {
+  "created_at": "2026-11-11T00:51:00.249734Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut at a score of at least 1500 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d367b97fa0476fb5edde9f2e4d0124da416050865764079ee0a73fe4d28b71c4",
+  "slug": "will-gemini-hydrogen-debut-at-a-score-of-at-least-1500-by-june-30-2027"
+ },
  "0x4a665ceabb696d4361e49864ac97115a41d1770da2f51df0bd7d750afa8394d6": {
   "created_at": "2026-08-26T21:46:10.656269Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -470,6 +479,15 @@
   "revisions": 1,
   "sha256": "6ae9bb2bae2c81911194dd16f9072172b9dd65377cf0bd458e4c20b633cb8803",
   "slug": "will-celso-amorim-be-the-next-brazilian-minister-of-defense"
+ },
+ "0x565f2cf79abdfd2a67c95baf7ef123dca373d3243ed634e121a4093dbabd28d6": {
+  "created_at": "2026-11-11T01:15:10.074173Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Gemini Krypton released by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "d588788be0d378dbe21252cee01a2de8b31895425a5d48d8d7e8f64c9bff4d8d",
+  "slug": "gemini-krypton-released-by-march-31-2027-20261110"
  },
  "0x56bf7e20edcf8ba524ee09348b86026a3ab8dfba9046c3bab492fb64b0272ed6": {
   "created_at": "2026-08-06T08:20:19.427133Z",
@@ -1064,6 +1082,7 @@
   "created_at": "2026-08-18T14:27:10.026089Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Wyoming be between 190,000 and 210,000?",
   "revisions": 1,
   "sha256": "3354ff826b756fd645cd1941f33ace75f40e79f85894e04e3c95b1c217dbd968",
@@ -1254,10 +1273,10 @@
  "0xe4b6b4b9ce1294475843df485239a949a0a21c31ad431dc776f0b17748e527d6": {
   "created_at": "2026-07-23T15:37:21.166997Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will Dune: Messiah have the 3rd best domestic opening weekend in 2026?",
-  "revisions": 1,
-  "sha256": "491abb1aeb2f0380a3f848c482f50507d35902f29d1342cbe9b3d33fd459c6ac",
+  "revisions": 2,
+  "sha256": "4f499e5443675a84a39f2ca53298881e98a49079e8a7f560e9734b1b03f4785b",
   "slug": "will-dune-messiah-have-the-3rd-best-domestic-opening-weekend-in-2026-20260722232204883"
  },
  "0xe525853d443eee4566bba5c3b28f14c7dab2c7952960d4daee6b16380a98f9d6": {

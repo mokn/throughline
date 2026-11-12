@@ -894,6 +894,15 @@
   "sha256": "bf934fe9a18e4cb3b4d4ff72edb4834614488d0cd9e91253ce32260c850e2577",
   "slug": "will-the-republicans-win-the-ohio-senate-race-in-2026"
  },
+ "0x79051cb1edb701e5f15561cb8748ec4cff8ac5f083df20fef3f865c1e82ffc69": {
+  "created_at": "2026-10-25T09:00:13.109884Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 1 - 3 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-1-3"
+ },
  "0x7d0074b236c90db353956491da960d137fc333a6a8c6950a8e6f8867ac15a669": {
   "created_at": "2026-08-17T21:27:20.222288Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1261,6 +1270,7 @@
   "created_at": "2026-08-24T16:40:34.157161Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Cusco FC keep the most clean sheets in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "d5c32b7a8d676069b2dd9fc5e7ad8a77e4ce61b124691b6878781e9124298c6d",
@@ -1383,6 +1393,15 @@
   "revisions": 1,
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
   "slug": "f1-brazilian-grand-prix-winner-lawson-2026-11-08"
+ },
+ "0xc759487d2733d7fb31e4e16c6d1ea97e37c39bcd051f03a0c2c5ecac48653169": {
+  "created_at": "2026-10-25T09:00:13.855005Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 3 - 3 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-3-3"
  },
  "0xc7c680f7c9d4c582e103212e59af5fe277832cc899640d9867ee74a117971169": {
   "created_at": "2026-08-12T00:18:04.309573Z",
@@ -1602,6 +1621,15 @@
   "sha256": "8dbac0416febdc32cbefbf940d06a60944ec16d17e9f0f5ac559688968ec582c",
   "slug": "will-bitcoin-dip-to-5000-by-december-31-2026-jy3n-991-141-345-117-196-482-674-487-176-555"
  },
+ "0xe9c9b99c577786c0c0153c2e311df4584650a9688084bb72f70e84c135667769": {
+  "created_at": "2026-10-25T09:00:14.183329Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 4 - 3 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-4-3"
+ },
  "0xe9d6e8868edea9b6143c0a763cde30bf610a3a17b5d3bbfba38ea79ba32d0669": {
   "created_at": "2026-11-09T21:17:54.878889Z",
   "first_seen": "2026-11-10T14:52:55Z",
@@ -1700,6 +1728,15 @@
   "revisions": 1,
   "sha256": "0af3e2ae5cade191a1ab8df49b11baed6ff6a9536b8652e5c0cdf263b26315c7",
   "slug": "will-liverpool-finish-in-the-top-5-of-the-2026-27-english-premier-league-season"
+ },
+ "0xf5ab91f3c1961a97a0e2abed652966b12e562299748badec3eb43ebe0304d369": {
+  "created_at": "2026-10-26T06:00:13.006691Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Spread: FK Kharkiv (-2.5)",
+  "revisions": 1,
+  "sha256": "9eaa68274f21f189a97e1e4a8cc6a64601c611102f65d07d230704294a42bfac",
+  "slug": "ukr1-met-kar-2026-11-07-spread-home-2pt5"
  },
  "0xf6e5978d72aac34b7ea07fb862eaedef236848497886b39dc2ceab787774fc69": {
   "created_at": "2026-09-29T15:57:48.383713Z",

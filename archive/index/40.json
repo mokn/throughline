@@ -206,6 +206,7 @@
   "created_at": "2026-08-24T16:40:33.247706Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Alianza Atl\u00e9tico Sullana keep the most clean sheets in the 2026 Peru Liga 1?",
   "revisions": 1,
   "sha256": "d5c32b7a8d676069b2dd9fc5e7ad8a77e4ce61b124691b6878781e9124298c6d",
@@ -563,6 +564,15 @@
   "revisions": 1,
   "sha256": "38355435c48b6cc279a6ea44eb6412da82f817b719f7d02ae6f7f22a66d48ead",
   "slug": "puka-nacua-1724pt5-receiving-yards-2026-27"
+ },
+ "0x61125bac55c9a5c7434878036cf2e759fb4afe2e1078c1ab950b539832cc0440": {
+  "created_at": "2026-10-20T06:00:09.704657Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "237ff1e0a9a5c61ef70d224029f607b2677f2daac9b198afb2b28450f8380ef5",
+  "slug": "ukr1-kol-pol-2026-11-01-first-half-total-1pt5"
  },
  "0x62e5fb8a4e31ec8e78511ddc8744cc96cf4f6d017350d723e679ae7f663cce40": {
   "created_at": "2026-09-04T19:22:11.069058Z",
@@ -1006,6 +1016,7 @@
   "created_at": "2026-10-28T22:19:49.449753Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will there be no Gemini Carbon release by November 30, 2026?",
   "revisions": 1,
   "sha256": "4b8788ad6c4a691244956d6fe964cc0e3f516da6adee939b3eac6a5f7a6b8a0a",
@@ -1544,6 +1555,7 @@
   "created_at": "2026-10-25T04:00:47.397625Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $60 in November?",
   "revisions": 1,
   "sha256": "b16950b2d1aaf777db9e7cc3ef2d8177eed6e1c3dc99d923d72a1538d201430d",

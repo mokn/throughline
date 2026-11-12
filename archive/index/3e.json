@@ -146,6 +146,15 @@
   "sha256": "ae49a52662279851de0c5be36f1a133b93d2216b2668e7c19c108db739101b70",
   "slug": "will-ric-zemmour-advance-to-the-second-round-of-the-next-french-presidential-election"
  },
+ "0x20df9671fdab69560faf29e83c4ead8b248c77d11b68996747c203da6697393e": {
+  "created_at": "2026-10-26T06:00:18.430746Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Karpaty Lviv O/U 3.5",
+  "revisions": 1,
+  "sha256": "e3359d9510fe09e1a744cbeed299bd61db9534c31df85ee85eb7bfd762a94aab",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-away-3pt5"
+ },
  "0x219c52349acbe36b7c3bf6024aeeca7f6414350f14f3dfe958c647dfbdef523e": {
   "created_at": "2026-09-15T18:07:38.603513Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -730,6 +739,7 @@
   "created_at": "2026-08-11T18:50:16.051008Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 SC-07 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "61ae0921491fcd9a0ae2d5dcc2782cec87ebda67b350bc7228f8195a3a0ce18d",
@@ -739,6 +749,7 @@
   "created_at": "2026-07-31T22:42:23.641538Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Hawai'i Rainbow Warriors Win the 2026 Mountain West Championship?",
   "revisions": 1,
   "sha256": "8862799b3fbca5d75138c6bf80655a0327d1cae8ef6c7208ae29cde680cc69d2",
@@ -1051,6 +1062,15 @@
   "revisions": 1,
   "sha256": "55ceb60e227a70a1827f7010a2ef0bbbca50338e66cabb35a37b23ba2e0eb0db",
   "slug": "will-miami-dolphins-advance-to-the-afc-championship-game-in-the-2027-nfl-playoffs"
+ },
+ "0xc74842ef7acb7f7998c8a15214eb7df7f02457c59eb22f2e4ef5639c9366303e": {
+  "created_at": "2026-11-11T01:19:27.361773Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will the next Gemini model family be named Gemini Xenon?",
+  "revisions": 1,
+  "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-xenon"
  },
  "0xc803d5e881f9df1b830d07d72979d344957a85350c72a4a43fd798a28de5563e": {
   "created_at": "2026-08-28T05:54:55.015947Z",

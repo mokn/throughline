@@ -102,6 +102,7 @@
   "created_at": "2026-09-04T00:19:52.223816Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Fernando Mendoza be named the Raiders' starting QB by Week 13?",
   "revisions": 1,
   "sha256": "805a0284f3ebb181b5a60a416fbf4837305e7afd2373931acad6344ebfd24d0a",
@@ -1110,6 +1111,7 @@
   "created_at": "2026-08-05T21:02:05.017544Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will the Republican Party candidate win the 2026 Wyoming gubernatorial election by 35%-40%?",
   "revisions": 1,
   "sha256": "e8cb04ba2e7e99435ccbd4ea94fcdb9cb206050fbfa8a481446d38bb2e577213",
@@ -1240,6 +1242,15 @@
   "revisions": 1,
   "sha256": "f3d1ef290f9a56e5a3b507157041da24e80a0c11d5fa0ce68027e4fe81c72fa8",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-09-house-election-by-5-10"
+ },
+ "0xba2bc8c0eb0e484f587445375de7459c6e73ed08ab331ee83ebbf7f27dd7ccff": {
+  "created_at": "2026-10-26T06:00:18.104381Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Karpaty Lviv O/U 1.5",
+  "revisions": 1,
+  "sha256": "256adec0d61702eac70f3066dc591f70f658aa5a29611d2af6f1c4ff2a0a68f7",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-away-1pt5"
  },
  "0xba3301ac91a9a6024ef0dac778f6f8c3a4260396f7eaf6a11519ec4b1ab27aff": {
   "created_at": "2026-08-19T20:01:25.14905Z",

@@ -661,6 +661,15 @@
   "sha256": "a114852b5d7bfaa0f2ad7791d194b679684565f7ced3d54f7eff2d897a82b065",
   "slug": "will-pete-hegseth-win-the-2028-republican-presidential-nomination"
  },
+ "0x5f8d82f73f590654d94065cef8dca708db4c9af0a7c71641c4c1aa86ea8e076c": {
+  "created_at": "2026-10-25T09:00:13.688775Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kharkiv 5 - 0 FK Karpaty Lviv?",
+  "revisions": 1,
+  "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
+  "slug": "ukr1-met-kar-2026-11-07-exact-score-5-0"
+ },
  "0x6099e6b30c4ee1d3121e5ebe4760ebff446ec5d7eef1b9c43dd2e9cfd59a556c": {
   "created_at": "2026-02-09T00:15:16.432668Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -777,6 +786,15 @@
   "revisions": 1,
   "sha256": "165643d7e4a02d4696422b1c972a1f26be76bc3881bf2b7c2c3ec518a9c08adf",
   "slug": "will-donald-trump-be-the-leader-of-venezuela-end-of-2026"
+ },
+ "0x75bb48c82f39fb016495edd2e48ca1fc9e19d87f90f78d7ed1452c33f15c576c": {
+  "created_at": "2026-11-11T00:51:36.506918Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut with an HLE-Diamond score of 45% or higher?",
+  "revisions": 1,
+  "sha256": "5c75c2058420922fafb244b46e7b4df31e662bd02d943b39ea4c6b7e27e81adc",
+  "slug": "will-gemini-hydrogen-debut-with-an-hle-diamond-score-of-45-or-higher"
  },
  "0x75fe41b3ebd8f94e7aa2ac427ba0e1c0a7a5c9fe5d55d735e1deacfa1518f86c": {
   "created_at": "2026-08-05T18:48:39.724591Z",

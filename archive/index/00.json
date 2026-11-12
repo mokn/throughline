@@ -536,6 +536,15 @@
   "sha256": "a18f3f53cd0e121f229b674759b7c22dc4b37586eacf6621a7314f0cb4721767",
   "slug": "will-bytedance-have-the-best-chinese-ai-model-at-the-end-of-december-2026"
  },
+ "0x5a3f157322bb3c4105c58b48e7f38f87ff6ae678eba2f13ffe1704783ed8a500": {
+  "created_at": "2026-11-11T01:19:50.177405Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Thinky have the best AI model on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
+  "slug": "will-thinky-have-the-best-ai-model-on-december-15-2026"
+ },
  "0x5a587da4cf613fabf5c2981a7a9bcef61c8465e3dc725039fefcf381fea76900": {
   "created_at": "2026-10-15T17:00:58.526519Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -814,6 +823,15 @@
   "revisions": 1,
   "sha256": "b828f15ac2cae83145846d9747c13851c7f75ddacc05b83f9bc4189321e39339",
   "slug": "romeo-doubs-8pt5-receiving-touchdowns-2026-27"
+ },
+ "0x892e9972556af7b284b3394d29e4d606f6cc712a38a6e88416d21a9832dc2300": {
+  "created_at": "2026-10-20T06:00:08.894448Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kolos Kovalivka vs. FK Polissia: O/U 7.5",
+  "revisions": 1,
+  "sha256": "71e44edfbce543073ce1e3bc440169f15cc7c7fe414c03ac4df61c50601d7658",
+  "slug": "ukr1-kol-pol-2026-11-01-total-7pt5"
  },
  "0x89c7667d94f4f77d1086f15d1b2bc421f3fac5e960e38db3e53ba45cc2008700": {
   "created_at": "2026-09-09T16:21:08.754713Z",

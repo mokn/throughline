@@ -378,10 +378,10 @@
  "0x39bed6cd29541491fca043cbe89cf0820b7539fbe920351378beb62aa26fbf56": {
   "created_at": "2026-10-30T23:54:23.490684Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will \"Dune: Part Three\" Opening Weekend Box Office be between 70m and 90m?",
-  "revisions": 1,
-  "sha256": "d56180981e4a632023033fc8afd291225f426512055a9dde3f756755e4b20c7a",
+  "revisions": 2,
+  "sha256": "843364d840ea300ea65e4cc147ed0d15375b5e82670bb8b958899a8cb8d16e8f",
   "slug": "will-dune-part-three-opening-weekend-box-office-be-between-70m-and-90m"
  },
  "0x3a0c86d7d9d3e4e82d533d2b1351b5d3e63577f8e1495e2804b9ae540135a556": {
@@ -814,10 +814,10 @@
  "0x7e76739de262c491dfc38acfbdb692eeeb6fd8bd940fdf6775cd5a8b9484a556": {
   "created_at": "2026-11-10T02:27:02.827263Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-11T14:22:59Z",
   "question": "Will the total domestic gross for \"Godzilla Minus Zero\" be at least $200M by December 15?",
-  "revisions": 1,
-  "sha256": "0f5ca132b13ea6aa8b9faaba37703a1561c10866f1ae3dbb96727086c2d7ca27",
+  "revisions": 2,
+  "sha256": "b1fd34eacc0686331bbdcf78aa08533baf920a03b3357e068998c26d64cbeba3",
   "slug": "will-the-total-domestic-gross-for-godzilla-minus-zero-be-at-least-200m-by-december-15-20261108"
  },
  "0x7eac4b4ebe0291583f0381a001f83a6c52ba54f5f069d1bb62fd429758415656": {
@@ -1580,6 +1580,7 @@
   "created_at": "2026-09-09T15:47:06.967187Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-11T14:22:59Z",
   "question": "Will Martinique win the 2026-27 CONCACAF Nations League?",
   "revisions": 1,
   "sha256": "778499c1c5d259b66b6ae3e9fefa6c559aa9ce3fc3fa8933b31df14ee61e7e74",

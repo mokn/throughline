@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if there is an energy ceasefire agreement between Russia and Ukraine between market creation and the specified date, 11:59 PM Kyiv time. Otherwise, this market will resolve to “No”.
+
+An energy ceasefire refers to a mutually agreed arrangement under which both Russia and Ukraine commit to suspend strikes on at least one specific, defined category of the other country's energy infrastructure (e.g. oil refineries, gas processing plants, power plants, electricity transmission and distribution facilities, oil and gas pipelines, fuel storage facilities, or oil and gas export terminals), regardless of whether the two countries' commitments cover the same category. A category need not cover all such infrastructure in the other country to qualify; a category limited to a defined geographic area will be sufficient.
+
+The agreement must be either officially announced by both countries or confirmed by a consensus of credible reporting to have been mutually agreed by both countries. A claim by a third party, including the President of the United States, that Russia and Ukraine have agreed to such an arrangement will not qualify without such confirmation.
+
+A broader ceasefire, peace deal, normalization agreement, political framework, truce, or humanitarian pause will qualify if it includes a mutually agreed general suspension of strikes by both countries, whether or not it names energy infrastructure or any specific category of it. It will also qualify if it otherwise includes a mutually agreed suspension of strikes that meets the requirements above. Agreements that outline future negotiations or de-escalation measures without an explicit commitment to suspend strikes will not qualify.
+
+Any form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in strikes will not be considered an energy ceasefire agreement. Arrangements which only apply to a single facility (e.g. the Zaporizhzhia Nuclear Power Plant), will not qualify.
+
+If a qualifying agreement is officially reached before this market’s end date, this market will resolve to “Yes,” regardless of whether the energy ceasefire officially takes effect after that date.
+
+The primary resolution sources for this market will be official information from the governments of Russia and Ukraine and a consensus of credible reporting.

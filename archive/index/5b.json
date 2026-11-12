@@ -1176,6 +1176,15 @@
   "sha256": "494d6de4e44be74dc3bae5e353833e4b061ddce24e3de0fbd219af0efc0ec2b5",
   "slug": "will-g2-esports-win-a-valorant-international-in-2027"
  },
+ "0xc1373735a81aa2461795ab06502712b2cfdcfb14102f66350725559518b7df5b": {
+  "created_at": "2026-10-19T09:00:13.570175Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 3 - 4 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-3-4"
+ },
  "0xc157dcb7324b6956deb3e2275ea2c694d850abeabba1db750a7ec1d12a27895b": {
   "created_at": "2026-02-26T15:39:36.485853Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1303,6 +1312,15 @@
   "revisions": 1,
   "sha256": "64252b75996a12a704c2699f8f4b5bd94d5a1d36eabdeb98c3940fc0465fbdc3",
   "slug": "will-russia-capture-serhiivka-by-december-31"
+ },
+ "0xd3bf106a1a473645292f66c8443f12776775fd105c1b771f102392ad58e6985b": {
+  "created_at": "2026-10-26T06:00:17.782828Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "FK Kharkiv vs. FK Karpaty Lviv: FK Kharkiv O/U 5.5",
+  "revisions": 1,
+  "sha256": "e150498b17df8d381f968dcaf359fb9270f7c76dff89472fa52315e18e7ef52d",
+  "slug": "ukr1-met-kar-2026-11-07-team-total-home-5pt5"
  },
  "0xd6b3776fc5583065bf13af09f1f11c62d2fe67e53fad48594838f191817ebc5b": {
   "created_at": "2026-10-22T00:03:13.981213Z",

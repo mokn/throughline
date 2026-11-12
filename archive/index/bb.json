@@ -650,6 +650,15 @@
   "sha256": "f60b2b041450f33ee45c88e73dfb30495ea9d255ecfb83af94b41b459a6a2fba",
   "slug": "will-aptjpt-brown-be-the-highest-scoring-fantasy-football-player-of-the-2026-27-nfl-season-20260806180814407"
  },
+ "0x581d58785e016537128cf03bafb022c38d28f63f624d470c0840cbadeb3761bb": {
+  "created_at": "2026-11-11T00:51:23.580258Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Will Gemini Hydrogen debut in the top 3 of the Text Arena leaderboard by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "da55b0032c9b8da270ff2d47214b7a391418f22bc93481b6c064f4122f8f9343",
+  "slug": "will-gemini-hydrogen-debut-in-the-top-3-of-the-text-arena-leaderboard-by-june-30-2027"
+ },
  "0x58634f92312c8609c88d3c8f7bdd3a690f999b1e4a7619d47cd028e13fa88ebb": {
   "created_at": "2026-10-13T15:49:51.398632Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -757,6 +766,15 @@
   "revisions": 1,
   "sha256": "546b087b3a6ff72650af3229314878ddd500f33775793eb6a11637d72c96b6dc",
   "slug": "will-mouse-pptipt-for-hire-win-game-of-the-year-at-the-2026-game-awards-20260804145651095"
+ },
+ "0x64b4bfe44490f162e7fba51944c29f964f6a43a44b13b5dc9e828cc508dc50bb": {
+  "created_at": "2026-10-19T09:00:12.741422Z",
+  "first_seen": "2026-11-11T14:22:59Z",
+  "last_changed": "2026-11-11T14:22:59Z",
+  "question": "Exact Score: FK Kolos Kovalivka 2 - 2 FK Polissia?",
+  "revisions": 1,
+  "sha256": "0ce72e5128d5d137faa62ae76304597945aa2ff1f1173a87256a8bd4c680c297",
+  "slug": "ukr1-kol-pol-2026-11-01-exact-score-2-2"
  },
  "0x66e76b4d8de472869758e07864f82d5db5d020c2d6dc8a6ff3643a8fb23940bb": {
   "created_at": "2026-09-20T10:44:35.892593Z",
