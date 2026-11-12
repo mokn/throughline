@@ -43,6 +43,7 @@ class Api:
         self.interval = 0.2
         self.expires_in = 600
         self.drop_token_replies = 0
+        self.drop_key_replies = 0
         self.token_429 = []     # Retry-After values to serve before answering
         self.start_reply = None  # (status, headers, body) override
         self.usage_reply = None
@@ -214,12 +215,18 @@ class Api:
                     if route == ("POST", "/account/v1/keys"):
                         if not need("keys:write"):
                             return
-                        key = "tl_live_" + secrets.token_urlsafe(32)
-                        row = dict(id=secrets.token_hex(16), name=body["name"],
-                                   created_at=time.time(), revoked_at=None)
-                        api.keys[sha(key)] = row
+                        assert set(body) == {"id", "name", "key_hash"}
+                        existing = api.keys.get(body["key_hash"])
+                        row = existing or dict(id=body["id"], name=body["name"],
+                                               created_at=time.time(), revoked_at=None)
+                        api.keys[body["key_hash"]] = row
+                        if api.drop_key_replies:
+                            api.drop_key_replies -= 1
+                            self.connection.shutdown(2)
+                            self.connection.close()
+                            return
                         return self.reply(200, dict(id=row["id"], name=row["name"],
-                                                    created_at=row["created_at"], key=key))
+                                                    created_at=row["created_at"]))
                     if self.command == "DELETE" and path.startswith("/account/v1/keys/"):
                         if not need("keys:write"):
                             return
@@ -608,6 +615,34 @@ class Login(Case):
         self.assertFalse((self.dir / ".throughline/pending.json").exists())
 
 
+class LifecycleRecovery(Case):
+    def test_unknown_key_creation_keeps_private_material_and_recovers_exactly_one_key(self):
+        self.login('--scopes', ALL)
+        (self.dir / 'private').mkdir()
+        self.api.drop_key_replies = 1
+        code, failed = self.cli('keys', 'create', '--name', 'worker', '--output', 'private/worker.env')
+        self.assertEqual((code, failed['error']), (4, 'network_error'))
+        pending = self.state('key-create.json')
+        self.assertEqual(self.mode('.throughline/key-create.json'), 0o600)
+        self.assertEqual(self.mode('private/worker.env'), 0o600)
+        self.assertEqual(len(self.api.keys), 2)
+        # A different operation cannot overwrite the recoverable original.
+        code, conflict = self.cli('keys', 'create', '--name', 'other', '--output', 'private/other.env')
+        self.assertEqual((code, conflict['error']), (4, 'pending_key_creation'))
+        # Partial local persistence is recoverable from the same durable secret.
+        output = self.dir / 'private/worker.env'
+        output.write_bytes(output.read_bytes()[:25])
+        code, done = self.cli('keys', 'create', '--name', 'worker', '--output', 'private/worker.env')
+        self.assertEqual((code, done['key']['id'], done['verified']), (0, pending['id'], True))
+        self.assertEqual(len(self.api.keys), 2)
+        self.assertFalse((self.dir / '.throughline/key-create.json').exists())
+        posts = [json.loads(r[4]) for r in self.api.seen('/account/v1/keys') if r[1] == 'POST']
+        self.assertEqual(posts[0], posts[1])
+        self.assertEqual(set(posts[0]), {'id', 'name', 'key_hash'})
+        self.assertNotIn(pending['feed_key'], json.dumps(posts))
+        self.assertEqual(self.cli('keys', 'create', '--name', 'worker', '--output', 'private/worker.env')[1]['error'], 'output_exists')
+
+
 class Recovery(Case):
     def test_lost_metadata_reply_is_recovered_from_local_pending_secrets(self):
         pending = self.login(approve=False)
@@ -968,7 +1003,8 @@ class Files(Case):
     def test_unignored_files_are_refused_and_gitignore_is_never_edited(self):
         (self.dir / ".gitignore").write_text("*.log\n")
         out = self.refused("not_ignored", paths=[".env", ".throughline/credentials.json",
-                                                 ".throughline/pending.json", ".throughline/cursor.json"])
+                                                 ".throughline/pending.json", ".throughline/cursor.json",
+                                                 ".throughline/key-create.json", ".throughline/disconnect.json"])
         self.assertEqual(out["gitignore_lines"], [".env", ".throughline/"])
         self.assertEqual((self.dir / ".gitignore").read_text(), "*.log\n")
         self.assertFalse((self.dir / ".throughline").exists())

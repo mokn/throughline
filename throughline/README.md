@@ -29,7 +29,17 @@ values = [line.partition("=")[2].strip() for line in Path(".env").read_text().sp
 if len(values) != 1 or not re.fullmatch(r"tl_live_[A-Za-z0-9_-]{43}", values[0]):
     raise SystemExit("Expected one valid THROUGHLINE_API_KEY line; nothing was sent.")
 p = Throughline(api_key=values[0]).page(limit=1)
-print(len(p.changes), p.next_cursor, p.has_more)
+if not p.changes:
+    print("Success: no matches in this page. Empty polls count against your allowance.")
+elif p.changes[0].record is None:
+    print("A previously published match was withdrawn.")
+else:
+    record = p.changes[0].record
+    print("Article:", record["title"])
+    print("Contract:", record["market"]["title"])
+    print("Why:", (record.get("analysis") or {}).get("why_relevant")
+          or record["relevance"].get("why_relevant") or "No explanation published.")
+print("Save cursor:", p.next_cursor, "More pages:", p.has_more)
 PYTHON
 ```
 
@@ -74,7 +84,7 @@ create a key yourself, choose **Copy .env line** in the account portal.
 ```sh
 throughline login                 # prints a code and link, exits 2 (pending)
 # a human opens the link, signs in, checks the code matches and approves
-throughline login --wait          # exits 0 once approved; the key is now in .env
+throughline login --wait          # agent starts this immediately after relaying code/link
 throughline status                # plan and remaining allowance
 throughline start-from-now        # capture the feed head once; later runs reuse it
 ```
@@ -82,7 +92,7 @@ throughline start-from-now        # capture the feed head once; later runs reuse
 `login` output (the code and link are not secrets):
 
 ```json
-{"expires_in": 600, "interval": 5.0, "name": "Throughline CLI", "next": "Open the link, sign in and approve the matching code. Then run 'throughline login --wait'.", "pairing_id": "0123456789abcdef0123456789abcdef", "pending_file": ".throughline/pending.json", "scopes": ["news:read"], "status": "pending", "user_code": "KQ4T-7MZB", "verification_uri": "https://api.throughline.markets/account", "verification_uri_complete": "https://api.throughline.markets/account#pair=KQ4T-7MZB"}
+{"expires_in": 600, "interval": 5.0, "name": "Throughline CLI", "next": "Relay the code and link to the person, then immediately run 'throughline login --wait'.", "pairing_id": "0123456789abcdef0123456789abcdef", "pending_file": ".throughline/pending.json", "scopes": ["news:read"], "status": "pending", "user_code": "KQ4T-7MZB", "verification_uri": "https://api.throughline.markets/account", "verification_uri_complete": "https://api.throughline.markets/account#pair=KQ4T-7MZB"}
 ```
 
 Every command prints exactly one JSON object on stdout and never prints a
@@ -123,7 +133,7 @@ The human can approve fewer scopes than requested. The management credential is
 stored apart from the feed key in `.throughline/credentials.json` and expires 30
 days after approval; renewing it needs a new `login --replace` and a new
 approval. Revoking a connection in the portal also revokes its feed key and any
-keys created through it. Connections, trials and payment stay in the portal.
+keys created through it. Listing other connections, trials and payment stay in the portal. Your own management credential can inspect and disconnect its connection.
 
 File rules, enforced before anything is sent:
 
@@ -137,7 +147,7 @@ File rules, enforced before anything is sent:
   `THROUGHLINE_API_KEY` line is refused. An existing key is never overwritten
   unless you pass `--replace`; the old key then stays active until revoked.
 - `keys create` requires `--output`, a new ignored file inside the project. The
-  key is written there and never printed.
+  key is written there and never printed. A private `.throughline/key-create.json` saves the operation before HTTP; repeat the exact command after a lost reply. Conflicting name/output operations are refused until it is resolved.
 - One command at a time per project: a second `login` while one is waiting gets
   `state_locked`. `throughline cancel` drops a pending request locally; the
   unapproved request then expires on its own. `cancel` refuses if the request was
@@ -224,3 +234,13 @@ These exercise the actual clients at their HTTP boundaries, including quota
 failure, retry budgets, cancellation, saved cursors, withdrawals and replay. The
 CLI tests run the real command as a subprocess in temporary git repositories
 against a local HTTP server; they need `git` and never contact the hosted service.
+
+## Agent lifecycle and safe rotation
+
+Client0.3 adds `throughline whoami` (verified account ID, connection name, permissions, lifetime and linked key metadata), `throughline doctor` (connection and noncharged allowance checks), `throughline audit [--cursor ID]` (only this connection's retained successful access changes), and `throughline disconnect` (revoke this connection and all its keys). Feed-only login has no management token: `doctor` can still check usage; the person disconnects it in the portal.
+
+`disconnect` clears the saved management credential after an acknowledged revoke. It removes the feed variable only when its saved hash proves that it is the key installed with that connection; it preserves other `.env` lines and unrelated files. A private disconnect receipt resumes acknowledged local cleanup. A lost server acknowledgement keeps local material and reports `disconnect_unknown`: inspect and revoke the named connection in the portal. Expired management access cannot revoke a still-active feed key; use the portal.
+
+Key rotation uses the same recoverable issuance path: `throughline keys create --name worker-next --output private/worker-next.env` privately saves the replacement before HTTP, sends only a digest and verifies it with noncharged usage. Switch the actual consumer to that file, check its successful call, then explicitly `throughline keys revoke OLD_ID`. Creating a replacement never revokes the old key or silently rewrites another bot's configuration. Keep pending creation state on unknown outcomes. Repeating its exact command retrieves the same receipt rather than a new key; a revoked/conflicting ID never reactivates.
+
+These commands need the matching AgentLifecycleV1 server. A404 means the deployment is older: keep local state and use the portal; do not retry by creating a different operation. New management permission still requires another human approval after30days, never silent renewal.

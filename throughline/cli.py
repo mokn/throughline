@@ -47,7 +47,7 @@ from .client import (
 
 __all__ = ["main"]
 
-VERSION = "0.2.0"
+VERSION = "0.3.0"
 _UA = f"throughline-cli/{VERSION} (+https://throughline.markets/api)"
 BASE_URL_ENV = "THROUGHLINE_API_BASE_URL"
 KEY_ENV = "THROUGHLINE_API_KEY"
@@ -67,7 +67,7 @@ MAX_RESPONSE = 1 << 20
 MAX_FILE = 1 << 20
 MIN_INTERVAL = 5.0
 STATE_DIR = ".throughline"
-PRIVATE_FILES = ("credentials.json", "pending.json", "cursor.json")
+PRIVATE_FILES = ("credentials.json", "pending.json", "cursor.json", "key-create.json", "disconnect.json")
 ENV_FILE = ".env"
 FALLBACK = ("Sign in at https://api.throughline.markets/account, create a key and save "
             "its .env line to a private, git-ignored .env file. Do not paste it into chat.")
@@ -115,6 +115,9 @@ MESSAGES = {
                         "request are gone. If the request was approved, revoke that connection "
                         "in the account portal, run 'throughline cancel', then log in again.",
     "interrupted": "Interrupted. Local state was kept; run the command again to resume.",
+    "pending_key_creation": "A key creation is unfinished. Repeat its exact name and output path to recover it.",
+    "key_output_changed": "The pending key's output changed. Restore that private file before retrying; no new key was issued.",
+    "disconnect_unknown": "The disconnect acknowledgement was lost. Local credentials were kept. Inspect and revoke this connection in the account portal.",
 }
 
 
@@ -595,7 +598,7 @@ def _pending_view(pending: dict[str, Any], status: str = "pending", **extra: Any
                 name=pending["name"], scopes=pending["scopes"],
                 expires_in=max(0, int(pending["expires_at"] - time.time())),
                 interval=pending["interval"], pending_file=STATE_DIR + "/pending.json",
-                next="Open the link, sign in and approve the matching code. Then run "
+                next="Relay the code and link to the person, then immediately run "
                      "'throughline login --wait'.", **extra)
 
 
@@ -671,7 +674,8 @@ def _finalize(project: Project, pending: dict[str, Any], payload: dict[str, Any]
         project.write_json("credentials.json", dict(
             version=1, base_url=pending["base_url"], connection_id=ident,
             name=connection["name"], scopes=scopes, created_at=connection["created_at"],
-            expires_at=connection["expires_at"], management_token=pending["management_token"]))
+            expires_at=connection["expires_at"], management_token=pending["management_token"],
+            feed_key_hash=_sha256(pending["feed_key"])))
     else:
         project.remove(credentials)
     replaced = project.store_env_key(pending["feed_key"], replace=pending["replace"])
@@ -817,7 +821,7 @@ def cmd_status(project: Project, base: str, args: argparse.Namespace) -> dict[st
     return dict(status="ok", plan=payload["plan"], usage=payload["usage"])
 
 
-def _management(project: Project, base: str, scope: str) -> str:
+def _management(project: Project, base: str, scope: str | None) -> str:
     project.guard_state(writing=False)
     # Readers take no lock: files are replaced atomically, never edited in place.
     credentials = (project.read_json("credentials.json")
@@ -830,11 +834,85 @@ def _management(project: Project, base: str, scope: str) -> str:
         _fail("invalid_credential")
     if credentials.get("base_url") != base:
         _fail("base_url_changed")
-    if scope not in scopes:
+    if scope is not None and scope not in scopes:
         _fail("missing_scope", scope=scope, granted_scopes=scopes)
     if credentials["expires_at"] <= time.time():
         _fail("management_expired", expired_at=credentials["expires_at"])
     return token
+
+
+
+def cmd_whoami(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
+    token = _management(project, base, None)
+    payload = _call(base, "GET", "/account/v1/connection", token=token, timeout=args.timeout)
+    if not isinstance(payload.get("connection"), dict) or not isinstance(payload.get("account_id"), str):
+        _fail("invalid_response")
+    return dict(status="ok", **payload)
+
+
+def cmd_doctor(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
+    usage = cmd_status(project, base, args)
+    try:
+        connection = cmd_whoami(project, base, args)
+    except CliError as exc:
+        if exc.code != "no_management_credential":
+            raise
+        return dict(usage, connection=None, note="Feed access works. This project has no management credential.")
+    return dict(status="ok", plan=usage["plan"], usage=usage["usage"],
+                account_id=connection["account_id"], connection=connection["connection"],
+                note="Checks use noncharged usage and connection status; no news poll was sent.")
+
+
+def cmd_audit(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
+    token = _management(project, base, None)
+    path = "/account/v1/audit"
+    if args.cursor is not None:
+        if not re.fullmatch(r"[1-9][0-9]{0,18}", args.cursor):
+            _fail("invalid_id")
+        path += "?cursor=" + args.cursor
+    return dict(status="ok", **_call(base, "GET", path, token=token, timeout=args.timeout))
+
+
+def cmd_disconnect(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
+    project.guard_state()
+    project.open_state(create=True)
+    receipt = project.read_json("disconnect.json")
+    credentials = project.read_json("credentials.json")
+    if receipt is None:
+        token = _management(project, base, None)
+        current = cmd_whoami(project, base, args)["connection"]
+        if current.get("id") != credentials.get("connection_id"):
+            _fail("invalid_response")
+        try:
+            result = _call(base, "DELETE", "/account/v1/connection", token=token, timeout=args.timeout)
+        except CliError as exc:
+            if exc.code in ("network_error", "invalid_response", "response_too_large"):
+                raise CliError("disconnect_unknown", connection_id=credentials["connection_id"],
+                               recovery_url=DEFAULT_BASE_URL + "/account") from None
+            raise
+        if result.get("id") != current["id"] or result.get("revoked") is not True:
+            _fail("disconnect_unknown", connection_id=current["id"])
+        receipt = dict(base_url=base, connection_id=current["id"],
+                       credential_hash=_sha256(token), feed_key_hash=credentials.get("feed_key_hash"),
+                       acknowledged=True)
+        project.write_json("disconnect.json", receipt)
+    if receipt.get("base_url") != base or receipt.get("acknowledged") is not True:
+        _fail("invalid_response")
+    if credentials is not None and (credentials.get("connection_id") != receipt.get("connection_id")
+            or _sha256(credentials.get("management_token", "")) != receipt.get("credential_hash")):
+        _fail("credential_exists")
+    data, index, current_key = project.env_key()
+    removed = False
+    if current_key and _sha256(current_key) == receipt.get("feed_key_hash"):
+        lines = data.split(b"\n")
+        del lines[index]
+        project.write(project.env, b"\n".join(lines))
+        removed = True
+    project.remove(os.path.join(project.state, "credentials.json"))
+    project.remove(os.path.join(project.state, "disconnect.json"))
+    return dict(status="ok", id=receipt["connection_id"], revoked=True,
+                removed_feed_variable=removed,
+                note="The connection and all linked keys are revoked. Other local files and integrations were preserved.")
 
 
 def cmd_account(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
@@ -884,44 +962,56 @@ def cmd_keys_create(project: Project, base: str, args: argparse.Namespace) -> di
             or os.path.basename(output) in ("", ".", "..")):
         _fail("invalid_output")
     project.guard(output)
+    project.guard_state()
+    project.open_state(create=True)
     token = _management(project, base, "keys:write")
-    # Reserve the destination first so a created key always has somewhere to go.
-    try:
-        fd = os.open(output, os.O_WRONLY | os.O_CREAT | os.O_EXCL | os.O_NOFOLLOW | os.O_CLOEXEC, 0o600)
-    except FileExistsError:
-        _fail("output_exists")
-    except OSError:
-        _fail("storage_error", path=project.rel(output))
-    try:
-        os.fchmod(fd, 0o600)
+    credentials = project.read_json("credentials.json")
+    pending = project.read_json("key-create.json")
+    relative = project.rel(output)
+    if pending is not None:
+        if (pending.get("base_url") != base or pending.get("connection_id") != credentials.get("connection_id")
+                or pending.get("name") != name or pending.get("output") != relative):
+            _fail("pending_key_creation")
+        key, ident = pending.get("feed_key"), pending.get("id")
+        if (not isinstance(key, str) or not FEED_KEY.fullmatch(key)
+                or not isinstance(ident, str) or not _IDENT.fullmatch(ident)):
+            _fail("invalid_credential")
+    else:
+        if os.path.lexists(output):
+            _fail("output_exists")
+        key, ident = "tl_live_" + secrets.token_urlsafe(32), secrets.token_hex(16)
+        pending = dict(base_url=base, connection_id=credentials["connection_id"],
+                       name=name, output=relative, feed_key=key, id=ident)
+        # The only secret exists durably before any remotely visible mutation.
+        project.write_json("key-create.json", pending)
+    line = (KEY_ENV + "=" + key + "\n").encode("ascii")
+    saved = project.read(output)
+    if saved is None:
         try:
-            status, payload, headers = _http(base, "POST", "/account/v1/keys", token=token,
-                                             body=dict(name=name), timeout=args.timeout)
-        except CliError as exc:
-            if exc.code in ("network_error", "response_too_large", "invalid_response"):
-                exc.fields.update(outcome_unknown=True, next="A key may have been created. Run "
-                                  "'throughline keys list --newest' and revoke any you do not hold.")
-            raise
-        if status != 200:
-            raise _server_error(base, status, payload, headers)
-        key = payload.get("key")
-        if not (isinstance(key, str) and FEED_KEY.fullmatch(key)
-                and isinstance(payload.get("id"), str) and _IDENT.fullmatch(payload["id"])):
-            raise CliError("invalid_response", outcome_unknown=True)
-        try:
-            os.write(fd, (KEY_ENV + "=" + key + "\n").encode("ascii"))
-            os.fsync(fd)
+            fd = os.open(output, os.O_WRONLY | os.O_CREAT | os.O_EXCL | os.O_NOFOLLOW | os.O_CLOEXEC, 0o600)
+            os.close(fd)
         except OSError:
-            raise CliError("storage_error", key_id=payload["id"],
-                           next="The key was created but not saved. Revoke it.") from None
-    except BaseException:
-        os.close(fd)
-        os.unlink(output)
-        raise
-    os.close(fd)
-    return dict(status="ok", key=dict(id=payload["id"], name=payload.get("name"),
-                                      created_at=payload.get("created_at")),
-                output=project.rel(output), env_variable=KEY_ENV)
+            _fail("storage_error", path=relative)
+        project.write(output, line)
+    elif saved != line:
+        # Recover our interrupted exclusive write; arbitrary output is never replaced.
+        if line.startswith(saved):
+            project.write(output, line)
+        else:
+            _fail("key_output_changed")
+    payload = _call(base, "POST", "/account/v1/keys", token=token,
+                    body=dict(id=ident, name=name, key_hash=_sha256(key)), timeout=args.timeout)
+    if (payload.get("id") != ident or payload.get("name") != name
+            or type(payload.get("created_at")) not in (int, float) or "key" in payload):
+        _fail("invalid_response")
+    # Verify the replacement without spending news allowance. No old key is revoked.
+    usage = _call(base, "GET", "/v1/usage", token=key, timeout=args.timeout)
+    if not isinstance(usage.get("usage"), dict) or not isinstance(usage.get("plan"), str):
+        _fail("invalid_response")
+    project.remove(os.path.join(project.state, "key-create.json"))
+    return dict(status="ok", key={k: payload[k] for k in ("id", "name", "created_at")},
+                output=relative, env_variable=KEY_ENV, verified=True,
+                next="Switch the consumer to this file, verify its call, then explicitly revoke the old key ID.")
 
 
 def cmd_start_from_now(project: Project, base: str, args: argparse.Namespace) -> dict[str, Any]:
@@ -980,6 +1070,12 @@ def _parser() -> argparse.ArgumentParser:
     sub.add_parser("cancel", parents=[common], help="drop the local pending request").set_defaults(run=cmd_cancel)
     sub.add_parser("status", parents=[common], help="plan and allowance (GET /v1/usage)").set_defaults(run=cmd_status)
     sub.add_parser("account", parents=[common], help="account summary (account:read)").set_defaults(run=cmd_account)
+    sub.add_parser("whoami", parents=[common], help="verified identity and permissions").set_defaults(run=cmd_whoami)
+    sub.add_parser("doctor", parents=[common], help="verify access without a news poll").set_defaults(run=cmd_doctor)
+    sub.add_parser("disconnect", parents=[common], help="revoke this connection and all its keys").set_defaults(run=cmd_disconnect)
+    audit = sub.add_parser("audit", parents=[common], help="this connection's retained access history")
+    audit.add_argument("--cursor", default=None)
+    audit.set_defaults(run=cmd_audit)
     sub.add_parser("start-from-now", parents=[common],
                    help="capture the feed head once and save it").set_defaults(run=cmd_start_from_now)
 
