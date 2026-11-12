@@ -53,6 +53,15 @@
   "sha256": "dfd5638c88e129535efa3f995a0fa4a044be3f69cc742fa77cf378870641440d",
   "slug": "will-ai-solve-yang-mills-in-2026"
  },
+ "0x0ce824d397df74ba2a7ebb94b12bd5e76abd1edd7409ac0236bdd1fbb48f9a7f": {
+  "created_at": "2026-11-11T21:57:27.185961Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Indiana in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "3676f23c816e4610571d78434c4e2a00f887e93a244d4b96677580a904598a57",
+  "slug": "will-the-democrats-win-indiana-in-the-2028-presidential-election"
+ },
  "0x0fa88c6714b8e3fe8f32a3504dae1db6ec472f527ddd6513d0a7c1206933937f": {
   "created_at": "2026-10-01T23:00:13.63743Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -479,6 +488,15 @@
   "revisions": 1,
   "sha256": "07fa6c93886e79a7dcc75aea4cd065793327718a75d9aa6d119a60769be0a057",
   "slug": "nba-2026-27-most-improved-player-scoot-henderson"
+ },
+ "0x475196360677530c2d57cc95e1cf3276fa4afc0ce5dcdd14ad0ec23b1fc6ff7f": {
+  "created_at": "2026-11-10T02:14:43.390676Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Pat Gelsinger be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-pat-gelsinger-be-the-next-ceo-of-nvidia"
  },
  "0x49ce5c7c0431946af33160567b71638b230be5b6fbb929903f5afc636f5c4f7f": {
   "created_at": "2026-07-01T21:47:05.172844Z",
@@ -1326,6 +1344,15 @@
   "revisions": 1,
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",
   "slug": "will-germany-be-relegated-from-nations-league-a-in-2026-27"
+ },
+ "0xee632db7aac5c9836cef522fd6c4dbea507b4c4201c6c3940d6dc847755e957f": {
+  "created_at": "2026-11-11T21:57:27.477305Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Kansas in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "6e0f7a5b3b8f2641189d1e680d146b8ec3d8ceacecbb3361b1fcb768a3199063",
+  "slug": "will-the-republicans-win-kansas-in-the-2028-presidential-election"
  },
  "0xf3534ff47dc5a34c90b1dd2c416491e679bcba7473f526c5752e2aa09194757f": {
   "created_at": "2026-10-31T00:24:28.51934Z",

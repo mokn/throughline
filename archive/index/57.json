@@ -39,6 +39,7 @@
   "created_at": "2026-03-26T16:21:15.916996Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Yordan Alvarez win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -559,6 +560,15 @@
   "revisions": 1,
   "sha256": "a114852b5d7bfaa0f2ad7791d194b679684565f7ced3d54f7eff2d897a82b065",
   "slug": "will-donald-trump-jr-win-the-2028-republican-presidential-nomination"
+ },
+ "0x4c12a732cd77165089070051dcecced7be15feaf8aa284d908744dbbf88af357": {
+  "created_at": "2026-11-10T02:14:46.30495Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Jonah Alben be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-jonah-alben-be-the-next-ceo-of-nvidia"
  },
  "0x4c50c27bce3947f506e072680486d7807a5f5810434c6ac5302390c28747f757": {
   "created_at": "2026-08-12T17:26:46.242449Z",
@@ -1213,6 +1223,7 @@
   "created_at": "2026-10-13T23:25:02.54703Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will \"Pragmata\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",

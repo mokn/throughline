@@ -392,6 +392,7 @@
   "created_at": "2026-02-19T00:42:44.88935Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Yordan Alvarez win the 2026 American League Hank Aaron Award?",
   "revisions": 1,
   "sha256": "52a8a67146ad80ab776aa2fa3b8c6fce09103edac1c14f612c2ef75f8df02c56",
@@ -454,16 +455,17 @@
  "0x3c6918f6944f05883477c01f0f4380a63096e8e11f00c11595ac1aa1294c3358": {
   "created_at": "2026-11-10T02:14:35.114909Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-12T15:15:16Z",
   "question": "Will Debora Shoquist be the next CEO of NVIDIA?",
-  "revisions": 1,
-  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "revisions": 2,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
   "slug": "will-debora-shoquist-be-the-next-ceo-of-nvidia"
  },
  "0x3d302c76e076e3ee880be4d154ba724d1bc0eeed0c63824fbeb242252acd8358": {
   "created_at": "2026-09-09T15:53:09.689099Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Michael Carrick be out as Manchester United manager by December 31, 2026?",
   "revisions": 1,
   "sha256": "b326a56896f124e4e10ff7b1d811ba4759296100afd123a1ba4b7c69946ec06d",
@@ -509,6 +511,7 @@
   "created_at": "2026-07-23T22:42:42.758266Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the highest score achieved by an Anthropic Claude model on Humanity\u2019s Last Exam in 2026 be 60% or higher?",
   "revisions": 1,
   "sha256": "019ad3790b228cd0afd79128181f0964cf207e4a0996102aaa0e96d53ff051b9",
@@ -1367,6 +1370,15 @@
   "revisions": 1,
   "sha256": "eaf6939224e6b85b445bb30dca0c9568a0105d06885da97df7582a26a0c8fab5",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mn-05-house-election-by-70-75"
+ },
+ "0xeab79405d560d2ea722a68faf28b13d09a22c5f32cacd2481a5c06064e260058": {
+  "created_at": "2026-10-25T17:45:25.346901Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 2 - 3 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-2-3"
  },
  "0xec59bdb33972566cb489e19de5b0954b8fa39041acadb8636b3524800840e858": {
   "created_at": "2026-08-05T10:27:34.126549Z",

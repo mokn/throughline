@@ -185,6 +185,7 @@
   "created_at": "2026-08-13T17:43:19.032569Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will UK GDP growth in Q3 2026 be negative?",
   "revisions": 1,
   "sha256": "8ee46b65a3687a1e9fac0fc0ed614d05d17f1a86ef0d10218e4a5c4ad4fde2d6",
@@ -872,6 +873,7 @@
   "created_at": "2026-08-12T16:51:33.831517Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cynthia Stefani G\u00f3mez G\u00f3mez win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
@@ -994,6 +996,15 @@
   "sha256": "0800f56a93f8db31001f305d7cf9f224124cbd3df016e44e19764a4cb46978b9",
   "slug": "will-chris-stapleton-sing-the-national-anthem-at-the-2027-big-game"
  },
+ "0x925c37e9c9dda1dc6673640c93aed10a6d7c1a5149a402a95402c0d14a8c6799": {
+  "created_at": "2026-11-11T23:46:57.912008Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Jensen Huang's resignation or removal not be announced and Nvidia's market cap be below $4T at the end of 2026?",
+  "revisions": 1,
+  "sha256": "f1ccac1581e181bd53a8ab52db77078d1c9291198bb19e211a3b4dd24addc20e",
+  "slug": "jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-not-resigned-under"
+ },
  "0x937ff32a48a6f125a9c45d019bdde040f9c4c4648b2d249befa9eef63f933a99": {
   "created_at": "2026-09-20T08:44:51.032165Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1020,6 +1031,15 @@
   "revisions": 1,
   "sha256": "a114272873c1af1824f6d5f96d1b53cc4cdc3b6c5d74b90bb79754ffdab3e9bf",
   "slug": "will-javier-ambrossi-be-nominated-for-best-director-at-the-99th-academy-awards-20261014120000001"
+ },
+ "0x9cc3986926540869f3989e52123c98196543572485914874f6c0fadfee4b1f99": {
+  "created_at": "2026-11-11T21:57:07.466369Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Massachusetts in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "376d148ee712b4abcca601df3bc9c806d32865baa6da0d21ee9f1a35a2a4b430",
+  "slug": "will-the-republicans-win-massachusetts-in-the-2028-presidential-election"
  },
  "0x9d876a1ff01a10bf6de3a47f52badcfa8d8c4c4ff093ec25e73a973dfd995899": {
   "created_at": "2026-08-24T16:35:16.943585Z",
@@ -1552,6 +1572,7 @@
   "created_at": "2026-08-11T18:49:51.426408Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 SC-02 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "75831c8ce49d78e4943de53c02269293f62f5d30e7bfbb05944b5f66d6743d70",

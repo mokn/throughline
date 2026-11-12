@@ -1318,6 +1318,15 @@
   "sha256": "a5dc3ebd69ce481719c52c39c4fc5ccb1f14d91b6e2d555ccce367952b323845",
   "slug": "will-the-republican-party-win-the-md-06-house-seat"
  },
+ "0xbe0bf27c0a7cb5659c3f458ccdbadff0f55cf07efa64991b42249d7e1980526f": {
+  "created_at": "2026-10-25T17:45:24.71891Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 0 - 2 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-0-2"
+ },
  "0xc572eb0557eaf6ff222c40ad398d8c02d49e9cdd46be9ea9f1213506405a456f": {
   "created_at": "2026-08-21T17:37:23.14387Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1550,6 +1559,7 @@
   "created_at": "2026-07-23T22:42:42.874132Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the highest score achieved by an Anthropic Claude model on Humanity\u2019s Last Exam in 2026 be 65% or higher?",
   "revisions": 1,
   "sha256": "019ad3790b228cd0afd79128181f0964cf207e4a0996102aaa0e96d53ff051b9",

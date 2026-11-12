@@ -229,6 +229,7 @@
   "created_at": "2026-08-10T20:04:05.737345Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Elisabeth Bj\u00f6rk be the next Regional Board Chair of Region V\u00e4rmland?",
   "revisions": 1,
   "sha256": "6caac63e659de9e485779e8d4bd0bbf8adc310af391409508b27fb648aa26e58",
@@ -361,6 +362,15 @@
   "revisions": 1,
   "sha256": "0461d78b8096b6911833e572402bda847da77bfe286cadf8eac91288bf316f64",
   "slug": "will-voter-turnout-70-or-higher-in-the-2026-spanish-general-election"
+ },
+ "0x43c33bfd1611d2e6fe73ce99408f8a2469cd062d4bc22a71d818a5dc1e7f3864": {
+  "created_at": "2026-10-26T09:00:12.550069Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Estoril Praia O/U 5.5",
+  "revisions": 1,
+  "sha256": "4f64b659666408c5031f94a44cc42157c174ec202facfa5e882799adf300615c",
+  "slug": "por-est-csm-2026-11-08-team-total-home-5pt5"
  },
  "0x44eaa0babc8c6235015f9ce630fdcaf4b618b684a0dfc6ce07cf62a8eb55a464": {
   "created_at": "2026-07-31T23:08:38.789286Z",
@@ -522,6 +532,7 @@
   "created_at": "2026-10-05T21:55:21.595281Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Sabrina Carpenter headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -991,6 +1002,7 @@
   "created_at": "2026-10-05T21:55:20.387414Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Kanye West headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",

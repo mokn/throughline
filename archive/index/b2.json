@@ -840,6 +840,15 @@
   "sha256": "1ec10cde4959f4fffb540dedb75851fb62ded54dd6be0bb47ef58097396708c1",
   "slug": "jaxson-dart-249pt5-rushing-yards-2026-27"
  },
+ "0x7ae74fbd2e19ecebb3c91e0fceff591fa27052ce5fcbfd54e9b844b37dc922b2": {
+  "created_at": "2026-10-26T09:00:11.112707Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "9291a0bd47fee53811fe01f7242fa6ab26f97d03bbbf95cd5c6c0e76d2012f8b",
+  "slug": "por-est-csm-2026-11-08-first-half-total-2pt5"
+ },
  "0x7bec8d71484dbefeb803c4f73c94188e6355b94ad731520c3a543eefd29457b2": {
   "created_at": "2026-01-28T04:54:06.726335Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1734,6 +1743,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-kansas-city-chiefs-have-more-than-8pt5-wins-during-the-2026-nfl-season"
+ },
+ "0xf662b940e9d6d42ed2b176a031d4e19b220309df57e8bdb4339fc549994ffcb2": {
+  "created_at": "2026-11-12T00:35:29.149708Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Jensen Huang join a new company by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "bbdb13df94b0c5bac2afdd50e58b99ae5a4bde10ebe1a180a5f628217e998a75",
+  "slug": "will-jensen-huang-join-a-new-company-by-december-31-2026"
  },
  "0xf726027287f08b755acd0a1a4a0dfd2aba38dc96787d5f8b2e563d90e0bf96b2": {
   "created_at": "2026-08-06T21:36:34.371562Z",

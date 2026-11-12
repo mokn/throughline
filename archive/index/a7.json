@@ -399,6 +399,15 @@
   "sha256": "2cd543bce4197aa63cf560c789cd84793e70eab639bd691cfb4a5aa0db32f830",
   "slug": "will-north-texas-make-the-2027-college-football-playoff-national-championship-game-20260803190747196"
  },
+ "0x5539ad591e8b3a08e7afff9eba55e72f7bf280212f25b79223cea6342163e8a7": {
+  "created_at": "2026-10-26T09:00:10.940566Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "d11e0d953945d138e0dcaa6f997a879aec801dc35bed4e7dfc0fb411c5dfda87",
+  "slug": "por-est-csm-2026-11-08-first-half-total-1pt5"
+ },
  "0x5683743c137e4ebbe8b69e99919aeaf67e4adb3606cfdf7c717b2324927d28a7": {
   "created_at": "2026-03-18T21:03:43.106569Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1313,6 +1322,15 @@
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
   "slug": "el2-pvl-nth-2026-09-26-exact-score-0-3"
+ },
+ "0xeb6a33f0927bba2dbb9c0b37828969b6b0d6bb7067fdd55c1989a882b1c2c1a7": {
+  "created_at": "2026-11-11T21:57:54.566944Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Arkansas in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "56c92b14bfd7eb04511bfb03049f83e0d8b619d606fda1e325129390839f5c60",
+  "slug": "will-the-democrats-win-arkansas-in-the-2028-presidential-election"
  },
  "0xebb4ab09e90d0dd3e84603ef43319042d82a48c20607d49ba28938429d5fcca7": {
   "created_at": "2026-10-21T23:52:52.575267Z",

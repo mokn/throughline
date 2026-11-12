@@ -454,6 +454,7 @@
   "created_at": "2026-10-25T04:00:47.018561Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $64 in November?",
   "revisions": 1,
   "sha256": "b16950b2d1aaf777db9e7cc3ef2d8177eed6e1c3dc99d923d72a1538d201430d",
@@ -1238,6 +1239,15 @@
   "sha256": "d746dd039dc18c67993aedc7050cff54c68ebd5e6e98b2e20adad0bedc8c582a",
   "slug": "will-pedro-pascal-win-best-actor-at-the-99th-academy-awards-20260727174302923"
  },
+ "0xcf2f5d35f8c285eeea3de0dea464bc5bd0a81f058e5fec33d50f846316878621": {
+  "created_at": "2026-10-26T09:00:14.438974Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: CS Mar\u00edtimo 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "bbc07e0d27be5f9f08bffd1dbcecbc7f4bdad1677db7ae289a1beac736934011",
+  "slug": "por-est-csm-2026-11-08-first-half-team-total-away-0pt5"
+ },
  "0xd04271b958886773b42d0873e54ab82109461b42967a87473ee42c998612bf21": {
   "created_at": "2025-12-16T15:10:23.111062Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1395,6 +1405,7 @@
   "created_at": "2026-10-13T23:25:01.66219Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will \"Forza Horizon 6\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",

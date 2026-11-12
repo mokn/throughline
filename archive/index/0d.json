@@ -134,6 +134,15 @@
   "sha256": "ec096d988cfc23e74d8a7d3ea6b9bc7c456540a3e9173d3bd7d35046287f990a",
   "slug": "will-alibaba-be-the-third-best-ai-agent-lab-at-the-end-of-december-2026"
  },
+ "0x1349e0be4a0d2fb5367d0082a46c718b91aac1170e60a920b271a053bddaf60d": {
+  "created_at": "2026-10-25T17:45:25.883743Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 3 - 5 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-3-5"
+ },
  "0x162c1ed58466d27bc4d836ef3e20f2bd533b6a62805e4da67595a23493b2950d": {
   "created_at": "2026-07-24T01:47:39.58279Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1457,6 +1466,7 @@
   "created_at": "2026-03-25T18:04:20.754532Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Shota Imanaga win the 2026 NL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",

@@ -476,6 +476,7 @@
   "created_at": "2026-09-30T13:43:48.571054Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will there be under 20 tornadoes in the US in October 2026?",
   "revisions": 1,
   "sha256": "63f49b01d65d3ad2d0fdb79bfd79db71bdd9736f5b8655bddf8e747226ab802b",
@@ -1048,6 +1049,7 @@
   "created_at": "2026-01-28T15:35:38.309037Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Democratic Party win the NC-03 House seat?",
   "revisions": 1,
   "sha256": "425ba3ed4052deb6886b37316baef74b995a8f574297c395c296b2e26fcec505",
@@ -1451,6 +1453,15 @@
   "revisions": 1,
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-wizards-vs-mavericks"
+ },
+ "0xed0078537fde088923f7cf5f150228a94d6887ee61b624282d80fddeaf19ba33": {
+  "created_at": "2026-10-25T17:45:24.034783Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "CS Mar\u00edtimo leading at halftime?",
+  "revisions": 1,
+  "sha256": "20920b05c8a3acf6ab66c3d77b1b543fc6d006d2631b3a2f047151e710b57a84",
+  "slug": "por-est-csm-2026-11-08-halftime-result-away"
  },
  "0xf0c676cadebfc1487dd06bd167be9befdeda8892598914f9d7ee65fa6dedf133": {
   "created_at": "2026-09-13T08:15:52.482362Z",

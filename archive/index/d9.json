@@ -258,6 +258,7 @@
   "created_at": "2026-08-05T20:21:08.623098Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 Oklahoma gubernatorial election by 25%-30%?",
   "revisions": 1,
   "sha256": "a72bc4d4fb996cc353eb627bb7a62d5e85f65118421991b2a0eaca484baa6044",
@@ -1544,6 +1545,15 @@
   "revisions": 1,
   "sha256": "149e0eb4e103180ea5880b76cdfedc1a2bd6f8aa556f23f858edc53a563ae5b7",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-14-house-election-by-20-25"
+ },
+ "0xe5862d494dec8f263f5f16c80db6ca7e10f60f1795af33802ba28b768c6c6cd9": {
+  "created_at": "2026-11-11T22:25:56.865407Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Venezuela election scheduled by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "d61dddf5be3e1ef9a669c68e3adda07b2a80cee75ab0c7559677800e4af9ffb5",
+  "slug": "venezuela-election-scheduled-by-june-30-2027"
  },
  "0xe8cff7f0fa3b6bd42a905bed6cd32ceac4ff60fea479b53dd04aa4324ebdead9": {
   "created_at": "2026-10-30T14:53:37.89377Z",

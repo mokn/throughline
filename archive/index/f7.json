@@ -71,6 +71,15 @@
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",
   "slug": "will-the-democratic-party-candidate-win-the-2026-rhode-island-gubernatorial-election-by-30-35"
  },
+ "0x0f496e1424f342c4d82e4c39e35a2161be02bc78bb3ee1f939c77654096e77f7": {
+  "created_at": "2026-10-26T09:00:10.541138Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "dbb5ac74de7b2d7e49c57293ecd639403c0d277816ee7893c0de07836c00e6f3",
+  "slug": "por-est-csm-2026-11-08-btts-first-half"
+ },
  "0x10b993a5fccd3a99b7f72522401e0a608a5b9a767538817379744a3cca88d1f7": {
   "created_at": "2026-09-02T19:30:46.183093Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -211,6 +220,7 @@
   "created_at": "2026-08-12T16:51:35.011047Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Sergio Antonio Donayre Ram\u00edrez win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",

@@ -563,6 +563,7 @@
   "created_at": "2026-08-11T18:42:14.861693Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-03 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "49cb3a0d328cf1f0cee82bbbddee9679004edab6a92b19682e76ecfd8a3f674f",
@@ -694,6 +695,15 @@
   "revisions": 1,
   "sha256": "f2a6cfff332c03ff6ecae7492c37d1f8f71ebe5f831984dd76590699726e9859",
   "slug": "will-n1-launch-a-token-by-march-31-2027"
+ },
+ "0x7973ab3e3399050e6245c67bf281b22d3593bb3353b629149aeaf0a1e9b96f2a": {
+  "created_at": "2026-11-11T21:57:03.153074Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Mississippi in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "446b9b31d68414bf42d9bb039cacac0db55e6570e82ef0997ad3b25b551205db",
+  "slug": "will-the-republicans-win-mississippi-in-the-2028-presidential-election"
  },
  "0x7a933ab36d0311a7f2e6fef31e2d61bad3bdd8c0c47df5cd49ae62c869f5e22a": {
   "created_at": "2026-09-28T17:44:06.982334Z",
@@ -1158,6 +1168,7 @@
   "created_at": "2026-08-05T20:21:08.02327Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 Oklahoma gubernatorial election by 35% or more?",
   "revisions": 1,
   "sha256": "a72bc4d4fb996cc353eb627bb7a62d5e85f65118421991b2a0eaca484baa6044",

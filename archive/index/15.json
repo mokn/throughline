@@ -824,6 +824,15 @@
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
   "slug": "f1-las-vegas-grand-prix-practice-3-fastest-lap-lance-stroll-2026-11-20"
  },
+ "0x8ccb9977b0134a3805e9a8b0520753dabea61215b5d8494ee78a1331eed1bc15": {
+  "created_at": "2026-11-12T00:10:06.36402Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Jensen Huang be arrested by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "12e03688e6fded2878e4ac2c230ef8b870780cc54a2d110e004e2f2091d31d6b",
+  "slug": "will-jensen-huang-be-arrested-by-december-31-2026"
+ },
  "0x8d506c3c8423b631ef08f1609d39b7635a7cb7d21da5feb1437b1627a0723b15": {
   "created_at": "2026-10-30T22:00:26.481427Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1039,6 +1048,7 @@
   "created_at": "2026-03-25T18:04:21.98267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Ezequiel Tovar win the 2026 NL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",
@@ -1261,6 +1271,15 @@
   "sha256": "06b716e3d7979e969c9dcdc848d1e46a70b011fa5cd8574dd62a393158c90133",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-13-house-election-by-3-6"
  },
+ "0xddab1a21931237345f33cdf4ac90351be6c864bce02f1d39a1f8e30630e7b615": {
+  "created_at": "2026-11-10T02:14:40.602477Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Matt Garman be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-matt-garman-be-the-next-ceo-of-nvidia"
+ },
  "0xde5c216c7d1cf67c49d2f4e13b9c9b6dbd46a9413f11e4d2f828199e6cde4f15": {
   "created_at": "2026-09-13T08:15:50.696357Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1328,6 +1347,7 @@
   "created_at": "2026-08-12T16:51:31.190123Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Nery Mozombite Cerr\u00f3n win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",

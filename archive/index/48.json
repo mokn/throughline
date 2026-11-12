@@ -210,6 +210,7 @@
   "created_at": "2026-03-25T17:45:16.06217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Mike Trout win the 2026 AL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "25389de95890e91516a2c43e1c2e8540de33fceb80a677b357e5d14822ee7214",
@@ -634,6 +635,15 @@
   "sha256": "bf0db5bc3485a07db93c8569590e7c70a4eceba8db60e33782094ec3f44100d6",
   "slug": "will-qfex-launch-a-token-by-december-31-2027"
  },
+ "0x6185c9ce8a1ded390b309dcb8bb69d02b9ba9559073a686fea22460a9e161948": {
+  "created_at": "2026-10-26T09:00:07.941293Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Spread: CS Mar\u00edtimo (-3.5)",
+  "revisions": 1,
+  "sha256": "2f575e8470d8d595f73ec8bca20df6f188d20e94e251c287e38d3dde81612874",
+  "slug": "por-est-csm-2026-11-08-spread-away-3pt5"
+ },
  "0x65e4f39d20808d2f146177dcea037c9a01198ef2680793221fd18a0118542f48": {
   "created_at": "2026-07-07T14:36:26.365696Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -837,6 +847,7 @@
   "created_at": "2026-10-20T23:03:38.471948Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cryocells play for Team Envy in 2027?",
   "revisions": 1,
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",
@@ -1258,6 +1269,15 @@
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-rafael-leao-score-the-most-goals-in-the-2026-27-uefa-champions-league"
  },
+ "0xcfa1fc4a2a6ce219c761242a246d2c739a81ac9a2bd7d6ee81f0074644fed948": {
+  "created_at": "2026-10-26T09:00:13.41627Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: CS Mar\u00edtimo O/U 4.5",
+  "revisions": 1,
+  "sha256": "d1d3418137a81e953c8e4cb4ca1d59ee0989644d34ea450219ad0d415204d5a6",
+  "slug": "por-est-csm-2026-11-08-team-total-away-4pt5"
+ },
  "0xd19a8b392e4a23d40c61badbf27e12113d9865a57e4b700651c0b909590daf48": {
   "created_at": "2026-08-07T15:14:52.886573Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1450,6 +1470,15 @@
   "revisions": 1,
   "sha256": "248e050845e153eb1f5d304a6af0d7da16489bc3c1ac6932077c8f19e092eeee",
   "slug": "iran-blockade-lifted-before-us-x-iran-ceasefire-ends"
+ },
+ "0xef22c46ce7484ec19ee622de430cbc03a22aba71afc8142d00ac30fede348848": {
+  "created_at": "2026-11-12T13:00:17.797412Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the South African Reserve Bank decrease the repo rate by 25 bps at the May meeting?",
+  "revisions": 1,
+  "sha256": "a042e79159af1ae15c0feb9348d8c2108e92061a378a122d7e52c97fce967956",
+  "slug": "will-the-south-african-reserve-bank-decrease-the-repo-rate-by-25-bps-at-the-may-2027-meeting"
  },
  "0xf0f29d2994ea37406d158d72e9dde22035eef4bba5ed2ece5be846cef6435948": {
   "created_at": "2026-06-25T17:26:23.501439Z",

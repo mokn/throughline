@@ -766,6 +766,7 @@
   "created_at": "2026-09-09T15:52:48.538191Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Roberto De Zerbi be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
@@ -1242,6 +1243,15 @@
   "revisions": 1,
   "sha256": "86d52eca4f280a6270074a76ae1403fa9168ad11644a033366c6c829466c655d",
   "slug": "will-coban-imperial-finish-10th-in-liga-nacional-guatemala-2026-27"
+ },
+ "0xc1a6b7bd3bdae3ae8cc6e07e4afc5f86c2e767b0a164a3f916a6129ec696d8b6": {
+  "created_at": "2026-10-26T09:00:12.370827Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Estoril Praia O/U 4.5",
+  "revisions": 1,
+  "sha256": "0002e18f8c9aab2ffb423492d7c9c8d7fb2d89f0137b365c65e300b43295d907",
+  "slug": "por-est-csm-2026-11-08-team-total-home-4pt5"
  },
  "0xc3a797256630782beba6ddda1988bfc7d82727d8ddd2ac90f4c5bf87dd96d1b6": {
   "created_at": "2026-08-11T19:11:00.466895Z",

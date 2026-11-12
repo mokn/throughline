@@ -245,6 +245,15 @@
   "sha256": "d714d5212b6d908f20b1d361e406fbaf93e3e9ba75ad5964e44c94fc85e87bf8",
   "slug": "mary-peltola-charged-by-january-31"
  },
+ "0x3ee04d309ea66c34facaa79939883a6061124728400a30cb515b9c73935d3c43": {
+  "created_at": "2026-11-11T21:56:17.667143Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Vermont in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "b992eb3bb2e2f112a2292db5a5bf50e3fbab312ec5d190b0c2ef45979de2083b",
+  "slug": "will-the-republicans-win-vermont-in-the-2028-presidential-election"
+ },
  "0x3f4658791d83604dee7b3f48f819bf24fb39b093dee0396e9e30c4b394808943": {
   "created_at": "2026-08-05T11:09:15.275807Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -524,6 +533,7 @@
   "created_at": "2026-10-05T21:55:24.197014Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Radiohead headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -573,6 +583,15 @@
   "revisions": 1,
   "sha256": "8c55725870adfc4c38007e9c817b89125b0845ade5703247d6705c3a2aa39347",
   "slug": "josh-sweat-15-sacks-2026-27"
+ },
+ "0x6c4d1afcff0114cb4b2997fcbbef83eebcb7def1c46cf165585b21ce83cb1a43": {
+  "created_at": "2026-11-12T13:00:19.28107Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the South African Reserve Bank increase the repo rate by 50+ bps at the May meeting?",
+  "revisions": 1,
+  "sha256": "a042e79159af1ae15c0feb9348d8c2108e92061a378a122d7e52c97fce967956",
+  "slug": "will-the-south-african-reserve-bank-increase-the-repo-rate-by-50-bps-at-the-may-2027-meeting"
  },
  "0x6c9c230e685a1938d771e0878085dba6e8f183ef0f2e9619caa2d3b40df51643": {
   "created_at": "2026-06-30T23:34:38.320647Z",
@@ -1124,6 +1143,7 @@
   "created_at": "2026-10-20T23:03:33.541191Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cryocells play for G2 Esports in 2027?",
   "revisions": 1,
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",
@@ -1397,6 +1417,7 @@
   "created_at": "2026-08-12T16:51:33.22532Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Rub\u00e9n Antonio Hern\u00e1ndez Del \u00c1guila win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",

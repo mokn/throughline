@@ -617,6 +617,15 @@
   "sha256": "1c2cddd7e1c0f37f9862b809fcc35cb1f96ead3f7ac22c19774ead3dca1918a3",
   "slug": "enl-bar-fgr-2026-10-24-spread-away-1pt5"
  },
+ "0x525f20493db89ac7ae5cba916768af3a5ba419895e683a852e44a24f7f0cc9ae": {
+  "created_at": "2026-10-26T09:00:14.615456Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: CS Mar\u00edtimo 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "5ad4d7350e8380c922e9f0a6c5fcc8577419356f159bcd849034f24e82b3d68d",
+  "slug": "por-est-csm-2026-11-08-first-half-team-total-away-1pt5"
+ },
  "0x54065dc77519a786cb5b5ba573791f0573d6f215b67bd2d89174f58f59e2a8ae": {
   "created_at": "2026-10-13T15:49:42.852918Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1233,6 +1242,15 @@
   "revisions": 1,
   "sha256": "e5a8e4a9792994c905620fd8ce152d31ca72678b760f1347324ba4232957771d",
   "slug": "will-carnell-tate-finish-the-2026-27-nfl-regular-season-with-the-most-receptions-20260715212154235"
+ },
+ "0xbb8dcb9449589b7a6b9d4e3d45cc884d9f9bb564ae8dea4846db554cb76506ae": {
+  "created_at": "2026-11-12T00:30:42.634443Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Dakota Cohen come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-dakota-cohen-come-in-second-place-on-the-voice-season-30"
  },
  "0xbc2bd489999a67140c9e89633453eb9c2cba202b010cd1c6efdc6ea1da03e9ae": {
   "created_at": "2026-04-21T16:57:40.389653Z",

@@ -622,6 +622,15 @@
   "sha256": "c68f80fb6a732ff55972be1b72692465c9ec73f689374b5e497716c3537fde74",
   "slug": "will-lyon-finish-the-uel-league-phase-with-the-best-goal-differential"
  },
+ "0x61625ebcb27076dee15840819b0535564af6237619ebcdc5077fb523c954a418": {
+  "created_at": "2026-10-26T09:00:10.192626Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: O/U 8.5",
+  "revisions": 1,
+  "sha256": "c09862187e8123da3569539c7971c468269bbaf707fd9214d790b33bca08c15c",
+  "slug": "por-est-csm-2026-11-08-total-8pt5"
+ },
  "0x63038e548cf505c496ac5eefc480e1b0de3474bce04ef11f2709bca7215f1a18": {
   "created_at": "2026-07-24T01:47:35.52788Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -858,6 +867,15 @@
   "revisions": 1,
   "sha256": "ab8bd1739556d889089323b6d5b1f585567620898a64ada7b16eb34fe2652267",
   "slug": "2027-soccer-chance-liga-czechia-runner-up-bohemians-1905"
+ },
+ "0x969714f4016cd4ed24d0e1b88731eea03ba13e441b8497b6fecc4ed917395718": {
+  "created_at": "2026-10-26T09:00:11.465187Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "e1545da34c7467873d09cea8855d781ba8a4a7736765d43cd527e23e956abfaf",
+  "slug": "por-est-csm-2026-11-08-first-half-total-4pt5"
  },
  "0x986512a84009cad7bf0bbd8bfa1e9f834e3fd6ed2bfecee636fab3b0844e5b18": {
   "created_at": "2026-07-20T20:17:29.101545Z",

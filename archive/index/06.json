@@ -1321,6 +1321,7 @@
   "created_at": "2026-03-26T16:21:22.342759Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Ryan O'Hearn win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -1451,6 +1452,15 @@
   "revisions": 1,
   "sha256": "f232fb3a64fa2e3c3219120ee9592162580dbfa8766a0555773ebb9a10495103",
   "slug": "enl-scu-fgr-2026-10-03-exact-score-1-3"
+ },
+ "0xd6972b3b1493cfbc8c384cfd162a3ffbe12ea12c93285805b8bc98b2d9165406": {
+  "created_at": "2026-11-12T00:30:46.231491Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Cade Mower come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-cade-mower-come-in-third-place-on-the-voice-season-30"
  },
  "0xd6d49a8dc86934305ba70f66a84c89453bfda029363c2192d35f26cbc5dfcf06": {
   "created_at": "2026-09-27T20:11:22.842678Z",
@@ -1618,6 +1628,7 @@
   "created_at": "2026-10-05T21:55:24.580121Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Billie Eilish headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",

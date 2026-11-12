@@ -264,6 +264,15 @@
   "sha256": "924ccd426dd8bdc5a8d944e938af81db2dddebd90c77f2d3c9648dd50a1c4c39",
   "slug": "el2-cra-bar-2026-09-26-corners-second-half-total-3pt5"
  },
+ "0x26bafa47ae4edccec61b65e518e642362ef06901b39bb8cf73ac170e251d8f81": {
+  "created_at": "2026-11-11T21:56:55.968181Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Montana in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "e4c1b450b63385d1e345bab7ade430d532bf39e7a687bce1cff80e06ce2a4f66",
+  "slug": "will-the-democrats-win-montana-in-the-2028-presidential-election"
+ },
  "0x27a25290f5a2e2ff16c95da4e5c6226b4a5065dfb9dc71d208bfc9194a120f81": {
   "created_at": "2026-10-05T19:30:04.518519Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -807,6 +816,15 @@
   "revisions": 1,
   "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
   "slug": "will-bernie-sanders-announce-a-presidential-run-before-2028-20260803143241632"
+ },
+ "0x7f50ddd9d01015889f02fc0a588c7a28cad0605397baacddf9aa67fd6e8f8481": {
+  "created_at": "2026-11-12T00:30:40.910699Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Koumba Diallo come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-koumba-diallo-come-in-third-place-on-the-voice-season-30"
  },
  "0x7f52b04c31aed668d301530d336a7eeda3ac07c76476c5669db16b4306637a81": {
   "created_at": "2026-09-08T16:54:35.757594Z",

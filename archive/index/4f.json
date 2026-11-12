@@ -17,6 +17,15 @@
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-pavel-buchnevich-record-80-points-in-the-2026-27-regular-season"
  },
+ "0x057a1c92d4384ea0f28e3a5a8e09cbdc44e3b5663e5e34b33b3dbf5c3d6f4d4f": {
+  "created_at": "2026-11-11T21:56:30.921647Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Tennessee in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "d38d4eaae19ac57777119b58126f4efa184a265854be742f7c22bffd38a50b40",
+  "slug": "will-the-republicans-win-tennessee-in-the-2028-presidential-election"
+ },
  "0x06b066958f047d9f684a60ba923966ffd581bcda87436327d475bdfbd0d1d34f": {
   "created_at": "2025-11-21T13:00:17.358103Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -310,6 +319,7 @@
   "created_at": "2026-02-19T00:54:42.24244Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Sal Stewart win the 2026 National League Hank Aaron Award?",
   "revisions": 1,
   "sha256": "c492ec56ef554ae5c374403387b63cc43381e9f695e7eadbd39dc71bc59008c2",

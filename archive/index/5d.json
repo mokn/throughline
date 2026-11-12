@@ -164,6 +164,15 @@
   "sha256": "313cb50e7cccdaddf0b69d30f0ee34540799d76f542f7075d715e3d69300a96b",
   "slug": "will-nico-hischier-record-40-goals-in-the-2026-27-regular-season"
  },
+ "0x192c09b1b22676c64e4092849ae7385972ac81f91bd689e6604078fb84cd135d": {
+  "created_at": "2026-11-11T21:57:39.870392Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Delaware in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "81cbfdad8e83110340e9767caff3b8c0b61f9a6cfca3671ddc996c5f6cffbb4f",
+  "slug": "will-the-democrats-win-delaware-in-the-2028-presidential-election"
+ },
  "0x193b14667afeb8ef3c73acc6630981674e1ca429241984c78df016e68fdfa75d": {
   "created_at": "2026-09-08T16:56:03.461384Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -535,6 +544,15 @@
   "sha256": "80a03edf7902540b299bf83be8e8e34e6f072da7a9ad188bcc41846d41b13931",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-52-house-election-by-30-35"
  },
+ "0x531d6bb85b2bea243f1f28468cf38f07e097f5229a0bb5fb8d39eb10cbac225d": {
+  "created_at": "2026-10-26T09:00:07.591892Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Spread: CS Mar\u00edtimo (-2.5)",
+  "revisions": 1,
+  "sha256": "75569a0c61f22aa596d0fbd170bf950d150092c602309443597b50655404f42f",
+  "slug": "por-est-csm-2026-11-08-spread-away-2pt5"
+ },
  "0x5424b03d9b755e2435ba5b0fded1feb30708e8b80250915b4c5a74fef9d2f65d": {
   "created_at": "2026-09-28T17:43:55.048001Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -611,6 +629,7 @@
   "created_at": "2026-09-09T15:53:10.190985Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Michael Carrick be out as Manchester United manager by June 30, 2027?",
   "revisions": 1,
   "sha256": "b326a56896f124e4e10ff7b1d811ba4759296100afd123a1ba4b7c69946ec06d",
@@ -870,6 +889,15 @@
   "revisions": 1,
   "sha256": "304410d868b55057a01f25c4bc5d1ee51ee360b62ab0e40a4ae1d4e747a0c9ee",
   "slug": "trump-signs-a-bill-from-the-new-congress-by-march-31-2027"
+ },
+ "0x8eff57f52c3b9d1333e0524805ec4e026f2d531d9e43f5a70ac329431d45ad5d": {
+  "created_at": "2026-10-26T09:00:08.484527Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Spread: Estoril Praia (-5.5)",
+  "revisions": 1,
+  "sha256": "f15332fae827043d2b17c9d028581c2efd1af7c6175b3b7facfcd510092940aa",
+  "slug": "por-est-csm-2026-11-08-spread-home-5pt5"
  },
  "0x8f03c517639006af5e631f2747dfce9b1806fa7446ff04baf7529edce5a1c75d": {
   "created_at": "2026-09-02T21:57:49.337795Z",

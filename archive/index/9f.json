@@ -1092,6 +1092,15 @@
   "sha256": "8b2934e5ff467c7dae9bf4cc6e77d40851fc0a7a5131a12052747032ee9a5b77",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-05-house-election-by-40-45"
  },
+ "0xa1421dddd9ab01545ff9c7fd9f7eb18e20e96073087cba9b1a59fa041200779f": {
+  "created_at": "2026-11-12T00:30:44.353486Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Cade Mower come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-cade-mower-come-in-second-place-on-the-voice-season-30"
+ },
  "0xa1d1a76cb80ae492a3237f07abbd70ed9f70f02bf9440edea789d1f1d7189a9f": {
   "created_at": "2026-10-26T20:06:23.810286Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1250,6 +1259,7 @@
   "created_at": "2026-10-05T21:55:22.807907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will BTS headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",

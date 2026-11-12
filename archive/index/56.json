@@ -597,6 +597,7 @@
   "created_at": "2026-03-25T18:04:11.781171Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Sandy Alcantara win the 2026 NL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",
@@ -1168,6 +1169,15 @@
   "revisions": 1,
   "sha256": "25269987ad42c5b43fc7494496bfc2ffede93fb401e1346821e1e488c6f8918a",
   "slug": "will-rwanda-win-afcon-2027-qualifying-group-k"
+ },
+ "0xaff9622d908eb41c8a87f550d8fcfaaf05ae224e60f38496ccea5f7fa41c0456": {
+  "created_at": "2026-11-11T23:35:52.297441Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Najib Razak released from house arrest by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "b3dcfda32ab4f0b113cd3e73ee93500e077418d61393fc2c1571eb3499353c60",
+  "slug": "najib-razak-released-from-house-arrest-by-june-30-2027"
  },
  "0xb1f9f15933449b1ecef5b08144944d162c72d1e5b40e6396a5bf3f7a8b6c9156": {
   "created_at": "2026-09-18T00:05:15.464456Z",

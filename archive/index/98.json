@@ -204,6 +204,7 @@
   "created_at": "2026-10-13T23:25:05.561986Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will \"Pok\u00e9mon Pokopia\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
@@ -326,6 +327,15 @@
   "revisions": 1,
   "sha256": "31789b67ce4b89ce036159976da3892a0c2fe47cd348675cf393762029538cca",
   "slug": "will-russia-capture-kucheriv-yar-by-december-31-2026"
+ },
+ "0x3e337598c365f48bd82f86f357fcc7599749c05d307a902d72d9040c653c2198": {
+  "created_at": "2026-10-25T17:45:25.844076Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 5 - 2 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-5-2"
  },
  "0x3e8faedd214ba5eda2c078431408ff44894a53fdecdbf8009ca2144ebc6f7d98": {
   "created_at": "2026-09-18T00:06:57.654368Z",
@@ -703,6 +713,7 @@
   "created_at": "2026-10-05T21:55:21.211129Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Olivia Rodrigo headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -965,6 +976,7 @@
   "created_at": "2026-10-10T11:30:23.966221Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will there be a safety car during the 2026 F1 Brazilian Grand Prix?",
   "revisions": 1,
   "sha256": "3ed5d8792b0a892bfd8e4bc5c4e9cd96e60ff1aeac6c0ac4079286c048ba8c59",
@@ -1019,6 +1031,7 @@
   "created_at": "2026-02-19T00:54:39.200392Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Fernando Tatis Jr. win the 2026 National League Hank Aaron Award?",
   "revisions": 1,
   "sha256": "c492ec56ef554ae5c374403387b63cc43381e9f695e7eadbd39dc71bc59008c2",

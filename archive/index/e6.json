@@ -1121,6 +1121,7 @@
   "created_at": "2026-08-11T18:42:15.507538Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-03 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "49cb3a0d328cf1f0cee82bbbddee9679004edab6a92b19682e76ecfd8a3f674f",
@@ -1349,6 +1350,7 @@
   "created_at": "2026-08-11T18:42:26.643077Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-05 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "9f0680b0bcc6244b5fa580edb94ae3ee9ac8fc047dd389826d3d7ff4e9a2247d",
@@ -1417,6 +1419,15 @@
   "revisions": 1,
   "sha256": "83a31a26289d3ad88e6e9e61b647247a7d21bc1ecbbdec430b6bac347e5b69ca",
   "slug": "will-bytedance-have-a-1-ai-model-by-december-31-2026"
+ },
+ "0xe76fcbaa412dfb1c10a839c3279855db0e9e56e9e228dbe76cbb6f67b24a68e6": {
+  "created_at": "2026-10-25T17:45:27.601059Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "CS Mar\u00edtimo to score first vs. Estoril Praia?",
+  "revisions": 1,
+  "sha256": "a453d6f934b89116be6cd70bc86bacc4f8389ad9bf8d37d3922cda52c9e586f0",
+  "slug": "por-est-csm-2026-11-08-first-to-score-away"
  },
  "0xe7b0fc54bfe6e81c6cef353b366ded94a86e0ed344acb10cbff03c0915155be6": {
   "created_at": "2026-02-06T22:22:28.065221Z",

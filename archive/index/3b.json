@@ -142,6 +142,7 @@
   "created_at": "2026-02-02T17:48:00.180121Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Microstrategy delisted from MSCI index by December 31?",
   "revisions": 1,
   "sha256": "4098dcbbc7321d0041420ae6675860832867a1f65b3600d5fa102c9ce779a285",
@@ -1166,6 +1167,7 @@
   "created_at": "2026-08-26T21:46:51.907478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Central C\u00f3rdoba (SdE) keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -1215,6 +1217,15 @@
   "revisions": 1,
   "sha256": "61abb00f01eb902b15957ffed4f52616675daa5f874567da5e119211e2fd332e",
   "slug": "2027-soccer-denmark-superliga-winner-randers"
+ },
+ "0xd695eb33100a7b380ee1b336bfa7796840c596094539776dd4540c3e474a5b3b": {
+  "created_at": "2026-10-25T17:45:22.937169Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Estoril Praia win on 2026-11-08?",
+  "revisions": 1,
+  "sha256": "d365da87f854e0e0e165833a80f663db5d4af6bf3694ed6be0006d38d96bffd4",
+  "slug": "por-est-csm-2026-11-08-est"
  },
  "0xd7a91f7fe0a7f4b9385ca66adfa68b71a75dc5857b5ece18554b08a5f942463b": {
   "created_at": "2026-08-10T15:33:57.320708Z",

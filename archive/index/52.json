@@ -264,6 +264,15 @@
   "sha256": "77a826fceaa3c710fd1b0b43455d1b179989f203845fa04bd6f2cf3c6c5a5aac",
   "slug": "will-dune-part-three-win-best-costume-design-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x2586528da46d41204aa00d1f47ed2e5c17ec04ca89f65b3c960b6d21fa916252": {
+  "created_at": "2026-10-26T09:00:13.928801Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Estoril Praia 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "532ab82819ec50e6778bea440debebf789b6b679933e7c849a1c426a35fa14ca",
+  "slug": "por-est-csm-2026-11-08-first-half-team-total-home-1pt5"
+ },
  "0x25afcfeb04017e1081232a945e1370a71f730029402215b366f7f701e47ba552": {
   "created_at": "2026-08-28T20:17:05.047652Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1070,6 +1079,15 @@
   "revisions": 1,
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-11-house-election-by-3-or-more"
+ },
+ "0xc24063e16b71da41be1f5133a2cdeab4307dcb9219c03d973f7f0cdf2575af52": {
+  "created_at": "2026-10-25T17:45:25.299475Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 1 - 4 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-1-4"
  },
  "0xc5b751a3ead913be1a0fa6f1f587a52dd1b7fb3a8f15288e43c430d54b6e8d52": {
   "created_at": "2025-12-24T20:53:37.171831Z",

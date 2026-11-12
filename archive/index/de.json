@@ -582,6 +582,7 @@
   "created_at": "2026-08-26T21:46:52.135185Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Estudiantes (RC) keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -1333,6 +1334,15 @@
   "revisions": 1,
   "sha256": "1c0effcd44689b7c0d3d832d0c5f3b12e4f00fc0bdf72e41d6339bcf1f0e72c8",
   "slug": "will-hyperliquid-introduce-kyc-by-june-30-2027"
+ },
+ "0xb2eb86aa4ea1c1c304eba0c8a83ea5e17f20e33b2357444c83748ede9982c1de": {
+  "created_at": "2026-11-11T23:46:57.476863Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Jensen Huang's resignation or removal not be announced and Nvidia's market cap be above $4T at the end of 2026?",
+  "revisions": 1,
+  "sha256": "f1ccac1581e181bd53a8ab52db77078d1c9291198bb19e211a3b4dd24addc20e",
+  "slug": "jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-not-resigned-over"
  },
  "0xb54a1a9bf58757733425c22c493eb6d809d54d551aff8561090bf77993ecbdde": {
   "created_at": "2026-09-09T15:51:21.255446Z",

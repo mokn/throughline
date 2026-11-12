@@ -30,6 +30,7 @@
   "created_at": "2026-09-30T13:43:49.254426Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will there be between 35 and 59 tornadoes in the US in October 2026?",
   "revisions": 1,
   "sha256": "63f49b01d65d3ad2d0fdb79bfd79db71bdd9736f5b8655bddf8e747226ab802b",
@@ -936,6 +937,15 @@
   "sha256": "d84b4a086aac12108e41bbd158975953aeb70b3b9cf0956f61866a3937b45079",
   "slug": "will-franois-bayrou-announce-their-candidacy-for-the-2027-french-presidential-election-in-2026"
  },
+ "0xb98fdac3a8b580d71eba0ef6667e65b1cf233e85fb8c77a1c82ee96e46122417": {
+  "created_at": "2026-11-11T21:57:57.984911Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Alabama in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "7d6b57f944d76b28953ae83b821ec99bf420064af222535279a089b05fa60767",
+  "slug": "will-the-republicans-win-alabama-in-the-2028-presidential-election"
+ },
  "0xb9948db798286076ad8be6fa476339e96a64b1752ee973e133b6f47842928917": {
   "created_at": "2026-10-13T15:54:34.170445Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1320,6 +1330,7 @@
   "created_at": "2026-08-12T16:51:32.0069Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Antony Jhonatan Pinedo Lozano win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",

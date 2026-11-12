@@ -216,6 +216,15 @@
   "sha256": "2ba2f5b98f7327821c7d461b3568906801375ca6f53720be17520a51afcee566",
   "slug": "will-trump-pardon-daniel-penny-before-2027"
  },
+ "0x264fc74ce3fe5d4cc1293332416dfcfeb7f8934b5b63b8b707d0b25bc741abed": {
+  "created_at": "2026-11-11T21:57:45.041448Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Connecticut in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "76827eff99b77f4d82dea6fecfb71cd6ddc4c6abbc3af9e37deefffdd97d55a9",
+  "slug": "will-the-republicans-win-connecticut-in-the-2028-presidential-election"
+ },
  "0x2748b99597f5b46ed398f97d24ef42b6e8bfac399d7dbb83b4781f3f281075ed": {
   "created_at": "2026-10-02T23:00:17.490832Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1417,6 +1426,15 @@
   "revisions": 1,
   "sha256": "fe74c2e0a197087f8541814cab7b2a942643da3db39fada791da5f1ae074d8af",
   "slug": "will-susana-zatarain-garcia-win-the-2027-baja-california-sur-governor-election-20260803173850750"
+ },
+ "0xda3d9b95cbb2fd6d9c3860426ed80c7a5fccfd1d3005c511f2159f0133f758ed": {
+  "created_at": "2026-11-11T21:56:53.370839Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Nebraska in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "a3ae2d10e36b38da99f8dfb3c2cdad0fa9a1c33e3e216649f75ea24acab6ff3b",
+  "slug": "will-the-democrats-win-nebraska-in-the-2028-presidential-election"
  },
  "0xdb8576364c6f7b9704571e5c4bd7ea63509b8dfb6f373f1874548dc3bf3e48ed": {
   "created_at": "2026-08-11T18:18:03.384245Z",

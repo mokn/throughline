@@ -1374,6 +1374,15 @@
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-14-house-election-by-9-12"
  },
+ "0xdae8f70ca9f324c850779177ca6cdd9c846b39d97c1ba8187ac6d11f91dbe680": {
+  "created_at": "2026-11-12T13:00:18.798414Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the South African Reserve Bank increase the repo rate by 25 bps at the May meeting?",
+  "revisions": 1,
+  "sha256": "a042e79159af1ae15c0feb9348d8c2108e92061a378a122d7e52c97fce967956",
+  "slug": "will-the-south-african-reserve-bank-increase-the-repo-rate-by-25-bps-at-the-may-2027-meeting"
+ },
  "0xdb0e43f8f48528ca3db93099a104fa1b0da173925a66cc2852ec6ec3c337c680": {
   "created_at": "2026-09-20T09:44:46.575142Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1459,6 +1468,7 @@
   "created_at": "2026-08-11T18:49:51.894227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 SC-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "75831c8ce49d78e4943de53c02269293f62f5d30e7bfbb05944b5f66d6743d70",

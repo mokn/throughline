@@ -427,6 +427,15 @@
   "sha256": "b9a34e279f59d460aafa6af03974f3c8b03c7374e68d33ebc943057e76732eab",
   "slug": "quentin-johnston-649pt5-receiving-yards-2026-27"
  },
+ "0x4718926b4cd7f72937e5c933a876619c5642343199b66ebf477948fbb4a5c73d": {
+  "created_at": "2026-10-26T09:00:11.288129Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "ea79e5d13fc58fd65aaca281e40d4d772f9026179b9e7aed550bb4f841d0a5b7",
+  "slug": "por-est-csm-2026-11-08-first-half-total-3pt5"
+ },
  "0x476e3df6e01e2c26f1aa914dc0cbae11cd2f7e44d7bebc8423e5c0ec871c9f3d": {
   "created_at": "2026-10-14T12:40:50.862237Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -494,6 +503,7 @@
   "created_at": "2026-08-12T16:51:32.565006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Roger Crist\u00f3bal Gronerth Pinedo win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",

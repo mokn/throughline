@@ -270,6 +270,15 @@
   "sha256": "f66cb31445fa587fa9214f2aa1a04d409d8d8677a1531b1e9fcb1d6aec2f02ee",
   "slug": "will-clayton-mccullough-win-the-2026-nl-manager-of-the-year"
  },
+ "0x24b41684d84cadd8cb40c0258116635e814bcbcd58622ffcab4d713e68b8a24c": {
+  "created_at": "2026-11-12T00:30:43.196318Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Mia Knight come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-mia-knight-come-in-second-place-on-the-voice-season-30"
+ },
  "0x257b7102b5d8bba9ef655beb4d647aa0d6a367f01aa35dd66699809195e78d4c": {
   "created_at": "2026-10-10T11:30:02.182012Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -475,6 +484,7 @@
   "created_at": "2026-03-26T16:21:25.074805Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Marcell Ozuna win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -894,6 +904,7 @@
   "created_at": "2026-08-11T18:42:26.309009Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-05 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "9f0680b0bcc6244b5fa580edb94ae3ee9ac8fc047dd389826d3d7ff4e9a2247d",

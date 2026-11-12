@@ -187,6 +187,7 @@
   "created_at": "2026-10-25T04:01:38.04679Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will US Dollar Index (DXY) hit (HIGH) 103.00 in November?",
   "revisions": 1,
   "sha256": "08d2b061d4fa8b9799e948f4fff2cc2b7776a2ea3d26a544e009fcf1f9fc6a3e",
@@ -526,6 +527,15 @@
   "revisions": 1,
   "sha256": "63555ee9368c361f7b0061f107e9a1df68a820dafbfafe3a56d5e5721a00d58e",
   "slug": "2027-soccer-ligue-2-runner-up-fc-sochaux-montbliard"
+ },
+ "0x5be8de82241a7c66cf3a0cdde0d4f15d15bafa7c2163edba538d4d3df6497344": {
+  "created_at": "2026-10-26T09:00:11.830694Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Estoril Praia O/U 1.5",
+  "revisions": 1,
+  "sha256": "004ea094c0026b225a587e4823ba1452b613c153f2eeb1c441dfbbf0683dc85e",
+  "slug": "por-est-csm-2026-11-08-team-total-home-1pt5"
  },
  "0x5d8d9685a2fda134eb82ca59acb9790af14f4b8d1666e740d8322e55a08cc244": {
   "created_at": "2026-08-18T14:23:25.690797Z",

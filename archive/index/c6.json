@@ -881,6 +881,15 @@
   "sha256": "2e8e774ffb46f746f74e33c46ede5123d36e99c43cbeb360d8d404aad42dcf44",
   "slug": "us-x-china-military-clash-before-2027"
  },
+ "0x85814ae7dfbe7a15cc9e9c84092fc98c574f4de22d1789781a8c6bbf0246cfc6": {
+  "created_at": "2026-09-30T09:20:03.186889Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Gideon Saar be the next Israeli Minister of Interior?",
+  "revisions": 1,
+  "sha256": "de3c698c0556cf751c4d334343c3805fdd838f94303f418b204fb5686f2f9202",
+  "slug": "will-gideon-saar-be-the-next-israeli-minister-of-interior"
+ },
  "0x8597533cd4f0e55d035f51aa033c6b1aa35db521dd42d364596f4585f98196c6": {
   "created_at": "2026-10-10T19:00:27.206524Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1423,6 +1432,15 @@
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-hawks-vs-thunder"
  },
+ "0xd0fbcb40b96fc1f6fea6b5c27fb2983044d1c0155f8051a1b52e2ef9892b55c6": {
+  "created_at": "2026-11-12T00:13:30.634133Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Jensen Huang announced resignation or removal from NVIDIA board by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "e8d6cb7375ecb3f49bbc693379ff4a09744cf32bb37c3da6d0ff801720b7bd57",
+  "slug": "jensen-huang-announced-resignation-or-removal-from-nvidia-board-by-december-31-2026"
+ },
  "0xd15d96cb9b038de1cbccef28255aedf776db26559611fa5cb42648d0a14dc7c6": {
   "created_at": "2026-09-07T15:04:01.802532Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1599,6 +1617,7 @@
   "created_at": "2026-08-11T14:00:56.878483Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Democrats win 3 or more House seats in South Carolina in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "208c8fba582b0cb611c877dd5ab9bcde2bf3ad03875ebed7b3958625e2659d4a",

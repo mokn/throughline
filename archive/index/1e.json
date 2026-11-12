@@ -1272,10 +1272,10 @@
  "0xa0afeccf72356d88deb62e63eb21ca44949d55f9c4d0a0d7bc1ff604751caf1e": {
   "created_at": "2026-11-10T02:14:33.908305Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-12T15:15:16Z",
   "question": "Will Madison Huang be the next CEO of NVIDIA?",
-  "revisions": 1,
-  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "revisions": 2,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
   "slug": "will-madison-huang-be-the-next-ceo-of-nvidia"
  },
  "0xa19f9b3f3d8c4e49a3782b722953ae718b411c7169032ec393e7e170028f0e1e": {
@@ -1395,6 +1395,15 @@
   "revisions": 1,
   "sha256": "342f401747b36d3498edb5a89d7f4794cee629a823fef5fbbd46555514d2dd2a",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-05-house-election-by-0-5"
+ },
+ "0xb58821350a7a2c35630e8b539cef05f15cc00870c6a3c63a5a97b781207b971e": {
+  "created_at": "2026-10-25T17:45:25.030943Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 0 - 4 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-0-4"
  },
  "0xb6e87ef524a3099e24e96b3671aa3723760fb5d7b53637b9c644529d71f7a51e": {
   "created_at": "2026-08-05T10:53:28.062517Z",
@@ -1624,6 +1633,15 @@
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
   "slug": "2026-soccer-mls-runner-up-inter-miami-cf"
+ },
+ "0xd4289e80d6e2c4bd9890a3df9fe91f95e55115be32904ca155fc8a646a88031e": {
+  "created_at": "2026-11-11T21:57:37.45749Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Hawaii in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "7546fd7c44973f21abcdff2baa0ce6351c71b17a09566a17cd32c1741c5c61bf",
+  "slug": "will-the-republicans-win-hawaii-in-the-2028-presidential-election"
  },
  "0xd54bd27028678084ea089f7594f6b468926bfd98d4f9c6250fafe26e95487c1e": {
   "created_at": "2026-09-04T19:25:45.788708Z",

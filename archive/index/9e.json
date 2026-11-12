@@ -614,6 +614,7 @@
   "created_at": "2026-03-26T16:21:21.75469Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jurickson Profar win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -854,6 +855,15 @@
   "revisions": 1,
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-sebastian-szymanski-record-the-most-assists-in-the-2026-27-uefa-europa-league"
+ },
+ "0x9384d6d1a4686f4016a1f56596aee7cf3bc60ee1546116d8d5414687031e0e9e": {
+  "created_at": "2026-11-11T21:56:30.438991Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Tennessee in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "d38d4eaae19ac57777119b58126f4efa184a265854be742f7c22bffd38a50b40",
+  "slug": "will-the-democrats-win-tennessee-in-the-2028-presidential-election"
  },
  "0x94d47ef5ca8ae30199b4b8bf607b51861295a628562d8c9f9fd5ada22101e39e": {
   "created_at": "2026-08-11T19:00:16.643936Z",
@@ -1329,6 +1339,7 @@
   "created_at": "2026-09-30T23:57:38.969253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Shipping targeted in Hormuz on October 31, 2026?",
   "revisions": 1,
   "sha256": "d3e8c49aebda6ffd579c50b46b78bfe3c34c09037d56da89fc2ba74df2f67c4f",
@@ -1501,6 +1512,7 @@
   "created_at": "2026-08-11T18:49:50.912295Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 SC-02 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "75831c8ce49d78e4943de53c02269293f62f5d30e7bfbb05944b5f66d6743d70",
@@ -1592,6 +1604,7 @@
   "created_at": "2026-09-30T20:12:34.775217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "ChatGPT Full Outage by November 30?",
   "revisions": 1,
   "sha256": "7d6851596a0062f989875ad65c0eb3aeb50d67294717195c479e27b68ca936bd",

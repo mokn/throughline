@@ -860,6 +860,15 @@
   "sha256": "1a5f43de7cd9e76db5dcb1f6d5840f689aa94fcfe3bd9aa8be30dd412b1e1455",
   "slug": "eurocup-2027-champion-bc-aris-thessaloniki"
  },
+ "0x73ddd4649021f3bac341e159822835bb2e9217437bba3e512d43e9689405edbe": {
+  "created_at": "2026-10-26T09:00:07.237922Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Spread: CS Mar\u00edtimo (-1.5)",
+  "revisions": 1,
+  "sha256": "df05f74c7fc722ddb288939f1a58b28f91ef5a9ec19153979591021683145efa",
+  "slug": "por-est-csm-2026-11-08-spread-away-1pt5"
+ },
  "0x74cc8e0f432f7e4ab1fc0b181b011e1f201c31cfa2a31c2ce8a44227717c57be": {
   "created_at": "2025-12-30T20:33:54.663151Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1051,6 +1060,15 @@
   "revisions": 1,
   "sha256": "2856830c95868a8371d764224fe4a571a8b0a0caf6f43037ebd1a91002e2520b",
   "slug": "will-the-republican-party-win-the-fl-18-house-seat"
+ },
+ "0x97751bf4bcd5659a11c29d569138594b9bf0a9649fca59b278dbbf4a665799be": {
+  "created_at": "2026-10-25T17:45:23.263494Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will CS Mar\u00edtimo win on 2026-11-08?",
+  "revisions": 1,
+  "sha256": "fa0dd4ed9d635492b0f3480bff2c07f8af8303c09075d21202347dca6a1c5473",
+  "slug": "por-est-csm-2026-11-08-csm"
  },
  "0x981c2d0086491713b2d04b357a0b7b26a78eddcdf923359f290672c7b80399be": {
   "created_at": "2026-10-13T15:57:48.774732Z",

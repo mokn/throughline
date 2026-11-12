@@ -1001,10 +1001,10 @@
  "0xa82699004214aa3f755ede5d9e6d5c4850e3f69ec821a3b15433a1bd6a3a19aa": {
   "created_at": "2026-11-10T02:14:32.437072Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-12T15:15:16Z",
   "question": "Will Colette Kress be the next CEO of NVIDIA?",
-  "revisions": 1,
-  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "revisions": 2,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
   "slug": "will-colette-kress-be-the-next-ceo-of-nvidia"
  },
  "0xa8e3a806d143817625d119b3372f964a143d61331854194dad18a373e1ec2faa": {
@@ -1107,6 +1107,15 @@
   "revisions": 1,
   "sha256": "a54c42e3031e9e3ca0f2aba8e57b7ba26a01c4f9c5189af8c3f25f1b398dc13f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-02-house-election-by-25-30"
+ },
+ "0xb7b22c52f8feac0be7c98c24c5941578101c6b2e026c49ee8369e5f5dc3df6aa": {
+  "created_at": "2026-10-26T09:00:09.518665Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: O/U 4.5",
+  "revisions": 1,
+  "sha256": "b3368be704acb6e7cc042ec2d4aad786b4cb1695da3b79adea267a9c11a262cf",
+  "slug": "por-est-csm-2026-11-08-total-4pt5"
  },
  "0xb7c54936d627bc83d084205ffcafa4de3a7bf9551582e10365ae6cfcf34b70aa": {
   "created_at": "2026-09-18T00:10:48.235209Z",

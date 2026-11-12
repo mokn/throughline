@@ -116,6 +116,15 @@
   "sha256": "1df1678ccd4a12afff2cdd00f88e6b8eb49b3c5ffab86e32b9dec07850840131",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ga-05-house-election-by-80-85"
  },
+ "0x1b80fb8c8f3760e35d215f3f25b3b0da3f744548f6b84cc27ab84e17dbdc7503": {
+  "created_at": "2026-11-11T21:56:11.571372Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Washington in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "cd3842cb12dde644939697b2e927bb48c37ecc45af25769631a5a3a8edbeb557",
+  "slug": "will-the-republicans-win-washington-in-the-2028-presidential-election"
+ },
  "0x1c7b77f9e33d2a003520f733cdeb8436e9849d4aaa10e4e76fb6fbe8972d2703": {
   "created_at": "2026-08-28T20:16:42.321721Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -384,6 +393,7 @@
   "created_at": "2026-08-05T20:21:08.31501Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 Oklahoma gubernatorial election by 30%-35%?",
   "revisions": 1,
   "sha256": "a72bc4d4fb996cc353eb627bb7a62d5e85f65118421991b2a0eaca484baa6044",
@@ -983,6 +993,7 @@
   "created_at": "2026-09-09T15:52:44.925287Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Fabian Hurzeler be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
@@ -1073,6 +1084,7 @@
   "created_at": "2026-08-11T18:42:12.752299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-03 House election by 50% or more?",
   "revisions": 1,
   "sha256": "49cb3a0d328cf1f0cee82bbbddee9679004edab6a92b19682e76ecfd8a3f674f",
@@ -1218,6 +1230,7 @@
   "created_at": "2026-03-26T16:21:24.512334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Joc Pederson win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",

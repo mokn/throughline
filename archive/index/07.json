@@ -714,6 +714,15 @@
   "sha256": "9131fea407c9430c52ab2eb7b86dcf0442831c1cb3793813b55a7e84cec1ccfc",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-10-house-election-by-15-25"
  },
+ "0x7d521a04efef093ffa1ed55bf0fa9720ed22b738531a344993b555d5ce897c07": {
+  "created_at": "2026-10-25T17:45:25.801204Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 4 - 3 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-4-3"
+ },
  "0x7dea6517ac40ae6c34059e683f190a6ecda764517d148f269682e72b6406f107": {
   "created_at": "2026-10-13T15:57:40.197669Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1056,6 +1065,7 @@
   "created_at": "2026-08-11T18:42:15.396811Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Democratic Party candidate win the 2026 OK-02 House election?",
   "revisions": 1,
   "sha256": "c331b78b376af1e407a91c87cdd28e6199bad8ba13f9c4d2bdb93c2749b80ed7",
@@ -1529,6 +1539,15 @@
   "revisions": 1,
   "sha256": "89787f96b0aab38cda0b5b2bd365bf0701a462cb400dec706c54548833285ad6",
   "slug": "will-dj-lagway-be-the-2026-big-12-passing-yards-leader"
+ },
+ "0xfe5040eddbaac110eaf86740a61df389ac2e51743bdd27f1f0b8b6504d01fa07": {
+  "created_at": "2026-11-11T21:56:43.367507Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win South Dakota in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "b0dfeacc068c0c5a6044d38b6772f011597f96e4062b855f228b8411aa9f8702",
+  "slug": "will-the-republicans-win-south-dakota-in-the-2028-presidential-election"
  },
  "0xfea6cac1dc772ad8f41c8aac2df4305719b666ed164a9fa444531d9a8b810707": {
   "created_at": "2026-08-29T00:16:57.607889Z",

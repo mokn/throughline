@@ -760,6 +760,15 @@
   "sha256": "14d713a70f92be9bee6edeb755faeaa75318b0842038808cae819025624c9c6b",
   "slug": "will-philip-billing-record-the-most-assists-in-the-2026-27-uefa-conference-league"
  },
+ "0x90f69359f81641d0de71aa801d8e6676026a6a8328bf1a64665664dbaab73eb7": {
+  "created_at": "2026-10-25T17:45:24.820736Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 2 - 0 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-2-0"
+ },
  "0x94a49fe36602ed110c04f79cece569ccf265723b0a26ec01e875b4ce7410bfb7": {
   "created_at": "2026-08-28T20:08:23.956668Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -901,6 +910,7 @@
   "created_at": "2026-10-20T23:03:36.338354Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cryocells play for MIBR in 2027?",
   "revisions": 1,
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",
@@ -1317,6 +1327,7 @@
   "created_at": "2026-08-12T16:51:34.42711Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Tony Jonatan Mori Vargas win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",

@@ -82,6 +82,15 @@
   "sha256": "d983f526ceb157900708d3eda7e1363feb0154ba2fe915577162c679f15e4138",
   "slug": "will-bryce-young-average-14pt5-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
  },
+ "0x13713007515196790ce264e0e56fc956e1355bd2b4989144fa3ab96f59ed73b1": {
+  "created_at": "2026-11-12T00:30:41.359436Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Anna McElroy come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-anna-mcelroy-come-in-third-place-on-the-voice-season-30"
+ },
  "0x141b8eb67a41194f762f214bf26bd761b376febb445c52c0f852a0b7284594b1": {
   "created_at": "2026-08-17T19:20:34.146697Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -244,6 +253,15 @@
   "revisions": 1,
   "sha256": "40ad59ea904ccb75a939ee44786eb86be4cca4311edb055ba28140e4e83cafe1",
   "slug": "spl-abh-kho-2026-10-19-second-half-team-total-home-1pt5"
+ },
+ "0x2e511a9adb91f1e5be6ddf065ea72f6d9dac25576285f7edfdd265fa85916ab1": {
+  "created_at": "2026-11-12T15:17:45.354919Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Jensen Huang admits to another affair by December 31?",
+  "revisions": 1,
+  "sha256": "427304c90a9498c21d62de649a42e2ba86a8c16a64d20c6af6f2668c7eb432f9",
+  "slug": "jensen-huang-admits-to-another-affair-by-december-31"
  },
  "0x2ec60a8e2c4119e97203f257517f75a1e87027ee3561369fc6b1a5c0b25a00b1": {
   "created_at": "2026-08-10T15:05:25.936562Z",
@@ -1156,6 +1174,7 @@
   "created_at": "2026-08-04T18:33:46.769605Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 Oklahoma Senate election by 15%-20%?",
   "revisions": 1,
   "sha256": "d4293a3a168b1bab5c5850ef393718e48d472e3fe33ea0a48af0701ebb7ecc9f",

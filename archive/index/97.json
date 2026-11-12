@@ -295,6 +295,7 @@
   "created_at": "2026-10-20T23:03:31.288903Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cryocells play for 100 Thieves in 2027?",
   "revisions": 1,
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",
@@ -513,6 +514,7 @@
   "created_at": "2026-08-11T18:49:51.19622Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 SC-02 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "75831c8ce49d78e4943de53c02269293f62f5d30e7bfbb05944b5f66d6743d70",
@@ -1052,6 +1054,15 @@
   "revisions": 1,
   "sha256": "f02bc25bd35da288fd776a773c9ac1dc2d55774f4be3bc2f5a5416992df5126a",
   "slug": "will-sudan-make-eric-adams-a-citizen"
+ },
+ "0xb6b8ba6d14e220cf3d1ea1acf22b33b2699f1faf70c555c8fb17b8a1fa52b997": {
+  "created_at": "2026-10-25T17:45:25.517781Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 1 - 5 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-1-5"
  },
  "0xb8205901fd82fe41060e2b13add9916a12a0dc93fb3fa672617301ef846dc697": {
   "created_at": "2026-08-26T08:45:20.341513Z",

@@ -768,6 +768,7 @@
   "created_at": "2026-01-28T15:39:19.909251Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party win the SC-02 House seat?",
   "revisions": 1,
   "sha256": "09efa3cc6066b3f905c72d10dee51c20eafdcc77f520adc519f6ffcaad1d1bd5",
@@ -1309,6 +1310,15 @@
   "revisions": 1,
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-george-pickens-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
+ },
+ "0xe55903dd5fc689df55dc6cab12d84b23720cac0d12157c8739347ece6e3921e7": {
+  "created_at": "2026-11-12T00:30:46.768202Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Ferryn & Brinkley come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-ferryn-and-brinkley-come-in-third-place-on-the-voice-season-30"
  },
  "0xe55fde8d7db9d1fe79b3f3aaab7268db3b7d95affc5114040262bcc1ea6097e7": {
   "created_at": "2026-09-08T16:54:42.337815Z",

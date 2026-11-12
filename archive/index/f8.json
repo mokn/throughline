@@ -910,6 +910,7 @@
   "created_at": "2026-08-13T17:43:19.742837Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will UK GDP growth in Q3 2026 be between 0.2% and 0.3%?",
   "revisions": 1,
   "sha256": "8ee46b65a3687a1e9fac0fc0ed614d05d17f1a86ef0d10218e4a5c4ad4fde2d6",
@@ -1286,6 +1287,15 @@
   "revisions": 1,
   "sha256": "81856e435a50c7e1d966b0c131fa93ac69df0d89c92cd340e69a5701e7b7dca0",
   "slug": "will-kristiansund-be-relegated-from-norway-eliteserien-2026"
+ },
+ "0xdee69ecd6fbf57f5f538bf92d97df4bf92edc3f1b81c2f62db0d73de1281e7f8": {
+  "created_at": "2026-11-11T21:57:02.559459Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Mississippi in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "446b9b31d68414bf42d9bb039cacac0db55e6570e82ef0997ad3b25b551205db",
+  "slug": "will-the-democrats-win-mississippi-in-the-2028-presidential-election"
  },
  "0xe083cbc4ef7dc094d99baccdf81b09854a1ba8b88b37702139f34669e7d6bcf8": {
   "created_at": "2026-09-27T20:09:56.594528Z",

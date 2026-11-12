@@ -90,6 +90,15 @@
   "sha256": "a813ce376cc78c0d4cd09293bf8081eeab68f039e9b47e9591701007339c26a5",
   "slug": "will-auston-matthews-win-the-2026-27-frank-jpt-selke-trophy"
  },
+ "0x08e35a56f41e3ac88baf214eb9026810523fea7a7483468fa47090f20f64376e": {
+  "created_at": "2026-11-11T21:57:22.721122Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Kentucky in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "52371f9bfff44a097b6fe4979a8cace707e3b95f1c62619fbfe09d355e40e965",
+  "slug": "will-the-democrats-win-kentucky-in-the-2028-presidential-election"
+ },
  "0x092217c37b6ae23a7d4aaaa277aa5570adf3043db6e8be4bc348e70b33ba816e": {
   "created_at": "2026-02-26T15:41:41.727315Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -729,6 +738,7 @@
   "created_at": "2026-08-11T18:42:14.145277Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-02 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "c331b78b376af1e407a91c87cdd28e6199bad8ba13f9c4d2bdb93c2749b80ed7",
@@ -793,6 +803,7 @@
   "created_at": "2026-07-23T22:41:05.049526Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the highest score achieved on Humanity\u2019s Last Exam in 2026 be 65% or higher?",
   "revisions": 1,
   "sha256": "5a49eca46374a36e7eda94077481d3a3fba0b36aacdfceff890b0c2062157775",

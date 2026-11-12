@@ -683,6 +683,15 @@
   "sha256": "dc12fa929e71a406dba9c8ed4ab183deaa24f050c0e96c4bf1006104cfb74278",
   "slug": "will-the-republican-party-hold-between-205-and-209-house-seats-after-the-2026-midterm-elections"
  },
+ "0x561476e82dcae03f48b1cc747a41d9b1c0988f90ed71d94764e17824a99173af": {
+  "created_at": "2026-10-26T09:00:08.273626Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Spread: CS Mar\u00edtimo (-4.5)",
+  "revisions": 1,
+  "sha256": "5697102ab0808c512d1f87a083cf37a5fd4b49abbedcc049b6d04752a4d8cb44",
+  "slug": "por-est-csm-2026-11-08-spread-away-4pt5"
+ },
  "0x5644f1265409e5b5124b4497fc6501c9a901623dc7d71a6273e24c0ed6153eaf": {
   "created_at": "2026-09-27T20:11:13.498274Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -723,6 +732,7 @@
   "created_at": "2026-08-05T20:21:09.774136Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 Oklahoma gubernatorial election by 5%-10%?",
   "revisions": 1,
   "sha256": "a72bc4d4fb996cc353eb627bb7a62d5e85f65118421991b2a0eaca484baa6044",
@@ -986,6 +996,7 @@
   "created_at": "2026-08-11T18:42:27.170686Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Democratic Party candidate win the 2026 OK-05 House election?",
   "revisions": 1,
   "sha256": "9f0680b0bcc6244b5fa580edb94ae3ee9ac8fc047dd389826d3d7ff4e9a2247d",
@@ -1465,6 +1476,7 @@
   "created_at": "2026-02-18T23:32:42.757571Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jacob Misiorowski win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",

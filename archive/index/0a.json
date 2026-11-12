@@ -63,6 +63,15 @@
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-tyrese-haliburton"
  },
+ "0x0a2c97534f336db46fd89e84de2063f6e2d334feb413741ec3899a5a28ec0c0a": {
+  "created_at": "2026-10-25T17:45:25.675783Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 5 - 1 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-5-1"
+ },
  "0x0a9e013a4ffeedaf279c837e04bd2e660661913c0325f7a2053a5e1f71e2bf0a": {
   "created_at": "2026-09-04T19:51:29.532971Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -528,6 +537,7 @@
   "created_at": "2026-08-26T21:46:51.961255Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Defensa y Justicia keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -650,6 +660,15 @@
   "revisions": 1,
   "sha256": "55e604c294fb3b5ef2e31337a47a2933071a02c9719e0470998cb8fb7c0c4758",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-44-house-election-by-55-or-more"
+ },
+ "0x6a710ae7cd7ef3a30f0d9535e8e03e1fd8d97d628ec38cc1eb7745f3134b720a": {
+  "created_at": "2026-10-25T17:45:27.648464Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "a453d6f934b89116be6cd70bc86bacc4f8389ad9bf8d37d3922cda52c9e586f0",
+  "slug": "por-est-csm-2026-11-08-first-to-score-neither"
  },
  "0x6f240a29f2122fe29bd7f1aaac8daaa1df72aeabded0a0f5b4b205ccb09e7b0a": {
   "created_at": "2026-09-20T08:45:52.275964Z",
@@ -1039,6 +1058,15 @@
   "sha256": "391f33ba1655a5d85c388b01e69e8ea7d7dfffb3fad5a77c744d90796be99e24",
   "slug": "will-the-republican-party-candidate-win-the-2026-id-02-house-election-by-25-30"
  },
+ "0xa99e061b1104ae814307bbb72558f27c9b896a8cbea4c646681adae60067070a": {
+  "created_at": "2026-11-12T13:00:18.257627Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the South African Reserve Bank make no change to the repo rate at the May meeting?",
+  "revisions": 1,
+  "sha256": "a042e79159af1ae15c0feb9348d8c2108e92061a378a122d7e52c97fce967956",
+  "slug": "will-the-south-african-reserve-bank-make-no-change-to-the-repo-rate-at-the-may-2027-meeting"
+ },
  "0xa9dc96c55efbcec6d28d4c2ec1ec939681d132174f03e5e9a5ae8e9a48eae70a": {
   "created_at": "2026-01-02T20:19:24.426261Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1207,6 +1235,7 @@
   "created_at": "2026-09-02T21:58:32.078824Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Ball State Cardinals advance to the 2026 MAC Championship Game?",
   "revisions": 1,
   "sha256": "999043ac8aeabbbef3ed71c9e4cd52e3613a8bd54e28381f42504e51cc912e13",
@@ -1429,6 +1458,15 @@
   "revisions": 1,
   "sha256": "cd2a34b1828e0bbe294ed69d21a4e0437f610a41a05a8b219fcb71de6c3250e0",
   "slug": "will-trump-speak-to-luiz-inacio-lula-da-silva-by-october-31"
+ },
+ "0xf215b9d416b52b2213292f6390e05fcb9b96e6ae4a5d6d17d6740d387c215a0a": {
+  "created_at": "2026-11-11T21:57:48.248375Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Colorado in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "21310cd87f725fe44757d98af2de7d188995e738ff3efc54c5a6d7d266d5758e",
+  "slug": "will-the-democrats-win-colorado-in-the-2028-presidential-election"
  },
  "0xf3cdc3dd540e11c7a9921c42e638326bec70510696251387f13b00f4e248dd0a": {
   "created_at": "2026-09-09T15:17:48.439236Z",

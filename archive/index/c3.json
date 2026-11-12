@@ -819,6 +819,7 @@
   "created_at": "2026-08-12T16:51:31.635641Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Boris Guido Morey Sifuentes win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
@@ -1112,6 +1113,15 @@
   "sha256": "34b607526486f2abedc0b156280b50aacc0d3e0b00ab25cbb0995b558e1046f8",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ma-04-house-election-by-30-35"
  },
+ "0xa7e158be5b7f96b163378ccd4ab7591341fbc257de0f900cbbb4acc6ba710ac3": {
+  "created_at": "2026-11-12T00:30:42.630491Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Kyle Davis come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-kyle-davis-come-in-third-place-on-the-voice-season-30"
+ },
  "0xa8b655e9aaf195de4113fc74bfea72412d19e8ee688a567361eef29c37952ac3": {
   "created_at": "2026-10-15T17:00:57.357372Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1134,6 +1144,7 @@
   "created_at": "2026-08-11T18:42:18.517558Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-04 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "46fbc49f95bd204a6feef13acddf5a56e7b102e2951db9fc8f5009df01e9f42a",

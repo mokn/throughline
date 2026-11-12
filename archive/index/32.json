@@ -66,6 +66,7 @@
   "created_at": "2026-10-20T23:03:10.297997Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jawgemo play for Evil Geniuses in 2027?",
   "revisions": 1,
   "sha256": "416352dd6eee6ef81505189123e0912a7fd8719b4be90ee50670504a84c8abb3",
@@ -605,6 +606,15 @@
   "revisions": 1,
   "sha256": "3ecd50393e2b3b717c437fd8033a2453f13b32dd906786a172a7cca33a3db11e",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-12-house-election-by-0-5"
+ },
+ "0x639345b0ea1e91b4008fbee978cd282324efcd383e1fec6cf617337b3d337132": {
+  "created_at": "2026-11-11T21:56:17.782434Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win West Virginia in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "ea64cb7a3b055327087d55020da8fd28ad890d9d53be411ef058ca45c010bdcb",
+  "slug": "will-the-republicans-win-west-virginia-in-the-2028-presidential-election"
  },
  "0x66ace15c725c7222b169aa67ab6e26a2703ad50c02d60cb28b6619b84a60ef32": {
   "created_at": "2026-08-24T16:32:37.517604Z",
@@ -1415,6 +1425,15 @@
   "revisions": 1,
   "sha256": "e8a7723d0839f71252468593242be78086b09228edf313ba3b009d0f0778f7a0",
   "slug": "will-a-chinese-company-have-the-best-ai-model-by-december-31"
+ },
+ "0xcbf48139a468c6ce0822022ad5e7547f27d281820bf68d37f236462201f75432": {
+  "created_at": "2026-11-11T23:46:57.04387Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be below $4T at the end of 2026?",
+  "revisions": 1,
+  "sha256": "f1ccac1581e181bd53a8ab52db77078d1c9291198bb19e211a3b4dd24addc20e",
+  "slug": "jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-under"
  },
  "0xcc4a3ec2d024ea86aacc0e22dea62fe3dd70ec2a8fbc86a17e51d3f00feef032": {
   "created_at": "2026-09-18T00:15:25.021209Z",

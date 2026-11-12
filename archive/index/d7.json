@@ -301,6 +301,7 @@
   "created_at": "2026-08-10T20:04:06.070376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Sara Hallin be the next Regional Board Chair of Region V\u00e4rmland?",
   "revisions": 1,
   "sha256": "6caac63e659de9e485779e8d4bd0bbf8adc310af391409508b27fb648aa26e58",
@@ -808,6 +809,7 @@
   "created_at": "2026-02-19T00:42:47.023863Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Pete Alonso win the 2026 American League Hank Aaron Award?",
   "revisions": 1,
   "sha256": "52a8a67146ad80ab776aa2fa3b8c6fce09103edac1c14f612c2ef75f8df02c56",
@@ -925,6 +927,7 @@
   "created_at": "2026-08-11T18:42:14.256528Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-03 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "49cb3a0d328cf1f0cee82bbbddee9679004edab6a92b19682e76ecfd8a3f674f",
@@ -1292,6 +1295,15 @@
   "revisions": 1,
   "sha256": "a7e0b987a1d9c93ef944bbe7194c0b6c67c73404c1273669106793d4e669fdd6",
   "slug": "will-grazer-ak-be-relegated-from-austrian-bundesliga-2026-27"
+ },
+ "0xbd768a40cbf1a2c7ee1e97d0dbfecdd318de8d09063daaa8eb141744eb9aadd7": {
+  "created_at": "2026-11-12T00:30:41.547738Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Lexi Stephens come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-lexi-stephens-come-in-second-place-on-the-voice-season-30"
  },
  "0xbf1a6e2f380c26abaccdabe428ea8634245f9366b383c3af1a2ba98603ad2dd7": {
   "created_at": "2026-08-05T10:29:39.75184Z",

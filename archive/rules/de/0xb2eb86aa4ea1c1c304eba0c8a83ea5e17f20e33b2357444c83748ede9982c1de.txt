@@ -1,0 +1,27 @@
+This market will resolve according to the combined outcome of (1) whether Jensen Huang’s departure through resignation or removal as CEO of NVIDIA is officially announced by December 31, 2026, 11:59 PM ET and (2) whether Nvidia's public market capitalization at the close of regular trading on the final trading day of 2026 is above $4 trillion.
+
+Options beginning "Resigned/removed" require Jensen Huang’s departure through resignation or removal as CEO of NVIDIA to be officially announced by December 31, 2026, 11:59 PM ET. Options beginning "Not resigned/removed" require no such announcement by that time. Each option then names the result of the second component ("Over $4T" or "Under $4T"), as defined below. The option matching both results will resolve to "Yes", and all other options will resolve to "No".
+
+Jensen Huang resignation or removal: The departure will be considered to be announced when Jensen Huang, NVIDIA, or their authorized representatives publicly and definitively announce that Huang has resigned or been removed, or will resign or be removed, as CEO of NVIDIA. Such an announcement will qualify regardless of when the specified person formally leaves the position; resignation includes retiring or stepping down as CEO, including to take another role at NVIDIA, and removal includes dismissal or termination by NVIDIA’s Board of Directors.
+
+Only announcements which are framed as announcing a departure through resignation or removal intended to be effective within 18 months of the date of the announcement will qualify (e.g., neither “I will leave office in 2 years,” nor “I will not be in office forever,” would qualify).
+
+Announcements of temporary leaves of absence, dated suspensions, indefinite suspensions, administrative leaves, or other temporary changes to the specified person’s duties in the specified position do not qualify.
+
+The following do not qualify as public and definitive announcements: statements that the specified person is considering or open to departing; conditional statements that the specified person will depart only if certain conditions are met; the announcement of an offer of resignation that requires acceptance and remains pending or has been refused; media reports that the specified person plans to depart; statements made in sarcasm or jest; and statements by persons other than the specified person, the relevant authority governing the specified position, or their respective authorized representatives.
+
+If the specified person holds the specified position on a predefined term with a scheduled end date, only announcements that they will depart the position prior to the scheduled end of their term qualify.
+
+If the specified person formally ceases to hold the specified position before the end of their scheduled term through such a departure without a qualifying announcement, this component will be "Resigned/removed" if a qualifying resignation or removal occurs by December 31, 2026, 11:59 PM ET. If the specified person ceases to hold the specified position by any other means, this component will be "Not resigned/removed".
+
+The primary resolution sources for this component will be official information from Jensen Huang and NVIDIA; however, a consensus of credible reporting may also be used.
+
+Nvidia market cap: This component is "Over $4T" if Nvidia's public market capitalization at the close of regular trading on the final trading day of 2026 is $4 trillion or greater. Otherwise, it is "Under $4T".
+
+Public market capitalization will be determined through appropriate calculation using the final official regular-hours closing prices published for the company's listed equities on its primary exchange for the last trading day of 2026, multiplied by the company's total number of shares outstanding at the relevant time. If necessary, to accurately capture the company’s total market capitalization, rather than a stock-class-specific market capitalization, the calculation will include all outstanding share classes and apply any stated conversion ratios to the publicly traded class. Where no conversion right exists, such shares will be counted at their stated outstanding amount without discount, unless official filings explicitly specify differently. The number of outstanding shares will be determined from official company filings or disclosures (e.g., SEC filings).
+
+If the listed company merges with or acquires another entity and remains the parent company, no change to resolution methodology applies.
+
+If the listed company is acquired, merges into another entity and is no longer the surviving parent company, or otherwise ceases to exist as an independent entity prior to the end of the period, the public market capitalizations achieved prior to completion of the transaction will be considered for resolution. No transaction, acquisition, or merger consideration will be considered for resolution.
+
+The resolution source for this component is official exchange trading data and publicly reported share counts.

@@ -384,6 +384,7 @@
   "created_at": "2026-10-05T21:55:23.797926Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will BLACKPINK headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -980,6 +981,15 @@
   "sha256": "5746ebc8b621544b6da91302f1f3469aec10c88d6bcb1a4df8d96cec7360cad1",
   "slug": "will-stpt-johns-win-the-2027-ncaa-mens-basketball-national-championship"
  },
+ "0x972b274bc9e10720fc8dea99210193d58706f5ebe8856ed12fd5c5374731770e": {
+  "created_at": "2026-11-11T23:48:45.285941Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Next Qwen Max (4.1+) released by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "6155ac341a368e12694d6efb4e9c63b854cd17e9953ef2ed78bfb8be83bef351",
+  "slug": "next-qwen-max-4pt1-released-by-march-31-2027"
+ },
  "0x983cb79639952d089f8a15c11085609fd2c26b1f845075c2ffce50c18882fd0e": {
   "created_at": "2026-10-10T11:30:09.987522Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1115,6 +1125,15 @@
   "revisions": 1,
   "sha256": "76c1e142b6db6c75467f54570417dd52f7fc39effba000d21fa0046145b94572",
   "slug": "el1-not-bla-2026-09-26-draw"
+ },
+ "0xaa39becb6fdd5760c0d83718b21735a028161cf6255e7b4c8caa104b83353a0e": {
+  "created_at": "2026-10-25T17:45:25.922914Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 4 - 4 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-4-4"
  },
  "0xaec77a3d4b7107217bc3e268f3af671ddc419ff123212cdeb89f7fe8a94c300e": {
   "created_at": "2026-09-27T20:02:24.495878Z",
@@ -1532,6 +1551,15 @@
   "sha256": "e77bf11111f8382e14a78fdb66eddb10c6fe8d21cfc402319b4a8f394376d3ed",
   "slug": "magicblock-fdv-above-10m-one-day-after-launch"
  },
+ "0xf40b87718facc280036075b4ca7a76ffb59d2b01dd1e623a2666851c8256940e": {
+  "created_at": "2026-11-11T21:57:57.574921Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Alabama in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "7d6b57f944d76b28953ae83b821ec99bf420064af222535279a089b05fa60767",
+  "slug": "will-the-democrats-win-alabama-in-the-2028-presidential-election"
+ },
  "0xf4fda320f5db6722e5363f5e1deca48332e9ef17ab712c80616db791bf813f0e": {
   "created_at": "2026-08-20T18:23:20.511135Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1545,6 +1573,7 @@
   "created_at": "2026-08-10T20:04:06.53627Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Sara Gunnarsson be the next Regional Board Chair of Region V\u00e4rmland?",
   "revisions": 1,
   "sha256": "6caac63e659de9e485779e8d4bd0bbf8adc310af391409508b27fb648aa26e58",

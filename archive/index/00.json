@@ -112,6 +112,7 @@
   "created_at": "2026-03-26T16:21:15.249309Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Kyle Schwarber win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -743,6 +744,15 @@
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-washington-commanders-have-more-than-6pt5-wins-during-the-2026-nfl-season"
  },
+ "0x7de52959b131eaa64ddf027a5cc8adc9f3398fcfa8fb583b47ac82d532e01400": {
+  "created_at": "2026-11-11T21:56:59.368041Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Missouri in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "90a6e60e8fc14a5952a40280881ab41acb7f792b71c9b1b540880f094dbd4227",
+  "slug": "will-the-republicans-win-missouri-in-the-2028-presidential-election"
+ },
  "0x7e77ac970132b328aad18e7d15546174c5c398696ec16577a7e2d0b151ea5500": {
   "created_at": "2026-10-15T17:01:01.678819Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -972,10 +982,10 @@
  "0x9913e01540453df27e7ca2182c0b2a9ce4de099d7cf7d4397bd80a3832916400": {
   "created_at": "2026-11-10T02:14:34.476446Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-12T15:15:16Z",
   "question": "Will Bill Dally be the next CEO of NVIDIA?",
-  "revisions": 1,
-  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "revisions": 2,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
   "slug": "will-bill-dally-be-the-next-ceo-of-nvidia"
  },
  "0x9d64777ef01f13d56acfcee565502781df94462a90f2322f877fee2ecff59b00": {
@@ -1271,6 +1281,7 @@
   "created_at": "2026-09-02T21:58:35.085266Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Massachusetts Minutemen advance to the 2026 MAC Championship Game?",
   "revisions": 1,
   "sha256": "999043ac8aeabbbef3ed71c9e4cd52e3613a8bd54e28381f42504e51cc912e13",
@@ -1311,6 +1322,15 @@
   "revisions": 1,
   "sha256": "bf90e2a3fb28d90ff3a8e3a9959635dc1199437b1b5131646159b065057b7530",
   "slug": "el1-bla-lei-2026-10-03-second-half-team-total-away-0pt5"
+ },
+ "0xd940515f5526f103b1aa4d3b297792d22ee82c24953c5e2ad3ae9687403f7f00": {
+  "created_at": "2026-11-10T02:14:37.063211Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Ian Buck be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-ian-buck-be-the-next-ceo-of-nvidia"
  },
  "0xdd7ed43801b560afde9d9d2636210fa4488ff901e540f11d1853eed94365c300": {
   "created_at": "2026-09-30T20:06:37.310726Z",

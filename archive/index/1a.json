@@ -756,6 +756,15 @@
   "sha256": "36b30480223103d31ba1029aa9ed027b8799d91be0410fd39642e98a89b65edc",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-38-house-election-by-0-5"
  },
+ "0x82218891473f18fff38249521cb1a17e3d7765ae2408678521e4aafee7066b1a": {
+  "created_at": "2026-11-12T00:30:47.244953Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Joe Henley come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-joe-henley-come-in-third-place-on-the-voice-season-30"
+ },
  "0x82d0506fa09d51b307abbd1d2760036285327d4f2e4b746457d347a8774aa11a": {
   "created_at": "2026-08-24T16:35:24.409783Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -917,6 +926,15 @@
   "revisions": 1,
   "sha256": "60bacfc1b5cfc8f8026ce282f940b7e4b412a84e71f074aea6f74efd24afb2f2",
   "slug": "will-show-me-what-you-got-be-played-at-the-2027-big-game-halftime-show"
+ },
+ "0xab44383791bccfa61764a745fc50b1cfd42804927972fe1c73ea5fa4c7a1601a": {
+  "created_at": "2026-11-12T00:30:40.093961Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Anna McElroy come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-anna-mcelroy-come-in-second-place-on-the-voice-season-30"
  },
  "0xacf8eb884f1c1a3c428b80d378b1046b97f3b78a6b3d0d16af780a16c65e611a": {
   "created_at": "2026-05-12T20:06:19.402551Z",

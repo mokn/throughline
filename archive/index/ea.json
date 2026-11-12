@@ -215,6 +215,15 @@
   "sha256": "f75b9de88fcb6edbb262e9bf17d91025679b7a40532c3aaa9a7d53409e8798cc",
   "slug": "brazilian-nbb-2027-champion-pinheiros"
  },
+ "0x24548753959c696dabb5dc19bd9ed16243fea7a5f4dda54892b32040799cdbea": {
+  "created_at": "2026-11-11T21:56:58.785846Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Missouri in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "90a6e60e8fc14a5952a40280881ab41acb7f792b71c9b1b540880f094dbd4227",
+  "slug": "will-the-democrats-win-missouri-in-the-2028-presidential-election"
+ },
  "0x273a7791e26b74a7eae509b1613fe9a388766795d75d8274e04ce5363cb590ea": {
   "created_at": "2026-07-02T18:03:49.096329Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -977,6 +986,15 @@
   "sha256": "ec64a56d83c59799f561e3c1f31c6927a664df81c5de8d2ef9086a88601e3cb6",
   "slug": "will-obsession-be-nominated-for-best-cinematography-at-the-99th-academy-awards-20261013180153422"
  },
+ "0xbc1bfc1e717ca9510994e997d7e5d1b72e0a2f1eff3160234c84ca12cf51a3ea": {
+  "created_at": "2026-11-12T00:30:43.848398Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will BigCountry come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-bigcountry-come-in-second-place-on-the-voice-season-30"
+ },
  "0xbeeb1437f014f45d132c5484f3e9febf1bdcfb17395c60d3b1be504fb2d0c8ea": {
   "created_at": "2026-10-18T23:30:09.807205Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1288,10 +1306,10 @@
  "0xf74c2c32764c1c30ae9fec8ff310af9f43b6bd3683dac58b9b9bb913ad7fffea": {
   "created_at": "2026-11-10T02:14:33.051485Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-12T15:15:16Z",
   "question": "Will Jay Puri be the next CEO of NVIDIA?",
-  "revisions": 1,
-  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "revisions": 2,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
   "slug": "will-jay-puri-be-the-next-ceo-of-nvidia"
  },
  "0xf8fc96dcb0856f4bce419f507cc9eb9aec72e3e852db0a6317b0e901b4cefbea": {

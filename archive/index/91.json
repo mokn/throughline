@@ -93,6 +93,7 @@
   "created_at": "2026-10-05T21:55:19.40834Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Drake headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -279,6 +280,15 @@
   "revisions": 1,
   "sha256": "238985e0e1953babc50be8f8875ade5023a71abf9bc370a7e58a0727bfe60495",
   "slug": "will-the-democrats-win-the-louisiana-senate-race-in-2026"
+ },
+ "0x1dc25b4b7fe422031bd38aa2ef11be836a500d38029910de77ff7505755e5091": {
+  "created_at": "2026-10-26T09:00:12.195007Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Estoril Praia O/U 3.5",
+  "revisions": 1,
+  "sha256": "2d2f0836dd70b89da78956788fa02d35b252dd37692bede27ae8f45e8380cdf9",
+  "slug": "por-est-csm-2026-11-08-team-total-home-3pt5"
  },
  "0x1fcaa9d33e87efed168b07d5c07cb095d924c31a964a5fd9cf10dcc059647f91": {
   "created_at": "2026-08-05T16:27:45.067815Z",

@@ -112,6 +112,7 @@
   "created_at": "2026-10-05T21:55:18.485275Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Justin Bieber headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -1476,6 +1477,15 @@
   "revisions": 1,
   "sha256": "ae08a999d77ff5ceaaba5f137ca0b1f2fe1d9f9d253c9da9b812c40a84120d6e",
   "slug": "will-the-upper-bound-of-the-target-federal-funds-rate-be-4pt25-at-the-end-of-2027"
+ },
+ "0xf001f464606023612ff7f58fb9a7571ec225466667145dcd205521bdba334487": {
+  "created_at": "2026-10-25T17:45:25.760016Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 3 - 4 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-3-4"
  },
  "0xf56e1ff17028c523ceb162350c1ed78e821cbde364a7f63a95c0144fc06ed887": {
   "created_at": "2026-08-24T16:33:51.423715Z",

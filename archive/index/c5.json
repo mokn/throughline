@@ -138,6 +138,7 @@
   "created_at": "2026-08-11T18:42:13.497299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-03 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "49cb3a0d328cf1f0cee82bbbddee9679004edab6a92b19682e76ecfd8a3f674f",
@@ -365,6 +366,15 @@
   "revisions": 1,
   "sha256": "806faf943de42db81c8db65f00cadb99a7a65b53ef631961f87ee4140a94b815",
   "slug": "2026-soccer-liga-fpd-costa-rica-winner-puntarenas"
+ },
+ "0x3c217a961eaf1b876d1e680ab77a31d764a1081e8729d3dc8ea19e1e69b4c1c5": {
+  "created_at": "2026-10-25T17:45:23.085269Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Estoril Praia vs. CS Mar\u00edtimo end in a draw?",
+  "revisions": 1,
+  "sha256": "8cdd11593fb63d0259dbbb2b7780d0f15d512d06cb348d24e718956c295b99e4",
+  "slug": "por-est-csm-2026-11-08-draw"
  },
  "0x3dce5ff1afa9bc2671a53ab8b76f42a52df2cd7637d2aaab8fc262e3784cffc5": {
   "created_at": "2026-09-15T16:59:33.748263Z",
@@ -655,6 +665,15 @@
   "sha256": "e8c4bf572087343d59a5ac34b29d48ae4edf4f8726fda69fc642f329d5917f12",
   "slug": "will-green-bay-packers-finish-the-2026-27-nfl-regular-season-with-the-most-sacks-20260715221610077"
  },
+ "0x65cba1074d1bbf34e338fa22350ab6e9a6864ce6ca57e324e9fa1b2e6d9832c5": {
+  "created_at": "2026-10-25T17:45:25.962039Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 5 - 3 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-5-3"
+ },
  "0x65fef6829a197c49f7bd995651d836c228a8361b9c26373bd74feb783c3d2ac5": {
   "created_at": "2026-08-12T17:21:05.655363Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -678,6 +697,7 @@
   "created_at": "2026-08-26T21:46:52.366095Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Independiente keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -706,6 +726,7 @@
   "created_at": "2026-08-05T20:21:10.310884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Democratic Party candidate win the 2026 Oklahoma gubernatorial election?",
   "revisions": 1,
   "sha256": "a72bc4d4fb996cc353eb627bb7a62d5e85f65118421991b2a0eaca484baa6044",
@@ -1007,6 +1028,7 @@
   "created_at": "2026-08-12T16:51:29.298208Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Richard Arturo V\u00e1squez Salazar win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",

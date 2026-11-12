@@ -1,0 +1,15 @@
+The 2028 Presidential Election is expected to take place on November 7, 2028. 
+
+This market will resolve according to the party of the candidate, or, in the case of an independent candidate, the named candidate, who wins the most valid statewide votes of any candidate in Oklahoma in the 2028 Presidential Election.
+
+A candidate will be considered to represent a party if they are the nominee of that party. A candidate who is the nominee of either the Democratic or Republican Party will be considered to represent that party, regardless of any additional party affiliations they may have. 
+
+This market resolves based on the candidate that wins the most statewide votes in the specified state in the 2028 US presidential election, regardless of the subsequent distribution of that state’s electoral college votes. For states using ranked-choice voting or another multi-round system, the vote count from the final round will be used. 
+
+The nominees of relevant parties may be named in the contract for the convenience of traders. If any named party nominee is replaced as the nominee of their respective party prior to election day, the name in the contract will be updated and this market will resolve based on the replacement nominee of the party.
+
+If the statewide Oklahoma results of the 2028 presidential election cannot be definitively determined by December 31, 2029, 11:59 PM ET, this market will resolve to “Other”.
+
+The primary resolution sources for this market are the Associated Press, Fox News, and NBC; however, the certified statewide results of the 2028 presidential election may also be used. 
+
+This market will resolve once the Associated Press, Fox News, and NBC have all concurrently called the state for the same candidate. If one or more of these news organizations does not make statewide race calls for the 2028 presidential election it will be considered to have been struck from this list. If the relevant news organizations do not reach consensus, this market will resolve based on the certified results of the election reported by the state government.

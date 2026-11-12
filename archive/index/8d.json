@@ -919,6 +919,7 @@
   "created_at": "2026-08-26T21:46:52.664953Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Instituto keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -1324,6 +1325,15 @@
   "revisions": 1,
   "sha256": "24631d63ffe179959571cbddf2c1222c066f2d7bebe14c3ea4ad653bcaf4daea",
   "slug": "will-the-republican-party-win-the-ma-07-house-seat"
+ },
+ "0xe4aeadddcfd6de8b264d751c01048c2950390916a4e35fb53e80694e7e77ff8d": {
+  "created_at": "2026-10-26T09:00:08.649885Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Spread: CS Mar\u00edtimo (-5.5)",
+  "revisions": 1,
+  "sha256": "0a5b58034acc4f6f49fb4db9ac64f7553f029a80da6b7cc53ca0e8ac9c981e9b",
+  "slug": "por-est-csm-2026-11-08-spread-away-5pt5"
  },
  "0xe52419acfb3e5da37bc53c6341cb23857b429c3b60d61f3136f0c9244d888d8d": {
   "created_at": "2025-12-15T19:28:57.937657Z",

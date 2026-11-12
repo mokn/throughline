@@ -3,6 +3,7 @@
   "created_at": "2026-10-25T04:00:46.747585Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $68 in November?",
   "revisions": 1,
   "sha256": "b16950b2d1aaf777db9e7cc3ef2d8177eed6e1c3dc99d923d72a1538d201430d",
@@ -172,6 +173,15 @@
   "revisions": 1,
   "sha256": "52ba84dfb2c136c03b450f9b654d32fd80ae202c038e113ea8b65fbf15c4de3f",
   "slug": "will-brock-bowers-be-the-highest-scoring-te-of-the-2026-27-nfl-season-20260806224131146"
+ },
+ "0x17958276fbe57435c0c219c13f99d7af449cd48382c6cfc97c8ab94c71aab40b": {
+  "created_at": "2026-11-11T23:35:51.494054Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Najib Razak released from house arrest by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "b3dcfda32ab4f0b113cd3e73ee93500e077418d61393fc2c1571eb3499353c60",
+  "slug": "najib-razak-released-from-house-arrest-by-december-31-2026"
  },
  "0x18623352844576f02dcfa35eb0de519ae97c647775afe7c2f2589363e263990b": {
   "created_at": "2026-08-24T16:33:45.892241Z",
@@ -376,6 +386,7 @@
   "created_at": "2026-03-26T16:21:18.751361Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Christian Yelich win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -398,6 +409,15 @@
   "revisions": 1,
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-chiefs-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
+ },
+ "0x350e2c9b0280582bc3880e6ea5f4e77a270f6a4082b47e2789d4d5d6c308bd0b": {
+  "created_at": "2026-11-12T00:30:45.441345Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Joe Henley come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-joe-henley-come-in-second-place-on-the-voice-season-30"
  },
  "0x36a1c5ecca3ee9bcf8ba8e043b522c1d7a7475101738c3c36156a46fdd81af0b": {
   "created_at": "2026-02-24T18:00:39.170857Z",
@@ -815,6 +835,15 @@
   "sha256": "7b9786876981655c6442e843915728e9dff8fe9dc1496a46254fefa29d10d43d",
   "slug": "will-a-7pt5-earthquake-occur-worldwide-by-november-30"
  },
+ "0x788e74a46149bfa0e493e41d95da38e955a1d47d0da11eddec54f2096693640b": {
+  "created_at": "2026-10-26T09:00:10.027881Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: O/U 7.5",
+  "revisions": 1,
+  "sha256": "bc34ed16812c567795eef6c0843157a05c4473ba23c73046757c6d7858624d67",
+  "slug": "por-est-csm-2026-11-08-total-7pt5"
+ },
  "0x78993fef7d64baa2e83e465ab181ce56b2038eee75182015ff658e4c6c21e30b": {
   "created_at": "2026-08-05T10:50:12.851231Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1089,6 +1118,15 @@
   "revisions": 1,
   "sha256": "fd6e3f4ca33fcd73ed6b724bd26a68d2e72b4e98b8d234ca8f81dace6bb2e2df",
   "slug": "will-grasshopper-club-zurich-finish-3rd-in-swiss-super-league-2026-27"
+ },
+ "0xa1e1bbb7af7b0b3901637ae8e4b3f323b108a0804f49ee491fe75d78127e1e0b": {
+  "created_at": "2026-11-12T00:30:39.421368Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Lexi Stephens win The Voice: Season 30?",
+  "revisions": 1,
+  "sha256": "51b9d5274abc395645a15b4af92cda8887b7ce0646514da58ce5445256fd05c5",
+  "slug": "will-lexi-stephens-win-the-voice-season-30"
  },
  "0xa203cc908da0d417590e01f89fb651a335650d6b797da76ac28726d5f8c7610b": {
   "created_at": "2025-11-12T20:05:20.108926Z",

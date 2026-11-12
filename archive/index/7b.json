@@ -82,6 +82,15 @@
   "sha256": "203ad924c787fececb824f8292fd3158a82f1f4e607f2734f107990c28a26090",
   "slug": "cze1-fsl-fbo-2026-10-24-first-half-team-total-away-0pt5"
  },
+ "0x0e000c5efe9d44a7c514c1fff590977d0be01f0357f4b2bf664cf4f9bdc0e87b": {
+  "created_at": "2026-10-25T17:45:25.196331Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 4 - 0 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-4-0"
+ },
  "0x0e90d70d1decff242ea472b4f9810203923b1399c4082ec83a14ba979dd8ed7b": {
   "created_at": "2026-11-10T02:41:34.039714Z",
   "first_seen": "2026-11-10T14:52:55Z",
@@ -748,6 +757,7 @@
   "created_at": "2026-10-27T22:08:30.196048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "NATO downs another Russian drone before Russia x Ukraine peace talks?",
   "revisions": 1,
   "sha256": "e3f10948c57209492f0641993526fc1de32d7238502c2fb197f22cf8be3cac01",
@@ -806,6 +816,15 @@
   "revisions": 1,
   "sha256": "e5197db821a495a56b97446d322c8c01b4eece8390ffdea0fdcd2afab58e5da6",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-pascal-siakam"
+ },
+ "0x844cd9da2b1a922ba835b1e809707a5b113f2929614b58220941eff0cbf6fe7b": {
+  "created_at": "2026-11-12T00:30:43.11653Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Lexi Stephens come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-lexi-stephens-come-in-third-place-on-the-voice-season-30"
  },
  "0x858e1152d2202c59b2c240340ba4fdc76681d12d52767c895656ed569b13317b": {
   "created_at": "2026-08-11T18:36:38.035012Z",
@@ -1545,6 +1564,7 @@
   "created_at": "2026-03-26T16:21:27.430886Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Mickey Moniak win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",

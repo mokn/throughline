@@ -513,6 +513,15 @@
   "sha256": "4bb3c384633129b7302b57f977b19b0343d5eeb8c2e7859318326ad97d8f46f2",
   "slug": "will-the-republican-party-candidate-win-the-2026-az-08-house-election-by-21-or-more"
  },
+ "0x4afddf416334df248df672d28e52ad0fbcc3baeb661c22671d3e57362fdbbe3f": {
+  "created_at": "2026-10-26T09:00:08.820581Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: O/U 0.5",
+  "revisions": 1,
+  "sha256": "918774cd04d9a3512a486e46cf2ce3fccdc70de1e95cbb5c80a4b2b0a05f8b3c",
+  "slug": "por-est-csm-2026-11-08-total-0pt5"
+ },
  "0x4bf9474fb583c9fe245530324097ece143b25cabc17e0d1ac98d152b4e98663f": {
   "created_at": "2026-09-18T00:09:51.110145Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -854,6 +863,7 @@
   "created_at": "2026-03-26T16:21:22.933434Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Samuel Basallo win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -954,6 +964,7 @@
   "created_at": "2026-08-10T20:04:04.105502Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Fredrik Larsson be the next Regional Board Chair of Region V\u00e4rmland?",
   "revisions": 1,
   "sha256": "6caac63e659de9e485779e8d4bd0bbf8adc310af391409508b27fb648aa26e58",
@@ -1605,6 +1616,7 @@
   "created_at": "2026-10-20T23:03:09.645437Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jawgemo play for Cloud9 in 2027?",
   "revisions": 1,
   "sha256": "416352dd6eee6ef81505189123e0912a7fd8719b4be90ee50670504a84c8abb3",

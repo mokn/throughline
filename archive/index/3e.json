@@ -231,6 +231,7 @@
   "created_at": "2026-03-26T16:21:29.095177Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Mark Vientos win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -730,6 +731,7 @@
   "created_at": "2026-08-12T16:51:30.240451Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Deiby Mar\u00edn Ortega win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
@@ -772,6 +774,15 @@
   "revisions": 1,
   "sha256": "c5b2182d5c39773a7867caee3193ab25d5b7aec7b21b99098f26504d1d12c889",
   "slug": "will-jalen-hurts-finish-the-2026-27-nfl-regular-season-with-the-most-rushing-touchdowns-20260715212357156"
+ },
+ "0x8e25b661eb769e09ce3b4b8084bf3498706ff9d30170f429464ec1a4d697de3e": {
+  "created_at": "2026-10-26T09:00:08.108477Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Spread: Estoril Praia (-4.5)",
+  "revisions": 1,
+  "sha256": "6bab7722ce1954ff02cbc9a490f9e55c77153b86f8a5cb1c0f8d31bc1073a14b",
+  "slug": "por-est-csm-2026-11-08-spread-home-4pt5"
  },
  "0x8f6798a3a7888df49e93b87fd2d56c595aa06a215b9f99a1f4b9283113b12b3e": {
   "created_at": "2026-08-11T19:08:50.390468Z",
@@ -1231,6 +1242,7 @@
   "created_at": "2026-09-09T15:52:47.331078Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Andoni Iraola be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",

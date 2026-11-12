@@ -81,6 +81,15 @@
   "sha256": "7f86005e698dd2fe58c794046e339225fde33b187028f2d136c879da6c836409",
   "slug": "will-indonesia-recognize-israel-by-december-31"
  },
+ "0x1170445d09d45fda3c3efb0d0e9a4b92837c98b5fb574faf850f99ad721d60f0": {
+  "created_at": "2026-11-11T21:57:51.12177Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win California in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "9cad5ad817ef736c8d04a94932819ee003d48ff11146a5df646a8ed6b3c9cee8",
+  "slug": "will-the-democrats-win-california-in-the-2028-presidential-election"
+ },
  "0x124c61c4bf1967c1a379b54830625879e34fd026769daacb8c86a6013eb400f0": {
   "created_at": "2026-10-15T10:17:54.681755Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1077,6 +1086,7 @@
   "created_at": "2026-10-13T23:25:00.960797Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will \"Big Walk\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",

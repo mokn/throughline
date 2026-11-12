@@ -877,6 +877,7 @@
   "created_at": "2026-08-11T18:42:19.509662Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-04 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "46fbc49f95bd204a6feef13acddf5a56e7b102e2951db9fc8f5009df01e9f42a",
@@ -1166,6 +1167,7 @@
   "created_at": "2026-09-09T15:52:44.745716Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Unai Emery be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
@@ -1589,6 +1591,15 @@
   "revisions": 1,
   "sha256": "34dec67357a2d9bf347dc85ca40fa7b34fd72b7e2e00373995f06b0066797661",
   "slug": "will-rio-ave-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0xf207b2ec7011cec7e7ecfccab965412bf6b00473ee7e1abe7cfed5e3baba5150": {
+  "created_at": "2026-10-25T17:45:24.981898Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 3 - 0 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-3-0"
  },
  "0xf4cc006584f941bf3190edef784974f537e4b334a41706ae13270a162f758450": {
   "created_at": "2026-08-24T16:38:15.453087Z",

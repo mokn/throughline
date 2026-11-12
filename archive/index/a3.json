@@ -8,6 +8,15 @@
   "sha256": "6f9cb9251e7b024e318adeb9ed7097715f5e5516a89043b9fb827595408fa969",
   "slug": "will-oman-win-the-2027-afc-asian-cup"
  },
+ "0x067126545e29945444999f8146a8c360480df8a459291561ea1a6b3708d425a3": {
+  "created_at": "2026-10-25T17:45:24.596329Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 0 - 0 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-0-0"
+ },
  "0x08f285816658a8da78924449e16f0b4cbcfcfee4dfc9ac77daa4477f04ec6ca3": {
   "created_at": "2026-10-01T14:00:59.429942Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1192,6 +1201,7 @@
   "created_at": "2026-03-25T17:45:18.836084Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Kristian Campbell win the 2026 AL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "25389de95890e91516a2c43e1c2e8540de33fceb80a677b357e5d14822ee7214",
@@ -1350,6 +1360,15 @@
   "revisions": 1,
   "sha256": "4515a6fde12b8ee50fd2777b71253a17205f5adab98e8664a903c56c32193a19",
   "slug": "will-gorka-guruzeta-win-the-2026-27-laliga-player-of-the-season-award"
+ },
+ "0xe49807cab51232b2f35a57227ad609897f93fa78374967fed7a528098eb17ba3": {
+  "created_at": "2026-10-26T09:00:13.746655Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Estoril Praia 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "f3438a786d3853b96f11b91c31c7d900fd717bfc40c9f61403697790086b0c72",
+  "slug": "por-est-csm-2026-11-08-first-half-team-total-home-0pt5"
  },
  "0xe53494194c3beaa749f540c529ff373cc8c3227e618eb6b649ee6123c2a564a3": {
   "created_at": "2026-08-26T21:47:01.703158Z",

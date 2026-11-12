@@ -604,6 +604,15 @@
   "sha256": "35f9b07997ce1e8d69a7211b849f2a94bb3d741d5c964c5a2ab70d0400e3a85b",
   "slug": "will-hannes-steinbach-be-named-to-the-2027-nba-all-rookie-first-team"
  },
+ "0x51e47df45483650784d44bad1f319b9626df4d95b9d434938ff6f971ae9ebebb": {
+  "created_at": "2026-11-12T00:30:40.448527Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Dakota Cohen win The Voice: Season 30?",
+  "revisions": 1,
+  "sha256": "51b9d5274abc395645a15b4af92cda8887b7ce0646514da58ce5445256fd05c5",
+  "slug": "will-dakota-cohen-win-the-voice-season-30"
+ },
  "0x5215b7a7877b92dcf9e67b7dfe6337c5399329ff57eae67497e5a2ed9c3470bb": {
   "created_at": "2026-09-04T19:28:51.619781Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -944,6 +953,7 @@
   "created_at": "2026-08-11T18:42:20.206935Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-04 House election by 5%-15%?",
   "revisions": 1,
   "sha256": "46fbc49f95bd204a6feef13acddf5a56e7b102e2951db9fc8f5009df01e9f42a",
@@ -1124,6 +1134,7 @@
   "created_at": "2026-10-20T23:03:16.134873Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jawgemo play for Sentinels in 2027?",
   "revisions": 1,
   "sha256": "416352dd6eee6ef81505189123e0912a7fd8719b4be90ee50670504a84c8abb3",

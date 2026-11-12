@@ -322,6 +322,7 @@
   "created_at": "2026-08-11T18:42:14.454867Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-02 House election by 20%-30%?",
   "revisions": 1,
   "sha256": "c331b78b376af1e407a91c87cdd28e6199bad8ba13f9c4d2bdb93c2749b80ed7",
@@ -472,6 +473,15 @@
   "revisions": 1,
   "sha256": "bf610e28fe76b919ec33e48801f174b64e26f4bd563441b54d894845253a19d6",
   "slug": "will-nvidia-be-the-third-best-ai-lab-at-the-end-of-january-2027"
+ },
+ "0x5968f9cc0fc4a3a499ed6a8f75ec46629d19f581233a40389a75024eb69db8da": {
+  "created_at": "2026-11-11T21:56:45.823459Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Oregon in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "226b79a9a28a6ef6d843c4d58371e91dd6176cf34e0d9978e5de3a4fb8df4643",
+  "slug": "will-the-republicans-win-oregon-in-the-2028-presidential-election"
  },
  "0x5a1cb62e49c43b40335d5be7af7902d55eca78fafe62b56cea6d780d647e9fda": {
   "created_at": "2026-07-28T03:01:37.1057Z",
@@ -1268,6 +1278,15 @@
   "sha256": "92bdf1e6a8826c7a1708872f9a622d026a15c798a8498e7d12870919e803b0c9",
   "slug": "will-ofk-beograd-finish-10th-in-serbian-superliga-2026-27"
  },
+ "0xcfdd41a5e59df0df343c4de60460b44a3addbdd28eaf0fae6df689e3f44d85da": {
+  "created_at": "2026-10-25T17:45:23.966477Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "d23d2fc60b8ccd88d863830d614384ee89097a1ed946a2fa3c80470189bdaafb",
+  "slug": "por-est-csm-2026-11-08-halftime-result-draw"
+ },
  "0xd0b7ede2242a8cbda87906501394183e8f041e90a436b6000115d26d76e612da": {
   "created_at": "2026-10-15T20:35:59.19753Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1294,6 +1313,15 @@
   "revisions": 1,
   "sha256": "9524e479290633163bc5660e8bcd91bb7df79ac1f432d314fb868d9f5d025ea7",
   "slug": "el1-bro-wyc-2026-10-03-second-half-team-total-away-0pt5"
+ },
+ "0xd54aee538c7a10aae6be0a8bf545060ab3ce835c9f83a4686ca936ec7dfe44da": {
+  "created_at": "2026-11-11T21:56:10.93509Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Washington in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "cd3842cb12dde644939697b2e927bb48c37ecc45af25769631a5a3a8edbeb557",
+  "slug": "will-the-democrats-win-washington-in-the-2028-presidential-election"
  },
  "0xd6a7afc7515982b86ca3ee1c08069b6b488049f5025e0e40dc9957894cd67eda": {
   "created_at": "2026-09-28T17:21:40.101947Z",
@@ -1344,6 +1372,7 @@
   "created_at": "2026-09-30T13:43:49.920321Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will there be 90 or more tornadoes in the US in October 2026?",
   "revisions": 1,
   "sha256": "63f49b01d65d3ad2d0fdb79bfd79db71bdd9736f5b8655bddf8e747226ab802b",

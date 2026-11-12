@@ -1260,6 +1260,7 @@
   "created_at": "2026-08-25T03:53:37.721336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Ethereum dip to $2,000 by December 31, 2026?",
   "revisions": 1,
   "sha256": "27cd3a692945cc68112de9c927b9156ed8df07652c68e6b247083004c61a98ce",
@@ -1381,6 +1382,15 @@
   "revisions": 1,
   "sha256": "fdd064966e1538c6db128c9cab091bd4cc7563a9d5ac060330ee0523f6de77d3",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-alabama-be-between-1500000-and-1600000"
+ },
+ "0xc7f77b919f7faf0fcea010a1d68789ba61bae2e710ad14ddcb35198cf18f49fd": {
+  "created_at": "2026-10-26T09:00:08.98463Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: O/U 1.5",
+  "revisions": 1,
+  "sha256": "6e4d52b9d3b99102518720104cbbdd34e2773b08661340cbfde268af479a6213",
+  "slug": "por-est-csm-2026-11-08-total-1pt5"
  },
  "0xc8f31dc09d4b6960c50335c624af76ed3f959a6752c730574394738be744b8fd": {
   "created_at": "2026-08-11T19:09:45.524617Z",
@@ -1671,6 +1681,7 @@
   "created_at": "2026-10-20T23:03:34.817069Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cryocells play for LOUD in 2027?",
   "revisions": 1,
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",

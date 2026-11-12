@@ -153,6 +153,15 @@
   "sha256": "3cc266aa51bb38936ba32be4a47b40c38c636f42927b4e0d1972af080de7df7f",
   "slug": "will-the-us-capture-another-world-leader-in-2026"
  },
+ "0x1ddb0449718e1000d863905dcf157c148ea72f92a116dcac937865662b3633b8": {
+  "created_at": "2026-11-11T21:57:40.666548Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Delaware in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "81cbfdad8e83110340e9767caff3b8c0b61f9a6cfca3671ddc996c5f6cffbb4f",
+  "slug": "will-the-republicans-win-delaware-in-the-2028-presidential-election"
+ },
  "0x1e476646f35f13512c223844f5f696f4b554c9c841f4e78fabf5f4c7456b83b8": {
   "created_at": "2026-08-11T19:08:50.625779Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -401,6 +410,7 @@
   "created_at": "2026-08-13T17:43:20.008253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will UK GDP growth in Q3 2026 be between 0.4% and 0.5%?",
   "revisions": 1,
   "sha256": "8ee46b65a3687a1e9fac0fc0ed614d05d17f1a86ef0d10218e4a5c4ad4fde2d6",
@@ -1012,6 +1022,15 @@
   "sha256": "bea7da7c83110e1048eb349e60917da469491263291b3df4253c2beb44d62151",
   "slug": "will-derrick-henry-average-16pt0-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
  },
+ "0xa18b0875f93425a495685a52e45bada1d9121502cdab122d85e180d1cf441bb8": {
+  "created_at": "2026-11-12T00:30:42.147663Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Cade Mower win The Voice: Season 30?",
+  "revisions": 1,
+  "sha256": "51b9d5274abc395645a15b4af92cda8887b7ce0646514da58ce5445256fd05c5",
+  "slug": "will-cade-mower-win-the-voice-season-30"
+ },
  "0xa2b1220370a49939280ab8cf45dc06c7efa3ebd1ea4df2d9034c63e30c4f23b8": {
   "created_at": "2026-10-13T15:50:01.752013Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1369,6 +1388,7 @@
   "created_at": "2026-10-20T23:03:34.169478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cryocells play for KR\u00dc Esports in 2027?",
   "revisions": 1,
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",

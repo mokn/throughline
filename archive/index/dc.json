@@ -244,6 +244,15 @@
   "sha256": "d77450e9abfd01b559e57e744a3a2dade45a491b9f311b6529b854aad09286c0",
   "slug": "nba-teams-30-plus-wins-2026-27-memphis-grizzlies"
  },
+ "0x2a4cda32dff9ef3e54ba03055093e321cffd518458ee1ab1a41aa8713d16badc": {
+  "created_at": "2026-10-26T09:00:09.857812Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: O/U 6.5",
+  "revisions": 1,
+  "sha256": "21c0963eb98e7c74209df24ffc0995bf83ffdf70f626fa623e0cabfe871d81ad",
+  "slug": "por-est-csm-2026-11-08-total-6pt5"
+ },
  "0x2b8c232b39ddc0fcf312eb5bc2b3600a96c77545ba33b1fd92dbd4fa5c36e7dc": {
   "created_at": "2026-08-24T16:40:58.358443Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -845,6 +854,7 @@
   "created_at": "2026-10-20T23:03:35.671314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cryocells play for Leviat\u00e1n Esports in 2027?",
   "revisions": 1,
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",
@@ -1244,6 +1254,7 @@
   "created_at": "2026-08-26T21:46:54.807278Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Uni\u00f3n keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",

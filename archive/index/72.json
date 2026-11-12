@@ -162,6 +162,15 @@
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-hizto-have-the-most-kills-at-worlds-2026"
  },
+ "0x1055606644e2930e461d5494ff30c9d254c0c6d0ba4b60f46982f29bd2e1fa72": {
+  "created_at": "2026-11-12T00:30:36.42736Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Koumba Diallo win The Voice: Season 30?",
+  "revisions": 1,
+  "sha256": "51b9d5274abc395645a15b4af92cda8887b7ce0646514da58ce5445256fd05c5",
+  "slug": "will-koumba-diallo-win-the-voice-season-30"
+ },
  "0x1169c36beb30ab17567e70127ad490a25238396b155a699b9354ee348099e572": {
   "created_at": "2026-08-10T23:33:34.641404Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -296,6 +305,15 @@
   "revisions": 1,
   "sha256": "f231c7198d6cb9d7858b87e57a34c2c10fdf50ac518329e00cfdf0239e83d41f",
   "slug": "will-titan-launch-a-token-by-december-31-2026"
+ },
+ "0x230d2a3530b90f2d739f5d0ecb6099e9a8dbb012fc89d1de8c667cd111b76372": {
+  "created_at": "2026-11-11T21:56:15.749392Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Vermont in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "b992eb3bb2e2f112a2292db5a5bf50e3fbab312ec5d190b0c2ef45979de2083b",
+  "slug": "will-the-democrats-win-vermont-in-the-2028-presidential-election"
  },
  "0x2631d1e272645cea5592457a4fc43f981ba1d3547f09d8e6520412b0de85d872": {
   "created_at": "2026-10-01T14:01:07.081109Z",
@@ -901,6 +919,7 @@
   "created_at": "2025-10-10T19:33:33.369478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Democrats win the Mississippi Senate race in 2026?",
   "revisions": 1,
   "sha256": "49377a575bde2e76414546d59d139ad02c0290e34df69e59dc6dfe27018987aa",
