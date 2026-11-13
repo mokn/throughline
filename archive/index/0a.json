@@ -1,4 +1,13 @@
 {
+ "0x00059aec09ad3f731b28603a2fb0624d1d5a2ce7aa2add38b593ec375beb230a": {
+  "created_at": "2026-11-13T00:36:02.987316Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Stuff You Should Know win Best Podcast at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
+  "slug": "will-stuff-you-should-know-win-best-podcast-at-the-84th-golden-globes"
+ },
  "0x00aee61d4b8ad10c7a71168d369f29184e8426ba39735a20b42867f79d91e30a": {
   "created_at": "2026-03-26T21:57:40.782847Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -36,6 +45,15 @@
   "sha256": "057aff74a586817f1b12b78be4f783e5a33f6da86a0593731bfef2434ebe06f5",
   "slug": "colston-loveland-999pt5-receiving-yards-2026-27"
  },
+ "0x06f4440a30684fd8ea976e560d6465f51b8a09310a452589e2c5e3dc10a57d0a": {
+  "created_at": "2026-11-12T21:06:35.082713Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Kristen Michal be the next Prime Minister of Estonia?",
+  "revisions": 1,
+  "sha256": "f53f7912de465eef89a7860427c4f9916d2677b496bde60cd4bdd76b3fa01af4",
+  "slug": "will-kristen-michal-be-the-next-prime-minister-of-estonia"
+ },
  "0x07ab7318e253c08cf8f0f20e04c4d756194530ee345fdda83fd1e4f2a27e970a": {
   "created_at": "2026-11-07T00:10:31.074323Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -62,6 +80,15 @@
   "revisions": 1,
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-tyrese-haliburton"
+ },
+ "0x0864cd3594913f4de5b57acfd40e63470a7aff2c9d2347902ceab08eedeaf50a": {
+  "created_at": "2026-11-12T20:05:03.914648Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic not IPO by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "4412f3b9b6e596c4d2683b06bca8cdd6ca8b4529f61f488e17662111fe03f45c",
+  "slug": "will-anthropic-not-ipo-by-december-31-2027-anthropic-ipo-price-per-share"
  },
  "0x0a2c97534f336db46fd89e84de2063f6e2d334feb413741ec3899a5a28ec0c0a": {
   "created_at": "2026-10-25T17:45:25.675783Z",
@@ -483,6 +510,7 @@
   "created_at": "2026-10-26T21:33:58.275014Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will \"The Legend of Zelda: Ocarina of Time\" have a Metascore of at least 70?",
   "revisions": 1,
   "sha256": "6d6827e02a723aa416064d773edb7ef4bcb324055f2bd44214e1d9bae98111ed",
@@ -514,6 +542,15 @@
   "revisions": 1,
   "sha256": "1361e3ffb202fc869b007235cc764fe69996b028f63a31de8538cf741e7232ae",
   "slug": "will-portugal-win-the-2027-fifa-womens-world-cup"
+ },
+ "0x4e80f04e36797a199c827823a7a1b4fa0ca0f2285535a79b2c7f796c5b05630a": {
+  "created_at": "2026-11-13T00:29:29.291097Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Colman Domingo win Best Supporting Actor \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "59eb67dc32644edbd4521025af2725982518840a42025882324c850392381d97",
+  "slug": "will-colman-domingo-michael-win-best-supporting-actor-motion-picture-at-the-84th-golden-globes"
  },
  "0x4ff8b0851e8e6730b6a1468f05f7ff5578240d618fe26342c4eaaa2062f1660a": {
   "created_at": "2026-09-30T20:03:49.955965Z",
@@ -769,6 +806,15 @@
   "sha256": "c2405aee41bed19c7ae9d5f296603ed1b99799bce1e6b40ccdb65faad54bc709",
   "slug": "will-jordan-shipp-be-the-2026-acc-receiving-yards-leader"
  },
+ "0x7ba06156cb9d8cac6595980a57389c67e24688cd680b341a6fc625f88ab8de0a": {
+  "created_at": "2026-11-12T20:18:49.193945Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will New Religion - Bebe Rexha & Faithless win Best Dance Pop Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "c57439c7375079cd68a833bc56ba8095d1ea029fc81bc17c81900c25fced1db4",
+  "slug": "will-new-religion-bebe-rexha-and-faithless-win-best-dance-pop-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x7dec9c618309c76d9772c3205ecf688828189c00d0485222be618e0a0011f00a": {
   "created_at": "2026-04-30T14:25:05.228716Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -878,6 +924,15 @@
   "sha256": "74227ecc52aca21cd11305e3cd0e9b536bfb5a6b5e64bb6415a2a14f2279d79e",
   "slug": "will-pvem-win-the-most-seats-in-the-2027-tamaulipas-congress-election"
  },
+ "0x8be1530d4abd1de69fc594b6cab266d8f1b8baf9d819419733bc4cca29a6c60a": {
+  "created_at": "2026-11-13T00:42:54.533974Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Beyonc\u00e9 appear in a 2027 Big Game commercial?",
+  "revisions": 1,
+  "sha256": "598749c8b1008738d6a8927ef568b3926e5a6aa4682ba8f8527357847f539360",
+  "slug": "will-beyonce-appear-in-a-2027-big-game-commercial"
+ },
  "0x8d6bf0020dbfd89ac995568505c9eea4bf01d03b78fde171054d6046f996430a": {
   "created_at": "2026-09-30T20:37:17.276552Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -985,6 +1040,15 @@
   "revisions": 1,
   "sha256": "ed4802b85f507b60dcfef02360e14fa507444c5ec02783308482d5dbe5a2b1fa",
   "slug": "will-putin-and-zelenskyy-meet-next-in-turkey"
+ },
+ "0x9ce59be8a51d25cc3b044a1a3f654637f5b1d8574772b912f639d69181297c0a": {
+  "created_at": "2026-11-13T01:35:05.529834Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Raindance - Dave feat. Tems win Best Rap Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "2e5dc6cc5a75b03a3c605e65e55c70f53dc98ce38c8b04280478a41e86bd3c53",
+  "slug": "will-raindance-dave-feat-tems-win-best-rap-song-at-the-69th-annual-grammy-awards-20261112"
  },
  "0x9da30352067652135fbbe992a7cf4186cf26566950b9bf04900b8d60127d660a": {
   "created_at": "2026-07-30T18:55:07.208968Z",
@@ -1186,6 +1250,15 @@
   "sha256": "4eb1a7daef9601585378471e13203735ed248aa199a50964b680484b18e41d80",
   "slug": "will-racing-santander-qualify-for-the-2027-28-uefa-champions-league"
  },
+ "0xbbfbf7b73ac3a5d92ae3814a3d6f8aeb117d79477cac72028636b0fb8e7f660a": {
+  "created_at": "2026-11-12T20:23:59.32872Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will La Perla - Rosalia & Yahritza Y Su Esencia win Best Latin Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6c023faa8525f6e6ef28b22c9355f9be93171921482e932f419fffad91a599d7",
+  "slug": "will-la-perla-rosalia-and-yahritza-y-su-esencia-win-best-latin-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xbe1e9fb277d163f7cf4ddc13c8d70f5882d64e5f13db49a4a3ac976da2c6610a": {
   "created_at": "2026-08-12T17:22:22.516129Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1285,6 +1358,15 @@
   "revisions": 1,
   "sha256": "5d6a3c2c1abed2e6aa8b35a7eca2daf46139929f17bc7c52b03d5f6f2b257db8",
   "slug": "will-ivan-perisic-retire-before-1-july-2027"
+ },
+ "0xcf2686f50635728602a7dd532c7a659018120562f3b3dffd0ff163231c39ff0a": {
+  "created_at": "2026-11-13T00:29:57.961837Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Kristen Bell win Best Actress \u2013 Television Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "592f57b442c7012aa46eccc53126cdbf133ebca82ca3af644b6e46f858c29a68",
+  "slug": "will-kristen-bell-nobody-wants-this-win-best-actress-television-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0xcfbd166a034dd4068fc8412386ba58d3c72a582dd7a3c19c986a6ea84482bb0a": {
   "created_at": "2026-08-10T23:56:25.067736Z",
@@ -1503,6 +1585,15 @@
   "revisions": 1,
   "sha256": "df692e49d5a09679ec69e6b7959bcd1f32f457558130b89eb3cf9176f319f375",
   "slug": "will-psv-eindhoven-win-the-2026-27-uefa-champions-league-championship-20260701202025571"
+ },
+ "0xf99c0dda785a23128da1fb01ae4cb8a3620d53b793f2d1892ed47ae8f0518a0a": {
+  "created_at": "2026-11-13T00:30:39.637021Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Beef win Best Television Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "fa7585ea89db4c789e4f72fa38188bee8c8573ce7405aef1c9e6440d950bbe87",
+  "slug": "will-beef-win-best-television-limited-series-at-the-84th-golden-globes"
  },
  "0xfafdaf9f3f99130049785151e16e60f11bbd890359e0dcf6f6f9fab85dfc6a0a": {
   "created_at": "2026-02-03T00:28:18.901797Z",

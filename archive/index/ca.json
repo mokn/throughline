@@ -671,6 +671,15 @@
   "sha256": "9f7485d596d1c5aefda943f4ad3017e61a1881b9ddf757df1cac98cbe9ce0915",
   "slug": "will-psoe-win-the-most-seats-in-toledo-in-the-2026-spanish-general-election"
  },
+ "0x6ee282c1b506fbeb2ef6112dd91e60c1b506ee87e4df126c59bec2824a81f2ca": {
+  "created_at": "2026-11-13T00:28:32.555487Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Pedro Pascal win Best Actor \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bf8dd8cebe7e3c8751583632ae79e4ea65866e6edf5ec986fd1347c00606ef6b",
+  "slug": "will-pedro-pascal-behemoth-win-best-actor-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0x70e7af7d4c2cd7d77aafa580ba14ae7df730b1080aac0e4d2b064dcdd063deca": {
   "created_at": "2026-07-20T19:28:19.169912Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1095,6 +1104,15 @@
   "revisions": 1,
   "sha256": "85f98ac2ff1db252588eb60a64367162bb328764846099b0291726c7bb802ceb",
   "slug": "will-the-republican-party-candidate-win-the-2026-oh-06-house-election-by-40-or-more"
+ },
+ "0xb0bf3627517be43270fa25a8170a112a7f2a3f7181db75db9872e43db21b8fca": {
+  "created_at": "2026-11-13T00:29:03.975359Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Inde Navarrette win Best Actress \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "d2613250362daef7ca75e6dd4c34bf258355dd6ac687c0c6cf79c9a6cb7342f8",
+  "slug": "will-inde-navarrette-obsession-win-best-actress-drama-at-the-84th-golden-globes"
  },
  "0xb1722c37ec2f3491da856e57e2573259c55cf844908c2a669a781e8ad451c5ca": {
   "created_at": "2026-07-31T22:46:22.601771Z",

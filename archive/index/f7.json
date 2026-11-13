@@ -347,6 +347,7 @@
   "created_at": "2026-10-02T20:14:17.479672Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Oner have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -597,6 +598,15 @@
   "revisions": 1,
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-commanders-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
+ },
+ "0x73754304d8d2da57eb8aeab0ca053c377b5a39b6136ca2c6103e2989f42667f7": {
+  "created_at": "2026-11-13T00:35:27.817948Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"By Any Means\" (By Any Means) win Best Original Song - Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "922c8c583e3bf02e11cdbc9901cc158f0fda43ad0c314c17764ce186906a40c3",
+  "slug": "will-by-any-means-by-any-means-win-best-original-song-motion-picture-at-the-84th-golden-globes"
  },
  "0x7380b293e7aaa635f8b483e3d9bbfe7bc9443c0c68ab322f8a41019139dec0f7": {
   "created_at": "2026-10-30T00:21:53.500584Z",
@@ -1091,6 +1101,7 @@
   "created_at": "2026-10-02T20:14:33.390167Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Kino have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

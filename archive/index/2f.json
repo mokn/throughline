@@ -27,6 +27,15 @@
   "sha256": "5de91e8f3157cfc62621e22886bab238311c3f6bb35c13e162f830cf1c30a97d",
   "slug": "netanyahu-convicted-in-corruption-trial"
  },
+ "0x09ed62f79667df55c7339adf3978d943e49ed70ba063ca5ac07c6c2073ce992f": {
+  "created_at": "2026-11-13T00:42:58.222751Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Lady Gaga appear at the 2026 NFL Christmas Day halftime show?",
+  "revisions": 1,
+  "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
+  "slug": "will-lady-gaga-appear-at-the-2026-nfl-christmas-day-halftime-show"
+ },
  "0x0c3b2a65600454e4d87c4ebff84a593f659b31f22b118e4f31db386ada3cec2f": {
   "created_at": "2026-09-04T19:33:05.210418Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -443,6 +452,7 @@
   "created_at": "2026-10-02T20:14:20.688128Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Smash have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

@@ -492,6 +492,15 @@
   "sha256": "5acf4c620e788d6168d3d3dde6a6149ec6bb1442d15fb5ec0d8fb8b2206dab2d",
   "slug": "will-the-republican-party-win-the-mi-05-house-seat"
  },
+ "0x436e274c710112ddead0272b65d3e135bce21329a97b8335aa4bce73fbd79213": {
+  "created_at": "2026-11-12T22:43:21.59423Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang join SpaceX next?",
+  "revisions": 1,
+  "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
+  "slug": "will-jensen-huang-join-spacex-next"
+ },
  "0x44dd0d4c90d1ab8f1be6162af992787de5cbec135fe5ef3cbb38489c23e54a13": {
   "created_at": "2026-10-14T12:25:54.633216Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1081,6 +1090,7 @@
   "created_at": "2026-02-06T22:22:21.30444Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Brendan Hines-Ike win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1167,6 +1177,15 @@
   "revisions": 1,
   "sha256": "25a89d04471a8f7162669d2b6396e9b8f4bfb69f96fdf43799cf75356c49087f",
   "slug": "will-pt-win-the-most-seats-in-the-2027-sonora-congress-election"
+ },
+ "0xa12ed4608eceb9ab8bf657f7b6ea6ee0e41b6cf90e8ed26f3142b87e754a2e13": {
+  "created_at": "2026-11-13T00:35:28.793123Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"How to Write a Song Without You\" (Power Ballad) win Best Original Song - Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "922c8c583e3bf02e11cdbc9901cc158f0fda43ad0c314c17764ce186906a40c3",
+  "slug": "will-how-to-write-a-song-without-you-power-ballad-win-best-original-song-motion-picture-at-the-84th-golden-globes"
  },
  "0xa1678dd1e4f144fc3e7b0a8143a98e4cd9cdc6d0a046db6593975d304c91d213": {
   "created_at": "2026-09-04T19:25:50.497058Z",
@@ -1430,6 +1449,15 @@
   "revisions": 1,
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
   "slug": "will-carlos-eduardo-cruz-michilot-win-the-next-piura-mayoral-elections-20260811165718005"
+ },
+ "0xbece01f974156c836175db477805ec8388e678da4e2cd810415ec62bf2598713": {
+  "created_at": "2026-11-12T20:23:10.013654Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will ALKEBULAN III: The Water Remembers - Matt B & Royal Philharmonic Orchestra win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-alkebulan-iii-the-water-remembers-matt-b-and-royal-philharmonic-orchestra-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xbeefb3c4a36cbf1c55da6e7096119873c20c7470fcab20486e3869f225c6e813": {
   "created_at": "2026-08-28T20:17:48.310863Z",
@@ -1808,6 +1836,7 @@
   "created_at": "2026-10-02T20:14:25.066815Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Zhuo have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

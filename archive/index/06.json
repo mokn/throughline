@@ -885,6 +885,7 @@
   "created_at": "2026-11-10T19:07:46.931935Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 60% or higher?",
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
@@ -1425,6 +1426,15 @@
   "revisions": 1,
   "sha256": "ec1a3539950d7d6b2517d211d2bb282b53b484d72aecef3fe1a5b73a96a204fb",
   "slug": "will-golden-state-valkyries-advance-to-the-finals-in-the-2027-wnba-playoffs"
+ },
+ "0xcffb4ff1a52593c0ebe6e7f51a87bba796a6699d8db63d1a1e808093d3cafb06": {
+  "created_at": "2026-11-12T20:22:24.507487Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Book of Paul - Paul Cauthen win Best Traditional Country Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "45f1399e64dff42be95c9202a1e06d03188386301888513463b8aa7b4981ce2c",
+  "slug": "will-book-of-paul-paul-cauthen-win-best-traditional-country-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xd436e2cbfffbde0179149d1f8b645077a749961460a4f42cc8f2b0ae1cc84606": {
   "created_at": "2026-08-04T19:27:31.633362Z",

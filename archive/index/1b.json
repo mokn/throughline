@@ -153,6 +153,15 @@
   "sha256": "86523ebeb65d1e545624132fb8aa1c9930168218574e0194b55666cc48b7c1e7",
   "slug": "will-the-republican-party-candidate-win-the-2026-ohio-senate-election-by-3-6"
  },
+ "0x14cd540e9e785ad124ae8c3b44d92b7a3a7ead4becbb90f7a47b09dd6663701b": {
+  "created_at": "2026-11-13T00:30:41.946925Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Half Man win Best Television Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "fa7585ea89db4c789e4f72fa38188bee8c8573ce7405aef1c9e6440d950bbe87",
+  "slug": "will-half-man-win-best-television-limited-series-at-the-84th-golden-globes"
+ },
  "0x15d2e66dcf1d63c5695d6d0e9e2f8e06dd246d00fd5dfc254f2b22baa33bfa1b": {
   "created_at": "2025-10-16T23:37:11.171164Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -414,6 +423,15 @@
   "sha256": "1d4fb96a2395e4e980aa18419ebaf332499de7ee695425b40f24b6fba5460977",
   "slug": "will-rick-tocchet-win-the-2026-27-jack-adams-award"
  },
+ "0x3f4f3c4980c024b225a0c3839d67d4a63ceedb43c69ef9f5ad5475181956d41b": {
+  "created_at": "2026-07-31T23:05:58.370128Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang be the #1 searched person on Google in the US this year?",
+  "revisions": 1,
+  "sha256": "1dd93a2ed328338be39b74de88bb4683cc446dc8136c26236d8cc7bb3c21c129",
+  "slug": "will-jensen-huang-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940437"
+ },
  "0x3f57e93138c87a57fd1f336771665e17d2f75d99015653fad65c73896ef6701b": {
   "created_at": "2026-10-02T18:09:20.677701Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -564,6 +582,7 @@
   "created_at": "2026-10-02T20:14:18.692549Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Kanavi have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1523,6 +1542,7 @@
   "created_at": "2026-02-18T17:37:43.283378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Andre Blake win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",

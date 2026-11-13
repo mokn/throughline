@@ -193,6 +193,7 @@
   "created_at": "2026-02-06T22:22:17.991785Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Stian Gregersen win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -594,6 +595,15 @@
   "revisions": 1,
   "sha256": "dedb1b631fe01ac6735c7427e8aead08efca8558f2a631e33ee9b65938dd42f3",
   "slug": "will-anthony-gordon-barcelona-be-the-top-goalscorer-of-the-2026-27-la-liga-season"
+ },
+ "0x500ad193d36f9eb91266f7cfd4a7bd973d61ca24ddaa3b8adb017b65b6339eb2": {
+  "created_at": "2026-11-12T22:43:20.127526Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang join Tesla next?",
+  "revisions": 1,
+  "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
+  "slug": "will-jensen-huang-join-tesla-next"
  },
  "0x507b3faefde524b842ec41d646856631e0adf97673f600d8202fb2c31ef8b8b2": {
   "created_at": "2026-09-02T19:31:21.141379Z",
@@ -1220,6 +1230,15 @@
   "revisions": 1,
   "sha256": "227e9556b057bbdf1fa21fcca7efa49889a71a0ea109bc2faeabd8702bdaa6a2",
   "slug": "cze1-fsl-fbo-2026-10-24-spread-home-4pt5"
+ },
+ "0xa06bec486dd5a56e23f9935ced40facbddf5f99ae1a472a45173f08a1325c4b2": {
+  "created_at": "2026-11-12T20:19:58.080231Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will ghost - Ken Carson feat. Lil Uzi Vert win Best Melodic Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "67f413587d235a7007d5c1a6d6128f5c4ef24749eb11916d6ab584cbc322b61e",
+  "slug": "will-ghost-ken-carson-feat-lil-uzi-vert-win-best-melodic-rap-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xa257e53974b0061773fec32049f681ac2d79c8489770008e51b0bbf0555e3ab2": {
   "created_at": "2026-10-13T19:55:45.304055Z",

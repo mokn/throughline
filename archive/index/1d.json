@@ -1,4 +1,13 @@
 {
+ "0x03878e26a5eccef1fbbbe6c3d47a6f337e8750d2efc901e2abc7e893d84f4d1d": {
+  "created_at": "2026-11-13T00:30:27.908863Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Cynthia Erivo win Best Actress \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "4cb090c949ab3de1a78923bc9d368d14a8516c9769a931175f044c28e80a0441",
+  "slug": "will-cynthia-erivo-prima-facie-win-best-actress-television-drama-at-the-84th-golden-globes"
+ },
  "0x05422e978e4eac92e9d66a04b441464b91cf8412512a434ffb0731c10ab62e1d": {
   "created_at": "2026-11-03T17:43:49.650983Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -108,6 +117,15 @@
   "revisions": 1,
   "sha256": "863a637b36fe06a171c6f15ecf0bd694546e068ec078c41f5c196a66f3b4252b",
   "slug": "will-penn-stpt-make-college-football-playoff-semifinals-20260803204732769"
+ },
+ "0x17e9576cdfaa44f2d718a7fb28b7c939049953bdaede1fed64dc280c1c46bc1d": {
+  "created_at": "2026-11-12T20:23:51.761622Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will El Ultimo Disco Vol. 1 - Carlos Vives win Best Tropical Latin Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6076bf73a913e32e4d21b9b4a6d9fc351c069403a644bdf7edc3f73842baac5c",
+  "slug": "will-el-ultimo-disco-vol-1-carlos-vives-win-best-tropical-latin-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x19e4c19193bb06609b83267b5d06fbd4c45d8848ff532a66ace9e8e77e3c991d": {
   "created_at": "2026-04-30T17:12:32.771955Z",
@@ -234,6 +252,15 @@
   "revisions": 1,
   "sha256": "dac739360b171f06e209cbd84fab358baa1a3738137eecfa85e7e944617f9b0b",
   "slug": "will-sb-energy-ipo-by-december-31-2026"
+ },
+ "0x2809223c4626fd8619aff3ce780fac2be4ff2b587c05cef358217932aae5241d": {
+  "created_at": "2026-11-12T20:23:48.582861Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will MALPORTADA - Nathy Peluso win Best Tropical Latin Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6076bf73a913e32e4d21b9b4a6d9fc351c069403a644bdf7edc3f73842baac5c",
+  "slug": "will-malportada-nathy-peluso-win-best-tropical-latin-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x294a5fbbdb224c37373c6c4a7ab3aa47b2523106705550bdfd3e3a65930d2f1d": {
   "created_at": "2026-10-22T17:46:59.676195Z",
@@ -545,6 +572,15 @@
   "revisions": 1,
   "sha256": "df4d7fc661b8fd70e3ad01c7c2f0993e40a5df7c3944a8634cf53e6a1195761d",
   "slug": "el1-bro-wyc-2026-10-03-corners-odd-even"
+ },
+ "0x4c23e9f341233d4e382ab063a27560286eaf620067146827ae8f62291e7b481d": {
+  "created_at": "2026-11-13T01:37:14.743489Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Wanda Sykes win Best Performance in Stand-Up Comedy on Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "00915a05e9edf7dd49ed0f6f406a6e3ea4b367c6136ca44e094c18038eb59ebe",
+  "slug": "will-wanda-sykes-legacy-win-best-performance-in-stand-up-comedy-on-television-20261112"
  },
  "0x4dd8f57153fecd150931049fb3a8608942f9e991f7c825469c9017df9b70561d": {
   "created_at": "2026-10-26T06:00:14.438794Z",
@@ -1202,6 +1238,7 @@
   "created_at": "2026-02-06T22:22:41.083035Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Robert Voloder win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1224,6 +1261,15 @@
   "revisions": 1,
   "sha256": "6cf43b572b49ed70022140899b951957b570534c3f15359aa791ba1ea576536d",
   "slug": "por-est-csm-2026-11-08-spread-home-2pt5"
+ },
+ "0xb5eab31d7f666df3fa71913c15cf3aa93c2ac832dc12bdbf07a5bfb92a8dc31d": {
+  "created_at": "2026-11-12T18:40:51.017266Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Turkey by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-turkey-by-december-31-2027"
  },
  "0xb6e5afd8469716c8994285fb9ded89f7c372e1fb38f67a9b5124d4a3f7a7de1d": {
   "created_at": "2026-09-20T08:45:14.061631Z",

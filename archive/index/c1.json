@@ -57,6 +57,7 @@
   "created_at": "2025-12-12T16:15:46.275107Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Apple release a new product line before 2027?",
   "revisions": 1,
   "sha256": "b785b03bdf4996bd18e42aeb88371a87c6ad8252325a9990ba9034c8bd544713",
@@ -303,6 +304,7 @@
   "created_at": "2026-02-18T21:17:15.652376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Sam Surridge win 2026 MLS Most Valuable Player?",
   "revisions": 1,
   "sha256": "edc0893b6f246ebf23135106a0265636aacd528b913b28b36d764dd751ba4f6c",
@@ -326,6 +328,24 @@
   "sha256": "662d7bf1c0e3994252201e902c3f9f369267a8e863b260fb3ae9aacf2d248597",
   "slug": "f1-qatar-grand-prix-driver-fastest-lap-hadjar-2026-11-29"
  },
+ "0x3d48568a0d18b22a6bc9839030e5e7f9fdb5260d8a1b565025b813c3427bfcc1": {
+  "created_at": "2026-11-12T20:23:50.096027Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will ASUCCAR - Tony Succar win Best Tropical Latin Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6076bf73a913e32e4d21b9b4a6d9fc351c069403a644bdf7edc3f73842baac5c",
+  "slug": "will-asuccar-tony-succar-win-best-tropical-latin-album-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0x3ef629ea8488c66eb48f0ef265f066224428302a1b35deebf7719cf04e3d16c1": {
+  "created_at": "2026-11-12T22:51:27.094767Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic close less than $70 on its first trading day?",
+  "revisions": 1,
+  "sha256": "15be5d4cf027854e8cada2685bfcd729fca6ed5c9c13bf6505df41839ae82d74",
+  "slug": "will-anthropic-close-less-than-70-on-its-first-trading-day"
+ },
  "0x413c95a03d3622f21f28980c21b515aa27cde0bc16a9d87e73bb1b7b5ca400c1": {
   "created_at": "2026-09-04T19:04:34.958769Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -334,6 +354,15 @@
   "revisions": 1,
   "sha256": "c18707d622ee4fc35cf8feac05bbaff0bcb2aececc64d4e47b5f57a8f2237ac4",
   "slug": "will-breece-hall-average-15pt5-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
+ },
+ "0x4155903e3ac211c3a020dee78523eb392056692c35fc609a5e65c3763bd617c1": {
+  "created_at": "2026-11-12T20:22:25.449909Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Real Damn Deal - Braxton Keith win Best Traditional Country Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "45f1399e64dff42be95c9202a1e06d03188386301888513463b8aa7b4981ce2c",
+  "slug": "will-real-damn-deal-braxton-keith-win-best-traditional-country-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x46339b74bb809edab3d333f022a55b82f6aa651baa8682de0a212fd75bc073c1": {
   "created_at": "2026-10-13T23:25:05.237047Z",
@@ -389,6 +418,15 @@
   "revisions": 1,
   "sha256": "50b0ad2a637b87795c795a52c33f9348739a9c7bc9ec4ac80543535cc0527157",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-10-house-election-by-10-15"
+ },
+ "0x4d3a172c6e4945f118f383ba9b97da5cbbb6be906aca8262bc9132440d2e1bc1": {
+  "created_at": "2026-11-12T20:22:50.373442Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Porcelana - Rosalia win Best Global Music Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "3d5108fc0a413bbb4d3ccdf1cf9b4c4373352c54eb1584181f342b0f1bc4db07",
+  "slug": "will-porcelana-rosalia-win-best-global-music-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x4dd9ad3a0275fb0b91002a235781fd83c32f324d03b242cf4df1eef02b8d5fc1": {
   "created_at": "2026-07-02T20:41:31.165131Z",
@@ -980,6 +1018,15 @@
   "sha256": "a0d4d5f188f33ec280806014ee05b59f2fc38bd0e8c9067a3cc17b835225a289",
   "slug": "finland-korisliiga-2027-champion-tapiolan-honka"
  },
+ "0xa2866344e545b1e84ea5648623d13e380ffb489c65a3586931c6ef567655e6c1": {
+  "created_at": "2026-11-12T20:22:48.745058Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Bangaranga - DARA win Best Global Music Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "3d5108fc0a413bbb4d3ccdf1cf9b4c4373352c54eb1584181f342b0f1bc4db07",
+  "slug": "will-bangaranga-dara-win-best-global-music-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xa38ce2c649998c3737fcb315c273cd30f5527e0a118728de363230d603367cc1": {
   "created_at": "2026-08-12T17:18:48.133134Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1477,6 +1524,15 @@
   "revisions": 1,
   "sha256": "99eb5e9382824fb25ba86884dec0cfc2bed93cde666abf2920ecde069534939c",
   "slug": "will-utah-hockey-club-be-the-2027-nhl-western-conference-champion-20260630185319875"
+ },
+ "0xf35270facfc29fca340b4b8b2cfabd670797be3fd3bc09a3c5253c1c757a58c1": {
+  "created_at": "2026-07-01T15:53:17.483673Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Branko Milutinovi\u0107 be the next Prime Minister of Serbia?",
+  "revisions": 1,
+  "sha256": "1f0ec6de7b3591563ecc808031d74ff0b25f9c198be54887ee79e5e9a9a4d42c",
+  "slug": "will-branko-milutinovic-be-the-next-prime-minister-of-serbia-20260629223938658"
  },
  "0xf4141bf7f7a6c2a11d0a278134e048e0e3c4ef006d6c25b07e3d97433e1f04c1": {
   "created_at": "2026-09-08T17:01:44.516948Z",

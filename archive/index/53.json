@@ -116,6 +116,15 @@
   "sha256": "07ffc7a5121248f9d0b76bc6327a329f186f8d3d506c909e8692970299187991",
   "slug": "el1-wim-ste-2026-10-03-first-half-team-total-away-2pt5"
  },
+ "0x1738b48f31565787e01ec81df6fc401b9a4087309569c457f2064d90f3070a53": {
+  "created_at": "2026-11-12T20:22:12.944708Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Bottle Tells Me So - Ashley McBryde win Best Country Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "591a6f033bd94af41d74637af4a215a470e13069f2a95d2b704a6778808e2159",
+  "slug": "will-bottle-tells-me-so-ashley-mcbryde-win-best-country-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x19507ec6c52bf5dfc6d5756fbbbafcc8d7b4fc0924f191273a510da7f29c9f53": {
   "created_at": "2026-08-24T16:35:52.344277Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -410,6 +419,15 @@
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
   "slug": "will-nvda-reach-264-in-november-2026"
  },
+ "0x4dac04c640815c1a0a5a63dd665ca78454f489a0b692987a429287ae8f4b6753": {
+  "created_at": "2026-11-13T00:28:24.762544Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Minions & Monsters win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-minions-and-monsters-win-best-motion-picture-animated-at-the-84th-golden-globes"
+ },
  "0x4db16d65b80d21dff36b6edc970699f856a76d0aa74d390df3135a65d9b98f53": {
   "created_at": "2026-07-31T23:02:25.309766Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -451,6 +469,7 @@
   "created_at": "2026-10-02T16:53:56.382573Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will August be Melbourne's wettest month of 2026?",
   "revisions": 1,
   "sha256": "08e72406e94433341257033807bab67e2b5634c181dfdbfc0691286e356de006",
@@ -479,6 +498,7 @@
   "created_at": "2026-02-18T22:47:34.967307Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Shohei Ohtani win the 2026 National League MVP Award?",
   "revisions": 1,
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
@@ -1321,6 +1341,15 @@
   "revisions": 1,
   "sha256": "fa180281116e9f867f5596d8aee6c32f1e3db0894fe87254cc101a371009fc69",
   "slug": "will-luxembourg-win-the-uefa-euro-2028-20260720162754466"
+ },
+ "0xdb830e5cfb8cca0611edf604605ad913dc17bfd836922e6e2abda371006ece53": {
+  "created_at": "2026-11-13T00:31:01.098947Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Patrick Ball win Best Supporting Actor \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "8fc63d637eb4b834786d92a3edbfa36ad17ef4bb8f9b0b284a382e0a1e53a583",
+  "slug": "will-patrick-ball-the-pitt-win-best-supporting-actor-television-at-the-84th-golden-globes"
  },
  "0xdd6a47fd913556b50b70b5fcad3ffe22ca89f30afa47511460072e4a89a70b53": {
   "created_at": "2026-10-01T14:01:09.162583Z",

@@ -126,6 +126,15 @@
   "sha256": "bd33c1c3ea858c69e60114f401bc7c637adc8de2117d6f7b44188630378c1207",
   "slug": "will-meta-have-the-best-ai-model-on-december-15-2026"
  },
+ "0x16234611d5bb19bde21389533e8bab232995c64172bd1f391f0ba79aad69f52c": {
+  "created_at": "2026-11-12T20:22:16.807023Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Young - Dan + Shay win Best Contemporary Country Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e25754767c3495a7b6d4486ada4480a4cdf15543176d078380db11ce4a604484",
+  "slug": "will-young-dan-shay-win-best-contemporary-country-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x1645e84eba76054f1f879938aab04034fe48a491d671f352a099ee4f60cfca2c": {
   "created_at": "2026-05-19T04:40:11.246329Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -628,6 +637,7 @@
   "created_at": "2026-07-20T22:14:13.30963Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Republican Party win the ME-02 House seat?",
   "revisions": 1,
   "sha256": "cd42b1d1892a0328c024da31b1e7001f9832848a8eeb8eedceb466b9a3636a88",
@@ -705,6 +715,15 @@
   "revisions": 1,
   "sha256": "f9850989e9fd4411712adf0aa582698298fd3a20007d3a3922c5949e08000869",
   "slug": "el1-oxf-rea-2026-09-08-first-to-score-home"
+ },
+ "0x7dbf0557862dc22c14024336ecce126f45cf835da715cfeb66fe9a58f46aaf2c": {
+  "created_at": "2026-11-13T00:43:07.862699Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Swedish People's Party win the most seats in the 2027 Finnish parliamentary election?",
+  "revisions": 1,
+  "sha256": "38c42c6de399f846125ffd92daec1b4db401bed190baae908a6427a13496eef3",
+  "slug": "will-swedish-peoples-party-win-the-most-seats-in-the-2027-finnish-parliamentary-election"
  },
  "0x7e1e13e8639c0f7f8e51592bdbf032d0c56d13bcd418021bbd9a2a849ed6ea2c": {
   "created_at": "2026-11-10T01:00:03.877412Z",
@@ -1253,6 +1272,7 @@
   "created_at": "2026-10-23T02:08:40.889309Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the 2-year Treasury yield hit 4.80% before 2027?",
   "revisions": 1,
   "sha256": "c41741c4912299c0d05d11fcc2628f4d9953e5a1dfeba3c83c82269b8d110511",
@@ -1371,6 +1391,7 @@
   "created_at": "2026-11-11T01:14:54.030929Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Gemini Hydrogen released by January 31, 2027?",
   "revisions": 1,
   "sha256": "7bbb2065437fb9b65585e26cf594ea28bca8b56b824481fda9163480c826fe72",
@@ -1535,6 +1556,7 @@
   "created_at": "2026-09-09T15:19:08.233317Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Cyprus win 2026-27 Nations League Group C2?",
   "revisions": 1,
   "sha256": "19accb9f6bceb396fa8173744f506db26ac912676b073a3bb1a2563818918eac",

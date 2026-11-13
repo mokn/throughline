@@ -246,6 +246,15 @@
   "sha256": "34646c2fe86ab337a209f26d5f30e1839c0c064eab8c71deba39e696ac7b3754",
   "slug": "el1-don-oxf-2026-09-26-corners-total-9pt5"
  },
+ "0x1ffd22f6ef67f25096d21f7acc08b3dd7e631852aa32c6c26f5f1dc413a36252": {
+  "created_at": "2026-11-12T23:21:42.736811Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will UK GDP growth in Q4 2026 be between 0.2% and 0.3%?",
+  "revisions": 1,
+  "sha256": "6d11009c480d7bd3c533aef741062440c73c937187a5d14433869ebf8728d897",
+  "slug": "will-uk-gdp-growth-in-q4-2026-be-between-0pt2-and-0pt3"
+ },
  "0x234cb84f9e92194f93c6df4990e7e52c6948ec4d61400cd2dd74018ad2448152": {
   "created_at": "2025-12-08T20:57:58.187073Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -654,6 +663,15 @@
   "sha256": "135a5801fbd3cefbbd4014166ffa05dba4660da17d4fd37f5522a83a13e1014d",
   "slug": "will-twente-record-the-most-clean-sheets-in-the-uecl-league-phase"
  },
+ "0x72fcf89e1a94548126020e0576111d62f56ce7027ed8a1768131f13cfa895052": {
+  "created_at": "2026-11-13T00:35:52.64102Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Bad Friends win Best Podcast at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
+  "slug": "will-bad-friends-win-best-podcast-at-the-84th-golden-globes"
+ },
  "0x736f6ecf5e3e004e449ebf6f6e640dbddd02c9472ae0ba8970f091a664e08352": {
   "created_at": "2026-08-12T17:30:55.597706Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -713,6 +731,7 @@
   "created_at": "2026-10-20T23:03:20.451478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for Sentinels in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
@@ -907,6 +926,15 @@
   "revisions": 1,
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-dyson-daniels"
+ },
+ "0xa7d68135cbe08f0b7c24483676457bd1084834fb348bbc08f75bb533c9101952": {
+  "created_at": "2026-11-13T00:29:37.390409Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sandra H\u00fcller win Best Supporting Actress \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f54aef27bf35c35d0e1705d479016706e14615a4f0da24a7edc59bd338573913",
+  "slug": "will-sandra-huller-project-hail-mary-win-best-supporting-actress-motion-picture-at-the-84th-golden-globes"
  },
  "0xa8c228d93bf0b7918ae66749503c0c043169c332224a330fe635eaafd682db52": {
   "created_at": "2026-08-21T17:33:59.23133Z",

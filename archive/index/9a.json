@@ -504,6 +504,15 @@
   "sha256": "d88cb2e1111094675594950b7d03d79ac826e7c7f4fd2ed364ef3dc4c590bebb",
   "slug": "will-mfk-dukla-banska-bystrica-keep-the-most-clean-sheets-in-slovak-nike-liga-2026-27"
  },
+ "0x52ece370e92278d559f8b08fc379a954331c5659f9d3f4adcfdad34d91ac0b9a": {
+  "created_at": "2026-11-13T00:30:08.202548Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Bear win Best Television Series \u2013 Comedy or Musical at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "28e5121c008b818267f37072bb0055cc786b7bf323cadbfeb95c29679c969193",
+  "slug": "will-the-bear-win-best-television-series-comedy-or-musical-at-the-84th-golden-globes"
+ },
  "0x548102c6df429f87ac5352616dd06366d4ea1c9b2bcdb50f37f4b4adbac1a29a": {
   "created_at": "2026-09-17T18:18:47.142047Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1477,10 +1486,20 @@
   "sha256": "e675323192836e7e5184f73f8d7801f85f8423aec8e280e5bb20fac2d500e5e4",
   "slug": "nba-teams-60-plus-wins-2026-27-toronto-raptors"
  },
+ "0xe2d2794146af583693ce085999f4699d357d74de68bc46e8b9bb7c654153889a": {
+  "created_at": "2026-11-12T19:16:30.600777Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Riikka Purra be the next Prime Minister of Finland?",
+  "revisions": 1,
+  "sha256": "fe67f763c02a33bfda9c44f2d6ca1542fea0487970b1cb1d7cf6642e8da33b7c",
+  "slug": "will-riikka-purra-be-the-next-prime-minister-of-finland"
+ },
  "0xe2ed8d7cd4b1d6eb780a51c273d6603e70c2c3077288dc808e8546716773a59a": {
   "created_at": "2026-02-06T22:22:32.763237Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Andrew Privett win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1614,6 +1633,15 @@
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
   "slug": "will-the-cleveland-cavaliers-win-the-2026-nba-cup"
  },
+ "0xf38cc637cc6f46d79be1da5672f7d0bfa63d0997e892c3a232eecacfc54fe89a": {
+  "created_at": "2026-11-12T20:22:12.190018Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Be By You - Luke Combs win Best Country Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "591a6f033bd94af41d74637af4a215a470e13069f2a95d2b704a6778808e2159",
+  "slug": "will-be-by-you-luke-combs-win-best-country-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xf9b705789d02f9bbc7de623555916f8b6de1f0a651f7ad474a8881343ec66a9a": {
   "created_at": "2026-09-27T20:04:33.437162Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1627,6 +1655,7 @@
   "created_at": "2026-02-18T17:37:34.054474Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Lucas Hoyos win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",

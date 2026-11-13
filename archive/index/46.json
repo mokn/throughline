@@ -156,6 +156,7 @@
   "created_at": "2026-09-23T21:01:14.753723Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Chuck Schumer be the next US Senate Minority Leader?",
   "revisions": 1,
   "sha256": "58870a876014b54a6b7a14bdc941ae63412669cd2df065f57232a0d91922dec8",
@@ -557,6 +558,15 @@
   "sha256": "1324c7df383b06f822ca4dafa0a3f41be80c2553c25efce43a90806e228409dd",
   "slug": "will-chronicle-play-for-gentle-mates-in-2027-1788364450495"
  },
+ "0x5a76818efea77a9ee171eea9ed1d0131f9ab0a629017cc56454b88a200917046": {
+  "created_at": "2026-11-12T20:05:01.430603Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic's IPO price be between $76.00 and $78.00?",
+  "revisions": 1,
+  "sha256": "4412f3b9b6e596c4d2683b06bca8cdd6ca8b4529f61f488e17662111fe03f45c",
+  "slug": "will-anthropics-ipo-price-be-between-76pt00-and-78pt00"
+ },
  "0x5bfb1be2254de39ad32254b63eb7d961e53d71d36f8e1a1d07383772cd187046": {
   "created_at": "2026-11-03T17:43:47.130969Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -647,6 +657,15 @@
   "revisions": 1,
   "sha256": "b44627f87ba022d88732a1cbec5c901a8135b590eb388d66d6abfc376466117e",
   "slug": "probable-fdv-above-1b-one-day-after-launch"
+ },
+ "0x6a8eca0acc5906e7b11c48b3fc263f4feb25e7e03daf47c6860a2c6a38e2c746": {
+  "created_at": "2026-11-12T19:34:23.567152Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang publicly testify before Congress by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "9991339ee685a3bee4d3c2dbfe6e43f55a7fb2050d83f9ed730372ca395aa3ea",
+  "slug": "will-jensen-huang-publicly-testify-before-congress-by-june-30-2027"
  },
  "0x6dfd459d0306dac2c0fd5166cdfde2cc913ae6ac59c04d461eaea167bada8d46": {
   "created_at": "2026-08-19T15:50:32.999537Z",
@@ -830,6 +849,15 @@
   "revisions": 1,
   "sha256": "eaf8f50f7b3cd64e9a83103919dd3b6f7427fce7f9804defe533496b7e06ff65",
   "slug": "buttigiegs-democratic-nomination-odds-dip-to-4-by-december-31"
+ },
+ "0x8f902f475836cbba226ab1d57449b64803a0606368b193b1c0f983f0179d8d46": {
+  "created_at": "2026-11-12T20:23:14.25511Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will ORIADE - Davido win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-oriade-davido-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x8ff01aff6d80a48047cf99c541e13c08e443ae19fde7f084a1fd262259e30d46": {
   "created_at": "2026-09-30T09:16:06.736041Z",
@@ -1128,6 +1156,7 @@
   "created_at": "2026-02-06T22:22:38.515745Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Micael win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1240,6 +1269,15 @@
   "revisions": 1,
   "sha256": "1361e3ffb202fc869b007235cc764fe69996b028f63a31de8538cf741e7232ae",
   "slug": "will-north-korea-win-the-2027-fifa-womens-world-cup"
+ },
+ "0xe3b355031aa6da2a66ae21d1cc05b27a3223f051b71a25739380a5180ac90646": {
+  "created_at": "2026-11-12T15:31:29.679174Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will NVIDIA's next CEO be an external candidate?",
+  "revisions": 1,
+  "sha256": "e7f81b976b83376348af3eb8bd3425f0d56b858af834c5c86a29a567d99f2243",
+  "slug": "will-nvidias-next-ceo-be-an-external-candidate"
  },
  "0xe4062b830234373d96799cfdffc10edb2a4fa4a05c15d18ce69c39be1e758646": {
   "created_at": "2026-08-21T19:53:24.22499Z",
@@ -1443,6 +1481,7 @@
   "created_at": "2026-02-06T22:22:28.582989Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Jack Maher win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1470,6 +1509,7 @@
   "created_at": "2026-10-28T22:20:13.390309Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Gemini Carbon debut with an HLE-Diamond score of 55% or higher?",
   "revisions": 1,
   "sha256": "7a720457dd87aeeedb323ccfdaf664895f4a2fc878bf47518fe0640171ff7c91",

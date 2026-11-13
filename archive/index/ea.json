@@ -98,6 +98,15 @@
   "sha256": "bcfe356a6919de657f2cbc31ddcff0ea35448a3def4b2ebb3e0cf7c905664af7",
   "slug": "will-rogelio-ortega-martinez-win-the-2027-guerrero-governor-election-20260803173852829"
  },
+ "0x0a6ad9cc02db3bda36d2cb333fb283b74d51216f60977a9e57cda5cc155a5eea": {
+  "created_at": "2026-11-12T20:19:04.965235Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sexistential - Robyn win Best Dance/Electronic Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "72dff87a647eb25830b3caf5872dcf47cb9ca1f4082e70bafb45313dcbbacc2e",
+  "slug": "will-sexistential-robyn-win-best-dance-electronic-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x0cb1760c15287d5f0d01a6b9a26bd688331982d7b7754e036353c3ffb2381dea": {
   "created_at": "2026-01-27T18:40:46.719507Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -282,6 +291,7 @@
   "created_at": "2026-10-26T21:33:58.668612Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will \"The Legend of Zelda: Ocarina of Time\" have a Metascore of at least 80?",
   "revisions": 1,
   "sha256": "6d6827e02a723aa416064d773edb7ef4bcb324055f2bd44214e1d9bae98111ed",
@@ -658,10 +668,20 @@
   "sha256": "b53c054234eadfa91505b527aedf7e6c204fa290215582579720b7fde586d0c1",
   "slug": "el1-bra-bar-2026-09-26-first-half-team-total-away-1pt5"
  },
+ "0x747c5bebed9f3327fddbf807b32b3d4abff4e8af72fc655318fc443f09b217ea": {
+  "created_at": "2026-11-13T00:31:06.044719Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Linda Cardellini win Best Actress \u2013 Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "ca1782a77322d8471b9d1d04a14fb31e7c59a5f6999b0fb45d24adf5c0357d09",
+  "slug": "will-linda-cardellini-dtf-st-louis-win-best-actress-limited-series-at-the-84th-golden-globes"
+ },
  "0x749a4e52b4c8fd1c38f8610df0adf7c5a0434430440d5167c39765a346b61bea": {
   "created_at": "2026-10-20T23:03:16.289303Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for Evil Geniuses in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
@@ -808,6 +828,7 @@
   "created_at": "2026-02-06T22:22:15.074114Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Jackson Ragen win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -885,6 +906,15 @@
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
   "slug": "2026-soccer-liga-profesional-argentina-runner-up-belgrano"
+ },
+ "0xadce3c987d2e3e9bdf168efdce90b630513b14ef1554396e42508638ea3fb9ea": {
+  "created_at": "2026-11-12T20:21:54.105281Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Do You Still Love Me? - Ella Mai win Best R&B Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d9b59d96cf57c9d5d3a0f6a60c96147254f5f94a839c857344b9df3ce6fb3583",
+  "slug": "will-do-you-still-love-me-ella-mai-win-best-randb-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xae6d228c3a89c04f5d48b130c86416b146ee3fdc19c6f201603d9c9682dca3ea": {
   "created_at": "2026-02-28T21:23:56.797106Z",
@@ -1053,6 +1083,7 @@
   "created_at": "2026-10-02T20:14:34.790921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will SiuLoong have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1135,6 +1166,7 @@
   "created_at": "2026-10-02T20:14:40.055089Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Feisty have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

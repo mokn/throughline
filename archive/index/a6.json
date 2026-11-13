@@ -418,6 +418,15 @@
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",
   "slug": "f1-las-vegas-grand-prix-practice-1-fastest-lap-oliver-bearman-2026-11-19"
  },
+ "0x32244d66c3325962a7a032bdfa1cf82f47417dc9f6da773f45c88abd79537aa6": {
+  "created_at": "2026-11-12T23:21:41.07743Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will UK GDP growth in Q4 2026 be between 0% and 0.1%?",
+  "revisions": 1,
+  "sha256": "6d11009c480d7bd3c533aef741062440c73c937187a5d14433869ebf8728d897",
+  "slug": "will-uk-gdp-growth-in-q4-2026-be-between-0-and-0pt1"
+ },
  "0x331b232978eabbf7f2e0afc9ab5afdd3b79f2a4887c76f96ed03a5e421bc72a6": {
   "created_at": "2026-09-04T17:50:31.514364Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -536,6 +545,15 @@
   "revisions": 1,
   "sha256": "315999eeb48661998e6cf47773ef855366be665385ac8f2c7df4681092aee88a",
   "slug": "will-bad-bunny-perform-at-coachella-2027"
+ },
+ "0x4fccd284c462a09cdd90c8231a25ddfbdb943a98ee136d881fba1c2f7d9569a6": {
+  "created_at": "2026-11-13T00:30:14.81894Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Peter Claffey win Best Actor \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "e688ca737373350f605cffbe85396233f7808fe2802eef466d9c6ad33d94af1c",
+  "slug": "will-peter-claffey-a-knight-of-the-seven-kingdoms-win-best-actor-television-drama-at-the-84th-golden-globes"
  },
  "0x509d694aba0d7dba1fb213dc286dbcfbef6182b71969bcc1e041604fb31c09a6": {
   "created_at": "2026-08-05T10:50:09.001393Z",
@@ -1022,6 +1040,7 @@
   "created_at": "2026-08-05T21:01:14.959383Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Democratic Party candidate win the 2026 Vermont gubernatorial election?",
   "revisions": 1,
   "sha256": "f6c7d1a6cca1846c7843edbaacb2fce0333a4c69f979abcf591fab3e1c2e4523",
@@ -1072,6 +1091,15 @@
   "revisions": 1,
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-wyatt-johnston-win-the-2026-27-art-ross-trophy"
+ },
+ "0xa8d682e22c076584cf40498dbcdf30e48f8b243ed98f454322f4f6e15b09bba6": {
+  "created_at": "2026-11-13T00:30:13.825825Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jon Hamm win Best Actor \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "e688ca737373350f605cffbe85396233f7808fe2802eef466d9c6ad33d94af1c",
+  "slug": "will-jon-hamm-your-friends-and-neighbors-win-best-actor-television-drama-at-the-84th-golden-globes"
  },
  "0xae95718e0a9b11f658fc631c17ae89de80085deba67ff44b5d8ba428f0a173a6": {
   "created_at": "2026-11-01T15:01:16.26337Z",
@@ -1280,6 +1308,15 @@
   "sha256": "0a353ba440d3bd30b0e3f3643f1fd8c9833f9f17214ac83095980ea53895a051",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-virginia-be-between-3250000-and-3500000"
  },
+ "0xdb512ea5ff753249bb8d01a8c648fbe653a030d4a7b247e739afa309602874a6": {
+  "created_at": "2026-11-12T18:41:00.083791Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Qatar by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-qatar-by-december-31-2027"
+ },
  "0xdd249b8cdd6c3b80f485f7d81ba91f1a5722b22d5bc6b1991a34ec6350a7e2a6": {
   "created_at": "2026-08-28T20:17:46.710347Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1414,6 +1451,15 @@
   "revisions": 1,
   "sha256": "ca88568285c4baebaa77b836263c9b75d89223ff52daf008fa5759b85ff9ce25",
   "slug": "el1-don-oxf-2026-09-26-second-half-team-total-away-1pt5"
+ },
+ "0xeb8450d38a272fce34b0b0b167047de8268c4f23003b1af70ecc1a10b4f455a6": {
+  "created_at": "2026-11-13T00:30:09.103466Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Abbott Elementary win Best Television Series \u2013 Comedy or Musical at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "28e5121c008b818267f37072bb0055cc786b7bf323cadbfeb95c29679c969193",
+  "slug": "will-abbott-elementary-win-best-television-series-comedy-or-musical-at-the-84th-golden-globes"
  },
  "0xeb953af20f9e743a1da9c7972674c8327642a28f64703c2ed048bcaff88343a6": {
   "created_at": "2026-10-13T15:49:53.091277Z",

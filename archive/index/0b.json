@@ -591,6 +591,15 @@
   "sha256": "a1496a7d251e0bb4467f1d394c1c6843ba16718857cb5626171ba22481f393d9",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-18-house-election-by-35-40"
  },
+ "0x4e1db199436c27bfb36233a463a9c1ae1f7a4ac1cea475546b175e5df5565b0b": {
+  "created_at": "2026-11-13T00:21:27.275145Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Anthropic IPO closing market cap above $1.0T?",
+  "revisions": 1,
+  "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
+  "slug": "anthropic-ipo-closing-market-cap-above-1pt0t"
+ },
  "0x4f025a0b8f6c4829762248494eedb56b5a4daccacd29b080e6821aaaf73dce0b": {
   "created_at": "2026-09-30T20:07:17.87646Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1083,6 +1092,15 @@
   "sha256": "a617aa44a062c4f664361da81a72af64343baee4520171d98c4c97505f91ef14",
   "slug": "will-the-republican-party-win-the-ca-32-house-seat"
  },
+ "0x9bf3014138f17f101253e214c72205463245742a24fa3d37722ec61a1422120b": {
+  "created_at": "2026-11-13T00:28:34.97207Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Julianne Moore win Best Actress \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bb3a08ebb0b40ee96c2abb2a0aff9e031572f257b5c5cc7c3526c588bf3d6ffb",
+  "slug": "will-julianne-moore-the-debut-win-best-actress-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0x9cb12ca98c2a656aeca0f2949f76c229ca041e47d8abae84d7ac2b004c70800b": {
   "created_at": "2026-08-12T00:11:33.155191Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1411,6 +1429,15 @@
   "sha256": "68964fb86d9f09f22688b7e15974b63470029652859b042ea15337057c68261d",
   "slug": "barcelona-uefa-negreira-verdict-announced-by-july-31-2027"
  },
+ "0xca55f3c4efc58d131df07f2e688eac39bf624e013f980ee3a924be81dced8d0b": {
+  "created_at": "2026-11-12T20:23:10.577966Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will One Voice One World - Ladysmith Black Mambazo & Mbuso Khoza win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-one-voice-one-world-ladysmith-black-mambazo-and-mbuso-khoza-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xcaa2b510d78465a714297b9f7ef577f4556ea08013173f18d5e9e58c6c18430b": {
   "created_at": "2025-11-05T21:38:25.84522Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1478,6 +1505,7 @@
   "created_at": "2026-02-06T22:22:18.492869Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Enea Mihaj win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",

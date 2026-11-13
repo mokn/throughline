@@ -585,6 +585,7 @@
   "created_at": "2026-10-02T20:14:25.827647Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Wei have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -703,6 +704,7 @@
   "created_at": "2026-02-18T21:17:19.843042Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Sergio Busquets win 2026 MLS Most Valuable Player?",
   "revisions": 1,
   "sha256": "edc0893b6f246ebf23135106a0265636aacd528b913b28b36d764dd751ba4f6c",
@@ -881,6 +883,15 @@
   "sha256": "c39995b81026889ab38537f9b279ba8820b8630638ae057bbfcb695384bf877d",
   "slug": "will-fredrikstad-finish-3rd-in-norway-eliteserien-2026"
  },
+ "0x773dbb09f7595cca93d86d3ae38eed5318859092693f8d0579f14720e1e63fa2": {
+  "created_at": "2026-11-12T20:20:12.852321Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Son Of Spergy - Daniel Caesar win Best Progressive R&B Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "8e99eaa4b01723bd8f4a44c26a71e08aa5d8cf45b94cfbf77db6636f183e8ff0",
+  "slug": "will-son-of-spergy-daniel-caesar-win-best-progressive-randb-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x7854c04e254e7eff504c860991b16c7bf8413431324691c29dabe30ca6eb6ea2": {
   "created_at": "2026-08-24T16:36:02.074314Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -976,6 +987,7 @@
   "created_at": "2026-02-18T22:38:25.906245Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Yordan Alvarez win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
@@ -1543,6 +1555,15 @@
   "sha256": "cb3f717a955bda3998fd088ad2e16e1b2d1ec3cc63012e40f0f5b5c02dc9be9f",
   "slug": "dicks-sporting-goods-q3-dicks-business-comparable-sales-growth-2-to-3"
  },
+ "0xd1739a0b2391b2676ae51f5c04370508b10c8da451c8309f77c43bceeaad38a2": {
+  "created_at": "2026-11-12T20:21:52.608051Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Goodbye Henry - RAYE feat. Al Green win Best Traditional R&B Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "a45e64cb2142fbd19c427265120c3c01eb8aedc3b43da6327838be8bcf90888f",
+  "slug": "will-goodbye-henry-raye-feat-al-green-win-best-traditional-randb-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xd40e2d5335999e8a0b36d9e69729bc2c2677de4db42a2970479d3d5d2ba0a6a2": {
   "created_at": "2026-08-17T21:27:19.213529Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1675,6 +1696,7 @@
   "created_at": "2026-02-06T22:22:40.54282Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Daniel Munie win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",

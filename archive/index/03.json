@@ -39,6 +39,7 @@
   "created_at": "2026-02-18T17:37:51.57146Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will John Pulskamp win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -107,6 +108,15 @@
   "sha256": "622dba112acd6cac620c1f9e8f47183f6737dcc3b185b23e4f60669404c92be2",
   "slug": "base-iphone-18-released-by-march-31-2027"
  },
+ "0x170aa08f4d7265b123ff5d1a07890aeec29d60d1b1af31cc01b17c9aa5f79103": {
+  "created_at": "2026-11-13T00:30:24.254418Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Rebecca Ferguson win Best Actress \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "4cb090c949ab3de1a78923bc9d368d14a8516c9769a931175f044c28e80a0441",
+  "slug": "will-rebecca-ferguson-silo-win-best-actress-television-drama-at-the-84th-golden-globes"
+ },
  "0x19a00e879a2a59b6afea3b4257a333607775e03bd4861f177b0e748235354603": {
   "created_at": "2026-08-07T20:32:06.282124Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -152,6 +162,15 @@
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",
   "slug": "will-the-republican-party-candidate-win-the-2026-sd-al-house-election-by-30-35"
+ },
+ "0x262dae6ec60ec7c39b5b742b9188bffd99297c51013e36b6881e000671767803": {
+  "created_at": "2026-11-12T20:22:31.534257Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Eminence - Beenie Man win Best Reggae Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "da1f6be4184a807783e99a447888f29f0e856cfd6aa9b1f15f78717b77fae329",
+  "slug": "will-eminence-beenie-man-win-best-reggae-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x2630dcebfdb828acddda71736e266767eb0407069facc653575f01d7cf7dcc03": {
   "created_at": "2026-11-07T12:30:31.448742Z",
@@ -1479,6 +1498,15 @@
   "revisions": 1,
   "sha256": "24631d63ffe179959571cbddf2c1222c066f2d7bebe14c3ea4ad653bcaf4daea",
   "slug": "will-the-democratic-party-win-the-ma-07-house-seat"
+ },
+ "0xfbadb332e89597e41fa557ff5f8d2c1c068c768dc6bfb1c402645bdc7051a003": {
+  "created_at": "2026-11-13T00:35:08.409063Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Behemoth! win Best Original Score \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "de88a60b19ce31d141aab26b385fe06bf50e51181824d28f3c7d70e839146104",
+  "slug": "will-behemoth-win-best-original-score-motion-picture-at-the-84th-golden-globes"
  },
  "0xfddee6654d03f7087ab53864dfc8920d491a385d6cb839d60f9722f2198e8c03": {
   "created_at": "2026-08-17T21:27:17.154428Z",

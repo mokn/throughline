@@ -1,0 +1,11 @@
+This market will resolve according to the total number of shares of Class A common stock sold in Anthropic's initial public offering (IPO) at pricing, as stated in the final prospectus filed with the U.S. Securities and Exchange Commission (SEC).
+
+Shares sold by Anthropic and shares sold by selling stockholders as part of the IPO will both be counted. Shares sold under any over-allotment option (greenshoe) granted to the underwriters will not be counted, whether or not it is exercised. Shares sold in any private placement concurrent with the IPO will not be counted.
+
+If the total falls exactly on a boundary between two brackets, this market will resolve to the higher bracket (e.g., exactly 800M resolves to "800M to 825M").
+
+A qualifying Anthropic IPO is defined as an underwritten, SEC-registered offering of newly issued shares of Anthropic’s Class A common stock sold to the public for cash under a registration statement on Form S-1 that the SEC has declared effective, where the shares have been approved for listing on the New York Stock Exchange, NYSE American, the Nasdaq Stock Market, or Cboe BZX Exchange, and the offering has been priced, as shown by the first final prospectus filed with the SEC under Rule 424(b). The IPO date is defined as the date stated on the cover of that first final 424(b) prospectus (in ET), regardless of whether the offering is later withdrawn or if the shares begin trading on a secondary market.
+
+A direct listing, a merger with a special purpose acquisition company, or a listing outside the U.S. will not count, because none of them sets an offering price. If Anthropic does not complete an IPO by then, or is acquired by or merges into another company before completing one, this market will resolve to "No IPO by December 31, 2027".
+
+The primary resolution source will be the first final prospectus 424(b) filed with the SEC.

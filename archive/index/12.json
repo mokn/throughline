@@ -162,6 +162,15 @@
   "sha256": "d927b7f10022dc5c817ee902210b9e50e5f4bf862cd7bbe9a8b1dd0d23fd48ef",
   "slug": "will-waymo-launch-in-minneapolis-mn-by-december-31-2026-20260626203025654"
  },
+ "0x1ac2eeb56824031883d13cdac35813653261e6ce72176caaeefd0152fecc6612": {
+  "created_at": "2026-11-13T00:35:38.919249Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Spider-Man: Brand New Day\" win the award for Cinematic and Box Office Achievement at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "94c85e893460516dd29364438df1d8eb10e02179d18bcc98d31dc087517d7832",
+  "slug": "will-spider-man-brand-new-day-win-the-award-for-cinematic-and-box-office-achievement-at-the-84th-golden-globes"
+ },
  "0x1b30fe4035f893a9977a78094152380a2a968e2ebd71e02d4a7603eb7ed66312": {
   "created_at": "2026-08-11T19:03:13.001524Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -244,6 +253,15 @@
   "revisions": 1,
   "sha256": "4c0a348e45e533ce5efb754760cffcc56762480d6ef2cc403443891a4364c2d5",
   "slug": "will-osasuna-finish-3rd-in-laliga-2026-27"
+ },
+ "0x25d72164573583b6fe77d02cb29381ce298fa54663980f528f9f276ad079bf12": {
+  "created_at": "2026-11-12T21:06:36.996231Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Kristina Kallas be the next Prime Minister of Estonia?",
+  "revisions": 1,
+  "sha256": "f53f7912de465eef89a7860427c4f9916d2677b496bde60cd4bdd76b3fa01af4",
+  "slug": "will-kristina-kallas-be-the-next-prime-minister-of-estonia"
  },
  "0x2680935d85a7fffaa408f082ed87361efcf0d0b3613425e609a02804d987aa12": {
   "created_at": "2026-09-30T13:34:04.092482Z",
@@ -1109,6 +1127,7 @@
   "created_at": "2026-10-02T20:14:17.958135Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Peyz have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

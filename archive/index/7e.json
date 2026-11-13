@@ -1,4 +1,13 @@
 {
+ "0x00c7eef2b5df0600fc653ba0e7b9d2bc108bfb942cd9cb0a8ed7076e77e3af7e": {
+  "created_at": "2026-11-12T20:19:03.603371Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Cerulean - Danny L Harle win Best Dance/Electronic Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "72dff87a647eb25830b3caf5872dcf47cb9ca1f4082e70bafb45313dcbbacc2e",
+  "slug": "will-cerulean-danny-l-harle-win-best-dance-electronic-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x0135f2ed385fd81fa2af3b98720ee3ba440ea4a719636c1493f15a23366fc27e": {
   "created_at": "2025-11-24T19:33:34.913768Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -93,6 +102,7 @@
   "created_at": "2026-02-06T22:38:14.913925Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Raphael Wicky win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -387,6 +397,15 @@
   "revisions": 1,
   "sha256": "5b1bfad81c3a24c5b06a02f08a4f0a698e53a3db94bebc809e1401ae2cae2900",
   "slug": "will-the-republican-party-win-the-ca-43-house-seat"
+ },
+ "0x3c9aa164ecda9b555743ae6e881e33a8376671100d77f3687aaf2618ed01707e": {
+  "created_at": "2026-11-13T00:28:21.998103Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Wildwood win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-wildwood-win-best-motion-picture-animated-at-the-84th-golden-globes"
  },
  "0x3f9d48f00845c826ea30f03150513f9ecc4741934dc880f982402083ec0e287e": {
   "created_at": "2026-02-04T19:11:17.889862Z",
@@ -1416,6 +1435,15 @@
   "revisions": 1,
   "sha256": "011d925a87667fdafee6c3201486bbb6298657ac10d4b41ac92028e9e62bc8e6",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-07-house-election-by-6-9"
+ },
+ "0xef22ae9d58756e2cd2924234d2fa9609d1e609f449a4a607b9a4e9844e26967e": {
+  "created_at": "2026-11-13T00:30:07.323907Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Studio win Best Television Series \u2013 Comedy or Musical at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "28e5121c008b818267f37072bb0055cc786b7bf323cadbfeb95c29679c969193",
+  "slug": "will-the-studio-win-best-television-series-comedy-or-musical-at-the-84th-golden-globes"
  },
  "0xeff0b29ee73c8b321a4bdacd1781aedd89cbaa709c0d4c13927bce080f4fd47e": {
   "created_at": "2026-10-12T20:07:18.863913Z",

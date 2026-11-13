@@ -99,6 +99,15 @@
   "sha256": "9f70c715806b45f12ba78f94ebfa4ecfb5c25c2aa46bf91aabf9b8278e466e9a",
   "slug": "will-nightfaces-win-best-live-action-short-film-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x1a7db9e1aa4211a0870f7caa8716cdc98dc469da9156d624e5d8b4de9f56d2c7": {
+  "created_at": "2026-11-12T20:22:46.495661Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Le Show - Davido feat. Ayra Starr & French Montana win Best African Music Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8c8ec5587cbe39e9f7e5eae3307e220825a4e68a8224f6f54fccbaf39c915e8",
+  "slug": "will-le-show-davido-feat-ayra-starr-and-french-montana-win-best-african-music-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x1cf72e6dc805df2fcfeb5c3b00fcccc7dbbb784d5956f3460323063f314b99c7": {
   "created_at": "2026-05-11T20:12:30.777634Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -190,6 +199,15 @@
   "revisions": 1,
   "sha256": "d0c96a448f353edeefaff7424507fa06554dffb1ffd51ab88a8149a09af94c38",
   "slug": "el1-oxf-rea-2026-09-08-rea"
+ },
+ "0x262db39bb37995abc795ed7edcf8a6a2a8fc30ea37307beb59191a9b0854f6c7": {
+  "created_at": "2026-11-13T00:31:22.143794Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Iron Boy\" win Best Motion Picture - Non-English Language at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "595347e0e70da50563a074cea28f19feeee17ae879fc69445b8832bf20c8b9bc",
+  "slug": "will-iron-boy-win-best-motion-picture-non-english-language-at-the-84th-golden-globes"
  },
  "0x27d394a3f2d4a32850a1f567d1944b28c48a92540babbffc588743f063fe7ac7": {
   "created_at": "2026-05-26T18:53:59.987336Z",
@@ -773,6 +791,15 @@
   "sha256": "719a5aae1ce500ebfd049ad6ecb5dedb4746015aeb86b315efd1745deaa8813b",
   "slug": "ceedee-lamb-1500-scrimmage-yards-2026-27"
  },
+ "0x7b9e4a37bd55946852152eebf6d06a1da1a38304b3aba90f5069d3e784ffe8c7": {
+  "created_at": "2026-11-12T18:41:12.926478Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Egypt by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-egypt-by-december-31-2027"
+ },
  "0x7c6025863e650568a8d82c09206c1dbcaa32f1a83caf00f0d84406f5fc4c6cc7": {
   "created_at": "2026-08-05T10:53:30.693968Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -903,6 +930,7 @@
   "created_at": "2026-09-30T13:56:06.660675Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will global temperature increase by between 1.40\u00baC and 1.44\u00baC in October 2026?",
   "revisions": 1,
   "sha256": "0427c028f1df41e8292994e6f22e840e8c80df52bdbe8a9ef4938f4888f27893",
@@ -1192,6 +1220,7 @@
   "created_at": "2026-08-19T19:59:13.884745Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Democrats sweep the Kansas Senate and Governor elections?",
   "revisions": 1,
   "sha256": "6a6d8d5b8045123ce7efc5674ef0efd0c816ec6a7c3bae0574f414fa69a503f3",

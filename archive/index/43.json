@@ -125,6 +125,15 @@
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-uconn-reach-the-2027-ncaa-mens-basketball-final-four"
  },
+ "0x1de2e6bceb9157f1b7517d0241f1a7608c9d0cd8d55138adff4f644d645e9343": {
+  "created_at": "2026-11-12T20:23:21.605424Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Puerta Abierta - Kany Garcia win Best Latin Pop Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d2441f3a59afec9951e31f5439a10f2a5c64756135a599e4835a4e0254fde1bb",
+  "slug": "will-puerta-abierta-kany-garcia-win-best-latin-pop-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x1e1b2e973e7ac2919f4e4ceadb9e795035aa16fac6c5c593b102b98b5dd1e643": {
   "created_at": "2026-10-08T21:58:47.661015Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -154,6 +163,15 @@
   "sha256": "4a90d1c2db75f71506fc1c06af80b3b34de1196dd77e8d2509aaaf525e038ab9",
   "slug": "will-minnesota-united-fc-win-the-2026-mls-western-conference"
  },
+ "0x263e57efcc39cdf7329b9003e732527b2961b3c4a9569709ca5eb8b6818a6843": {
+  "created_at": "2026-11-13T00:30:21.429375Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Keri Russell win Best Actress \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "4cb090c949ab3de1a78923bc9d368d14a8516c9769a931175f044c28e80a0441",
+  "slug": "will-keri-russell-the-diplomat-win-best-actress-television-drama-at-the-84th-golden-globes"
+ },
  "0x2c68820826af5b75605b51db33296dde93d700a691b16e4ed131dc7ddfd50043": {
   "created_at": "2026-08-07T19:11:50.606377Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -171,6 +189,15 @@
   "revisions": 1,
   "sha256": "bd195b365a95bae61b4f500f6f574266a9a516f4f26cd86122d0c8247bfa614f",
   "slug": "will-agf-be-relegated-from-denmark-superliga-2026-27"
+ },
+ "0x330ddaf2fbc8b858d00a5ad6c22b50ecbe5f2e6ebf3c2f9760df6bbc7a4e0643": {
+  "created_at": "2026-11-12T20:22:04.223695Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Kehlani - Kehlani win Best R&B Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d9b59d96cf57c9d5d3a0f6a60c96147254f5f94a839c857344b9df3ce6fb3583",
+  "slug": "will-kehlani-kehlani-win-best-randb-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x34004ea822a1b19ef64d1784c38ec91ff03fcc9c4296be6f2c6f5a54d1065143": {
   "created_at": "2026-09-27T20:11:15.845962Z",
@@ -1181,6 +1208,7 @@
   "created_at": "2026-02-06T22:38:13.901053Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Bruce Arena win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",

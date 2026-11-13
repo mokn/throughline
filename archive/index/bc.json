@@ -138,6 +138,7 @@
   "created_at": "2026-02-18T17:37:41.407851Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Matt Freese win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -696,6 +697,15 @@
   "sha256": "18c425994c6fcaf862c271f1828d8137c6f497258bef9247cebf1735ea903188",
   "slug": "nba-2026-27-apg-leader-derrick-white"
  },
+ "0x81159214357924e9f1c179da80bbb1ed156ceb1baa43529a0f53c79c0421e2bc": {
+  "created_at": "2026-11-13T00:29:22.275118Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Michael win Best Motion Picture \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6b55eede1b5c82c1ecedb31f7ecc7e8e00031e199c130f5f7d67ca5466155e00",
+  "slug": "will-michael-win-best-motion-picture-drama-at-the-84th-golden-globes"
+ },
  "0x83517f563fd97744b26c337fcea2dc6fe0743b229ba5f5cdb7ad6c96961436bc": {
   "created_at": "2026-09-27T20:11:52.561745Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -767,6 +777,15 @@
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
   "slug": "cdr-bad-cdt-2026-10-28-exact-score-4-5"
+ },
+ "0x942a480580b921c0578a2f15de1c177750f5bca63e3c637b6ba26daa2cb299bc": {
+  "created_at": "2026-11-12T23:54:06.267859Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will South Korea's SA Unemployment Rate increase between October and November 2026?",
+  "revisions": 1,
+  "sha256": "77a86be11928f3d8b3addda33565b45ed87ee072083a24fa526afc3768bdb6c8",
+  "slug": "will-south-koreas-sa-unemployment-rate-increase-between-october-and-november-2026"
  },
  "0x945b03e59056e7c417e7e13ebc13ae8e86ea1927b18cc15f904aa82528457bbc": {
   "created_at": "2026-02-18T17:10:54.6876Z",

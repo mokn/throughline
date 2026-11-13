@@ -217,6 +217,15 @@
   "sha256": "d49a6d6a7dd1f96aea6bb72f7050aeaea32ccb86c12508937230c6c43fd15ea8",
   "slug": "nba-team-to-reach-2026-nba-cup-championship-game-phoenix-suns"
  },
+ "0x1e3be0397affe6042cdaef972b7dda43b9bfd39439433362348f54c5fc7bd4c9": {
+  "created_at": "2026-11-13T00:43:03.570483Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Rei Ami appear at the 2026 NFL Christmas Day halftime show?",
+  "revisions": 1,
+  "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
+  "slug": "will-rei-ami-appear-at-the-2026-nfl-christmas-day-halftime-show"
+ },
  "0x1e8466729b58250bc848d92e27020db44aa9814b8fec383b72a14d1be14995c9": {
   "created_at": "2026-07-20T19:28:18.903104Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -495,6 +504,7 @@
   "created_at": "2026-02-18T17:37:44.521449Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Zack Steffen win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -562,6 +572,15 @@
   "revisions": 1,
   "sha256": "7a63d105cc49757e66e1daf87155be2e7e215f3b02d8156919aaedb85b4cb9d4",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-20-house-election-by-30-35"
+ },
+ "0x56a6d6a3f8a4f325676f52ca80f09fdd5dbb687173bcc8a3f03338e565696bc9": {
+  "created_at": "2026-11-12T20:20:02.852747Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Safe - Cardi B feat. Kehlani win Best Melodic Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "67f413587d235a7007d5c1a6d6128f5c4ef24749eb11916d6ab584cbc322b61e",
+  "slug": "will-safe-cardi-b-feat-kehlani-win-best-melodic-rap-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x56b837693e8c63c9f71aadd04b974ac7df6365c23b36ddca5e528f0b2d8b06c9": {
   "created_at": "2026-04-20T22:36:53.73747Z",
@@ -1722,6 +1741,7 @@
   "created_at": "2026-02-06T22:38:08.095489Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Marc Dos Santos win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",

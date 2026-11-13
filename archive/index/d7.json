@@ -819,6 +819,7 @@
   "created_at": "2026-02-06T22:22:39.028398Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Sean Nealis win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1001,6 +1002,7 @@
   "created_at": "2026-09-02T21:58:25.917662Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Temple Owls advance to the 2026 American Conference Championship Game?",
   "revisions": 1,
   "sha256": "074aa9d694fa78ac108b369319fb67219e9134c34280ae00e16f02c8bf5e46a8",
@@ -1050,6 +1052,15 @@
   "revisions": 1,
   "sha256": "b3ffeeba09f89a4d2acd201984e0d3da3267b68e16e5ca4bb8c13dee022cf686",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-19-house-election-by-10-20"
+ },
+ "0x9ffa12f6edb0b1956190b25a19e38a63b22a077a90324f31f18d0f99367d9ad7": {
+  "created_at": "2026-11-12T20:23:38.73545Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will DOSIS - Xavi win Best Musica Mexicana Album (Including Tejano) at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d73aca3ad5307d8b5c10dbdc6012a0ab516795da78940a560ce08c34d59b71e8",
+  "slug": "will-dosis-xavi-win-best-musica-mexicana-album-including-tejano-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xa1c86530ca1b0f62f429efc6757c44821a7b5f2aea1546c9d3735ba73bd710d7": {
   "created_at": "2026-09-08T16:53:13.951474Z",
@@ -1455,6 +1466,7 @@
   "created_at": "2026-02-18T17:37:46.493484Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Novak Mi\u0107ovi\u0107 win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -1684,6 +1696,15 @@
   "revisions": 1,
   "sha256": "af580f6e24e481b7fb249344673d3f0f75da3decf65be8face22d5b5772e133c",
   "slug": "will-fcsb-be-relegated-from-romania-superliga-2026-27"
+ },
+ "0xf54da71be9f5c56e8222f173cb7afcc71176c5f5ada207a4a755db9756f1e9d7": {
+  "created_at": "2026-11-13T00:31:09.611269Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jessica Williams win Best Supporting Actress \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c9bc492e6569d31177f6be3f9965619663e806f47d9da629cb3ae6069fe9f203",
+  "slug": "will-jessica-williams-shrinking-win-best-supporting-actress-television-at-the-84th-golden-globes"
  },
  "0xf7798d8222cbd50dcfe759149f23fab55071bb31eed86184ccaeca7ebd6f6cd7": {
   "created_at": "2026-08-05T15:35:09.393357Z",

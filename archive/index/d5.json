@@ -35,6 +35,15 @@
   "sha256": "89372f39c87b98de7075bba551a43537a4e44740041efd3d150123332a358c92",
   "slug": "will-the-republican-party-candidate-win-the-2026-oh-05-house-election-by-10-15"
  },
+ "0x0283bf74fb9436c148602d748efda4e72480465ba9efdea3b5f3f3e67a1c91d5": {
+  "created_at": "2026-11-12T20:19:01.911824Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will U - underscores win Best Dance/Electronic Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "72dff87a647eb25830b3caf5872dcf47cb9ca1f4082e70bafb45313dcbbacc2e",
+  "slug": "will-u-underscores-win-best-dance-electronic-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x0388879d4a1f1a1bf774361a510059f1a2f1b9964d5313da32f0aba51c1ee3d5": {
   "created_at": "2026-02-05T21:47:56.381297Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -594,6 +603,7 @@
   "created_at": "2026-02-06T22:22:34.793511Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Jakob Glesnes win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1074,6 +1084,7 @@
   "created_at": "2026-02-06T22:38:04.856769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Ren\u00e9 Weiler win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -1087,6 +1098,15 @@
   "revisions": 1,
   "sha256": "83be69560479a2c3e26bdbf31972021d5d43129cd0adc98aedac4c07f16b4f1a",
   "slug": "chris-olave-3pt5-receiving-touchdowns-2026-27"
+ },
+ "0xa871b56ddc8d185899107b783caedc19bae20c7389e906b846488450ffb73dd5": {
+  "created_at": "2026-11-12T20:22:11.396651Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sleepless in a Hotel Room - Luke Combs win Best Country Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "591a6f033bd94af41d74637af4a215a470e13069f2a95d2b704a6778808e2159",
+  "slug": "will-sleepless-in-a-hotel-room-luke-combs-win-best-country-song-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xa9cd0c9ef05fd4d9654ee8d960a84c4d6b68761137484289c89400742b1c98d5": {
   "created_at": "2026-01-28T15:40:53.156813Z",
@@ -1142,6 +1162,15 @@
   "revisions": 1,
   "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
   "slug": "will-carter-verhaeghe-record-50-goals-in-the-2026-27-regular-season"
+ },
+ "0xae665d9a3ef24b6fb531ac1d3b55fa1ea9741c7d1f3a072c3e0e46aba23139d5": {
+  "created_at": "2026-11-12T18:41:08.201327Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in India by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-india-by-december-31-2027"
  },
  "0xaea52eb0558e3be166d61a297c8680b9d5cdd083df60335474383f38cd48cad5": {
   "created_at": "2025-11-24T21:41:59.900976Z",
@@ -1679,6 +1708,7 @@
   "created_at": "2026-10-02T20:14:22.844013Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Breathe have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

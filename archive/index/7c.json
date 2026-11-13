@@ -256,6 +256,15 @@
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",
   "slug": "will-portugal-be-relegated-from-nations-league-a-in-2026-27"
  },
+ "0x2c37524d0f90b629f17e2c6219f646703e2151452f1a7973e8e03932e9a14a7c": {
+  "created_at": "2026-11-13T00:00:58.513168Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the Bank of Korea make no change to the base rate at the April meeting?",
+  "revisions": 1,
+  "sha256": "4f05d22add5cf732c3f746acf1d6967625b38133499bd062f0a0870e364d4805",
+  "slug": "will-the-bank-of-korea-make-no-change-to-the-base-rate-at-the-april-2027-meeting"
+ },
  "0x2de0bb5361303fa15d1c7bec86f94aae7437f3ed94a0428c5fc910c8a230d47c": {
   "created_at": "2026-08-18T14:57:58.741545Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -418,6 +427,15 @@
   "revisions": 1,
   "sha256": "eb96b386a5440c355c458ec0c89fa1a1a8c1796d3793fc00949c2cfea443e518",
   "slug": "xavier-worthy-1049pt5-receiving-yards-2026-27"
+ },
+ "0x3e02d7f599b61fdf0d7009cdb1f25a43296d93f2ccafa6095bd9f5fc5010e27c": {
+  "created_at": "2026-11-13T00:30:50.084473Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jamie Bell win Best Actor \u2013 Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "b875c86a7ea8924ad3dd2639e5c810fdb5751ebff6e2f6d73db053e86a9d6319",
+  "slug": "will-jamie-bell-half-man-win-best-actor-limited-series-at-the-84th-golden-globes"
  },
  "0x4057a1df81a31d326068f516202d7836031724fc21ca9ca0fc008f8f84e2987c": {
   "created_at": "2026-03-26T15:41:34.943375Z",
@@ -1562,6 +1580,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-jaylen-brown"
+ },
+ "0xe3d0db2fb0d68d50e9f4ab6cc7ebff37d73121ed5faeb0f448fdcab0b1aa727c": {
+  "created_at": "2026-11-13T00:30:09.992361Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Ted Lasso win Best Television Series \u2013 Comedy or Musical at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "28e5121c008b818267f37072bb0055cc786b7bf323cadbfeb95c29679c969193",
+  "slug": "will-ted-lasso-win-best-television-series-comedy-or-musical-at-the-84th-golden-globes"
  },
  "0xe5fbcaf9e6eee30018a5e19d9e96296c7fd6be8502f8c8239a80a3108198417c": {
   "created_at": "2026-01-29T21:06:43.624594Z",

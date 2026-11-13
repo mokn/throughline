@@ -515,6 +515,7 @@
   "created_at": "2026-09-09T15:52:48.146605Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Oliver Glasner be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
@@ -1179,6 +1180,15 @@
   "sha256": "b3dcfda32ab4f0b113cd3e73ee93500e077418d61393fc2c1571eb3499353c60",
   "slug": "najib-razak-released-from-house-arrest-by-june-30-2027"
  },
+ "0xb0796b9793c124b6325b201fb0e1dcc9971b4db694456534fd645ec3f4d34556": {
+  "created_at": "2026-11-13T00:30:38.525695Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will DTF St. Louis win Best Television Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "fa7585ea89db4c789e4f72fa38188bee8c8573ce7405aef1c9e6440d950bbe87",
+  "slug": "will-dtf-st-louis-win-best-television-limited-series-at-the-84th-golden-globes"
+ },
  "0xb1f9f15933449b1ecef5b08144944d162c72d1e5b40e6396a5bf3f7a8b6c9156": {
   "created_at": "2026-09-18T00:05:15.464456Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1233,6 +1243,15 @@
   "revisions": 1,
   "sha256": "2400e1c5d44c3237f08de2f262fc6a769cf628dec7d245eab00f0a9892d48fe8",
   "slug": "will-sunderland-finish-first-in-uel-league-phase"
+ },
+ "0xb7fb1256569b402649e7f9a50afaf6e8d8ef1b4ff92c86f34980766cb6e41656": {
+  "created_at": "2026-11-13T00:43:05.185471Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will National Coalition Party win the most seats in the 2027 Finnish parliamentary election?",
+  "revisions": 1,
+  "sha256": "38c42c6de399f846125ffd92daec1b4db401bed190baae908a6427a13496eef3",
+  "slug": "will-national-coalition-party-win-the-most-seats-in-the-2027-finnish-parliamentary-election"
  },
  "0xb8933aa82d852562744bc2858e9375148f4a783900827d91f476971f447bcb56": {
   "created_at": "2026-08-11T19:04:23.285541Z",
@@ -1477,6 +1496,15 @@
   "revisions": 1,
   "sha256": "12cd7c23cc9fdb8ee209500cb7e572cf2f40644376e876e8dbec7303af8ac4d5",
   "slug": "will-kawasaki-frontale-finish-17th-in-japan-j-league-2026-27"
+ },
+ "0xe1ea9572020e3fac2f171c823ea36517f4c780ae62cd4be1cf67ff2cd09da456": {
+  "created_at": "2026-11-12T20:23:31.634232Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Do Not Disturb - Young Miko win Best Musica Urbana Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8d8b22c91f4ff74099365b99cfed0ae0abcfcc9a53b5543426eb61974dbc6f5",
+  "slug": "will-do-not-disturb-young-miko-win-best-musica-urbana-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xe1ec22d5b0b0e64d1d93994c3be19497a8c29c0dacd32bc4079e81fd8bbac156": {
   "created_at": "2026-10-13T19:55:49.47078Z",

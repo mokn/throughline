@@ -887,6 +887,15 @@
   "sha256": "d902db81bbbee656a0286e3fb77ae952cc2c455e228d2311c85cc97463479567",
   "slug": "will-the-republican-party-candidate-win-the-2026-mn-08-house-election-by-18-21"
  },
+ "0x98ad597a1ca1e1a22bfc8f9de3fe833f243a7e4b0b38130208d1bee22dde7242": {
+  "created_at": "2026-11-13T00:35:10.336575Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Toy Story 5 win Best Original Score \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "de88a60b19ce31d141aab26b385fe06bf50e51181824d28f3c7d70e839146104",
+  "slug": "will-toy-story-5-win-best-original-score-motion-picture-at-the-84th-golden-globes"
+ },
  "0x98d54453621129d07bfda4840fb6aa59f98fd90663e7fa5ab4541b7ed21da642": {
   "created_at": "2026-05-21T20:15:56.316742Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -992,6 +1001,7 @@
   "created_at": "2026-11-11T01:19:25.832871Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the next Gemini model family be named Gemini Hyperion?",
   "revisions": 1,
   "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
@@ -1334,6 +1344,15 @@
   "sha256": "db85758eb4279ad22d92522a384525b048e4bb84090b422ded0c31c05321b0f2",
   "slug": "will-philipp-kohn-monaco-record-the-most-clean-sheets-in-the-2026-27-ligue-1-season"
  },
+ "0xe5c4bc54cfabe8833a633158b7032bd94979dab99d440422932eea4fa36a0542": {
+  "created_at": "2026-11-13T00:35:37.945605Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"The Odyssey\" win the award for Cinematic and Box Office Achievement at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "94c85e893460516dd29364438df1d8eb10e02179d18bcc98d31dc087517d7832",
+  "slug": "will-the-odyssey-win-the-award-for-cinematic-and-box-office-achievement-at-the-84th-golden-globes"
+ },
  "0xe9d6dbd759eabf839e3487cbe3989dfd0c48e990af7be808c8beef44ac17f142": {
   "created_at": "2026-08-07T16:02:00.147279Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1356,6 +1375,7 @@
   "created_at": "2026-08-10T23:56:58.481685Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Cameron Skattebo have 2.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "8f3b381245681b17848bb563f7f5702b62b4513cb52e311c3e6f9385cb99ee49",

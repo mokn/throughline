@@ -253,6 +253,15 @@
   "sha256": "07fa6c93886e79a7dcc75aea4cd065793327718a75d9aa6d119a60769be0a057",
   "slug": "nba-2026-27-most-improved-player-egor-demin"
  },
+ "0x2a256c18683ff955f02072cd9969a52d5770b9301e3e557065330442d1c067f0": {
+  "created_at": "2026-11-12T20:23:14.950804Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will HOPE!! - Angelique Kidjo win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-hope-angelique-kidjo-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x2b0cad810403b22bf530869272aff24f17ab1721c0e27e4ece6687f5a466f2f0": {
   "created_at": "2026-08-24T16:32:34.990342Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1555,6 +1564,15 @@
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
   "slug": "el1-bra-bar-2026-09-26-exact-score-0-2"
+ },
+ "0xef5c276907df42b2dc56219e2aabd2110d7c36ff9069e61e8bbfb3f6b27412f0": {
+  "created_at": "2026-11-12T20:23:34.181749Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Femme Fatale - Mon Laferte win Best Latin Rock or Alternative Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d01bc031f78b9b4aad2f5827a496a58351d4926d5e5d57aa4a793bfd77e3a449",
+  "slug": "will-femme-fatale-mon-laferte-win-best-latin-rock-or-alternative-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xf0d79a9b5d61f90bff52b028087b7ea6067cd9a3eeae43c1c38a344e796116f0": {
   "created_at": "2026-08-07T20:12:08.427154Z",

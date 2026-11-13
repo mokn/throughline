@@ -21,6 +21,7 @@
   "created_at": "2026-10-02T20:14:29.032276Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Supa have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -159,6 +160,7 @@
   "created_at": "2026-08-11T19:03:55.002234Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Democratic Party candidate win the 2026 VT-AL House election by 30%-35%?",
   "revisions": 1,
   "sha256": "c16e91e6b9f41ac95787668ffff3090dc8c4c5e51733c690906ba24439d37e0c",
@@ -364,6 +366,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-mississippi-state-have-more-than-6pt5-wins-during-the-2026-cfb-season-20260810194026784"
  },
+ "0x3c38537683335c55f8e43dc999ba16d6e2a4063d7174a5f60f1ee1ef002574ac": {
+  "created_at": "2026-11-12T20:20:20.758854Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Helicopter - A$AP Rocky win Best Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "46feb1c24590baccf3560275922b3760ed3e129242c76933a2c5327d1cb19e92",
+  "slug": "will-helicopter-asap-rocky-win-best-rap-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x3d892d257b4fe55b9fd5f43a5b9bce2518d7f6398cb0fb81dd27796a383037ac": {
   "created_at": "2026-08-17T21:04:39.76664Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -472,6 +483,15 @@
   "sha256": "419d23705fec2a1b4692e78f953a0ffa619990b4c4f99c1ab65674356f743fdc",
   "slug": "spl-abh-kho-2026-10-19-exact-score-3-1"
  },
+ "0x4cce288b6430a680af2064477caa0426e317e446e408c1284407200d519392ac": {
+  "created_at": "2026-11-13T00:30:12.291445Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Noah Wyle win Best Actor \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "e688ca737373350f605cffbe85396233f7808fe2802eef466d9c6ad33d94af1c",
+  "slug": "will-noah-wyle-the-pitt-win-best-actor-television-drama-at-the-84th-golden-globes"
+ },
  "0x4de91b7b09677c97dbe0c75f81da0733de80f009d5d9eb2717fe5c3c4123d4ac": {
   "created_at": "2026-10-15T10:17:19.687808Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -543,6 +563,15 @@
   "revisions": 1,
   "sha256": "9dc1594e4cdd259a4f2da4836ce5f116e23eb77749691e678ed14797c713a685",
   "slug": "will-chicago-bulls-advance-to-the-eastern-conference-finals-in-the-2027-nba-playoffs"
+ },
+ "0x555094f741e5010cddd9c3edbfad3551967736fae54032ec2d22741f34b422ac": {
+  "created_at": "2026-11-12T20:55:52.341977Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic sell between 825M and 850M shares in its IPO?",
+  "revisions": 1,
+  "sha256": "ecfe7f994bb7704ef970912a1d8aa094412e754f4ea7ef60c882ab69f1084400",
+  "slug": "will-anthropic-sell-between-825m-and-850m-shares-in-its-ipo"
  },
  "0x55b407610e47aa6f7363c16678773a9b29704dc0c610d759c24bca5dc82dc8ac": {
   "created_at": "2026-10-13T15:51:00.710607Z",
@@ -624,6 +653,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-washington-commanders-have-more-than-8pt5-wins-during-the-2026-nfl-season"
+ },
+ "0x65345fc617268fc8a42937c1eea92c18bf8bdce76e9e503c34fe94f18d67acac": {
+  "created_at": "2026-11-10T02:14:47.600436Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Johny Srouji be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-johny-srouji-be-the-next-ceo-of-nvidia"
  },
  "0x681eaa3a89c9ea6ebb8c0eefb73dec110a898e87e855d190990e30106bf6acac": {
   "created_at": "2026-10-15T17:02:01.705456Z",
@@ -1024,6 +1062,15 @@
   "sha256": "8537551c9b3119014e67cd3bba0e6b2cd02829422578865cc08d74d6f6b8edd8",
   "slug": "will-arirang-bts-be-the-top-spotify-album-for-2026"
  },
+ "0xa1ce372c8277265d90cc622451d7d3e66a2c6f430061437d5193aac7427f29ac": {
+  "created_at": "2026-11-12T20:19:02.312344Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Odyssey - ILLENIUM win Best Dance/Electronic Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "72dff87a647eb25830b3caf5872dcf47cb9ca1f4082e70bafb45313dcbbacc2e",
+  "slug": "will-odyssey-illenium-win-best-dance-electronic-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xa23696b51c4e6dd2c37794fdbdddf399bb4a6fd714b250f0e660bc43943790ac": {
   "created_at": "2026-08-10T14:53:03.002018Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1160,6 +1207,15 @@
   "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
   "slug": "will-wti-reach-125-in-november-2026"
  },
+ "0xc061ad14cf5d68e9f675ddf19bf30c14293e80665fa0d0b0ab80812e625c9bac": {
+  "created_at": "2026-11-13T00:29:51.106651Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jason Segel win Best Actor \u2013 Television Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c41e77269818a8c3eed007ff18d753454d019fb138b1d10bf787e4bd8b06f6bc",
+  "slug": "will-jason-segel-shrinking-win-best-actor-television-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0xc0731487bc737e22d7101193144858ddd687ff4ffbd8e231758dbce9715370ac": {
   "created_at": "2026-06-10T19:12:35.51949Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1278,6 +1334,15 @@
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",
   "slug": "will-nanjing-city-be-promoted-to-chinese-super-league-2026"
+ },
+ "0xd54e0881f485d6f26861efbe4ced92497bbfba3d1ecfc6d3ce2f52a9456f44ac": {
+  "created_at": "2026-11-13T00:30:23.804504Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Emma D\u2019Arcy win Best Actress \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "4cb090c949ab3de1a78923bc9d368d14a8516c9769a931175f044c28e80a0441",
+  "slug": "will-emma-d-arcy-house-of-the-dragon-win-best-actress-television-drama-at-the-84th-golden-globes"
  },
  "0xd55bf7baa061900435fbaa12405f0e24b953d9a47e297fff25644cef01b041ac": {
   "created_at": "2026-09-20T08:45:13.199279Z",
@@ -1521,6 +1586,7 @@
   "created_at": "2026-08-11T19:03:54.500899Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Democratic Party candidate win the 2026 VT-AL House election by 40%-45%?",
   "revisions": 1,
   "sha256": "c16e91e6b9f41ac95787668ffff3090dc8c4c5e51733c690906ba24439d37e0c",

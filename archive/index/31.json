@@ -237,6 +237,7 @@
   "created_at": "2026-02-06T22:38:06.434864Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Ben Olsen win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -286,6 +287,15 @@
   "revisions": 1,
   "sha256": "47704f31b1a0ba2b3b5799179481daea9c571d0e61b0b154e9a73354044e704e",
   "slug": "will-the-republican-party-candidate-win-the-2026-wi-05-house-election-by-30-35"
+ },
+ "0x2c80088cecdf6f19619c71de93b2ee69602707dbf16b97ce7f3e0247ae723831": {
+  "created_at": "2026-11-13T00:30:09.58453Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Only Murders in the Building win Best Television Series \u2013 Comedy or Musical at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "28e5121c008b818267f37072bb0055cc786b7bf323cadbfeb95c29679c969193",
+  "slug": "will-only-murders-in-the-building-win-best-television-series-comedy-or-musical-at-the-84th-golden-globes"
  },
  "0x2d5c5ae560fbf55174ebff5971950637e6f9c686dcf8eb44be9800e64b630331": {
   "created_at": "2026-10-01T23:13:35.357387Z",
@@ -363,6 +373,7 @@
   "created_at": "2026-10-02T20:14:18.446101Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Zeus have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -457,6 +468,15 @@
   "revisions": 1,
   "sha256": "4c0a348e45e533ce5efb754760cffcc56762480d6ef2cc403443891a4364c2d5",
   "slug": "will-getafe-finish-3rd-in-laliga-2026-27"
+ },
+ "0x490755669ca3402ec50170a42fe41822f6c8dee40f2f44294779fd2c10977031": {
+  "created_at": "2026-11-12T20:19:38.020641Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Here For It All - Mariah Carey win Best Traditional R&B Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "a45e64cb2142fbd19c427265120c3c01eb8aedc3b43da6327838be8bcf90888f",
+  "slug": "will-here-for-it-all-mariah-carey-win-best-traditional-randb-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x49848f5ca150f8a7255cf18fd595b8ec031258ad6265667febd4ceb461465531": {
   "created_at": "2026-08-12T00:09:02.167289Z",
@@ -1004,6 +1024,15 @@
   "revisions": 1,
   "sha256": "230d749d07c51af3981201c595ec595d57925626bc7a42056e2731d852dffc67",
   "slug": "israel-military-action-against-yemen-by-december-31"
+ },
+ "0xae0d4ec07f75fe4893dea075b733da033b6c1859ba7d026d1f04815d14ef4031": {
+  "created_at": "2026-11-13T01:37:18.288445Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sam Morril win Best Performance in Stand-Up Comedy on Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "00915a05e9edf7dd49ed0f6f406a6e3ea4b367c6136ca44e094c18038eb59ebe",
+  "slug": "will-sam-morril-incorrect-win-best-performance-in-stand-up-comedy-on-television-20261112"
  },
  "0xae193b181a817294d5eb7bf4e166a2aae53bd11c012f2e1c4f76cba6569ef531": {
   "created_at": "2026-08-26T21:46:53.652753Z",

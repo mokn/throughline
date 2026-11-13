@@ -89,6 +89,15 @@
   "sha256": "2e5b933f7e86f7290576669cc1b424f623b0b329c8ca9ed349c69d7ae264d207",
   "slug": "davante-adams-374pt5-receiving-yards-2026-27"
  },
+ "0x071066c0afe762977f31f534caebbebf4045c7ec4e2d106ccf274475c68637ae": {
+  "created_at": "2026-11-13T00:35:41.669202Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Avengers: Doomsday\" win the award for Cinematic and Box Office Achievement at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "94c85e893460516dd29364438df1d8eb10e02179d18bcc98d31dc087517d7832",
+  "slug": "will-avengers-doomsday-win-the-award-for-cinematic-and-box-office-achievement-at-the-84th-golden-globes"
+ },
  "0x08c8b605f339696bee227cc47549779157c0d2abf68600dd46e30fedf57b69ae": {
   "created_at": "2026-10-13T16:04:27.945588Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -295,6 +304,7 @@
   "created_at": "2026-10-02T20:14:30.014369Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Yike have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -426,6 +436,15 @@
   "revisions": 1,
   "sha256": "a9173ab19967cac94840403440748a684be83847c84ca88940bade6e4fdff8c2",
   "slug": "ukr1-met-kar-2026-11-07-team-total-home-0pt5"
+ },
+ "0x30bb88ffae1055302c132f6cefa5a176f484d9c615eeefcf863dadb14c527fae": {
+  "created_at": "2026-11-13T00:28:45.074543Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Tender Loving Care win Best Motion Picture \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
+  "slug": "will-tender-loving-care-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0x316e875f78a14d7af0f5f7b036a202fe259efc5c988742029b0faaacf531f2ae": {
   "created_at": "2026-08-17T21:27:13.005532Z",
@@ -685,6 +704,7 @@
   "created_at": "2026-02-06T22:38:01.612263Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Nico Est\u00e9vez win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -1480,6 +1500,15 @@
   "sha256": "1ffadafa6a92a1e57bfee5a5a7cc0b4ca1ea986d2c13341ea5e2993a71b93cb9",
   "slug": "will-nicolas-castro-toluca-record-the-most-assists-in-the-2026-27-liga-mx-season-20260729155134754"
  },
+ "0xdf249e403e0befb193b5e6f23b91e03686c30c713a56db4f0541a1d66966a3ae": {
+  "created_at": "2026-11-13T00:31:05.611651Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Rebecca Hall win Best Actress \u2013 Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "ca1782a77322d8471b9d1d04a14fb31e7c59a5f6999b0fb45d24adf5c0357d09",
+  "slug": "will-rebecca-hall-monster-the-lizzie-borden-story-win-best-actress-limited-series-at-the-84th-golden-globes"
+ },
  "0xdf5d227acb1fe0f1940765dc75ee36f472417acb2e5d54fe6ad87b214b5747ae": {
   "created_at": "2026-09-08T16:53:13.600694Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1637,6 +1666,7 @@
   "created_at": "2026-02-06T22:22:31.223907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Dave Romney win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",

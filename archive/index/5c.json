@@ -199,6 +199,7 @@
   "created_at": "2026-10-02T20:14:34.557509Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Harky have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -276,6 +277,15 @@
   "revisions": 1,
   "sha256": "e62f0bf1203b632d80728525cf098565c1ddac12ba90898074156331126d2d90",
   "slug": "drake-london-5pt5-receiving-touchdowns-2026-27"
+ },
+ "0x3ca8cfe2a46499eb89741e3485374bc2c743548c0964556946cbd1a5613ae85c": {
+  "created_at": "2026-11-13T00:35:41.210095Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Mr. Irrelevant\" win the award for Cinematic and Box Office Achievement at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "94c85e893460516dd29364438df1d8eb10e02179d18bcc98d31dc087517d7832",
+  "slug": "will-mr-irrelevant-win-the-award-for-cinematic-and-box-office-achievement-at-the-84th-golden-globes"
  },
  "0x3e47d86e41bb8828884e4e23e34b54da2342181ad8430e554894bf20f361c95c": {
   "created_at": "2026-08-06T08:29:21.951305Z",
@@ -692,6 +702,15 @@
   "revisions": 1,
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-adrian-kempe-win-the-2026-27-art-ross-trophy"
+ },
+ "0x6c37b5861076c4c65b28ca15c2c460886f78997424834b4f6d0bdc086589395c": {
+  "created_at": "2026-11-13T00:00:59.581982Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the Bank of Korea increase the base rate by 50+ bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "4f05d22add5cf732c3f746acf1d6967625b38133499bd062f0a0870e364d4805",
+  "slug": "will-the-bank-of-korea-increase-the-base-rate-by-50-bps-at-the-april-2027-meeting"
  },
  "0x6d15f847c1e9dcf1006663107fd78d79e186b7aa48c1b17d473ea25aea21fc5c": {
   "created_at": "2026-08-28T05:56:18.671267Z",
@@ -1502,6 +1521,15 @@
   "revisions": 1,
   "sha256": "28325ed7bd4785b8ae289ecbff1a69667a853b6c03d32b46513f2d1f947fecd4",
   "slug": "spl-riy-hil-2026-10-16-exact-score-4-1"
+ },
+ "0xf90071a27eaa5e3ea4b3b4596831b87486e184d5195e431d1ef55b06abce995c": {
+  "created_at": "2026-11-13T01:35:02.843508Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Spend Dat - Yung Miami win Best Rap Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "2e5dc6cc5a75b03a3c605e65e55c70f53dc98ce38c8b04280478a41e86bd3c53",
+  "slug": "will-spend-dat-yung-miami-win-best-rap-song-at-the-69th-annual-grammy-awards-20261112"
  },
  "0xfa34a63234463e21092c21c8d4a715da758f27db0a8e595a8ec2eecf7b72825c": {
   "created_at": "2026-09-09T15:48:24.815686Z",

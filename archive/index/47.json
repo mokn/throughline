@@ -84,6 +84,7 @@
   "created_at": "2026-10-02T20:14:40.534282Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Ackerman have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -426,6 +427,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-alex-sarr"
  },
+ "0x4ad9bc8e3e0544dbf7c5df4ee556e94bfc55f3b4d626a4523cdf865d48d99047": {
+  "created_at": "2026-11-13T00:29:15.870443Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Tony Gilroy win Best Director at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "cfc64e188beb72f6781e90cd3c4579850fbbb483c8263e85c2e1a48369a216f8",
+  "slug": "will-tony-gilroy-behemoth-win-best-director-at-the-84th-golden-globes"
+ },
  "0x4b49f4802f631cc5f356f54baacb6e678ca2403abf937cfef5399592f0c9e447": {
   "created_at": "2026-09-30T20:06:41.349213Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -493,6 +503,7 @@
   "created_at": "2026-02-18T17:37:43.90792Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Sean Johnson win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -1114,6 +1125,15 @@
   "sha256": "8537551c9b3119014e67cd3bba0e6b2cd02829422578865cc08d74d6f6b8edd8",
   "slug": "will-deb-tirar-ms-fotos-be-the-top-spotify-album-for-2026"
  },
+ "0xb73a7b03382e72c7b788410d133f62a7ec3b41239564606fda6c0d2c94651647": {
+  "created_at": "2026-11-12T22:43:30.110018Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang join Apple next?",
+  "revisions": 1,
+  "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
+  "slug": "will-jensen-huang-join-apple-next"
+ },
  "0xb7d4115e668457135c1d82a44891a947a794691a3924427689e7d3ded9a75847": {
   "created_at": "2026-08-27T23:06:48.653673Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1496,6 +1516,15 @@
   "revisions": 1,
   "sha256": "b05400ea6c544a8bde4aeeda16d00104d257594b0e06e9fa79e81d3f17ec1f86",
   "slug": "terry-mclaurin-1000-receiving-yards-2026-27"
+ },
+ "0xe3acc68f76e8bbb64c600cb07d63809814c09d2061e8507e3a97395c99da5f47": {
+  "created_at": "2026-11-12T20:23:32.328735Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Olas de Luz - Draco Rosa win Best Latin Rock or Alternative Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d01bc031f78b9b4aad2f5827a496a58351d4926d5e5d57aa4a793bfd77e3a449",
+  "slug": "will-olas-de-luz-draco-rosa-win-best-latin-rock-or-alternative-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xe3ce0d4f0acbecd2705299e7e2699a241822f4747d7883ee9bdbe33827123047": {
   "created_at": "2026-09-07T15:06:36.630127Z",

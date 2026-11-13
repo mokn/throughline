@@ -451,6 +451,7 @@
   "created_at": "2026-10-20T23:03:20.890159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for Team Envy in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
@@ -724,6 +725,7 @@
   "created_at": "2026-07-01T22:31:54.152101Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "California Recall Election Reform Proposition",
   "revisions": 1,
   "sha256": "4bec0d6cfdda531dff93810f92d350558ec85f4a3164a0bde2d528b198e79d95",
@@ -964,6 +966,15 @@
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
   "slug": "el1-bra-bar-2026-09-26-exact-score-3-1"
  },
+ "0xa34eb0a6510e6d940dc9b15fa12019d1e11af6289bb39742d02227e284962d9e": {
+  "created_at": "2026-11-13T00:31:01.981879Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Nick Offerman win Best Supporting Actor \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "8fc63d637eb4b834786d92a3edbfa36ad17ef4bb8f9b0b284a382e0a1e53a583",
+  "slug": "will-nick-offerman-margo-s-got-money-troubles-win-best-supporting-actor-television-at-the-84th-golden-globes"
+ },
  "0xa5446d0779fde7071082b8ef3f27d152e57b76029c5e1f296b345a92f394a99e": {
   "created_at": "2026-09-14T21:41:56.929286Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1117,6 +1128,15 @@
   "revisions": 1,
   "sha256": "5d358b3b04f08e4ab114f35cc08277afce6e0600e86f0c4c1ea82a0669ef6a69",
   "slug": "will-the-democratic-party-win-the-nj-08-house-seat"
+ },
+ "0xb2cb370fe98bbb151b682f4ae8908243a55bee68ed4f62b5d58bda162afb019e": {
+  "created_at": "2026-11-12T20:19:05.899017Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will WOR$T GIRL IN AMERICA - Slayyyter win Best Dance/Electronic Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "72dff87a647eb25830b3caf5872dcf47cb9ca1f4082e70bafb45313dcbbacc2e",
+  "slug": "will-worst-girl-in-america-slayyyter-win-best-dance-electronic-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xb5d8c9ebd73cfc56954f035de76b9e50034578d7a6aa059792443c7c13ac7d9e": {
   "created_at": "2026-02-06T17:03:42.708627Z",
@@ -1522,6 +1542,7 @@
   "created_at": "2026-10-20T23:03:17.221842Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for G2 Esports in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",

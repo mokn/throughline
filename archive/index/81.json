@@ -450,6 +450,7 @@
   "created_at": "2026-02-18T17:37:35.354876Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Jonathan Sirois win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -699,6 +700,15 @@
   "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
   "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-lance-stroll-2026-12-04"
  },
+ "0x6c4d71c3525214574165421c41808ba7bfa1f4d26207e145149fd295b9524f81": {
+  "created_at": "2026-11-12T18:40:51.949695Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Hungary by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-hungary-by-december-31-2027"
+ },
  "0x6c6ff9ce037a2ce3d028d588964fea999cb42c018eef3d43861db3b044fe6681": {
   "created_at": "2026-11-07T12:30:27.764077Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -789,6 +799,15 @@
   "revisions": 1,
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-cavaliers-vs-rockets"
+ },
+ "0x79a7b7c58effc4f2753011fb78f44ff59d1912eddc62f4a4ad16f7adda09eb81": {
+  "created_at": "2026-11-12T21:16:48.453854Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "ee118a6a43e238956c571cf3239a2d5f4300b6e4e42942191e932705cd2f9b92",
+  "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2027"
  },
  "0x7b10d860463304ef0a53218c9986912e7f166eeaba0c53811a73576f7f5e5e81": {
   "created_at": "2026-05-27T18:06:13.894583Z",
@@ -1333,6 +1352,15 @@
   "sha256": "d011b15cae473145592c0b4a4e14f35fca0482732a8e3c5a8d5334ca44b90fd5",
   "slug": "will-the-next-israeli-coalition-be-y-t-b-d-r"
  },
+ "0xcbd051e4ee2fb05406d23c5bed9d425355a7f90bc9b9d9f43cb504a9d661a581": {
+  "created_at": "2026-11-12T22:50:30.4654Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic stock be flat or rise less than 10% on IPO day?",
+  "revisions": 1,
+  "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",
+  "slug": "will-anthropic-stock-rise-between-0pct-and-10pct-on-ipo-day"
+ },
  "0xcc0b2b2df14393eea5e5da41ba3bfcdc2dac388433c39ee51882ab5dcea4c681": {
   "created_at": "2026-08-18T14:19:24.099623Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1674,6 +1702,15 @@
   "revisions": 1,
   "sha256": "37f0d637b8992c2a3ea63fa00901e4f872642e3bbfb4489ac26d460a081508a4",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ct-03-house-election-by-0-5"
+ },
+ "0xff8ea5923e231c660acac829b2262f7127e9656eaa96e46e9dfb44f221fe3481": {
+  "created_at": "2026-11-12T20:23:18.960744Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Yo Canto 2 - Laura Pausini win Best Latin Pop Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d2441f3a59afec9951e31f5439a10f2a5c64756135a599e4835a4e0254fde1bb",
+  "slug": "will-yo-canto-2-laura-pausini-win-best-latin-pop-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xffd9a91d5a03eea092aff4f6f878ea668023cbb27a2c247aa00c1a24cbd78c81": {
   "created_at": "2025-12-29T19:08:28.311302Z",

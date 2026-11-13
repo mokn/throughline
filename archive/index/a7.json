@@ -336,6 +336,24 @@
   "sha256": "93bc870875a24e609086afb85f03e2d358e03d39ba20d766b82e44cb695e6c1e",
   "slug": "will-nacional-potosi-finish-14th-in-bolivia-lfpb-2026"
  },
+ "0x46a73cf44a4946a2fb1f848069651455f58d95edcefbc5c9e2b3b67c3c2947a7": {
+  "created_at": "2026-11-12T20:20:11.477357Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will BERNARR. - Durand Bernarr win Best Progressive R&B Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "8e99eaa4b01723bd8f4a44c26a71e08aa5d8cf45b94cfbf77db6636f183e8ff0",
+  "slug": "will-bernarr-durand-bernarr-win-best-progressive-randb-album-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0x47e685659255ac3b2bab14b9c77d85dd710dd0b5d754e9406e4e77e0711808a7": {
+  "created_at": "2026-11-12T19:16:32.673283Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Minja Koskela be the next Prime Minister of Finland?",
+  "revisions": 1,
+  "sha256": "fe67f763c02a33bfda9c44f2d6ca1542fea0487970b1cb1d7cf6642e8da33b7c",
+  "slug": "will-minja-koskela-be-the-next-prime-minister-of-finland"
+ },
  "0x4893a7b3c6590aaab73f6652235765ee50f4097474984b561403d872b5b8b7a7": {
   "created_at": "2026-08-10T23:57:43.77215Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -726,6 +744,15 @@
   "sha256": "409e54daf470dfe79a6c4ae3afa53807e5ca8e7d8477dfb4c384f5bd327eb4f3",
   "slug": "will-al-diriyah-finish-15th-in-saudi-professional-league-2026-27"
  },
+ "0x853f353c40b9eb89400b8e8f1b981a2fbee391b9213c870d6fca996cedfc83a7": {
+  "created_at": "2026-11-12T20:22:00.763403Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Love Is a Kingdom - Tems win Best R&B Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d9b59d96cf57c9d5d3a0f6a60c96147254f5f94a839c857344b9df3ce6fb3583",
+  "slug": "will-love-is-a-kingdom-tems-win-best-randb-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x876e20bf04a40fb1fc04b6d5f9bb96ad7933fd8cdea7c1f2c58a87d01ab6e3a7": {
   "created_at": "2026-10-13T15:51:31.243289Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -852,6 +879,15 @@
   "sha256": "470ebb17c297a594def52b4c1044fdc6243398e5843e99ba2d476eaad1eb5cb7",
   "slug": "will-chris-johnson-jrpt-be-the-2026-acc-rushing-tds-leader"
  },
+ "0x99f415959206af0c474c389724ffea22ad404dd56e0befa2f82f07aada3712a7": {
+  "created_at": "2026-11-12T20:22:11.501769Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Butterfly - Zac Brown Band feat. Dolly Parton win Best Country Duo/Group Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "287d555bf57db395b21947beef72060ef3b65f07efe39749ff62cefb4082667b",
+  "slug": "will-butterfly-zac-brown-band-feat-dolly-parton-win-best-country-duo-group-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x9f002f4305ca14a0ecb67d454c618c80897890c1936a0708665a1a62a20075a7": {
   "created_at": "2026-09-28T17:20:01.613183Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -865,6 +901,7 @@
   "created_at": "2026-08-11T19:11:47.96985Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "AWS service disrupted by September 30?",
   "revisions": 1,
   "sha256": "7dd3680821e16f7d2602bdf1b92250811537d694f4109980649b19ae1ce81ecd",
@@ -1255,10 +1292,20 @@
   "created_at": "2026-02-06T22:22:16.372822Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Tristan Blackmon win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
   "slug": "will-tristan-blackmon-win-2026-mls-defender-of-the-year"
+ },
+ "0xe16a57d0a7533ccf3366c0c7b693b60e7672c620db85c952f1c2bae8518589a7": {
+  "created_at": "2026-11-13T00:28:48.757251Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Michael win Best Motion Picture \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
+  "slug": "will-michael-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0xe1ccc634ca87b2f792431c8337971cec3b23feb7f40f07be22c581e649f7e1a7": {
   "created_at": "2026-10-20T23:20:53.617509Z",

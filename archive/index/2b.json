@@ -179,6 +179,15 @@
   "sha256": "7d07d36dd2ade6b85bebc5a7580786be55f430b1e21b370e6bc947b48992d125",
   "slug": "2027-soccer-austrian-bundesliga-runner-up-lask"
  },
+ "0x2284d248288d522f1f928ee6907074a334d5319f63fc4cff4dc4c8d7d0f5d72b": {
+  "created_at": "2026-11-13T00:28:28.136769Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Tom Cruise win Best Actor \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bf8dd8cebe7e3c8751583632ae79e4ea65866e6edf5ec986fd1347c00606ef6b",
+  "slug": "will-tom-cruise-digger-win-best-actor-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0x23322bb8ba43ce8d917b4b97162d53190f6d7d8580fd24b63956b2c920809d2b": {
   "created_at": "2026-10-15T10:17:21.97699Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -273,6 +282,7 @@
   "created_at": "2026-08-18T14:27:32.648217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Vermont be between 275,000 and 300,000?",
   "revisions": 1,
   "sha256": "1793b0484da3522c6db831e6a4fdc7503edf01757a1b8c691cba446b01dda07b",
@@ -482,6 +492,15 @@
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
   "slug": "f1-brazilian-grand-prix-driver-podium-gasly-2026-11-08"
  },
+ "0x487c395a01745992556f7d4a677e5c7a3c8868532325f847cdf5200240562b2b": {
+  "created_at": "2026-11-12T18:37:12.649823Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Next Russia-Ukraine senior diplomatic meeting by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "05331af1ce78ed7c9869ab4c489991cdef505597656a7cb9e1db817a15ec06ea",
+  "slug": "next-russia-ukraine-senior-diplomatic-meeting-by-december-31-2026"
+ },
  "0x4c2b4fa4304ef97adfa6d0ab7b3f016b42c12e72bad3a6ac2b9f43955ff8152b": {
   "created_at": "2026-10-13T15:49:34.580767Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -644,6 +663,15 @@
   "revisions": 1,
   "sha256": "c2afcb486b3a07c36b1a2c4502fb902a2d707648acbdfe24dda85ac4d18e9f99",
   "slug": "will-everton-finish-in-the-top-4-of-the-2026-27-english-premier-league-season"
+ },
+ "0x5a0a8189a8c3e318345bedc948ff489264920420f9f3a5e1d522d479277e532b": {
+  "created_at": "2026-11-13T00:30:48.631004Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jon Bernthal win Best Actor \u2013 Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "b875c86a7ea8924ad3dd2639e5c810fdb5751ebff6e2f6d73db053e86a9d6319",
+  "slug": "will-jon-bernthal-his-and-hers-win-best-actor-limited-series-at-the-84th-golden-globes"
  },
  "0x5adc62e8779c8f4c5539cc6e27b0a3ff309c1c6f153ad9ee912399093e2b2d2b": {
   "created_at": "2026-08-12T00:12:50.241459Z",

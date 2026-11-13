@@ -139,6 +139,7 @@
   "created_at": "2026-09-02T21:58:24.125113Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Charlotte 49ers advance to the 2026 American Conference Championship Game?",
   "revisions": 1,
   "sha256": "074aa9d694fa78ac108b369319fb67219e9134c34280ae00e16f02c8bf5e46a8",
@@ -298,6 +299,15 @@
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-max-christie"
  },
+ "0x359c835165a5c6997525690acaac90013805bfb6e148f9ad6fb0152278266b4d": {
+  "created_at": "2026-11-13T01:34:59.462948Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Fallin' - Chris Brown feat. Leon Thomas win Best R&B Collaboration or Duo/Group Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "dcad091d29219161cea58b013d03c8ae88ca21c9c1e26603afc4b9d3bf8268a6",
+  "slug": "will-fallin-chris-brown-feat-leon-thomas-win-best-randb-collaboration-or-duo-group-performance-at-the-69th-annual-grammy-awards-20261112"
+ },
  "0x366042f7e6c868c7fcd03eaee15d9036e502386189fd2222de4dc170bbbcc94d": {
   "created_at": "2026-10-05T23:00:48.034243Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -378,6 +388,15 @@
   "revisions": 1,
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-kai-havertz-score-the-most-goals-in-the-2026-27-uefa-champions-league"
+ },
+ "0x4fd5ef13a44c0c489992eee2a366cf24caf86e4a5bb21fff190edeb365c1004d": {
+  "created_at": "2026-11-13T00:28:54.151701Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Matt Damon win Best Actor \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f467bbf9407466481b1b57709202968e28f6dbaba9b5ace503cc614a41ed25e6",
+  "slug": "will-matt-damon-the-odyssey-win-best-actor-drama-at-the-84th-golden-globes"
  },
  "0x50bcef01951fc97974a4cb2894b593aed9bd85c69354e93fe00dde4be7b4cf4d": {
   "created_at": "2026-05-27T21:26:18.068554Z",
@@ -558,6 +577,7 @@
   "created_at": "2026-02-06T22:38:11.66949Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Bradley Carnell win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -801,6 +821,7 @@
   "created_at": "2026-11-11T01:19:26.227936Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the next Gemini model family be named Gemini Helium?",
   "revisions": 1,
   "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
@@ -1079,6 +1100,15 @@
   "revisions": 1,
   "sha256": "2001132435ef045b47c646790359fea23312665a1a65113356ef9ee251f04690",
   "slug": "printr-fdv-above-150m-one-day-after-launch"
+ },
+ "0xc4c7c867e64e0c5bfa523f171eb77b15448c0cfc21bb6c1ddd8b91f27a3e114d": {
+  "created_at": "2026-11-12T20:19:08.626804Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will SOMA - Skrillex win Best Dance/Electronic Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "72dff87a647eb25830b3caf5872dcf47cb9ca1f4082e70bafb45313dcbbacc2e",
+  "slug": "will-soma-skrillex-win-best-dance-electronic-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xc581a02fcb0f5df258d141eb5bd13165f31bf97638fb5ac09b729273bbaf9f4d": {
   "created_at": "2026-10-26T23:53:41.905009Z",

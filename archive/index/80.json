@@ -710,6 +710,15 @@
   "sha256": "3679a32341d3cf707f7080574c4b8589f28f0f37550a66fae1d7dc6cdfe5f4e1",
   "slug": "jalen-hurts-599pt5-rushing-yards-2026-27"
  },
+ "0x76871071dc988c3a50476d8afa2839dc8261c332f5ab5ba71cb4215412567380": {
+  "created_at": "2026-11-12T22:50:35.629573Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic stock rise between 10% and 20% on IPO day?",
+  "revisions": 1,
+  "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",
+  "slug": "will-anthropic-stock-rise-between-10pct-and-20pct-on-ipo-day"
+ },
  "0x7790b621722b1418025da4df8261614cbe3756d9b24bf1fd0ea03230795e5a80": {
   "created_at": "2026-09-02T19:38:54.834229Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1196,6 +1205,7 @@
   "created_at": "2026-10-02T20:14:37.131805Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Loki have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1463,6 +1473,15 @@
   "revisions": 1,
   "sha256": "6da5e0a75b872a07e4f8bace633e39be2ff66ce721cd93d74a1f51ad192811d9",
   "slug": "2027-soccer-south-africa-premiership-runner-up-mamelodi-sundowns"
+ },
+ "0xede3379c9e76f7ee02f08feb0f0c877e568743df9031879e30d7f61d04e46480": {
+  "created_at": "2026-11-13T00:31:06.911531Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Tessa Thompson win Best Actress \u2013 Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "ca1782a77322d8471b9d1d04a14fb31e7c59a5f6999b0fb45d24adf5c0357d09",
+  "slug": "will-tessa-thompson-his-and-hers-win-best-actress-limited-series-at-the-84th-golden-globes"
  },
  "0xeead8936fac3b89ea62c7385ef06d9d2d0e4150ba6625571b61d3a7bed97f980": {
   "created_at": "2026-08-11T18:49:51.894227Z",

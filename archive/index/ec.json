@@ -73,6 +73,15 @@
   "sha256": "b6c283cc9d8bbd78d6d9bcbe3788d33df10786c93c6bb7cb08e755a2f10bf7c5",
   "slug": "will-the-us-30-year-fixed-rate-mortgage-hit-6pt00-low-by-december-31-2026-from-august-3"
  },
+ "0x0ddf9ce5b763637a84564146d912355d3703c91c5d01e8de1ea84b133d3064ec": {
+  "created_at": "2026-11-10T02:14:49.716629Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Curtis Priem be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-curtis-priem-be-the-next-ceo-of-nvidia"
+ },
  "0x0e16dfa1584b2415bf3f87239c78ad3f05ef5e2115cc00a35a1ebb6ccf8ea7ec": {
   "created_at": "2026-08-12T00:08:49.750956Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -117,6 +126,15 @@
   "revisions": 1,
   "sha256": "4b32510cc6e57c0a91c124b4e29a0facba542a6bd8f5a3b50f8d502ea3938722",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-10-house-election-by-20-25"
+ },
+ "0x183952259f558c2023846c19971af82b93dc95906b588781f66a04a5e9f292ec": {
+  "created_at": "2026-11-12T20:22:21.382575Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Way I Am - Luke Combs win Best Contemporary Country Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e25754767c3495a7b6d4486ada4480a4cdf15543176d078380db11ce4a604484",
+  "slug": "will-the-way-i-am-luke-combs-win-best-contemporary-country-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x1999c170a19b03e9bd303912eabf89e8759a85ecf0ed8174f003140e979c1fec": {
   "created_at": "2026-08-11T18:24:38.715105Z",
@@ -839,6 +857,7 @@
   "created_at": "2026-11-10T19:07:44.429047Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 50% or higher?",
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
@@ -1349,6 +1368,7 @@
   "created_at": "2026-09-23T21:01:13.977128Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will John Barrasso be the next US Senate Minority Leader?",
   "revisions": 1,
   "sha256": "58870a876014b54a6b7a14bdc941ae63412669cd2df065f57232a0d91922dec8",

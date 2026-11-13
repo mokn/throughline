@@ -172,6 +172,15 @@
   "sha256": "3a1608219de7df097c1c546e4ef571b002239752f282d46af3e1c585dd377bc4",
   "slug": "will-fabiola-alanis-samano-win-the-2027-michoacan-governor-election-20260803173853369"
  },
+ "0x1c94538a21c64712fa0685b84e5a66ff124c7ae7b7e392f7a2a004f573bd5d71": {
+  "created_at": "2026-11-13T00:29:30.010377Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jeremy Strong win Best Supporting Actor \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "59eb67dc32644edbd4521025af2725982518840a42025882324c850392381d97",
+  "slug": "will-jeremy-strong-the-social-reckoning-win-best-supporting-actor-motion-picture-at-the-84th-golden-globes"
+ },
  "0x1d4f767a153cd71ecd4806a3f71da091abda90ea445fd0d9d08b8655c83c7e71": {
   "created_at": "2026-09-28T17:21:32.971126Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1030,6 +1039,7 @@
   "created_at": "2026-09-09T15:52:46.852274Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Gary O'Neil be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
@@ -1246,6 +1256,7 @@
   "created_at": "2026-11-11T01:19:24.716716Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the next Gemini model family be named Gemini Hydrogen?",
   "revisions": 1,
   "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",

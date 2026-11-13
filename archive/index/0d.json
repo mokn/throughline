@@ -30,6 +30,7 @@
   "created_at": "2026-10-02T20:14:24.586396Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Creme have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -348,6 +349,7 @@
   "created_at": "2026-02-06T22:22:16.898497Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Thiago Martins win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -388,6 +390,15 @@
   "revisions": 1,
   "sha256": "3ad13c61341a6f4453462cdfb3a273d4699557cc2fb15dfe686b1a58d46e0a67",
   "slug": "lindsay-clancy-convicted-of-manslaughter"
+ },
+ "0x438e4db1e54cd3da80f34de7eb9f1f301b65c05b0c42782232fc737ad0396f0d": {
+  "created_at": "2026-11-12T20:20:13.027211Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Boy Who Played the Harp - Dave win Best Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "46feb1c24590baccf3560275922b3760ed3e129242c76933a2c5327d1cb19e92",
+  "slug": "will-the-boy-who-played-the-harp-dave-win-best-rap-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x45226b6d0877bbd94b66bcaed98a43ea37917de412b728c2aec566d3475c5a0d": {
   "created_at": "2026-02-05T21:47:51.375986Z",
@@ -479,6 +490,15 @@
   "revisions": 1,
   "sha256": "fc705f44ae1309cc8bebc735e3c33c49daa65c91a302e410c9b2a324a22d25e7",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-minnesota-be-between-2000000-and-2150000"
+ },
+ "0x5af3053c9037750aaa92622331c53163db67639c3a47afa49b439effe2787f0d": {
+  "created_at": "2026-11-13T00:28:38.133882Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Rosalind Eleazar win Best Actress \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bb3a08ebb0b40ee96c2abb2a0aff9e031572f257b5c5cc7c3526c588bf3d6ffb",
+  "slug": "will-rosalind-eleazar-misty-green-win-best-actress-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0x5cfcc964d75ca1a2a9778f81a9f8d0c54907a1b589967a070e773c8eaaae4e0d": {
   "created_at": "2026-09-02T20:51:39.043763Z",
@@ -980,6 +1000,7 @@
   "created_at": "2026-02-06T22:22:34.295945Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Sebastien Ibeagha win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1271,6 +1292,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-elias-lindholm-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0xd2af489f7e683c594bbbff3efb82ac91aca64e248bbc0a669a7df48c9faa0a0d": {
+  "created_at": "2026-11-12T20:23:26.867488Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will TURR4ZO - Trueno win Best Musica Urbana Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8d8b22c91f4ff74099365b99cfed0ae0abcfcc9a53b5543426eb61974dbc6f5",
+  "slug": "will-turr4zo-trueno-win-best-musica-urbana-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xd5aae7d176c26f72255b23d94c014bd75a579d9851d5efb95364c87d4f82020d": {
   "created_at": "2026-08-10T23:56:24.948705Z",

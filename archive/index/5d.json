@@ -521,6 +521,7 @@
   "created_at": "2026-10-02T20:14:24.829086Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will JackeyLove have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -639,6 +640,7 @@
   "created_at": "2026-09-09T15:17:33.915667Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Croatia win the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "de6b41993de1442fb23c51406dd7b396ae2c00219d2d3af732caeb023a495828",
@@ -988,6 +990,15 @@
   "revisions": 1,
   "sha256": "731c04e0dabefd7b18e6a015662aeffa1d8096797977ec331dae063f6c68068f",
   "slug": "will-the-republican-party-candidate-win-the-2026-oh-07-house-election-by-3-6"
+ },
+ "0xa3f1457a66329ef3961e38db8d7f6a38718678d94d79aad8ffe3e1c7a748f25d": {
+  "created_at": "2026-11-12T20:22:48.23489Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will B4 B4 - Davido, Mayorkun & FOLA win Best African Music Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8c8ec5587cbe39e9f7e5eae3307e220825a4e68a8224f6f54fccbaf39c915e8",
+  "slug": "will-b4-b4-davido-mayorkun-and-fola-win-best-african-music-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xa6af312109c285d70f39a4f8d8e3d4a2e7e12bcabe5ab03527396a3a1377925d": {
   "created_at": "2025-12-12T12:41:07.567631Z",

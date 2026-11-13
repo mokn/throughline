@@ -67,6 +67,7 @@
   "created_at": "2026-09-09T15:52:46.247927Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will David Moyes be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
@@ -471,6 +472,24 @@
   "sha256": "688e0183466807127ccf0df91f24c97b89b0959a168e8b73ec054590a8d05429",
   "slug": "will-the-republican-party-candidate-win-the-2026-ga-12-house-election-by-25-or-more"
  },
+ "0x4d987f6da6cf057d311cb4efa304e17e05ac1f12a9a01110547adecdb95d74c6": {
+  "created_at": "2026-11-12T20:22:10.518554Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will I Can't Read Your Mind - Willie Nelson win Best Country Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "591a6f033bd94af41d74637af4a215a470e13069f2a95d2b704a6778808e2159",
+  "slug": "will-i-can-t-read-your-mind-willie-nelson-win-best-country-song-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0x4e4d8fa1a6b6d20a7aab7ea175ce277b32e4f57211b7ee4da1d3152578d3dac6": {
+  "created_at": "2026-11-12T18:41:05.850582Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Finland by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-finland-by-december-31-2027"
+ },
  "0x4fe0b86b68a60d4cf3eb277f8eadfcf4bd993658917d83c99fd16c14228caec6": {
   "created_at": "2026-10-18T23:30:11.058722Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -497,6 +516,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-evan-mobley"
+ },
+ "0x522727c3d364cad80932b4df49d96e6b7ccede342d4b1aacb82677d5843d6dc6": {
+  "created_at": "2026-11-13T00:30:49.552934Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jason Bateman win Best Actor \u2013 Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "b875c86a7ea8924ad3dd2639e5c810fdb5751ebff6e2f6d73db053e86a9d6319",
+  "slug": "will-jason-bateman-dtf-st-louis-win-best-actor-limited-series-at-the-84th-golden-globes"
  },
  "0x5432f9db640c8401c96fc4f358552ba02287b2b39044eb741fa25b6e794b38c6": {
   "created_at": "2026-09-04T19:22:27.667791Z",
@@ -601,6 +629,7 @@
   "created_at": "2026-08-19T19:59:14.299708Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Republicans win the Kansas Governor election and Democrats win the Kansas Senate election?",
   "revisions": 1,
   "sha256": "6a6d8d5b8045123ce7efc5674ef0efd0c816ec6a7c3bae0574f414fa69a503f3",
@@ -1359,6 +1388,15 @@
   "sha256": "5507d9281c5f249277249eef68a82a87e30f0df4d5534313bfa64cc8c8418d20",
   "slug": "will-paulo-dybala-roma-be-the-top-goalscorer-of-the-2026-27-serie-a-season"
  },
+ "0xc013d8dc92cd5ca4aebc983312e4345e61ad1dbc68ff9edf6b7b9627474fc8c6": {
+  "created_at": "2026-11-12T20:05:00.68571Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic's IPO price be between $74.00 and $75.99?",
+  "revisions": 1,
+  "sha256": "4412f3b9b6e596c4d2683b06bca8cdd6ca8b4529f61f488e17662111fe03f45c",
+  "slug": "will-anthropics-ipo-price-be-between-74pt00-and-75pt99"
+ },
  "0xc19d327de5283d9c500c50dc7c835e0e6dd9cd04447289103694fcb51acc42c6": {
   "created_at": "2026-10-13T19:55:50.877821Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1436,6 +1474,7 @@
   "created_at": "2026-11-12T00:13:30.634133Z",
   "first_seen": "2026-11-12T15:15:16Z",
   "last_changed": "2026-11-12T15:15:16Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Jensen Huang announced resignation or removal from NVIDIA board by December 31, 2026?",
   "revisions": 1,
   "sha256": "e8d6cb7375ecb3f49bbc693379ff4a09744cf32bb37c3da6d0ff801720b7bd57",

@@ -26,6 +26,15 @@
   "sha256": "864e9a65d5506f4faa5f6d57caa9a0b1f91e514bcaa7c23910094045005d71dc",
   "slug": "will-gpt-sol-output-price-be-20-or-above-in-2026"
  },
+ "0x032094f4f754a5418d0248aaa0baa4a456de70b5255fe37fce7c7314da5253f2": {
+  "created_at": "2026-11-12T20:55:54.226186Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic not IPO by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "ecfe7f994bb7704ef970912a1d8aa094412e754f4ea7ef60c882ab69f1084400",
+  "slug": "will-anthropic-not-ipo-by-december-31-2027-anthropic-ipo-shares-sold"
+ },
  "0x03ba55cb08213f8c22d5f88be919cebb1480381508ec9ba7faba65b9e6beedf2": {
   "created_at": "2026-08-24T16:32:38.040149Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -383,6 +392,7 @@
   "created_at": "2026-02-18T17:37:47.107792Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Hugo Lloris win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -618,6 +628,7 @@
   "created_at": "2026-10-02T20:14:32.564009Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Shad0w have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -875,6 +886,15 @@
   "revisions": 1,
   "sha256": "53213cd92f94bb50fc075d02837fb3b0030568fc65611b124d277187e8205d41",
   "slug": "will-israel-katz-be-the-next-israeli-minister-of-finance"
+ },
+ "0x90f0ac07eac83c18536666f73d15adde085758fe03275372362fa5b991ae17f2": {
+  "created_at": "2026-11-12T20:20:21.479495Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Who TF Iz U - J. Cole win Best Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "46feb1c24590baccf3560275922b3760ed3e129242c76933a2c5327d1cb19e92",
+  "slug": "will-who-tf-iz-u-j-cole-win-best-rap-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x9131b8e597a76adfef554ac4c972beb048274566355ccdbd4c2c7d330d9431f2": {
   "created_at": "2026-08-10T14:52:19.625848Z",
@@ -1453,6 +1473,7 @@
   "created_at": "2026-02-18T17:37:52.840579Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Yohei Takaoka win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -1638,5 +1659,14 @@
   "revisions": 1,
   "sha256": "a72bc4d4fb996cc353eb627bb7a62d5e85f65118421991b2a0eaca484baa6044",
   "slug": "will-the-republican-party-candidate-win-the-2026-oklahoma-gubernatorial-election-by-15-20"
+ },
+ "0xfebf8bfa654538277b9def68ebe1b51de4e08a46c5ca34bb46dd9580894fa1f2": {
+  "created_at": "2026-11-13T00:00:57.758457Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the Bank of Korea decrease the base rate by 25 bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "4f05d22add5cf732c3f746acf1d6967625b38133499bd062f0a0870e364d4805",
+  "slug": "will-the-bank-of-korea-decrease-the-base-rate-by-25-bps-at-the-april-2027-meeting"
  }
 }

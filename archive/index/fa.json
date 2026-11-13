@@ -734,6 +734,7 @@
   "created_at": "2026-02-18T21:17:12.992042Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Petar Musa win 2026 MLS Most Valuable Player?",
   "revisions": 1,
   "sha256": "edc0893b6f246ebf23135106a0265636aacd528b913b28b36d764dd751ba4f6c",
@@ -1006,6 +1007,7 @@
   "created_at": "2026-02-18T17:37:49.019793Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Rafael Cabral win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -1074,6 +1076,15 @@
   "revisions": 1,
   "sha256": "c41741c4912299c0d05d11fcc2628f4d9953e5a1dfeba3c83c82269b8d110511",
   "slug": "will-the-2-year-treasury-yield-hit-5pt00-before-2027"
+ },
+ "0xc2e5768b79923654ef3bd2c4b2ff9107bd68319f666d4ba3402ffc93d6f0b5fa": {
+  "created_at": "2026-11-12T20:22:05.691407Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Burn It Down - Shaboozey feat. Leon Bridges win Best Country Duo/Group Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "287d555bf57db395b21947beef72060ef3b65f07efe39749ff62cefb4082667b",
+  "slug": "will-burn-it-down-shaboozey-feat-leon-bridges-win-best-country-duo-group-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xc324307ec6c2e90180fcacdc1eb35ebc7d12311b327a7048d3d3a285eb633afa": {
   "created_at": "2026-08-21T17:35:06.878905Z",
@@ -1346,6 +1357,15 @@
   "revisions": 1,
   "sha256": "d8e60c020e88a92e221dc72046e958a876b42b6c269bacbd2d3f16a8909ea95b",
   "slug": "el1-bra-bar-2026-09-26-team-total-away-3pt5"
+ },
+ "0xfce6cbb1a0ba0141f842789f0b3b188d212b64417b73498131be483975365dfa": {
+  "created_at": "2026-11-12T20:22:16.341687Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Choosin' Texas - Ella Langley win Best Country Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "591a6f033bd94af41d74637af4a215a470e13069f2a95d2b704a6778808e2159",
+  "slug": "will-choosin-texas-ella-langley-win-best-country-song-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xfcf37b9a82433ab3a636cd7cab52b49a3e0a3c94fc5580d4c8d6a78e85eeeafa": {
   "created_at": "2026-07-17T22:44:59.784555Z",

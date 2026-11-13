@@ -380,6 +380,15 @@
   "sha256": "399f538d596d8b43946c4422a78e33453be1fd563352399d3cab1cc3a3270659",
   "slug": "will-there-be-exactly-9-uk-parliamentary-by-elections-in-2026-20260708164636517"
  },
+ "0x43d36e8b272f7cf7e6fe77f1299cc76ad8e84fd1e3c4db382622a3d3d8805bd0": {
+  "created_at": "2026-11-13T00:29:44.685333Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Debut win Best Screenplay \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "eae24e920560a0088729768bd03e3e7c7b32e57a7bfaaa20587f8ad084458bd1",
+  "slug": "will-the-debut-win-best-screenplay-motion-picture-at-the-84th-golden-globes"
+ },
  "0x4b0a0406bc7dbfbd881c369cfcda3e5b92fcc3fbea7fd3baf6c02a66bcc270d0": {
   "created_at": "2026-08-24T16:40:39.967023Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -876,6 +885,15 @@
   "sha256": "8a3ed366bcc820c28eee81f19a9ef7f85bbf5dd4d0d4d1e777c5dcf993c4e4d8",
   "slug": "will-indiana-be-the-number-1-ranked-defense-in-cfb-20260803220052973"
  },
+ "0x9dedd6bcc41943c2e2d93d56aec8c5d6d771a5f891870cf05e84228063e0e9d0": {
+  "created_at": "2026-11-12T20:18:54.418049Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Smoke - Skrillex, ISOxo, Cristale & TeeZandos win Best Dance/Electronic Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "095956ddf8c5da2f78397d7eb3f0173d9970934b3218444d263be9be3a797462",
+  "slug": "will-smoke-skrillex-isoxo-cristale-and-teezandos-win-best-dance-electronic-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xa32d5206ba5e6ea377a60648ca3d64521482a3a49b53fd4d2a5a467a46ea53d0": {
   "created_at": "2026-08-18T18:58:07.04678Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1070,6 +1088,7 @@
   "created_at": "2026-02-06T22:38:10.125656Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Pascal Jansen win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -1111,6 +1130,15 @@
   "revisions": 1,
   "sha256": "a1220b8fb1b36d8df77347784b6ed80cbbe6a6ea6bc9f8e832ca5f748810515f",
   "slug": "will-marathon-win-best-audio-design-at-the-2026-game-awards-1785857786754"
+ },
+ "0xcc0f1394ac5a44c97f05723520067fd30cc9344484fc704b2d1ae4edb29708d0": {
+  "created_at": "2026-11-12T20:18:46.99072Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Duro - Skrillex, Young Miko win Best Dance Pop Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "c57439c7375079cd68a833bc56ba8095d1ea029fc81bc17c81900c25fced1db4",
+  "slug": "will-duro-skrillex-and-young-miko-win-best-dance-pop-recording-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xccca93387b59007c6f95a003b3ae1fac76e50d04b777b67822d935c9fa1c1fd0": {
   "created_at": "2026-08-11T17:53:39.953713Z",
@@ -1342,6 +1370,7 @@
   "created_at": "2025-10-09T23:05:14.030908Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Republicans win the Kansas governor race in 2026?",
   "revisions": 1,
   "sha256": "3b8aadfb608b04a17e77eaf50ba32c3acc09702e23cb5c6b6273ffe9f0b28a2f",

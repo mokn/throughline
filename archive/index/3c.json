@@ -774,6 +774,7 @@
   "created_at": "2026-10-02T20:14:29.77939Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Canna have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -925,6 +926,15 @@
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",
   "slug": "will-oneil-cruz-win-the-2026-nl-comeback-player-of-the-year-award"
  },
+ "0x6f45052fdf7650b1fc245ee2a16d00477da8c6a1e261a1407496e8d2f147b63c": {
+  "created_at": "2026-11-13T00:35:27.3787Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Save the Day\" (Hoppers) win Best Original Song - Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "922c8c583e3bf02e11cdbc9901cc158f0fda43ad0c314c17764ce186906a40c3",
+  "slug": "will-save-the-day-hoppers-win-best-original-song-motion-picture-at-the-84th-golden-globes"
+ },
  "0x70755e23561ca970478d0eebe0f46ad56cec3fee9868ab8b214b13572756e83c": {
   "created_at": "2026-08-10T08:21:49.984093Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -951,6 +961,15 @@
   "revisions": 1,
   "sha256": "6a54aa0ef690e8bd53773919c0d88b1188e82888b016ff80fcd24f027426641a",
   "slug": "will-a-player-from-the-sec-win-the-2026-heisman-trophy-20260803170245587"
+ },
+ "0x751ebe2402bc6042fb420fd604edd268912e8a361da9db587af5dc813a8cae3c": {
+  "created_at": "2026-11-12T18:41:14.40157Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in South Africa by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-south-africa-by-december-31-2027"
  },
  "0x7529d78d012f26a358002386f09661bb0fbfa3afb207fc7527c029ec4b87093c": {
   "created_at": "2026-10-15T17:01:05.033268Z",
@@ -1831,6 +1850,15 @@
   "revisions": 1,
   "sha256": "ec16ca37f1f77b668167bf0c8e0e828a57f634797f384a283d9e40affadcb3f8",
   "slug": "cisa-emergency-directive-issued-by-march-31-2027"
+ },
+ "0xfd53f9f6fc5002a083e943eae3c6249e4341a76cbf9553820e33b61b60cb953c": {
+  "created_at": "2026-11-13T00:28:23.197126Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Tangles win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-tangles-win-best-motion-picture-animated-at-the-84th-golden-globes"
  },
  "0xfd80f36d1ff258f3621e33f6932ae4020fa8856631bc3f5191cbd6d9da9a453c": {
   "created_at": "2026-08-11T18:50:12.461716Z",

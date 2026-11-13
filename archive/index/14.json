@@ -409,6 +409,15 @@
   "sha256": "5d84249735da9ed0a3913c26f36bf3627c5fc1a0dd18548cadc5cbe454a30788",
   "slug": "will-fsv-mainz-05-qualify-for-the-2027-28-uefa-champions-league"
  },
+ "0x4b061ef3aa64ff3e28b0cc05996ba042a7b6698d7ea21ba543b8178b52930e14": {
+  "created_at": "2026-11-12T18:41:06.614865Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Belarus by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-belarus-by-december-31-2027"
+ },
  "0x4b09a77605e17d38f6f6abbe6d0af2ced8d95453d0ff674f103cc6a568348214": {
   "created_at": "2026-08-26T21:46:38.222159Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -893,6 +902,15 @@
   "sha256": "3791c4cf5fb482ac2306d82e68c0258b7b62392fce98f85483c7350bfd9f7723",
   "slug": "will-the-kt-wiz-win-the-2026-korean-series"
  },
+ "0x9ae34e60757cd07f53a2aa58ed2dd1b1707bc7b26742e56f16bf3da3bc680a14": {
+  "created_at": "2026-11-13T00:29:27.522622Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will John Goodman win Best Supporting Actor \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "59eb67dc32644edbd4521025af2725982518840a42025882324c850392381d97",
+  "slug": "will-john-goodman-digger-win-best-supporting-actor-motion-picture-at-the-84th-golden-globes"
+ },
  "0x9b1a03b41a1a68c209e9c3caf3d8af3f878420d6dbe8cb8afffd66049e73b114": {
   "created_at": "2026-09-16T18:24:00.620744Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1028,6 +1046,15 @@
   "revisions": 1,
   "sha256": "329566eb352165304c170cc53447438271c51e0a07e3a88e8c970ddf03d6bfd7",
   "slug": "salesforce-q3-current-rpo-growth-cc-less-than-13"
+ },
+ "0xb0d24cf3f4020769fbc6c49fb692288bcbbe98c384fed79cd226da5c07bc7214": {
+  "created_at": "2026-11-13T00:31:21.029635Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Fatherland\" win Best Motion Picture - Non-English Language at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "595347e0e70da50563a074cea28f19feeee17ae879fc69445b8832bf20c8b9bc",
+  "slug": "will-fatherland-win-best-motion-picture-non-english-language-at-the-84th-golden-globes"
  },
  "0xb104b235149192d5feb1f8ad8011fe07999c3c0d2ae4c9f538996f47284da714": {
   "created_at": "2026-10-28T03:00:10.597545Z",

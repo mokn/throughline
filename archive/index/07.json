@@ -158,6 +158,7 @@
   "created_at": "2026-09-23T21:01:15.576325Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Patty Murray be the next US Senate Minority Leader?",
   "revisions": 1,
   "sha256": "58870a876014b54a6b7a14bdc941ae63412669cd2df065f57232a0d91922dec8",
@@ -389,6 +390,15 @@
   "sha256": "d588788be0d378dbe21252cee01a2de8b31895425a5d48d8d7e8f64c9bff4d8d",
   "slug": "gemini-krypton-released-by-december-31-2026-20261110"
  },
+ "0x3f3b60fc72a1e30e6828d3d3fc0d8f1e0d13f44833947b34527b6950e9e6fa07": {
+  "created_at": "2026-11-12T20:19:12.765275Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Fate of Ophelia (Loud Luxury Remix) - Taylor Swift win Best Remixed Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "74b6d84d7a91f06a81d76631aaee5f8b4c95712374b44acf3eb5a043c68fa1cd",
+  "slug": "will-the-fate-of-ophelia-loud-luxury-remix-taylor-swift-win-best-remixed-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x407e1b08f6885ced5ea7c124cc272730ef10a204802c2d774819680856c36a07": {
   "created_at": "2026-10-13T19:55:50.778959Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -402,6 +412,7 @@
   "created_at": "2026-10-02T20:14:33.641482Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Kratos have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -777,6 +788,15 @@
   "sha256": "711fec18718af09dc760086fdb2091076137381b4b295dc097d64f6bc9dffc73",
   "slug": "el2-wal-cra-2026-10-03-exact-score-1-1"
  },
+ "0x8a5ebbd308531a23fc949d709ec3bc7305cb46e4a49ccd65ccb335920eaa5b07": {
+  "created_at": "2026-11-12T20:20:19.27574Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Let 'Em Know - T.I. win Best Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "46feb1c24590baccf3560275922b3760ed3e129242c76933a2c5327d1cb19e92",
+  "slug": "will-let-em-know-t-i-win-best-rap-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x8c76cbb830ac6280d44ed51400ec51baf9f166606fe4c75ebb20239b26ce2407": {
   "created_at": "2026-09-14T20:34:35.508152Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -896,6 +916,15 @@
   "sha256": "086d579124225f6b7537bb3cb097668d758ee4fcd7183009feb63bf4a3c84059",
   "slug": "will-the-democrats-win-the-nebraska-governor-race-in-2026"
  },
+ "0x9c0a31ba8709de5e063db0c650985f61d65a2a6369d7543018f2a1737821f607": {
+  "created_at": "2026-11-12T20:23:50.919975Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Mas Que Palabras - Grupo Niche win Best Tropical Latin Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6076bf73a913e32e4d21b9b4a6d9fc351c069403a644bdf7edc3f73842baac5c",
+  "slug": "will-mas-que-palabras-grupo-niche-win-best-tropical-latin-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x9c3df80189d1daf02569c3e369e6c8379a61e42098e83007500e92f74a821d07": {
   "created_at": "2026-09-02T19:33:52.355609Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -988,6 +1017,15 @@
   "revisions": 1,
   "sha256": "d0aaf65b8eb522999ea92fd10d22edc1e43ba6504fdbdb1fc46157c16cc4fa4d",
   "slug": "will-corum-f-k-finish-15th-in-super-lig-2026-27"
+ },
+ "0xa4ea9499477b74c0bdf00a77b2e8fe8d6b25c2e89d4d2df0ed2796a0d5667307": {
+  "created_at": "2026-11-13T01:35:00.434411Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sweet Nuthins - Kehlani feat. Leon Thomas win Best R&B Collaboration or Duo/Group Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "dcad091d29219161cea58b013d03c8ae88ca21c9c1e26603afc4b9d3bf8268a6",
+  "slug": "will-sweet-nuthins-kehlani-feat-leon-thomas-win-best-randb-collaboration-or-duo-group-performance-at-the-69th-annual-grammy-awards-20261112"
  },
  "0xa689f4b1671bd07fabb88d68407e90af697885109605082718f0d2ffa4bc6307": {
   "created_at": "2026-08-05T10:57:27.439144Z",
@@ -1134,6 +1172,15 @@
   "sha256": "df8739d5bc0d28e94933414073de4b93b50a0eea214f54f56c8693ad3b3e9792",
   "slug": "2027-soccer-j2-league-winner-tochigi-city"
  },
+ "0xbd5f45234b7357355cc9280c5f5fb163481787d39604c9d74c8c8414c8e32807": {
+  "created_at": "2026-11-13T00:29:29.646922Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Guy Pearce win Best Supporting Actor \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "59eb67dc32644edbd4521025af2725982518840a42025882324c850392381d97",
+  "slug": "will-guy-pearce-ink-win-best-supporting-actor-motion-picture-at-the-84th-golden-globes"
+ },
  "0xbdad318489169223e2e79f6e1275f1d6803e883ec4d2375eaa15997fb6878d07": {
   "created_at": "2026-09-02T20:14:34.707582Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1147,6 +1194,7 @@
   "created_at": "2026-02-06T22:38:10.616208Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Michael Bradley win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -1314,6 +1362,15 @@
   "revisions": 1,
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-deni-avdija"
+ },
+ "0xe0ed0021bdbff4d0114674656b97716cada682c7992faa1f8d92d0df73653007": {
+  "created_at": "2026-11-13T00:28:35.730044Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Olivia Wilde win Best Actress \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bb3a08ebb0b40ee96c2abb2a0aff9e031572f257b5c5cc7c3526c588bf3d6ffb",
+  "slug": "will-olivia-wilde-the-invite-win-best-actress-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0xe2b68469af59ae9cbc944113780b3935f9185b75181d32f6a40d18d5fa04ba07": {
   "created_at": "2026-05-11T20:12:32.246635Z",
@@ -1548,6 +1605,15 @@
   "revisions": 1,
   "sha256": "b0dfeacc068c0c5a6044d38b6772f011597f96e4062b855f228b8411aa9f8702",
   "slug": "will-the-republicans-win-south-dakota-in-the-2028-presidential-election"
+ },
+ "0xfe5f0ecdf5bbf2048664161adf5a351364f7b94a63f52965ea09053fef7c5207": {
+  "created_at": "2026-11-13T00:28:25.537271Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Juli\u00e1n win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-julian-win-best-motion-picture-animated-at-the-84th-golden-globes"
  },
  "0xfea6cac1dc772ad8f41c8aac2df4305719b666ed164a9fa444531d9a8b810707": {
   "created_at": "2026-08-29T00:16:57.607889Z",

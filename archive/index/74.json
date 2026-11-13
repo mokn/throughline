@@ -80,6 +80,15 @@
   "sha256": "71426c6a3a359d2e06ec922ce0a5d667dd3523d078c45057288c02d37745210b",
   "slug": "el1-don-oxf-2026-09-26-corners-second-half-total-5pt5"
  },
+ "0x095fda02de60ee10fa5f578076c6af66f67ed49dc6e2c64b003d5ea7e2a1c674": {
+  "created_at": "2026-11-13T00:42:57.557714Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sabrina Carpenter appear at the 2026 NFL Christmas Day halftime show?",
+  "revisions": 1,
+  "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
+  "slug": "will-sabrina-carpenter-appear-at-the-2026-nfl-christmas-day-halftime-show"
+ },
  "0x0975c4dd6caba55b8969b682e52e847e3ae89a43bddfabd74f9c3f7640068b74": {
   "created_at": "2026-11-03T21:54:22.552175Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -179,6 +188,15 @@
   "revisions": 1,
   "sha256": "1dd93a2ed328338be39b74de88bb4683cc446dc8136c26236d8cc7bb3c21c129",
   "slug": "will-billie-eilish-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940399"
+ },
+ "0x1ffa1fd4dc4c15206b2e3a63580d8b98425a7654b0b0839ca42a12e87f24c374": {
+  "created_at": "2026-11-12T18:41:17.842355Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in another Middle East/North Africa country by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-another-middle-eastnorth-africa-country-by-december-31-2027"
  },
  "0x21c217e366a8040074824cf2093c0ca600fae613f3621e2a9967d3d005b27874": {
   "created_at": "2026-01-28T15:32:20.988076Z",
@@ -536,6 +554,7 @@
   "created_at": "2026-02-06T22:38:15.921539Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Robin Fraser win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",

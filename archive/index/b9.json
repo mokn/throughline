@@ -593,6 +593,7 @@
   "created_at": "2026-08-05T21:01:13.236367Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Republican Party candidate win the 2026 Vermont gubernatorial election by 25%-30%?",
   "revisions": 1,
   "sha256": "f6c7d1a6cca1846c7843edbaacb2fce0333a4c69f979abcf591fab3e1c2e4523",
@@ -862,6 +863,15 @@
   "revisions": 1,
   "sha256": "2044402509bd79a00e3623704b73298461695064d03a6a69f7bfc20ff736631d",
   "slug": "will-pp-receive-less-than-28-of-the-vote-in-the-2026-spanish-general-election"
+ },
+ "0x817b08b95ec5ccda1d118b3eee6bc1d13b1e3e464469a2200847b90f0b471bb9": {
+  "created_at": "2026-11-12T20:23:56.638814Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Femme Fatale - Mon Laferte win Best Latin Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6c023faa8525f6e6ef28b22c9355f9be93171921482e932f419fffad91a599d7",
+  "slug": "will-femme-fatale-mon-laferte-win-best-latin-song-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x82dadeac56dbd908434dc578a0df7e3306a3ec44caf5574b6cfadb697685a9b9": {
   "created_at": "2026-08-18T14:23:16.506126Z",
@@ -1284,6 +1294,7 @@
   "created_at": "2026-02-06T22:22:13.350488Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Maya Yoshida win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",

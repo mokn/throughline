@@ -669,6 +669,7 @@
   "created_at": "2026-10-02T20:14:39.080644Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Berserker have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1102,6 +1103,15 @@
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
   "slug": "will-the-kansas-2026-senate-race-be-within-1"
+ },
+ "0xb2fb8bc107ad82c7463b73356de364ab4f3f0a7443b3a7fc55ff168e2a3a648e": {
+  "created_at": "2026-11-13T00:43:02.615822Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will EJAE appear at the 2026 NFL Christmas Day halftime show?",
+  "revisions": 1,
+  "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
+  "slug": "will-ejae-appear-at-the-2026-nfl-christmas-day-halftime-show"
  },
  "0xb5e174061d146f688d5ed30806e18a5c95ce1f33dd0fe3112c1a7d64a4eca28e": {
   "created_at": "2026-08-07T20:51:26.550105Z",

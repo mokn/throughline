@@ -134,6 +134,15 @@
   "sha256": "a3e25cd9472de277c5e3f44d940816d33fe074aee43c7b1e0a4e136d1f5d1a22",
   "slug": "el1-don-oxf-2026-09-26-total-1pt5"
  },
+ "0x1f0ad61d28026059e21b71607d31e92b3abe0b19bec6327fb99b74d6c65f2da8": {
+  "created_at": "2026-11-13T00:29:38.157427Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Glenn Close win Best Supporting Actress \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f54aef27bf35c35d0e1705d479016706e14615a4f0da24a7edc59bd338573913",
+  "slug": "will-glenn-close-la-bola-negra-win-best-supporting-actress-motion-picture-at-the-84th-golden-globes"
+ },
  "0x1f616e9f264ce6f057e0a7c3f3ded7724b089713a2673df55ecd65a5f95fd6a8": {
   "created_at": "2026-01-28T15:42:02.080944Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -171,6 +180,15 @@
   "sha256": "6d6f86c8d3c13d230ee44a07915ddc692f5c0d9cc4fe42bf940568de03420f56",
   "slug": "will-texas-am-aggies-be-the-number-1-ranked-offense-in-cfb-20260803215857147"
  },
+ "0x2782f724195c607d4db04dbf06042026335bac3037eadacc4421dfd38029d1a8": {
+  "created_at": "2026-11-12T20:22:00.162459Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Let Me - Victoria Monet win Best R&B Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "5cb566bd7484f108a868cd3cc5186c0b7260aee5aab4464990378f5c18f7134b",
+  "slug": "will-let-me-victoria-monet-win-best-randb-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x2832de05e5abd5e695f7edc45b74422a99000e062ccecbced194e893c35300a8": {
   "created_at": "2026-08-10T23:33:24.034386Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -188,6 +206,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-san-francisco-49ers-have-more-than-9pt5-wins-during-the-2026-nfl-season"
+ },
+ "0x2ce4da295ced47a54ba15064cd0ac750e87ead24bb12ca46ca3dec14ee4795a8": {
+  "created_at": "2026-11-12T21:06:33.194427Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Urmas Reinsalu be the next Prime Minister of Estonia?",
+  "revisions": 1,
+  "sha256": "f53f7912de465eef89a7860427c4f9916d2677b496bde60cd4bdd76b3fa01af4",
+  "slug": "will-urmas-reinsalu-be-the-next-prime-minister-of-estonia"
  },
  "0x3188e832d961025e804e9779d613c2acb0777bc47f3d9c4260341d54d83f84a8": {
   "created_at": "2026-09-09T15:51:19.939382Z",
@@ -782,6 +809,15 @@
   "sha256": "7629268784f92eec9e358681d29811b59764d6e8e15be30b399b03fb3ebf7211",
   "slug": "will-broad-front-fa-win-the-most-seats-in-cordoba-in-the-2026-spanish-general-election"
  },
+ "0xa3d19a9e4d19a197e08d010472c10d8947340ac855bd3002faf18fd1dacf90a8": {
+  "created_at": "2026-11-13T00:43:05.613026Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Finns Party win the most seats in the 2027 Finnish parliamentary election?",
+  "revisions": 1,
+  "sha256": "38c42c6de399f846125ffd92daec1b4db401bed190baae908a6427a13496eef3",
+  "slug": "will-finns-party-win-the-most-seats-in-the-2027-finnish-parliamentary-election"
+ },
  "0xa55cc4466bf3df976fb07f6260e4c6e1a35658d2e71f5959d060bda55100d6a8": {
   "created_at": "2026-08-28T20:17:38.352812Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -927,6 +963,15 @@
   "revisions": 1,
   "sha256": "8110bd6f518c905abc4c10206c5a4fe9c1612e35a242a611baa7ebd085d742ba",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-02-house-election-by-15-20"
+ },
+ "0xaf1a86346f480ce8b4c631b812123dbe0b814c89320465d3d0bcaf68c6b972a8": {
+  "created_at": "2026-07-17T22:45:04.325543Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang be the #1 searched person on Google this year?",
+  "revisions": 1,
+  "sha256": "0fba60e03908266ebca3e0912823008f81e7c17727c2f01637efc1e4a2c23df0",
+  "slug": "will-jensen-huang-be-the-1-searched-person-on-google-this-year-20260717214426300"
  },
  "0xaf3cedd2d7a2ba80dfc59afa64994b721beed1cd29ace34fc2aab380a976aea8": {
   "created_at": "2026-05-27T16:44:22.3483Z",
@@ -1192,6 +1237,15 @@
   "sha256": "b571c188aa5495064c82d611a7655ca26b6e162d19654db73fbd1b7f15c0614c",
   "slug": "bank-of-england-increases-interest-rates-by-25-bps-after-december-2026-meeting"
  },
+ "0xd670db99b7d394d4bb87da7e617655f33cdd9359db3ce246046564fa935773a8": {
+  "created_at": "2026-11-12T20:04:58.681379Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic's IPO price be less than $66.00?",
+  "revisions": 1,
+  "sha256": "4412f3b9b6e596c4d2683b06bca8cdd6ca8b4529f61f488e17662111fe03f45c",
+  "slug": "will-anthropics-ipo-price-be-less-than-66pt00"
+ },
  "0xd8303cdee02dcc308fa0715a4cd7d08d894ce0f689133315d1904a11a4325aa8": {
   "created_at": "2026-09-27T20:11:31.640212Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1391,6 +1445,15 @@
   "sha256": "6844079682818058d1de2c1476766359daa2122552d75828bf3e291a8d785023",
   "slug": "2026-soccer-peru-liga-1-runner-up-alianza-lima"
  },
+ "0xec4919c139cb29dceb3ebbb835b52cfd475847171e24462e72841bbedaa0e0a8": {
+  "created_at": "2026-11-13T00:29:05.801605Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Mathilde Arcel win Best Actress \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "d2613250362daef7ca75e6dd4c34bf258355dd6ac687c0c6cf79c9a6cb7342f8",
+  "slug": "will-mathilde-arcel-woman-unknown-win-best-actress-drama-at-the-84th-golden-globes"
+ },
  "0xed7d2179f14f3ac58b41de0bf01d4c9683c900cb46d766bc82809c28b65b9ea8": {
   "created_at": "2026-05-12T21:34:00.909325Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1445,6 +1508,15 @@
   "revisions": 1,
   "sha256": "00cb5dde0c7bc8f298ab96ecb3aa9bd6ef455d0458fafb678e5bacd121be6706",
   "slug": "el1-not-bla-2026-09-26-first-half-total-0pt5"
+ },
+ "0xf2bd9dfba2a96867024a11dccb3702c42fd04608710d9326bbcb597d4c5ba8a8": {
+  "created_at": "2026-11-13T00:43:04.492331Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Kacey Musgraves appear at the 2026 NFL Christmas Day halftime show?",
+  "revisions": 1,
+  "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
+  "slug": "will-kacey-musgraves-appear-at-the-2026-nfl-christmas-day-halftime-show"
  },
  "0xf3ac784fdf9afc94596b55277fd357362138c6d82434eae34581602314a43aa8": {
   "created_at": "2026-08-24T16:35:38.120082Z",

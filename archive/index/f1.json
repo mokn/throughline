@@ -227,6 +227,15 @@
   "sha256": "964f80c26c0427207b2c3943b27393216a585edae7cfb937ab38308fb145ba96",
   "slug": "france-declares-state-of-emergency-by-december-31-2026"
  },
+ "0x240b4e4db9cfde6a932a55fa513b337d4b59209f00c9a1ab932f8ee7f38427f1": {
+  "created_at": "2026-11-12T20:20:12.1879Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will New Avatar - Kelela win Best Progressive R&B Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "8e99eaa4b01723bd8f4a44c26a71e08aa5d8cf45b94cfbf77db6636f183e8ff0",
+  "slug": "will-new-avatar-kelela-win-best-progressive-randb-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x2456e4646ff1e0f603e30834cab0e7db91d17afd7655d023ba766a8f698345f1": {
   "created_at": "2026-10-13T19:55:22.214496Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -244,6 +253,15 @@
   "revisions": 1,
   "sha256": "a7cd60844bd1bc9031fd2f02f1e8c3ebed2a78a3c67b93142b19e8bb6238f50b",
   "slug": "will-tyler-loop-be-the-highest-scoring-k-of-the-2026-27-nfl-season-20260806224131968"
+ },
+ "0x25b0f06dd89b3fecfdb40ed870b782fbe0e30ba4b55c593b2b420c141c4ba2f1": {
+  "created_at": "2026-11-12T22:50:28.221999Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic stock fall by 10% or less on IPO day?",
+  "revisions": 1,
+  "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",
+  "slug": "will-anthropic-stock-fall-between-0pct-and-10pct-on-ipo-day"
  },
  "0x28f219921de1b2ca9ad81ff11ef76ca56da5f220e349822a9f052ee8044bbff1": {
   "created_at": "2026-09-08T16:56:17.837715Z",
@@ -497,6 +515,7 @@
   "created_at": "2026-10-02T20:14:27.784705Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Hans Sama have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

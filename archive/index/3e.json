@@ -186,10 +186,20 @@
   "created_at": "2026-10-02T20:14:30.266929Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will kyeahoo have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-kyeahoo-have-the-most-kills-at-worlds-2026"
+ },
+ "0x267823c801f235bed270de7616a90f292e9c9025882698ce122194d12697963e": {
+  "created_at": "2026-11-12T22:51:31.643839Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic close between $80 and $90 on its first trading day?",
+  "revisions": 1,
+  "sha256": "15be5d4cf027854e8cada2685bfcd729fca6ed5c9c13bf6505df41839ae82d74",
+  "slug": "will-anthropic-close-between-80-and-90-on-its-first-trading-day"
  },
  "0x2690e4308a78df70d578baa161edf7d077dea91d69d90e7f4f847334c4aabb3e": {
   "created_at": "2026-10-21T17:55:23.344924Z",
@@ -299,6 +309,15 @@
   "revisions": 1,
   "sha256": "26e2ef2a794ef6f58802bda5c01b0f21528ddc950e341877c11bcb4224859f04",
   "slug": "will-juventud-las-piedras-keep-the-most-clean-sheets-in-uruguayan-primera-division-2026"
+ },
+ "0x34f32c3bf40f4223c2cfc91c62fea088bccc8b0ce5a8b95eda6c3b28ff76b33e": {
+  "created_at": "2026-11-13T00:31:18.85885Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Possible Love\" win Best Motion Picture - Non-English Language at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "595347e0e70da50563a074cea28f19feeee17ae879fc69445b8832bf20c8b9bc",
+  "slug": "will-possible-love-win-best-motion-picture-non-english-language-at-the-84th-golden-globes"
  },
  "0x35b63ecb06e992b69c90051f0eae34dddd20896f149f64fe3eb8756c8486c93e": {
   "created_at": "2026-09-20T08:46:15.821759Z",
@@ -947,6 +966,15 @@
   "sha256": "fdb210318474078daa855d747ed941b2113f64d186318fe4a0e4776c7737e4e6",
   "slug": "will-the-fed-increase-interest-rates-by-50-bps-after-the-december-2026-meeting-20260729232808637"
  },
+ "0xa8b732aed245b5f309189d4b7f2b0bb79ca956cd8c8442d023b3ecad7c3d893e": {
+  "created_at": "2026-11-12T19:14:16.72761Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Another NVIDIA board member announced resignation or removal by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "0ca8a0c6ab31754d2cb7a70a8dc914a702b001e30daaa3ca9d4aebff50964371",
+  "slug": "another-nvidia-board-member-announced-resignation-or-removal-by-december-31-2026"
+ },
  "0xa93a723e4298b65f1bc0c2641dc80c87c7e3afa5d815ce7c7272b90a9289253e": {
   "created_at": "2026-09-04T19:25:53.034114Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1078,6 +1106,7 @@
   "created_at": "2026-11-11T01:19:27.361773Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the next Gemini model family be named Gemini Xenon?",
   "revisions": 1,
   "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",

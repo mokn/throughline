@@ -280,6 +280,15 @@
   "sha256": "931fefc8071e8f7457534a6b9bd1185bbc1f600dc83388cf448b331aa08ee93b",
   "slug": "will-demon1-play-for-leviatan-esports-in-2027-1788364450495"
  },
+ "0x316ab44f914acc369add9da7edb93e80d81b229a1d1bdfb0a905818d65277087": {
+  "created_at": "2026-11-12T23:21:44.219928Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will UK GDP growth in Q4 2026 be between 0.6% and 0.7%?",
+  "revisions": 1,
+  "sha256": "6d11009c480d7bd3c533aef741062440c73c937187a5d14433869ebf8728d897",
+  "slug": "will-uk-gdp-growth-in-q4-2026-be-between-0pt6-and-0pt7"
+ },
  "0x3178cf25b1d9a9d91b88c0edc02bcd57898a0a3d0a15490a8b3783d6b8935287": {
   "created_at": "2026-10-22T20:26:18.267418Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -484,6 +493,7 @@
   "created_at": "2026-11-10T19:07:49.878466Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 70% or higher?",
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
@@ -657,6 +667,7 @@
   "created_at": "2026-02-06T22:38:14.401816Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Brian Schmetzer win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -679,6 +690,15 @@
   "revisions": 1,
   "sha256": "ab8134f085187e074442c69895aef267c5df4ce0aa086df89324477a34b1d432",
   "slug": "will-smouha-finish-17th-in-egypt-premier-league-2026-27"
+ },
+ "0x7df2bc77fde686123d78599d018a320b1051dc2ba2f4a5658a732aded4924f87": {
+  "created_at": "2026-11-13T00:31:06.932517Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Allison Janney win Best Supporting Actress \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c9bc492e6569d31177f6be3f9965619663e806f47d9da629cb3ae6069fe9f203",
+  "slug": "will-allison-janney-the-diplomat-win-best-supporting-actress-television-at-the-84th-golden-globes"
  },
  "0x7e73018cb01eeda669dd736cb2ebd527a83459132dc1a9c769f683a6cbf79287": {
   "created_at": "2026-08-11T19:10:52.988792Z",
@@ -991,6 +1011,7 @@
   "created_at": "2026-10-28T22:20:18.599429Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Gemini Carbon debut with an HLE-Diamond score of 70% or higher?",
   "revisions": 1,
   "sha256": "7a720457dd87aeeedb323ccfdaf664895f4a2fc878bf47518fe0640171ff7c91",
@@ -1031,6 +1052,15 @@
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
   "slug": "gtm-mun-aur-2026-11-07-exact-score-1-3"
+ },
+ "0xaebf20a06ed51db6a68cf0ba3f9846f775ec6f4d25491165aa55f373b18d2287": {
+  "created_at": "2026-11-13T00:31:07.419139Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Katherine LaNasa win Best Supporting Actress \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c9bc492e6569d31177f6be3f9965619663e806f47d9da629cb3ae6069fe9f203",
+  "slug": "will-katherine-lanasa-the-pitt-win-best-supporting-actress-television-at-the-84th-golden-globes"
  },
  "0xaeeec6947559090cc5394459bb54ad57bdc8cfa291384fc495330ff44248c787": {
   "created_at": "2026-08-10T23:56:20.850455Z",
@@ -1354,6 +1384,7 @@
   "created_at": "2026-10-02T20:14:35.83824Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Quid have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
