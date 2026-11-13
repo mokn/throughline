@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.3.0 — 2026-11-13
+
+- Added `whoami`, `doctor`, `audit` and own-connection `disconnect`. Doctor
+  checks access and usage without spending a news response. Existing scopes
+  still apply; payments and renewed consent remain with the person.
+- Key creation privately persists the secret before sending its hash and
+  operation ID. An identical retry recovers the original receipt after a lost
+  reply. Rotation keeps the old key active until the consumer switches and the
+  operator explicitly revokes it.
+- `keys pending --park` retains private recovery material while freeing the
+  active operation slot; `--resume ID` restores it. Parked secrets do not expire.
+- Disconnect saves intent before DELETE. Unknown acknowledgements retain local
+  material and report `disconnect_unknown`; expired management access does not
+  prove linked feed keys were revoked. Only an acknowledged revoke cleans up
+  positively identified local credentials. See the README for portal recovery.
+- Published on GitHub for the installed AgentLifecycleV1 service. No registry
+  release or new runtime dependency.
+
 ## 0.2.0 — 2026-11-10
 
 - Added the `throughline` command (version 0.2.0): delegated setup where a
