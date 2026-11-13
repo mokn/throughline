@@ -130,6 +130,7 @@
   "created_at": "2026-08-11T18:42:09.011567Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-01 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "ebbc6303ef7c687673bd2b32d998773c1d0eab8296fd0eaecf6c20034649b985",
@@ -157,6 +158,7 @@
   "created_at": "2026-10-20T23:03:18.275668Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for LOUD in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
@@ -287,6 +289,15 @@
   "revisions": 1,
   "sha256": "be9f2dcddb39aaa3e090823c70d0a603fefdfcbd25a36d057f4cde70877b82e5",
   "slug": "will-miguel-flores-serna-win-the-2027-nuevo-leon-governor-election-20260803173854389"
+ },
+ "0x324bfa6cce9d91fd47c14e3009a7af63070256c2ac20a72b4821ebee74fb53cd": {
+  "created_at": "2026-10-26T09:00:07.030624Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Spread: Estoril Praia (-1.5)",
+  "revisions": 1,
+  "sha256": "89efc02efd22e667765701d51cd6de131aa3bad55682925f199a187f76bd8abb",
+  "slug": "por-est-csm-2026-11-08-spread-home-1pt5"
  },
  "0x3357c4643939f1a52ab0807bcaabab9ee5618c36e5cb06482f924a6141cecacd": {
   "created_at": "2026-08-10T23:34:14.896812Z",
@@ -451,6 +462,15 @@
   "sha256": "b4b221e99a5852b252d7b0b668599bcd7d6def4b35218525b46e5b7ee696c037",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-04-house-election-by-50-55"
  },
+ "0x4a4d0b5026559f63b90e492c293c58c805b40f28e05f70eb95396a30cca3c2cd": {
+  "created_at": "2026-11-12T20:19:13.523636Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Opalite (Chris Lake Remix) - Taylor Swift win Best Remixed Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "74b6d84d7a91f06a81d76631aaee5f8b4c95712374b44acf3eb5a043c68fa1cd",
+  "slug": "will-opalite-chris-lake-remix-taylor-swift-win-best-remixed-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x4c15e35f47f28c24ee773b59780db71700d9bc6b1f0ebb02a11e6705d3bdd3cd": {
   "created_at": "2026-09-27T20:12:02.40065Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -477,6 +497,15 @@
   "revisions": 1,
   "sha256": "95bc62b50f9a58963e398ce3381b4436934bc5cee23dfbbe491689e629b3c62d",
   "slug": "will-justin-jefferson-win-the-2026-nfl-mvp"
+ },
+ "0x51ba3b0a3b04f6dfa0e28668824e2bfd461b106c1858ba1dbd13f34a250060cd": {
+  "created_at": "2026-11-13T00:43:07.449379Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Left Alliance win the most seats in the 2027 Finnish parliamentary election?",
+  "revisions": 1,
+  "sha256": "38c42c6de399f846125ffd92daec1b4db401bed190baae908a6427a13496eef3",
+  "slug": "will-left-alliance-win-the-most-seats-in-the-2027-finnish-parliamentary-election"
  },
  "0x52e2d0e029629a05a190fba71ee0e337f3001a1cf74a30b0c4e9399fc519cfcd": {
   "created_at": "2026-09-08T16:53:31.252919Z",
@@ -709,6 +738,7 @@
   "created_at": "2026-10-25T04:00:28.952696Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will NVIDIA (NVDA) hit (LOW) $160 in November?",
   "revisions": 1,
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
@@ -767,6 +797,15 @@
   "revisions": 1,
   "sha256": "3d1c2d68967ac43c175192c1bc60912c50758c94827dce8b79ee89cd1a4f3a9f",
   "slug": "will-us-gdp-growth-in-2026-be-between-1pt0-and-1pt5"
+ },
+ "0x8897ddb5c82113bdf33c8890f42b299e062c7219b6e471f46dc1fd0ade1661cd": {
+  "created_at": "2026-11-12T19:16:31.945231Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sofia Virta be the next Prime Minister of Finland?",
+  "revisions": 1,
+  "sha256": "fe67f763c02a33bfda9c44f2d6ca1542fea0487970b1cb1d7cf6642e8da33b7c",
+  "slug": "will-sofia-virta-be-the-next-prime-minister-of-finland"
  },
  "0x8ae8d73f7795ca86c66babe3dd95903d4d5ddbea0ca6057e97da5d774f43dccd": {
   "created_at": "2026-08-24T16:38:13.516841Z",
@@ -931,6 +970,15 @@
   "sha256": "d89fff8ac04adf5b0befd0ef9007ef1b8b76f286d240c0c1f15faea3c288ac83",
   "slug": "will-botev-plovdiv-keep-the-most-clean-sheets-in-efbet-liga-bulgaria-2026-27"
  },
+ "0xa5e488e7e46522d59c86bd52562632e1d052a62566ecfad51a9796686908cccd": {
+  "created_at": "2026-10-25T17:45:25.107598Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 2 - 2 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-2-2"
+ },
  "0xa6d54c6ee8a4f9c220d86d9498182178c8060b80ee9d24c98bc500e7f5d073cd": {
   "created_at": "2026-02-18T22:47:44.552969Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -990,6 +1038,7 @@
   "created_at": "2026-10-02T20:14:27.31053Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will SkewMond have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1175,6 +1224,15 @@
   "revisions": 1,
   "sha256": "d61dddf5be3e1ef9a669c68e3adda07b2a80cee75ab0c7559677800e4af9ffb5",
   "slug": "venezuela-election-scheduled-by-december-31-2026"
+ },
+ "0xcc391c6e2778dd40277e1eb09fd3a2a0ebce0186da2901f93ccdec56708f34cd": {
+  "created_at": "2026-11-12T20:22:06.437397Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Younger You - Miley Cyrus & Lainey Wilson win Best Country Duo/Group Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "287d555bf57db395b21947beef72060ef3b65f07efe39749ff62cefb4082667b",
+  "slug": "will-younger-you-miley-cyrus-and-lainey-wilson-win-best-country-duo-group-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xcc7879234018d449549d3fb76103bc23a06e716cdbb67dcca6d0257e3a5b18cd": {
   "created_at": "2026-08-17T21:27:17.518252Z",

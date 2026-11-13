@@ -39,6 +39,7 @@
   "created_at": "2026-10-02T20:14:36.358313Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will CoreJJ have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -210,6 +211,7 @@
   "created_at": "2026-08-10T20:04:05.054278Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Marianne Utterdahl be the next Regional Board Chair of Region V\u00e4rmland?",
   "revisions": 1,
   "sha256": "6caac63e659de9e485779e8d4bd0bbf8adc310af391409508b27fb648aa26e58",
@@ -295,6 +297,15 @@
   "revisions": 1,
   "sha256": "d16da4c904f2657073e98d90d54e46175bdd8f087eff4f60bc64d0e3c384fa72",
   "slug": "will-candace-owens-be-arrested-before-2027-198"
+ },
+ "0x2f30daa1a99761d64d2d1fe1719291b584cee80d385ebc6720f6e993378673e0": {
+  "created_at": "2026-11-13T00:28:39.291584Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Natalie Portman win Best Actress \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bb3a08ebb0b40ee96c2abb2a0aff9e031572f257b5c5cc7c3526c588bf3d6ffb",
+  "slug": "will-natalie-portman-the-gallerist-win-best-actress-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0x2f8a229df3db5fac788b20cfad2dc5630787d034137ac21fa44902b70a5e95e0": {
   "created_at": "2026-06-17T23:20:54.519522Z",
@@ -1583,6 +1594,15 @@
   "sha256": "1e46a9375e903460f9ac2225008bd5a576aadff98893bd6d7a3225e3e6a2635d",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-17-house-election"
  },
+ "0xec45368f1dcdb4b6e8f0eeac2314d498f43a42e0dbc186dad4615d8119e70ee0": {
+  "created_at": "2026-11-12T20:23:55.113062Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Lo Bueno Viene Ya - Tony Succar & Mimy Succar win Best Latin Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6c023faa8525f6e6ef28b22c9355f9be93171921482e932f419fffad91a599d7",
+  "slug": "will-lo-bueno-viene-ya-tony-succar-and-mimy-succar-win-best-latin-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xec49818f0e36a60fb2885cbaf0ae9a3c361c26b786411709e51ae2b3c81a87e0": {
   "created_at": "2026-08-07T20:17:37.381345Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1646,6 +1666,15 @@
   "sha256": "6715266b03c2105cfb2ce9d80f28f65aa25a46f9f26e1f4bb344f13dffc22659",
   "slug": "will-elias-pettersson-2004-record-the-most-hat-tricks-in-the-2026-27-regular-season"
  },
+ "0xf00465bd5fbe3ca1f1a33ff302a471e3d9f5f018be88a7bf7b31e15f634ca5e0": {
+  "created_at": "2026-10-25T17:45:24.676446Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 1 - 0 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-1-0"
+ },
  "0xf09c6ec32d669912ecd752437167db7124e24b13dc33345f04fcd39c3bd5bee0": {
   "created_at": "2026-10-24T03:31:09.408157Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1670,6 +1699,7 @@
   "created_at": "2026-02-06T22:22:11.132572Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Aaron Long win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",

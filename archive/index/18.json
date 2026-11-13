@@ -532,6 +532,15 @@
   "sha256": "c80f74d4e0a25596173d114cde6d8e49c81f680a855a65653d79dccd35d827c4",
   "slug": "jumper-listed-on-bybit-within-30-days-of-tge"
  },
+ "0x44e5e3309bd5c2ff985f3e119c730839a03fa09720eaed385b95e5751e336518": {
+  "created_at": "2026-11-13T00:29:50.388239Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Steve Carell win Best Actor \u2013 Television Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c41e77269818a8c3eed007ff18d753454d019fb138b1d10bf787e4bd8b06f6bc",
+  "slug": "will-steve-carell-rooster-win-best-actor-television-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0x4607ab18fcc66dc2f0df52cf5242425eca1a1bf2c3e41f234417b7b598039518": {
   "created_at": "2026-08-11T17:53:58.963959Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -621,6 +630,15 @@
   "revisions": 1,
   "sha256": "c68f80fb6a732ff55972be1b72692465c9ec73f689374b5e497716c3537fde74",
   "slug": "will-lyon-finish-the-uel-league-phase-with-the-best-goal-differential"
+ },
+ "0x61625ebcb27076dee15840819b0535564af6237619ebcdc5077fb523c954a418": {
+  "created_at": "2026-10-26T09:00:10.192626Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: O/U 8.5",
+  "revisions": 1,
+  "sha256": "c09862187e8123da3569539c7971c468269bbaf707fd9214d790b33bca08c15c",
+  "slug": "por-est-csm-2026-11-08-total-8pt5"
  },
  "0x63038e548cf505c496ac5eefc480e1b0de3474bce04ef11f2709bca7215f1a18": {
   "created_at": "2026-07-24T01:47:35.52788Z",
@@ -859,6 +877,15 @@
   "sha256": "ab8bd1739556d889089323b6d5b1f585567620898a64ada7b16eb34fe2652267",
   "slug": "2027-soccer-chance-liga-czechia-runner-up-bohemians-1905"
  },
+ "0x969714f4016cd4ed24d0e1b88731eea03ba13e441b8497b6fecc4ed917395718": {
+  "created_at": "2026-10-26T09:00:11.465187Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "e1545da34c7467873d09cea8855d781ba8a4a7736765d43cd527e23e956abfaf",
+  "slug": "por-est-csm-2026-11-08-first-half-total-4pt5"
+ },
  "0x986512a84009cad7bf0bbd8bfa1e9f834e3fd6ed2bfecee636fab3b0844e5b18": {
   "created_at": "2026-07-20T20:17:29.101545Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1013,6 +1040,15 @@
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
   "slug": "scop-ran-abe-2026-10-31-exact-score-3-2"
+ },
+ "0xad06fe8015f17d90a7ec7efa6ef980371fc05087de1a6645f244e96094053318": {
+  "created_at": "2026-11-13T00:29:06.601455Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Zendaya win Best Actress \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "d2613250362daef7ca75e6dd4c34bf258355dd6ac687c0c6cf79c9a6cb7342f8",
+  "slug": "will-zendaya-dune-part-three-win-best-actress-drama-at-the-84th-golden-globes"
  },
  "0xae31ddd36793a0299da0e7a12dd5d1df08a08b8081a40e5006374a26dc3ed518": {
   "created_at": "2026-10-13T15:49:42.552354Z",

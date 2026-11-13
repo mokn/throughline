@@ -157,10 +157,20 @@
   "created_at": "2026-10-02T20:14:31.3161Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Hizto have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-hizto-have-the-most-kills-at-worlds-2026"
+ },
+ "0x1055606644e2930e461d5494ff30c9d254c0c6d0ba4b60f46982f29bd2e1fa72": {
+  "created_at": "2026-11-12T00:30:36.42736Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Koumba Diallo win The Voice: Season 30?",
+  "revisions": 1,
+  "sha256": "51b9d5274abc395645a15b4af92cda8887b7ce0646514da58ce5445256fd05c5",
+  "slug": "will-koumba-diallo-win-the-voice-season-30"
  },
  "0x1169c36beb30ab17567e70127ad490a25238396b155a699b9354ee348099e572": {
   "created_at": "2026-08-10T23:33:34.641404Z",
@@ -215,6 +225,15 @@
   "revisions": 1,
   "sha256": "a7ba3df03a605e3cbf80f760ada909afbc3d2c7069e796cd0be78839d01e7817",
   "slug": "will-the-ecb-make-no-change-to-the-deposit-facility-rate-at-the-february-2027-meeting"
+ },
+ "0x1467a7e34289f9ef09baa14b4dd081c712675c97182d5d0ea8b8e96e48d95072": {
+  "created_at": "2026-11-12T20:19:15.415166Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Nowhere Fast - Lucky Daye win Best R&B Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "032a80ed0b8cb47f30f9761437126f3901c0442b05c99a080768a2903807d980",
+  "slug": "will-nowhere-fast-lucky-daye-win-best-randb-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x14a91a627fef3440c80b8d6ecddf256da5b5b5d2231aa1de9ca94813a4389572": {
   "created_at": "2026-08-05T16:09:53.211328Z",
@@ -296,6 +315,15 @@
   "revisions": 1,
   "sha256": "f231c7198d6cb9d7858b87e57a34c2c10fdf50ac518329e00cfdf0239e83d41f",
   "slug": "will-titan-launch-a-token-by-december-31-2026"
+ },
+ "0x230d2a3530b90f2d739f5d0ecb6099e9a8dbb012fc89d1de8c667cd111b76372": {
+  "created_at": "2026-11-11T21:56:15.749392Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Vermont in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "b992eb3bb2e2f112a2292db5a5bf50e3fbab312ec5d190b0c2ef45979de2083b",
+  "slug": "will-the-democrats-win-vermont-in-the-2028-presidential-election"
  },
  "0x2631d1e272645cea5592457a4fc43f981ba1d3547f09d8e6520412b0de85d872": {
   "created_at": "2026-10-01T14:01:07.081109Z",
@@ -558,6 +586,15 @@
   "revisions": 1,
   "sha256": "c6fbcf8f1ee8c68b9a54e240abc2da73f95be9cac02131f7f13445cc9845185a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-co-02-house-election-by-0-20"
+ },
+ "0x4648a3fb0e9097b09fcb87f87a5e0bb996fdbf1a237f1318ef9f4cbdb08f5172": {
+  "created_at": "2026-11-12T20:23:41.406267Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Lo Que Me Falta Por Llorar - Grupo Frontera win Best Musica Mexicana Album (Including Tejano) at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d73aca3ad5307d8b5c10dbdc6012a0ab516795da78940a560ce08c34d59b71e8",
+  "slug": "will-lo-que-me-falta-por-llorar-grupo-frontera-win-best-musica-mexicana-album-including-tejano-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x4786ed4844b39a394f300ed71c606d6ec9ee04a6906d4192e99ec7f1bb3c0c72": {
   "created_at": "2026-10-26T23:55:03.591371Z",
@@ -901,6 +938,7 @@
   "created_at": "2025-10-10T19:33:33.369478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Democrats win the Mississippi Senate race in 2026?",
   "revisions": 1,
   "sha256": "49377a575bde2e76414546d59d139ad02c0290e34df69e59dc6dfe27018987aa",
@@ -1631,6 +1669,7 @@
   "created_at": "2026-10-02T20:14:26.083433Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Rookie have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

@@ -606,6 +606,15 @@
   "sha256": "39c5070d4257549e52ccf92754709dfc1ddd882b0c796793a007062ca27b24b3",
   "slug": "will-the-republican-party-candidate-win-the-2026-ms-03-house-election-by-20-25"
  },
+ "0x59579b21e8a27f924e0d84a42e6b1ac2a26f7182d1155078582b2fd1bc081d4b": {
+  "created_at": "2026-11-13T00:43:08.299289Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Christian Democrats win the most seats in the 2027 Finnish parliamentary election?",
+  "revisions": 1,
+  "sha256": "38c42c6de399f846125ffd92daec1b4db401bed190baae908a6427a13496eef3",
+  "slug": "will-christian-democrats-win-the-most-seats-in-the-2027-finnish-parliamentary-election"
+ },
  "0x5a685b6e2f07a8feef195a339bc94e9d320af5f8d1a6f926b394e8561d96834b": {
   "created_at": "2026-10-14T13:24:29.563596Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -981,6 +990,7 @@
   "created_at": "2026-02-06T22:22:23.40051Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Robin Jansson win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1213,6 +1223,15 @@
   "revisions": 1,
   "sha256": "e400e6bc73524c31d4c453bc4138590a03cde8a234342415c6f55e6d723201ff",
   "slug": "will-mike-quigley-win-the-2027-chicago-mayoral-election"
+ },
+ "0xc650f479777e82923a4098ed9f77dc06ab99325800d9c59d0e70bcb5d24b644b": {
+  "created_at": "2026-11-13T00:28:48.400594Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Primetime win Best Motion Picture \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
+  "slug": "will-primetime-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0xc9fccf87af2cb430cf5f97b5c25a6653f662c6bc8372fcaeece922f21f43ae4b": {
   "created_at": "2026-06-26T21:49:05.036888Z",
@@ -1495,6 +1514,15 @@
   "revisions": 1,
   "sha256": "26460ebd63a108fd3ee1a8425101b6cd653757ac15af989f648e0c1785257e42",
   "slug": "will-wilyer-abreu-win-the-2026-al-platinum-glove-award"
+ },
+ "0xf9f6460a2a71df533dcc4da0671d57b0ca26c832c9accb2651ca92322c6a194b": {
+  "created_at": "2026-11-13T00:31:03.130392Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sally Field win Best Actress \u2013 Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "ca1782a77322d8471b9d1d04a14fb31e7c59a5f6999b0fb45d24adf5c0357d09",
+  "slug": "will-sally-field-remarkably-bright-creatures-win-best-actress-limited-series-at-the-84th-golden-globes"
  },
  "0xfa4222dc241d090a8e54ebf68913cbea709290f6fe7cd9483b736267cb47244b": {
   "created_at": "2026-08-12T17:26:50.238791Z",

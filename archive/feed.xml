@@ -5,9 +5,165 @@
   <id>https://mokn.github.io/throughline/feed.xml</id>
   <link rel="self" type="application/atom+xml" href="https://mokn.github.io/throughline/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://github.com/mokn/throughline"/>
-  <updated>2026-11-11T14:22:59Z</updated>
+  <updated>2026-11-13T14:35:32Z</updated>
   <author><name>throughline rules-watcher</name></author>
   <generator uri="https://github.com/mokn/throughline">feed.py</generator>
+  <entry>
+    <title>Will Jay Puri be the next CEO of NVIDIA?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0xf74c2c32764c1c30ae9fec8ff310af9f43b6bd3683dac58b9b9bb913ad7fffea/2</id>
+    <updated>2026-11-12T15:15:16Z</updated>
+    <published>2026-11-12T15:15:16Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-jay-puri-be-the-next-ceo-of-nvidia"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/ea/0xf74c2c32764c1c30ae9fec8ff310af9f43b6bd3683dac58b9b9bb913ad7fffea.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-12T15:15:16Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-jay-puri-be-the-next-ceo-of-nvidia
+conditionId: 0xf74c2c32764c1c30ae9fec8ff310af9f43b6bd3683dac58b9b9bb913ad7fffea
+revision: 2
+seen: 2026-11-12T15:15:16Z
+sha256 before: 906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b
+sha256 after:  450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae
+
+--- 0xf74c2c32764c1c30ae9fec8ff310af9f43b6bd3683dac58b9b9bb913ad7fffea (before)
++++ 0xf74c2c32764c1c30ae9fec8ff310af9f43b6bd3683dac58b9b9bb913ad7fffea (after)
+@@ -5,5 +5,5 @@
+ Interim CEOs will not qualify.
+ 
+-If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Other”.
++If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Jensen Huang (No Change)”.
+ 
+ The resolution source will be public statements from NVIDIA Corporation, however a consensus of credible reporting may also be used.
+</content>
+  </entry>
+  <entry>
+    <title>Will Lisa Su be the next CEO of NVIDIA?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0xf282298236c2b9a66d6f7ca7cd17a23969ebba9d93b818210090d7add5f4a83c/2</id>
+    <updated>2026-11-12T15:15:16Z</updated>
+    <published>2026-11-12T15:15:16Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-lisa-su-be-the-next-ceo-of-nvidia"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/3c/0xf282298236c2b9a66d6f7ca7cd17a23969ebba9d93b818210090d7add5f4a83c.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-12T15:15:16Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-lisa-su-be-the-next-ceo-of-nvidia
+conditionId: 0xf282298236c2b9a66d6f7ca7cd17a23969ebba9d93b818210090d7add5f4a83c
+revision: 2
+seen: 2026-11-12T15:15:16Z
+sha256 before: 906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b
+sha256 after:  450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae
+
+--- 0xf282298236c2b9a66d6f7ca7cd17a23969ebba9d93b818210090d7add5f4a83c (before)
++++ 0xf282298236c2b9a66d6f7ca7cd17a23969ebba9d93b818210090d7add5f4a83c (after)
+@@ -5,5 +5,5 @@
+ Interim CEOs will not qualify.
+ 
+-If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Other”.
++If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Jensen Huang (No Change)”.
+ 
+ The resolution source will be public statements from NVIDIA Corporation, however a consensus of credible reporting may also be used.
+</content>
+  </entry>
+  <entry>
+    <title>Will Colette Kress be the next CEO of NVIDIA?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0xa82699004214aa3f755ede5d9e6d5c4850e3f69ec821a3b15433a1bd6a3a19aa/2</id>
+    <updated>2026-11-12T15:15:16Z</updated>
+    <published>2026-11-12T15:15:16Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-colette-kress-be-the-next-ceo-of-nvidia"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/aa/0xa82699004214aa3f755ede5d9e6d5c4850e3f69ec821a3b15433a1bd6a3a19aa.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-12T15:15:16Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-colette-kress-be-the-next-ceo-of-nvidia
+conditionId: 0xa82699004214aa3f755ede5d9e6d5c4850e3f69ec821a3b15433a1bd6a3a19aa
+revision: 2
+seen: 2026-11-12T15:15:16Z
+sha256 before: 906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b
+sha256 after:  450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae
+
+--- 0xa82699004214aa3f755ede5d9e6d5c4850e3f69ec821a3b15433a1bd6a3a19aa (before)
++++ 0xa82699004214aa3f755ede5d9e6d5c4850e3f69ec821a3b15433a1bd6a3a19aa (after)
+@@ -5,5 +5,5 @@
+ Interim CEOs will not qualify.
+ 
+-If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Other”.
++If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Jensen Huang (No Change)”.
+ 
+ The resolution source will be public statements from NVIDIA Corporation, however a consensus of credible reporting may also be used.
+</content>
+  </entry>
+  <entry>
+    <title>Will Madison Huang be the next CEO of NVIDIA?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0xa0afeccf72356d88deb62e63eb21ca44949d55f9c4d0a0d7bc1ff604751caf1e/2</id>
+    <updated>2026-11-12T15:15:16Z</updated>
+    <published>2026-11-12T15:15:16Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-madison-huang-be-the-next-ceo-of-nvidia"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/1e/0xa0afeccf72356d88deb62e63eb21ca44949d55f9c4d0a0d7bc1ff604751caf1e.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-12T15:15:16Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-madison-huang-be-the-next-ceo-of-nvidia
+conditionId: 0xa0afeccf72356d88deb62e63eb21ca44949d55f9c4d0a0d7bc1ff604751caf1e
+revision: 2
+seen: 2026-11-12T15:15:16Z
+sha256 before: 906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b
+sha256 after:  450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae
+
+--- 0xa0afeccf72356d88deb62e63eb21ca44949d55f9c4d0a0d7bc1ff604751caf1e (before)
++++ 0xa0afeccf72356d88deb62e63eb21ca44949d55f9c4d0a0d7bc1ff604751caf1e (after)
+@@ -5,5 +5,5 @@
+ Interim CEOs will not qualify.
+ 
+-If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Other”.
++If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Jensen Huang (No Change)”.
+ 
+ The resolution source will be public statements from NVIDIA Corporation, however a consensus of credible reporting may also be used.
+</content>
+  </entry>
+  <entry>
+    <title>Will Bill Dally be the next CEO of NVIDIA?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0x9913e01540453df27e7ca2182c0b2a9ce4de099d7cf7d4397bd80a3832916400/2</id>
+    <updated>2026-11-12T15:15:16Z</updated>
+    <published>2026-11-12T15:15:16Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-bill-dally-be-the-next-ceo-of-nvidia"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/00/0x9913e01540453df27e7ca2182c0b2a9ce4de099d7cf7d4397bd80a3832916400.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-12T15:15:16Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-bill-dally-be-the-next-ceo-of-nvidia
+conditionId: 0x9913e01540453df27e7ca2182c0b2a9ce4de099d7cf7d4397bd80a3832916400
+revision: 2
+seen: 2026-11-12T15:15:16Z
+sha256 before: 906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b
+sha256 after:  450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae
+
+--- 0x9913e01540453df27e7ca2182c0b2a9ce4de099d7cf7d4397bd80a3832916400 (before)
++++ 0x9913e01540453df27e7ca2182c0b2a9ce4de099d7cf7d4397bd80a3832916400 (after)
+@@ -5,5 +5,5 @@
+ Interim CEOs will not qualify.
+ 
+-If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Other”.
++If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Jensen Huang (No Change)”.
+ 
+ The resolution source will be public statements from NVIDIA Corporation, however a consensus of credible reporting may also be used.
+</content>
+  </entry>
+  <entry>
+    <title>Will Debora Shoquist be the next CEO of NVIDIA?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0x3c6918f6944f05883477c01f0f4380a63096e8e11f00c11595ac1aa1294c3358/2</id>
+    <updated>2026-11-12T15:15:16Z</updated>
+    <published>2026-11-12T15:15:16Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-debora-shoquist-be-the-next-ceo-of-nvidia"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/58/0x3c6918f6944f05883477c01f0f4380a63096e8e11f00c11595ac1aa1294c3358.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-12T15:15:16Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-debora-shoquist-be-the-next-ceo-of-nvidia
+conditionId: 0x3c6918f6944f05883477c01f0f4380a63096e8e11f00c11595ac1aa1294c3358
+revision: 2
+seen: 2026-11-12T15:15:16Z
+sha256 before: 906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b
+sha256 after:  450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae
+
+--- 0x3c6918f6944f05883477c01f0f4380a63096e8e11f00c11595ac1aa1294c3358 (before)
++++ 0x3c6918f6944f05883477c01f0f4380a63096e8e11f00c11595ac1aa1294c3358 (after)
+@@ -5,5 +5,5 @@
+ Interim CEOs will not qualify.
+ 
+-If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Other”.
++If no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to “Jensen Huang (No Change)”.
+ 
+ The resolution source will be public statements from NVIDIA Corporation, however a consensus of credible reporting may also be used.
+</content>
+  </entry>
   <entry>
     <title>Will Spider-Man: Brand New Day have the 3rd best domestic opening weekend in 2026?</title>
     <id>tag:throughline.markets,2026:polymarket/rules/0xfdbe0ebb1dd49620998b96761a653d1883154c4cd0b90eed91d5da585e8dd9b0/2</id>

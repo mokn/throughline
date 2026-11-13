@@ -209,6 +209,15 @@
   "sha256": "928887a65f3ba6f06ed24cde3ecefc156e6665354d9381867b62df1fe01a1229",
   "slug": "us-agrees-to-give-ukraine-security-guarantee-by-december-31"
  },
+ "0x27748e74503ff93d998d1e857980c43eca77c38efd61f642dd43d41a18525250": {
+  "created_at": "2026-11-12T21:16:47.864639Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "ee118a6a43e238956c571cf3239a2d5f4300b6e4e42942191e932705cd2f9b92",
+  "slug": "will-jensen-huang-rejoin-nvidia-by-december-31-2026"
+ },
  "0x2931fb7f1e46567cddee947deaee3ed6b45cf7bb589597e087f6e9ec093bf150": {
   "created_at": "2026-09-13T09:46:34.131087Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -418,6 +427,15 @@
   "sha256": "92f00a84b8e8f75bd9e98404818875a656b8a5f4723c9dcdec908912d8302bdd",
   "slug": "will-the-la-clippers-make-the-2027-nba-play-in-tournament-20260708212312778"
  },
+ "0x45fa0c15be0875e0b72a6216b9defa4674eea6b4c3939e9dae04b972b4d09f50": {
+  "created_at": "2026-11-13T00:30:40.043649Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Monster: The Lizzie Borden Story win Best Television Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "fa7585ea89db4c789e4f72fa38188bee8c8573ce7405aef1c9e6440d950bbe87",
+  "slug": "will-monster-the-lizzie-borden-story-win-best-television-limited-series-at-the-84th-golden-globes"
+ },
  "0x47dd328c41e51e524e209ed2e9569663e46942f5385bdea9c308d4cd48fe7750": {
   "created_at": "2026-08-11T18:17:42.571379Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -503,6 +521,7 @@
   "created_at": "2026-09-30T13:56:06.078878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will global temperature increase by between 1.30\u00baC and 1.34\u00baC in October 2026?",
   "revisions": 1,
   "sha256": "0427c028f1df41e8292994e6f22e840e8c80df52bdbe8a9ef4938f4888f27893",
@@ -618,6 +637,15 @@
   "revisions": 1,
   "sha256": "978e2aa15004c6ae41e9ab8624dcb5e2e80ddd04404c6d856307ae3f3982f60f",
   "slug": "will-bytedance-have-the-best-image-to-video-ai-at-the-end-of-november-2026"
+ },
+ "0x6134812a28eb97fead5cc060586c2944baeba6b420a7e7e66909caed402ad450": {
+  "created_at": "2026-11-13T00:31:21.452045Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"La Gradiva\" win Best Motion Picture - Non-English Language at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "595347e0e70da50563a074cea28f19feeee17ae879fc69445b8832bf20c8b9bc",
+  "slug": "will-la-gradiva-win-best-motion-picture-non-english-language-at-the-84th-golden-globes"
  },
  "0x6178fb4343c75f5234c8be496dc3e212e1a4507c5aea3ef8d50c5efefac19350": {
   "created_at": "2026-08-12T14:54:32.653348Z",
@@ -828,6 +856,15 @@
   "sha256": "5a47dda98afb198f159b526c5e61fbd7b50afa70d682a0450233e8dbfc667f8f",
   "slug": "will-godzilla-minus-zero-be-nominated-for-best-visual-effects-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x7d69daaff07a7a79e1d508dc573cf9efc31d0a3c799a8a623405806f23094150": {
+  "created_at": "2026-11-12T20:19:11.526513Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will LOOK OUT FOR ME (KETTAMA VERSION) - Turnstile win Best Remixed Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "74b6d84d7a91f06a81d76631aaee5f8b4c95712374b44acf3eb5a043c68fa1cd",
+  "slug": "will-look-out-for-me-kettama-version-turnstile-win-best-remixed-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x7d7f3b2eab067ad6c89b91f4123c653d5fd04ce748dcbf2d4e58020d2eadad50": {
   "created_at": "2026-09-17T22:00:32.539471Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -877,6 +914,7 @@
   "created_at": "2026-08-11T18:42:19.509662Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-04 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "46fbc49f95bd204a6feef13acddf5a56e7b102e2951db9fc8f5009df01e9f42a",
@@ -1166,6 +1204,7 @@
   "created_at": "2026-09-09T15:52:44.745716Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Unai Emery be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
@@ -1589,6 +1628,15 @@
   "revisions": 1,
   "sha256": "34dec67357a2d9bf347dc85ca40fa7b34fd72b7e2e00373995f06b0066797661",
   "slug": "will-rio-ave-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0xf207b2ec7011cec7e7ecfccab965412bf6b00473ee7e1abe7cfed5e3baba5150": {
+  "created_at": "2026-10-25T17:45:24.981898Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 3 - 0 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-3-0"
  },
  "0xf4cc006584f941bf3190edef784974f537e4b334a41706ae13270a162f758450": {
   "created_at": "2026-08-24T16:38:15.453087Z",

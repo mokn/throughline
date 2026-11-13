@@ -819,6 +819,7 @@
   "created_at": "2026-10-30T15:08:32.588618Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will a 6.0+ magnitude earthquake occur in Japan this month?",
   "revisions": 1,
   "sha256": "873f98771a395c3f20d9ff67f3210ca371405605ebdbf301fb8ce9f6a0b0e5df",
@@ -1699,6 +1700,15 @@
   "sha256": "9e3aee58a1396e917fd183f6f2c29148e7a31110d0b40f3f1dde71fe57204eee",
   "slug": "will-the-openai-spy-be-accused-of-working-for-meta-by-december-31-20261014120000010"
  },
+ "0xf0161de5784f0fd0d2bfdd9fd14051cf6cc53884e399e79e3b6380aafaecb326": {
+  "created_at": "2026-10-25T17:45:24.904122Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 1 - 2 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-1-2"
+ },
  "0xf40a33dcdc5af0ac8535be37a6ad75bb255a8a4844652f9564cf72f1cf563926": {
   "created_at": "2026-10-02T23:00:15.099839Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1770,6 +1780,15 @@
   "revisions": 1,
   "sha256": "54970f3d1d5794eac4863eb081d430b64f0aaf459ae7e656aca537eab37a8951",
   "slug": "will-eintracht-frankfurt-finish-3rd-in-bundesliga-2026-27"
+ },
+ "0xfbc986b5ad73cd72216be199e044e34152a996bc0d6fd681337b923e673a1f26": {
+  "created_at": "2026-10-25T17:45:26.090546Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 5 - 5 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-5-5"
  },
  "0xfe82c7f04349cb5de9f7983a43d5efd3d5c3870109f2049c731d1a01c8d4e626": {
   "created_at": "2026-09-27T20:11:59.797682Z",

@@ -526,6 +526,15 @@
   "sha256": "c2104a3df697a21d1706af59f673e0554262af216018b19f94562c8da99432b2",
   "slug": "will-marco-rubio-leave-the-trump-administration-before-2027"
  },
+ "0x4a2597fc384ad2ed03c8ede7c6c6828edc9fcc98a985e0b8bea60639b0b3378a": {
+  "created_at": "2026-11-13T00:31:19.898363Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"All of a Sudden\" win Best Motion Picture - Non-English Language at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "595347e0e70da50563a074cea28f19feeee17ae879fc69445b8832bf20c8b9bc",
+  "slug": "will-all-of-a-sudden-win-best-motion-picture-non-english-language-at-the-84th-golden-globes"
+ },
  "0x4b49fed4972b05bae6a140ba59ea65eda1c77b69428d995c391c709761fc468a": {
   "created_at": "2026-10-24T11:31:02.294822Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -580,10 +589,20 @@
   "sha256": "612577467fcea908a82e9784d02f825bb44ec9bd990c1d2157b88e82054bf052",
   "slug": "will-hwaseong-fc-be-promoted-to-k-league-2026"
  },
+ "0x5290c6e18b480b16d3ecc57bbb62643cba0567ccdaceb6f63ec1b41f99bedd8a": {
+  "created_at": "2026-11-12T20:18:52.466312Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Fire Away - Madeon feat. Slayyyter win Best Dance/Electronic Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "095956ddf8c5da2f78397d7eb3f0173d9970934b3218444d263be9be3a797462",
+  "slug": "will-fire-away-madeon-feat-slayyyter-win-best-dance-electronic-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x52a1fafa441b4076fce9f59cd3bb36199d77f99c7f4f1f10e774a1f63643688a": {
   "created_at": "2026-09-09T15:19:07.760921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Montenegro win 2026-27 Nations League Group C2?",
   "revisions": 1,
   "sha256": "19accb9f6bceb396fa8173744f506db26ac912676b073a3bb1a2563818918eac",
@@ -1111,6 +1130,7 @@
   "created_at": "2026-02-06T22:22:36.927774Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Joel Waterman win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1624,6 +1644,15 @@
   "revisions": 1,
   "sha256": "b499b32a5b099c6cdde69f1823895ac8efdf14221371b495900f4be8e542d2de",
   "slug": "will-clarissa-win-best-casting-at-the-99th-academy-awards-20260805190946811"
+ },
+ "0xf929d22860df17e8df410541bd89e164f5a53fcc0e1288d07ce57942f0bc5a8a": {
+  "created_at": "2026-11-13T00:28:22.802024Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Ray Gunn win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-ray-gunn-win-best-motion-picture-animated-at-the-84th-golden-globes"
  },
  "0xf95070df8ffeea907c6aade17a29076a2545f1d90afd93f427a8b06b2b45228a": {
   "created_at": "2026-10-20T23:04:31.463572Z",

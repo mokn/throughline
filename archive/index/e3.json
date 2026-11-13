@@ -366,6 +366,7 @@
   "created_at": "2026-11-02T18:37:09.846169Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will DetonatioN FocusMe qualify for LCP 2027?",
   "revisions": 1,
   "sha256": "5a7b40d25a2e3e66eaaefa293ce026747624ca23741c59cfe8d2d7980ae2d1b8",
@@ -733,6 +734,15 @@
   "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
   "slug": "will-wyatt-cullen-win-the-2026-27-calder-trophy-20260624213344007"
  },
+ "0x6db00428a39495c5f528468b7d16941797647e5a8e3d043f998e142c68a93ce3": {
+  "created_at": "2026-11-13T00:30:12.835037Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Gary Oldman win Best Actor \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "e688ca737373350f605cffbe85396233f7808fe2802eef466d9c6ad33d94af1c",
+  "slug": "will-gary-oldman-slow-horses-win-best-actor-television-drama-at-the-84th-golden-globes"
+ },
  "0x6e746b1a51630fef866544495094437b6244522644de7ac8ce1b6d8e98e8cce3": {
   "created_at": "2026-09-08T16:53:16.121657Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -890,6 +900,7 @@
   "created_at": "2026-10-02T20:14:39.315589Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Isles have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1085,6 +1096,15 @@
   "sha256": "6be69649c48798a73226581df24de9fc5911e50be9a75800f7a15c4e57158260",
   "slug": "will-the-la-clippers-make-the-2027-nba-playoffs-20260708210742385"
  },
+ "0x92b59d15325a9a25f8e3fd32efcebacd0dc4716facc71a9cf0041ea7f73360e3": {
+  "created_at": "2026-11-12T00:30:43.677757Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Connor Closs come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-connor-closs-come-in-third-place-on-the-voice-season-30"
+ },
  "0x93585e3001d291851955215504590cdbadaf7ff73a144fc1add7eb62b48a9be3": {
   "created_at": "2026-10-11T11:15:30.455737Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1194,6 +1214,15 @@
   "sha256": "95faa9c0ecc57ddc6dddb806477d707db701126ef80f8f5d7fa6e12f792d296f",
   "slug": "will-pp-win-the-most-seats-in-leon-in-the-2026-spanish-general-election"
  },
+ "0xa061936eb5cbf09233d86793319aa5ca810e91b2fdfead313dd9232a515281e3": {
+  "created_at": "2026-10-26T09:00:13.58664Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: CS Mar\u00edtimo O/U 5.5",
+  "revisions": 1,
+  "sha256": "c1ea9b868737d6065d4dc11058bae548dcc846865ab8ae683266c18680209f30",
+  "slug": "por-est-csm-2026-11-08-team-total-away-5pt5"
+ },
  "0xa5c3835f19c9a90cfc5df90719f73ad4e2c1df1e565f30eb25acbe5ef85a02e3": {
   "created_at": "2026-09-08T16:52:51.781772Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1274,6 +1303,15 @@
   "revisions": 1,
   "sha256": "8347625122e806c538637284a65c216b7f7b6c36f0ab3438bec5d694679a3cb4",
   "slug": "colston-loveland-5pt5-receiving-touchdowns-2026-27"
+ },
+ "0xaf4e43ab2a8a60d1dce0ba1abcf4fe0aa201bff2e01930780a8c9ed97134bbe3": {
+  "created_at": "2026-11-13T00:30:42.396033Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Carrie win Best Television Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "fa7585ea89db4c789e4f72fa38188bee8c8573ce7405aef1c9e6440d950bbe87",
+  "slug": "will-carrie-win-best-television-limited-series-at-the-84th-golden-globes"
  },
  "0xafc7dbc6ab84428c5d59efde91b6319bbb940e3f5de3a33b961592d31c160ce3": {
   "created_at": "2026-10-14T13:21:45.214116Z",

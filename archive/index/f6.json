@@ -180,6 +180,15 @@
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-trey-murphy-iii"
  },
+ "0x1b7f169f8274f2030362feea2c043b1760a7071d3b9511f76dfad201d096d0f6": {
+  "created_at": "2026-11-12T20:23:12.749372Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will M$NEY - ASAKE win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-msney-asake-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x1c254febb4e973bd8f5cbc88821a7abccb2209fb5b6c71e5718b90fe05484cf6": {
   "created_at": "2026-08-12T00:13:39.485963Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -537,6 +546,7 @@
   "created_at": "2026-08-18T14:27:32.37147Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Vermont be between 225,000 and 250,000?",
   "revisions": 1,
   "sha256": "1793b0484da3522c6db831e6a4fdc7503edf01757a1b8c691cba446b01dda07b",
@@ -1204,6 +1214,15 @@
   "sha256": "68178190da80e62a440ab458f51b1c95120c49ea32c68d7da98e62d2fbc64b25",
   "slug": "scop-ran-abe-2026-10-31-spread-away-5pt5"
  },
+ "0xb7e58bb8beb863161f6e85c1ee06f1f912125bbab0f0eddf2c40f6967aecbef6": {
+  "created_at": "2026-11-12T18:36:25.960457Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Trump pardon Jensen Huang before 2027?",
+  "revisions": 1,
+  "sha256": "0c940ea091cf92ca8b2d15805b7a01a2992d7b82ae3a8e3f361ff29a8531144c",
+  "slug": "will-trump-pardon-jensen-huang-before-2027"
+ },
  "0xb7efa9c7d7d007df76ef9fa24ad01c51cbe9464b096740a4ae8c37dc0fcf7df6": {
   "created_at": "2025-07-03T20:37:37.424486Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1336,6 +1355,7 @@
   "created_at": "2026-10-02T20:14:32.812908Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will POUT have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1467,6 +1487,15 @@
   "revisions": 1,
   "sha256": "d784690074a47bbf487a57b05a115a8ac22373a63e6982a4b72a24cd204f08e3",
   "slug": "will-the-ornn-rtx-5090-index-be-at-least-0pt75-on-november-30-2026"
+ },
+ "0xd57686ccb1d47c89ba09560f05bf782af4a1dcd991d089f0448f3a2e83569df6": {
+  "created_at": "2026-11-13T00:29:56.689461Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Ayo Edebiri win Best Actress \u2013 Television Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "592f57b442c7012aa46eccc53126cdbf133ebca82ca3af644b6e46f858c29a68",
+  "slug": "will-ayo-edebiri-the-bear-win-best-actress-television-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0xd660dfb9fb7bec1d1b8ff9ebd8087579e9a7bf96d2366f748b5aa8aebe7e8df6": {
   "created_at": "2026-07-02T18:53:35.349616Z",

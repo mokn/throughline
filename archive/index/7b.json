@@ -19,6 +19,15 @@
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
   "slug": "drake-london-first-to-1000-receiving-yards-2026-27"
  },
+ "0x044ef74499f3421f254a01389ccda010fe6a90e5323903cca23feca8786d6d7b": {
+  "created_at": "2026-11-13T00:31:10.155478Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Joy Sunday win Best Supporting Actress \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c9bc492e6569d31177f6be3f9965619663e806f47d9da629cb3ae6069fe9f203",
+  "slug": "will-joy-sunday-dtf-st-louis-win-best-supporting-actress-television-at-the-84th-golden-globes"
+ },
  "0x050e3ec9e25f9fc7c8b4105c25108487d25a352059ab75f7a0e75ac2d38ed07b": {
   "created_at": "2026-08-20T21:18:23.772471Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -81,6 +90,15 @@
   "revisions": 1,
   "sha256": "203ad924c787fececb824f8292fd3158a82f1f4e607f2734f107990c28a26090",
   "slug": "cze1-fsl-fbo-2026-10-24-first-half-team-total-away-0pt5"
+ },
+ "0x0e000c5efe9d44a7c514c1fff590977d0be01f0357f4b2bf664cf4f9bdc0e87b": {
+  "created_at": "2026-10-25T17:45:25.196331Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 4 - 0 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-4-0"
  },
  "0x0e90d70d1decff242ea472b4f9810203923b1399c4082ec83a14ba979dd8ed7b": {
   "created_at": "2026-11-10T02:41:34.039714Z",
@@ -458,6 +476,7 @@
   "created_at": "2026-11-11T01:19:27.979017Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the next Gemini model family be named Gemini Barium?",
   "revisions": 1,
   "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
@@ -744,10 +763,20 @@
   "sha256": "840cf2dfa7b16b1c32843d7fba5084c8d09f2bf9b92911c9638267edec80df5c",
   "slug": "will-aston-villa-finish-in-the-top-10-of-the-2026-27-english-premier-league-season"
  },
+ "0x77b5e91ec4ed4751c29f4550d028d873d05efa9f635b36125adf6e879e26317b": {
+  "created_at": "2026-11-13T00:28:56.440375Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Emmanuel Macchia win Best Actor \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f467bbf9407466481b1b57709202968e28f6dbaba9b5ace503cc614a41ed25e6",
+  "slug": "will-emmanuel-macchia-coward-win-best-actor-drama-at-the-84th-golden-globes"
+ },
  "0x77c6332db73bc1f50bece922befabab94ee4d5e66f01d36d06fff84a3037ba7b": {
   "created_at": "2026-10-27T22:08:30.196048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "NATO downs another Russian drone before Russia x Ukraine peace talks?",
   "revisions": 1,
   "sha256": "e3f10948c57209492f0641993526fc1de32d7238502c2fb197f22cf8be3cac01",
@@ -806,6 +835,15 @@
   "revisions": 1,
   "sha256": "e5197db821a495a56b97446d322c8c01b4eece8390ffdea0fdcd2afab58e5da6",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-pascal-siakam"
+ },
+ "0x844cd9da2b1a922ba835b1e809707a5b113f2929614b58220941eff0cbf6fe7b": {
+  "created_at": "2026-11-12T00:30:43.11653Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Lexi Stephens come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-lexi-stephens-come-in-third-place-on-the-voice-season-30"
  },
  "0x858e1152d2202c59b2c240340ba4fdc76681d12d52767c895656ed569b13317b": {
   "created_at": "2026-08-11T18:36:38.035012Z",
@@ -1545,6 +1583,7 @@
   "created_at": "2026-03-26T16:21:27.430886Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Mickey Moniak win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",

@@ -1,0 +1,9 @@
+This market will resolve according to the UK real gross domestic product (GDP) growth rate (% change) for Q4 of 2026 compared with the most recent quarter (quarter-on-previous-quarter) in the "GDP first quarterly estimate, UK" release for Q4 of 2026, scheduled for February 12, 2027.
+
+The GDP release will be made available here: https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/previousreleases
+
+If no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.
+
+Note: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution.
+
+Note: the resolution source for this market reports GDP growth rates to only one decimal point (e.g. 1.8%). Thus, this is the level of precision that will be used when resolving the market.

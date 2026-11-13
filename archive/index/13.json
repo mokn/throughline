@@ -492,6 +492,15 @@
   "sha256": "5acf4c620e788d6168d3d3dde6a6149ec6bb1442d15fb5ec0d8fb8b2206dab2d",
   "slug": "will-the-republican-party-win-the-mi-05-house-seat"
  },
+ "0x436e274c710112ddead0272b65d3e135bce21329a97b8335aa4bce73fbd79213": {
+  "created_at": "2026-11-12T22:43:21.59423Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang join SpaceX next?",
+  "revisions": 1,
+  "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
+  "slug": "will-jensen-huang-join-spacex-next"
+ },
  "0x44dd0d4c90d1ab8f1be6162af992787de5cbec135fe5ef3cbb38489c23e54a13": {
   "created_at": "2026-10-14T12:25:54.633216Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -624,6 +633,7 @@
   "created_at": "2026-03-25T17:45:17.334321Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Anthony Volpe win the 2026 AL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "25389de95890e91516a2c43e1c2e8540de33fceb80a677b357e5d14822ee7214",
@@ -660,6 +670,7 @@
   "created_at": "2026-08-05T20:21:09.514567Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 Oklahoma gubernatorial election by 10%-15%?",
   "revisions": 1,
   "sha256": "a72bc4d4fb996cc353eb627bb7a62d5e85f65118421991b2a0eaca484baa6044",
@@ -669,6 +680,7 @@
   "created_at": "2026-08-04T18:33:46.316498Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 Oklahoma Senate election by 25%-30%?",
   "revisions": 1,
   "sha256": "d4293a3a168b1bab5c5850ef393718e48d472e3fe33ea0a48af0701ebb7ecc9f",
@@ -887,6 +899,7 @@
   "created_at": "2026-08-18T14:23:08.33289Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Oklahoma be between 1,200,000 and 1,300,000?",
   "revisions": 1,
   "sha256": "8e44947e857a210c2e5d2e995797a19a59c6e19f6457a5b476cc660700e87113",
@@ -1077,6 +1090,7 @@
   "created_at": "2026-02-06T22:22:21.30444Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Brendan Hines-Ike win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1163,6 +1177,15 @@
   "revisions": 1,
   "sha256": "25a89d04471a8f7162669d2b6396e9b8f4bfb69f96fdf43799cf75356c49087f",
   "slug": "will-pt-win-the-most-seats-in-the-2027-sonora-congress-election"
+ },
+ "0xa12ed4608eceb9ab8bf657f7b6ea6ee0e41b6cf90e8ed26f3142b87e754a2e13": {
+  "created_at": "2026-11-13T00:35:28.793123Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"How to Write a Song Without You\" (Power Ballad) win Best Original Song - Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "922c8c583e3bf02e11cdbc9901cc158f0fda43ad0c314c17764ce186906a40c3",
+  "slug": "will-how-to-write-a-song-without-you-power-ballad-win-best-original-song-motion-picture-at-the-84th-golden-globes"
  },
  "0xa1678dd1e4f144fc3e7b0a8143a98e4cd9cdc6d0a046db6593975d304c91d213": {
   "created_at": "2026-09-04T19:25:50.497058Z",
@@ -1326,10 +1349,20 @@
   "sha256": "6715266b03c2105cfb2ce9d80f28f65aa25a46f9f26e1f4bb344f13dffc22659",
   "slug": "will-connor-mcdavid-record-the-most-hat-tricks-in-the-2026-27-regular-season"
  },
+ "0xb39b3f642725ac6a905d470bdb24ca9fbf7b952400112ef34ad06840364e5813": {
+  "created_at": "2026-11-11T21:57:33.542154Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Idaho in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "589a968b02080d6f92905db4fdc05244e1931a847bc79f25036d66a1b5022d63",
+  "slug": "will-the-democrats-win-idaho-in-the-2028-presidential-election"
+ },
  "0xb3e7895021a5afbd7e0d4eb0bffd6b504600733b378a0c143db5cf88eaa04c13": {
   "created_at": "2026-08-12T16:51:32.890508Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Ernesto Concha La Torre win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
@@ -1417,6 +1450,15 @@
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
   "slug": "will-carlos-eduardo-cruz-michilot-win-the-next-piura-mayoral-elections-20260811165718005"
  },
+ "0xbece01f974156c836175db477805ec8388e678da4e2cd810415ec62bf2598713": {
+  "created_at": "2026-11-12T20:23:10.013654Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will ALKEBULAN III: The Water Remembers - Matt B & Royal Philharmonic Orchestra win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-alkebulan-iii-the-water-remembers-matt-b-and-royal-philharmonic-orchestra-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xbeefb3c4a36cbf1c55da6e7096119873c20c7470fcab20486e3869f225c6e813": {
   "created_at": "2026-08-28T20:17:48.310863Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1443,6 +1485,15 @@
   "revisions": 1,
   "sha256": "499374c1288f6e863bc08757864a0fd46f2495b6116db565e373d2120ca32326",
   "slug": "will-chainlink-reach-20-by-december-31-2026"
+ },
+ "0xc10feb1c8c886989af74bf88726e9102a58074815b229413e79fa990b79b6f13": {
+  "created_at": "2026-11-11T21:56:53.787003Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Nebraska in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "a3ae2d10e36b38da99f8dfb3c2cdad0fa9a1c33e3e216649f75ea24acab6ff3b",
+  "slug": "will-the-republicans-win-nebraska-in-the-2028-presidential-election"
  },
  "0xc130fe154397a056aec04120f0fc6ff7ed6a5bb29e13ef36ecbe90cc654d5d13": {
   "created_at": "2026-09-02T20:15:14.973629Z",
@@ -1785,6 +1836,7 @@
   "created_at": "2026-10-02T20:14:25.066815Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Zhuo have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

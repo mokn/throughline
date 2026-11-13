@@ -58,6 +58,7 @@
   "created_at": "2026-10-28T22:20:18.11536Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Gemini Carbon debut with an HLE-Diamond score of 65% or higher?",
   "revisions": 1,
   "sha256": "7a720457dd87aeeedb323ccfdaf664895f4a2fc878bf47518fe0640171ff7c91",
@@ -108,6 +109,15 @@
   "sha256": "c846b05b0169bfef7fb45eb12b6ac41b4ba3a8f895b75f81c89f0f330885c392",
   "slug": "msft-above-495-on-november-30-2026"
  },
+ "0x10748b4272dbf3103647b8ab3b148d14905c5e3aaff8f8c1f5c4c89a1572706f": {
+  "created_at": "2026-11-12T20:23:30.466056Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will OMERTA - J Balvin & Ryan Castro win Best Musica Urbana Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8d8b22c91f4ff74099365b99cfed0ae0abcfcc9a53b5543426eb61974dbc6f5",
+  "slug": "will-omerta-j-balvin-and-ryan-castro-win-best-musica-urbana-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x10a5335e84d666314bd4d93c372525e8a80f4319dd50c4bd54cf992f344ecf6f": {
   "created_at": "2026-09-04T20:09:40.062897Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -125,6 +135,15 @@
   "revisions": 1,
   "sha256": "bdbef12b21902b38aaf8feb1804c3ed51c6c3b7c5f8ffbeb79308db6cfbb4558",
   "slug": "neutrl-fdv-above-1b-one-day-after-launch"
+ },
+ "0x12f6bd5f354789fd7faa0a2cc15f8adbef5a5bfe231b0eee2f5789c9e382c86f": {
+  "created_at": "2026-11-12T18:41:07.467611Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Kazakhstan by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-kazakhstan-by-december-31-2027"
  },
  "0x13580f8b99c3040a5f82076569f9a2b522980adec081f47ab9ccb746ad97f06f": {
   "created_at": "2026-01-02T21:01:14.65686Z",
@@ -1063,6 +1082,15 @@
   "sha256": "69b4f546a4c7f851f5b5395d5839eb2d6a870a8fb94477903840e02651f050e9",
   "slug": "first-player-to-win-their-first-major-in-2027-michael-brennan"
  },
+ "0x91e8cb5b5994c0b4c3aa139e8f3e6882a5b02f0fd9e4cc6681faa208b658466f": {
+  "created_at": "2026-11-13T00:42:56.482596Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Snoop Dogg appear at the 2026 NFL Christmas Day halftime show?",
+  "revisions": 1,
+  "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
+  "slug": "will-snoop-dogg-appear-at-the-2026-nfl-christmas-day-halftime-show"
+ },
  "0x92ee09879ea9b629482b325cabb4c2b9d09ea3b21de3b49419356890c716296f": {
   "created_at": "2026-08-06T08:32:21.140483Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1254,6 +1282,15 @@
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
   "slug": "f1-brazilian-grand-prix-practice-1-fastest-lap-oscar-piastri-2026-11-06"
  },
+ "0xb28a8baf842497a943c31ade7d77c47d871e4d0c4a5e41e560f92759bc2e376f": {
+  "created_at": "2026-11-13T00:35:07.219443Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will La Bola Negra win Best Original Score \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "de88a60b19ce31d141aab26b385fe06bf50e51181824d28f3c7d70e839146104",
+  "slug": "will-la-bola-negra-win-best-original-score-motion-picture-at-the-84th-golden-globes"
+ },
  "0xb3029a7c60900c84d64a31071e49a9739d93ae6fd2b6ce8d0baa4f09370f706f": {
   "created_at": "2026-09-04T19:45:05.868947Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1317,6 +1354,24 @@
   "revisions": 1,
   "sha256": "a5dc3ebd69ce481719c52c39c4fc5ccb1f14d91b6e2d555ccce367952b323845",
   "slug": "will-the-republican-party-win-the-md-06-house-seat"
+ },
+ "0xbe0bf27c0a7cb5659c3f458ccdbadff0f55cf07efa64991b42249d7e1980526f": {
+  "created_at": "2026-10-25T17:45:24.71891Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 0 - 2 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-0-2"
+ },
+ "0xbf0e55463c19d86d7aeb37175e6138a843cc9742e56e905b4a9a09a02cde686f": {
+  "created_at": "2026-11-13T00:35:04.724808Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Odyssey win Best Original Score \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "de88a60b19ce31d141aab26b385fe06bf50e51181824d28f3c7d70e839146104",
+  "slug": "will-the-odyssey-win-best-original-score-motion-picture-at-the-84th-golden-globes"
  },
  "0xc572eb0557eaf6ff222c40ad398d8c02d49e9cdd46be9ea9f1213506405a456f": {
   "created_at": "2026-08-21T17:37:23.14387Z",
@@ -1550,6 +1605,7 @@
   "created_at": "2026-07-23T22:42:42.874132Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the highest score achieved by an Anthropic Claude model on Humanity\u2019s Last Exam in 2026 be 65% or higher?",
   "revisions": 1,
   "sha256": "019ad3790b228cd0afd79128181f0964cf207e4a0996102aaa0e96d53ff051b9",

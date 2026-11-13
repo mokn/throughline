@@ -968,6 +968,15 @@
   "sha256": "ec3dab1fba7a90cb882188ca92c01407a4e9eefbe8cf01de63e66fdf1a84cce6",
   "slug": "will-rocky-beers-be-the-2026-sec-receiving-yards-leader"
  },
+ "0xaa99a6a1af827b3bc45379593c951a2911473f586f2c26e61f8c4e728302bf28": {
+  "created_at": "2026-11-13T01:37:16.541058Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Louis C.K. win Best Performance in Stand-Up Comedy on Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "00915a05e9edf7dd49ed0f6f406a6e3ea4b367c6136ca44e094c18038eb59ebe",
+  "slug": "will-louis-c-k-ridiculous-win-best-performance-in-stand-up-comedy-on-television-20261112"
+ },
  "0xacc269d80ce7903b7212613d5012ecf3bb12f7c323e79028b0fc46123b439e28": {
   "created_at": "2026-10-09T16:39:15.05614Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1045,6 +1054,7 @@
   "created_at": "2026-02-06T22:22:25.456098Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Kamal Miller win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1223,6 +1233,15 @@
   "sha256": "c69f2d3d5f974b1ae8675cafa5f90618f548a1a1a7df88910ad8eed046326530",
   "slug": "will-rafael-fiziev-be-the-ufc-lightweight-champion-on-december-31-2026"
  },
+ "0xcd77aba6e7c00bb177803504e7de0793083956b8fdab8f610c37f3ac77554228": {
+  "created_at": "2026-11-13T00:28:54.924602Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sebastian Stan win Best Actor \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f467bbf9407466481b1b57709202968e28f6dbaba9b5ace503cc614a41ed25e6",
+  "slug": "will-sebastian-stan-fjord-win-best-actor-drama-at-the-84th-golden-globes"
+ },
  "0xcf27bb5f79f6e2cafb8fdae60dda23da0842aa164b106c067d1e1393d3e07e28": {
   "created_at": "2026-04-23T13:42:21.395104Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1371,6 +1390,15 @@
   "revisions": 1,
   "sha256": "a01b6606ea69e8d85d43223e40f02727f1e1cd7da55bd9531b6a1f0a40938365",
   "slug": "jameson-williams-1099pt5-receiving-yards-2026-27"
+ },
+ "0xe0a3376dd5b502a47844bb7718cd2b60e65076049055119198491b1ca2d5a528": {
+  "created_at": "2026-11-11T21:56:45.281065Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Oklahoma in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "f341f4ccef39728d58b89fa5a45dff5f799ae41dbc15e5b56213554694c8bf0b",
+  "slug": "will-the-democrats-win-oklahoma-in-the-2028-presidential-election"
  },
  "0xe25b0be3d538078068d0bf2fd311bfbda4b07be31bee8ac4cdf1a0999d2bf328": {
   "created_at": "2026-01-28T15:30:28.358262Z",

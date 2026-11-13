@@ -81,6 +81,15 @@
   "sha256": "7f86005e698dd2fe58c794046e339225fde33b187028f2d136c879da6c836409",
   "slug": "will-indonesia-recognize-israel-by-december-31"
  },
+ "0x1170445d09d45fda3c3efb0d0e9a4b92837c98b5fb574faf850f99ad721d60f0": {
+  "created_at": "2026-11-11T21:57:51.12177Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win California in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "9cad5ad817ef736c8d04a94932819ee003d48ff11146a5df646a8ed6b3c9cee8",
+  "slug": "will-the-democrats-win-california-in-the-2028-presidential-election"
+ },
  "0x124c61c4bf1967c1a379b54830625879e34fd026769daacb8c86a6013eb400f0": {
   "created_at": "2026-10-15T10:17:54.681755Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -243,6 +252,15 @@
   "revisions": 1,
   "sha256": "07fa6c93886e79a7dcc75aea4cd065793327718a75d9aa6d119a60769be0a057",
   "slug": "nba-2026-27-most-improved-player-egor-demin"
+ },
+ "0x2a256c18683ff955f02072cd9969a52d5770b9301e3e557065330442d1c067f0": {
+  "created_at": "2026-11-12T20:23:14.950804Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will HOPE!! - Angelique Kidjo win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-hope-angelique-kidjo-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x2b0cad810403b22bf530869272aff24f17ab1721c0e27e4ece6687f5a466f2f0": {
   "created_at": "2026-08-24T16:32:34.990342Z",
@@ -1077,6 +1095,7 @@
   "created_at": "2026-10-13T23:25:00.960797Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will \"Big Walk\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
@@ -1545,6 +1564,15 @@
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
   "slug": "el1-bra-bar-2026-09-26-exact-score-0-2"
+ },
+ "0xef5c276907df42b2dc56219e2aabd2110d7c36ff9069e61e8bbfb3f6b27412f0": {
+  "created_at": "2026-11-12T20:23:34.181749Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Femme Fatale - Mon Laferte win Best Latin Rock or Alternative Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d01bc031f78b9b4aad2f5827a496a58351d4926d5e5d57aa4a793bfd77e3a449",
+  "slug": "will-femme-fatale-mon-laferte-win-best-latin-rock-or-alternative-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xf0d79a9b5d61f90bff52b028087b7ea6067cd9a3eeae43c1c38a344e796116f0": {
   "created_at": "2026-08-07T20:12:08.427154Z",

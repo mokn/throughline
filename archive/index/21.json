@@ -66,6 +66,7 @@
   "created_at": "2026-02-06T22:22:23.903629Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will David Brekalo win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -454,6 +455,7 @@
   "created_at": "2026-10-25T04:00:47.018561Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $64 in November?",
   "revisions": 1,
   "sha256": "b16950b2d1aaf777db9e7cc3ef2d8177eed6e1c3dc99d923d72a1538d201430d",
@@ -696,6 +698,15 @@
   "sha256": "916e831eda1a0215716cdf39e83013421467f4388dc75b8c1b6d104813138feb",
   "slug": "will-aj-dybantsa-be-named-to-any-2027-all-nba-team"
  },
+ "0x75f80c7900ebf189240f94b9840060b384b81511e3e1df472bf12cab7b026821": {
+  "created_at": "2026-11-13T00:29:46.898199Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Elsinore win Best Screenplay \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "eae24e920560a0088729768bd03e3e7c7b32e57a7bfaaa20587f8ad084458bd1",
+  "slug": "will-elsinore-win-best-screenplay-motion-picture-at-the-84th-golden-globes"
+ },
  "0x7959ba2a79f9fca84966c41df81335be1aff0bc9dda66037aedbbf1719e02121": {
   "created_at": "2026-09-20T09:15:49.813607Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -857,6 +868,15 @@
   "revisions": 1,
   "sha256": "7ddd816e4ec3abe4470d120960b6bd9968adb6d7209c319e2c12a69c24ca30da",
   "slug": "will-banik-ostrava-be-relegated-from-chance-liga-czechia-2026-27"
+ },
+ "0x8d8d6d5493aa44616f0846a14bfa609e1ce72984360a93acbe9b496f1994d321": {
+  "created_at": "2026-11-12T20:19:22.578097Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will What You Need - Tems win Best R&B Solo Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "032a80ed0b8cb47f30f9761437126f3901c0442b05c99a080768a2903807d980",
+  "slug": "will-what-you-need-tems-win-best-randb-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x8d94c3720196a96c1ef556024baa63bd0b4ac7090e0460d0e806d190d6c89421": {
   "created_at": "2026-11-03T17:40:44.151117Z",
@@ -1238,6 +1258,15 @@
   "sha256": "d746dd039dc18c67993aedc7050cff54c68ebd5e6e98b2e20adad0bedc8c582a",
   "slug": "will-pedro-pascal-win-best-actor-at-the-99th-academy-awards-20260727174302923"
  },
+ "0xcf2f5d35f8c285eeea3de0dea464bc5bd0a81f058e5fec33d50f846316878621": {
+  "created_at": "2026-10-26T09:00:14.438974Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: CS Mar\u00edtimo 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "bbc07e0d27be5f9f08bffd1dbcecbc7f4bdad1677db7ae289a1beac736934011",
+  "slug": "por-est-csm-2026-11-08-first-half-team-total-away-0pt5"
+ },
  "0xd04271b958886773b42d0873e54ab82109461b42967a87473ee42c998612bf21": {
   "created_at": "2025-12-16T15:10:23.111062Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1395,10 +1424,20 @@
   "created_at": "2026-10-13T23:25:01.66219Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will \"Forza Horizon 6\" win Ultimate Game of the Year at the 2026 Golden Joystick Awards?",
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
   "slug": "will-forza-horizon-6-win-ultimate-game-of-the-year-golden-joystick-20261111"
+ },
+ "0xea1d231c077d901379a34760ade9c7c740fd67e9b00659418f3fca554b6c5d21": {
+  "created_at": "2026-11-13T00:31:17.873345Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Fjord\" win Best Motion Picture - Non-English Language at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "595347e0e70da50563a074cea28f19feeee17ae879fc69445b8832bf20c8b9bc",
+  "slug": "will-fjord-win-best-motion-picture-non-english-language-at-the-84th-golden-globes"
  },
  "0xefc2855b084d7d1634589e74e75c9b7bc88271cbfa4a28c4382814cfa004f621": {
   "created_at": "2026-10-29T20:58:07.568772Z",

@@ -329,10 +329,20 @@
   "created_at": "2026-11-10T16:44:03.143078Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Jensen Huang announced resignation or removal by December 31, 2027?",
   "revisions": 1,
   "sha256": "3948b0d88ca4d2f68183e1c185e4a4fd8974bfad98b83b55f286ee9fe1c84c57",
   "slug": "jensen-huang-announced-resignation-or-removal-by-december-31-2027"
+ },
+ "0x30201fcb7ca33b8ffc370483c911e1056dad5c3d7ab23d774a8fe9b6de97568f": {
+  "created_at": "2026-11-13T00:30:42.829213Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Agatha Christie\u2019s Seven Dials win Best Television Limited Series at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "fa7585ea89db4c789e4f72fa38188bee8c8573ce7405aef1c9e6440d950bbe87",
+  "slug": "will-agatha-christie-s-seven-dials-win-best-television-limited-series-at-the-84th-golden-globes"
  },
  "0x304d0fa4874853ab011215531cdd12d05f05a4e4ffe7fc3da40076b742dc358f": {
   "created_at": "2026-02-12T20:34:23.597355Z",
@@ -959,6 +969,15 @@
   "sha256": "df57028a781a3c707e9cde90306c636d51a87dfff0a90004c6b5b9131681c2af",
   "slug": "will-the-democratic-party-candidate-win-the-first-round-of-the-2026-maine-senate-election-by-0-3-20260804181547921"
  },
+ "0x8469e19afddf4894fa85fd3e26fba444db70d753da50854f2df57a35fe98e38f": {
+  "created_at": "2026-11-13T01:37:19.185157Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Tony Hinchcliffe win Best Performance in Stand-Up Comedy on Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "00915a05e9edf7dd49ed0f6f406a6e3ea4b367c6136ca44e094c18038eb59ebe",
+  "slug": "will-tony-hinchcliffe-man-of-the-people-win-best-performance-in-stand-up-comedy-on-television-20261112"
+ },
  "0x85fd8b675cbd793b1f6ffc8c0bef923e01a05da3fdd4c2995d8d4a14188f328f": {
   "created_at": "2026-08-11T18:18:15.702588Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1389,6 +1408,7 @@
   "created_at": "2026-10-26T21:33:59.192075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will \"The Legend of Zelda: Ocarina of Time\" have a Metascore of at least 90?",
   "revisions": 1,
   "sha256": "6d6827e02a723aa416064d773edb7ef4bcb324055f2bd44214e1d9bae98111ed",
@@ -1416,10 +1436,20 @@
   "created_at": "2026-10-02T20:14:35.572084Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Josedeodo have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-josedeodo-have-the-most-kills-at-worlds-2026"
+ },
+ "0xcc5fcb992e17860f53095eb4934ae7b6eec1b4b2e70987593186192337cceb8f": {
+  "created_at": "2026-11-13T00:30:13.324327Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Sterling K. Brown win Best Actor \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "e688ca737373350f605cffbe85396233f7808fe2802eef466d9c6ad33d94af1c",
+  "slug": "will-sterling-k-brown-paradise-win-best-actor-television-drama-at-the-84th-golden-globes"
  },
  "0xcc86e7dcd6a08b6cfe4132fc3cf532a07901803316eb26f9b5ec0feca245bd8f": {
   "created_at": "2026-09-20T08:15:28.375615Z",
@@ -1452,6 +1482,7 @@
   "created_at": "2026-09-30T23:57:38.400227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Shipping targeted in Hormuz on October 30, 2026?",
   "revisions": 1,
   "sha256": "d3e8c49aebda6ffd579c50b46b78bfe3c34c09037d56da89fc2ba74df2f67c4f",
@@ -1564,6 +1595,15 @@
   "revisions": 1,
   "sha256": "cff6947d096b10f359e5f269e7c8906c8fcd76954d1d2f6a86cdac69dea26e3d",
   "slug": "aapl-above-370-on-november-30-2026"
+ },
+ "0xe5dd28a28aab3cff1ce86fb6aa03633cdd309f99e8c7f263341d71d51d0b2b8f": {
+  "created_at": "2026-11-12T20:22:37.592921Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Forever Reign - Masicka win Best Reggae Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "da1f6be4184a807783e99a447888f29f0e856cfd6aa9b1f15f78717b77fae329",
+  "slug": "will-forever-reign-masicka-win-best-reggae-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xe6020ca5a1781fa48b4afab7712edfbcaa0e2a6ee3bc7ff5a96db8b97ea2168f": {
   "created_at": "2026-07-20T19:25:24.884057Z",

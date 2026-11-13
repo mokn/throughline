@@ -1,0 +1,17 @@
+This is a market about the monthly change in South Korea’s seasonally adjusted unemployment rate, as reported by the South Korea Ministry of Data and Statistics (MODS) in the monthly Economically Active Population Survey (EAPS).
+
+This market will resolve to “Up” if South Korea’s seasonally adjusted unemployment rate for November 2026 is higher than the seasonally adjusted unemployment rate for October 2026.
+
+This market will resolve to “No Change” if South Korea’s seasonally adjusted unemployment rate for November 2026 is the same as the seasonally adjusted unemployment rate for October 2026.
+
+This market will resolve to “Down” if South Korea’s seasonally adjusted unemployment rate for November 2026 is lower than the seasonally adjusted unemployment rate for October 2026.
+
+The seasonally adjusted unemployment rate is the typically labeled “(Seasonally adjusted)” and shown in parentheses directly below the headline “Unemployment rate” (15 years & over, total) in the summary table of the EAPS release. The headline (not seasonally adjusted) unemployment rate will not be considered.
+
+Each month's seasonally adjusted unemployment rate is taken from the EAPS release for that same month, as first published.
+
+The resolution source for this market is the MODS Economically Active Population Survey, released at https://mods.go.kr/board.es?mid=a20105020000&bid=11732&eng_board_type=01
+
+The next data release is scheduled for December 16, 2026. This market will resolve as soon as the relevant data is issued. Any revisions to the data after the November 2026 release is first published will not count toward this market’s resolution.
+
+If no data for November 2026 is released by the date the December 2026 data is scheduled to be released, this market will resolve to “No Change”.

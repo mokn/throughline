@@ -93,6 +93,7 @@
   "created_at": "2026-10-05T21:55:19.40834Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Drake headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -280,6 +281,24 @@
   "sha256": "238985e0e1953babc50be8f8875ade5023a71abf9bc370a7e58a0727bfe60495",
   "slug": "will-the-democrats-win-the-louisiana-senate-race-in-2026"
  },
+ "0x1dc25b4b7fe422031bd38aa2ef11be836a500d38029910de77ff7505755e5091": {
+  "created_at": "2026-10-26T09:00:12.195007Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Estoril Praia O/U 3.5",
+  "revisions": 1,
+  "sha256": "2d2f0836dd70b89da78956788fa02d35b252dd37692bede27ae8f45e8380cdf9",
+  "slug": "por-est-csm-2026-11-08-team-total-home-3pt5"
+ },
+ "0x1e729f78defe914530c7e09ee708457e02e373e9055c3c8c245c0d0e2b996c91": {
+  "created_at": "2026-11-13T00:28:43.95043Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Invite win Best Motion Picture \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
+  "slug": "will-the-invite-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0x1fcaa9d33e87efed168b07d5c07cb095d924c31a964a5fd9cf10dcc059647f91": {
   "created_at": "2026-08-05T16:27:45.067815Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -293,6 +312,7 @@
   "created_at": "2026-02-06T22:38:05.373878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Pat Noonan win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -302,6 +322,7 @@
   "created_at": "2026-10-27T22:35:37.085923Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Ornn H200 Index hit $7.50 (HIGH) by December 31, 2026?",
   "revisions": 1,
   "sha256": "89b46f491dc0e1c318727f0c72b42694c6e9b27be8116746e7723bfa684772d9",
@@ -967,6 +988,7 @@
   "created_at": "2026-02-06T22:38:02.714423Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Dean Smith win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -1214,6 +1236,7 @@
   "created_at": "2026-08-12T17:16:16.7761Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Llaneros FC be runner-up in the 2026-II Colombia Primera A?",
   "revisions": 1,
   "sha256": "3948e596f84fda095465e69647f4f96c0516acd8d206c58b00ed43fa48861308",
@@ -1479,6 +1502,7 @@
   "created_at": "2026-08-25T04:21:43.399018Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will XRP dip to $1.00 by December 31, 2026?",
   "revisions": 1,
   "sha256": "e7ded5f84d33cb56ca8a6d3e19a1f54d009aa757005a574a7df568b015ac7384",
@@ -1692,6 +1716,15 @@
   "revisions": 1,
   "sha256": "9de61310d26efeebc8a4e64e22bfbb34f549848c7ba7488f441a3084fa17d388",
   "slug": "will-the-republican-party-candidate-win-the-2026-co-04-house-election-by-3-6"
+ },
+ "0xf2dd5c597b7f4060ac494e9ce9aedbe7a6cf968c107bcbd18a6a09a338671291": {
+  "created_at": "2026-11-13T00:28:47.314312Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Artificial win Best Motion Picture \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
+  "slug": "will-artificial-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0xf3e97b137306581d8f2f410b9cc3fb3cd61e732a233ed8d34a6924b21aa95091": {
   "created_at": "2026-10-13T19:55:57.342512Z",

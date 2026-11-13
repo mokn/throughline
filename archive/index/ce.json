@@ -790,6 +790,15 @@
   "sha256": "cd2a34b1828e0bbe294ed69d21a4e0437f610a41a05a8b219fcb71de6c3250e0",
   "slug": "will-trump-speak-to-mojtaba-khamenei-by-october-31"
  },
+ "0x7c899e2045c023a7a795667b536ba9d59fecb01ea2da9ecae1e3c77a3c4000ce": {
+  "created_at": "2026-11-11T21:57:06.838253Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Massachusetts in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "376d148ee712b4abcca601df3bc9c806d32865baa6da0d21ee9f1a35a2a4b430",
+  "slug": "will-the-democrats-win-massachusetts-in-the-2028-presidential-election"
+ },
  "0x7d3f15916c51ffe35f9ecf957fe9fb148f44019043e56a1d6321f326799602ce": {
   "created_at": "2026-08-05T18:38:23.760299Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1026,6 +1035,15 @@
   "revisions": 1,
   "sha256": "af8420ee9cd9806a902491393be02d27ae1ec8cd208a0a9535fa7db18b7d4536",
   "slug": "will-space-exploration-technologies-market-capitalization-be-between-1pt50t-and-1pt75t-at-the-end-of-november-2026"
+ },
+ "0x9d350ac1782e2d8758bf553e52b54ae314d069bb4ab1a508bf6cfecebb42d2ce": {
+  "created_at": "2026-10-26T09:00:14.118739Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Estoril Praia 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "80d19345da85f7c5452d70000c7f2a92ad4ba3d31481b04f5fb5622b1477cf2e",
+  "slug": "por-est-csm-2026-11-08-first-half-team-total-home-2pt5"
  },
  "0xa479bedcf6edadd526dcaa8919fc551746946abaeb78fc61c9ccb3ebc503a9ce": {
   "created_at": "2026-10-01T23:13:33.033415Z",
@@ -1374,6 +1392,7 @@
   "created_at": "2026-02-06T22:38:02.184016Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Marco Donadel win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",

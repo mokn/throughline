@@ -447,6 +447,7 @@
   "created_at": "2026-03-26T16:21:26.155221Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Nick Castellanos win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -773,6 +774,7 @@
   "created_at": "2026-10-02T20:14:29.77939Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Canna have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -918,10 +920,20 @@
   "created_at": "2026-03-25T18:04:23.301778Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will O'Neil Cruz win the 2026 NL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",
   "slug": "will-oneil-cruz-win-the-2026-nl-comeback-player-of-the-year-award"
+ },
+ "0x6f45052fdf7650b1fc245ee2a16d00477da8c6a1e261a1407496e8d2f147b63c": {
+  "created_at": "2026-11-13T00:35:27.3787Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Save the Day\" (Hoppers) win Best Original Song - Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "922c8c583e3bf02e11cdbc9901cc158f0fda43ad0c314c17764ce186906a40c3",
+  "slug": "will-save-the-day-hoppers-win-best-original-song-motion-picture-at-the-84th-golden-globes"
  },
  "0x70755e23561ca970478d0eebe0f46ad56cec3fee9868ab8b214b13572756e83c": {
   "created_at": "2026-08-10T08:21:49.984093Z",
@@ -949,6 +961,15 @@
   "revisions": 1,
   "sha256": "6a54aa0ef690e8bd53773919c0d88b1188e82888b016ff80fcd24f027426641a",
   "slug": "will-a-player-from-the-sec-win-the-2026-heisman-trophy-20260803170245587"
+ },
+ "0x751ebe2402bc6042fb420fd604edd268912e8a361da9db587af5dc813a8cae3c": {
+  "created_at": "2026-11-12T18:41:14.40157Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in South Africa by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-south-africa-by-december-31-2027"
  },
  "0x7529d78d012f26a358002386f09661bb0fbfa3afb207fc7527c029ec4b87093c": {
   "created_at": "2026-10-15T17:01:05.033268Z",
@@ -1349,6 +1370,15 @@
   "sha256": "b114862edc6b8e925a8404e581db1c42fc2f8727d8e944885279dc4b246697af",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-07-house-election-by-0-10"
  },
+ "0xb6b638de11e161ec30953734892f0b47ec30c02982ad9822d302ef3c7777db3c": {
+  "created_at": "2026-11-12T00:30:44.851695Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Ferryn & Brinkley come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-ferryn-and-brinkley-come-in-second-place-on-the-voice-season-30"
+ },
  "0xbd2c1fc8bae27e2bf488f5b05e0f71285a3d549c7390864ce08bbed1ad597f3c": {
   "created_at": "2026-07-31T17:27:55.437557Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1743,10 +1773,10 @@
  "0xf282298236c2b9a66d6f7ca7cd17a23969ebba9d93b818210090d7add5f4a83c": {
   "created_at": "2026-11-10T02:14:35.779194Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-12T15:15:16Z",
   "question": "Will Lisa Su be the next CEO of NVIDIA?",
-  "revisions": 1,
-  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "revisions": 2,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
   "slug": "will-lisa-su-be-the-next-ceo-of-nvidia"
  },
  "0xf3c61ce4f5bb1e5e15f814804bebf5532e53f2291e08bc7a3f96381a3421cc3c": {
@@ -1820,6 +1850,15 @@
   "revisions": 1,
   "sha256": "ec16ca37f1f77b668167bf0c8e0e828a57f634797f384a283d9e40affadcb3f8",
   "slug": "cisa-emergency-directive-issued-by-march-31-2027"
+ },
+ "0xfd53f9f6fc5002a083e943eae3c6249e4341a76cbf9553820e33b61b60cb953c": {
+  "created_at": "2026-11-13T00:28:23.197126Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Tangles win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-tangles-win-best-motion-picture-animated-at-the-84th-golden-globes"
  },
  "0xfd80f36d1ff258f3621e33f6932ae4020fa8856631bc3f5191cbd6d9da9a453c": {
   "created_at": "2026-08-11T18:50:12.461716Z",

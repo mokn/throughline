@@ -333,6 +333,15 @@
   "sha256": "892935d79fe787773ac0532c51cfbf25ad9ef32ebbbff952594de4665b4c07a4",
   "slug": "will-nvidia-nvda-q3-data-center-revenue-be-above-20261008120135000-95b"
  },
+ "0x3ae91e5b76e69b032c2fdf8715ae85b252f283c3c7411a383d6e21cfdd2b8f9d": {
+  "created_at": "2026-11-13T01:35:02.470722Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Janice STFU - Drake win Best Rap Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "2e5dc6cc5a75b03a3c605e65e55c70f53dc98ce38c8b04280478a41e86bd3c53",
+  "slug": "will-janice-stfu-drake-win-best-rap-song-at-the-69th-annual-grammy-awards-20261112"
+ },
  "0x3c6ea6bf030cdaae5202310da84f02d1f1e96ff1c06b344c731658eff2dfe49d": {
   "created_at": "2026-10-09T16:36:58.802408Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -552,6 +561,15 @@
   "sha256": "1a29971a0653e46ddf35bc7ef088d0e130dd0bd5be4b46216234427c912c9392",
   "slug": "ledger-ipo-closing-market-cap-above-3b"
  },
+ "0x5cc31948e14204a2602f1ede8b90d4c5bbbf4f1fab1956fcd86fee3027adf49d": {
+  "created_at": "2026-11-12T23:21:44.729428Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will UK GDP growth in Q4 2026 be between 0.8% and 0.9%?",
+  "revisions": 1,
+  "sha256": "6d11009c480d7bd3c533aef741062440c73c937187a5d14433869ebf8728d897",
+  "slug": "will-uk-gdp-growth-in-q4-2026-be-between-0pt8-and-0pt9"
+ },
  "0x6192842d1b0846a78408132cb316a15fec5271a97a85ddeaee7785e1e4a76a9d": {
   "created_at": "2026-10-21T23:30:53.068831Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -737,6 +755,7 @@
   "created_at": "2026-02-18T21:17:18.765378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Luis Su\u00e1rez win 2026 MLS Most Valuable Player?",
   "revisions": 1,
   "sha256": "edc0893b6f246ebf23135106a0265636aacd528b913b28b36d764dd751ba4f6c",
@@ -750,6 +769,15 @@
   "revisions": 1,
   "sha256": "19db2b97b36851c7c0b634f10bbd855ec49600aa3ea6fd3be5d8cd8fd7a97fb5",
   "slug": "will-moshe-feiglin-be-the-next-israeli-minister-of-defense"
+ },
+ "0x7c8e93973929b9e4f5093c2b0d056061989fc96d2281a5684c3207e1cac2c69d": {
+  "created_at": "2026-11-11T23:45:30.237651Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the D66\u2013VVD\u2013CDA Dutch coalition break in 2026?",
+  "revisions": 1,
+  "sha256": "4f419a844f38cbd6e41dd7f5564824cb286341d97381763f6e43f9292ec2b138",
+  "slug": "will-the-d66-vvd-cda-dutch-coalition-break-in-2026"
  },
  "0x7cf32f71a4d3abbe65144baae6444485fbe54ee75088a041afa2c9b50549799d": {
   "created_at": "2026-10-30T00:32:36.607415Z",
@@ -1048,6 +1076,15 @@
   "sha256": "2d9c2b6fa3f5954c5a6f828fce4c6dd8df5d8a840d3fbc557c2e4626a83ea421",
   "slug": "will-the-republican-party-candidate-win-the-2026-al-06-house-election-by-10-20"
  },
+ "0xb20bfdd50d2a8e7f65e0584c5729fe4cb8b23fefb35be61c56081bf232bc7d9d": {
+  "created_at": "2026-11-12T20:20:14.609695Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will GOMF - Latto feat. GloRilla win Best Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "46feb1c24590baccf3560275922b3760ed3e129242c76933a2c5327d1cb19e92",
+  "slug": "will-gomf-latto-feat-glorilla-win-best-rap-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xb42309de55796058871f023f3645d104ebe114fbef97ad038ec8f409d1b6cc9d": {
   "created_at": "2026-11-01T15:01:11.480903Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1262,6 +1299,7 @@
   "created_at": "2026-10-20T23:03:17.728999Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for KR\u00dc Esports in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
@@ -1326,6 +1364,7 @@
   "created_at": "2026-09-30T13:56:06.368284Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will global temperature increase by between 1.35\u00baC and 1.39\u00baC in October 2026?",
   "revisions": 1,
   "sha256": "0427c028f1df41e8292994e6f22e840e8c80df52bdbe8a9ef4938f4888f27893",
@@ -1375,6 +1414,15 @@
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-miami-fl-have-more-than-10pt5-wins-during-the-2026-cfb-season-20260810194024198"
+ },
+ "0xda7fe1a2c1d46bb52db410252b1bac2af521817170c338e37dccde0d3678c29d": {
+  "created_at": "2026-11-12T20:23:19.547534Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will KM0 - Pablo Alboran win Best Latin Pop Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d2441f3a59afec9951e31f5439a10f2a5c64756135a599e4835a4e0254fde1bb",
+  "slug": "will-km0-pablo-alboran-win-best-latin-pop-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xe0afcb91eb351279fdefe931f3f0371cbc58a8e709ec9a4e259cbeb8fd52159d": {
   "created_at": "2026-07-14T16:12:48.964475Z",
@@ -1575,6 +1623,15 @@
   "revisions": 1,
   "sha256": "ff6714268e420d81d17f47cdcf2c5c402cbbe3c504d452d0eba015db38273aff",
   "slug": "cze1-fsl-fbo-2026-10-24-first-to-score-home"
+ },
+ "0xf6d95806e29fb763c6396754a34d4bddc6ce378bdfc5fcb5778981e5f587549d": {
+  "created_at": "2026-11-12T20:23:11.999426Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Hoggar - Tinariwen win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-hoggar-tinariwen-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xf718a29d96d36932cb126bd80cceb493a0ecea20a8d55a49ede25229f534689d": {
   "created_at": "2026-09-13T09:46:35.594558Z",

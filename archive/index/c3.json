@@ -819,6 +819,7 @@
   "created_at": "2026-08-12T16:51:31.635641Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Boris Guido Morey Sifuentes win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
@@ -850,6 +851,15 @@
   "revisions": 1,
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-jalen-brunson-win-the-2028-us-presidential-election"
+ },
+ "0x7d8a105de4981499e4f72bfdaec4f5c36ed617898ac144678c923f0c5cbbdec3": {
+  "created_at": "2026-11-12T20:23:25.459023Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Corsa - Eladio Carrion win Best Musica Urbana Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8d8b22c91f4ff74099365b99cfed0ae0abcfcc9a53b5543426eb61974dbc6f5",
+  "slug": "will-corsa-eladio-carrion-win-best-musica-urbana-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x7df78bc9eb96ffff357cd2d7e19444195f3a3eda7289f396f4de107e8df06bc3": {
   "created_at": "2026-10-13T15:49:45.061554Z",
@@ -1112,6 +1122,15 @@
   "sha256": "34b607526486f2abedc0b156280b50aacc0d3e0b00ab25cbb0995b558e1046f8",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ma-04-house-election-by-30-35"
  },
+ "0xa7e158be5b7f96b163378ccd4ab7591341fbc257de0f900cbbb4acc6ba710ac3": {
+  "created_at": "2026-11-12T00:30:42.630491Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Kyle Davis come in third-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "cda5fa1d3abcdb83602c20fa605caa8007f7bfcde24b210b3a29295570494c25",
+  "slug": "will-kyle-davis-come-in-third-place-on-the-voice-season-30"
+ },
  "0xa8b655e9aaf195de4113fc74bfea72412d19e8ee688a567361eef29c37952ac3": {
   "created_at": "2026-10-15T17:00:57.357372Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1134,6 +1153,7 @@
   "created_at": "2026-08-11T18:42:18.517558Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-04 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "46fbc49f95bd204a6feef13acddf5a56e7b102e2951db9fc8f5009df01e9f42a",
@@ -1156,6 +1176,24 @@
   "revisions": 1,
   "sha256": "3ef0320716ebed4b135f63703fd094be3e9faec343e02f123676d721c7a50758",
   "slug": "will-the-republican-party-candidate-win-the-2026-nd-al-house-election-by-40-45"
+ },
+ "0xac8953ed1969b33e0680ea76758388d7b02e2684433eab142a9494cb9e703ec3": {
+  "created_at": "2026-11-12T20:23:16.412014Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will STARRGIRL - Ayra Starr win Best Global Music Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e361a53cf3cf5742526ecbdf182f74d240589c12de9d0f822156ad2cc5fb4072",
+  "slug": "will-starrgirl-ayra-starr-win-best-global-music-album-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0xad27dde1dce96a1d4dab621ef4aaf5aeb76193367467d62e6131ce16027fcac3": {
+  "created_at": "2026-11-13T00:28:23.957172Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Forgotten Island win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-forgotten-island-win-best-motion-picture-animated-at-the-84th-golden-globes"
  },
  "0xafc67b1f00c263b0189cbd3506fed054699ba738f62d093ebb9e0d3c229cc2c3": {
   "created_at": "2026-03-26T19:03:21.719272Z",
@@ -1445,6 +1483,15 @@
   "sha256": "d55c8d76643271807bb5afc891d0a26fb5462541eb93cad716eaf6668cff879f",
   "slug": "christian-mccaffrey-974pt5-rushing-yards-2026-27"
  },
+ "0xd656b0130f86df35607b1a23ba79079751a0e36affdca63b45154d806ff198c3": {
+  "created_at": "2026-11-13T00:28:58.518237Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will John Turturro win Best Actor \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f467bbf9407466481b1b57709202968e28f6dbaba9b5ace503cc614a41ed25e6",
+  "slug": "will-john-turturro-the-only-living-pickpocket-in-new-york-win-best-actor-drama-at-the-84th-golden-globes"
+ },
  "0xd976ce73361c38bd387422a13545cf42a41c6bedf5c810844d44d2e4ff1752c3": {
   "created_at": "2026-08-18T14:23:58.462091Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1536,6 +1583,15 @@
   "revisions": 1,
   "sha256": "00d756585611d14e319cdaa0c6abfc65c8adba0df2f50083d81843aa30515b91",
   "slug": "will-aaron-rodgers-finish-the-2026-27-nfl-regular-season-with-the-most-passing-touchdowns-20260715212611257"
+ },
+ "0xe34682f2e0ed466baf766415c76ed240618c4300f4451f153136f3a78796b8c3": {
+  "created_at": "2026-11-12T20:23:28.843668Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Mas Cara - Bad Gyal win Best Musica Urbana Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8d8b22c91f4ff74099365b99cfed0ae0abcfcc9a53b5543426eb61974dbc6f5",
+  "slug": "will-mas-cara-bad-gyal-win-best-musica-urbana-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xe727625f2d246fd01f8d250aad7ef9a083b3ee584d9b90f752241d1f53c5f7c3": {
   "created_at": "2026-10-28T17:01:22.763526Z",

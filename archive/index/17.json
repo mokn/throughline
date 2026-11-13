@@ -17,6 +17,15 @@
   "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
   "slug": "will-william-hakansson-win-the-2026-27-calder-trophy-20260624213344024"
  },
+ "0x09997920e183f1cf84cc741ba9a58dd20ea585128a5e77e388bc628688709c17": {
+  "created_at": "2026-11-13T00:31:06.46202Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Linda Cardellini win Best Supporting Actress \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c9bc492e6569d31177f6be3f9965619663e806f47d9da629cb3ae6069fe9f203",
+  "slug": "will-linda-cardellini-dtf-st-louis-win-best-supporting-actress-television-at-the-84th-golden-globes"
+ },
  "0x09de892192b41fbccc767282ede1e52a8b8bef6ea73eaf208dafc3dd42c4ef17": {
   "created_at": "2026-04-22T21:53:28.412012Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -30,6 +39,7 @@
   "created_at": "2026-09-30T13:43:49.254426Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will there be between 35 and 59 tornadoes in the US in October 2026?",
   "revisions": 1,
   "sha256": "63f49b01d65d3ad2d0fdb79bfd79db71bdd9736f5b8655bddf8e747226ab802b",
@@ -567,6 +577,7 @@
   "created_at": "2026-11-10T19:07:45.175249Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 55% or higher?",
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
@@ -603,6 +614,7 @@
   "created_at": "2026-02-06T22:22:12.800817Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Miles Robinson win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -935,6 +947,15 @@
   "revisions": 1,
   "sha256": "d84b4a086aac12108e41bbd158975953aeb70b3b9cf0956f61866a3937b45079",
   "slug": "will-franois-bayrou-announce-their-candidacy-for-the-2027-french-presidential-election-in-2026"
+ },
+ "0xb98fdac3a8b580d71eba0ef6667e65b1cf233e85fb8c77a1c82ee96e46122417": {
+  "created_at": "2026-11-11T21:57:57.984911Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Alabama in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "7d6b57f944d76b28953ae83b821ec99bf420064af222535279a089b05fa60767",
+  "slug": "will-the-republicans-win-alabama-in-the-2028-presidential-election"
  },
  "0xb9948db798286076ad8be6fa476339e96a64b1752ee973e133b6f47842928917": {
   "created_at": "2026-10-13T15:54:34.170445Z",
@@ -1284,6 +1305,7 @@
   "created_at": "2026-10-02T20:14:28.55288Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Elyoya have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1320,10 +1342,20 @@
   "created_at": "2026-08-12T16:51:32.0069Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Antony Jhonatan Pinedo Lozano win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
   "slug": "will-antony-jhonatan-pinedo-lozano-win-the-next-maynas-mayoral-elections-20260811165718008"
+ },
+ "0xf17968297008f4cd48ee09e3b2b39ba8768e68c43fab1ad62caf4955f482c017": {
+  "created_at": "2026-11-12T19:16:34.182718Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Harry Harkimo be the next Prime Minister of Finland?",
+  "revisions": 1,
+  "sha256": "fe67f763c02a33bfda9c44f2d6ca1542fea0487970b1cb1d7cf6642e8da33b7c",
+  "slug": "will-harry-harkimo-be-the-next-prime-minister-of-finland"
  },
  "0xf17ad2eb9cdec1dc538755992d6a03884f009bc3329dfc256d3e45de32c1b117": {
   "created_at": "2026-08-18T14:06:41.565532Z",

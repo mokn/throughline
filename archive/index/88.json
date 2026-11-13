@@ -235,6 +235,15 @@
   "sha256": "f0eabb925e13cb70f802323dc4c15a96f10c77d30dde9d1401f887c4da39221b",
   "slug": "nba-players-to-be-traded-before-the-2027-trade-deadline-jamal-murray"
  },
+ "0x1eaa6a94633f49efc658a63430872f4e78c79fb2b8b67972cff3c39c200dbe88": {
+  "created_at": "2026-11-12T20:21:53.537403Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Dance With Me - Bruno Mars win Best R&B Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "5cb566bd7484f108a868cd3cc5186c0b7260aee5aab4464990378f5c18f7134b",
+  "slug": "will-dance-with-me-bruno-mars-win-best-randb-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x20d18f93174ba939e8c258c5cba8f7f64d10235d933b52ca84bdea9f86980f88": {
   "created_at": "2026-09-20T09:44:56.009317Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1018,6 +1027,15 @@
   "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
   "slug": "will-marcus-nordmark-win-the-2026-27-calder-trophy-20260624213344022"
  },
+ "0xa9352e25e33f74556d4329465ea9361a33c4f4dfca7ce18b9c7fcc80d5d21588": {
+  "created_at": "2026-11-12T18:41:01.056654Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Vatican City by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-vatican-city-by-december-31-2027"
+ },
  "0xa9cd117f83f806aa93cdf5e5efd452a67f9ed98f541567e3511f88c256f6a188": {
   "created_at": "2026-08-10T20:03:59.187574Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1285,6 +1303,7 @@
   "created_at": "2025-10-10T19:33:34.01559Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republicans win the Mississippi Senate race in 2026?",
   "revisions": 1,
   "sha256": "49377a575bde2e76414546d59d139ad02c0290e34df69e59dc6dfe27018987aa",
@@ -1528,6 +1547,7 @@
   "created_at": "2026-10-02T20:14:17.729048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Faker have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

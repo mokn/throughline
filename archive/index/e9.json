@@ -283,6 +283,7 @@
   "created_at": "2026-10-28T22:20:11.067989Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Gemini Carbon debut with an HLE-Diamond score of 50% or higher?",
   "revisions": 1,
   "sha256": "7a720457dd87aeeedb323ccfdaf664895f4a2fc878bf47518fe0640171ff7c91",
@@ -1284,6 +1285,7 @@
   "created_at": "2026-02-06T22:22:13.926098Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Jalen Neal win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1376,6 +1378,7 @@
   "created_at": "2026-03-26T16:21:21.077163Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Eugenio Suarez win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -1507,6 +1510,15 @@
   "sha256": "0d20795f21c0d9c0437fca8ce47de27b2fd39db17e71888884c1db73f1e97103",
   "slug": "will-manchester-city-finish-in-the-top-6-of-the-2026-27-english-premier-league-season"
  },
+ "0xf0a7c0a55ceb8f3e5ac409448bb5881f84c874d01f1b337043e34e522207cee9": {
+  "created_at": "2026-11-13T00:30:10.831552Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Nobody Wants This win Best Television Series \u2013 Comedy or Musical at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "28e5121c008b818267f37072bb0055cc786b7bf323cadbfeb95c29679c969193",
+  "slug": "will-nobody-wants-this-win-best-television-series-comedy-or-musical-at-the-84th-golden-globes"
+ },
  "0xf465bd9c35bd46eb9593c5fc250e1e24a588c368399da4a5d47f0e35d2c690e9": {
   "created_at": "2026-10-30T16:41:50.148477Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1515,6 +1527,15 @@
   "revisions": 1,
   "sha256": "b897c73fdc996b07255e6a1f447e9126f523f692b365d453bc3eaf58ccacbc58",
   "slug": "will-coin-dip-to-115-in-november-2026"
+ },
+ "0xf50551d428b0dc232fa9e05a7ff0c2faca7e998e4083f748e558336276c411e9": {
+  "created_at": "2026-11-13T00:29:21.199115Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will I Play Rocky win Best Motion Picture \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6b55eede1b5c82c1ecedb31f7ecc7e8e00031e199c130f5f7d67ca5466155e00",
+  "slug": "will-i-play-rocky-win-best-motion-picture-drama-at-the-84th-golden-globes"
  },
  "0xf527c5c4ac85e4e7fd71178a3649632d4d08fce2211eff451004c99528c425e9": {
   "created_at": "2026-09-09T15:47:14.079407Z",

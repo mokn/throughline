@@ -290,6 +290,15 @@
   "sha256": "2b1b6ca9af3c0ff49c5ff9c53039a1ab78ae9679911270d6a28c04ec7f138ff6",
   "slug": "el1-bra-bar-2026-09-26-total-0pt5"
  },
+ "0x338ff78477714d6bd7fc9859485d2cd75b7b759a8a79149bf40aa8d529a8cbb4": {
+  "created_at": "2026-11-13T00:35:09.584955Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Wild Horse Nine win Best Original Score \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "de88a60b19ce31d141aab26b385fe06bf50e51181824d28f3c7d70e839146104",
+  "slug": "will-wild-horse-nine-win-best-original-score-motion-picture-at-the-84th-golden-globes"
+ },
  "0x33d25f344e4256da41e808ba608b44bd4f8577bcc1ebeae8dda047c227c419b4": {
   "created_at": "2026-08-05T16:18:06.729087Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -530,6 +539,7 @@
   "created_at": "2026-02-18T23:01:04.727376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Dylan Cease win the 2026 AL Cy Young Award?",
   "revisions": 1,
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
@@ -590,6 +600,15 @@
   "revisions": 1,
   "sha256": "999043ac8aeabbbef3ed71c9e4cd52e3613a8bd54e28381f42504e51cc912e13",
   "slug": "will-kent-state-golden-flashes-advance-to-the-2026-mac-championship-game"
+ },
+ "0x60f91fbbd423aea74fa19b91526266cd87d0c94f4e9d5ad37753f8b723d883b4": {
+  "created_at": "2026-11-13T00:29:37.00608Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Tao Okamoto win Best Supporting Actress \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f54aef27bf35c35d0e1705d479016706e14615a4f0da24a7edc59bd338573913",
+  "slug": "will-tao-okamoto-all-of-a-sudden-win-best-supporting-actress-motion-picture-at-the-84th-golden-globes"
  },
  "0x61830fc474f9c0ace60bc3095728d9d0a93fcc18b5ae0490d0d4918b684496b4": {
   "created_at": "2026-10-13T19:55:51.118713Z",
@@ -1023,6 +1042,7 @@
   "created_at": "2026-10-02T20:14:31.790591Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Eddie have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

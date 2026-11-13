@@ -46,6 +46,15 @@
   "sha256": "4dc36b76383632c21571dfb1ef09044f9ef6b2fd791fde0327ebb0e14518b7db",
   "slug": "will-the-republican-party-candidate-win-the-2026-sc-03-house-election-by-0-10"
  },
+ "0x0763217a7c910e0ef78eabba7150faac6d490e68352715575f8e73f9c85fbb7a": {
+  "created_at": "2026-11-12T20:23:23.488112Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will No Me Arrepiento de Sentir Tanto - KAROL G win Best Latin Pop Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d2441f3a59afec9951e31f5439a10f2a5c64756135a599e4835a4e0254fde1bb",
+  "slug": "will-no-me-arrepiento-de-sentir-tanto-karol-g-win-best-latin-pop-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x093a9cf982b0da531e266e1e3f025cbc0bf64439cd7d6d24cf5b9a53f3ce8b7a": {
   "created_at": "2026-08-10T15:44:37.514603Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -81,6 +90,15 @@
   "revisions": 1,
   "sha256": "25cc674a64355e3cbee3503ec82f82ca65334fc05cdd5c56b41d0ed4353e26aa",
   "slug": "will-the-republican-party-candidate-win-the-2026-michigan-senate-election-by-3-6"
+ },
+ "0x152ffbe4bdb123237eb51a6b0b0c6f32bc4e505d279d34ce9de5556df087307a": {
+  "created_at": "2026-11-12T18:41:16.971973Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang rank in Google\u2019s Top 5 Most Searched People in the US of 2026?",
+  "revisions": 1,
+  "sha256": "5a79542448a85a7790b055b8f9be8661e15668b167003a441f9c6362a06cf3d4",
+  "slug": "will-jensen-huang-rank-in-googles-top-5-most-searched-people-of-2026-us"
  },
  "0x15b71586554b2f6fd061c585fdb4292314f2fb8edc59016919a5924430b0307a": {
   "created_at": "2026-10-29T23:12:50.814235Z",
@@ -574,6 +592,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-jalen-brunson"
  },
+ "0x5f5d7a1d9891cc3051dd18840082fa9d4ea4dfe20f789cd0ef03ee42aea50c7a": {
+  "created_at": "2026-11-13T00:28:38.517147Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Rachel McAdams win Best Actress \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bb3a08ebb0b40ee96c2abb2a0aff9e031572f257b5c5cc7c3526c588bf3d6ffb",
+  "slug": "will-rachel-mcadams-send-help-win-best-actress-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0x5faaa022b2c75a09784662ecdb73111f581c99d5391bba381ab39965b25f197a": {
   "created_at": "2026-09-28T15:12:25.731998Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -796,6 +823,7 @@
   "created_at": "2026-10-02T20:14:29.296574Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Alvaro have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1395,6 +1423,7 @@
   "created_at": "2026-08-12T16:51:30.576633Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cleiver Inuma Ch\u00e1vez win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
@@ -1594,6 +1623,7 @@
   "created_at": "2026-10-02T20:14:27.057773Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will BrokenBlade have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

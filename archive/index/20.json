@@ -799,6 +799,15 @@
   "sha256": "f75fbe193d18efcd908b38642cd74f31237461ea8dd8f10d6cebc01625c89a11",
   "slug": "will-nvidia-be-the-3-ai-lab-at-the-end-of-january-2027-style-control-on"
  },
+ "0x7736c7e072f4934defb40cec47141bceec5f560a6cfefebc53f12ab2146b1520": {
+  "created_at": "2026-11-12T20:23:50.482828Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Pais Portatil - Ruben Blades, Roberto Delgado & Orquesta win Best Tropical Latin Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6076bf73a913e32e4d21b9b4a6d9fc351c069403a644bdf7edc3f73842baac5c",
+  "slug": "will-pais-portatil-ruben-blades-roberto-delgado-and-orquesta-win-best-tropical-latin-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x7762725d70766cc0af7275f88c6dda4b1f4c645e0d0287e2097efcda8fb3af20": {
   "created_at": "2026-08-26T21:46:04.911626Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1290,6 +1299,15 @@
   "sha256": "9fcffbcc37cc7588942598790d7bfec8fa099629ce003267e3bf9863d76abad7",
   "slug": "2027-soccer-austrian-bundesliga-winner-sc-austria-lustenau"
  },
+ "0xbbe36a526a5064aa71ee90588ad18c316cb08044357a40d4123edc3f6b9e1f20": {
+  "created_at": "2026-11-13T00:28:44.328455Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Debut win Best Motion Picture \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
+  "slug": "will-the-debut-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0xbd3cdcf96c02b1a5fa05b8f262113b139631794720a53c6d82a21b81ec21cd20": {
   "created_at": "2026-08-24T16:32:16.782013Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1641,6 +1659,7 @@
   "created_at": "2026-02-18T17:37:49.706341Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will CJ dos Santos win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",

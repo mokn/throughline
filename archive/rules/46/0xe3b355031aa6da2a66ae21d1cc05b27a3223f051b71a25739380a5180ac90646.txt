@@ -1,0 +1,13 @@
+This market will resolve according to whether the first individual who is officially announced as the successor to Jensen Huang as CEO of NVIDIA Corporation by December 31, 2028, 11:59 PM ET is an internal or external candidate.
+
+A candidate is internal if, at the time of the announcement, they are an employee of NVIDIA Corporation or any of its subsidiaries, or a member of its Board of Directors. Any other candidate is external.
+
+If co-CEOs are announced, this market will resolve to "External" if any of them is an external candidate.
+
+An announcement of a successor will be sufficient for resolution regardless of whether the announced replacement actually becomes the next CEO of NVIDIA.
+
+Interim CEOs will not qualify.
+
+If, before any successor is announced, NVIDIA officially announces that Jensen Huang will return as CEO on a non-interim basis, or if no successor is announced by December 31, 2028, 11:59 PM ET, this market will resolve to "No new permanent CEO".
+
+The resolution source will be public statements from NVIDIA Corporation, however a consensus of credible reporting may also be used.

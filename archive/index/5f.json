@@ -214,6 +214,7 @@
   "created_at": "2026-10-29T17:57:42.091856Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Russia enter Moskovka by November 30?",
   "revisions": 1,
   "sha256": "4820769843ea9e063429997b199ba3db518a9115263176d3c77765bbffb620d0",
@@ -228,6 +229,15 @@
   "revisions": 1,
   "sha256": "741a90576626962258298b5322befa4a06466f09a8b65d678939cd99d9b2b6b2",
   "slug": "zuffa-dzamb-parke-2026-11-07-ends-before-round-2"
+ },
+ "0x22ddae504161618c939281d27e065aa5ec8063ec4ef9743117f342b51206ba5f": {
+  "created_at": "2026-11-13T00:29:23.409062Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Fatherland win Best Motion Picture \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6b55eede1b5c82c1ecedb31f7ecc7e8e00031e199c130f5f7d67ca5466155e00",
+  "slug": "will-fatherland-win-best-motion-picture-drama-at-the-84th-golden-globes"
  },
  "0x23594c6658fd2c8b4a4ffead4e69a130bf245d9d95f9216b6a8d25bee258d85f": {
   "created_at": "2026-08-31T18:18:40.607691Z",
@@ -356,6 +366,15 @@
   "revisions": 1,
   "sha256": "17ecc63402c8b7ef3861161dc27b2e72becf2036d67cafe384ac9615350a6309",
   "slug": "will-trump-meet-with-dario-amodei-by-november-30-2026"
+ },
+ "0x377121da2a73fb3d25b76a320f7b4f0928e04f471a14ff8f274f363e43a36d5f": {
+  "created_at": "2026-11-13T01:37:13.631966Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Trevor Noah win Best Performance in Stand-Up Comedy on Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "00915a05e9edf7dd49ed0f6f406a6e3ea4b367c6136ca44e094c18038eb59ebe",
+  "slug": "will-trevor-noah-joy-in-the-trenches-win-best-performance-in-stand-up-comedy-on-television-20261112"
  },
  "0x387abd33ec2706bf5e2d5089556962f899c76f2e53e72de416ee097f5e0cde5f": {
   "created_at": "2025-11-05T19:20:22.645507Z",
@@ -565,6 +584,15 @@
   "sha256": "e94ab8ba852cc091be8da9bcb1814c23c442982e27fdbc4405b54674d22cd04b",
   "slug": "2027-soccer-2-bundesliga-winner-dynamo-dresden"
  },
+ "0x4b4970d03b0b5e6680e590c94a17300db8d37dbc20d583a1968a3a85388f9d5f": {
+  "created_at": "2026-11-12T20:23:16.615704Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Loco x Volver - Maluma win Best Latin Pop Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d2441f3a59afec9951e31f5439a10f2a5c64756135a599e4835a4e0254fde1bb",
+  "slug": "will-loco-x-volver-maluma-win-best-latin-pop-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x4bc634c7c4b2069a40a645b945c822a940a682e3584590e736b5c2b0ea2a2b5f": {
   "created_at": "2026-09-20T08:15:46.396344Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -682,6 +710,15 @@
   "revisions": 1,
   "sha256": "aacba828acdb4ac17918a88dd67c47cb07f21936b23cd0bb1a731eaee089a478",
   "slug": "trump-fully-suspends-entry-to-the-us-for-more-countries-by-december-31-2026"
+ },
+ "0x5db73c2f92df098c7f006ed9a0794d0d9a2dae2a09045481bd13bd3f66f9465f": {
+  "created_at": "2026-11-13T00:35:25.217351Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Shape of a Woman\" (The Devil Wears Prada 2) win Best Original Song - Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "922c8c583e3bf02e11cdbc9901cc158f0fda43ad0c314c17764ce186906a40c3",
+  "slug": "will-shape-of-a-woman-the-devil-wears-prada-2-win-best-original-song-motion-picture-at-the-84th-golden-globes"
  },
  "0x6229dd40cac28d6bd394367e9c3d4c4ee45b875b8083949095a5535a1ce0365f": {
   "created_at": "2026-08-05T10:57:27.662204Z",
@@ -1201,6 +1238,15 @@
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-jameson-williams-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
  },
+ "0xa516aaa53465663d43106f63c51753af7dbcc7b79b9d5e8b047f430e8f1d185f": {
+  "created_at": "2026-11-11T21:57:11.065045Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Maryland in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "e349b13620441a4083dcb4228d2b968676539db424f46a651c3aebb526b63e53",
+  "slug": "will-the-republicans-win-maryland-in-the-2028-presidential-election"
+ },
  "0xa9189c805060423d3bb5ea7658ca5054cdcd8bea6d0929825fdd9a9e75ad815f": {
   "created_at": "2026-02-18T17:10:56.082089Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1415,6 +1461,7 @@
   "created_at": "2026-02-06T22:38:04.273136Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Henrik Rydstr\u00f6m win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
@@ -1491,6 +1538,15 @@
   "revisions": 1,
   "sha256": "1c512b4c26eaa8aee2a2093ccb638fde5f6f31fa9d572e4e48de2aeb10f4924f",
   "slug": "cameron-ward-3799pt5-passing-yards-2026-27"
+ },
+ "0xd75ea9780996baf8704e15c8f8f930c8aea6195a45d627247f09e658769b985f": {
+  "created_at": "2026-11-12T18:41:03.170431Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Austria by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-austria-by-december-31-2027"
  },
  "0xd911d8ffcd34a8840517f2238bcfa1c4623e226cab7ad0f6f73d383c960a2c5f": {
   "created_at": "2026-08-11T18:36:34.265735Z",

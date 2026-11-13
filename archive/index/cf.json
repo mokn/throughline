@@ -121,6 +121,7 @@
   "created_at": "2026-08-26T21:46:51.736484Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Barracas Central keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -641,6 +642,15 @@
   "sha256": "23a9f2d08b6d2158858e4c368b67ac02991cd7a6f7966aa362eb0efbb093772d",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-28-house-election-by-3-or-more"
  },
+ "0x6ed79d92e6c0f6b6ab747307da28301104e26d711c7682c6f3571a769d8576cf": {
+  "created_at": "2026-11-13T00:35:28.317109Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Draw You Out\" (The Hunger Games: Sunrise on the Reaping) win Best Original Song - Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "922c8c583e3bf02e11cdbc9901cc158f0fda43ad0c314c17764ce186906a40c3",
+  "slug": "will-draw-you-out-the-hunger-games-sunrise-on-the-reaping-win-best-original-song-motion-picture-at-the-84th-golden-globes"
+ },
  "0x6ef0c3a252aea80964bd091286dbb4ff9c0d9f92bd124541abcf2e3f0679c3cf": {
   "created_at": "2025-11-27T17:24:09.841471Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -981,6 +991,7 @@
   "created_at": "2026-08-10T20:04:06.866392Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Mikael Strandman be the next Regional Board Chair of Region V\u00e4rmland?",
   "revisions": 1,
   "sha256": "6caac63e659de9e485779e8d4bd0bbf8adc310af391409508b27fb648aa26e58",

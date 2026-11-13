@@ -199,6 +199,7 @@
   "created_at": "2026-10-02T20:14:34.557509Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Harky have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -277,6 +278,15 @@
   "sha256": "e62f0bf1203b632d80728525cf098565c1ddac12ba90898074156331126d2d90",
   "slug": "drake-london-5pt5-receiving-touchdowns-2026-27"
  },
+ "0x3ca8cfe2a46499eb89741e3485374bc2c743548c0964556946cbd1a5613ae85c": {
+  "created_at": "2026-11-13T00:35:41.210095Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Mr. Irrelevant\" win the award for Cinematic and Box Office Achievement at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "94c85e893460516dd29364438df1d8eb10e02179d18bcc98d31dc087517d7832",
+  "slug": "will-mr-irrelevant-win-the-award-for-cinematic-and-box-office-achievement-at-the-84th-golden-globes"
+ },
  "0x3e47d86e41bb8828884e4e23e34b54da2342181ad8430e554894bf20f361c95c": {
   "created_at": "2026-08-06T08:29:21.951305Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -303,6 +313,15 @@
   "revisions": 1,
   "sha256": "60e1af0faddeb9a5b85249cd3735e73c79ddb370c5b8782eefc3301e00579dea",
   "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-home-0pt5"
+ },
+ "0x3eb94e499581176d816fb7f22065287403f00756c4f1694c00adc46cab1f685c": {
+  "created_at": "2026-11-11T21:56:43.680866Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Rhode Island in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "cf3d3a2ba1dba46dd4cb67f440afab9ec631d98be52c5e8f382f06192089f487",
+  "slug": "will-the-republicans-win-rhode-island-in-the-2028-presidential-election"
  },
  "0x3ed63b071c28c280b3da0e7ce0c2915b612ba5af715e940432f69108d134f15c": {
   "created_at": "2026-08-24T16:33:26.232607Z",
@@ -506,6 +525,7 @@
   "created_at": "2026-08-11T18:42:20.545031Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-04 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "46fbc49f95bd204a6feef13acddf5a56e7b102e2951db9fc8f5009df01e9f42a",
@@ -665,6 +685,15 @@
   "sha256": "528c79b4f4d0e52a2a16ae7442413f4c20697270820cfc2f77bc2d4b262fa169",
   "slug": "2027-soccer-premier-league-runner-up-manchester-city"
  },
+ "0x6aeea78067ce890428f4783774883117a89166b646201581146cf2f72a8fbe5c": {
+  "created_at": "2026-11-12T00:30:42.216115Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Connor Closs come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-connor-closs-come-in-second-place-on-the-voice-season-30"
+ },
  "0x6be9f170c8e39ead6bc7a89883a5f8c95b039781c9999eba660fefec71dd215c": {
   "created_at": "2026-09-27T20:04:13.496278Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -673,6 +702,15 @@
   "revisions": 1,
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-adrian-kempe-win-the-2026-27-art-ross-trophy"
+ },
+ "0x6c37b5861076c4c65b28ca15c2c460886f78997424834b4f6d0bdc086589395c": {
+  "created_at": "2026-11-13T00:00:59.581982Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the Bank of Korea increase the base rate by 50+ bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "4f05d22add5cf732c3f746acf1d6967625b38133499bd062f0a0870e364d4805",
+  "slug": "will-the-bank-of-korea-increase-the-base-rate-by-50-bps-at-the-april-2027-meeting"
  },
  "0x6d15f847c1e9dcf1006663107fd78d79e186b7aa48c1b17d473ea25aea21fc5c": {
   "created_at": "2026-08-28T05:56:18.671267Z",
@@ -1483,6 +1521,15 @@
   "revisions": 1,
   "sha256": "28325ed7bd4785b8ae289ecbff1a69667a853b6c03d32b46513f2d1f947fecd4",
   "slug": "spl-riy-hil-2026-10-16-exact-score-4-1"
+ },
+ "0xf90071a27eaa5e3ea4b3b4596831b87486e184d5195e431d1ef55b06abce995c": {
+  "created_at": "2026-11-13T01:35:02.843508Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Spend Dat - Yung Miami win Best Rap Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "2e5dc6cc5a75b03a3c605e65e55c70f53dc98ce38c8b04280478a41e86bd3c53",
+  "slug": "will-spend-dat-yung-miami-win-best-rap-song-at-the-69th-annual-grammy-awards-20261112"
  },
  "0xfa34a63234463e21092c21c8d4a715da758f27db0a8e595a8ec2eecf7b72825c": {
   "created_at": "2026-09-09T15:48:24.815686Z",

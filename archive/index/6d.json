@@ -600,6 +600,7 @@
   "created_at": "2026-01-28T15:35:38.097233Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party win the NC-03 House seat?",
   "revisions": 1,
   "sha256": "425ba3ed4052deb6886b37316baef74b995a8f574297c395c296b2e26fcec505",
@@ -669,6 +670,15 @@
   "sha256": "3e6d6de5a9465ac85d48af4531eddc2e17d6893da7e432d74b5d5d150a86db2f",
   "slug": "el1-bra-bar-2026-09-26-spread-away-3pt5"
  },
+ "0x578f52ac6eb6a2edbfaeb400fd0db73a99428d925a1fcd99ce22c29ace51d06d": {
+  "created_at": "2026-11-12T20:22:00.763291Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Out the Window - Kehlani win Best R&B Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "5cb566bd7484f108a868cd3cc5186c0b7260aee5aab4464990378f5c18f7134b",
+  "slug": "will-out-the-window-kehlani-win-best-randb-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x58a342157bad56d0880f5f82fa26710b4cf51d6cf1f3cd3f1e7618107e9cbc6d": {
   "created_at": "2026-07-29T19:31:53.486149Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -687,10 +697,20 @@
   "sha256": "d15d66aa6b9eeb0f3c27deba66141c0b5a66da3c9e41ecf3ee0fbb75478fc81b",
   "slug": "will-with-tapes-and-toasts-in-the-car-be-nominated-for-best-animated-short-film-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x5a0d75ef2a58819036ce4ac89083e7b50d38cb4381adc9f1358e2afa1a06436d": {
+  "created_at": "2026-11-13T00:29:39.967514Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Zendaya win Best Supporting Actress \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f54aef27bf35c35d0e1705d479016706e14615a4f0da24a7edc59bd338573913",
+  "slug": "will-zendaya-dune-part-three-win-best-supporting-actress-motion-picture-at-the-84th-golden-globes"
+ },
  "0x5a4962c9652e3dae9c4b3603973533c9ace3a8245f102e63636c63e89c48416d": {
   "created_at": "2026-10-05T21:55:25.412546Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Bad Bunny headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -1079,6 +1099,15 @@
   "revisions": 1,
   "sha256": "ae3466218bdbc9f5b292bed0b8ad82e7a5f85cf8f432758fbf027f6aa69003df",
   "slug": "will-rb-leipzig-qualify-for-the-2027-28-uefa-conference-league"
+ },
+ "0xad0368e0dc8753f40dcc58576fd3c62bcaca7adf03a61e9838d5ef72810a9d6d": {
+  "created_at": "2026-11-12T20:19:36.409753Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will 1oo - Ella Mai win Best Traditional R&B Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "a45e64cb2142fbd19c427265120c3c01eb8aedc3b43da6327838be8bcf90888f",
+  "slug": "will-1oo-ella-mai-win-best-traditional-randb-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xae2fd736b9ee07d2e355a198ae1d6c61ed0f7b60580c83523fa277d02e20546d": {
   "created_at": "2026-08-26T21:46:13.552278Z",

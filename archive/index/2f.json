@@ -27,6 +27,15 @@
   "sha256": "5de91e8f3157cfc62621e22886bab238311c3f6bb35c13e162f830cf1c30a97d",
   "slug": "netanyahu-convicted-in-corruption-trial"
  },
+ "0x09ed62f79667df55c7339adf3978d943e49ed70ba063ca5ac07c6c2073ce992f": {
+  "created_at": "2026-11-13T00:42:58.222751Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Lady Gaga appear at the 2026 NFL Christmas Day halftime show?",
+  "revisions": 1,
+  "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
+  "slug": "will-lady-gaga-appear-at-the-2026-nfl-christmas-day-halftime-show"
+ },
  "0x0c3b2a65600454e4d87c4ebff84a593f659b31f22b118e4f31db386ada3cec2f": {
   "created_at": "2026-09-04T19:33:05.210418Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -63,6 +72,15 @@
   "revisions": 1,
   "sha256": "43281a396ee74682a8622904d56158f6d70befa701515b1aec983e2365d84c7c",
   "slug": "will-candidate-a-win-the-alaska-senate-race-in-2026"
+ },
+ "0x139104f1d9ae274aef9c771fa56bea28417c73e7b05ac7d254cc3ee49ead562f": {
+  "created_at": "2026-10-26T09:00:09.33772Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: O/U 3.5",
+  "revisions": 1,
+  "sha256": "0518d2abe4890bfce953d48fe014fb0af8f3d8c89d48fc3aca01e4e80b9c1b71",
+  "slug": "por-est-csm-2026-11-08-total-3pt5"
  },
  "0x13a8878ff1681608595a57a0912bdbb0704f7db64c5c826f772fb30c7656682f": {
   "created_at": "2026-09-28T14:44:22.569933Z",
@@ -434,6 +452,7 @@
   "created_at": "2026-10-02T20:14:20.688128Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Smash have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -470,6 +489,7 @@
   "created_at": "2026-08-13T17:43:20.599653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will UK GDP growth in Q3 2026 be between 0.8% and 0.9%?",
   "revisions": 1,
   "sha256": "8ee46b65a3687a1e9fac0fc0ed614d05d17f1a86ef0d10218e4a5c4ad4fde2d6",
@@ -789,6 +809,7 @@
   "created_at": "2026-10-20T23:03:37.079915Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Cryocells play for NRG in 2027?",
   "revisions": 1,
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",

@@ -302,6 +302,15 @@
   "sha256": "60bbd318ffe74637f3c83d3acb4f80ac2ba496c1213d70deffa9137cf26e1ca8",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ma-03-house-election-by-35-40"
  },
+ "0x418b356b6d4950d6a1a3a96f355d73d46f3d9f5f49449af056b7ba4f73166a92": {
+  "created_at": "2026-11-12T20:23:34.817055Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Vendran Suaves Lluvias - Silvana Estrada win Best Latin Rock or Alternative Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d01bc031f78b9b4aad2f5827a496a58351d4926d5e5d57aa4a793bfd77e3a449",
+  "slug": "will-vendran-suaves-lluvias-silvana-estrada-win-best-latin-rock-or-alternative-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x43462bdf6104c5784a50813938d7fd945bbcd8ed3f4d41c9fd4c36434ca49f92": {
   "created_at": "2026-09-24T08:41:43.566093Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -338,10 +347,20 @@
   "sha256": "cf4f808198c16186d96fa6f1b59ac386df333ed3a6f790c0ada6d7a0379eee00",
   "slug": "will-there-be-no-change-in-fed-interest-rates-after-the-march-2027-meeting"
  },
+ "0x476bab594bb3c345b3f97c8f44e4a2d415596ff6e662321bb84b3b6a89449e92": {
+  "created_at": "2026-11-12T18:44:58.084695Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Russia x Ukraine prisoner exchange by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "ba4178591d062ea91952374bc1350d1ad55245a22d00f599870d8a0e1b7f98b7",
+  "slug": "russia-x-ukraine-prisoner-exchange-by-december-31-2026"
+ },
  "0x48920cc0fc407e5ac57419ebc578a80c14ed97b1ebdc0717164f8ad08d846792": {
   "created_at": "2026-08-04T18:33:46.534285Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 Oklahoma Senate election by 20%-25%?",
   "revisions": 1,
   "sha256": "d4293a3a168b1bab5c5850ef393718e48d472e3fe33ea0a48af0701ebb7ecc9f",

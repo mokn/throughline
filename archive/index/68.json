@@ -26,6 +26,15 @@
   "sha256": "532cb9c57e5f5be413b974afba83241b3c9c6ddd08eb506be76b4fe7e48163c1",
   "slug": "will-broad-front-fa-win-the-most-seats-in-almeria-in-the-2026-spanish-general-election"
  },
+ "0x028c6059cb6085fb5012e1cc1bb6fbdb79da9944f5736188d6abe96a34360c68": {
+  "created_at": "2026-11-12T22:35:32.185911Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will 3 Jensen Huang affairs be reported by December 31?",
+  "revisions": 1,
+  "sha256": "b1360b00209880afd8b6e17a0cb8cdd35b0a1a1fd58cf1fb5ea6fd3923cab887",
+  "slug": "will-3-jensen-huang-affairs-be-reported-by-december-31"
+ },
  "0x02b0d6b4b5a81081469135ecda954298f7627dea032113857e75a769c4c08568": {
   "created_at": "2026-10-01T14:01:03.027084Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -49,6 +58,7 @@
   "created_at": "2026-02-19T00:42:46.468615Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Junior Caminero win the 2026 American League Hank Aaron Award?",
   "revisions": 1,
   "sha256": "52a8a67146ad80ab776aa2fa3b8c6fce09103edac1c14f612c2ef75f8df02c56",
@@ -317,6 +327,15 @@
   "sha256": "1458563aa4152c2f3071b7bcbae04151175fb41cecc803ace023c8e65779e8dc",
   "slug": "will-all-of-a-sudden-be-nominated-for-best-casting-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x37e0d782ab1e486f0f2549dea2fa340f90e3a6b7f7f9855f53b234f6e8ad6f68": {
+  "created_at": "2026-11-13T00:31:02.430164Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Colman Domingo win Best Supporting Actor \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "8fc63d637eb4b834786d92a3edbfa36ad17ef4bb8f9b0b284a382e0a1e53a583",
+  "slug": "will-colman-domingo-the-four-seasons-win-best-supporting-actor-television-at-the-84th-golden-globes"
+ },
  "0x38c021bf695ac05ffa60ce68d73768dfd2afbc2621f96c6499913299e43f5468": {
   "created_at": "2026-08-07T16:01:48.85659Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -367,6 +386,7 @@
   "created_at": "2026-08-26T21:46:51.794953Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Belgrano keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -452,6 +472,15 @@
   "revisions": 1,
   "sha256": "0edfeef53846c7682a08c0e52f7daea585cb167d197a6faec26740a3acc23e71",
   "slug": "oklahoma-city-thunder-2026-27-regular-season-wins-ou-60pt5"
+ },
+ "0x4904ea7499ecc74fc03462c3123b5e36ca072c5a751a4f25a485fcd79eeda268": {
+  "created_at": "2026-11-13T00:28:59.336095Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jordan Firstman win Best Actor \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f467bbf9407466481b1b57709202968e28f6dbaba9b5ace503cc614a41ed25e6",
+  "slug": "will-jordan-firstman-club-kid-win-best-actor-drama-at-the-84th-golden-globes"
  },
  "0x4b7c194affcf1f1b86f3a9dc9f937b824d45ed330305d975f4540821ff66ee68": {
   "created_at": "2026-09-27T20:11:43.713549Z",
@@ -954,6 +983,7 @@
   "created_at": "2026-10-07T09:04:25.899496Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Military action against Saudi Oil Pipeline (East-West) by November 30?",
   "revisions": 1,
   "sha256": "8fd2e4a22f80a62542c33e6b2cb3fb5ab51a7319458b2dc595dcb49a5da277c7",
@@ -1136,6 +1166,7 @@
   "created_at": "2026-09-30T13:56:05.592157Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will global temperature increase by less than 1.30\u00baC in October 2026?",
   "revisions": 1,
   "sha256": "0427c028f1df41e8292994e6f22e840e8c80df52bdbe8a9ef4938f4888f27893",
@@ -1246,6 +1277,7 @@
   "created_at": "2026-02-06T22:22:33.774708Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Nkosi Tafari win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1394,6 +1426,15 @@
   "revisions": 1,
   "sha256": "a39b3a90f46825c61ba572527aa0715eb7528da9464dc71dff9d2fd5e3cd29a2",
   "slug": "france-elite-2-2027-champion-alm-evreux"
+ },
+ "0xf2edce942fa3a4d6869c969c2db14f43f0a72b3b40f3cc1a23b23b2f9a1fe168": {
+  "created_at": "2026-11-11T21:57:44.057724Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Connecticut in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "76827eff99b77f4d82dea6fecfb71cd6ddc4c6abbc3af9e37deefffdd97d55a9",
+  "slug": "will-the-democrats-win-connecticut-in-the-2028-presidential-election"
  },
  "0xf2fa8de02e9e5b88231ad78a9a9f50480d220c94694d932af294280b0758d768": {
   "created_at": "2026-08-21T20:25:23.889563Z",

@@ -98,6 +98,15 @@
   "sha256": "de362754fdd3ddc4dc3be3a8a9019edc616ab6afa477664e5b49c69ca10d04a2",
   "slug": "will-bytedance-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-december-2026"
  },
+ "0x11bad52f5e19a74527cb8f5eee3e381a21fffd190f4fcf78a4aebc147e6a83ff": {
+  "created_at": "2026-11-11T23:46:56.415008Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Jensen Huang's resignation or removal be announced and Nvidia's market cap be above $4T at the end of 2026?",
+  "revisions": 1,
+  "sha256": "f1ccac1581e181bd53a8ab52db77078d1c9291198bb19e211a3b4dd24addc20e",
+  "slug": "jensen-huang-resigned-or-removed-and-nvidia-4t-end-of-2026-resigned-over"
+ },
  "0x11ead3b52d6c0f658e67a2ef9975caca2780de6e81634845310ca79ee7e381ff": {
   "created_at": "2026-09-04T00:19:52.223816Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1329,6 +1338,7 @@
   "created_at": "2026-10-20T23:03:16.691385Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jawgemo play for Team Envy in 2027?",
   "revisions": 1,
   "sha256": "416352dd6eee6ef81505189123e0912a7fd8719b4be90ee50670504a84c8abb3",
@@ -1428,6 +1438,7 @@
   "created_at": "2026-10-02T20:14:32.03234Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Bie have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1628,6 +1639,7 @@
   "created_at": "2026-10-02T20:14:36.870518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Blaber have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

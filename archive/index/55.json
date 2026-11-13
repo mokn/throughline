@@ -44,6 +44,15 @@
   "sha256": "8689ce8274ba146602751dd6624d3276adacd701dfb4374c33ac6a47a10e2794",
   "slug": "will-ethereum-hit-1k-or-3k-first"
  },
+ "0x095aedf26a74decae4ad9f93f7512cc9c21c2598e5f3e82d6402b1ce34c01c55": {
+  "created_at": "2026-11-13T00:42:57.607362Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jennifer Aniston appear in a 2027 Big Game commercial?",
+  "revisions": 1,
+  "sha256": "598749c8b1008738d6a8927ef568b3926e5a6aa4682ba8f8527357847f539360",
+  "slug": "will-jennifer-aniston-appear-in-a-2027-big-game-commercial"
+ },
  "0x0a10fb8669d46f01870ab2d44f258cf773678b1cf5fec79172507ebc3df9dd55": {
   "created_at": "2026-08-24T16:35:17.531838Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -376,6 +385,7 @@
   "created_at": "2026-09-30T23:58:59.101984Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Houthi military action against Saudi Arabia on October 30?",
   "revisions": 1,
   "sha256": "e9641c7a4dcb2c623e2efd3e7dd8b18318470c45dc44ed921dd4b2c55ccd3e7f",
@@ -735,6 +745,15 @@
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
   "slug": "f1-brazilian-grand-prix-practice-3-fastest-lap-charles-leclerc-2026-11-07"
+ },
+ "0x836c0b4ecd9bf59e7ccd2224ff87f8c0d78fd8205f33867ec9450f6d72c9a455": {
+  "created_at": "2026-11-12T22:50:24.226594Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic stock fall more than 10% on IPO day?",
+  "revisions": 1,
+  "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",
+  "slug": "will-anthropic-stock-fall-more-than-10pct-on-ipo-day"
  },
  "0x8534ae1094a328502346d1bdd241c7ed2394e1d65977887d8e2390f45a267c55": {
   "created_at": "2026-10-13T15:56:52.194514Z",
@@ -1136,6 +1155,15 @@
   "sha256": "ef697cce15ffd241ee78cd15bc4a5746afea01d707e8942bf8d6bf8338be9966",
   "slug": "will-mike-mccarthy-be-the-next-head-coach-fired-2026-27"
  },
+ "0xcdb2c273dafe454d5c8ba820fe9774a92e9cc078afbd491fdffff964b4e4e355": {
+  "created_at": "2026-11-11T21:57:31.136856Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Illinois in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "308f84e5e4e77fbaf30875e60cdb474e0eb09856f1e13049e814577c77ba0d6a",
+  "slug": "will-the-republicans-win-illinois-in-the-2028-presidential-election"
+ },
  "0xcdbbf23aae6e14d081ff5f70370b6b6aa1650e5b322e024563d9133a115d1255": {
   "created_at": "2026-09-27T20:08:51.826617Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1239,6 +1267,7 @@
   "created_at": "2026-08-18T14:27:33.064799Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Vermont be 350,000 or more?",
   "revisions": 1,
   "sha256": "1793b0484da3522c6db831e6a4fdc7503edf01757a1b8c691cba446b01dda07b",
@@ -1343,6 +1372,15 @@
   "sha256": "ec1a3539950d7d6b2517d211d2bb282b53b484d72aecef3fe1a5b73a96a204fb",
   "slug": "will-los-angeles-sparks-advance-to-the-finals-in-the-2027-wnba-playoffs"
  },
+ "0xeee1e473e5b751ecfbbd0b85f0677b9999d8ed4d18f4df3a1baf7f3436a88b55": {
+  "created_at": "2026-11-12T21:06:35.658645Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Lavly Perling be the next Prime Minister of Estonia?",
+  "revisions": 1,
+  "sha256": "f53f7912de465eef89a7860427c4f9916d2677b496bde60cd4bdd76b3fa01af4",
+  "slug": "will-lavly-perling-be-the-next-prime-minister-of-estonia"
+ },
  "0xef1014f0dd710f54063b366b4150e247f8466ab2edfc37ef42b93bc8b7c86655": {
   "created_at": "2026-09-27T20:09:35.309431Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1356,6 +1394,7 @@
   "created_at": "2026-11-10T21:10:24.65199Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 80% or higher?",
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",

@@ -71,6 +71,15 @@
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",
   "slug": "will-the-democratic-party-candidate-win-the-2026-rhode-island-gubernatorial-election-by-30-35"
  },
+ "0x0f496e1424f342c4d82e4c39e35a2161be02bc78bb3ee1f939c77654096e77f7": {
+  "created_at": "2026-10-26T09:00:10.541138Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "dbb5ac74de7b2d7e49c57293ecd639403c0d277816ee7893c0de07836c00e6f3",
+  "slug": "por-est-csm-2026-11-08-btts-first-half"
+ },
  "0x10b993a5fccd3a99b7f72522401e0a608a5b9a767538817379744a3cca88d1f7": {
   "created_at": "2026-09-02T19:30:46.183093Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -211,6 +220,7 @@
   "created_at": "2026-08-12T16:51:35.011047Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Sergio Antonio Donayre Ram\u00edrez win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
@@ -337,6 +347,7 @@
   "created_at": "2026-10-02T20:14:17.479672Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Oner have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -587,6 +598,15 @@
   "revisions": 1,
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-commanders-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
+ },
+ "0x73754304d8d2da57eb8aeab0ca053c377b5a39b6136ca2c6103e2989f42667f7": {
+  "created_at": "2026-11-13T00:35:27.817948Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"By Any Means\" (By Any Means) win Best Original Song - Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "922c8c583e3bf02e11cdbc9901cc158f0fda43ad0c314c17764ce186906a40c3",
+  "slug": "will-by-any-means-by-any-means-win-best-original-song-motion-picture-at-the-84th-golden-globes"
  },
  "0x7380b293e7aaa635f8b483e3d9bbfe7bc9443c0c68ab322f8a41019139dec0f7": {
   "created_at": "2026-10-30T00:21:53.500584Z",
@@ -1081,6 +1101,7 @@
   "created_at": "2026-10-02T20:14:33.390167Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Kino have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

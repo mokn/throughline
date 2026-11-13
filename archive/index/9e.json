@@ -451,6 +451,7 @@
   "created_at": "2026-10-20T23:03:20.890159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for Team Envy in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
@@ -614,6 +615,7 @@
   "created_at": "2026-03-26T16:21:21.75469Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jurickson Profar win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -723,6 +725,7 @@
   "created_at": "2026-07-01T22:31:54.152101Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "California Recall Election Reform Proposition",
   "revisions": 1,
   "sha256": "4bec0d6cfdda531dff93810f92d350558ec85f4a3164a0bde2d528b198e79d95",
@@ -855,6 +858,15 @@
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-sebastian-szymanski-record-the-most-assists-in-the-2026-27-uefa-europa-league"
  },
+ "0x9384d6d1a4686f4016a1f56596aee7cf3bc60ee1546116d8d5414687031e0e9e": {
+  "created_at": "2026-11-11T21:56:30.438991Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Tennessee in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "d38d4eaae19ac57777119b58126f4efa184a265854be742f7c22bffd38a50b40",
+  "slug": "will-the-democrats-win-tennessee-in-the-2028-presidential-election"
+ },
  "0x94d47ef5ca8ae30199b4b8bf607b51861295a628562d8c9f9fd5ada22101e39e": {
   "created_at": "2026-08-11T19:00:16.643936Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -953,6 +965,15 @@
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
   "slug": "el1-bra-bar-2026-09-26-exact-score-3-1"
+ },
+ "0xa34eb0a6510e6d940dc9b15fa12019d1e11af6289bb39742d02227e284962d9e": {
+  "created_at": "2026-11-13T00:31:01.981879Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Nick Offerman win Best Supporting Actor \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "8fc63d637eb4b834786d92a3edbfa36ad17ef4bb8f9b0b284a382e0a1e53a583",
+  "slug": "will-nick-offerman-margo-s-got-money-troubles-win-best-supporting-actor-television-at-the-84th-golden-globes"
  },
  "0xa5446d0779fde7071082b8ef3f27d152e57b76029c5e1f296b345a92f394a99e": {
   "created_at": "2026-09-14T21:41:56.929286Z",
@@ -1107,6 +1128,15 @@
   "revisions": 1,
   "sha256": "5d358b3b04f08e4ab114f35cc08277afce6e0600e86f0c4c1ea82a0669ef6a69",
   "slug": "will-the-democratic-party-win-the-nj-08-house-seat"
+ },
+ "0xb2cb370fe98bbb151b682f4ae8908243a55bee68ed4f62b5d58bda162afb019e": {
+  "created_at": "2026-11-12T20:19:05.899017Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will WOR$T GIRL IN AMERICA - Slayyyter win Best Dance/Electronic Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "72dff87a647eb25830b3caf5872dcf47cb9ca1f4082e70bafb45313dcbbacc2e",
+  "slug": "will-worst-girl-in-america-slayyyter-win-best-dance-electronic-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xb5d8c9ebd73cfc56954f035de76b9e50034578d7a6aa059792443c7c13ac7d9e": {
   "created_at": "2026-02-06T17:03:42.708627Z",
@@ -1329,6 +1359,7 @@
   "created_at": "2026-09-30T23:57:38.969253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Shipping targeted in Hormuz on October 31, 2026?",
   "revisions": 1,
   "sha256": "d3e8c49aebda6ffd579c50b46b78bfe3c34c09037d56da89fc2ba74df2f67c4f",
@@ -1501,6 +1532,7 @@
   "created_at": "2026-08-11T18:49:50.912295Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 SC-02 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "75831c8ce49d78e4943de53c02269293f62f5d30e7bfbb05944b5f66d6743d70",
@@ -1510,6 +1542,7 @@
   "created_at": "2026-10-20T23:03:17.221842Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for G2 Esports in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
@@ -1592,6 +1625,7 @@
   "created_at": "2026-09-30T20:12:34.775217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "ChatGPT Full Outage by November 30?",
   "revisions": 1,
   "sha256": "7d6851596a0062f989875ad65c0eb3aeb50d67294717195c479e27b68ca936bd",

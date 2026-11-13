@@ -80,6 +80,15 @@
   "sha256": "096f845843467432645710b0368dfba2d6cb62eeec1d355afc9ec42148b1d1ca",
   "slug": "will-taylor-swift-be-the-top-spotify-artist-for-2026"
  },
+ "0x10346cf160021c9c77ca45721c5429a153b01a74c257db6c4a690a6098338910": {
+  "created_at": "2026-11-13T00:43:07.027048Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Green League win the most seats in the 2027 Finnish parliamentary election?",
+  "revisions": 1,
+  "sha256": "38c42c6de399f846125ffd92daec1b4db401bed190baae908a6427a13496eef3",
+  "slug": "will-green-league-win-the-most-seats-in-the-2027-finnish-parliamentary-election"
+ },
  "0x10646c23de96f39d35a76a5d8a8d89cf0987ed64b3e1585bb35761d87f532210": {
   "created_at": "2026-08-11T14:18:40.342334Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1296,6 +1305,24 @@
   "sha256": "36b30480223103d31ba1029aa9ed027b8799d91be0410fd39642e98a89b65edc",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-38-house-election-by-20-25"
  },
+ "0xc52702bbb8e632ff2935e3d8509f6cda6061eb78fb70349a1a36be29b5d3f210": {
+  "created_at": "2026-11-11T23:48:44.856821Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Next Qwen Max (4.1+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "6155ac341a368e12694d6efb4e9c63b854cd17e9953ef2ed78bfb8be83bef351",
+  "slug": "next-qwen-max-4pt1-released-by-january-31-2027"
+ },
+ "0xc55640de3ab4226fdb71e9f07f1f35c5765300f2d10a4676302af60652b29910": {
+  "created_at": "2026-10-26T09:00:10.760842Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "caaa1c96cdb956b68a7f420684f1ef6b6927946541578f8c55ec4847278835d5",
+  "slug": "por-est-csm-2026-11-08-first-half-total-0pt5"
+ },
  "0xc6a84b79b1c4ddc642223698d6a26608f164265a009f6c7fe817e8ba51923410": {
   "created_at": "2026-10-16T18:05:38.069668Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1556,6 +1583,7 @@
   "created_at": "2026-10-02T20:14:27.544568Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Caps have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1625,6 +1653,15 @@
   "revisions": 1,
   "sha256": "6b8f454e461adc1984296b9b0062454efe9e844a1e309770e0ece627a8d503c4",
   "slug": "will-aaron-sorkin-win-best-director-at-the-99th-academy-awards-20260727173335237"
+ },
+ "0xfa979ab16750490e13b5de462226ab00288bda954c9f54032baeae4caaf43e10": {
+  "created_at": "2026-11-12T00:30:39.996427Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Connor Closs win The Voice: Season 30?",
+  "revisions": 1,
+  "sha256": "51b9d5274abc395645a15b4af92cda8887b7ce0646514da58ce5445256fd05c5",
+  "slug": "will-connor-closs-win-the-voice-season-30"
  },
  "0xfd86d34b6d71b3e38d439072bdf8387376b8f4863e8ba300cf7b4a63cdd2ef10": {
   "created_at": "2026-08-18T14:13:00.05818Z",

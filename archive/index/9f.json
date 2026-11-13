@@ -100,6 +100,15 @@
   "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
   "slug": "will-avigdor-lieberman-receive-the-second-mandate-to-form-a-government-after-the-2026-israeli-election-20261105190000000"
  },
+ "0x0b5a4a925ae9907aeed6bfe82f6770adebaa70b92383cc89632aa8527eff5d9f": {
+  "created_at": "2026-11-13T00:36:04.046281Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Daily win Best Podcast at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
+  "slug": "will-the-daily-win-best-podcast-at-the-84th-golden-globes"
+ },
  "0x0c95a969b23c1a480b92c273e55812782097b026aad9448a644bef53d010c29f": {
   "created_at": "2026-10-13T15:57:16.880819Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -445,6 +454,15 @@
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
   "slug": "f1-brazilian-grand-prix-driver-fastest-lap-bearman-2026-11-08"
+ },
+ "0x39def728babeccd87170c4771c5719b81df65dcf87fb90780bdee90e86ac1c9f": {
+  "created_at": "2026-11-12T20:19:10.914034Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will No Broke Boys (Lee Foss Remix) - Disco Lines & Tinashe win Best Remixed Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "74b6d84d7a91f06a81d76631aaee5f8b4c95712374b44acf3eb5a043c68fa1cd",
+  "slug": "will-no-broke-boys-lee-foss-remix-disco-lines-and-tinashe-win-best-remixed-recording-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x3b172a245699ccbc44a192d530bfc09401a83591e101d13bf80c6b8518004f9f": {
   "created_at": "2026-10-20T23:21:38.379584Z",
@@ -1074,6 +1092,15 @@
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
   "slug": "2026-soccer-mls-runner-up-la-galaxy"
  },
+ "0x9b4ec4cf6300af54a80f6ffdae08c26d88d47290a09eb2353efc740594d0d89f": {
+  "created_at": "2026-11-13T00:30:32.911736Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Gilded Age win Best Television Series \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "9b661d6a459b9913e288101eeb35881a4bfd6debeb900cf3f2f3f7b9632ed534",
+  "slug": "will-the-gilded-age-win-best-television-series-drama-at-the-84th-golden-globes"
+ },
  "0x9c3f6c37d5ebe7b7de5324a14a5f3f8908d5869cbd38b1ae9adb3d25e9005f9f": {
   "created_at": "2026-08-21T21:01:40.286379Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1091,6 +1118,15 @@
   "revisions": 1,
   "sha256": "8b2934e5ff467c7dae9bf4cc6e77d40851fc0a7a5131a12052747032ee9a5b77",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-05-house-election-by-40-45"
+ },
+ "0xa1421dddd9ab01545ff9c7fd9f7eb18e20e96073087cba9b1a59fa041200779f": {
+  "created_at": "2026-11-12T00:30:44.353486Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Cade Mower come in second-place on The Voice season 30?",
+  "revisions": 1,
+  "sha256": "1909390bfd5f29cec7d61a90644bbd06cc45c61a9624fe77ba3502b68b305096",
+  "slug": "will-cade-mower-come-in-second-place-on-the-voice-season-30"
  },
  "0xa1d1a76cb80ae492a3237f07abbd70ed9f70f02bf9440edea789d1f1d7189a9f": {
   "created_at": "2026-10-26T20:06:23.810286Z",
@@ -1250,6 +1286,7 @@
   "created_at": "2026-10-05T21:55:22.807907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will BTS headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -1371,6 +1408,15 @@
   "revisions": 1,
   "sha256": "1d543934235f136bc4bbdd6c705802529a9c0cba101119907a9bad78003c9144",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-04-house-election-by-50-60"
+ },
+ "0xc2ff2978040a9b2fdfc01a88c9350889c95f6dc613e9ff203e67d03d97b24e9f": {
+  "created_at": "2026-11-13T00:30:27.17266Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Myha\u2019la win Best Actress \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "4cb090c949ab3de1a78923bc9d368d14a8516c9769a931175f044c28e80a0441",
+  "slug": "will-myha-la-industry-win-best-actress-television-drama-at-the-84th-golden-globes"
  },
  "0xc3eadfeaa25d25c704c25420537ef50ac9f618eba5c1f0f691ee79999786249f": {
   "created_at": "2026-09-04T19:40:14.779894Z",

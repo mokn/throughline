@@ -499,6 +499,15 @@
   "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
   "slug": "270-274-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
  },
+ "0x454154b98ed0e7490f9996b0128eae65cdb766a4b3d356f036e02d0c36715fad": {
+  "created_at": "2026-11-13T00:29:13.881937Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Denis Villeneuve win Best Director at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "cfc64e188beb72f6781e90cd3c4579850fbbb483c8263e85c2e1a48369a216f8",
+  "slug": "will-denis-villeneuve-dune-part-three-win-best-director-at-the-84th-golden-globes"
+ },
  "0x47c00bed87e4377d296a04c2e21599f67524c75ed780c5d8e16b70f56ff415ad": {
   "created_at": "2026-09-09T02:44:18.136356Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -552,6 +561,15 @@
   "revisions": 1,
   "sha256": "de61c5accaa11cd09457f7e45640d967991b4247bd058aa5adbd16867ca2057f",
   "slug": "will-kawhi-leonard-be-named-to-the-2027-all-nba-first-team"
+ },
+ "0x50846d576a230e01214e73387a020213b45c342bbb3dec9fc6d7e8d00444bfad": {
+  "created_at": "2026-11-13T00:30:14.302628Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Rufus Sewell win Best Actor \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "e688ca737373350f605cffbe85396233f7808fe2802eef466d9c6ad33d94af1c",
+  "slug": "will-rufus-sewell-the-diplomat-win-best-actor-television-drama-at-the-84th-golden-globes"
  },
  "0x534fe68cf8a83974ff3d2287a8490afea4179bbba9d46f8ce5bd2dc4cd391fad": {
   "created_at": "2026-08-04T19:27:30.191657Z",
@@ -727,6 +745,15 @@
   "revisions": 1,
   "sha256": "5351a6526a6364fc05cbabb1fd47d765adf5b33214f300dba6ed6a7b19f0ee53",
   "slug": "will-the-democratic-party-win-the-in-03-house-seat"
+ },
+ "0x66fbf104a45136cb4521ec544cb4faec8cf16a1eac4bf35068b1362af03d99ad": {
+  "created_at": "2026-11-12T20:05:02.044647Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic's IPO price be between $78.01 and $82.00?",
+  "revisions": 1,
+  "sha256": "4412f3b9b6e596c4d2683b06bca8cdd6ca8b4529f61f488e17662111fe03f45c",
+  "slug": "will-anthropics-ipo-price-be-between-78pt01-and-82pt00"
  },
  "0x679d63e29063458d948854f5cc700e724cdc16af3761f7707921ae0865795fad": {
   "created_at": "2025-12-10T18:05:31.09911Z",
@@ -928,6 +955,15 @@
   "sha256": "6dc17fda355894cdc6bac436ec8273beac375d77209a4e4ebf3f3701372e976d",
   "slug": "2027-soccer-bundesliga-runner-up-eintracht-frankfurt"
  },
+ "0x905e7b987b39575febc3c5f6e7b6e02ea99121a44e3c13cdd3f89a85dd45bead": {
+  "created_at": "2026-11-13T00:29:21.903883Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Fjord win Best Motion Picture \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6b55eede1b5c82c1ecedb31f7ecc7e8e00031e199c130f5f7d67ca5466155e00",
+  "slug": "will-fjord-win-best-motion-picture-drama-at-the-84th-golden-globes"
+ },
  "0x91e5861a2794b4790be50d4651432e5c9f9e1673d6604f45a45b26bcef622aad": {
   "created_at": "2026-11-03T17:41:05.167792Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -972,6 +1008,15 @@
   "revisions": 1,
   "sha256": "30f408c3c3d77b4809dc47d294d162de0b481845244cc2a2edf9ae7324b0dd47",
   "slug": "will-openai-raise-between-60b-and-70b-in-its-ipo"
+ },
+ "0x9d831ba5c400bc66c82eecbc3e3129cfd539e0287bf3ea835f6885aa753c14ad": {
+  "created_at": "2026-11-12T20:23:28.281723Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Lamento en Baile - Daddy Yankee win Best Musica Urbana Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8d8b22c91f4ff74099365b99cfed0ae0abcfcc9a53b5543426eb61974dbc6f5",
+  "slug": "will-lamento-en-baile-daddy-yankee-win-best-musica-urbana-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x9e6aa8e8b14c51e8060e76a80412ac44d9e278af5c948879b97f21400561edad": {
   "created_at": "2026-08-11T19:03:41.511955Z",

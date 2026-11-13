@@ -17,6 +17,15 @@
   "sha256": "c846b05b0169bfef7fb45eb12b6ac41b4ba3a8f895b75f81c89f0f330885c392",
   "slug": "msft-above-540-on-november-30-2026"
  },
+ "0x01ff3c0f7ddfc94e21b02000606bc284fd4c96e7010c341eb236eb7ef3ed7070": {
+  "created_at": "2026-11-12T20:23:40.957247Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Bandera Blanca - Christian Nodal win Best Musica Mexicana Album (Including Tejano) at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d73aca3ad5307d8b5c10dbdc6012a0ab516795da78940a560ce08c34d59b71e8",
+  "slug": "will-bandera-blanca-christian-nodal-win-best-musica-mexicana-album-including-tejano-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x022a45ba6957b5ade426720527f43577439948c2225d4f89b2b9fda32c582e70": {
   "created_at": "2026-01-02T23:04:46.958383Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -372,6 +381,15 @@
   "revisions": 1,
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",
   "slug": "will-torreense-record-the-most-clean-sheets-in-the-uel-league-phase"
+ },
+ "0x36dd65c1939e4acd7f72d827660184e4ad6ae745852d56db0ff9e33e7953c070": {
+  "created_at": "2026-11-13T01:35:04.364955Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Let 'Em Know - T.I. win Best Rap Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "2e5dc6cc5a75b03a3c605e65e55c70f53dc98ce38c8b04280478a41e86bd3c53",
+  "slug": "will-let-em-know-t-i-win-best-rap-song-at-the-69th-annual-grammy-awards-20261112"
  },
  "0x36f5cb95bc8a01e7c6559df28fcb8dbe8476356f80544c99e0d6c2475101f470": {
   "created_at": "2026-10-28T22:31:52.49404Z",
@@ -863,6 +881,7 @@
   "created_at": "2026-10-05T21:55:20.831186Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Harry Styles headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -996,6 +1015,15 @@
   "sha256": "75294e7a5c838da1afeed53135f3ebce177414f08a4807cb8faa51caa0237451",
   "slug": "will-the-republican-party-win-the-mn-04-house-seat"
  },
+ "0xa162fa01bb8ef9e25614f7d0a04e64cbf15f0c70bd3d0fc5d15b2fa892e0f470": {
+  "created_at": "2026-11-10T02:14:38.890832Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Spencer Huang be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-spencer-huang-be-the-next-ceo-of-nvidia"
+ },
  "0xa3721fa1e28703408a605c2109d176b8b9c65bf4ea5e8075cff7c65ea3f41b70": {
   "created_at": "2026-09-20T08:45:52.790547Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1063,6 +1091,7 @@
   "created_at": "2026-08-11T18:42:13.402034Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-02 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "c331b78b376af1e407a91c87cdd28e6199bad8ba13f9c4d2bdb93c2749b80ed7",
@@ -1232,6 +1261,15 @@
   "sha256": "6ee9f81eb41d725f2899140c8b048ab605f87104d2d19ac4d3b7f86fc8524b23",
   "slug": "will-the-republican-party-candidate-win-the-2026-al-05-house-election-by-30-35"
  },
+ "0xcc7a6d5bc5619d7ac84b6f9e5bb4c41928321c23f66e00d9426c5784e1478970": {
+  "created_at": "2026-11-12T18:40:53.703505Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in China by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-china-by-december-31-2027"
+ },
  "0xcce4472c7a90eedc8c9689b7011e6e40143042ecf9d650b69dbd0fdebac76f70": {
   "created_at": "2026-01-06T17:42:50.103291Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1281,6 +1319,7 @@
   "created_at": "2026-08-31T13:39:15.410244Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will there be between 25 and 49 tornadoes in the US in September 2026?",
   "revisions": 1,
   "sha256": "234495cc872b074c4b0ca23ef285222dfa0e759e0f63d0a83f4f9c16e1295fe7",
@@ -1376,6 +1415,15 @@
   "revisions": 1,
   "sha256": "b3ac4ecbdeeb256d2583233a9a2cb836ce396db0e1f21b86a8526f866701efdb",
   "slug": "will-oriente-petrolero-be-relegated-from-bolivia-lfpb-2026"
+ },
+ "0xe6ee5d805dad72cd35d9de71628b297700f03b405b3921e4a1ab9fc7bab9e670": {
+  "created_at": "2026-11-13T00:28:45.816042Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Club Kid win Best Motion Picture \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
+  "slug": "will-club-kid-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0xe72b1fea6ab9e1b914be71b628d0d8bf137b930a76fd24005cba22e552a23f70": {
   "created_at": "2026-08-12T15:02:51.395848Z",
@@ -1562,6 +1610,7 @@
   "created_at": "2026-02-06T22:22:21.812488Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Oleksandr Svatok win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",

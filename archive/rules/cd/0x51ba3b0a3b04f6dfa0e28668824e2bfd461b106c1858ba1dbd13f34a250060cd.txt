@@ -1,0 +1,17 @@
+Parliamentary elections to elect the Eduskunta of Finland are scheduled to take place on April 18, 2027.
+
+This market will resolve to the political party that wins the greatest number of seats in the Eduskunta as a result of this election.
+
+If the results of the specified election are not definitively known by December 31, 2027, this market will resolve to "Other".
+
+Parties will be primarily ranked by the number of seats won in the specified election. If two or more parties are tied on seats, ties will be broken by the total number of valid votes received, with higher vote totals ranking higher. If parties remain tied, ties will be broken by alphabetical order of the listed party names. This market will resolve to the party that occupies the highest finishing position after applying this ranking.
+
+This market's resolution will be based solely on the number of seats won by the named party.
+
+The following rules govern the merging and splitting of listed parties:
+- If a listed party merges with one or more unlisted parties prior to the election, the option corresponding to the listed party will represent all seats won by the merged party. If a listed party merges with one or more other listed parties prior to the election, the option corresponding to the party which held the most seats in the prior Eduskunta will represent all seats won by the merged party. If these rules do not adequately determine which option represents a merged party, the listed party whose name, as listed in this market, comes first in alphabetical order, will represent all seats won by the merged party.
+- If a listed party splits into multiple parties prior to the election, the option corresponding to the listed party will represent the resulting party that holds the greatest number of seats in the Eduskunta as a result of the split. If these rules do not adequately determine which party represents a listed option after a split, the listed option will represent all seats won by the party resulting from the split whose primary English name comes first in alphabetical order.
+
+If two or more parties form an electoral alliance (vaaliliitto) in one or more electoral districts, the alliance will not be treated as a merger or a joint candidate list. Seats won by the alliance in any such district will be attributed to each elected candidate’s nominating party, as reported in the official results.
+
+This market will resolve based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this market will resolve solely based on the results as reported by the Finnish Ministry of Justice (https://vaalit.fi/).

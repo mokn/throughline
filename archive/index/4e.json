@@ -48,6 +48,7 @@
   "created_at": "2026-09-09T15:19:04.90784Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Finland win 2026-27 Nations League Group C1?",
   "revisions": 1,
   "sha256": "095acb8978646b0695471717cb1533c2cd4df02292a342a15492d2e7a81b8dc8",
@@ -207,6 +208,15 @@
   "sha256": "92e43cefd534204663a5dab28f5322471a8577e5e8a10a234439bf0fd028946e",
   "slug": "2027-soccer-laliga-runner-up-barcelona"
  },
+ "0x295a6e2a1fb5ff70a826c56805bc0d6418580f31092a0866f3d40feb0f99a04e": {
+  "created_at": "2026-11-13T00:35:56.63619Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Love Trapped win Best Podcast at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
+  "slug": "will-love-trapped-win-best-podcast-at-the-84th-golden-globes"
+ },
  "0x2abb603afee9b5e6833e7007bb07f55943c152164b5df9b677fb68deefb3194e": {
   "created_at": "2026-10-09T16:34:27.200643Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -347,6 +357,7 @@
   "created_at": "2026-11-10T19:07:49.336394Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 65% or higher?",
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
@@ -605,6 +616,15 @@
   "revisions": 1,
   "sha256": "c6ccc3311146d1f2a7d9afa8e45af4879174cc7a92f32ad4bae5dbfe3b4d7efa",
   "slug": "el1-ste-swe-2026-09-26-first-half-total-3pt5"
+ },
+ "0x68b1c3237a9377de16ecd73da116505e58fbd3835c13c71b5a63991e9c67044e": {
+  "created_at": "2026-11-12T23:21:31.959137Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will UK GDP growth in Q4 2026 be negative?",
+  "revisions": 1,
+  "sha256": "6d11009c480d7bd3c533aef741062440c73c937187a5d14433869ebf8728d897",
+  "slug": "will-uk-gdp-growth-in-q4-2026-be-negative"
  },
  "0x6d308763fa725051a2a65ee7a1dfd73e267588f2e65d5d249eaddc6c8eb9994e": {
   "created_at": "2026-08-10T23:56:34.421787Z",
@@ -1252,6 +1272,15 @@
   "sha256": "43ab56fa73e485bcea176235d9c4c7fb8fa95c6177e3639c1d5e0fd86f67e527",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-08-house-election-by-50-55"
  },
+ "0xd0c1df6aec8a900c3370208386e536e0335f91d470e43ed9060e2bcab4033e4e": {
+  "created_at": "2026-11-13T00:29:27.166186Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Guitarricadelafuente win Best Supporting Actor \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "59eb67dc32644edbd4521025af2725982518840a42025882324c850392381d97",
+  "slug": "will-guitarricadelafuente-la-bola-negra-win-best-supporting-actor-motion-picture-at-the-84th-golden-globes"
+ },
  "0xd7e920604860ba078e4a4dbb033a9f1f312c282c6d538503bc4357643d2d9c4e": {
   "created_at": "2026-08-10T15:03:09.612027Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1323,6 +1352,15 @@
   "revisions": 1,
   "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
   "slug": "will-hogan-gidley-be-the-next-white-house-press-secretary-2027"
+ },
+ "0xe4386bb458e95511250b44225d60afaa0a1c0cd6b31aa7c75a508b8f32bdab4e": {
+  "created_at": "2026-11-11T21:56:22.941924Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Wisconsin in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "6e4a96fc48699a3a4d0922ed757705f2f2d87752aedfe0983dfcec4989792d77",
+  "slug": "will-the-democrats-win-wisconsin-in-the-2028-presidential-election"
  },
  "0xe43a80d0e0170da84534df12cdd31b8159cbe6677ad0c8e8a0bfc71087da434e": {
   "created_at": "2026-08-28T05:57:32.761005Z",

@@ -107,6 +107,15 @@
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
   "slug": "f1-las-vegas-grand-prix-practice-3-fastest-lap-george-russell-2026-11-20"
  },
+ "0x157ee2826ae801c90fe405b1230ccc245c04200671b625940e8045ae39adb85a": {
+  "created_at": "2026-11-13T01:37:19.636762Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Julio Torres win Best Performance in Stand-Up Comedy on Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "00915a05e9edf7dd49ed0f6f406a6e3ea4b367c6136ca44e094c18038eb59ebe",
+  "slug": "will-julio-torres-color-theories-win-best-performance-in-stand-up-comedy-on-television-20261112"
+ },
  "0x16f957844f9c97e4908892917659b3b61c0ac620c25e654e504bf200b625b15a": {
   "created_at": "2026-10-13T20:03:08.235697Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -410,6 +419,7 @@
   "created_at": "2026-10-02T20:14:28.024127Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Labrov have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1014,6 +1024,15 @@
   "sha256": "bcfe356a6919de657f2cbc31ddcff0ea35448a3def4b2ebb3e0cf7c905664af7",
   "slug": "will-erika-lorena-luhrs-win-the-2027-guerrero-governor-election-20260803173852849"
  },
+ "0x941871ac26e5194cb06b4fe1f1c4d331d48c3557ba2086c9fc4139abcc099b5a": {
+  "created_at": "2026-11-12T20:22:26.940126Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Dream Chaser - Willie Nelson win Best Traditional Country Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "45f1399e64dff42be95c9202a1e06d03188386301888513463b8aa7b4981ce2c",
+  "slug": "will-dream-chaser-willie-nelson-win-best-traditional-country-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x973616c6ff43c7b14d101a85dbbe5455a9114118f0ec99c41508ec93c6c71d5a": {
   "created_at": "2026-10-13T15:48:53.297259Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1317,6 +1336,7 @@
   "created_at": "2026-02-19T00:42:47.59541Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Ben Rice win the 2026 American League Hank Aaron Award?",
   "revisions": 1,
   "sha256": "52a8a67146ad80ab776aa2fa3b8c6fce09103edac1c14f612c2ef75f8df02c56",
@@ -1502,6 +1522,15 @@
   "sha256": "76085ff27c488331f0a040636a758be637f5819654f7211a9f9f08a4433ec9f3",
   "slug": "el1-not-bla-2026-09-26-first-half-team-total-away-3pt5"
  },
+ "0xe3baa245e6ea1e88ecb18bf6a3178669fcf84e219f62bc32ecac20834f59e85a": {
+  "created_at": "2026-11-12T19:34:22.768374Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jensen Huang publicly testify before Congress by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "9991339ee685a3bee4d3c2dbfe6e43f55a7fb2050d83f9ed730372ca395aa3ea",
+  "slug": "will-jensen-huang-publicly-testify-before-congress-by-march-31-2027"
+ },
  "0xe4a2385f4c8cd0bc57c2bff4e259ee20f7b0ae012684b10f945723112cf6355a": {
   "created_at": "2026-07-22T16:33:42.566889Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1524,6 +1553,7 @@
   "created_at": "2026-07-31T22:39:59.990241Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Texas A&M Aggies Win the 2026 SEC Championship?",
   "revisions": 1,
   "sha256": "906c05b3a7d4d50d08bfe08cc4ecc161a1b78a487d924238b4f3f4bd1381b66e",

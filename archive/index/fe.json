@@ -180,6 +180,15 @@
   "sha256": "32380c6c2b17ff25dc44ebc0ce0f7a95b99edd43cb006a008f2a36e0e7436789",
   "slug": "will-character-select-agency-win-the-2026-esports-supporting-service-of-the-year-award"
  },
+ "0x1c41808b775e368979c614cc2bd8ba8b65a70ede95738a2b4f3392cf0e2767fe": {
+  "created_at": "2026-11-13T00:30:26.701909Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Michelle Pfeiffer win Best Actress \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "4cb090c949ab3de1a78923bc9d368d14a8516c9769a931175f044c28e80a0441",
+  "slug": "will-michelle-pfeiffer-the-madison-win-best-actress-television-drama-at-the-84th-golden-globes"
+ },
  "0x1d083dd099af4e9ae0afe18c1edddc3a463614f76444b18d14b101005bb5dbfe": {
   "created_at": "2026-10-08T22:00:11.563441Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -190,10 +199,20 @@
   "sha256": "50fcb3a0a8b4823685510efce89cd2afd4894f54e17f48930dc3c44e28054c2f",
   "slug": "zuffa-bentl-sjr-2026-11-07-ends-before-round-8"
  },
+ "0x1d28fa85d1483047384c24a3cac6e27a9567c410be0496be9140de8f8e6e60fe": {
+  "created_at": "2026-11-11T21:56:28.544798Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Utah in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "4d12ab78698aa8aeb13d03535d95465ed66335bce7028a14fb539651f9a8a8e8",
+  "slug": "will-the-democrats-win-utah-in-the-2028-presidential-election"
+ },
  "0x1f81cbcb0a798b473c3bd318e6d0c1fc376b1195e649af5d4cd81e293bfaa3fe": {
   "created_at": "2026-08-11T18:42:15.859944Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Democratic Party candidate win the 2026 OK-03 House election?",
   "revisions": 1,
   "sha256": "49cb3a0d328cf1f0cee82bbbddee9679004edab6a92b19682e76ecfd8a3f674f",
@@ -394,6 +413,7 @@
   "created_at": "2026-10-23T02:08:40.892562Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the 2-year Treasury yield hit 4.85% before 2027?",
   "revisions": 1,
   "sha256": "c41741c4912299c0d05d11fcc2628f4d9953e5a1dfeba3c83c82269b8d110511",
@@ -706,6 +726,15 @@
   "sha256": "b333244f7c25a19ba88ca354470c59bfd8dc4bc348fe05510b434f5283188478",
   "slug": "hurupay-fdv-above-100m-one-day-after-launch"
  },
+ "0x78f988595ed8ae697b7b8fb1df7f4da6a2c0bea1d1a4034b41b9ebb39da266fe": {
+  "created_at": "2026-11-12T21:06:34.381522Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Mihhail K\u00f5lvart be the next Prime Minister of Estonia?",
+  "revisions": 1,
+  "sha256": "f53f7912de465eef89a7860427c4f9916d2677b496bde60cd4bdd76b3fa01af4",
+  "slug": "will-mihhail-kolvart-be-the-next-prime-minister-of-estonia"
+ },
  "0x79423bb5ed7b8836bee00ee77a11175174d39eeb6621c4ada88d96637d92bffe": {
   "created_at": "2026-08-10T23:56:21.496066Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -828,6 +857,7 @@
   "created_at": "2026-10-02T20:14:25.319078Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will 369 have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1089,6 +1119,7 @@
   "created_at": "2026-02-18T23:32:36.611666Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Chris Sale win the 2026 NL Cy Young Award?",
   "revisions": 1,
   "sha256": "69ab64ef89b9f1b1d79654d5eef4a02b2d3d5191374f4d5cf5d62927c2ec1bbb",
@@ -1189,6 +1220,7 @@
   "created_at": "2026-10-02T20:14:23.576046Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Hope have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1211,6 +1243,15 @@
   "revisions": 1,
   "sha256": "04540373b1dada9056782db4c15c714de865a7885e816ef81f4618633771ab44",
   "slug": "will-recep-tayyip-erdogan-be-the-next-leader-out-before-2027-20260630194627365"
+ },
+ "0xbea779e33ce5c2a3f5f3782c2675f64c339cf9daf230c8591de74cf6de3839fe": {
+  "created_at": "2026-11-13T00:28:22.39478Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Toy Story 5 win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-toy-story-5-win-best-motion-picture-animated-at-the-84th-golden-globes"
  },
  "0xbfd1f05fa7891765344553c73ae301038917e48c82aed7901f97202b76a12bfe": {
   "created_at": "2026-09-27T20:10:02.011968Z",
@@ -1266,6 +1307,15 @@
   "revisions": 1,
   "sha256": "18c425994c6fcaf862c271f1828d8137c6f497258bef9247cebf1735ea903188",
   "slug": "nba-2026-27-apg-leader-jamal-shead"
+ },
+ "0xc6399ef735d6ed31c5b9b82f165f558f8da3858672435aecda1827a9983e8efe": {
+  "created_at": "2026-11-12T00:30:42.824684Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Ferryn & Brinkley win The Voice: Season 30?",
+  "revisions": 1,
+  "sha256": "51b9d5274abc395645a15b4af92cda8887b7ce0646514da58ce5445256fd05c5",
+  "slug": "will-ferryn-and-brinkley-win-the-voice-season-30"
  },
  "0xc7dc3477658c94841bf361d68c5a33a4b488a6c4c052dec06c0047f8ce5cb6fe": {
   "created_at": "2026-10-14T13:24:22.274474Z",
@@ -1431,6 +1481,15 @@
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-john-jason-peterka-win-the-2026-27-art-ross-trophy"
  },
+ "0xe568cf1619519d2a62415016a47fc1c4d4d6c89aa7d0e91897334df7f532d8fe": {
+  "created_at": "2026-11-12T20:20:14.344982Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Oh yeah? - Steve Lacy win Best Progressive R&B Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "8e99eaa4b01723bd8f4a44c26a71e08aa5d8cf45b94cfbf77db6636f183e8ff0",
+  "slug": "will-oh-yeah-steve-lacy-win-best-progressive-randb-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xe584671f534935e8ccfb18fb29e28901eaa92c56f6c5bb620d35538960d87afe": {
   "created_at": "2026-09-02T19:39:43.295139Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1540,6 +1599,15 @@
   "revisions": 1,
   "sha256": "3358c0c78e84da417bb233abd522fcac94c308d69794ad06c5ff505abc4341c3",
   "slug": "will-bukayo-saka-win-the-most-player-of-the-match-awards-in-the-2026-27-uefa-champions-league"
+ },
+ "0xf7c380e34a571dd638fdbe1a2ecc18d63919598168586256c2cc64d5544380fe": {
+  "created_at": "2026-11-13T00:30:24.666946Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Chase Infiniti win Best Actress \u2013 Television Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "4cb090c949ab3de1a78923bc9d368d14a8516c9769a931175f044c28e80a0441",
+  "slug": "will-chase-infiniti-the-testaments-win-best-actress-television-drama-at-the-84th-golden-globes"
  },
  "0xf83d984df52349f3b30fc061e888582d411c16bcf8c9710e3d2d3e1c5b075afe": {
   "created_at": "2026-01-28T15:34:58.04118Z",

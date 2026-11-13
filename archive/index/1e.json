@@ -896,10 +896,20 @@
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-jpttpt-miller-win-the-2026-27-ted-lindsay-award"
  },
+ "0x6bc5106ac41e35ccf7f4f19d8a9dfdf017e530bf641a510a0a626c558790d81e": {
+  "created_at": "2026-11-13T00:29:13.085444Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Olivia Wilde win Best Director at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "cfc64e188beb72f6781e90cd3c4579850fbbb483c8263e85c2e1a48369a216f8",
+  "slug": "will-olivia-wilde-the-invite-win-best-director-at-the-84th-golden-globes"
+ },
  "0x6bdcf5fd988ed3782dd5407d236cbee32dc4b398fd5266dd12ff02465bfc791e": {
   "created_at": "2026-10-02T20:14:19.937666Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Siwoo have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -1272,10 +1282,10 @@
  "0xa0afeccf72356d88deb62e63eb21ca44949d55f9c4d0a0d7bc1ff604751caf1e": {
   "created_at": "2026-11-10T02:14:33.908305Z",
   "first_seen": "2026-11-10T14:52:55Z",
-  "last_changed": "2026-11-10T14:52:55Z",
+  "last_changed": "2026-11-12T15:15:16Z",
   "question": "Will Madison Huang be the next CEO of NVIDIA?",
-  "revisions": 1,
-  "sha256": "906f933added7e6747730d5a74e9cbc322ac3f065c6c0c95d0650f3d8c25584b",
+  "revisions": 2,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
   "slug": "will-madison-huang-be-the-next-ceo-of-nvidia"
  },
  "0xa19f9b3f3d8c4e49a3782b722953ae718b411c7169032ec393e7e170028f0e1e": {
@@ -1395,6 +1405,15 @@
   "revisions": 1,
   "sha256": "342f401747b36d3498edb5a89d7f4794cee629a823fef5fbbd46555514d2dd2a",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-05-house-election-by-0-5"
+ },
+ "0xb58821350a7a2c35630e8b539cef05f15cc00870c6a3c63a5a97b781207b971e": {
+  "created_at": "2026-10-25T17:45:25.030943Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Estoril Praia 0 - 4 CS Mar\u00edtimo?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-0-4"
  },
  "0xb6e87ef524a3099e24e96b3671aa3723760fb5d7b53637b9c644529d71f7a51e": {
   "created_at": "2026-08-05T10:53:28.062517Z",
@@ -1552,6 +1571,15 @@
   "sha256": "3b311dade83b91908cf156de11751110d20d8a7ed281ccff46995db672100bd3",
   "slug": "will-brenda-grisham-win-the-oakland-mayor-election-20260727195943310"
  },
+ "0xc79f6b05ba1f6f2459ed21b61bee0641fadee249a5527139bc39eaefe603001e": {
+  "created_at": "2026-11-12T19:23:11.472939Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Pedro S\u00e1nchez announced resignation or removal as PSOE leader by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "55f13d5b35f5a6579a7a2e4d45a0ae0cd28920dc73926df7d73a61c242bade83",
+  "slug": "pedro-sanchez-announced-resignation-or-removal-as-psoe-leader-by-december-31-2026"
+ },
  "0xc93089b55ece64b2e4f6a8eeb9a21e772a619b89571e77d6d3d2a057b9f7e61e": {
   "created_at": "2025-12-15T22:15:19.592504Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1624,6 +1652,15 @@
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
   "slug": "2026-soccer-mls-runner-up-inter-miami-cf"
+ },
+ "0xd4289e80d6e2c4bd9890a3df9fe91f95e55115be32904ca155fc8a646a88031e": {
+  "created_at": "2026-11-11T21:57:37.45749Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Hawaii in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "7546fd7c44973f21abcdff2baa0ce6351c71b17a09566a17cd32c1741c5c61bf",
+  "slug": "will-the-republicans-win-hawaii-in-the-2028-presidential-election"
  },
  "0xd54bd27028678084ea089f7594f6b468926bfd98d4f9c6250fafe26e95487c1e": {
   "created_at": "2026-09-04T19:25:45.788708Z",
@@ -1903,6 +1940,7 @@
   "created_at": "2026-10-02T20:14:35.303032Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Morgan have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

@@ -138,6 +138,7 @@
   "created_at": "2026-02-18T17:37:41.407851Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Matt Freese win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -480,6 +481,15 @@
   "sha256": "604a099e2a930b2c77a589b350845e07121372cd98e12105fd87d39ceb2cb479",
   "slug": "will-despacito-be-on-gta-vi-radio-at-launch"
  },
+ "0x5d27330528bdbb644f782d502357c7575eb1b0c97fad63efa96aece972c96dbc": {
+  "created_at": "2026-11-11T21:57:55.089303Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Arkansas in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "56c92b14bfd7eb04511bfb03049f83e0d8b619d606fda1e325129390839f5c60",
+  "slug": "will-the-republicans-win-arkansas-in-the-2028-presidential-election"
+ },
  "0x6040df7858b724f81a99d8c8f9db8f41a0731a1ea64f659522012a94eacbfebc": {
   "created_at": "2026-08-28T19:59:44.208291Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -687,6 +697,15 @@
   "sha256": "18c425994c6fcaf862c271f1828d8137c6f497258bef9247cebf1735ea903188",
   "slug": "nba-2026-27-apg-leader-derrick-white"
  },
+ "0x81159214357924e9f1c179da80bbb1ed156ceb1baa43529a0f53c79c0421e2bc": {
+  "created_at": "2026-11-13T00:29:22.275118Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Michael win Best Motion Picture \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "6b55eede1b5c82c1ecedb31f7ecc7e8e00031e199c130f5f7d67ca5466155e00",
+  "slug": "will-michael-win-best-motion-picture-drama-at-the-84th-golden-globes"
+ },
  "0x83517f563fd97744b26c337fcea2dc6fe0743b229ba5f5cdb7ad6c96961436bc": {
   "created_at": "2026-09-27T20:11:52.561745Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -758,6 +777,15 @@
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
   "slug": "cdr-bad-cdt-2026-10-28-exact-score-4-5"
+ },
+ "0x942a480580b921c0578a2f15de1c177750f5bca63e3c637b6ba26daa2cb299bc": {
+  "created_at": "2026-11-12T23:54:06.267859Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will South Korea's SA Unemployment Rate increase between October and November 2026?",
+  "revisions": 1,
+  "sha256": "77a86be11928f3d8b3addda33565b45ed87ee072083a24fa526afc3768bdb6c8",
+  "slug": "will-south-koreas-sa-unemployment-rate-increase-between-october-and-november-2026"
  },
  "0x945b03e59056e7c417e7e13ebc13ae8e86ea1927b18cc15f904aa82528457bbc": {
   "created_at": "2026-02-18T17:10:54.6876Z",

@@ -185,6 +185,7 @@
   "created_at": "2026-08-18T14:23:07.867138Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Oklahoma be between 900,000 and 1,000,000?",
   "revisions": 1,
   "sha256": "8e44947e857a210c2e5d2e995797a19a59c6e19f6457a5b476cc660700e87113",
@@ -298,6 +299,15 @@
   "revisions": 1,
   "sha256": "1c43d3e17d6ea3046f68926483b138f6004ff81a3d159e564f7d7038caef7cd0",
   "slug": "will-the-democratic-party-candidate-win-the-2026-connecticut-gubernatorial-election-by-20-25"
+ },
+ "0x26714e3032d6e47a7acf5c800f969cb560126c10a5252f2826778b7895aea204": {
+  "created_at": "2026-10-25T17:45:26.145422Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
+  "slug": "por-est-csm-2026-11-08-exact-score-any-other"
  },
  "0x2684ae969e57aeb9930ccdca7864b5f9551a15b2605e45cf4801830df1716904": {
   "created_at": "2026-09-27T20:04:37.990219Z",
@@ -914,6 +924,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-usc-have-more-than-7pt5-wins-during-the-2026-cfb-season-20260810194048097"
  },
+ "0x77996a5d2cc149bfce7c51e02f8e60b53f900a303056c0dfbf8ba5da9a162e04": {
+  "created_at": "2026-11-13T00:29:45.041956Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Odyssey win Best Screenplay \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "eae24e920560a0088729768bd03e3e7c7b32e57a7bfaaa20587f8ad084458bd1",
+  "slug": "will-the-odyssey-win-best-screenplay-motion-picture-at-the-84th-golden-globes"
+ },
  "0x77ee295afd2bd42411469a3aa1593723140ff79a121104e2f906d7697ae11404": {
   "created_at": "2026-10-21T23:30:57.464958Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1306,6 +1325,7 @@
   "created_at": "2026-10-05T21:55:22.0011Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Travis Scott headline Coachella 2027?",
   "revisions": 1,
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
@@ -1356,6 +1376,15 @@
   "revisions": 1,
   "sha256": "f8951db7262947090e69067df0cf0719fedc8a43b711f86cb3c3eab3c88b2ffe",
   "slug": "will-trump-meet-with-netanyahu-by-december-31-2026-20260917"
+ },
+ "0xb907f208eaee944d2290ea0fbdf5ddcf57ffbd59529108a904f0f1e0d9d89104": {
+  "created_at": "2026-11-13T00:29:40.332878Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Scarlett Johansson win Best Supporting Actress \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f54aef27bf35c35d0e1705d479016706e14615a4f0da24a7edc59bd338573913",
+  "slug": "will-scarlett-johansson-paper-tiger-win-best-supporting-actress-motion-picture-at-the-84th-golden-globes"
  },
  "0xba155b6be6cabf93bf31dfcc56fe2f4e3e88d16b0d490319c635930f2d9fbd04": {
   "created_at": "2026-04-29T15:52:39.368773Z",

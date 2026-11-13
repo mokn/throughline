@@ -299,6 +299,15 @@
   "sha256": "170c8ba1ac2f5186db2110110ce372aa7ad5127cfd39141eca350272038cdfce",
   "slug": "2027-soccer-japan-j-league-winner-shimizu-s-pulse"
  },
+ "0x28c9aef766884b99c0a114221d4325b1f186349b731b9fdbaf6751ec9b8b8482": {
+  "created_at": "2026-11-12T20:20:00.235033Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will girl, get up. - Doechii feat. SZA win Best Melodic Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "67f413587d235a7007d5c1a6d6128f5c4ef24749eb11916d6ab584cbc322b61e",
+  "slug": "will-girl-get-up-doechii-feat-sza-win-best-melodic-rap-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x299ebe6d77f5aece068d9838192f1955b9c587b12d4a1271c7a4f033eadcb182": {
   "created_at": "2026-08-18T14:09:32.368698Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1509,6 +1518,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-utah-state-have-more-than-6pt5-wins-during-the-2026-cfb-season-20260810194049245"
  },
+ "0xf107359c2b69fa11cbcd016520163986f195a997f33d6012fd00ba5147821582": {
+  "created_at": "2026-11-13T00:28:24.376574Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Hexed win Best Motion Picture \u2013 Animated at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
+  "slug": "will-hexed-win-best-motion-picture-animated-at-the-84th-golden-globes"
+ },
  "0xf164c1f623deca860ae0feb8214050f382ea1b4f77a7ab62e93e83702505c982": {
   "created_at": "2026-05-27T18:40:25.282199Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1625,5 +1643,14 @@
   "revisions": 1,
   "sha256": "6715815be2b96b04b74abcf5ee54adb9eb86210b63181fa726edce22c47f65bc",
   "slug": "f1-qatar-grand-prix-driver-pole-position-jr-2026-11-28"
+ },
+ "0xfe28d93c0729d1e099a0359caaf1277e4e6560034c2e3900d65921515f467282": {
+  "created_at": "2026-11-10T02:14:36.403312Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-candidate-a-be-the-next-ceo-of-nvidia"
  }
 }

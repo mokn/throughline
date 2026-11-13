@@ -367,6 +367,7 @@
   "created_at": "2026-08-11T18:42:10.104269Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-01 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "ebbc6303ef7c687673bd2b32d998773c1d0eab8296fd0eaecf6c20034649b985",
@@ -817,6 +818,15 @@
   "sha256": "7ade1bb9ca1e624a501c00ee894bfdfb77d8b3fcff2cf83233fc83f1a1f104ee",
   "slug": "lalit-modi-to-announce-mma-league-role-by-the-end-of-2026"
  },
+ "0x84ca57abb2a2e8557a14a32b31bb67d645cbaf65f9d3d51b67e3d770728b2f09": {
+  "created_at": "2026-11-12T20:21:52.100651Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Play This Song - Mariah Carey feat. Anderson .Paak win Best R&B Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "5cb566bd7484f108a868cd3cc5186c0b7260aee5aab4464990378f5c18f7134b",
+  "slug": "will-play-this-song-mariah-carey-feat-anderson-paak-win-best-randb-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x8522426d75aac2a79b5ed13a5e66a3e3075375d9fb616e53fc5a11320a9c3609": {
   "created_at": "2026-08-06T08:38:32.076313Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -907,6 +917,15 @@
   "revisions": 1,
   "sha256": "419d23705fec2a1b4692e78f953a0ffa619990b4c4f99c1ab65674356f743fdc",
   "slug": "spl-abh-kho-2026-10-19-exact-score-4-5"
+ },
+ "0x905370754d56e6fb3b16ed73787d1ddf616133e3d03463648f4d448acddb6b09": {
+  "created_at": "2026-11-13T00:28:30.056436Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Seth Rogen win Best Actor \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bf8dd8cebe7e3c8751583632ae79e4ea65866e6edf5ec986fd1347c00606ef6b",
+  "slug": "will-seth-rogen-the-invite-win-best-actor-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0x90ce7ebeda01ab866bbc2628cb7694ef27ef90c8bd0a1f7523f1528ee89ce409": {
   "created_at": "2026-09-20T11:45:18.129657Z",
@@ -1594,6 +1613,15 @@
   "sha256": "d60525ef77b5dac3cc7dd58faab779aeb92c261d38a0b3df2c3c641e60e28efd",
   "slug": "will-esteban-lepaul-win-the-most-player-of-the-match-awards-in-the-2026-27-uefa-europa-league"
  },
+ "0xfb213c9275f326895c17fd4efc5c337c02cd9a8f75998e5be490364edab30609": {
+  "created_at": "2026-11-13T00:28:30.441493Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Brad Pitt win Best Actor \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "bf8dd8cebe7e3c8751583632ae79e4ea65866e6edf5ec986fd1347c00606ef6b",
+  "slug": "will-brad-pitt-the-further-mis-adventures-of-cliff-booth-win-best-actor-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0xfb84d18f4e01742d4a52acffaa01c775ae1240052a1c234d62fe089a29b4ce09": {
   "created_at": "2026-08-24T16:38:43.143194Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1602,6 +1630,15 @@
   "revisions": 1,
   "sha256": "5fc18db152a17903e1e6d83a2d0ec6cc13962826320d047b437bc1751c9492eb",
   "slug": "will-bournemouth-finish-3rd-in-premier-league-2026-27"
+ },
+ "0xfb9b13d5bc5b20534ba98a095cc0a0ced993fea40615514d597e6dddd7287f09": {
+  "created_at": "2026-11-13T00:29:36.130772Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Pen\u00e9lope Cruz win Best Supporting Actress \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f54aef27bf35c35d0e1705d479016706e14615a4f0da24a7edc59bd338573913",
+  "slug": "will-penelope-cruz-la-bola-negra-the-invite-win-best-supporting-actress-motion-picture-at-the-84th-golden-globes"
  },
  "0xfc3a027a9ff26063821242e6e0964ffef25b08ea48ba327b2a150b3aece6f709": {
   "created_at": "2026-09-04T19:28:51.265196Z",

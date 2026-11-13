@@ -21,6 +21,7 @@
   "created_at": "2026-03-25T17:45:19.866479Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Royce Lewis win the 2026 AL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "25389de95890e91516a2c43e1c2e8540de33fceb80a677b357e5d14822ee7214",
@@ -88,6 +89,15 @@
   "revisions": 1,
   "sha256": "10fc1aab375723efdc55ebfe8a586bfcfd42d93a7448589bcd851ade0c9c8c87",
   "slug": "will-the-democratic-party-candidate-win-the-2026-oh-14-house-election"
+ },
+ "0x09e59322f930dc6944d06f8732fde63be0a783ac5fb69cd62fd4d5663360f5a1": {
+  "created_at": "2026-11-13T00:29:39.253291Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Kate O\u2019Flynn win Best Supporting Actress \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f54aef27bf35c35d0e1705d479016706e14615a4f0da24a7edc59bd338573913",
+  "slug": "will-kate-o-flynn-tender-loving-care-win-best-supporting-actress-motion-picture-at-the-84th-golden-globes"
  },
  "0x0b3bb7ccab1ab9e1a3428a18d149b0db6dddbcd994075b3b621053e24a8adaa1": {
   "created_at": "2026-08-28T19:43:45.024433Z",
@@ -926,6 +936,15 @@
   "sha256": "7cba628d20d6c8f4e59e7c65267cb47c8391108f2e90676ac5e84d3eec1d4242",
   "slug": "2026-soccer-liga-nacional-guatemala-runner-up-cobn-imperial"
  },
+ "0x883d5fb041c8e63bba4c4a888e55e15553e0baa51c2428a3ba305b94c31acda1": {
+  "created_at": "2026-11-12T20:22:24.028437Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Dandelion - Ella Langley win Best Contemporary Country Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e25754767c3495a7b6d4486ada4480a4cdf15543176d078380db11ce4a604484",
+  "slug": "will-dandelion-ella-langley-win-best-contemporary-country-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x894be69dd5f770eb1b9dc13586c878b54086343dfee0839e2072f4d4898aa9a1": {
   "created_at": "2026-08-28T20:17:47.050841Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1054,10 +1073,20 @@
   "sha256": "ed6306f8d8d0f3e5c1e1ed386fe048447a8ddf261138b5aa429c35071d77d2c7",
   "slug": "will-the-republican-party-win-the-ca-14-house-seat"
  },
+ "0x94ffae0da70736613811d22ea61d6882cdd6a5fc3b4a1726e541563ac2b6c7a1": {
+  "created_at": "2026-11-12T20:22:03.901041Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Down at the Borderline - Vince Gill & Lainey Wilson win Best Country Duo/Group Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "287d555bf57db395b21947beef72060ef3b65f07efe39749ff62cefb4082667b",
+  "slug": "will-down-at-the-borderline-vince-gill-and-lainey-wilson-win-best-country-duo-group-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x9674a58a3e2161340187fb5617b4115ce092e10c735b335d15e4bb5349fc77a1": {
   "created_at": "2026-02-06T22:22:31.725991Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Tim Parker win 2026 MLS Defender of the Year?",
   "revisions": 1,
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
@@ -1148,6 +1177,7 @@
   "created_at": "2026-02-18T22:38:29.622933Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Junior Caminero win the 2026 American League MVP Award?",
   "revisions": 1,
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
@@ -1357,6 +1387,7 @@
   "created_at": "2026-08-11T19:03:53.703191Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Democratic Party candidate win the 2026 VT-AL House election by 55% or more?",
   "revisions": 1,
   "sha256": "c16e91e6b9f41ac95787668ffff3090dc8c4c5e51733c690906ba24439d37e0c",
@@ -1508,6 +1539,15 @@
   "revisions": 1,
   "sha256": "70d7a88aa2efa3edae573fe8c00e2d47d4527c0ac9c65ba5338eac790b46f785",
   "slug": "will-union-espanola-be-promoted-to-chile-primera-2026"
+ },
+ "0xdbbeb184f5768aba262a058f437e823fde3592ec2de42acd1d6a1daf5453a3a1": {
+  "created_at": "2026-11-12T18:40:58.708886Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Saudi Arabia by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-saudi-arabia-by-december-31-2027"
  },
  "0xdf43389b1686b4acbadadeab24d79c21b16f5564bb4af394641e16d2619c1aa1": {
   "created_at": "2026-01-02T21:04:19.332378Z",

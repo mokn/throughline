@@ -355,6 +355,7 @@
   "created_at": "2026-08-05T21:01:14.409055Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Republican Party candidate win the 2026 Vermont gubernatorial election by 5%-10%?",
   "revisions": 1,
   "sha256": "f6c7d1a6cca1846c7843edbaacb2fce0333a4c69f979abcf591fab3e1c2e4523",
@@ -396,6 +397,15 @@
   "revisions": 1,
   "sha256": "5b0d9e532ba3d5038380228ad3d37095bc909da643a9af16a8af106beec8f05f",
   "slug": "will-brazils-annual-inflation-in-2026-be-between-4pt50-and-4pt99"
+ },
+ "0x3ba7d7639f3a7427bee61953ecc2b863d986230f2fb3e5ce7141ae8712a54259": {
+  "created_at": "2026-11-11T21:57:23.248603Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Republicans win Kentucky in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "52371f9bfff44a097b6fe4979a8cace707e3b95f1c62619fbfe09d355e40e965",
+  "slug": "will-the-republicans-win-kentucky-in-the-2028-presidential-election"
  },
  "0x3c4fcfac1fab52188ae1675bd6fb06321aef0588edfe434406774e80827ca059": {
   "created_at": "2026-08-11T14:12:06.784041Z",
@@ -721,6 +731,7 @@
   "created_at": "2026-08-25T17:06:09.416769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the South Carolina 2026 Senate race be within 5%?",
   "revisions": 1,
   "sha256": "8e4b8cf85bb30efcd93fdbe04059776f789b53eab18da598805d082a4d7a8ab5",
@@ -861,6 +872,15 @@
   "revisions": 1,
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-smu-reach-the-2027-ncaa-mens-basketball-final-four"
+ },
+ "0x85b1e27024de2290a8e78a04a22336b75fb92a7f4d0c11f647dca60af2a4a459": {
+  "created_at": "2026-11-13T00:35:06.57902Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Debut win Best Original Score \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "de88a60b19ce31d141aab26b385fe06bf50e51181824d28f3c7d70e839146104",
+  "slug": "will-the-debut-win-best-original-score-motion-picture-at-the-84th-golden-globes"
  },
  "0x862dd52e502e6fba33f1e09219e910ed6ab3ee3b5257911b1e51c2b2cefad259": {
   "created_at": "2026-07-20T19:34:41.56903Z",
@@ -1021,6 +1041,7 @@
   "created_at": "2026-11-10T21:10:24.553232Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Claude Fable 5.2 debut with an HLE-Diamond score of 75% or higher?",
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
@@ -1353,6 +1374,15 @@
   "sha256": "145619c7c35c6ef78043a2c197f71e502c69548429e3ba9ab85c8a1cc3955343",
   "slug": "el2-col-pvl-2026-10-03-halftime-result-draw"
  },
+ "0xcf735918ec6c7fafc0d13fa35914173e931c099850b688517b6cb57e89e21959": {
+  "created_at": "2026-11-12T19:16:33.219234Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anders Adlercreutz be the next Prime Minister of Finland?",
+  "revisions": 1,
+  "sha256": "fe67f763c02a33bfda9c44f2d6ca1542fea0487970b1cb1d7cf6642e8da33b7c",
+  "slug": "will-anders-adlercreutz-be-the-next-prime-minister-of-finland"
+ },
  "0xcf845c5fcca9626c9449bd29682ec6ddbee9f1cc3c94f0cc5996c9ec714e0659": {
   "created_at": "2026-08-18T18:59:35.027921Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1502,6 +1532,7 @@
   "created_at": "2026-08-12T16:51:29.612777Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Enrique Augusto Rodr\u00edguez Morales win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",
@@ -1561,6 +1592,15 @@
   "revisions": 1,
   "sha256": "370878eb63837308cbe3f3fdeb40ef09bddccb08a51ad54dc4006459e09bf003",
   "slug": "will-strategy-microstrategy-mstr-be-added-to-the-sp-500-by-december-31-2026"
+ },
+ "0xf962760e1cf3f0a5c46c45edb7f6e918749c22c3ec42dc34d5a538990bd03659": {
+  "created_at": "2026-11-13T00:35:42.118978Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"Dune: Part Three\" win the award for Cinematic and Box Office Achievement at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "94c85e893460516dd29364438df1d8eb10e02179d18bcc98d31dc087517d7832",
+  "slug": "will-dune-part-three-win-the-award-for-cinematic-and-box-office-achievement-at-the-84th-golden-globes"
  },
  "0xf97e3163c75c4bea13d4944c675d854a6128b0a4a9840fcf249ce13f8d883859": {
   "created_at": "2026-08-11T18:43:18.286997Z",

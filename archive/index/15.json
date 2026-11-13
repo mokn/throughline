@@ -66,6 +66,7 @@
   "created_at": "2026-10-01T14:27:23.936185Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Donald Trump publicly insult Mark Carney by October 31, 2026?",
   "revisions": 1,
   "sha256": "173a792e74b8aedb6c62436a8de48402eded0a4acc0609b09a6a3625c86c307e",
@@ -216,6 +217,15 @@
   "sha256": "bba1722543f562164e2bf65387a24ec15fdaca2d0f148076d8d80e0c1e5c4e80",
   "slug": "fetterman-out-before-2027"
  },
+ "0x26b5cb7bdb7c9a0ee5be25a833ef7fc98b25d133148f87dce19d4c249710d015": {
+  "created_at": "2026-11-13T00:28:45.447661Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will The Further Mis-Adventures of Cliff Booth win Best Motion Picture \u2013 Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
+  "slug": "will-the-further-mis-adventures-of-cliff-booth-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0x271ba1bda0d71c2adf8cb3ab0857ce661509dc9d7a20da03b2a95a1f23b09115": {
   "created_at": "2026-01-28T04:52:43.539068Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -343,6 +353,15 @@
   "revisions": 1,
   "sha256": "7419df33a1c87cda1765a52a1f5da37f7ada3ed79995df0785b42b5f3ae4fc62",
   "slug": "will-rachaad-white-finish-as-a-top-12-rb-in-the-2026-27-nfl-season"
+ },
+ "0x346cee1fd0baf986fa2a162823083053f3394744e2dfbde7e61808bc8caf4f15": {
+  "created_at": "2026-11-12T18:41:15.762174Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in another European country by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-another-european-country-by-december-31-2027"
  },
  "0x35fa158a1b967a8be8047f7b446b776e98eea13497d256ab1c69392bea3d9715": {
   "created_at": "2026-10-01T23:00:14.556059Z",
@@ -697,6 +716,15 @@
   "sha256": "07b765b1d2f27c1ac9df39d5da7090f9c358ae17f27eafde18da8dadfe42b993",
   "slug": "will-christian-watson-be-the-highest-scoring-wr-of-the-2026-27-nfl-season-20260806224130875"
  },
+ "0x7910cf442222a5fec142f62fe08774933bf0b1602eed9025ebdc25e83986a915": {
+  "created_at": "2026-11-12T18:41:18.43606Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in another country by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-another-country-by-december-31-2027"
+ },
  "0x79469cebeed1be7fe60e066988a7348f55155e367a5a103ed24b5d3c8d38d115": {
   "created_at": "2026-08-07T15:59:39.841005Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -823,6 +851,15 @@
   "revisions": 1,
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
   "slug": "f1-las-vegas-grand-prix-practice-3-fastest-lap-lance-stroll-2026-11-20"
+ },
+ "0x8ccb9977b0134a3805e9a8b0520753dabea61215b5d8494ee78a1331eed1bc15": {
+  "created_at": "2026-11-12T00:10:06.36402Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Jensen Huang be arrested by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "12e03688e6fded2878e4ac2c230ef8b870780cc54a2d110e004e2f2091d31d6b",
+  "slug": "will-jensen-huang-be-arrested-by-december-31-2026"
  },
  "0x8d506c3c8423b631ef08f1609d39b7635a7cb7d21da5feb1437b1627a0723b15": {
   "created_at": "2026-10-30T22:00:26.481427Z",
@@ -1039,6 +1076,7 @@
   "created_at": "2026-03-25T18:04:21.98267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Ezequiel Tovar win the 2026 NL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",
@@ -1261,6 +1299,24 @@
   "sha256": "06b716e3d7979e969c9dcdc848d1e46a70b011fa5cd8574dd62a393158c90133",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-13-house-election-by-3-6"
  },
+ "0xddab1a21931237345f33cdf4ac90351be6c864bce02f1d39a1f8e30630e7b615": {
+  "created_at": "2026-11-10T02:14:40.602477Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Matt Garman be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-matt-garman-be-the-next-ceo-of-nvidia"
+ },
+ "0xddf842866281a6634eef0dbb618725b0a31d2d2864d372a5e7c463f3d8790b15": {
+  "created_at": "2026-11-13T01:37:16.987359Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Michael Che win Best Performance in Stand-Up Comedy on Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "00915a05e9edf7dd49ed0f6f406a6e3ea4b367c6136ca44e094c18038eb59ebe",
+  "slug": "will-michael-che-shot-in-minnesota-win-best-performance-in-stand-up-comedy-on-television-20261112"
+ },
  "0xde5c216c7d1cf67c49d2f4e13b9c9b6dbd46a9413f11e4d2f828199e6cde4f15": {
   "created_at": "2026-09-13T08:15:50.696357Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1328,6 +1384,7 @@
   "created_at": "2026-08-12T16:51:31.190123Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Nery Mozombite Cerr\u00f3n win the next Maynas mayoral elections?",
   "revisions": 1,
   "sha256": "670567cd2de26a88df8ec954444553e458d69dece84ed6740da257ad8a243bb4",

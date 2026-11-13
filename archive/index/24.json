@@ -291,6 +291,15 @@
   "sha256": "44db7a0c0ccc56616627b77f2443fcdf0f969a012112497de6db9fb134d23f5c",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-09-house-election-by-35-40"
  },
+ "0x310f86b91bf5d6ef526873e5d49e9fa6daaa922c85c5e0dbb43f5ad70e2ad824": {
+  "created_at": "2026-11-13T01:35:01.851621Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Black Love - Rapsody & Malice win Best Rap Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "2e5dc6cc5a75b03a3c605e65e55c70f53dc98ce38c8b04280478a41e86bd3c53",
+  "slug": "will-black-love-rapsody-and-malice-win-best-rap-song-at-the-69th-annual-grammy-awards-20261112"
+ },
  "0x3482d66a7f1d9e92d6da0f80b53eba55f0b925abf2779e923b825e99c4ed7f24": {
   "created_at": "2026-10-13T19:55:55.753759Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -879,10 +888,20 @@
   "created_at": "2026-02-06T22:38:03.776102Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Matt Wells win 2026 MLS Coach of the Year?",
   "revisions": 1,
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
   "slug": "will-matt-wells-win-2026-mls-coach-of-the-year"
+ },
+ "0x7cfbde89b915a867311e3cd8705cfdf01a05a8e08664ebdd04b94dc8f256a824": {
+  "created_at": "2026-11-12T20:22:48.11163Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Who's Dat Girl - Ayra Starr & Rema win Best Global Music Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "3d5108fc0a413bbb4d3ccdf1cf9b4c4373352c54eb1584181f342b0f1bc4db07",
+  "slug": "will-who-s-dat-girl-ayra-starr-and-rema-win-best-global-music-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x7ea73886d513e8ca2bcc272e461e3b3002d7f52049ab21e896f5510b406a2c24": {
   "created_at": "2026-08-12T17:28:22.211468Z",
@@ -1202,6 +1221,15 @@
   "sha256": "62e44434432dbe9efc937392fe4e6469410628819f45e0ddbfd6f865c2696779",
   "slug": "will-ben-johns-reach-the-final-of-the-2027-ppa-tour-finals"
  },
+ "0xb02f689b6c27b98f4b8f571f1eefd0230845caa8507acfc5db38c198ef2a7424": {
+  "created_at": "2026-11-12T20:04:59.289992Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Anthropic's IPO price be between $66.00 and $69.99?",
+  "revisions": 1,
+  "sha256": "4412f3b9b6e596c4d2683b06bca8cdd6ca8b4529f61f488e17662111fe03f45c",
+  "slug": "will-anthropics-ipo-price-be-between-66pt00-and-69pt99"
+ },
  "0xb030f9bef2061733ef9e9237aa413c977f79ce31c70a04b18c323f648f539a24": {
   "created_at": "2026-07-31T23:08:43.130795Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1219,6 +1247,15 @@
   "revisions": 1,
   "sha256": "9a20c8f1c4e56ff877da87f503d7cd775424c9baf2bbba1fc69f23d1c8101dc7",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-kawhi-leonard"
+ },
+ "0xb528b129ef09f78edbfe510acc7655947b963dcd2dd414ba35879eca7d438e24": {
+  "created_at": "2026-11-12T20:23:58.7315Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Hasta Jesus Tuvo Un Mal Dia - CA7RIEL & Paco Amoroso feat. Sting win Best Latin Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6c023faa8525f6e6ef28b22c9355f9be93171921482e932f419fffad91a599d7",
+  "slug": "will-hasta-jesus-tuvo-un-mal-dia-ca7riel-and-paco-amoroso-feat-sting-win-best-latin-song-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xb5c7593fb8fe4b85eb3cff248f5e4f3b75dea688eb2ab9f247f63cdf9bded624": {
   "created_at": "2026-08-27T18:16:51.479028Z",

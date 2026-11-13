@@ -910,6 +910,7 @@
   "created_at": "2026-08-13T17:43:19.742837Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will UK GDP growth in Q3 2026 be between 0.2% and 0.3%?",
   "revisions": 1,
   "sha256": "8ee46b65a3687a1e9fac0fc0ed614d05d17f1a86ef0d10218e4a5c4ad4fde2d6",
@@ -1114,6 +1115,15 @@
   "sha256": "18d89cd07debe8b6683a9d3564f9b3760a566102b2eba3b00173c493e70a37da",
   "slug": "nba-2026-27-bpg-leader-onyeka-okongwu"
  },
+ "0xc944eecad8d0046d42925deaf8352385c40ef830c8fdd462f2a9e65d74881ef8": {
+  "created_at": "2026-11-13T00:29:45.787724Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Project Hail Mary win Best Screenplay \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "eae24e920560a0088729768bd03e3e7c7b32e57a7bfaaa20587f8ad084458bd1",
+  "slug": "will-project-hail-mary-win-best-screenplay-motion-picture-at-the-84th-golden-globes"
+ },
  "0xca1578ca897dd6530b96280f0c11fa61ef28647720cc3e799e90a6d91ce005f8": {
   "created_at": "2026-10-30T22:00:14.01091Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1287,6 +1297,15 @@
   "sha256": "81856e435a50c7e1d966b0c131fa93ac69df0d89c92cd340e69a5701e7b7dca0",
   "slug": "will-kristiansund-be-relegated-from-norway-eliteserien-2026"
  },
+ "0xdee69ecd6fbf57f5f538bf92d97df4bf92edc3f1b81c2f62db0d73de1281e7f8": {
+  "created_at": "2026-11-11T21:57:02.559459Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Mississippi in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "446b9b31d68414bf42d9bb039cacac0db55e6570e82ef0997ad3b25b551205db",
+  "slug": "will-the-democrats-win-mississippi-in-the-2028-presidential-election"
+ },
  "0xe083cbc4ef7dc094d99baccdf81b09854a1ba8b88b37702139f34669e7d6bcf8": {
   "created_at": "2026-09-27T20:09:56.594528Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1340,6 +1359,15 @@
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
   "slug": "cdr-red-bar-2026-10-28-exact-score-2-1"
+ },
+ "0xe773be120b08299862202800e8930404eb4eae54207c014dcd137e96d56037f8": {
+  "created_at": "2026-11-12T20:20:16.916107Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Spend Dat - Yung Miami win Best Rap Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "46feb1c24590baccf3560275922b3760ed3e129242c76933a2c5327d1cb19e92",
+  "slug": "will-spend-dat-yung-miami-win-best-rap-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xe97df33ca281e92127ab0c16343194f491cfc090ec1152762b0659b90d87cdf8": {
   "created_at": "2026-07-29T14:49:17.95289Z",
@@ -1480,6 +1508,7 @@
   "created_at": "2026-10-20T23:03:16.742885Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Asuna play for FURIA Esports in 2027?",
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",

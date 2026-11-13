@@ -131,6 +131,7 @@
   "created_at": "2026-02-18T17:37:36.023447Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Kristijan Kahlina win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -476,6 +477,7 @@
   "created_at": "2026-03-26T16:21:18.206589Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Yandy Diaz win the 2026 Edgar Martinez Outstanding Designated Hitter Award?",
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
@@ -584,6 +586,7 @@
   "created_at": "2026-09-23T21:01:13.586895Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will John Thune be the next US Senate Minority Leader?",
   "revisions": 1,
   "sha256": "58870a876014b54a6b7a14bdc941ae63412669cd2df065f57232a0d91922dec8",
@@ -908,6 +911,7 @@
   "created_at": "2026-08-11T18:42:08.314311Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-01 House election by 30% or more?",
   "revisions": 1,
   "sha256": "ebbc6303ef7c687673bd2b32d998773c1d0eab8296fd0eaecf6c20034649b985",
@@ -1238,6 +1242,15 @@
   "sha256": "fb79a79371650a2f8e38986e3fd351fad6b8844259d64cdbb4d1028867707344",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-03-house-election-by-5-10"
  },
+ "0xb36f282eae0ffc97efc00e95e903b2bbb4a08179474734c14f0ff33222cfda6c": {
+  "created_at": "2026-11-13T00:29:57.517404Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Quinta Brunson win Best Actress \u2013 Television Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "592f57b442c7012aa46eccc53126cdbf133ebca82ca3af644b6e46f858c29a68",
+  "slug": "will-quinta-brunson-abbott-elementary-win-best-actress-television-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0xb60359a49ea02f74f2f8813622cf0445bc975b5e03cca7f0b751df3b2f4d296c": {
   "created_at": "2026-08-05T11:06:55.25135Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1296,6 +1309,7 @@
   "created_at": "2026-09-09T15:52:45.415049Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Keith Andrews be the first Premier League manager sacked in 2026-27?",
   "revisions": 1,
   "sha256": "bc1e949698b4d9a8d71d5ccefe098d22c10cbbc913a7eb02ee5a58dae361d22d",
@@ -1406,6 +1420,7 @@
   "created_at": "2026-09-09T15:53:10.026309Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Michael Carrick be out as Manchester United manager by April 30, 2027?",
   "revisions": 1,
   "sha256": "b326a56896f124e4e10ff7b1d811ba4759296100afd123a1ba4b7c69946ec06d",
@@ -1442,6 +1457,7 @@
   "created_at": "2026-09-29T20:04:04.153438Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the next Fable model (5.2+) debut with a Humanity's Last Exam score of 65% or higher?",
   "revisions": 1,
   "sha256": "d10fe1976854ce3bbcbf27d107baa21f342fd2f0f051149b83c241d6ca5cb00f",
@@ -1456,6 +1472,15 @@
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",
   "slug": "f1-brazilian-grand-prix-constructor-fastest-lap-alpine-2026-11-08"
+ },
+ "0xe2f4c9c34d88c5de718aaadd2f9e5c711ee4ef6ef04af3908c14069a2e4eae6c": {
+  "created_at": "2026-11-13T00:31:05.989636Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Kate O\u2019Flynn win Best Supporting Actress \u2013 Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c9bc492e6569d31177f6be3f9965619663e806f47d9da629cb3ae6069fe9f203",
+  "slug": "will-kate-o-flynn-widow-s-bay-win-best-supporting-actress-television-at-the-84th-golden-globes"
  },
  "0xe42014c2b8094a2d9bfadb50ed72299c693341784001295b2dd67e6c20ab016c": {
   "created_at": "2026-09-28T17:21:22.125422Z",

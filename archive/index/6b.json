@@ -406,6 +406,15 @@
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-09-house-election-by-18-or-more"
  },
+ "0x42db14776767576923e76dec0d9e13b7735035ce408e5321fdd2410b4a6b2a6b": {
+  "created_at": "2026-11-11T21:56:45.342903Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Oregon in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "226b79a9a28a6ef6d843c4d58371e91dd6176cf34e0d9978e5de3a4fb8df4643",
+  "slug": "will-the-democrats-win-oregon-in-the-2028-presidential-election"
+ },
  "0x436a4e37ebc0d9963b2a825a1229984298d912e3e55552cf078007d933325d6b": {
   "created_at": "2026-05-19T05:03:32.995778Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -987,6 +996,15 @@
   "sha256": "80ed0c4c60582a34963bfa2f3b9690ea4390b905f3352386ee7479b4731cb55d",
   "slug": "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-cape-verde-election"
  },
+ "0xa37a4930192de9e94a6a4bf015aee6ee6088c4bd82f8151a1ad8c11b6f35926b": {
+  "created_at": "2026-11-12T20:23:42.240326Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will MUDA - Carin Leon win Best Musica Mexicana Album (Including Tejano) at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d73aca3ad5307d8b5c10dbdc6012a0ab516795da78940a560ce08c34d59b71e8",
+  "slug": "will-muda-carin-leon-win-best-musica-mexicana-album-including-tejano-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xa570171c1f98a9a56415b5a2e2d5c2df07c30a87b3e46935c1ad080200dcc36b": {
   "created_at": "2026-08-12T17:21:40.74014Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1168,6 +1186,15 @@
   "sha256": "d6f522c00936c03b8c2049913f0da00091a5d704ee163919a2dedc8c2e2a932c",
   "slug": "will-nashville-sc-win-the-2026-mls-cup"
  },
+ "0xbe2950ee436992a4626cbc5c8d518b12654b7af9e31459e934f94b4957ec146b": {
+  "created_at": "2026-11-11T21:56:43.124562Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will the Democrats win Rhode Island in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "cf3d3a2ba1dba46dd4cb67f440afab9ec631d98be52c5e8f382f06192089f487",
+  "slug": "will-the-democrats-win-rhode-island-in-the-2028-presidential-election"
+ },
  "0xc185d55eebca6df30b0aaa1a61b04284dd36e30bedd9ef0d13f3c9447f352c6b": {
   "created_at": "2026-09-04T19:50:29.144144Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1303,6 +1330,15 @@
   "revisions": 1,
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-buccaneers-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
+ },
+ "0xd932db58e59a0a83b93963b656362b0784062b5c57d178a23084432889a58e6b": {
+  "created_at": "2026-11-13T00:28:53.457977Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Andrew Scott win Best Actor \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f467bbf9407466481b1b57709202968e28f6dbaba9b5ace503cc614a41ed25e6",
+  "slug": "will-andrew-scott-elsinore-win-best-actor-drama-at-the-84th-golden-globes"
  },
  "0xda44ec1eb2c277208388163683a7cdcd787fda1d32896e9371ff5d18ec79946b": {
   "created_at": "2026-10-13T19:55:33.157693Z",

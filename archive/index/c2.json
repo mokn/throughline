@@ -221,6 +221,7 @@
   "created_at": "2026-08-05T21:01:14.085633Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Republican Party candidate win the 2026 Vermont gubernatorial election by 10%-15%?",
   "revisions": 1,
   "sha256": "f6c7d1a6cca1846c7843edbaacb2fce0333a4c69f979abcf591fab3e1c2e4523",
@@ -954,6 +955,15 @@
   "sha256": "4e96a674bedf1e2af4f6d1396c97c7200dd1c51e47db0860971fd65714ec48fe",
   "slug": "will-the-democrats-win-nevada-in-the-2028-presidential-election"
  },
+ "0x8bf79ba3215d634399b13df2c1a781dfc6f3513a63e45f6908317f9f05fff5c2": {
+  "created_at": "2026-11-12T23:21:45.401781Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will UK GDP growth in Q4 2026 be at least 1.0%?",
+  "revisions": 1,
+  "sha256": "6d11009c480d7bd3c533aef741062440c73c937187a5d14433869ebf8728d897",
+  "slug": "will-uk-gdp-growth-in-q4-2026-be-at-least-1pt0"
+ },
  "0x8c1efca0692c759672c92f973429f81a46425e52e979c10a30ddeeffc31292c2": {
   "created_at": "2026-08-21T17:37:12.463966Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1182,6 +1192,15 @@
   "sha256": "6c5f382d8e119948d05a4a9e8c8eaae854afb5fa98efb8c1e31ef661ce34a4f8",
   "slug": "will-the-feds-lower-bound-reach-2pt5-or-lower-before-2027-289-849-151-768"
  },
+ "0xaa92de8f938dc2e7b748114dbcfd32bbf411eab4aeb79adb6af53344641c22c2": {
+  "created_at": "2026-11-13T00:29:28.576945Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Edward Norton win Best Supporting Actor \u2013 Motion Picture at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "59eb67dc32644edbd4521025af2725982518840a42025882324c850392381d97",
+  "slug": "will-edward-norton-the-invite-win-best-supporting-actor-motion-picture-at-the-84th-golden-globes"
+ },
  "0xaaebf7bb83f5fcb2ccd8e7d5b0f93ee845d6da844590cdec17217b03f91f11c2": {
   "created_at": "2026-09-08T16:53:17.612472Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1299,6 +1318,15 @@
   "sha256": "ae5946096133b5e121ff3cc5d12d90630a7b2b0dda20ada291e4ece5b4bcefd2",
   "slug": "will-utrecht-keep-the-most-clean-sheets-in-eredivisie-2026-27"
  },
+ "0xb6dfd582357ca511d535f246bafee91d8d33e77ae833336caa5a6074f72eafc2": {
+  "created_at": "2026-11-12T20:18:52.86259Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Happiness Is So Sad - Swedish House Mafia & Lykke Li win Best Dance/Electronic Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "095956ddf8c5da2f78397d7eb3f0173d9970934b3218444d263be9be3a797462",
+  "slug": "will-happiness-is-so-sad-swedish-house-mafia-and-lykke-li-win-best-dance-electronic-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xb7a09fcbb3a5b24af28914cd975dc17a7f92652b04b56b479913d6b7e1f618c2": {
   "created_at": "2026-10-24T04:00:09.012869Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1375,6 +1403,7 @@
   "created_at": "2026-02-18T17:37:48.368823Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will James Pantemis win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -1570,6 +1599,15 @@
   "revisions": 1,
   "sha256": "1dbe6b168d02b9a76b669c72dfed267f5f6559642d4c58d0e8ad9c0a654bb517",
   "slug": "will-real-madrid-reach-the-2027-uefa-champions-league-final"
+ },
+ "0xde3b2838acf91270a03d4b4a442bbdcb618bcddb9f8ed75c7b771ecf08ccf7c2": {
+  "created_at": "2026-11-13T00:30:33.341867Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Paradise win Best Television Series \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "9b661d6a459b9913e288101eeb35881a4bfd6debeb900cf3f2f3f7b9632ed534",
+  "slug": "will-paradise-win-best-television-series-drama-at-the-84th-golden-globes"
  },
  "0xde3cae907724ad8b547d10a68586d8ccffa4d166893143a23a01ae563e74cbc2": {
   "created_at": "2026-10-13T20:02:44.570646Z",

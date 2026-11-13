@@ -121,6 +121,7 @@
   "created_at": "2026-03-25T17:45:18.304938Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Anthony Santander win the 2026 AL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "25389de95890e91516a2c43e1c2e8540de33fceb80a677b357e5d14822ee7214",
@@ -209,6 +210,15 @@
   "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
   "slug": "will-loud-win-an-international-event-in-2027"
  },
+ "0x21f400145122ecbb350057c89fc37d4aeb388848ff787fa08532e7f28d652784": {
+  "created_at": "2026-11-13T00:43:02.085788Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Bruno Mars appear at the 2026 NFL Christmas Day halftime show?",
+  "revisions": 1,
+  "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
+  "slug": "will-bruno-mars-appear-at-the-2026-nfl-christmas-day-halftime-show"
+ },
  "0x245596ae9ab94c6e3dd338c2ea7e0dab993e51180d15584053a4e20b4611fa84": {
   "created_at": "2025-11-24T22:08:51.206623Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -240,6 +250,7 @@
   "created_at": "2026-10-02T20:14:23.340557Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Shanks have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -520,10 +531,20 @@
   "sha256": "3df9cc96242d20ea27b446e15b82d5f66e517e9fb6b98b946df27be2839376a9",
   "slug": "2026-soccer-premium-liiga-estonia-runner-up-nmme-kalju"
  },
+ "0x4d784c46f40138db8086bfa852e7352f1f0ced8c6cc06c445eae90425a762d84": {
+  "created_at": "2026-11-13T00:31:17.387772Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will \"La Bola Negra\" win Best Motion Picture - Non-English Language at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "595347e0e70da50563a074cea28f19feeee17ae879fc69445b8832bf20c8b9bc",
+  "slug": "will-la-bola-negra-win-best-motion-picture-non-english-language-at-the-84th-golden-globes"
+ },
  "0x4e4a62addcdac231845ca46966d1871e811aa89eb7e1bae073a9ba646ca43584": {
   "created_at": "2026-03-25T17:45:15.386406Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Yordan Alvarez win the 2026 AL Comeback Player of the Year award?",
   "revisions": 1,
   "sha256": "25389de95890e91516a2c43e1c2e8540de33fceb80a677b357e5d14822ee7214",
@@ -914,6 +935,7 @@
   "created_at": "2026-08-26T21:47:06.275284Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Emelec keep the most clean sheets in the 2026 LigaPro Serie A (Ecuador)?",
   "revisions": 1,
   "sha256": "9ca7f0af49dca7a5dbb0a685c264a157c88583ed1dd8b2b4ac8398f355124808",
@@ -1165,6 +1187,15 @@
   "sha256": "74424c6b0e353137788b70945945d2b0c36dc82d9a92f972e1b47f2c5463ad45",
   "slug": "will-slovan-bratislava-finish-top-8-in-ucl-league-phase"
  },
+ "0xb9944fd1b17459d5b3d28e51ee0fae3b96381bcb9c532199ed65e1d861cb2284": {
+  "created_at": "2026-11-12T20:23:57.320002Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Ingles en Miami - Rawayana & Manuel Turizo win Best Latin Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "6c023faa8525f6e6ef28b22c9355f9be93171921482e932f419fffad91a599d7",
+  "slug": "will-ingles-en-miami-rawayana-and-manuel-turizo-win-best-latin-song-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xba34bdd16dce312095c3cfb0f0fe713532d8f0ef92fbd77c49a3e665e54d8084": {
   "created_at": "2026-10-15T17:02:00.812806Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1237,6 +1268,15 @@
   "sha256": "44db7a0c0ccc56616627b77f2443fcdf0f969a012112497de6db9fb134d23f5c",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-09-house-election-by-40-45"
  },
+ "0xc1c0e286254d29611b5eeeefab1fe32e39d07347e0a0880271dcbd3061c27d84": {
+  "created_at": "2026-11-13T00:30:07.728817Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Hacks win Best Television Series \u2013 Comedy or Musical at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "28e5121c008b818267f37072bb0055cc786b7bf323cadbfeb95c29679c969193",
+  "slug": "will-hacks-win-best-television-series-comedy-or-musical-at-the-84th-golden-globes"
+ },
  "0xc272d1339a54c316c4b4f06152fb411d9e1f9f82131f3cb2882eb739aa404584": {
   "created_at": "2026-09-18T00:08:46.724257Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1286,6 +1326,7 @@
   "created_at": "2026-08-05T21:01:12.984589Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the Republican Party candidate win the 2026 Vermont gubernatorial election by 30% or more?",
   "revisions": 1,
   "sha256": "f6c7d1a6cca1846c7843edbaacb2fce0333a4c69f979abcf591fab3e1c2e4523",

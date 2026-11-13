@@ -142,6 +142,7 @@
   "created_at": "2026-02-02T17:48:00.180121Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Microstrategy delisted from MSCI index by December 31?",
   "revisions": 1,
   "sha256": "4098dcbbc7321d0041420ae6675860832867a1f65b3600d5fa102c9ce779a285",
@@ -505,6 +506,7 @@
   "created_at": "2026-10-02T20:14:35.044024Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will SanSan have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
@@ -622,6 +624,7 @@
   "created_at": "2026-08-25T03:42:56.32922Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Bitcoin dip to $70,000 by December 31, 2026?",
   "revisions": 1,
   "sha256": "8c586a8dc3bdf014dc575f9e2ae0dc8d296849550224d1504b52554299771ceb",
@@ -826,6 +829,15 @@
   "revisions": 1,
   "sha256": "280d6e3e22e7477a19b15711eadf655f80f799cfa41662733f9c7919c3b16b6e",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ri-02-house-election-by-35-or-more"
+ },
+ "0x96758f0df11e8c79aabe1391699e9599035b2a6cb409a774ce32c9d7cc79763b": {
+  "created_at": "2026-11-13T01:37:15.621273Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Nikki Glaser win Best Performance in Stand-Up Comedy on Television at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "00915a05e9edf7dd49ed0f6f406a6e3ea4b367c6136ca44e094c18038eb59ebe",
+  "slug": "will-nikki-glaser-good-girl-win-best-performance-in-stand-up-comedy-on-television-20261112"
  },
  "0x96ad2f2e0763a4f0ad0c28f3f219b6f24e39274a22216c88c2274a8834d6443b": {
   "created_at": "2026-09-23T18:06:40.238403Z",
@@ -1044,6 +1056,15 @@
   "sha256": "a2a9c95f23e5980a52728685e28e91d9efa2081311ad697e77f5aad831e06a29",
   "slug": "el1-ste-swe-2026-09-26-team-total-away-0pt5"
  },
+ "0xb9226df522157eafdc1dc2afbb09f87708762efc052e8bdf2c3645677ac5fa3b": {
+  "created_at": "2026-11-13T00:29:51.840872Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Jason Sudeikis win Best Actor \u2013 Television Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "c41e77269818a8c3eed007ff18d753454d019fb138b1d10bf787e4bd8b06f6bc",
+  "slug": "will-jason-sudeikis-ted-lasso-win-best-actor-television-musical-or-comedy-at-the-84th-golden-globes"
+ },
  "0xb92695d236088964f221d94f1c1275a346022d389582142a5a3b00e45e63043b": {
   "created_at": "2026-10-01T14:01:02.442505Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1166,6 +1187,7 @@
   "created_at": "2026-08-26T21:46:51.907478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Central C\u00f3rdoba (SdE) keep the most clean sheets in the 2026 Liga Profesional (Argentina)?",
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
@@ -1215,6 +1237,15 @@
   "revisions": 1,
   "sha256": "61abb00f01eb902b15957ffed4f52616675daa5f874567da5e119211e2fd332e",
   "slug": "2027-soccer-denmark-superliga-winner-randers"
+ },
+ "0xd695eb33100a7b380ee1b336bfa7796840c596094539776dd4540c3e474a5b3b": {
+  "created_at": "2026-10-25T17:45:22.937169Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Will Estoril Praia win on 2026-11-08?",
+  "revisions": 1,
+  "sha256": "d365da87f854e0e0e165833a80f663db5d4af6bf3694ed6be0006d38d96bffd4",
+  "slug": "por-est-csm-2026-11-08-est"
  },
  "0xd7a91f7fe0a7f4b9385ca66adfa68b71a75dc5857b5ece18554b08a5f942463b": {
   "created_at": "2026-08-10T15:33:57.320708Z",
@@ -1324,6 +1355,15 @@
   "revisions": 1,
   "sha256": "a580f752a660da571f2dea8d1fc580903acff49c381af8fabdfa466d85465f5c",
   "slug": "will-suchitepequez-keep-the-most-clean-sheets-in-liga-nacional-guatemala-2026-27"
+ },
+ "0xe7f3b89d5f2c5503a9babaee4100adb4683b71b98d9402020d39dda5709e953b": {
+  "created_at": "2026-11-13T00:29:06.193063Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Daisy Edgar-Jones win Best Actress \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "d2613250362daef7ca75e6dd4c34bf258355dd6ac687c0c6cf79c9a6cb7342f8",
+  "slug": "will-daisy-edgar-jones-sense-and-sensibility-win-best-actress-drama-at-the-84th-golden-globes"
  },
  "0xe7fda6f948924b13ec23af5849eea7aaf904d6cd887a11658fd08eadbbfbd13b": {
   "created_at": "2026-11-03T17:43:33.812548Z",

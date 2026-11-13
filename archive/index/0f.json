@@ -451,6 +451,15 @@
   "sha256": "7a89c6d8ee8c1be276e200dafb0c3f04ed479e0f14ddf585f364c2c10aaae2ab",
   "slug": "will-mohammed-aliyu-win-the-2027-bauchi-state-gubernatorial-election"
  },
+ "0x3fc7cf906ca7c3bba4550dcdef5d2e03b06a34f3d8dd08bf28aba85249b89f0f": {
+  "created_at": "2026-10-26T09:00:13.066114Z",
+  "first_seen": "2026-11-12T15:15:16Z",
+  "last_changed": "2026-11-12T15:15:16Z",
+  "question": "Estoril Praia vs. CS Mar\u00edtimo: CS Mar\u00edtimo O/U 2.5",
+  "revisions": 1,
+  "sha256": "f2e72c982b1e067693da125e888dd8729489c1d0f43a74eec7a361fefb390232",
+  "slug": "por-est-csm-2026-11-08-team-total-away-2pt5"
+ },
  "0x4302c7b12f989559ec0f384671ad3a1ccae976bda81cee8e8644c5214f52cf0f": {
   "created_at": "2026-09-13T09:45:28.270253Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -716,6 +725,24 @@
   "revisions": 1,
   "sha256": "5e186d5f1620cd92f06bf85ef8cd0d66c59f0f42ac18646a578d9296117756f8",
   "slug": "ethereal-fdv-above-1b-one-day-after-launch-775-524"
+ },
+ "0x72e382dc9834fdefc150f6f05cde111aa708aebad9275ea2f6cb2f0ee083d80f": {
+  "created_at": "2026-11-12T20:18:54.815504Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will My Old Ways - Tame Impala win Best Dance/Electronic Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "095956ddf8c5da2f78397d7eb3f0173d9970934b3218444d263be9be3a797462",
+  "slug": "will-my-old-ways-tame-impala-win-best-dance-electronic-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0x73d9c538eb56af39db1c23aff29a6d3a5dfaa4b4324e5b06a85fffa68088bb0f": {
+  "created_at": "2026-11-13T00:29:55.766168Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Keke Palmer win Best Actress \u2013 Television Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "592f57b442c7012aa46eccc53126cdbf133ebca82ca3af644b6e46f858c29a68",
+  "slug": "will-keke-palmer-the-burbs-win-best-actress-television-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0x75692585f2b64c47ac97bfbde0d415d7958e7a23023b3718905ef1cb788e2b0f": {
   "created_at": "2026-08-12T17:17:58.983135Z",
@@ -1389,6 +1416,15 @@
   "sha256": "913e1f60885033e7c6558ba855f0bea085a1644e1932dee6490c1485ac19eac1",
   "slug": "wandale-robinson-874pt5-receiving-yards-2026-27"
  },
+ "0xde19f4831d0f317bf4a2d0ef8b7dafdf5f9d209b2305c10a5b8422546583080f": {
+  "created_at": "2026-11-13T00:28:58.92121Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Guitarricadelafuente win Best Actor \u2013 Drama at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "f467bbf9407466481b1b57709202968e28f6dbaba9b5ace503cc614a41ed25e6",
+  "slug": "will-guitarricadelafuente-la-bola-negra-win-best-actor-drama-at-the-84th-golden-globes"
+ },
  "0xdff4763dff336f084cd3a3618641be359922c9e1acdcc533b746ecccebb1280f": {
   "created_at": "2026-09-08T16:53:33.288481Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1475,6 +1511,7 @@
   "created_at": "2026-10-20T23:03:15.478669Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jawgemo play for NRG in 2027?",
   "revisions": 1,
   "sha256": "416352dd6eee6ef81505189123e0912a7fd8719b4be90ee50670504a84c8abb3",

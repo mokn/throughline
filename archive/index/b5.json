@@ -262,6 +262,15 @@
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
   "slug": "f1-las-vegas-grand-prix-driver-pole-position-russell-2026-11-20"
  },
+ "0x241c321a185a57b365f8b77d131bfa040381649f31c1c9b183e465833348c4b5": {
+  "created_at": "2026-11-12T20:23:26.195609Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Infinito - Yandel win Best Musica Urbana Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "e8d8b22c91f4ff74099365b99cfed0ae0abcfcc9a53b5543426eb61974dbc6f5",
+  "slug": "will-infinito-yandel-win-best-musica-urbana-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x26204bf09dffb4ef6f231b4da167464f4bdc1fcd5d05251e5f97678bb852bab5": {
   "created_at": "2026-01-28T15:33:07.727985Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -366,6 +375,7 @@
   "created_at": "2026-11-11T01:19:25.425407Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will the next Gemini model family be named Gemini Krypton?",
   "revisions": 1,
   "sha256": "4bf3c9e3af509a3ca055578a01e9a169af2ab1e8d20b034caf6fc57b7d5eb379",
@@ -530,10 +540,20 @@
   "created_at": "2026-08-25T03:55:10.974023Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-13T14:35:32Z",
   "question": "Will Solana dip to $80 by December 31, 2026?",
   "revisions": 1,
   "sha256": "43cbd72ab7480e7e32e3703bdfba829013d050581c94b4130790aa54f32f3bc8",
   "slug": "will-solana-dip-to-80-by-december-31-2026-from-august-24"
+ },
+ "0x44b93530444f2a670b226f22f6687958f5c0f7e9599477be2c966481ef6b92b5": {
+  "created_at": "2026-11-13T00:30:00.553622Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Kristen Wiig win Best Actress \u2013 Television Musical or Comedy at the 84th Golden Globes?",
+  "revisions": 1,
+  "sha256": "592f57b442c7012aa46eccc53126cdbf133ebca82ca3af644b6e46f858c29a68",
+  "slug": "will-kristen-wiig-palm-royale-win-best-actress-television-musical-or-comedy-at-the-84th-golden-globes"
  },
  "0x451d050e667ea34fd83ec15d431a681a84e6abb7cb5a84d18635803757e656b5": {
   "created_at": "2026-08-10T15:05:02.23459Z",
@@ -557,6 +577,7 @@
   "created_at": "2026-08-11T18:42:14.565907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will the Republican Party candidate win the 2026 OK-03 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "49cb3a0d328cf1f0cee82bbbddee9679004edab6a92b19682e76ecfd8a3f674f",
@@ -1053,6 +1074,7 @@
   "created_at": "2026-08-10T20:04:04.4523Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Tobias Eriksson be the next Regional Board Chair of Region V\u00e4rmland?",
   "revisions": 1,
   "sha256": "6caac63e659de9e485779e8d4bd0bbf8adc310af391409508b27fb648aa26e58",
@@ -1134,6 +1156,7 @@
   "created_at": "2026-10-20T23:03:08.646307Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Jawgemo play for 100 Thieves in 2027?",
   "revisions": 1,
   "sha256": "416352dd6eee6ef81505189123e0912a7fd8719b4be90ee50670504a84c8abb3",
@@ -1175,6 +1198,15 @@
   "sha256": "9c958e7ce2e81d39efc976780db7c6773683e53938ab977f547f3d12f4c659e2",
   "slug": "will-betty-gilpin-win-best-supporting-actress-at-the-99th-academy-awards-20260805190945892"
  },
+ "0x9968ffdf2bcd2391badea941de9ab70fd865e2333ebf1bbc6941546631e395b5": {
+  "created_at": "2026-11-13T01:35:03.223743Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will Dead Fresh - Lil Baby win Best Rap Song at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "2e5dc6cc5a75b03a3c605e65e55c70f53dc98ce38c8b04280478a41e86bd3c53",
+  "slug": "will-dead-fresh-lil-baby-win-best-rap-song-at-the-69th-annual-grammy-awards-20261112"
+ },
  "0x9abaabb560d4b09b01ce2deca2bb5eb3462950de20bc0e674b4dc6ac931126b5": {
   "created_at": "2026-08-24T16:32:45.385597Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1206,10 +1238,20 @@
   "created_at": "2025-12-08T23:53:52.508829Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will Mercedes be the 2026 F1 Constructors' Champion?",
   "revisions": 1,
   "sha256": "3fc3966423ebbf44814937a55e2279a90f393832c3871f7789ea6dc8bfce3fc4",
   "slug": "will-mercedes-be-the-2026-f1-constructors-champion"
+ },
+ "0x9c44a43030bc707782216423453da8bdcfcfd77fd0b1b4441a06927c428238b5": {
+  "created_at": "2026-11-12T18:41:11.220194Z",
+  "first_seen": "2026-11-13T14:35:32Z",
+  "last_changed": "2026-11-13T14:35:32Z",
+  "question": "Will the next Russia-Ukraine senior diplomatic meeting take place in Serbia by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
+  "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-serbia-by-december-31-2027"
  },
  "0xa17b7d3ba3bc75428db2f372282296f6150fbbbee23592ea800637d3c8fb83b5": {
   "created_at": "2026-08-28T19:39:44.270939Z",
@@ -1378,6 +1420,7 @@
   "created_at": "2026-08-10T20:04:04.785753Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-12T15:15:16Z",
   "question": "Will \u00c5sa Johansson be the next Regional Board Chair of Region V\u00e4rmland?",
   "revisions": 1,
   "sha256": "6caac63e659de9e485779e8d4bd0bbf8adc310af391409508b27fb648aa26e58",
