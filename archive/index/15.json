@@ -208,6 +208,15 @@
   "sha256": "bd52d5b72d3055f3ab287e696d3800416399994d7a891ed16f959ba4c8d2700c",
   "slug": "will-sc-austria-lustenau-keep-the-most-clean-sheets-in-austrian-bundesliga-2026-27"
  },
+ "0x20ce09afa8cd42aa7aecafef07c416b4b07f1045dbde65dfdfa882e1b3ff0515": {
+  "created_at": "2026-11-14T00:31:30.822232Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Costa Rica be top 5 in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "788daf632993c30c4b220c561b635050bd412bce99a627cbdc73edec20992763",
+  "slug": "will-costa-rica-be-top-5-in-the-world-happiness-report-2027"
+ },
  "0x25ea45fb5a112391bf64f38056b84394f66cb47a06aa8208339822408fb0a315": {
   "created_at": "2025-11-14T15:49:31.974833Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -706,6 +715,15 @@
   "revisions": 1,
   "sha256": "6c935f3659d3f9cf70504fc73052bd7993553584b8fd6a76a6045af975df611a",
   "slug": "cma-2026-soty-somewhere-over-laredo"
+ },
+ "0x7400b325a10902e7db540233a1e517c86b3218ba53826cf1403187033e7f8615": {
+  "created_at": "2026-11-14T00:24:39.945292Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Fed pause-pause-cut in the next three decisions (Dec-Jan-Mar)?",
+  "revisions": 1,
+  "sha256": "706000fe388e402454d57c824da839e12e303c91cb5e0722c5554d8ca0b365cc",
+  "slug": "will-the-fed-pausepausecut-in-the-next-three-decisions-decjanmar-2027"
  },
  "0x762a561c43700742f7c0346af9809f14737469d3c0a13467f90828c751c0b915": {
   "created_at": "2026-08-07T16:01:48.293901Z",
@@ -1208,6 +1226,15 @@
   "revisions": 1,
   "sha256": "047827537e49535b586932f9c1b4c7327e202c1a201020b89b843919ae25933e",
   "slug": "will-hili-tropper-be-the-next-speaker-of-the-knesset-20261019103128390"
+ },
+ "0xca515688259e095c8940ae295e750582607b146f2802c7cfde30387fa340da15": {
+  "created_at": "2026-11-14T00:24:39.226886Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Fed hike-pause-pause in the next three decisions (Dec-Jan-Mar)?",
+  "revisions": 1,
+  "sha256": "706000fe388e402454d57c824da839e12e303c91cb5e0722c5554d8ca0b365cc",
+  "slug": "will-the-fed-hikepausepause-in-the-next-three-decisions-decjanmar-2027"
  },
  "0xcb1eabb883b97ed39fef01df957d2cfa3ccf02e5b4f24524be9f03cb5f25d015": {
   "created_at": "2026-09-28T17:19:58.995002Z",

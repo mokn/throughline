@@ -116,6 +116,15 @@
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
   "slug": "nicholas-hoult-announced-as-next-james-bond"
  },
+ "0x0f5edb2626556e42242f2802a50c1da3cb80fcefe4e7e62d0c78ccbf25b4f5c9": {
+  "created_at": "2026-11-13T17:09:13.151879Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will \"GTA VI\" have a Metascore of at least 99?",
+  "revisions": 1,
+  "sha256": "0eda20c0d9361dae46afe439f6194013cc199229fe397a1b287a97e6d26fe2d0",
+  "slug": "will-gta-vi-have-a-metascore-of-at-least-99"
+ },
  "0x100c9ad3b8f08656388d0ac02ea619ba621d2e6ea84cba15258db44ef9f532c9": {
   "created_at": "2026-09-20T08:16:07.047987Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -868,6 +877,7 @@
   "created_at": "2026-09-09T15:19:23.701558Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Malta win 2026-27 Nations League Group D1?",
   "revisions": 1,
   "sha256": "44bb21c833ca905747775ed91dd14c267d0228dd1e4492bc9a8c35424429d86c",
@@ -1449,6 +1459,7 @@
   "created_at": "2026-09-02T20:27:24.666947Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will it snow in Buffalo, NY by November 15?",
   "revisions": 1,
   "sha256": "5c5640de2897cd71e029616b9d73754960f4d72854db103f2e1ca4433f73e139",

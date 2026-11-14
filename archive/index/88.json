@@ -429,6 +429,15 @@
   "sha256": "9e39147f5ce5721c38f995945230c3928b10ab118be74f1709a9d90dd82f043a",
   "slug": "will-washington-commanders-finish-the-2026-27-nfl-regular-season-with-the-most-return-yards-20260716001414222"
  },
+ "0x3ba71a2ca3808ffc8ccadb9a683d9d9af1c1027e0cc95b259d18540654281788": {
+  "created_at": "2026-11-14T02:40:19.921571Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz be 7+ on December 31?",
+  "revisions": 1,
+  "sha256": "1ca2b968413aed26c7ff7449407738599570eccfa038709e288e3b1783ce0067",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-be-7-on-december-31"
+ },
  "0x3ce04e3920cc423f4c7b6134458893c6af758c5242770feb8fe95db1a8eb4388": {
   "created_at": "2026-09-04T19:47:50.974214Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1071,6 +1080,15 @@
   "revisions": 1,
   "sha256": "3930f6f0f4d8e86e68522ded4f0db3470b4b26f2136ba5711b3ecea3d3eee832",
   "slug": "jk-dobbins-874pt5-rushing-yards-2026-27"
+ },
+ "0xaeecf43d85f62e5fd35a36964db6332da60537caa5a649a36da7797c9d045e88": {
+  "created_at": "2026-11-14T02:42:16.358763Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini model family be named Gemini Krypton?",
+  "revisions": 1,
+  "sha256": "10473fbe18660f884f5a9f2b0081cb97883879c021939e04eea900ff40525204",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-krypton-20261113"
  },
  "0xb188aca910be0f672e2da5c95dd18e5912f1b6c26d4e12a1e6043fb8fc700a88": {
   "created_at": "2026-08-10T23:57:33.099277Z",

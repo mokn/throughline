@@ -287,6 +287,15 @@
   "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
   "slug": "will-las-culturistas-with-matt-rogers-and-bowen-yang-win-best-podcast-at-the-84th-golden-globes"
  },
+ "0x28628e20306d3f26871af6be924e6f039b9944d44a7ec1d3e071ffd8a35ffaeb": {
+  "created_at": "2026-11-14T00:31:37.367562Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the US rank 22nd-23rd in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2f6517f60bd14bcd1056f7e5ea845b39a5c79165c284b357a6556bf7e373289e",
+  "slug": "will-the-us-rank-22nd-23rd-in-the-world-happiness-report-2027"
+ },
  "0x2878996ec4e5f5ab35ff934937f1a74186ff1e351d9734b9e70bc6b9d00107eb": {
   "created_at": "2026-02-26T15:58:17.781969Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1528,10 +1537,10 @@
  "0xfcfd63ed203575eefb78e4801a0d2a91af17ad89f472114cfd008e52071fdeeb": {
   "created_at": "2026-10-25T16:37:14.637881Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (HIGH) $105 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-reach-105-in-november-2026"
  },
  "0xfee944a5b2934bbf6b00fccd85ddd7b904419a27adbd8fc6accc9dcf79408aeb": {

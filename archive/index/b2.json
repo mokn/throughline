@@ -94,6 +94,7 @@
   "created_at": "2026-10-24T04:00:05.44472Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Elon Musk post 420-439 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -649,6 +650,15 @@
   "revisions": 1,
   "sha256": "2ffca77b8fab5ff42efce4c008e82b4df6160755692b30e3199ffd86d87e20fd",
   "slug": "will-clayface-win-best-makeup-and-hairstyling-at-the-99th-academy-awards-20260805190946927"
+ },
+ "0x594a591010d10e7f00353b64e8613d881ce4850c90a17ce0fc6e7a4930de30b2": {
+  "created_at": "2026-11-14T03:05:08.818511Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the United Arab Emirates join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-the-united-arab-emirates-join-the-mecca-agreement-by-december-31-2027"
  },
  "0x5cfd815bd0db06b0ed030c02fe330538c55d3f6b57ec243d31dbe03eeda553b2": {
   "created_at": "2026-08-18T14:07:12.926402Z",

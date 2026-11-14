@@ -639,6 +639,7 @@
   "created_at": "2026-08-11T18:50:06.897417Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 SD-AL House election by 35%-40%?",
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",
@@ -778,6 +779,15 @@
   "revisions": 1,
   "sha256": "f507b1d484afd0194e4d2e0f4761f2ef3cfb6975df4aebe3193bbc33a7844793",
   "slug": "will-filip-forsberg-record-100-points"
+ },
+ "0x8c658f7c6d5efd46613833f27d8caa44e62d3acce102fe1a7eb76de0c65844f5": {
+  "created_at": "2026-11-14T02:42:24.673098Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 29, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-29-2026"
  },
  "0x8cad03486f7956a8063f5959d3ddb8a0b7ac12b61cbf5c5b2c584dbc7be6e7f5": {
   "created_at": "2026-07-29T21:43:37.749224Z",
@@ -1238,6 +1248,7 @@
   "created_at": "2026-01-28T15:28:59.205135Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Democratic Party win the CO-04 House seat?",
   "revisions": 1,
   "sha256": "d5253039981431f4618b52621ddb1c512aa61c773dd260ecfc3b1407b10311a5",
@@ -1343,6 +1354,15 @@
   "revisions": 1,
   "sha256": "82eab1c0b41a1d5784b9e3c94195fad9fe7a3dfca60c58e2ad655b09524d8743",
   "slug": "del-2027-champion-schwenninger-wild-wings"
+ },
+ "0xeaee6b7a3bc466ffafb18b39567c02387811d50ddcbeab2c1657cd7390c0d7f5": {
+  "created_at": "2026-11-14T00:24:40.311606Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Fed decide differently in the next three decisions (Dec-Jan-Mar)?",
+  "revisions": 1,
+  "sha256": "706000fe388e402454d57c824da839e12e303c91cb5e0722c5554d8ca0b365cc",
+  "slug": "will-the-fed-decide-differently-in-the-next-three-decisions-decjanmar-2027"
  },
  "0xebf9da31c298ebcf778b22e48efdff0828b2a1384ef91dfd0c3cc6fad7896af5": {
   "created_at": "2026-10-14T13:20:07.22694Z",

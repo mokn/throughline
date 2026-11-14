@@ -8,6 +8,15 @@
   "sha256": "2a41dadc7ef95fd067cf83ab83411d788e838376d62bfa78ee5fb64c4aa02161",
   "slug": "will-benjamin-netanyahu-be-time-person-of-the-year-2026"
  },
+ "0x0170449af6785dff7e8eb78f056dd7cb044623772ca75bc15e1376b33b05461a": {
+  "created_at": "2026-10-18T23:30:36.335826Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Dundee United FC O/U 2.5",
+  "revisions": 1,
+  "sha256": "728497b547c2c5df54728949d0cb251da50378b3c1932a9ed582a8e87056bf7f",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-home-2pt5"
+ },
  "0x02144192303753b83ac5e3e732c6561381ee412500e8264f4b61587f99d3751a": {
   "created_at": "2026-09-13T09:44:19.925557Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -872,6 +881,15 @@
   "revisions": 1,
   "sha256": "bd9d05d9eb02ec6ddc040a546eec3785de6a6c6624286031a42d6621dd58842e",
   "slug": "will-nyziah-hunter-be-the-2026-big-ten-receiving-yards-leader"
+ },
+ "0x9afe2eaab0199f23333741817bf1c8652a1fea2a6958ee299580e8a8f7648c1a": {
+  "created_at": "2026-11-14T03:05:03.712145Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Kuwait join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-kuwait-join-the-mecca-agreement-by-december-31-2027"
  },
  "0x9e9bc791f99dde638f62981b02e6d9206b419860c28362ee8f81e0568e001a1a": {
   "created_at": "2026-09-28T17:19:42.203432Z",

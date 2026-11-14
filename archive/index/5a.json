@@ -370,6 +370,15 @@
   "sha256": "63ed4e6d9e92d661daec0a6e0217cd3127e717c6a8287b3240d90b4507fdb31e",
   "slug": "will-raquel-carter-win-the-2026-lexington-mayoral-election-20260626001644998"
  },
+ "0x2f38fbf77a27571c307cec1bf315177a32c175dd0fbbf23e5e1c1dba9b74295a": {
+  "created_at": "2026-10-18T23:30:35.106459Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "64604705593e4067272c06a5c48438c76c0da3deeac6803eee0e0ebbc4b307ed",
+  "slug": "scop-dun-hmi-2026-10-31-btts-first-half"
+ },
  "0x31352af4d7500394fe9e42d889457b455472ee406c6d3dcd0d1e78f656ede65a": {
   "created_at": "2026-03-20T15:04:32.734686Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1291,6 +1300,7 @@
   "created_at": "2026-04-30T15:51:11.652807Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Louisiana use a new congressional map for the 2026 United States midterm elections?",
   "revisions": 1,
   "sha256": "9cea4e0ec5218518b20c7156e24f68cb3ea836b094df8f49b2d8743c4e8d27de",

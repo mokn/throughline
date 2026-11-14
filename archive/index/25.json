@@ -120,6 +120,7 @@
   "created_at": "2026-08-05T20:57:38.037935Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota gubernatorial election by 35%-40%?",
   "revisions": 1,
   "sha256": "e93d567dbb7779d2a0c253b56a777bccb3108683a148401da8a8aa1ab2669d85",
@@ -1372,6 +1373,15 @@
   "revisions": 1,
   "sha256": "78b24eb42d21ffefeb4ea00c712a17830ae06b8c8a0bc258d1f0140f82a20d23",
   "slug": "will-louisiana-tech-bulldogs-advance-to-the-2026-sun-belt-championship-game"
+ },
+ "0xe88346c1c7851bb9171410e7e2cf3845192aeb78631b104bd796bd5b2d1a3125": {
+  "created_at": "2026-11-14T06:19:54.942484Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will 1.5B or more Anthropic shares trade on IPO day?",
+  "revisions": 1,
+  "sha256": "73d1571543e21022da39c5ed6255acc51b276a64c48ac155fb9706887f31472f",
+  "slug": "anthropic-ipo-day-volume-1pt5b-plus"
  },
  "0xe9873891942dd9b85cda46f02271be9af4749e1a6a01e890f991ad09daa5be25": {
   "created_at": "2026-10-26T23:56:06.842813Z",

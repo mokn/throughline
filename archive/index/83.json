@@ -1003,6 +1003,7 @@
   "created_at": "2026-01-28T04:53:20.347641Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Democratic Party win the CA-04 House seat?",
   "revisions": 1,
   "sha256": "83263075c131c6c47163e871cef6f0778e5e703560cc98c663d6fa72af9923f4",
@@ -1644,6 +1645,15 @@
   "revisions": 1,
   "sha256": "91fc1ae8a779d4e7836224c7adfe95d42bb3428826bf7d77bae865bdcf125aa1",
   "slug": "will-famalicao-finish-3rd-in-primeira-liga-2026-27"
+ },
+ "0xf99e9434fbfdf312d0afe051a5b6c96b64ca5c681469e48e073709d28bedb383": {
+  "created_at": "2026-11-14T00:31:28.936532Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Denmark be top 5 in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "788daf632993c30c4b220c561b635050bd412bce99a627cbdc73edec20992763",
+  "slug": "will-denmark-be-top-5-in-the-world-happiness-report-2027"
  },
  "0xfb3532bd824ac888afbb8f9856ed8f604a229830a304ff86e537df4e1018b183": {
   "created_at": "2026-08-24T16:35:58.521685Z",

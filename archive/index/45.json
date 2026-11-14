@@ -174,6 +174,15 @@
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-celtics-vs-trail-blazers"
  },
+ "0x16405ae6dbcca2d5ed2e2dac4437d3f04612cd0c944efe333e9305360817d545": {
+  "created_at": "2026-11-14T00:31:30.491379Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Finland be 1st in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "66b65aa8021402fa5ad3b63785552e1db947e78403c42a65c79972ed5d5f615d",
+  "slug": "will-finland-be-1st-in-the-world-happiness-report-2027"
+ },
  "0x1cad7d739b4bedb7af701fa0399bb90b0eae11190c80007553c2ee5ec6d40445": {
   "created_at": "2026-08-07T20:32:20.500076Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -399,6 +408,15 @@
   "revisions": 1,
   "sha256": "bcfe356a6919de657f2cbc31ddcff0ea35448a3def4b2ebb3e0cf7c905664af7",
   "slug": "will-julian-lopez-galeana-win-the-2027-guerrero-governor-election-20260803173852848"
+ },
+ "0x40384ddaa25c0178b8d58ff020d4b988e783c4f4917c04a06789344833283245": {
+  "created_at": "2026-10-18T09:00:08.931474Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 2 - 4 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-2-4"
  },
  "0x431c1b35e119a3b0160bcb52ee3aef69dc54df15befb8c2607da06743ab9df45": {
   "created_at": "2026-10-10T11:30:44.708913Z",

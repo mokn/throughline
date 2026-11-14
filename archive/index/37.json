@@ -8,6 +8,15 @@
   "sha256": "139ed31ff18249b4b2124d8035769fa3318c82ac855e2431283b33c0056263e1",
   "slug": "will-go-ahead-eagles-finish-3rd-in-eredivisie-2026-27"
  },
+ "0x012ef8c5e30ca398c39562d4beeb429afb64e6425c9d16de9bcdd81a79427137": {
+  "created_at": "2026-11-14T02:42:19.69235Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 24, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-24-2026"
+ },
  "0x01eec932778862439eb677f255c9b2ca560fe83cc1d7369b3e80a25e0e7f5b37": {
   "created_at": "2026-10-02T23:00:12.406444Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -226,6 +235,15 @@
   "sha256": "f2c95d155b32a38031897871c0fd003d30c0ee38efa0bd4409538a6540444717",
   "slug": "will-donald-trump-endorse-donald-trump-in-the-2028-us-presidential-election-20260727201017696"
  },
+ "0x20226ad9827ddc932cb96d6e5a28bf068ee888f2326fa7c0022049a0789a1837": {
+  "created_at": "2026-11-14T02:42:17.649187Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 21, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-21-2026"
+ },
  "0x2050bd8a858ca6c32e43e9ac1aa9fcd17f3945e5b40548e0f6cf01ae33421737": {
   "created_at": "2026-10-13T15:48:32.440184Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -385,10 +403,10 @@
  "0x37e096d936f0ba89f506cf7bb8f78e25bbe7d51b7119c4f0367f50616279b637": {
   "created_at": "2026-10-25T04:01:50.530243Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (HIGH) $160 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-reach-160-in-november-2026"
  },
  "0x3851a94b63163f065fcf1165fd09412b5f6bc9fb8d2bf7e40e782b07b3056d37": {
@@ -851,6 +869,15 @@
   "revisions": 1,
   "sha256": "ac378837f2991f77d027b92f22390d33ba097e0ba9469f60fae13ad0583fd131",
   "slug": "kraken-ipo-closing-market-cap-above-18b"
+ },
+ "0x800bf287e0b3f3f412ed717a59e9fb1f874357d0341e306eefc3d2808364a137": {
+  "created_at": "2026-11-14T02:44:23.551179Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Panama Canal be 26+ on December 31?",
+  "revisions": 1,
+  "sha256": "69fbb1d3266ef9c4c1efd076d128e7794e5946673d3443de563863e16208bc4b",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-26-on-december-31"
  },
  "0x82b7da93a66790027b48e73cff250492ece87b6bfd48e680278f4fee75433737": {
   "created_at": "2026-01-30T13:00:06.309699Z",

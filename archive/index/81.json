@@ -836,6 +836,15 @@
   "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
   "slug": "will-bernie-sanders-announce-a-presidential-run-before-2028-20260803143241632"
  },
+ "0x7ec4bfce8923e29fa133e9f059e50b4f9c3ae08a437d7b7106113f5a7596fc81": {
+  "created_at": "2026-10-18T09:00:08.404315Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 3 - 1 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-3-1"
+ },
  "0x7f50ddd9d01015889f02fc0a588c7a28cad0605397baacddf9aa67fd6e8f8481": {
   "created_at": "2026-11-12T00:30:40.910699Z",
   "first_seen": "2026-11-12T15:15:16Z",
@@ -1590,6 +1599,7 @@
   "created_at": "2026-09-02T20:27:28.25137Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will it snow in Boston, MA by November 30?",
   "revisions": 1,
   "sha256": "ce1208b0ecd3159f15f2343b03e4583d8aae51e5bf362f21d4843ba6f1f11da0",

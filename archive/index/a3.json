@@ -17,6 +17,15 @@
   "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
   "slug": "por-est-csm-2026-11-08-exact-score-0-0"
  },
+ "0x07f27aa6c824ca7a94715fcacf9bf4776d89cc2d56d8fb9f757a48bd6aedf3a3": {
+  "created_at": "2026-11-14T02:43:16.806525Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Next Mythos Model (5.3+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "64826c4a7e4c3c6da03c640c61e32575c6805b47030ca79d85b59f1de12201cb",
+  "slug": "next-mythos-model-5pt3-released-by-january-31-2027"
+ },
  "0x08f285816658a8da78924449e16f0b4cbcfcfee4dfc9ac77daa4477f04ec6ca3": {
   "created_at": "2026-10-01T14:00:59.429942Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1098,6 +1107,15 @@
   "revisions": 1,
   "sha256": "32a94156792bdd186bd89f1336fed358178976b3bff69f78cc486b1853252c10",
   "slug": "will-the-atlanta-falcons-finish-the-2026-27-nfl-regular-season-with-the-best-record"
+ },
+ "0xb7ff2630b3bd16046fa561477f49e40b63a82b14a2dea8daa7553781460a2da3": {
+  "created_at": "2026-11-14T00:31:34.39834Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Israel be 1st in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "66b65aa8021402fa5ad3b63785552e1db947e78403c42a65c79972ed5d5f615d",
+  "slug": "will-israel-be-1st-in-the-world-happiness-report-2027"
  },
  "0xb8a8833f60836f1a4860727dfebed0cb0fc59a6f9cd22ec840a2e7f6a7dbb2a3": {
   "created_at": "2025-12-14T21:15:22.577788Z",

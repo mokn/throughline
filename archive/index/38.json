@@ -2,10 +2,10 @@
  "0x00a3ef8d665f7b2e09fc01a1150e986540926471e73739f3e968d32d0d404338": {
   "created_at": "2026-10-25T04:01:51.463205Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (HIGH) $110 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-reach-110-in-november-2026"
  },
  "0x00db2b7ce1e0da8b5de9022ccda18c672fbce05ac21933a0f3cd6fc034c7cc38": {
@@ -1441,6 +1441,7 @@
   "created_at": "2026-08-11T18:50:07.707218Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 SD-AL House election by 25%-30%?",
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",

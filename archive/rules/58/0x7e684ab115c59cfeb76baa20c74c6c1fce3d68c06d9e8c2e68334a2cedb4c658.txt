@@ -1,0 +1,19 @@
+The FED interest rates are defined in this market by the upper bound of the target federal funds rate. The decisions on the target federal funds rate are made by the Federal Open Market Committee (FOMC) meetings.
+
+This market will resolve according to the decisions made by the next three Federal Open Market Committee (FOMC) meetings: December 8 to 9, 2026; January 26 to 27, 2027; and March 16 to 17, 2027.
+
+A qualifying cut occurs when the new upper bound of the target federal funds rate is lower compared to the level it was prior to the respective meeting.
+
+A qualifying hike occurs when the new upper bound of the target federal funds rate is higher compared to the level it was prior to the respective meeting.
+
+A qualifying pause occurs when the new upper bound of the target federal funds rate is equal to the level it was prior to the respective meeting.
+
+If the Fed publishes a different combination than any listed, this market will resolve to "Other".
+
+Emergency rate moves are explicitly excluded from this market. Any hike or cut to the target federal funds rate announced outside the three regularly scheduled meetings listed above, including at any unscheduled or emergency FOMC meeting, will not be considered and will not count as one of the three decisions. Each scheduled meeting's decision is measured against the upper bound in effect immediately before that meeting, including any emergency change made since the previous meeting, regardless of whether the scheduled decision reverses an emergency change.
+
+The resolution source for this market is the FOMC’s statement after its meetings:
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+
+The level and change of the target federal funds rate is also published at the official website of the Federal Reserve:
+https://www.federalreserve.gov/monetarypolicy/openmarket.htm

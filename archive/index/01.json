@@ -314,6 +314,7 @@
   "created_at": "2025-10-13T19:14:00.621692Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Jessica Faircloth win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",
@@ -354,6 +355,15 @@
   "revisions": 1,
   "sha256": "d1b241b21fdd5edc650897b0621d2911e86c50ff6741a7a442c98e57c928ff47",
   "slug": "el1-not-bla-2026-09-26-corners-first-half-total-4pt5"
+ },
+ "0x418f6ed68b25f8a7e637a9612b8c4cad17d8d589290421b8c24eea5709bd4a01": {
+  "created_at": "2026-11-14T06:19:53.440246Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Anthropic open at $120 or more on its first trading day?",
+  "revisions": 1,
+  "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
+  "slug": "anthropic-ipo-opening-price-120-plus"
  },
  "0x441daa1def04a637ebaf3950950cf7b1dd75d7d486309d764cb4b35b983f5b01": {
   "created_at": "2026-09-14T20:21:18.271377Z",
@@ -1134,6 +1144,15 @@
   "revisions": 1,
   "sha256": "111336de8feb5c999038c999c7c6fabe6f5fa65860ada0cd16ed79b1170d20e8",
   "slug": "caleb-williams-3624pt5-passing-yards-2026-27"
+ },
+ "0xc9a1ad63417ca1c80e1768ae92c9a0b36d7f71a9c85df4320ebe7dcd9ea82901": {
+  "created_at": "2026-11-14T02:42:01.08387Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Next Gemini Hydrogen (4.1+) released by December 15, 2026?",
+  "revisions": 1,
+  "sha256": "c8cf5c7f24658987b8f477beb51e2f52eec781ec9e7b20f7bb3573e26b239492",
+  "slug": "next-gemini-hydrogen-4pt1-released-by-december-15-2026"
  },
  "0xc9df60c209b6b867724774fd35122677db689adefba7bfc45b620431f11fbb01": {
   "created_at": "2026-09-09T15:48:23.471976Z",

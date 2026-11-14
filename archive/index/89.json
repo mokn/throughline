@@ -788,6 +788,15 @@
   "sha256": "013bb72b3754d8a1e60b74a22948632af43b8c67d7b1a1ec06cafc3b06aea4e1",
   "slug": "will-josh-hokit-be-the-ufc-heavyweight-champion-on-december-31-2026"
  },
+ "0x6f0235f27eea21811347ede7a45c2ad93c564852e2bc9158b2adf6420da49c89": {
+  "created_at": "2026-11-14T02:42:13.983392Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 17, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-17-2026"
+ },
  "0x6f3f1cbec6982c1f470a7610fc35fb85e7596bb13a68da3b5a7ff71383707789": {
   "created_at": "2026-10-15T13:17:00.69606Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -841,6 +850,15 @@
   "revisions": 1,
   "sha256": "ace12752cfb866187e08cd8d839865369bec6e84fb2af8616cd7828da255974b",
   "slug": "will-manchester-city-be-deducted-20-29-premier-league-points"
+ },
+ "0x78d597a99663cf36b8b68ca77a04b2a29fe6de01be1396f7c6b489a65765ee89": {
+  "created_at": "2026-11-14T02:35:54.506095Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "0 ships transit Bab el-Mandeb on any date by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "233e384d04d73663c5dbf2aa10a78f66c14af2cf4c014e186c234285c1a01142",
+  "slug": "0-ships-transit-bab-el-mandeb-on-any-date-by-march-31-2027"
  },
  "0x7ce5615748fa8d5cdc39a861b8f875fe0a4a6ebcb91fce8f7fa19bccbd1dd189": {
   "created_at": "2026-09-04T16:01:30.441331Z",
@@ -1336,6 +1354,7 @@
   "created_at": "2026-11-09T22:28:10.046427Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Oliver Glasner be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",

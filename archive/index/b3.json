@@ -1487,6 +1487,15 @@
   "sha256": "6d2cbfdb3e25d08084a9131f0134523a6566ff34eecefa2844772829a709e03b",
   "slug": "will-gbpusd-hit-1pt40-high-in-2026"
  },
+ "0xf43b05d24057a31d1df04ee193fb458d0b3ace7e7ca1ebf9ffc879251c3cf1b3": {
+  "created_at": "2026-10-18T23:30:35.877792Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "90d9e811c2368ea21e69a59f1463017bc410416a87094feda7b91f16d0f8c72f",
+  "slug": "scop-dun-hmi-2026-10-31-first-half-total-4pt5"
+ },
  "0xf4e9f4bda9fe9877d0e004ee7f4973ff9a574d57151b393e28dcdfa8e4dc8eb3": {
   "created_at": "2026-01-28T04:52:56.564056Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1528,6 +1537,7 @@
   "created_at": "2026-08-05T20:57:37.801566Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota gubernatorial election by 40%-45%?",
   "revisions": 1,
   "sha256": "e93d567dbb7779d2a0c253b56a777bccb3108683a148401da8a8aa1ab2669d85",

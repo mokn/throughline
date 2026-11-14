@@ -291,6 +291,15 @@
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
   "slug": "will-jensen-huang-join-meta-next"
  },
+ "0x20e91e07f2de8708f14e5d867e3a1380c70638ab8ef0bc2c10209240bea076c0": {
+  "created_at": "2026-11-14T03:05:08.025592Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Sudan join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-sudan-join-the-mecca-agreement-by-december-31-2027"
+ },
  "0x213b3129c3b2715c8b49d1c9c602bf666a31885f9307134cbeb33e02c837efc0": {
   "created_at": "2026-11-12T20:22:12.456794Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1222,6 +1231,7 @@
   "created_at": "2026-08-05T16:30:54.717505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will an Independent candidate win the 2026 South Dakota Senate election?",
   "revisions": 1,
   "sha256": "2b8781933d980c5819e6c3cced6a53109d9b03a502e3f93d4f4ca8de133cb06e",

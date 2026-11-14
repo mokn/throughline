@@ -149,6 +149,7 @@
   "created_at": "2026-11-09T22:28:07.540861Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will David Moyes be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -945,6 +946,15 @@
   "revisions": 1,
   "sha256": "10e5762ef0310362644946e0461e8a5438663600ebb1e523d4c0c1bcb715c500",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-25-house-election-by-10-15"
+ },
+ "0x897cd513457a980a2e831609d6fbc276e795acf7500f40c6f47e3e09099ee87a": {
+  "created_at": "2026-11-14T02:42:17.075195Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 20, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-20-2026"
  },
  "0x89a64ac1df91ca30322a776c3d9a0a41bb8119854f5328e888797d2603d8577a": {
   "created_at": "2026-09-08T16:52:47.254437Z",

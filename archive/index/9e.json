@@ -196,6 +196,7 @@
   "created_at": "2026-08-05T16:30:53.337367Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota Senate election by 25%-30%?",
   "revisions": 1,
   "sha256": "2b8781933d980c5819e6c3cced6a53109d9b03a502e3f93d4f4ca8de133cb06e",
@@ -381,6 +382,15 @@
   "revisions": 1,
   "sha256": "a62579b8e674306f8cb127454de3d175b8e5bf3d7846364610e4424b61bba7db",
   "slug": "will-yussuf-poulsen-win-the-2026-27-bundesliga-player-of-the-season-award"
+ },
+ "0x43395f8065f66f4c8c13ebd5f67a36c0c09ca0d45df20f8af6a9eb74cb6f389e": {
+  "created_at": "2026-11-14T02:43:04.059807Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Next Fable Model (5.3+) released by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "12e4b2e8fc564afe047580eede126267e70ca2f6a2df3012a38609b1a7ad8ebe",
+  "slug": "next-fable-model-5pt3-released-by-december-31-2026"
  },
  "0x472c321e3a00bbeb1cc64efaf1c5c02058dea60abf6d93020cace5db9235199e": {
   "created_at": "2026-01-28T15:37:49.160964Z",

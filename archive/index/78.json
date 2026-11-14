@@ -1109,6 +1109,15 @@
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-damian-lillard"
  },
+ "0xa7d73a0deb74af58f0d4d4ec7d73e74faab64b4ef2d9ec1085f425d0eb9b5e78": {
+  "created_at": "2026-10-18T23:30:37.763684Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Heart of Midlothian FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "67dcce0ccbdee616217f7b38c830416988e23a9b38c723a458dfdc802ada73c4",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-away-5pt5"
+ },
  "0xa886ff2be0298d21158e56e52ac7ba7916bd991707921569bcced66f55d63478": {
   "created_at": "2026-10-03T15:44:20.267648Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1553,6 +1562,15 @@
   "revisions": 1,
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
   "slug": "f1-las-vegas-grand-prix-practice-3-fastest-lap-alexander-albon-2026-11-20"
+ },
+ "0xfbc1ec38eecc9039ff28d79521e982b04e2736ff6cb1a30a6aa75da895109f78": {
+  "created_at": "2026-11-14T02:42:44.073401Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Gemini Helix released by December 15, 2026?",
+  "revisions": 1,
+  "sha256": "3b80a5986b80c6c60044a91a3cbd10c4dfed6f098f9ff673b1d61fa55d8a0403",
+  "slug": "gemini-helix-released-by-december-15-2026-20261113"
  },
  "0xfe438f17037fd476a1f124915b1025091891cd027facd728957865c81cba3678": {
   "created_at": "2026-08-24T16:32:12.666248Z",

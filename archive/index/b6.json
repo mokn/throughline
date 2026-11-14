@@ -831,6 +831,7 @@
   "created_at": "2026-11-11T00:51:24.397346Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Gemini Hydrogen debut in the top 10 of the Text Arena leaderboard by June 30, 2027?",
   "revisions": 1,
   "sha256": "da55b0032c9b8da270ff2d47214b7a391418f22bc93481b6c064f4122f8f9343",
@@ -840,6 +841,7 @@
   "created_at": "2026-08-11T15:07:32.728146Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Republicans win the Alaska Governor election and Democrats win the Alaska Senate election?",
   "revisions": 1,
   "sha256": "0cdea5b6be3668b029eba9233bcdb274f2296d42713ff5911e1f0fbc85f0af56",
@@ -935,6 +937,15 @@
   "revisions": 1,
   "sha256": "1504c2cebcd81c6fe62692d5ba57627d1739b307cef154e114ea019bb63f2a76",
   "slug": "will-the-democratic-party-candidate-win-the-2026-pa-09-house-election"
+ },
+ "0x980a48e323370b32a982c6c876c5878bd87c732db9955e9de6b012803c82c5b6": {
+  "created_at": "2026-11-14T06:19:52.428524Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will 800M to 1B Anthropic shares trade on IPO day?",
+  "revisions": 1,
+  "sha256": "73d1571543e21022da39c5ed6255acc51b276a64c48ac155fb9706887f31472f",
+  "slug": "anthropic-ipo-day-volume-800m-1b"
  },
  "0x9a1f3a147b780678511502990e302509b67a6f2590abcc70697c9af196f8abb6": {
   "created_at": "2026-09-02T18:49:01.339167Z",
@@ -1190,6 +1201,15 @@
   "revisions": 1,
   "sha256": "5615060b8b1958a6b4f897878330c4d518140b5ae8053dfa86e4c5396e31b003",
   "slug": "will-strc-hit-100-by-november-30-2026"
+ },
+ "0xbb8b47d6ff64a8cab0679b18591d59947731af49c1c00803ef16097d998a1ab6": {
+  "created_at": "2026-10-18T23:30:34.508828Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: O/U 6.5",
+  "revisions": 1,
+  "sha256": "993765d23ba612efdbba339ff11b9c26f16b4f2892fe1c8cd89e338cf80eb16c",
+  "slug": "scop-dun-hmi-2026-10-31-total-6pt5"
  },
  "0xbbb34844d8c4426aac1e1bb3dca05e7812891632ccb102c86adacfcf93db44b6": {
   "created_at": "2026-09-27T20:17:40.476709Z",

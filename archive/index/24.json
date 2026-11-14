@@ -884,6 +884,15 @@
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-xun-have-the-most-kills-at-worlds-2026"
  },
+ "0x7bf30c90ce5061e0754a591db427bed6f9c037e04cb2e84737f98592902df924": {
+  "created_at": "2026-10-18T23:30:34.812807Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: O/U 8.5",
+  "revisions": 1,
+  "sha256": "db057967b01b37a013ad4741d67d095582be10e6d2a72bb7fa658e2a34b440b5",
+  "slug": "scop-dun-hmi-2026-10-31-total-8pt5"
+ },
  "0x7c8974670725ffeb3858f6c198735b434cff8c1afb865773ce312ecc270a0b24": {
   "created_at": "2026-02-06T22:38:03.776102Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1202,6 +1211,15 @@
   "revisions": 1,
   "sha256": "32130d3359e5512ee4d3cec3ea4f143f3d1815af1349c195881c65746bae1945",
   "slug": "will-ellis-robinson-iv-be-the-first-overall-pick-in-the-2027-pro-football-draft"
+ },
+ "0xa7e5962547a2104c5c1d308a78881b05890e5df18e778484b1e6a3bd7e6df224": {
+  "created_at": "2026-11-14T02:42:11.276842Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 15, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-15-2026"
  },
  "0xa9f3e22b992b1ae04f42a0c9cdac5972b067f66aff52ccbe2d8606287e53d824": {
   "created_at": "2026-08-24T16:38:39.558715Z",

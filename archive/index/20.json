@@ -637,6 +637,15 @@
   "sha256": "de61c5accaa11cd09457f7e45640d967991b4247bd058aa5adbd16867ca2057f",
   "slug": "will-tyrese-haliburton-be-named-to-the-2027-all-nba-first-team"
  },
+ "0x607fb974de6bebe279f0bcaa7124b3dcbcaf96505447680825dc863e57d27d20": {
+  "created_at": "2026-11-14T02:32:19.939407Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Strait of Hormuz traffic returns to normal by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "96deb9d4296d0e1825102fdafa5b2ee58df8eac1d2ecf194367238cf8bd3523e",
+  "slug": "strait-of-hormuz-traffic-returns-to-normal-by-march-31-2027"
+ },
  "0x63df57b991d00659bb11d564e0c9e7ddbe51ae736313712a7bc9752034534720": {
   "created_at": "2026-09-20T08:44:09.465695Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -980,6 +989,15 @@
   "revisions": 1,
   "sha256": "52ba84dfb2c136c03b450f9b654d32fd80ae202c038e113ea8b65fbf15c4de3f",
   "slug": "will-darnell-washington-be-the-highest-scoring-te-of-the-2026-27-nfl-season-20260806224131181"
+ },
+ "0x8ee15fc1a6c07e71adb2738d657c0eb8be713ed5fbd42b3a0b07665c9bf3d020": {
+  "created_at": "2026-11-13T20:12:23.052414Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Republicans win South Carolina in the 2028 Presidential Election?",
+  "revisions": 1,
+  "sha256": "ef2b1ec96e4ac8126ceb443f2f2ec30b802432bf08f864cee34919c3afd35949",
+  "slug": "will-the-republicans-win-south-carolina-in-the-2028-presidential-election"
  },
  "0x8fe223371448e19a28bfeb831a4dc2eae39171336a885a561417c900faf5b420": {
   "created_at": "2026-11-03T19:35:42.799316Z",
@@ -1344,6 +1362,15 @@
   "sha256": "87c8d3ffb40a298a9b295c6cc6bb1211bf70d5fed9fe35cb5b03f68c185fcb9a",
   "slug": "will-chris-minns-be-the-next-premier-of-new-south-wales"
  },
+ "0xc01b5cac09d60361beb4d303abe1509b482f4347c1effbc60f422e07b1b9ad20": {
+  "created_at": "2026-10-18T23:30:34.04951Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: O/U 3.5",
+  "revisions": 1,
+  "sha256": "e0ed262140f8a6ce09cf79ce8826867b2a4494e38a65cbf240fbc814626897b8",
+  "slug": "scop-dun-hmi-2026-10-31-total-3pt5"
+ },
  "0xc181ec8cf85b160523587c47d2de6291c9f2c3ab1c6312923ce354302d09f420": {
   "created_at": "2026-09-27T20:09:40.987289Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1669,6 +1696,7 @@
   "created_at": "2026-08-11T18:50:09.507664Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Democratic Party candidate win the 2026 SD-AL House election?",
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",

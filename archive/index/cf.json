@@ -208,6 +208,15 @@
   "sha256": "71feab172cb5b8f43c61e55f8c1ead31d0ba0092be46664bc827fd48ea9606e7",
   "slug": "will-crb-be-promoted-to-brazil-serie-a-2026"
  },
+ "0x21403c0645297a2ecf3fce44de97c25f48e15d4005e7d2486013a0580eb665cf": {
+  "created_at": "2026-11-14T02:34:07.379574Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Strait of Hormuz traffic return to normal in January 2027?",
+  "revisions": 1,
+  "sha256": "0a6effd93d98b75658698a817279d6bb7e9cb20a0c90792423d54bfcbc9e6e75",
+  "slug": "will-strait-of-hormuz-traffic-return-to-normal-in-january-2027"
+ },
  "0x21427df6bd270fbc9fbedc6e160546fabf12350607fb82a87168b8e8fb97b0cf": {
   "created_at": "2026-05-19T18:11:11.45068Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -568,6 +577,15 @@
   "revisions": 1,
   "sha256": "406e5982512d752d8d29bbbfd79b7e581c2a6460702606c02917c93883c730b1",
   "slug": "will-sergio-perez-win-the-2026-action-of-the-year"
+ },
+ "0x5c51373276f2579442be41fd7570c775f2aa72f64149ed2bc151fb57ad4746cf": {
+  "created_at": "2026-11-14T00:31:30.394084Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Finland be 2nd in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2bcc69ba8991c8a71be8359e69398193ff07efba786c086d2a0dba16bae8abf5",
+  "slug": "will-finland-be-2nd-in-the-world-happiness-report-2027"
  },
  "0x5db298c3eb2494ea93af51327e1421b8b7ddf04b43dcfe0516e39c67e48227cf": {
   "created_at": "2026-08-10T23:56:21.83191Z",
@@ -1324,6 +1342,15 @@
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
   "slug": "will-talleres-c-keep-the-most-clean-sheets-in-liga-profesional-argentina-2026"
  },
+ "0xdf5ac3a69612cc59c71c77e391674c84941d0e1e7b4dee18ac79b8f6a6baf9cf": {
+  "created_at": "2026-10-18T09:00:06.981226Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC leading at halftime?",
+  "revisions": 1,
+  "sha256": "2f504ba833e98661f2ac58c8a486708c67521fae4d8849c25020eb9526ac4cdb",
+  "slug": "scop-dun-hmi-2026-10-31-halftime-result-home"
+ },
  "0xe0c4e638e6618333bf01b25ae594cba684624d38edfa7f424eb5225458c33ecf": {
   "created_at": "2026-08-24T16:40:24.660794Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1417,10 +1444,10 @@
  "0xe99d3675e351726917d47335ca1c362525805b8493fa71c0b6f438088978a5cf": {
   "created_at": "2026-10-25T04:01:52.417564Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (LOW) $60 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-dip-to-60-in-november-2026"
  },
  "0xedbbd33d5379c36e876d733392c1b3f83b6235b49139e8a156d8f50ee8107dcf": {

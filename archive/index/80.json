@@ -664,6 +664,15 @@
   "sha256": "0aba46a10a8e08371f434af405f7f583a7e84dba8ef34c99f7df70b10b93f519",
   "slug": "will-saeed-jalili-be-head-of-state-in-iran-end-of-2026"
  },
+ "0x6d7af21873601ec56ae33d86408e7cc15b04b1397954591a24d49a8d868e3180": {
+  "created_at": "2026-11-14T00:31:31.669015Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Iceland be 1st in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "66b65aa8021402fa5ad3b63785552e1db947e78403c42a65c79972ed5d5f615d",
+  "slug": "will-iceland-be-1st-in-the-world-happiness-report-2027"
+ },
  "0x6d9e4d661745737139a7169af279e438d4794942407f765e2f64ad73e7e59180": {
   "created_at": "2026-08-12T00:18:01.726568Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -732,6 +741,7 @@
   "created_at": "2026-08-05T20:57:38.278319Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota gubernatorial election by 30%-35%?",
   "revisions": 1,
   "sha256": "e93d567dbb7779d2a0c253b56a777bccb3108683a148401da8a8aa1ab2669d85",
@@ -1483,6 +1493,15 @@
   "sha256": "ca1782a77322d8471b9d1d04a14fb31e7c59a5f6999b0fb45d24adf5c0357d09",
   "slug": "will-tessa-thompson-his-and-hers-win-best-actress-limited-series-at-the-84th-golden-globes"
  },
+ "0xee34baf463569a9e658fd8833b4f0779d95c0adb040767b74b3408e21043b780": {
+  "created_at": "2026-11-14T03:00:33.587458Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Tom Homan leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-tom-homan-leave-the-trump-administration-before-2028"
+ },
  "0xeead8936fac3b89ea62c7385ef06d9d2d0e4150ba6625571b61d3a7bed97f980": {
   "created_at": "2026-08-11T18:49:51.894227Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1505,10 +1524,10 @@
  "0xf1e634e41344ed4eeca54a99f9db6396cc7c235bccc732f98f2d035d2fc43080": {
   "created_at": "2026-10-25T04:01:52.042394Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-dip-to-80-in-november-2026"
  },
  "0xf1f62992ec6080bb82206dc8f9213b7ee2fc356967c6eb307cec5afa7f954b80": {

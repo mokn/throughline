@@ -1,8 +1,8 @@
-This market will resolve to "Yes" if, at any point after market creation and during a trading session of November 2026, any Pyth 1-minute candle for the Active Month of ICE Futures Europe WTI Crude Futures (denoted by Pyth as "CLL") has a final "High" or "Low" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, this market will resolve to "No".
+This market will resolve to "Yes" if, at any point after market creation and during a Pyth market session of November 2026, any Pyth 1-minute candle for the Active Month of ICE Futures Europe WTI Crude Futures (denoted by Pyth as "CLL") has a final "High" or "Low" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, this market will resolve to "No".
 
 Prices will be used exactly as published by Pyth, without rounding.
 
-Only prices achieved during an applicable trading session of the specified timeframe's business days will be considered (See: "Trading Hours" at https://www.ice.com/products/213/WTI-Crude-Futures). The trading session for a given business day typically begins at 8:00 PM ET on the prior calendar date, except for the session dated Monday, which begins at 6:00 PM ET on the preceding Sunday, and where modified by holiday or other special hours (See: https://www.ice.com/holiday-hours).
+Only prices achieved during the Pyth market session on the specified timeframe's business days will be considered. The Pyth market session for a given business day can be seen under "Schedule" in the "Data Coverage" section of the respective CLL price feed on Pyth (See: https://app.pyth.com/explore?search=CLL), and may be modified for holiday or other special hours.
 
 The Active Month is the nearest listed contract, except during that contract's final three trading sessions. At the open of the third-to-last trading session, the next listed contract becomes the Active Month.
 
@@ -10,7 +10,7 @@ Each contract's last trading day will be determined by ICE Futures Europe per th
 
 For example, if the last trading session for the nearest listed contract is the session for Monday the 20th, the next listed contract would become the Active Month at the start of the trading session for Thursday the 16th (8:00 PM ET on Wednesday), assuming a standard trading calendar.
 
-If the relevant Pyth data is unavailable due to a system outage, data failure, or other disruption that prevents verification of the required 1-minute candle data, the official daily high/low price published for the Active Month WTI Crude Oil Futures contract by ICE Futures Europe may be used to determine whether the listed price was reached during the applicable trading session (See: https://www.ice.com/report/10 with "T-West Texas Intermediate Light Sweet Crude Future" selected).
+If Pyth data is unavailable during the Pyth market session due to a system outage, data failure, or other disruption that prevents verification of the required 1-minute candle data, the official daily high/low price published for the Active Month WTI Crude Oil Futures contract by ICE Futures Europe may be used to determine whether the listed price was reached during the Pyth market session (See: https://www.ice.com/report/10 with "T-West Texas Intermediate Light Sweet Crude Future" selected). The scheduled close of the Pyth market session does not constitute a system outage, data failure, or other disruption, and the ICE Futures Europe daily high/low will not be used to account for prices after this close.
 
 In the event of a contract specification change, feed change, or similar structural modification affecting the underlying market during the listed time frame, this market will resolve based on adjusted prices as displayed on Pyth.
 

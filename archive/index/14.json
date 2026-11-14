@@ -8,6 +8,15 @@
   "sha256": "da018d7b339ac61dc0af17f291f4a863485610c945791eaf4b554869d377bee8",
   "slug": "will-solana-dip-to-30-by-december-31-2026-from-june-8-181"
  },
+ "0x0302bc124bcf8767e103147a4e97da00eea8ede79643361b4fa06321731eef14": {
+  "created_at": "2026-11-14T03:05:01.223174Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Bahrain join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-bahrain-join-the-mecca-agreement-by-december-31-2027"
+ },
  "0x042a712f74fb759c5eec43cdd1a70dd00d33671ff15fa70b4d47a559cc213f14": {
   "created_at": "2026-05-19T04:27:17.143222Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1142,6 +1151,7 @@
   "created_at": "2026-11-09T22:28:09.056953Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Erik ten Hag be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -1520,6 +1530,15 @@
   "revisions": 1,
   "sha256": "40e6e904ed69f0b94d8d136fb4922ad0721564306cb9a647dd42ea5a27444d7c",
   "slug": "will-john-lucian-goins-reach-the-semifinals-of-the-2027-ppa-tour-finals"
+ },
+ "0xf2dafdc3f57744497d64f24f41031c8196fdd1ffbdccb880a276e542a7311714": {
+  "created_at": "2026-10-18T23:30:34.665575Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: O/U 7.5",
+  "revisions": 1,
+  "sha256": "d40a6ceb501f497c80c9056a7c853703fb528328a1b8cf82409c043218621d08",
+  "slug": "scop-dun-hmi-2026-10-31-total-7pt5"
  },
  "0xf3233e77832338177410986689dfda8d256e0b9ae39991971dbe188c3330fc14": {
   "created_at": "2026-08-11T18:25:25.237591Z",

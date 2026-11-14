@@ -633,6 +633,7 @@
   "created_at": "2026-11-09T22:28:02.541531Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Ole Gunnar Solskjaer be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -647,6 +648,15 @@
   "sha256": "4236e487a0806df06985efe3818609cd3dad71c7d2747eb5c2e056b2b6417d27",
   "slug": "jaylen-warren-799pt5-rushing-yards-2026-27"
  },
+ "0x6f8fb8d8d4534f8426652086ae3f0940f315765b92a4b2125dec61000cfde843": {
+  "created_at": "2026-11-14T00:31:32.232702Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Netherlands be top 5 in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "788daf632993c30c4b220c561b635050bd412bce99a627cbdc73edec20992763",
+  "slug": "will-netherlands-be-top-5-in-the-world-happiness-report-2027"
+ },
  "0x7023b175fa7eb9ec3d25f5d08738b28f9ec195d6f8c0fdb97d1ecfdff86ce643": {
   "created_at": "2026-10-14T13:24:00.070184Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -660,6 +670,7 @@
   "created_at": "2026-08-05T16:30:52.539839Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota Senate election by 40%-45%?",
   "revisions": 1,
   "sha256": "2b8781933d980c5819e6c3cced6a53109d9b03a502e3f93d4f4ca8de133cb06e",

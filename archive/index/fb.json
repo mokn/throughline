@@ -358,6 +358,15 @@
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-wout-weghorst-score-the-most-goals-in-the-2026-27-uefa-conference-league"
  },
+ "0x34ac5b7f812e8edd5207ea4efcf6763c1bb788b22d08e429bfc64bc82b320afb": {
+  "created_at": "2026-10-18T23:30:33.753479Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: O/U 1.5",
+  "revisions": 1,
+  "sha256": "cf2d50636b68d998227006691bc8ac6aba5f85e6e7601eaf339ffb73638e7b54",
+  "slug": "scop-dun-hmi-2026-10-31-total-1pt5"
+ },
  "0x35f34fa843965d9e77990d0539d6ebc447a9a5927415d136f5100107bf334efb": {
   "created_at": "2026-08-10T23:57:49.887912Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -411,6 +420,15 @@
   "revisions": 1,
   "sha256": "81bfc9c54ba54ca62b54f623b7d1bdfbdaf73fe5b1e5bf12250cbd71326d2010",
   "slug": "will-brentford-record-48-or-more-points-during-the-2026-27-english-premier-league-season"
+ },
+ "0x3c84eabb9aa29c11d61153071498ba954beeca2d493c290bb45a9c53f3060efb": {
+  "created_at": "2026-10-18T23:30:32.314343Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Spread: Dundee United FC (-2.5)",
+  "revisions": 1,
+  "sha256": "80842c1beaca1dd929fed2a349f2b0e7eeb737e6faeae5bc3d7844ce36c629aa",
+  "slug": "scop-dun-hmi-2026-10-31-spread-home-2pt5"
  },
  "0x3d4b260898e3c01c9a8e88763573ecf4322814287b91b381601eff14c6554ffb": {
   "created_at": "2026-08-05T20:21:08.90237Z",
@@ -1300,10 +1318,10 @@
  "0xbec998b4af0604855dd7a7d4f139c09ee921ed47f0e075278c3090b3a279d6fb": {
   "created_at": "2026-10-25T04:01:52.796567Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (LOW) $40 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-dip-to-40-in-november-2026"
  },
  "0xc52ba82e39540efba699637cb087c51e80df36327baf4b2829f68e75aa3abafb": {
@@ -1328,10 +1346,20 @@
   "created_at": "2025-12-10T18:05:30.635251Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party hold fewer than 22 governorships after the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cb4a6d2db6b0e17d1f68fb1ebd345806a34632c9cd578e8c03fccd5d3ea36f4b",
   "slug": "will-the-republican-party-hold-fewer-than-22-governorships-after-the-2026-midterm-elections"
+ },
+ "0xc9508aa5828f88228f31f04d88dbb05edd34d357849f6a12d576499de5fc74fb": {
+  "created_at": "2026-11-14T06:19:51.145019Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will 500M to 650M Anthropic shares trade on IPO day?",
+  "revisions": 1,
+  "sha256": "73d1571543e21022da39c5ed6255acc51b276a64c48ac155fb9706887f31472f",
+  "slug": "anthropic-ipo-day-volume-500m-650m"
  },
  "0xd2fb730d363a665555d38ba97d857237c2553462c2338264c7f61c05197a47fb": {
   "created_at": "2026-07-24T01:52:31.548682Z",
@@ -1567,6 +1595,15 @@
   "revisions": 1,
   "sha256": "9ed5b147a9096e2aa18b854440f8078b25061ea80f9a26acde3b8151f6984d6a",
   "slug": "will-the-republican-party-candidate-win-the-2026-mi-02-house-election-by-15-20"
+ },
+ "0xf3c74f0285cab8b43223ee47cedaf2fd5261c3b46e0bc925064353dc3d83dffb": {
+  "created_at": "2026-11-14T02:32:21.852958Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Strait of Hormuz traffic returns to normal by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "96deb9d4296d0e1825102fdafa5b2ee58df8eac1d2ecf194367238cf8bd3523e",
+  "slug": "strait-of-hormuz-traffic-returns-to-normal-by-december-31-2027"
  },
  "0xf4d48163eadda3880a8572dce5e86c76d1404b2e54bead06a1896dedd9cffcfb": {
   "created_at": "2026-05-11T21:03:36.508498Z",

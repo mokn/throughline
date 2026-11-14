@@ -180,6 +180,15 @@
   "sha256": "7f1a461a69a9466d1779cc83fdae4a0e280062e7924a79d2f9304a7d490698b9",
   "slug": "will-byrum-brown-be-the-2026-d1-passing-tds-leader"
  },
+ "0x27ce2fe6452e02bbc4e767d77eae732b3999d8500268eb67a1adcf577b82c9bc": {
+  "created_at": "2026-11-14T02:40:18.857121Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz be 5+ on December 31?",
+  "revisions": 1,
+  "sha256": "1ca2b968413aed26c7ff7449407738599570eccfa038709e288e3b1783ce0067",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-be-5-on-december-31"
+ },
  "0x2915dc1f75d2e278fbc6348e99610242c62a4bae83c41a3180c16b7fbdd3d5bc": {
   "created_at": "2026-09-27T20:09:24.272346Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -683,6 +692,7 @@
   "created_at": "2026-10-01T16:30:42.455965Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will SpaceX Starship Flight Test 15 launch by November 15, 2026?",
   "revisions": 1,
   "sha256": "2cfeb4dfa69b8510525a5f8ae3b6906373fc638671e088cb691136b7cc9b38ec",
@@ -705,6 +715,15 @@
   "revisions": 1,
   "sha256": "6b55eede1b5c82c1ecedb31f7ecc7e8e00031e199c130f5f7d67ca5466155e00",
   "slug": "will-michael-win-best-motion-picture-drama-at-the-84th-golden-globes"
+ },
+ "0x82e134b72fce08606874eccfbe3844dcb1f5eed1f73ec222712205e36cb126bc": {
+  "created_at": "2026-11-14T02:41:06.396199Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait be 32+ on December 31?",
+  "revisions": 1,
+  "sha256": "2179cacc635c86150c8e454bdae8427476791fa7b1c722750d55060bc018bf87",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-be-32-on-december-31"
  },
  "0x83517f563fd97744b26c337fcea2dc6fe0743b229ba5f5cdb7ad6c96961436bc": {
   "created_at": "2026-09-27T20:11:52.561745Z",
@@ -805,6 +824,15 @@
   "revisions": 1,
   "sha256": "8b8f1560b45ffd6602a47edc06a9d0a7ccbfbddb76b9339559ab0e2247ded66d",
   "slug": "enl-scu-fgr-2026-10-03-spread-away-5pt5"
+ },
+ "0x96957a08d7c944781e95283ce6870c634d5576a5b5c8f33810d113afac4fe7bc": {
+  "created_at": "2026-11-14T02:34:18.497288Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Strait of Hormuz traffic return to normal in November 2027?",
+  "revisions": 1,
+  "sha256": "0a6effd93d98b75658698a817279d6bb7e9cb20a0c90792423d54bfcbc9e6e75",
+  "slug": "will-strait-of-hormuz-traffic-return-to-normal-in-november-2027"
  },
  "0x96c949597678892339dde0918f28906ac12f1334c0d6a539d7884c944b4b39bc": {
   "created_at": "2026-07-01T02:15:09.993928Z",

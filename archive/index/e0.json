@@ -777,10 +777,10 @@
  "0x73c01f73b3a23b9a5da8dc063ec729e694cb2d9980b9d3d535237c1bf81a3fe0": {
   "created_at": "2026-10-25T04:01:52.983987Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (LOW) $30 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-dip-to-30-in-november-2026"
  },
  "0x76c1a69f2b0a7fcfa97b56ddbeaad1981a8cb3d8f24c1adce62ffa2d010ebbe0": {
@@ -1184,6 +1184,15 @@
   "sha256": "f005affef83d3e968f1c5138de2a5249d84eb4a5620f806c3ea47c12d1a4e6e9",
   "slug": "el1-pet-not-2026-10-03-corners-first-half-total-3pt5"
  },
+ "0xb8eb86766a8b9897ba6ee547688daf9ac8dbd61a857dcd59888c2c22dd5bd4e0": {
+  "created_at": "2026-11-14T00:31:33.964697Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Netherlands be 1st in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "66b65aa8021402fa5ad3b63785552e1db947e78403c42a65c79972ed5d5f615d",
+  "slug": "will-netherlands-be-1st-in-the-world-happiness-report-2027"
+ },
  "0xb94c25da1beb02218cbc6bad90e05b7deb2e9ef7e8b0f4a1e6dc264cfc4e46e0": {
   "created_at": "2026-10-30T22:00:05.7409Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1330,6 +1339,15 @@
   "revisions": 1,
   "sha256": "20c277c105a6567aad4e22527df703688bc3ea7326ad0d9814a33addf4e62b2d",
   "slug": "will-al-ittihad-keep-the-most-clean-sheets-in-egypt-premier-league-2026-27"
+ },
+ "0xca3e080c717f0a0cc5c337a821abff41991e01a80bee8ea8205e4af3c81940e0": {
+  "created_at": "2026-11-14T00:31:31.919192Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Iceland be 2nd in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2bcc69ba8991c8a71be8359e69398193ff07efba786c086d2a0dba16bae8abf5",
+  "slug": "will-iceland-be-2nd-in-the-world-happiness-report-2027"
  },
  "0xca73944829b40e9d1c1a0f1d2a99591f0d15534372578650b920af08bddeabe0": {
   "created_at": "2026-10-08T22:00:08.55215Z",

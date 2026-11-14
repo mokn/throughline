@@ -581,6 +581,15 @@
   "sha256": "02416e4dbb17a54b6faab1955271dfac5c86f13bd304d9ebdf57f3210cf8160b",
   "slug": "will-nflx-dip-to-35-in-november-2026"
  },
+ "0x4756edc164c72c4ebdb8fce11f2a7dfda478d29726a647d242084f4a5faa2e04": {
+  "created_at": "2026-10-18T09:00:09.037135Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 4 - 2 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-4-2"
+ },
  "0x49e085f51c46c820818e4cfc26e6409554c366af31054d39f5bd05aed58abc04": {
   "created_at": "2026-09-04T19:29:10.576652Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1240,6 +1249,15 @@
   "sha256": "690c7721ad5bc86aee4cf9580cfeaeefcd5b0b393b96bf0ef5c94d40b2e2be4f",
   "slug": "will-tee-higgins-finish-as-a-top-12-wr-in-the-2026-27-nfl-season"
  },
+ "0xa347080645507822134bc4741cd68d1f05debea8c351fab548d949601ec46e04": {
+  "created_at": "2026-10-18T09:00:11.578145Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "e390e1117d1abf60d1d5515f5c6f52546823e24596b5e948b8c80f5132d52c0e",
+  "slug": "scop-dun-hmi-2026-10-31-first-to-score-neither"
+ },
  "0xa37300cf10c4ef9245052217fce261d81f8f77a4ff0ffede4e6e9d5d645bc204": {
   "created_at": "2026-10-30T22:00:02.910652Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1817,6 +1835,7 @@
   "created_at": "2026-11-09T22:27:58.990505Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Fabian Hurzeler be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",

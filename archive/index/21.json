@@ -193,6 +193,7 @@
   "created_at": "2026-11-09T22:28:11.462911Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Andoni Iraola be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -1102,6 +1103,15 @@
   "revisions": 1,
   "sha256": "243d55864b2fe79ddeb49aaeb1682ad98c25400ccaf376c6d57ad51e340b35fd",
   "slug": "will-the-democrats-win-michigan-in-the-2028-presidential-election"
+ },
+ "0xb4564a3d834958bd4991884133e8d4e0a98a01f55a3512fef4af0aa12151ef21": {
+  "created_at": "2026-11-14T02:42:17.409342Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini model family be named Gemini Xenon?",
+  "revisions": 1,
+  "sha256": "10473fbe18660f884f5a9f2b0081cb97883879c021939e04eea900ff40525204",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-xenon-20261113"
  },
  "0xb7ca42c3a0324b32cad3e64b29cc372d5e941a41f7f23f787806439854be9021": {
   "created_at": "2025-11-11T22:21:47.630698Z",

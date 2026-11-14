@@ -180,6 +180,15 @@
   "sha256": "04e987511a2c81e5fc39ce709f229278562ec7ca261c84e3494dc2d6a5bf5762",
   "slug": "nba-2026-27-defensive-player-of-the-year-chet-holmgren"
  },
+ "0x223c962c3eb25cec7e2baab46db7ccc402a6802a13db4d86f84779b3e40678b8": {
+  "created_at": "2026-10-18T23:30:33.436661Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Spread: Heart of Midlothian FC (-5.5)",
+  "revisions": 1,
+  "sha256": "9352fbcb3a2e79ef2ee28a428c7ba577527b2ff3b66b0cad24190ecaa82183a5",
+  "slug": "scop-dun-hmi-2026-10-31-spread-away-5pt5"
+ },
  "0x22428da3d6710062daba8e96b94529a8df17beae05e9fab6d885fcc2fc77adb8": {
   "created_at": "2026-08-10T23:34:28.684198Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -537,6 +546,7 @@
   "created_at": "2026-08-05T20:57:39.238831Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota gubernatorial election by 10%-15%?",
   "revisions": 1,
   "sha256": "e93d567dbb7779d2a0c253b56a777bccb3108683a148401da8a8aa1ab2669d85",
@@ -1141,6 +1151,15 @@
   "sha256": "6e68d722318915b0c98518c2c9b8041ba33fa22f8d7103f59e8e9341694fd8f4",
   "slug": "jayden-daniels-749pt5-rushing-yards-2026-27"
  },
+ "0xb70f104e58d293cacc08bb0708110b3d2e8d9f490de5c555bf7ef8bbdb29d9b8": {
+  "created_at": "2026-11-14T03:00:35.074001Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Markwayne Mullin leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-markwayne-mullin-leave-the-trump-administration-before-2028"
+ },
  "0xb93f02097487101cb100e609c8d1f3672ad8fd32922dec643d167c612b112fb8": {
   "created_at": "2026-07-15T00:36:17.422822Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1284,6 +1303,15 @@
   "revisions": 1,
   "sha256": "b3205b5badb15d09868806514a8e1813fdaa64b3a4738077c42c0fb055cc505d",
   "slug": "will-ali-khamenei-rank-in-googles-top-5-most-searched-passings-of-2026"
+ },
+ "0xcc4f0422f52b0c58d2c168e39fe15c86f0b1aedd72ba98775e6d94c363d883b8": {
+  "created_at": "2026-11-14T02:37:37.632414Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Bab el-Mandeb Strait effectively closed by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "264e5d26c38d157a50671f2ac39e5b8876c709c3508bf2d044a18ab629fbd351",
+  "slug": "bab-el-mandeb-strait-effectively-closed-by-march-31-2027"
  },
  "0xcdbf64cb434d132ae3eba2c6d4aa8123dde9f90bd8641a5cd31ceddee6d935b8": {
   "created_at": "2025-11-11T18:32:58.7296Z",

@@ -946,6 +946,15 @@
   "sha256": "aeac7acaf835dd63954e25aec3194b47fb9a4ae912bd54a50c51941b2cbd1556",
   "slug": "will-guy-pearce-be-nominated-for-best-supporting-actor-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x95c0b599046c6d599b87577e1092485013f1d2c7b6e867a0ba44fc5f176f605d": {
+  "created_at": "2026-10-18T09:00:07.684851Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 1 - 0 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-1-0"
+ },
  "0x9820759a74d3724efad3998b4dba9f1a88cc3503036029d4b792c48950aafa5d": {
   "created_at": "2026-10-15T18:02:46.361408Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -999,6 +1008,15 @@
   "revisions": 1,
   "sha256": "e8c8ec5587cbe39e9f7e5eae3307e220825a4e68a8224f6f54fccbaf39c915e8",
   "slug": "will-b4-b4-davido-mayorkun-and-fola-win-best-african-music-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0xa4075218e5b1bfaf8254dc82a67ed355c9405211fd5da3c65acd43e8f0fe025d": {
+  "created_at": "2026-10-18T23:30:38.091637Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Dundee United FC 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "a6381203b1dcbb60b2052e412080faa098d6dbfe2ed068d7d2439f3d1a7f012b",
+  "slug": "scop-dun-hmi-2026-10-31-first-half-team-total-home-1pt5"
  },
  "0xa6af312109c285d70f39a4f8d8e3d4a2e7e12bcabe5ab03527396a3a1377925d": {
   "created_at": "2025-12-12T12:41:07.567631Z",

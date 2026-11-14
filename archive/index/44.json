@@ -501,6 +501,15 @@
   "sha256": "51ae3efc269d996d7df4ea1b814c088241c34ab84c2d8c7c437b0cd7ebfcc6ab",
   "slug": "nyse-marketwide-circuit-breaker-before-2027"
  },
+ "0x5253e62025f7e971d2110ba32506519a4e991f6f74bbf54187bfff131d59c844": {
+  "created_at": "2026-11-14T03:05:09.235082Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Yemen join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-yemen-join-the-mecca-agreement-by-december-31-2027"
+ },
  "0x528b66f2f4b6223c2dd28739120ed636a76bffcde77f16d197c3eb9042f07c44": {
   "created_at": "2026-09-13T08:16:10.213309Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1281,6 +1290,15 @@
   "sha256": "9a6fd2c3bb302c38012375cc059e21b6b8c192fe3b088b733e9460d941845868",
   "slug": "rhamondre-stevenson-1024pt5-rushing-yards-2026-27"
  },
+ "0xc98928904d91c44bdc4af3d70d0e08f1199aa8aae3e879e197ae38f0e93eab44": {
+  "created_at": "2026-11-14T00:24:37.921685Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Fed hike-hike-hike in the next three decisions (Dec-Jan-Mar)?",
+  "revisions": 1,
+  "sha256": "706000fe388e402454d57c824da839e12e303c91cb5e0722c5554d8ca0b365cc",
+  "slug": "will-the-fed-hikehikehike-in-the-next-three-decisions-decjanmar-2027"
+ },
  "0xcaacd84d0981feb650ea7c09de995a7d0bd3942957d25813543a86e5f858e644": {
   "created_at": "2026-09-20T08:44:30.123137Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1294,6 +1312,7 @@
   "created_at": "2026-08-18T14:22:41.249632Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from South Dakota be between 300,000 and 325,000?",
   "revisions": 1,
   "sha256": "3ddeadf4dd94b3ca3e0fa314f0e0f448d8a58dac3fa751e17542cf61b61a246e",
@@ -1478,6 +1497,15 @@
   "revisions": 1,
   "sha256": "f5ac8cdd31582eef2325c17deb8cf5ebc3412b25c26d829e90b706092f705e01",
   "slug": "will-bryce-young-finish-as-a-top-12-qb-in-the-2026-27-nfl-season"
+ },
+ "0xeac467bcba15da8ba27bdcac2a0dde4e1edf5fbe5ad5ffdb7ba54fe1cb78da44": {
+  "created_at": "2026-11-14T02:40:45.493748Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait be 22+ on December 31?",
+  "revisions": 1,
+  "sha256": "2179cacc635c86150c8e454bdae8427476791fa7b1c722750d55060bc018bf87",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-be-22-on-december-31"
  },
  "0xec659f7c947053487c4ee6ac876a99df51466e1a07cf68d97bd6b5a6357b9644": {
   "created_at": "2026-08-21T17:31:55.954509Z",

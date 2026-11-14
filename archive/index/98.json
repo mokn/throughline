@@ -131,6 +131,7 @@
   "created_at": "2026-10-30T16:16:01.803518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Iran target Bahrain by November 30, 2026?",
   "revisions": 1,
   "sha256": "63f213a5f6642fc6d6cc01bad8156f5d8f663d10f91e9ce59bea0c3461ef80bd",
@@ -891,6 +892,15 @@
   "revisions": 1,
   "sha256": "08aa20d8ebb9efb0168414190ed93e09176720940fc50a6f7ea6665b3f3afbdc",
   "slug": "will-the-life-of-a-showgirl-taylor-swift-win-album-of-the-year-at-the-69th-annual-grammy-awards-20260805190947316"
+ },
+ "0x95f1c88b27cee9da31343c62ae99f88853a564037ede9b6bedade5ae64a57698": {
+  "created_at": "2026-10-18T09:00:07.639975Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 0 - 1 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-0-1"
  },
  "0x9898db81b534f7af2b08bcdb954298aa11bd10e84d07c439f3c41dbd9f5fb198": {
   "created_at": "2026-08-12T15:02:42.924024Z",

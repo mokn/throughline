@@ -590,6 +590,15 @@
   "sha256": "73afe1e3bf7ded8429336c5b29675c56019b8722f0fb6e6cd99a37618802cba4",
   "slug": "will-benjamin-netanyahu-be-arrested-by-december-31-20260720194516249-193"
  },
+ "0x55631e0124fa404d31a685c1c369a66c5879f9cec7e8be4b7b93cbc40ff6546e": {
+  "created_at": "2026-11-14T03:00:34.557237Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Kristi Noem leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-kristi-noem-leave-the-trump-administration-before-2028"
+ },
  "0x5622db7b3079f00e542d179669d7240406a6bd79c6ead7e61f3e993b0f380a6e": {
   "created_at": "2026-10-29T15:09:03.421745Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -871,6 +880,15 @@
   "revisions": 1,
   "sha256": "19ffd125071ec3e16d2e4fcab7f108c51fb3b00696cb7cc703a50ec2106bdeee",
   "slug": "drake-maye-29pt5-passing-touchdowns-2026-27"
+ },
+ "0x835c3c9a2a78640a2b6e1e8d64677c35f3ba1430525d4a08863982b6ccce386e": {
+  "created_at": "2026-11-14T02:40:46.508577Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait be 26+ on December 31?",
+  "revisions": 1,
+  "sha256": "2179cacc635c86150c8e454bdae8427476791fa7b1c722750d55060bc018bf87",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-be-26-on-december-31"
  },
  "0x835f5a0b2bb93f1f4e1125d3dd3f36ee13aade6ebf737f65495ed31738da7b6e": {
   "created_at": "2026-08-12T00:20:19.984748Z",

@@ -166,6 +166,7 @@
   "created_at": "2025-10-13T19:14:01.593117Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Bill Walker win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",
@@ -387,6 +388,15 @@
   "revisions": 1,
   "sha256": "59960d27c8c1db519053932a9ad2b956cbdbd656b6b593431c5450b8e90f6425",
   "slug": "will-the-peak-severe-s2-drought-coverage-in-minas-gerais-be-5-to-19pt99"
+ },
+ "0x4028a30b062e0bb4b96c1857c4bbe24ada9d9b670e378424ea254c9f7c862bb0": {
+  "created_at": "2026-11-14T01:58:33.769161Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Gemini Krypton released by December 15, 2026?",
+  "revisions": 1,
+  "sha256": "d588788be0d378dbe21252cee01a2de8b31895425a5d48d8d7e8f64c9bff4d8d",
+  "slug": "gemini-krypton-released-by-december-15-2026-20261110"
  },
  "0x435fc9820ebcdfefecb81b2c3e4796ae73fdda688fdb5830b1544978a94c97b0": {
   "created_at": "2026-10-13T20:02:17.447668Z",
@@ -638,6 +648,7 @@
   "created_at": "2025-10-13T19:13:52.19537Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will James Parkin win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",
@@ -728,10 +739,10 @@
  "0x7e4bb56d0893358ee2939b5776df903b6e05cba23a83c43d58d2c9bab9993eb0": {
   "created_at": "2026-10-25T04:01:51.092612Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (HIGH) $130 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-reach-130-in-november-2026"
  },
  "0x7f786f2dfefa347b3868da1f1db52f61c9ca986a197c69ee198e9d414a1a63b0": {

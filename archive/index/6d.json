@@ -474,6 +474,7 @@
   "created_at": "2026-10-08T14:32:31.081709Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Anthropic launch a Muse-like personal agent before 2027?",
   "revisions": 1,
   "sha256": "db1fde8f6f8239d72547f35bff4d2d2d678852cecc8a5765ba4b3ce5ad4996ca",
@@ -595,6 +596,15 @@
   "revisions": 1,
   "sha256": "c03d4e47b078143687d7aec5b37ee5a82a0ecf2f9172899af4fa2018a4d1858c",
   "slug": "will-broad-front-fa-win-the-most-seats-in-santa-cruz-de-tenerife-in-the-2026-spanish-general-election"
+ },
+ "0x511f66b55d52c5c10c50245eac936f584c3231115098f058a8c61be7c0b1256d": {
+  "created_at": "2026-11-14T06:19:55.337035Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "No Anthropic IPO by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "73d1571543e21022da39c5ed6255acc51b276a64c48ac155fb9706887f31472f",
+  "slug": "anthropic-ipo-day-volume-no-ipo-by-2027"
  },
  "0x515155dc9997b73728b424721ea4538cad0de3aad6dd1ceba6277e9fc882276d": {
   "created_at": "2026-01-28T15:35:38.097233Z",

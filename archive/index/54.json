@@ -17,6 +17,15 @@
   "sha256": "9fcf1ad099a9fb56df0dd5350bbca8d0a989f760c9eab666200369eecd0e45c3",
   "slug": "will-feyenoord-be-relegated-from-eredivisie-2026-27"
  },
+ "0x01ead4abec498c90cefc55edc9b5ca342a57e98315a271b791df5853ee9bef54": {
+  "created_at": "2026-11-14T02:44:19.405422Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Panama Canal be 24+ on December 31?",
+  "revisions": 1,
+  "sha256": "69fbb1d3266ef9c4c1efd076d128e7794e5946673d3443de563863e16208bc4b",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-24-on-december-31"
+ },
  "0x0447391df5abd931b74d2495732321d78a2399b6bf29754a2af56c5a80acb754": {
   "created_at": "2026-08-26T21:47:07.356791Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -268,6 +277,15 @@
   "revisions": 1,
   "sha256": "5ed8c3bb6edf4863b1bb4d7134b153d678563107cabfefe63d4d8038b35233b2",
   "slug": "el1-bar-mkd-2026-10-03-first-corner"
+ },
+ "0x38d4be49a42d8bd071038fd0b9d78e72fc12f0bb4fea018e66c4fc63b64cff54": {
+  "created_at": "2026-10-18T23:30:36.813165Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Dundee United FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "e1d9f88a8af1f6813de26d2695a1187d46bc3b5a0859a7e20ce86be77ce4ee88",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-home-5pt5"
  },
  "0x3983e4eca26db54139aa2d318e160ae8dbd03f991b5b28ba51a43939cba2e554": {
   "created_at": "2026-09-04T04:02:09.395745Z",

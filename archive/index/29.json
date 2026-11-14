@@ -769,6 +769,15 @@
   "sha256": "9e84c39af5d59512e03659965988a8c08790b00ac7940973fac5555e9a2a5d91",
   "slug": "fuse-fdv-above-1b-one-day-after-launch-362"
  },
+ "0x7b743263ee416cea19fd28157fb41471d544390300f2f165292cef9a4396ac29": {
+  "created_at": "2026-10-18T23:30:32.613502Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Spread: Dundee United FC (-3.5)",
+  "revisions": 1,
+  "sha256": "becf54462eb32ad7965ff8c5f9c4a77c8fdc1589cf4697300fad52ed0d41ae36",
+  "slug": "scop-dun-hmi-2026-10-31-spread-home-3pt5"
+ },
  "0x7ba4447c532f6c634be6657261acb7e47ab916658f358ec13b1bcc99fdfda929": {
   "created_at": "2026-06-01T17:48:32.579112Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -818,6 +827,7 @@
   "created_at": "2025-10-13T19:13:46.577538Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Adam Crum win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",
@@ -1144,6 +1154,7 @@
   "created_at": "2026-10-31T14:14:13.171532Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will US gas hit $3.90 (Low) in November?",
   "revisions": 1,
   "sha256": "225859b7f0cbcd2ea6abb1a1631b4479af14cfed5b5b7b4f4ab7b37a5bb0777d",
@@ -1547,6 +1558,15 @@
   "revisions": 1,
   "sha256": "6d2dc3747e7a5bf30aade7cfcf0c3d2ba6af98e5bbe1d464f9096fadbf9a7d85",
   "slug": "will-queens-park-rangers-be-promoted-to-premier-league-2026-27-copy"
+ },
+ "0xf014df6eeece36dc4275cbdf7fd9970677c9c163e32ed2d19984eb5eb9cbaf29": {
+  "created_at": "2026-11-14T00:31:28.458068Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Finland be top 5 in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "788daf632993c30c4b220c561b635050bd412bce99a627cbdc73edec20992763",
+  "slug": "will-finland-be-top-5-in-the-world-happiness-report-2027"
  },
  "0xf120ef5c3ef7015aa629f5963cc73c83f9ee05c9dc2290dc32aa076869098b29": {
   "created_at": "2025-12-30T19:58:03.737517Z",

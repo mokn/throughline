@@ -499,6 +499,15 @@
   "sha256": "78b24eb42d21ffefeb4ea00c712a17830ae06b8c8a0bc258d1f0140f82a20d23",
   "slug": "will-app-state-mountaineers-advance-to-the-2026-sun-belt-championship-game"
  },
+ "0x4d7a4518ab1c74db5c902773c04e494b3d82c2493df2c282b35cbee1b9072ad5": {
+  "created_at": "2026-10-18T09:00:08.073212Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 2 - 1 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-2-1"
+ },
  "0x5097829dcdd061cc0b6cb47c5ca2c1ff3a1b7137145eefff4eb4f8a9b5c724d5": {
   "created_at": "2026-08-12T00:20:48.110798Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1699,6 +1708,7 @@
   "created_at": "2026-10-31T00:26:37.357114Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Trump speak to Mark Carney by November 30?",
   "revisions": 1,
   "sha256": "3188e2637b8b05d5741b3ed47c5acc66e2d36bf6a54f5ff8c49be478c7e2088e",

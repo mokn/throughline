@@ -263,6 +263,15 @@
   "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",
   "slug": "will-anthropic-stock-fall-between-0pct-and-10pct-on-ipo-day"
  },
+ "0x2680125bd273aa98b0b85bacdaa70afae99a3079fd6ce0637d643be74f186cf1": {
+  "created_at": "2026-11-14T06:19:50.396795Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Anthropic open below $70 on its first trading day?",
+  "revisions": 1,
+  "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
+  "slug": "anthropic-ipo-opening-price-under-70"
+ },
  "0x28f219921de1b2ca9ad81ff11ef76ca56da5f220e349822a9f052ee8044bbff1": {
   "created_at": "2026-09-08T16:56:17.837715Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -359,6 +368,7 @@
   "created_at": "2026-11-09T22:27:55.522594Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Eddie Howe be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -675,6 +685,15 @@
   "sha256": "a2cf5a67666d98154eea25f38b4918363037c31ed1ee1d77612bc9b7284f8447",
   "slug": "will-platense-be-relegated-from-liga-profesional-argentina-2026"
  },
+ "0x58ff9d9733f5544db3986c4061e9c815dcb362cec3a42f6d1d7eba7660331bf1": {
+  "created_at": "2026-11-14T03:05:02.909166Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Iraq join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-iraq-join-the-mecca-agreement-by-december-31-2027"
+ },
  "0x5b21384ca1ffe76edd18827db6da4750a662a6479b29ef6cc3c360b62437c3f1": {
   "created_at": "2026-08-05T10:44:33.917925Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -934,6 +953,7 @@
   "created_at": "2026-08-24T16:33:31.403591Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Moss be promoted to Norway Eliteserien?",
   "revisions": 1,
   "sha256": "8fa4cacefc2f6e670fc1176ec4292908507e6fbd04365c84a16bde5b2ccd6314",
@@ -1037,6 +1057,15 @@
   "revisions": 1,
   "sha256": "5507d9281c5f249277249eef68a82a87e30f0df4d5534313bfa64cc8c8418d20",
   "slug": "will-francesco-camarda-lecce-be-the-top-goalscorer-of-the-2026-27-serie-a-season"
+ },
+ "0x993ed4acfcb97db4efa234064e46de360c94eeb42a2a68ee4125ce78f9d393f1": {
+  "created_at": "2026-10-18T23:30:37.142704Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Heart of Midlothian FC O/U 1.5",
+  "revisions": 1,
+  "sha256": "3313f7141a96696f45be3856ed9833e10f1f0267023fcd5b1cfcb94f00affc7c",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-away-1pt5"
  },
  "0x9e40e1cb42b948a35883aa0e1b3e36a30b45dfc83f53a4e7b7d29f3f45db44f1": {
   "created_at": "2026-08-11T14:11:00.212244Z",
@@ -1220,6 +1249,15 @@
   "revisions": 1,
   "sha256": "8eeac7974b329dd66387cac1ca0533eba2fcbd2819cfa4ebfc615fb1ae393f09",
   "slug": "nba-team-to-reach-2026-nba-cup-championship-game-san-antonio-spurs"
+ },
+ "0xb216bf377fc2573c943b58bb34685073cf70a3a19595d04909e1212c0268b9f1": {
+  "created_at": "2026-11-14T06:19:52.312705Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Anthropic open between $90 and $100 on its first trading day?",
+  "revisions": 1,
+  "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
+  "slug": "anthropic-ipo-opening-price-90-100"
  },
  "0xb5d08bd13d2124469dec2c445e427bcc92a22dd1deb71d95351ae22b3a2806f1": {
   "created_at": "2026-01-02T21:08:38.960011Z",

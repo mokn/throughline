@@ -111,6 +111,7 @@
   "created_at": "2025-10-13T19:14:01.116866Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Destry J. Payne Sr. win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",
@@ -205,6 +206,15 @@
   "revisions": 1,
   "sha256": "68964fb86d9f09f22688b7e15974b63470029652859b042ea15337057c68261d",
   "slug": "barcelona-uefa-negreira-verdict-announced-by-december-31-2026"
+ },
+ "0x21407bd40c0506d4630318c618074af9165c2aac59f0851b5d20899f44ef1151": {
+  "created_at": "2026-11-14T06:19:52.691371Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Anthropic open between $100 and $110 on its first trading day?",
+  "revisions": 1,
+  "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
+  "slug": "anthropic-ipo-opening-price-100-110"
  },
  "0x29b38f495680bc6818c55ee93d9cd5a455ba252b671480efc26a23bcb44f8651": {
   "created_at": "2026-08-24T16:35:56.314741Z",
@@ -414,6 +424,15 @@
   "revisions": 1,
   "sha256": "26ff51c5511695ac8e17a1b5aa205bd19f9ce91664bbd5d989f1d41c3ab3f753",
   "slug": "spain-primera-feb-2027-champion-club-ourense-baloncesto"
+ },
+ "0x420dfb0ec5594b60df38412c41732577ca2e993cd3e940c072daec6cdcbbfa51": {
+  "created_at": "2026-11-14T03:05:06.418859Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Oman join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-oman-join-the-mecca-agreement-by-december-31-2027"
  },
  "0x4288cb88fa666fa48822f32741fff2c328314dc494ad209e56956805db08ce51": {
   "created_at": "2026-10-14T13:24:27.951647Z",
@@ -1051,6 +1070,15 @@
   "sha256": "2a341214b55f52ded2603abd03b7a31ffdab77b5caede85b2ec24700097ffc02",
   "slug": "will-mark-flekken-record-the-most-clean-sheets-in-the-2026-27-uefa-europa-league"
  },
+ "0xb46689b3fd181015f594c0b1dc81a0337253e8539cf9d3efd22aedf38757d751": {
+  "created_at": "2026-10-18T23:30:38.423672Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Dundee United FC 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "b44d82955e07a7f5482ccd14516139971828e7c89514ba458878e8f18faf8d0f",
+  "slug": "scop-dun-hmi-2026-10-31-first-half-team-total-home-3pt5"
+ },
  "0xb52353d574218e37b549e22b48ac58a27e96621300a3cfb09a95332d6bb92e51": {
   "created_at": "2026-09-01T17:27:52.177584Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1359,6 +1387,15 @@
   "revisions": 1,
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-kirill-kaprizov-win-the-2026-27-art-ross-trophy"
+ },
+ "0xe8e936b5139a9838f125223dcded05a178a1b5ef6d7127832dfedcbaa379f051": {
+  "created_at": "2026-11-14T02:42:15.810829Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 18, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-18-2026"
  },
  "0xe9d2673b8949dde8c7ace819e86d53bc9c3c6098b45423b989c935f699f36b51": {
   "created_at": "2026-01-26T21:12:24.258997Z",

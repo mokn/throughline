@@ -35,6 +35,15 @@
   "sha256": "805845482896243dbce7dc3a7f9bae8b7486509000729b6533897b82e8472584",
   "slug": "will-breel-embolo-rennes-be-the-top-goalscorer-of-the-2026-27-ligue-1-season"
  },
+ "0x0a4e689ce7fba34dd9c4df3fa794b6e4b2857523c8b9e112f908db45fbc6e9e3": {
+  "created_at": "2026-11-14T03:00:31.612355Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Dan Scavino leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-dan-scavino-leave-the-trump-administration-before-2028"
+ },
  "0x0aeeb7488ba972277ce0408cbcdde8c45d65af33b756b0ae14cd00f8b3c875e3": {
   "created_at": "2026-10-04T00:42:03.764987Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1222,6 +1231,15 @@
   "revisions": 1,
   "sha256": "c1ea9b868737d6065d4dc11058bae548dcc846865ab8ae683266c18680209f30",
   "slug": "por-est-csm-2026-11-08-team-total-away-5pt5"
+ },
+ "0xa525c320c2f82632b9a2b16183339dd1daf26f626267ea47e2640a849f67c1e3": {
+  "created_at": "2026-11-14T06:19:53.103284Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will 1B to 1.25B Anthropic shares trade on IPO day?",
+  "revisions": 1,
+  "sha256": "73d1571543e21022da39c5ed6255acc51b276a64c48ac155fb9706887f31472f",
+  "slug": "anthropic-ipo-day-volume-1b-1pt25b"
  },
  "0xa5c3835f19c9a90cfc5df90719f73ad4e2c1df1e565f30eb25acbe5ef85a02e3": {
   "created_at": "2026-09-08T16:52:51.781772Z",

@@ -1345,6 +1345,15 @@
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
   "slug": "cdr-ute-sab-2026-10-28-exact-score-4-4"
  },
+ "0xae61c2818e59d29136574607eb47ba21a6c96874c0510dfa7d8dfcb89fe1a2de": {
+  "created_at": "2026-11-14T02:40:17.515216Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz be 2+ on December 31?",
+  "revisions": 1,
+  "sha256": "1ca2b968413aed26c7ff7449407738599570eccfa038709e288e3b1783ce0067",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-be-2-on-december-31"
+ },
  "0xb055fc1032e4fb8af34182d84a286f826ed6afcd49982bda6b7e3f9c20aea7de": {
   "created_at": "2026-05-18T20:33:31.274543Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1418,6 +1427,15 @@
   "revisions": 1,
   "sha256": "06c80d0a00dbb4af60fb945a11bb8ae079ab19c52add9e18c12be5cb57366063",
   "slug": "el2-col-pvl-2026-10-03-first-half-team-total-away-2pt5"
+ },
+ "0xc11e836f84003309e88b86d7f8a53ba430de210dd4aef8dcba1b216ac78ac1de": {
+  "created_at": "2026-10-18T09:00:05.643382Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Heart of Midlothian FC win on 2026-10-31?",
+  "revisions": 1,
+  "sha256": "62e017b3e40befb7d283267b1ed0c05dfe82d9149a88b9cc67705573f5480666",
+  "slug": "scop-dun-hmi-2026-10-31-hmi"
  },
  "0xc26844cac870ed7beaccd9d97ddd38ba85e3c2c3f561b251b7048195863077de": {
   "created_at": "2026-08-24T16:33:55.590884Z",
@@ -1765,6 +1783,15 @@
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
   "slug": "gtm-mun-aur-2026-11-07-exact-score-4-3"
  },
+ "0xf872592a2fb699cb6d794f626708d309d24842757a07ad7da809c7079efecede": {
+  "created_at": "2026-10-18T09:00:07.078987Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Heart of Midlothian FC leading at halftime?",
+  "revisions": 1,
+  "sha256": "ae243de312cbbf3bfdd55203a283ec3f4e159400c34a5370a69b5d1894079627",
+  "slug": "scop-dun-hmi-2026-10-31-halftime-result-away"
+ },
  "0xfb1169decea0d01a53f9b2323e28b55c743841b1f68f7885174ce0cf0e4e50de": {
   "created_at": "2026-08-04T21:40:54.99294Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1815,6 +1842,7 @@
   "created_at": "2026-08-11T14:06:24.282683Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Democrats win exactly 6 House seats in Colorado in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "b4260fcbe8a5cdfffe8b06f4ff61b9c8578da6f0fdf7df872636597ac2868c3a",

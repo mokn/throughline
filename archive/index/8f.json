@@ -80,6 +80,15 @@
   "sha256": "aa8e3ee6e70792c4feaaffe926bb067b04ce8a6e604388817ed8da39e5e22b40",
   "slug": "will-mississippi-rebels-win-the-2027-cfp-national-championship"
  },
+ "0x1042ba6eec3e79187a90faf2654f67c283f015efeab41dd133b52e15e4f36b8f": {
+  "created_at": "2026-11-14T02:43:04.450031Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Next Fable Model (5.3+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "12e4b2e8fc564afe047580eede126267e70ca2f6a2df3012a38609b1a7ad8ebe",
+  "slug": "next-fable-model-5pt3-released-by-january-31-2027"
+ },
  "0x118112c4e37bad645795047001762e84de76456ba27fb23651c71a784018208f": {
   "created_at": "2026-08-18T14:53:24.072068Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1682,6 +1691,7 @@
   "created_at": "2026-08-11T18:50:08.501969Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 SD-AL House election by 15%-20%?",
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",

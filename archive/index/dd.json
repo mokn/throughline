@@ -436,6 +436,15 @@
   "sha256": "3aa5fced27bdcbebb40ca133fe34d3f87f9d0a8c42323d3bee9884ecf95deb5e",
   "slug": "will-the-boston-bruins-make-the-2026-27-nhl-playoffs"
  },
+ "0x580b33cb0b0ccdffd225608f508c831bd99a688803d4a3307478afbb368b2edd": {
+  "created_at": "2026-11-14T03:00:30.518663Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Kash Patel leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-kash-patel-leave-the-trump-administration-before-2028"
+ },
  "0x59274196afe3f82b40f8b02e76816bb740b3c39deddf515dfb2b78152d1d99dd": {
   "created_at": "2026-07-10T01:33:25.272313Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1097,6 +1106,15 @@
   "revisions": 1,
   "sha256": "d4293a3a168b1bab5c5850ef393718e48d472e3fe33ea0a48af0701ebb7ecc9f",
   "slug": "will-the-republican-party-candidate-win-the-2026-oklahoma-senate-election-by-10-15"
+ },
+ "0xbd39e6e5c44b5f0fa2582ca109f79899ae79fdcfeb189ebde5580df0a55d44dd": {
+  "created_at": "2026-11-14T02:42:25.702921Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 31, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-31-2026"
  },
  "0xbe5dc686996b65c18db70833b26d2c85780f10431618ca7a5725af988a4c34dd": {
   "created_at": "2026-08-24T16:38:51.177407Z",

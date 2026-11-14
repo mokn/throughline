@@ -1320,6 +1320,15 @@
   "sha256": "1c37f3ce84a8de1d52ea26cb675ad6442ab4ec3d040cc5c141ee2abe95fb1d75",
   "slug": "f1-abu-dhabi-grand-prix-constructor-pole-position-audi-revolut-2026-12-05"
  },
+ "0xd650ea8fe177f18f05330c709d8ab5283a6101975b144b72a975f350106d90ef": {
+  "created_at": "2026-11-14T02:42:23.496287Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 27, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-27-2026"
+ },
  "0xd94a6e66f3263a2e95912ea20277a8e17f29bb3da6b3f2852fb1a18726afb8ef": {
   "created_at": "2026-09-02T19:30:24.906793Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1529,6 +1538,15 @@
   "revisions": 1,
   "sha256": "bac0be4c21405f3efe3a409c595b75d9c1f7609980201e1f8fdb7f17c7b01c66",
   "slug": "nba-team-to-reach-2026-nba-cup-knockout-rounds-new-orleans-pelicans"
+ },
+ "0xfc42e434044ae2383d9d9de2f08d8477b594d650e07018204c161566b0693def": {
+  "created_at": "2026-11-14T00:31:31.232964Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Denmark be 1st in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "66b65aa8021402fa5ad3b63785552e1db947e78403c42a65c79972ed5d5f615d",
+  "slug": "will-denmark-be-1st-in-the-world-happiness-report-2027"
  },
  "0xfcbbb0f4b04d8950c26116925888098227bfa1de5ff2f50758de6a76017b1def": {
   "created_at": "2026-08-05T11:11:27.312601Z",

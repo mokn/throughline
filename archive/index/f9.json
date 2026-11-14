@@ -62,6 +62,15 @@
   "sha256": "18d89cd07debe8b6683a9d3564f9b3760a566102b2eba3b00173c493e70a37da",
   "slug": "nba-2026-27-bpg-leader-donovan-clingan"
  },
+ "0x0ec323e15a961686eba1fe41db26d1642e924a76faddf1eabff0e19de18aa8f9": {
+  "created_at": "2026-11-14T03:00:29.730124Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Howard Lutnick leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-howard-lutnick-leave-the-trump-administration-before-2028"
+ },
  "0x115577eba28fbf468d67daa82155be9c2ceb6b2aacfe750dfc661b4af99896f9": {
   "created_at": "2026-10-09T16:31:35.642233Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -192,6 +201,7 @@
   "created_at": "2026-08-05T16:30:53.589446Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota Senate election by 20%-25%?",
   "revisions": 1,
   "sha256": "2b8781933d980c5819e6c3cced6a53109d9b03a502e3f93d4f4ca8de133cb06e",
@@ -1262,6 +1272,15 @@
   "sha256": "4a0300f982673f62c12d806e89fc80053d2ac07a54a7241a0aefa9baf0d49172",
   "slug": "will-wenbo-win-worlds-2026-finals-mvp"
  },
+ "0xcfda9077443fb13b61400cb49af9575327293e4517ab5735edd44e4e735331f9": {
+  "created_at": "2026-11-14T03:04:07.269417Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Moscow air traffic suspended by December 31?",
+  "revisions": 1,
+  "sha256": "f9540da11768691e20a3635d1ec0a8e165f6bde0361c5b3f81af537224981884",
+  "slug": "moscow-air-traffic-suspended-by-december-31-20261112"
+ },
  "0xd26b2524850ebf47b2d2f94012cdece6a3f872c7a0e4f3601971a2b8653ffcf9": {
   "created_at": "2026-11-02T22:31:32.109331Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1371,6 +1390,15 @@
   "revisions": 1,
   "sha256": "25a493a7085b3be3bc91366521005c623ff03eb69898fd13f2d727ddd34d1fe2",
   "slug": "will-the-republican-party-win-the-ma-08-house-seat"
+ },
+ "0xe3e9b1d539870e40371a25e8a6e80fe064ccfb100862734f4566414c32d2e2f9": {
+  "created_at": "2026-10-18T09:00:09.758749Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 5 - 5 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-5-5"
  },
  "0xe711f77fd9965b43de926ecff6921253852626f7cd1472a65ee933cd9aee04f9": {
   "created_at": "2026-10-02T20:14:38.851206Z",

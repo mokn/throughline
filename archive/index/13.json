@@ -46,6 +46,15 @@
   "sha256": "1351207b2a6c5705bed933c5cd856ad5654a161e22d61adce9965b628e6f8dad",
   "slug": "will-the-republican-party-win-the-oh-01-house-seat"
  },
+ "0x083114f2da0fb097938c7e6b455e224edb66cc998ea8da465731665b7833be13": {
+  "created_at": "2026-11-14T00:31:33.866236Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Netherlands be 2nd in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2bcc69ba8991c8a71be8359e69398193ff07efba786c086d2a0dba16bae8abf5",
+  "slug": "will-netherlands-be-2nd-in-the-world-happiness-report-2027"
+ },
  "0x09124ca3fb96f6a029b2f3c532164d1f6c38fdf359cfb032f91cbfd11c011913": {
   "created_at": "2026-10-31T11:30:13.655422Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -190,6 +199,15 @@
   "revisions": 1,
   "sha256": "86cf3d37b6a61651666b58e05ed2b8b8c96d68299b68906aa21e7b5e8deb335c",
   "slug": "will-frank-ocean-be-featured-on-gta-vi-the-album"
+ },
+ "0x19ed2a53c88cb5c0834d4dffba7008be7ca8363aa2e15ace6becbe961cf4aa13": {
+  "created_at": "2026-10-18T09:00:09.094099Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 5 - 1 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-5-1"
  },
  "0x1aabd7e8fe19085c7ba902d5002d1fbb9116473fb89bdfcd3be5478017916013": {
   "created_at": "2026-02-08T19:11:55.449745Z",
@@ -624,6 +642,7 @@
   "created_at": "2026-08-05T16:30:54.232008Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota Senate election by 10%-15%?",
   "revisions": 1,
   "sha256": "2b8781933d980c5819e6c3cced6a53109d9b03a502e3f93d4f4ca8de133cb06e",

@@ -264,6 +264,15 @@
   "sha256": "937b238cba4daad79a636e5b3465160a6803cb3f0d9003c13708cf39b8926fdd",
   "slug": "will-democrats-win-the-texas-senate-seat-and-republicans-win-michigan-and-maine"
  },
+ "0x1ce8c7299c10d3b3f91a00858d2944a0542d44cc7ad6f8c055329c96d6cb04a1": {
+  "created_at": "2026-10-18T09:00:08.000639Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 1 - 2 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-1-2"
+ },
  "0x1dc66f540b37df61df192742feb573035854322cee4f9787fea2e6a3e8a465a1": {
   "created_at": "2026-08-14T21:20:55.60517Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -718,6 +727,15 @@
   "sha256": "07b765b1d2f27c1ac9df39d5da7090f9c358ae17f27eafde18da8dadfe42b993",
   "slug": "will-jamarr-chase-be-the-highest-scoring-wr-of-the-2026-27-nfl-season-20260806224130840"
  },
+ "0x6884241c3f1559817c52e2338c9d3be87a935b90b59c4beaccfec4970e5f4ba1": {
+  "created_at": "2026-10-18T09:00:07.575669Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 0 - 0 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-0-0"
+ },
  "0x68868bc442fc49838bb72e72399b5a0756cecad6d2f752e3c691c3c63da84ea1": {
   "created_at": "2026-09-30T14:02:18.413107Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1146,6 +1164,15 @@
   "sha256": "042cb6965b8403b96b7a107ef6d4599870d274e1c1f5d7e8b21ca73e8d708c94",
   "slug": "el1-bla-lei-2026-10-03-spread-home-2pt5"
  },
+ "0xa519baa3d44428fc5953a40c8eb7e6e73e397845915476885fd4c700b63e28a1": {
+  "created_at": "2026-10-18T23:30:37.932224Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Dundee United FC 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "824b6cda1ea899a70df7d5868527e06e0dbaf4df53c07b060fcc0fecba3bcbdb",
+  "slug": "scop-dun-hmi-2026-10-31-first-half-team-total-home-0pt5"
+ },
  "0xa7d00844ecebc4f9b6081c28a79925db58a615f54d050e9eab82cdce1220efa1": {
   "created_at": "2026-08-07T20:16:48.742588Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1346,6 +1373,15 @@
   "sha256": "4b14b11d63b16983ecb4382141857abca443f5f727ac7e51c1790c9b56d7ec7d",
   "slug": "will-the-republican-party-candidate-win-the-2026-az-05-house-election-by-10-15"
  },
+ "0xbd684e5fa6e8c8bfc1c188d96e2e1a34a75edd3b2c629aaad6dd0586c5bd9ba1": {
+  "created_at": "2026-11-14T00:31:38.360735Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the US rank 26th-27th in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2f6517f60bd14bcd1056f7e5ea845b39a5c79165c284b357a6556bf7e373289e",
+  "slug": "will-the-us-rank-26th-27th-in-the-world-happiness-report-2027"
+ },
  "0xc1f8dd6626ad16051790a3e5b0711c2dac07342964875eab0c3816d27ce4eca1": {
   "created_at": "2026-02-24T20:10:31.389113Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1373,6 +1409,15 @@
   "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
   "slug": "will-jake-guentzel-record-50-goals-in-the-2026-27-regular-season"
  },
+ "0xc3adc5bcc3fc52d849dcb65f0c3562014e7fadea1bc69418552ecc873a779ea1": {
+  "created_at": "2026-10-18T23:30:32.004979Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Spread: Dundee United FC (-1.5)",
+  "revisions": 1,
+  "sha256": "901c36bdb5c6253e3d33ce74b7e1b7ecff8cc8ab8f47fb1741929194692c7bf7",
+  "slug": "scop-dun-hmi-2026-10-31-spread-home-1pt5"
+ },
  "0xc42eac5549b7505dde0070d973107b39475f5535d0808f90c144007718c0dba1": {
   "created_at": "2026-01-28T15:38:55.293587Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1382,6 +1427,15 @@
   "revisions": 1,
   "sha256": "7193d3e4ed367d6d9a8baa8af303b327823d52d67fe10a52678f060488461876",
   "slug": "will-the-republican-party-win-the-pa-09-house-seat"
+ },
+ "0xc5957ac2afa804ac44ac46b6aa53031a208b978cabbb69e8c819095a383174a1": {
+  "created_at": "2026-11-14T02:42:44.546684Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Gemini Helix released by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "3b80a5986b80c6c60044a91a3cbd10c4dfed6f098f9ff673b1d61fa55d8a0403",
+  "slug": "gemini-helix-released-by-december-31-2026-20261113"
  },
  "0xc5b05918b6678dd8511667d9f8e80c71f7f4090f328ef8df1653aa93cbf971a1": {
   "created_at": "2026-08-11T19:03:53.703191Z",

@@ -216,6 +216,15 @@
   "sha256": "ae36f8458e73c29a93496e2b5868849c5807b4dfab3766b1691520ff2c6c39bb",
   "slug": "greenland-snap-election-called-by-december-31"
  },
+ "0x1bef1ac2e4f2de8459f042315ec9186ca14ad5b509696aa24c2147de22da321e": {
+  "created_at": "2026-11-14T02:34:16.846644Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Strait of Hormuz traffic return to normal in September 2027?",
+  "revisions": 1,
+  "sha256": "0a6effd93d98b75658698a817279d6bb7e9cb20a0c90792423d54bfcbc9e6e75",
+  "slug": "will-strait-of-hormuz-traffic-return-to-normal-in-september-2027"
+ },
  "0x1c1863e9ba7011d14f6b001b7be2dff9f7c95b7674eaf709558cb59c99485e1e": {
   "created_at": "2026-09-08T16:02:58.595468Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -617,6 +626,15 @@
   "sha256": "e61da17b033ffcd189b17db77cb78b0ec672570c86f9ad6a50f209f30abdbebd",
   "slug": "will-jaxon-smith-njigba-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-touchdowns-20260715212820959"
  },
+ "0x4cf73d338675d4f148e87bd57189b8c67dfa26d916b6dae33e993c0c0de8a31e": {
+  "created_at": "2026-10-18T09:00:07.027146Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "271c7cae31c43cb405321b90b54a36bd3a5b6faf36d5fde32e93c9e0bd87c5c9",
+  "slug": "scop-dun-hmi-2026-10-31-halftime-result-draw"
+ },
  "0x4d306c384ea77c86e68ec60a6ee8cf2c4185a4acdc4ceb554ef08f0cab74e01e": {
   "created_at": "2026-09-13T08:44:20.972872Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -734,6 +752,15 @@
   "sha256": "1d84f44677706b63231c1e542592850495e345d2751cb4c6efd94de3a21ef5fb",
   "slug": "will-the-south-african-reserve-bank-increase-the-repo-rate-by-25-bps-at-the-march-2027-meeting"
  },
+ "0x5a9aee543539ae14f920a32575bb3d7016bc6fea7e8a9c4383237be2fffdce1e": {
+  "created_at": "2026-10-18T09:00:09.701633Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 5 - 4 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-5-4"
+ },
  "0x5c400e464839cc2fea674a09c7cd4d460801ca28d220e85f691eb74d51953f1e": {
   "created_at": "2026-09-28T17:21:22.696597Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -819,6 +846,7 @@
   "created_at": "2026-09-09T15:19:13.115616Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Slovakia win 2026-27 Nations League Group C3?",
   "revisions": 1,
   "sha256": "d45a7e52212a0ef2075e1282e330dcfc19e77bc53c925ad580c9a3774af2f18d",
@@ -1814,6 +1842,7 @@
   "created_at": "2025-10-13T19:13:54.784865Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Lisa Murkowski win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",

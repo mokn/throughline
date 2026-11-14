@@ -85,6 +85,7 @@
   "created_at": "2026-08-05T16:30:54.486401Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota Senate election by 0%-10%?",
   "revisions": 1,
   "sha256": "2b8781933d980c5819e6c3cced6a53109d9b03a502e3f93d4f4ca8de133cb06e",
@@ -1385,6 +1386,15 @@
   "sha256": "f02ae2e8e4c5cfd5fcf8a9dee5af9972d7a32e92d7a43b20d83937e06941217d",
   "slug": "will-los-angeles-rams-win-the-2027-nfl-nfc-championship-351"
  },
+ "0xd925846d5b6c055986556c8209c83d7f88027859b72ff5f5f0d6b85c3b05c062": {
+  "created_at": "2026-11-14T03:00:27.847977Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Marco Rubio leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-marco-rubio-leave-the-trump-administration-before-2028"
+ },
  "0xd96c211ecc818e319186516fc7d74ac6cf09801a42058ce352b07ee2580e3262": {
   "created_at": "2026-08-12T17:23:29.164196Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1443,6 +1453,7 @@
   "created_at": "2026-10-02T20:14:26.817064Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Assum have the most kills at Worlds 2026?",
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",

@@ -76,6 +76,7 @@
   "created_at": "2026-08-18T14:22:41.731561Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from South Dakota be between 375,000 and 400,000?",
   "revisions": 1,
   "sha256": "3ddeadf4dd94b3ca3e0fa314f0e0f448d8a58dac3fa751e17542cf61b61a246e",
@@ -525,6 +526,15 @@
   "revisions": 1,
   "sha256": "f1efb04609d46605b16e133c4b20383ff2664bd67fac65c3d9c711beee3f801a",
   "slug": "will-marquis-gillis-be-the-2026-d1-rushing-tds-leader"
+ },
+ "0x50a8fe54ff3c3f46be279d6ec3d64cac4fe746838b029e7714203cd6a4cd0dd2": {
+  "created_at": "2026-11-14T02:43:16.417133Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Next Mythos Model (5.3+) released by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "64826c4a7e4c3c6da03c640c61e32575c6805b47030ca79d85b59f1de12201cb",
+  "slug": "next-mythos-model-5pt3-released-by-december-31-2026"
  },
  "0x51a0e15865aa6abdafcb43d38188ef42df8e914a2a5523e909b10cb56b0429d2": {
   "created_at": "2026-06-29T17:00:03.02715Z",
@@ -1113,6 +1123,15 @@
   "revisions": 1,
   "sha256": "edb5c305b1468557add60c85df6f481c6c209cc06ebff0c225fedb42ed2e60af",
   "slug": "will-sedrick-alexander-be-the-2026-sec-rushing-yards-leader"
+ },
+ "0xb57a1b17f61d4f63a74ab7a70fab1c94c7d4e577bc53c8581a5723b0b47addd2": {
+  "created_at": "2026-11-14T02:42:01.543806Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Next Gemini Hydrogen (4.1+) released by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c8cf5c7f24658987b8f477beb51e2f52eec781ec9e7b20f7bb3573e26b239492",
+  "slug": "next-gemini-hydrogen-4pt1-released-by-december-31-2026"
  },
  "0xb6757c4aea80d4d4c881e35d777899a05318520c6e065a50faeee29816dee9d2": {
   "created_at": "2026-09-08T21:37:49.05628Z",

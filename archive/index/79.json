@@ -761,6 +761,15 @@
   "sha256": "209b880420bbc167aba4c3e822f94395d1dc1c9da913896038fb5bdf76977c91",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-texas-be-between-9600000-and-10000000"
  },
+ "0x864c198d5376b8a58f7863a8f6318458950444eb1a46647097717ba002006f79": {
+  "created_at": "2026-11-14T02:34:14.952702Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Strait of Hormuz traffic return to normal in August 2027?",
+  "revisions": 1,
+  "sha256": "0a6effd93d98b75658698a817279d6bb7e9cb20a0c90792423d54bfcbc9e6e75",
+  "slug": "will-strait-of-hormuz-traffic-return-to-normal-in-august-2027"
+ },
  "0x87fcb134a34867dd71a47dc52d492b3cf477ae0a9aabedb40ccadf879220ab79": {
   "created_at": "2026-08-10T23:34:39.097614Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -828,6 +837,7 @@
   "created_at": "2026-06-26T16:02:29.791644Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Kate Marshall win the 2026 Reno mayoral election?",
   "revisions": 1,
   "sha256": "e09f32726bdd79fe0a864f49664a4e80227e0e8d65032429e08ac0447aa4bf21",

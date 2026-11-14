@@ -1472,6 +1472,15 @@
   "sha256": "20920b05c8a3acf6ab66c3d77b1b543fc6d006d2631b3a2f047151e710b57a84",
   "slug": "por-est-csm-2026-11-08-halftime-result-away"
  },
+ "0xef37e2d1f45b11c952fce4f4cf67c00c7433411cddfbe990121595ed20a2f833": {
+  "created_at": "2026-10-18T23:30:36.980344Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Heart of Midlothian FC O/U 0.5",
+  "revisions": 1,
+  "sha256": "4bc4f15dcdfa1996d63a73d4253f4eaeac8e693798fc40c97f76cce21989c114",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-away-0pt5"
+ },
  "0xf0c676cadebfc1487dd06bd167be9befdeda8892598914f9d7ee65fa6dedf133": {
   "created_at": "2026-09-13T08:15:52.482362Z",
   "first_seen": "2026-11-04T01:55:27Z",

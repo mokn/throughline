@@ -111,6 +111,7 @@
   "created_at": "2026-09-02T21:58:39.760035Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Washington State Cougars advance to the 2026 PAC-12 Championship Game?",
   "revisions": 1,
   "sha256": "dbb4913ff8b23a5246a2bb0e1f9525558bbcab5e6625d8d1e56234885256a935",
@@ -288,6 +289,15 @@
   "revisions": 1,
   "sha256": "a7cd60844bd1bc9031fd2f02f1e8c3ebed2a78a3c67b93142b19e8bb6238f50b",
   "slug": "will-matthew-wright-be-the-highest-scoring-k-of-the-2026-27-nfl-season-20260806224132002"
+ },
+ "0x2a980444c7364e67bb6f475dc120acb6d6f004dcb1f0c7c6f5363c803577791f": {
+  "created_at": "2026-11-14T02:32:19.278153Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Strait of Hormuz traffic returns to normal by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "96deb9d4296d0e1825102fdafa5b2ee58df8eac1d2ecf194367238cf8bd3523e",
+  "slug": "strait-of-hormuz-traffic-returns-to-normal-by-january-31-2027"
  },
  "0x2b250809c8732d6a27f685cb97df2728a3eab72a23df85da315f6b3ef86e001f": {
   "created_at": "2026-10-01T14:01:06.717647Z",

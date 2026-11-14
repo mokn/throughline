@@ -27,6 +27,15 @@
   "sha256": "86cf3d37b6a61651666b58e05ed2b8b8c96d68299b68906aa21e7b5e8deb335c",
   "slug": "will-don-toliver-be-featured-on-gta-vi-the-album"
  },
+ "0x06311b24d2ecb7a3c12ac88bfe316ba138abf191d2c932319ace81c9343dad5c": {
+  "created_at": "2026-10-18T09:00:08.730314Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 3 - 2 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-3-2"
+ },
  "0x0730fb777d408456dda9c1429f59527d026e3cb4befa7957e557257cc1448d5c": {
   "created_at": "2026-10-13T15:55:31.499508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -515,10 +524,10 @@
  "0x566681021e14781bd0a7df8316eefeb5c56965ff97c795ca6c779b2172e66a5c": {
   "created_at": "2026-10-25T04:01:51.278509Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (HIGH) $120 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-reach-120-in-november-2026"
  },
  "0x56f967adacfe012a928f48d0d2ce338b84cd243349dae637a8f53cd339402f5c": {
@@ -1416,6 +1425,7 @@
   "created_at": "2026-08-21T20:36:18.709636Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Alaska passes ballot measure repealing ranked choice voting?",
   "revisions": 1,
   "sha256": "2cb705ee43a5ea83d588d3a98629fafc327e3f8237181b609ab2dd379059504e",

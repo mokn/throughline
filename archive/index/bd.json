@@ -126,6 +126,15 @@
   "sha256": "47960a84b87f5e919552743c5559c2b94694f042c982cf075ee1e8395003e904",
   "slug": "will-the-chicago-bears-be-the-nfc-1-seed-for-the-2027-nfl-playoffs"
  },
+ "0x0eff2eba3529bcad8b55b7336732f5fc1f848c7e928b4f5017c5a2a7edad0ebd": {
+  "created_at": "2026-11-14T00:31:33.33318Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Norway be 2nd in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2bcc69ba8991c8a71be8359e69398193ff07efba786c086d2a0dba16bae8abf5",
+  "slug": "will-norway-be-2nd-in-the-world-happiness-report-2027"
+ },
  "0x0f372f46349488fbc1bbb03bf8e1a40e8aba5f5e6aa0f7d43a4cdd9dbc342dbd": {
   "created_at": "2026-09-13T09:16:12.24765Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -841,6 +850,15 @@
   "revisions": 1,
   "sha256": "18c425994c6fcaf862c271f1828d8137c6f497258bef9247cebf1735ea903188",
   "slug": "nba-2026-27-apg-leader-lebron-james"
+ },
+ "0x8f47e0c77b21ed3798dd8b55e3f1eb445ff68432a8461829663785aeb04849bd": {
+  "created_at": "2026-10-18T23:30:36.495594Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Dundee United FC O/U 3.5",
+  "revisions": 1,
+  "sha256": "e270a8f7f28a34e36b405e21ecd3ad4c8812b5c1342ad473cb43472ec23f49a7",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-home-3pt5"
  },
  "0x8fba732833bba8512096f9e143c2ae2ca5cd799cfd386049ae61af1b46adc4bd": {
   "created_at": "2026-07-20T20:05:56.231271Z",

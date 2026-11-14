@@ -302,6 +302,7 @@
   "created_at": "2026-11-09T22:27:56.580811Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Julian Nagelsmann be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -525,6 +526,15 @@
   "revisions": 1,
   "sha256": "77ebbb45179455ec36b5dbe8061837dc76bab543e2b136b37b07316fe1e0d091",
   "slug": "trump-putin-and-xi-seen-together-before-2027"
+ },
+ "0x5562c0b0be33e4f043f905837d52c9917667ef50a8253cf20d16531d2fc843f4": {
+  "created_at": "2026-11-14T03:05:08.417401Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Syria join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-syria-join-the-mecca-agreement-by-december-31-2027"
  },
  "0x55f9c463835b633e5d50b700f0c0122c5cdfdd9e1a3c5a0d0e019d9ae8d704f4": {
   "created_at": "2026-11-03T17:40:14.531379Z",
@@ -1166,6 +1176,7 @@
   "created_at": "2026-08-05T20:57:39.489324Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota gubernatorial election by 0%-10%?",
   "revisions": 1,
   "sha256": "e93d567dbb7779d2a0c253b56a777bccb3108683a148401da8a8aa1ab2669d85",
@@ -1254,6 +1265,15 @@
   "revisions": 1,
   "sha256": "edb1847a3b219af9e82b7ab95c4d1f89a345f3c6751bd5f17c249cf99664c2ec",
   "slug": "will-arena-gain-the-most-seats-in-the-2027-salvadoran-legislative-election"
+ },
+ "0xd140ee3fa335226405fb7311b215cde6df6af1612fe9907f76843cee2dc298f4": {
+  "created_at": "2026-10-18T09:00:05.299593Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Dundee United FC win on 2026-10-31?",
+  "revisions": 1,
+  "sha256": "576fd25d02a55af8a129001bb7d21ffbcd934d8ce368c168ebf1b3254b831eeb",
+  "slug": "scop-dun-hmi-2026-10-31-dun"
  },
  "0xd29ee8c6e692b2f793bf90b5bde2f98277065f67a81e2f9311cecbeec83e53f4": {
   "created_at": "2026-08-10T15:03:01.390071Z",

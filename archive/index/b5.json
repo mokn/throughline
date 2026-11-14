@@ -185,6 +185,7 @@
   "created_at": "2026-11-11T00:50:59.848983Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Gemini Hydrogen debut at a score of at least 1480 by June 30, 2027?",
   "revisions": 1,
   "sha256": "d367b97fa0476fb5edde9f2e4d0124da416050865764079ee0a73fe4d28b71c4",
@@ -1360,6 +1361,15 @@
   "revisions": 1,
   "sha256": "c58271205777b0e799c3d24cdb247e0f4033a4c017402eaf02b67068952c80f4",
   "slug": "will-trinidad-chambliss-win-the-2026-heisman-trophy-20260731185756303"
+ },
+ "0xb0c71924866cd9f2bb3a7d434a0e05aad193732aea028ea05ca164e01103d9b5": {
+  "created_at": "2026-11-14T03:00:29.156909Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Lee Zeldin leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-lee-zeldin-leave-the-trump-administration-before-2028"
  },
  "0xb25c14120fccc079ca222454c6d6a17d0dc43ee19a005fee7cc4b9f04573beb5": {
   "created_at": "2025-12-15T22:03:44.909817Z",

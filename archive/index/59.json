@@ -252,6 +252,15 @@
   "sha256": "4eb1a7daef9601585378471e13203735ed248aa199a50964b680484b18e41d80",
   "slug": "will-real-betis-qualify-for-the-2027-28-uefa-champions-league"
  },
+ "0x25ed1214a07838a797bb7cf1da22e4a37cc80a14e14855d90fd630aa1dfb1159": {
+  "created_at": "2026-10-18T09:00:08.683649Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 2 - 3 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-2-3"
+ },
  "0x27e8508abd1eee92b0700ecd442b0b40192b9951a315e38944b4f28ec1c45b59": {
   "created_at": "2026-08-28T20:17:08.510698Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -634,6 +643,15 @@
   "revisions": 1,
   "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
   "slug": "will-sam-montembeault-win-the-2026-27-vezina-trophy"
+ },
+ "0x582da6b54eeef98f63cfd9fcdeebb03a87decbc01863bbbe6c200583aa8e4859": {
+  "created_at": "2026-10-18T23:30:35.575818Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "a7d9bcb30a74f5b1fd7667cbd158c7c1b125549992b815898b4486a836853f32",
+  "slug": "scop-dun-hmi-2026-10-31-first-half-total-2pt5"
  },
  "0x58b49e1be464fe1b0a9a042cbfba0899ab7da79cb0dfa6aaa4f3b31c8b0a0559": {
   "created_at": "2026-11-06T22:34:20.217248Z",
@@ -1619,6 +1637,15 @@
   "revisions": 1,
   "sha256": "1b811de71c5b9320fc03e68b24adb1d5c77462efd9812c10a394e58b7b348637",
   "slug": "will-deportivo-maipu-be-promoted-to-liga-profesional-argentina-2026"
+ },
+ "0xfc08b62ff1bf426f4a03f355d5d770eef3b27b49465014f8070ba3dbf9c56759": {
+  "created_at": "2026-10-18T09:00:09.35998Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 5 - 2 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-5-2"
  },
  "0xfcedfa8ae802a69da59068d23f83f374ab13c026529fc6b12454c41c41c83359": {
   "created_at": "2026-08-11T19:09:13.88698Z",

@@ -484,6 +484,7 @@
   "created_at": "2026-09-02T21:58:24.942373Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Navy Midshipmen advance to the 2026 American Conference Championship Game?",
   "revisions": 1,
   "sha256": "074aa9d694fa78ac108b369319fb67219e9134c34280ae00e16f02c8bf5e46a8",
@@ -772,6 +773,15 @@
   "revisions": 1,
   "sha256": "6715815be2b96b04b74abcf5ee54adb9eb86210b63181fa726edce22c47f65bc",
   "slug": "f1-qatar-grand-prix-driver-pole-position-hamilton-2026-11-28"
+ },
+ "0x6b67f938a71430a0c1aee48eda97d12051e39e23e543a414033c840f15ae0b8b": {
+  "created_at": "2026-11-14T02:34:19.463513Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Strait of Hormuz traffic not return to normal in 2027?",
+  "revisions": 1,
+  "sha256": "0a6effd93d98b75658698a817279d6bb7e9cb20a0c90792423d54bfcbc9e6e75",
+  "slug": "will-strait-of-hormuz-traffic-not-return-to-normal-in-2027"
  },
  "0x6b9fba6bc4a8332ff3ed69c8092f5e01427cb463438a5c1974ae695df5195f8b": {
   "created_at": "2026-09-13T08:44:52.03042Z",

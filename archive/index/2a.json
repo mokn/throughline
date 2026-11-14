@@ -158,6 +158,7 @@
   "created_at": "2025-10-13T19:13:49.990935Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Shelley Hughes win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",
@@ -1197,6 +1198,7 @@
   "created_at": "2026-08-05T20:57:37.540788Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota gubernatorial election by 45% or more?",
   "revisions": 1,
   "sha256": "e93d567dbb7779d2a0c253b56a777bccb3108683a148401da8a8aa1ab2669d85",
@@ -1220,6 +1222,15 @@
   "revisions": 1,
   "sha256": "a72bc4d4fb996cc353eb627bb7a62d5e85f65118421991b2a0eaca484baa6044",
   "slug": "will-the-republican-party-candidate-win-the-2026-oklahoma-gubernatorial-election-by-35-or-more"
+ },
+ "0xd557de63ef6adc7169a9135041933ab75e78d2c097403c05a1a958636c96522a": {
+  "created_at": "2026-10-18T09:00:08.882983Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 1 - 5 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-1-5"
  },
  "0xd56bc3dbe780293f76d0c3c2d3c19bbb2607eda6701ac03ea537c8d9a0c6ce2a": {
   "created_at": "2026-04-14T15:40:26.167762Z",

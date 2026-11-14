@@ -878,6 +878,15 @@
   "sha256": "9379d3491c74e111856f70db1a10e2d6023d3e480a4762d8ba6f66124acee26c",
   "slug": "will-stuart-mcwhorter-be-next-to-hold-blackburns-senate-seat-by-march-31"
  },
+ "0x7dbdf077720163487fde91e3f0bd345004cd72f12496fd6b6920b326bcff7f57": {
+  "created_at": "2026-10-18T23:30:34.200255Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: O/U 4.5",
+  "revisions": 1,
+  "sha256": "51f892abb52e910582622d0d66e63f1d56c962aadfdcef191612e11dc989b19a",
+  "slug": "scop-dun-hmi-2026-10-31-total-4pt5"
+ },
  "0x7f9bfe4b2665b36c982edb5435005d8e97bf27c637cfb85cdc7a065f8fdf0f57": {
   "created_at": "2026-11-06T23:09:51.407616Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -900,10 +909,20 @@
   "created_at": "2025-10-13T19:13:45.78791Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will David Bronson win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",
   "slug": "will-david-bronson-win-the-2026-alaska-governor-election"
+ },
+ "0x84d0007773a67cb8effb65a69125e294029dfdf45ca09a911829ca6fe80d6657": {
+  "created_at": "2026-11-14T02:43:17.195215Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Next Mythos Model (5.3+) released by February 28, 2027?",
+  "revisions": 1,
+  "sha256": "64826c4a7e4c3c6da03c640c61e32575c6805b47030ca79d85b59f1de12201cb",
+  "slug": "next-mythos-model-5pt3-released-by-february-28-2027"
  },
  "0x8b74d37de96d8e21d21d84377cc235489a8bf2d24ebbb24fa2965d9dc46b7157": {
   "created_at": "2026-08-28T19:59:45.750395Z",

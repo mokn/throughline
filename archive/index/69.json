@@ -1032,6 +1032,15 @@
   "sha256": "e6b6c3d98fef208e9a76eb76f6159667d78f6387ea19ddc7ec88becca12c94db",
   "slug": "will-the-republican-win-the-arizona-governor-race-in-2026"
  },
+ "0x8d4b03bc93fa84c1fda0b25ee18b7ac1fee8a37f110230acac29cdcae6b8c169": {
+  "created_at": "2026-11-14T02:40:18.014097Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz be 3+ on December 31?",
+  "revisions": 1,
+  "sha256": "1ca2b968413aed26c7ff7449407738599570eccfa038709e288e3b1783ce0067",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-be-3-on-december-31"
+ },
  "0x910d80609d17fe6f4cb37c27d10e5ca6426ee1fe5c5d18ba0fc4ec49c23ca669": {
   "created_at": "2026-08-26T21:46:11.49952Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1326,6 +1335,7 @@
   "created_at": "2026-08-05T20:57:38.521249Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota gubernatorial election by 25%-30%?",
   "revisions": 1,
   "sha256": "e93d567dbb7779d2a0c253b56a777bccb3108683a148401da8a8aa1ab2669d85",

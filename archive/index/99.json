@@ -53,6 +53,15 @@
   "sha256": "ed06588c89a77cbe87f782abaf1b319a956ed45a73e1d52c50543ab94ab75f9b",
   "slug": "will-mohammad-bagher-ghalibaf-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221269"
  },
+ "0x0f92c033f269ad7d86a950fe4c05e5223b9bdb3a60203660e6d819fc8e3b7999": {
+  "created_at": "2026-07-30T19:07:50.305112Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Rob Sand win the South Carolina Democratic Presidential primary?",
+  "revisions": 1,
+  "sha256": "0c814892ef3ee7db39dbeca46a89ce61d527d5938e241d17ffe07dfb5d3eb54e",
+  "slug": "will-rob-sand-win-the-south-carolina-democratic-presidential-primary-20260728190840265"
+ },
  "0x100ca997333244356ee9a6f51f8018448adff02f93bc5809042ded624cac7499": {
   "created_at": "2026-09-14T21:41:59.282561Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -253,6 +262,15 @@
   "revisions": 1,
   "sha256": "589813a0eb37d207b3efa1617f842a8ecb0995fd78398d515bebe1b3a2175fca",
   "slug": "el1-not-bla-2026-09-26-halftime-result-draw"
+ },
+ "0x2a56e40389d4241833103cc34bcb8f319d6d89e72e5c022b4069eb19618eb799": {
+  "created_at": "2026-11-14T02:34:18.987563Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Strait of Hormuz traffic return to normal in December 2027?",
+  "revisions": 1,
+  "sha256": "0a6effd93d98b75658698a817279d6bb7e9cb20a0c90792423d54bfcbc9e6e75",
+  "slug": "will-strait-of-hormuz-traffic-return-to-normal-in-december-2027"
  },
  "0x2e3f80d827c4551886cc1c590f23ed4c9fc006417a842b5c6c8e84a3ccb4d199": {
   "created_at": "2026-10-29T20:53:32.105008Z",
@@ -683,10 +701,10 @@
  "0x622e3b8dcc089fb5049c8773fe5f9c8525b03bfbba41df822915e250cb257e99": {
   "created_at": "2026-10-25T04:01:52.605464Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-14T13:31:33Z",
   "question": "Will WTI Crude Oil (WTI) hit (LOW) $50 in November?",
-  "revisions": 1,
-  "sha256": "0ab0bdc4bc3352e7710a22191e5ebec06c8e0f662c55c61de0d3a6f7e918160c",
+  "revisions": 2,
+  "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",
   "slug": "will-wti-dip-to-50-in-november-2026"
  },
  "0x6584966892c37901dae6db6ef0548ff69bb46ee43ff7ab65f2019de004e51a99": {
@@ -1160,6 +1178,15 @@
   "revisions": 1,
   "sha256": "c846b05b0169bfef7fb45eb12b6ac41b4ba3a8f895b75f81c89f0f330885c392",
   "slug": "msft-above-465-on-november-30-2026"
+ },
+ "0xab3305643ef7359a90326b1f9ca37210bef91fd09d5ee336ed1e34b98d088599": {
+  "created_at": "2026-11-14T02:41:18.446107Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Suez Canal be 46+ on December 31?",
+  "revisions": 1,
+  "sha256": "e972ca96a5aafe11477a150c87f5dff0804a10832d2b073943af05f52078ad28",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-suez-canal-be-46-on-december-31"
  },
  "0xab92d16a44109639803d58fdaab391cdfd85f6b60b91ccc577134127f33a7a99": {
   "created_at": "2026-09-20T08:15:49.398983Z",

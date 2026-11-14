@@ -922,6 +922,7 @@
   "created_at": "2026-08-11T18:50:09.182219Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 SD-AL House election by 0%-10%?",
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",
@@ -1382,6 +1383,15 @@
   "revisions": 1,
   "sha256": "88b90fe87fe6bdfd88822a1c73021886f11ff7d47f888d40fb8e07555269428c",
   "slug": "will-colton-joseph-be-the-2026-big-ten-passing-yards-leader"
+ },
+ "0xcb14194710d47f035b9b18b0fe6229a4354bddf2e5d824578a14014bf59aca41": {
+  "created_at": "2026-11-14T00:31:29.643828Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Iceland be top 5 in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "788daf632993c30c4b220c561b635050bd412bce99a627cbdc73edec20992763",
+  "slug": "will-iceland-be-top-5-in-the-world-happiness-report-2027"
  },
  "0xcc42fa81adf9be77c9e805811ae6847359b015d6c1b91df8bddbdebeee349641": {
   "created_at": "2026-10-15T17:01:20.768279Z",

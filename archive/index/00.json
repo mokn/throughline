@@ -397,6 +397,7 @@
   "created_at": "2026-08-12T14:55:02.562086Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Houston have more than 9.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -667,6 +668,7 @@
   "created_at": "2026-09-30T20:21:50.597121Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Iran target Oman by November 30, 2026?",
   "revisions": 1,
   "sha256": "757a25e66dbeb57c41a16337380811c60fa03619c47e5a3d5c4f268d83b7b33a",
@@ -874,6 +876,7 @@
   "created_at": "2026-11-09T22:28:06.431044Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Roberto Mancini be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -1122,6 +1125,15 @@
   "revisions": 1,
   "sha256": "74424c6b0e353137788b70945945d2b0c36dc82d9a92f972e1b47f2c5463ad45",
   "slug": "will-aek-athens-finish-top-8-in-ucl-league-phase"
+ },
+ "0xb5179c7a05ae44799060e3103369b60d0e141f1b4d96914e9860496a08247600": {
+  "created_at": "2026-11-14T02:41:09.610419Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Suez Canal be 38+ on December 31?",
+  "revisions": 1,
+  "sha256": "e972ca96a5aafe11477a150c87f5dff0804a10832d2b073943af05f52078ad28",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-suez-canal-be-38-on-december-31"
  },
  "0xb710f72595a806df4474d4a9368f1c827a90b2ae89a5b71a53881c8e4d9deb00": {
   "created_at": "2026-10-06T15:15:42.833745Z",

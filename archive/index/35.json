@@ -45,6 +45,15 @@
   "sha256": "399949523ca15b431a5021d63ffe4fbe9e8d8c70657b734b620f55f04a3792ca",
   "slug": "will-the-republican-party-hold-more-governorships-after-the-2026-midterms"
  },
+ "0x0d3aa23e4c1b46937bbfbba6ee03d20d7abaa1550245316c15d022b335210c35": {
+  "created_at": "2026-10-18T09:00:07.894266Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 2 - 0 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-2-0"
+ },
  "0x12abafb6c669c5767ff0daa3650cf743c4891fff4f9a4733c73d91e636f29e35": {
   "created_at": "2026-08-18T14:19:46.38613Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -289,6 +298,15 @@
   "revisions": 1,
   "sha256": "3a449ba69e9ca368d33aabe7fca05825dba10b90e9b898ed464a11a3f3f2fd8e",
   "slug": "will-birch-and-swinnerton-dyer-be-the-next-millennium-prize-problem-solved-by-ai"
+ },
+ "0x3947a6152041a45eb3aacd924d3b23370dbcd0cc5f2e8168d6c1afb23f0cfa35": {
+  "created_at": "2026-11-14T02:44:24.413192Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the 7-day average ship traffic through the Panama Canal be 28+ on December 31?",
+  "revisions": 1,
+  "sha256": "69fbb1d3266ef9c4c1efd076d128e7794e5946673d3443de563863e16208bc4b",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-28-on-december-31"
  },
  "0x3a692df2a3936d64b0f7791ccfc4252a587e4ae1cda4d77fbcfeda61bba9fe35": {
   "created_at": "2026-05-14T18:33:25.741996Z",
@@ -624,6 +642,7 @@
   "created_at": "2026-11-09T22:28:10.489856Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Xavi Hernandez be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -1149,6 +1168,15 @@
   "revisions": 1,
   "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
   "slug": "will-drx-win-an-international-event-in-2027"
+ },
+ "0xb2aa8782324ac059b25c36ea83e6d87f147da03346e2cdb6d93943e4376ad335": {
+  "created_at": "2026-11-14T00:31:32.468618Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Sweden be 1st in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "66b65aa8021402fa5ad3b63785552e1db947e78403c42a65c79972ed5d5f615d",
+  "slug": "will-sweden-be-1st-in-the-world-happiness-report-2027"
  },
  "0xb73b23b135bb40488931bbb9bde2a0a01c288c5896afb6d8baafcb3984840b35": {
   "created_at": "2026-04-22T18:25:35.234798Z",

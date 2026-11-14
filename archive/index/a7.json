@@ -403,6 +403,7 @@
   "created_at": "2026-08-12T15:00:20.842278Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Pittsburgh have more than 8.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
@@ -870,6 +871,15 @@
   "sha256": "b45e065869f0006c06bd024105cb359f1291b1892fc470049bd45390010affa7",
   "slug": "will-uba-sani-win-the-2027-kaduna-state-gubernatorial-election"
  },
+ "0x97f044f21e0659aa86c8d68b0533831d3ba967dfa1cb3c62d4d7c16222ac4aa7": {
+  "created_at": "2026-10-18T23:30:32.923985Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Spread: Dundee United FC (-4.5)",
+  "revisions": 1,
+  "sha256": "fb1101dae4d89ae9f7a54d5f484eaa0dddc624d8727440efaf729ff3c5159bc5",
+  "slug": "scop-dun-hmi-2026-10-31-spread-home-4pt5"
+ },
  "0x9873d03d857e9daa8a6785c2758b56bd2d1141f6ebd79ad2e569a33c6e3a8da7": {
   "created_at": "2026-09-04T19:35:23.792622Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1083,6 +1093,7 @@
   "created_at": "2026-09-09T15:19:35.073086Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Azerbaijan win 2026-27 Nations League Group D2?",
   "revisions": 1,
   "sha256": "0cd669b1e407f2e387fc13f52fd0954e00fd72b029358ae3af650059630fdcce",

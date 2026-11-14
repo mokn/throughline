@@ -421,6 +421,7 @@
   "created_at": "2026-08-05T16:30:52.790611Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 South Dakota Senate election by 35%-40%?",
   "revisions": 1,
   "sha256": "2b8781933d980c5819e6c3cced6a53109d9b03a502e3f93d4f4ca8de133cb06e",
@@ -812,6 +813,7 @@
   "created_at": "2026-11-09T22:28:01.370822Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Thomas Tuchel be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -1397,6 +1399,15 @@
   "revisions": 1,
   "sha256": "8dbac0416febdc32cbefbf940d06a60944ec16d17e9f0f5ac559688968ec582c",
   "slug": "will-bitcoin-dip-to-25000-by-december-31-2026-948-243-253-666-115-787-981-282-573-719-186-417-762-754-486-851-278-145-417-178-244"
+ },
+ "0xe35f4abce30ae66e76eff7ce2836dc6bacf2cf34b47f81595f410cdce8473275": {
+  "created_at": "2026-11-13T17:08:50.519452Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Polymarket mindshare hit 70% by December 31?",
+  "revisions": 1,
+  "sha256": "9a3e7e7f600721c0b8e14a502eec8e50cd2abca25506233e089ae866205e3b14",
+  "slug": "will-polymarket-mindshare-hit-70-by-december-31-2026-20261113"
  },
  "0xe41efe1cb91daee166990f6d5d4eb0e4aa39960666365ecf2bd7c1ce5f7e4175": {
   "created_at": "2026-08-26T21:46:01.872312Z",

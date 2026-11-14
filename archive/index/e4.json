@@ -89,6 +89,15 @@
   "sha256": "10a0b3511296eb98356dfd7d1982900e201c6035292aff03161582bd9790c23e",
   "slug": "will-deportivo-la-coruna-win-the-2026-27-laliga-championship-20260701200737394"
  },
+ "0x11d017b3ccd3859f6594058f5a13c36631cd9965c587dfafab4a412fbeae8ce4": {
+  "created_at": "2026-11-14T06:19:51.951597Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Anthropic open between $80 and $90 on its first trading day?",
+  "revisions": 1,
+  "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
+  "slug": "anthropic-ipo-opening-price-80-90"
+ },
  "0x12fddb437f730517676b5e11d7ca587919b3023b6b8013a95048a82fc4f05fe4": {
   "created_at": "2026-08-19T21:59:04.05668Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -278,6 +287,15 @@
   "revisions": 1,
   "sha256": "0a9abbcc7d2463687564ed0498960812db9f268e066417d9b1d494f1f640d01e",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-04-house-election-by-0-5"
+ },
+ "0x3429b54defc4d01257e45c321272e928abc187ad783fac49de1c2f7ff95de8e4": {
+  "created_at": "2026-11-14T06:19:53.822019Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "No Anthropic IPO by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
+  "slug": "anthropic-ipo-opening-price-no-ipo-by-2027"
  },
  "0x356d92a8c40e3033cca07ffca41c9628bdf6d509796c3f3060c87590934e2be4": {
   "created_at": "2026-01-28T15:41:30.193766Z",
@@ -972,6 +990,7 @@
   "created_at": "2025-10-13T19:13:57.851023Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Hank Kroll win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",

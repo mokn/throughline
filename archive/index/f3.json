@@ -649,6 +649,15 @@
   "sha256": "cff6947d096b10f359e5f269e7c8906c8fcd76954d1d2f6a86cdac69dea26e3d",
   "slug": "aapl-above-310-on-november-30-2026"
  },
+ "0x551afbb544d0113ad71e43e4176c0a250ae8ed88a88a6dc2d2871ed97fc483f3": {
+  "created_at": "2026-11-14T02:34:10.686616Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Strait of Hormuz traffic return to normal in May 2027?",
+  "revisions": 1,
+  "sha256": "0a6effd93d98b75658698a817279d6bb7e9cb20a0c90792423d54bfcbc9e6e75",
+  "slug": "will-strait-of-hormuz-traffic-return-to-normal-in-may-2027"
+ },
  "0x556cd658dbaf798658278c87acde4f3bed8db171b1b508b31a60582089ed5bf3": {
   "created_at": "2026-08-05T10:51:23.47478Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -775,6 +784,15 @@
   "revisions": 1,
   "sha256": "12cd7c23cc9fdb8ee209500cb7e572cf2f40644376e876e8dbec7303af8ac4d5",
   "slug": "will-v-varen-nagasaki-finish-17th-in-japan-j-league-2026-27"
+ },
+ "0x63ef42bcc34eeecd0b0c517be38d9f7a52f5129f0f282c5f0db7a4fe2a59d5f3": {
+  "created_at": "2026-11-14T00:31:38.761744Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the US rank 28th or lower in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2f6517f60bd14bcd1056f7e5ea845b39a5c79165c284b357a6556bf7e373289e",
+  "slug": "will-the-us-rank-28th-or-lower-in-the-world-happiness-report-2027"
  },
  "0x6459def9416bbb4016d29f4e82ae28a10bd187fde3ffbb0b92e8a437a0b42ff3": {
   "created_at": "2026-11-12T20:19:37.600322Z",
@@ -1386,6 +1404,7 @@
   "created_at": "2026-11-11T00:51:23.995742Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Gemini Hydrogen debut in the top 5 of the Text Arena leaderboard by June 30, 2027?",
   "revisions": 1,
   "sha256": "da55b0032c9b8da270ff2d47214b7a391418f22bc93481b6c064f4122f8f9343",
@@ -1714,6 +1733,7 @@
   "created_at": "2025-10-13T19:13:59.105314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Matt Claman win the 2026 Alaska governor election?",
   "revisions": 1,
   "sha256": "90ebd3028ee49d7684a88ccff99947385c98a8bd1dc8d0fe4d1a3c02cc8b1e16",

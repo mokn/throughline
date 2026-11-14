@@ -415,6 +415,15 @@
   "sha256": "226b79a9a28a6ef6d843c4d58371e91dd6176cf34e0d9978e5de3a4fb8df4643",
   "slug": "will-the-democrats-win-oregon-in-the-2028-presidential-election"
  },
+ "0x4322b6f000f2b7750614b3792aeaffdf03bf0949d4085bc6543b9d4a5cae876b": {
+  "created_at": "2026-11-14T02:42:18.159001Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 22, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-22-2026"
+ },
  "0x436a4e37ebc0d9963b2a825a1229984298d912e3e55552cf078007d933325d6b": {
   "created_at": "2026-05-19T05:03:32.995778Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1050,6 +1059,15 @@
   "sha256": "ef8b26e0493b0cbfb7c800bfcc323d532cceaa0fa27c17e8caa656caef87ee16",
   "slug": "rhamondre-stevenson-224pt5-rushing-yards-2026-27"
  },
+ "0xa94e52b6c0b824fed400c53f04d2d5c3bd719ee2b3ca03c811f0273b292aeb6b": {
+  "created_at": "2026-11-14T00:31:31.492336Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Denmark be 2nd in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2bcc69ba8991c8a71be8359e69398193ff07efba786c086d2a0dba16bae8abf5",
+  "slug": "will-denmark-be-2nd-in-the-world-happiness-report-2027"
+ },
  "0xaa9706149375a7b3cd05d3c4f19ab84460f56ee8a4079396127ab23a42f7b16b": {
   "created_at": "2026-08-10T23:57:35.969718Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1208,6 +1226,7 @@
   "created_at": "2026-06-26T16:02:29.910611Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Kathleen Taylor win the 2026 Reno mayoral election?",
   "revisions": 1,
   "sha256": "e09f32726bdd79fe0a864f49664a4e80227e0e8d65032429e08ac0447aa4bf21",

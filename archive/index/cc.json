@@ -965,6 +965,15 @@
   "sha256": "63cbb9886ce4c61ab03246ad7dba47f589b990161a3e9e3a1caf4253fa84fd12",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-maine-be-between-600000-and-650000"
  },
+ "0xa62690969cf4009357575afd979ec3bace61c2fbd9cdd3c4ebb0ae4c6d2cbbcc": {
+  "created_at": "2026-11-14T02:42:26.328339Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will there be no next Gemini Carbon model (4.1+) release by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-there-be-no-next-gemini-carbon-model-4pt1-release-by-december-31-2026"
+ },
  "0xa661b1f4027adce3243c5c0f8aa085401f17da627ea6a4dcec557b8f695da6cc": {
   "created_at": "2026-01-28T15:40:39.741047Z",
   "first_seen": "2026-11-04T01:55:27Z",

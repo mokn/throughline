@@ -126,6 +126,15 @@
   "sha256": "cd003e258968191ae660fd9523107564331a232cb0c510526244fe1a363391b3",
   "slug": "spl-ith-sha-2026-10-16-exact-score-2-4"
  },
+ "0x14bad77188bbbe8e716136564b1bb3bdd88f686715bc53078d91b4247a5bf517": {
+  "created_at": "2026-10-18T09:00:08.211804Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 0 - 4 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-0-4"
+ },
  "0x179969f72c80872a88cc91cfbfbe66330216375001eff3701eb26ef3165f5217": {
   "created_at": "2026-08-07T19:13:51.227623Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -441,6 +450,7 @@
   "created_at": "2026-11-09T22:28:08.560302Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Ange Postecoglou be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -757,6 +767,15 @@
   "sha256": "a6d382417ab7b575735a7d83268542aebc3d331e8551316d6833e680c6a64cd9",
   "slug": "will-gta-vi-break-the-24-hour-sales-record"
  },
+ "0x97ef16c30e6383fb084006621379223a2a7a858cb66f5b34e3edb6ef37558217": {
+  "created_at": "2026-10-18T23:30:37.445654Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Heart of Midlothian FC O/U 3.5",
+  "revisions": 1,
+  "sha256": "04265a7c39e31cb2312fcab8988ecd525a7a4e6129e5bd2dd3994a3f3c340813",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-away-3pt5"
+ },
  "0x9e39abc3ebce0b5ca3f60ab5c18e955299f442db338de16b89a4c148645a2d17": {
   "created_at": "2026-09-25T23:28:17.01908Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1015,6 +1034,7 @@
   "created_at": "2026-11-11T00:51:00.673974Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Gemini Hydrogen debut at a score of at least 1520 by June 30, 2027?",
   "revisions": 1,
   "sha256": "d367b97fa0476fb5edde9f2e4d0124da416050865764079ee0a73fe4d28b71c4",

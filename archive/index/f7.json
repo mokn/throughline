@@ -644,6 +644,15 @@
   "sha256": "b6386b4e980e6f6c2423f8b72ac88b9f2cb28c122332be5cd278dd20df2bf0ba",
   "slug": "romeo-doubs-6pt5-receiving-touchdowns-2026-27"
  },
+ "0x7674ef58986271ba70dbe498c0869b04d514331fa54803a64113422d9cac87f7": {
+  "created_at": "2026-10-18T23:30:36.177505Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Dundee United FC O/U 1.5",
+  "revisions": 1,
+  "sha256": "3ec60ac750350461530c8255219f12f3acef502c7d1cae83d812f975209d2379",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-home-1pt5"
+ },
  "0x76a54bbcc95404f906e192d8686ada4faa3fe2aab498fc153ccc364b5e861ef7": {
   "created_at": "2026-10-21T23:52:51.723657Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1258,6 +1267,7 @@
   "created_at": "2026-11-09T22:27:58.471989Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Unai Emery be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",

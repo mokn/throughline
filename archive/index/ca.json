@@ -280,6 +280,15 @@
   "sha256": "9090ec3ea6a60cdef34839a75e2180a9e67d442a0a3fdf93d8d021a51ece9c6d",
   "slug": "will-corum-f-k-finish-3rd-in-super-lig-2026-27"
  },
+ "0x25951a872e611f9b2816ef88d35e3f201361892849bf930e97e568a125f3adca": {
+  "created_at": "2026-10-18T09:00:08.979334Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Exact Score: Dundee United FC 3 - 3 Heart of Midlothian FC?",
+  "revisions": 1,
+  "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
+  "slug": "scop-dun-hmi-2026-10-31-exact-score-3-3"
+ },
  "0x25e961b73889e80bb2e8e7e9611aa573cf5f7cae0d7db8a488256cf758f0f1ca": {
   "created_at": "2026-04-28T17:14:56.489735Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -606,6 +615,15 @@
   "revisions": 1,
   "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
   "slug": "will-patrik-laine-record-50-goals-in-the-2026-27-regular-season"
+ },
+ "0x658cebf84e29167e3531a62b05c577f2e7cde99a23dabcff54095975aa46baca": {
+  "created_at": "2026-11-14T03:05:03.304555Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Jordan join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-jordan-join-the-mecca-agreement-by-december-31-2027"
  },
  "0x6735b6e9c6261b5c3173d0a2a71db679f1d2490ef418a964a28a3661005ca2ca": {
   "created_at": "2026-10-16T08:59:15.305864Z",

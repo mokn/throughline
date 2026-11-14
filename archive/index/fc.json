@@ -102,6 +102,7 @@
   "created_at": "2026-09-28T20:21:53.62799Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the chopsticks catch SpaceX Starship Flight Test 15 Super Heavy booster?",
   "revisions": 1,
   "sha256": "411a86a7e5b6f15438f78ca94b774c250d09f58e8c2bbfaccd844dd6b2002d3a",
@@ -1241,6 +1242,15 @@
   "sha256": "5ef9c17322ad02f58f2baab21c91e8243c2e70eaf83efcf5f6908809c39cc353",
   "slug": "will-there-be-under-10-tornadoes-in-the-us-in-november-2026"
  },
+ "0xb20a57f2783da5ee31b36a63ceacd40fd2935b0baced544407df60cf844153fc": {
+  "created_at": "2026-11-03T22:35:32.697402Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will John McEntee win the Iowa Republican caucus?",
+  "revisions": 1,
+  "sha256": "686f31bff4389afef6af391d347c7ac79e6802ea97fa6a1134c88a610b8834e2",
+  "slug": "will-john-mcentee-win-the-iowa-republican-presidential-caucus-20261028250"
+ },
  "0xb51bc725762c9beb5ee41acb2499bb9eb52e70449fd31d40c45387c6cf6c31fc": {
   "created_at": "2026-10-15T18:02:45.504947Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1587,6 +1597,15 @@
   "sha256": "2339b875d84056f07bb560b4af8061c3fb27c3e4d00c0a8ee226885c776cf28a",
   "slug": "will-e-win-2026-ncaa-coach-of-the-year-20260805165528856"
  },
+ "0xe94b20b24b61330bb48fbf1a656cb44839cf6ecb53252e7023d5155027586ffc": {
+  "created_at": "2026-10-18T23:30:37.601677Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: Heart of Midlothian FC O/U 4.5",
+  "revisions": 1,
+  "sha256": "bcf5bddbcea0ac4eb5118acce53d801747d3a4aea5ac7f1546d5cea0dd594656",
+  "slug": "scop-dun-hmi-2026-10-31-team-total-away-4pt5"
+ },
  "0xea9500adc65a82d3e47e125620589ede1f63efc500b00f37d7e100a5a9ea81fc": {
   "created_at": "2026-10-13T15:57:39.360128Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1703,6 +1722,7 @@
   "created_at": "2026-08-11T15:07:32.314961Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Republicans sweep the Alaska Senate and Governor elections?",
   "revisions": 1,
   "sha256": "0cdea5b6be3668b029eba9233bcdb274f2296d42713ff5911e1f0fbc85f0af56",

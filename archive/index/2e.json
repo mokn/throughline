@@ -234,6 +234,15 @@
   "sha256": "7361b38a6d4067aed1e2c79e89875d576f7a01426b0a83b508200e4a8b9e1481",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ma-09-house-election-by-5-10"
  },
+ "0x25d19446f2dfa98f3009aa97b8b3f8afe4672b0afea25aabfa12c0f8337d642e": {
+  "created_at": "2026-11-14T03:05:05.183756Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Lebanon join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-lebanon-join-the-mecca-agreement-by-december-31-2027"
+ },
  "0x2841504a941b9349a0f7156a88f8d535926b0e76fd7410db1dd1eb5884abde2e": {
   "created_at": "2026-08-24T16:32:31.845713Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -488,6 +497,15 @@
   "revisions": 1,
   "sha256": "d596a06194a7e85ea021b48b47f58981a4936cd7b0e7048de783e3daa5336141",
   "slug": "will-buffalo-bills-win-the-2026-afc-east"
+ },
+ "0x4a88b7b7246c2da3cba555b3a007cf63f1a81859c8a0c59adb735913e3c3662e": {
+  "created_at": "2026-11-14T03:00:31.030769Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Stephen Miller leave the Trump administration before 2028?",
+  "revisions": 1,
+  "sha256": "04c3ed86b84a9e031aa910bc1cbfcbc25ef02e3a72fde9448f7373f2275087c7",
+  "slug": "will-stephen-miller-leave-the-trump-administration-before-2028"
  },
  "0x4b7c5ba114f18fe55495574922bcd4760cd593427153429565e572dd6f94042e": {
   "created_at": "2026-08-28T05:57:31.670399Z",

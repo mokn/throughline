@@ -370,6 +370,15 @@
   "sha256": "62e44434432dbe9efc937392fe4e6469410628819f45e0ddbfd6f865c2696779",
   "slug": "will-christopher-haworth-reach-the-final-of-the-2027-ppa-tour-finals"
  },
+ "0x3138c48ec4604047de0f8467e80021eb3a33fcce8ccb8e361c0110949523ee58": {
+  "created_at": "2026-10-18T23:30:33.903104Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Dundee United FC vs. Heart of Midlothian FC: O/U 2.5",
+  "revisions": 1,
+  "sha256": "151cf64748c840b01292a973889eee905611f754f8817999c6673740dbdb450c",
+  "slug": "scop-dun-hmi-2026-10-31-total-2pt5"
+ },
  "0x3344cf216d340e6415f43fbe705489ce2c673c9c27527182e23a632d18456458": {
   "created_at": "2026-08-11T18:42:19.126134Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -834,6 +843,15 @@
   "sha256": "668106335097627dd9f2b2e4baf7c605d7cc1237cd8ae76c84b1f8d0537e2823",
   "slug": "2027-soccer-primeira-liga-runner-up-sporting-cp"
  },
+ "0x7e684ab115c59cfeb76baa20c74c6c1fce3d68c06d9e8c2e68334a2cedb4c658": {
+  "created_at": "2026-11-14T00:24:38.861309Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the Fed hike-pause-hike in the next three decisions (Dec-Jan-Mar)?",
+  "revisions": 1,
+  "sha256": "706000fe388e402454d57c824da839e12e303c91cb5e0722c5554d8ca0b365cc",
+  "slug": "will-the-fed-hikepausehike-in-the-next-three-decisions-decjanmar-2027"
+ },
  "0x7e820a0f2de330b0d8fbfa7886e8c7a7a39180882d61cc9927aee823d238ca58": {
   "created_at": "2026-08-12T00:11:57.306054Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -869,6 +887,15 @@
   "revisions": 1,
   "sha256": "4c9e63f824ded4b557487ddd08ad81f5a83aa4096bbddb95720861285fb0999b",
   "slug": "mark-andrews-2pt5-receiving-touchdowns-2026-27"
+ },
+ "0x8c537be2887a5f2a4e6d0da2f4540221a5a53db8b028a3b90726e26077586158": {
+  "created_at": "2026-11-13T19:58:14.128424Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Which 2028 presidential primary is decided first?",
+  "revisions": 1,
+  "sha256": "890ee03bca2eca07177d5b1ebeb1b0b7fe56a8d8a050f28f2dafbc386158b6b9",
+  "slug": "which-2028-presidential-primary-decided-first-dems-or-reps"
  },
  "0x8c5add499d799da5ed2a785384f9924e7c99b58342d4e04a4131ca807de98d58": {
   "created_at": "2026-08-05T18:43:09.435671Z",

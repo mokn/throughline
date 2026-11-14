@@ -342,6 +342,15 @@
   "sha256": "84993f61bf8f2e62eb70ed330357d7f9eca669649da2a1da059fc8be97824330",
   "slug": "will-gleans-valuation-hit-high-12pt5b-by-december-31-20260701011238538"
  },
+ "0x42e23508ab1d13be03af1aa95610e5a6b82cb05bc22287fa2581148786b940fa": {
+  "created_at": "2026-11-14T00:31:33.234858Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Luxembourg be top 5 in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "788daf632993c30c4b220c561b635050bd412bce99a627cbdc73edec20992763",
+  "slug": "will-luxembourg-be-top-5-in-the-world-happiness-report-2027"
+ },
  "0x44460b9910baca37a8400050b16489caa82b100e6b93d4121af4ce7f4be336fa": {
   "created_at": "2026-08-26T21:47:08.067387Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -526,10 +535,20 @@
   "created_at": "2026-09-09T15:19:13.333849Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Faroe Islands win 2026-27 Nations League Group C3?",
   "revisions": 1,
   "sha256": "d45a7e52212a0ef2075e1282e330dcfc19e77bc53c925ad580c9a3774af2f18d",
   "slug": "will-faroe-islands-win-2026-27-nations-league-group-c3"
+ },
+ "0x61ff3c40030ebf9dd919a274fd6d2af9c11bd5ea2a109332e4da650c04cad4fa": {
+  "created_at": "2026-11-14T00:31:34.297333Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Israel be 2nd in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "2bcc69ba8991c8a71be8359e69398193ff07efba786c086d2a0dba16bae8abf5",
+  "slug": "will-israel-be-2nd-in-the-world-happiness-report-2027"
  },
  "0x63a1b1fc06a405cd3603de2ccb60d60b000145b7490e4818a2a538d97d4670fa": {
   "created_at": "2026-10-29T20:58:04.178269Z",
@@ -725,6 +744,7 @@
   "created_at": "2026-11-09T22:28:09.552835Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Wayne Rooney be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",

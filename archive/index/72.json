@@ -519,6 +519,7 @@
   "created_at": "2026-11-09T22:27:56.017689Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Mauricio Pochettino be the next permanent manager of Manchester United?",
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
@@ -786,10 +787,20 @@
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
   "slug": "will-boaster-play-for-edward-gaming-in-2027-1788882258365"
  },
+ "0x68bbba4d4eb59654cbc158156c7e437c1d8af46b49fe2aaf29ff624d1d102e72": {
+  "created_at": "2026-11-14T02:42:22.980703Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 26, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-26-2026"
+ },
  "0x698aa3279b2a2e6f4a7eb94c3e4f89f5405f23be01742692000656d7e3d46a72": {
   "created_at": "2026-09-09T15:19:34.820388Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Lithuania win 2026-27 Nations League Group D2?",
   "revisions": 1,
   "sha256": "0cd669b1e407f2e387fc13f52fd0954e00fd72b029358ae3af650059630fdcce",
@@ -813,6 +824,15 @@
   "revisions": 1,
   "sha256": "4bb3c384633129b7302b57f977b19b0343d5eeb8c2e7859318326ad97d8f46f2",
   "slug": "will-the-republican-party-candidate-win-the-2026-az-08-house-election-by-15-18"
+ },
+ "0x706694981cacd932340fe2f45e33e62521c1518b6f9eb2eed3dfa10c1740a572": {
+  "created_at": "2026-11-14T02:42:09.957177Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will the next Gemini Carbon model (4.1+) be released on December 13, 2026?",
+  "revisions": 1,
+  "sha256": "401e6b379ab90899fb4562a24f09e4f2e1e0b304cab5b9f318bad1865263e27f",
+  "slug": "will-the-next-gemini-carbon-model-4pt1-be-released-on-december-13-2026"
  },
  "0x72c3f8cc52b77af5def70215496aa21b9ca1aeddc000524252a7a4f14d1fb272": {
   "created_at": "2026-10-13T19:37:19.812979Z",

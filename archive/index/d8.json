@@ -39,6 +39,7 @@
   "created_at": "2026-08-11T18:50:08.121294Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will the Republican Party candidate win the 2026 SD-AL House election by 20%-25%?",
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",
@@ -944,6 +945,15 @@
   "revisions": 1,
   "sha256": "be6363e8230799ccb0ea41d9d27f68c33aa35b04ae5994ee7cdce1b21df06669",
   "slug": "will-bryce-harper-be-on-the-cover-of-mlb-the-show-27"
+ },
+ "0x97e0b023ab80391cdd75fc63fe82063fc1c927189a3786863be9d79cc4e63cd8": {
+  "created_at": "2026-10-18T23:30:32.163021Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Spread: Heart of Midlothian FC (-1.5)",
+  "revisions": 1,
+  "sha256": "3e06a7d90734789a1f7062356358718c3007d7628042965d3f3ba05d11a4626c",
+  "slug": "scop-dun-hmi-2026-10-31-spread-away-1pt5"
  },
  "0x98f4e3ce6cd8243470257e159fe8833908fa12c98d642b1d34907d9469af84d8": {
   "created_at": "2026-11-13T00:29:52.59013Z",

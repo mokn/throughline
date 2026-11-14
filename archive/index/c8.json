@@ -609,6 +609,7 @@
   "created_at": "2026-11-11T00:51:23.158901Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-14T13:31:33Z",
   "question": "Will Gemini Hydrogen debut in the top 1 of the Text Arena leaderboard by June 30, 2027?",
   "revisions": 1,
   "sha256": "da55b0032c9b8da270ff2d47214b7a391418f22bc93481b6c064f4122f8f9343",
@@ -784,6 +785,15 @@
   "revisions": 1,
   "sha256": "c57d2c1fd09a0aca684b4178d0df2e938d8472aa2dd45d6d986efeb202699616",
   "slug": "will-anabell-avalos-zempoalteca-win-the-2027-tlaxcala-governor-election-20260803173858367"
+ },
+ "0x7a1fcc4001764956c775022cc99a2a3a3013f30052df4f281f1a7eee785b79c8": {
+  "created_at": "2026-11-14T06:19:53.072961Z",
+  "first_seen": "2026-11-14T13:31:33Z",
+  "last_changed": "2026-11-14T13:31:33Z",
+  "question": "Will Anthropic open between $110 and $120 on its first trading day?",
+  "revisions": 1,
+  "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
+  "slug": "anthropic-ipo-opening-price-110-120"
  },
  "0x7a6733a055f51abd9098600137ec0217541a4613d384c5028ce907ba478916c8": {
   "created_at": "2026-11-12T20:19:11.516628Z",
