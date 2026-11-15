@@ -646,6 +646,7 @@
   "created_at": "2026-08-26T21:47:15.411947Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Qizilqum keep the most clean sheets in the 2026 Uzbekistan Super League?",
   "revisions": 1,
   "sha256": "0f9c3060405ad9bd58a1341ed962908b5ba61f0e02f1aa7cb965398e69b7e131",
@@ -1060,6 +1061,15 @@
   "sha256": "876e14b5f9e7a10e07fa9693123e39701a319cb847a660919dea99e0bd30e232",
   "slug": "will-sam-ejekwu-win-the-2027-rivers-state-gubernatorial-election"
  },
+ "0x94ba681c9f5e14e4ea160dfda4b629a5f67115f49ff00ebc028a0d14806f46be": {
+  "created_at": "2026-11-14T21:58:01.353377Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait reach 35+ by December 31?",
+  "revisions": 1,
+  "sha256": "5d6559ba133e6f718eed5aac6d5b5d485ec225476d3c453413e42ace083d4ab2",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-reach-35-by-december-31"
+ },
  "0x950e0c243880f9cbbaf1e73e50cf14fe11e851fbb778b9ef5d2be1e9c87a3abe": {
   "created_at": "2026-01-28T15:30:08.924367Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1328,6 +1338,7 @@
   "created_at": "2026-09-09T02:44:07.747355Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Kanavi win Worlds 2026 Finals MVP?",
   "revisions": 1,
   "sha256": "4a0300f982673f62c12d806e89fc80053d2ac07a54a7241a0aefa9baf0d49172",

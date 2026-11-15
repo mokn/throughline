@@ -39,6 +39,7 @@
   "created_at": "2026-10-02T20:14:34.016292Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will there be 4+ Pentakills at Worlds 2026?",
   "revisions": 1,
   "sha256": "382d0779be4314633d6c7af0014bd6c8ce947f52b78d231ab4eb87fed2108ae6",
@@ -255,6 +256,15 @@
   "revisions": 1,
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",
   "slug": "will-portugal-be-relegated-from-nations-league-a-in-2026-27"
+ },
+ "0x2a939931c880379be0ff462671872a6469cb63a7a7a47871854e876e1446ef7c": {
+  "created_at": "2026-11-14T21:51:08.235515Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 210+ on December 31?",
+  "revisions": 1,
+  "sha256": "ae6a243ebcbf420bc7f75c122ba727ba8ea7560d45c18642f73159a12b7855f8",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-210-on-december-31"
  },
  "0x2c37524d0f90b629f17e2c6219f646703e2151452f1a7973e8e03932e9a14a7c": {
   "created_at": "2026-11-13T00:00:58.513168Z",
@@ -1639,6 +1649,7 @@
   "created_at": "2026-09-09T15:48:03.834253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Atletico Madrid win the 2026-27 UEFA Women's Champions League?",
   "revisions": 1,
   "sha256": "cd5b8acec89c6ac42af61dd5a2b85ae2f58fd1b0e211b4b5dd66af9d3088438f",

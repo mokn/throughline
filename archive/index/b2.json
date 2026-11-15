@@ -438,6 +438,7 @@
   "created_at": "2026-09-09T02:44:07.490935Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Zeus win Worlds 2026 Finals MVP?",
   "revisions": 1,
   "sha256": "4a0300f982673f62c12d806e89fc80053d2ac07a54a7241a0aefa9baf0d49172",
@@ -565,6 +566,7 @@
   "created_at": "2026-08-26T21:47:14.97659Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Nasaf keep the most clean sheets in the 2026 Uzbekistan Super League?",
   "revisions": 1,
   "sha256": "0f9c3060405ad9bd58a1341ed962908b5ba61f0e02f1aa7cb965398e69b7e131",
@@ -1556,6 +1558,15 @@
   "revisions": 1,
   "sha256": "39e6332c74717eed43e032eba5cb52088bec36ada36397fdcbeb742e859516b8",
   "slug": "will-xiaomi-be-the-second-best-math-ai-lab-at-the-end-of-november-2026"
+ },
+ "0xd65e7a4b8a59c9d5ea28f43fe5a6cb0f7eb407c517c6be6e649c951204c56cb2": {
+  "created_at": "2026-11-14T21:51:08.674234Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 220+ on December 31?",
+  "revisions": 1,
+  "sha256": "ae6a243ebcbf420bc7f75c122ba727ba8ea7560d45c18642f73159a12b7855f8",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-220-on-december-31"
  },
  "0xd7afe23e0e4cd8fe2edd021dfecbb9c8dea75d6905e0bd8e34572a0230c6cfb2": {
   "created_at": "2026-10-15T17:01:03.933286Z",

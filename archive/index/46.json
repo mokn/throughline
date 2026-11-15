@@ -180,6 +180,15 @@
   "sha256": "f7259b2119bb37018425bca4b92b8a08948760d253f41008febe7c3e0aaf3816",
   "slug": "will-aid-avila-covarrubias-win-the-2027-san-luis-potosi-governor-election-20260803173856700"
  },
+ "0x21c5e05bad7e32c00d4e328b70a249dc908207036ebf5f2a3302a4b2088ff146": {
+  "created_at": "2026-11-14T21:58:01.789776Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait reach 40+ by December 31?",
+  "revisions": 1,
+  "sha256": "5d6559ba133e6f718eed5aac6d5b5d485ec225476d3c453413e42ace083d4ab2",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-reach-40-by-december-31"
+ },
  "0x21cb5be2cb202e1d87d1758ef66a2ba71b4343b86a0d7f53fa739369cce63c46": {
   "created_at": "2026-08-11T18:25:38.010503Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -391,6 +400,7 @@
   "created_at": "2026-08-12T00:09:03.337285Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will \u00c1guilas Doradas win the 2026-II Colombia Primera A?",
   "revisions": 1,
   "sha256": "b9314ffdd245db77d513367f3580083f235dcae6b499ea4389aa8c2d3e4cb759",
@@ -454,6 +464,7 @@
   "created_at": "2026-09-09T02:44:14.358793Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Busio win Worlds 2026 Finals MVP?",
   "revisions": 1,
   "sha256": "4a0300f982673f62c12d806e89fc80053d2ac07a54a7241a0aefa9baf0d49172",
@@ -1500,6 +1511,7 @@
   "created_at": "2026-08-23T17:44:20.521271Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Quer\u00e9taro FC vs. CF Monterrey: O/U 13.5 Total Corners",
   "revisions": 1,
   "sha256": "93db602b9259e0e847ea2e06fe13468ae735d50dcf3451d0cc6272970b92961e",

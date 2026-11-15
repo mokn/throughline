@@ -456,6 +456,7 @@
   "created_at": "2026-10-13T19:52:15.001611Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Red Bull Salzburg win the 2026-27 Champions Hockey League?",
   "revisions": 1,
   "sha256": "f7da3b136d5c003bc200286da7254a38aa256f4b1a0291363eb37c04e5307ff3",
@@ -912,6 +913,7 @@
   "created_at": "2026-06-02T18:01:53.324093Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Al Lawson win the Tallahassee mayoral election?",
   "revisions": 1,
   "sha256": "9653e7076225f71fd16d77d976452499b196bdb827d7fc87622c00da6823d5cb",
@@ -1153,6 +1155,15 @@
   "revisions": 1,
   "sha256": "b30ea15a663b8f6988e41fbf1fdd242c2195673b5c45d9fe2fd2f25014e48432",
   "slug": "will-moreirense-win-the-2026-27-primeira-liga-championship-20260701201425846"
+ },
+ "0xa3d8344e1fda781e5f4329c961235a262ab16d75aaacdc96b130637b18e4088a": {
+  "created_at": "2026-11-14T21:51:09.399441Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 230+ on December 31?",
+  "revisions": 1,
+  "sha256": "ae6a243ebcbf420bc7f75c122ba727ba8ea7560d45c18642f73159a12b7855f8",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-230-on-december-31"
  },
  "0xa3db176829b50e0a0327ef06c52b515df8056efb5f5a57306fe9597f6694438a": {
   "created_at": "2026-08-10T14:53:57.964799Z",

@@ -156,6 +156,7 @@
   "created_at": "2026-10-15T16:33:23.526898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Nocturne be the most banned champion at Worlds 2026?",
   "revisions": 1,
   "sha256": "40a1a21a8ae542358d0b4c0858b40e36cc68c6c9f83601c5fc99cca3d88fb3fc",
@@ -677,6 +678,7 @@
   "created_at": "2026-08-23T16:45:19.820417Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Exact Score: Quer\u00e9taro FC 1 - 0 CF Monterrey?",
   "revisions": 1,
   "sha256": "a541cfe3a59cb25f8581339214745d225b5340a9d7f10db672cfb90513f0ba56",
@@ -1200,6 +1202,15 @@
   "revisions": 1,
   "sha256": "1324c7df383b06f822ca4dafa0a3f41be80c2553c25efce43a90806e228409dd",
   "slug": "will-chronicle-play-for-team-liquid-in-2027-1788364450495"
+ },
+ "0xb57cd7a2217ea0085db5fafc3ce5d743dc161d9c3367e15f36af5b8541f62b83": {
+  "created_at": "2026-11-14T21:51:07.115986Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 190+ on December 31?",
+  "revisions": 1,
+  "sha256": "ae6a243ebcbf420bc7f75c122ba727ba8ea7560d45c18642f73159a12b7855f8",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-190-on-december-31"
  },
  "0xb5bed494557ed6c60ed7c28173e34bff0ef28f7ed1d6fd40fae6866c1b00a783": {
   "created_at": "2026-09-09T15:47:19.903561Z",

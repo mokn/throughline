@@ -12,6 +12,7 @@
   "created_at": "2026-07-14T02:36:16.424443Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Atl\u00e9tico de San Luis win the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "b21eb88fedd03240a0fbc442c4ddc943466f764be59ef1d2d7628b62bf1d0790",
@@ -914,6 +915,15 @@
   "revisions": 1,
   "sha256": "8f73eeb2f4bbbe7c7a2ed9b96b67771fabf084bd8e388e310d79d947dc9faf07",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-16-house-election-by-30-35"
+ },
+ "0x8ce8fcf26f52b51c880575ac8c60ae15a171859272bb0f68d76ef18901c6cd56": {
+  "created_at": "2026-11-14T14:34:59.322567Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will Bangladesh join the Mecca Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
+  "slug": "will-bangladesh-join-the-mecca-agreement-by-december-31-2027"
  },
  "0x8daf03b66c56c1a7d7e1bbd2dc0201ef60de2080c12dd73702ccb0c9ded2d356": {
   "created_at": "2026-09-01T14:30:24.576511Z",

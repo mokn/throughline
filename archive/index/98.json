@@ -387,6 +387,7 @@
   "created_at": "2026-09-02T20:27:27.515531Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will it snow in Pittsburgh, PA by November 15?",
   "revisions": 1,
   "sha256": "9f5a09892d591ac46b1a242c786f324d23ac4a8b8a66e95e505cc66dd6a78f58",
@@ -1134,6 +1135,7 @@
   "created_at": "2026-08-24T08:00:34.224399Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Quer\u00e9taro FC vs. CF Monterrey: Quer\u00e9taro FC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "6eb380a1245184bff48a52bf2570a9bba57c2758b252cb6a2504b515c8620ba9",
@@ -1179,10 +1181,20 @@
   "created_at": "2026-09-30T23:54:20.209601Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Trump invokes war powers in Yemen by October 31?",
   "revisions": 1,
   "sha256": "0405e8ded8c56d479c39c0a660a530ffc05d49330a3e6fe666a3f12034022a1b",
   "slug": "trump-invokes-war-powers-in-yemen-by-october-31"
+ },
+ "0xcd797e87f1fdd23c3be790c46151dfe0a082a5fdbb875f2abec4b92f418c8a98": {
+  "created_at": "2026-11-14T21:58:02.364194Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait reach 45+ by December 31?",
+  "revisions": 1,
+  "sha256": "5d6559ba133e6f718eed5aac6d5b5d485ec225476d3c453413e42ace083d4ab2",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-reach-45-by-december-31"
  },
  "0xd0edaf42204cdae0beacf3d929f178b3ebe627685d9ff94b09ca57d18068df98": {
   "created_at": "2026-08-24T16:34:06.678477Z",

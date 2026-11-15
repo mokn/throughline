@@ -35,6 +35,15 @@
   "sha256": "ebbac79bae095632b6d0b9d643804f059ebc1e2c3941052466f4dce4bac27119",
   "slug": "gtm-mun-aur-2026-11-07-first-half-total-2pt5"
  },
+ "0x03a67cff165a3bfba3cab70197327d6153ad6204a559b305e99220eb2922c7d9": {
+  "created_at": "2026-11-14T21:58:03.363669Z",
+  "first_seen": "2026-11-15T13:56:47Z",
+  "last_changed": "2026-11-15T13:56:47Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait reach 55+ by December 31?",
+  "revisions": 1,
+  "sha256": "5d6559ba133e6f718eed5aac6d5b5d485ec225476d3c453413e42ace083d4ab2",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-reach-55-by-december-31"
+ },
  "0x045ffcee329af1ea72d5f3b693eb2e026f709401f7f24433d9049d7888bc0bd9": {
   "created_at": "2026-01-24T23:29:30.211722Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -459,6 +468,7 @@
   "created_at": "2026-08-25T05:03:16.712421Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Ethena dip to $0.12 by December 31, 2026?",
   "revisions": 1,
   "sha256": "0283b393da65c235ae54c92c4e28541a60058638fd21680bb29e2a82ff603ec4",
@@ -1396,6 +1406,7 @@
   "created_at": "2026-08-12T14:54:50.720172Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-15T13:56:47Z",
   "question": "Will Georgia have more than 8.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
