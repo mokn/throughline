@@ -36,6 +36,15 @@
   "sha256": "cfec6efb2ac8c779c680ddadd9561f1e7e535e0d047c5d2a605436b0c04d796e",
   "slug": "baker-mayfield-31pt5-passing-touchdowns-2026-27"
  },
+ "0x02b9193aba255d3c7b7a25f088c578b149aec80e6adf20f39f2bdbc4570314d6": {
+  "created_at": "2026-11-16T15:51:30.401541Z",
+  "first_seen": "2026-11-16T15:47:16Z",
+  "last_changed": "2026-11-16T15:47:16Z",
+  "question": "Will Trump pardon Howard Lutnick before 2027?",
+  "revisions": 1,
+  "sha256": "d02b3ff0ffc634cc94bc32f029f8da16d5c634e710033aa777eb88b239746213",
+  "slug": "will-trump-pardon-howard-lutnick-before-2027"
+ },
  "0x06de48e80012e144d502ac5d3d1c83c50efd0c2084ea88e150f213a668edb9d6": {
   "created_at": "2026-08-10T15:33:15.633731Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -623,6 +632,7 @@
   "created_at": "2026-11-13T01:34:59.977132Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-16T15:47:16Z",
   "question": "Will I Think You're Special - Justin Bieber & Tems win Best R&B Collaboration or Duo/Group Performance at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "dcad091d29219161cea58b013d03c8ae88ca21c9c1e26603afc4b9d3bf8268a6",
@@ -1396,6 +1406,7 @@
   "created_at": "2026-09-10T18:24:19.280349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-16T15:47:16Z",
   "question": "Will the Democratic Party control the Texas Senate after the 2026 Midterm elections?",
   "revisions": 1,
   "sha256": "7e2f60f582316b61ad7d1d669def094e058c919c6c9970154a9d382f6477693b",

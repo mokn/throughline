@@ -550,6 +550,7 @@
   "created_at": "2026-08-06T08:16:38.870532Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-16T15:47:16Z",
   "question": "Will Sasha Keable win Best New Artist at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "a286e869df89c4dbdc6430fc06dbf0f84f8b47bd77150f77d98db0abffe6afd6",
@@ -1309,6 +1310,15 @@
   "revisions": 1,
   "sha256": "f512a401079bf0112362059363a5cae5d268aad3efcc3054b47014548956a564",
   "slug": "will-ochigbo-mathew-sunday-win-the-2027-benue-state-gubernatorial-election"
+ },
+ "0xba3c952fb04b7f13c51ded93c21af0e5ff8604b24c3beff5651e5bf7c2de47af": {
+  "created_at": "2026-11-16T15:51:39.953965Z",
+  "first_seen": "2026-11-16T15:47:16Z",
+  "last_changed": "2026-11-16T15:47:16Z",
+  "question": "Megaspeed added to the Entity List by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "231db2563d9b943370b9ed8dfe8dfdcd55d13b25596a9df668197bda99c2af1b",
+  "slug": "megaspeed-added-to-the-entity-list-by-december-31-2026"
  },
  "0xba95bf524c02fe6087e5d43252bc9086d444822ac6f51a86234229d585dddcaf": {
   "created_at": "2026-08-12T17:16:16.243568Z",

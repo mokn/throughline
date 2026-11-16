@@ -714,6 +714,15 @@
   "sha256": "23884be7027f1e2c79797e8e3eaf56483e0994d9b19db26c0bcaa9ff25d17a85",
   "slug": "will-chappell-roan-be-the-top-artist-in-the-us-for-2026-20260714171850375"
  },
+ "0x7e05b2b3db135c39515919ae2fe2c14a1791ca0c4fc872efaa43aed6b95b7997": {
+  "created_at": "2026-10-16T16:51:37.067908Z",
+  "first_seen": "2026-11-16T15:47:16Z",
+  "last_changed": "2026-11-16T15:47:16Z",
+  "question": "Will Moog (MOG.A) beat quarterly earnings?",
+  "revisions": 1,
+  "sha256": "9aa366934b616ae702c9d0e2f02e27db7b3ee4ece7c9b07606601d0f278d7515",
+  "slug": "mogpta-quarterly-earnings-nongaap-eps-10-30-2026-2pt77"
+ },
  "0x7fb0dd444767b545d2d36b31540b242bdc994974864a744ca1f33d12498c1597": {
   "created_at": "2026-10-15T17:01:19.100975Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1200,6 +1209,7 @@
   "created_at": "2026-08-10T23:55:56.265004Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-16T15:47:16Z",
   "question": "Will Christian McCaffrey have 2.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "1b380f76bd517c6591d6d193920bb9c064121e8c86e2a106340c4bbf6cbdfc45",
