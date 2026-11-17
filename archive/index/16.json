@@ -344,6 +344,15 @@
   "sha256": "1ff8df5a7ceca73e9ff37fb030d5ad016bd80cbb0703ec4474478f6b13950dc0",
   "slug": "will-london-have-between-50-60mm-of-precipitation-in-november"
  },
+ "0x411ad6ed9ee83fc242049758511fcd42a4e4cdac6065f055f905c86c03d09816": {
+  "created_at": "2026-11-16T22:18:10.724473Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Jon Ossoff 2028 presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "a055674fde15365a3d4cc3dc590bbc644b63df2a27ec95584e0e06a8e7579ce2",
+  "slug": "jon-ossoff-2028-presidential-odds-leader-on-december-31"
+ },
  "0x420a166e032eb0fd58c3823000d362a1266605547cd713c59695dc9430828116": {
   "created_at": "2026-10-29T20:53:09.598366Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -370,6 +379,15 @@
   "revisions": 1,
   "sha256": "4515a6fde12b8ee50fd2777b71253a17205f5adab98e8664a903c56c32193a19",
   "slug": "will-vinicius-junior-win-the-2026-27-laliga-player-of-the-season-award"
+ },
+ "0x4535f298676403a224716e71d625d7ad21a7fc451bc851922fcc4724512c1d16": {
+  "created_at": "2026-10-26T06:00:09.836973Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 2 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-2-4"
  },
  "0x4ab8cccce9a048a4d7a74e1a50cf499ad6bd9368faccf0b4df2176c50d6dc216": {
   "created_at": "2026-02-18T17:11:09.9269Z",
@@ -599,6 +617,15 @@
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-09-house-election-by-0-3"
+ },
+ "0x76f731272477b7ececcd3690d943b60756d4fca5df3c18961cee37a819274916": {
+  "created_at": "2026-11-16T22:22:05.387416Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Democratic trifecta odds hit 60% by December 31?",
+  "revisions": 1,
+  "sha256": "e145b46f389ecf02ac2e87a2df28e5cf10d7ccf7a070a1879d61121493708f8f",
+  "slug": "democratic-trifecta-odds-hit-60-by-december-31"
  },
  "0x781fb28b633fa2f9731d6c6a5350072e4642e6473980950c267296ffd078dd16": {
   "created_at": "2026-11-07T12:30:19.89492Z",
@@ -1384,6 +1411,15 @@
   "sha256": "3425c6dbac9c2f81f7b6b64ff5e9fec297770462c644457c9ac8501deba14d30",
   "slug": "will-waterford-be-relegated-from-league-of-ireland-premier-division-2026"
  },
+ "0xe26ccc6d226610bb0120e1926bc6113a2dad3c8033297680d065287a8aa93216": {
+  "created_at": "2026-10-25T19:00:14.682209Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: Granada CF (-5.5)",
+  "revisions": 1,
+  "sha256": "81f24f35fbc0cbefd2a95b7ff06653ae2fe4be6bfe213ffe262b76054309c80d",
+  "slug": "es2-gra-cdt-2026-11-07-spread-home-5pt5"
+ },
  "0xe2edac4fd216b838c09b4885b5523e9b2f639ba744d10cab0d39467839f2d316": {
   "created_at": "2026-10-13T19:55:49.844629Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1482,6 +1518,15 @@
   "revisions": 1,
   "sha256": "7fe4339662a907e2ae3dbcdc3fa27f68ed9569910e2c24016d99eeb87acaa7f8",
   "slug": "will-nvidia-be-the-2-ai-lab-at-the-end-of-november-2026"
+ },
+ "0xefad4a9b352a27cee60a095aa4be12084b203f832cbd12b5861ac151fe90b016": {
+  "created_at": "2026-10-25T06:00:35.075138Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Granada CF vs. CD Tenerife end in a draw?",
+  "revisions": 1,
+  "sha256": "797629855e22223ec26ce46ef0815e4a2a7dffff625fab2bd97b865882215223",
+  "slug": "es2-gra-cdt-2026-11-07-draw"
  },
  "0xf1146ce87908b8626b2d89803047c311932c907dd04531904197603eaefbf716": {
   "created_at": "2026-08-12T14:59:13.839021Z",

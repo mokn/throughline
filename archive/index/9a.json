@@ -270,6 +270,15 @@
   "sha256": "c4588face699efbc669a9a7ee092b76adb74fcdbf140cf355e2f4edc7b6be2a8",
   "slug": "how-strong-of-an-earthquake-will-occur-worldwide-by-october-31-20260928t160000000z-will-a-7pt5-earthquake-occur-worldwide-by-october-31"
  },
+ "0x2aef323bb25e6f8a9de4fbaf434b94dba1dff71a685cb5e0a5b2e0922d18029a": {
+  "created_at": "2026-11-17T02:43:42.280202Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Emily Blunt announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "emily-blunt-announced-as-next-bond-girl"
+ },
  "0x2c8367fa9e5424a99b5041fd3d70bd18d3b46a98ecdc1960af1fc77d3a2f579a": {
   "created_at": "2026-08-21T17:37:22.151268Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1693,6 +1702,7 @@
   "created_at": "2026-09-02T19:39:22.257861Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-25 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "f74b5eb2a97d9931d3b07cc880db532069ee53004d9f63337e8989e5b20409c5",

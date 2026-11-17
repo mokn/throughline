@@ -1244,6 +1244,15 @@
   "sha256": "505cf90b7abf2405bfb32974f51a1b410387f348133e3f4318e29717fa44fd5f",
   "slug": "reya-fdv-above-10m-one-day-after-launch-874"
  },
+ "0xcf598fd98002ef25854b19d1c075955333e2a84202bc671829adb1002bd393cb": {
+  "created_at": "2026-10-24T19:00:16.199714Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: O/U 0.5",
+  "revisions": 1,
+  "sha256": "0ec1033b7f53827c044a89137e3c18031956a65bdce5352f85ba1d686872e281",
+  "slug": "es2-cas-eib-2026-11-06-total-0pt5"
+ },
  "0xcf7d94c9aa083c8235103832dc28e4b85d4436a58453fcdfec2ff2e21c4b10cb": {
   "created_at": "2026-08-12T23:14:57.950876Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1279,6 +1288,15 @@
   "revisions": 1,
   "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
   "slug": "will-juan-branco-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
+ "0xd76de11fa579adcc4caba91355eb59780d8516f475a5df3d957d3480976624cb": {
+  "created_at": "2026-11-16T15:51:40.797401Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "DeepSeek added to the Entity List by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "fd46f61ebf054ec5de412aa699d7c1b2cfe038cb447b9a1ccbaf3d71a2704d81",
+  "slug": "deepseek-added-to-the-entity-list-by-march-31-2027"
  },
  "0xda2e9e8ad08e28d88e7906696f41e07e368781cf495da3896e58526b472b0acb": {
   "created_at": "2026-05-19T18:11:16.330277Z",
@@ -1375,6 +1393,7 @@
   "created_at": "2026-08-11T00:14:00.394876Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Simone Oldenburg be the next Minister-President of Mecklenburg-Vorpommern?",
   "revisions": 1,
   "sha256": "9083543ff2d2336602241ba26f347da6e2292da52f48732df62e84b5a0779894",

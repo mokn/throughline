@@ -135,6 +135,15 @@
   "sha256": "cd3842cb12dde644939697b2e927bb48c37ecc45af25769631a5a3a8edbeb557",
   "slug": "will-the-republicans-win-washington-in-the-2028-presidential-election"
  },
+ "0x1b918e4773422a5e3c7d38e4bd1cb96b6ca995d4da6794fc48905db34712ab03": {
+  "created_at": "2026-10-26T19:00:40.112067Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: FC Andorra O/U 0.5",
+  "revisions": 1,
+  "sha256": "72b2c443f64c1d4e466396d67e90c6fd25bfc3b5e62c4cfa7c0eca09d431158d",
+  "slug": "es2-and-rm-2026-11-08-team-total-home-0pt5"
+ },
  "0x1c7b77f9e33d2a003520f733cdeb8436e9849d4aaa10e4e76fb6fbe8972d2703": {
   "created_at": "2026-08-28T20:16:42.321721Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -683,6 +692,15 @@
   "revisions": 1,
   "sha256": "3459e2b2fbb07ddbe841eac0a2bb4d21d533772d2c1eaa0abeeb643398f53bad",
   "slug": "will-openai-announce-bankruptcy-by-december-31-2027"
+ },
+ "0x7806fd853806ff5bc787b0319374a83e3aa74236343f3f93ae5f782c14878b03": {
+  "created_at": "2026-11-17T02:43:34.160589Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Margaret Qualley announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "margaret-qualley-announced-as-next-bond-girl"
  },
  "0x790aa009feb76eb6ed03114d4f502f8734d6d523dbfe1d928b0778fad9849d03": {
   "created_at": "2026-09-27T20:12:23.212524Z",

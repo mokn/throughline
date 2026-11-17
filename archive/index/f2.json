@@ -293,6 +293,7 @@
   "created_at": "2026-09-02T19:39:41.579102Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-12 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "37c643d524d48b69ab2b9b099818b83908bedd7d5ac72fadd91125634a2c0976",
@@ -1054,6 +1055,15 @@
   "sha256": "cd003e258968191ae660fd9523107564331a232cb0c510526244fe1a363391b3",
   "slug": "spl-ith-sha-2026-10-16-exact-score-4-3"
  },
+ "0xabce14d6b6ae6ca8e3892ad127d002c5be05d131cd42c4905d3b31d38b9ac6f2": {
+  "created_at": "2026-11-16T22:19:41.498371Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Another candidate is the Democratic nomination odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "56334782f3733c279759730837b8c013b44eb11981010d1474b01d78dd00e020",
+  "slug": "another-candidate-is-the-democratic-nomination-odds-leader-on-december-31"
+ },
  "0xae932422db5a7ef289bc8a2dae61f89c0d29e8ea999a8b61c6abb65b213e27f2": {
   "created_at": "2026-09-09T15:47:19.262098Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1203,6 +1213,7 @@
   "created_at": "2026-08-06T08:21:19.333718Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Kiss All the Time. Disco, Occasionally (Harry Styles) win Album of the Year at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "08aa20d8ebb9efb0168414190ed93e09176720940fc50a6f7ea6665b3f3afbdc",
@@ -1579,6 +1590,7 @@
   "created_at": "2026-07-22T22:55:56.026024Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democrats win the Arizona Secretary of State race in 2026?",
   "revisions": 1,
   "sha256": "ed7c4452eebdd46a5dcda9409c59b253fc04488ee1f6982bc3614f1778bc4cfa",
@@ -1674,5 +1686,14 @@
   "revisions": 1,
   "sha256": "4f05d22add5cf732c3f746acf1d6967625b38133499bd062f0a0870e364d4805",
   "slug": "will-the-bank-of-korea-decrease-the-base-rate-by-25-bps-at-the-april-2027-meeting"
+ },
+ "0xfffa5a1af65a596b5ce0268b522db714a8ea360ac6d2c222b489407b2bf7f2f2": {
+  "created_at": "2026-10-26T06:00:09.662672Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 4 - 1 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-4-1"
  }
 }

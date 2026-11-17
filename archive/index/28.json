@@ -166,6 +166,7 @@
   "created_at": "2026-08-07T20:17:37.117248Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-19 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "f677600266a3b9d9018c0cf7ed5478fdb64c7d212843bd02d7592abf83aea263",
@@ -179,6 +180,15 @@
   "revisions": 1,
   "sha256": "07e67ab253eb85b0e06078d35baf06b7bc3420870ca0721e39e066ec0da42f83",
   "slug": "will-spencer-knight-record-4-shutouts"
+ },
+ "0x1efdbf81d914d371fe36cab0b9f8ed0dd6455e0a3d2eb2e3cadbb0e64b041328": {
+  "created_at": "2026-10-24T06:00:11.772492Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 0 - 4 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-0-4"
  },
  "0x213505cf51289b856acf38db627b250f0392ee4fd299363db38e4712fd842e28": {
   "created_at": "2026-01-28T15:41:56.954515Z",
@@ -475,6 +485,7 @@
   "created_at": "2026-08-07T20:17:06.846243Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-17 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "2ccc1fe7d774d9126bbb1e24fe4413fc21995baea9d3dc0aa677119715159a8d",
@@ -601,6 +612,7 @@
   "created_at": "2026-09-09T15:40:59.389177Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Spain be relegated from Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",
@@ -742,6 +754,15 @@
   "sha256": "43c6d3ff542fd599375355c838285fef35d8e8cfe16d237c6f18860042f50b3d",
   "slug": "will-stripes-market-cap-be-at-least-500b-at-market-close-on-ipo-day-20260701151916170"
  },
+ "0x85ee8f807c5af4ad4d9cde46a75c72e64e4c332a8b5612a82c78fb09a9fb8d28": {
+  "created_at": "2026-10-26T19:00:42.753749Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: RCD Mallorca O/U 4.5",
+  "revisions": 1,
+  "sha256": "e8f3f1549cd681fbb36794778b09b370cc6679d9e9a219d5ec85f513863d6177",
+  "slug": "es2-and-rm-2026-11-08-team-total-away-4pt5"
+ },
  "0x8853a1d62b922b92cc273804a14040673c4315ee604f6ebec8a7fbbc420c0c28": {
   "created_at": "2026-08-28T19:59:11.915111Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -882,6 +903,7 @@
   "created_at": "2026-08-11T00:14:00.159998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Daniel Peters be the next Minister-President of Mecklenburg-Vorpommern?",
   "revisions": 1,
   "sha256": "9083543ff2d2336602241ba26f347da6e2292da52f48732df62e84b5a0779894",
@@ -967,6 +989,15 @@
   "revisions": 1,
   "sha256": "ec3dab1fba7a90cb882188ca92c01407a4e9eefbe8cf01de63e66fdf1a84cce6",
   "slug": "will-rocky-beers-be-the-2026-sec-receiving-yards-leader"
+ },
+ "0xa9b9f226e80dd86e3eed0cd1990fa9dc871525343c58796f2340165ff06d4728": {
+  "created_at": "2026-11-17T00:58:54.126043Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "David Lisnard French presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "cbd6afd90d621a76014b1527d80b4df2318a070c9e2ab2dba92e5b89ccf06ddf",
+  "slug": "david-lisnard-french-presidential-odds-leader-on-december-31"
  },
  "0xaa99a6a1af827b3bc45379593c951a2911473f586f2c26e61f8c4e728302bf28": {
   "created_at": "2026-11-13T01:37:16.541058Z",
@@ -1390,6 +1421,15 @@
   "revisions": 1,
   "sha256": "a01b6606ea69e8d85d43223e40f02727f1e1cd7da55bd9531b6a1f0a40938365",
   "slug": "jameson-williams-1099pt5-receiving-yards-2026-27"
+ },
+ "0xdff34fc465513cf8ad9bcbf43cf0519c4c508141d942ecec0810b7b1582b2c28": {
+  "created_at": "2026-10-26T19:00:36.642099Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: FC Andorra (-4.5)",
+  "revisions": 1,
+  "sha256": "522ce8e3fd9fb9d1b609babd9802643ce7655c527fa4f545c140eb3f2c2bec9c",
+  "slug": "es2-and-rm-2026-11-08-spread-home-4pt5"
  },
  "0xe0a3376dd5b502a47844bb7718cd2b60e65076049055119198491b1ca2d5a528": {
   "created_at": "2026-11-11T21:56:45.281065Z",

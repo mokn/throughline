@@ -134,6 +134,15 @@
   "sha256": "acc5a97e36836232513b0655223e67ce5fe6bcceabb03a5528ade46b113bd600",
   "slug": "will-club-brugge-record-the-most-clean-sheets-in-the-ucl-league-phase"
  },
+ "0x12c080274e4de5d9818c5103c74395e0584b015a5ba231d7f3bd426c798d1c66": {
+  "created_at": "2026-10-26T19:00:43.990579Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: FC Andorra 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "7cf2ec0e2d76f0c19dee83831975806990bab93dd0e77473a928577af2583bc9",
+  "slug": "es2-and-rm-2026-11-08-first-half-team-total-home-2pt5"
+ },
  "0x12f14dda2c0d5c0f9f97acabe8f1903a02509484ec2fd81ca7260ef8f338a366": {
   "created_at": "2026-08-10T23:57:41.091397Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -165,6 +174,7 @@
   "created_at": "2026-11-12T20:22:29.224988Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Age of the Ram - Charley Crockett win Best Traditional Country Album at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "45f1399e64dff42be95c9202a1e06d03188386301888513463b8aa7b4981ce2c",
@@ -514,6 +524,15 @@
   "revisions": 1,
   "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
   "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-lawson-2026-12-05"
+ },
+ "0x4969d5b588b7884833214bc2ea1365f9c024b0949bb9a5fcf6c2cfb8ec740d66": {
+  "created_at": "2026-10-24T19:00:20.429543Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: SD Eibar O/U 3.5",
+  "revisions": 1,
+  "sha256": "cd7657cb18b32cb05907bae6761aa9d3f1bde1413d9870e9a9e70ce42177eb1f",
+  "slug": "es2-cas-eib-2026-11-06-team-total-away-3pt5"
  },
  "0x49f141d1f36a20379f726f03930db05a83860157d0a56cf0ab7fd35608fa8a66": {
   "created_at": "2026-11-03T21:31:18.490767Z",
@@ -1392,6 +1411,7 @@
   "created_at": "2026-03-26T16:07:58.548061Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Samuel Wyatt be the Republican nominee for LA-05?",
   "revisions": 1,
   "sha256": "3f426d24b9113d9c70ac71a61a008a5fea591680417aba687973dd65b834a2a4",

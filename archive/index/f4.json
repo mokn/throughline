@@ -459,6 +459,7 @@
   "created_at": "2026-08-06T08:19:30.698113Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will The Fate of Ophelia (Taylor Swift) win Song of the Year at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "470150210ad949dfb9f64229c8bb2cedc2e8e72582450723fb8c73a77e97634f",
@@ -790,6 +791,15 @@
   "revisions": 1,
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-adam-fox-win-the-2026-27-james-norris-memorial-trophy"
+ },
+ "0x7ed53c3b72002bc76ffd766cc72c3ac395bb8879ed5a6c4c9dd80623e74a8ef4": {
+  "created_at": "2026-10-24T06:00:12.169726Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 2 - 3 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-2-3"
  },
  "0x82b1eca4c94db953720f4eb2af56047baadb6643748655592470ce8a0a7c52f4": {
   "created_at": "2026-09-02T21:58:08.269264Z",
@@ -1448,6 +1458,7 @@
   "created_at": "2026-08-06T08:19:31.834426Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will So Easy (To Fall In Love) (Olivia Dean) win Song of the Year at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "470150210ad949dfb9f64229c8bb2cedc2e8e72582450723fb8c73a77e97634f",

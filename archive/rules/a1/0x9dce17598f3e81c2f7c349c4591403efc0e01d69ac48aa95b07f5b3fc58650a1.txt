@@ -1,0 +1,9 @@
+This market will resolve according to Mexico's Y/Y Growth Rate of Gross Domestic Product (GDP) in the "Timely Estimate of Quarterly GDP" release for Q4 of 2026, scheduled for release on January 29, 2027.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The GDP release will be made available here: https://en.www.inegi.org.mx/app/saladeprensa/
+
+If no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.
+
+Note: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release will not be considered for this market's resolution.

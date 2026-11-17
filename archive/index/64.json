@@ -775,6 +775,15 @@
   "sha256": "13f72f65f3e291d0b9eee8a9fef97467cb8aea69c86a034a093ffa8081673957",
   "slug": "emeka-egbuka-4pt5-receiving-touchdowns-2026-27"
  },
+ "0x877f91970e41da325e52e2abf53daa1a96214c8fb468020617cb3677e1706264": {
+  "created_at": "2026-10-26T19:00:39.431356Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "455be849f8794f18aebd2b56d044eb4365e20302009c8c7d9e227531cd2900c5",
+  "slug": "es2-and-rm-2026-11-08-first-half-total-2pt5"
+ },
  "0x8940eb5153b3542d580df7e55b9a9ab845bbb424784a0d589e30eeeb6e955d64": {
   "created_at": "2026-08-07T15:58:34.728211Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -792,6 +801,15 @@
   "revisions": 1,
   "sha256": "cd5b8acec89c6ac42af61dd5a2b85ae2f58fd1b0e211b4b5dd66af9d3088438f",
   "slug": "will-bayern-munich-win-the-2026-27-uefa-womens-champions-league"
+ },
+ "0x8b6b20731f20936067ddc1459166715cccdf029b4b0ecd90cc9a13153d22d464": {
+  "created_at": "2026-11-17T02:43:47.366809Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Sadie Sink announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "sadie-sink-announced-as-next-bond-girl"
  },
  "0x8c50597c66002ba0b4be5c4f2bad5a052f0368158431a56a3ae494667de74964": {
   "created_at": "2026-09-14T20:33:17.047694Z",

@@ -573,6 +573,7 @@
   "created_at": "2026-08-07T20:08:22.012079Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "dc9eea10dabfe5e08fdaef09014126fb2526c4a49151fbb78b53450ca2dede92",
@@ -704,6 +705,15 @@
   "revisions": 1,
   "sha256": "c3fa22b7e28f23f486e430d1ecf99386b21ef4eb87824541cb09908c0e141f08",
   "slug": "chuba-hubbard-1024pt5-rushing-yards-2026-27"
+ },
+ "0x735b1aa88aca7e198c5edea1f593c91b4717ba38d190bcf581f17419dc4c8118": {
+  "created_at": "2026-10-25T06:00:40.525219Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 3 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-3-4"
  },
  "0x77809e721b404959313769227a90d38b9ad33a9abed43ba203c47560a8722418": {
   "created_at": "2026-08-11T18:24:57.535867Z",
@@ -864,6 +874,7 @@
   "created_at": "2026-08-07T20:09:11.167801Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-04 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "7ea99f1493e9c6ad31d152962955536fe614d7874014cef177759fefc2dd6dc4",

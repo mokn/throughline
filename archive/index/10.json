@@ -579,6 +579,15 @@
   "sha256": "777ff3403515611171f23faad420f7d16e5df3aa9f5daf3a369925bfd61a77bc",
   "slug": "will-the-republican-party-candidate-win-the-2026-pa-17-house-election"
  },
+ "0x6063ac095dfa93e7ae9a9fe025ccd5c7e2d33259a62ff2ade086161684c04a10": {
+  "created_at": "2026-10-26T19:00:38.003261Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: O/U 4.5",
+  "revisions": 1,
+  "sha256": "0e7bbafd26f27e2b4c2773e99ed625f3fcf87287cf737376bfe2cb5f9f5a6373",
+  "slug": "es2-and-rm-2026-11-08-total-4pt5"
+ },
  "0x60c299f7665b75af7e562e789a9e93f57e73068a8b9bc847f882f92a502e0310": {
   "created_at": "2026-09-09T15:41:01.072442Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1071,6 +1080,15 @@
   "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
   "slug": "will-witchbrook-win-best-independent-game-at-the-2026-game-awards-1785857780331"
  },
+ "0xa22d4d5e64ed6d52198b497aa1c6349aa70d8c4a79096b94b2ea523e5ee47410": {
+  "created_at": "2026-11-16T21:32:30.053341Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Sam McCandlish ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-sam-mccandlish-ring-the-bell"
+ },
  "0xa240670c4fa5789c470043abd1e3f8b09dccadd1c440ede0d3c5c16db9480c10": {
   "created_at": "2026-09-02T19:39:44.056755Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1261,6 +1279,15 @@
   "sha256": "14e6b53b0689435abf22bd58f66803d77a668723b264846015cfb0adb89988d0",
   "slug": "el2-wal-cra-2026-10-03-total-2pt5"
  },
+ "0xbd9c29aac4928a6ba4145a9108988ba4bbe908bc4a65d6a789720abd092a6c10": {
+  "created_at": "2026-10-24T06:00:08.757437Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will CD Castell\u00f3n win on 2026-11-06?",
+  "revisions": 1,
+  "sha256": "1eab7f14cf5034fabcd19e2328c9777c25fe21d2a9e3e68354d91fcaac984f98",
+  "slug": "es2-cas-eib-2026-11-06-cas"
+ },
  "0xbdd9407fde1a46be704ef82f7c0c95d3900775d591eb2e56f94a5db24b386210": {
   "created_at": "2026-11-01T15:01:29.63913Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1424,6 +1451,15 @@
   "sha256": "6c1bb8e30d04beaee4346b9f894a52259b82397888e7dfedbf05b4113e9e08cd",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-33-house-election"
  },
+ "0xd6d1f9d182b74b9e139b5b1c35258fada3342bcfd65b83f669735b525045d410": {
+  "created_at": "2026-07-18T20:23:10.229837Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Callum Turner be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-callum-turner-be-the-1-searched-actor-on-google-this-year-20261116220000009"
+ },
  "0xd711332e08ee613395943cd5bf26137cee40c8733dfc8f6bacdc72be3ee91b10": {
   "created_at": "2026-11-10T02:44:27.782686Z",
   "first_seen": "2026-11-10T14:52:55Z",
@@ -1437,6 +1473,7 @@
   "created_at": "2026-07-29T02:09:17.34792Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Luciano Darderi Qualify for the Nitto ATP Finals 2026?",
   "revisions": 1,
   "sha256": "0b3b37b32b435877e06eea3a0873c2fa2f786db2cdeea568dee32a79969c3822",

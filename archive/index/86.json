@@ -201,6 +201,15 @@
   "sha256": "d247bf90347758403cbf57ee5ccfc06c88e2786a8748d7d1aae57269d18a00c2",
   "slug": "will-the-democratic-party-win-the-or-06-house-seat"
  },
+ "0x1c86550d367076cf01e0a3e76403806d9a6c3bd8eb76246ad1d2c9c7e3bc7186": {
+  "created_at": "2026-10-25T06:00:41.865306Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 5 - 5 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-5-5"
+ },
  "0x1e4e1e21e18b2467caa989656ed0cc3227e893f77d6f5c5ec9513174d9cec986": {
   "created_at": "2026-08-10T15:44:30.165856Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -882,6 +891,15 @@
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-vince-dunn-win-the-2026-27-james-norris-memorial-trophy"
  },
+ "0x81d1b50ef5b88ab42ee942fb0ef2bafbcc83930b672422582a42a791b68b9286": {
+  "created_at": "2026-10-24T06:00:11.546771Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 0 - 3 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-0-3"
+ },
  "0x81ecb58a9f6b2d6b5368e4db6815a9cc258b26dfcd951bcbfdeb0cc976e34d86": {
   "created_at": "2026-08-11T18:27:08.507148Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1094,6 +1112,7 @@
   "created_at": "2026-09-02T19:39:26.750878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-22 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
@@ -1134,6 +1153,15 @@
   "revisions": 1,
   "sha256": "f9b5d304cee2f006ab1456fe3364b2af19078a6cc172ab1c8013a6ce31643f05",
   "slug": "will-samuel-alito-announce-his-retirement-by-december-31-2026-573-343-622"
+ },
+ "0xa29eb7e28fb5a88c567595cc1d99348a2bce44170830ab13707455bf9e5e9d86": {
+  "created_at": "2026-10-26T19:00:35.83413Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: RCD Mallorca (-1.5)",
+  "revisions": 1,
+  "sha256": "2cc5073864c94d29da6ab0dc75ccb08092fe4ae41eb4886dd3166ed6c7f6166a",
+  "slug": "es2-and-rm-2026-11-08-spread-away-1pt5"
  },
  "0xa5b71fc3a90905b88da906d968cac6bd81318ef7cef2324a7fc98b442b2b8586": {
   "created_at": "2026-09-09T15:41:26.914573Z",
@@ -1275,6 +1303,7 @@
   "created_at": "2026-08-07T20:08:20.154238Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-01 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "c05a74ba8403fe2bf05da4b3e64616e059f8263a9592e1f9a84b22a1a18a47fd",

@@ -360,6 +360,15 @@
   "sha256": "8d6cc9cccf8129550ce28d9cb4d6c7fe2eb8b14f8ee7e62b7c678b417a710438",
   "slug": "will-total-crypto-market-cap-dip-to-1pt5t-in-2026-20260721192934672"
  },
+ "0x4049fb55250afb493ab32c2c50a0495ed06c12e67e194034a926343866801346": {
+  "created_at": "2026-10-25T19:00:13.871968Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: CD Tenerife (-2.5)",
+  "revisions": 1,
+  "sha256": "86334044fe3f3077688942f38a707264498af1892ec6f7115bcff1c9c20fdabc",
+  "slug": "es2-gra-cdt-2026-11-07-spread-away-2pt5"
+ },
  "0x4226ab8cd87efafb3c0fb78a1ae66b8297a4099dd41082e7bc646733a26b0646": {
   "created_at": "2026-08-12T17:17:59.364557Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -455,6 +464,7 @@
   "created_at": "2026-05-18T16:26:40.368803Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Jack Lowden announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -623,6 +633,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-walker-kessler"
+ },
+ "0x6593efe34b4d1ffe1a0686049a9b442245c2615f60f645dba0a39de46d5e6d46": {
+  "created_at": "2026-11-16T22:29:13.40192Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Ted Cruz Republican nomination odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "cb5789a6171e607b45f2fbc26336385440c861306d82f096bbdd6571ce628662",
+  "slug": "ted-cruz-republican-nomination-odds-runner-up-on-december-31"
  },
  "0x660eee3396613d9561aae46332b98d55c5ae67a9c6a10f47a08347e03ed9c846": {
   "created_at": "2026-10-29T16:17:35.323931Z",

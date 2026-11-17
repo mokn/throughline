@@ -504,6 +504,7 @@
   "created_at": "2026-08-20T17:47:37.914153Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will CDU be in the next Mecklenburg-Vorpommern state government?",
   "revisions": 1,
   "sha256": "1295ed960381daf08c777d0d3c1991b6c6c4cdde1b66df571666fe66be6a36d9",
@@ -1350,6 +1351,15 @@
   "sha256": "8e4acbde024ee91cde4ee466b9fb66b9a8866e0f49e0bc6530b7c575e67337cd",
   "slug": "will-marved-play-for-nrg-in-2027"
  },
+ "0xcd840c2493b83dc88916c3fab2da17fc250935b67cebf3b2874036bd09735c35": {
+  "created_at": "2026-11-17T00:59:11.588805Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Le Pen's French presidential odds hit 60% by December 31?",
+  "revisions": 1,
+  "sha256": "d1c41ab7e5caf58b6166e93b35c4a61ab74bb2949ec1205636f04d5748212872",
+  "slug": "le-pens-french-presidential-odds-hit-60-by-december-31"
+ },
  "0xd02fda229c430232ccdb519fdcacd50342079436278a0dcad0cbd0ce0fe1b535": {
   "created_at": "2026-09-13T08:46:35.469035Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1484,6 +1494,15 @@
   "revisions": 1,
   "sha256": "07e67ab253eb85b0e06078d35baf06b7bc3420870ca0721e39e066ec0da42f83",
   "slug": "will-anton-forsberg-record-4-shutouts"
+ },
+ "0xdf6ee5044e7993a1b82010a999cfab2f4aeb71c2c7e12951b2fc425788aa4135": {
+  "created_at": "2026-10-25T19:00:15.242016Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: O/U 1.5",
+  "revisions": 1,
+  "sha256": "0cef1e040dc3fb31d763e78c1203f22fcbff48b73218ed16152d3f8f422919d0",
+  "slug": "es2-gra-cdt-2026-11-07-total-1pt5"
  },
  "0xdf9f686ea532c18fa7f63c1927ba726a58b180753cdbdb7afc8a71344d5fbb35": {
   "created_at": "2026-02-10T23:27:50.355898Z",
@@ -1628,6 +1647,15 @@
   "revisions": 1,
   "sha256": "5a9bc386e6922e85efb323daf6f18b08306f2fc95176c8363526fc2b70df44ff",
   "slug": "spl-ith-sha-2026-10-16-corners-second-half-total-5pt5"
+ },
+ "0xf9ee503ac575b4163ab0e61aaf7ee8156b17a7521e57c6bf34305674cabc7635": {
+  "created_at": "2026-10-24T19:00:18.955754Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: CD Castell\u00f3n O/U 0.5",
+  "revisions": 1,
+  "sha256": "3738e62c38537cc890803acf99645c333735e4618605cfdfa309aae6470b0ce0",
+  "slug": "es2-cas-eib-2026-11-06-team-total-home-0pt5"
  },
  "0xfc5652ca198b7743ccd4a250a977d98e5e0c66e021e460f63376753fe8ce8735": {
   "created_at": "2026-09-09T22:11:09.952796Z",

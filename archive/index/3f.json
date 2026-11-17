@@ -243,6 +243,15 @@
   "sha256": "24ac1a84fad7ecf5b6fa2e78503155135008a340dbd5f84a81ec1cf435d6f8d1",
   "slug": "will-clavicular-visit-thailand-in-2026-20260714153003044"
  },
+ "0x1e1488dadaf633f99a77de30309a69f78784b6b52ccf546ad000063461117f3f": {
+  "created_at": "2026-10-25T19:00:15.025438Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: O/U 0.5",
+  "revisions": 1,
+  "sha256": "21ea9c193525cd4833d22794ea4fe04ac8ce307c84ef014278a751d2765e9d3e",
+  "slug": "es2-gra-cdt-2026-11-07-total-0pt5"
+ },
  "0x1e6968ccb3b7c2c5a6cd90340d49d5fddf147d26313e2bd754b8e7c3cbae783f": {
   "created_at": "2026-02-24T20:10:32.007553Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -629,6 +638,7 @@
   "created_at": "2026-09-09T15:41:05.852867Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Ukraine be promoted to Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "de20540a8f61fcb9b5ef7a2ed1a0cbdb75ef623c12ef50f71d3b42020dfa35d1",
@@ -693,6 +703,7 @@
   "created_at": "2026-08-12T16:51:55.086548Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Alfredo Manuel Galindo Peralta win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -946,6 +957,15 @@
   "sha256": "41873b9cead5768fb67149362935ca6331373342acd45787951fb2a1ea8bbb3c",
   "slug": "cdr-cd17-car-2026-10-28-total-7pt5"
  },
+ "0x81701e6b1429e33ff88eb270559672475fc66134914a5596d5ef9077a515c03f": {
+  "created_at": "2026-10-24T06:00:12.321244Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 4 - 1 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-4-1"
+ },
  "0x832cd0ecaa2544055ca74901ea1e4d9f2d1d0dabc3b42343de45e6043deb8d3f": {
   "created_at": "2026-08-24T16:07:54.715135Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1196,6 +1216,7 @@
   "created_at": "2026-08-07T20:17:38.889898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-19 House election?",
   "revisions": 1,
   "sha256": "f677600266a3b9d9018c0cf7ed5478fdb64c7d212843bd02d7592abf83aea263",

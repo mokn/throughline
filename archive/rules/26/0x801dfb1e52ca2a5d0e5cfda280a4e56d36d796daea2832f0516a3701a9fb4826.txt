@@ -1,0 +1,11 @@
+This market will resolve according to the German GDP growth rate (% change) on the same quarter a year earlier, price adjusted, as reported in the first release of the Destatis Gross Domestic Product press release for Q4 of 2026, expected to be released on January 29, 2027.
+
+The GDP release will be made available here: https://www.destatis.de/EN/Themes/Economy/National-Accounts-Domestic-Product/_node.html
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+If no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.
+
+The resolution source for this market reports GDP growth rates to only one decimal point (e.g. 0.3%). Thus, this is the level of precision that will be used when resolving the market.
+
+Note: data from the initial release of the referenced GDP report is what will be used to resolve this market. Data may be revised during the following quarter, or as a part of the next estimate's publication; however, any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.

@@ -1171,6 +1171,15 @@
   "sha256": "bf6d4ed3e4a3f141ac61efa9bce35369708e3269e744fd02af2f01aa7edb3249",
   "slug": "f1-brazilian-grand-prix-winner-hamilton-2026-11-08"
  },
+ "0xbdfc613b913d1b04093f23edb114f38c24b00229472c05b5617c4d0453ff3368": {
+  "created_at": "2026-10-25T06:00:38.530256Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 3 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-3-1"
+ },
  "0xbe944c86b0f1c3a45d16c8bbfaa9063feef535ae78bdc30cc80d237d23cd7568": {
   "created_at": "2026-09-14T20:34:12.460289Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1271,6 +1280,15 @@
   "revisions": 1,
   "sha256": "079bcd7c829e5697e61beb8bec1b4a0133388aa236cb18a4be5e78d521e151f2",
   "slug": "will-fc-basel-keep-the-most-clean-sheets-in-swiss-super-league-2026-27"
+ },
+ "0xd8343f1546d48813f3a6b1ec4368fd2a87c49dc4cfa37a6208b446e6f7b03268": {
+  "created_at": "2026-10-25T06:00:42.045453Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-any-other"
  },
  "0xd8b92a91fa6646b6a2770a00d7f769e1f86ee709908714bb74dc36faf0d14268": {
   "created_at": "2026-10-01T14:27:19.642317Z",

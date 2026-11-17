@@ -1431,6 +1431,7 @@
   "created_at": "2026-08-18T14:13:00.512533Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Minnesota be between 2,750,000 and 2,900,000?",
   "revisions": 1,
   "sha256": "fc705f44ae1309cc8bebc735e3c33c49daa65c91a302e410c9b2a324a22d25e7",
@@ -1555,6 +1556,15 @@
   "revisions": 1,
   "sha256": "fe2272465aa07f78ddea3ee4da68df5a56060b658cc9ea1e777c3d95b81dc3a9",
   "slug": "enl-bar-fgr-2026-10-24-team-total-away-1pt5"
+ },
+ "0xe8e63b819b0e941c6b32ad213f415867fc742cffa3584d22dca66b8eea52d332": {
+  "created_at": "2026-11-17T01:02:46.895721Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Another candidate is the Argentina presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "889239befe87ee281d4abc883600f1cebc1e4a600258ba511dddc02e33ac5319",
+  "slug": "another-candidate-is-the-argentina-presidential-odds-leader-on-december-31"
  },
  "0xecd319f3cf2079d2c9416e684629f0be6d5f0e5171981d778b13871745ee6732": {
   "created_at": "2026-08-11T18:42:46.988457Z",

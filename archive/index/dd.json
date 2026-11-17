@@ -1191,6 +1191,24 @@
   "sha256": "fc4a8e2e185cf0638db9e5457961dd23d0f718c0690fa2a4eea7f6d50e676db9",
   "slug": "will-star-wars-the-mandalorian-and-grogu-be-the-1-searched-movie-on-google-this-year-20260730181459214"
  },
+ "0xc9be2398fb126e7573dc9203a18c20616531746f4ca1005916381bea47d494dd": {
+  "created_at": "2026-10-24T06:00:08.912941Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will CD Castell\u00f3n vs. SD Eibar end in a draw?",
+  "revisions": 1,
+  "sha256": "c7c01a6fc32de3075c4f2bea3a3f4c24559bcee3010d5a966ccc32f8433e81b6",
+  "slug": "es2-cas-eib-2026-11-06-draw"
+ },
+ "0xcce09d32055617e79445cce3522386743cd74f92fc0a0bcb844273708a8a48dd": {
+  "created_at": "2026-10-26T19:00:36.147018Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: RCD Mallorca (-2.5)",
+  "revisions": 1,
+  "sha256": "7800dd30ebdac87b3eed46f68a78cd311ed805f7f0db1b5fb559df64e965d455",
+  "slug": "es2-and-rm-2026-11-08-spread-away-2pt5"
+ },
  "0xcefc033293b686dc9de571e652d0277c136d8a53bc4d2b789d4a18d99b66b4dd": {
   "created_at": "2026-10-26T06:00:18.760251Z",
   "first_seen": "2026-11-11T14:22:59Z",
@@ -1217,6 +1235,15 @@
   "revisions": 1,
   "sha256": "e61da17b033ffcd189b17db77cb78b0ec672570c86f9ad6a50f209f30abdbebd",
   "slug": "will-devon-achane-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-touchdowns-20260715212820928"
+ },
+ "0xcf7eac32963e3866c7af3109145011d776a873099bf2ac92c1ad2ec50e564cdd": {
+  "created_at": "2026-11-17T00:59:05.420548Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "David Lisnard French presidential odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "880b5a0927a09fa4b5a9a294f89258d334af27be841dfa7bc3b3c48d7bc3fc8f",
+  "slug": "david-lisnard-french-presidential-odds-runner-up-on-december-31"
  },
  "0xd20983c0cedc169f1cbb1c7db1806fa3fb79777e18998910fb49ae9c6f74b4dd": {
   "created_at": "2026-07-22T05:33:00.851052Z",

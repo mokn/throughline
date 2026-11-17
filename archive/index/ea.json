@@ -779,6 +779,15 @@
   "sha256": "8084705a0cb67f1d16096007b40285d108439e387a695c4dd67ead5b44a04e25",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-11-house-election-by-6-9"
  },
+ "0x872607c7cea0d32877febc19967925c64b42d78e4e878e598934d79b075410ea": {
+  "created_at": "2026-11-17T00:59:12.001047Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Le Pen's French presidential odds hit 55% by December 31?",
+  "revisions": 1,
+  "sha256": "d9c90f264e6d890b8c31d147a1f36a93dba088e83cf22cc95cb685ec89fb765e",
+  "slug": "le-pens-french-presidential-odds-hit-55-by-december-31"
+ },
  "0x8b6512eace826428c4ba4c3954924fe260e2064f48ee84de3b686f4af467dcea": {
   "created_at": "2025-11-24T21:21:35.585037Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1232,6 +1241,7 @@
   "created_at": "2026-08-07T20:17:55.547762Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-21 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "dc057930c93edea9f8fb3d5a6795dd3588964cffdda91bd94430f7aac935c025",
@@ -1263,6 +1273,15 @@
   "revisions": 1,
   "sha256": "9f4f18094d6c4639a651f2b43d14b889ffbb64bd8745f33aecc4a315fcc644d5",
   "slug": "will-the-republican-party-candidate-win-the-2026-oh-04-house-election-by-55-or-more"
+ },
+ "0xe1bac516348d02b74e26c7a4909f41742cb9389fe5ec8c2d74f3525335848bea": {
+  "created_at": "2026-11-16T21:32:26.374919Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Dario Amodei ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-dario-amodei-ring-the-bell"
  },
  "0xe3121fc10c641cb270f2357fa01f2df55b85c0d584cfca8b2961d6d433e5bdea": {
   "created_at": "2026-10-12T20:53:25.293546Z",

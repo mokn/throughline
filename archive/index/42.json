@@ -374,6 +374,7 @@
   "created_at": "2026-08-07T20:17:07.791165Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-17 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "2ccc1fe7d774d9126bbb1e24fe4413fc21995baea9d3dc0aa677119715159a8d",
@@ -470,6 +471,15 @@
   "revisions": 1,
   "sha256": "604a099e2a930b2c77a589b350845e07121372cd98e12105fd87d39ceb2cb479",
   "slug": "will-pepas-be-on-gta-vi-radio-at-launch"
+ },
+ "0x536f3db3763b1bef3659bf8ba34ed6b8b7f72f77851eaab5bb9b4ffa9c99a842": {
+  "created_at": "2026-10-25T06:00:36.881827Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 0 - 0 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-0-0"
  },
  "0x546174b9b2e354d5f6f42ab53b82ce3a6e2f09d3ef87a80444cf2cc616976942": {
   "created_at": "2026-09-27T20:17:32.870176Z",
@@ -810,6 +820,7 @@
   "created_at": "2026-03-26T16:07:58.005381Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Blake Miguez be the Republican nominee for LA-05?",
   "revisions": 1,
   "sha256": "3f426d24b9113d9c70ac71a61a008a5fea591680417aba687973dd65b834a2a4",
@@ -1292,6 +1303,7 @@
   "created_at": "2026-09-09T15:41:04.892042Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Scotland be promoted to Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "de20540a8f61fcb9b5ef7a2ed1a0cbdb75ef623c12ef50f71d3b42020dfa35d1",
@@ -1343,6 +1355,15 @@
   "revisions": 1,
   "sha256": "db85758eb4279ad22d92522a384525b048e4bb84090b422ded0c31c05321b0f2",
   "slug": "will-philipp-kohn-monaco-record-the-most-clean-sheets-in-the-2026-27-ligue-1-season"
+ },
+ "0xe5a057d677a71c860ce846d86bc1407a178a4213351d2630d10611ae68860742": {
+  "created_at": "2026-10-26T06:00:08.224543Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "RCD Mallorca leading at halftime?",
+  "revisions": 1,
+  "sha256": "c390b3b2f3a46352bdab65ffd29415233f94ba509e26daf195d5659171a78dd4",
+  "slug": "es2-and-rm-2026-11-08-halftime-result-away"
  },
  "0xe5c4bc54cfabe8833a633158b7032bd94979dab99d440422932eea4fa36a0542": {
   "created_at": "2026-11-13T00:35:37.945605Z",

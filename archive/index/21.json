@@ -380,6 +380,15 @@
   "sha256": "458acef81579b7bd9164fe68e09ab66533450a57e9a72ce363cc9175a3f7ff40",
   "slug": "will-folarin-balogun-rank-in-googles-top-5-most-searched-athletes-of-2026"
  },
+ "0x4397172994190b2f761c08c0520bb3838883f569a879868dd42112aae8f11021": {
+  "created_at": "2026-11-16T22:49:10.242761Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Eurozone GDP growth in Q4 2026 be at least 2.0%?",
+  "revisions": 1,
+  "sha256": "df34fc7db37c6efff43fbbcad260814b0135996f3a640a7fc50d5225fe2b6734",
+  "slug": "will-eurozone-gdp-growth-in-q4-2026-be-at-least-2pt0"
+ },
  "0x439e4ba92460c4a7a4e07ad1110e9053cf61a1f99d49ff058588523b0ee1fa21": {
   "created_at": "2026-11-03T17:42:18.05469Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -479,6 +488,15 @@
   "revisions": 1,
   "sha256": "a41974b98643ffa2a2563e78e524013e2d05041ebccb67df96c3ff2556f193ff",
   "slug": "garrett-wilson-75pt5-receptions-2026-27"
+ },
+ "0x58a7268d2c048de5794dbd2411c892b08f55c6f9c12b87d391b78501a4297d21": {
+  "created_at": "2026-10-26T06:00:09.498785Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 1 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-1-4"
  },
  "0x5b42248c21c27e6dc9bec53bfe973b9708b417e915248b33d2aae14143800221": {
   "created_at": "2026-10-15T18:01:09.904677Z",
@@ -614,6 +632,7 @@
   "created_at": "2026-08-07T20:08:55.525022Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-03 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "73115a69753433b0f019cdee98607e3728f9b05009fbb592a42b9e59e2baad2f",
@@ -1030,6 +1049,7 @@
   "created_at": "2026-08-18T14:06:27.167653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Florida be between 8,250,000 and 8,500,000?",
   "revisions": 1,
   "sha256": "9456b9b3ff798cdb12ea6838776df9f740e9dcabc3154c6906e6daebc4f64c9d",
@@ -1261,6 +1281,15 @@
   "revisions": 1,
   "sha256": "4260c09d3fadb7e18df47f54d8ed887e56d191a57a167c5c84e4ee899715cd34",
   "slug": "will-kocaelispor-keep-the-most-clean-sheets-in-super-lig-2026-27"
+ },
+ "0xcbeb9422b0448da03806ee897a36476a5deabcaa85a804aa4c7e91c79255ab21": {
+  "created_at": "2026-11-16T22:49:07.084157Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Eurozone GDP growth in Q4 2026 be less than 0.0%?",
+  "revisions": 1,
+  "sha256": "df34fc7db37c6efff43fbbcad260814b0135996f3a640a7fc50d5225fe2b6734",
+  "slug": "will-eurozone-gdp-growth-in-q4-2026-be-less-than-0pt0"
  },
  "0xcd0881662161c04bdd390a76ee14bb16ffd78ce65c357d09dba8c90c985c8421": {
   "created_at": "2026-07-28T15:03:55.142018Z",

@@ -581,6 +581,7 @@
   "created_at": "2026-05-18T16:26:38.635068Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Tom Hardy announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -1269,6 +1270,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-anze-kopitar-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0xc8501e9d3d516cdd258c4f3ede8b732bf19aa200480c0d354b38a24df19b684a": {
+  "created_at": "2026-10-26T06:00:09.019025Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 0 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-0-3"
  },
  "0xc9fedc5e1e255ea3a470d4babefcd7789762354b2ae17555a0a83a7a17ab394a": {
   "created_at": "2026-08-25T21:10:10.830369Z",

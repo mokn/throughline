@@ -620,6 +620,15 @@
   "sha256": "09afc953429a9ee94661975d479e32fcf5156379887b937e8c930ddd21dee282",
   "slug": "will-yveta-tomkova-be-the-next-mayor-of-usti-nad-labem"
  },
+ "0x689143dcbf2d8fcf944ceab23c8613cf15c906ee64182058b3c22278e3ccab45": {
+  "created_at": "2026-10-24T06:00:13.01465Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 3 - 5 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-3-5"
+ },
  "0x6b3019b3a3dd0496c6701330684210ad69358381cfbb1512e5b05feeae26f645": {
   "created_at": "2026-10-30T00:22:33.359009Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1003,6 +1012,15 @@
   "revisions": 1,
   "sha256": "c4711666f2497f39694cf0a0d0e0e8756de77571d4f7e63e361a0a04c481bee0",
   "slug": "will-los-angeles-chargers-win-the-2026-afc-west"
+ },
+ "0x9ced7d17ffac0db1da0b4083a414b8143df40afaa8a8f4892818cb8049f0d745": {
+  "created_at": "2026-10-25T19:00:15.751471Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: O/U 4.5",
+  "revisions": 1,
+  "sha256": "a7074d3af0d363f66c566a75d86ccf34242be2885ff376546353b83a31c5fbe0",
+  "slug": "es2-gra-cdt-2026-11-07-total-4pt5"
  },
  "0x9f9b28847b8a3b2242625ea25e110661642eedbd44aca784ebb26fdbcbecca45": {
   "created_at": "2026-09-02T21:57:44.468297Z",
@@ -1481,6 +1499,15 @@
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
   "slug": "2026-soccer-mls-runner-up-minnesota-united-fc"
+ },
+ "0xedbaf05c176e83a364a3afdb97dd4e160645c46a25c58b478aa2672eda4d6e45": {
+  "created_at": "2026-10-24T06:00:12.893834Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 4 - 3 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-4-3"
  },
  "0xee48589a648ccd8ec05490d8db55745e7b827609d859dae0ffa04ea89efa1545": {
   "created_at": "2026-08-11T19:09:30.776606Z",

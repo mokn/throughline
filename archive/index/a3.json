@@ -115,6 +115,7 @@
   "created_at": "2026-08-07T20:08:19.337127Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-01 House election by 45% or more?",
   "revisions": 1,
   "sha256": "c05a74ba8403fe2bf05da4b3e64616e059f8263a9592e1f9a84b22a1a18a47fd",
@@ -638,6 +639,15 @@
   "sha256": "032a80ed0b8cb47f30f9761437126f3901c0442b05c99a080768a2903807d980",
   "slug": "will-obvious-chris-brown-win-best-randb-solo-performance-at-the-69th-annual-grammy-awards-20261109"
  },
+ "0x702cecffc0096a11455bca0c4edc64f84d545f50a19065b310c103d83b5004a3": {
+  "created_at": "2026-10-24T06:00:15.73908Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "c14847dfa18639b47e7afda727deaa5156d6aefd0f1f02e04c80212c7e3435c6",
+  "slug": "es2-cas-eib-2026-11-06-first-to-score-neither"
+ },
  "0x715479b7c428c778fba2e26bbf30e0c06c9e878acdcf1be461be736ef0f554a3": {
   "created_at": "2025-11-24T19:33:32.645021Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1159,6 +1169,7 @@
   "created_at": "2026-08-07T20:12:18.527799Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-08 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "5aca71f294755237b293068f75671907cfa8182af82ac5e0af5bf96b3a347d0e",

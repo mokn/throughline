@@ -425,6 +425,7 @@
   "created_at": "2026-05-18T16:26:43.99266Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Tom Blyth announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -564,6 +565,15 @@
   "revisions": 1,
   "sha256": "eef1f4711b1afaa960483f89d45a6b570d6d6353c965fdfe4eda16dece3f41b5",
   "slug": "cdr-ute-sab-2026-10-28-total-5pt5"
+ },
+ "0x5c8285776354cf2a77e340617873828c3246f3f11aa8eb1d994de11de0672d00": {
+  "created_at": "2026-11-17T02:43:44.324047Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Gugu Mbatha-Raw announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "gugu-mbatha-raw-announced-as-next-bond-girl"
  },
  "0x5d68e46e33dec2d84547a015432b3de8134bed2a8cbe06090a8c71eeae21d100": {
   "created_at": "2026-09-02T21:53:17.859819Z",
@@ -1028,6 +1038,15 @@
   "sha256": "fe9dc1c83f5f79a5c962e217d14f536283555fff6f2da5bbe176bd4739ca4e98",
   "slug": "will-the-ornn-b200-index-hit-5pt50-low-by-december-31-2026-20260709171530831"
  },
+ "0xa72901b8ed3b4b279c975b41f91be647f8044a882806561314535d8cee767900": {
+  "created_at": "2026-10-26T19:00:45.31343Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: RCD Mallorca 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "aaffcddda56474ee7671fc20bc799596eec7fb24d1ef72fe183c8b14d1fc2dae",
+  "slug": "es2-and-rm-2026-11-08-first-half-team-total-away-3pt5"
+ },
  "0xa7eaa696af2c4356628d13738f6b1c4e3073d14c350d94011ab2b8ffaaebe900": {
   "created_at": "2026-09-14T20:21:40.203048Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1180,6 +1199,15 @@
   "revisions": 1,
   "sha256": "1dd93a2ed328338be39b74de88bb4683cc446dc8136c26236d8cc7bb3c21c129",
   "slug": "will-scarlett-johansson-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940415"
+ },
+ "0xbc4eaa98cff9fea99469701a8a520bec64f5d7ea4f9bb0869dc3d6587e9f7700": {
+  "created_at": "2026-10-24T06:00:11.721212Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 3 - 0 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-3-0"
  },
  "0xbf03ed3279247e5244896adf24105d64b4736793ccd8a158d60a5648975d8f00": {
   "created_at": "2026-10-30T20:01:14.339749Z",

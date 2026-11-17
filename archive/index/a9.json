@@ -201,6 +201,15 @@
   "sha256": "5a33c82239cf7c22e870897154fc597c476a70f3eacc7b28cbef5739655b1869",
   "slug": "will-fc-flora-be-relegated-from-premium-liiga-estonia-2026"
  },
+ "0x2d4bf8136c6b5ff910deda53aa9256fb426375a8caccb38197b9bc014a377ea9": {
+  "created_at": "2026-11-16T22:04:48.071528Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Mexico GDP growth in Q4 2026 be at least 4.5%?",
+  "revisions": 1,
+  "sha256": "c3fe405c035fde2e1c392e246e05f38f6af21934841f1d92b8d7c3619d38ac27",
+  "slug": "will-mexico-gdp-growth-in-q4-2026-be-at-least-4pt5"
+ },
  "0x2e89c2444ee349ab5a6e0349d8017293a236124675292660ecf49d42895fc0a9": {
   "created_at": "2026-09-28T20:16:02.328112Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -597,6 +606,7 @@
   "created_at": "2026-08-07T20:17:49.905637Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-20 House election by 20%-30%?",
   "revisions": 1,
   "sha256": "71e8beeabf186e1af17a77a9ea8b9e66f0cce38b51272cb1b8e43d590cc3a084",
@@ -794,6 +804,15 @@
   "revisions": 1,
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-paulo-dybala-score-the-most-goals-in-the-2026-27-uefa-champions-league"
+ },
+ "0x94f20581baa7dc5b3b43fdffdcdde2a85ed096bf26d818b6dcaba9ad0d2265a9": {
+  "created_at": "2026-10-26T06:00:10.43683Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 5 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-5-4"
  },
  "0x9504f866cac562746e563086fe77bcc91fd6f3e1a797ec61c1922ae6720c3da9": {
   "created_at": "2026-09-30T14:02:07.662893Z",
@@ -1357,6 +1376,7 @@
   "created_at": "2026-08-12T16:51:58.844395Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Jes\u00fas Alverto Vel\u00e1squez Reyna win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",

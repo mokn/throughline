@@ -8,6 +8,15 @@
   "sha256": "28325ed7bd4785b8ae289ecbff1a69667a853b6c03d32b46513f2d1f947fecd4",
   "slug": "spl-riy-hil-2026-10-16-exact-score-1-0"
  },
+ "0x032e44076a6a84f43f6ba9fced3d011d65fcc99f28736eb583fcc0b08698676f": {
+  "created_at": "2026-11-16T22:49:09.240579Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Eurozone GDP growth in Q4 2026 be between 1.2% and 1.5%?",
+  "revisions": 1,
+  "sha256": "df34fc7db37c6efff43fbbcad260814b0135996f3a640a7fc50d5225fe2b6734",
+  "slug": "will-eurozone-gdp-growth-in-q4-2026-be-between-1pt2-and-1pt5"
+ },
  "0x037b860530d891960f7a36c718733de2e026c56e9795980de649cc18ea36ac6f": {
   "created_at": "2026-08-18T14:23:17.211574Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -294,6 +303,7 @@
   "created_at": "2026-08-07T20:17:55.627511Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-23 House election by 35% or more?",
   "revisions": 1,
   "sha256": "734a82d00cd0ffdcb8b30ba15f83067e652d2b836bc7d4cc9693304fcb819909",
@@ -350,6 +360,7 @@
   "created_at": "2026-08-12T16:51:56.773274Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Luis \u00c1ngel Zavala Espino win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -764,6 +775,15 @@
   "sha256": "28269b03fac7e106f8e11ebed56851d4294be9e15411bd929744e43de7d827f4",
   "slug": "will-new-orleans-saints-finish-the-2026-27-nfl-regular-season-with-the-fewest-total-yards-allowed-per-game-20260716001413294"
  },
+ "0x667d44473a83c1f4f4f9edff5881e1adc5b40f70727bdf508624df384d7bff6f": {
+  "created_at": "2026-10-26T19:00:37.149522Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: RCD Mallorca (-5.5)",
+  "revisions": 1,
+  "sha256": "dd3e261d0c7c962035b8385e1076baabbfdaf796253d1faa8ab2a2033be7e6df",
+  "slug": "es2-and-rm-2026-11-08-spread-away-5pt5"
+ },
  "0x67e6b300798d577f565ed834a02ef580ff77014f5255aa4bd6ec5e9c73d3f76f": {
   "created_at": "2026-08-10T23:56:33.23114Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -915,6 +935,7 @@
   "created_at": "2026-08-07T20:13:32.624021Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-11 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",

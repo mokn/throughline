@@ -12,6 +12,7 @@
   "created_at": "2026-09-09T15:41:00.105751Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will England be relegated from Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",
@@ -145,6 +146,15 @@
   "sha256": "c52835b8405272bf36f7085d22833b254a8a42c74b60a326ade19371e38687ed",
   "slug": "will-pp-win-the-most-seats-in-zaragoza-in-the-2026-spanish-general-election"
  },
+ "0x18739c6e04b4880c8bc806e02df5f4f5d9b398603a7da301af682368ff016071": {
+  "created_at": "2026-10-24T06:00:12.038968Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 0 - 5 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-0-5"
+ },
  "0x18d7d2ed6d517011dcba698cef02a45da7915dea99f70f31b55254b2465dc971": {
   "created_at": "2026-08-24T16:34:14.703623Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -235,6 +245,15 @@
   "revisions": 1,
   "sha256": "bcfe356a6919de657f2cbc31ddcff0ea35448a3def4b2ebb3e0cf7c905664af7",
   "slug": "will-alejandro-bravo-abarca-win-the-2027-guerrero-governor-election-20260803173852841"
+ },
+ "0x2f56744ca3f160a42ef5ab4992559d583dce76ac34aebd7088d6b5a36e9cc771": {
+  "created_at": "2026-11-16T16:40:38.719436Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "DOJ criminally charges Jiangsu Lettall or Century Litong by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "660f9f0620e64d49c1c0ab5282d64fe8eb0793ebd628e6dc514f27e31a3f0217",
+  "slug": "doj-criminally-charges-jiangsu-lettall-or-century-litong-by-march-31-2027"
  },
  "0x2f828c8a585647a62e529581df069e2bfa72bab2c14f55d9cce4f3048104bc71": {
   "created_at": "2026-08-28T20:17:16.369472Z",
@@ -730,6 +749,7 @@
   "created_at": "2026-08-06T08:21:20.506688Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Octane (Don Toliver) win Album of the Year at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "08aa20d8ebb9efb0168414190ed93e09176720940fc50a6f7ea6665b3f3afbdc",
@@ -1071,6 +1091,15 @@
   "revisions": 1,
   "sha256": "7419df33a1c87cda1765a52a1f5da37f7ada3ed79995df0785b42b5f3ae4fc62",
   "slug": "will-bijan-robinson-finish-as-a-top-12-rb-in-the-2026-27-nfl-season"
+ },
+ "0x94cc386b1292dd0b348f7452e6bc2d6b7b773de9680ba8d38a5bbdd714683171": {
+  "created_at": "2026-11-17T02:43:36.159955Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Ana de Armas announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "ana-de-armas-announced-as-next-bond-girl"
  },
  "0x94e9c8fdb3f40e0a92ac28ce63459cda5a755709bb62fb3442948cf7c2fbf671": {
   "created_at": "2026-07-09T13:37:26.318549Z",
@@ -1479,6 +1508,15 @@
   "revisions": 1,
   "sha256": "ca63b7b9230ae37537fd9b607d44d870c4ee018a581900ee35a3a43a4da15604",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-18-house-election-by-15-20"
+ },
+ "0xdbfa38bb1706970d45a154192d5722ffb9dffb78b46b47fc47204fda69cc2f71": {
+  "created_at": "2026-10-26T19:00:35.674293Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: FC Andorra (-1.5)",
+  "revisions": 1,
+  "sha256": "4a3e2baaf96e6d3b541e53b20c1402f51e4ae05a8bcc8a38d13bae36f35c74bd",
+  "slug": "es2-and-rm-2026-11-08-spread-home-1pt5"
  },
  "0xdfc6c18b0846cd0c8db539933513a056fb00d803b6d3a912e1ccde462c644671": {
   "created_at": "2026-10-01T19:30:28.625287Z",

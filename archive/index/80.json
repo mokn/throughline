@@ -45,6 +45,15 @@
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-jpttpt-miller-win-the-2026-27-art-ross-trophy"
  },
+ "0x075c5c5a73f452a079300559c961fc52dd222827b94a19bcc07c02805816dc80": {
+  "created_at": "2026-10-25T19:00:17.425508Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "af58ce5723fbd2d254cd12ba5c405f37ba2a644a3c6384411b3ccaf42273be12",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-total-3pt5"
+ },
  "0x08cebc2fb0f40161e03e9299bc11dd689b55de11b8a9c03c25f70f11b6bc9d80": {
   "created_at": "2026-08-11T18:14:09.193283Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -358,6 +367,7 @@
   "created_at": "2026-09-02T19:39:31.613563Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-14 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",
@@ -472,6 +482,15 @@
   "revisions": 1,
   "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
   "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-cadillac-2026-12-06"
+ },
+ "0x4974eb46f0d0ea952023121ff12eaea7434b6859e3ecdc84b4994c3409b8b580": {
+  "created_at": "2026-10-26T19:00:36.46954Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: RCD Mallorca (-3.5)",
+  "revisions": 1,
+  "sha256": "4c1e3b16e2ec5bea1415b6ab64a477971834ca4c730adadf3d7f8a7a16a3a418",
+  "slug": "es2-and-rm-2026-11-08-spread-away-3pt5"
  },
  "0x4cd4202b0a6b8c1704576bc0aa86d7214da0e20f7424c4cbe27cbf7c4c27d980": {
   "created_at": "2026-10-29T20:54:45.69464Z",
@@ -1390,6 +1409,7 @@
   "created_at": "2026-09-02T19:39:32.359035Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-14 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",

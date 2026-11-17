@@ -293,6 +293,15 @@
   "sha256": "ae3466218bdbc9f5b292bed0b8ad82e7a5f85cf8f432758fbf027f6aa69003df",
   "slug": "will-eintracht-frankfurt-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0x32c7172cffeac44b757e0259c8394d63da34bfc0c71ec2d232b7827ff3fdecb1": {
+  "created_at": "2026-10-26T06:00:10.043179Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 2 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-2-5"
+ },
  "0x3356d38d187623e456399c5e2a01967668e623c6a7835bc1180f76bb348d67b1": {
   "created_at": "2026-08-11T18:42:33.622373Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1042,6 +1051,7 @@
   "created_at": "2026-09-02T19:39:26.447057Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-22 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
@@ -1233,6 +1243,7 @@
   "created_at": "2026-09-02T19:39:29.699064Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-14 House election by 12% or more?",
   "revisions": 1,
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",
@@ -1273,6 +1284,15 @@
   "revisions": 1,
   "sha256": "7d4e43033c631bd98df8bfaf85b7068354071cbe06a116e361a94a396df45be7",
   "slug": "will-the-republican-party-candidate-win-the-2026-ky-02-house-election-by-50-or-more"
+ },
+ "0xc2deee61e5431513d0d8b0542b39b5d6353adf842f46aaa1d17a5f256d0653b1": {
+  "created_at": "2026-10-25T06:00:41.240942Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 4 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-4-4"
  },
  "0xc3c59c8db954e598ded8294168193bf0ebe2d7dd4cab8f447b15a773d7c880b1": {
   "created_at": "2026-11-13T00:35:24.058205Z",
@@ -1378,6 +1398,7 @@
   "created_at": "2026-08-07T20:16:50.685068Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-16 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "7ab7ada8d01dc1940077138d1f10a4cefbffcc05ce952509c7fd15e8ba0b85d3",
@@ -1482,6 +1503,15 @@
   "revisions": 1,
   "sha256": "675857a592e91637acc04fbd558af401d50393e45023d163a6831f9b7920499a",
   "slug": "will-morena-win-the-most-seats-in-the-2027-hidalgo-congress-election"
+ },
+ "0xeddd4ba3fc95a49d78264429b1fa8adb557149d3260ba4aee4784f3fbee31fb1": {
+  "created_at": "2026-10-25T19:00:20.61793Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: CD Tenerife 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "e4198830086dcc8b2b0ee651c48ae5644a6387d3b37a8fd31008b671544d47fd",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-team-total-away-0pt5"
  },
  "0xeec953560f98f8ac18f901b46fd7e00881bb2d0869169b3b1401a2b4d30211b1": {
   "created_at": "2026-04-14T16:04:11.499314Z",

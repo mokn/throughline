@@ -223,6 +223,15 @@
   "sha256": "6f75eaebd1378fdf9107e5d2e2a5782b752eae11d793045d5b0be74cce1ee971",
   "slug": "will-lars-klingbeil-be-the-next-chancellor-of-germany-before-2028"
  },
+ "0x324d190827e067b5d9ffa16edad300744939f7b0fb4850ac39acb44b4877dc5c": {
+  "created_at": "2026-10-25T06:00:36.260921Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "a7419deb73653a536160b22bc598655d5ad3cf4ae9436543da35ead413818ad9",
+  "slug": "es2-gra-cdt-2026-11-07-halftime-result-draw"
+ },
  "0x32cbd5bcce076b467ca1d42a1c25bdf7bd30a6f64516ebe63ba2f85b201dfc5c": {
   "created_at": "2026-10-01T14:00:57.615168Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -508,6 +517,7 @@
   "created_at": "2026-08-07T20:18:19.136707Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-28 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "c1aee09eb4f9d7ba6be92b29791a34b1ff8d949a062b8e946b0670054ffaaaca",
@@ -1097,6 +1107,7 @@
   "created_at": "2026-08-07T20:17:57.808964Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-23 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "734a82d00cd0ffdcb8b30ba15f83067e652d2b836bc7d4cc9693304fcb819909",
@@ -1110,6 +1121,15 @@
   "revisions": 1,
   "sha256": "1379d46da97dd1ab95bce751d685eb5ba3b678df2f174b9b3e1727b9e61fbce4",
   "slug": "will-grok-5-be-released-by-december-31-2026-20260710195520922-353-996"
+ },
+ "0xafc1d37dd2cc06e48662565a41b46762794cc164ba4aa73764c48a422e3e955c": {
+  "created_at": "2026-10-25T19:00:16.903952Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "6876d3687c789ec1704343660e806bb1707f93d68707fe52823fc124fcdd4855",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-total-0pt5"
  },
  "0xb05c9599dad9433065099ad0645f79d2bbea3b481caf61c0ee31569fdb44225c": {
   "created_at": "2026-10-13T15:56:09.28035Z",

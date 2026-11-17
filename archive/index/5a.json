@@ -35,6 +35,15 @@
   "sha256": "c7d31f12e5635372c2b94dd3de1c32bdcc897a6e2098d08be13aa4e1d2d5cd5e",
   "slug": "will-los-angeles-chargers-win-the-2027-nfl-afc-championship-786"
  },
+ "0x0624389fb195e906b25a5d9523f662e44fbcc79d146e299f0e97c0dbfd448b5a": {
+  "created_at": "2026-11-16T18:35:34.010723Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Extended FDV above $100M one day after launch?",
+  "revisions": 1,
+  "sha256": "99f2919bd1462241fc3eb918013fb9741479d8afd7ab354b72238ef64395a66a",
+  "slug": "extended-fdv-above-100m-one-day-after-launch-1794847845750"
+ },
  "0x0787109e0c32d2354a4b7fcf36afd703bc2c87d461225b22c734cba31ef0af5a": {
   "created_at": "2026-08-05T10:44:35.065171Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -283,6 +292,7 @@
   "created_at": "2026-08-20T17:47:39.156065Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will SPD be in the next Mecklenburg-Vorpommern state government?",
   "revisions": 1,
   "sha256": "1295ed960381daf08c777d0d3c1991b6c6c4cdde1b66df571666fe66be6a36d9",
@@ -528,6 +538,7 @@
   "created_at": "2026-08-12T16:51:58.24602Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will V\u00edctor Alfonso Casta\u00f1eda Carrera win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -1020,6 +1031,7 @@
   "created_at": "2026-08-07T20:17:08.044401Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-17 House election?",
   "revisions": 1,
   "sha256": "2ccc1fe7d774d9126bbb1e24fe4413fc21995baea9d3dc0aa677119715159a8d",
@@ -1256,6 +1268,7 @@
   "created_at": "2026-08-07T20:08:20.68937Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-01 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "c05a74ba8403fe2bf05da4b3e64616e059f8263a9592e1f9a84b22a1a18a47fd",

@@ -84,6 +84,7 @@
   "created_at": "2026-09-02T19:39:23.345417Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-25 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "f74b5eb2a97d9931d3b07cc880db532069ee53004d9f63337e8989e5b20409c5",
@@ -511,6 +512,7 @@
   "created_at": "2026-08-20T17:47:40.47165Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will FW be in the next Mecklenburg-Vorpommern state government?",
   "revisions": 1,
   "sha256": "1295ed960381daf08c777d0d3c1991b6c6c4cdde1b66df571666fe66be6a36d9",
@@ -999,6 +1001,15 @@
   "sha256": "135a5801fbd3cefbbd4014166ffa05dba4660da17d4fd37f5522a83a13e1014d",
   "slug": "will-atalanta-record-the-most-clean-sheets-in-the-uecl-league-phase"
  },
+ "0x9d52825bd283ef61555d1403fbf141d3256039708f8f87797b48fea686fefbca": {
+  "created_at": "2026-11-16T22:18:16.56866Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Another candidate is the 2028 presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "a055674fde15365a3d4cc3dc590bbc644b63df2a27ec95584e0e06a8e7579ce2",
+  "slug": "another-candidate-is-the-2028-presidential-odds-leader-on-december-31"
+ },
  "0x9dc3661824a5961e39daf6cb420704f7b832e5d87a6db5860128e5215f3845ca": {
   "created_at": "2026-10-30T22:00:46.938539Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1106,6 +1117,15 @@
   "revisions": 1,
   "sha256": "d244041d96e0be5577acebe3439a8d08c6cbd872dca79d8c85ea7b0032316975",
   "slug": "will-emeka-egbuka-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-yards-20260715211950741"
+ },
+ "0xae13d31e2a7e0fc5470366ea6d0d10272a7e7c5888335f850393aa6daee56dca": {
+  "created_at": "2026-10-24T19:00:16.356787Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: O/U 1.5",
+  "revisions": 1,
+  "sha256": "446ce959ad2c407a70b0c7536b78eb6b7f095387bb93ebe538e07fd331570372",
+  "slug": "es2-cas-eib-2026-11-06-total-1pt5"
  },
  "0xafba6fc46bce63e206d831ac879eeb0690089670ddfe4eb1eb9d302d20d9f6ca": {
   "created_at": "2026-08-24T16:36:38.572138Z",

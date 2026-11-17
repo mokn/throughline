@@ -1008,6 +1008,15 @@
   "sha256": "7a720457dd87aeeedb323ccfdaf664895f4a2fc878bf47518fe0640171ff7c91",
   "slug": "will-gemini-carbon-debut-with-an-hle-diamond-score-of-60-or-higher"
  },
+ "0x97279a232559a34dc3714d7ee76299249c90e2562c6d8e647c5d872c388bb789": {
+  "created_at": "2026-10-24T06:00:15.614201Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n to score first vs. SD Eibar?",
+  "revisions": 1,
+  "sha256": "c14847dfa18639b47e7afda727deaa5156d6aefd0f1f02e04c80212c7e3435c6",
+  "slug": "es2-cas-eib-2026-11-06-first-to-score-home"
+ },
  "0x97a35b6a16b59ee47f03dfd60f2256a916d1b06ec632716a0b7e720d7a97a789": {
   "created_at": "2026-10-13T15:43:50.626445Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1025,6 +1034,15 @@
   "revisions": 1,
   "sha256": "0f5529b2db7a610c1eeebaca54668ff5480ce338feb6dc4477d06dd588a50107",
   "slug": "enl-bar-fgr-2026-10-24-total-5pt5"
+ },
+ "0x99bf605e39de68e38e4b4d2ba07e1b6407e64d21a9efd382675e5a27dec7d989": {
+  "created_at": "2026-10-26T19:00:41.39159Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: FC Andorra O/U 5.5",
+  "revisions": 1,
+  "sha256": "323756638b5afdebb70a741860d3d4f3712af540dd243ea7460a6d9aef54326e",
+  "slug": "es2-and-rm-2026-11-08-team-total-home-5pt5"
  },
  "0x9fbe0cb62f357022aa44910d19b726e71484f307c59a722264664e9738ac6d89": {
   "created_at": "2026-08-06T21:37:01.867253Z",

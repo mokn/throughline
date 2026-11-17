@@ -438,6 +438,7 @@
   "created_at": "2026-09-02T19:39:40.956824Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-12 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "37c643d524d48b69ab2b9b099818b83908bedd7d5ac72fadd91125634a2c0976",
@@ -716,6 +717,7 @@
   "created_at": "2026-08-20T17:47:40.099198Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Linke be in the next Mecklenburg-Vorpommern state government?",
   "revisions": 1,
   "sha256": "1295ed960381daf08c777d0d3c1991b6c6c4cdde1b66df571666fe66be6a36d9",
@@ -1139,6 +1141,15 @@
   "sha256": "2674ac0f6a4abaf2558838dace94a58220b404d7ed8f2c00c1f3e07c55bf22ef",
   "slug": "will-cmi-declare-the-riemann-hypothesis-solved-by-december-31-2027-20260812114814551"
  },
+ "0x9e3f66429f3387d27e41d646810501cd51a12c36d1ecc677102438e2e24c958a": {
+  "created_at": "2026-11-16T18:46:37.98848Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "39 or more votes for Chuck Schumer for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "e111f46fc9dc64a6a1024c0fe9efb3b1e41d753a522bb0229a5d10d11ae987be",
+  "slug": "39-or-more-votes-for-chuck-schumer-for-senate-democratic-leader"
+ },
  "0xa2088a88119c0f124dd669abc0562ce9174e011afee13be9ade34de2d7e6448a": {
   "created_at": "2026-02-06T22:22:36.927774Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1394,6 +1405,15 @@
   "sha256": "d254e0d3a2d11817cc76e9a3478e578e1c2c820955a9a85f4e99e713a388d09a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mt-01-house-election-by-6-9"
  },
+ "0xc3ebcb6ff3ff4cdbe3b059c0846e11caeb0c3379c63e895d55216d49966df28a": {
+  "created_at": "2026-10-25T19:00:20.269598Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: Granada CF 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "6260755ed6797109f8315c6a271c7d03a7cb11af8f808b463ea22d7905a06a3c",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-team-total-home-2pt5"
+ },
  "0xc476305664a8b06e1df5151daef77e35f90d632bd2ecc1ea29f1c945e4e1c98a": {
   "created_at": "2026-05-26T21:40:39.603663Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1494,6 +1514,15 @@
   "revisions": 1,
   "sha256": "8ccb9a1938bdbb449261e3948f7042d96f8c4f16632dfde85fe1d7cb571d9ac4",
   "slug": "spl-riy-hil-2026-10-16-corners-total-9pt5"
+ },
+ "0xd2a8bb5757149e6f46defb89fb3aa3f1d77150746cf663820989ef1e43943f8a": {
+  "created_at": "2026-11-16T22:19:31.138139Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Alexandria Ocasio-Cortez Democratic nomination odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "56334782f3733c279759730837b8c013b44eb11981010d1474b01d78dd00e020",
+  "slug": "alexandria-ocasio-cortez-democratic-nomination-odds-leader-on-december-31"
  },
  "0xd2ef72f89bbd053f4c80ce4a81c3eb45ec2d9250abacba8cef73b303aa3bb68a": {
   "created_at": "2026-11-11T00:51:34.050773Z",

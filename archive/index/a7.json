@@ -208,6 +208,15 @@
   "sha256": "4d1b646137460330bd30f8c47f78f142941598bae0e92f3c8aed0bf50b0736e7",
   "slug": "tsla-above-450-on-november-30-2026"
  },
+ "0x2c51d2a6fc1c685eab16709e22d5a2eef50b24fcdb3339a4fe979707e18a24a7": {
+  "created_at": "2026-10-25T06:00:39.718351Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 2 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-2-4"
+ },
  "0x2d1bd06cd38a25de6850c835fec60b57023b77b8944f383b2fc76f3c819d03a7": {
   "created_at": "2026-09-08T16:53:09.677497Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -308,6 +317,15 @@
   "revisions": 1,
   "sha256": "7419df33a1c87cda1765a52a1f5da37f7ada3ed79995df0785b42b5f3ae4fc62",
   "slug": "will-bhayshul-tuten-finish-as-a-top-12-rb-in-the-2026-27-nfl-season"
+ },
+ "0x3fc475571dc3cb8bbca23f62169e0d99d20aa240e7911337ffefb726242adea7": {
+  "created_at": "2026-10-24T06:00:12.830408Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 3 - 4 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-3-4"
  },
  "0x4022353ba4220eb140841ab037fdeffed6c6800a004db6cdf42e82e9db5be6a7": {
   "created_at": "2026-09-04T17:19:12.795959Z",
@@ -1343,6 +1361,7 @@
   "created_at": "2026-07-22T22:55:56.268808Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republicans win the Arizona Secretary of State race in 2026?",
   "revisions": 1,
   "sha256": "ed7c4452eebdd46a5dcda9409c59b253fc04488ee1f6982bc3614f1778bc4cfa",

@@ -205,6 +205,7 @@
   "created_at": "2026-05-18T16:26:37.460945Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "James Norton announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -799,6 +800,15 @@
   "sha256": "f507b1d484afd0194e4d2e0f4761f2ef3cfb6975df4aebe3193bbc33a7844793",
   "slug": "will-travis-konecny-record-100-points"
  },
+ "0x707d1c719507550a0672dd40df586c2987e6b4593e5767a084861b45b2ebd60b": {
+  "created_at": "2026-11-16T22:22:04.121448Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Democratic trifecta odds hit 65% by December 31?",
+  "revisions": 1,
+  "sha256": "8530c6598f562ef6304326ffecb461a3f7348ce35441b3dc73e0a8340daac593",
+  "slug": "democratic-trifecta-odds-hit-65-by-december-31"
+ },
  "0x708a79caa580203ff9e10589d7a49959722094939fc46d1bb9b02fbd2e5ece0b": {
   "created_at": "2026-07-20T19:28:21.073601Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1078,6 +1088,7 @@
   "created_at": "2026-08-11T00:14:00.626814Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Claudia M\u00fcller be the next Minister-President of Mecklenburg-Vorpommern?",
   "revisions": 1,
   "sha256": "9083543ff2d2336602241ba26f347da6e2292da52f48732df62e84b5a0779894",
@@ -1644,6 +1655,7 @@
   "created_at": "2026-05-18T16:26:51.692053Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "No one announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",

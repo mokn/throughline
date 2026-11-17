@@ -1,4 +1,13 @@
 {
+ "0x0054b49aba2ba740e106dfeb8f72f250f41b648824ee866df855e2e2ee574965": {
+  "created_at": "2026-10-24T19:00:19.616294Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: CD Castell\u00f3n O/U 4.5",
+  "revisions": 1,
+  "sha256": "2f3d64d5bade60935ead8f673e1032060473d3520b9ab057411c0dab5c1046db",
+  "slug": "es2-cas-eib-2026-11-06-team-total-home-4pt5"
+ },
  "0x00578c3f582ebc635668016b20e148b17646bd8484c20c39fb08f1164915ec65": {
   "created_at": "2026-09-13T08:44:32.008617Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -89,6 +98,15 @@
   "revisions": 1,
   "sha256": "9793180c4d0ffed4a28fe4e45e26f65653d7aa91fbe8bb9aeb26b7d278edcc71",
   "slug": "will-the-dreamed-adventure-be-nominated-for-best-international-feature-film-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x0b5b5809023b75907f389fafef26aaba476acb5f65309d8b2e2d2067562d6e65": {
+  "created_at": "2026-10-25T06:00:37.882205Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 2 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-2-1"
  },
  "0x0c89b37a4b2c87448430cb24f33de667495bfadfc123a6e5dffbe9677341ba65": {
   "created_at": "2026-09-09T15:53:46.036466Z",
@@ -1216,6 +1234,15 @@
   "sha256": "e61da17b033ffcd189b17db77cb78b0ec672570c86f9ad6a50f209f30abdbebd",
   "slug": "will-treveyon-henderson-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-touchdowns-20260715212820940"
  },
+ "0xa6e1b5ee45239a6f9aa79309f619300b0df124fe2e660c081ecd711d6d364465": {
+  "created_at": "2026-10-26T19:00:44.838615Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: RCD Mallorca 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "50c19ca0a0b2f11211f2a6240574e1cc68a1554c358df9f17f0476baa8292e1a",
+  "slug": "es2-and-rm-2026-11-08-first-half-team-total-away-1pt5"
+ },
  "0xa7decb3a9e6c1e24cfe3ef06de36584956b498298804be446f5d2abf47537365": {
   "created_at": "2026-10-02T20:15:36.736772Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1410,6 +1437,7 @@
   "created_at": "2026-01-28T04:54:01.828866Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party win the CA-23 House seat?",
   "revisions": 1,
   "sha256": "e98fd11aef1b834f14544925a491169fb5778551ae91518797d5f4ebeea6a16b",

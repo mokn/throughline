@@ -162,6 +162,15 @@
   "sha256": "9c36e4f6e92ef27876ff93e7f3d7dd25c8d789e52256a6394a17c8dfdbac367d",
   "slug": "will-fjord-win-best-film-editing-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x1720625398f0715ffe86e728099892689fbd897756136a741c3a91cc03cd9b82": {
+  "created_at": "2026-10-26T06:00:08.970351Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 2 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-2-0"
+ },
  "0x17801cb36fe8029ce875b26d085bdca1b1e24851e7231a697dffaa75e6bcc782": {
   "created_at": "2026-08-11T18:42:40.963547Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -340,6 +349,7 @@
   "created_at": "2026-11-04T21:46:42.353703Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Next James Bond announced by December 15, 2026?",
   "revisions": 1,
   "sha256": "67fd95d32f2bd3831d515c6fb241e59b1b14a968e17034da519a71a61a106009",
@@ -833,6 +843,7 @@
   "created_at": "2026-08-12T16:51:55.345608Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Jos\u00e9 Rodar Miranda Prado win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",

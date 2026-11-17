@@ -132,6 +132,7 @@
   "created_at": "2026-08-18T14:06:27.759653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Florida be between 8,750,000 and 9,000,000?",
   "revisions": 1,
   "sha256": "9456b9b3ff798cdb12ea6838776df9f740e9dcabc3154c6906e6daebc4f64c9d",
@@ -651,6 +652,7 @@
   "created_at": "2026-08-07T20:16:50.189673Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-16 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "7ab7ada8d01dc1940077138d1f10a4cefbffcc05ce952509c7fd15e8ba0b85d3",
@@ -1606,6 +1608,15 @@
   "revisions": 1,
   "sha256": "03f59fac72edf84476d9e7dc27e0b7d992deb44101cb64bba8fc77cc616dc246",
   "slug": "will-dynamo-dresden-win-the-2026-27-dfb-pokal"
+ },
+ "0xe30f4b53af3bfe5f7cdf74fac7a828a9bd1a9ab75dc8c67190ed694282d0ae19": {
+  "created_at": "2026-10-24T06:00:11.822952Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 1 - 3 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-1-3"
  },
  "0xe5faff799b380055772c61254d1ffe7d70ef51294aeb824e365d67582f782019": {
   "created_at": "2026-08-24T16:40:48.688176Z",

@@ -1328,10 +1328,20 @@
   "sha256": "32380c6c2b17ff25dc44ebc0ce0f7a95b99edd43cb006a008f2a36e0e7436789",
   "slug": "will-esg-law-win-the-2026-esports-supporting-service-of-the-year-award"
  },
+ "0xc91c5ff80c7c9be00f7e75ba2895a2cd382547690b7ffe2e87ccb95cf865d87d": {
+  "created_at": "2026-10-26T19:00:43.661268Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: FC Andorra 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "7504f75a3d85de6a6aae293218d41a9b7424197e7c9c55f8596e819ce55f1937",
+  "slug": "es2-and-rm-2026-11-08-first-half-team-total-home-1pt5"
+ },
  "0xcadad16d32fd00f5c4f6717b7c238ab6130292584d721ba6c3e0e8f9371b347d": {
   "created_at": "2026-08-07T20:17:29.134974Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-18 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "422afe710ebce56a8660bf95f9b9c38d287e17dc22c176749bc09eedcccc667b",

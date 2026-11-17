@@ -588,6 +588,7 @@
   "created_at": "2026-08-07T20:12:18.284802Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-08 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "5aca71f294755237b293068f75671907cfa8182af82ac5e0af5bf96b3a347d0e",
@@ -646,6 +647,15 @@
   "revisions": 1,
   "sha256": "a62579b8e674306f8cb127454de3d175b8e5bf3d7846364610e4424b61bba7db",
   "slug": "will-chris-fuhrich-win-the-2026-27-bundesliga-player-of-the-season-award"
+ },
+ "0x6855254037ee1740a43cade17bb6d984a76eaa50e75462468d98aaf464ca0fba": {
+  "created_at": "2026-11-17T02:43:36.613804Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Florence Pugh announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "florence-pugh-announced-as-next-bond-girl"
  },
  "0x6893886e74d7d9dd290390a947b0c76f04a6b67a67f22c2fa7c0f45b9f716dba": {
   "created_at": "2026-08-25T05:13:47.019154Z",

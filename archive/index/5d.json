@@ -66,6 +66,7 @@
   "created_at": "2026-08-07T20:08:20.498766Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-02 House election by 25% or more?",
   "revisions": 1,
   "sha256": "dc9eea10dabfe5e08fdaef09014126fb2526c4a49151fbb78b53450ca2dede92",
@@ -245,6 +246,15 @@
   "revisions": 1,
   "sha256": "a41ee4bcd21b6ecaf7af0ca12212a754ebcd4b696a600b073e15d6b621a39996",
   "slug": "f1-brazilian-grand-prix-constructor-fastest-lap-ferrari-2026-11-08"
+ },
+ "0x24876209e5ad1ae6cb791cfe76cf52c8a4fe5f1da86d08a2907aeafe3704075d": {
+  "created_at": "2026-10-24T19:00:14.693366Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: SD Eibar (-1.5)",
+  "revisions": 1,
+  "sha256": "27f5664c423f966070f1cea31c72ea7e001f724ca3b8c53fb0f9f8567bbb0eb6",
+  "slug": "es2-cas-eib-2026-11-06-spread-away-1pt5"
  },
  "0x2ac2a61c379d6ea9cd2560f5c66808a2415fc6c021175103d79ec4056a3a125d": {
   "created_at": "2026-10-09T16:37:16.578325Z",
@@ -668,6 +678,7 @@
   "created_at": "2026-08-12T16:51:54.395955Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Mario Colberth Reyna Rodr\u00edguez win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -768,6 +779,7 @@
   "created_at": "2026-08-07T20:18:10.574935Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-24 House election by 15%-25%?",
   "revisions": 1,
   "sha256": "9979a8f00af0d7ed9ff0c7dda6f355a71ca65f3da11299d55f61ccba9414d30c",
@@ -1510,6 +1522,15 @@
   "revisions": 1,
   "sha256": "c77fbcf5d46d7f34833f29567aa8bbd6487d4002bc23a0cbb9e3f55f86b5f153",
   "slug": "will-eduardo-enrique-wado-de-pedro-win-the-2027-argentina-presidential-election"
+ },
+ "0xf98095ac2db38e3a655874246452d9fed74a0eef82c3d3a2bf95c163c933555d": {
+  "created_at": "2026-10-24T19:00:14.887886Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: CD Castell\u00f3n (-2.5)",
+  "revisions": 1,
+  "sha256": "58d10a73402460fc47332f94c5abf191e6c13ef572625530e39dae67dce09e01",
+  "slug": "es2-cas-eib-2026-11-06-spread-home-2pt5"
  },
  "0xfa022037a45639b41ee3dc93f7f4eff5d18522afd2972a5d9c4fb0a4ae41c65d": {
   "created_at": "2026-09-28T17:20:08.105377Z",

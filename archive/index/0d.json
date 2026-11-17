@@ -76,6 +76,7 @@
   "created_at": "2026-09-09T15:41:05.512957Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will North Macedonia be promoted to Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "de20540a8f61fcb9b5ef7a2ed1a0cbdb75ef623c12ef50f71d3b42020dfa35d1",
@@ -89,6 +90,15 @@
   "revisions": 1,
   "sha256": "756f78bcd10ab5fead58ea9c8a45801448babe288373e2a2df2ab6db9dd1e6fb",
   "slug": "pete-hegseth-impeached-by-march-31-2027"
+ },
+ "0x0e3de9702582056040ed0d63b50c50fa480745cccc4fc740937811ecc1149f0d": {
+  "created_at": "2026-10-26T19:00:38.323335Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: O/U 6.5",
+  "revisions": 1,
+  "sha256": "b089f5e95fc7c17e0b8550f117cd366f684938ec49949fa693a3c08da52683d0",
+  "slug": "es2-and-rm-2026-11-08-total-6pt5"
  },
  "0x0e6c91006d5f94728f88bfaad19369961766f1baaa9a17f4f244987070f3320d": {
   "created_at": "2026-09-02T19:41:09.29275Z",
@@ -1329,6 +1339,7 @@
   "created_at": "2026-08-07T20:17:57.481277Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-23 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "734a82d00cd0ffdcb8b30ba15f83067e652d2b836bc7d4cc9693304fcb819909",

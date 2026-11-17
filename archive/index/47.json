@@ -190,6 +190,15 @@
   "sha256": "1324c7df383b06f822ca4dafa0a3f41be80c2553c25efce43a90806e228409dd",
   "slug": "will-chronicle-play-for-team-vitality-in-2027-1788364450495"
  },
+ "0x286fbfb5366dfb7ec9299b2eb83c7a86f78e537ca4d6d14dc127413821492947": {
+  "created_at": "2026-11-16T18:46:31.564541Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "17 or fewer votes for Chuck Schumer for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "e111f46fc9dc64a6a1024c0fe9efb3b1e41d753a522bb0229a5d10d11ae987be",
+  "slug": "17-or-fewer-votes-for-chuck-schumer-for-senate-democratic-leader"
+ },
  "0x293a15dc69de092ea5f669af2a0207d7b9dbf32b8e53eae53cdea7785d915747": {
   "created_at": "2026-04-29T16:27:11.358907Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -594,6 +603,7 @@
   "created_at": "2026-08-07T20:18:09.979568Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-24 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "9979a8f00af0d7ed9ff0c7dda6f355a71ca65f3da11299d55f61ccba9414d30c",
@@ -1319,6 +1329,7 @@
   "created_at": "2026-08-07T20:09:43.666374Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-06 House election by 35% or more?",
   "revisions": 1,
   "sha256": "c50166fef448bf7f717c32efa095d73d36a84aa350584c617c6fa598c8625600",
@@ -1447,6 +1458,7 @@
   "created_at": "2026-07-29T02:09:15.922471Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Novak Djokovic Qualify for the Nitto ATP Finals 2026?",
   "revisions": 1,
   "sha256": "0b3b37b32b435877e06eea3a0873c2fa2f786db2cdeea568dee32a79969c3822",

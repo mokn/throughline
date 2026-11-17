@@ -21,6 +21,7 @@
   "created_at": "2026-05-18T16:26:42.787017Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Jonathan Bailey announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -216,6 +217,15 @@
   "sha256": "c75bb110bc84023caa3078f029f8dc7c6daae984e45af14f6f5a1a0702b0912c",
   "slug": "will-szymon-wlodarczyk-score-the-most-goals-in-the-2026-27-uefa-europa-league"
  },
+ "0x28fd30e86ca8cb46e2d63ceb78e2515cdcddc1623459b2d16f5e2cec7d2b81ee": {
+  "created_at": "2026-11-16T21:38:38.681078Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Anthropic IPO first-day pop above 30%?",
+  "revisions": 1,
+  "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
+  "slug": "anthropic-ipo-first-day-pop-above-30pct"
+ },
  "0x2a2bc8521080a5ac59927ad7a15c24e788f2a153dbff8fa4e7682a6f860295ee": {
   "created_at": "2026-08-12T15:01:15.389311Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -409,6 +419,15 @@
   "sha256": "f3a8da1757da1e8afaeb40bcb6a9f5028553d32f49946ad5167bba3f3bd2f13a",
   "slug": "el1-ste-swe-2026-09-26-second-half-total-1pt5"
  },
+ "0x46872b1231390be138828d95638fa94e45e6bf7e1371ac7ec52bfa5234fd87ee": {
+  "created_at": "2026-10-24T19:00:15.043244Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: SD Eibar (-2.5)",
+  "revisions": 1,
+  "sha256": "b9952e237ded77c4948e95b110291d313bcb7ce499c77ae07013d2b957782755",
+  "slug": "es2-cas-eib-2026-11-06-spread-away-2pt5"
+ },
  "0x476a54b485066163f543937e93cda7500842edaeb16cfd91ed308b4c9e890aee": {
   "created_at": "2026-09-02T21:58:36.149196Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -473,6 +492,15 @@
   "sha256": "07fa6c93886e79a7dcc75aea4cd065793327718a75d9aa6d119a60769be0a057",
   "slug": "nba-2026-27-most-improved-player-cason-wallace"
  },
+ "0x54217a4bba83c88ddaeddf82c893074608cac88c813376dddc9e5123887e6eee": {
+  "created_at": "2026-11-16T18:47:02.642884Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "30-32 votes for Chris Van Hollen for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "2c2e348be86bd282d38b9736b960acc70f9928b8acbcf43c4b88421de2ff8510",
+  "slug": "30-32-votes-for-chris-van-hollen-for-senate-democratic-leader"
+ },
  "0x549bc7e8316bb56b19f366f5c253d2ab297b877c653a2f5351c620d580773bee": {
   "created_at": "2026-10-13T15:56:07.898825Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -499,6 +527,15 @@
   "revisions": 1,
   "sha256": "6dc9e902dde4f7d0894c438828ffb22c90d1778de9015aed605930e9e0f4aee0",
   "slug": "will-tkzin-play-for-100-thieves-in-2027"
+ },
+ "0x59d7e2380fb7f03901552927d0996e318ca2a28d76785d573e71990a772d2aee": {
+  "created_at": "2026-10-24T06:00:11.411925Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 0 - 2 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-0-2"
  },
  "0x5a353d8c813b4d64760281674d63d1232080fd895c9ffe6b23fab2aec55ebdee": {
   "created_at": "2025-11-24T19:33:29.927591Z",
@@ -935,6 +972,15 @@
   "sha256": "4a00c903ea29af55c310be8de842b6ec4cc6a253923418649e340f9fc3e779e4",
   "slug": "will-pedro-lupion-be-the-next-president-of-brazils-chamber-of-deputies-20261106"
  },
+ "0xa543d277f573fb383f27a97fef7761a5f6557c1482038bf8a94f7b66a73569ee": {
+  "created_at": "2026-10-24T19:00:22.108259Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: SD Eibar 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "be0db033f9151f5f1e41cabc6d2b2791461d24d0ff8487fe1503b743095db86c",
+  "slug": "es2-cas-eib-2026-11-06-first-half-team-total-away-3pt5"
+ },
  "0xa5a1df12d9524ab179d1a460b3b280693f87cfae4513fbd0d5bf3a704f6823ee": {
   "created_at": "2026-08-11T18:27:34.142849Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -943,6 +989,15 @@
   "revisions": 1,
   "sha256": "f92f712238a28b4fe34ffbd8cd753c6ad27c8730533c7fb008ff3b908c8179ea",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nv-01-house-election-by-15-20"
+ },
+ "0xa7d95280b3ab13b35cdf5b87d3e7f2bb5ab9f8a671ef6e35a7b8bbf13d8179ee": {
+  "created_at": "2026-10-25T19:00:20.1078Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: Granada CF 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "f8922bafd5b9ae77bfe033883a0bf5efd2ed4a5708f97631eccad22931ef8b5b",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-team-total-home-1pt5"
  },
  "0xa80ee0a13b4b5d5b5c45286bc0b4d9ae541db014991e57bc77f7f38f90708dee": {
   "created_at": "2026-09-23T23:54:43.676988Z",
@@ -1336,6 +1391,15 @@
   "revisions": 1,
   "sha256": "5dc8e0a0981adb389355f6e70fef6cccd0cd20fced1b2120ee69a3edbebd79f6",
   "slug": "will-the-calgary-flames-record-100-points"
+ },
+ "0xda53bf8be073632dc9161ff42d7b4b3b8ddef559160ee79a521a41ad7bcd43ee": {
+  "created_at": "2026-10-25T19:00:13.344588Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: Granada CF (-1.5)",
+  "revisions": 1,
+  "sha256": "0ae1ed3e80cbf98c365ad5922e83edd28f232271cb8d83a8d03e696c15072431",
+  "slug": "es2-gra-cdt-2026-11-07-spread-home-1pt5"
  },
  "0xda802b872db226502679690fa30bef97f6f40857677df3ed64dcc9701417acee": {
   "created_at": "2026-08-07T20:32:33.883446Z",

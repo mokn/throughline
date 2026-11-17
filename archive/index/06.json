@@ -589,6 +589,15 @@
   "sha256": "40743b9d039d6b6c1e2a387776f5830ab5f95d3082043100de134a06af1ef03a",
   "slug": "will-borac-banja-luka-finish-top-8-in-uecl-league-phase"
  },
+ "0x4b2ebbf7ffd8974e2e5be5519a123e9b8caff5d3f6e3dbc08b33f84fc5d84c06": {
+  "created_at": "2026-11-16T22:29:11.457545Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Marco Rubio Republican nomination odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "cb5789a6171e607b45f2fbc26336385440c861306d82f096bbdd6571ce628662",
+  "slug": "marco-rubio-republican-nomination-odds-runner-up-on-december-31"
+ },
  "0x4bbba497e588d43fd0c5153036129cc679ad322dc2b0bcbc9bd9a76111935b06": {
   "created_at": "2026-08-21T21:07:42.554097Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -730,6 +739,7 @@
   "created_at": "2026-09-02T19:39:25.748059Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-22 House election by 12% or more?",
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
@@ -784,6 +794,7 @@
   "created_at": "2026-09-02T19:39:30.024193Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-14 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",

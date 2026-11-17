@@ -618,6 +618,7 @@
   "created_at": "2026-08-07T20:17:56.054769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-23 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "734a82d00cd0ffdcb8b30ba15f83067e652d2b836bc7d4cc9693304fcb819909",
@@ -1322,6 +1323,15 @@
   "sha256": "0fba60e03908266ebca3e0912823008f81e7c17727c2f01637efc1e4a2c23df0",
   "slug": "will-jake-paul-be-the-1-searched-person-on-google-this-year-20260717214426294"
  },
+ "0xc8adf31bf11afc5513d1243a6120fc1a6a22008441ee601751e86f53e7a4a974": {
+  "created_at": "2026-11-16T22:29:14.652392Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Glenn Youngkin Republican nomination odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "cb5789a6171e607b45f2fbc26336385440c861306d82f096bbdd6571ce628662",
+  "slug": "glenn-youngkin-republican-nomination-odds-runner-up-on-december-31"
+ },
  "0xc8bc89e69ae5bb3d27053839ce727ddec0ecda38528a9b231cb5b5756beba474": {
   "created_at": "2026-01-02T23:04:46.505747Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1484,6 +1494,15 @@
   "revisions": 1,
   "sha256": "c2405aee41bed19c7ae9d5f296603ed1b99799bce1e6b40ccdb65faad54bc709",
   "slug": "will-cataurus-hicks-be-the-2026-acc-receiving-yards-leader"
+ },
+ "0xdb105a7220cd596aeb34f5042e163c32d944e07b71a9dc58723a394a2bd91a74": {
+  "created_at": "2026-10-24T06:00:11.458445Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 1 - 1 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-1-1"
  },
  "0xde7f8d864196f272e6e579dd418ae993a41b663eb04410332e8d0a08c1da3274": {
   "created_at": "2026-10-27T16:58:50.766035Z",

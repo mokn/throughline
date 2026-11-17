@@ -382,6 +382,15 @@
   "sha256": "40c958b3c1c5a69218a603dd10b534850562b475d09bbc9344ac0fc5c271293d",
   "slug": "will-the-republican-party-candidate-win-the-2026-ohio-gubernatorial-election-by-6-9"
  },
+ "0x2bb6b898557526c9f96390b89c40370dfb3adfef4892df8d40c17cf23cda68af": {
+  "created_at": "2026-11-16T21:32:34.214846Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Rahul Patil ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-rahul-patil-ring-the-bell"
+ },
  "0x2c20c464c156c8dbd8d8e0409c0641c3fff162f5c0e3f1a45317bcbbb79bd8af": {
   "created_at": "2026-09-04T19:31:01.097463Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1266,6 +1275,15 @@
   "sha256": "ded359fe0a678c6448a3d0cfb8257a0b905eca1dc1b11b1d5a02799924dfa1db",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-10-house-election-by-55-60"
  },
+ "0xb038a744c26f74a209e96a964d80b3ffaddaed1288b0a874a503d8de950b7eaf": {
+  "created_at": "2026-11-17T00:59:09.373281Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Another candidate is the French presidential odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "880b5a0927a09fa4b5a9a294f89258d334af27be841dfa7bc3b3c48d7bc3fc8f",
+  "slug": "another-candidate-is-the-french-presidential-odds-runner-up-on-december-31"
+ },
  "0xb26f08ec267715756ba1756326eda6bbb4c215b5ceb18bb04d62ba5332e0f3af": {
   "created_at": "2026-08-24T16:37:53.865547Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1288,6 +1306,7 @@
   "created_at": "2026-08-07T20:17:50.506776Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-20 House election?",
   "revisions": 1,
   "sha256": "71e8beeabf186e1af17a77a9ea8b9e66f0cce38b51272cb1b8e43d590cc3a084",

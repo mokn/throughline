@@ -794,6 +794,15 @@
   "sha256": "9fcf1ad099a9fb56df0dd5350bbca8d0a989f760c9eab666200369eecd0e45c3",
   "slug": "will-psv-eindhoven-be-relegated-from-eredivisie-2026-27"
  },
+ "0x9c6394e72dc452b9530200f28c8cc63dae9fab31043748035c6a7386069031e2": {
+  "created_at": "2026-10-26T06:00:09.299553Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 2 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-2-2"
+ },
  "0x9cc95ce666488e221d5a205ff7708a3c576665e886b34b7c6f8474b59e1b8ee2": {
   "created_at": "2026-07-10T01:33:24.256923Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1105,6 +1114,15 @@
   "revisions": 1,
   "sha256": "7f10c13c249b75f2c8f2c429c69ff6e33fb26baf24d016b89a89bad43ea15da9",
   "slug": "brock-bowers-75pt5-receptions-2026-27"
+ },
+ "0xcbd0817f8931db9777275ce1d889157ac24517f400c4504f56fb6316bdda9fe2": {
+  "created_at": "2026-11-17T02:43:37.022547Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Zendaya announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "zendaya-announced-as-next-bond-girl"
  },
  "0xccf9742ea99cd554a119f85cf4f23a62bea839cf10515679ec9c85e1fc5e0ae2": {
   "created_at": "2026-11-01T15:01:08.41291Z",

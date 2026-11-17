@@ -709,6 +709,15 @@
   "sha256": "4dc36b76383632c21571dfb1ef09044f9ef6b2fd791fde0327ebb0e14518b7db",
   "slug": "will-the-democratic-party-candidate-win-the-2026-sc-03-house-election"
  },
+ "0x7a194ebbbcd059b0700b9fc2dcf52196fa3874bf60a28d4466c97f0bf9bfbcc4": {
+  "created_at": "2026-10-24T19:00:17.900382Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "1ac453e67bcca0d71ed42f0428e26107e23fed6ba63e8c6e8920457c4f8d80db",
+  "slug": "es2-cas-eib-2026-11-06-btts-first-half"
+ },
  "0x7b14ce54e60864b6fa3a8572d818d0b044481b5c05396eb546c6a34726c519c4": {
   "created_at": "2026-07-08T21:33:02.249612Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1306,6 +1315,7 @@
   "created_at": "2026-08-07T20:17:48.878756Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-20 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "71e8beeabf186e1af17a77a9ea8b9e66f0cce38b51272cb1b8e43d590cc3a084",

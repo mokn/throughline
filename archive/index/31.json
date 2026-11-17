@@ -727,6 +727,15 @@
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
   "slug": "will-boaster-play-for-nova-esports-in-2027-1788882258365"
  },
+ "0x7297e0372834f4356f559769c30bd05c611f7701a105055ebea57a0127e55031": {
+  "created_at": "2026-10-25T19:00:20.947199Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: CD Tenerife 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "06f8848c84626a26b2b1ebca1312e620d63a7fa0966f5c6d993b565eecdbb493",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-team-total-away-2pt5"
+ },
  "0x741efc2f78b37b87afd5dfbb3d446d774deb9a835430734bd7f45396b2913531": {
   "created_at": "2026-08-26T21:46:15.914946Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1405,6 +1414,7 @@
   "created_at": "2026-09-02T19:39:26.133235Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-22 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
@@ -1464,6 +1474,15 @@
   "revisions": 1,
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-nathan-mackinnon-win-the-2026-27-maurice-rocket-richard-trophy"
+ },
+ "0xebf34ebd4b88eb61cbd9b32f87a614b565f39250b4ea17864d5bbfe875966531": {
+  "created_at": "2026-10-24T19:00:17.733393Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "bbefb7f16e40a1d9db1b497daf888f371dc7afd6b41c46fd81a9e36270cdfbf9",
+  "slug": "es2-cas-eib-2026-11-06-btts"
  },
  "0xeeb8e3b471b37dd62d4db9b43615e1ef9f3254ab50889e2b96ef9f43d54e4531": {
   "created_at": "2026-11-03T17:10:50.980661Z",

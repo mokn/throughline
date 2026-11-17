@@ -183,10 +183,20 @@
   "sha256": "50f08823c9abf8742b1346d0bd5c7e575f8e06d16ffed9122633640fab47e755",
   "slug": "will-the-republican-party-win-the-tx-34-house-seat"
  },
+ "0x16870fe8531e8e76bca9b06cfc23ffe3f6e4c71846a2d1ae36c9b4ac1e1a84cc": {
+  "created_at": "2026-11-16T18:46:34.008254Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "24-26 votes for Chuck Schumer for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "e111f46fc9dc64a6a1024c0fe9efb3b1e41d753a522bb0229a5d10d11ae987be",
+  "slug": "24-26-votes-for-chuck-schumer-for-senate-democratic-leader"
+ },
  "0x188a424290223082d135589d34937412c28e410227dc0eeacb9c41f1953607cc": {
   "created_at": "2026-08-12T16:51:55.92996Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Wilmar Alfredo Moreno Fuentes win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -394,6 +404,15 @@
   "sha256": "2174ee20f8ea6290e8d4b90283c9e60a84d78fbae8f205bac682b1c7c312a524",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-31-house-election"
  },
+ "0x3cd56577cca9e35660e810b4b6cdd9d5a86dca6db156bf4ee5f429e30da8e5cc": {
+  "created_at": "2026-10-25T19:00:14.168436Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: CD Tenerife (-3.5)",
+  "revisions": 1,
+  "sha256": "7cd83539d1a6cbbff06d7fb9d073782441cf73276930eaec7a9116894ab5cbf7",
+  "slug": "es2-gra-cdt-2026-11-07-spread-away-3pt5"
+ },
  "0x3cf81f93bc8219b6d61a9a5d3de23e8dba104ec40c9909f12e09bbf96407f1cc": {
   "created_at": "2026-08-25T21:38:35.273428Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -465,6 +484,15 @@
   "revisions": 1,
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
   "slug": "will-the-chicago-bulls-win-the-2026-nba-cup"
+ },
+ "0x4bf09332461c1eb8cd6379e0e86a1e1ff529b62f86d4f5df0060bc3860a7a8cc": {
+  "created_at": "2026-11-17T00:59:12.820261Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Le Pen's French presidential odds dip to 40% by December 31?",
+  "revisions": 1,
+  "sha256": "62949c8dd6108b7c87af472474ad1d504ec3ef289a41f8364098bee0393b28fc",
+  "slug": "le-pens-french-presidential-odds-dip-to-40-by-december-31"
  },
  "0x4bf5bc8e993d4071effebf48a43bef6b625fbeebb5616fbef4b717e8e3d40acc": {
   "created_at": "2026-10-01T23:00:16.326274Z",
@@ -592,6 +620,15 @@
   "revisions": 1,
   "sha256": "4b7d2cae40c1a31ad2d840f5218b77e27c7f45ad0bdac333b9cc8dbf03fda925",
   "slug": "will-tyrone-tracy-jrpt-finish-as-a-top-5-rb-in-the-2026-27-nfl-season"
+ },
+ "0x6917cd62f50e8e6aadcd18ed84c49800cc92debedaa9b6b193e9cd93853d1acc": {
+  "created_at": "2026-10-24T06:00:13.177768Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 4 - 5 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-4-5"
  },
  "0x6959ae0d288cfc3e0b451f4a1a4768f24a149536ba60f58fdde4a8f05853f2cc": {
   "created_at": "2026-10-01T14:01:06.150536Z",
@@ -916,6 +953,7 @@
   "created_at": "2026-08-07T20:08:20.756993Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-02 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "dc9eea10dabfe5e08fdaef09014126fb2526c4a49151fbb78b53450ca2dede92",

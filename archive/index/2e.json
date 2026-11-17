@@ -895,6 +895,7 @@
   "created_at": "2026-08-12T16:51:56.209363Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Gheyli Katherin Tirado Rafael win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -1091,6 +1092,15 @@
   "sha256": "6715266b03c2105cfb2ce9d80f28f65aa25a46f9f26e1f4bb344f13dffc22659",
   "slug": "will-sam-reinhart-record-the-most-hat-tricks-in-the-2026-27-regular-season"
  },
+ "0x953fed0093e6d8ba22c50d5ee135e3ca24d9a8e4c0441625981e5df8de5f982e": {
+  "created_at": "2026-10-24T19:00:21.561681Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: SD Eibar 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "eeb0467e3b75eacc7f46f593780a7e05952e14f613a7ecd7d220b60ca4f2ae15",
+  "slug": "es2-cas-eib-2026-11-06-first-half-team-total-away-0pt5"
+ },
  "0x966fd42b339050ab7c7abeac982f280feeb439a69b4850daf98e8b9f964cb82e": {
   "created_at": "2026-09-04T19:49:09.578308Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1122,6 +1132,7 @@
   "created_at": "2026-11-12T20:22:28.454005Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Memories and Empties - Colter Wall win Best Traditional Country Album at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "45f1399e64dff42be95c9202a1e06d03188386301888513463b8aa7b4981ce2c",
@@ -1620,6 +1631,15 @@
   "revisions": 1,
   "sha256": "0ebe1275d5c2a9fc20295a40dd59646bad9fd04a75fd480dbdae970e47529537",
   "slug": "el1-bar-mkd-2026-10-03-second-half-team-total-home-3pt5"
+ },
+ "0xe934f5edef3ba6a329918b8b0539e033aafadf0e7d8e085da40ce45e918b072e": {
+  "created_at": "2026-10-25T19:00:15.903974Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: O/U 5.5",
+  "revisions": 1,
+  "sha256": "b70dec4d11fcdeda30b63a7da0dadb92bbe2334ed4fe7672f8a8c9575b4c5f0e",
+  "slug": "es2-gra-cdt-2026-11-07-total-5pt5"
  },
  "0xe999b201aa0b36f2be3ba36e5f94e85a3e90ed63dbc5a3b64447dcf2530bc92e": {
   "created_at": "2026-09-14T20:32:15.944239Z",

@@ -99,6 +99,15 @@
   "sha256": "bb528ab7539d5bdf53d635c02b1a30ecf0a7a2f4e631c55d00a90790d0292383",
   "slug": "will-julianne-moore-win-best-actress-at-the-99th-academy-awards-20260727174350986"
  },
+ "0x09d149fcc7720c465029b23e2156695c4811c1ab549f6e89e1701057c32dcd08": {
+  "created_at": "2026-10-25T19:00:14.015904Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: Granada CF (-3.5)",
+  "revisions": 1,
+  "sha256": "df825c476a7616309be529c4126bfc8cbad324b49873ac18a42c83361c6a9f1c",
+  "slug": "es2-gra-cdt-2026-11-07-spread-home-3pt5"
+ },
  "0x0c193c613dc6b1ac4e5906b12607bd9e3f5437b3190296ba008f9a3da3d73b08": {
   "created_at": "2026-09-04T19:04:19.601088Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -145,6 +154,15 @@
   "sha256": "9b661d6a459b9913e288101eeb35881a4bfd6debeb900cf3f2f3f7b9632ed534",
   "slug": "will-house-of-the-dragon-win-best-television-series-drama-at-the-84th-golden-globes"
  },
+ "0x18b3308a3e825aed745444d2a0e00383d9e082afd2e7f7a1b8530141a267d608": {
+  "created_at": "2026-10-25T06:00:36.318008Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Tenerife leading at halftime?",
+  "revisions": 1,
+  "sha256": "b0d477d5daec2cd43bac109a090ed3ea7601ae3ef3c3d57cb11e12b2c20e2f6f",
+  "slug": "es2-gra-cdt-2026-11-07-halftime-result-away"
+ },
  "0x1972d22983b15762984dcb4527e46e5ff814412826d980ee1a9eadbd9085d508": {
   "created_at": "2026-08-13T17:21:25.512226Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -153,6 +171,15 @@
   "revisions": 1,
   "sha256": "522e851551df2b9d158a3d34675dea5efc7ca31fd7050a0280ecc40b2457a1b0",
   "slug": "hu-jintao-public-appearance-by-december-31"
+ },
+ "0x19771e79031f5bdb1971cdf350e9f2dd091573d490a52d2c66687f53e3c15408": {
+  "created_at": "2026-10-26T06:00:08.127263Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra leading at halftime?",
+  "revisions": 1,
+  "sha256": "ee4bbbc6c9c2403716585dd10f8cad27fd26e64e8fde0cf72f4707aa1d5a2326",
+  "slug": "es2-and-rm-2026-11-08-halftime-result-home"
  },
  "0x1991d35091cca665911a7cff060261b7f47e49070fd348dbbd533b697d81a708": {
   "created_at": "2026-08-11T19:09:58.241747Z",
@@ -589,6 +616,15 @@
   "sha256": "59eb67dc32644edbd4521025af2725982518840a42025882324c850392381d97",
   "slug": "will-sam-rockwell-wild-horse-nine-win-best-supporting-actor-motion-picture-at-the-84th-golden-globes"
  },
+ "0x4ea201572794fe17b71ea5f9b09237c0b878cdff1ac896b73f6e71c008a70e08": {
+  "created_at": "2026-11-16T22:29:24.496106Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Ron DeSantis Republican nomination odds leader on March 31?",
+  "revisions": 1,
+  "sha256": "0ab981a35cce6aa9a9bd074950306c1fd1b3f74e40cca424135b1ac9632fa97b",
+  "slug": "ron-desantis-republican-nomination-odds-leader-on-march-31"
+ },
  "0x4ff8acc9352bbc74cda859a6d404c00fefba2d12fedc3ac2f4435034488af208": {
   "created_at": "2026-08-05T18:46:31.493738Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -897,6 +933,15 @@
   "sha256": "ae08a999d77ff5ceaaba5f137ca0b1f2fe1d9f9d253c9da9b812c40a84120d6e",
   "slug": "will-the-upper-bound-of-the-target-federal-funds-rate-be-5pt25-at-the-end-of-2027"
  },
+ "0x7ba4e26ae08e985362be93355474a636208b5931c5e0523829f548f8cc15f008": {
+  "created_at": "2026-10-25T19:00:18.134009Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: Granada CF O/U 2.5",
+  "revisions": 1,
+  "sha256": "3b30efa7e5f37044057fcbe4f1c47a5adce22bbfe80aaeb2e2bb4e4b50476469",
+  "slug": "es2-gra-cdt-2026-11-07-team-total-home-2pt5"
+ },
  "0x7ca81ddcdd777d185c36f57df6ba5658a97a4484ff9c4ee2e69b9437f1989108": {
   "created_at": "2026-10-21T23:30:25.559726Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -974,6 +1019,7 @@
   "created_at": "2026-08-07T20:18:18.646313Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-28 House election by 30% or more?",
   "revisions": 1,
   "sha256": "c1aee09eb4f9d7ba6be92b29791a34b1ff8d949a062b8e946b0670054ffaaaca",

@@ -642,6 +642,15 @@
   "sha256": "1524416e9bb85154ad6e5cbf3d3f66a7ed6b739d7f77af40693b44d876728f94",
   "slug": "will-edgex-reach-1pt80-before-2027"
  },
+ "0x5cf323af7aed09f6b3050f088448515f557debda12420c34813105f66a5370b8": {
+  "created_at": "2026-07-18T20:23:10.434061Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Matt Damon be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-matt-damon-be-the-1-searched-actor-on-google-this-year-20261116220000010"
+ },
  "0x5d41b5d07bc3096d92d35674e7bbc1af421243a69c8e313659e254e9962a59b8": {
   "created_at": "2026-03-27T21:26:06.603574Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1041,6 +1050,15 @@
   "revisions": 1,
   "sha256": "201e04f9a79ad68844f932332722a70ad74e7b1f01349fcececc85275c9881c1",
   "slug": "will-the-next-fable-model-5pt2-be-released-on-november-29-2026"
+ },
+ "0x9c0565ed105dbec3021d84907cdd013cdae3888620b03d8a184da0251bdb1fb8": {
+  "created_at": "2026-10-24T19:00:15.713604Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: SD Eibar (-4.5)",
+  "revisions": 1,
+  "sha256": "dfdc0a559391cff9050a7c4884375f0be61eeb506bfa7c60a0b25ddf60ba10fb",
+  "slug": "es2-cas-eib-2026-11-06-spread-away-4pt5"
  },
  "0x9c228e475ac2e6a8a7cac9fd2dd47095e30db691298b4cba2aa2a768b02cadb8": {
   "created_at": "2026-10-10T11:30:38.972583Z",
@@ -1533,6 +1551,15 @@
   "revisions": 1,
   "sha256": "b60594c40722ff99a071616e57ce4f12cd2cd60fff7d56ca479fd63179fd4ed0",
   "slug": "will-marvin-harrison-jrpt-average-11pt5-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
+ },
+ "0xedb635ee1d909eebfd04f42caf192c56c9d6865a61aee74962f205e4ed68e7b8": {
+  "created_at": "2026-10-24T19:00:16.031486Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: SD Eibar (-5.5)",
+  "revisions": 1,
+  "sha256": "3d4895fd3d6072c84fda5b2b7a6abbb86769610c0ad4d9abca6ba3f95781a13e",
+  "slug": "es2-cas-eib-2026-11-06-spread-away-5pt5"
  },
  "0xef24d80c9f64c3576daef00962a8a028b723d201b02ccce2bd3fcb5f00355ab8": {
   "created_at": "2026-09-04T19:04:40.371005Z",

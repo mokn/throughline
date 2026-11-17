@@ -111,6 +111,7 @@
   "created_at": "2026-08-07T20:08:20.402792Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-01 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "c05a74ba8403fe2bf05da4b3e64616e059f8263a9592e1f9a84b22a1a18a47fd",
@@ -350,6 +351,7 @@
   "created_at": "2026-08-07T20:18:19.872869Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-28 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "c1aee09eb4f9d7ba6be92b29791a34b1ff8d949a062b8e946b0670054ffaaaca",
@@ -758,6 +760,15 @@
   "sha256": "e8730c763cda11043750fcef65cbcd79d101d90652b7565f73997e51ff8adddb",
   "slug": "will-monaco-finish-9th-24th-in-uecl-league-phase"
  },
+ "0x61d49cc3b6ad99038088ea040230d865e3d99f731ee621fb525ea9243a0085c0": {
+  "created_at": "2026-10-26T06:00:08.870106Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 0 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-0-2"
+ },
  "0x61fcd89539dc7cf86c80252b32294a8afebe022741ed59a5486fbabc4d6985c0": {
   "created_at": "2026-09-18T00:06:14.155594Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -949,6 +960,15 @@
   "sha256": "09afc953429a9ee94661975d479e32fcf5156379887b937e8c930ddd21dee282",
   "slug": "will-radim-bzura-be-the-next-mayor-of-usti-nad-labem"
  },
+ "0x76b0ffcac2dede4366d449708f122a63ac0513a6ea34b3a48b8f67d3b2c325c0": {
+  "created_at": "2026-11-16T21:32:34.728816Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Paul Smith ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-paul-smith-ring-the-bell"
+ },
  "0x7cb275d0346871734db49a7a0adac681cebddb0e7a17364b9014dde98d19f1c0": {
   "created_at": "2026-08-12T14:58:43.824903Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1062,6 +1082,7 @@
   "created_at": "2026-11-12T20:22:19.972316Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will With Heaven on Top - Zach Bryan win Best Contemporary Country Album at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "e25754767c3495a7b6d4486ada4480a4cdf15543176d078380db11ce4a604484",
@@ -1547,6 +1568,7 @@
   "created_at": "2026-08-07T20:18:10.842139Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-24 House election by 0%-15%?",
   "revisions": 1,
   "sha256": "9979a8f00af0d7ed9ff0c7dda6f355a71ca65f3da11299d55f61ccba9414d30c",
@@ -1562,10 +1584,20 @@
   "sha256": "429f6c035a82489e28b6ad3de6d58cabb0fd46912fd09c74ef8af5a20d657e6b",
   "slug": "will-dj-khaled-headline-coachella-2027"
  },
+ "0xde1b7e6b77dcdd4f2cb694a9e16375cd0e9a4605d8b9c6898c0e0b629b8077c0": {
+  "created_at": "2026-11-16T21:32:33.546288Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Adena Friedman ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-adena-friedman-ring-the-bell"
+ },
  "0xdf55222217299506bd9b7b348ac3be51137ac480da920567722824f0c40c5fc0": {
   "created_at": "2026-05-18T16:26:40.071118Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Callum Turner announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -1579,6 +1611,15 @@
   "revisions": 1,
   "sha256": "91b32188435ee4bf44585265616229f4d6fe49011856c94caeea02649a7277a5",
   "slug": "will-fc-lugano-be-relegated-from-swiss-super-league-2026-27"
+ },
+ "0xe2014b60dca26ec57fc89c515f838a91976ddf22e8ad3de825234ab49eecfec0": {
+  "created_at": "2026-10-24T06:00:09.067727Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will SD Eibar win on 2026-11-06?",
+  "revisions": 1,
+  "sha256": "0f5640579bf4cf86c782d0e2b070ec90bc284a2840d120f06cfbd38c25c23340",
+  "slug": "es2-cas-eib-2026-11-06-eib"
  },
  "0xe371b7c6ccff9df25f99926edc440738df679a4c88b5b0cdea432f59f131a1c0": {
   "created_at": "2026-10-08T00:01:31.852694Z",
@@ -1676,6 +1717,7 @@
   "created_at": "2026-08-05T18:37:33.943789Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 Florida gubernatorial election by 9%-12%?",
   "revisions": 1,
   "sha256": "d56c5e351d86a1644f1006c899bafc8bd77b029ee5f3237ae59d127d765fc478",

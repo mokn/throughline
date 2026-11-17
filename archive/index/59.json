@@ -563,6 +563,15 @@
   "sha256": "406e5982512d752d8d29bbbfd79b7e581c2a6460702606c02917c93883c730b1",
   "slug": "will-liam-lawson-win-the-2026-action-of-the-year"
  },
+ "0x4bd31cd1bfbc83a8ac029a370dddfb26e6ac5df6f5176506285b73f562557759": {
+  "created_at": "2026-10-26T06:00:10.231944Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 3 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-3-5"
+ },
  "0x4d1d8498d7d14b46949a486c0175ab302875e6b093366bb3a25b334769203459": {
   "created_at": "2026-10-13T15:50:14.098021Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -727,6 +736,15 @@
   "revisions": 1,
   "sha256": "e9d2165090b5e4283e1f605032b647f319997368b0da88452dc9beb70f519900",
   "slug": "will-the-us-add-between-0-and-25k-jobs-in-october-2026"
+ },
+ "0x647dc702050b3563f3985ef0359154c31083ba8742404b284d18057105596d59": {
+  "created_at": "2026-10-24T19:00:21.943918Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: SD Eibar 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "a6f4914a164347c09c84f10f719ceb3f9348bed9b5105ea885db0d95fed5f328",
+  "slug": "es2-cas-eib-2026-11-06-first-half-team-total-away-2pt5"
  },
  "0x66777ba6f2ef5451b5fc50faf8b7dc27df7480ea819c11bd10057bb3033f8359": {
   "created_at": "2026-11-03T17:39:27.425141Z",
@@ -1289,6 +1307,7 @@
   "created_at": "2026-05-18T16:26:44.276204Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Joe Alwyn announced as next James Bond?",
   "revisions": 1,
   "sha256": "7c322de3a4f1f5d5f74f74f0ae00ed5622676191033cdc240253c3a910b06454",
@@ -1439,6 +1458,15 @@
   "revisions": 1,
   "sha256": "cd317812e50aa1150cd5978dd3800e0dc3c52e6aa1d0dcffcd8d76bd21776ef2",
   "slug": "will-uk-annual-gdp-growth-in-2026-be-5-or-higher"
+ },
+ "0xd47bdf3740c3a8c681336fabbd9469abd937f270fb942db1bdf7be24a0513e59": {
+  "created_at": "2026-11-17T00:59:08.462095Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Christine Lagarde French presidential odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "880b5a0927a09fa4b5a9a294f89258d334af27be841dfa7bc3b3c48d7bc3fc8f",
+  "slug": "christine-lagarde-french-presidential-odds-runner-up-on-december-31"
  },
  "0xd498dd959a26588bf36318233c9f6f6c70bfdce9a59e73ebf8be674b4b220859": {
   "created_at": "2026-08-17T21:08:20.594245Z",
@@ -1591,6 +1619,7 @@
   "created_at": "2026-08-12T16:51:58.545097Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Benjam\u00edn Kalhet Reyes Rebaza win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",

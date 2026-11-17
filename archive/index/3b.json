@@ -124,6 +124,7 @@
   "created_at": "2026-09-09T15:19:20.123189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Iceland win 2026-27 Nations League Group C4?",
   "revisions": 1,
   "sha256": "6677392d86a412fd21a013b5c629696e9bb91c7eb15ca5b8e235e6b73ada6552",
@@ -192,6 +193,15 @@
   "revisions": 1,
   "sha256": "a7cd60844bd1bc9031fd2f02f1e8c3ebed2a78a3c67b93142b19e8bb6238f50b",
   "slug": "will-anders-carlson-be-the-highest-scoring-k-of-the-2026-27-nfl-season-20260806224132008"
+ },
+ "0x23973e6b050b74525b6b038bec0629912908613c78b96aae0a4b229ba385883b": {
+  "created_at": "2026-11-16T21:32:26.975638Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Daniela Amodei ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-daniela-amodei-ring-the-bell"
  },
  "0x24c854495cd59bd5b60abe45723f969b27427aa8d55031994f822f754c785f3b": {
   "created_at": "2026-09-09T15:41:29.323332Z",
@@ -921,6 +931,15 @@
   "sha256": "92f00a84b8e8f75bd9e98404818875a656b8a5f4723c9dcdec908912d8302bdd",
   "slug": "will-the-oklahoma-city-thunder-make-the-2027-nba-play-in-tournament-20260708212312786"
  },
+ "0xa250872bf717484155838063b061518e83ce1bbc2e0cfbab73fba476664f083b": {
+  "created_at": "2026-10-24T06:00:12.958674Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 5 - 2 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-5-2"
+ },
  "0xa3b43a5fdb576341f203f69dee2074fde126fe254a316fa0ba4c7b7f389b1b3b": {
   "created_at": "2026-09-02T20:14:52.422283Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1002,6 +1021,15 @@
   "revisions": 1,
   "sha256": "e3462d79670e24534052cc2bd195d9d9d3219df2f1bb27547a9a115ec0661031",
   "slug": "bijan-robinson-first-to-1000-rushing-yards-2026-27"
+ },
+ "0xad50ecbe013f265fddefa7eb37a359316803ada2fe41896cea219a4a7ce5803b": {
+  "created_at": "2026-10-25T19:00:14.319234Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: Granada CF (-4.5)",
+  "revisions": 1,
+  "sha256": "dec7e9dfb3d5556e7adcddd2ef1d5e27fc8f41c6fd30ed32d7c0ccfd9e95d2b1",
+  "slug": "es2-gra-cdt-2026-11-07-spread-home-4pt5"
  },
  "0xb06951a69f76c15116e4987d6163619e5d062f6857ee3d35ddf0e09d76b2a13b": {
   "created_at": "2026-09-24T19:37:00.713756Z",

@@ -116,6 +116,15 @@
   "sha256": "a65092c255fec8dd39c1de853d1900b15df5c66be6c87a3f2530bed670da1afe",
   "slug": "will-jaylen-waddle-be-the-highest-scoring-flex-of-the-2026-27-nfl-season-20260806224131619"
  },
+ "0x10718138210e6c29cccfd297a5ed5aba6945b141eeb014d9c76d4752b8e1b952": {
+  "created_at": "2026-10-26T06:00:06.216824Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will RCD Mallorca win on 2026-11-08?",
+  "revisions": 1,
+  "sha256": "a5601810e07df8ad6281a71c6c28ca9b85e746531188c34899ed4afc0344f6db",
+  "slug": "es2-and-rm-2026-11-08-rm"
+ },
  "0x1105f0caa948d17059c4c5748024e0222811f0e70369ef95fb7746332ec8a252": {
   "created_at": "2026-10-21T23:52:56.324926Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -573,6 +582,15 @@
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",
   "slug": "will-deft-play-for-lgd-gaming-in-2027-1790107563296"
  },
+ "0x5bbd72eb9cbdc929a6332f8e72c3fc3a87387f2b06e8b84caf36b209d1332652": {
+  "created_at": "2026-11-16T18:46:35.793702Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "30-32 votes for Chuck Schumer for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "e111f46fc9dc64a6a1024c0fe9efb3b1e41d753a522bb0229a5d10d11ae987be",
+  "slug": "30-32-votes-for-chuck-schumer-for-senate-democratic-leader"
+ },
  "0x5dbb1f415c9ddab5f5eb9704927248b1ccf7efb737f0a9cfdb1e83d618c18a52": {
   "created_at": "2026-10-09T16:33:35.320539Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -590,6 +608,15 @@
   "revisions": 1,
   "sha256": "2801dbbe52a0202056d5ae4d1fa1a381595cc1fd189def5fbd5c7bded9a35982",
   "slug": "linera-fdv-above-700m-one-day-after-launch"
+ },
+ "0x6163bf8b675a639cfc977d2ee7836154e258a893f869ee608cd2a71c06fc6452": {
+  "created_at": "2026-10-24T19:00:16.861516Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: O/U 4.5",
+  "revisions": 1,
+  "sha256": "bc714bc1c943e4aa8cce2d6f6e09e6c42cff713bd1a18700c888ff6c0211be2c",
+  "slug": "es2-cas-eib-2026-11-06-total-4pt5"
  },
  "0x61a6926c93043328c59cf74f1bfaf8ada6b57c8051058902944b800c0da97552": {
   "created_at": "2026-08-07T14:05:46.042598Z",
@@ -819,6 +846,15 @@
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
   "slug": "scop-ran-abe-2026-10-31-exact-score-5-0"
  },
+ "0x98159a0f46f9adbce2a604fb7eda88fe7d5c2bebe5a31724d1b1859e8744e052": {
+  "created_at": "2026-11-16T18:35:32.683809Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Extended FDV above $50M one day after launch?",
+  "revisions": 1,
+  "sha256": "99f2919bd1462241fc3eb918013fb9741479d8afd7ab354b72238ef64395a66a",
+  "slug": "extended-fdv-above-50m-one-day-after-launch-1794847845750"
+ },
  "0x9852e289b338767dcee841915803b0fb31c12aa5a9fff40850b63ed24bef4552": {
   "created_at": "2026-08-24T16:35:07.744252Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -864,6 +900,15 @@
   "sha256": "b4fc11e4da5298e7614d6d23714d6351ccbde299ad03046d165681a0537844ab",
   "slug": "will-justice-haynes-be-the-2026-acc-rushing-yards-leader"
  },
+ "0x9ed8ce741eb2654a4683ad0ade1f22acf8ed1e03f6f07f97d4a28941838e0c52": {
+  "created_at": "2026-07-18T20:23:09.857787Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Josh O'Connor be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-josh-oconnor-be-the-1-searched-actor-on-google-this-year-20261116220000007"
+ },
  "0x9f1bb0e081a8343690bf11e86335746b5893b0163a5137386f101dd6ce212752": {
   "created_at": "2026-10-11T11:46:14.967409Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -890,6 +935,15 @@
   "revisions": 1,
   "sha256": "f90575fe053f1dc961e193595aaa35a37f0bc7480292e35c4f4e383ec2f964e1",
   "slug": "cdr-red-bar-2026-10-28-btts-first-half"
+ },
+ "0xa331190962cc789592a53cb24bf094fa87260ef2a9d4381bc11cc1a250351952": {
+  "created_at": "2026-10-25T19:00:14.469366Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: CD Tenerife (-4.5)",
+  "revisions": 1,
+  "sha256": "73cc2aa023cfc28a9ccf4c3b69540066d63bbf1a0cfc6fe07495ff7cd4f070b8",
+  "slug": "es2-gra-cdt-2026-11-07-spread-away-4pt5"
  },
  "0xa37aac7ca4039843fc175476d45d4602cb2057bc72a1fd61a5a32c3a7e68f952": {
   "created_at": "2026-10-13T19:55:51.30482Z",
@@ -954,6 +1008,15 @@
   "sha256": "f1f10e1733cb68a511547fbba316a8ac268e4667dbb0903a7a016a2be015ad1a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-co-01-house-election-by-75-or-more"
  },
+ "0xab2a2a96152f9fae70043b91d35ea45d0e50ccede0201e39d8c8dddbc2714e52": {
+  "created_at": "2026-11-16T22:18:11.297349Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "JD Vance 2028 presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "a055674fde15365a3d4cc3dc590bbc644b63df2a27ec95584e0e06a8e7579ce2",
+  "slug": "jd-vance-2028-presidential-odds-leader-on-december-31"
+ },
  "0xad316928f9675864b7253c88900606c1b0278be042434a574581d98d5982e752": {
   "created_at": "2026-10-13T15:50:32.270112Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1003,6 +1066,7 @@
   "created_at": "2026-08-07T20:17:49.257117Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-20 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "71e8beeabf186e1af17a77a9ea8b9e66f0cce38b51272cb1b8e43d590cc3a084",
@@ -1081,6 +1145,15 @@
   "sha256": "f605ac646fc46ccf5a8451ff051ba995ce983e76aca1a9cfecfde33755b3e26a",
   "slug": "will-lokomotiv-tashkent-finish-11th-in-uzbekistan-super-league-2026"
  },
+ "0xbcb47afecc865fa1c795c71ccb58377a701230127be1ff486f4449a41dfbe252": {
+  "created_at": "2026-11-16T18:47:04.183125Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "36-38 votes for Chris Van Hollen for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "2c2e348be86bd282d38b9736b960acc70f9928b8acbcf43c4b88421de2ff8510",
+  "slug": "36-38-votes-for-chris-van-hollen-for-senate-democratic-leader"
+ },
  "0xbd02ffb8b2b0a9104798452b7dcb26fb70914f8efbfa3b61564aaa2194a65852": {
   "created_at": "2026-09-08T16:05:57.694817Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1103,6 +1176,7 @@
   "created_at": "2026-08-07T20:13:34.003693Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-11 House election by 3% or more?",
   "revisions": 1,
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",

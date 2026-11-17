@@ -309,6 +309,7 @@
   "created_at": "2026-09-09T15:19:20.56532Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Estonia win 2026-27 Nations League Group C4?",
   "revisions": 1,
   "sha256": "6677392d86a412fd21a013b5c629696e9bb91c7eb15ca5b8e235e6b73ada6552",
@@ -789,6 +790,7 @@
   "created_at": "2026-08-07T20:08:20.946995Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-01 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "c05a74ba8403fe2bf05da4b3e64616e059f8263a9592e1f9a84b22a1a18a47fd",
@@ -1017,6 +1019,7 @@
   "created_at": "2026-08-12T16:51:57.053163Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Milton Marcelino Ram\u00edrez Herrera win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -1690,6 +1693,7 @@
   "created_at": "2026-08-07T20:08:55.281467Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-03 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "73115a69753433b0f019cdee98607e3728f9b05009fbb592a42b9e59e2baad2f",
@@ -1758,6 +1762,15 @@
   "revisions": 1,
   "sha256": "a7f2dbfc8aab797e5b0d746d15b18f77d715fb887032a938f3e87aa27bc4add6",
   "slug": "will-waymo-operate-in-20-23-cities-on-june-30-2026-20260626203648854"
+ },
+ "0xf258329400a0c1e00cc6b530d697805792c9c2aecbb7c7245096491c77dad35f": {
+  "created_at": "2026-11-16T16:45:36.443891Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Nvidia hit with a BIS export-control penalty by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "481a0dc4c415f8347f6aa49007ce0b7780592cb04d28038f7b79bd85d57f8c82",
+  "slug": "nvidia-hit-with-a-bis-export-control-penalty-by-march-31-2027"
  },
  "0xf435dcf23c045b5b2a7f37a811a700b533862376636d97ddc6e4874d07ec0b5f": {
   "created_at": "2026-08-10T23:37:38.89868Z",

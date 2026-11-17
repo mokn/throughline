@@ -453,6 +453,15 @@
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-yan-diomande-score-the-most-goals-in-the-2026-27-uefa-champions-league"
  },
+ "0x48272bdee7eb683a2384710720655bb269c851a58ea467ebd0251387a84ebbb0": {
+  "created_at": "2026-11-16T16:45:35.85975Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Nvidia hit with a BIS export-control penalty by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "481a0dc4c415f8347f6aa49007ce0b7780592cb04d28038f7b79bd85d57f8c82",
+  "slug": "nvidia-hit-with-a-bis-export-control-penalty-by-december-31-2026"
+ },
  "0x48a9a759ca53c4d4564332c56691c8431913eb08c7c8a91ed759341dc77873b0": {
   "created_at": "2026-08-24T16:32:23.640874Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -668,6 +677,7 @@
   "created_at": "2026-08-05T18:37:33.472251Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 Florida gubernatorial election by 15%-18%?",
   "revisions": 1,
   "sha256": "d56c5e351d86a1644f1006c899bafc8bd77b029ee5f3237ae59d127d765fc478",
@@ -1433,6 +1443,7 @@
   "created_at": "2026-08-10T23:37:53.607908Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Omarion Hampton have 3.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "9f75e97b85eb39a73fbd62e145b8452a841749d6ca6e65f1f9da6292efc85ab5",

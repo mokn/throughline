@@ -673,6 +673,15 @@
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-william-nylander-win-the-2026-27-art-ross-trophy"
  },
+ "0x5688fc38422325b6ea6a2be7abe1ac3f10de917a9ab140adc4a158fdaa0e06a2": {
+  "created_at": "2026-10-26T06:00:09.885126Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 3 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-3-3"
+ },
  "0x57cccd6bcf0c8a86bd363f59704638f66757ac2989213008aa3cc108957684a2": {
   "created_at": "2026-09-27T20:11:03.699238Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -681,6 +690,15 @@
   "revisions": 1,
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-brock-faber-win-the-2026-27-james-norris-memorial-trophy"
+ },
+ "0x59bd8612092f20a98e9498f0dd2abc2c9ff61328aeeb8947ee334397187af5a2": {
+  "created_at": "2026-10-24T06:00:12.231504Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 3 - 2 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-3-2"
  },
  "0x59cf3e64b7eb236fd783674c68b7af10d56b79e9ce6d8137dee5c54687431aa2": {
   "created_at": "2026-10-18T14:00:06.089689Z",
@@ -952,6 +970,7 @@
   "created_at": "2026-08-07T20:16:49.466289Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-16 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "7ab7ada8d01dc1940077138d1f10a4cefbffcc05ce952509c7fd15e8ba0b85d3",
@@ -1531,6 +1550,15 @@
   "revisions": 1,
   "sha256": "5a49eca46374a36e7eda94077481d3a3fba0b36aacdfceff890b0c2062157775",
   "slug": "will-the-highest-score-achieved-on-humanitys-last-exam-in-2026-be-60-or-higher-20260723190142923"
+ },
+ "0xcc11f3f90ffeebcddc74c433ce7b6b69bbbda37ddc517d6587f5e7ee30bb23a2": {
+  "created_at": "2026-10-24T06:00:15.680068Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "SD Eibar to score first vs. CD Castell\u00f3n?",
+  "revisions": 1,
+  "sha256": "c14847dfa18639b47e7afda727deaa5156d6aefd0f1f02e04c80212c7e3435c6",
+  "slug": "es2-cas-eib-2026-11-06-first-to-score-away"
  },
  "0xccd52309d65d1b915f9a11b41e22109ecb93c86edf6a407a25c51e9988127aa2": {
   "created_at": "2026-08-24T16:32:32.674368Z",

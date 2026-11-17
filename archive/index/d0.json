@@ -266,6 +266,15 @@
   "sha256": "4527d31da8b100c48afb34693d17af2065bf58b76513c2e154c170190a64803b",
   "slug": "basketball-champions-league-2027-champion-falco-kc-szombathely"
  },
+ "0x2c376555d056aca4d4c3fe3de35af0325b5ee491006c768f7a2b5f5b36d401d0": {
+  "created_at": "2026-11-16T18:47:05.180073Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "39 or more votes for Chris Van Hollen for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "2c2e348be86bd282d38b9736b960acc70f9928b8acbcf43c4b88421de2ff8510",
+  "slug": "39-or-more-votes-for-chris-van-hollen-for-senate-democratic-leader"
+ },
  "0x2d420f64822b24f24251ccf8d9b5c10dff208ceedaba418b1c31b21cb200d8d0": {
   "created_at": "2026-10-28T02:34:33.563779Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -829,6 +838,7 @@
   "created_at": "2026-08-07T20:17:56.328425Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-21 House election?",
   "revisions": 1,
   "sha256": "dc057930c93edea9f8fb3d5a6795dd3588964cffdda91bd94430f7aac935c025",

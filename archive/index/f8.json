@@ -810,6 +810,7 @@
   "created_at": "2026-08-06T08:21:20.123148Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will West End Girl (Lily Allen) win Album of the Year at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "08aa20d8ebb9efb0168414190ed93e09176720940fc50a6f7ea6665b3f3afbdc",
@@ -1289,6 +1290,15 @@
   "revisions": 1,
   "sha256": "a0176bf16a54ef2639db94b82f0a45f91e6bd8e56eb6ebb8f4b4a92460eaf025",
   "slug": "will-montreal-canadiens-advance-to-the-eastern-conference-finals-of-the-2027-stanley-cup-playoffs"
+ },
+ "0xdd931b208aebe635b96749730457689a8fb2e69e13d1a86cf369909e7dac8ff8": {
+  "created_at": "2026-11-16T21:38:39.615904Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Anthropic IPO first-day pop above 75%?",
+  "revisions": 1,
+  "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
+  "slug": "anthropic-ipo-first-day-pop-above-75pct"
  },
  "0xde37013b2c36894d9296044f463013d5f3e9e57268b4de89cf7421570d8d02f8": {
   "created_at": "2026-08-24T16:34:13.797739Z",

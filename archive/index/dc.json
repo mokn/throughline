@@ -66,6 +66,7 @@
   "created_at": "2026-08-07T20:16:37.25269Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-13 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "06b716e3d7979e969c9dcdc848d1e46a70b011fa5cd8574dd62a393158c90133",
@@ -1187,6 +1188,15 @@
   "sha256": "778499c1c5d259b66b6ae3e9fefa6c559aa9ce3fc3fa8933b31df14ee61e7e74",
   "slug": "will-suriname-win-the-2026-27-concacaf-nations-league"
  },
+ "0xe0ce0a82b76341238381abb587e0c7c4f70b1534c7d9ac470a77bf541f1e4ddc": {
+  "created_at": "2026-10-24T06:00:12.110134Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 1 - 4 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-1-4"
+ },
  "0xe3df70b691ec60953516c358c1dd7e7efa448fcd1d08042bd686ce4270b7f7dc": {
   "created_at": "2026-11-13T01:37:13.208808Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1254,6 +1264,7 @@
   "created_at": "2026-02-04T19:11:22.765834Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will EUR/USD hit 1.10 (Low) in 2026?",
   "revisions": 1,
   "sha256": "eb30859e6217547eab81e1cef22f1e941f629270bd4a79a8ea557877a2f9a432",

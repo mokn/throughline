@@ -470,6 +470,7 @@
   "created_at": "2026-08-25T21:10:29.986315Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Baltimore Ravens have more than 11.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
@@ -748,6 +749,15 @@
   "revisions": 1,
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-terrence-shannon-jr"
+ },
+ "0x7c4a6a41bf83fce713ba820e15a43cb5b97c68498da0f3c30539e05aa956e755": {
+  "created_at": "2026-10-25T06:00:38.792246Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 0 - 5 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-0-5"
  },
  "0x8290837947a5b3cc9254c651b3637828db15d79d2cd4525c8614e6747dbddb55": {
   "created_at": "2026-10-10T11:30:34.375826Z",
@@ -1030,6 +1040,15 @@
   "sha256": "55db0a62e31bbb18f1cd5ebea67b57a9001d3219e8ae56f4cc250842dc505b63",
   "slug": "spl-riy-hil-2026-10-16-second-half-team-total-home-2pt5"
  },
+ "0xb0c2c0ca9c70d6a6eb7e09035cc0fbd7cc160c09dee96b67ca4f88c1755ca655": {
+  "created_at": "2026-11-16T22:29:23.980604Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Marco Rubio Republican nomination odds leader on March 31?",
+  "revisions": 1,
+  "sha256": "0ab981a35cce6aa9a9bd074950306c1fd1b3f74e40cca424135b1ac9632fa97b",
+  "slug": "marco-rubio-republican-nomination-odds-leader-on-march-31"
+ },
  "0xb32f409c9c56bf456a41f03fb43b9b715a37030d64443db15d8462a63dd96355": {
   "created_at": "2026-07-20T20:17:32.416425Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1136,6 +1155,7 @@
   "created_at": "2026-08-07T20:17:55.808533Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-21 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "dc057930c93edea9f8fb3d5a6795dd3588964cffdda91bd94430f7aac935c025",
@@ -1208,6 +1228,7 @@
   "created_at": "2026-08-07T20:17:48.55821Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-20 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "71e8beeabf186e1af17a77a9ea8b9e66f0cce38b51272cb1b8e43d590cc3a084",

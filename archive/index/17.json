@@ -315,6 +315,7 @@
   "created_at": "2026-08-07T20:16:44.095977Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-15 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "7257616e722dabe4a9253e255bf62ab12d2713e5f7f26e97ef092d5d83c21399",
@@ -475,6 +476,15 @@
   "sha256": "e8c4bf572087343d59a5ac34b29d48ae4edf4f8726fda69fc642f329d5917f12",
   "slug": "will-buffalo-bills-finish-the-2026-27-nfl-regular-season-with-the-most-sacks-20260715221610055"
  },
+ "0x5e5309e5b08faf42af1ad67f5a0ef810254e7137b765c9452c51838bcbbefe17": {
+  "created_at": "2026-11-16T21:38:37.457979Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Anthropic IPO first-day pop above 10%?",
+  "revisions": 1,
+  "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
+  "slug": "anthropic-ipo-first-day-pop-above-10pct"
+ },
  "0x5fef980d964aba69dcfd7260de6da21478816591678bfab34755c4bb3ad46217": {
   "created_at": "2026-08-11T19:20:54.87611Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -529,6 +539,15 @@
   "revisions": 1,
   "sha256": "2be9716113446eafdc75ebd43a9427151fe1e79dead12813e718819e7eb61db1",
   "slug": "2027-soccer-slovak-nik-liga-winner-kfc-komrno"
+ },
+ "0x6eefcf8e6c7ec2471b3ea6a999aee427634aad0adf7f5b563e49df97f17ad317": {
+  "created_at": "2026-10-26T06:00:08.682545Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 0 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-0-0"
  },
  "0x700babaf9b5358c2f661a9f5e508f6487f40d462812f0bdfda6baf205744b717": {
   "created_at": "2026-09-13T08:16:12.583748Z",
@@ -767,6 +786,15 @@
   "revisions": 1,
   "sha256": "a6d382417ab7b575735a7d83268542aebc3d331e8551316d6833e680c6a64cd9",
   "slug": "will-gta-vi-break-the-24-hour-sales-record"
+ },
+ "0x956f6759c3fd513f11875cf0e124b955964783dcbe10cc66ce5fa66bbb7a6a17": {
+  "created_at": "2026-11-17T02:43:45.622369Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Jenna Ortega announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "jenna-ortega-announced-as-next-bond-girl"
  },
  "0x97ef16c30e6383fb084006621379223a2a7a858cb66f5b34e3edb6ef37558217": {
   "created_at": "2026-10-18T23:30:37.445654Z",
@@ -1085,6 +1113,15 @@
   "revisions": 1,
   "sha256": "485bb365501f3691cd23ac71ce8027a462a95854915aecb6dc7c3528edd12902",
   "slug": "will-the-democratic-party-candidate-win-the-2026-va-11-house-election-by-50-or-more"
+ },
+ "0xd2069cb7727f426527420e2181ce7c6c5eea7d605d291240fdb215480823f517": {
+  "created_at": "2026-10-24T06:00:11.978147Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 4 - 0 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-4-0"
  },
  "0xd25e2188b4e202d5a9ef06f4d36ac3c32d1bd80e748261c6f4be2964e7142517": {
   "created_at": "2026-10-12T20:53:21.108026Z",
@@ -1424,6 +1461,15 @@
   "revisions": 1,
   "sha256": "5e43c3006ed39280cd35241fdcbcafad13c4d5386a07123e0f77d091df2d50a1",
   "slug": "will-the-next-governing-coalition-of-new-zealand-include-national-maori"
+ },
+ "0xf3e47d9f00369a6b0f3e65a70780866a5530fb3006eaefa4669cdb368ceea717": {
+  "created_at": "2026-11-16T22:38:32.519684Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Germany GDP growth in Q4 2026 be less than or equal to 0.6%?",
+  "revisions": 1,
+  "sha256": "9d6aa2d35d6c956e16ecb33586f0f52873cee746bf958495ae6edc2660ca1dd5",
+  "slug": "will-germany-gdp-growth-in-q4-2026-be-less-than-or-equal-to-0pt6"
  },
  "0xf478f72c41ec18a450c4c897ec873450150c02e507499ad95a17a2deb2c96e17": {
   "created_at": "2026-08-24T16:40:16.610943Z",

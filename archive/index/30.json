@@ -226,6 +226,15 @@
   "sha256": "a89cb161bea4e1876fe16b1b8b5259ef3bd65209bfe7be3eeb876fbe7f3076d0",
   "slug": "rubios-republican-nomination-odds-hit-25-by-december-31"
  },
+ "0x1d23d615506e1d0d143b0d72182ced3bfa067609a7ba122725bc234c13415e30": {
+  "created_at": "2026-10-26T19:00:42.518934Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: RCD Mallorca O/U 3.5",
+  "revisions": 1,
+  "sha256": "d8dd906007be1c708524fb72b53f19b1de97b3912b91dc04a3dab35d569eb6b6",
+  "slug": "es2-and-rm-2026-11-08-team-total-away-3pt5"
+ },
  "0x1e763ed9f3a26a63d00f5154ed61f5e06b0b48d920bf9183c07f474bb1e1ea30": {
   "created_at": "2026-10-25T10:15:19.147244Z",
   "first_seen": "2026-11-05T14:39:41Z",
@@ -756,6 +765,7 @@
   "created_at": "2026-11-12T20:22:19.006549Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will The Outlaw Cherie Lee & Other Western Tales - Shaboozey win Best Contemporary Country Album at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "e25754767c3495a7b6d4486ada4480a4cdf15543176d078380db11ce4a604484",
@@ -1070,10 +1080,20 @@
   "sha256": "ec3dab1fba7a90cb882188ca92c01407a4e9eefbe8cf01de63e66fdf1a84cce6",
   "slug": "will-braylon-staley-be-the-2026-sec-receiving-yards-leader"
  },
+ "0x8847601699f2b101550112df951ea808a7476fb464cbea839c40e4c661ea6530": {
+  "created_at": "2026-11-17T02:43:35.212832Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Sydney Sweeney announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "sydney-sweeney-announced-as-next-bond-girl"
+ },
  "0x888b99280bd1fb380ce4fae9258a5b3c01784aeba76a2715dab7188caeba0430": {
   "created_at": "2026-09-02T19:39:28.39834Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-22 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
@@ -1549,6 +1569,15 @@
   "revisions": 1,
   "sha256": "f42de7786f2f9f79d7b09251930b73cfe9fe4cceaf4f0e6d0e34446f93efe476",
   "slug": "will-palestine-win-group-a-at-the-2027-afc-asian-cup"
+ },
+ "0xd89e801892e67f56a66c775c68cf6e5f4424c9f0f92686bf4dfe7c203d181430": {
+  "created_at": "2026-10-24T06:00:13.070362Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 4 - 4 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-4-4"
  },
  "0xdbe2f7486676bc943c454498a40595ddf042e89bc7a9c204084d87d59abc8730": {
   "created_at": "2026-08-10T15:33:16.353012Z",

@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if, between market creation and the specified date, 11:59 PM ET, the United States federal government officially confirms that DeepSeek used NVIDIA Blackwell chips to develop or train any of its AI models. Otherwise, this market will resolve to “No”.
+
+The confirmation must be made within this market’s timeframe; the use it confirms may have occurred at any time.
+
+A qualifying confirmation is an on-the-record statement made in an official capacity by the President, the White House, or a named official of a federal executive department or agency (e.g., the Department of Commerce, the Bureau of Industry and Security, or the Department of Justice), or an official document published by any of these (e.g., a press release, Federal Register notice, or court filing), which states as fact that DeepSeek used NVIDIA Blackwell chips to develop or train an AI model. A statement that DeepSeek acquired or possessed Blackwell chips, without stating that they were used to develop or train an AI model, will not qualify.
+
+NVIDIA Blackwell chips include any NVIDIA GPU or system based on the Blackwell architecture, including the B100, B200, B300, GB200, and GB300.
+
+Statements attributed to anonymous or unnamed officials, statements by members of Congress, and statements that are speculative or hedged (e.g., “likely”, “believed to”, “may have”) will not qualify. Statements made before market creation, including the remarks reported by Reuters in February 2026, will not qualify.
+
+DeepSeek refers to Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd. or any of its subsidiaries or affiliates.
+
+The primary resolution source for this market will be official information from US governmental sources, however a consensus of credible reporting will also be used.

@@ -440,6 +440,7 @@
   "created_at": "2026-08-07T20:13:33.080324Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-11 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",
@@ -1551,6 +1552,15 @@
   "revisions": 1,
   "sha256": "0f2e549ed8062fcec528698c9fe54e1ce87405d9f074d4c3ee3a9a98758415a6",
   "slug": "jalen-hurts-2999pt5-passing-yards-2026-27"
+ },
+ "0xea1eaa98ba4ef806511cccd8ce2590e6f61243b409e7efc2de7d409241cb301f": {
+  "created_at": "2026-10-25T19:00:16.063614Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: O/U 6.5",
+  "revisions": 1,
+  "sha256": "3dab1c1e2e890ac8a863dca5401ee62b1a63ebf26cf9bd033b0d96c468f3809d",
+  "slug": "es2-gra-cdt-2026-11-07-total-6pt5"
  },
  "0xea72fb0cba447ad5461664dfbc3e6a734dc45b4fbf9892e9dacfb88ff3d2171f": {
   "created_at": "2026-10-16T18:05:41.37831Z",

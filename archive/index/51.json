@@ -127,6 +127,15 @@
   "sha256": "e3462d79670e24534052cc2bd195d9d9d3219df2f1bb27547a9a115ec0661031",
   "slug": "james-cook-first-to-1000-rushing-yards-2026-27"
  },
+ "0x14b7f6733565c1035a4a9e5d84c0f229e70fdb589b7bc1277f0c598d74668851": {
+  "created_at": "2026-10-24T06:00:11.676009Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 2 - 1 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-2-1"
+ },
  "0x160f0fe0089ae5bf14c3fb2ec229bf6a2be6acd594d0c60592346999440b1851": {
   "created_at": "2026-09-02T06:01:10.829961Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -367,6 +376,7 @@
   "created_at": "2026-09-09T15:40:58.248245Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Belgium be relegated from Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",
@@ -540,6 +550,7 @@
   "created_at": "2026-08-07T20:16:44.597075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-15 House election?",
   "revisions": 1,
   "sha256": "7257616e722dabe4a9253e255bf62ab12d2713e5f7f26e97ef092d5d83c21399",

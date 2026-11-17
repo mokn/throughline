@@ -317,6 +317,15 @@
   "sha256": "8d302d4ee4c4e243b8df2d90cd6c868248889730496e0d0fbea47ca6812ff602",
   "slug": "will-candace-owens-announce-a-presidential-run-before-2027"
  },
+ "0x2d99d06c839c14c8572b6c131b03e5192a8fbe536916663966de694ec3dd97fc": {
+  "created_at": "2026-11-16T16:40:38.215196Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "DOJ criminally charges Jiangsu Lettall or Century Litong by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "660f9f0620e64d49c1c0ab5282d64fe8eb0793ebd628e6dc514f27e31a3f0217",
+  "slug": "doj-criminally-charges-jiangsu-lettall-or-century-litong-by-december-31-2026"
+ },
  "0x2eba7d39ccab67a441cfc0b14baef829cdee4eeeac969de12ca221e7f05c7afc": {
   "created_at": "2026-09-09T15:41:28.048271Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -795,6 +804,7 @@
   "created_at": "2026-09-02T19:39:31.280643Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-14 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",
@@ -845,6 +855,15 @@
   "revisions": 1,
   "sha256": "a548aef9b5b741c459873a82334627e2645ad665e23079749827f3ff7f611935",
   "slug": "czech-nbl-2027-champion-decin"
+ },
+ "0x716c63691170343eda67872f9c5ba6b9ef5bf47a8f9d85505283ccd78d20b9fc": {
+  "created_at": "2026-10-24T06:00:10.633712Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "b89970d5412316a43a3c82db69e63e0ee5b803564d82e4f622d8562e53ef690e",
+  "slug": "es2-cas-eib-2026-11-06-halftime-result-draw"
  },
  "0x72b814db8002364c6853c88e7ef18771c9d6fdcd6822858e31ca7755d04432fc": {
   "created_at": "2026-09-27T20:02:42.355732Z",
@@ -1160,10 +1179,20 @@
   "created_at": "2026-09-02T19:39:22.558241Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-25 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "f74b5eb2a97d9931d3b07cc880db532069ee53004d9f63337e8989e5b20409c5",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-25-house-election-by-6-9"
+ },
+ "0xa59195eb74dab6caf6b3d9d90e87ce928d7aabaf4d72f70eb54da5b46d2cfffc": {
+  "created_at": "2026-10-25T06:00:39.044278Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 2 - 3 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-2-3"
  },
  "0xa61b266b375ba31bf4a5fffe9b0c928f74f29898b1446263e1094db3cc57a3fc": {
   "created_at": "2026-11-07T12:30:18.30642Z",
@@ -1469,6 +1498,7 @@
   "created_at": "2026-08-11T00:13:59.698898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Manuela Schwesig be the next Minister-President of Mecklenburg-Vorpommern?",
   "revisions": 1,
   "sha256": "9083543ff2d2336602241ba26f347da6e2292da52f48732df62e84b5a0779894",

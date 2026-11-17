@@ -1338,6 +1338,15 @@
   "sha256": "86ceb3b75052d661856c223e5eedd1b2ec5af3ca16de30c4f357e231c62c36a1",
   "slug": "will-schrodinger-s-call-win-best-game-direction-at-the-2026-game-awards-1785857784734"
  },
+ "0xc21b0e58eea431ec7e4fb5663c2b870ef9e3a81d794f7e54f92612055df5aad7": {
+  "created_at": "2026-10-24T06:00:12.773358Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 2 - 5 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-2-5"
+ },
  "0xc2ae28df5f05f03a4799ec010421470d19ea7fd6a41303dbcaf7ed08715fc2d7": {
   "created_at": "2026-11-03T17:43:34.720494Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1466,6 +1475,15 @@
   "revisions": 1,
   "sha256": "ca776e7414a0caeab43020e6477f6876579d139e3c6498915bbc2aab41d2b904",
   "slug": "will-only-gabriel-attal-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
+ "0xce87d003c1b82dd4ec7158e44970e39ded881336e1f514687ba928058c45a5d7": {
+  "created_at": "2026-10-26T06:00:09.5505Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 2 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-2-3"
  },
  "0xcf2aff118a4c3b998680e8901e460bfdc54e1bb4bfdcb57d8a1d7d7316637bd7": {
   "created_at": "2026-09-13T08:16:12.004558Z",

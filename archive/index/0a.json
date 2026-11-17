@@ -1007,6 +1007,15 @@
   "sha256": "2eade0107c470a7b007c2e5e8c3e3da19d9312d0b1395fa241d4f4ac49d2b405",
   "slug": "will-maria-lundqvist-bromster-be-the-next-regional-board-chair-of-region-vasterbotten-1786127850917"
  },
+ "0x962a224222aa84e063c5f8224ec8cf986d0a0acbed4c1b9f20d012383251c80a": {
+  "created_at": "2026-10-24T19:00:19.780699Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: CD Castell\u00f3n O/U 5.5",
+  "revisions": 1,
+  "sha256": "93d2eccf78cf336ecfbe802b14031d7fae8725782cafab4eec52714bd67d6bb6",
+  "slug": "es2-cas-eib-2026-11-06-team-total-home-5pt5"
+ },
  "0x98650fd9c60a1d211bda467f3e72cfe57c97cf821514bf4560da53c577607e0a": {
   "created_at": "2026-10-02T23:00:16.932512Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1067,6 +1076,7 @@
   "created_at": "2026-08-11T14:18:07.760125Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Democrats win exactly 48 House seats in California in the 2026 midterm elections?",
   "revisions": 1,
   "sha256": "cc33e62a2bb4c50e1d904dce0a2bfd6b6ab4da9b5ab7d7f1d5769d3f3831637a",
@@ -1157,6 +1167,7 @@
   "created_at": "2026-08-07T20:08:55.01778Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-03 House election by 30% or more?",
   "revisions": 1,
   "sha256": "73115a69753433b0f019cdee98607e3728f9b05009fbb592a42b9e59e2baad2f",
@@ -1382,6 +1393,15 @@
   "sha256": "8ca3508aeb7cf87ae290161a35fa7017bc116a1c7775633e47eaace084f20145",
   "slug": "justin-jefferson-749pt5-receiving-yards-2026-27"
  },
+ "0xd139b801353c94792efa96ce8850c9151a03474a5b392d63c773b19d0d161e0a": {
+  "created_at": "2026-10-26T06:00:10.502347Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 5 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-5-5"
+ },
  "0xd15649a9caac81728ee3f2538dd7065ab3860f680478e2990f223ccec5f6360a": {
   "created_at": "2026-06-24T16:38:13.906802Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1445,6 +1465,15 @@
   "revisions": 1,
   "sha256": "946130a0602738c694db6720f1d537cf7c07735bddeafc55e1def9584c354909",
   "slug": "will-wild-horse-nine-be-nominated-for-best-costume-design-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xe0f756d371576d83c3dd83f0d48b325a11b56c3158649d2bf461135337fdd00a": {
+  "created_at": "2026-10-26T06:00:08.800375Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 1 - 0 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-1-0"
  },
  "0xe3898446a280c6ad3b5a4b451a1bb91dddebf3eb73eb4ea5d2935156114aeb0a": {
   "created_at": "2026-01-28T15:40:48.010542Z",

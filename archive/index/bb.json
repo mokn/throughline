@@ -1381,6 +1381,15 @@
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
   "slug": "el1-oxf-rea-2026-09-08-exact-score-0-3"
  },
+ "0xcb0efda1a86597d19d8ee8ba65626d1962847ba7fd49ac829775bfc7fdd2fbbb": {
+  "created_at": "2026-10-25T19:00:18.455799Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: Granada CF O/U 4.5",
+  "revisions": 1,
+  "sha256": "afc6f9ad1df0db888aa6bba8b843dadc8b082317d92274ec811bae2876a34a34",
+  "slug": "es2-gra-cdt-2026-11-07-team-total-home-4pt5"
+ },
  "0xcc379d93d8e3e108bf561c3d47684e10e9555e664f1340c718785a48bc8b14bb": {
   "created_at": "2026-08-26T08:45:15.495725Z",
   "first_seen": "2026-11-04T01:55:27Z",

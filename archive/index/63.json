@@ -604,6 +604,7 @@
   "created_at": "2026-09-09T15:18:07.147183Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Greece win 2026-27 Nations League Group A2?",
   "revisions": 1,
   "sha256": "f37557fc5b8dda25af458ddd0ff2a861844b09431d82867396871795bda32673",
@@ -681,6 +682,15 @@
   "revisions": 1,
   "sha256": "d51b8c00e4d21555da441c63d6eddcd5a90bacce87075e008ef64f90fc157d74",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mi-12-house-election-by-60-65"
+ },
+ "0x5fcab04538a728e3812642061cb25eac8adb3e9132e9c08d03c7435c701e0063": {
+  "created_at": "2026-10-25T19:00:20.774149Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: CD Tenerife 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "b80971073be9b8bfb01384e4b0e34b3c85f4dadf7ca3910ce183edbc5f73a015",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-team-total-away-1pt5"
  },
  "0x60d0339651c16a24824956c2ab1a075fef1157021f88b3abe765e518e892e863": {
   "created_at": "2026-10-25T04:01:25.211385Z",
@@ -1299,6 +1309,15 @@
   "sha256": "b5a22439d075430b792e562d99c7ac4f5a134ef237be2b105e000fa79abe2cbf",
   "slug": "will-nk-lokomotiva-zagreb-finish-9th-in-croatian-hnl-2026-27"
  },
+ "0xb4a645f33b054867d4b6a494e0336cd258fe160c48ad05b654638cc63c547763": {
+  "created_at": "2026-10-24T19:00:18.779462Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "408f5e0ca072da16a499a14fe8c9dce666fe952c8561d5ef6bd9ba7dda258a24",
+  "slug": "es2-cas-eib-2026-11-06-first-half-total-4pt5"
+ },
  "0xb98156d977ee07e7fd11ba91ce253abec1f09866b45d22cee9f97a2d775dfc63": {
   "created_at": "2026-09-08T16:53:18.750563Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1516,6 +1535,15 @@
   "revisions": 1,
   "sha256": "84eaf53c7d8cda850ab134fb83b6c122534d397b075c494a5f6a288ea9cdade6",
   "slug": "will-charlie-smyth-finish-as-a-top-5-k-in-the-2026-27-nfl-season"
+ },
+ "0xd34474ca24857a923a1080807c36193e5e42c67c0cd3c9c620245f9ea7da7b63": {
+  "created_at": "2026-10-25T06:00:39.894352Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 3 - 3 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-3-3"
  },
  "0xd47aa3379281b103debb040db11fa4606bfcb4eee2f7de7ffb2b6fefbf51fa63": {
   "created_at": "2026-09-02T21:52:51.807779Z",

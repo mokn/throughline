@@ -121,6 +121,7 @@
   "created_at": "2026-08-12T16:51:54.121434Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Carlos Enrique Alva Rojas win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -344,6 +345,15 @@
   "revisions": 1,
   "sha256": "7b75aef1cb5b409b5f3c1686ab8bf7d16de2dd3c731016b82f2933764a00cdf5",
   "slug": "will-jeremy-strong-be-nominated-for-best-actor-at-the-99th-academy-awards"
+ },
+ "0x34c40e375a8e1052f3ad3193c193d7ea6e94db1193ca9f768238b59822e76076": {
+  "created_at": "2026-10-25T06:00:41.422787Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 5 - 3 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-5-3"
  },
  "0x3530f589ae6b4e60de7bd063014d6a519c5c923627033d0fcab7a546fa370576": {
   "created_at": "2026-08-10T23:57:04.268779Z",
@@ -1688,6 +1698,7 @@
   "created_at": "2026-08-07T20:17:36.62887Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-19 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "f677600266a3b9d9018c0cf7ed5478fdb64c7d212843bd02d7592abf83aea263",

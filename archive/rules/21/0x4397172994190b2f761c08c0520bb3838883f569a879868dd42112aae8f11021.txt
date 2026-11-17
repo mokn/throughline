@@ -1,0 +1,11 @@
+This market will resolve according to the Eurozone (Euro Area 21) Q4 2026 GDP growth rate over the same quarter of the previous year (% change), based on seasonally adjusted data, in the Eurostat Preliminary Flash Estimate of GDP release for Q4 of 2026, scheduled for January 29, 2027.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The GDP release will be made available here: https://ec.europa.eu/eurostat/web/main/news/euro-indicators
+
+If no data for the specified quarter is released by the date the next quarter's data is scheduled to be released, this market will resolve based on data from the last available quarter.
+
+This market’s resolution source reports GDP growth rates to one decimal point. Thus, this is the level of precision that will be used when resolving this market.
+
+Note: data from the initial release of the referenced flash GDP report is what will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the initial release of the specified report will not be considered for this market's resolution.

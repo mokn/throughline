@@ -130,6 +130,7 @@
   "created_at": "2026-11-12T20:22:16.807023Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Young - Dan + Shay win Best Contemporary Country Album at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "e25754767c3495a7b6d4486ada4480a4cdf15543176d078380db11ce4a604484",
@@ -660,6 +661,15 @@
   "revisions": 1,
   "sha256": "1e654f5a64dad3a5e542fc932c418cd40197cab5af7a3a590d164c059b627aac",
   "slug": "2027-pga-tour-player-of-the-year-aaron-rai"
+ },
+ "0x70e84d0cba2b82a446cef07ea6c9cf589b9786abb0e41343de6f885cf28b6e2c": {
+  "created_at": "2026-10-24T19:00:15.199663Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: CD Castell\u00f3n (-3.5)",
+  "revisions": 1,
+  "sha256": "21266262d0c1b628ca3385a6b9dc2a819af16905d4f25dc26a840c9f05001faf",
+  "slug": "es2-cas-eib-2026-11-06-spread-home-3pt5"
  },
  "0x740a166e790183578491ef6fca8d1995fb214b63be89d0f82206098ff247962c": {
   "created_at": "2026-10-09T16:37:09.305586Z",
@@ -1356,6 +1366,7 @@
   "created_at": "2026-08-05T18:37:35.403167Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 Florida gubernatorial election by 6% or more?",
   "revisions": 1,
   "sha256": "d56c5e351d86a1644f1006c899bafc8bd77b029ee5f3237ae59d127d765fc478",
@@ -1439,6 +1450,7 @@
   "created_at": "2026-08-12T16:51:57.635619Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will V\u00edctor Robert De La Cruz Rosas win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",

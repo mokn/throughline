@@ -26,6 +26,15 @@
   "sha256": "f0033bd98b34438bb80886168e076311de4c13a0c2af8cfe7431c00276406266",
   "slug": "will-the-democratic-party-candidate-win-the-2026-az-02-house-election-by-6-or-more"
  },
+ "0x08041a4bb4268f2b3d147e950b883be8df10396b7bf746cbbf39745c585d1ac1": {
+  "created_at": "2026-10-25T19:00:14.864805Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: CD Tenerife (-5.5)",
+  "revisions": 1,
+  "sha256": "0423054932e86713408dbd71d543527c030f8ec841b6c97b9e1254d2b91fe65c",
+  "slug": "es2-gra-cdt-2026-11-07-spread-away-5pt5"
+ },
  "0x08f27b58f7c632a251044fd6f8761aa17b84db90b16883dfa1e650758a4cacc1": {
   "created_at": "2026-10-12T18:18:52.630538Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -130,6 +139,7 @@
   "created_at": "2026-08-07T20:08:21.202528Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-01 House election by 5%-15%?",
   "revisions": 1,
   "sha256": "c05a74ba8403fe2bf05da4b3e64616e059f8263a9592e1f9a84b22a1a18a47fd",
@@ -575,6 +585,15 @@
   "revisions": 1,
   "sha256": "cb718fc2424ecd2790d77c590c9c80b561eab5fbaf9e47226f73f8d75e55204f",
   "slug": "will-dji-be-removed-from-chinese-military-companies-list-by-june-30-2027-20260706223230552"
+ },
+ "0x65ae260df44cb1387d226593b033816cb2e0ce824bb5821f075b567058c8d9c1": {
+  "created_at": "2026-10-26T19:00:39.274576Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "947a77e81f95174b3a95e25e54434dfe3d766200685f96c372330fe6ffb2c359",
+  "slug": "es2-and-rm-2026-11-08-first-half-total-1pt5"
  },
  "0x661089f5e6eef85770f21853871cde88992a9aa1b6abd72847cd8d37353463c1": {
   "created_at": "2026-08-11T19:10:31.820557Z",

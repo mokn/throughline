@@ -445,10 +445,20 @@
   "sha256": "c75bb110bc84023caa3078f029f8dc7c6daae984e45af14f6f5a1a0702b0912c",
   "slug": "will-takefusa-kubo-score-the-most-goals-in-the-2026-27-uefa-europa-league"
  },
+ "0x37c6aeb553a95fce0e79d63ac54172ada0dd020a3e4a9cc152690bc46e81c94f": {
+  "created_at": "2026-10-24T19:00:20.265362Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: SD Eibar O/U 2.5",
+  "revisions": 1,
+  "sha256": "9f3ab97592e30d56551fd01c1f2e98b2bc9fcd268142928b285ff5d0e7119f87",
+  "slug": "es2-cas-eib-2026-11-06-team-total-away-2pt5"
+ },
  "0x399f5d66d502a07baac2df127b3393e916c9c0d522c8af92fee360b81da0834f": {
   "created_at": "2026-08-07T20:18:10.303341Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-24 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "9979a8f00af0d7ed9ff0c7dda6f355a71ca65f3da11299d55f61ccba9414d30c",
@@ -869,6 +879,15 @@
   "sha256": "efdedc7bacddb4865bbb182d50dc45829cbae3786c65d51bbf571f28552ebd02",
   "slug": "trump-meets-with-kim-jong-un-by-december-31-2026"
  },
+ "0x754ca82248decea9cfe13849fee27675fd1648be66fe85ad40edd62b7aa53e4f": {
+  "created_at": "2026-10-24T19:00:17.017293Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: O/U 5.5",
+  "revisions": 1,
+  "sha256": "bcd8ea2f8f103c28f83f184a5dac68b964298946e6a58ac1ca10e872eb979422",
+  "slug": "es2-cas-eib-2026-11-06-total-5pt5"
+ },
  "0x7579861176d9b2d4173976ca764b483af7fda1d7409021325df5a64f3c53df4f": {
   "created_at": "2026-02-06T22:38:12.216008Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1285,6 +1304,7 @@
   "created_at": "2026-08-07T20:12:19.043749Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-08 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "5aca71f294755237b293068f75671907cfa8182af82ac5e0af5bf96b3a347d0e",
@@ -1371,6 +1391,15 @@
   "revisions": 1,
   "sha256": "1498af1139f5e93b364d167d2f9cd56f8b81723607d2b597f2a542c9cfb1b37f",
   "slug": "ukr1-met-kar-2026-11-07-team-total-away-0pt5"
+ },
+ "0xb644be79e66771b27fc06832384b777be05b83833d2e02bdb7e010ce72b0214f": {
+  "created_at": "2026-11-16T22:29:25.378633Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Ted Cruz Republican nomination odds leader on March 31?",
+  "revisions": 1,
+  "sha256": "0ab981a35cce6aa9a9bd074950306c1fd1b3f74e40cca424135b1ac9632fa97b",
+  "slug": "ted-cruz-republican-nomination-odds-leader-on-march-31"
  },
  "0xb6e3089d9a6c38959e09c4d381be1966e6b818c7a1bc84de1da38363ea08fd4f": {
   "created_at": "2026-01-26T21:12:21.277965Z",
@@ -1539,6 +1568,7 @@
   "created_at": "2026-11-12T20:22:18.156023Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Banks of the Trinity - Cody Johnson win Best Contemporary Country Album at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "e25754767c3495a7b6d4486ada4480a4cdf15543176d078380db11ce4a604484",

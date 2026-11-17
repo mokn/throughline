@@ -317,6 +317,15 @@
   "sha256": "7d0f392a6ee9996a25694a697bde66cbf028212c1a3a0a4e6fc0acfa36358dc8",
   "slug": "will-malmo-ff-keep-the-most-clean-sheets-in-allsvenskan-sweden-2026"
  },
+ "0x3f83ebb624de3b808c5ad4f72a3d895815686373dec9ff7138f930a509e78dd8": {
+  "created_at": "2026-10-26T06:00:12.296273Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "RCD Mallorca to score first vs. FC Andorra?",
+  "revisions": 1,
+  "sha256": "0cdbdabf0fb4f1e6f89ccfd03ce627003931804c32ded5564136f635b821df48",
+  "slug": "es2-and-rm-2026-11-08-first-to-score-away"
+ },
  "0x40a1dbe7ad9c238f8f877d4bf2bcc845be41d804df8cd35200213054b3d1fed8": {
   "created_at": "2026-09-18T00:07:57.148677Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -530,6 +539,7 @@
   "created_at": "2026-09-02T19:39:32.84446Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-14 House election by 12% or more?",
   "revisions": 1,
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",
@@ -660,6 +670,7 @@
   "created_at": "2026-09-02T19:39:39.974326Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-12 House election by 25% or more?",
   "revisions": 1,
   "sha256": "37c643d524d48b69ab2b9b099818b83908bedd7d5ac72fadd91125634a2c0976",
@@ -900,6 +911,7 @@
   "created_at": "2026-08-20T17:47:38.300534Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will AfD be in the next Mecklenburg-Vorpommern state government?",
   "revisions": 1,
   "sha256": "1295ed960381daf08c777d0d3c1991b6c6c4cdde1b66df571666fe66be6a36d9",
@@ -1013,6 +1025,15 @@
   "revisions": 1,
   "sha256": "a114272873c1af1824f6d5f96d1b53cc4cdc3b6c5d74b90bb79754ffdab3e9bf",
   "slug": "will-tony-gilroy-be-nominated-for-best-director-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x9d72031e8a554b47787453e0417015d77f5597ce0e200c3657f0d1b815c08dd8": {
+  "created_at": "2026-11-16T22:04:47.310589Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Mexico GDP growth in Q4 2026 be between 3.5% and 4.0%?",
+  "revisions": 1,
+  "sha256": "c3fe405c035fde2e1c392e246e05f38f6af21934841f1d92b8d7c3619d38ac27",
+  "slug": "will-mexico-gdp-growth-in-q4-2026-be-between-3pt5-and-4pt0"
  },
  "0x9dfbf4955504aaaf2add9bfe0ed8e0e565b464c0f130d78cdce91098b73d7dd8": {
   "created_at": "2026-08-18T14:27:14.003394Z",

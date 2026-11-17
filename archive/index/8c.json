@@ -145,6 +145,15 @@
   "sha256": "b804610ddfd1b9560d276d1564847a2244edfc4d294ae4bdc2eccb01a5a5837b",
   "slug": "norway-blno-2027-champion-fyllingen-lions"
  },
+ "0x125c580705f5ec16cde335f15c17a7befd6f2bb8970ba1a2b3b7c270a1d1388c": {
+  "created_at": "2026-11-16T22:29:25.868834Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Glenn Youngkin Republican nomination odds leader on March 31?",
+  "revisions": 1,
+  "sha256": "0ab981a35cce6aa9a9bd074950306c1fd1b3f74e40cca424135b1ac9632fa97b",
+  "slug": "glenn-youngkin-republican-nomination-odds-leader-on-march-31"
+ },
  "0x126691e48c2205b49c283b55ccc7c3c5eaf6395344bb424b219cc7ab184c448c": {
   "created_at": "2026-08-11T18:18:30.942189Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -357,6 +366,7 @@
   "created_at": "2026-08-07T20:13:33.783213Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-11 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",
@@ -1232,6 +1242,15 @@
   "revisions": 1,
   "sha256": "e4f41b7b7a9c3042cd124f6e5eb473266a926a12e4cd4e723f5b971c5ff44300",
   "slug": "will-marumo-gallants-finish-14th-in-south-africa-premiership-2026-27"
+ },
+ "0xc79ca88a889cd33a8bcea8990dfa663b4ebc365ee1fff359c69f64f6e7c8618c": {
+  "created_at": "2026-11-16T21:38:37.919518Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Anthropic IPO first-day pop above 20%?",
+  "revisions": 1,
+  "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
+  "slug": "anthropic-ipo-first-day-pop-above-20pct"
  },
  "0xcf9bfa2b29d48a2fceddf1dcf25be3657fef5c9f841f61bb4a9a152d7d7a698c": {
   "created_at": "2026-10-12T18:35:29.576697Z",

@@ -183,6 +183,7 @@
   "created_at": "2026-08-07T20:17:37.779065Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-19 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "f677600266a3b9d9018c0cf7ed5478fdb64c7d212843bd02d7592abf83aea263",
@@ -315,6 +316,15 @@
   "sha256": "87c8d3ffb40a298a9b295c6cc6bb1211bf70d5fed9fe35cb5b03f68c185fcb9a",
   "slug": "will-mike-newman-be-the-next-premier-of-new-south-wales"
  },
+ "0x2a4cea19f7f97a4bc576e169311e7d711bb0aa3e2c90c7a5d1489261e7387948": {
+  "created_at": "2026-10-26T06:00:08.743621Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 0 - 1 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-0-1"
+ },
  "0x2afa18a679d7827ac1d641cb9baf9cbb7652625c95456df799384b5b96f1fc48": {
   "created_at": "2026-08-11T18:36:59.974059Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -365,6 +375,7 @@
   "created_at": "2026-05-18T16:26:40.650847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Theo James announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",

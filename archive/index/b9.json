@@ -236,6 +236,15 @@
   "sha256": "ae10ebf55aa5fbc7efa8678d0b9160f49c5eab8eb5a8d4d6f3b2e0089a127eb6",
   "slug": "will-solidary-force-fs-win-the-second-most-seats-in-the-2027-salvadoran-legislative-election"
  },
+ "0x239ea4e1393085c70f78f788adac7701aba94f36f35a585cf2180d2231fd2db9": {
+  "created_at": "2026-10-25T06:00:38.670192Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 4 - 0 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-4-0"
+ },
  "0x23c6ce123f1fd1f08735365dbbb81f5e6ea1bff478b11c5642220bf0c45e94b9": {
   "created_at": "2026-09-09T15:48:09.27469Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -345,6 +354,15 @@
   "sha256": "28325ed7bd4785b8ae289ecbff1a69667a853b6c03d32b46513f2d1f947fecd4",
   "slug": "spl-riy-hil-2026-10-16-exact-score-5-3"
  },
+ "0x33e228483669606c1331e76a51008b1f472da64928f9dbef9d29ad9ea5be34b9": {
+  "created_at": "2026-10-25T06:00:37.300772Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 2 - 0 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-2-0"
+ },
  "0x353cdab02946639e67ad596c7b50a013cff934b0b6249b9885a3396cee0466b9": {
   "created_at": "2026-10-29T20:53:32.674757Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -440,6 +458,7 @@
   "created_at": "2026-01-28T15:39:46.747711Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party win the TN-04 House seat?",
   "revisions": 1,
   "sha256": "7cc91dbb76193e8c614f530f6362df8eba06539b58946d050b0ad39983efe99b",
@@ -512,6 +531,7 @@
   "created_at": "2026-08-06T08:19:31.405082Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Aperture (Harry Styles) win Song of the Year at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "470150210ad949dfb9f64229c8bb2cedc2e8e72582450723fb8c73a77e97634f",
@@ -919,6 +939,15 @@
   "revisions": 1,
   "sha256": "581f92026d7157fba218452f5bfba1017596e2abac060752d9f1dff59e6de953",
   "slug": "andy-burnham-out-as-uk-pm-by-december-31-20260720161648861"
+ },
+ "0x8c10787ccd029268783cf3c7f53d5a4cd1e54b36e0f6a1207594d90e1d9c93b9": {
+  "created_at": "2026-11-16T21:32:28.534443Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Jack Clark ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-jack-clark-ring-the-bell"
  },
  "0x8e146cb1555298aeade86eb63dadeeff2d96a509966e0f83426c065c117becb9": {
   "created_at": "2026-09-14T20:40:09.058867Z",
@@ -1337,6 +1366,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-miami-dolphins-have-more-than-2pt5-wins-during-the-2026-nfl-season"
+ },
+ "0xd7319ad5491de015da25ed90696de652439bb6bc7e5374f405d00a7921959eb9": {
+  "created_at": "2026-11-17T02:43:35.635307Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Daisy Edgar-Jones announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "daisy-edgar-jones-announced-as-next-bond-girl"
  },
  "0xd7ceed26cf2ba30cafcfdfd417a973bc49f3f6fd53a676e0266b6ef2be1437b9": {
   "created_at": "2026-08-04T21:40:54.428457Z",

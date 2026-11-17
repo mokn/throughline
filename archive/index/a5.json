@@ -127,6 +127,15 @@
   "sha256": "06b716e3d7979e969c9dcdc848d1e46a70b011fa5cd8574dd62a393158c90133",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-13-house-election-by-0-3"
  },
+ "0x1164605bac17e02ccce3625e2a9995e8d9900be48bd732abbe1dcbde7feb70a5": {
+  "created_at": "2026-07-18T20:23:10.039343Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Noah Schnapp be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-noah-schnapp-be-the-1-searched-actor-on-google-this-year-20261116220000008"
+ },
  "0x18d51d488aede20b8d68138d2585d5a281d9b4345df65ab4954832d653479ea5": {
   "created_at": "2026-08-24T16:37:57.543686Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -328,6 +337,15 @@
   "sha256": "f385accd35fc5691e37fcf0a61df231a1a8d1b11b54953d81f4ee44745fcae68",
   "slug": "muse-charm-released-by-december-31-2026"
  },
+ "0x312210107231a022cb23d798d53a7c47edcd9fbc64362a3446c493320b8702a5": {
+  "created_at": "2026-11-16T22:49:08.278121Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Eurozone GDP growth in Q4 2026 be between 0.4% and 0.7%?",
+  "revisions": 1,
+  "sha256": "df34fc7db37c6efff43fbbcad260814b0135996f3a640a7fc50d5225fe2b6734",
+  "slug": "will-eurozone-gdp-growth-in-q4-2026-be-between-0pt4-and-0pt7"
+ },
  "0x3261750514d2e1c1235cbfbf782bd4e45fe13e235a4ce74e6a282113c3a777a5": {
   "created_at": "2026-10-13T15:49:13.523333Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -354,6 +372,15 @@
   "revisions": 1,
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-michael-pittman-jrpt-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
+ },
+ "0x3480c90b2de88c75665b8531a6f1ecf4ff024ec5ed06b6daa938610bf0f5a3a5": {
+  "created_at": "2026-10-24T19:00:16.520972Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: O/U 2.5",
+  "revisions": 1,
+  "sha256": "c0b988cc4db84092fc52417dccfb6a9bc683249b92f7cb1f0e42041d6298cede",
+  "slug": "es2-cas-eib-2026-11-06-total-2pt5"
  },
  "0x34b7bf92bec303d698fac1434c1fd8592e774646b82ceddc55a28948f6c332a5": {
   "created_at": "2026-11-04T17:37:57.55769Z",
@@ -459,6 +486,7 @@
   "created_at": "2026-08-07T20:12:19.330628Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-08 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "5aca71f294755237b293068f75671907cfa8182af82ac5e0af5bf96b3a347d0e",
@@ -679,6 +707,15 @@
   "revisions": 1,
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-clayton-keller-win-the-2026-27-maurice-rocket-richard-trophy"
+ },
+ "0x64457faaf3b7b6452ad223cf0c8f6b753d02f89123efc4ee2252415164b38ca5": {
+  "created_at": "2026-10-25T06:00:46.392133Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Tenerife to score first vs. Granada CF?",
+  "revisions": 1,
+  "sha256": "d72b913a33cd5324e498aebe8f1caf3a9dfcfd715b6feb47e6b316844dbc9937",
+  "slug": "es2-gra-cdt-2026-11-07-first-to-score-away"
  },
  "0x6492df99d36351f92ecf1f48f0264a6c3cc7f89f69c929259c2bca55111d93a5": {
   "created_at": "2026-09-24T18:57:40.918362Z",
@@ -1541,6 +1578,15 @@
   "revisions": 1,
   "sha256": "f341f4ccef39728d58b89fa5a45dff5f799ae41dbc15e5b56213554694c8bf0b",
   "slug": "will-the-republicans-win-oklahoma-in-the-2028-presidential-election"
+ },
+ "0xe4e761220e1795ce10d51666f22b59e8f218066371abcb92d2595d8a09ae82a5": {
+  "created_at": "2026-07-18T20:23:09.401868Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Russell Brand be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-russell-brand-be-the-1-searched-actor-on-google-this-year-20261116220000005"
  },
  "0xe6bfc0df1dcb1ce15c9595730bb73bb29740262ad27cad3e022d77a9f2bdd0a5": {
   "created_at": "2026-08-06T08:38:37.227187Z",

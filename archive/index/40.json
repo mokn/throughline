@@ -202,6 +202,15 @@
   "sha256": "330029b316a98bd08fd3defc7fbbaaf9596ae350b3db3c959d26de31f3c20fd9",
   "slug": "will-the-republican-party-win-the-ks-04-house-seat"
  },
+ "0x1a90ff6176932eb314867ea766c9d2dbeb8772409c797f7b67f030799ef36840": {
+  "created_at": "2026-07-18T20:23:09.079937Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Nicola Peltz be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-nicola-peltz-be-the-1-searched-actor-on-google-this-year-20261116220000003"
+ },
  "0x1ad50cd760900f50d16441f079a71aecf8dba063d803ce815485965e78c23140": {
   "created_at": "2026-08-24T16:39:17.241324Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -592,6 +601,15 @@
   "revisions": 1,
   "sha256": "493694adc6a0a1ec2df43d9e0e30b9a535bdf7042a9219ee6363621d35942b14",
   "slug": "will-trey-mcbride-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-yards"
+ },
+ "0x65d1afd909e445360ecb80b7a5aca4e7801eda4dedc5eb16bdd7a9554fb68c40": {
+  "created_at": "2026-10-26T19:00:38.160278Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: O/U 5.5",
+  "revisions": 1,
+  "sha256": "a9276e205a0fbbbc8930b6f05a7685482f1cabfe87d346db1c50b8499425d6ed",
+  "slug": "es2-and-rm-2026-11-08-total-5pt5"
  },
  "0x66a6e20e5bff675c94ecd3c29075e70e575036385ea98f2c1031387a9c28e140": {
   "created_at": "2026-10-01T14:27:22.119524Z",
@@ -1352,6 +1370,15 @@
   "revisions": 1,
   "sha256": "40da2941ffa3e903f819ada1334463382ea7f3e1698be0704b9ad8ff49b68c87",
   "slug": "el2-wal-cra-2026-10-03-second-half-team-total-home-2pt5"
+ },
+ "0xdd469ab28f7dccbc973e819430c4bc7d64cb046c85710aea660836d891251440": {
+  "created_at": "2026-11-17T02:43:46.200767Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Chlo\u00eb Grace Moretz announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "chloe-grace-moretz-announced-as-next-bond-girl"
  },
  "0xdf0c34035fb6c2d6dd69d7082bc3a964265adff70d758579e97e7ecd12fe8140": {
   "created_at": "2026-11-12T20:22:36.518331Z",

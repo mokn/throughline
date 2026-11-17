@@ -68,6 +68,7 @@
   "created_at": "2026-05-18T16:26:38.334225Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Harris Dickinson announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -100,6 +101,15 @@
   "revisions": 1,
   "sha256": "4f22985d68e3c0d534067006e298d9809ed965dcd4284c01a9299611b87d95ed",
   "slug": "cdr-red-bar-2026-10-28-total-6pt5"
+ },
+ "0x0cf44e5a7c0402a936929da629979cdbda58f78b3f1e2540d511c94fa3aa7fe6": {
+  "created_at": "2026-10-25T06:00:38.404932Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 2 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-2-2"
  },
  "0x0e45a496dcfc00b43991bc6bb407ad16b329ff6bd79259d97234497c911b6fe6": {
   "created_at": "2026-09-02T19:31:26.805339Z",
@@ -795,6 +805,7 @@
   "created_at": "2026-08-07T20:18:20.381998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-28 House election?",
   "revisions": 1,
   "sha256": "c1aee09eb4f9d7ba6be92b29791a34b1ff8d949a062b8e946b0670054ffaaaca",
@@ -877,6 +888,7 @@
   "created_at": "2026-05-18T16:26:42.212349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Nicholas Galitzine announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -917,6 +929,15 @@
   "revisions": 1,
   "sha256": "4f332d37820451194ce6e19aa0ff665bc5422c0ef7ebdf243a28ff7d1273ade3",
   "slug": "will-pedro-sanchez-be-the-next-prime-minister-of-spain-20260625005710096"
+ },
+ "0x92a71ff2bb4eb6cff0953e2dd4ed44853c4636bcc4f83d864386791f0dd296e6": {
+  "created_at": "2026-10-26T19:00:37.842694Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: O/U 3.5",
+  "revisions": 1,
+  "sha256": "1c2327f86b9144edebd3f73b40291f80d85f4190c308297fb8b070cb74811038",
+  "slug": "es2-and-rm-2026-11-08-total-3pt5"
  },
  "0x96049aaa91341f199f0c4ebbbddffac6b55c572f06ea8eaf3a3d0fc199e60ce6": {
   "created_at": "2026-08-10T15:34:16.326406Z",

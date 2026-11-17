@@ -1167,6 +1167,15 @@
   "sha256": "04e987511a2c81e5fc39ce709f229278562ec7ca261c84e3494dc2d6a5bf5762",
   "slug": "nba-2026-27-defensive-player-of-the-year-kristaps-porzingis"
  },
+ "0xb3d0e9d322c7048826196ba6b6d7f2637a23c7798822856293cb355064da0b70": {
+  "created_at": "2026-10-26T19:00:39.58352Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "d75ea0aad54c0a72801a896e1c9161e881b9c9eeb19978e3de2debdb3b200201",
+  "slug": "es2-and-rm-2026-11-08-first-half-total-3pt5"
+ },
  "0xb40f8cb30971bd8e9d0d464223a81a9ba78afe63907b0449461a850206341770": {
   "created_at": "2026-05-04T15:23:57.646659Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1238,6 +1247,15 @@
   "revisions": 1,
   "sha256": "814a2915e3f50765ad42ecf96aa1709a377c70ddb3e332d383e6a0b2a95ee3d5",
   "slug": "will-nuevas-ideas-ni-win-the-third-most-seats-in-the-2027-salvadoran-legislative-election"
+ },
+ "0xc5bdfc1b1217ab33dd23e054e5a465b920fb530b74c76727998236b410250a70": {
+  "created_at": "2026-10-25T06:00:37.977459Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 3 - 0 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-3-0"
  },
  "0xc67e887cb7c7f496f4be250230daf98959e1d8174e4cc03d91426f7e3e5e3870": {
   "created_at": "2026-08-11T18:43:43.87078Z",

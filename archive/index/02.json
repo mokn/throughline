@@ -211,6 +211,7 @@
   "created_at": "2026-08-07T20:17:58.118634Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-23 House election?",
   "revisions": 1,
   "sha256": "734a82d00cd0ffdcb8b30ba15f83067e652d2b836bc7d4cc9693304fcb819909",
@@ -292,6 +293,7 @@
   "created_at": "2026-08-07T20:09:44.342036Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-06 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "c50166fef448bf7f717c32efa095d73d36a84aa350584c617c6fa598c8625600",
@@ -560,6 +562,15 @@
   "sha256": "4ad66f10fa479fbc69ca20b863954ff382fc5210de5fa1e9c0a3d01d4b3653fd",
   "slug": "will-stepfun-be-the-third-best-ai-lab-at-the-end-of-december-2026"
  },
+ "0x6361a69dbf6f698a3d02cb11b6e58665b33bf2a5ad99d03a252c47597a22b602": {
+  "created_at": "2026-10-25T06:00:37.734654Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 1 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-1-2"
+ },
  "0x65773e9a66bb09d237f103e68b954ce0945ef0017f993c0cc2e20f436e11d502": {
   "created_at": "2026-11-03T17:06:03.726053Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -714,6 +725,15 @@
   "revisions": 1,
   "sha256": "61ae0921491fcd9a0ae2d5dcc2782cec87ebda67b350bc7228f8195a3a0ce18d",
   "slug": "will-the-republican-party-candidate-win-the-2026-sc-07-house-election-by-25-30"
+ },
+ "0x7ef7f1b9a4fb90c6dd7d6c30d1e883fdbe069edb14667c7009080d53cc2f4b02": {
+  "created_at": "2026-11-17T01:02:45.157432Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Javier Milei Argentina presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "889239befe87ee281d4abc883600f1cebc1e4a600258ba511dddc02e33ac5319",
+  "slug": "javier-milei-argentina-presidential-odds-leader-on-december-31"
  },
  "0x821f357da390a32347e4df0c3fb0aa4a8eadf4af72730c8dc7a7f1ab58798a02": {
   "created_at": "2026-02-28T21:24:01.519109Z",
@@ -1105,6 +1125,15 @@
   "revisions": 1,
   "sha256": "c8ed4a07fb042505928de0208b9d3f16602604f110a17680e7a41532c4e85b74",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-05-house-election-by-15-20"
+ },
+ "0xdc7f3e26cdce43bb1b0c482073b876b46d84a92effe2bdfc9778b0290ad50f02": {
+  "created_at": "2026-11-16T22:38:34.005289Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Germany GDP growth in Q4 2026 be between 1.6% and 1.8%?",
+  "revisions": 1,
+  "sha256": "9d6aa2d35d6c956e16ecb33586f0f52873cee746bf958495ae6edc2660ca1dd5",
+  "slug": "will-germany-gdp-growth-in-q4-2026-be-between-1pt6-and-1pt8"
  },
  "0xde087f62ce21a64a309b4eef45f7be5bae936a4e05151745665e328ecf52ac02": {
   "created_at": "2026-10-05T19:30:34.150847Z",

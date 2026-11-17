@@ -354,6 +354,15 @@
   "sha256": "b05400ea6c544a8bde4aeeda16d00104d257594b0e06e9fa79e81d3f17ec1f86",
   "slug": "zay-flowers-1000-receiving-yards-2026-27"
  },
+ "0x404cce2f1759fc41f597c03938958ed79e4903f0ccd94dad93a3be54ae630d3d": {
+  "created_at": "2026-11-16T16:43:40.470352Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "DOJ criminally charges Megaspeed by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "4b24ed6008e23bcf4e300c8a7491b71d166a7f40adfa275c737f20c3a1d3847e",
+  "slug": "doj-criminally-charges-megaspeed-by-december-31-2026"
+ },
  "0x40b2475e802d01b929cddd1124b8199d04989f1678bcf41d53fa75d7d917333d": {
   "created_at": "2025-12-15T19:33:20.391045Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -722,6 +731,15 @@
   "sha256": "4dc36b76383632c21571dfb1ef09044f9ef6b2fd791fde0327ebb0e14518b7db",
   "slug": "will-the-republican-party-candidate-win-the-2026-sc-03-house-election-by-10-20"
  },
+ "0x7921faf75725dc5f6cb17045f3964318717bc5f89434daa716161d64e8cb7f3d": {
+  "created_at": "2026-11-16T22:49:09.699813Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Eurozone GDP growth in Q4 2026 be between 1.6% and 1.9%?",
+  "revisions": 1,
+  "sha256": "df34fc7db37c6efff43fbbcad260814b0135996f3a640a7fc50d5225fe2b6734",
+  "slug": "will-eurozone-gdp-growth-in-q4-2026-be-between-1pt6-and-1pt9"
+ },
  "0x7987a821b8032824f1805ee39eb5dfb8f64603e4e9e673259eb76f82b439fd3d": {
   "created_at": "2025-07-11T20:47:55.924227Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -804,6 +822,15 @@
   "revisions": 1,
   "sha256": "34dec67357a2d9bf347dc85ca40fa7b34fd72b7e2e00373995f06b0066797661",
   "slug": "will-gil-vicente-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0x84caa8eec49495d10befe7f3551bd95976a7d8891a15c92389c34e6d069e2f3d": {
+  "created_at": "2026-11-16T18:46:59.536197Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "18-20 votes for Chris Van Hollen for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "2c2e348be86bd282d38b9736b960acc70f9928b8acbcf43c4b88421de2ff8510",
+  "slug": "18-20-votes-for-chris-van-hollen-for-senate-democratic-leader"
  },
  "0x8652a1b72d13868775062c003c4513868905d10938cde876b945432e6bf72a3d": {
   "created_at": "2026-07-02T18:03:49.331713Z",
@@ -1039,6 +1066,7 @@
   "created_at": "2026-07-29T16:19:19.715723Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Carlos Alcaraz be Number 1 on the End of Year ATP Rankings",
   "revisions": 1,
   "sha256": "41020caaab65add9925250f99f0cbcfbcee210a15df386cdcfbad42629f352ac",

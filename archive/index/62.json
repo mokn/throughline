@@ -347,6 +347,15 @@
   "sha256": "13c5f6632abf6901e02a6c20828eb7cef5425971b75a2f655fe49a9611148ca1",
   "slug": "will-naeem-abdul-rahim-gladding-be-the-2026-big-ten-receiving-tds-leader"
  },
+ "0x2b8bfcb285c4e9df491eaddc4f04fecc033fe72df798305e90a6dfcf95a5de62": {
+  "created_at": "2026-10-24T06:00:12.479643Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 1 - 5 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-1-5"
+ },
  "0x2bb850c22bed47137742118f2affd25baf62c9b93a7ca7108cb79b0645fd5f62": {
   "created_at": "2026-08-12T00:12:34.977426Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -646,6 +655,15 @@
   "sha256": "b88d4b1031aab7166008606a7fae8feecc4cf352f1d7cd40ffd1cb846c0ee4d1",
   "slug": "cze1-fsl-fbo-2026-10-24-fsl"
  },
+ "0x655563f18d84f6b4a5b85f1cef9051dd49a37f0b152deede424e702379acef62": {
+  "created_at": "2026-10-25T19:00:19.475529Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: CD Tenerife O/U 4.5",
+  "revisions": 1,
+  "sha256": "04b1f235b6268d44e0b6f36700cf65f0c594e7502868c587fd548f5628e5c099",
+  "slug": "es2-gra-cdt-2026-11-07-team-total-away-4pt5"
+ },
  "0x6710d045eb7bceb5467d0e2cf1084f353ab9eff53f627d33589e8bcbe4851162": {
   "created_at": "2025-10-10T19:26:55.526564Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -926,6 +944,7 @@
   "created_at": "2026-09-02T19:39:29.120827Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-22 House election by 12% or more?",
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
@@ -1505,6 +1524,15 @@
   "revisions": 1,
   "sha256": "493694adc6a0a1ec2df43d9e0e30b9a535bdf7042a9219ee6363621d35942b14",
   "slug": "will-jake-ferguson-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-yards"
+ },
+ "0xebfae0034d7ac48f660754083b23a0192c5407ed49e26504ee62322d75f04f62": {
+  "created_at": "2026-10-26T06:00:10.333742Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 5 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-5-3"
  },
  "0xecd58abfe20f6ec631a143e3b973233c49ca3769af5cb49dc5a3d7fc163d9a62": {
   "created_at": "2026-07-28T03:01:35.044271Z",

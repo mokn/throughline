@@ -421,6 +421,15 @@
   "sha256": "52ba84dfb2c136c03b450f9b654d32fd80ae202c038e113ea8b65fbf15c4de3f",
   "slug": "will-mark-andrews-be-the-highest-scoring-te-of-the-2026-27-nfl-season-20260806224131157"
  },
+ "0x4a70b9d52e7673a5592854de5815bff477b95a36357e0a26833892e22dfe772f": {
+  "created_at": "2026-10-26T06:00:09.24512Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 1 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-1-3"
+ },
  "0x4b6a5345f4305acb0a5cc8c04ada0f4a35a43e41c17b4b2ecc696a60db83c32f": {
   "created_at": "2026-08-07T20:30:17.028453Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -912,6 +921,7 @@
   "created_at": "2026-10-07T19:37:13.007643Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Next James Bond announced by March 31, 2027?",
   "revisions": 1,
   "sha256": "67fd95d32f2bd3831d515c6fb241e59b1b14a968e17034da519a71a61a106009",
@@ -1146,6 +1156,7 @@
   "created_at": "2026-08-05T18:37:33.227514Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 Florida gubernatorial election by 18% or more?",
   "revisions": 1,
   "sha256": "d56c5e351d86a1644f1006c899bafc8bd77b029ee5f3237ae59d127d765fc478",
@@ -1236,6 +1247,7 @@
   "created_at": "2026-08-07T20:17:56.31129Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-23 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "734a82d00cd0ffdcb8b30ba15f83067e652d2b836bc7d4cc9693304fcb819909",

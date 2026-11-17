@@ -111,6 +111,7 @@
   "created_at": "2026-05-18T16:26:44.853845Z",
   "first_seen": "2026-11-09T16:19:26Z",
   "last_changed": "2026-11-09T16:19:26Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Nicholas Hoult announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -1666,6 +1667,15 @@
   "revisions": 1,
   "sha256": "e8730c763cda11043750fcef65cbcd79d101d90652b7565f73997e51ff8adddb",
   "slug": "will-hajduk-split-finish-9th-24th-in-uecl-league-phase"
+ },
+ "0xeb5cf0ef5953a5d3bc98f4066def7ac8b1fe85a8a1982add4b53b87826695cc9": {
+  "created_at": "2026-11-16T22:19:26.993956Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Jon Ossoff Democratic nomination odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "56334782f3733c279759730837b8c013b44eb11981010d1474b01d78dd00e020",
+  "slug": "jon-ossoff-democratic-nomination-odds-leader-on-december-31"
  },
  "0xec1543346319ad6b19bf3f063eabeb731f1beeebb901ab8dcbeabc9eb4472dc9": {
   "created_at": "2026-01-28T15:29:18.895324Z",

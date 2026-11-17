@@ -296,6 +296,7 @@
   "created_at": "2026-09-09T15:40:58.816383Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Netherlands be relegated from Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",
@@ -602,6 +603,15 @@
   "revisions": 1,
   "sha256": "8bb50e7fce7edcec50a9aebdc55fa9305093f23ce4165d442847bbecc400efd0",
   "slug": "will-tyson-bagent-be-the-highest-scoring-qb-of-the-2026-27-nfl-season-20260806224129853"
+ },
+ "0x5bbc8ea6237f243c588b0c81e494c1066619cea14c5b8ec2adfc02da9cda4450": {
+  "created_at": "2026-11-16T22:29:12.761058Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Tucker Carlson Republican nomination odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "cb5789a6171e607b45f2fbc26336385440c861306d82f096bbdd6571ce628662",
+  "slug": "tucker-carlson-republican-nomination-odds-runner-up-on-december-31"
  },
  "0x5c32d8a2cd3392933e76207f92d558b100f91df81f9fab1521d2b6f0dc208c50": {
   "created_at": "2026-08-21T17:37:11.105085Z",

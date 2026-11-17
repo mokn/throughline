@@ -45,6 +45,15 @@
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
   "slug": "will-necaxa-finish-2nd-in-the-2026-liga-mx-apertura-20260722170637356"
  },
+ "0x050b2ba6e8ea2a620b16dddfa016f0828f46fa39712b386ec9c8dcedc1557678": {
+  "created_at": "2026-11-17T02:43:41.353047Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Alicia Vikander announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "alicia-vikander-announced-as-next-bond-girl"
+ },
  "0x0532d04a996e9adebfe9e34fa697d04fd46423a7edf23e47d11bfea735526178": {
   "created_at": "2026-08-05T20:17:46.437404Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -588,6 +597,7 @@
   "created_at": "2026-08-07T20:09:31.009695Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-05 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "342f401747b36d3498edb5a89d7f4794cee629a823fef5fbbd46555514d2dd2a",
@@ -1123,6 +1133,7 @@
   "created_at": "2026-10-03T15:44:20.267648Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the USS George Washington depart CENTCOM by November 15, 2026?",
   "revisions": 1,
   "sha256": "082e96e6ce4ff25ffccff01f96f6deb252a29b6a90803c6ae10cd73041b8c919",

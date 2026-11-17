@@ -135,6 +135,15 @@
   "sha256": "63555ee9368c361f7b0061f107e9a1df68a820dafbfafe3a56d5e5721a00d58e",
   "slug": "2027-soccer-ligue-2-runner-up-red-star-fc"
  },
+ "0x103fbb7b0657efd0c7514ef4f3b17335585aa92179e5748b25b441897b8c3377": {
+  "created_at": "2026-10-25T06:00:38.098613Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 0 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-0-4"
+ },
  "0x11225a3045b38b1182ca4838aff95038b9ad4e8f16d4cefc63747ec1d1b89f77": {
   "created_at": "2026-10-11T11:46:11.630979Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -879,6 +888,7 @@
   "created_at": "2026-05-18T16:26:41.247203Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Josh O'Connor announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -1111,6 +1121,15 @@
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-ruler-have-the-most-kills-at-worlds-2026"
  },
+ "0xa4233a01ab4c20fd41ad24f27d3356d80b955953dc978fa78eb524b8d2b97377": {
+  "created_at": "2026-07-18T20:23:10.967171Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Robert Pattinson be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-robert-pattinson-be-the-1-searched-actor-on-google-this-year-20261116220000012"
+ },
  "0xa51e8751d5b1383d11caea4f3d15c28d53a40ef29fa84b2f25d46cc7ec296d77": {
   "created_at": "2026-09-18T00:05:17.381191Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1160,6 +1179,7 @@
   "created_at": "2026-07-29T16:19:19.474306Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Jannik Sinner be Number 1 on the End of Year ATP Rankings",
   "revisions": 1,
   "sha256": "41020caaab65add9925250f99f0cbcfbcee210a15df386cdcfbad42629f352ac",
@@ -1521,6 +1541,15 @@
   "revisions": 1,
   "sha256": "f8ee655669af8304c9c1c5981ffe2d47e4ab8ada93e1493f8ba3733fab75f4b5",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-montana-be-600000-or-more"
+ },
+ "0xdb6a3c56e35cb7e4b5758125020832536a643e500af5e03f0a76ba15c53d8377": {
+  "created_at": "2026-10-25T19:00:16.739808Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "aa957596ca334187eef610417eb0f4a28aa39927145fe8e87120e23cb5cf95ba",
+  "slug": "es2-gra-cdt-2026-11-07-btts-first-half"
  },
  "0xdbedf21004c0a63acac5144d05fe316c1fc04cbbadc12f172726234377f71277": {
   "created_at": "2026-09-09T15:41:14.645747Z",

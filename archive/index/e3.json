@@ -900,6 +900,7 @@
   "created_at": "2026-09-02T19:39:23.004764Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-25 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "f74b5eb2a97d9931d3b07cc880db532069ee53004d9f63337e8989e5b20409c5",
@@ -1160,6 +1161,15 @@
   "sha256": "548dd55d7e4bb55627b37ae84a18961b17affb7e5732d8a04af43bd657ebc6fd",
   "slug": "will-ouras-market-cap-be-between-17pt5b-and-20b-at-market-close-on-ipo-day"
  },
+ "0x9a97907c2713de4a8820cdd9b4dc91e1011d39c8b2f2304f128db1709bb937e3": {
+  "created_at": "2026-10-26T19:00:41.685131Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: RCD Mallorca O/U 0.5",
+  "revisions": 1,
+  "sha256": "fb4366d1448149b681af279431f15c107292b40566a2e9ef1ca51e7f0d0fad24",
+  "slug": "es2-and-rm-2026-11-08-team-total-away-0pt5"
+ },
  "0x9aa7057ff4e5023ffc4b6ffdcf76bb5c2d446eba515869a8eafc0424b22ad1e3": {
   "created_at": "2026-09-17T21:59:58.891064Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1349,6 +1359,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-north-carolina-have-more-than-6pt5-wins-during-the-2026-cfb-season-20260810194027899"
  },
+ "0xb0764c06c8c483f94fdcc6b5e6288e42e1c9c549b4b1332f57936e8c183ba4e3": {
+  "created_at": "2026-11-16T22:04:45.71398Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Mexico GDP growth in Q4 2026 be between 1.5% and 2.0%?",
+  "revisions": 1,
+  "sha256": "c3fe405c035fde2e1c392e246e05f38f6af21934841f1d92b8d7c3619d38ac27",
+  "slug": "will-mexico-gdp-growth-in-q4-2026-be-between-1pt5-and-2pt0"
+ },
  "0xb30d1bfabebc10536bb8895003afff7f5e0c34f0966cc7a037ac99cc3dbb34e3": {
   "created_at": "2026-09-20T08:44:33.208442Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1435,6 +1454,7 @@
   "created_at": "2026-08-07T20:17:55.148218Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-21 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "dc057930c93edea9f8fb3d5a6795dd3588964cffdda91bd94430f7aac935c025",
@@ -1525,6 +1545,7 @@
   "created_at": "2026-08-07T20:13:31.887487Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-11 House election by 21% or more?",
   "revisions": 1,
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",

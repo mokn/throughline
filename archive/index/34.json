@@ -36,6 +36,15 @@
   "sha256": "ea7e8b84e5c1b56e3bd244213189ca9ff73a0474964e7ea8092cc0b612b73358",
   "slug": "will-the-republican-party-win-the-pa-06-house-seat"
  },
+ "0x0b5efeb9932ea1a94bf61e758ac7335481f71699cb6cec5d6f788a624ab2e434": {
+  "created_at": "2026-11-16T21:38:40.233062Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Anthropic IPO first-day pop above 100%?",
+  "revisions": 1,
+  "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
+  "slug": "anthropic-ipo-first-day-pop-above-100pct"
+ },
  "0x0bb6af0a34b81bf0c28f0d15d1f78bc7ece142bf1fba9185055c4be02daa3f34": {
   "created_at": "2026-08-12T17:29:51.641054Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -471,6 +480,15 @@
   "revisions": 1,
   "sha256": "1c4315489ce4e8517d1206709ff5d9279d9942f8fc701a6e612a7c5936d15581",
   "slug": "saturn-fdv-above-300m-one-day-after-launch-20260623191424370"
+ },
+ "0x589e1d9523f040eecb3c34bb5ee57b03fb322c2843430093794d3a5957bb1334": {
+  "created_at": "2026-10-24T19:00:14.529902Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: CD Castell\u00f3n (-1.5)",
+  "revisions": 1,
+  "sha256": "b9944a5ad6a62d554e54268f8771dbe5295e412dbed17dbb531f51584b9da117",
+  "slug": "es2-cas-eib-2026-11-06-spread-home-1pt5"
  },
  "0x5b5655a8be3bc996b0b9a58b8b2812ec59411d0755e9b22618d7cc7919f29c34": {
   "created_at": "2026-08-10T23:56:44.755581Z",
@@ -1023,6 +1041,7 @@
   "created_at": "2026-08-07T20:09:45.66717Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-06 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "c50166fef448bf7f717c32efa095d73d36a84aa350584c617c6fa598c8625600",
@@ -1078,6 +1097,7 @@
   "created_at": "2026-03-26T16:07:56.978002Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Austin Magee be the Republican nominee for LA-05?",
   "revisions": 1,
   "sha256": "3f426d24b9113d9c70ac71a61a008a5fea591680417aba687973dd65b834a2a4",
@@ -1268,6 +1288,7 @@
   "created_at": "2026-08-11T00:14:01.103647Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Enrico Schult be the next Minister-President of Mecklenburg-Vorpommern?",
   "revisions": 1,
   "sha256": "9083543ff2d2336602241ba26f347da6e2292da52f48732df62e84b5a0779894",
@@ -1512,6 +1533,7 @@
   "created_at": "2026-09-02T19:39:28.760311Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-22 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",

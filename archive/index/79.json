@@ -199,6 +199,15 @@
   "sha256": "84eaf53c7d8cda850ab134fb83b6c122534d397b075c494a5f6a288ea9cdade6",
   "slug": "will-matt-prater-finish-as-a-top-5-k-in-the-2026-27-nfl-season"
  },
+ "0x198074801a92d2854c7f0f4a313c71f00474b0b0e28bb3c43f23b671eef02b79": {
+  "created_at": "2026-10-24T19:00:18.281778Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "9ae5202ab364bacd5c54b3cf2f41531919942fbc4b78fc869376017b97b5bb53",
+  "slug": "es2-cas-eib-2026-11-06-first-half-total-1pt5"
+ },
  "0x19b4e6917873b684d15829035c2cbefba3a2d867bd7e7dd2a7877838ad342b79": {
   "created_at": "2026-08-05T18:46:31.788273Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -244,6 +253,15 @@
   "revisions": 1,
   "sha256": "f6b23bbcd9d3e8f36b4d0766ac719bde79d4cd2ebafd47f36f0f7b5594c3223f",
   "slug": "will-the-2027-big-game-national-anthem-last-at-least-150-seconds"
+ },
+ "0x24fc45eaa51237b70086603f7950eae748186eadc31f41def9aa83dc1896bd79": {
+  "created_at": "2026-10-26T19:00:45.054906Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: RCD Mallorca 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "03b85d45db5dce4cd493a72d2b6242964ba96ac0f0733d50960d1ef288938db2",
+  "slug": "es2-and-rm-2026-11-08-first-half-team-total-away-2pt5"
  },
  "0x26c22ad6113e81a58e267f2ff4f9f45b6632f1162c2ab7521bb9c59f8a030a79": {
   "created_at": "2026-11-02T18:37:10.367837Z",
@@ -1234,6 +1252,15 @@
   "sha256": "cff6947d096b10f359e5f269e7c8906c8fcd76954d1d2f6a86cdac69dea26e3d",
   "slug": "aapl-above-320-on-november-30-2026"
  },
+ "0xd1731317da9f04a1a886ae689a0f6d885b2919127e65aebfbb56ca9ff7b2f679": {
+  "created_at": "2026-10-26T06:00:09.446464Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 0 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-0-5"
+ },
  "0xd279b86c66404ea1320dc216f022450d39274f5d346efc81538d8f48cbec9079": {
   "created_at": "2026-10-22T17:37:50.028216Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1510,6 +1537,7 @@
   "created_at": "2026-09-09T15:41:00.284889Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Czechia be relegated from Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",

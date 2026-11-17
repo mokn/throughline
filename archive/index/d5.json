@@ -368,6 +368,7 @@
   "created_at": "2026-08-07T20:13:32.14951Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-11 House election by 18%-21%?",
   "revisions": 1,
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",
@@ -454,6 +455,15 @@
   "revisions": 1,
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-heat-vs-spurs"
+ },
+ "0x3f1265cc9876451a79396e0b69597d3fad88f6c03f35cd61485603863401bfd5": {
+  "created_at": "2026-11-16T22:18:13.32367Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Gavin Newsom 2028 presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "a055674fde15365a3d4cc3dc590bbc644b63df2a27ec95584e0e06a8e7579ce2",
+  "slug": "gavin-newsom-2028-presidential-odds-leader-on-december-31"
  },
  "0x40853ca0e3baa0a8e8843d692fe819caadf690fd0a255bd6d10554f31fc7aed5": {
   "created_at": "2026-04-23T13:42:25.000553Z",
@@ -1534,6 +1544,15 @@
   "revisions": 1,
   "sha256": "5e43c3006ed39280cd35241fdcbcafad13c4d5386a07123e0f77d091df2d50a1",
   "slug": "will-the-next-governing-coalition-of-new-zealand-include-labour-green-maori"
+ },
+ "0xdf347a0552367ee7a7b750d3e28a372c06a3b026a9fc6a6700934097bc8761d5": {
+  "created_at": "2026-11-17T02:43:40.495237Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Jodie Comer announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "jodie-comer-announced-as-next-bond-girl"
  },
  "0xe0283a9f829a2f1d7a3159a2521cee6aa23fa702d9d2da778f7165b09c050ed5": {
   "created_at": "2026-03-26T00:58:40.82836Z",

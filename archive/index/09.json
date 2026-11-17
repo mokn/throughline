@@ -118,6 +118,15 @@
   "sha256": "a1d54df8a9bba970c2a665a6fa20056889e7488231dd5c7d7aa9ab89d4b98c12",
   "slug": "2026-soccer-usl-league-one-runner-up-richmond-kickers"
  },
+ "0x1651654cff5bf93ed63b4f9cc15f6edb8527cfb8ebedf34e6bf20f8001d00b09": {
+  "created_at": "2026-11-17T00:58:53.697103Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Marine Le Pen French presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "cbd6afd90d621a76014b1527d80b4df2318a070c9e2ab2dba92e5b89ccf06ddf",
+  "slug": "marine-le-pen-french-presidential-odds-leader-on-december-31"
+ },
  "0x19fb690c9c17adaaec6bf1ac4773634a6cebded763cbbbb6d249bc504efd8d09": {
   "created_at": "2026-09-08T16:08:42.98703Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1609,6 +1618,15 @@
   "sha256": "5f06998fa121bfb0efb912ac694e15fd24aa2956122be5c310b946876f7a7b3d",
   "slug": "will-morena-win-the-most-seats-in-the-2027-nuevo-leon-congress-election"
  },
+ "0xfa0fb22692d8686e823ed8e496493945f77db4665738c4e39ad6a47bfa544b09": {
+  "created_at": "2026-11-16T22:29:15.212572Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Another candidate is the Republican nomination odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "cb5789a6171e607b45f2fbc26336385440c861306d82f096bbdd6571ce628662",
+  "slug": "another-candidate-is-the-republican-nomination-odds-runner-up-on-december-31"
+ },
  "0xfa1ee8fd7c9f7013134298f377181627976f266ddc6695f2d08bbab2692f8509": {
   "created_at": "2026-09-08T16:56:29.569277Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1704,6 +1722,7 @@
   "created_at": "2026-05-18T16:26:43.400505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Richard Madden announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",

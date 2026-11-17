@@ -278,6 +278,15 @@
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-anfernee-simons"
  },
+ "0x2e23012c9c8c417c645d9deafd1a1ee9a161195d679419d8d4212b3f5865eb2b": {
+  "created_at": "2026-10-25T19:00:19.836895Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: Granada CF 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "7db349556382ed3d0737561f311998b69e2a8ba146ea337eac6c6a74ef5ef2b3",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-team-total-home-0pt5"
+ },
  "0x2ea9ed6231918b22f056f77f5a43148c1e1b48ad439bb2f5b39f0d5c688cdc2b": {
   "created_at": "2026-08-18T14:27:32.648217Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -529,6 +538,15 @@
   "sha256": "ab070f9edbc6770f2f897c855b465fdf959964e6a752d252937c8ffc3e6e5afa",
   "slug": "will-miroslav-aleksic-win-the-next-serbia-presidential-election-20260629192336836"
  },
+ "0x4e21bf24f3fbbb441864607d0d88dd5f5a1c6cf4754145a4bdbf84fc77dd142b": {
+  "created_at": "2026-10-26T06:00:09.107075Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 2 - 1 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-2-1"
+ },
  "0x4e24d00a79e2d245223f9b7693d042892289629d5d4782391ff6ef9d85c1362b": {
   "created_at": "2026-10-13T19:59:45.862995Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -552,6 +570,7 @@
   "created_at": "2026-10-07T19:37:12.436856Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Next James Bond announced by December 31, 2026?",
   "revisions": 1,
   "sha256": "67fd95d32f2bd3831d515c6fb241e59b1b14a968e17034da519a71a61a106009",
@@ -1126,6 +1145,7 @@
   "created_at": "2026-05-18T16:26:42.492312Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Jack Barton announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -1163,6 +1183,7 @@
   "created_at": "2026-09-02T19:39:40.678332Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-12 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "37c643d524d48b69ab2b9b099818b83908bedd7d5ac72fadd91125634a2c0976",

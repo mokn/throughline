@@ -880,6 +880,15 @@
   "sha256": "e510213d6a925b4a6b975a14be3f6696264349cc20e6c5c096a698e61d989926",
   "slug": "will-salahdine-parnasse-fight-quillan-salkilld-next"
  },
+ "0x95c94d3f7425e444b5d9e3078bfea7bafa0e5989a59071612a10dd645d44e65b": {
+  "created_at": "2026-11-16T22:38:34.52143Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Germany GDP growth in Q4 2026 be at least 1.9%?",
+  "revisions": 1,
+  "sha256": "9d6aa2d35d6c956e16ecb33586f0f52873cee746bf958495ae6edc2660ca1dd5",
+  "slug": "will-germany-gdp-growth-in-q4-2026-be-at-least-1pt9"
+ },
  "0x95d8a0ac89f0a3ffa1784bb8bd4b066938c9d93d9a2cd8e72f7031b33abd275b": {
   "created_at": "2026-09-18T00:04:51.448254Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1497,6 +1506,7 @@
   "created_at": "2026-08-07T20:12:19.600972Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-08 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "5aca71f294755237b293068f75671907cfa8182af82ac5e0af5bf96b3a347d0e",

@@ -336,6 +336,15 @@
   "sha256": "4c30c97100d90b59951accf39da8b762970b37dac98d1752113c762fb37d32e5",
   "slug": "will-the-fed-decide-differently-in-the-next-three-decisions-sepoctdec"
  },
+ "0x36942e582d10a6c6b149e7218aa9caae9a1a2856badc45b633dde7ac1b3ea30c": {
+  "created_at": "2026-10-25T06:00:37.521153Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 0 - 3 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-0-3"
+ },
  "0x3783ea9a206f7f7ede99ed2becb0903f25c0cd43f807b26144a5e61207e2250c": {
   "created_at": "2026-07-08T21:29:03.51189Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1171,6 +1180,15 @@
   "revisions": 1,
   "sha256": "aafb3e584a4faba63595393e779f834897775d5348987627313cf77be50ab006",
   "slug": "will-sam-laporta-finish-as-a-top-5-te-in-the-2026-27-nfl-season"
+ },
+ "0xbaa37387dab5e2e62e770af257fa085bb72f4058dbd0071df3d48ae6ab198e0c": {
+  "created_at": "2026-10-25T19:00:17.067693Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "b22045e60916e551e6010f6368bc1deb0597a5910a2851aafcfe1fc37ec2fc22",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-total-1pt5"
  },
  "0xbb902c969579e07f3d6f9a7ca3ce5ce6804739568e9d8366bcb6461f0770fa0c": {
   "created_at": "2026-08-28T21:58:54.896506Z",

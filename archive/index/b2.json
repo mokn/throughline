@@ -675,6 +675,7 @@
   "created_at": "2026-09-02T19:39:40.327696Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-12 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "37c643d524d48b69ab2b9b099818b83908bedd7d5ac72fadd91125634a2c0976",
@@ -995,6 +996,7 @@
   "created_at": "2026-08-07T20:18:09.14765Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-24 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "9979a8f00af0d7ed9ff0c7dda6f355a71ca65f3da11299d55f61ccba9414d30c",
@@ -1059,6 +1061,7 @@
   "created_at": "2026-08-12T16:51:57.976099Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will V\u00edctor Julio Le\u00f3n \u00c1lvarez win the next Trujillo mayoral elections?",
   "revisions": 1,
   "sha256": "63eda5e9ca9c2b5e71cd13253dc1e2369904c3d9206d0964dc09972bd4793ddd",
@@ -1271,6 +1274,15 @@
   "revisions": 1,
   "sha256": "6ca1d6274fbaa52a0a48c645e8536532afdfab119380c2749865dfc11dc37600",
   "slug": "betclic-elite-2027-champion-limoges"
+ },
+ "0xa5e44c78e79706a5f825ce252916587d2235376ca416849fb6e81750430887b2": {
+  "created_at": "2026-11-17T02:43:37.420073Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Margot Robbie announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "margot-robbie-announced-as-next-bond-girl"
  },
  "0xa7b1b96a270491ed2297f4a8e7bbb9b70a489e467a2299d66cbb4dffe2de30b2": {
   "created_at": "2026-07-21T22:56:32.938508Z",

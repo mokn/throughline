@@ -171,6 +171,15 @@
   "sha256": "0784350b6ec0b766e4657a10833b672c3f32499b089c8ff459d288e455e58d84",
   "slug": "davante-adams-10-receiving-touchdowns-2026-27"
  },
+ "0x1bf6dab71fc66574e5047b1213f367a9d0f5e496f2c46a90e7c626dd4056dd24": {
+  "created_at": "2026-10-25T19:00:19.136797Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: CD Tenerife O/U 2.5",
+  "revisions": 1,
+  "sha256": "9219d7ee59556cea942467c19185a85f06724c50e9e1277c6cf43f421edd3926",
+  "slug": "es2-gra-cdt-2026-11-07-team-total-away-2pt5"
+ },
  "0x1db37629f70983da21eab4a4171fe5bac2b89c203f0085ebe32a9c536ee71d24": {
   "created_at": "2026-10-30T22:00:29.170206Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -268,6 +277,7 @@
   "created_at": "2026-05-18T16:26:41.537006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Timothee Chalamet announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -797,6 +807,7 @@
   "created_at": "2026-08-07T20:18:09.686061Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-24 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "9979a8f00af0d7ed9ff0c7dda6f355a71ca65f3da11299d55f61ccba9414d30c",
@@ -1087,6 +1098,15 @@
   "revisions": 1,
   "sha256": "fa7860a19c7590b49f634a4d18e90c2cb02cd2bb05872d8d8747defb57efe231",
   "slug": "will-the-democratic-party-candidate-win-the-2026-co-03-house-election-by-0-3"
+ },
+ "0x977ccdeb7d4991248723bae08108d1eb82f69452b98f757d1f123a10db64a024": {
+  "created_at": "2026-10-24T19:00:15.362397Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: SD Eibar (-3.5)",
+  "revisions": 1,
+  "sha256": "0c687748203287ce8387ab9cf56b13727c61972045c500030c57cd212cffbcad",
+  "slug": "es2-cas-eib-2026-11-06-spread-away-3pt5"
  },
  "0x97a6320c3f3491e370dc6f8db2f40f79ad0da9063ad2701e6b2a002a8973b824": {
   "created_at": "2025-11-05T21:38:30.782448Z",

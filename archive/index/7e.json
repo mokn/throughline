@@ -563,6 +563,15 @@
   "sha256": "3cd0b49dc8f2f90e1c410494822c3d5a06ab47cb74b3ae3740012c26e6e8cabd",
   "slug": "will-pp-win-the-most-seats-in-teruel-in-the-2026-spanish-general-election"
  },
+ "0x52913325ba7bfe341c2a237f72b3ef5e9903f7f024c40a75829f0376ddffa17e": {
+  "created_at": "2026-10-25T19:00:15.416922Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: O/U 2.5",
+  "revisions": 1,
+  "sha256": "f9db95f371d3f2ecf479cff057909f5dc75e4dd3d1aaa1eb2ed4405124c56838",
+  "slug": "es2-gra-cdt-2026-11-07-total-2pt5"
+ },
  "0x541d796c0b7c655dc4e5e163b6d8b84fe8a9f789b62dc7394131590f14a1707e": {
   "created_at": "2026-08-19T13:35:45.633589Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -594,6 +603,7 @@
   "created_at": "2026-10-25T04:01:06.757222Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $70 in November?",
   "revisions": 1,
   "sha256": "1ef0aa8dc3059377d8d4028031a31c768bb6c4fb67af919363aa483a1f960eb1",
@@ -644,6 +654,15 @@
   "revisions": 1,
   "sha256": "7a24a14e0028b9730c6235ea3f91630556148abac9a82c869e48388d5f706979",
   "slug": "will-the-republican-party-candidate-win-the-2026-ga-09-house-election-by-40-45"
+ },
+ "0x591b1ac2f5f62755482b2402f16a9857f779027dedb42dee6b3a12532712617e": {
+  "created_at": "2026-11-16T22:04:46.908957Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Mexico GDP growth in Q4 2026 be between 3.0% and 3.5%?",
+  "revisions": 1,
+  "sha256": "c3fe405c035fde2e1c392e246e05f38f6af21934841f1d92b8d7c3619d38ac27",
+  "slug": "will-mexico-gdp-growth-in-q4-2026-be-between-3pt0-and-3pt5"
  },
  "0x5c29e37f2e88f55d9ceb7b21e98a35229c0eae62d9cce73a7985ae442463a77e": {
   "created_at": "2026-08-12T17:28:40.852559Z",
@@ -700,6 +719,15 @@
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
   "slug": "2026-soccer-liga-profesional-argentina-winner-newells-old-boys"
  },
+ "0x6891b70f6bd02fe612095eb94538157b02d7931530acabe987a5054fa5a93d7e": {
+  "created_at": "2026-10-25T19:00:17.642555Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "54127e644d246cfa6bbdb224013300ab1aee012e59283c157c6c54d2a0527258",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-total-4pt5"
+ },
  "0x6e322ab03a0c2ddd1886eb21cff70637a2e61b2dc6c5d12df3dfad3e808ad37e": {
   "created_at": "2026-09-02T19:39:44.961926Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -717,6 +745,15 @@
   "revisions": 1,
   "sha256": "4bc356e5e07fa3f05f2aaf5069ea488250240ca9031ac917cffd377bf5624ad4",
   "slug": "will-ausar-thompson-be-named-to-the-2027-nba-all-defensive-first-team"
+ },
+ "0x72fb845939bf3296d676551d62775d533b9e6f9a11bbc3a7b4e391e218659c7e": {
+  "created_at": "2026-10-26T19:00:40.889561Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: FC Andorra O/U 3.5",
+  "revisions": 1,
+  "sha256": "c642d55c149e1ea9e2de9473034edfda50b7035ae6c050a6c598708873d5b161",
+  "slug": "es2-and-rm-2026-11-08-team-total-home-3pt5"
  },
  "0x73c5afeb6968890dda49cdbf998fb64b8692aaa108d8a49116887dda2fad9d7e": {
   "created_at": "2026-09-27T20:12:43.766941Z",
@@ -925,6 +962,15 @@
   "revisions": 1,
   "sha256": "8ded059cf267e615ccfe6a1f5e27337406924aa1ce8579a9b47daeba3b95e9fc",
   "slug": "will-aapl-reach-400-in-november-2026"
+ },
+ "0x9f9c5498edf0836b16d8cf7f369056877c4b80d8fd9521a908f5709c2311607e": {
+  "created_at": "2026-10-26T06:00:10.384008Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 4 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-4-5"
  },
  "0x9fc7d692127d751bf05a55d520eef40ec0844567eed6e6cb1e90b804031de17e": {
   "created_at": "2026-10-02T14:05:33.12271Z",

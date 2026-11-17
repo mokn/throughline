@@ -310,6 +310,15 @@
   "sha256": "552fb2252065ac0f2c1752e8e2022501f1c3cb5c162f9fecb44cb2d01a51697d",
   "slug": "will-the-next-russia-ukraine-senior-diplomatic-meeting-take-place-in-germany-by-december-31-2027"
  },
+ "0x327cb7949a613357d3ebccff20cec09f411780a76734519d50204dfcdccbb75e": {
+  "created_at": "2026-11-16T22:04:46.531733Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Mexico GDP growth in Q4 2026 be between 2.5% and 3.0%?",
+  "revisions": 1,
+  "sha256": "c3fe405c035fde2e1c392e246e05f38f6af21934841f1d92b8d7c3619d38ac27",
+  "slug": "will-mexico-gdp-growth-in-q4-2026-be-between-2pt5-and-3pt0"
+ },
  "0x34a601eaa20f2496b51cad1d847e9569b90ceaea2cf2ad2ac7cacb8cdca5185e": {
   "created_at": "2026-09-30T20:03:41.423608Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -875,6 +884,15 @@
   "revisions": 1,
   "sha256": "0fba60e03908266ebca3e0912823008f81e7c17727c2f01637efc1e4a2c23df0",
   "slug": "will-elon-musk-be-the-1-searched-person-on-google-this-year-20260717214426271"
+ },
+ "0x949321d9722985840ee4897aa8eb4a3c3ed07f40c222608591f6690a2a8cea5e": {
+  "created_at": "2026-10-26T06:00:10.558456Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-any-other"
  },
  "0x94e1d1a93148ef7fac8243fa5f29128ce432c07e2dbdee0fab9d272f686a155e": {
   "created_at": "2026-09-02T19:31:44.868124Z",
@@ -1506,6 +1524,15 @@
   "sha256": "627501154c969ab6caff38f4adc11dc3c9cec91088b9481873aff160ebef17bc",
   "slug": "2027-year-end-world-no-1-golfer-wyndham-clark"
  },
+ "0xe6934ed9b4bee6f65fe7e555e35e0d9f05f62a7772164f673d537a4ba8d7975e": {
+  "created_at": "2026-07-18T20:23:09.601963Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Rebecca Gayheart be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-rebecca-gayheart-be-the-1-searched-actor-on-google-this-year-20261116220000006"
+ },
  "0xe698e41c68b661629ac3283580cc5cea65895542296c01f31e5415abd848035e": {
   "created_at": "2026-08-12T14:54:25.658301Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1547,6 +1574,7 @@
   "created_at": "2026-08-07T20:16:50.973774Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-16 House election by 6% or more?",
   "revisions": 1,
   "sha256": "7ab7ada8d01dc1940077138d1f10a4cefbffcc05ce952509c7fd15e8ba0b85d3",

@@ -912,6 +912,15 @@
   "sha256": "3791c4cf5fb482ac2306d82e68c0258b7b62392fce98f85483c7350bfd9f7723",
   "slug": "will-the-kt-wiz-win-the-2026-korean-series"
  },
+ "0x97608f434cfd27b7f45c183040cbf4fe78b36d2813da15280cdca1f763cd1814": {
+  "created_at": "2026-10-26T19:00:36.313269Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: FC Andorra (-3.5)",
+  "revisions": 1,
+  "sha256": "682e19629000ce1b0f0c4b16eceeac4ba002ea21eb539037e7efef07eb5c6323",
+  "slug": "es2-and-rm-2026-11-08-spread-home-3pt5"
+ },
  "0x9ae34e60757cd07f53a2aa58ed2dd1b1707bc7b26742e56f16bf3da3bc680a14": {
   "created_at": "2026-11-13T00:29:27.522622Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1573,6 +1582,7 @@
   "created_at": "2026-08-07T20:18:19.384016Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-28 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "c1aee09eb4f9d7ba6be92b29791a34b1ff8d949a062b8e946b0670054ffaaaca",

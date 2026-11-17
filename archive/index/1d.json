@@ -109,6 +109,15 @@
   "sha256": "80107bb2684b91ccda1faa573f95c933f41aa6757d1fae792047e4ab5d7d788c",
   "slug": "cze1-fsl-fbo-2026-10-24-team-total-home-3pt5"
  },
+ "0x1197c9e8ff38a5709c0e3b93180109d572653b6305dccf6db336b6485c69941d": {
+  "created_at": "2026-11-16T18:47:01.886025Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "27-29 votes for Chris Van Hollen for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "2c2e348be86bd282d38b9736b960acc70f9928b8acbcf43c4b88421de2ff8510",
+  "slug": "27-29-votes-for-chris-van-hollen-for-senate-democratic-leader"
+ },
  "0x14a9884d62c06e12ff1cbd2f29ae92f3e43adafb90a158955e5ea2c08b84ff1d": {
   "created_at": "2026-08-05T16:23:29.441045Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -353,6 +362,15 @@
   "revisions": 1,
   "sha256": "70b22d9bfe11a2df2a6f215bcd0307259afd6e4c19f72c9bc2d527e9882c809c",
   "slug": "will-the-democratic-party-candidate-win-the-2026-colorado-gubernatorial-election-by-30-35"
+ },
+ "0x33e4f082699175fa312660666b7a91846a9c7ca2c30a8c6dbab080ee0b11561d": {
+  "created_at": "2026-10-24T06:00:12.713886Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 5 - 1 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-5-1"
  },
  "0x3484d403875c78b521c0dafe5fc6d41431d6be279bece97943fe63c04345d01d": {
   "created_at": "2026-09-29T00:12:15.893318Z",
@@ -810,6 +828,15 @@
   "revisions": 1,
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
   "slug": "will-carlo-ancelotti-be-the-next-permanent-manager-of-manchester-united"
+ },
+ "0x6c6ba7b23d9501431b9f7a0d40d2ce11fad862654413a068f6450eb7a791e61d": {
+  "created_at": "2026-11-17T02:43:44.786731Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Isabela Merced announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "isabela-merced-announced-as-next-bond-girl"
  },
  "0x6dcfdb2ea6a557609991bbd17252d68906c0aa63c0eab29381c55505e6ebaf1d": {
   "created_at": "2026-10-05T15:17:22.988291Z",
@@ -1515,6 +1542,7 @@
   "created_at": "2026-05-18T16:26:38.928986Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Pierce Brosnan announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",

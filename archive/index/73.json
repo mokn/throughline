@@ -57,6 +57,7 @@
   "created_at": "2026-08-07T20:09:30.285426Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-05 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "342f401747b36d3498edb5a89d7f4794cee629a823fef5fbbd46555514d2dd2a",
@@ -910,6 +911,15 @@
   "sha256": "fbf35ca928089c9192477c621f704c97aab1dc6d359787203785d2f6fd788d0b",
   "slug": "will-sauce-gardner-win-the-2026-nfl-defensive-player-of-the-year-award-for-the-2026-27-nfl-season-20260716005216728"
  },
+ "0x7901fc349c7b816b81ab61a4b2b62ebe9320e3a95bb10cf598920489cd3acb73": {
+  "created_at": "2026-10-26T06:00:06.069789Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will FC Andorra vs. RCD Mallorca end in a draw?",
+  "revisions": 1,
+  "sha256": "8cdd11593fb63d0259dbbb2b7780d0f15d512d06cb348d24e718956c295b99e4",
+  "slug": "es2-and-rm-2026-11-08-draw"
+ },
  "0x7e33a34c1905ea56df5e909d240adf3f1df85cd95200075173d72296a9bb4073": {
   "created_at": "2026-08-18T14:06:54.300701Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1361,6 +1371,7 @@
   "created_at": "2026-08-05T18:37:35.147225Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 Florida gubernatorial election by 3%-6%?",
   "revisions": 1,
   "sha256": "d56c5e351d86a1644f1006c899bafc8bd77b029ee5f3237ae59d127d765fc478",
@@ -1383,6 +1394,15 @@
   "revisions": 1,
   "sha256": "3a2287c69794667bcccbf22f6c18173730051d89e5759498e6f05dc12ff50744",
   "slug": "will-luka-doncic-win-the-2026-27-nba-mvp"
+ },
+ "0xc50dd88351a6cc1e7287205b8e8da9d978d35e47140a493a6b82facff9260b73": {
+  "created_at": "2026-10-26T19:00:44.558131Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: RCD Mallorca 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "751774355d827e45d713346427bffcbbc89ce34e42687f39e15e18c2d57a9500",
+  "slug": "es2-and-rm-2026-11-08-first-half-team-total-away-0pt5"
  },
  "0xc5ddf571ee38b766764e1f4de6b6786ea1714d6f0832bb2a404ddd535236ea73": {
   "created_at": "2026-06-24T16:22:34.542344Z",

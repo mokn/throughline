@@ -162,6 +162,15 @@
   "sha256": "a17e94af8fbd162b15cfb22cacabf890c750d09895c661fe5415b77fe946814b",
   "slug": "el1-oxf-rea-2026-09-08-corners-team-away-3pt5"
  },
+ "0x1892b9a89c717b67f0dba27ff65cee98cb65ad5e2c006bebe48d9fdfc4cfb039": {
+  "created_at": "2026-10-24T19:00:21.7832Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: SD Eibar 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "7fb270c24b26252c5f994e367df798f7e0d1ab91278eb922a99756e2376a8184",
+  "slug": "es2-cas-eib-2026-11-06-first-half-team-total-away-1pt5"
+ },
  "0x19e3ec12c316685131043f0905c8e79abf395c3035c29efe1c78d3b3eb538a39": {
   "created_at": "2026-08-24T16:35:04.582786Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -408,6 +417,15 @@
   "sha256": "b6c17b236c3ee1cc3efe5225b557298a09a9e87e5a2a17a4fd5bf9806e016370",
   "slug": "will-democrats-win-10-or-more-house-seats-in-michigan-in-the-2026-midterm-elections-20260811010742483"
  },
+ "0x424c0a717baeb23739660c7795e720dea0925c6259f95bc12aa5405f94c3dd39": {
+  "created_at": "2026-11-16T22:04:47.697803Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Mexico GDP growth in Q4 2026 be between 4.0% and 4.5%?",
+  "revisions": 1,
+  "sha256": "c3fe405c035fde2e1c392e246e05f38f6af21934841f1d92b8d7c3619d38ac27",
+  "slug": "will-mexico-gdp-growth-in-q4-2026-be-between-4pt0-and-4pt5"
+ },
  "0x43878fe9645441fe1ae6b4eada260b6061ba5461a659193a9c72014761874c39": {
   "created_at": "2026-05-20T20:04:27.514211Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -479,6 +497,15 @@
   "revisions": 1,
   "sha256": "6d44d300d4a85c74ffc2b1736e521736045f35cc1779304b7956c213ba12c673",
   "slug": "will-the-ornn-b200-index-be-between-4pt50-and-5pt00-on-december-31-2026-20260709165336442"
+ },
+ "0x50e62a0c0512915658054cea8a313530a1cb3954018e606483016f811839f339": {
+  "created_at": "2026-10-25T06:00:41.712109Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 5 - 4 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-5-4"
  },
  "0x5108573ba7243cfc557664d47f2fcc9e2311ac4ef8721fac51f90b2aca9a0439": {
   "created_at": "2026-09-08T16:52:39.704179Z",
@@ -601,6 +628,7 @@
   "created_at": "2026-08-07T20:17:28.881481Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-18 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "422afe710ebce56a8660bf95f9b9c38d287e17dc22c176749bc09eedcccc667b",
@@ -1009,6 +1037,7 @@
   "created_at": "2026-11-12T20:22:17.440183Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will It's A Dying Art - Little Big Town win Best Contemporary Country Album at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "e25754767c3495a7b6d4486ada4480a4cdf15543176d078380db11ce4a604484",
@@ -1473,6 +1502,7 @@
   "created_at": "2026-03-26T16:07:55.633313Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Michael Echols be the Republican nominee for LA-05?",
   "revisions": 1,
   "sha256": "3f426d24b9113d9c70ac71a61a008a5fea591680417aba687973dd65b834a2a4",

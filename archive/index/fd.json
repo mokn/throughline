@@ -758,6 +758,15 @@
   "sha256": "b3edcc245bc81a4974e5881cbf334a2cda2ecf53908eaa0d0e31ed4cc2ccd47b",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-09-house-election-by-0-3"
  },
+ "0x6980243c37f38c8ca9c91ecea3c6ba36c396e01a8f63ac9760094eb3e813aefd": {
+  "created_at": "2026-10-24T06:00:13.12252Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 5 - 3 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-5-3"
+ },
  "0x6a1fe9c0964cbcd2feddb060a4db3c462d923cd1da2044bf43d29558840952fd": {
   "created_at": "2026-08-21T21:07:41.44035Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1272,6 +1281,7 @@
   "created_at": "2026-08-07T20:08:21.004022Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-02 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "dc9eea10dabfe5e08fdaef09014126fb2526c4a49151fbb78b53450ca2dede92",
@@ -1617,6 +1627,7 @@
   "created_at": "2026-08-07T20:09:31.605137Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-05 House election?",
   "revisions": 1,
   "sha256": "342f401747b36d3498edb5a89d7f4794cee629a823fef5fbbd46555514d2dd2a",

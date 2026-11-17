@@ -379,6 +379,15 @@
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",
   "slug": "will-nec-record-the-most-clean-sheets-in-the-uel-league-phase"
  },
+ "0x364a11b11e7a76c0130863ab9df88720aa0e893d61634541e33cb82d935bd9bd": {
+  "created_at": "2026-10-26T19:00:38.961167Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "33978765501fc5e0f29dbb3cb015495fa28c68d6eb548274890fd02656f70315",
+  "slug": "es2-and-rm-2026-11-08-btts-first-half"
+ },
  "0x3756e06c58694dc2e52e53be26266ca6e790f2098d4bca078baa6bcb1fa290bd": {
   "created_at": "2026-01-28T15:41:24.990287Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -752,6 +761,15 @@
   "revisions": 1,
   "sha256": "a7c425a5705894caca1a2bfb817a93af8850e2115526ca0d2bf5fa949ec1aa28",
   "slug": "will-2026-be-the-third-hottest-year-on-record"
+ },
+ "0x7868e73dbbc9f4ff00ad402ecbd7bd09ad98ffbd47d8a7d30ad2de946cc9c3bd": {
+  "created_at": "2026-10-26T19:00:40.380463Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: FC Andorra O/U 1.5",
+  "revisions": 1,
+  "sha256": "e08c2859792375c584dbdf89a0592b32da74b1faf3f3c50ff5356ff81f7e8123",
+  "slug": "es2-and-rm-2026-11-08-team-total-home-1pt5"
  },
  "0x7965dbdffabae5d2e2dc85947206f98c805390cbd138f2fa2ffc5a7371276dbd": {
   "created_at": "2026-09-09T15:48:07.353846Z",

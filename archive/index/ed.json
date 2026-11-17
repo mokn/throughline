@@ -247,6 +247,7 @@
   "created_at": "2026-09-09T15:18:06.324378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Germany win 2026-27 Nations League Group A2?",
   "revisions": 1,
   "sha256": "f37557fc5b8dda25af458ddd0ff2a861844b09431d82867396871795bda32673",
@@ -393,6 +394,7 @@
   "created_at": "2026-03-26T16:07:57.488184Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Michael Mebruer be the Republican nominee for LA-05?",
   "revisions": 1,
   "sha256": "3f426d24b9113d9c70ac71a61a008a5fea591680417aba687973dd65b834a2a4",
@@ -1176,6 +1178,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-lebron-james"
  },
+ "0xb5c5b74ccd390d3aefd3221324d8181d5d36d26f8f42d45477332be2e75958ed": {
+  "created_at": "2026-10-25T06:00:39.286257Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 4 - 1 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-4-1"
+ },
  "0xb6beea6e658f436944f9667e89fee3e49f52f2b6a149b59e18addc793133e6ed": {
   "created_at": "2026-07-30T20:45:49.153716Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1572,6 +1583,7 @@
   "created_at": "2026-08-07T20:12:18.785133Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-08 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "5aca71f294755237b293068f75671907cfa8182af82ac5e0af5bf96b3a347d0e",

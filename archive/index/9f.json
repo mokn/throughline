@@ -63,6 +63,15 @@
   "sha256": "91fee8b4249261af515f2376a98b173f14f8bb40b9cb22a5fb229399d3892c95",
   "slug": "will-az-reach-the-2027-uefa-europa-league-quarterfinal"
  },
+ "0x04e596c2896c00e3038a04e21d32bc099478e2b3b12eb2f9b0744ef387f0eb9f": {
+  "created_at": "2026-11-16T22:29:11.906148Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Ron DeSantis Republican nomination odds runner-up on December 31?",
+  "revisions": 1,
+  "sha256": "cb5789a6171e607b45f2fbc26336385440c861306d82f096bbdd6571ce628662",
+  "slug": "ron-desantis-republican-nomination-odds-runner-up-on-december-31"
+ },
  "0x07e6b78d86d5da2ddcefdbf8623e429fb00e4b679ae418b698b4839900a25c9f": {
   "created_at": "2026-10-15T17:01:37.663521Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -381,6 +390,15 @@
   "revisions": 1,
   "sha256": "793aed2d90a4e46797cfe0f747d49d077abe1fa5e0222ac234516893cece0335",
   "slug": "italy-serie-a2-2027-champion-new-basket-brindisi"
+ },
+ "0x30f10d5d7e320fa22cfcd76692c9e4fd46553bd2e3d410cd29ee28ccc87d0c9f": {
+  "created_at": "2026-11-16T18:46:32.21129Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "18-20 votes for Chuck Schumer for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "e111f46fc9dc64a6a1024c0fe9efb3b1e41d753a522bb0229a5d10d11ae987be",
+  "slug": "18-20-votes-for-chuck-schumer-for-senate-democratic-leader"
  },
  "0x310d40d4de5d8a6530f4eaecde8ed8aefb1c1744e52158e7179d3f162f5d459f": {
   "created_at": "2026-08-10T15:02:25.564477Z",
@@ -828,6 +846,15 @@
   "sha256": "8537551c9b3119014e67cd3bba0e6b2cd02829422578865cc08d74d6f6b8edd8",
   "slug": "will-dont-be-dumb-aap-rocky-be-the-top-spotify-album-for-2026"
  },
+ "0x7840944fbe84b7547f2f4e7f4671db578d6ea68fa06db2d72170f5ba95798d9f": {
+  "created_at": "2026-11-16T15:51:40.510131Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Megaspeed added to the Entity List by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "231db2563d9b943370b9ed8dfe8dfdcd55d13b25596a9df668197bda99c2af1b",
+  "slug": "megaspeed-added-to-the-entity-list-by-march-31-2027"
+ },
  "0x78d812fd95a13db59599463ffc24ffb6a21d3ff856740e12d9ef64371cd0039f": {
   "created_at": "2026-10-01T14:27:26.940304Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1121,6 +1148,15 @@
   "revisions": 1,
   "sha256": "9b661d6a459b9913e288101eeb35881a4bfd6debeb900cf3f2f3f7b9632ed534",
   "slug": "will-the-gilded-age-win-best-television-series-drama-at-the-84th-golden-globes"
+ },
+ "0x9b8cbfb4309c8ffbd4a412e3ab3d0c6759681470aebe9e0724cdf9bcefc3479f": {
+  "created_at": "2026-11-16T21:32:27.724005Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Jared Kaplan ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-jared-kaplan-ring-the-bell"
  },
  "0x9c3f6c37d5ebe7b7de5324a14a5f3f8908d5869cbd38b1ae9adb3d25e9005f9f": {
   "created_at": "2026-08-21T21:01:40.286379Z",
@@ -1698,6 +1734,7 @@
   "created_at": "2026-05-18T16:26:43.690201Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Jack O'Connell announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",

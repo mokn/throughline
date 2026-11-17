@@ -235,6 +235,15 @@
   "sha256": "261a2f47023039da0d622b4a20e5f52aade87874651a91bb4940f3da201d30bf",
   "slug": "el1-bra-bar-2026-09-26-total-4pt5"
  },
+ "0x27646f13f1c40a34a8ffe816bd1a8cbe9a4e5103d0971606d934996c8c01eaf0": {
+  "created_at": "2026-10-26T19:00:40.6015Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: FC Andorra O/U 2.5",
+  "revisions": 1,
+  "sha256": "28242ae4f7681bcb2da0d22f1af6f42dedf492e3792968e18e3878bd8a0ecb11",
+  "slug": "es2-and-rm-2026-11-08-team-total-home-2pt5"
+ },
  "0x27a2e6e20dc1f00f9492e0e8c5720ceabcae474343b67c48caef87e1acefd4f0": {
   "created_at": "2026-09-14T20:34:25.091353Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -252,6 +261,15 @@
   "revisions": 1,
   "sha256": "07fa6c93886e79a7dcc75aea4cd065793327718a75d9aa6d119a60769be0a057",
   "slug": "nba-2026-27-most-improved-player-egor-demin"
+ },
+ "0x29a351b6816b4f0c5f2a6dbc3d933f8c1e9cec32e6f93c64e681ca98fcc65df0": {
+  "created_at": "2026-11-17T01:04:31.55779Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "You Can See Everything's Best Picture odds hit 40% by January 31?",
+  "revisions": 1,
+  "sha256": "f3550dda6948111b3bccc1b52672f91ca77cb0ce222b0498b8020c5a2188b8ca",
+  "slug": "you-can-see-everythings-best-picture-odds-hit-40-by-january-31"
  },
  "0x2a256c18683ff955f02072cd9969a52d5770b9301e3e557065330442d1c067f0": {
   "created_at": "2026-11-12T20:23:14.950804Z",
@@ -849,6 +867,7 @@
   "created_at": "2026-08-07T20:17:36.876174Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-19 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "f677600266a3b9d9018c0cf7ed5478fdb64c7d212843bd02d7592abf83aea263",
@@ -982,6 +1001,15 @@
   "revisions": 1,
   "sha256": "1ace4b32f9c32738d3f1348e008fe74e7d2fe098d93314bf2a0c4605ad7cc188",
   "slug": "clavicular-sentenced-to-prison-by-december-31-2027-248-151"
+ },
+ "0x9a9b4cbe3630baed8f1393166daeff474ff9c1100607879f31854536cfad66f0": {
+  "created_at": "2026-10-25T19:00:17.976829Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: Granada CF O/U 1.5",
+  "revisions": 1,
+  "sha256": "753ed77a251ddd4cc86492e4ff5590264cfcfd2444c3cbb2b748401a3b3e60d4",
+  "slug": "es2-gra-cdt-2026-11-07-team-total-home-1pt5"
  },
  "0x9ad2703bda0db27dff61e5823630255c8214a2d194c0bb4f8031ae694bda3ef0": {
   "created_at": "2026-09-27T20:10:32.810041Z",
@@ -1680,6 +1708,7 @@
   "created_at": "2026-08-07T20:18:08.559458Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-24 House election by 55% or more?",
   "revisions": 1,
   "sha256": "9979a8f00af0d7ed9ff0c7dda6f355a71ca65f3da11299d55f61ccba9414d30c",

@@ -48,6 +48,7 @@
   "created_at": "2026-08-05T18:37:34.172016Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 Florida gubernatorial election by 6%-9%?",
   "revisions": 1,
   "sha256": "d56c5e351d86a1644f1006c899bafc8bd77b029ee5f3237ae59d127d765fc478",
@@ -269,6 +270,15 @@
   "revisions": 1,
   "sha256": "53f2cccdd30dbf0bb4cea2f99e8b9fc7d6214c4e1a9821a8454c8f513dd6f1b8",
   "slug": "will-albacete-balompie-be-promoted-to-laliga-2026-27"
+ },
+ "0x38c3108ae200da6b73095e701699476d36242d1e9ba7b244ef3dc98de161d6fa": {
+  "created_at": "2026-11-16T18:47:03.333547Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "33-35 votes for Chris Van Hollen for Senate Democratic Leader?",
+  "revisions": 1,
+  "sha256": "2c2e348be86bd282d38b9736b960acc70f9928b8acbcf43c4b88421de2ff8510",
+  "slug": "33-35-votes-for-chris-van-hollen-for-senate-democratic-leader"
  },
  "0x39ce33f108ee81d0adff485caaa1c122b3950baa9c994bf25d768a7764c31bfa": {
   "created_at": "2026-09-08T16:55:56.300828Z",
@@ -883,6 +893,7 @@
   "created_at": "2026-08-07T20:09:12.74354Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-04 House election by 3% or more?",
   "revisions": 1,
   "sha256": "7ea99f1493e9c6ad31d152962955536fe614d7874014cef177759fefc2dd6dc4",
@@ -1234,6 +1245,15 @@
   "revisions": 1,
   "sha256": "6e4bff15c5a7af8a67a5c1527e1cf4b764e317d3d88e8d49213acd02b1496afa",
   "slug": "will-uruguay-be-removed-as-a-host-nation-of-the-2030-world-cup-20260807013851006"
+ },
+ "0xe451ee31a7fd0412ed8bd0197e10a46a30b47d3ab80f4f9b6692b64e8d51fcfa": {
+  "created_at": "2026-11-17T02:43:38.265848Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Inde Navarrette announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "inde-navarrette-announced-as-next-bond-girl"
  },
  "0xe5b46c674637d2bd8fd04841ec0dc0fe888ffcb5f3592f9d66c28fbe479ab1fa": {
   "created_at": "2026-08-11T19:10:45.25431Z",

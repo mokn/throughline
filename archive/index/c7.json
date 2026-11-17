@@ -641,6 +641,7 @@
   "created_at": "2026-05-18T16:26:43.076983Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Tom Francis announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
@@ -1102,6 +1103,15 @@
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
   "slug": "will-the-milwaukee-bucks-win-the-2026-nba-cup"
  },
+ "0xa706af3ef3b4a46d824cbac2602b24bba505199198f819cdb9a02a939c8181c7": {
+  "created_at": "2026-10-26T19:00:36.826208Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: RCD Mallorca (-4.5)",
+  "revisions": 1,
+  "sha256": "e9877b9cc530624d832b68ed4280c75d91f474b0e9693fbda9060e0a2c427ee0",
+  "slug": "es2-and-rm-2026-11-08-spread-away-4pt5"
+ },
  "0xac9d6105090f5e372ceb14422889be27f4a07a8b10497786d2df5946d0d7e9c7": {
   "created_at": "2026-02-25T17:02:30.337383Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1147,6 +1157,15 @@
   "sha256": "5a1d7fc71c89859ab56ab6b156676528e1839f9d29f303fe3347d0c8d187afac",
   "slug": "will-hong-kit-wong-qualify-for-the-2027-ppa-tour-finals"
  },
+ "0xb571dcb79b9182137ac1ffbc78d8b7fa752e584c7dbe77df69595b7c85c46ec7": {
+  "created_at": "2026-10-26T06:00:08.174197Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "d23d2fc60b8ccd88d863830d614384ee89097a1ed946a2fa3c80470189bdaafb",
+  "slug": "es2-and-rm-2026-11-08-halftime-result-draw"
+ },
  "0xb781dc1922c63ec03f4924b5204f4487502dbb89bff74ef8c77e73123f71c7c7": {
   "created_at": "2026-10-21T23:54:07.515875Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1164,6 +1183,15 @@
   "revisions": 1,
   "sha256": "18a3b551615721605acff21a8b0c544e4bd0d767be7a38b80bcfe45f75a565ba",
   "slug": "will-hazeem-gbolarumi-win-the-2027-oyo-state-gubernatorial-election"
+ },
+ "0xb9ec9cb8ee7aee34c40f070a6a9fe0307f150b509798e81d405c108f3b3de3c7": {
+  "created_at": "2026-10-25T19:00:19.305614Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: CD Tenerife O/U 3.5",
+  "revisions": 1,
+  "sha256": "9e279bd1d01b6b8c11b8cae876c9d032e97bcd808c82a48af56b00c7bed9a24c",
+  "slug": "es2-gra-cdt-2026-11-07-team-total-away-3pt5"
  },
  "0xbf5d3bd26bbe251d1833ae672a22af9ca9639d712a02f6900eeaa7cc7f5c80c7": {
   "created_at": "2026-10-18T23:30:34.963628Z",
@@ -1223,6 +1251,7 @@
   "created_at": "2026-08-07T20:17:07.43397Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-17 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "2ccc1fe7d774d9126bbb1e24fe4413fc21995baea9d3dc0aa677119715159a8d",
@@ -1329,6 +1358,15 @@
   "revisions": 1,
   "sha256": "719f12088384fa4eefb620cc5a0a1a706ae7c835d3a4e0952a0ff34fd5939e4a",
   "slug": "2026-soccer-uzbekistan-super-league-runner-up-agmk"
+ },
+ "0xddcf381c51fe43fb06b6dc4c5e91598ba6ed0c09373f0d178597deb64a2d4ec7": {
+  "created_at": "2026-11-16T22:19:34.938799Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Gavin Newsom Democratic nomination odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "56334782f3733c279759730837b8c013b44eb11981010d1474b01d78dd00e020",
+  "slug": "gavin-newsom-democratic-nomination-odds-leader-on-december-31"
  },
  "0xde1ef9bc7a26e29d6350309c98d90c1d2eff7bc4c1b5d72a1be6d921621bcac7": {
   "created_at": "2026-10-13T15:56:12.528123Z",
@@ -1461,6 +1499,7 @@
   "created_at": "2026-08-07T20:17:54.217732Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-21 House election by 30% or more?",
   "revisions": 1,
   "sha256": "dc057930c93edea9f8fb3d5a6795dd3588964cffdda91bd94430f7aac935c025",

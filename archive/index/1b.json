@@ -288,6 +288,15 @@
   "sha256": "29001f9c6837ddc04917634b467fae97bea6190b32eb291d5bc96a9a1020ebb1",
   "slug": "miguel-daz-canel-out-as-president-of-cuba-by-december-31"
  },
+ "0x2a37bb2948d12e45b6cb0e0ec6f2d261b11fecf09b4ffbe665879dbfb384541b": {
+  "created_at": "2026-10-24T19:00:20.910319Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: CD Castell\u00f3n 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "5e0a83118cc4d05d6a16c0bd8ace3cbfe1ae54ac558028cd367155724f27f74e",
+  "slug": "es2-cas-eib-2026-11-06-first-half-team-total-home-0pt5"
+ },
  "0x2aa90148368d08c27527b7a923d721679d20eb9461a2270047a948147e71cf1b": {
   "created_at": "2026-08-10T23:57:28.491544Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -602,6 +611,7 @@
   "created_at": "2026-09-02T19:39:31.946546Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-14 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "753a1fe4c0ada4460191187b737716f3f1f1ac479a1e437ba02ce3b3a1e3914a",
@@ -710,6 +720,7 @@
   "created_at": "2026-09-02T19:39:28.040979Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-22 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
@@ -995,6 +1006,15 @@
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
   "slug": "f1-las-vegas-grand-prix-driver-pole-position-piastri-2026-11-20"
  },
+ "0x8b142e040dd6c56f6a573f8290047ba185b4b9998425479bb23f133d084b131b": {
+  "created_at": "2026-10-24T19:00:15.873412Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: CD Castell\u00f3n (-5.5)",
+  "revisions": 1,
+  "sha256": "3c170dcc5f3fca53e887b0605a20ed60dc9fd4c4bcc0151bde5dd2c438976c45",
+  "slug": "es2-cas-eib-2026-11-06-spread-home-5pt5"
+ },
  "0x8c3c1be8bccd2cb34c0a1e2112574cfd7c421cfe71307ba6eeacca8b4373a61b": {
   "created_at": "2026-06-26T15:45:55.780754Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1031,6 +1051,15 @@
   "revisions": 1,
   "sha256": "a791833913fc859c72229ccc54ce293bc95a9d476cbc1f1a460f068f9d7a4999",
   "slug": "2027-soccer-ukrainian-premier-league-winner-kolos-kovalivka"
+ },
+ "0x921470fe327aa68b2af04d761d382d4914aec5b90482f3ae32a44257d1cbb21b": {
+  "created_at": "2026-10-26T19:00:35.992172Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: FC Andorra (-2.5)",
+  "revisions": 1,
+  "sha256": "f7100122afc9cdd572b6ce27dc18a6b026ba812ada383d4a2956862c832f5e10",
+  "slug": "es2-and-rm-2026-11-08-spread-home-2pt5"
  },
  "0x929b26b80723d86397a1956f2c98a377c5017ccda4491b37864c9c917afea81b": {
   "created_at": "2026-10-13T15:49:40.153562Z",
@@ -1299,6 +1328,7 @@
   "created_at": "2026-06-04T23:56:22.452572Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will USD/BRL hit 5.75 (High) in 2026?",
   "revisions": 1,
   "sha256": "bdea42cb943066ae8e7d6c2aafb9122e527dfcc6cbeaad435211f4d831eeae71",
@@ -1609,6 +1639,7 @@
   "created_at": "2026-08-06T08:21:20.685121Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Arirang (BTS) win Album of the Year at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "08aa20d8ebb9efb0168414190ed93e09176720940fc50a6f7ea6665b3f3afbdc",
@@ -1700,6 +1731,7 @@
   "created_at": "2026-08-06T08:19:30.83507Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will drop dead (Olivia Rodrigo) win Song of the Year at the 69th Annual GRAMMY Awards?",
   "revisions": 1,
   "sha256": "470150210ad949dfb9f64229c8bb2cedc2e8e72582450723fb8c73a77e97634f",

@@ -109,6 +109,15 @@
   "sha256": "6cc26ff5038dcd73e34a75687ad093dd19f17dd1dd620fadf574963813bb7e83",
   "slug": "skin-cancer-vaccine-fda-approved-by-december-31-2027"
  },
+ "0x0d9e93db3d7d914370c3690448a2ed3fa6914ba04910c7d086114e9238c8fe07": {
+  "created_at": "2026-10-24T19:00:20.092105Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: SD Eibar O/U 1.5",
+  "revisions": 1,
+  "sha256": "b3882e25ff29cae0c8a6f49d734ab4eb80b94c9d425af02f469f10472d190703",
+  "slug": "es2-cas-eib-2026-11-06-team-total-away-1pt5"
+ },
  "0x0da98c9320c7e7e5a7393e47547f5241d99bacae30739d4a3077cad295ece107": {
   "created_at": "2026-10-20T23:04:19.376098Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -153,6 +162,15 @@
   "revisions": 1,
   "sha256": "7419df33a1c87cda1765a52a1f5da37f7ada3ed79995df0785b42b5f3ae4fc62",
   "slug": "will-woody-marks-finish-as-a-top-12-rb-in-the-2026-27-nfl-season"
+ },
+ "0x174c1823434c3a09c665018236be049bd4d15ed3e3166d757d81410019007407": {
+  "created_at": "2026-10-26T06:00:10.283996Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 4 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-4-4"
  },
  "0x1752620514b16ff0d0e6dba655b4b4dbbbb2c4bf8c9ab7b7d51fbc638a758807": {
   "created_at": "2026-09-23T21:01:15.576325Z",
@@ -244,6 +262,15 @@
   "revisions": 1,
   "sha256": "7b141a0503e2383f382761006a2266664503681ad2a34297730b8771bbd51cb1",
   "slug": "el2-pvl-nth-2026-09-26-spread-home-5pt5"
+ },
+ "0x211febe80e887484d72fabd44776ff9e7708463c0f189b8810635b8d9f7a1d07": {
+  "created_at": "2026-10-26T19:00:41.939606Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: RCD Mallorca O/U 1.5",
+  "revisions": 1,
+  "sha256": "170214c952254cdb603f24b1a8c07525ce219bfda4c16bfebccaba2302a4cf95",
+  "slug": "es2-and-rm-2026-11-08-team-total-away-1pt5"
  },
  "0x2526d7ca0fec313070d85f6ef4d016996c854df0cd356cdd7a93f9a2463c0107": {
   "created_at": "2026-06-26T06:31:44.092084Z",
@@ -1132,6 +1159,7 @@
   "created_at": "2026-09-02T19:39:41.247357Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-12 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "37c643d524d48b69ab2b9b099818b83908bedd7d5ac72fadd91125634a2c0976",
@@ -1381,6 +1409,15 @@
   "revisions": 1,
   "sha256": "bb3a08ebb0b40ee96c2abb2a0aff9e031572f257b5c5cc7c3526c588bf3d6ffb",
   "slug": "will-olivia-wilde-the-invite-win-best-actress-musical-or-comedy-at-the-84th-golden-globes"
+ },
+ "0xe184b68d6abd6756ab075d1314bd78a1c6024955bd12bb9026e960d00955d707": {
+  "created_at": "2026-10-25T06:00:41.061573Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 3 - 5 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-3-5"
  },
  "0xe2b68469af59ae9cbc944113780b3935f9185b75181d32f6a40d18d5fa04ba07": {
   "created_at": "2026-05-11T20:12:32.246635Z",

@@ -98,6 +98,15 @@
   "sha256": "1b6e7bb768ad07115a66dfb90a68a6437f1a3113fd59d837f01880002a195c75",
   "slug": "will-the-lowest-2026-great-salt-lake-elevation-be-below-4189pt3-ft"
  },
+ "0x166d1dd431980329eb0880e3490eaef9accd446482ffbb5a115057e6b4ed39de": {
+  "created_at": "2026-10-24T06:00:11.919584Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 3 - 1 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-3-1"
+ },
  "0x170a8ff0f4e7ee6f45ccab5dcebe8f272dba29bdad681800929910324ac1f2de": {
   "created_at": "2026-11-02T18:37:07.133369Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -528,6 +537,15 @@
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-titans-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
  },
+ "0x4379387224273e1fed42fc4332751563f57b5e8e8ba121661e3baa1c84a7ccde": {
+  "created_at": "2026-10-26T06:00:09.614799Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 3 - 2 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-3-2"
+ },
  "0x441ba03f6fb86c6181dc5203900c23fea786b5a39d9ae91116e8a5aceaeefade": {
   "created_at": "2026-10-25T10:45:20.516074Z",
   "first_seen": "2026-11-05T14:39:41Z",
@@ -559,6 +577,7 @@
   "created_at": "2026-08-07T20:16:43.572361Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-15 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "7257616e722dabe4a9253e255bf62ab12d2713e5f7f26e97ef092d5d83c21399",
@@ -1193,6 +1212,15 @@
   "revisions": 1,
   "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",
   "slug": "will-fellowship-win-best-multiplayer-at-the-2026-game-awards-1785857785572"
+ },
+ "0x9679182436ad00b73ec8b976b578ee8770acc8209191e954daa5b53b8e2886de": {
+  "created_at": "2026-10-26T06:00:05.929354Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will FC Andorra win on 2026-11-08?",
+  "revisions": 1,
+  "sha256": "f8616895a81c71e424f41b1bd9bc3b6754112b228ba0e5b58e22ed9286ec1a14",
+  "slug": "es2-and-rm-2026-11-08-and"
  },
  "0x98515297ffbc585022955d6477b910bd11a98cdb32003d34f63f404038c1d8de": {
   "created_at": "2026-08-04T19:27:30.643998Z",

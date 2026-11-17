@@ -517,6 +517,15 @@
   "sha256": "d62a9d3c25488db2e3b38fec1cde729fd149a12d43b7a3d018f76adf302448df",
   "slug": "will-samantha-mota-win-the-ca-37-house-seat-20260708144657458"
  },
+ "0x4c50dc273e0280f7cc5410c253e754f559fc614f3369eace25e9b8a324c6680f": {
+  "created_at": "2026-11-16T22:38:33.264978Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Germany GDP growth in Q4 2026 be between 1.0% and 1.2%?",
+  "revisions": 1,
+  "sha256": "9d6aa2d35d6c956e16ecb33586f0f52873cee746bf958495ae6edc2660ca1dd5",
+  "slug": "will-germany-gdp-growth-in-q4-2026-be-between-1pt0-and-1pt2"
+ },
  "0x4ec282925ebcdd7429e89f3985466df26e67a02a22baaaf109852dd8a2a2eb0f": {
   "created_at": "2026-08-28T20:17:08.174007Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1644,6 +1653,7 @@
   "created_at": "2026-08-18T14:06:25.445264Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Florida be less than 7,000,000?",
   "revisions": 1,
   "sha256": "9456b9b3ff798cdb12ea6838776df9f740e9dcabc3154c6906e6daebc4f64c9d",

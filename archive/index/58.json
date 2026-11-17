@@ -212,6 +212,7 @@
   "created_at": "2026-08-07T20:13:33.547496Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-11 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "97f4f02d121dbf3b8a14826912722e15063fdd1f53eb0d791f5006fc162e1344",
@@ -797,6 +798,15 @@
   "revisions": 1,
   "sha256": "ae49a52662279851de0c5be36f1a133b93d2216b2668e7c19c108db739101b70",
   "slug": "will-gabriel-attal-advance-to-the-second-round-of-the-next-french-presidential-election"
+ },
+ "0x768004749d67197574950fbc09ab06b921198b51af21e0609f66e63c0b976358": {
+  "created_at": "2026-11-16T22:29:23.477917Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "JD Vance Republican nomination odds leader on March 31?",
+  "revisions": 1,
+  "sha256": "0ab981a35cce6aa9a9bd074950306c1fd1b3f74e40cca424135b1ac9632fa97b",
+  "slug": "jd-vance-republican-nomination-odds-leader-on-march-31"
  },
  "0x78195548bedf3f7170cd9064542360b097c3b6f191fff54d3533d9c4ab892c58": {
   "created_at": "2026-10-13T15:49:35.618102Z",
@@ -1426,6 +1436,15 @@
   "revisions": 1,
   "sha256": "a71cd6c8983bb146c842d91a705252635713239aeccf18e52d7d0a9a132eaca7",
   "slug": "f1-mexican-grand-prix-red-flag-2026-11-01"
+ },
+ "0xe9de972eeb6f6de1ad09e4dd03d118855536b2187f90378aaefeebbf4e265958": {
+  "created_at": "2026-10-25T06:00:40.09194Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 4 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-4-2"
  },
  "0xea3eb1610bc26e6c75d375021c9843f33d5bde4fd96f7396b1713e60d2a93058": {
   "created_at": "2026-10-30T21:10:56.465966Z",

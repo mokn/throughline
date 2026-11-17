@@ -26,6 +26,15 @@
   "sha256": "dee7db4ccb37acb3221169f92c04d65bf0e57aeef252370c8028be32049b0565",
   "slug": "will-xavier-bertrand-win-the-2027-french-presidential-election"
  },
+ "0x06e3ea75fc319502dd294b18cef280e845b9339e16498f5c060f0b495ebf2a2d": {
+  "created_at": "2026-11-16T22:19:39.253373Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Kamala Harris Democratic nomination odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "56334782f3733c279759730837b8c013b44eb11981010d1474b01d78dd00e020",
+  "slug": "kamala-harris-democratic-nomination-odds-leader-on-december-31"
+ },
  "0x07b7e60fd66e5d313aba37dacb0fb524a3c71602542ec2fcaf45e420e12d112d": {
   "created_at": "2026-08-28T19:43:32.097113Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -518,6 +527,15 @@
   "revisions": 1,
   "sha256": "3e6bfbd2a4a8fd34c5e7eefbe6c0a8cde629ee3b88db2658a65bfa4ba03885dd",
   "slug": "will-the-republican-party-candidate-win-the-2026-ga-03-house-election-by-30-35"
+ },
+ "0x4c388aaf208290efb4fa8d8519683a49baa2006979d1259d31a505a6e0f8b62d": {
+  "created_at": "2026-10-25T19:00:13.68771Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Spread: Granada CF (-2.5)",
+  "revisions": 1,
+  "sha256": "176c9a8c8747c73a878c4fcced0a22d2b175d2099a48743effcc69aa07fbde1d",
+  "slug": "es2-gra-cdt-2026-11-07-spread-home-2pt5"
  },
  "0x4cd57952bbe25059f13640747d882634b462f5f28e2aa897d93c65c698e4c42d": {
   "created_at": "2026-08-26T21:46:51.7279Z",
@@ -1425,6 +1443,15 @@
   "sha256": "b593bd4591a3d27288f30c1fc3ee173701e9e62261633fd58fef53e1ff09d676",
   "slug": "will-the-democrats-win-tarrant-county-in-the-texas-senate-race-in-2026"
  },
+ "0xedabcc89d4c2352fef023dce7ee2d5f8435c6c3701cdca240c361b729e05a72d": {
+  "created_at": "2026-10-26T19:00:43.439173Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "FC Andorra vs. RCD Mallorca: FC Andorra 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "773571dae0053cf7e123809b11053487a5c661bf289bab0663d98f56c816a3d6",
+  "slug": "es2-and-rm-2026-11-08-first-half-team-total-home-0pt5"
+ },
  "0xf0ff42b87086e4b2d2cff52e03438a5565922aa4b60e5e3653996a0bcb905b2d": {
   "created_at": "2026-08-04T18:31:23.584087Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1456,6 +1483,7 @@
   "created_at": "2026-08-07T20:17:47.997365Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-20 House election by 55%-60%?",
   "revisions": 1,
   "sha256": "71e8beeabf186e1af17a77a9ea8b9e66f0cce38b51272cb1b8e43d590cc3a084",

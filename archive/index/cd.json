@@ -999,6 +999,15 @@
   "sha256": "a74b1fc8203a7755b9efd6d656ec6bac0c8928ae7e43e2b594c71d9036c2384e",
   "slug": "will-matt-olson-win-the-2026-national-league-mvp-award"
  },
+ "0xa78b8aacc4bf9dd820afbcc9dc6dc65059dc911750694b97622864780a01d2cd": {
+  "created_at": "2026-11-17T02:43:45.195421Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Anna Sawai announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "anna-sawai-announced-as-next-bond-girl"
+ },
  "0xa7ebb74d1743c0e4f0a69302e462ce8825e9df6c96ff1f1bb57aa73f1912c3cd": {
   "created_at": "2026-08-11T18:23:44.476381Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1310,6 +1319,15 @@
   "revisions": 1,
   "sha256": "604a099e2a930b2c77a589b350845e07121372cd98e12105fd87d39ceb2cb479",
   "slug": "will-gods-plan-be-on-gta-vi-radio-at-launch"
+ },
+ "0xd4335b945af4d6a1b47089f68326ddf984d76a94e9c186b0cfb6a109a94d2ccd": {
+  "created_at": "2026-11-16T21:32:32.124719Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Krishna Rao ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-krishna-rao-ring-the-bell"
  },
  "0xd48f12a1deb02dc0c479ac20cf2951daf713152a24743eaa0e98a1ff2e82d4cd": {
   "created_at": "2026-08-10T23:57:23.656415Z",

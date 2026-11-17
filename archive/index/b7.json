@@ -1250,6 +1250,7 @@
   "created_at": "2026-08-07T20:18:18.887166Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-28 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "c1aee09eb4f9d7ba6be92b29791a34b1ff8d949a062b8e946b0670054ffaaaca",
@@ -1446,6 +1447,15 @@
   "revisions": 1,
   "sha256": "175e5715f65040dd74298ad9a1b2231e932428f2bf12dfd7e7c9cb61fe78219c",
   "slug": "will-miatta-fahnbulleh-be-the-first-to-leave-the-burnham-cabinet-20260803162204128"
+ },
+ "0xfae34aee10ace81fd881a88f5c3de504bc5517e7186df26c55ec34c051cbc6b7": {
+  "created_at": "2026-11-16T22:04:45.315039Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Mexico GDP growth in Q4 2026 be less than 1.5%?",
+  "revisions": 1,
+  "sha256": "c3fe405c035fde2e1c392e246e05f38f6af21934841f1d92b8d7c3619d38ac27",
+  "slug": "will-mexico-gdp-growth-in-q4-2026-be-less-than-1pt5"
  },
  "0xfd5dbb51b9c1e3b70c63d36d8206c20ea69f4dedcba3aa839513c0480ad9bbb7": {
   "created_at": "2026-09-01T09:45:00.385627Z",

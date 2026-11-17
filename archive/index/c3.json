@@ -40,6 +40,7 @@
   "created_at": "2026-08-07T20:16:49.233884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-16 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "7ab7ada8d01dc1940077138d1f10a4cefbffcc05ce952509c7fd15e8ba0b85d3",
@@ -1079,6 +1080,15 @@
   "revisions": 1,
   "sha256": "e4f5335639de7eac5d65af07ba2b61ba0c1733a198d7ef702d46e726bc0ecf6b",
   "slug": "will-miami-hurricanes-advance-to-the-2026-acc-championship-game"
+ },
+ "0x9e19facfc02fd5817ad1f2a8fa23177f882388ae35f2e36ef8be51bf9cc9bcc3": {
+  "created_at": "2026-10-25T06:00:41.562925Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 4 - 5 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-4-5"
  },
  "0x9f5683643f6534ab9747c0ada962bed3231c5a32897be34b3f098be3ed883ac3": {
   "created_at": "2026-09-13T08:45:31.014764Z",

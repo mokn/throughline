@@ -528,6 +528,15 @@
   "sha256": "b30ea15a663b8f6988e41fbf1fdd242c2195673b5c45d9fe2fd2f25014e48432",
   "slug": "will-porto-win-the-2026-27-primeira-liga-championship-20260701201425848"
  },
+ "0x53c929a126da6cd0734df972801de68f1d3a58fea7c39bf58811a96ede35d3d4": {
+  "created_at": "2026-11-17T00:58:55.49381Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "\u00c9douard Philippe French presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "cbd6afd90d621a76014b1527d80b4df2318a070c9e2ab2dba92e5b89ccf06ddf",
+  "slug": "edouard-philippe-french-presidential-odds-leader-on-december-31"
+ },
  "0x549a2f3a1ec3607a576b399a7f192e12752785b79039750d2f61fba2a64a44d4": {
   "created_at": "2026-08-10T23:58:08.745515Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -743,6 +752,7 @@
   "created_at": "2026-08-07T20:16:43.096812Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-15 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "7257616e722dabe4a9253e255bf62ab12d2713e5f7f26e97ef092d5d83c21399",
@@ -817,6 +827,7 @@
   "created_at": "2026-09-09T15:40:59.223812Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Greece be relegated from Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "4b4fc80583371e6e5a7ff21c15acd1bc3e1d41bb2352566ff2fe2f1f4c60be26",
@@ -1176,6 +1187,15 @@
   "revisions": 1,
   "sha256": "a939e89d5007238c390a45588ca45e83b3acd7cf74484c996af169506a89ea9e",
   "slug": "cdr-ute-sab-2026-10-28-team-total-home-2pt5"
+ },
+ "0xc3112a22cdb90d824c44ead79283cc789b6806c626bf81d86f87044c63a70ad4": {
+  "created_at": "2026-10-25T06:00:46.14196Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF to score first vs. CD Tenerife?",
+  "revisions": 1,
+  "sha256": "d72b913a33cd5324e498aebe8f1caf3a9dfcfd715b6feb47e6b316844dbc9937",
+  "slug": "es2-gra-cdt-2026-11-07-first-to-score-home"
  },
  "0xc43c6c3bd979cb17e2ff931fbf8c4a5bef3778eb727f3504b79d97eab86138d4": {
   "created_at": "2026-11-02T00:47:23.116898Z",

@@ -374,6 +374,15 @@
   "sha256": "fdd064966e1538c6db128c9cab091bd4cc7563a9d5ac060330ee0523f6de77d3",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-alabama-be-between-1600000-and-1700000"
  },
+ "0x5324c119cbb5993227a1582b439ee71561b4f0c6a31606a8691b5b52e8cc1161": {
+  "created_at": "2026-10-24T19:00:21.354323Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: CD Castell\u00f3n 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "26eaad04519651e0b4304a66beb6a634c8426f66c0a9e5d5d6bd3d0f3fa56643",
+  "slug": "es2-cas-eib-2026-11-06-first-half-team-total-home-3pt5"
+ },
  "0x55f7701711505b4d91ae18c6013cd5fa232a541a7813626db5aaa2ce81cacb61": {
   "created_at": "2026-09-09T02:44:10.266959Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -589,6 +598,7 @@
   "created_at": "2026-08-10T23:37:32.705192Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Derrick Henry have 8.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "add237efb1793d22e7059e3aef31fb87d612c5c751332f52ad767598dc88a655",
@@ -1059,6 +1069,15 @@
   "revisions": 1,
   "sha256": "5dbbd24841c579d8f502ef9c89db4f45e9d92ce7914a554ec538ddd25ca0ac04",
   "slug": "will-botosani-keep-the-most-clean-sheets-in-romania-superliga-2026-27"
+ },
+ "0xcffbeb8d6d5334e655a6508bb5b0e295420e8c170a576b9176fde6252d423c61": {
+  "created_at": "2026-10-25T06:00:38.264677Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 1 - 3 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-1-3"
  },
  "0xd077df4ef63238b59103235997fbaffbe3de12aead1342629e65a0a54113b061": {
   "created_at": "2026-08-26T21:46:09.082977Z",

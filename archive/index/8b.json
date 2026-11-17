@@ -252,6 +252,15 @@
   "sha256": "bd9d05d9eb02ec6ddc040a546eec3785de6a6c6624286031a42d6621dd58842e",
   "slug": "will-benjamin-brahmer-be-the-2026-big-ten-receiving-yards-leader"
  },
+ "0x37120520d0813ec3eaf4132d6e1f2298000b9e07c05cfa75a17fc2471bd7038b": {
+  "created_at": "2026-10-24T06:00:10.68833Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "SD Eibar leading at halftime?",
+  "revisions": 1,
+  "sha256": "e512d3ada50a3be4e8c5401f41a7e761944105182aaaa362640b20f776456c20",
+  "slug": "es2-cas-eib-2026-11-06-halftime-result-away"
+ },
  "0x3727202f3720cfc5c0edd9429534b08a112ae3fec1766af33b8d3fb78fa0d08b": {
   "created_at": "2026-09-04T19:52:05.445713Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -329,6 +338,7 @@
   "created_at": "2026-08-07T20:09:46.31472Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-06 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "c50166fef448bf7f717c32efa095d73d36a84aa350584c617c6fa598c8625600",
@@ -412,6 +422,7 @@
   "created_at": "2026-08-07T20:17:06.266489Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-17 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "2ccc1fe7d774d9126bbb1e24fe4413fc21995baea9d3dc0aa677119715159a8d",
@@ -605,6 +616,7 @@
   "created_at": "2026-08-28T20:17:44.272852Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Derrick Henry have 10+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "ccabce63861c0af40283d4c25cfe5faf7986ca3f138e7ad1c2960452a3b9b975",
@@ -1229,6 +1241,15 @@
   "sha256": "c92bdb73e8ec5723d3bed68d31af3134c92af45f392ac3fc4e0a4b041b2bcfc9",
   "slug": "will-lorient-be-relegated-from-ligue-1-2026-27"
  },
+ "0xb3ef24609ae252ed5366ff1c5270db00343e7df39f5db9b8ce3ef8fa8dedc28b": {
+  "created_at": "2026-10-25T19:00:21.110814Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: CD Tenerife 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "ea4292d1cdb9bec64cf636df55104b35025f5b8799624004234e543319fb1027",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-team-total-away-3pt5"
+ },
  "0xb58c704f4c05981f22ce4455cf31f7521d17dbd7023ec4cb4398e30cd8b5428b": {
   "created_at": "2026-09-17T22:37:24.590995Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1392,6 +1413,15 @@
   "revisions": 1,
   "sha256": "313263bcd6569123f03e3c07b305180a95ee6a24eb3f0838d7617de171b4645d",
   "slug": "will-the-republican-party-candidate-win-the-2026-south-carolina-senate-election-by-15-20"
+ },
+ "0xd365893bfdd2e3053bdbadb88a2facb6f7f0a391dc5b6d3e5a8f5d51348d708b": {
+  "created_at": "2026-10-25T19:00:17.240281Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Granada CF vs. CD Tenerife: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "1a7a527f251044f4b1590c269dbaaf2656372da95868b272029aa9a09c9c50ba",
+  "slug": "es2-gra-cdt-2026-11-07-first-half-total-2pt5"
  },
  "0xd5bffaf44032c3e7e95bc040adf8a74aeebecf4b3763e99adca6ec265b122f8b": {
   "created_at": "2026-08-07T14:03:04.017628Z",

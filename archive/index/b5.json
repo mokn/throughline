@@ -471,6 +471,7 @@
   "created_at": "2026-10-24T04:00:07.101916Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Elon Musk post 640-659 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1412,6 +1413,15 @@
   "sha256": "38881a55d801d664b95d5deabf50270db29a7823b88ec4bbe55e90b4df8a1aa3",
   "slug": "will-google-be-the-second-best-ai-agent-lab-at-the-end-of-november-2026"
  },
+ "0xb5be465dfb45f55381836574f42dce8974033cdd34c1e649fb77a5c14cd1e9b5": {
+  "created_at": "2026-11-16T21:38:36.669834Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Anthropic IPO first-day pop above 0%?",
+  "revisions": 1,
+  "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
+  "slug": "anthropic-ipo-first-day-pop-above-0pct"
+ },
  "0xb5c6020d9d878212d44f497b0a081c0a938f00f2120bcf09c8db788487d44fb5": {
   "created_at": "2026-09-04T19:22:28.465971Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1429,6 +1439,15 @@
   "revisions": 1,
   "sha256": "c02e69877e981955210e56682946e7eba83815efe1be0b109c7b00c016e64329",
   "slug": "enl-bar-fgr-2026-10-24-exact-score-3-0"
+ },
+ "0xb9969d30be7b9da3fe98e5d50ccda2293eb46ffc9822e8470d8fb3cf0eccdcb5": {
+  "created_at": "2026-11-16T22:19:38.100499Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Josh Shapiro Democratic nomination odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "56334782f3733c279759730837b8c013b44eb11981010d1474b01d78dd00e020",
+  "slug": "josh-shapiro-democratic-nomination-odds-leader-on-december-31"
  },
  "0xba1562a3a07a3fea2cc50dfe16d3009ce5acbf3a7f4b27e4e82aaa2b5a6dbeb5": {
   "created_at": "2026-09-18T00:04:53.067037Z",
@@ -1618,6 +1637,7 @@
   "created_at": "2026-03-26T16:07:56.210749Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Rick Edmonds be the Republican nominee for LA-05?",
   "revisions": 1,
   "sha256": "3f426d24b9113d9c70ac71a61a008a5fea591680417aba687973dd65b834a2a4",

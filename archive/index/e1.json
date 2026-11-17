@@ -3,6 +3,7 @@
   "created_at": "2026-08-07T20:08:21.747689Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "dc9eea10dabfe5e08fdaef09014126fb2526c4a49151fbb78b53450ca2dede92",
@@ -381,6 +382,15 @@
   "revisions": 1,
   "sha256": "fa1430a4306b9f66afbb6f1cdff6df40bb57f62e940f14b7ed785a15ad669706",
   "slug": "will-borussia-dortmund-reach-the-2027-uefa-champions-league-semifinal"
+ },
+ "0x364847d91eeccce47c4cc0e0ed523b06f913e08f051f6e786212b9f8d9762de1": {
+  "created_at": "2026-10-24T06:00:11.32013Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 0 - 1 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-0-1"
  },
  "0x368ecedd0a252546ec004b642f8c1d72a4ef2b6f1df5117247bcab51d2b51ce1": {
   "created_at": "2026-07-06T15:20:46.706476Z",
@@ -1001,6 +1011,15 @@
   "sha256": "fe406d20bbf7d8eb77ec0b428aed5afac1b8a3d103f771bf543f1b2b4e6b6693",
   "slug": "will-oxford-2026-word-of-the-year-contain-rot"
  },
+ "0x9a115213cc36e7a5b2cf854f84188457d0dc9869c1f617669f3e68d4e0a6efe1": {
+  "created_at": "2026-10-26T06:00:09.764198Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 1 - 5 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-1-5"
+ },
  "0x9cf79fd04ba1015e6225e3c9b2c299e2e3da9130e294940fa5505247a11fd7e1": {
   "created_at": "2026-02-06T22:38:16.422728Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1086,6 +1105,7 @@
   "created_at": "2026-08-07T20:08:21.248075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-02 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "dc9eea10dabfe5e08fdaef09014126fb2526c4a49151fbb78b53450ca2dede92",
@@ -1359,6 +1379,7 @@
   "created_at": "2026-05-18T16:26:44.567162Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Robert Pattinson announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",

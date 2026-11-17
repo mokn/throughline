@@ -83,6 +83,15 @@
   "sha256": "88d4ac8530c09f75c942c34ff436eaf412744d7474109da88f27508837315b07",
   "slug": "will-wild-horse-nine-score-at-least-95-on-the-rotten-tomatoes-tomatometer-20261109"
  },
+ "0x16f0ca033abf7809ca5ab268ecef03ad2b3b2eb7aacbf02ab03a2258d575ec1c": {
+  "created_at": "2026-11-16T21:32:29.207308Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Will Tom Brown ring the bell at Anthropic's IPO?",
+  "revisions": 1,
+  "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
+  "slug": "anthropic-ipo-will-tom-brown-ring-the-bell"
+ },
  "0x17f9d83840e5360d24382d5601a4322f78a1752d000400879fe8309765574f1c": {
   "created_at": "2026-09-14T14:50:26.742911Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -308,6 +317,15 @@
   "revisions": 1,
   "sha256": "58a9e34122f272beaa29ed6868faa72b485135546128c07766a0e64f6d5faf94",
   "slug": "will-the-pittsburgh-steelers-be-the-afc-1-seed-for-the-2027-nfl-playoffs"
+ },
+ "0x3e60454b3f06772cdbcf43eec54dc0b036097f3f8dc5b6d71086d065d295581c": {
+  "created_at": "2026-10-26T06:00:10.093771Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 3 - 4 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-3-4"
  },
  "0x3ffd55eae78ff62a1a41d3976caf332b3325933fef4d5d6504334de02ab72d1c": {
   "created_at": "2026-10-13T15:55:48.815073Z",
@@ -734,6 +752,7 @@
   "created_at": "2026-08-07T20:08:55.780575Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Republican Party candidate win the 2026 FL-03 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "73115a69753433b0f019cdee98607e3728f9b05009fbb592a42b9e59e2baad2f",
@@ -819,6 +838,15 @@
   "revisions": 1,
   "sha256": "2852f73096e4acb71e2a87f3dbcb93ed07e1f542cb05a8729c418dcd7e9700ef",
   "slug": "will-ethereum-reach-4000-by-december-31-2026"
+ },
+ "0x987b1d57c1c1d986d38187233ad48fdf41e9c14202e858ca749747475643031c": {
+  "created_at": "2026-10-26T06:00:10.140878Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: FC Andorra 4 - 3 RCD Mallorca?",
+  "revisions": 1,
+  "sha256": "26f0cf0213fb11f9d4f8b2975842226f2e541d644fd9763f588e5334d203ac3d",
+  "slug": "es2-and-rm-2026-11-08-exact-score-4-3"
  },
  "0x98f495fbdb44ee47e62d277b0c2f131df6db2fe14c5632121ead4fb10e63341c": {
   "created_at": "2026-09-02T06:01:10.354763Z",
@@ -1316,6 +1344,15 @@
   "revisions": 1,
   "sha256": "b3706285f794baf06998414eb00dcfaf2c6b26854812a12db97d56d655353248",
   "slug": "will-taylor-swift-be-the-2-searched-person-on-google-this-year-20260914"
+ },
+ "0xe478d08230656259fd564044ef028777c6af757c5cd34fa4120ebd4616ca091c": {
+  "created_at": "2026-11-16T22:18:11.837942Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Marco Rubio 2028 presidential odds leader on December 31?",
+  "revisions": 1,
+  "sha256": "a055674fde15365a3d4cc3dc590bbc644b63df2a27ec95584e0e06a8e7579ce2",
+  "slug": "marco-rubio-2028-presidential-odds-leader-on-december-31"
  },
  "0xe47d88f9ee7b6605b1cc2089461ee3c4aeb766a0f7923b435297ec700a647e1c": {
   "created_at": "2026-08-24T16:35:19.338467Z",

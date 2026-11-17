@@ -691,6 +691,15 @@
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
   "slug": "nico-collins-first-to-1000-receiving-yards-2026-27"
  },
+ "0x5b00ce722b7d64f055834cb32352338a2403b25a1666cd167de286d8daf6f194": {
+  "created_at": "2026-11-16T22:22:07.484919Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Democratic trifecta odds dip to 50% by December 31?",
+  "revisions": 1,
+  "sha256": "0722e80025a8259050316a9294933ccadf1b6ff8bf3a262af96ec334e6bde7a3",
+  "slug": "democratic-trifecta-odds-dip-to-50-by-december-31"
+ },
  "0x5bc2d207b96ee8586fa8698e57683a1307958a62ffd6104396e68b4845981894": {
   "created_at": "2026-08-26T21:46:02.08519Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -783,6 +792,15 @@
   "revisions": 1,
   "sha256": "153de33c52bc954bbe72a4a0a00ce8c5892edacc23eb5b64557822d710dc6b0d",
   "slug": "will-chen-yu-jen-win-the-next-kinmen-county-magistrate-election-202608131357161501"
+ },
+ "0x742a4d567c3b7d5c92eb831994ab5eb233cd2d9a72f9720d917c5e2256684994": {
+  "created_at": "2026-10-25T06:00:40.916044Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: Granada CF 5 - 2 CD Tenerife?",
+  "revisions": 1,
+  "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
+  "slug": "es2-gra-cdt-2026-11-07-exact-score-5-2"
  },
  "0x752d94699054b44935f2e681518612990d116db41858721a023751e289c3c494": {
   "created_at": "2026-11-01T15:01:19.966513Z",
@@ -1145,6 +1163,7 @@
   "created_at": "2026-05-18T16:26:39.219151Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Tom Holland announced as next James Bond?",
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",

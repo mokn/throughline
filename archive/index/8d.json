@@ -17,6 +17,15 @@
   "sha256": "46c54a6e1f138622bb0407fe5e1b63a00b2b8b2dc24e945981e2db32750475ae",
   "slug": "will-mc-win-the-most-seats-in-the-2027-oaxaca-congress-election"
  },
+ "0x035912803da4b78eb40a3fca049ecbe427dffbded4636df7c4373e0481508e8d": {
+  "created_at": "2026-10-24T19:00:19.451538Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: CD Castell\u00f3n O/U 3.5",
+  "revisions": 1,
+  "sha256": "adb76081010a02a8df70031364335fe464cef515ee60c86ca3c4b8cc195fc92f",
+  "slug": "es2-cas-eib-2026-11-06-team-total-home-3pt5"
+ },
  "0x03e248d8ab48bf5b9f91c6f052ecae10954d24285e01c925ac569fa853cbab8d": {
   "created_at": "2026-07-31T22:45:18.310918Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -329,10 +338,20 @@
   "created_at": "2026-08-07T20:17:47.573563Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-20 House election by 60% or more?",
   "revisions": 1,
   "sha256": "71e8beeabf186e1af17a77a9ea8b9e66f0cce38b51272cb1b8e43d590cc3a084",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-20-house-election-by-60-or-more"
+ },
+ "0x385a1b86189e2fe92151bec5e48cd2a446915dc782cc8e8eb637b27da6ef028d": {
+  "created_at": "2026-10-24T19:00:19.125371Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "CD Castell\u00f3n vs. SD Eibar: CD Castell\u00f3n O/U 1.5",
+  "revisions": 1,
+  "sha256": "729096af8805d136e3002eb646e7da0fb0659f2b33cd543b4f360755c6a9ee02",
+  "slug": "es2-cas-eib-2026-11-06-team-total-home-1pt5"
  },
  "0x38eff2279b28254a48287271e36f4f365c458df00183fd084e2a481a4ef6348d": {
   "created_at": "2026-08-05T20:17:36.520415Z",
@@ -965,6 +984,15 @@
   "sha256": "6ca1d6274fbaa52a0a48c645e8536532afdfab119380c2749865dfc11dc37600",
   "slug": "betclic-elite-2027-champion-asvel-lyon-villeurbanne"
  },
+ "0x9e830cd4d7bb47d93977ec121e19dbfb138fb8982a210732b691872594fec78d": {
+  "created_at": "2026-10-24T06:00:11.502182Z",
+  "first_seen": "2026-11-17T15:59:42Z",
+  "last_changed": "2026-11-17T15:59:42Z",
+  "question": "Exact Score: CD Castell\u00f3n 2 - 0 SD Eibar?",
+  "revisions": 1,
+  "sha256": "dcf3225e5006f1a7404353975309ddfdf60cc9ca6ab54432e819fc8ce3ec826c",
+  "slug": "es2-cas-eib-2026-11-06-exact-score-2-0"
+ },
  "0x9ee64c07c889ebe0202bed90f560dbfdaa6bb580faadbc5370170fab6255258d": {
   "created_at": "2026-11-03T17:43:40.275198Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1250,6 +1278,7 @@
   "created_at": "2026-09-09T15:47:06.601583Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Guatemala win the 2026-27 CONCACAF Nations League?",
   "revisions": 1,
   "sha256": "778499c1c5d259b66b6ae3e9fefa6c559aa9ce3fc3fa8933b31df14ee61e7e74",
@@ -1553,6 +1582,7 @@
   "created_at": "2026-10-24T04:00:06.964678Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will Elon Musk post 620-639 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
