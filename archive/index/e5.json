@@ -174,6 +174,7 @@
   "created_at": "2026-08-12T01:24:24.292078Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will TheDonato Win the 2026 Esports Content Creator of the Year Award?",
   "revisions": 1,
   "sha256": "bb647fbc90163c09da2e37ae7086c33333ee1fe16b7998f23b823b767ba99d11",
@@ -269,6 +270,15 @@
   "revisions": 1,
   "sha256": "52065ce93e1d20912bd2acd93b9c7b6776a6281363be221b3e0f40d7feb76956",
   "slug": "will-if-brommapojkarna-be-relegated-from-allsvenskan-sweden-2026"
+ },
+ "0x2a296a6c516e23bbf790eb15ddebf37269a7f3e5948a55aa13568b41813340e5": {
+  "created_at": "2026-11-17T17:30:31.046962Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Philip Gunn be the Republican nominee for Mississippi Governor?",
+  "revisions": 1,
+  "sha256": "ccefb16853124a35651453447829ff3ed12d01227bf1f633d7492d8d97efeeed",
+  "slug": "will-philip-gunn-be-the-republican-nominee-for-mississippi-governor"
  },
  "0x2a4353631843d90452602f654bbb28489b111e714d00001e00dbaf945380d5e5": {
   "created_at": "2026-10-01T14:01:26.672443Z",
@@ -1116,7 +1126,6 @@
   "created_at": "2026-08-18T14:13:00.370098Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
-  "last_seen_open": "2026-11-17T15:59:42Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Minnesota be between 2,600,000 and 2,750,000?",
   "revisions": 1,
   "sha256": "fc705f44ae1309cc8bebc735e3c33c49daa65c91a302e410c9b2a324a22d25e7",

@@ -176,6 +176,7 @@
   "created_at": "2026-08-05T10:29:54.792009Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Schr\u00f6dinger's Call win Best Narrative at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "171a3a1fb6a0736159a109debebc068e4fb65784919e6b6b024285624a30032d",
@@ -649,6 +650,15 @@
   "revisions": 1,
   "sha256": "9d4e9794d04396dabab726081cf4b6bc2cc55b75067e5fcf844152bcc4895b66",
   "slug": "will-vitoria-de-guimaraes-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0x699bf0ee2dccde952a59d29dbd59a0ce701760efb7bb5332407760ed07add079": {
+  "created_at": "2026-11-17T16:39:52.848287Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Lula da Silva rank in Google\u2019s Top 5 Most Searched People of 2026?",
+  "revisions": 1,
+  "sha256": "381fa4ba2ace428623c0b27d1b46d6dacece3de834031139fd52519aa461f571",
+  "slug": "will-lula-da-silva-rank-in-googles-top-5-most-searched-people-of-2026"
  },
  "0x6b275965345eb0494ebd8cf8af4c103d6a129452b42a5885ffd110e4af70b379": {
   "created_at": "2026-08-11T18:24:16.477553Z",

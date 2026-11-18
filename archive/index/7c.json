@@ -138,6 +138,15 @@
   "sha256": "675b441cea0473922b91fbd1ba948bf0eabe9499a0545ca958e5d4b47e950af1",
   "slug": "will-manel-kape-become-ufc-champion-in-2026"
  },
+ "0x1720a5a5561830cb66802800942c58565ba3ea0d80def44cc558f04c3b23cd7c": {
+  "created_at": "2026-11-17T02:43:48.31054Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Lana Rhoades announced as next Bond girl?",
+  "revisions": 1,
+  "sha256": "c6a5375979d4639a120bc4b603811e6351c8847b0af746af36c3ac600a5c690c",
+  "slug": "lana-rhoades-announced-as-next-bond-girl"
+ },
  "0x184e4a8f7cae608a3a54505dd2c075a9f59c1fdb8150c87195a6f586185efd7c": {
   "created_at": "2025-11-11T18:59:57.715254Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -155,6 +164,15 @@
   "revisions": 1,
   "sha256": "6b783d22facf2a4733bd1696c849f2ef3d15c19723a74aba8b3151c6294b7b9f",
   "slug": "dota-2-patch-7pt42-released-by-december-31"
+ },
+ "0x1a4685f0af987f4d3b6830b1b810fc6b70f8f0e07f7ebbbe22504cdedd3e007c": {
+  "created_at": "2026-11-17T23:36:46.566481Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will the 2026-27 Arctic sea ice max be less than 14.2m sq km?",
+  "revisions": 1,
+  "sha256": "ea42583fa10020fe8893ea88050bb1ad5a395e7383a709d60d9f2a33b13e171b",
+  "slug": "will-the-2026-27-arctic-sea-ice-max-be-less-than-14pt2m-sq-km"
  },
  "0x1b6239b8f53f4f6db615c730582b33c0fb9563cc8229871e47286bbde7f3e57c": {
   "created_at": "2026-09-18T00:02:32.672054Z",
@@ -216,6 +234,7 @@
   "created_at": "2026-09-24T08:24:17.288274Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will OpenAI's frontier output token price be at or below $45 in 2026?",
   "revisions": 1,
   "sha256": "d4c0262889ce1e89812529c9392a2d53d06f26ced8324d41f5fe78f3729e53b8",
@@ -598,6 +617,7 @@
   "created_at": "2026-08-05T10:27:36.515646Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Pragmata win Best Audio Design at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "a1220b8fb1b36d8df77347784b6ed80cbbe6a6ea6bc9f8e832ca5f748810515f",

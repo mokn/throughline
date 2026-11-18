@@ -329,6 +329,7 @@
   "created_at": "2026-10-15T13:13:32.069902Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will NVIDIA (NVDA) Q3 Data Center revenue be above $95B?",
   "revisions": 1,
   "sha256": "892935d79fe787773ac0532c51cfbf25ad9ef32ebbbff952594de4665b4c07a4",
@@ -608,6 +609,15 @@
   "revisions": 1,
   "sha256": "2a1719c770780d2d976cc58b8c5d3026743d5217b87976b67915daf2727ba741",
   "slug": "will-james-graf-win-the-2026-montgomery-county-judge-election-20260626004629132"
+ },
+ "0x67b739d9bc9aced690c8dd6019df99740d090508d8f6697ff7056a7b5658b09d": {
+  "created_at": "2026-04-08T16:18:00.477121Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Utah Utes win the 2027 CFP National Championship?",
+  "revisions": 1,
+  "sha256": "aa8e3ee6e70792c4feaaffe926bb067b04ce8a6e604388817ed8da39e5e22b40",
+  "slug": "will-utah-utes-win-the-2027-cfp-national-championship"
  },
  "0x68617ef6b6488a6a4753c9d57604764831a9448fb8aa7dee205bb2311e3b949d": {
   "created_at": "2026-02-28T21:24:02.100563Z",
@@ -1046,6 +1056,7 @@
   "created_at": "2026-08-05T10:29:57.668613Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Silent Hill: Townfall win Best Narrative at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "171a3a1fb6a0736159a109debebc068e4fb65784919e6b6b024285624a30032d",

@@ -344,6 +344,15 @@
   "sha256": "0438f45979673e2ca608f80068d6ce1f8292bf8a9053162590b8c33169ef8eba",
   "slug": "el1-wim-ste-2026-10-03-first-corner"
  },
+ "0x2fd4e2e8d05bb7eb9e120d4c898c8971fbc093bfd3f3aab30e499c7cf0e88a20": {
+  "created_at": "2026-11-17T17:09:30.606551Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Jacob Frey be the Democratic nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "3443d51c1b2433d46b5c3a00c11b51e49fc4b0cc9d1b9f27d7eaf57a0f8585e4",
+  "slug": "will-jacob-frey-be-the-democratic-nominee-for-the-minnesota-senate-special-election"
+ },
  "0x3054507428314fd67575e729db378c822086bd64b2655ff1a7acc89fe9346220": {
   "created_at": "2026-08-12T16:51:51.87342Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1696,6 +1705,7 @@
   "created_at": "2026-09-17T18:18:47.700248Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will iQOO Win the 2026 Esports Commercial Partner of the Year Award?",
   "revisions": 1,
   "sha256": "62c4f000b4a4432b57a39af7eca2739f4a8b7e253611a4f652cd8f5b596fbb6a",

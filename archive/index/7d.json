@@ -139,6 +139,7 @@
   "created_at": "2026-10-15T13:13:33.348113Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will NVIDIA (NVDA) Q3 Data Center revenue be above $110B?",
   "revisions": 1,
   "sha256": "892935d79fe787773ac0532c51cfbf25ad9ef32ebbbff952594de4665b4c07a4",
@@ -476,6 +477,15 @@
   "revisions": 1,
   "sha256": "a0f48af64b28debd57e91b70a2b6afcfc5b7a1cc2851050f967abcedda9545e8",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-01-house-election-by-5-10"
+ },
+ "0x4bb7570b3258edc74928c72e25be96c982a6bbaf9ff0a4673ac40b9d8b42517d": {
+  "created_at": "2026-04-08T16:18:00.784119Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will UCLA Bruins win the 2027 CFP National Championship?",
+  "revisions": 1,
+  "sha256": "aa8e3ee6e70792c4feaaffe926bb067b04ce8a6e604388817ed8da39e5e22b40",
+  "slug": "will-ucla-bruins-win-the-2027-cfp-national-championship"
  },
  "0x4cf0e7a5f281267f62cec68b0c547453f9229decd53b873863af188b251e3b7d": {
   "created_at": "2026-10-14T13:21:29.701136Z",
@@ -930,6 +940,15 @@
   "sha256": "3676f23c816e4610571d78434c4e2a00f887e93a244d4b96677580a904598a57",
   "slug": "will-the-republicans-win-indiana-in-the-2028-presidential-election"
  },
+ "0x94bde6e2d51188d1ed65a73b49c423b576a7ae68375f0c7790173de3b1b0537d": {
+  "created_at": "2026-11-18T00:03:39.286795Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Chicago get more snow than average this winter?",
+  "revisions": 1,
+  "sha256": "48321cdd64e9cb4b4c55e187ca79592f9a247738c5834225c428fa6c38da013a",
+  "slug": "will-chicago-get-more-snow-than-average-this-winter-2026-2027"
+ },
  "0x9833b9603768d0f588ac6e953fad247e70bf49ee12faa14d9f8c09835d2d877d": {
   "created_at": "2026-10-20T23:04:39.770727Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1323,6 +1342,7 @@
   "created_at": "2026-09-17T18:38:48.302148Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will ESG Law Win the 2026 Esports Supporting Service of the Year Award?",
   "revisions": 1,
   "sha256": "32380c6c2b17ff25dc44ebc0ce0f7a95b99edd43cb006a008f2a36e0e7436789",

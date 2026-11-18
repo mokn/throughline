@@ -1,4 +1,13 @@
 {
+ "0x02270efec9225f09418781e00cbc011e3d0f275a9d213dcd99b8fc5cb605e3f9": {
+  "created_at": "2026-08-05T10:30:36.131993Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Denshattack win Best Independent Game at the 2026 Game Awards?",
+  "revisions": 1,
+  "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
+  "slug": "will-denshattack-win-best-independent-game-at-the-2026-game-awards-1785857780332"
+ },
  "0x04ff9c6f89b5b763e86c3716e014bd2d72fa2a041082395448ddc37a4dccdbf9": {
   "created_at": "2026-08-23T16:45:03.199783Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -320,6 +329,7 @@
   "created_at": "2026-08-05T10:27:35.625066Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Marvel's Wolverine win Best Audio Design at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "a1220b8fb1b36d8df77347784b6ed80cbbe6a6ea6bc9f8e832ca5f748810515f",
@@ -1236,6 +1246,7 @@
   "created_at": "2026-10-05T19:30:39.294709Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Israel x Iran ceasefire continues through November 15?",
   "revisions": 1,
   "sha256": "f1e7e8b4c4e645a22d12180d4dfd4f768bb6199e41aef5d5b516da594f0933dd",
@@ -1425,6 +1436,15 @@
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-saint-have-the-most-kills-at-worlds-2026"
+ },
+ "0xe9ffd2c5b46c7e5ffc04fae5a7628f424a3fe2013b01e7c12ad41dc849a7cbf9": {
+  "created_at": "2026-08-05T10:29:41.359956Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Phantom Blade Zero win Best Game Direction at the 2026 Game Awards?",
+  "revisions": 1,
+  "sha256": "86ceb3b75052d661856c223e5eedd1b2ec5af3ca16de30c4f357e231c62c36a1",
+  "slug": "will-phantom-blade-zero-win-best-game-direction-at-the-2026-game-awards-1785857784746"
  },
  "0xeb383dff49ecc2e0e013a4213bf2ec67a7b0119b9020b805708bae3b47e4d3f9": {
   "created_at": "2026-09-04T19:51:51.839557Z",

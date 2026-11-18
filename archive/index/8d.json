@@ -8,6 +8,15 @@
   "sha256": "07fa6c93886e79a7dcc75aea4cd065793327718a75d9aa6d119a60769be0a057",
   "slug": "nba-2026-27-most-improved-player-jaden-mcdaniels"
  },
+ "0x0128987b5d9bdaa2853cda28ff49a8f6ead23c582f842e83718ee5dcde91738d": {
+  "created_at": "2026-11-17T23:36:47.575177Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will the 2026-27 Arctic sea ice max be between 14.5m and 14.8m sq km?",
+  "revisions": 1,
+  "sha256": "ea42583fa10020fe8893ea88050bb1ad5a395e7383a709d60d9f2a33b13e171b",
+  "slug": "will-the-2026-27-arctic-sea-ice-max-be-between-14pt5m-and-14pt8m-sq-km"
+ },
  "0x015711cc9bad53992c9e53947f1bbe38e538a62304f7df507b931e5344b4608d": {
   "created_at": "2026-10-09T16:33:55.556686Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -634,6 +643,15 @@
   "sha256": "5e302b6e7a17d2362d7931acabfb924a492e44c528d2ebc0c9c293cac58089e0",
   "slug": "will-pt-win-the-most-seats-in-the-2027-puebla-congress-election"
  },
+ "0x5b6b47fb32c9514ef99148243ccaa2d3fbe071385e74d2ba054241eb5095f88d": {
+  "created_at": "2026-11-17T17:09:09.362735Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Jordan Rasmusson be the Republican nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "2a7a842e3320b0492645666d41af122378b053799185ca9ef883da8e7f804596",
+  "slug": "will-jordan-rasmusson-be-the-republican-nominee-for-the-minnesota-senate-special-election"
+ },
  "0x5deff69448227381a7f27a71f33caf484bc78ee14f84adb0ab9c47b628a1d88d": {
   "created_at": "2026-10-15T17:01:21.803892Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -665,6 +683,7 @@
   "created_at": "2026-09-04T16:44:51.34273Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Next Astra Model (6.1+) released by December 31, 2026?",
   "revisions": 1,
   "sha256": "d18395ef2c81dfaf6dd27fbf021cf27590efbc989f675f987bc4bca742877b5a",
@@ -810,6 +829,15 @@
   "revisions": 1,
   "sha256": "ac77ec1e3c20b219557cd0e60b87fa18dcf64e51843da23330b46684f3176ad6",
   "slug": "will-tangles-be-nominated-for-best-animated-feature-film-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x794a1339f621e8b37dc6f56952db66f63ab4242fe98a19bb29a0ac425f57ef8d": {
+  "created_at": "2026-11-18T02:56:05.257082Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will the PP win the Spanish general election and Alberto N\u00fa\u00f1ez Feij\u00f3o become the next Prime Minister?",
+  "revisions": 1,
+  "sha256": "38ca687cc352c32f44f4022db6917f059c54f93cf2fdfd5a7933161510e544fd",
+  "slug": "will-the-pp-win-the-spanish-general-election-and-feijoo-become-the-next-prime-minister"
  },
  "0x7a72b7e9622f702c423c26228b473ac1744d4cd576ce8312206325199057718d": {
   "created_at": "2026-08-06T08:33:15.113427Z",

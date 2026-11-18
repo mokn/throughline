@@ -953,6 +953,15 @@
   "sha256": "50303a1ba1342fb37a0c9228d493702b0946566104fd4e196797f96968e9925f",
   "slug": "will-the-sender-of-the-i-beat-bush-email-to-epstein-not-be-revealed-in-2026"
  },
+ "0xa133c76ebc353c26ca7d5b4e7f1aee669e6c37655ff6cf4961341dd2927b1e90": {
+  "created_at": "2026-11-17T17:09:28.079945Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Ilhan Omar be the Democratic nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "3443d51c1b2433d46b5c3a00c11b51e49fc4b0cc9d1b9f27d7eaf57a0f8585e4",
+  "slug": "will-ilhan-omar-be-the-democratic-nominee-for-the-minnesota-senate-special-election"
+ },
  "0xa29e0ebf481c637c0aa3ba66f248e19a6c2881b05c079f498d228aa835db1590": {
   "created_at": "2026-09-04T16:01:18.94522Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1284,6 +1293,7 @@
   "created_at": "2026-08-07T20:18:26.405282Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will the Republican Party candidate win the 2026 FL-27 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "008155b12da8e9a3979ef934cf893c218db8eb452996eaebfcb13a617288b08a",

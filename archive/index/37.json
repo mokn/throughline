@@ -53,6 +53,15 @@
   "sha256": "fddf1bb4f5fb070352f6ab6d75b10578ef4516762b990983bd1f9ccaae5860b9",
   "slug": "el2-wal-cra-2026-10-03-total-0pt5"
  },
+ "0x04c1d0bd8cae5f90fe6169e67a8d3219c0bbe7da7a04251d4f3309c0f0069b37": {
+  "created_at": "2026-11-17T17:09:07.538284Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Tom Emmer be the Republican nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "2a7a842e3320b0492645666d41af122378b053799185ca9ef883da8e7f804596",
+  "slug": "will-tom-emmer-be-the-republican-nominee-for-the-minnesota-senate-special-election"
+ },
  "0x08c6f1f2ebb80faac6c304028985c3d04245bd34fea4ea315fea322d726d8b37": {
   "created_at": "2026-09-15T16:59:33.435983Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -923,6 +932,7 @@
   "created_at": "2026-08-07T20:16:37.972094Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will the Republican Party candidate win the 2026 FL-13 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "06b716e3d7979e969c9dcdc848d1e46a70b011fa5cd8574dd62a393158c90133",
@@ -1474,6 +1484,7 @@
   "created_at": "2026-10-31T00:24:36.034015Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Trump meet with Mark Carney by November 30, 2026?",
   "revisions": 1,
   "sha256": "17ecc63402c8b7ef3861161dc27b2e72becf2036d67cafe384ac9615350a6309",

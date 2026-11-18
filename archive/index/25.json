@@ -410,6 +410,7 @@
   "created_at": "2026-08-05T10:30:32.040822Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will MOLE win Best Independent Game at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
@@ -740,6 +741,15 @@
   "revisions": 1,
   "sha256": "313cb50e7cccdaddf0b69d30f0ee34540799d76f542f7075d715e3d69300a96b",
   "slug": "will-filip-forsberg-record-40-goals-in-the-2026-27-regular-season"
+ },
+ "0x80e9628d00833e9011650b6e369219537164f9d287059dde58cbd500249d9525": {
+  "created_at": "2026-11-17T17:30:29.048478Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Brandon Presley be the Democratic nominee for Mississippi Governor?",
+  "revisions": 1,
+  "sha256": "a59e6a7fde28afb6f8d5758dcdd5a391ea200d638cf386d1c0b0b1411979de48",
+  "slug": "will-brandon-presley-be-the-democratic-nominee-for-mississippi-governor"
  },
  "0x8424f06403bee0e02297351c5b2e06bed7acac8d24ed78626d57f9de7df12825": {
   "created_at": "2026-08-11T19:09:17.821349Z",
@@ -1150,6 +1160,15 @@
   "sha256": "0784350b6ec0b766e4657a10833b672c3f32499b089c8ff459d288e455e58d84",
   "slug": "chris-olave-10-receiving-touchdowns-2026-27"
  },
+ "0xca97cd9e5280f3087ffe239e1fa0a3b513091e0af8dbc0348b293b71dc902825": {
+  "created_at": "2026-11-17T16:47:53.012831Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Fred win Ultimate Self-Defense Championship Season 4?",
+  "revisions": 1,
+  "sha256": "8d4c16ba7fa2b37f47fa9e9e750c245096f19681c9c58d752ccc9b82a66a414b",
+  "slug": "will-fred-win-ultimate-self-defense-championship-season-4"
+ },
  "0xcd536db9847d5c7e2b115ca12dc68e5b7b13b05519685ed2b307310c7b054825": {
   "created_at": "2026-10-30T22:14:05.415289Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1208,6 +1227,7 @@
   "created_at": "2026-08-12T01:25:36.77522Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will G2 Esports Win the 2026 Esports Content Group of the Year Award?",
   "revisions": 1,
   "sha256": "16a80b1f1eff5a59afdb4dc89f5d66fbfd3d10cd16cbd5ac5fc7524c67502660",

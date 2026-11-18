@@ -122,6 +122,7 @@
   "created_at": "2026-08-07T20:16:38.681779Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-13 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "06b716e3d7979e969c9dcdc848d1e46a70b011fa5cd8574dd62a393158c90133",
@@ -698,6 +699,15 @@
   "revisions": 1,
   "sha256": "b9b881c4e7669a1c6dac9bed110c4b96faf376663737654f7474179d3b86c3ce",
   "slug": "will-the-median-home-value-in-los-angeles-metro-be-between-1159000-and-1168000-on-december-31-2026"
+ },
+ "0x62ad0d0ce5af4df2511d2f6ce0594a309574c46208cba16196379da3bcc2c9a5": {
+  "created_at": "2026-07-18T20:23:11.417879Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Sadie Sink be the #1 searched actor on Google this year?",
+  "revisions": 1,
+  "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
+  "slug": "will-sadie-sink-be-the-1-searched-actor-on-google-this-year-20260717224316172"
  },
  "0x63d7eed349861ab14c1e012281c5087e09a097ad66182b1919661381456e61a5": {
   "created_at": "2026-09-27T20:09:29.559178Z",
@@ -1556,6 +1566,7 @@
   "created_at": "2026-08-05T10:29:54.928715Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Mixtape win Best Narrative at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "171a3a1fb6a0736159a109debebc068e4fb65784919e6b6b024285624a30032d",
@@ -1664,6 +1675,7 @@
   "created_at": "2026-08-12T01:24:23.470956Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will TacticalRab Win the 2026 Esports Content Creator of the Year Award?",
   "revisions": 1,
   "sha256": "bb647fbc90163c09da2e37ae7086c33333ee1fe16b7998f23b823b767ba99d11",

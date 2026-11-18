@@ -1175,6 +1175,15 @@
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
   "slug": "will-ricardo-eliseo-paulini-palacios-win-the-next-piura-mayoral-elections-20260811165718013"
  },
+ "0xb8ab081fd6d7eed05be0f5da6949e01ab8c05b7eeeb18a86764960022d3440ac": {
+  "created_at": "2026-11-17T21:29:52.253654Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "US-Canada deal to cut Section 338 tariffs by December 30, 2027?",
+  "revisions": 1,
+  "sha256": "ea9e447fee4f619f69aa6af48dc563f0d83b0d8daca3d6afa1191fde08915898",
+  "slug": "us-canada-deal-to-cut-section-338-tariffs-by-december-30-2027"
+ },
  "0xbac719f661793cfd78fb1e74c97e1c9329d967016ae039494baeb66b98dbfeac": {
   "created_at": "2026-09-09T15:45:41.494818Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1517,6 +1526,7 @@
   "created_at": "2026-08-12T17:30:29.382833Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Charleston Battery be runner-up in the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "30bf7340fe7a1a7712b6b573d3c17935f357061bf3657e4733c348e2f4213d33",

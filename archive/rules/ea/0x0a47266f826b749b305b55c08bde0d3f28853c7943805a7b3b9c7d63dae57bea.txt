@@ -1,0 +1,37 @@
+This market will resolve according to the combined outcome of (1) which political party wins the greatest number of seats in the Congress of Deputies of Spain as a result of the general election scheduled for November 29, 2026 and (2) which individual is the next to officially assume the office of Prime Minister of Spain by March 31, 2028, 11:59 PM ET.
+
+Options beginning "PP winner" require the People’s Party (PP) to be the election winner, and options beginning "PSOE winner" require the Spanish Socialist Workers’ Party (PSOE) to be the election winner, as defined below. Each option then names the result of the second component ("Feijóo PM" for Alberto Núñez Feijóo or "Sánchez PM" for Pedro Sánchez), as defined below. The option matching both results will resolve to "Yes", and all other options will resolve to "No". If the combined outcome does not match any listed option, this market will resolve to "Other".
+
+Election winner: This component is the political party that wins the greatest number of seats in the Congress of Deputies of Spain as a result of this election.
+
+If the results of the specified election are not definitively known by November 30, 2027, 11:59 PM ET, this component will be “Other”.
+
+Parties will be ranked by the number of seats won by their electoral lists (candidaturas) nationwide in this election, attributed as set out below. If two or more parties are tied on seats, ties will be broken by the total number of valid votes received by their lists nationwide, with higher vote totals ranking higher. If parties remain tied, ties will be broken by alphabetical order of the listed party names. This component is the party that occupies the highest finishing position after applying this ranking.
+
+Seats and votes will be attributed according to the electoral list on which they were obtained, as reported in the official results, regardless of the party membership of individual candidates. Lists will be attributed as follows:
+
+PSOE: lists of the Spanish Socialist Workers’ Party, including the Partit dels Socialistes de Catalunya (PSC) lists in Catalonia.
+
+PP: lists of the People’s Party, including the joint UPN–PP list in Navarre.
+
+Broad Front (FA): all Broad Front lists, including Catalunya en Comú in Catalonia, Compromís–Valencian Front in the Valencian Community, and Canarian People’s Unity (UPC) in the Canary Islands.
+
+ERC: Republican Left of Catalonia lists, including the joint ERC–Podem lists in Catalonia.
+
+Podemos: only lists presented by Podemos on its own.
+
+CCa: Canarian Coalition lists, including the joint CCa–1º CAN lists in the Canary Islands.
+
+Any other list will be attributed to the party or coalition that presents it, as named in the official proclamation of candidacies.
+
+Electoral cooperation, endorsements, coalition agreements, or subsequent changes in party affiliation or parliamentary-group membership will not be considered.
+
+This component will be determined based on the results of the elections, as indicated by a consensus of credible reporting. In the case of ambiguity, this component will be determined solely based on the results as reported by the Spanish Ministry of the Interior (https://infoelectoral.interior.gob.es/).
+
+Next Prime Minister: This component is the next individual who officially assumes the office of Prime Minister of Spain by March 31, 2028, 11:59 PM ET.
+
+To count for resolution, the individual must receive a vote of confidence from the Congress of Deputies and be formally sworn-in, resulting in the official formation of a new government. Any interim or caretaker Prime Minister who does not receive a parliamentary vote of confidence will not count toward the resolution of this component.
+
+If no such Prime Minister takes office by March 31, 2028, 11:59 PM ET, this component will be “Other”.
+
+The primary resolution source for this component will be official information from the Government of Spain; however, a consensus of credible reporting may also be used.

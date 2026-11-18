@@ -571,6 +571,15 @@
   "sha256": "c3c2853b93e433254b8133c9ccfe71e7e41121a1d2b60d1dca43877be0cad12b",
   "slug": "will-al-hazem-keep-the-most-clean-sheets-in-saudi-professional-league-2026-27"
  },
+ "0x62722db6d916c1f65be906cb67150ab22cf8aa63e702129c750c6a2edd26a02c": {
+  "created_at": "2026-11-17T17:09:31.03798Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will John Hoffman be the Democratic nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "3443d51c1b2433d46b5c3a00c11b51e49fc4b0cc9d1b9f27d7eaf57a0f8585e4",
+  "slug": "will-john-hoffman-be-the-democratic-nominee-for-the-minnesota-senate-special-election"
+ },
  "0x64689bba55dfd56d98f29268097f4ca568e091658ac208f3e35d1a92da0bb52c": {
   "created_at": "2026-09-14T20:32:33.38122Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -803,6 +812,7 @@
   "created_at": "2026-09-09T15:41:06.942374Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Kosovo be promoted to Nations League A in 2026-27?",
   "revisions": 1,
   "sha256": "de20540a8f61fcb9b5ef7a2ed1a0cbdb75ef623c12ef50f71d3b42020dfa35d1",
@@ -858,6 +868,7 @@
   "created_at": "2026-10-19T19:54:12.051538Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Matan Kahana be the next Speaker of the Knesset?",
   "revisions": 1,
   "sha256": "047827537e49535b586932f9c1b4c7327e202c1a201020b89b843919ae25933e",
@@ -1167,6 +1178,7 @@
   "created_at": "2026-10-26T20:06:34.404053Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Cambridge Dictionary's 2026 Word of the Year contain \"lore\"?",
   "revisions": 1,
   "sha256": "3af62a1aefb740bd59e9ede10bd566c6a00129d65184251be2e3e631a8e3ed6a",

@@ -648,6 +648,7 @@
   "created_at": "2026-10-30T19:52:56.801888Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will the Rhine River fail to return to normal levels before January 1, 2027?",
   "revisions": 1,
   "sha256": "8de257d2ef0251404a5b41a5b6b2c2cac82e69da9ffe529d284e7ac7fbb1a2b1",
@@ -777,6 +778,7 @@
   "created_at": "2026-05-26T21:16:17.109395Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Trump and Putin meet next in Switzerland?",
   "revisions": 1,
   "sha256": "8bde2c29f4411825837ff0791056a979e14621eeb8888c04aa7eab826f390e88",
@@ -1599,6 +1601,7 @@
   "created_at": "2026-09-02T21:58:33.391032Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Central Michigan Chippewas advance to the 2026 MAC Championship Game?",
   "revisions": 1,
   "sha256": "999043ac8aeabbbef3ed71c9e4cd52e3613a8bd54e28381f42504e51cc912e13",
@@ -1900,5 +1903,14 @@
   "revisions": 1,
   "sha256": "707b715eff21da0fecc8b7a9735623151b297b7b0e01b7332a4ea31b814a1f1d",
   "slug": "will-colt-emerson-win-the-2026-al-rookie-of-the-year-award"
+ },
+ "0xffad5690b1ebe05b4ed8d69d5616ab5935b3f5207c2051a97ba44dc0c7d2d4fc": {
+  "created_at": "2026-11-17T17:09:09.769246Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Harry Niska be the Republican nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "2a7a842e3320b0492645666d41af122378b053799185ca9ef883da8e7f804596",
+  "slug": "will-harry-niska-be-the-republican-nominee-for-the-minnesota-senate-special-election"
  }
 }

@@ -510,6 +510,15 @@
   "sha256": "719a5aae1ce500ebfd049ad6ecb5dedb4746015aeb86b315efd1745deaa8813b",
   "slug": "breece-hall-1500-scrimmage-yards-2026-27"
  },
+ "0x44d4cb74d3a7ca1822f4491c99b25c5996fe6a3a4e3458509d37d47ed0d6cd2d": {
+  "created_at": "2026-11-17T21:33:43.234478Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will the US Section 232 tariff rate on Canadian primary aluminum be Other on December 31, 2027?",
+  "revisions": 1,
+  "sha256": "e5533d3ff20e124480bed1c6e9e4bcac16982cea82a139e1327c8522b59f0cc0",
+  "slug": "section-232-rate-on-canadian-aluminum-end-of-2027-other"
+ },
  "0x45062a809209ec551f4d046717e0f2dde98f9e7711ac48ae96015a17ce1aa22d": {
   "created_at": "2026-08-12T17:24:45.593619Z",
   "first_seen": "2026-11-04T01:55:27Z",

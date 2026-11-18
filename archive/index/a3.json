@@ -507,6 +507,7 @@
   "created_at": "2026-09-09T15:47:04.91194Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Haiti win the 2026-27 CONCACAF Nations League?",
   "revisions": 1,
   "sha256": "778499c1c5d259b66b6ae3e9fefa6c559aa9ce3fc3fa8933b31df14ee61e7e74",
@@ -788,6 +789,7 @@
   "created_at": "2026-08-05T10:29:22.322654Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Ghost of Yotei: Legends win Best Multiplayer at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",
@@ -1295,6 +1297,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-notre-dame-have-more-than-8pt5-wins-during-the-2026-cfb-season-20260810194028942"
  },
+ "0xd2e5e252e3a5c17a15e6cd6ab2bbfc96842d84b64bf05008bafd86923ceb77a3": {
+  "created_at": "2026-11-18T02:58:12.431804Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Jensen Huang be named NVIDIA's next CEO and Nvidia's market cap be below $4T at the end of 2026?",
+  "revisions": 1,
+  "sha256": "a9d0573c4b2d05bb718f73d7a780a5873de33b00753b0f7fafe738e9d826eb7d",
+  "slug": "jensen-huang-named-nvidia-ceo-and-nvidia-4t-end-of-2026-named-under"
+ },
  "0xd40c4266e0c6495660fe2b12539e11284d5190d8df6389cc43098a50df5c83a3": {
   "created_at": "2026-10-13T15:50:10.741922Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1476,6 +1487,15 @@
   "revisions": 1,
   "sha256": "a6a27b61e72bdd5760fae3ccb27d5b0222597bc5ac483c32e9a514b96be37ea4",
   "slug": "will-anne-hathaway-be-nominated-for-best-actress-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xec3642180a5349f70fea292a42ac6be9b3e5fc289a6166c1ed2941677fcb4ea3": {
+  "created_at": "2026-11-17T17:09:29.409498Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Keith Ellison be the Democratic nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "3443d51c1b2433d46b5c3a00c11b51e49fc4b0cc9d1b9f27d7eaf57a0f8585e4",
+  "slug": "will-keith-ellison-be-the-democratic-nominee-for-the-minnesota-senate-special-election"
  },
  "0xed316efcf6b08c9419d9b461d407eb84d398ed7f070a5a5c594a531025bd0fa3": {
   "created_at": "2026-08-04T18:19:23.382268Z",

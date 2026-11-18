@@ -716,6 +716,15 @@
   "sha256": "527f9d527d47caae8cf03e32df010841c60fd2c5c6cd9dacef9f90bb87633195",
   "slug": "will-the-republican-party-candidate-win-the-2026-co-08-house-election-by-0-3"
  },
+ "0x73e1b06c288b9e37c6cf49244b99bac907a68f0c65f2676f587e6d5536f0e3bd": {
+  "created_at": "2026-11-17T16:27:56.59209Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will J.D. Vance win the 2028 presidential election?",
+  "revisions": 1,
+  "sha256": "db7ad11c69da2dc81a7ab9b522e536f0acb81ce47e14f7a6d1296fba216e320f",
+  "slug": "will-jd-vance-win-the-2028-presidential-election-path"
+ },
  "0x7478bc281d1ce5344cee992a1edce7765a410d8615b37ba65a88e79f81556dbd": {
   "created_at": "2026-09-08T16:56:31.121184Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1124,6 +1133,15 @@
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
   "slug": "will-javier-antonio-onofre-ccama-win-the-next-arequipa-mayoral-elections-20260811165718012"
+ },
+ "0xb0320f4201f6f98598a399b193b165de77df2375c0dcb0b359857409f4c1ebbd": {
+  "created_at": "2026-11-17T17:30:30.238578Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Lynn Fitch be the Republican nominee for Mississippi Governor?",
+  "revisions": 1,
+  "sha256": "ccefb16853124a35651453447829ff3ed12d01227bf1f633d7492d8d97efeeed",
+  "slug": "will-lynn-fitch-be-the-republican-nominee-for-mississippi-governor"
  },
  "0xb1dabc4c455634dcc77bbd5a7848c524635a8d0a7e677cd50ab99f1334f70abd": {
   "created_at": "2026-09-20T09:46:07.807308Z",

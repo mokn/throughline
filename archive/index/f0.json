@@ -397,6 +397,15 @@
   "sha256": "24333a361c213e5d8f8086233d3402b33fa4e94cc6f2a0524dd54235bd333eed",
   "slug": "will-ambient-launch-a-token-by-december-31-2027"
  },
+ "0x34bd6a3a5ef7058b00f12883f1f8f5f4a84c06570cf32091850a975d6277c6f0": {
+  "created_at": "2026-08-05T10:30:13.799349Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Where Winds Meet win Best Mobile Game at the 2026 Game Awards?",
+  "revisions": 1,
+  "sha256": "94a1fec34f9abcebc303bfdfc4353f41536185af3856fb2a7a5428c5fcf4edb1",
+  "slug": "will-where-winds-meet-win-best-mobile-game-at-the-2026-game-awards-1785857781999"
+ },
  "0x37ce34fa19f74d6bc12cd6583eaf966db0ec942997c8f397b6a4398a3d687df0": {
   "created_at": "2026-08-05T18:43:51.568931Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -645,6 +654,15 @@
   "revisions": 1,
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
   "slug": "will-toluca-finish-2nd-in-the-2026-liga-mx-apertura-20260722170637352"
+ },
+ "0x5fddaeee11d92331c991b362106872c80675404d8c5e2e4e74644f379f2ec2f0": {
+  "created_at": "2026-11-17T16:47:50.532475Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Taylor win Ultimate Self-Defense Championship Season 4?",
+  "revisions": 1,
+  "sha256": "8d4c16ba7fa2b37f47fa9e9e750c245096f19681c9c58d752ccc9b82a66a414b",
+  "slug": "will-taylor-win-ultimate-self-defense-championship-season-4"
  },
  "0x602262e64decae9126b20ae35e208b70577e06fc46473cc4cab5d5629847dcf0": {
   "created_at": "2026-09-14T20:33:21.801316Z",
@@ -1609,6 +1627,7 @@
   "created_at": "2026-08-07T20:12:08.427154Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will the Democratic Party candidate win the 2026 FL-07 House election by 6% or more?",
   "revisions": 1,
   "sha256": "011d925a87667fdafee6c3201486bbb6298657ac10d4b41ac92028e9e62bc8e6",

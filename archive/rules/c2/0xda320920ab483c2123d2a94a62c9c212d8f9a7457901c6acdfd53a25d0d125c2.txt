@@ -1,0 +1,21 @@
+This market will resolve according to the combined outcome of (1) whether NVIDIA Corporation officially announces Jensen Huang as its next CEO by December 31, 2026, 11:59 PM ET and (2) whether Nvidia's public market capitalization at the close of regular trading on the final trading day of 2026 is above $4 trillion.
+
+Options beginning "Named CEO" require NVIDIA Corporation to officially announce Jensen Huang as its next CEO by December 31, 2026, 11:59 PM ET. Options beginning "Not named CEO" require no such announcement by that time. Each option then names the result of the second component ("Over $4T" or "Under $4T"), as defined below. The option matching both results will resolve to "Yes", and all other options will resolve to "No".
+
+Jensen Huang named CEO: On November 12, 2026, NVIDIA announced that Jensen Huang had resigned as its President, Chief Executive Officer, and a member of its Board of Directors, effective immediately. This component is "Named CEO" if NVIDIA Corporation officially announces Jensen Huang as the successor to the role of CEO of NVIDIA by December 31, 2026, 11:59 PM ET. Otherwise, it is "Not named CEO".
+
+An announcement will be sufficient for "Named CEO" regardless of if/when Jensen Huang actually becomes the next CEO of NVIDIA.
+
+Interim CEOs will not qualify.
+
+The resolution source for this component will be public statements from NVIDIA Corporation, however a consensus of credible reporting may also be used.
+
+Nvidia market cap: This component is "Over $4T" if Nvidia's public market capitalization at the close of regular trading on the final trading day of 2026 is $4 trillion or greater. Otherwise, it is "Under $4T".
+
+Public market capitalization will be determined through appropriate calculation using the final official regular-hours closing prices published for the company's listed equities on its primary exchange for the last trading day of 2026, multiplied by the company's total number of shares outstanding at the relevant time. If necessary, to accurately capture the company’s total market capitalization, rather than a stock-class-specific market capitalization, the calculation will include all outstanding share classes and apply any stated conversion ratios to the publicly traded class. Where no conversion right exists, such shares will be counted at their stated outstanding amount without discount, unless official filings explicitly specify differently. The number of outstanding shares will be determined from official company filings or disclosures (e.g., SEC filings).
+
+If the listed company merges with or acquires another entity and remains the parent company, no change to resolution methodology applies.
+
+If the listed company is acquired, merges into another entity and is no longer the surviving parent company, or otherwise ceases to exist as an independent entity prior to the end of the period, the public market capitalizations achieved prior to completion of the transaction will be considered for resolution. No transaction, acquisition, or merger consideration will be considered for resolution.
+
+The resolution source for this component is official exchange trading data and publicly reported share counts.

@@ -443,6 +443,7 @@
   "created_at": "2026-10-15T13:13:32.922468Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will NVIDIA (NVDA) Q3 Data Center revenue be above $105B?",
   "revisions": 1,
   "sha256": "892935d79fe787773ac0532c51cfbf25ad9ef32ebbbff952594de4665b4c07a4",
@@ -850,6 +851,7 @@
   "created_at": "2026-08-05T10:29:40.434484Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Titanium Court win Best Game Direction at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "86ceb3b75052d661856c223e5eedd1b2ec5af3ca16de30c4f357e231c62c36a1",
@@ -1384,6 +1386,15 @@
   "revisions": 1,
   "sha256": "b82b1d43ab90d322396a4a71974a366954717a1e95124cc5fffbbd132c37805a",
   "slug": "will-fc-cajamarca-be-relegated-from-peru-liga-1-2026"
+ },
+ "0xdbfd6b5ad504ceb1babf34f29828f84262f9271cc95e10e1c34fdc0ba3e22870": {
+  "created_at": "2026-11-17T17:09:32.612714Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Trina Swanson be the Democratic nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "3443d51c1b2433d46b5c3a00c11b51e49fc4b0cc9d1b9f27d7eaf57a0f8585e4",
+  "slug": "will-trina-swanson-be-the-democratic-nominee-for-the-minnesota-senate-special-election"
  },
  "0xdc00b165e368e4bc31f3f716192e35638a7f52715d4bc0e95fdceb4b3d9df370": {
   "created_at": "2026-08-28T19:59:41.147709Z",

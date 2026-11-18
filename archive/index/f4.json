@@ -121,6 +121,7 @@
   "created_at": "2026-08-05T10:29:40.577746Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Cairn win Best Game Direction at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "86ceb3b75052d661856c223e5eedd1b2ec5af3ca16de30c4f357e231c62c36a1",
@@ -337,6 +338,15 @@
   "sha256": "5cc4da41e869c140ab826f92ac9e0f74e49b2aad0b8ed79876abe33e7e73915d",
   "slug": "will-the-us-officially-declare-war-on-iran-by-december-31-2026-746"
  },
+ "0x37c696e13d3e61d3b8ab5212039f4cd63f81ff91d0457df391b93d893bf527f4": {
+  "created_at": "2026-11-17T17:30:30.50025Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Andrew Colom be the Democratic nominee for Mississippi Governor?",
+  "revisions": 1,
+  "sha256": "a59e6a7fde28afb6f8d5758dcdd5a391ea200d638cf386d1c0b0b1411979de48",
+  "slug": "will-andrew-colom-be-the-democratic-nominee-for-mississippi-governor"
+ },
  "0x39385de5ad7f910594bca4f7eb3cc49a6ade115f588a4a43f90a539b70d8d7f4": {
   "created_at": "2026-10-29T23:12:59.269776Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -524,6 +534,7 @@
   "created_at": "2026-09-25T20:22:47.98862Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Trump, Putin, and Xi seen together before 2027?",
   "revisions": 1,
   "sha256": "77ebbb45179455ec36b5dbe8061837dc76bab543e2b136b37b07316fe1e0d091",
@@ -1200,6 +1211,7 @@
   "created_at": "2026-09-17T18:19:19.33373Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Esports Foundation Win the 2026 Esports Tournament Organiser of the Year Award?",
   "revisions": 1,
   "sha256": "f067aa1686b006d2ad8bee85c6e0a383c9a30117713d1bc67b00c2c6f3441023",

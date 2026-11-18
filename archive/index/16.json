@@ -622,6 +622,7 @@
   "created_at": "2026-11-16T22:22:05.387416Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Democratic trifecta odds hit 60% by December 31?",
   "revisions": 1,
   "sha256": "e145b46f389ecf02ac2e87a2df28e5cf10d7ccf7a070a1879d61121493708f8f",
@@ -745,6 +746,15 @@
   "revisions": 1,
   "sha256": "8dd6a7de966805f0d2d692f9be959ea071e7deade37120c18bf636b49e93e6f8",
   "slug": "will-ostium-launch-a-token-by-june-30-2027"
+ },
+ "0x88045edf1a8081479b7cc9196f0f3208cfeee774c0556fda36f20a206ba15016": {
+  "created_at": "2026-11-17T17:09:27.698756Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Steve Simon be the Democratic nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "3443d51c1b2433d46b5c3a00c11b51e49fc4b0cc9d1b9f27d7eaf57a0f8585e4",
+  "slug": "will-steve-simon-be-the-democratic-nominee-for-the-minnesota-senate-special-election"
  },
  "0x881a998e4bd6de0eb8ec772b011de5002c404eef22123491f910117f39f4a816": {
   "created_at": "2026-11-01T15:01:25.132808Z",

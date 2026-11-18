@@ -67,6 +67,7 @@
   "created_at": "2026-08-05T10:30:35.211723Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Phonopolis win Best Independent Game at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
@@ -316,6 +317,15 @@
   "revisions": 1,
   "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
   "slug": "will-manuel-bompard-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
+ "0x2601bd72e005987f40bc74e59c1b2ade2f1793f69854f0a6f00ce31ca03f7930": {
+  "created_at": "2026-11-18T00:03:38.8371Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will New York City get more snow than average this winter?",
+  "revisions": 1,
+  "sha256": "5cc82c5c191fd0b75f98250e7d226dc7e2eab5437919b4ef9ab10970cf2aefd8",
+  "slug": "will-new-york-city-get-more-snow-than-average-this-winter-2026-2027"
  },
  "0x2651d3103355111f3d522d027df5e0d156122e411ae1e7888fe6bb9092633530": {
   "created_at": "2025-11-19T22:51:30.958559Z",

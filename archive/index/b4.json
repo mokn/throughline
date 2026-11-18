@@ -12,6 +12,7 @@
   "created_at": "2026-10-26T20:06:35.494402Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Cambridge Dictionary's 2026 Word of the Year contain \"rot\"?",
   "revisions": 1,
   "sha256": "3af62a1aefb740bd59e9ede10bd566c6a00129d65184251be2e3e631a8e3ed6a",
@@ -390,6 +391,15 @@
   "sha256": "14b7100c05e2860544f5a554fbdd7229b7dbff3a810600d8bb3d36734ea95745",
   "slug": "el1-oxf-rea-2026-09-08-team-total-home-0pt5"
  },
+ "0x3db68c366efa3abb5b7eb80b59b33a3f936c762f7f5b4e117f64090b205a93b4": {
+  "created_at": "2026-11-18T02:56:05.980464Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will the PSOE win the Spanish general election and Pedro S\u00e1nchez become the next Prime Minister?",
+  "revisions": 1,
+  "sha256": "38ca687cc352c32f44f4022db6917f059c54f93cf2fdfd5a7933161510e544fd",
+  "slug": "will-the-psoe-win-the-spanish-general-election-and-sanchez-become-the-next-prime-minister"
+ },
  "0x3e2d35d5563354a288cb451d6e432ece7dc08e63fcbefdfb0bcccb5ad44c0cb4": {
   "created_at": "2026-08-04T18:38:02.671047Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -633,6 +643,7 @@
   "created_at": "2026-10-19T19:54:12.889546Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Elazar Stern be the next Speaker of the Knesset?",
   "revisions": 1,
   "sha256": "047827537e49535b586932f9c1b4c7327e202c1a201020b89b843919ae25933e",
@@ -933,6 +944,7 @@
   "created_at": "2026-08-05T10:29:21.984277Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Reanimal win Best Multiplayer at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",

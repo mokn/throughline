@@ -202,6 +202,7 @@
   "created_at": "2026-08-11T15:07:32.120744Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Democrats sweep the Alaska Senate and Governor elections?",
   "revisions": 1,
   "sha256": "0cdea5b6be3668b029eba9233bcdb274f2296d42713ff5911e1f0fbc85f0af56",
@@ -589,6 +590,7 @@
   "created_at": "2026-08-05T10:30:33.19243Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Replaced win Best Independent Game at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
@@ -716,6 +718,7 @@
   "created_at": "2026-08-12T01:24:23.977585Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Hungrybox Win the 2026 Esports Content Creator of the Year Award?",
   "revisions": 1,
   "sha256": "bb647fbc90163c09da2e37ae7086c33333ee1fe16b7998f23b823b767ba99d11",
@@ -756,6 +759,15 @@
   "revisions": 1,
   "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
   "slug": "will-hunter-biden-announce-a-presidential-run-before-2028-20260803143241635"
+ },
+ "0x6d55f89e0eccc1049ccb9f28b0262adee8906d36f0844ed4de298d45ef1a0e24": {
+  "created_at": "2026-11-17T17:09:32.206476Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Erin Murphy be the Democratic nominee for the Minnesota Senate special election?",
+  "revisions": 1,
+  "sha256": "3443d51c1b2433d46b5c3a00c11b51e49fc4b0cc9d1b9f27d7eaf57a0f8585e4",
+  "slug": "will-erin-murphy-be-the-democratic-nominee-for-the-minnesota-senate-special-election"
  },
  "0x6df6eac3cb672076f854adc42cfeccdb9f997a53a527a520540206ef7b9d2a24": {
   "created_at": "2026-09-02T19:33:33.047083Z",

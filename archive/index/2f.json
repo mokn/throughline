@@ -36,6 +36,15 @@
   "sha256": "945305e5d68a034a4c850a0994e0c962450835eb85708b7f439a8f55980f2add",
   "slug": "will-lady-gaga-appear-at-the-2026-nfl-christmas-day-halftime-show"
  },
+ "0x0a701764c7fc5c4cfbd0d4deeae178c63ec4c9bd4b81754361491f672ee1782f": {
+  "created_at": "2026-11-18T02:56:06.702146Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will the PSOE win the Spanish general election and Alberto N\u00fa\u00f1ez Feij\u00f3o become the next Prime Minister?",
+  "revisions": 1,
+  "sha256": "38ca687cc352c32f44f4022db6917f059c54f93cf2fdfd5a7933161510e544fd",
+  "slug": "will-the-psoe-win-the-spanish-general-election-and-feijoo-become-the-next-prime-minister"
+ },
  "0x0c3b2a65600454e4d87c4ebff84a593f659b31f22b118e4f31db386ada3cec2f": {
   "created_at": "2026-09-04T19:33:05.210418Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -68,6 +77,7 @@
   "created_at": "2025-10-13T19:02:23.559365Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Daniel J. Sullivan Jr. win the Alaska Senate race in 2026?",
   "revisions": 1,
   "sha256": "43281a396ee74682a8622904d56158f6d70befa701515b1aec983e2365d84c7c",
@@ -122,6 +132,7 @@
   "created_at": "2026-08-05T10:27:36.367653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Fatal Frame II: Crimson Butterfly Remake win Best Audio Design at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "a1220b8fb1b36d8df77347784b6ed80cbbe6a6ea6bc9f8e832ca5f748810515f",

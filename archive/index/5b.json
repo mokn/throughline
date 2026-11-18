@@ -216,6 +216,15 @@
   "sha256": "f46155dc485204349bfab0b62492076cc5e5c838b6f71cf3bef59673eadf1562",
   "slug": "bo-nix-30-passing-touchdowns-2026-27"
  },
+ "0x276c3ae03828f89292a553551249d64d2e1b11e79baad78512af642953c4445b": {
+  "created_at": "2026-11-18T00:03:40.439267Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Salt Lake City get more snow than average this winter?",
+  "revisions": 1,
+  "sha256": "8572227a02893881339dd97cff6639af6e59eceba347ba76f19157c25ea7628f",
+  "slug": "will-salt-lake-city-get-more-snow-than-average-this-winter-2026-2027"
+ },
  "0x27ca332612c707eb6fb5e4a6cb7c6a5b2fdd78133e26954a0d44da05b835a35b": {
   "created_at": "2026-09-04T19:47:49.502606Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -770,6 +779,15 @@
   "revisions": 1,
   "sha256": "c8c222344af4dfa899eb3444c02e6795718d1d2cb692f90b0dac1e98387ff2fd",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-iowa-be-between-1250000-and-1300000"
+ },
+ "0x7dda0f59d4e8702c56a2dc73c544f70546431cb5318783b6f2b3ea257252f05b": {
+  "created_at": "2026-08-05T10:29:25.238812Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Meccha Chameleon win Best Multiplayer at the 2026 Game Awards?",
+  "revisions": 1,
+  "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",
+  "slug": "will-meccha-chameleon-win-best-multiplayer-at-the-2026-game-awards-1785857785576"
  },
  "0x80180cba7dd9b7e191a90f84d3a6bf4ba71da66882eb1d28a3e38de71939c65b": {
   "created_at": "2026-10-01T19:44:10.251168Z",

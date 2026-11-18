@@ -899,6 +899,15 @@
   "sha256": "88a40f717c173556e21c93afbd942ac8da4774cc16f08fd1824ad23006cc464a",
   "slug": "el1-ste-swe-2026-09-26-second-half-team-total-away-3pt5"
  },
+ "0x9c94d722b48f9f75d452fa8d2ee699e026c416e73175c3acb2ba2274142cccf5": {
+  "created_at": "2026-08-05T10:29:25.404555Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Orbitals win Best Multiplayer at the 2026 Game Awards?",
+  "revisions": 1,
+  "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",
+  "slug": "will-orbitals-win-best-multiplayer-at-the-2026-game-awards-1785857785577"
+ },
  "0x9ed69dc3d1843582b2f12cd9b5a3cddf4de0bd7f332354b755bf4bedefae0ef5": {
   "created_at": "2026-10-13T19:55:53.757262Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1240,6 +1249,7 @@
   "created_at": "2026-08-05T10:30:12.701329Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Wuthering Waves win Best Mobile Game at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "94a1fec34f9abcebc303bfdfc4353f41536185af3856fb2a7a5428c5fcf4edb1",

@@ -98,6 +98,15 @@
   "sha256": "bcfe356a6919de657f2cbc31ddcff0ea35448a3def4b2ebb3e0cf7c905664af7",
   "slug": "will-rogelio-ortega-martinez-win-the-2027-guerrero-governor-election-20260803173852829"
  },
+ "0x0a47266f826b749b305b55c08bde0d3f28853c7943805a7b3b9c7d63dae57bea": {
+  "created_at": "2026-11-18T02:56:07.107194Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will the PP win the Spanish general election and Pedro S\u00e1nchez become the next Prime Minister?",
+  "revisions": 1,
+  "sha256": "38ca687cc352c32f44f4022db6917f059c54f93cf2fdfd5a7933161510e544fd",
+  "slug": "will-the-pp-win-the-spanish-general-election-and-sanchez-become-the-next-prime-minister"
+ },
  "0x0a6ad9cc02db3bda36d2cb333fb283b74d51216f60977a9e57cda5cc155a5eea": {
   "created_at": "2026-11-12T20:19:04.965235Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1012,6 +1021,7 @@
   "created_at": "2026-10-31T00:26:32.201326Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Trump speak to Xi Jinping by November 30?",
   "revisions": 1,
   "sha256": "3188e2637b8b05d5741b3ed47c5acc66e2d36bf6a54f5ff8c49be478c7e2088e",

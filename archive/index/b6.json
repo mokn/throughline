@@ -116,6 +116,15 @@
   "sha256": "213ec5a4b46654b73a756d331006ff725a47377f0261f451f599f45fadf0d9fe",
   "slug": "will-osasuna-record-43-or-more-points-in-the-2026-27-laliga-season"
  },
+ "0x16103e284eba68ed3d3ac7288e4eceacb559041c628a22a60bfe1620cf0cbfb6": {
+  "created_at": "2026-11-17T17:30:29.526362Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Jim Hood be the Democratic nominee for Mississippi Governor?",
+  "revisions": 1,
+  "sha256": "a59e6a7fde28afb6f8d5758dcdd5a391ea200d638cf386d1c0b0b1411979de48",
+  "slug": "will-jim-hood-be-the-democratic-nominee-for-mississippi-governor"
+ },
  "0x1cba6902358ab46b21579376c319c91bd860388dde73d1b602034a8a2655e8b6": {
   "created_at": "2026-10-01T14:00:57.221515Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -175,6 +184,7 @@
   "created_at": "2026-08-05T10:29:55.07629Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Titanium Court win Best Narrative at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "171a3a1fb6a0736159a109debebc068e4fb65784919e6b6b024285624a30032d",

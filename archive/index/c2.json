@@ -925,6 +925,7 @@
   "created_at": "2026-08-05T10:29:24.225177Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Exoborne win Best Multiplayer at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",
@@ -1603,6 +1604,15 @@
   "revisions": 1,
   "sha256": "7d7192007a358d559f6566f811448731465aa24868b1d6d81dc0eb813b440136",
   "slug": "will-the-republican-party-candidate-win-the-2026-arkansas-gubernatorial-election-by-25-30"
+ },
+ "0xda320920ab483c2123d2a94a62c9c212d8f9a7457901c6acdfd53a25d0d125c2": {
+  "created_at": "2026-11-18T02:58:13.24265Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Jensen Huang not be named NVIDIA's next CEO and Nvidia's market cap be below $4T at the end of 2026?",
+  "revisions": 1,
+  "sha256": "a9d0573c4b2d05bb718f73d7a780a5873de33b00753b0f7fafe738e9d826eb7d",
+  "slug": "jensen-huang-named-nvidia-ceo-and-nvidia-4t-end-of-2026-not-named-under"
  },
  "0xdba1e5f9388a4ee2e21b9db1e4d69f31c8f7110f00f58eb952c019afa647e5c2": {
   "created_at": "2026-10-24T04:00:08.520771Z",

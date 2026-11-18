@@ -287,6 +287,7 @@
   "created_at": "2026-10-20T23:01:56.003026Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Next Astra Model (6.1+) released by December 15, 2026?",
   "revisions": 1,
   "sha256": "d18395ef2c81dfaf6dd27fbf021cf27590efbc989f675f987bc4bca742877b5a",
@@ -689,6 +690,15 @@
   "revisions": 1,
   "sha256": "7d62149db4cd086b12d1565e0ec4dc71bc6388f7c01dee11c2628ffec4b23fab",
   "slug": "jones-act-domestic-shipping-requirements-removed-by-december-31-20260629145453301"
+ },
+ "0x614fea47aa31a09f9338791ad8faa03e726a3480e6366723666c7f32edbabc71": {
+  "created_at": "2026-11-18T02:58:12.827026Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Jensen Huang not be named NVIDIA's next CEO and Nvidia's market cap be above $4T at the end of 2026?",
+  "revisions": 1,
+  "sha256": "a9d0573c4b2d05bb718f73d7a780a5873de33b00753b0f7fafe738e9d826eb7d",
+  "slug": "jensen-huang-named-nvidia-ceo-and-nvidia-4t-end-of-2026-not-named-over"
  },
  "0x625220b45667c1d5951bde924db0e521d16083d400551a3f607ac5f7adf4b471": {
   "created_at": "2026-10-10T11:30:10.133382Z",
@@ -1213,6 +1223,7 @@
   "created_at": "2026-08-05T10:29:22.930314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Marvel Tokon: Fighting Souls win Best Multiplayer at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",

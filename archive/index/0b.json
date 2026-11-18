@@ -804,6 +804,7 @@
   "created_at": "2026-11-16T22:22:04.121448Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Democratic trifecta odds hit 65% by December 31?",
   "revisions": 1,
   "sha256": "8530c6598f562ef6304326ffecb461a3f7348ce35441b3dc73e0a8340daac593",
@@ -1574,6 +1575,7 @@
   "created_at": "2026-08-04T17:57:14.03601Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will the Republican Party candidate win the 2026 Florida Senate election by 15%-18%?",
   "revisions": 1,
   "sha256": "fcd885be9fd2d699ebbab715a9f3a3c97fe0cf615ac07e10a342c1303a802c02",
@@ -1723,6 +1725,15 @@
   "revisions": 1,
   "sha256": "47960a84b87f5e919552743c5559c2b94694f042c982cf075ee1e8395003e904",
   "slug": "will-the-tampa-bay-buccaneers-be-the-nfc-1-seed-for-the-2027-nfl-playoffs"
+ },
+ "0xf22bf5279b6e0c4a6a9747d5399660144efba665efa6076a1b95b540f8a65d0b": {
+  "created_at": "2026-07-31T23:05:58.59569Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Elizabeth Holmes be the #1 searched person on Google in the US this year?",
+  "revisions": 1,
+  "sha256": "1dd93a2ed328338be39b74de88bb4683cc446dc8136c26236d8cc7bb3c21c129",
+  "slug": "will-elizabeth-holmes-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940438"
  },
  "0xf2894398f18ed67adae0b919f4a78a3cc0a2b466a71dde72459609887976af0b": {
   "created_at": "2026-09-04T19:33:07.106237Z",

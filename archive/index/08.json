@@ -239,6 +239,7 @@
   "created_at": "2026-08-07T20:12:06.530202Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will the Republican Party candidate win the 2026 FL-07 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "011d925a87667fdafee6c3201486bbb6298657ac10d4b41ac92028e9e62bc8e6",
@@ -793,6 +794,7 @@
   "created_at": "2026-08-05T10:27:36.056736Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Phonopolis win Best Audio Design at the 2026 Game Awards?",
   "revisions": 1,
   "sha256": "a1220b8fb1b36d8df77347784b6ed80cbbe6a6ea6bc9f8e832ca5f748810515f",
@@ -811,6 +813,7 @@
   "created_at": "2026-10-30T16:15:53.572027Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Iran target Kuwait by November 30, 2026?",
   "revisions": 1,
   "sha256": "a21d69206cdcc3156fbfc3ff3a4ba6071dc334fd15fdcce3c44be36f9d0ececb",
@@ -1180,6 +1183,15 @@
   "sha256": "85e66442d11be888b4802bd76c191900aea8b552e1292202372cba7c5b328883",
   "slug": "how-many-tesla-deliveries-in-q4-2026-475k-to-500k"
  },
+ "0x9a868a790eb18e325fd4a8e414b0921bb2f428b0314d7bf8c4b3a19a56ed6308": {
+  "created_at": "2026-11-18T02:49:10.901793Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Israel have an Alternate Prime Minister by February 28, 2027?",
+  "revisions": 1,
+  "sha256": "4f17ff55265423e15d7f372fb96dc3552fcec6f4b1179d2487112b97768b8973",
+  "slug": "will-israel-have-an-alternate-prime-minister-by-february-28-2027"
+ },
  "0x9d122d63a38ef75e7b13bc05c3c938a2716178f9088ed7c71f4de78b53e01408": {
   "created_at": "2026-08-24T16:35:04.870682Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1375,6 +1387,7 @@
   "created_at": "2026-09-17T18:38:50.00891Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Esports Charts Win the 2026 Esports Supporting Service of the Year Award?",
   "revisions": 1,
   "sha256": "32380c6c2b17ff25dc44ebc0ce0f7a95b99edd43cb006a008f2a36e0e7436789",
@@ -1710,6 +1723,15 @@
   "revisions": 1,
   "sha256": "b45af220d04a670b2dd34b9848577badd8af146f06326aa475835cd05433cd5d",
   "slug": "will-the-republican-party-win-the-mo-06-house-seat"
+ },
+ "0xf4f2e175cf9567e62f1d0779741a907ea621f79916b5ad956f3f772b31963408": {
+  "created_at": "2026-11-18T00:03:39.731029Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Philadelphia get more snow than average this winter?",
+  "revisions": 1,
+  "sha256": "52ca5203b04cfa335456789724be16b48c05e228738128762e7842f363ea0dcf",
+  "slug": "will-philadelphia-get-more-snow-than-average-this-winter-2026-2027"
  },
  "0xf5ee04302825b42962bf0438cd1ffc8da075d7ea0aa24887b86174c1dc427b08": {
   "created_at": "2026-08-18T14:07:44.811901Z",

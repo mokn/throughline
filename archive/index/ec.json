@@ -59,6 +59,7 @@
   "created_at": "2026-10-19T19:54:13.274898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will Yair Lapid be the next Speaker of the Knesset?",
   "revisions": 1,
   "sha256": "047827537e49535b586932f9c1b4c7327e202c1a201020b89b843919ae25933e",
@@ -1332,6 +1333,15 @@
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-tim-scott-win-the-2028-us-presidential-election"
  },
+ "0xe8583e0b79882ffa367742cf46fd54fb2002c2c1b0c1cec6957ea5b140528dec": {
+  "created_at": "2026-11-17T17:30:31.975117Z",
+  "first_seen": "2026-11-18T15:39:44Z",
+  "last_changed": "2026-11-18T15:39:44Z",
+  "question": "Will Thomas Duff be the Republican nominee for Mississippi Governor?",
+  "revisions": 1,
+  "sha256": "ccefb16853124a35651453447829ff3ed12d01227bf1f633d7492d8d97efeeed",
+  "slug": "will-thomas-duff-be-the-republican-nominee-for-mississippi-governor"
+ },
  "0xe874f07182462b49e0c9469dad1d8da411e92e9c7e63bf174c439191d9c999ec": {
   "created_at": "2026-09-04T19:23:13.717214Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1354,6 +1364,7 @@
   "created_at": "2026-08-07T20:18:25.631094Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-18T15:39:44Z",
   "question": "Will the Republican Party candidate win the 2026 FL-27 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "008155b12da8e9a3979ef934cf893c218db8eb452996eaebfcb13a617288b08a",
