@@ -586,6 +586,15 @@
   "sha256": "173a792e74b8aedb6c62436a8de48402eded0a4acc0609b09a6a3625c86c307e",
   "slug": "will-donald-trump-publicly-insult-hakeem-jeffries-by-october-31-2026"
  },
+ "0x592c734677c2da594a42ca0fc9a5b3d505fc0e64c3532da1c88415ab32a21050": {
+  "created_at": "2026-11-18T21:07:20.997566Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Estonia come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-estonia-come-in-2nd-place-at-eurovision-2027"
+ },
  "0x59e9ca63d08056053a32738d3ea4773127ad4867684744016816e0f08030f950": {
   "created_at": "2026-08-11T19:03:51.59326Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -771,6 +780,7 @@
   "created_at": "2026-10-15T18:01:01.225964Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 4.5",
   "revisions": 1,
   "sha256": "9fad90986d010823dd633d9a8cd520e02fcb820f0919719f61bdb78f70143882",
@@ -1127,6 +1137,7 @@
   "created_at": "2026-08-11T17:58:45.290116Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the Republican Party candidate win the 2026 ND-AL House election by 35%-40%?",
   "revisions": 1,
   "sha256": "3ef0320716ebed4b135f63703fd094be3e9faec343e02f123676d721c7a50758",
@@ -1154,6 +1165,7 @@
   "created_at": "2026-10-15T18:01:00.189824Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: CD Minera O/U 5.5",
   "revisions": 1,
   "sha256": "e58fbe88da486fc4db51ef150825065a7a4db53a8e9527cf828eecc53ac9cabe",
@@ -1427,6 +1439,15 @@
   "sha256": "78873945d143a4e35fda91eec98885b7d26f498bef414877bedb53f7318fe1c2",
   "slug": "will-the-republican-party-candidate-win-the-2026-iowa-gubernatorial-election-by-0-3"
  },
+ "0xc436bb5caf026f8cea62f9972c8f3c833bbf0fb8bc9c1a0ab9cbe9fd4b1ec850": {
+  "created_at": "2026-11-18T19:52:04.907088Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Mariana Di Girolamo win Best Supporting Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "cd5b340e6c41133501ad8fd90b5a2faeeec662483359ed488eb467886ff885d1",
+  "slug": "will-mariana-di-girolamo-win-best-supporting-actress-at-the-32nd-critics-choice-awards"
+ },
  "0xc4d13aea5c171045b58b824c69b94e4b85a59051ca07082b69bab43aa6315050": {
   "created_at": "2026-09-14T20:34:14.543778Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1471,6 +1492,15 @@
   "revisions": 1,
   "sha256": "52066c77464cf03edefc063c4b48116823a76fd6d8e4d6b2c64e0f54d7f2f27f",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-42-house-election"
+ },
+ "0xd051dce3ef305b7c061d55a148d337d65a7947c2b7d0773aa3d1b27e2434f650": {
+  "created_at": "2026-11-18T19:52:07.991537Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Sophie Okonedo win Best Supporting Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "cd5b340e6c41133501ad8fd90b5a2faeeec662483359ed488eb467886ff885d1",
+  "slug": "will-sophie-okonedo-win-best-supporting-actress-at-the-32nd-critics-choice-awards"
  },
  "0xd0d73eefee6d12ceddf4a7b8681fce81d74d74775e56a3679ed1b13053a0f950": {
   "created_at": "2026-08-10T14:53:34.578439Z",

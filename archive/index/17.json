@@ -283,6 +283,15 @@
   "sha256": "645c3893befb9a0c5f4d7d8f8b66c528171ca0efc41db3f0569928627090fd6c",
   "slug": "el1-ste-swe-2026-09-26-spread-away-4pt5"
  },
+ "0x315261740d05d8c4c8c5d84e837c98e99b0256d55dd6aa0f94cebb6d11b57d17": {
+  "created_at": "2026-11-18T19:51:30.756104Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Julianne Moore win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-julianne-moore-win-best-actress-at-the-32nd-critics-choice-awards"
+ },
  "0x34918035a590555ba1fb1d6a019d766ab6e557d63e7f3140b63b4550eee7f417": {
   "created_at": "2025-10-10T19:25:45.735897Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -877,6 +886,15 @@
   "sha256": "978e2aa15004c6ae41e9ab8624dcb5e2e80ddd04404c6d856307ae3f3982f60f",
   "slug": "will-minimax-have-the-best-image-to-video-ai-at-the-end-of-november-2026"
  },
+ "0xa64078e270c6e8b35646640f5da46bddb1db03edc36ef07ca68173ff27a3b117": {
+  "created_at": "2026-11-18T19:51:46.333595Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Antonio Banderas win Best Supporting Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "8659894cda157dbe70efa40b0afc0402af5f1a8dbef1828da039934be8f74d6b",
+  "slug": "will-antonio-banderas-win-best-supporting-actor-at-the-32nd-critics-choice-awards"
+ },
  "0xa6de2bce79e4dc1523fe0c0ceaf5dd83b73c4b5a0db2298692188f6bdedd3f17": {
   "created_at": "2026-08-05T16:32:44.113256Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1023,6 +1041,15 @@
   "sha256": "e4642f6f034311f5441e0035a385b95d26069a0941f69f7cab235cfd42e9804f",
   "slug": "spl-ith-sha-2026-10-16-total-8pt5"
  },
+ "0xbb613d1b857df070d3639d94f53f0e329ca81beb16674c18efc97d3525d13817": {
+  "created_at": "2026-11-18T21:08:10.109279Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will United Kingdom be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-united-kingdom-be-in-the-top-5-at-eurovision-2027"
+ },
  "0xbcaf8581797690cc0bb99b5e205d77dca7d5573280e242f9ac70e556f70e8a17": {
   "created_at": "2026-10-20T18:27:53.571482Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1091,6 +1118,7 @@
   "created_at": "2026-10-15T17:01:05.346236Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 5 - 4 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -1227,6 +1255,7 @@
   "created_at": "2026-09-17T23:52:14.550757Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Charlie Worsham (guitar) win Musician of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "a1af45da751cc1d8185b10fa1dca3ee905bc20d976aa3d3b678dbb07376aee27",
@@ -1503,6 +1532,7 @@
   "created_at": "2026-10-15T17:02:01.248112Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 1 - 5 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",

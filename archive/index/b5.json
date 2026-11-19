@@ -342,6 +342,7 @@
   "created_at": "2026-10-15T17:01:36.51747Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 0 - 2 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
@@ -374,6 +375,15 @@
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-arizona-state-have-more-than-5pt5-wins-during-the-2026-cfb-season-20260810194011430"
+ },
+ "0x310ec112f3c047eea54868b877be5f09f4782724dba446dac8bb602eb9ec48b5": {
+  "created_at": "2026-11-18T18:51:13.43623Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Gavin Newsom win the Democratic nomination but lose the 2028 election?",
+  "revisions": 1,
+  "sha256": "dd7eaa76443ce9258b6b7faabbbc0ebf07a52c6b407ad428296303fe632439df",
+  "slug": "will-gavin-newsom-win-the-democratic-nomination-but-lose-the-2028-election"
  },
  "0x332884136b588b219e3f7596ffb277136be4d2f1e715e387d45329e8162587b5": {
   "created_at": "2026-09-02T20:14:24.32122Z",
@@ -674,6 +684,7 @@
   "created_at": "2026-10-15T18:02:43.556718Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Utebo FC (-4.5)",
   "revisions": 1,
   "sha256": "a691a38180f2e473a95bcf6271d4b147597b3fcb1a0b36495805f2609518b197",
@@ -927,6 +938,7 @@
   "created_at": "2026-10-15T17:00:57.425052Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 0 - 2 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",

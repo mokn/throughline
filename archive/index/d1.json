@@ -778,6 +778,15 @@
   "sha256": "6dc17fda355894cdc6bac436ec8273beac375d77209a4e4ebf3f3701372e976d",
   "slug": "2027-soccer-bundesliga-runner-up-werder-bremen"
  },
+ "0x6b24545ee458c661de7817787306c2a38852283eed13fc21b8ae2c6c29da3cd1": {
+  "created_at": "2026-11-18T20:13:29.287192Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will a Senate committee vote to subpoena Kash Patel before 2028?",
+  "revisions": 1,
+  "sha256": "1c9684d42ec9402688e2d7a6db5db2113759f45e3eadf36382bbf73d566f88b1",
+  "slug": "will-a-senate-committee-vote-to-subpoena-kash-patel-before-2028"
+ },
  "0x6c21a304214c954bae01ba5f99e5b306ed7fba0c77b7b8aa1361995726edead1": {
   "created_at": "2026-10-25T04:00:07.951022Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1230,6 +1239,7 @@
   "created_at": "2026-10-13T19:52:15.771608Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will SaiPa Lappeenranta win the 2026-27 Champions Hockey League?",
   "revisions": 1,
   "sha256": "f7da3b136d5c003bc200286da7254a38aa256f4b1a0291363eb37c04e5307ff3",
@@ -1622,6 +1632,7 @@
   "created_at": "2026-10-15T17:02:00.590555Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 0 - 3 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
@@ -1640,6 +1651,7 @@
   "created_at": "2026-10-15T17:02:01.356824Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 3 - 3 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",

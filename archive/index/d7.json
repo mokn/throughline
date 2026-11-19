@@ -67,6 +67,7 @@
   "created_at": "2026-10-15T17:01:04.05798Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 0 - 4 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -272,6 +273,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-kansas-state-have-more-than-6pt5-wins-during-the-2026-cfb-season-20260810194021859"
  },
+ "0x27285392f6d237be7b9a221e899a0baa4d4d48ce5dc097555700a3b45d39abd7": {
+  "created_at": "2026-11-18T21:07:34.312797Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Romania come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-romania-come-in-2nd-place-at-eurovision-2027"
+ },
  "0x279311babfe66de1128989f88ce24468cda94e95d8f3b80ba1a465ee851e0cd7": {
   "created_at": "2026-08-12T23:14:57.688061Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -307,6 +317,15 @@
   "revisions": 1,
   "sha256": "5f4dfac74b2eed837524b31ea291001fa3392bd7c44847a501ab792a0681f4a3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ia-03-house-election-by-12-15"
+ },
+ "0x2e33eaf8ffde32a47ddfadd1e82c466596f43fe98c533c42c58bb82ce097dbd7": {
+  "created_at": "2026-11-18T19:52:09.812235Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tao Okamoto win Best Supporting Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "cd5b340e6c41133501ad8fd90b5a2faeeec662483359ed488eb467886ff885d1",
+  "slug": "will-tao-okamoto-win-best-supporting-actress-at-the-32nd-critics-choice-awards"
  },
  "0x2f1d77f9d4c9f4637ce0df835112f419c135363cd9c611b1f7ff2e4ff5b7bfd7": {
   "created_at": "2026-08-10T20:04:06.070376Z",
@@ -413,6 +432,7 @@
   "created_at": "2026-10-15T18:01:05.585495Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: O/U 4.5",
   "revisions": 1,
   "sha256": "46ca7f7be9d51c658f17e89dc606fdafad08ab94c22d70410a3d9a9c75c73152",

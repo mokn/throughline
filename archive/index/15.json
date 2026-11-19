@@ -722,6 +722,7 @@
   "created_at": "2026-09-17T23:52:39.427661Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cSomewhere Over Laredo\u201d by Lainey Wilson win Single of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "6c935f3659d3f9cf70504fc73052bd7993553584b8fd6a76a6045af975df611a",
@@ -922,6 +923,7 @@
   "created_at": "2026-10-15T18:02:47.989096Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: Utebo FC O/U 5.5",
   "revisions": 1,
   "sha256": "01f5e1dc2558c0a346d29275fd788349e2ac8801bf9e646533525574ae843b10",
@@ -935,6 +937,15 @@
   "revisions": 1,
   "sha256": "c64b747d1fd26de28d9e65371a2400ebcd809b2f3b654c37831c41767a88546b",
   "slug": "el1-bro-wyc-2026-10-03-spread-away-5pt5"
+ },
+ "0x93c34c1fb634c25f2a542f8f7b2259f68af25492c3825fcf0f11f37a1ea7b915": {
+  "created_at": "2026-11-18T18:16:56.012193Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Athletics?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-athletics"
  },
  "0x93c8a303b0f0d9675bad3c0c097d98c3678f3f8d692412abcdea13bf7e7a6a15": {
   "created_at": "2026-10-03T19:00:27.71159Z",
@@ -1229,6 +1240,15 @@
   "sha256": "fed8b54969f0183e24f9fd8840f2362ec1ce4a30f14925e39ec3e5a91e354572",
   "slug": "el1-ste-swe-2026-09-26-first-to-score-home"
  },
+ "0xc7de853a82575f707b8f45002799cba8b4e2031940ac9c41889a1dcd5015e315": {
+  "created_at": "2026-11-18T21:07:20.441499Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Australia come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-australia-come-in-3rd-place-at-eurovision-2027"
+ },
  "0xc91203aab343bce673f3ef3a2867702d8a195dd07360b37c4cff313374d2bf15": {
   "created_at": "2026-10-19T19:54:20.649402Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1315,6 +1335,7 @@
   "created_at": "2026-09-23T17:27:00.880218Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for Top Esports in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",

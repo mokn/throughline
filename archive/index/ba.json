@@ -30,6 +30,7 @@
   "created_at": "2026-10-15T18:02:41.622857Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "96f3ffc29494a00df9a88e78a904522c0421c0ce2849f30dcddb7e09661bed73",
@@ -336,6 +337,15 @@
   "revisions": 1,
   "sha256": "ae49a52662279851de0c5be36f1a133b93d2216b2668e7c19c108db739101b70",
   "slug": "will-xavier-bertrand-advance-to-the-second-round-of-the-next-french-presidential-election"
+ },
+ "0x34606618e8ab9d2ab0aec619e8664dcef1f0e774dcabfbdc005408b29193e5ba": {
+  "created_at": "2026-11-18T18:51:15.887956Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Ron DeSantis win the 2028 presidential election?",
+  "revisions": 1,
+  "sha256": "3845730b89600df3f707d538dd2885f3fd0860b7848b54df1a4e2add51ce0550",
+  "slug": "will-ron-desantis-win-the-2028-presidential-election-path"
  },
  "0x3515a7774d821b09e09b9678f61aa88e2ce8bb9e417a34266ea94c7479da56ba": {
   "created_at": "2026-08-06T08:16:36.080072Z",
@@ -928,6 +938,7 @@
   "created_at": "2026-10-15T18:01:01.946751Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: CD Minera 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "1d8c987240ba5ded452d09c0307bc589d7a68e0a1bf4150da25ccbfbb116982c",

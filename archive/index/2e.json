@@ -71,6 +71,15 @@
   "sha256": "bcc9de1d51982c093a4255c0d9c27aaf006f9ac4b4ee319843a259811ffd29cc",
   "slug": "will-billy-edwards-jrpt-be-the-2026-acc-passing-yards-leader"
  },
+ "0x109b7e3ff2e336fbc0ca08e159ad1efa30d57671297afddff24403168ce5332e": {
+  "created_at": "2026-11-18T21:07:42.396837Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Greece win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-greece-win-the-public-vote-for-eurovision-2027"
+ },
  "0x109ec46e874267e7fca6af5772d6488818c12bbfd4e53987d83bbe4195b0512e": {
   "created_at": "2026-05-27T17:43:35.528908Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -301,6 +310,7 @@
   "created_at": "2026-10-15T18:01:01.790265Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: CD Minera 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "b6029214f39f06df65d009ee877b1e8cb896ff769843f0edd2e3db1adf69982f",
@@ -575,6 +585,7 @@
   "created_at": "2026-10-15T17:02:01.611768Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 5 - 2 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
@@ -603,6 +614,7 @@
   "created_at": "2026-10-15T17:01:21.954951Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 5 - 4 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
@@ -977,6 +989,15 @@
   "sha256": "1e14e5a98c4b07ff77afb753044a96d7adcf413da05e592429a2d42b96194283",
   "slug": "will-independiente-medellin-be-relegated-from-colombia-primera-a-2026"
  },
+ "0x80fb16e94b7dc9def1fbcb355f8d886b3cca204b10b4247b1fe0d5c3b913c52e": {
+  "created_at": "2026-11-18T21:29:57.611964Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Gjergj Jorgaqi win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-gjergj-jorgaqi-win-festivali-i-kenges-65"
+ },
  "0x819c2ea9659e510a4c8c42bf9be37583712ef1c9e99e022f37e82f820773e42e": {
   "created_at": "2026-07-31T03:39:51.859608Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1171,6 +1192,7 @@
   "created_at": "2026-10-15T17:02:00.40858Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 1 - 0 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",

@@ -561,6 +561,7 @@
   "created_at": "2026-10-15T17:01:04.177455Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 2 - 2 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -750,6 +751,15 @@
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-saddiq-bey"
  },
+ "0x74cbfb4ca63a28789cb3ffe2c6e1fd232662770fbfea0cb10f9f009c59159fc6": {
+  "created_at": "2026-11-19T15:47:36.173441Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Typical Gamer be the second of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "1d880ec34acf88b3801abcfeacb1db56ba0753146074bae220419d92696808ee",
+  "slug": "will-typical-gamer-be-the-second-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
  "0x7609ada9bcb037500ea7f747afcba1ef1313bc56c1fa8fc4df748b3343fdeec6": {
   "created_at": "2026-08-05T11:14:20.308245Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -863,6 +873,7 @@
   "created_at": "2026-08-31T18:10:23.284349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will V\u00e1clav L\u00e1ska be the next Mayor of Prague?",
   "revisions": 1,
   "sha256": "c8131bba46e877ec3dfd603b41c4f62142c9cd80cb5cf133138519b0b4000d3a",
@@ -1643,6 +1654,7 @@
   "created_at": "2026-10-25T04:01:43.357919Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Gold (XAUUSD) hit (LOW) $3,700 in November?",
   "revisions": 1,
   "sha256": "badfadf3b38d8e2299ac8895cf304b8bc05ddede9b61c1a1cdb2e538964458f9",
@@ -1656,6 +1668,15 @@
   "revisions": 1,
   "sha256": "e584b2aa79fb742d6d4aacbbd28b1375d06404f0bd5422fd130b8198be4d63b8",
   "slug": "will-the-philadelphia-eagles-win-the-2027-nfl-league-championship"
+ },
+ "0xe2e955e4cda6d39df2f655b2b30c9e2cc46d43f52f7a347c8519d3b8347ddfc6": {
+  "created_at": "2026-11-18T21:07:46.067059Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Poland win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-poland-win-eurovision-2027"
  },
  "0xe7dcf508c807d8665ed95e61b9f5c71e22bf749ec6f8fbfc0b8a4ce74cc354c6": {
   "created_at": "2026-08-04T18:38:01.56871Z",
@@ -1694,6 +1715,15 @@
   "revisions": 1,
   "sha256": "165d08b4b8edb79303018141387bcc397b06529a21cc58925c1bcb211f20e3ef",
   "slug": "will-neom-be-relegated-from-saudi-professional-league-2026-27"
+ },
+ "0xeb72926dacf7b4ee01764af6f04be60e0915630761fb1713d9261c24fb6b7bc6": {
+  "created_at": "2026-11-18T21:20:54.695347Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Laura win Eesti Laul 2027?",
+  "revisions": 1,
+  "sha256": "46c106aa702eb18cb88a5d96df05fe0fcd80894a9f89d9e1cb75c2a19fb66623",
+  "slug": "will-laura-win-eesti-laul-2027"
  },
  "0xec332b0c43aa2bccbb72930130c269bff4e51cc86dc33929c2db93734e9068c6": {
   "created_at": "2026-09-08T16:07:42.463876Z",
@@ -1744,6 +1774,7 @@
   "created_at": "2026-10-15T17:01:21.29021Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 4 - 1 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",

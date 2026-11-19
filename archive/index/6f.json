@@ -351,6 +351,7 @@
   "created_at": "2026-10-15T18:02:12.755845Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Alcoyano (-5.5)",
   "revisions": 1,
   "sha256": "4b88f38cdf1cd8bfc6aa90aa636ec05e6427614849d9c992d9ea9842c86b2beb",
@@ -437,6 +438,15 @@
   "revisions": 1,
   "sha256": "a62579b8e674306f8cb127454de3d175b8e5bf3d7846364610e4424b61bba7db",
   "slug": "will-maximilian-beier-win-the-2026-27-bundesliga-player-of-the-season-award"
+ },
+ "0x3b229cc885827434303ff1244efd7ec778d12146d23d1c51efc514fa4ad1ca6f": {
+  "created_at": "2026-11-18T21:07:54.392803Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Lithuania be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-lithuania-be-in-the-top-5-at-eurovision-2027"
  },
  "0x3c27a401e03b54fb51db6d492f50d85eaec293102475413753ea2bb60e9ebb6f": {
   "created_at": "2026-10-13T19:55:47.927016Z",
@@ -655,6 +665,15 @@
   "revisions": 1,
   "sha256": "85086a8fe0a2f021e2dcb6e9ff294907b6a44a87e114f40426f3fbe361cb3852",
   "slug": "aaron-jones-1024pt5-rushing-yards-2026-27"
+ },
+ "0x59660ddf0176ac7137edd79a72ea1ba0b6248f01cb0b6644159c8d91ab50296f": {
+  "created_at": "2026-11-18T21:07:55.836206Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Ukraine win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-ukraine-win-the-public-vote-for-eurovision-2027"
  },
  "0x5991da1049d04400b460066c8ba519154383b2cdf753a314b9b8efdb8ece3e6f": {
   "created_at": "2026-09-04T04:04:07.500002Z",
@@ -1054,6 +1073,7 @@
   "created_at": "2026-10-15T18:01:47.826708Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: O/U 2.5",
   "revisions": 1,
   "sha256": "34a470582d47ae3f963f01785ec6fa040c12b0bd43449a1ffcc8da09ddabbcde",
@@ -1185,6 +1205,15 @@
   "revisions": 1,
   "sha256": "9f70c715806b45f12ba78f94ebfa4ecfb5c25c2aa46bf91aabf9b8278e466e9a",
   "slug": "will-pale-sun-win-best-live-action-short-film-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x9a2aa6ab4116bb51efbebd45e7cb41b9584e19f515129d47853544f6c9aeb76f": {
+  "created_at": "2026-11-18T19:51:31.642716Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Renate Reinsve win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-renate-reinsve-win-best-actress-at-the-32nd-critics-choice-awards"
  },
  "0x9b33fc7cf784b899c11d535bf53dbff1847c4fd1cdf7a5f25099d2a31510796f": {
   "created_at": "2026-08-24T16:32:26.405895Z",

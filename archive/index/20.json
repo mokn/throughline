@@ -45,6 +45,15 @@
   "sha256": "25587eeb41016d3f841476d06b47d24e4cc623fdb020dd55ff9a3e54160e8147",
   "slug": "will-erc-win-10-11-seats-in-the-2026-spanish-general-election"
  },
+ "0x0761d0cc6413f5dea45d08e0af970a144049eaa84b5f773f5ed2d760b7b1f520": {
+  "created_at": "2026-11-18T18:17:13.448341Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Atlanta Braves?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-atlanta-braves"
+ },
  "0x0c9db691e501121a3cc45825d8e49f0a278b4ed1a6c2c8dd3dbc857e20f46520": {
   "created_at": "2026-10-19T18:30:33.587832Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -186,6 +195,7 @@
   "created_at": "2026-10-15T18:02:34.460165Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Real Uni\u00f3n Club (-1.5)",
   "revisions": 1,
   "sha256": "e36de31bd5ab9dacc43904cd8995108c5d56a47e06c244a04956a27efaecd06a",
@@ -467,6 +477,7 @@
   "created_at": "2026-10-15T18:02:43.221941Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Utebo FC (-3.5)",
   "revisions": 1,
   "sha256": "dc7300c2da657cd92c6ce9237801a3135a186e2f5c0fd6164f6eb26df017bea3",
@@ -514,6 +525,7 @@
   "created_at": "2026-09-17T23:52:25.828844Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Brooks & Dunn win Vocal Duo of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "bcb2d43ff88d51f53a56a991675b637e38e1954fa54416671f32a6f19592b770",
@@ -1066,6 +1078,7 @@
   "created_at": "2026-10-15T17:01:39.54577Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Tenerife to score first vs. CD Badajoz?",
   "revisions": 1,
   "sha256": "030b440c4a86a160cbcd15209d1bf23120ab8fb1d060fa9e4b32109f2fddd035",
@@ -1551,6 +1564,15 @@
   "revisions": 1,
   "sha256": "bf520a00c2bd4ccfa14592ddfc83a5841d3c7722f70c44a761e83ce2da6191b0",
   "slug": "another-critical-php-security-flaw-in-2026"
+ },
+ "0xdd83967ef14476df1cd82d5ff338d197a47d4c30a4e96dcdd92a7934b7fb8f20": {
+  "created_at": "2026-11-18T21:07:26.738678Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Latvia come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-latvia-come-in-2nd-place-at-eurovision-2027"
  },
  "0xde397bcfe94242af581c70eb703b258803a4fa257fdb0433fd3907eef7763020": {
   "created_at": "2026-08-26T21:46:14.455565Z",

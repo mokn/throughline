@@ -787,6 +787,7 @@
   "created_at": "2026-10-15T17:01:34.523724Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will CD Badajoz vs. CD Tenerife end in a draw?",
   "revisions": 1,
   "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
@@ -1576,6 +1577,15 @@
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
   "slug": "will-the-republican-party-candidate-win-the-2026-idaho-gubernatorial-election-by-30-35"
+ },
+ "0xea1d549fe2e7a31c7e8ab6718b948c06e907e1d817d2d1987da8376e1ba6c359": {
+  "created_at": "2026-11-18T18:50:39.419118Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Alexandria Ocasio-Cortez run but lose the 2028 Democratic nomination?",
+  "revisions": 1,
+  "sha256": "f145472826480aedaf7b0f688108e1b03baeb4ab258b52e0a3026d16235a9d67",
+  "slug": "will-alexandria-ocasio-cortez-run-but-lose-the-2028-democratic-nomination"
  },
  "0xea446f657ec2de90671e270ed48c09684311fd843bfe3655fd4dbfcce239f759": {
   "created_at": "2026-08-12T16:51:29.612777Z",

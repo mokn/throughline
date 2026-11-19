@@ -428,6 +428,15 @@
   "sha256": "2e266b22297a857cb0d984ad7e62fadd67e8550f3ac56c9529191357ec48aaf9",
   "slug": "will-the-democratic-party-candidate-win-the-2026-al-04-house-election"
  },
+ "0x45f354414bf966174f5936545afc84e5898593036ea61282c4abe17212b64271": {
+  "created_at": "2026-11-18T21:08:02.831652Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Romania be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-romania-be-in-the-top-5-at-eurovision-2027"
+ },
  "0x462cf7f1462ed1ed0315870514cfaf64f745b6b932bd1d6d23fdbaf9010abe71": {
   "created_at": "2026-09-13T08:46:34.371035Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -587,6 +596,7 @@
   "created_at": "2026-11-14T02:42:17.886045Z",
   "first_seen": "2026-11-14T13:31:33Z",
   "last_changed": "2026-11-14T13:31:33Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the next Gemini model family be named Gemini Helix?",
   "revisions": 1,
   "sha256": "10473fbe18660f884f5a9f2b0081cb97883879c021939e04eea900ff40525204",
@@ -732,6 +742,7 @@
   "created_at": "2026-09-17T23:52:37.811619Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cBe Her\u201d by Ella Langley win Single of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "6c935f3659d3f9cf70504fc73052bd7993553584b8fd6a76a6045af975df611a",
@@ -741,6 +752,7 @@
   "created_at": "2026-10-15T17:01:37.226374Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 0 - 5 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
@@ -828,6 +840,15 @@
   "sha256": "f94679c260a204693f8476892f5d3c073648c61459d5ba2e9f0e6aad40861559",
   "slug": "will-how-to-write-a-song-about-you-from-power-ballad-win-best-original-song-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x7a58d4923e82f160781d8d86991848789009238860cc7e12ba37ab7ef90f8671": {
+  "created_at": "2026-11-18T21:07:39.705462Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Luxembourg win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-luxembourg-win-eurovision-2027"
+ },
  "0x7a691154ee4cb193c928f139b16e31f62b67d0f8fb10d378105803887bf69e71": {
   "created_at": "2026-08-24T16:38:58.062285Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -877,6 +898,7 @@
   "created_at": "2026-10-15T17:00:57.300545Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 0 - 1 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
@@ -1033,6 +1055,7 @@
   "created_at": "2026-10-15T17:02:01.664044Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 3 - 5 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",

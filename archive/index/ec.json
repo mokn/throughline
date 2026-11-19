@@ -114,6 +114,7 @@
   "created_at": "2026-10-13T19:52:15.372772Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Rogle BK win the 2026-27 Champions Hockey League?",
   "revisions": 1,
   "sha256": "f7da3b136d5c003bc200286da7254a38aa256f4b1a0291363eb37c04e5307ff3",
@@ -394,6 +395,15 @@
   "revisions": 1,
   "sha256": "c34ed101599e292c679d4413b74cae15f67df9ad75dc999d79231ea9bb4d6bd0",
   "slug": "will-viktor-gyokeres-win-the-2026-27-english-premier-league-player-of-the-season-award"
+ },
+ "0x4c6cc2e0b88f4c251f045af94c3589326ace68be457d427ccc5af432f90e62ec": {
+  "created_at": "2026-11-18T21:07:31.373531Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Norway come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-norway-come-in-2nd-place-at-eurovision-2027"
  },
  "0x4cb097e36220c2b81a448b72190a96dd8095ba85d1c3a28354a00d03654e54ec": {
   "created_at": "2026-10-29T20:53:18.978149Z",
@@ -846,6 +856,15 @@
   "revisions": 1,
   "sha256": "bff5ba071dac538f68398d2645e4e3b2585f17cade8aadf211889c9b31083755",
   "slug": "will-george-russell-finish-second-in-the-2026-f1-drivers-championship"
+ },
+ "0x915fe6fd0fd9794912bc28c18721e2a0bef35d634f53232b874e2f18d9d4faec": {
+  "created_at": "2026-11-18T21:07:37.018369Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will North Macedonia come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-north-macedonia-come-in-3rd-place-at-eurovision-2027"
  },
  "0x93d0682b5287cadd240f2520925f1ba46d88542a12779d6f96c8f7640d6d79ec": {
   "created_at": "2026-08-11T18:24:26.502861Z",

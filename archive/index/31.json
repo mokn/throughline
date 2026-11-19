@@ -244,6 +244,15 @@
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
   "slug": "will-ben-olsen-win-2026-mls-coach-of-the-year"
  },
+ "0x263a6892d8af685fe48efcea4d5d9cc534a605f016a0b3fcf629ae78ac865c31": {
+  "created_at": "2026-11-18T19:52:02.153823Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Samantha Morton win Best Supporting Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "cd5b340e6c41133501ad8fd90b5a2faeeec662483359ed488eb467886ff885d1",
+  "slug": "will-samantha-morton-win-best-supporting-actress-at-the-32nd-critics-choice-awards"
+ },
  "0x269a4f382f40396d2e4909c149dda0bd3e7acda11743ab982188756e43fdca31": {
   "created_at": "2026-10-01T14:01:24.900714Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -554,6 +563,15 @@
   "revisions": 1,
   "sha256": "67b3a8da2ac120cd5e4af23117ae36d66cc49c0af47b5dbd2a12fc1da7728b31",
   "slug": "el2-col-pvl-2026-10-03-team-total-away-1pt5"
+ },
+ "0x5594917568091b0596efe6cc95f4bb07054aa15005dc027c6e190d3275cb2131": {
+  "created_at": "2026-11-18T18:16:35.027154Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will SC Paderborn lead the Bundesliga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "1c25d8ad2923e71afd3ff8177710b41757502d9158ee670ada313e3d483b456e",
+  "slug": "will-sc-paderborn-lead-the-bundesliga-at-the-2026-27-winter-break"
  },
  "0x56c0070539ff5199749dfc4286f3b19a3d779b03202ea0ea4a0b20300a1ea031": {
   "created_at": "2026-11-03T02:59:20.636544Z",
@@ -905,6 +923,7 @@
   "created_at": "2026-09-02T20:27:27.842681Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will it snow in Salt Lake City, UT by November 15?",
   "revisions": 1,
   "sha256": "03c65c8faafbe04b6523e233b9d357d111d1b2f8eb3acf2858bf8e2d59df5fac",
@@ -1265,6 +1284,15 @@
   "revisions": 1,
   "sha256": "6d9ec1fbc0f3ab1e8396c97488dd7e3782a2bb68f4dc058f176b4fffea3452ca",
   "slug": "papertrade-listed-on-okx-within-30-days-of-tge"
+ },
+ "0xd258212c0696448cefbe9af895716aa16d1bdab0d6c866eb792732809f504931": {
+  "created_at": "2026-11-18T21:34:44.252423Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Anthropic IPO closing market cap above $1.4T?",
+  "revisions": 1,
+  "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
+  "slug": "anthropic-ipo-closing-market-cap-above-1pt4t"
  },
  "0xd41d8c0b8f5ed02fb6564162c688dbcfeb37609d26537ead649d58b217500131": {
   "created_at": "2026-09-18T00:04:55.100538Z",

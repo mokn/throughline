@@ -552,6 +552,7 @@
   "created_at": "2026-08-18T14:56:55.20762Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Brett Herron be the next mayor of Cape Town?",
   "revisions": 1,
   "sha256": "3c79fc453f14e0dd0f723eb027a339c0eb3f2b798d2f7f692f3005a955a7bb1b",
@@ -816,6 +817,7 @@
   "created_at": "2026-10-15T18:02:17.386506Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 5.5",
   "revisions": 1,
   "sha256": "6f62a788c4420161568bf00033dbd3dcbe907d08e0dbceae561dc068d146a796",
@@ -1269,6 +1271,15 @@
   "revisions": 1,
   "sha256": "88a9ebc9b00f00a6ecb616edf77f9479d37709cf1e39556a678c086499aba3ef",
   "slug": "will-vox-win-the-most-seats-in-caceres-in-the-2026-spanish-general-election"
+ },
+ "0xb17fbdd4d2cdba0080230afeb15e33d1e500330478b293b19d75a874dc367367": {
+  "created_at": "2026-11-18T18:17:11.670477Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Arizona Diamondbacks?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-arizona-diamondbacks"
  },
  "0xb6795126c024611f6d190cb0e7182778974aa798e6cb5c73cfba8a49e2a35d67": {
   "created_at": "2026-09-13T08:16:10.173491Z",
@@ -1826,6 +1837,15 @@
   "revisions": 1,
   "sha256": "b071fdc771af0aec7e6aedb3cc98b98975a543c49bb27c25de1f6628856432ca",
   "slug": "will-bytedance-have-the-best-text-to-video-ai-at-the-end-of-december-2026"
+ },
+ "0xf91ba9f7b7cc30a34cd6dea639fe60bb749f5c1d7ae580bf0245c922824f8e67": {
+  "created_at": "2026-11-18T21:07:53.575188Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Moldova be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-moldova-be-the-jury-winner-in-the-eurovision-2027-grand-final"
  },
  "0xfab1e131467c6796e5a5261aafacf8e032a1e04b01bcd847ce361fa7d4898267": {
   "created_at": "2026-10-14T15:29:07.485775Z",

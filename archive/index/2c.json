@@ -245,6 +245,15 @@
   "sha256": "13c5f6632abf6901e02a6c20828eb7cef5425971b75a2f655fe49a9611148ca1",
   "slug": "will-benjamin-brahmer-be-the-2026-big-ten-receiving-tds-leader"
  },
+ "0x252aad91b9b6ff78488e98befaba32958f9fbf790e4b2f8e2b2ccb1ef4eea72c": {
+  "created_at": "2026-11-18T21:07:15.865373Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Canada win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-canada-win-eurovision-2027"
+ },
  "0x26bbea4bd1ae197bcd71354fd4afd62ccefba01b96ff272d9ac1e8ea2dc66e2c": {
   "created_at": "2026-08-24T16:32:30.777672Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1023,6 +1032,7 @@
   "created_at": "2026-09-23T17:27:02.287015Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for Weibo Gaming in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",
@@ -1072,6 +1082,15 @@
   "revisions": 1,
   "sha256": "b63da34cc9421f5dc4d5aa9c7b7117e2de6e991cbcce16355287258ff5842797",
   "slug": "japanese-parliament-dissolved-in-2026"
+ },
+ "0xada29b65f75b816b6bcc34f9675762e05de47cc05d043f3594ec5c1eb6f8d82c": {
+  "created_at": "2026-11-18T21:07:30.681416Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will North Macedonia come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-north-macedonia-come-in-2nd-place-at-eurovision-2027"
  },
  "0xb1f1a81ad77ab05bf26a7ffa62f35fff78fac29a6d41b0efc3ca94ea64e82c2c": {
   "created_at": "2026-09-20T09:46:51.391391Z",
@@ -1624,6 +1643,15 @@
   "revisions": 1,
   "sha256": "4c0a348e45e533ce5efb754760cffcc56762480d6ef2cc403443891a4364c2d5",
   "slug": "will-sevilla-finish-3rd-in-laliga-2026-27"
+ },
+ "0xf932221c56199079573e90bbf90c35acbe83496e7044a5bb2d109165ed4c2c2c": {
+  "created_at": "2026-11-18T19:51:40.693326Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Paul Giamatti win Best Supporting Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "8659894cda157dbe70efa40b0afc0402af5f1a8dbef1828da039934be8f74d6b",
+  "slug": "will-paul-giamatti-win-best-supporting-actor-at-the-32nd-critics-choice-awards"
  },
  "0xf9bf688fb83a7eedceaa0f3e9c4b374eb1361f21b819f0825ecdb75c98be6e2c": {
   "created_at": "2026-10-28T18:29:49.178101Z",

@@ -3,6 +3,7 @@
   "created_at": "2026-10-15T18:01:50.581129Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 2.5",
   "revisions": 1,
   "sha256": "bf2a1ecaee48c273867dde6233b9a8a931ab678dbe44745549258dcb33c83755",
@@ -515,6 +516,15 @@
   "revisions": 1,
   "sha256": "d5a7e12c883ce28ccb18a82be2c9304a60fe26d2a48eff397d5cc226c293385d",
   "slug": "el1-don-oxf-2026-09-26-spread-away-3pt5"
+ },
+ "0x62ea9c047d67aaca24a73f3cea59c187ac038ae290f7ce0e2b68716e2e3758c4": {
+  "created_at": "2026-11-18T21:07:38.295023Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Australia be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-australia-be-in-the-top-5-at-eurovision-2027"
  },
  "0x630b7fef7fc8b65942335e2119ee64eba4ad8391835e3695f2d32b71757763c4": {
   "created_at": "2026-10-20T23:04:55.448037Z",
@@ -1271,6 +1281,7 @@
   "created_at": "2026-09-17T23:53:00.730658Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cA Song To Sing\u201d by Miranda Lambert and Chris Stapleton win Musical Event of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "1df2f2c0317ff3148edd10b7e5954c636d6e8618900ec8b9ab9a6c919f62184d",
@@ -1353,6 +1364,7 @@
   "created_at": "2026-09-17T23:52:49.110164Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cBe Her\u201d by Ella Langley win Song of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "ddefc347b727d94656935e362c7a2edf59da6e856aab067a4cd56c4835b3a175",

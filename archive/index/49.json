@@ -21,6 +21,7 @@
   "created_at": "2026-09-17T23:51:22.594268Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Stephen Wilson Jr. win Male Vocalist of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "68a083d6dfc2f7b25c50cc489cef3eb89c23e48f0675bf4741b6a93c8a2ae8ee",
@@ -236,6 +237,15 @@
   "sha256": "0d22e93f18ec2b96e2253b21078baacc8af91025749e107c66afe6a9e4490e2c",
   "slug": "will-openais-public-ticker-be-llm"
  },
+ "0x1e788c55378ba7a29099a32a0f5e19a8c8b0e6a88e3c21dfaac7a20433ecd849": {
+  "created_at": "2026-11-18T18:16:21.820824Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Bayern Munich lead the Bundesliga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "1c25d8ad2923e71afd3ff8177710b41757502d9158ee670ada313e3d483b456e",
+  "slug": "will-bayern-munich-lead-the-bundesliga-at-the-2026-27-winter-break"
+ },
  "0x1e89397f799da4367cae88a4dcaa7051b7c0cc222fd8f8cf320f66654ed33d49": {
   "created_at": "2026-09-27T20:10:04.020453Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -326,6 +336,15 @@
   "revisions": 1,
   "sha256": "69d8f3c63a25056d3d2e68fd72065bab26f44293183e36f762cf39cbd42540ba",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-03-house-election-by-0-3"
+ },
+ "0x2b9a28bc2b79f25efd4842ea9c636f37a2264bfbc206aeb7c3823550a4488149": {
+  "created_at": "2026-11-18T21:07:15.900602Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Azerbaijan come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-azerbaijan-come-in-2nd-place-at-eurovision-2027"
  },
  "0x2bd00cb7bd7386f861bdc895c952792f8fd9fa3fda2bd5fe93c75796aa21ab49": {
   "created_at": "2026-11-01T15:06:14.297294Z",
@@ -671,6 +690,15 @@
   "sha256": "c57439c7375079cd68a833bc56ba8095d1ea029fc81bc17c81900c25fced1db4",
   "slug": "will-dance-slayyyter-win-best-dance-pop-recording-at-the-69th-annual-grammy-awards-20261109"
  },
+ "0x6e9b307423e8c88f59efe1364274fda2b37bf1c263cbb97f9436434bc0aa5749": {
+  "created_at": "2026-11-18T17:40:49.671994Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report between 24 million and 27 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-24m-to-27m"
+ },
  "0x6ea8ca5ef9f3330dc9a600528615c3f341441da18dcd43e73a6e61afa8c12749": {
   "created_at": "2026-10-01T14:00:56.007644Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -897,6 +925,15 @@
   "revisions": 1,
   "sha256": "2982cb759ac2a4eec72ae56620607db1e20f9e8b314b098c0ce32e996a93d200",
   "slug": "el2-wal-cra-2026-10-03-first-half-team-total-away-3pt5"
+ },
+ "0x9c2a094460fe67bd775624baa59410a117e6dba9fb736f928e9212f27b1a7a49": {
+  "created_at": "2026-11-18T18:17:14.429267Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Baltimore Orioles?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-baltimore-orioles"
  },
  "0x9ecc11f4856bd97db7104a0c1fcd537db865b91f1829220ebad5e1bb9e0a1649": {
   "created_at": "2026-10-10T11:30:17.385907Z",

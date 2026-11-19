@@ -26,6 +26,15 @@
   "sha256": "6caba3304bc885851ad57900f1a3762a18c95c0779a6a22e7871340db1dd5576",
   "slug": "will-deepseek-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-november-2026"
  },
+ "0x05a820c7a0837fb143ee8dd4b3fe8ed192f642f80902a06d4819fcf431cef40e": {
+  "created_at": "2026-11-18T21:07:45.378739Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Latvia win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-latvia-win-the-public-vote-for-eurovision-2027"
+ },
  "0x066c89765f4597f2d8dcf49b3a47336243f88e0f0f0c4415923d3c30b179e10e": {
   "created_at": "2026-08-10T15:02:10.414711Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -61,6 +70,15 @@
   "revisions": 1,
   "sha256": "078699f26e310a3d0fb50c70892c7a336f19064ab715ad0e54f24b33e09296d0",
   "slug": "dak-prescott-27pt5-passing-touchdowns-2026-27"
+ },
+ "0x0b7c38fc09f76bbdd08abe662e673e67fbf21b9696b15f32ef2b187348b65f0e": {
+  "created_at": "2026-11-18T18:16:41.866029Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Racing Santander lead LaLiga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "61aed669e4ef76ce73017fd3c4902abbf3140b366e324da069f06e3716ffbee6",
+  "slug": "will-racing-santander-lead-laliga-at-the-2026-27-winter-break"
  },
  "0x0c9335b0228172a2fc779bd84fac44ea859268866a962e2c55480b50e637fb0e": {
   "created_at": "2026-07-01T17:05:44.618624Z",
@@ -148,6 +166,7 @@
   "created_at": "2026-10-15T17:00:55.403204Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will CE Sabadell FC win on 2026-10-28?",
   "revisions": 1,
   "sha256": "4b4cd668955c1cf3950c0559e8268cacee27e3ae6a15785ba9669b5169ae3f72",
@@ -404,6 +423,7 @@
   "created_at": "2026-10-15T17:02:05.510672Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 2 - 0 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -1553,6 +1573,7 @@
   "created_at": "2026-10-15T17:01:05.263229Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 5 - 3 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",

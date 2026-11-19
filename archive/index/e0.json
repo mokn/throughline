@@ -1,4 +1,13 @@
 {
+ "0x017546e0a537a98b028b16d8d2131620d3f3d088086c62d0a9e75065cffa98e0": {
+  "created_at": "2026-11-18T21:07:54.287158Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Montenegro be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-montenegro-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x0214f7ca762a121f3309fe11905bc77423b79bf80e6d982c8ba0e2f9ab02c2e0": {
   "created_at": "2026-08-10T14:51:57.125232Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -721,6 +730,15 @@
   "sha256": "ceb9f4475435494f1ad388dd698e4d8098836c8730aeb7ecfd81e64d1f2a2072",
   "slug": "will-democrats-sweep-the-ohio-senate-and-governor-elections-20260810215926195"
  },
+ "0x6ab8ec78f5eb2dba31555834cc4ad687f8a72a4db16b02ed66cef07163dc2fe0": {
+  "created_at": "2026-11-18T18:16:36.931764Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Barcelona lead LaLiga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "61aed669e4ef76ce73017fd3c4902abbf3140b366e324da069f06e3716ffbee6",
+  "slug": "will-barcelona-lead-laliga-at-the-2026-27-winter-break"
+ },
  "0x6d45f88698a3b6b2a2f94739e1726b6533af596bcd5fcbf9822b828887d1a8e0": {
   "created_at": "2026-08-14T21:19:07.723247Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -766,6 +784,15 @@
   "revisions": 1,
   "sha256": "12ed154d523bb5d0ed6d53c4cbeef4b18d5f819f4c607ab302a357bd3d19d538",
   "slug": "nothing-ever-happens-obama"
+ },
+ "0x7361f17ea0745d8ded6121ede51ffa8bbe52659b81b39f3386aa96a2ba6427e0": {
+  "created_at": "2026-11-18T21:07:34.983309Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Belgium win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-belgium-win-the-public-vote-for-eurovision-2027"
  },
  "0x738a477b91a320952855a40d1b25f37e74f3f5a69031c7075f2405118d92b0e0": {
   "created_at": "2026-08-12T17:27:44.421345Z",
@@ -911,6 +938,7 @@
   "created_at": "2026-10-15T18:00:59.4858Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: CD Minera O/U 0.5",
   "revisions": 1,
   "sha256": "5597c8f0db7b97f7220ea12a4274343a6b49636809fc184c1d02516460408cac",
@@ -1033,6 +1061,15 @@
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
   "slug": "el1-ste-swe-2026-09-26-exact-score-3-3"
  },
+ "0xa3f56dcef9d844bad3a15f19de864aaa1deafda3ebc7c1f75c62bb0d4ab145e0": {
+  "created_at": "2026-11-18T19:31:26.656356Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will David Lisnard receive less than 7% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "c2c1485b42f8fb8ff19eba3b78d30d5e1044bf0acacf5132d19ea0de2eaaf0a9",
+  "slug": "france-first-round-vote-share-david-lisnard-less-than-7"
+ },
  "0xa3fdc76c3fcb4b7f46e04908497570417e17b541f588b0445f0f159a589f0ce0": {
   "created_at": "2026-10-09T14:14:53.563826Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1069,6 +1106,15 @@
   "sha256": "43284963fab8ba3063ef480110c53ddb316e727db17d36d9bfeb20cb3fbd2794",
   "slug": "will-labour-party-win-the-popular-vote-in-the-2026-new-zealand-legislative-election-by-15-or-more"
  },
+ "0xa634dbad9d66754a3a8c3572ae264a61fd754e0c4cd2be17a9771a27fe3314e0": {
+  "created_at": "2026-11-18T21:29:59.936468Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Leandra Godaj win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-leandra-godaj-win-festivali-i-kenges-65"
+ },
  "0xa6c9a5593dcd11797c51dd4b36c4afa237b9c9c5aff59216d0f5e0f75eda15e0": {
   "created_at": "2026-11-01T15:00:58.225486Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1082,6 +1128,7 @@
   "created_at": "2026-10-15T18:01:49.757033Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "040932c92c3977048288fe3fa40c27cf0419a19f61c21a2a21debaf37048242e",

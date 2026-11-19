@@ -36,6 +36,15 @@
   "sha256": "280b303c057971d8b23be3d39817a6d175b3cf73bfd49bab9f53e8af62904ae9",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-governor-of-hawaii-be-between-460000-and-490000"
  },
+ "0x01f02d2b88d93b438ad6b4ecc3f6d2fa7cadd64b6fbd048fb4010d3d3fd81cbf": {
+  "created_at": "2026-11-18T21:07:40.240014Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Malta win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-malta-win-eurovision-2027"
+ },
  "0x025580b94e4477648a403cc91440e781457512f2d8bc1cc8a4bb353e65119cbf": {
   "created_at": "2026-08-26T21:47:12.969833Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -62,6 +71,15 @@
   "revisions": 1,
   "sha256": "cd003e258968191ae660fd9523107564331a232cb0c510526244fe1a363391b3",
   "slug": "spl-ith-sha-2026-10-16-exact-score-2-1"
+ },
+ "0x04b94c392032410dc6753237cc286d162f27c1272ed14f1d9985d3586e3298bf": {
+  "created_at": "2026-11-18T21:07:32.702284Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Poland come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-poland-come-in-2nd-place-at-eurovision-2027"
  },
  "0x05e92b921435fa8337fcf7dac5804110e134df9fb8462b4fb93271139fce49bf": {
   "created_at": "2026-08-10T20:05:47.452052Z",
@@ -686,6 +704,7 @@
   "created_at": "2026-10-15T18:01:07.845267Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 2.5",
   "revisions": 1,
   "sha256": "689d92626844669bee5cc69b18caf96ad7a6599f11e03b61e62c19e7023c530f",
@@ -980,6 +999,15 @@
   "revisions": 1,
   "sha256": "03471f20c5f9d30bf5278905f880e0664c35b925248538f94d01980154f7a3ba",
   "slug": "will-los-angeles-chargers-finish-the-2026-27-nfl-regular-season-with-the-most-special-teams-and-defensive-touchdowns-20260716001414599"
+ },
+ "0x9dae0e8fcd558e3abf7c74d8ea4f7552942a1f1853e6b05377395e35b68990bf": {
+  "created_at": "2026-11-18T19:52:08.451579Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Colleen Camp win Best Supporting Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "cd5b340e6c41133501ad8fd90b5a2faeeec662483359ed488eb467886ff885d1",
+  "slug": "will-colleen-camp-win-best-supporting-actress-at-the-32nd-critics-choice-awards"
  },
  "0x9df7e23fb1d83e9900c1271027d3f50a5dcefc33f63914da54ea938b38ce72bf": {
   "created_at": "2026-10-13T19:31:55.785382Z",
@@ -1432,6 +1460,7 @@
   "created_at": "2026-08-21T15:21:50.224447Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "GTA VI released by November 30?",
   "revisions": 1,
   "sha256": "046028bd238c84b21ea8b92d2e23b9b5fd5973affa37772efbdd2c72e970d314",

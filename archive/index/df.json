@@ -261,6 +261,15 @@
   "sha256": "ff0f7753e231c7ceef773c19854a014a00da43fc2a8582ea38e4d58746d0bc9d",
   "slug": "will-trump-say-shut-up-in-november-20261130"
  },
+ "0x24703050408d5e257fe16ad2956a57098d2f9c05993aa2ccb5017abfdc2f84df": {
+  "created_at": "2026-11-19T15:47:35.26973Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Rubius be the second of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "1d880ec34acf88b3801abcfeacb1db56ba0753146074bae220419d92696808ee",
+  "slug": "will-rubius-be-the-second-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
  "0x27890876fa3206fb36f5aa1c1fa437bf6f855b4be9a1f73e56f444f596122ddf": {
   "created_at": "2026-05-27T16:44:26.14487Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -977,6 +986,7 @@
   "created_at": "2026-10-15T17:01:37.482814Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 4 - 1 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
@@ -1679,6 +1689,15 @@
   "revisions": 1,
   "sha256": "f92ad479cd78859755c5a3b07f2e078e6fe8c4caa514e01f135aab0697346905",
   "slug": "spx-close-above-8000-dec-2026-362-989-862"
+ },
+ "0xfc916af4d0b99a7240dc658918f9065f55ed5737aad5adac09494a5a6d525edf": {
+  "created_at": "2026-11-18T18:17:32.364484Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be San Francisco Giants?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-san-francisco-giants"
  },
  "0xfd107d806fed0586b3e0adb2c8901d6f65024f4b3eecfc2df79226d06e2d50df": {
   "created_at": "2026-08-21T21:06:29.238133Z",

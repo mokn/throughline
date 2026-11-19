@@ -314,6 +314,7 @@
   "created_at": "2026-10-15T18:00:59.626545Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: CD Minera O/U 1.5",
   "revisions": 1,
   "sha256": "99481d36a6f9d193fb9b76b19f7f8a8a91a06e18738f27691de9d79e2f57fbfc",
@@ -350,6 +351,7 @@
   "created_at": "2026-10-15T18:01:45.965267Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Tenerife (-1.5)",
   "revisions": 1,
   "sha256": "8b6c341291d6f0302e8f2ff1ad7224730815ca74f31f2ea4cee3c4d960accf81",
@@ -1082,6 +1084,15 @@
   "sha256": "f34c69978490591f221532702bd070e452316c86520450a0c3a2c100d362bda2",
   "slug": "justin-jefferson-60pt5-receptions-2026-27"
  },
+ "0xa6591263147c9c59f909a3f21ae75bbbadc6b995f14467ba1aad6761f175e632": {
+  "created_at": "2026-11-18T19:38:33.888118Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will \"GTA VI: The Album\" first week sales be at least 300k?",
+  "revisions": 1,
+  "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
+  "slug": "will-gta-vi-the-album-first-week-sales-be-at-least-300k"
+ },
  "0xa6826003f59206abb47d594057647385ff2bf53962e36960f33ff370cdc82e32": {
   "created_at": "2026-08-26T21:46:42.178682Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1475,6 +1486,15 @@
   "sha256": "3a532406f3b0db9b06a3a1d29e8b919bba5fa3cd0846c588afe9deda32d20a36",
   "slug": "will-any-game-at-worlds-2026-last-50-minutes-or-more"
  },
+ "0xd200d9b2ab72bd2c40c6a47af27e30000da915e1f56de9a6308a23d536331032": {
+  "created_at": "2026-11-18T21:07:34.292982Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Azerbaijan win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-azerbaijan-win-the-public-vote-for-eurovision-2027"
+ },
  "0xd32657a334623bee80f43637cd3494ba69aad50ca5bee4147a62281f2aae1a32": {
   "created_at": "2026-10-13T15:57:51.981145Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1636,6 +1656,7 @@
   "created_at": "2026-11-12T20:55:50.378164Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Anthropic sell fewer than 750M shares in its IPO?",
   "revisions": 1,
   "sha256": "ecfe7f994bb7704ef970912a1d8aa094412e754f4ea7ef60c882ab69f1084400",

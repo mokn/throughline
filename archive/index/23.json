@@ -119,6 +119,15 @@
   "sha256": "135a5801fbd3cefbbd4014166ffa05dba4660da17d4fd37f5522a83a13e1014d",
   "slug": "will-trabzonspor-record-the-most-clean-sheets-in-the-uecl-league-phase"
  },
+ "0x1444a550e43f03ba118607bab82713695edbfa83950dfe4688903702c5c5cc23": {
+  "created_at": "2026-11-18T19:51:33.340636Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Marion Bailey win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-marion-bailey-win-best-actress-at-the-32nd-critics-choice-awards"
+ },
  "0x16879df512ac2ef7744c91a69edc324c1e3bc82a5caa7b7504036e2fc97dfe23": {
   "created_at": "2026-08-24T16:37:36.755677Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -311,6 +320,15 @@
   "revisions": 1,
   "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
   "slug": "will-bruno-retailleau-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
+ "0x3b54410fd80ea3cc2b4b714dfcd67db03ae9c46b567f9930e7192defcea5d723": {
+  "created_at": "2026-11-18T21:08:04.098138Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Serbia be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-serbia-be-in-the-top-5-at-eurovision-2027"
  },
  "0x3bc0fe8bce3f5face358ac087bf256e88f1c25a39f3bb40c29305e56142c2423": {
   "created_at": "2026-09-18T00:05:24.689494Z",
@@ -826,6 +844,7 @@
   "created_at": "2026-10-15T18:02:14.739363Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "ae77039ccf6520bd611fea328dfaf3a01a82d17c1386ee7566ec428a15c3fee8",
@@ -965,6 +984,7 @@
   "created_at": "2026-10-15T13:14:20.335179Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 2.5% to 4%?",
   "revisions": 1,
   "sha256": "482099944ac47325b3b4b935ac0453850f7cbccc7f39e85b288cd6c7a2c1f8d3",
@@ -1240,6 +1260,7 @@
   "created_at": "2026-10-15T18:01:07.981954Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis O/U 3.5",
   "revisions": 1,
   "sha256": "e795f0c17dc0933ba3dd0e7ae754d40d3e2ee52dfbbf384cbbe31d6424f48cd6",

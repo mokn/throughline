@@ -110,6 +110,15 @@
   "sha256": "04540373b1dada9056782db4c15c714de865a7885e816ef81f4618633771ab44",
   "slug": "will-javier-milei-be-the-next-leader-out-before-2027-20260630194627371"
  },
+ "0x13ad9c6c835c120793c102151d8d774039e53ffb5dcef53dae4e274897db290f": {
+  "created_at": "2026-11-18T19:51:34.842446Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Emily Blunt win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-emily-blunt-win-best-actress-at-the-32nd-critics-choice-awards"
+ },
  "0x15a2dce66eccb2712c95432cebf8e946668e261485b5c76b20731294461c150f": {
   "created_at": "2026-08-07T14:03:21.355375Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -187,6 +196,7 @@
   "created_at": "2026-10-15T17:02:04.063281Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will FC Cartagena win on 2026-10-28?",
   "revisions": 1,
   "sha256": "66ba38715730c827cf8043fa50e15d1095779ed2b634b1738568a653ef5add6d",
@@ -349,6 +359,7 @@
   "created_at": "2026-09-17T23:52:00.835311Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Lainey Wilson win Female Vocalist of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "c1df377d5e98a64abe74b5fa98d5acb81eb0c9321b016944af87cb9fdfcbc30f",
@@ -946,6 +957,15 @@
   "sha256": "a114272873c1af1824f6d5f96d1b53cc4cdc3b6c5d74b90bb79754ffdab3e9bf",
   "slug": "will-cristian-mungiu-be-nominated-for-best-director-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x91eb9ffff6f3bd8e77b666f25e978d1dabd1f138414dae648cb2c32123b5db0f": {
+  "created_at": "2026-11-18T21:07:13.809785Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Armenia come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-armenia-come-in-2nd-place-at-eurovision-2027"
+ },
  "0x9709df29d5b80e161664333de80a38784b6c8e84d2315c939c4deabb3b77930f": {
   "created_at": "2026-08-11T19:10:30.760722Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -964,6 +984,15 @@
   "revisions": 1,
   "sha256": "6ec33e5d29bd694e53887d1e7423e8046c4c3dd906a34aecdfa1b74351d39b68",
   "slug": "will-the-democratic-party-win-the-il-10-house-seat"
+ },
+ "0x98b4e7820e0426bec9899f484d68cf7949d3e8334f126e2cd6e3e70934b49a0f": {
+  "created_at": "2026-11-18T21:07:48.075004Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Serbia win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-serbia-win-eurovision-2027"
  },
  "0x990fbd6bbf862ce01f1162827be62d5377f47d7c6f00a320453c80fa056a7f0f": {
   "created_at": "2026-11-13T16:34:24.578272Z",
@@ -997,6 +1026,7 @@
   "created_at": "2026-10-15T17:02:05.361385Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 1 - 0 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -1346,6 +1376,7 @@
   "created_at": "2026-10-15T18:02:13.522812Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: O/U 3.5",
   "revisions": 1,
   "sha256": "94fa9202b11c8c3181fe9b811f4cd0e4cdab1a25ae454ea0f4599dbfc0a33481",
@@ -1476,6 +1507,15 @@
   "revisions": 1,
   "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
   "slug": "will-gretchen-whitmer-win-the-2028-democratic-presidential-nomination-676"
+ },
+ "0xe3af35b9346384fa959dcbfe2d9a6f9ba765cb822e120aaef357b5de3abdaa0f": {
+  "created_at": "2026-11-18T21:07:27.371646Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Lithuania come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-lithuania-come-in-2nd-place-at-eurovision-2027"
  },
  "0xe7d0d65ee9f1270fecdd68297001194c4b7cee6abba8705a8425be9197e79a0f": {
   "created_at": "2026-08-04T18:19:23.15562Z",

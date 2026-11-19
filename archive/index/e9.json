@@ -109,6 +109,15 @@
   "sha256": "c02e69877e981955210e56682946e7eba83815efe1be0b109c7b00c016e64329",
   "slug": "enl-bar-fgr-2026-10-24-exact-score-0-4"
  },
+ "0x09ff83a95496f00b6ad3e0ce2164426debdb5fee872c00af7033efd5a8b8c5e9": {
+  "created_at": "2026-11-18T21:07:24.539195Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Greece come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-greece-come-in-2nd-place-at-eurovision-2027"
+ },
  "0x0cc2897540ac5fbe7a9445b2510945e3d96adbd9cccbf9c9f00a265f505e1fe9": {
   "created_at": "2026-07-22T05:41:15.647768Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -668,6 +677,15 @@
   "sha256": "badfadf3b38d8e2299ac8895cf304b8bc05ddede9b61c1a1cdb2e538964458f9",
   "slug": "will-xauusd-reach-4500-in-november-2026"
  },
+ "0x62494f2d8ba77eca83cc9f83b357bba27c7b83e3e7f44315d08b1fb5b201d8e9": {
+  "created_at": "2026-11-18T19:31:32.215033Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teddy Riner receive between 6% and 8% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0189f2a01e82de055e1d1e575556127eb5f8a5c8dbd4e952c9be77f2e089a164",
+  "slug": "france-first-round-vote-share-teddy-riner-6-8"
+ },
  "0x62d46402a5c14c5cd03da394af6c7b592d9a203b6dd5128ee576c727935d95e9": {
   "created_at": "2026-09-20T08:47:19.7336Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1052,6 +1070,7 @@
   "created_at": "2026-10-15T18:00:57.890944Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: O/U 5.5",
   "revisions": 1,
   "sha256": "fcef46dc6beb17b2a98eb66501bcfa394fc5363275c7dabd99d7edaea9380da0",
@@ -1061,6 +1080,7 @@
   "created_at": "2026-10-15T18:01:03.846095Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Barakaldo CF (-2.5)",
   "revisions": 1,
   "sha256": "85bcb2e7edeceb3e14e250d656e7276d0b06fb84cc812be18ec7103c4329f8db",
@@ -1202,6 +1222,15 @@
   "revisions": 1,
   "sha256": "f0f74609eb8ac99c9e0d777baca7cc12a4da9690866fb4fc94cdd739bc230c81",
   "slug": "will-tampa-bay-buccaneers-finish-the-2026-27-nfl-regular-season-with-the-most-interceptions-20260716001411931"
+ },
+ "0xbf55379a51c3d316a58f6a3235fc1689298121238bdae9f33531f62cba4b6be9": {
+  "created_at": "2026-11-18T18:51:35.646178Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tucker Carlson not announce a run for the Republican nomination before 2028?",
+  "revisions": 1,
+  "sha256": "e8ed29bdb65bf237144a1c3861d8e35e900d721950eea208baf1e106220573f3",
+  "slug": "will-tucker-carlson-not-announce-a-run-for-the-republican-nomination-before-2028"
  },
  "0xbfe99c2f332658d8685773fa58c3c4122ef80193c5e50d19c48ac040a22ab1e9": {
   "created_at": "2026-10-13T15:43:11.118752Z",
@@ -1569,6 +1598,15 @@
   "revisions": 1,
   "sha256": "76586de2d5a8dc8fc2a1f16ee59ecab86d275124bfaa08c20f09853eca77ce1d",
   "slug": "will-the-republicans-win-the-colorado-senate-race-in-2026"
+ },
+ "0xf92663670a42f84ab395cb3d4765c471d27b26fb7197bef455456b1ae77b2ae9": {
+  "created_at": "2026-11-18T21:07:27.37137Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Finland come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-finland-come-in-3rd-place-at-eurovision-2027"
  },
  "0xf92fc9904e1ae81a9aa7fb2afd646400bbdbaba1d782d63d88bb6a2ace8ff2e9": {
   "created_at": "2026-11-03T17:43:35.908234Z",

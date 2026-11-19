@@ -75,6 +75,7 @@
   "created_at": "2026-08-06T15:43:58.951751Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will DN SOOPers make a roster change by December?",
   "revisions": 1,
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",
@@ -97,6 +98,15 @@
   "revisions": 1,
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",
   "slug": "will-t1-make-a-roster-change-by-december-20260805205516469"
+ },
+ "0x13454012193b909c3bd72e8f8769393bf3518b2f6a9c29109fdadc97345a835a": {
+  "created_at": "2026-11-18T21:07:44.499428Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Germany be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-germany-be-the-jury-winner-in-the-eurovision-2027-grand-final"
  },
  "0x136f93963d636b2496443a8d247266000cc751fb34e3c4dbe7ec3ba75a31b85a": {
   "created_at": "2026-08-26T14:06:50.848086Z",
@@ -201,6 +211,7 @@
   "created_at": "2026-10-15T18:00:55.909501Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: FC Cartagena (-1.5)",
   "revisions": 1,
   "sha256": "dc08ce948e144853f175a656d53eafc8d856a9c5abe5420b2958be01d4394ecc",
@@ -298,10 +309,20 @@
   "sha256": "1295ed960381daf08c777d0d3c1991b6c6c4cdde1b66df571666fe66be6a36d9",
   "slug": "will-spd-be-in-the-next-mecklenburg-vorpommern-state-government"
  },
+ "0x239e32fefcd66ac3bda7eefcd913f719df9a53f70f05fca1f7c796dfbaab375a": {
+  "created_at": "2026-11-18T21:07:22.214409Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Denmark win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-denmark-win-eurovision-2027"
+ },
  "0x24a035cfd27fdf7f701ebd8d94e77925166c82cb2b1a6b6c1dda40e301f7cd5a": {
   "created_at": "2026-10-15T17:02:00.446925Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 0 - 2 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
@@ -475,6 +496,7 @@
   "created_at": "2026-10-15T18:02:17.105239Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 3.5",
   "revisions": 1,
   "sha256": "e2b286c5ec06c40cca3a99c817b518dbcc5b5993778c7bb1294ae8638a94346b",
@@ -512,6 +534,7 @@
   "created_at": "2026-10-15T17:01:05.075055Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 3 - 4 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -586,6 +609,7 @@
   "created_at": "2026-10-15T17:01:21.468756Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 3 - 3 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
@@ -748,6 +772,15 @@
   "sha256": "6f9cb9251e7b024e318adeb9ed7097715f5e5516a89043b9fb827595408fa969",
   "slug": "will-kyrgyzstan-win-the-2027-afc-asian-cup"
  },
+ "0x627122f039a2013ccc3f39f9ee4a7caf3232e0616a8b163445560d0b4ee7e25a": {
+  "created_at": "2026-11-18T21:07:33.023191Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Australia win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-australia-win-the-public-vote-for-eurovision-2027"
+ },
  "0x66491c9c2b31efe378d1eef0028b01be89448eceee24eefdc88af4013d84245a": {
   "created_at": "2026-10-24T11:30:24.732053Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -879,6 +912,7 @@
   "created_at": "2026-10-15T17:00:58.990986Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 5 - 3 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
@@ -1089,6 +1123,7 @@
   "created_at": "2026-09-23T15:07:47.271509Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will 2 Independents be elected to Congress in 2026?",
   "revisions": 1,
   "sha256": "e1bf37d030437665ba9be16a7b9c1597b2c7192fedac9e881a266cd658de98fe",
@@ -1256,6 +1291,15 @@
   "revisions": 1,
   "sha256": "19423c0b0aa4cc63cb10ece817fcc6d57c9e6b9c089423ec78afdf0bf7bbf161",
   "slug": "f1-abu-dhabi-grand-prix-h2h-albon-vs-jr-2026-12-06"
+ },
+ "0xb91e6ff7b122a88c80925beae83921449495d140367c01186d8ede79d724bd5a": {
+  "created_at": "2026-11-18T21:07:47.436155Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Luxembourg win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-luxembourg-win-the-public-vote-for-eurovision-2027"
  },
  "0xbaad1cef5c1f6f7a14c65f6eccd0c1ab51ef03550862473eefb3041c3e4cf85a": {
   "created_at": "2026-10-01T14:59:37.693571Z",
@@ -1478,6 +1522,15 @@
   "revisions": 1,
   "sha256": "9131fea407c9430c52ab2eb7b86dcf0442831c1cb3793813b55a7e84cec1ccfc",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-10-house-election-by-25-30"
+ },
+ "0xdadb149e9102e68aff5d96c1217306f4655494cf34900a1f0827090685f1675a": {
+  "created_at": "2026-11-18T21:07:19.352068Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Cyprus come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-cyprus-come-in-2nd-place-at-eurovision-2027"
  },
  "0xdd241dce5e3535ea8b3e9b6785f941a9c7143f155e7a1c054235e1478e1f895a": {
   "created_at": "2026-10-30T00:32:37.124413Z",

@@ -57,6 +57,7 @@
   "created_at": "2026-10-15T13:14:19.9046Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 1% to 2.5%?",
   "revisions": 1,
   "sha256": "482099944ac47325b3b4b935ac0453850f7cbccc7f39e85b288cd6c7a2c1f8d3",
@@ -107,6 +108,15 @@
   "sha256": "00b8434d735a2c0e9498c91cab6ad66e57f83f497f5714fb4f5f13bbb4105a10",
   "slug": "will-the-hunger-games-sunrise-on-the-reaping-score-at-least-80-on-the-rotten-tomatoes-tomatometer-20261123"
  },
+ "0x1406a3b92fa135b3e8679ae7fef67cb0137b9aca83e5806371b8c5f249cf69e8": {
+  "created_at": "2026-11-18T18:51:25.440078Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Pete Buttigieg win the Democratic nomination but lose the 2028 election?",
+  "revisions": 1,
+  "sha256": "e439bd4559c517e89002e1f2097ab2c32be9f1da71a056f4a6b0f2727165735d",
+  "slug": "will-pete-buttigieg-win-the-democratic-nomination-but-lose-the-2028-election"
+ },
  "0x1438a5126425d417f0d65efab05175fbb7d38311bb0032a85e25eda77dbcc7e8": {
   "created_at": "2026-01-28T15:33:34.855925Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -121,6 +131,7 @@
   "created_at": "2026-08-18T14:56:56.694631Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Lwazi Pakade be the next mayor of Cape Town?",
   "revisions": 1,
   "sha256": "3c79fc453f14e0dd0f723eb027a339c0eb3f2b798d2f7f692f3005a955a7bb1b",
@@ -415,6 +426,7 @@
   "created_at": "2026-10-15T18:02:34.312156Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Club Portugalete (-1.5)",
   "revisions": 1,
   "sha256": "ade3b65a52e1dacb0c9a77f28d135ba38f62f59bc990134a75dd1641a1696f9c",
@@ -1053,6 +1065,7 @@
   "created_at": "2026-10-15T18:01:50.900265Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 4.5",
   "revisions": 1,
   "sha256": "cacf868637ee95ec92595db103628ca025fa1d8f279eaa275f6602f88276f9b6",
@@ -1118,6 +1131,7 @@
   "created_at": "2026-08-11T17:58:46.351982Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the Republican Party candidate win the 2026 ND-AL House election by 5%-15%?",
   "revisions": 1,
   "sha256": "3ef0320716ebed4b135f63703fd094be3e9faec343e02f123676d721c7a50758",
@@ -1449,6 +1463,7 @@
   "created_at": "2026-08-06T15:43:58.203785Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Gen.G Esports make a roster change by December?",
   "revisions": 1,
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",
@@ -1516,6 +1531,15 @@
   "revisions": 1,
   "sha256": "9127c211596e14be80e6ae02922e42f39c0ab8f6cf754df69b96c678728036f0",
   "slug": "el1-pet-not-2026-10-03-corners-team-away-5pt5"
+ },
+ "0xd27c31a1216e0f22987f9b0b88a055fd9e0c050896d256fbe4ce39b0a01563e8": {
+  "created_at": "2026-11-18T21:07:56.336503Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will United Kingdom win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-united-kingdom-win-the-public-vote-for-eurovision-2027"
  },
  "0xd33c358125b60c423fb8fdcb5dc623f7a3a978f2f788cb4b0b5e00d5ec1823e8": {
   "created_at": "2026-10-13T19:39:38.696355Z",
@@ -1714,6 +1738,7 @@
   "created_at": "2026-10-15T17:01:36.955701Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 0 - 4 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",

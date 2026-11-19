@@ -1206,6 +1206,15 @@
   "sha256": "65fc855a4487a1f5ae5ce77dd6212379c49ff4160d5331c102a81da212095bb0",
   "slug": "will-deepseek-be-the-second-best-code-arena-webdev-ai-lab-at-the-end-of-january-2027"
  },
+ "0xa3e6f8c662e29275216c02376d8385a563ff63f530c504a6309f4bb716c9251b": {
+  "created_at": "2026-11-18T18:51:15.352985Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Ron DeSantis win the Republican nomination but lose the 2028 election?",
+  "revisions": 1,
+  "sha256": "3845730b89600df3f707d538dd2885f3fd0860b7848b54df1a4e2add51ce0550",
+  "slug": "will-ron-desantis-win-the-republican-nomination-but-lose-the-2028-election"
+ },
  "0xa3f568cb16bae193ff55383a671b9d3b2b5ee23937dcb8ebb2f5f13fd17a851b": {
   "created_at": "2026-05-21T20:43:22.35736Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1394,6 +1403,7 @@
   "created_at": "2026-10-15T18:02:47.040233Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "2154041923f0df872f8d89dbe50f7a209d6eff73ca3c4f63d122f66861adec44",
@@ -1530,6 +1540,7 @@
   "created_at": "2026-10-15T17:00:59.174607Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 5 - 5 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
@@ -1764,6 +1775,15 @@
   "revisions": 1,
   "sha256": "c6d9002a27f9abcbcee8f6314b9274823e420c2e8f1b72df0adbb488188b993f",
   "slug": "el2-wal-cra-2026-10-03-corners-team-away-2pt5"
+ },
+ "0xfde3a7bb9a74775657f2093af69541f00fb0baf921751eb329fbac93f57ac21b": {
+  "created_at": "2026-11-18T21:07:17.817726Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Canada come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-canada-come-in-2nd-place-at-eurovision-2027"
  },
  "0xfde4b7136a988dfe148532bb7c4afcc5ef404ffe2bb1de81fdfad738d742e21b": {
   "created_at": "2026-09-02T19:33:37.626935Z",

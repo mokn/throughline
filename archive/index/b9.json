@@ -209,6 +209,24 @@
   "sha256": "35586f59a0283a4eaa93a68fdfdf408c584956efd9e8aa56ed3f91f90b7c7bf6",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-02-house-election-by-35-40"
  },
+ "0x18e594e6d3ce482187baa8e8ebcdacacef2e48946c319ed624018bb7c65259b9": {
+  "created_at": "2026-11-18T18:51:25.997789Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Kamala Harris not announce a run for the Democratic nomination before 2028?",
+  "revisions": 1,
+  "sha256": "df2172ae6af90a5347208b99c6750d69bf013010f7d606b6637aaf31677f74e0",
+  "slug": "will-kamala-harris-not-announce-a-run-for-the-democratic-nomination-before-2028"
+ },
+ "0x1d2992a4d2acb389443185f66c2729e41f37b1555f4bb8e86cddaa8b68410db9": {
+  "created_at": "2026-11-18T18:16:44.649332Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Sevilla lead LaLiga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "61aed669e4ef76ce73017fd3c4902abbf3140b366e324da069f06e3716ffbee6",
+  "slug": "will-sevilla-lead-laliga-at-the-2026-27-winter-break"
+ },
  "0x1ee7ebccccdbda6628d870fe2e10eccd574c5f5a75f616a7829e9d5c09ed68b9": {
   "created_at": "2026-10-20T23:04:17.724785Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -299,6 +317,15 @@
   "revisions": 1,
   "sha256": "5a49eca46374a36e7eda94077481d3a3fba0b36aacdfceff890b0c2062157775",
   "slug": "will-the-highest-score-achieved-on-humanitys-last-exam-in-2026-be-58-or-higher"
+ },
+ "0x2d8ffa563e8ce7eb6ce776bbc48c27c9110d236e925f1a96b089f4fc2c9209b9": {
+  "created_at": "2026-11-18T21:07:59.592176Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will San Marino be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-san-marino-be-the-jury-winner-in-the-eurovision-2027-grand-final"
  },
  "0x2da2328166f444ff1214358ada4581abbcdbb8170cb76c55a74f0737190c85b9": {
   "created_at": "2026-09-08T17:02:36.573815Z",
@@ -667,6 +694,15 @@
   "sha256": "f4a6d8d916a927c854b5c9e4ed09f048c8663da857a8ab7211da19b67c92022c",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-08-house-election-by-30-35"
  },
+ "0x57f40873755023282a2c38a7cfba33d1b1348fd8e498ad01bb99c8b223f599b9": {
+  "created_at": "2026-11-18T21:07:36.391807Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Montenegro come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-montenegro-come-in-3rd-place-at-eurovision-2027"
+ },
  "0x59294b7f4a06ea1bfc18b8491742cc88bf1eda177a3d6a664175963e366be3b9": {
   "created_at": "2026-10-15T10:17:36.732946Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -881,6 +917,7 @@
   "created_at": "2026-09-17T23:52:32.869439Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cMiddle of Nowhere\u201d by Kacey Musgraves win Album of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "e6dd2e07337dc787ed06fdd1178fcf80e4dc5942aeed5be754a4d2e582af6ef5",
@@ -1127,6 +1164,7 @@
   "created_at": "2026-10-15T18:02:48.91095Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC O/U 5.5",
   "revisions": 1,
   "sha256": "a49fdfc613fe05d3f45753b8e82075940a9b3a29f625a792f7ac914b6c42d2fc",

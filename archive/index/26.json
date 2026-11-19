@@ -454,6 +454,7 @@
   "created_at": "2026-10-15T17:02:01.905032Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
@@ -538,6 +539,7 @@
   "created_at": "2026-10-15T18:01:06.145966Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: O/U 8.5",
   "revisions": 1,
   "sha256": "8dbd8d9b6424b8e5105710dd4aec55d115863b73f2a69f2287626ea02bf3e697",
@@ -585,6 +587,7 @@
   "created_at": "2026-10-15T17:01:06.352182Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: Neither team to score first?",
   "revisions": 1,
   "sha256": "1c911b994ea78df9c40505e0237f23fa6211c23cab03ddad7571a46b347087c2",
@@ -677,6 +680,7 @@
   "created_at": "2026-10-15T18:02:36.732744Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 5.5",
   "revisions": 1,
   "sha256": "aecddead64b23c7021c83c829c2075a502b82b56b5623fdbc2b710d2c7899a49",
@@ -1098,6 +1102,7 @@
   "created_at": "2026-10-24T04:00:07.89705Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Elon Musk post 740-759 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1149,6 +1154,15 @@
   "revisions": 1,
   "sha256": "62b7eb7c2fa0994ea2ec65df6aacd48eac709f8b2df07126d280680cbfc0c365",
   "slug": "will-the-republican-party-candidate-win-the-2026-pa-15-house-election-by-25-30"
+ },
+ "0x9b40b1758d775ec5349eeaaf3ebe6009836fb490a74f452ab10a182209f1b626": {
+  "created_at": "2026-11-18T18:17:01.675309Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Boston Red Sox?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-boston-red-sox"
  },
  "0x9b4fffde206dff485b2c8561dda2badcc62ca5ce25e3f66926ebba4bd5b7c326": {
   "created_at": "2026-06-29T00:46:38.149491Z",
@@ -1465,6 +1479,7 @@
   "created_at": "2026-09-17T23:51:59.27673Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Ella Langley win Female Vocalist of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "c1df377d5e98a64abe74b5fa98d5acb81eb0c9321b016944af87cb9fdfcbc30f",
@@ -1535,6 +1550,15 @@
   "sha256": "0ae33c7cccca38594de13df39d575f2b2185bc9c712ffc4b3cb9b7d216450181",
   "slug": "will-elon-register-any-party-before-2027"
  },
+ "0xd27fa62970d163ec44b9f52e61d5f54ff0621b1654f3c73bbba7242fcae01626": {
+  "created_at": "2026-11-18T21:07:17.433258Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Croatia win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-croatia-win-eurovision-2027"
+ },
  "0xd80564cd18533f6a7ce9d0cbe378636956de2d83c47e838721abc507e4d21726": {
   "created_at": "2026-08-11T17:53:58.746302Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1584,6 +1608,7 @@
   "created_at": "2026-10-15T17:01:21.119109Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 0 - 5 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",

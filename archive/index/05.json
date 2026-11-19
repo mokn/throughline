@@ -466,6 +466,7 @@
   "created_at": "2026-10-15T18:01:09.39987Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "275565eed0c1332d2b983cd132d8ee8c362b31f7d709874399e5df7f4c3fd2eb",
@@ -560,6 +561,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-detroit-lions-have-more-than-12pt5-wins-during-the-2026-nfl-season"
+ },
+ "0x5222b6ca2d9884ebc1bcbc4f1c3f98c66dc6343938c043f6d1059af518077b05": {
+  "created_at": "2026-11-18T21:07:37.009982Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Croatia win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-croatia-win-the-public-vote-for-eurovision-2027"
  },
  "0x529c408856960854ab8217c815333c237cfc9b9eda180a750a4f6bb2306a7605": {
   "created_at": "2026-08-25T04:31:42.659397Z",
@@ -819,6 +829,15 @@
   "revisions": 1,
   "sha256": "2158518c9577f2db38c13b40dc708ad119ac3559b3e53f09fee981925991675a",
   "slug": "will-the-democrats-win-the-georgia-governor-race-in-2026"
+ },
+ "0x785d7d26b268b8dd8a0f7a0df1f4d7c5ebcca7a7b4151eb1bd7ae73be3b24805": {
+  "created_at": "2026-11-18T21:34:02.874715Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Anthropic IPO closing market cap above $1.3T?",
+  "revisions": 1,
+  "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
+  "slug": "anthropic-ipo-closing-market-cap-above-1pt3t"
  },
  "0x7a920655a7b9d679c6d36b66c49c32fdb42ad04133a14f9cd79aa24e10f99305": {
   "created_at": "2026-07-30T20:45:50.012836Z",
@@ -1484,6 +1503,7 @@
   "created_at": "2026-10-15T18:02:12.914943Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: RCD Mallorca (-5.5)",
   "revisions": 1,
   "sha256": "5c5dd112cf46407aea0c1420461baa1c65990812b6dce30dd56a4c0f32fed68d",
@@ -1633,6 +1653,15 @@
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
   "slug": "scop-ran-abe-2026-10-31-exact-score-3-1"
+ },
+ "0xfb66b5ddd49e55d779294e1ae1f9d7405cdce1f7119e13a9c51c9ba0a30dd405": {
+  "created_at": "2026-11-18T21:07:25.474869Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Cyprus come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-cyprus-come-in-3rd-place-at-eurovision-2027"
  },
  "0xfcd0b442c85d2ede80086dd99f9e22d680617af591f0a0861074bec529a0a405": {
   "created_at": "2026-08-12T00:14:05.180396Z",

@@ -112,6 +112,7 @@
   "created_at": "2026-10-15T18:02:14.953355Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "017ad22f0c0d59b2703df127d5c20adf63668549822f9d982e4ca664c2e2fbeb",
@@ -564,6 +565,7 @@
   "created_at": "2026-10-15T18:02:17.968933Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "7613b043e3df2a84009535cf51a3aeb69ff01fc96db0733c68131c627a254e33",
@@ -1069,6 +1071,15 @@
   "revisions": 1,
   "sha256": "9995107b52256cb9d5bfea30045cbfec3249575004da22750ef1e272dc2e0acc",
   "slug": "2027-soccer-efbet-liga-bulgaria-winner-arda"
+ },
+ "0xbcac71220a226317a50744bef0cdf2c95c40ec490ce5a69b99d6927b027d0d96": {
+  "created_at": "2026-11-19T15:47:51.14143Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will xQc be the first of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-xqc-be-the-first-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
  },
  "0xbd569774731db609908405b52351c990ecdf488c9e8cb1e560b686475bf6d696": {
   "created_at": "2026-09-08T17:03:07.39441Z",

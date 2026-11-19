@@ -271,6 +271,15 @@
   "sha256": "92bdf1e6a8826c7a1708872f9a622d026a15c798a8498e7d12870919e803b0c9",
   "slug": "will-radnicki-1923-finish-10th-in-serbian-superliga-2026-27"
  },
+ "0x1d3712bfdec662b66e4dd915e9ce4040d1883407d65291cc8f95b56d8ecbc10a": {
+  "created_at": "2026-11-18T18:17:28.036271Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be San Francisco Giants?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-san-francisco-giants"
+ },
  "0x205bc75ca035634d71abd9231aa393926b2361f04f1a78c7480e0096ee1c920a": {
   "created_at": "2026-07-31T23:05:54.475291Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1485,6 +1494,15 @@
   "revisions": 1,
   "sha256": "b109ac11f0f5bad1e1abdf8655258b8993cbdd23d77b126e008d48cddd3245a4",
   "slug": "will-the-democratic-party-win-the-tx-21-house-seat"
+ },
+ "0xe39a83d65780a865946e3fa5a2c6c815060781810c0ca0b6f5f79119e90b7a0a": {
+  "created_at": "2026-11-18T18:17:07.059098Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Cleveland Guardians?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-cleveland-guardians"
  },
  "0xe4565b7036d214d87f03d82ed44b6e0db1b05c972d358b22e78aa9b68da1850a": {
   "created_at": "2026-02-18T18:25:20.450543Z",

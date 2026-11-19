@@ -151,6 +151,7 @@
   "created_at": "2026-10-15T17:00:57.251018Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 0 - 0 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
@@ -301,6 +302,15 @@
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-matthew-tkachuk-win-the-2026-27-maurice-rocket-richard-trophy"
  },
+ "0x317ca21221c8bdfa22814e997d3d1d46860948b1e9cbfc1bbb167fafbc2feb5d": {
+  "created_at": "2026-11-18T21:07:55.917729Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Poland be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-poland-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x32c382ed92a2e6d7e6ea07e2f72052c8b15fe9b4226730600d5be8b01433eb5d": {
   "created_at": "2026-08-18T14:22:54.777006Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -404,6 +414,7 @@
   "created_at": "2026-10-15T18:01:01.364054Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 5.5",
   "revisions": 1,
   "sha256": "ba03b38b2930b42fea2d5ebfdb79d33abd2a7d25e21542883ebfd8210dd22567",
@@ -669,6 +680,7 @@
   "created_at": "2026-09-17T23:51:14.876768Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Ella Langley win Entertainer of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "719e695fc5d46257f40e3b7172061b0a904af886e3d545f96824487f85539767",
@@ -794,6 +806,15 @@
   "revisions": 1,
   "sha256": "28c43d94e076a347f0063de2dc02b601bbd2690db887f510e8f539b8ef4b1496",
   "slug": "2026-soccer-nwsl-winner-gotham-fc"
+ },
+ "0x786e8944d7bcae12ef2f6661b70eba37e6fc7adebc01be15f91ce9b814c83d5d": {
+  "created_at": "2026-11-19T15:47:30.330805Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Adin Ross be the second of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "1d880ec34acf88b3801abcfeacb1db56ba0753146074bae220419d92696808ee",
+  "slug": "will-adin-ross-be-the-second-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
  },
  "0x7a166362eaea131f9f9694d6c337138be78d26c9de2390692f37f60cffa9ef5d": {
   "created_at": "2026-04-22T18:25:41.433983Z",
@@ -972,6 +993,7 @@
   "created_at": "2026-10-15T18:02:46.361408Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "870f78bc84f3e9218c683a0239d1a95c0b0a97a52c3444f22115c44d01b94495",
@@ -1305,6 +1327,15 @@
   "sha256": "0a68dfbeb8d16bbd511e8c094c8eb2ad2f247de7dbe1fbec1949665724cad35f",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-02-house-election-by-0-10"
  },
+ "0xd9ec6059b5ffd9170de2b59eb47eff3bec5a84edfe9b6e3dd267e012fe0ea95d": {
+  "created_at": "2026-11-19T15:47:14.258346Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Kaysan be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "aab81579c2cb6b7de786ff0ee55952fbc5e2fd8591a8e70df5dadacfa221adc0",
+  "slug": "will-kaysan-be-the-second-kick-streamer-to-finish-gta-vi-by-december-31-2026"
+ },
  "0xdb356abf1fcca436f210879fea4ce6844355d32cf2ef8f9f5877750ddd830f5d": {
   "created_at": "2025-11-13T16:43:30.603072Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1473,6 +1504,7 @@
   "created_at": "2026-10-15T17:01:00.112449Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC to score first vs. CE Sabadell FC?",
   "revisions": 1,
   "sha256": "ad665ceeb92aec47eb18753c426ad363125d75b9b8bd007489ea393b7136d43c",
@@ -1491,6 +1523,7 @@
   "created_at": "2026-10-15T17:01:20.436856Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 0 - 1 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",

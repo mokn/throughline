@@ -874,6 +874,15 @@
   "sha256": "b49c82b57fec09083c45331ff12ec20ed7fdce5fd3a90e10d81531c72cb6cbe8",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nj-09-house-election-by-15-20"
  },
+ "0x855b2c1947fe56974d149c2fdf6014fd03d2a614de07fc859251ded8109a7c29": {
+  "created_at": "2026-11-18T18:17:30.840645Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Texas Rangers?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-texas-rangers"
+ },
  "0x856c3fba1a5f6e8da58f3364c35c1fb077210344fa306b6e3bcdf8f7be647e29": {
   "created_at": "2026-08-11T18:33:37.561766Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1337,6 +1346,15 @@
   "revisions": 1,
   "sha256": "f9164d00dc50ad9b2a1c41e676b6f758af0cacc85e9ed5ced7fe08861f1c2588",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-16-house-election-by-45-50"
+ },
+ "0xcc0038aae0559f89c86e99dd41c884ebc5f6eac0cba433e70f27af60eb91b629": {
+  "created_at": "2026-11-18T19:52:04.418087Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Olivia Colman win Best Supporting Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "cd5b340e6c41133501ad8fd90b5a2faeeec662483359ed488eb467886ff885d1",
+  "slug": "will-olivia-colman-win-best-supporting-actress-at-the-32nd-critics-choice-awards"
  },
  "0xcccfebac7f864e5336935b6ed4069ccebffc66a8e714151f13408e67f461d329": {
   "created_at": "2026-01-28T15:38:06.403076Z",

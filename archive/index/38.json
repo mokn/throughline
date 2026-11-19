@@ -218,6 +218,15 @@
   "sha256": "81ed0b5840b95056df9b11c06a56cd6c84db51fec130e427e62642d417476bf4",
   "slug": "will-rodrigo-fernandes-record-the-most-assists-in-the-2026-27-uefa-champions-league"
  },
+ "0x25731bf1f3e33d4af233841778f4f2922cad4455f93f05d5752fb36c90bf3638": {
+  "created_at": "2026-11-18T21:07:38.789922Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Latvia win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-latvia-win-eurovision-2027"
+ },
  "0x2631584f49dc5a9750b5c508b82b915148a707f10ddb8b2feb09fb9e253ce238": {
   "created_at": "2026-08-11T17:53:28.167364Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -550,6 +559,7 @@
   "created_at": "2026-10-15T18:01:50.73532Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 3.5",
   "revisions": 1,
   "sha256": "e66fcd094fba909b88ae5fd27d210528bc905834a358b485a9033ce4837d4dbb",
@@ -820,6 +830,15 @@
   "sha256": "ca82f4437ce69ea01f4a80692336ee1f511a6f8b2dd87cb8a912870101eff2a5",
   "slug": "el1-bra-bar-2026-09-26-team-total-away-4pt5"
  },
+ "0x868fd7b37987aae63ebaff52b3bef933aa44e96e92b8b4e2c4330b138ed2dc38": {
+  "created_at": "2026-11-18T19:51:43.330363Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Riz Ahmed win Best Supporting Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "8659894cda157dbe70efa40b0afc0402af5f1a8dbef1828da039934be8f74d6b",
+  "slug": "will-riz-ahmed-win-best-supporting-actor-at-the-32nd-critics-choice-awards"
+ },
  "0x8aee74b7b847e182a4e80090d76c278ada71bfd9144d8cc0868c51a339524738": {
   "created_at": "2026-02-07T20:14:44.405857Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -882,6 +901,15 @@
   "revisions": 1,
   "sha256": "cb2ad3e9a875323a96dc17972c44f4bef31f73c62e9d0223a5dfe49e1248d7f1",
   "slug": "el1-wim-ste-2026-10-03-team-total-home-0pt5"
+ },
+ "0x9259131f5d973e6b7444e771630a69d4ab3e55ee112a87cac97699528691ea38": {
+  "created_at": "2026-11-18T19:52:03.967342Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Pen\u00e9lope Cruz win Best Supporting Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "cd5b340e6c41133501ad8fd90b5a2faeeec662483359ed488eb467886ff885d1",
+  "slug": "will-penelope-cruz-win-best-supporting-actress-at-the-32nd-critics-choice-awards"
  },
  "0x92efb2488a5290f601acb3e0728e5b61ce88215ba91b04a7c2c531d807e0e338": {
   "created_at": "2026-09-08T19:04:40.973774Z",

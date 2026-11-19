@@ -1,4 +1,13 @@
 {
+ "0x00ffdf4baaa11c14077660b8e4b2e80c9671789b1a9ca9550e60ae5dcb535ed4": {
+  "created_at": "2026-11-18T21:07:50.598883Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Marques Brownlee shave his head by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "4ac5723917923e797e17443d80ac0273f2813c00b50934146fa9e92202b62c7f",
+  "slug": "will-marques-brownlee-shave-his-head-by-march-31-2027"
+ },
  "0x01c131c11ce5c2c08128b079d7791d32ad7728cac22339bddeed7caf499e5ad4": {
   "created_at": "2026-08-11T19:10:56.54799Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -396,6 +405,7 @@
   "created_at": "2026-10-15T17:01:21.19598Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 2 - 3 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
@@ -414,6 +424,7 @@
   "created_at": "2026-10-15T17:02:01.78284Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 4 - 5 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
@@ -487,6 +498,7 @@
   "created_at": "2026-10-15T18:02:39.347888Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: Real Uni\u00f3n Club O/U 0.5",
   "revisions": 1,
   "sha256": "c269a9aa61cede94b7c5a9bfc931da1fd1428df6b542bec9e474589738191d37",
@@ -514,6 +526,7 @@
   "created_at": "2026-10-15T18:02:40.926169Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "98e9346978beb150fa12da8d6e4a8ec18af710177807143285b22bf1d2c92e70",
@@ -1183,6 +1196,7 @@
   "created_at": "2026-10-15T18:02:47.52226Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: Utebo FC O/U 2.5",
   "revisions": 1,
   "sha256": "a939e89d5007238c390a45588ca45e83b3acd7cf74484c996af169506a89ea9e",

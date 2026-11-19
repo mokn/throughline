@@ -95,6 +95,7 @@
   "created_at": "2026-10-15T18:00:58.751417Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "651b0b7984ea69eab46303e43241606720183dbe7195a9b7f8456f6ba5f94dd1",
@@ -188,6 +189,7 @@
   "created_at": "2026-10-15T17:02:06.566416Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 3 - 4 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -312,6 +314,15 @@
   "sha256": "7cba628d20d6c8f4e59e7c65267cb47c8391108f2e90676ac5e84d3eec1d4242",
   "slug": "2026-soccer-liga-nacional-guatemala-runner-up-malacateco"
  },
+ "0x2fc39ce235ab7c0bc1d325a2e8e2222f30088ee73c75eab8e6e15d37daa3552a": {
+  "created_at": "2026-11-18T19:52:03.000067Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Anne Hathaway win Best Supporting Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "cd5b340e6c41133501ad8fd90b5a2faeeec662483359ed488eb467886ff885d1",
+  "slug": "will-anne-hathaway-win-best-supporting-actress-at-the-32nd-critics-choice-awards"
+ },
  "0x2ff2d2aba8fe57eb7b5d02466f2c9a30a5b0f3a9ae5344b046b688a1a131332a": {
   "created_at": "2026-08-28T19:39:25.348236Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -401,6 +412,15 @@
   "revisions": 1,
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-ty-jerome"
+ },
+ "0x39529987d017b47900ebc431ccf02c40155a45ce49bc213e4d969d41895e852a": {
+  "created_at": "2026-11-18T21:07:40.332899Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Estonia be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-estonia-be-the-jury-winner-in-the-eurovision-2027-grand-final"
  },
  "0x3bd76e8b71777e98d5a45b570fa16750789b49e9771084ecebe943aa39fc642a": {
   "created_at": "2026-09-04T19:49:09.755071Z",
@@ -545,6 +565,15 @@
   "revisions": 1,
   "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
   "slug": "ukr1-met-kar-2026-11-07-exact-score-1-5"
+ },
+ "0x5a13eb2fecbe704ae1acf32c59b0726bee969ff5a48121c349011e61cd6db12a": {
+  "created_at": "2026-11-18T21:07:56.57545Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Montenegro be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-montenegro-be-in-the-top-5-at-eurovision-2027"
  },
  "0x5b43d0c5853af3a05e582bbc2cc53d867b3231f00e3e6a58035f98da9baafb2a": {
   "created_at": "2026-08-11T18:26:51.046729Z",
@@ -955,6 +984,15 @@
   "sha256": "fcd885be9fd2d699ebbab715a9f3a3c97fe0cf615ac07e10a342c1303a802c02",
   "slug": "will-the-republican-party-candidate-win-the-2026-florida-senate-election-by-21-or-more"
  },
+ "0x98308b11c8822579735f83c46a1f8a0af9cae9bd9a5441b4561199c3cd65122a": {
+  "created_at": "2026-11-18T19:31:29.762245Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teddy Riner receive less than 2% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "0189f2a01e82de055e1d1e575556127eb5f8a5c8dbd4e952c9be77f2e089a164",
+  "slug": "france-first-round-vote-share-teddy-riner-less-than-2"
+ },
  "0x993746509503a310c3574ce98832e1e089015eb2dd533beeb5b6e7dfb6258a2a": {
   "created_at": "2026-08-10T23:57:13.612568Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -973,10 +1011,20 @@
   "sha256": "5c1b427cc66d80c3ab5e780ff16ec01d68060ada2a346a870eb5ff3b78cd892a",
   "slug": "el1-wim-ste-2026-10-03-corners-team-away-3pt5"
  },
+ "0x9ea35cb3f8b6e8b52e06f8cc0e3bfab1173fb4b41b0f8c73d050cdbe2342ca2a": {
+  "created_at": "2026-11-19T15:47:13.630278Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will dcampion be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "aab81579c2cb6b7de786ff0ee55952fbc5e2fd8591a8e70df5dadacfa221adc0",
+  "slug": "will-dcampion-be-the-second-kick-streamer-to-finish-gta-vi-by-december-31-2026"
+ },
  "0xa2a5717a277bc47c59e696e3318e620acb042b34e0ba0945ceb7536a024cd02a": {
   "created_at": "2026-10-15T18:02:16.095602Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 2.5",
   "revisions": 1,
   "sha256": "c35dcfd1741805f198b3fbf6bfd8a0ab1142a7bea7c207ff58b181effbbc2cbc",
@@ -1017,6 +1065,15 @@
   "revisions": 1,
   "sha256": "2966256705f6613f7d32d98b5a29368b23bcc2d97304bffa4c118c1f5c3883aa",
   "slug": "will-aek-athens-finish-the-ucl-league-phase-with-the-best-goal-differential"
+ },
+ "0xabda1570e151760435fa85a11b5cbafe105a3514e33b6e2225b7400bf8d30c2a": {
+  "created_at": "2026-11-18T21:29:55.654225Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Chip Deva win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-chip-deva-win-festivali-i-kenges-65"
  },
  "0xad4b17d9d354c3ad0962c51a0dd5086da7a3befe85cd15955bc280dfa35fd32a": {
   "created_at": "2026-10-15T19:00:26.099158Z",
@@ -1187,6 +1244,7 @@
   "created_at": "2026-10-15T17:01:37.295227Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 1 - 4 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",

@@ -1115,6 +1115,15 @@
   "sha256": "aa8e3ee6e70792c4feaaffe926bb067b04ce8a6e604388817ed8da39e5e22b40",
   "slug": "will-indiana-hoosiers-win-the-2027-cfp-national-championship"
  },
+ "0xa5a596924fdb2f31dbf7e179eab77275fc2981702f226551c1ceea5b31bcddb8": {
+  "created_at": "2026-11-18T21:07:39.222605Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Lithuania win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-lithuania-win-eurovision-2027"
+ },
  "0xa6a6a36e1286745b10e3b6886730e3e8640df6d9f5b003ac03b16c6f2e6010b8": {
   "created_at": "2026-09-18T00:06:54.484639Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1301,6 +1310,7 @@
   "created_at": "2026-10-15T17:01:20.666595Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 1 - 1 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",

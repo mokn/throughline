@@ -3,6 +3,7 @@
   "created_at": "2026-11-02T21:05:32.867747Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Tom Emmer be the next House Majority Leader?",
   "revisions": 1,
   "sha256": "51965843a44cb5fc21f88721c84656532d8876f8719a88e056d7e66ee3d44a2a",
@@ -1183,6 +1184,15 @@
   "sha256": "a605461467f332fcf230469d3ecbd9e0d326acca075c58643037aacb2cd5da2e",
   "slug": "will-al-gharafa-win-the-2026-27-afc-champions-league-elite"
  },
+ "0xcba8530d36dbbe10e1e26532d12702b7518754b2bfb39acceeae14564d4b8101": {
+  "created_at": "2026-11-18T18:17:05.327444Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Cincinnati Reds?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-cincinnati-reds"
+ },
  "0xccf083f23637ded8507cf2aa9ce805728776670526e3b3235cd2b5b368fb7701": {
   "created_at": "2026-08-07T16:01:55.261427Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1451,6 +1461,15 @@
   "sha256": "860fa2c62e8848d1c0dc01feb7f834b3d606cad603a9585fc2a98716f7c943b4",
   "slug": "will-the-labor-party-pt-win-the-second-most-seats-in-the-2027-mexico-legislative-election"
  },
+ "0xf132fc23b894b07e7b721bc906fb2739f60ae20fcef9ff32c205f90173221f01": {
+  "created_at": "2026-11-18T17:58:12.401664Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Pete Hegseth be TIME Person of the Year 2026?",
+  "revisions": 1,
+  "sha256": "2a41dadc7ef95fd067cf83ab83411d788e838376d62bfa78ee5fb64c4aa02161",
+  "slug": "will-pete-hegseth-be-time-person-of-the-year-2026"
+ },
  "0xf1dc6a96fb0fb3bb0713d65442d66a00c094089d1bc7df81834ca5b897d31b01": {
   "created_at": "2026-09-14T22:15:49.499689Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1501,10 +1520,20 @@
   "created_at": "2026-09-23T17:26:55.08181Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for Gen.G in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",
   "slug": "will-deft-play-for-genptg-in-2027-1790107563296"
+ },
+ "0xfa726a9093488f4510ae546b400277eae520f26ec16c5436ff3257f7a39e9a01": {
+  "created_at": "2026-11-18T18:50:08.97518Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Jon Ossoff not announce a run for the Democratic nomination before 2028?",
+  "revisions": 1,
+  "sha256": "b0d730f1cb7a4cb3ee3ffda890f1893f7a651d150a5a138fb071dc8d043b77c2",
+  "slug": "will-jon-ossoff-not-announce-a-run-for-the-democratic-nomination-before-2028"
  },
  "0xfbf167d27c87c5ce01a751fd1f6223b9c6a789ac918d6969377280bf3e6da901": {
   "created_at": "2026-10-15T15:54:16.550367Z",

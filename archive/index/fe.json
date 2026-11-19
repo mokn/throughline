@@ -260,6 +260,7 @@
   "created_at": "2026-08-31T18:10:21.385171Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Tom\u00e1\u0161 Portl\u00edk be the next Mayor of Prague?",
   "revisions": 1,
   "sha256": "c8131bba46e877ec3dfd603b41c4f62142c9cd80cb5cf133138519b0b4000d3a",
@@ -882,6 +883,7 @@
   "created_at": "2026-09-17T23:51:22.19213Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Zach Top win Male Vocalist of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "68a083d6dfc2f7b25c50cc489cef3eb89c23e48f0675bf4741b6a93c8a2ae8ee",
@@ -918,6 +920,7 @@
   "created_at": "2026-10-15T18:02:12.447101Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Alcoyano (-4.5)",
   "revisions": 1,
   "sha256": "65da5f631b616adb18cdb6799d49eedea97ce17c66241c08cd5e764d061b62d2",
@@ -1076,6 +1079,15 @@
   "sha256": "7215aa6d0b29da7e0c364380455af23ca238b2fba6ff6ac7575c593a79b547d4",
   "slug": "will-kudrivka-finish-3rd-in-ukrainian-premier-league-2026-27"
  },
+ "0xa785a647f72749a4c85f47bd87c2d8ca815eac2d7df76be11b703c98491a02fe": {
+  "created_at": "2026-11-19T15:47:49.424057Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Rubius be the first of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-rubius-be-the-first-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
  "0xa807701f459a6363cf4d4d7f8522bdd9e093dc543f3b93d6245cbf0b22312efe": {
   "created_at": "2026-09-28T17:19:02.612695Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1171,6 +1183,7 @@
   "created_at": "2026-10-15T17:01:21.377032Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 1 - 5 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
@@ -1185,6 +1198,15 @@
   "revisions": 1,
   "sha256": "cc33e62a2bb4c50e1d904dce0a2bfd6b6ab4da9b5ab7d7f1d5769d3f3831637a",
   "slug": "will-democrats-win-exactly-46-house-seats-in-california-in-the-2026-midterm-elections-20260811010741879"
+ },
+ "0xb722937468232dc3e306c9bd317b68027ebcf436600db79c137ccf25c5d822fe": {
+  "created_at": "2026-11-18T18:58:45.32031Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Markwayne Mullin announced out as Secretary of Homeland Security by December 31?",
+  "revisions": 1,
+  "sha256": "99817f4e1f2af57806804d1343076e5e19ff7cf202fbfe8aba33448423d4d285",
+  "slug": "markwayne-mullin-announced-out-as-secretary-of-homeland-security-by-december-31"
  },
  "0xb81a3f9d3ddf19e8c019bdd96d92f21fde1782c98fc9a892133c1bfd1d46e2fe": {
   "created_at": "2026-10-13T15:57:40.51965Z",

@@ -502,6 +502,15 @@
   "sha256": "c27aedd20c6d7bcc0b44476511d45f12d9faa39cd5ab4d19580da683e334c313",
   "slug": "will-the-next-google-gemini-pro-model-be-released-by-november-30-2026"
  },
+ "0x61a8d7f9e45e47c2d6cb569babfd2398ca4437e7c0918a0bc30c2be8542f1bdb": {
+  "created_at": "2026-11-18T21:07:29.286639Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Moldova come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-moldova-come-in-2nd-place-at-eurovision-2027"
+ },
  "0x63d9529d6efd63f3dd4bc5af98e16f5e05dce136ee664b02d2380024edfd45db": {
   "created_at": "2026-10-16T08:58:29.438401Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -796,6 +805,7 @@
   "created_at": "2026-08-11T17:58:44.862676Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the Republican Party candidate win the 2026 ND-AL House election by 45% or more?",
   "revisions": 1,
   "sha256": "3ef0320716ebed4b135f63703fd094be3e9faec343e02f123676d721c7a50758",

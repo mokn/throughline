@@ -206,6 +206,15 @@
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-tyler-herro"
  },
+ "0x1d516588b945c5f434844d9ece79e967d3ffaf186dad17d1e4e26274fc1b2fea": {
+  "created_at": "2026-11-18T21:07:21.684857Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Finland come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-finland-come-in-2nd-place-at-eurovision-2027"
+ },
  "0x1dd51ea31a0d528d036bdd3d87ea0369ff542719cf4779204da60fbdb3f2c3ea": {
   "created_at": "2026-09-01T09:44:59.374466Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -810,6 +819,7 @@
   "created_at": "2026-10-22T20:39:36.879249Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will GPT Astra 6.1+ debut with an HLE-Diamond score of 55% or higher?",
   "revisions": 1,
   "sha256": "b0ee56ec2a603159108f9eaaea56e3c2bcd81f749ac968943fceca98567fbf54",
@@ -1045,6 +1055,15 @@
   "revisions": 1,
   "sha256": "c7103ea04399509fba7b91ed7581a68104dc33f591bca8202a08014e72e83c51",
   "slug": "bijan-robinson-4pt5-rushing-touchdowns-2026-27"
+ },
+ "0xb94111a875de33fd2189c000e5403f0931dcfa02dbc00d93c00b8304317891ea": {
+  "created_at": "2026-11-18T21:07:34.30626Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Luxembourg come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-luxembourg-come-in-3rd-place-at-eurovision-2027"
  },
  "0xbaafad62b9fc168afa464ba74121629816c3917d1165c76dc6e7f301817fdeea": {
   "created_at": "2026-10-13T15:49:36.43298Z",

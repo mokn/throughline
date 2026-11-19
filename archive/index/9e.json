@@ -1,4 +1,13 @@
 {
+ "0x02a67d54b9504fae8cfdaf0bb59fc7b64136112b85a3bbcded6960bef142db9e": {
+  "created_at": "2026-11-18T21:07:30.929561Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Israel come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-israel-come-in-3rd-place-at-eurovision-2027"
+ },
  "0x044523b155aaf3e311d2d195c90bf53d2776c7e34d7313717e6c20111ad1ad9e": {
   "created_at": "2026-07-01T23:10:44.823832Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -62,6 +71,15 @@
   "revisions": 1,
   "sha256": "c33711f038e9d1607038809bb998b103d8132ad03c76ef3ad18e9dd51da444b7",
   "slug": "will-anthropic-be-the-second-best-ai-agent-lab-at-the-end-of-december-2026"
+ },
+ "0x0bc1fd5cc9b6a5eb69f0059df0f6bfeff6dc5efe4129dbd612ee392d7c09959e": {
+  "created_at": "2026-11-18T18:51:27.055488Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Kamala Harris win the Democratic nomination but lose the 2028 election?",
+  "revisions": 1,
+  "sha256": "df2172ae6af90a5347208b99c6750d69bf013010f7d606b6637aaf31677f74e0",
+  "slug": "will-kamala-harris-win-the-democratic-nomination-but-lose-the-2028-election"
  },
  "0x0f051e96748d18e52a7e32f6bf3662ddf69a156e4aa34db8e283899fde69489e": {
   "created_at": "2026-02-12T19:33:07.403163Z",
@@ -160,6 +178,7 @@
   "created_at": "2026-10-15T18:00:59.767397Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: CD Minera O/U 2.5",
   "revisions": 1,
   "sha256": "5629f92fe12dd7e8388386ff77de5542d30a0108e9b755e49fc28b2dac69ee96",
@@ -242,6 +261,7 @@
   "created_at": "2026-08-18T14:56:54.721189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Nontando Nolutshungu be the next mayor of Cape Town?",
   "revisions": 1,
   "sha256": "3c79fc453f14e0dd0f723eb027a339c0eb3f2b798d2f7f692f3005a955a7bb1b",
@@ -480,6 +500,7 @@
   "created_at": "2026-10-15T17:01:59.726542Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Draw at halftime?",
   "revisions": 1,
   "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
@@ -686,6 +707,15 @@
   "sha256": "95bc62b50f9a58963e398ce3381b4436934bc5cee23dfbbe491689e629b3c62d",
   "slug": "will-justin-herbert-win-the-2026-nfl-mvp"
  },
+ "0x7063273cc986f3371126bbdc80b6183dc38b45e8601536f198aeaab41230439e": {
+  "created_at": "2026-11-18T21:07:36.344459Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Armenia be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-armenia-be-in-the-top-5-at-eurovision-2027"
+ },
  "0x70d5325022f87505a15871cdbb38566927a00df4184bdea483a3db0e4da9d59e": {
   "created_at": "2026-10-01T14:00:57.044871Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -864,6 +894,7 @@
   "created_at": "2026-10-15T18:01:00.773476Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: FC Cartagena O/U 3.5",
   "revisions": 1,
   "sha256": "435cece07f3ec27ba664f8c2c4be457590a6a6ef1312d0ce48c9d2fc1e2f6c32",
@@ -1612,6 +1643,7 @@
   "created_at": "2026-10-15T17:02:05.717345Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 3 - 0 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",

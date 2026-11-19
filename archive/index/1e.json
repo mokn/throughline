@@ -267,6 +267,7 @@
   "created_at": "2026-09-04T04:07:34.283259Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will primmie play for VARREL in 2027?",
   "revisions": 1,
   "sha256": "06163aaa56edf14ca69f811a15b656b6869c4aece9fa5b39eb77eb28bd572d28",
@@ -424,6 +425,7 @@
   "created_at": "2026-10-15T18:01:49.350462Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "0c413a16db7b2a612738ad6a8edcd78234820e73e8d89f8a9718a9cfef9e729f",
@@ -820,6 +822,15 @@
   "sha256": "937f8fc6a4933d119b1cb0a60444dd6f1553609630286adf529186f7660ff137",
   "slug": "will-washington-commanders-advance-to-the-divisional-round-in-the-2027-nfl-playoffs"
  },
+ "0x5e2520e3d3898dc43e12adc0a284854984bbad9ecacc1199c58d8cf6302a1d1e": {
+  "created_at": "2026-11-18T21:07:36.08182Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Bulgaria be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-bulgaria-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x5ed3b8bfd744e6e87c601e78ce5dfe34fc6bb56a14156c2b4314d122a90a3c1e": {
   "created_at": "2026-04-29T17:20:30.795448Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -833,6 +844,7 @@
   "created_at": "2026-10-15T17:01:05.15268Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 5 - 2 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -1071,6 +1083,7 @@
   "created_at": "2026-10-15T18:01:05.025425Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: O/U 0.5",
   "revisions": 1,
   "sha256": "187d3bb78072d104e3007a1cc9667040f6257caf893efff0b0b14ae430c95240",
@@ -1089,6 +1102,7 @@
   "created_at": "2026-08-31T18:10:22.029863Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Adam Scheinherr be the next Mayor of Prague?",
   "revisions": 1,
   "sha256": "c8131bba46e877ec3dfd603b41c4f62142c9cd80cb5cf133138519b0b4000d3a",
@@ -1140,6 +1154,15 @@
   "sha256": "f927678d69e354a727f0be79ced2356b56d2cb88482ba96dc16b5d6425611484",
   "slug": "will-the-bank-of-canada-decrease-the-target-for-the-overnight-rate-by-50-bps-at-the-march-2027-interest-rate-announcement"
  },
+ "0x841ed71216449016b635851ee2574f7acf217fc377de38abc0e6ce54add7ff1e": {
+  "created_at": "2026-11-18T21:07:43.288358Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Georgia be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-georgia-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x8474a2f47c03e1e76b95be25f3cf39e760d23b42c02a44959e53cea48d790e1e": {
   "created_at": "2026-11-06T21:50:25.584101Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1176,6 +1199,15 @@
   "revisions": 1,
   "sha256": "47d847703c51e7fd0f813e7bb49b16de8002f5933d827e0ea498eea988dbbdb5",
   "slug": "will-the-democratic-party-win-the-il-06-house-seat"
+ },
+ "0x89d2e4389c75667816e6b24721b61b05a7c02765bddcc7009363d3dcb4b4421e": {
+  "created_at": "2026-11-18T21:07:41.823904Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Sweden come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-sweden-come-in-3rd-place-at-eurovision-2027"
  },
  "0x8b5e3afcaf2f0be9f679d38ba03d035fd638fe9172809bc65bd61872e6d88f1e": {
   "created_at": "2026-08-31T18:36:15.749074Z",
@@ -1765,6 +1797,15 @@
   "sha256": "84780d56740681681c12bd704dc7258b5df636ad7fbdc7bd33e04164ddb713a9",
   "slug": "will-baidu-have-the-best-math-ai-model-at-the-end-of-january-2027"
  },
+ "0xd9a0b98ca354929aa0da2e4aacfdb4814f543a9d9788304aa5ee2c70ef14411e": {
+  "created_at": "2026-11-19T15:47:50.655111Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Windah Basudara be the first of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-windah-basudara-be-the-first-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
  "0xd9c82ec4c55e86cd160adc91d71958cd2c9262906db3c92fbba8ff8d68dd2f1e": {
   "created_at": "2026-09-20T08:46:06.426553Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1913,6 +1954,15 @@
   "sha256": "0493c1c4dd7a46d3ecfa0b37493b797d1a56c75276349dac7ffcd032d24d8957",
   "slug": "will-francois-hollande-win-the-fourth-most-votes-in-the-first-round-of-the-2027-french-presidential-election"
  },
+ "0xed024135144529e2a5d6dff244defedf0c53d5b4d4a8c2e519cad29587b3d91e": {
+  "created_at": "2026-11-18T18:17:10.103905Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Detroit Tigers?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-detroit-tigers"
+ },
  "0xed26fb125ad827dc34b4d643e352559eb93daf03b9a556851fa8f04c28d8541e": {
   "created_at": "2026-10-01T23:00:11.878239Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1926,6 +1976,7 @@
   "created_at": "2026-10-15T17:01:37.063943Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 2 - 2 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",

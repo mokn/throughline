@@ -89,6 +89,15 @@
   "sha256": "3aa5fced27bdcbebb40ca133fe34d3f87f9d0a8c42323d3bee9884ecf95deb5e",
   "slug": "will-the-philadelphia-flyers-make-the-2026-27-nhl-playoffs"
  },
+ "0x115cc17de4e9a91c145f78136afadc96bc6349bc27633719d7d56462fcfb9c94": {
+  "created_at": "2026-11-18T18:17:17.812768Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Cincinnati Reds?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-cincinnati-reds"
+ },
  "0x11d01d09738f8831494c0f6a3b9712ccbc717ef01458208a8dab13779c5e0594": {
   "created_at": "2026-09-30T14:00:53.685591Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -250,6 +259,7 @@
   "created_at": "2026-09-17T23:53:01.378402Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cI Can't Love You Anymore\u201d by Ella Langley and Morgan Wallen win Musical Event of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "1df2f2c0317ff3148edd10b7e5954c636d6e8618900ec8b9ab9a6c919f62184d",
@@ -580,6 +590,15 @@
   "sha256": "0041639609e18f8324c5189bf9bc9463990d627159f17854c3ee3804bdd1c1ed",
   "slug": "will-rafael-aguirre-win-the-2027-salvadoran-presidential-election"
  },
+ "0x4a185f58c9335ebe6e0e6fc78cd78ffe6881fb893ef7830d2cf8099c313c4a94": {
+  "created_at": "2026-11-18T21:29:53.301379Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Algert Sala win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-algert-sala-win-festivali-i-kenges-65"
+ },
  "0x4c127de9e55e4f567a977941594829aa748cc4d2f7bde5e4fb8f0697715a1994": {
   "created_at": "2026-09-14T20:32:37.935873Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -667,6 +686,7 @@
   "created_at": "2026-10-15T17:00:57.982892Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 3 - 1 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",

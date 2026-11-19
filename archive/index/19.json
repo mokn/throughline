@@ -326,6 +326,7 @@
   "created_at": "2026-10-15T18:02:50.097926Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "925e000712612d3a8d99a5ae3f5479fef1953b2fa91c1912dcc342810e78a93b",
@@ -425,6 +426,7 @@
   "created_at": "2026-10-15T13:19:15.452883Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Palo Alto Networks Q1 Next-Generation Security ARR be above $10.25B?",
   "revisions": 1,
   "sha256": "1cb4528badf07d8f557113e858fbcc6bb9f3fbd99fa84ae91d3ec377c48e596c",
@@ -1087,6 +1089,15 @@
   "sha256": "c6ca4abc41ddc12dd82bcafd208d00133814f75285f26fa7aeb911f491b50ccf",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-01-house-election-by-30-35"
  },
+ "0x8c00fcf43c3d742d231871b8c5eb3b94cd3afce5bf375b47d69d785eabdb5e19": {
+  "created_at": "2026-11-18T18:16:36.516733Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Atl\u00e9tico Madrid lead LaLiga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "61aed669e4ef76ce73017fd3c4902abbf3140b366e324da069f06e3716ffbee6",
+  "slug": "will-atletico-madrid-lead-laliga-at-the-2026-27-winter-break"
+ },
  "0x8c81bfa943e54e54122a5ea7e5f5423a06ee77348041d8217497a072a030d519": {
   "created_at": "2026-09-02T19:41:18.466276Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1254,6 +1265,7 @@
   "created_at": "2026-10-15T18:02:12.104177Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Alcoyano (-3.5)",
   "revisions": 1,
   "sha256": "4a337c9e4158d3a642452e8f135013ee5be72cdbfee000fc55a643f1e5d45fa5",
@@ -1263,6 +1275,7 @@
   "created_at": "2026-10-15T18:01:09.764268Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "28cc852ab0d1fc9c9b610f9884cd62b6b3c7f1a7eafa09de0bfef39c42fea639",
@@ -1299,6 +1312,7 @@
   "created_at": "2026-10-15T18:02:14.128309Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: O/U 7.5",
   "revisions": 1,
   "sha256": "56f1074d6f82a0391d62aef1e17085efa8861289e566289e18e17d96b4361744",
@@ -1477,6 +1491,15 @@
   "revisions": 1,
   "sha256": "84eaf53c7d8cda850ab134fb83b6c122534d397b075c494a5f6a288ea9cdade6",
   "slug": "will-brandon-mcmanus-finish-as-a-top-5-k-in-the-2026-27-nfl-season"
+ },
+ "0xcf993cbeee78f402d7144a9efbfa56e18a182d778879c899f44e74455db94019": {
+  "created_at": "2026-11-18T21:30:03.120079Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Sigi Bastri win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-sigi-bastri-win-festivali-i-kenges-65"
  },
  "0xd0c4c60c8e68ee15974df3aa7d217225e98020fab9fcdb32d10f8e3d285e1619": {
   "created_at": "2025-07-10T16:58:05.210227Z",

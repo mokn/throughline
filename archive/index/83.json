@@ -120,6 +120,7 @@
   "created_at": "2026-10-15T18:02:37.823198Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "a8b670d44a27091970e0ee49565aa7de0a15e4aaa1aa9fa128f5b475d776062c",
@@ -580,6 +581,7 @@
   "created_at": "2026-10-15T13:14:20.82855Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Walmart (WMT) Q3 US comp sales (ex-fuel) growth 4% to 5.5%?",
   "revisions": 1,
   "sha256": "482099944ac47325b3b4b935ac0453850f7cbccc7f39e85b288cd6c7a2c1f8d3",
@@ -1392,6 +1394,15 @@
   "sha256": "61b78ddcc9e8a5b62cd880884cd59bb183d5d6f2c4d2852b95601267feef02ab",
   "slug": "will-colorado-state-rams-win-the-2026-pac-12-championship-20260731204848105"
  },
+ "0xd3aed1ff6975313c01b06bacb0f525b5451b3ba27e2f8a359a515d94dbfa8b83": {
+  "created_at": "2026-11-18T18:16:33.999907Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will RB Leipzig lead the Bundesliga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "1c25d8ad2923e71afd3ff8177710b41757502d9158ee670ada313e3d483b456e",
+  "slug": "will-rb-leipzig-lead-the-bundesliga-at-the-2026-27-winter-break"
+ },
  "0xd3c73dd945ea99b9bdd8a86171371ca34eb5fcbf722e3bb4f925d5c349fc6883": {
   "created_at": "2026-08-17T21:23:02.97057Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1627,6 +1638,15 @@
   "revisions": 1,
   "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
   "slug": "will-my-favorite-murder-with-karen-kilgariff-and-georgia-hardstark-win-best-podcast-at-the-84th-golden-globes"
+ },
+ "0xf2a5b4ada56f723ed1b0de2bcb19ea94958d13ee241881def80546d3386a7283": {
+  "created_at": "2026-11-18T21:29:58.046766Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Herva Novaku win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-herva-novaku-win-festivali-i-kenges-65"
  },
  "0xf46104186de5bab8c36582aaf61fcdbc88593003bffe712e8590cead58f1f383": {
   "created_at": "2026-08-24T16:40:54.05929Z",

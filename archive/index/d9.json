@@ -259,6 +259,7 @@
   "created_at": "2026-09-27T20:49:02.190618Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \"Sicko Mode\" by Travis Scott be on the radio in GTA VI at launch?",
   "revisions": 1,
   "sha256": "604a099e2a930b2c77a589b350845e07121372cd98e12105fd87d39ceb2cb479",
@@ -461,6 +462,7 @@
   "created_at": "2026-10-15T18:01:47.664271Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: O/U 1.5",
   "revisions": 1,
   "sha256": "32e49bd111692a05741e5cb97eddd6f5eedf1f1e3035f3463d46f91ef741bae5",
@@ -1161,6 +1163,7 @@
   "created_at": "2026-10-15T18:01:05.726053Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: O/U 5.5",
   "revisions": 1,
   "sha256": "8903b6436c9eb63d46d7223cc585448f494628aef565f119dcb65aa1b7e223fa",
@@ -1188,6 +1191,7 @@
   "created_at": "2026-10-15T18:02:36.413274Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 3.5",
   "revisions": 1,
   "sha256": "8369f261096a3b33380f5de303ab6de7d7e03bd763443dcbe50de67d5b9a6c2e",
@@ -1310,6 +1314,15 @@
   "revisions": 1,
   "sha256": "a37bceb6514eb1374fa66d3d5202b89025c55663cd42837e001c603fd5e53cec",
   "slug": "f1-las-vegas-grand-prix-constructor-pole-position-alpine-2026-11-20"
+ },
+ "0xb138d04d6e2d1d67c596dadfbafcd4156d3570b59f1b3a4aeb794fcdb4b451d9": {
+  "created_at": "2026-11-18T19:51:32.478792Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Inde Navarrette win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-inde-navarrette-win-best-actress-at-the-32nd-critics-choice-awards"
  },
  "0xb1d6bad8ca4a7bf6e7e51d5cb004a85a1ac97dc45f723c864fc73452cda74fd9": {
   "created_at": "2026-08-24T16:38:07.617305Z",

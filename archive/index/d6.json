@@ -262,6 +262,15 @@
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
   "slug": "gtm-mun-aur-2026-11-07-exact-score-5-5"
  },
+ "0x28e52c5787b1d5af4005da900b2199d981aec9736fdec7b1d7a18daed67841d6": {
+  "created_at": "2026-11-18T21:07:45.297014Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will United Kingdom come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-united-kingdom-come-in-3rd-place-at-eurovision-2027"
+ },
  "0x29544455c34f802dae1cda5748b8a378e36f2a4c06e0c8eae4df73b030910ed6": {
   "created_at": "2026-08-21T17:37:19.782889Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -446,6 +455,15 @@
   "sha256": "bf25b3e25d5e7dd730ebcb3c78de61bee1d60ac84d8f0ea6d08424a7a0f8f1ec",
   "slug": "omarion-hampton-11pt5-rushing-touchdowns-2026-27"
  },
+ "0x42f029ee8859c4e5571e7b6976d4fff7b0b61b13fd152a5e6e49466df7744fd6": {
+  "created_at": "2026-11-18T21:07:35.829619Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Israel win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-israel-win-eurovision-2027"
+ },
  "0x43afbd326637c9d8bc61dfda0a8d1dd2fde2b3ae159ae0ea04c2175ad227cdd6": {
   "created_at": "2026-10-25T04:00:58.910938Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -578,6 +596,7 @@
   "created_at": "2026-10-15T18:01:10.33435Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "ea6d4d8f35084df25939bcbe8990c59dd21547da77284df6cbc375411f9673bd",
@@ -1107,6 +1126,7 @@
   "created_at": "2026-10-15T17:01:58.634634Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Reus FC Reddis win on 2026-10-28?",
   "revisions": 1,
   "sha256": "06d83229be254e8e029555c368635177bdf523ea114b67aa207203af70d234b2",
@@ -1304,6 +1324,15 @@
   "revisions": 1,
   "sha256": "7e5b92f6127a2b9139f7db38c4e9db9896ca6c8550f3fb9203c61dd760abde52",
   "slug": "will-jpttpt-miller-record-30-goals-in-the-2026-27-regular-season"
+ },
+ "0xd70bf1947fd2aa2a7d7a1ad434ab5d86017acc6aab389f8b069ba393283cddd6": {
+  "created_at": "2026-11-18T18:17:23.524263Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Milwaukee Brewers?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-milwaukee-brewers"
  },
  "0xd71b51a43062dce4730b62b8e521468ccf6726aad161bbbce4087748b5f846d6": {
   "created_at": "2026-09-08T16:08:44.022765Z",
@@ -1517,6 +1546,7 @@
   "created_at": "2026-10-15T18:02:34.621657Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Club Portugalete (-2.5)",
   "revisions": 1,
   "sha256": "979ccdd2e164302a18d478e0c0f269f76df94491cfafa545f73dea100c7b6d94",

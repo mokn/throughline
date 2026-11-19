@@ -654,6 +654,15 @@
   "sha256": "78888fb8b664f9e88184c06cec2e7d57910a27ca43a5836f4a570571b13b3ae7",
   "slug": "will-louis-jpt-crishock-be-the-next-high-representative-for-bosnia-and-herzegovina-in-2026-20260705194510731"
  },
+ "0x6554f8d73e6b52f0f89feaf4e8ae47f922ee308d2f50970fdc11fa0dc38068ce": {
+  "created_at": "2026-11-18T21:07:48.07355Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Georgia be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-georgia-be-in-the-top-5-at-eurovision-2027"
+ },
  "0x66f07f417a01b2dda7150552d097ad764095baefdf92ddb03d7cf130402101ce": {
   "created_at": "2026-08-26T21:46:05.592934Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1207,6 +1216,7 @@
   "created_at": "2026-10-15T18:02:18.249248Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "d52258584628512a6960dc13867e661947fea22789ee102c2d55438d421e01e5",
@@ -1517,6 +1527,7 @@
   "created_at": "2026-10-15T18:02:16.529065Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 5.5",
   "revisions": 1,
   "sha256": "275475ce05a85a38396193f34a876b11068b4682b7ab3671006679aafc862baa",

@@ -386,6 +386,7 @@
   "created_at": "2026-09-17T23:52:55.158802Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cDry Spell\u201d by Kacey Musgraves win Music Video of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "0595d791e91bff1f37b96cb04f100001ce5dc153dc5633fae7bb8e42de70066d",
@@ -1090,6 +1091,15 @@
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-lionel-messi-win-the-2027-ballon-dor"
  },
+ "0xa0f3842e859d7edfb3a26d587f58d6e15e1bb95bb7e8eec95dfda0e78ecc7757": {
+  "created_at": "2026-11-18T21:07:51.45457Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Poland win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-poland-win-the-public-vote-for-eurovision-2027"
+ },
  "0xa38c48ce54c1fd41646a744860f8f4a5fd20db1adaefc5ac6fbff8d852cdab57": {
   "created_at": "2026-08-12T17:28:51.601439Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1345,6 +1355,15 @@
   "revisions": 1,
   "sha256": "a8724a87fa6c33dadc2c4696d23c60bc6c1a9d25efb83557419e19c6c53a9f75",
   "slug": "will-sampdoria-be-promoted-to-serie-a-2026-27"
+ },
+ "0xc1b148991bc9a9cba14978d14bf516e927aefab3f9059502afafca3ac232c757": {
+  "created_at": "2026-11-19T02:28:36.810508Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "China Chip Manufacturing Export Restrictions become law by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "e45db82cf62bc00a69d436378a89bb31f2b23a3c84342753040d398f3212bedb",
+  "slug": "china-chip-manufacturing-export-restrictions-become-law-by-december-31-2027"
  },
  "0xc25a8ba29abe0e4b1f3369de01e5385f741d2d5a60d3eb22b5f85df7def23b57": {
   "created_at": "2026-10-21T23:52:00.252253Z",
@@ -1690,6 +1709,15 @@
   "revisions": 1,
   "sha256": "8074626db691e8338de5b14a9e38aa0b6672b4cc8f297a007e8f3054bcb76b62",
   "slug": "will-stpt-louis-blues-advance-to-the-second-round-of-the-2027-stanley-cup-playoffs"
+ },
+ "0xf4bc78944b02f7da4e4d0312c35154906f4abf1748c3367a22e285b7f0eb3b57": {
+  "created_at": "2026-11-18T21:07:30.118343Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Greece come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-greece-come-in-3rd-place-at-eurovision-2027"
  },
  "0xf51e656dd92403b9a47751ee4b1ba4e80416f4cd021d6f8be0e36f654f319e57": {
   "created_at": "2026-09-27T20:04:31.414973Z",

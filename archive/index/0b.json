@@ -832,6 +832,7 @@
   "created_at": "2026-10-13T19:52:10.341838Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Geneve-Servette HC win the 2026-27 Champions Hockey League?",
   "revisions": 1,
   "sha256": "f7da3b136d5c003bc200286da7254a38aa256f4b1a0291363eb37c04e5307ff3",
@@ -1251,6 +1252,15 @@
   "revisions": 1,
   "sha256": "153de33c52bc954bbe72a4a0a00ce8c5892edacc23eb5b64557822d710dc6b0d",
   "slug": "will-liang-wen-tao-win-the-next-kinmen-county-magistrate-election-202608131357161504"
+ },
+ "0xb5dd631c5d351f0261cafdfa4246667cedda778b12ecaf85247d5bcf347e9c0b": {
+  "created_at": "2026-11-18T21:07:21.879976Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Azerbaijan come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-azerbaijan-come-in-3rd-place-at-eurovision-2027"
  },
  "0xb8d2c0b1d12503225a831538865b5ada7693d2221ad7c0975c13f52e6f27280b": {
   "created_at": "2026-08-10T15:05:12.648904Z",

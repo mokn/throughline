@@ -387,6 +387,15 @@
   "sha256": "dbb4913ff8b23a5246a2bb0e1f9525558bbcab5e6625d8d1e56234885256a935",
   "slug": "will-san-diego-state-aztecs-advance-to-the-2026-pac-12-championship-game"
  },
+ "0x3ef805ccf642cc66018bb5920c7209fa75ed9efead26a74bf345169de9e34d9a": {
+  "created_at": "2026-11-18T21:07:32.068328Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Australia be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-australia-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x3f923910afb1fed6fcbdd1677f2c155699cae25eeb011d5b3faf21d4c466ed9a": {
   "created_at": "2026-07-02T18:24:00.516169Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -481,6 +490,7 @@
   "created_at": "2026-10-03T15:44:20.690075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the USS George Washington depart CENTCOM by November 30, 2026?",
   "revisions": 1,
   "sha256": "082e96e6ce4ff25ffccff01f96f6deb252a29b6a90803c6ae10cd73041b8c919",
@@ -720,6 +730,7 @@
   "created_at": "2026-10-15T18:02:35.46257Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Real Uni\u00f3n Club (-4.5)",
   "revisions": 1,
   "sha256": "4c8b41a98fee77582c13cf3382ecaa63a235988dab3057bb43d92f2f3568e471",

@@ -432,6 +432,7 @@
   "created_at": "2026-10-15T17:02:06.418631Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 4 - 2 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -631,6 +632,15 @@
   "revisions": 1,
   "sha256": "fa7585ea89db4c789e4f72fa38188bee8c8573ce7405aef1c9e6440d950bbe87",
   "slug": "will-cape-fear-win-best-television-limited-series-at-the-84th-golden-globes"
+ },
+ "0x616b81197940662202ea3033ec24ae076a12a127891d833a5776a316434f2ab3": {
+  "created_at": "2026-11-18T17:40:50.967637Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report between 33 million and 36 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-33m-to-36m"
  },
  "0x61a5b97f2b530aea60b6c1e6def78284866c8a9a24b0e8eb600d2b340f42feb3": {
   "created_at": "2026-08-10T14:53:33.277714Z",

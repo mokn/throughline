@@ -1,4 +1,13 @@
 {
+ "0x006363123f3d884e507c0b001105456d8ea4bf90b54d87d9f522aaae21f2c843": {
+  "created_at": "2026-11-18T18:16:40.997336Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will M\u00e1laga lead LaLiga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "61aed669e4ef76ce73017fd3c4902abbf3140b366e324da069f06e3716ffbee6",
+  "slug": "will-malaga-lead-laliga-at-the-2026-27-winter-break"
+ },
  "0x007c77737a0e33791772a6de2688548d7785a2e20f3f9e906f5ee11e2fcb8943": {
   "created_at": "2026-10-13T15:49:59.461973Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -269,6 +278,7 @@
   "created_at": "2026-10-15T18:01:04.159735Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Barakaldo CF (-3.5)",
   "revisions": 1,
   "sha256": "b74a306b6b0c815ef6f6982896c5e885fc70ac17800422a0e60b6969fd26dc6d",
@@ -342,6 +352,7 @@
   "created_at": "2026-10-15T18:02:44.280278Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CE Sabadell FC (-5.5)",
   "revisions": 1,
   "sha256": "d23681ec09ec2a2c7e31878364caafaa4aacd32090277ccd4b6d31f1615a17ef",
@@ -677,6 +688,15 @@
   "sha256": "788daf632993c30c4b220c561b635050bd412bce99a627cbdc73edec20992763",
   "slug": "will-netherlands-be-top-5-in-the-world-happiness-report-2027"
  },
+ "0x6f958299d9467952de06fd41ad6ce5545c9852f9bf3180cd4248b7bf799b6843": {
+  "created_at": "2026-11-18T21:08:03.310282Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will San Marino be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-san-marino-be-in-the-top-5-at-eurovision-2027"
+ },
  "0x7023b175fa7eb9ec3d25f5d08738b28f9ec195d6f8c0fdb97d1ecfdff86ce643": {
   "created_at": "2026-10-14T13:24:00.070184Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -818,6 +838,7 @@
   "created_at": "2026-10-15T18:01:06.847026Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "3caf3110736911f6a7df5b9fbd0adbc5bcb8bc6757b5a2bfe34134f48a33b967",
@@ -836,6 +857,7 @@
   "created_at": "2026-09-23T17:26:59.932286Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for Anyone's Legend in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",
@@ -1156,6 +1178,7 @@
   "created_at": "2026-10-15T18:01:51.56385Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: CD Tenerife O/U 2.5",
   "revisions": 1,
   "sha256": "34b21babc733a6f8cd84d6762ee75a94d9c9e6589c5d2b58933ebcb0ab93cd14",

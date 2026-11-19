@@ -167,6 +167,7 @@
   "created_at": "2026-09-24T18:57:41.347505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the South African Reserve Bank increase the repo rate by 25 bps at the November meeting?",
   "revisions": 1,
   "sha256": "fc83cdc99c9fdae1cb3c4caf3528cadf4450168d5300d0e4db98231c4e57996b",
@@ -180,6 +181,15 @@
   "revisions": 1,
   "sha256": "52065ce93e1d20912bd2acd93b9c7b6776a6281363be221b3e0f40d7feb76956",
   "slug": "will-orgryte-is-be-relegated-from-allsvenskan-sweden-2026"
+ },
+ "0x2056e7b3347c8704715704d825ac892053756b71514f3de2c69891d5997a1eed": {
+  "created_at": "2026-11-18T17:40:47.537749Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report between 9 million and 12 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-9m-to-12m"
  },
  "0x208443a9fbcfc7eb71f9fa922788d95f93af67a374e76fc037df286a378628ed": {
   "created_at": "2026-08-05T10:41:57.928508Z",
@@ -1293,6 +1303,7 @@
   "created_at": "2026-09-17T23:52:49.562792Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cBeautiful Things\u201d by Megan Moroney win Song of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "ddefc347b727d94656935e362c7a2edf59da6e856aab067a4cd56c4835b3a175",

@@ -100,6 +100,15 @@
   "sha256": "de20540a8f61fcb9b5ef7a2ed1a0cbdb75ef623c12ef50f71d3b42020dfa35d1",
   "slug": "will-northern-ireland-be-promoted-to-nations-league-a-in-2026-27"
  },
+ "0x0d8d31615266dc666a82d5e8772c2792c5b413bcff6e6a9c5dbadc395176bb55": {
+  "created_at": "2026-11-18T21:07:56.837904Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Portugal be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-portugal-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x0ec5d70870f026a267f2722ab6f8962f70f2398094c923b0a519eec598c9e555": {
   "created_at": "2026-10-13T15:43:16.632001Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -330,6 +339,15 @@
   "revisions": 1,
   "sha256": "2d40d97d81a71bdca275e26cd0eba17c903be49bdd305320bd46008c55dbb3ce",
   "slug": "will-the-boston-bruins-record-80-points"
+ },
+ "0x29fb4120bc7897001b6cad1dfc001ef08819d63eabb4ee73a4b280d9b14ecb55": {
+  "created_at": "2026-11-18T18:17:19.557957Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Detroit Tigers?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-detroit-tigers"
  },
  "0x2d2fe9b7a65834fe75045158c31462bff948741a72a1eee17b695581d3dbe355": {
   "created_at": "2026-09-02T21:57:53.646309Z",
@@ -856,6 +874,7 @@
   "created_at": "2026-10-15T18:02:40.75221Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: Club Portugalete 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "5ed8221ee12eb519fc60be4ee33676869b50a09af33f68c8ca3d9fc09ef1934a",
@@ -968,6 +987,15 @@
   "revisions": 1,
   "sha256": "f01ae3a9d0905379a61ac9eb8b5c33070e5c9ae84b6ec40f2c7d5b902cc91017",
   "slug": "will-dj-epps-be-the-2026-big-12-receiving-yards-leader"
+ },
+ "0xa3e994d29d7d79ecaa6107f48bc6b542819c6d6bae1543e905379c6a65abab55": {
+  "created_at": "2026-11-18T18:17:15.357296Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Boston Red Sox?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-boston-red-sox"
  },
  "0xa4407ce2e2fb00c9f55dee9176a4559193bffdbf0fafba68dfe1e2941a9cd655": {
   "created_at": "2026-05-04T15:24:02.094119Z",

@@ -337,6 +337,15 @@
   "sha256": "1458563aa4152c2f3071b7bcbae04151175fb41cecc803ace023c8e65779e8dc",
   "slug": "will-all-of-a-sudden-be-nominated-for-best-casting-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x37dbd8dc7dee125a38a395e457c9e2012a0b2c79e3119edaa36198d018e0f368": {
+  "created_at": "2026-11-18T18:17:26.69261Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Philadelphia Phillies?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-philadelphia-phillies"
+ },
  "0x37e0d782ab1e486f0f2549dea2fa340f90e3a6b7f7f9855f53b234f6e8ad6f68": {
   "created_at": "2026-11-13T00:31:02.430164Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -527,6 +536,15 @@
   "revisions": 1,
   "sha256": "12e4b2e8fc564afe047580eede126267e70ca2f6a2df3012a38609b1a7ad8ebe",
   "slug": "next-fable-model-5pt3-released-by-february-28-2027"
+ },
+ "0x4f70ad0a14e28dda97e2f8f9d174832e08e1dad059d98c2e4a10112ef12b6968": {
+  "created_at": "2026-11-18T18:16:35.500648Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will SV Elversberg lead the Bundesliga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "1c25d8ad2923e71afd3ff8177710b41757502d9158ee670ada313e3d483b456e",
+  "slug": "will-sv-elversberg-lead-the-bundesliga-at-the-2026-27-winter-break"
  },
  "0x50b278270e3e0d1240c7da6647bfc5fb73c2b278e9f8cee62f22400081364a68": {
   "created_at": "2026-09-28T15:12:36.759225Z",

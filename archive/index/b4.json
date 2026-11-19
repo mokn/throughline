@@ -40,6 +40,7 @@
   "created_at": "2026-09-17T23:52:56.189865Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cWhite Horse\u201d by Chris Stapleton win Music Video of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "0595d791e91bff1f37b96cb04f100001ce5dc153dc5633fae7bb8e42de70066d",
@@ -788,6 +789,7 @@
   "created_at": "2026-10-15T18:01:49.160105Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "8b5bb72cb39850362575143bcbe0ea28e5a12b61b9a9ffbbaddf97a141e1ebc0",
@@ -954,6 +956,7 @@
   "created_at": "2026-10-15T18:00:56.610157Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Minera (-4.5)",
   "revisions": 1,
   "sha256": "755bbef1440a9613c2bd8904e8b5aac8e05691b3a2118130fff5d4804e0a865e",
@@ -1071,6 +1074,15 @@
   "sha256": "39f7d5b2304db03a89e01c3b7ce212a37cc2bacafb1bc03576b88070735ed3f2",
   "slug": "lamar-jackson-24pt5-passing-touchdowns-2026-27"
  },
+ "0xac137a3c69c062b524339661e4db3929f619e850ab2d576dce4e1f9cf5d805b4": {
+  "created_at": "2026-11-18T21:07:50.862251Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Norway win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-norway-win-the-public-vote-for-eurovision-2027"
+ },
  "0xac42cf3a61f245043709e58d9e559b228ebe41aab34533f2548e4fefa12b4ab4": {
   "created_at": "2026-08-28T20:16:43.068286Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1167,6 +1179,7 @@
   "created_at": "2026-10-15T17:01:03.4856Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 1 - 0 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -1392,6 +1405,15 @@
   "revisions": 1,
   "sha256": "7f0d9069b6d07e308bfb7e917e01deb121fb4521cb41227c37a601d9e2be693f",
   "slug": "will-the-democratic-party-control-the-house-after-the-2026-midterm-elections"
+ },
+ "0xd5f47d994dc7c96b72f617bd08b80590edddcf636ce833702fae9e8d756559b4": {
+  "created_at": "2026-11-18T21:07:36.272732Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Sweden come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-sweden-come-in-2nd-place-at-eurovision-2027"
  },
  "0xd5f67c0f91db5731061410db8717a78958cb3631b20788b3e281ff890c941db4": {
   "created_at": "2026-09-30T00:07:02.722909Z",

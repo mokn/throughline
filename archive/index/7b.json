@@ -324,6 +324,7 @@
   "created_at": "2026-10-15T18:01:03.421592Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Reus FC Reddis (-1.5)",
   "revisions": 1,
   "sha256": "b04470d50bb2c3fcade491ebb04678fbbf91ef6eec20c5d982c97ac334e76f5f",
@@ -342,6 +343,7 @@
   "created_at": "2026-10-15T17:02:00.646696Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 1 - 2 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",
@@ -1187,6 +1189,7 @@
   "created_at": "2026-10-15T18:01:09.54679Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Reus FC Reddis 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "3ef99732c59467e995444fabf1aab22d17a3ca060a99f0f302df1e25431053a4",
@@ -1395,10 +1398,20 @@
   "created_at": "2026-09-17T23:52:55.85844Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cThe Fall\u201d by Cody Johnson win Music Video of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "0595d791e91bff1f37b96cb04f100001ce5dc153dc5633fae7bb8e42de70066d",
   "slug": "cma-2026-vidoty-the-fall"
+ },
+ "0xcb7791dbf6a7b77957a2453470a54af29811a45561ba01a3ef9ff4ef01ce247b": {
+  "created_at": "2026-11-18T18:17:14.609479Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Miami Marlins?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-miami-marlins"
  },
  "0xcde6512257edee2dab55bc16394e2f441ddc0d496b51050beb70d7596b28397b": {
   "created_at": "2026-10-13T15:49:29.854336Z",
@@ -1417,6 +1430,15 @@
   "revisions": 1,
   "sha256": "627501154c969ab6caff38f4adc11dc3c9cec91088b9481873aff160ebef17bc",
   "slug": "2027-year-end-world-no-1-golfer-rory-mcilroy"
+ },
+ "0xcf7fac1af264e63f02ce1a090681ebdede694e87140dfa69bddf4651d792e07b": {
+  "created_at": "2026-11-18T21:07:48.06449Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Malta win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-malta-win-the-public-vote-for-eurovision-2027"
  },
  "0xd08e742e30628184ad82eafbaf97b872ace276b9cfea3b748be1573f53f8987b": {
   "created_at": "2026-08-26T21:46:30.658956Z",
@@ -1459,6 +1481,7 @@
   "created_at": "2026-10-15T17:01:04.337435Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 0 - 5 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -1626,6 +1649,7 @@
   "created_at": "2026-10-15T17:01:37.834639Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 5 - 1 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
@@ -1703,6 +1727,15 @@
   "revisions": 1,
   "sha256": "08d2b061d4fa8b9799e948f4fff2cc2b7776a2ea3d26a544e009fcf1f9fc6a3e",
   "slug": "will-dxy-reach-102-50-in-november-2026"
+ },
+ "0xf82da5164c295a8c3ca0ea89a33ddd56bd28f6828ec362a4952f406b7187287b": {
+  "created_at": "2026-11-18T18:51:24.027176Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Pete Buttigieg run but lose the 2028 Democratic nomination?",
+  "revisions": 1,
+  "sha256": "e439bd4559c517e89002e1f2097ab2c32be9f1da71a056f4a6b0f2727165735d",
+  "slug": "will-pete-buttigieg-run-but-lose-the-2028-democratic-nomination"
  },
  "0xf8fbc73edbbbe641f54ff6770fbc256b622405368d5f134360ce8059b7f5f77b": {
   "created_at": "2026-09-28T20:16:28.251006Z",

@@ -21,6 +21,7 @@
   "created_at": "2026-10-15T18:02:49.789619Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: CE Sabadell FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "ff58aa464d9ba7491de78d37ea21a744e614173c3575a520019115c63b0341dd",
@@ -159,6 +160,7 @@
   "created_at": "2026-10-15T17:01:19.799184Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: Draw at halftime?",
   "revisions": 1,
   "sha256": "fd3f31c8cf0bfb9820fb23d747261ec1bece5f741b8cbbaf2dfa40d3b576c7b0",
@@ -487,6 +489,7 @@
   "created_at": "2026-11-06T22:37:21.563679Z",
   "first_seen": "2026-11-07T13:00:35Z",
   "last_changed": "2026-11-07T13:00:35Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Jean-Luc M\u00e9lenchon hit 22% in any poll before the first round of the French presidential election?",
   "revisions": 1,
   "sha256": "55a0a611409ba2e47bf5ec7cf2084db545ebf49ae2f0cb40ba39ba04689e2d1d",
@@ -992,6 +995,15 @@
   "sha256": "1f0043d89bf9651806af4510ad5d3b1f2582c5b1d22db8c06805be13d2692302",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ct-01-house-election-by-50-or-more"
  },
+ "0x96d208bfe52427a332645f610c9b721e0dcdbc1b4986ac9d2e7636a02f2ec3d5": {
+  "created_at": "2026-11-19T15:46:52.362576Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Ramee be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "3e73804ca86e7cc59e9b255c304224cd2bcdf112fb89542945c386356af7c789",
+  "slug": "will-ramee-be-the-first-kick-streamer-to-finish-gta-vi-by-december-31-2026"
+ },
  "0x96e9ee9536dc0419d4b5ac0075c2d6ea3b8405687ee1bc2152c575b1cddb8cd5": {
   "created_at": "2026-02-07T22:15:03.551846Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1323,6 +1335,7 @@
   "created_at": "2026-01-27T21:59:24.740097Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Bill Hill win the AK-AL House seat?",
   "revisions": 1,
   "sha256": "c6c78d01dcfe76b42a12e5b3c56052e2b32c7a17e24596160562ce1738c4865a",

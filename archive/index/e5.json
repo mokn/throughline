@@ -134,6 +134,15 @@
   "sha256": "f39588331a9767c7f4df0198fe29c77769c57fb36a754a2cd53af5d766d08f3e",
   "slug": "anthropic-vs-openai-higher-valuation-on-december-31"
  },
+ "0x1679e620f8f8c46408a91dbc5a9339c6ffaa226e97ca9c72e7010b529ac313e5": {
+  "created_at": "2026-11-18T21:35:00.279022Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Anthropic IPO closing market cap above $1.45T?",
+  "revisions": 1,
+  "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
+  "slug": "anthropic-ipo-closing-market-cap-above-1pt45t"
+ },
  "0x175db5bfd1c99f9e31b81cbda4942888223b1a7427c127747131b5cd6ae478e5": {
   "created_at": "2026-09-28T17:20:57.252563Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -411,10 +420,20 @@
   "created_at": "2026-09-02T20:27:26.701528Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will it snow in Kansas City, MO by November 15?",
   "revisions": 1,
   "sha256": "b3be7afe5dfd7d362ad5b287cb1d8603a972c9fce0addf5fbb36f6c3213e060a",
   "slug": "first-snow-2026-kansas-city-mo-by-november-15"
+ },
+ "0x3c66d3f9a8f1e7e2eda11f4e2b7ddc91cc37c19f1442e7eed3371186fb972ae5": {
+  "created_at": "2026-11-18T21:07:47.307947Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Italy be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-italy-be-the-jury-winner-in-the-eurovision-2027-grand-final"
  },
  "0x3cb5ca10258dcbdfed90de4d6f77c9f732b9c8ca481b374553be3aab1c89f2e5": {
   "created_at": "2026-10-01T13:04:03.534195Z",
@@ -501,6 +520,7 @@
   "created_at": "2026-11-02T21:05:33.654458Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Lisa McClain be the next House Majority Leader?",
   "revisions": 1,
   "sha256": "51965843a44cb5fc21f88721c84656532d8876f8719a88e056d7e66ee3d44a2a",
@@ -827,6 +847,7 @@
   "created_at": "2026-10-15T18:02:12.249697Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: RCD Mallorca (-3.5)",
   "revisions": 1,
   "sha256": "d0b80688f43fc7b4a84768d33647efca2bea7ae50a2b11180bfa250c8c7e4d1b",
@@ -854,6 +875,7 @@
   "created_at": "2026-09-17T23:52:31.91958Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cAin't in It for My Health\u201d by Zach Top win Album of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "e6dd2e07337dc787ed06fdd1178fcf80e4dc5942aeed5be754a4d2e582af6ef5",
@@ -1483,6 +1505,7 @@
   "created_at": "2026-10-15T18:02:17.820292Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "1d881098aad2cd35eae968a9d3c392bfcfdc5608bf877eea38d6c4e36fcfa8c5",

@@ -543,6 +543,7 @@
   "created_at": "2026-10-15T17:01:22.853407Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano to score first vs. RCD Mallorca?",
   "revisions": 1,
   "sha256": "055e6a0e1255934a57fd2ada889dba7f95c8c5a42d7070a177283c21f9173e8b",
@@ -592,6 +593,15 @@
   "revisions": 1,
   "sha256": "c6fbcf8f1ee8c68b9a54e240abc2da73f95be9cac02131f7f13445cc9845185a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-co-02-house-election-by-0-20"
+ },
+ "0x4531b8e0750edf099503354a3235cb10d9de8b925e904b494ab198799fbeef72": {
+  "created_at": "2026-11-18T21:07:54.191615Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Serbia win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-serbia-win-the-public-vote-for-eurovision-2027"
  },
  "0x4648a3fb0e9097b09fcb87f87a5e0bb996fdbf1a237f1318ef9f4cbdb08f5172": {
   "created_at": "2026-11-12T20:23:41.406267Z",
@@ -987,6 +997,15 @@
   "sha256": "3ecd50393e2b3b717c437fd8033a2453f13b32dd906786a172a7cca33a3db11e",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-12-house-election-by-5-10"
  },
+ "0x8f8128018d1a5d23e4dfcd45176c539093993bd4691021eb3ed295d999073472": {
+  "created_at": "2026-11-18T21:07:38.836684Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Austria be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-austria-be-in-the-top-5-at-eurovision-2027"
+ },
  "0x90cdb23316a9674d75f55559554323b118c009e14381f1c294fb3bfec4d43472": {
   "created_at": "2026-09-09T15:47:43.185495Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1357,6 +1376,15 @@
   "revisions": 1,
   "sha256": "2e266b22297a857cb0d984ad7e62fadd67e8550f3ac56c9529191357ec48aaf9",
   "slug": "will-the-republican-party-candidate-win-the-2026-al-04-house-election-by-65-70"
+ },
+ "0xcb176cfcd3b8c25a080f9ec774f5c22f33f9b289ca97c7554056025dd8f0c172": {
+  "created_at": "2026-11-18T19:51:31.210328Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Carrie Coon win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-carrie-coon-win-best-actress-at-the-32nd-critics-choice-awards"
  },
  "0xcd1a3f7b6f5bad1b800f215b78fbec11130e9dc63093539d564263c1eff45e72": {
   "created_at": "2026-09-02T19:30:24.651671Z",

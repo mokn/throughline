@@ -483,10 +483,20 @@
   "sha256": "0e17ece3ac562ad2e8582d4d4067d31e8e67ad9ded726f239dd3972dc15ce7d9",
   "slug": "will-the-next-uk-election-be-called-by-december-31-2026"
  },
+ "0x440ef4b93ed0b73c1eae380ca56418e01dc9f38110ac42328eaf663d0205387f": {
+  "created_at": "2026-11-18T18:51:37.163944Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tucker Carlson win the Republican nomination but lose the 2028 election?",
+  "revisions": 1,
+  "sha256": "e8ed29bdb65bf237144a1c3861d8e35e900d721950eea208baf1e106220573f3",
+  "slug": "will-tucker-carlson-win-the-republican-nomination-but-lose-the-2028-election"
+ },
  "0x457de166993a5b1e7707064f36108998de6a66103bad6be5d12eee5e5882ef7f": {
   "created_at": "2026-09-17T23:52:50.168147Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cChoosin' Texas\u201d by Ella Langley win Song of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "ddefc347b727d94656935e362c7a2edf59da6e856aab067a4cd56c4835b3a175",
@@ -913,6 +923,15 @@
   "sha256": "047827537e49535b586932f9c1b4c7327e202c1a201020b89b843919ae25933e",
   "slug": "will-miki-zohar-be-the-next-speaker-of-the-knesset-20261019103128390"
  },
+ "0x914700c12da3011ac1e30c48635528469d3a01529a9b081998f13043558cbd7f": {
+  "created_at": "2026-11-18T21:07:43.989775Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Ukraine come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-ukraine-come-in-3rd-place-at-eurovision-2027"
+ },
  "0x91cc4c5be0f6cf28c1a39fac78cfd77bd50fa164b6f1f90976d3c128a612bb7f": {
   "created_at": "2026-09-02T19:33:56.238728Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1168,6 +1187,15 @@
   "sha256": "8650de5170fec8abc50b343fa777c183579fb004b66cd9979fbb8707115134f1",
   "slug": "will-gold-gc-hit-high-12000-by-end-of-december"
  },
+ "0xd16acdd462b90c31a05afdc99525646e22497bce9a6dbd2f8a1af6f32457d47f": {
+  "created_at": "2026-11-18T18:17:31.78947Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Washington Nationals?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-washington-nationals"
+ },
  "0xd35faef7427de11fe86340a6bb713d54a5503f73c4ae8d344588514b221e437f": {
   "created_at": "2026-07-20T20:01:14.379701Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1373,6 +1401,7 @@
   "created_at": "2026-11-12T20:55:50.980485Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Anthropic sell between 750M and 800M shares in its IPO?",
   "revisions": 1,
   "sha256": "ecfe7f994bb7704ef970912a1d8aa094412e754f4ea7ef60c882ab69f1084400",
@@ -1461,5 +1490,14 @@
   "revisions": 1,
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-gretchen-whitmer-win-the-2028-us-presidential-election"
+ },
+ "0xfe59ac75c3877b7c5974e3f484f3e6378335863374bfcad18f6923de03daf57f": {
+  "created_at": "2026-11-18T21:07:54.56446Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Sweden win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-sweden-win-the-public-vote-for-eurovision-2027"
  }
 }

@@ -98,6 +98,15 @@
   "sha256": "f922c3fd03525828d7db129b005d56944f5d2acddc33f78940e4442df1b29d85",
   "slug": "will-vitoria-finish-16th-in-brazil-serie-a-2026"
  },
+ "0x119e8d534c96968b6e6f3fdd61c7fba47f6ea4308e310e3dc5bd2dce03d368fc": {
+  "created_at": "2026-11-18T21:07:23.640143Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Germany come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-germany-come-in-2nd-place-at-eurovision-2027"
+ },
  "0x11bceb80fb3bc8d9eedaa38bc661cce7375b93f95c535f8d76f53d5d3cdbd5fc": {
   "created_at": "2026-09-28T20:21:53.62799Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -453,6 +462,15 @@
   "sha256": "4139ab388e9d8006d81ed389847252aec077efde587d1c2b565eeafa1aec012e",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-tennessee-be-between-2000000-and-2200000"
  },
+ "0x3ed9981457bce97422bd93b0375acaf08504dc341bed977ced211c864f3c8ffc": {
+  "created_at": "2026-11-18T21:07:34.989952Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Malta come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-malta-come-in-3rd-place-at-eurovision-2027"
+ },
  "0x41308cc6b279f7039ddcc833691cc75b2e850107d1abcda6515c3756815be4fc": {
   "created_at": "2026-08-11T18:17:12.390314Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -484,6 +502,7 @@
   "created_at": "2026-10-15T17:02:05.279287Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 0 - 0 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -594,6 +613,7 @@
   "created_at": "2026-09-24T18:57:41.686597Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the South African Reserve Bank increase the repo rate by 50+ bps at the November meeting?",
   "revisions": 1,
   "sha256": "fc83cdc99c9fdae1cb3c4caf3528cadf4450168d5300d0e4db98231c4e57996b",
@@ -1259,6 +1279,15 @@
   "sha256": "9f7485d596d1c5aefda943f4ad3017e61a1881b9ddf757df1cac98cbe9ce0915",
   "slug": "will-broad-front-fa-win-the-most-seats-in-toledo-in-the-2026-spanish-general-election"
  },
+ "0xaf0d4da3719683ce331ec910a9161fd972272ed4439a62b17cd81a4cdc7334fc": {
+  "created_at": "2026-11-19T15:47:45.724958Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will CaseOh be the first of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-caseoh-be-the-first-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
  "0xafb22167c05568c60802ecf9412e6548a12be741ef8186ee81c176310d64cdfc": {
   "created_at": "2026-07-22T16:30:24.461284Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1290,6 +1319,7 @@
   "created_at": "2026-10-15T18:02:45.504947Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: O/U 6.5",
   "revisions": 1,
   "sha256": "84e6880585e3900ff69bd40f9169a7b19548caea2be377b8140da11c5f5e88b9",
@@ -1564,6 +1594,7 @@
   "created_at": "2026-10-15T18:02:11.386668Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Alcoyano (-2.5)",
   "revisions": 1,
   "sha256": "ddb0b67c0b4b951961183ac3b85daafbf43b118ed5748eeff2e497cc31004dda",
@@ -1611,6 +1642,7 @@
   "created_at": "2026-10-15T17:01:03.877789Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 1 - 2 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -1692,6 +1724,7 @@
   "created_at": "2026-10-15T17:01:03.541889Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 0 - 2 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",

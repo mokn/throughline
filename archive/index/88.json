@@ -366,6 +366,15 @@
   "sha256": "c559cfbfbd1b3995bef63936451476d36ab0b2f5cb629ca7acce944c0968b391",
   "slug": "will-the-democratic-party-win-the-ny-22-house-seat"
  },
+ "0x3366c3d4032a788a406506b6b21a4e3cba9afe55e3e553f9ded5d9827aa48b88": {
+  "created_at": "2026-11-18T21:07:28.010973Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will France come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-france-come-in-3rd-place-at-eurovision-2027"
+ },
  "0x343bae45ded0040e83787281da83d88d81411d9011828706e41c7e3ff718c088": {
   "created_at": "2026-08-11T19:08:32.26962Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -512,6 +521,15 @@
   "revisions": 1,
   "sha256": "7e9c837a6f7d0e1da1d5dc33a2b56d73efaf9a333a25b58f371381f0e4ec0168",
   "slug": "will-googl-reach-340-in-november-2026"
+ },
+ "0x482e6a0aa8c9507ab79f4cacb044ae0dd4a01bdf87e47b311938939ba0913388": {
+  "created_at": "2026-11-18T18:17:12.007596Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Los Angeles Angels?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-los-angeles-angels"
  },
  "0x4892725f7a2f657a717d5756a0c022064fcf893bb32c25bd621fe48958bce488": {
   "created_at": "2026-10-14T13:24:22.580673Z",
@@ -1089,6 +1107,7 @@
   "created_at": "2026-11-14T02:42:16.358763Z",
   "first_seen": "2026-11-14T13:31:33Z",
   "last_changed": "2026-11-14T13:31:33Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the next Gemini model family be named Gemini Krypton?",
   "revisions": 1,
   "sha256": "10473fbe18660f884f5a9f2b0081cb97883879c021939e04eea900ff40525204",
@@ -1215,6 +1234,7 @@
   "created_at": "2026-10-15T17:01:36.333781Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 0 - 0 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",

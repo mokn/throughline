@@ -82,6 +82,15 @@
   "sha256": "5d7e829539e7f2735cecb4a650f27ef2bfa13e689b50146387ddbf7b07e46b91",
   "slug": "will-moonshot-have-the-best-ai-model-on-livebench-coding-at-the-end-of-december-2026"
  },
+ "0x125c9dc80eb962ae72c7047b5d80fb4c09632b4ac9f8093488cf184f9666da85": {
+  "created_at": "2026-11-18T21:34:19.213946Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Anthropic IPO closing market cap above $1.35T?",
+  "revisions": 1,
+  "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
+  "slug": "anthropic-ipo-closing-market-cap-above-1pt35t"
+ },
  "0x12783c939df7977fe824d0f5f365d3842ac4981309ec404a1061aab307f91685": {
   "created_at": "2026-08-21T17:37:05.184161Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -781,6 +790,7 @@
   "created_at": "2026-10-15T18:02:38.295Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "9fcd1b41795dfff45d7001eeac974d5c3a146cd153f7613442afcc4002975f02",

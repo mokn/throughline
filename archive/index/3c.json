@@ -12,6 +12,7 @@
   "created_at": "2026-09-17T23:52:27.777783Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Thelma & James win Vocal Duo of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "bcb2d43ff88d51f53a56a991675b637e38e1954fa54416671f32a6f19592b770",
@@ -237,6 +238,15 @@
   "sha256": "9f5ffc1e79b1228954979693901da5e47343dafbccdb0e017ebcf692a3524d92",
   "slug": "will-baltimore-ravens-finish-the-2026-27-nfl-regular-season-with-the-most-total-offensive-yards-per-game-20260716001412878"
  },
+ "0x16c5031a60750db3eb802ddf05660fc3e90cfb4e2c6fdb16af2840154999a53c": {
+  "created_at": "2026-11-18T21:03:01.608015Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Cuban regime falls by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "0b8678691c6d8c00d9d2c0bfe1f567a75e213f415b0efdf499cbb4d221f74ebe",
+  "slug": "cuban-regime-falls-by-june-30-2027"
+ },
  "0x17459272717ce2de6d4d6aaff53b307381f03c07d44b56e839d38ac2f8b69b3c": {
   "created_at": "2026-04-28T22:26:42.993Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -441,6 +451,7 @@
   "created_at": "2026-10-15T17:01:20.496809Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 1 - 0 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
@@ -470,6 +481,7 @@
   "created_at": "2026-10-15T18:02:12.598985Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: RCD Mallorca (-4.5)",
   "revisions": 1,
   "sha256": "fb35962e5aa9dfeafac188baddac10db5f695970a7f7c444eb550568619245f5",
@@ -980,6 +992,7 @@
   "created_at": "2026-10-15T17:01:05.033268Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 2 - 5 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -1061,6 +1074,7 @@
   "created_at": "2026-09-04T04:07:33.348141Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will primmie play for Paper Rex in 2027?",
   "revisions": 1,
   "sha256": "06163aaa56edf14ca69f811a15b656b6869c4aece9fa5b39eb77eb28bd572d28",
@@ -1181,6 +1195,7 @@
   "created_at": "2026-10-15T17:00:58.218875Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 2 - 3 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
@@ -1303,6 +1318,15 @@
   "revisions": 1,
   "sha256": "59960d27c8c1db519053932a9ad2b956cbdbd656b6b593431c5450b8e90f6425",
   "slug": "will-the-peak-severe-s2-drought-coverage-in-minas-gerais-be-under-5"
+ },
+ "0xacf893c1c650e71434cda9753dba9faa5743bd1430c207ff3d91eefa9412673c": {
+  "created_at": "2026-11-18T21:07:38.10216Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Italy win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-italy-win-eurovision-2027"
  },
  "0xad0366c55fe5135b16a3251beaf79e78e70c5871c36cdb5e1f1d83e1a29c443c": {
   "created_at": "2026-09-02T21:51:22.022787Z",
@@ -1552,6 +1576,7 @@
   "created_at": "2026-10-15T17:02:06.61783Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 4 - 3 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",

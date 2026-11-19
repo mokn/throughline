@@ -63,6 +63,15 @@
   "sha256": "18d89cd07debe8b6683a9d3564f9b3760a566102b2eba3b00173c493e70a37da",
   "slug": "nba-2026-27-bpg-leader-moussa-diabate"
  },
+ "0x102262237bdd82c6226885fb9e10a5de4a3a13a717791550afc324ff8f6f58f0": {
+  "created_at": "2026-11-18T21:03:33.481667Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "US obtains Iranian enriched uranium by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "44fc5339ceb1178b925f53c6effc03c6fe733b274736862f3f82bda546b9cae2",
+  "slug": "us-obtains-iranian-enriched-uranium-by-december-31-2027"
+ },
  "0x113e93e6c20e4340afedd0d405648ddcc5ab4b715a039052328383813ec970f0": {
   "created_at": "2025-12-31T14:46:01.382614Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -125,6 +134,15 @@
   "revisions": 1,
   "sha256": "ab6fa3b6784f1481deb9297c0670f910e3fd10fbdcd1a85e85383a6ce3659985",
   "slug": "will-deportes-la-serena-keep-the-most-clean-sheets-in-chile-primera-2026"
+ },
+ "0x15a811b07e9a15f58b29b31c525d0a2ccfb9f5a2a0a0326d0776e3a9bfabc8f0": {
+  "created_at": "2026-11-18T21:07:18.580788Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Croatia come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-croatia-come-in-2nd-place-at-eurovision-2027"
  },
  "0x1694b9634eb5f0ea9803de137be7a64756eec98b5daedfe31742f49535e8a3f0": {
   "created_at": "2026-10-14T13:23:48.247615Z",
@@ -876,6 +894,7 @@
   "created_at": "2026-09-17T23:51:20.827791Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Luke Combs win Male Vocalist of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "68a083d6dfc2f7b25c50cc489cef3eb89c23e48f0675bf4741b6a93c8a2ae8ee",
@@ -1174,6 +1193,15 @@
   "revisions": 1,
   "sha256": "46965b1a237c7d2cd94ae7fb1b1caa35547144c90db617be1133295fae6a9675",
   "slug": "ink-fdv-above-250m-one-day-after-launch-949-437"
+ },
+ "0xaf8dbfcb1baeaea80a0815d5d9c54dd3150b261b0442d1741122282649ed6bf0": {
+  "created_at": "2026-11-18T21:07:46.659307Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Lithuania win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-lithuania-win-the-public-vote-for-eurovision-2027"
  },
  "0xb163c6d2d9724f842f885cb358a7ce7665efcd84e858dbb1d6a260829de961f0": {
   "created_at": "2026-09-28T17:19:46.83833Z",
@@ -1594,6 +1622,15 @@
   "revisions": 1,
   "sha256": "7f86005e698dd2fe58c794046e339225fde33b187028f2d136c879da6c836409",
   "slug": "will-iran-recognize-israel-by-december-31"
+ },
+ "0xebc862ca542120c052139f4ca78d1bd951beff582fe918690fcc1793ef5752f0": {
+  "created_at": "2026-11-18T21:29:58.432419Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Josif Gjipali & Ardita Meni win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-josif-gjipali-ardita-meni-win-festivali-i-kenges-65"
  },
  "0xebfb9449a4c0adf7a1554b5f20f346e477298e074cb64fc04e759e1fa086a3f0": {
   "created_at": "2026-08-10T15:43:12.642451Z",

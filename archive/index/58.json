@@ -705,6 +705,7 @@
   "created_at": "2026-09-17T23:52:14.121621Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Rob McNelley (guitar) win Musician of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "a1af45da751cc1d8185b10fa1dca3ee905bc20d976aa3d3b678dbb07376aee27",
@@ -1328,6 +1329,15 @@
   "sha256": "39c5070d4257549e52ccf92754709dfc1ddd882b0c796793a007062ca27b24b3",
   "slug": "will-the-republican-party-candidate-win-the-2026-ms-03-house-election-by-30-35"
  },
+ "0xd28481934fa96efc4e8145d91215a7c85075258a240aa7467abc8305bc507a58": {
+  "created_at": "2026-11-18T18:17:17.128886Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Milwaukee Brewers?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-milwaukee-brewers"
+ },
  "0xd340085162ccb83a08f584bac850bda849b24b19ef2fb733998aa707f71f4d58": {
   "created_at": "2026-06-12T19:23:43.974757Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1416,6 +1426,7 @@
   "created_at": "2026-10-15T18:01:08.978911Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 4.5",
   "revisions": 1,
   "sha256": "1635e101380cb3a0c5f9b05540c8b27422ce55dc5318c5dad4a1bde9352762a6",

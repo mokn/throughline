@@ -486,6 +486,7 @@
   "created_at": "2026-10-15T17:01:04.231774Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 3 - 1 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -624,6 +625,7 @@
   "created_at": "2026-11-02T21:05:32.352641Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Jim Jordan be the next House Majority Leader?",
   "revisions": 1,
   "sha256": "51965843a44cb5fc21f88721c84656532d8876f8719a88e056d7e66ee3d44a2a",
@@ -997,6 +999,7 @@
   "created_at": "2026-10-15T13:14:24.130745Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Walmart (WMT) Q3 US eCommerce sales growth 29%+?",
   "revisions": 1,
   "sha256": "0613f9a145c3cdbe124adb56dc9e0a9b78f9fd05dda36cb127896c2037ab7daf",
@@ -1491,6 +1494,15 @@
   "revisions": 1,
   "sha256": "c175a715d73f08c89077cd7de260f27a3371560ead836cffc184b1ba01fd707d",
   "slug": "will-houston-astros-advance-to-the-world-series-in-the-2027-mlb-playoffs"
+ },
+ "0xf1613a4c22184b36df307c7955ee203003cf041de88b344842dd5444909e2bf9": {
+  "created_at": "2026-11-18T18:51:26.552393Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Kamala Harris run but lose the 2028 Democratic nomination?",
+  "revisions": 1,
+  "sha256": "df2172ae6af90a5347208b99c6750d69bf013010f7d606b6637aaf31677f74e0",
+  "slug": "will-kamala-harris-run-but-lose-the-2028-democratic-nomination"
  },
  "0xf846274f6bb5e7a1248a7e32bf525e7563fd59f1562b78e2f564310ee850eff9": {
   "created_at": "2026-09-13T08:45:25.370025Z",

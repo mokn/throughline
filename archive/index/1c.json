@@ -105,6 +105,7 @@
   "created_at": "2026-10-15T18:02:17.678112Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "0e30f4915030d90b5f162c59673f652e03d157a6a697c16fa9a0845055835353",
@@ -277,6 +278,7 @@
   "created_at": "2026-10-15T18:01:46.987524Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Tenerife (-4.5)",
   "revisions": 1,
   "sha256": "5d95ad8903cc73577ad23b3a6942d57dfbd53ecf2a6557d44636c4c836014d93",
@@ -876,6 +878,15 @@
   "sha256": "47a6e956c287ec001b0bfb25f02f8183ce4203de1bb4eb8e7b849b6a6b76f63a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-il-17-house-election-by-30-or-more"
  },
+ "0x9be1be9cf76899470712b3d3f5533a4a0f832111bb098304c913156e4d18481c": {
+  "created_at": "2026-11-18T21:07:38.645692Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Estonia win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-estonia-win-the-public-vote-for-eurovision-2027"
+ },
  "0x9bfed20e864ee63c19472b0dc8202fdee7cd6e0a99546c87283c4ceca717751c": {
   "created_at": "2026-10-30T01:18:57.496685Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1033,6 +1044,7 @@
   "created_at": "2026-10-15T17:01:06.254895Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete to score first vs. Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "1c911b994ea78df9c40505e0237f23fa6211c23cab03ddad7571a46b347087c2",
@@ -1155,6 +1167,15 @@
   "revisions": 1,
   "sha256": "d68404832870a39ea60f7ecb685c59f64e9c4003c95d7d2515885fcfac7557ee",
   "slug": "will-estoril-praia-qualify-for-the-2027-28-uefa-conference-league"
+ },
+ "0xc61cef6f266f67156a66425cd97ab5a3943c727f9a6c8c047340cb05dc22d51c": {
+  "created_at": "2026-11-18T21:07:35.823371Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Bulgaria win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-bulgaria-win-the-public-vote-for-eurovision-2027"
  },
  "0xc6b4cf32023afec284935eef9a7b59002cd04af6d6980b146314b80e7e697e1c": {
   "created_at": "2026-10-01T00:00:16.439464Z",

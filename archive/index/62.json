@@ -140,6 +140,7 @@
   "created_at": "2026-11-12T20:55:51.717776Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Anthropic sell between 800M and 825M shares in its IPO?",
   "revisions": 1,
   "sha256": "ecfe7f994bb7704ef970912a1d8aa094412e754f4ea7ef60c882ab69f1084400",
@@ -481,6 +482,15 @@
   "revisions": 1,
   "sha256": "b12775c2842c7a0e2a1f17ba53eda380aee2a8555e88a0ef7e196995245a10ed",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-01-house-election-by-0-3"
+ },
+ "0x46d4a78352e488276ef2f64a472d4de16961ae935fdab2ea59b7a3279d0b3a62": {
+  "created_at": "2026-11-18T19:38:34.711663Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will \"GTA VI: The Album\" first week sales be at least 150k?",
+  "revisions": 1,
+  "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
+  "slug": "will-gta-vi-the-album-first-week-sales-be-at-least-150k"
  },
  "0x47f6c5c219a528dbec0e9f460f1f35a64c7ac965b99ec971d7022a80b5ee7162": {
   "created_at": "2026-09-17T18:06:38.522651Z",
@@ -894,6 +904,15 @@
   "revisions": 1,
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
   "slug": "will-atletico-san-luis-finish-2nd-in-the-2026-liga-mx-apertura-20260722170637361"
+ },
+ "0x8ed16c51372a99d50b2f326ebb56635b413b1151f772242a4c963ea264830f62": {
+  "created_at": "2026-11-18T17:40:52.26408Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report between 42 million and 45 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-42m-to-45m"
  },
  "0x90dfac8ca871cecbac9854706bb39c4c52a8e345e5165745654f1cd1de774a62": {
   "created_at": "2026-08-10T15:02:38.742913Z",
@@ -1440,6 +1459,7 @@
   "created_at": "2026-10-15T18:02:17.243041Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 4.5",
   "revisions": 1,
   "sha256": "baf24b5a182ef477a513089d8f256698f8d152b9645ed01b8b575c4492e63bc9",

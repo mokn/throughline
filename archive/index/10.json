@@ -308,6 +308,15 @@
   "sha256": "8a298be802a3e4498fbef84aecffd075f3638711cadc6b511e6ab67633813de9",
   "slug": "will-nk-maribor-be-relegated-from-slovenian-prvaliga-2026-27"
  },
+ "0x2f1c1dd280e8e562e3152b06d5cb3452063aeaf3e4c66f0920aa205a06ddb710": {
+  "created_at": "2026-11-18T21:07:39.668703Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Denmark be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-denmark-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x30e09f7f96b3329a56b0a48422d676701ca01782b971bed22ffba4c19f76d010": {
   "created_at": "2026-09-02T19:33:37.869911Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -385,6 +394,7 @@
   "created_at": "2026-10-15T18:02:44.988097Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: O/U 3.5",
   "revisions": 1,
   "sha256": "0f22d3c7e5ec653f8a1369442eb76716e0b9425d58bbf5339ae65436926353a4",
@@ -485,6 +495,7 @@
   "created_at": "2026-11-06T22:37:20.782562Z",
   "first_seen": "2026-11-07T13:00:35Z",
   "last_changed": "2026-11-07T13:00:35Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Jean-Luc M\u00e9lenchon hit 20% in any poll before the first round of the French presidential election?",
   "revisions": 1,
   "sha256": "55a0a611409ba2e47bf5ec7cf2084db545ebf49ae2f0cb40ba39ba04689e2d1d",
@@ -675,6 +686,7 @@
   "created_at": "2026-10-15T18:01:53.856991Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: CD Tenerife 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "f1f1abb4a59fd30a3bb5b1c446d701583f7794803c5df39b834aaad56c5885d0",
@@ -1195,6 +1207,7 @@
   "created_at": "2026-10-15T18:00:56.468274Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: FC Cartagena (-3.5)",
   "revisions": 1,
   "sha256": "8eb3776a050b4e6c7e07c6d367ae857ec4e071f876b79206b84f88495e225515",
@@ -1392,6 +1405,15 @@
   "sha256": "4271a2f8bd245baa70c2d134817c4df7777aead684d2481a1365b6048b0a0284",
   "slug": "will-raul-rosas-jr-fight-aiemann-zahabi-next"
  },
+ "0xcb201dbd902d1e173a3c82989fee68366084e70087c0f9f45c23fe793cc72910": {
+  "created_at": "2026-11-18T17:40:48.403199Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report between 15 million and 18 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-15m-to-18m"
+ },
  "0xcb409177b8ddaad2a5d6a6c197c0f273457441cd2a53e7fe70212e89c4e89c10": {
   "created_at": "2026-11-14T02:41:10.095836Z",
   "first_seen": "2026-11-14T13:31:33Z",
@@ -1445,6 +1467,15 @@
   "revisions": 1,
   "sha256": "61abb00f01eb902b15957ffed4f52616675daa5f874567da5e119211e2fd332e",
   "slug": "2027-soccer-denmark-superliga-winner-viborg"
+ },
+ "0xd5ccfaa766ff8be2dc4fe5eb8c922944abb8abf79d89743641e252a810787910": {
+  "created_at": "2026-11-19T15:47:31.595927Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will DjMaRiiO be the second of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "1d880ec34acf88b3801abcfeacb1db56ba0753146074bae220419d92696808ee",
+  "slug": "will-djmariio-be-the-second-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
  },
  "0xd6ca49f94f6cee79f56c84164c5d220492a46401440fcf6e81104c8f719ac410": {
   "created_at": "2026-09-02T19:38:45.031822Z",
@@ -1659,6 +1690,15 @@
   "revisions": 1,
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-nic-claxton"
+ },
+ "0xef2acdd2a2c2a27794f04915a3b662552d88dbf8034a7bb026b6241691cc3f10": {
+  "created_at": "2026-11-19T15:47:45.319769Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Alanzoka be the first of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-alanzoka-be-the-first-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
  },
  "0xef392ba42786e8e4506490bd1a67f6040f71c3c2553e46a151ea2b051105a810": {
   "created_at": "2026-08-24T16:33:23.727805Z",

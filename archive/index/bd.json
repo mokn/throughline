@@ -510,6 +510,7 @@
   "created_at": "2026-10-15T17:02:06.513641Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 2 - 5 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -612,6 +613,7 @@
   "created_at": "2026-08-18T14:56:56.833984Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Zelda Tarntaal be the next mayor of Cape Town?",
   "revisions": 1,
   "sha256": "3c79fc453f14e0dd0f723eb027a339c0eb3f2b798d2f7f692f3005a955a7bb1b",
@@ -959,6 +961,15 @@
   "revisions": 1,
   "sha256": "ef697cce15ffd241ee78cd15bc4a5746afea01d707e8942bf8d6bf8338be9966",
   "slug": "will-andy-reid-be-the-next-head-coach-fired-2026-27"
+ },
+ "0x96101aee2be77f1b772f98ad7b2a83477e34db6f9cc95c77d01bdc1c6a2c5cbd": {
+  "created_at": "2026-11-10T02:14:55.868329Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Matt Murphy be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-matt-murphy-be-the-next-ceo-of-nvidia"
  },
  "0x975bc0e2aaedf7c8c94e6cd0691f468581c1ca993bdeac98203a0fd6fdbfe7bd": {
   "created_at": "2026-08-06T08:38:36.892605Z",

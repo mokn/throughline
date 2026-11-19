@@ -180,6 +180,15 @@
   "sha256": "5829154c2ef434e81c782c4d2e068018b00d481bf45f3814f43296ce85d9546e",
   "slug": "israeli-basketball-premier-league-2027-champion-maccabi-ashdod"
  },
+ "0x2158440f84b73708af9d2f7d680d61ac1e79f225a272bb4ccd24ea0001fd9baa": {
+  "created_at": "2026-11-18T18:16:32.77343Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Hamburger SV lead the Bundesliga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "1c25d8ad2923e71afd3ff8177710b41757502d9158ee670ada313e3d483b456e",
+  "slug": "will-hamburger-sv-lead-the-bundesliga-at-the-2026-27-winter-break"
+ },
  "0x236107d58e37d094954cb6c7ee501e3d620d382b2e994203e19e393d3d240faa": {
   "created_at": "2026-08-18T18:58:45.188441Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -330,6 +339,7 @@
   "created_at": "2026-10-15T17:01:18.868667Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will CD Alcoyano vs. RCD Mallorca end in a draw?",
   "revisions": 1,
   "sha256": "8a7efdacfb07fa100a550be1fa79c5fd26402197b0bd13a9b7763b05962bdba3",
@@ -485,6 +495,7 @@
   "created_at": "2026-10-15T18:02:10.956048Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Alcoyano (-1.5)",
   "revisions": 1,
   "sha256": "cbe06c34ee9492a0b6a3b72c2b8353493eb469675148aef4409d3cee96ed30bb",
@@ -1031,6 +1042,7 @@
   "created_at": "2026-10-15T17:02:05.318774Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 0 - 1 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",

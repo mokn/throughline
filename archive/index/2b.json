@@ -30,6 +30,7 @@
   "created_at": "2026-08-06T15:43:59.19246Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will HANJIN BRION make a roster change by December?",
   "revisions": 1,
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",
@@ -170,6 +171,15 @@
   "sha256": "08542b80934e954c40752cb74e1014419707c9103c93591bb83382b90037dfb2",
   "slug": "will-gilberto-loya-chavez-win-the-2027-chihuahua-governor-election-20260803173851753"
  },
+ "0x1f2d30fb667116da4c266b276199ebfe1fb8223a60cb532d0bb7ec2e536afb2b": {
+  "created_at": "2026-11-18T21:07:33.020834Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Latvia come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-latvia-come-in-3rd-place-at-eurovision-2027"
+ },
  "0x1f35a380d8bb7757f144757c957d770cc81d0657e696f20d6193df88af83542b": {
   "created_at": "2026-08-12T17:23:26.286901Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -277,6 +287,15 @@
   "revisions": 1,
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-anfernee-simons"
+ },
+ "0x2d0a04c9770ec5a675bb5cab5296e2b1d9755242e93f84d6fc1448c7c9fb9e2b": {
+  "created_at": "2026-11-19T15:47:37.568731Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will fewer than two of these streamers finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "1d880ec34acf88b3801abcfeacb1db56ba0753146074bae220419d92696808ee",
+  "slug": "will-fewer-than-two-of-these-streamers-finish-gta-vi-by-december-31-2026"
  },
  "0x2e23012c9c8c417c645d9deafd1a1ee9a161195d679419d8d4212b3f5865eb2b": {
   "created_at": "2026-10-25T19:00:19.836895Z",
@@ -576,6 +595,15 @@
   "sha256": "67fd95d32f2bd3831d515c6fb241e59b1b14a968e17034da519a71a61a106009",
   "slug": "next-james-bond-announced-by-december-31-2026"
  },
+ "0x51c5da2e602e1962f06cda1a7820ba769a9a0852d24bff74db1745f68756892b": {
+  "created_at": "2026-11-19T15:46:51.398247Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Lord Kebun be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "3e73804ca86e7cc59e9b255c304224cd2bcdf112fb89542945c386356af7c789",
+  "slug": "will-lord-kebun-be-the-first-kick-streamer-to-finish-gta-vi-by-december-31-2026"
+ },
  "0x51ee8b6642dfcb5240bc72a0bef34a7063e2c52c6e053f12ee21a7c0a347822b": {
   "created_at": "2025-12-27T15:33:21.615916Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -625,6 +653,7 @@
   "created_at": "2026-10-03T15:44:21.144502Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the USS George Washington depart CENTCOM by December 31, 2026?",
   "revisions": 1,
   "sha256": "082e96e6ce4ff25ffccff01f96f6deb252a29b6a90803c6ae10cd73041b8c919",
@@ -767,6 +796,15 @@
   "sha256": "5b302a406c9c0d57f7ba3987940badc318275c24c47ae98544aa1e6686291872",
   "slug": "will-the-democratic-party-win-the-mi-02-house-seat"
  },
+ "0x68e9871699e8f22dd20d87390367f1497883f0fd644d909634c89aa7a587582b": {
+  "created_at": "2026-11-18T18:50:46.300174Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Marco Rubio run but lose the 2028 Republican nomination?",
+  "revisions": 1,
+  "sha256": "5281893d559ab73bb9173cd2df84fdeeb669659f253760d1a7ab15407ac5ea05",
+  "slug": "will-marco-rubio-run-but-lose-the-2028-republican-nomination"
+ },
  "0x6a40fd58d1ff8e7d4dc47d1615dc7b9aebf7efaa0a8311a424fdb0b81df5602b": {
   "created_at": "2026-06-01T19:53:31.902669Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -794,6 +832,15 @@
   "revisions": 1,
   "sha256": "8531dcee4a957f2c1740d89d14857dd46d71a16d62600b8b674faac2457a3b1e",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-06-house-election-by-10-15"
+ },
+ "0x6d614fccdc853e08d3150a884c203b8e46e582618d01d96df0b257973146082b": {
+  "created_at": "2026-11-18T21:07:17.173729Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Bulgaria come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-bulgaria-come-in-2nd-place-at-eurovision-2027"
  },
  "0x6e5b18328f3cabd4346eaa6be8beaed29ab8964824b8658443ae4e6b7999222b": {
   "created_at": "2026-11-04T17:37:37.891236Z",
@@ -881,6 +928,7 @@
   "created_at": "2026-10-19T15:50:20.228448Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Dota 2 patch 7.42 released by November 30?",
   "revisions": 1,
   "sha256": "6b783d22facf2a4733bd1696c849f2ef3d15c19723a74aba8b3151c6294b7b9f",
@@ -977,6 +1025,24 @@
   "sha256": "8f077484db6f62bc541562d7bbe0cdc82ed12d961ca3adfc72ba6c3bd29dd453",
   "slug": "first-round-outright-winner-in-the-ga-06-house-election"
  },
+ "0x91f402574e77f2f4a7b4a304f5b45c8ba7594e8f686831a77e81e47687a36a2b": {
+  "created_at": "2026-11-18T21:07:57.82306Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will North Macedonia be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-north-macedonia-be-in-the-top-5-at-eurovision-2027"
+ },
+ "0x93b9c6e0d431f91b4d49685f51514d38cd648f0743d8135115533fbed906bb2b": {
+  "created_at": "2026-11-18T19:51:35.264983Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Mikey Madison win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-mikey-madison-win-best-actress-at-the-32nd-critics-choice-awards"
+ },
  "0x94b972a16c54a65a5492a5a51943294cf20332177b88d5ef1320c8faef91c72b": {
   "created_at": "2026-08-05T11:06:52.116578Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1023,6 +1089,15 @@
   "revisions": 1,
   "sha256": "2c7ca7919531109e5a490c06ea9bd87989a94c40c54861cc7d65f7f480cdbd4e",
   "slug": "f1-brazilian-grand-prix-practice-3-fastest-lap-isack-hadjar-2026-11-07"
+ },
+ "0x9857ec45519dc010058ea12d77ee177ca06006f41e28c395abfeb43ace998b2b": {
+  "created_at": "2026-11-18T21:07:32.496104Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Armenia win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-armenia-win-the-public-vote-for-eurovision-2027"
  },
  "0x98b0062cc650aed121f9c3be054867ebebc9496f3bc99ae240591e893450012b": {
   "created_at": "2026-08-18T18:58:57.673711Z",
@@ -1419,6 +1494,15 @@
   "sha256": "7f6a7ff4829d10d0809550264d59721281af78883fc37901e0cd324abf61f5e6",
   "slug": "will-the-national-party-win-50-or-more-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election"
  },
+ "0xd4a1585dcd49fc4f0b997afb4c8161c0984e3138f232ced353b32a13627aa02b": {
+  "created_at": "2026-11-19T15:46:51.007952Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Kaysan be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "3e73804ca86e7cc59e9b255c304224cd2bcdf112fb89542945c386356af7c789",
+  "slug": "will-kaysan-be-the-first-kick-streamer-to-finish-gta-vi-by-december-31-2026"
+ },
  "0xd4efde1a4d58ccca78a3d5b89f31bf58ce1dcb4ed400456e66e67c80687e8e2b": {
   "created_at": "2026-10-14T02:19:22.753634Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1506,6 +1590,7 @@
   "created_at": "2026-09-23T17:27:01.304164Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for Invictus Gaming in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",

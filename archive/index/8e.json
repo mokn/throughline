@@ -83,6 +83,15 @@
   "sha256": "ea4a0f0a8528b2e6b537f6195662305aa0ed2e83e0aff7f4d909b3bbdc98afb8",
   "slug": "will-hyperliquid-dip-to-70-by-december-31-2026"
  },
+ "0x1e9f71d55025eeca5d0e7824cb78da9b577335607aadcdbd36570e7e0384a98e": {
+  "created_at": "2026-11-18T18:50:10.004535Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Jon Ossoff win the Democratic nomination but lose the 2028 election?",
+  "revisions": 1,
+  "sha256": "b0d730f1cb7a4cb3ee3ffda890f1893f7a651d150a5a138fb071dc8d043b77c2",
+  "slug": "will-jon-ossoff-win-the-democratic-nomination-but-lose-the-2028-election"
+ },
  "0x1ef9a0c3326a2712ee1ddad93aed902988981e5dc804e03bc84198738b97478e": {
   "created_at": "2026-10-20T06:00:07.804809Z",
   "first_seen": "2026-11-11T14:22:59Z",
@@ -333,6 +342,7 @@
   "created_at": "2026-10-15T18:00:55.767204Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Minera (-1.5)",
   "revisions": 1,
   "sha256": "41ddf2f1dd0867a4049d1385a97a865d58a660eb3e65e7a218753bbf64d38973",
@@ -1160,6 +1170,7 @@
   "created_at": "2026-10-15T18:00:58.610505Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "7f1509ce44c144a996324ea86547739864a4b0793975f87866147721217fca85",

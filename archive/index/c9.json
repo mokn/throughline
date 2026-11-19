@@ -268,6 +268,7 @@
   "created_at": "2026-10-15T17:01:04.917278Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 4 - 2 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -475,6 +476,15 @@
   "sha256": "b7d12afcfb02ced1f22715ca1268b13b53a7907f4931ca3fa5d689c00e504869",
   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-12-15"
  },
+ "0x4629c24386940be7df1fa51424e04d2d0f0ec9f8b3d0630fdec54bafbb9e26c9": {
+  "created_at": "2026-11-19T15:47:31.15433Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will CaseOh be the second of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "1d880ec34acf88b3801abcfeacb1db56ba0753146074bae220419d92696808ee",
+  "slug": "will-caseoh-be-the-second-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
  "0x466a62b2fae633e26f9b4c8426355f1b8b7acc01ff8b53b0858baa69c55b7ec9": {
   "created_at": "2026-08-04T21:40:50.193515Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -638,6 +648,15 @@
   "revisions": 1,
   "sha256": "c493ba558c42e155757fd0a802a7e5e1595d89b7c9080c55d3065f7bb72b870b",
   "slug": "will-miracle-launch-a-token-by-december-31-2027"
+ },
+ "0x60534e4588b5bfb22e3222380d2c9ada088e7ee1f7894a64a0174b72b99194c9": {
+  "created_at": "2026-11-18T21:07:39.356178Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Romania come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-romania-come-in-3rd-place-at-eurovision-2027"
  },
  "0x60728561fe8299e1ee1d707aabb524dfe3370ef4c9f36c33f4c5561f54246bc9": {
   "created_at": "2026-09-13T08:46:08.156121Z",
@@ -1223,6 +1242,15 @@
   "sha256": "a2170e82eb75920eaa4e497efae1ff58ded97d56411beb1d471ba1e0cff9f4c2",
   "slug": "will-nate-frazier-be-the-2026-sec-rushing-tds-leader"
  },
+ "0xac2b87c9029ac21e3be38b44abe6627191cabfb8b0fe51cb6b5fd51f6838dcc9": {
+  "created_at": "2026-11-18T21:30:00.379941Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Martina Serreqi win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-martina-serreqi-win-festivali-i-kenges-65"
+ },
  "0xb4dae827e1f9ca971142c062b000cdebe229cb27636e441b645b548b9ae2a1c9": {
   "created_at": "2026-08-26T21:46:28.421914Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1486,6 +1514,15 @@
   "sha256": "e5ae53c626884a3f6cc8cc77074286501762ec2b8e6e21bd7d04cef6ecdf54ba",
   "slug": "will-mistral-have-the-best-ai-model-at-the-end-of-november-2026"
  },
+ "0xd2e9ea9537ee2980d390a4a4fdd95b7b29a2b5b38b863f5c9789705a95e081c9": {
+  "created_at": "2026-11-18T21:29:56.044892Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Djemt\u00eb e Detit win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-djemte-e-detit-win-festivali-i-kenges-65"
+ },
  "0xd40d95534dbac9c854ede1d9934013b60c12e3918b2ae2fef11f64b4d05925c9": {
   "created_at": "2026-07-22T16:33:44.498424Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1521,6 +1558,15 @@
   "revisions": 1,
   "sha256": "bf168a082badeee43bb3bceac48fff8979ebc529c74ba576e077c50a5d174899",
   "slug": "will-ceedee-lamb-average-17pt0-ppr-fantasy-points-per-game-in-the-2026-27-nfl-season"
+ },
+ "0xd8618fdfcea6fc85bc0a6e5463c707a7168e8e32c145f6e3d54b010f1b9bbec9": {
+  "created_at": "2026-11-18T21:20:55.264204Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will m els x J-Run win Eesti Laul 2027?",
+  "revisions": 1,
+  "sha256": "46c106aa702eb18cb88a5d96df05fe0fcd80894a9f89d9e1cb75c2a19fb66623",
+  "slug": "will-m-els-x-j-run-win-eesti-laul-2027"
  },
  "0xdb1df3653fcd148936daaf088933e42a4f99a2b7a3db2788fa239f0ef5a87ec9": {
   "created_at": "2026-07-21T19:30:55.647284Z",

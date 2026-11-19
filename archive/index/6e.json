@@ -469,6 +469,7 @@
   "created_at": "2026-10-15T18:02:13.821628Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: O/U 5.5",
   "revisions": 1,
   "sha256": "4dc8fea8adfb937277f0d86271ba3927f3debd9636ecca876928ac918f2a8e60",
@@ -831,6 +832,7 @@
   "created_at": "2026-10-15T18:01:46.13483Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Badajoz (-2.5)",
   "revisions": 1,
   "sha256": "c22d9ac0a4205639f11d81291c718618b623e58c7719375b69c2f37f49739585",
@@ -1043,6 +1045,7 @@
   "created_at": "2026-09-23T17:26:57.591329Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for BNK FEARX in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",
@@ -1127,6 +1130,7 @@
   "created_at": "2026-10-15T18:01:09.11917Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: Barakaldo CF O/U 5.5",
   "revisions": 1,
   "sha256": "048710a3cadc899e53968fe99279134708cb94866b5f410a7eee5e5afbf3c398",
@@ -1185,6 +1189,15 @@
   "revisions": 1,
   "sha256": "c48c1fc7447cc0e9a0375214114f44451812f9d84b4edf357a503444037a51e4",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-new-hampshire-be-between-700000-and-750000"
+ },
+ "0xaafff1adaf318f5831418f253c9817e694bcfbf030b56971fd98b9812845176e": {
+  "created_at": "2026-11-18T18:17:24.117708Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Minnesota Twins?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-minnesota-twins"
  },
  "0xad80f3c1b05aba0b07090826a94b85b5c8b1bc34f0a51be84a56a46cbae6e36e": {
   "created_at": "2026-09-08T16:55:49.831254Z",
@@ -1341,6 +1354,15 @@
   "revisions": 1,
   "sha256": "1693cbc192e4e4d8e981208da7de34c827ee12f1b0edb8536a4189495161ac88",
   "slug": "will-parma-qualify-for-the-2027-28-uefa-conference-league"
+ },
+ "0xd01501f81fee57d8ad483b25f8ea3f03a677b934587712e0a690ac9ce5e4fa6e": {
+  "created_at": "2026-11-18T18:16:37.43199Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Werder Bremen lead the Bundesliga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "1c25d8ad2923e71afd3ff8177710b41757502d9158ee670ada313e3d483b456e",
+  "slug": "will-werder-bremen-lead-the-bundesliga-at-the-2026-27-winter-break"
  },
  "0xd0c82f14ff6623cf53a81f5381686605ef3d4cc87a72aa20bfda8337a6863c6e": {
   "created_at": "2026-08-18T14:07:13.098735Z",

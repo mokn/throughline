@@ -182,6 +182,15 @@
   "sha256": "024c3cdc5b0b09045072a816179f569e2e8ffc8079da18841db5bc3dd53364bf",
   "slug": "f1-abu-dhabi-grand-prix-h2h-piastri-vs-russell-2026-12-06"
  },
+ "0x282381fc9df01bd9285f4c9f6964ab5ae98d0b73b48df88e2f223f6e1056bc75": {
+  "created_at": "2026-11-18T18:17:15.751144Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Chicago Cubs?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-chicago-cubs"
+ },
  "0x29f88e50812b89facc288ec8b3a9530c54910c36dc352f0d068d76718043c775": {
   "created_at": "2026-09-27T20:10:30.389335Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -479,6 +488,7 @@
   "created_at": "2026-10-15T18:02:46.184778Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "358a7d823c75047d00669277fb452f5b03a29a5928be523de7448e0fede249fb",
@@ -497,6 +507,7 @@
   "created_at": "2026-10-15T18:01:53.00217Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: CD Badajoz 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "4d5e145a752bdb3057fc054241f8318c68c588a01e98133f3554d73a396fb237",
@@ -609,6 +620,15 @@
   "revisions": 1,
   "sha256": "2f32c2340627e201bc1730d0b26897002c92168c17e8591c5bc383e2134f2021",
   "slug": "will-the-us-confirm-that-aliens-exist-before-2027-789-924-249"
+ },
+ "0x7489eb0e5a33e93aca201809f25ba9cdb93eafcf6b2f0d96fb9a876fd1c02f75": {
+  "created_at": "2026-11-18T21:07:46.143861Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Denmark be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-denmark-be-in-the-top-5-at-eurovision-2027"
  },
  "0x75091bc55921bf0de17c085b79ecaa94a49cde9b11910548bcd61294d03a7375": {
   "created_at": "2026-09-13T08:45:28.44925Z",
@@ -917,6 +937,7 @@
   "created_at": "2026-10-15T18:00:59.345525Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "f90abe2e645e0d18f514918d5ecab4fdb3de9652c4e91a41f88421f369406ccb",

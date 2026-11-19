@@ -213,6 +213,7 @@
   "created_at": "2026-10-15T18:02:13.066282Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: O/U 0.5",
   "revisions": 1,
   "sha256": "1bf81a5394d4e4f1113403f13867c61b01041dc601727ec508dd29143ef90dfc",
@@ -1176,6 +1177,15 @@
   "revisions": 1,
   "sha256": "3cdea29edcf931a0571a27eb094c8fe0937f0b6a86a26f594b62a18e153c08a0",
   "slug": "will-julius-randle-be-a-2027-nba-all-star"
+ },
+ "0xce90a6d76f45fb24c5b7efe396451c683cc5ebc60a8d133254ac7072811b9ffa": {
+  "created_at": "2026-11-18T21:07:40.426423Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Georgia win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-georgia-win-the-public-vote-for-eurovision-2027"
  },
  "0xcf3526a3ef08df208f1d9c79936eeba9e3bec39bf261f6af74547c305a9d51fa": {
   "created_at": "2026-06-11T16:51:28.413199Z",

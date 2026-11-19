@@ -153,6 +153,15 @@
   "sha256": "c27b309867417a131687fe025f0d6574c29203c78d32c2156951ab2465d793d6",
   "slug": "will-the-democratic-party-candidate-win-the-2026-al-07-house-election-by-25-30"
  },
+ "0x2a240befb1119ced3d7ec073f124364277647b8aa2504c045ad2743dc3806b61": {
+  "created_at": "2026-11-18T18:17:21.492284Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be New York Mets?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-new-york-mets"
+ },
  "0x2d0d0159d0edd3511bf1aeef4ef53a74b0ef2dadcfc6b1019aa31ce74b664861": {
   "created_at": "2026-01-28T15:30:28.147586Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -236,6 +245,15 @@
   "revisions": 1,
   "sha256": "7f6a7ff4829d10d0809550264d59721281af78883fc37901e0cd324abf61f5e6",
   "slug": "will-the-national-party-win-35-39-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election"
+ },
+ "0x3ad58b2aa7206cd7a7abac57e170b6c0f98169d6277d485501d3b538a30a6a61": {
+  "created_at": "2026-11-18T19:51:37.582086Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Zendaya win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-zendaya-win-best-actress-at-the-32nd-critics-choice-awards"
  },
  "0x3d5e7c44770268b0f904dcb9d552aa3fc2937fa20a578a33deb14e914691f861": {
   "created_at": "2026-10-13T15:50:29.539698Z",
@@ -434,6 +452,7 @@
   "created_at": "2026-09-30T21:02:05.847327Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the peak water level at La Jolla be 7.90 ft MLLW or more?",
   "revisions": 1,
   "sha256": "0ef32cced9d305ff17c33d95e0a1050f40a55cb05f723140638487398782ae44",
@@ -448,6 +467,15 @@
   "revisions": 1,
   "sha256": "6a6d8d5b8045123ce7efc5674ef0efd0c816ec6a7c3bae0574f414fa69a503f3",
   "slug": "will-republicans-sweep-the-kansas-senate-and-governor-elections"
+ },
+ "0x63b3df1a9d92f6b8d09f1fc8d1b8bb6cc680a7ab9548f2c9cba7b90a2a290e61": {
+  "created_at": "2026-11-18T21:07:51.420351Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Israel be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-israel-be-in-the-top-5-at-eurovision-2027"
  },
  "0x64d9b221dc8dd370f7c480d7782c278fac269ffb5902bb01126d5cf4703ab761": {
   "created_at": "2026-11-07T12:30:56.09632Z",
@@ -612,6 +640,15 @@
   "revisions": 1,
   "sha256": "e24ca79b3d5938969260abe0785d1335c71b67d0f3a04108293aba780ff319d8",
   "slug": "will-pons-reach-2-in-2026"
+ },
+ "0x86a8be3cd5f1aaf13ac7ffb601e5d53ad5ea391703357c9fb7e3106225aefa61": {
+  "created_at": "2026-11-18T18:51:37.617972Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tucker Carlson win the 2028 presidential election?",
+  "revisions": 1,
+  "sha256": "e8ed29bdb65bf237144a1c3861d8e35e900d721950eea208baf1e106220573f3",
+  "slug": "will-tucker-carlson-win-the-2028-presidential-election-path"
  },
  "0x8b597d0c96e4f58708c8af9e569b82b3dafdcc1a0b7ac6bc7ed5926f6d0e7b61": {
   "created_at": "2026-09-09T02:44:15.836041Z",

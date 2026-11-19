@@ -1286,6 +1286,7 @@
   "created_at": "2026-10-15T18:01:48.15925Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: O/U 4.5",
   "revisions": 1,
   "sha256": "9f49f17f753ab2f0075089d793b57cf48fe99e6b23f0af495c606915b7242bf5",
@@ -1483,6 +1484,15 @@
   "revisions": 1,
   "sha256": "d726faaea1855b03720d58da79d05bc83878501099ac21f70a57dda37e1b11f4",
   "slug": "ukr1-met-kar-2026-11-07-exact-score-4-1"
+ },
+ "0xf034d15a037a34bcbc2b1c9955e38c56bd3424228aaa7fe0a8f40c5d6df12cdd": {
+  "created_at": "2026-11-18T21:07:59.301432Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Norway be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-norway-be-in-the-top-5-at-eurovision-2027"
  },
  "0xf10f706f6015daeb3f81d088c1d6b41b44e66c58750296236b8cd40ff1fed8dd": {
   "created_at": "2026-09-13T09:44:17.991224Z",

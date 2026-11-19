@@ -57,6 +57,7 @@
   "created_at": "2026-09-17T23:51:21.767719Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Chris Stapleton win Male Vocalist of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "68a083d6dfc2f7b25c50cc489cef3eb89c23e48f0675bf4741b6a93c8a2ae8ee",
@@ -312,6 +313,7 @@
   "created_at": "2026-10-15T17:00:54.753195Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Utebo FC win on 2026-10-28?",
   "revisions": 1,
   "sha256": "b6888314a041191385a094115c330aee4172597df812a871512264e767394dc5",
@@ -736,6 +738,15 @@
   "sha256": "754e6dbc81966872858c7f6ffa416f61c06dc9ec9769dbc20a0369cdab5eb2ec",
   "slug": "will-david-raya-record-the-most-clean-sheets-in-the-2026-27-uefa-champions-league"
  },
+ "0x5e1304dc9d56a10774f85ceb0d83825eb0aa02fa43b1b5cf5062cc3d7b2a2412": {
+  "created_at": "2026-11-18T21:07:47.203392Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Finland be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-finland-be-in-the-top-5-at-eurovision-2027"
+ },
  "0x5fc2dab5f792b7d1bac64fcd82b26116dc0dae23a42935dcc175c19a4f58a312": {
   "created_at": "2026-07-31T22:45:57.466468Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1065,6 +1076,7 @@
   "created_at": "2026-01-27T21:59:24.111908Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the Republican Party win the AK-AL House seat?",
   "revisions": 1,
   "sha256": "c6c78d01dcfe76b42a12e5b3c56052e2b32c7a17e24596160562ce1738c4865a",
@@ -1087,6 +1099,15 @@
   "revisions": 1,
   "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
   "slug": "will-carole-delga-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
+ "0x919884c0425508df4a08c3821fa215766bb3739308573aaf4fe3fe124bd84512": {
+  "created_at": "2026-11-18T21:07:08.397544Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Albania win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-albania-win-eurovision-2027"
  },
  "0x91aa471b9e385ecf10e7688c3065faab64afe0bf3fae4f97b2e8c8f271117112": {
   "created_at": "2026-06-10T20:13:28.599599Z",
@@ -1161,6 +1182,15 @@
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-peyz-have-the-most-kills-at-worlds-2026"
+ },
+ "0x9f1cfd1d7ecb72238053838fe91b385b41808e82b98536a41ef9298a21a76712": {
+  "created_at": "2026-11-18T21:07:20.99646Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Austria come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-austria-come-in-3rd-place-at-eurovision-2027"
  },
  "0xa164172b7cee74420cfce554c3a265b2553cb80e48b36e286e67f302b6574712": {
   "created_at": "2026-03-09T18:47:48.881343Z",
@@ -1256,6 +1286,7 @@
   "created_at": "2026-09-23T17:27:03.63142Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for EDward Gaming in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",
@@ -1326,6 +1357,15 @@
   "sha256": "59d7239a472911e1e501e5a1b0158200ad48346e0fea18701ff28817fa945983",
   "slug": "will-the-republican-party-win-the-ia-02-house-seat"
  },
+ "0xbcf0902b7bc8abf768fbcdfb093f84bffb8403c9f270c61373f71f2c21b46f12": {
+  "created_at": "2026-11-18T21:07:39.836958Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will France win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-france-win-the-public-vote-for-eurovision-2027"
+ },
  "0xbd1d0889e5037c451bb1e45163749786fe4acc10af2ab40477e7052766054712": {
   "created_at": "2026-02-09T00:14:57.897724Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1339,6 +1379,7 @@
   "created_at": "2026-09-04T04:07:32.239472Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will primmie play for DetonatioN FocusMe in 2027?",
   "revisions": 1,
   "sha256": "06163aaa56edf14ca69f811a15b656b6869c4aece9fa5b39eb77eb28bd572d28",
@@ -1384,6 +1425,7 @@
   "created_at": "2026-10-15T18:02:15.954599Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: CD Alcoyano O/U 1.5",
   "revisions": 1,
   "sha256": "c6422f80cd08540d6e496dcb5ac870dff6131277fd1627e499b5b8d0c8f30b53",
@@ -1669,6 +1711,15 @@
   "revisions": 1,
   "sha256": "0eda20c0d9361dae46afe439f6194013cc199229fe397a1b287a97e6d26fe2d0",
   "slug": "will-gta-vi-have-a-metascore-of-at-least-96"
+ },
+ "0xefef099912c6c3a40b1e34cdd9537c5dc091f8cc46fdae1b7dd64005f381e612": {
+  "created_at": "2026-11-18T21:29:54.883664Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Arsi Bako win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-arsi-bako-win-festivali-i-kenges-65"
  },
  "0xf3a71c1bea30cfbebfb832b90c6bb09c43f80238841b1f0abb9b485454169712": {
   "created_at": "2026-07-22T05:38:28.45956Z",

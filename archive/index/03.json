@@ -505,6 +505,7 @@
   "created_at": "2026-10-15T18:00:57.604405Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: O/U 3.5",
   "revisions": 1,
   "sha256": "9e5361db330dea8948d143342a5a3fb61b5dc6f077952168e839bdd0431f86cb",
@@ -592,6 +593,15 @@
   "revisions": 1,
   "sha256": "536747a03addde13af322470c502404f588455d2b343ddee9afeecafa51900ba",
   "slug": "will-the-democrats-win-genesee-county-in-the-michigan-senate-race-in-2026"
+ },
+ "0x628264153d63aa27801facca1b9bf59d508e95f2c04845dfff3c7fa50a052503": {
+  "created_at": "2026-11-18T21:20:53.445096Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Johanna Elise win Eesti Laul 2027?",
+  "revisions": 1,
+  "sha256": "46c106aa702eb18cb88a5d96df05fe0fcd80894a9f89d9e1cb75c2a19fb66623",
+  "slug": "will-johanna-elise-win-eesti-laul-2027"
  },
  "0x6312313c95e01f2af87c5d92cdd285bbb6bad4d43104d378ce0319d165434703": {
   "created_at": "2026-08-24T16:39:15.687622Z",
@@ -998,6 +1008,7 @@
   "created_at": "2026-10-15T17:00:57.708535Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 3 - 0 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
@@ -1438,6 +1449,15 @@
   "revisions": 1,
   "sha256": "9a3e7e7f600721c0b8e14a502eec8e50cd2abca25506233e089ae866205e3b14",
   "slug": "will-polymarket-mindshare-hit-90-by-december-31-20260630144203050"
+ },
+ "0xe75b77cd12a2dc3887e64b99215b9a009ba9aca3f5fb6b4aa2bb0a1bf7d48303": {
+  "created_at": "2026-11-18T21:07:28.509436Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Malta come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-malta-come-in-2nd-place-at-eurovision-2027"
  },
  "0xe8aaad758e10953354c5a577747d4df6bcf92c8c733608ef3da725d247a5b103": {
   "created_at": "2026-08-12T00:11:43.585154Z",

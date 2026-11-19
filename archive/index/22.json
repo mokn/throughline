@@ -127,6 +127,15 @@
   "sha256": "7e5b92f6127a2b9139f7db38c4e9db9896ca6c8550f3fb9203c61dd760abde52",
   "slug": "will-steven-stamkos-record-30-goals-in-the-2026-27-regular-season"
  },
+ "0x1bd582e2de81e49a32cf3eab240a0ba47f3c25103ecfc1865f0978b4fa033622": {
+  "created_at": "2026-11-18T19:31:28.309945Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will David Lisnard receive between 7% and 10% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "c2c1485b42f8fb8ff19eba3b78d30d5e1044bf0acacf5132d19ea0de2eaaf0a9",
+  "slug": "france-first-round-vote-share-david-lisnard-7-10"
+ },
  "0x1c9dd082d722c714621d7c96a3fb5244c0eaba5f5170eead2befb9ddf85b5122": {
   "created_at": "2026-08-12T17:19:46.600527Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -231,6 +240,7 @@
   "created_at": "2026-09-17T23:52:00.410877Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Kacey Musgraves win Female Vocalist of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "c1df377d5e98a64abe74b5fa98d5acb81eb0c9321b016944af87cb9fdfcbc30f",
@@ -478,6 +488,7 @@
   "created_at": "2026-10-15T18:02:49.409109Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Utebo FC vs. CE Sabadell FC: Utebo FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "11893e01af4c77dee08d775884837b4d991e9ec2be021d19d75534268eb18867",
@@ -906,6 +917,7 @@
   "created_at": "2026-10-15T17:02:08.027826Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: Neither team to score first?",
   "revisions": 1,
   "sha256": "f95edd7c6232283c00edc42bf21d809c92b32b07ae1dc721f2c66b48eaca2549",
@@ -1019,6 +1031,15 @@
   "revisions": 1,
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-francisco-conceicao-record-the-most-assists-in-the-2026-27-uefa-europa-league"
+ },
+ "0x8b6d08959e197f94bd28bcd1686f20cc8a0de5e17b9e285a7f6c299704b54322": {
+  "created_at": "2026-11-18T21:07:22.533247Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Belgium come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-belgium-come-in-3rd-place-at-eurovision-2027"
  },
  "0x8b789a876a41bc17eb53c182c55d64ca0193ce121cfac931a7c376a2c53d8222": {
   "created_at": "2026-08-06T21:38:24.949364Z",

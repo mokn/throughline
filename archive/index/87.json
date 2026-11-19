@@ -194,6 +194,7 @@
   "created_at": "2026-10-15T18:02:34.782248Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Real Uni\u00f3n Club (-2.5)",
   "revisions": 1,
   "sha256": "54d92d89691c71181b5278dc5988b760c106881db45a9375e4d04977d71dbc92",
@@ -225,6 +226,15 @@
   "revisions": 1,
   "sha256": "2400e1c5d44c3237f08de2f262fc6a769cf628dec7d245eab00f0a9892d48fe8",
   "slug": "will-viktoria-plzen-finish-first-in-uel-league-phase"
+ },
+ "0x297ff1d6d57ff00a00b58465d6bc35571ae079840b19ef1e2e8ceef85d308287": {
+  "created_at": "2026-11-18T21:35:16.733616Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Anthropic IPO closing market cap above $1.6T?",
+  "revisions": 1,
+  "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
+  "slug": "anthropic-ipo-closing-market-cap-above-1pt6t"
  },
  "0x2a5105d0670a46326c7f33c0352d68deff656d298d9183ba0cf800426b5b6a87": {
   "created_at": "2026-08-26T09:47:32.171995Z",
@@ -869,6 +879,7 @@
   "created_at": "2026-10-15T17:01:37.420673Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 3 - 2 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
@@ -941,6 +952,7 @@
   "created_at": "2026-10-15T17:01:04.51489Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 3 - 2 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -1619,6 +1631,7 @@
   "created_at": "2026-10-15T17:01:21.082354Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 4 - 0 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",

@@ -139,6 +139,7 @@
   "created_at": "2026-10-15T18:01:01.621489Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: CD Minera 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "4ba7ac26d8598b3316f302755202a63875b00d1593a5750586e37421965f104f",
@@ -233,6 +234,15 @@
   "revisions": 1,
   "sha256": "804f35d6e4f5e89334d902592d7c81f80fc42f01ad99e65f77fa7ef3fa2dd09c",
   "slug": "will-the-republican-party-candidate-win-the-2026-pa-14-house-election-by-5-15"
+ },
+ "0x210272c4ff116dc6589fc7e403e8c7a05d1c4d648911ab3db33483b1fb780c8f": {
+  "created_at": "2026-11-18T19:51:44.206446Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Jeremy Strong win Best Supporting Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "8659894cda157dbe70efa40b0afc0402af5f1a8dbef1828da039934be8f74d6b",
+  "slug": "will-jeremy-strong-win-best-supporting-actor-at-the-32nd-critics-choice-awards"
  },
  "0x2438cd58efb9b64117ae559e9b725a11232e49d978ba304c13e271bcdd5acf8f": {
   "created_at": "2026-07-30T19:57:26.710988Z",
@@ -1714,6 +1724,7 @@
   "created_at": "2026-10-15T17:02:01.445526Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Reus FC Reddis 5 - 1 Barakaldo CF?",
   "revisions": 1,
   "sha256": "4aa73e93559ff7cf3d3a50f4c323c80ea4af4f633397de11d9fe171edd26b5ee",

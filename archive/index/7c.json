@@ -97,6 +97,7 @@
   "created_at": "2026-10-15T17:01:04.715344Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 2 - 4 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -160,6 +161,7 @@
   "created_at": "2026-10-19T15:50:20.761994Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Dota 2 patch 7.42 released by December 31?",
   "revisions": 1,
   "sha256": "6b783d22facf2a4733bd1696c849f2ef3d15c19723a74aba8b3151c6294b7b9f",
@@ -363,6 +365,7 @@
   "created_at": "2026-10-15T17:01:38.156825Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 3 - 5 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
@@ -381,6 +384,7 @@
   "created_at": "2026-10-15T18:01:46.627353Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CD Tenerife (-3.5)",
   "revisions": 1,
   "sha256": "a5041fa6bfdf921f0c47c21be7501743f3787cbbc5a5a09875d82fa1d586be0f",
@@ -848,6 +852,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-alex-debrincat-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0x85bfd3ed88fb2c473622eeb2e8d985f85bd825c1e2fcef8fcb269a43adca427c": {
+  "created_at": "2026-11-18T18:17:01.012924Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Baltimore Orioles?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-baltimore-orioles"
  },
  "0x86c99147eb9a336b7c671d96309c090ede7302c9e20ab001e5a307ff5ba3c37c": {
   "created_at": "2026-09-08T19:55:42.939417Z",
@@ -1406,6 +1419,15 @@
   "revisions": 1,
   "sha256": "c1167c0c6b2a61baa3e28a0741724de69cb4f47c6b695b354603e4c5ad32dae2",
   "slug": "will-marseille-finish-top-8-in-uel-league-phase"
+ },
+ "0xca12e998a6577eedaba2f74e43a26abccb1d5ab91d3e23cbb9f7527dd3acfb7c": {
+  "created_at": "2026-11-18T19:51:46.779369Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Colman Domingo win Best Supporting Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "8659894cda157dbe70efa40b0afc0402af5f1a8dbef1828da039934be8f74d6b",
+  "slug": "will-colman-domingo-win-best-supporting-actor-at-the-32nd-critics-choice-awards"
  },
  "0xcb3ca77e93dcc8b122de3dc5ff3db8f4bbc25d77f71e58aee2f83ae6142ca17c": {
   "created_at": "2026-09-18T00:14:48.008777Z",

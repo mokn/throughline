@@ -211,6 +211,15 @@
   "sha256": "f69ba0bd61cb065dd3b5e9111fe49c6ddbfc18f7601596a3865f14f2f28a8632",
   "slug": "will-donald-trump-jrpt-be-the-first-listed-republican-to-announce-a-run-for-president-in-2028-20260721150657429"
  },
+ "0x2431d4f64f72ada4c92da9236029fc4087075b222a572f38f6b90c8a11082492": {
+  "created_at": "2026-11-18T21:07:38.740925Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Croatia be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-croatia-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x280dccc43cc920a7f62c41d6223c5ae6ca0441aa7d307b586a415056d2639392": {
   "created_at": "2026-10-14T13:21:44.22092Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -519,6 +528,7 @@
   "created_at": "2026-10-15T17:02:05.949829Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 4 - 0 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -674,6 +684,7 @@
   "created_at": "2026-10-15T18:02:13.384868Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: O/U 2.5",
   "revisions": 1,
   "sha256": "eb1a91fe24e806f8534f3e7374aa39ca46d0d2ec0999a7bd36b03fdff1a4c47e",
@@ -1358,6 +1369,7 @@
   "created_at": "2026-11-14T02:42:18.374037Z",
   "first_seen": "2026-11-14T13:31:33Z",
   "last_changed": "2026-11-14T13:31:33Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the next Gemini model family be named Gemini Barium?",
   "revisions": 1,
   "sha256": "10473fbe18660f884f5a9f2b0081cb97883879c021939e04eea900ff40525204",
@@ -1463,5 +1475,14 @@
   "revisions": 1,
   "sha256": "cfa2500b47a5aa3a3eb19aa5f952e1b7f2ec4355c00b4244b95694f9d29349fa",
   "slug": "nba-teams-30-plus-wins-2026-27-detroit-pistons"
+ },
+ "0xff9b14320f4672edd88a561fb21a48928570e026ec8ae3cd1269aacea0691992": {
+  "created_at": "2026-11-10T02:14:56.510112Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Mike Gallagher be the next CEO of NVIDIA?",
+  "revisions": 1,
+  "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
+  "slug": "will-mike-gallagher-be-the-next-ceo-of-nvidia"
  }
 }

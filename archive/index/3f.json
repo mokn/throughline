@@ -544,6 +544,15 @@
   "sha256": "918774cd04d9a3512a486e46cf2ce3fccdc70de1e95cbb5c80a4b2b0a05f8b3c",
   "slug": "por-est-csm-2026-11-08-total-0pt5"
  },
+ "0x4bafccf5f922932f6d7103f9062709e4dd26c60f0f5f3c781a1dfdae78b1a53f": {
+  "created_at": "2026-11-18T17:40:48.828937Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report between 18 million and 21 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-18m-to-21m"
+ },
  "0x4bf9474fb583c9fe245530324097ece143b25cabc17e0d1ac98d152b4e98663f": {
   "created_at": "2026-09-18T00:09:51.110145Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -952,6 +961,7 @@
   "created_at": "2026-10-15T18:00:58.173025Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: O/U 7.5",
   "revisions": 1,
   "sha256": "41873b9cead5768fb67149362935ca6331373342acd45787951fb2a1ea8bbb3c",
@@ -1112,6 +1122,15 @@
   "sha256": "19694aff7cd94e7e2f472865d6d44217c4054c3aad9818a46c558918fc6d3bb9",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-15-house-election"
  },
+ "0x90c9dcfdbe9bef062275cbbbbfa83a6e85ee74589497b651a774d89a5ee9223f": {
+  "created_at": "2026-11-18T21:08:03.307892Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Ukraine be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-ukraine-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x920cd9894a93b929958e98d09633d9449e5722f57267193c9fb688d1f884763f": {
   "created_at": "2026-10-24T11:30:23.394381Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1208,6 +1227,7 @@
   "created_at": "2026-10-15T18:02:36.890024Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: O/U 6.5",
   "revisions": 1,
   "sha256": "49f9ed2518d93cbf1a79fed9fc2b0a097a8737371dc1066d4c70a6c790657a28",

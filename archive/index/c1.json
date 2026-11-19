@@ -423,6 +423,15 @@
   "sha256": "9d1c07c6f596a38ededdd47bcb2f603c3331a61ec7cc356aba95e60acb4cc336",
   "slug": "will-katie-zacharia-give-another-press-briefing-as-press-secretary-20261013155748738"
  },
+ "0x4a1ee2af0a454ec2367fdf656fcebf3bcf036454051578476b3ea67ec8cf05c1": {
+  "created_at": "2026-11-18T18:17:39.055717Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Washington Nationals?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-washington-nationals"
+ },
  "0x4a23db73818d25c3e43d8dc2ad8a607b68e536f0edbe07a63c7bc7dce5b225c1": {
   "created_at": "2026-09-02T20:51:40.242668Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -570,6 +579,15 @@
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-ewandro-record-the-most-assists-in-the-2026-27-uefa-europa-league"
  },
+ "0x61e5b18738037ce061d31edbffc58483df22139273817136a9f1a6b1c4bba4c1": {
+  "created_at": "2026-11-18T19:51:36.132213Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Mason Reeves win Best Actress at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
+  "slug": "will-mason-reeves-win-best-actress-at-the-32nd-critics-choice-awards"
+ },
  "0x653d2da7d196129617ee970f34620a3bf939316972c7897a3c837caaf66058c1": {
   "created_at": "2026-08-24T16:40:37.114122Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -605,6 +623,15 @@
   "revisions": 1,
   "sha256": "397fdb1bdc4c13e1e5a889e18d7a523b17ada9097a10d8f4da85a8d6b78d5f01",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-20-house-election-by-25-30"
+ },
+ "0x681d40391b11e697f05473c6470dc5c16328c3fd35e7933c9ff9405a263865c1": {
+  "created_at": "2026-11-18T21:07:39.35485Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Finland win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-finland-win-the-public-vote-for-eurovision-2027"
  },
  "0x68d8c5b034ee224ed37b239c991f9b851b97ce080a367721de4fdabbb6d9a4c1": {
   "created_at": "2026-08-11T19:04:25.101764Z",
@@ -756,6 +783,7 @@
   "created_at": "2026-10-15T17:00:58.844291Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 5 - 2 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
@@ -965,6 +993,7 @@
   "created_at": "2026-10-15T18:01:51.061763Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: CD Badajoz O/U 5.5",
   "revisions": 1,
   "sha256": "d6fd14ff5619e9984e4e76a721a395b1d48abf64782f1943b38c7cc9cc9d7141",
@@ -1089,6 +1118,15 @@
   "sha256": "4fd2bfb86abee8d9c21359c5b31676934c4dee866480fe2a5b4a5a6c3457f4db",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-24-house-election"
  },
+ "0xa68f1ecd37f3f9e0253c9769727206b554a9c51dda4f9fa7bc4bfc02b61ac1c1": {
+  "created_at": "2026-11-18T17:40:49.248818Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report between 21 million and 24 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-21m-to-24m"
+ },
  "0xa73121542371b3a31c01f848cfee51c4f4f53b7f915a3bf4b411bf99d1510cc1": {
   "created_at": "2026-08-11T18:34:11.320924Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1163,6 +1201,15 @@
   "sha256": "085422841e472c4c27e5e74b541f079e256fd40372af4a3d1fe1a9a9396361ab",
   "slug": "will-pep-guardiolas-next-job-be-juventus"
  },
+ "0xb35913ded353e7508f71977a51d160874fdf812d618a8b10229c535c379577c1": {
+  "created_at": "2026-11-18T21:07:30.095427Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Armenia be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-armenia-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0xb4dbdb9f72e2ff3637c46e71f713a74a68b44538e6499dc20a6fa0c7c039a6c1": {
   "created_at": "2026-09-27T20:02:20.117065Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1221,6 +1268,7 @@
   "created_at": "2026-10-15T18:00:59.039915Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera vs. FC Cartagena: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "0409d8c42e231dc766b3cbfab69241f24416de68ea6fa3217f33f926a4c7ae2d",

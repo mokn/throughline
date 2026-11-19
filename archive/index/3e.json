@@ -91,6 +91,15 @@
   "sha256": "4b7d2cae40c1a31ad2d840f5218b77e27c7f45ad0bdac333b9cc8dbf03fda925",
   "slug": "will-quinshon-judkins-finish-as-a-top-5-rb-in-the-2026-27-nfl-season"
  },
+ "0x1338137fce45744dd4261a136633cd93ebdd1ef0aa1de780939ad50ff8d1283e": {
+  "created_at": "2026-11-18T18:17:24.052727Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be New York Yankees?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-new-york-yankees"
+ },
  "0x1a5b898bbfa1e697c19afeef356d9c1a6ecb95d2493c31524d3c75f16f782c3e": {
   "created_at": "2025-10-09T19:56:31.226237Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -284,6 +293,15 @@
   "sha256": "2508328ad944e040bfbd048e05575e4f55588c03b5bd90860824b54ff8bf460d",
   "slug": "el1-not-bla-2026-09-26-second-half-total-4pt5"
  },
+ "0x2f40d44c8725e44413a0654dd9fb81527368ef480f4ac2fbe6145c1abc22743e": {
+  "created_at": "2026-11-18T21:29:52.765846Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Alegra Jaho win Festivali i K\u00ebng\u00ebs 65?",
+  "revisions": 1,
+  "sha256": "22dada49fcf92abbb6833141e627c1ca188efea49ae5c9809fbad9e9f11272ec",
+  "slug": "will-alegra-jaho-win-festivali-i-kenges-65"
+ },
  "0x30cb08f6d4476580db7f688688ed10396c4cc6468ae30f3bb87a4a052e1fb53e": {
   "created_at": "2026-10-02T16:08:26.474407Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -360,6 +378,7 @@
   "created_at": "2026-10-15T17:02:07.001281Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -416,6 +435,7 @@
   "created_at": "2026-10-15T17:02:06.128673Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 3 - 2 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -498,6 +518,7 @@
   "created_at": "2026-10-15T13:14:23.652075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Walmart (WMT) Q3 US eCommerce sales growth 25% to 29%?",
   "revisions": 1,
   "sha256": "0613f9a145c3cdbe124adb56dc9e0a9b78f9fd05dda36cb127896c2037ab7daf",

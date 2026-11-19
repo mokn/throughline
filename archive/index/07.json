@@ -541,6 +541,7 @@
   "created_at": "2026-10-15T18:02:16.67196Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: RCD Mallorca O/U 0.5",
   "revisions": 1,
   "sha256": "8fa3e831fc28e83d2be0af2450fdb4f442eb8c83d8fc16674a47d43e9ff940ce",
@@ -559,6 +560,7 @@
   "created_at": "2026-09-17T23:51:14.483862Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Cody Johnson win Entertainer of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "719e695fc5d46257f40e3b7172061b0a904af886e3d545f96824487f85539767",
@@ -914,6 +916,15 @@
   "revisions": 1,
   "sha256": "d16da4c904f2657073e98d90d54e46175bdd8f087eff4f60bc64d0e3c384fa72",
   "slug": "will-brandon-johnson-be-arrested-before-2027"
+ },
+ "0x95cc5954a8952982850dddda5d812cc121c086c93545dbdc23dec05687284007": {
+  "created_at": "2026-11-19T15:47:51.646715Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will none of these streamers finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-none-of-these-streamers-finish-gta-vi-by-december-31-2026"
  },
  "0x95f4f7f13b677b55315ec4a9759eefa6a6a9573a7d62a2c31c2b3551c3c93107": {
   "created_at": "2026-08-10T15:45:36.9372Z",

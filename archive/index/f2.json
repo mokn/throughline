@@ -30,6 +30,7 @@
   "created_at": "2026-11-12T20:55:54.226186Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Anthropic not IPO by December 31, 2027?",
   "revisions": 1,
   "sha256": "ecfe7f994bb7704ef970912a1d8aa094412e754f4ea7ef60c882ab69f1084400",
@@ -129,6 +130,7 @@
   "created_at": "2026-10-15T18:02:15.123199Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "7bbc1847877d53d956e2a171234922e36b099faf134d49b18ce763796ed18af9",
@@ -284,6 +286,7 @@
   "created_at": "2026-09-04T04:07:33.766026Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will primmie play for T1 in 2027?",
   "revisions": 1,
   "sha256": "06163aaa56edf14ca69f811a15b656b6869c4aece9fa5b39eb77eb28bd572d28",
@@ -554,6 +557,15 @@
   "sha256": "0a9abbcc7d2463687564ed0498960812db9f268e066417d9b1d494f1f640d01e",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-04-house-election-by-30-35"
  },
+ "0x5b8a5803cc5d48f7fe8a8ac942d0d8da513efd5e8b0424dd014cf80c3d9959f2": {
+  "created_at": "2026-11-18T19:31:29.04884Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will David Lisnard receive between 10% and 13% of the vote in the first round of the 2027 French presidential election?",
+  "revisions": 1,
+  "sha256": "c2c1485b42f8fb8ff19eba3b78d30d5e1044bf0acacf5132d19ea0de2eaaf0a9",
+  "slug": "france-first-round-vote-share-david-lisnard-10-13"
+ },
  "0x5bf1ba7feaf3f04f4b699cd7ae65d9fc526325415cb66e877cbd30873215f3f2": {
   "created_at": "2026-08-07T20:29:55.419375Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -764,6 +776,15 @@
   "sha256": "117e181e3b43d7cd85a75ec1c66f3d8e905f7dac571e2b0b906090c753638bf6",
   "slug": "will-rodez-af-finish-3rd-in-ligue-2-2026-27"
  },
+ "0x7cb7507ec0e5b047b36c35117b82163079230a4745940dd70f3e6844dda6d4f2": {
+  "created_at": "2026-11-18T18:16:41.423536Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Osasuna lead LaLiga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "61aed669e4ef76ce73017fd3c4902abbf3140b366e324da069f06e3716ffbee6",
+  "slug": "will-osasuna-lead-laliga-at-the-2026-27-winter-break"
+ },
  "0x802d0c3d42ef036c3625f296ef8267663f14c0a2f68b031a4dba7b39e614a8f2": {
   "created_at": "2026-08-05T18:43:15.737615Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -832,6 +853,7 @@
   "created_at": "2026-10-15T18:01:07.313914Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "a9cf713ad53ea926e4246b002a17e5c383ea0b91ec65a2ce6d30e97aaa9f870a",
@@ -1195,6 +1217,7 @@
   "created_at": "2026-10-15T18:01:49.510826Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "434f69d22fdbf9216c3eb820ec40db15f33b2ae0fa0ba25090541da22aa68714",
@@ -1227,6 +1250,15 @@
   "revisions": 1,
   "sha256": "2c046d3975fac62dcd40d7644730b9a49da73d76387b3acfa006f140955d7354",
   "slug": "2027-womens-college-basketball-national-champion-lsu"
+ },
+ "0xc20de3e3413ae15d797be59da736509dc134be3b4cb38a460d1f56c05b6709f2": {
+  "created_at": "2026-11-18T21:07:25.463411Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Israel come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-israel-come-in-2nd-place-at-eurovision-2027"
  },
  "0xc2386a6c7e621b3d305b69d3bc079aa052f2aa3e48ffa8e7b796ab5d260de2f2": {
   "created_at": "2026-08-10T23:57:02.587203Z",

@@ -258,6 +258,15 @@
   "sha256": "b698f2a66aacb47f446854d756cb105073cea07b03637234d81e8f0bdce6d6f7",
   "slug": "will-the-republican-party-candidate-win-the-2026-ia-02-house-election-by-12-or-more"
  },
+ "0x2b05fdf5f7070f922d7340d8d6c967f661db1879e40a9b6d0b22690960f40a45": {
+  "created_at": "2026-11-18T21:20:55.703783Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will OLLIE win Eesti Laul 2027?",
+  "revisions": 1,
+  "sha256": "46c106aa702eb18cb88a5d96df05fe0fcd80894a9f89d9e1cb75c2a19fb66623",
+  "slug": "will-ollie-win-eesti-laul-2027"
+ },
  "0x2c8393b0f5390a91c2bb58e95fb0b7758e73f80665961705f42a5da4f2f7a845": {
   "created_at": "2026-09-04T19:50:04.293769Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -375,6 +384,15 @@
   "revisions": 1,
   "sha256": "9762e425598deb8843640757888682027db4e77a0b1f2feecfa7aee051b1f342",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-34-house-election-by-0-3"
+ },
+ "0x3c6f67704734e8819d69daca738c1bf3ca04e5126a4efc39cf209a182ce9e645": {
+  "created_at": "2026-11-18T19:38:34.587129Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will \"GTA VI: The Album\" first week sales be at least 250k?",
+  "revisions": 1,
+  "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
+  "slug": "will-gta-vi-the-album-first-week-sales-be-at-least-250k"
  },
  "0x3d77e220649e0aa380867278391e344e595859a5fc2e220c3a517bc310d65e45": {
   "created_at": "2026-09-02T21:57:49.99828Z",
@@ -1192,6 +1210,7 @@
   "created_at": "2026-10-15T18:02:11.640907Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: RCD Mallorca (-2.5)",
   "revisions": 1,
   "sha256": "bf5741a218448e67ddff639c391894f2b172ba4b4fa504afd7e5d951d94c80a0",
@@ -1498,6 +1517,15 @@
   "revisions": 1,
   "sha256": "dff77c192d77c7615e35e04d57cdd426550e4b6b1cd396a46b58dab96b54a758",
   "slug": "will-minimax-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-december-2026"
+ },
+ "0xe5b59810c465eb8b21fc34899f13a55eb3212e14bc3a816c606876cf5e206145": {
+  "created_at": "2026-11-18T21:07:40.954235Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Serbia come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-serbia-come-in-3rd-place-at-eurovision-2027"
  },
  "0xe8560fef4526510f1c6c92b9153b2906be86b2c7ea8e66e9d85f35885c7a0045": {
   "created_at": "2026-08-11T14:18:41.035685Z",

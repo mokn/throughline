@@ -174,6 +174,15 @@
   "sha256": "bc536b6b2f6460344fac2529556e22ea593987120a5d8d8f2e115973e4e5f7d8",
   "slug": "will-brendan-allen-fight-dricus-du-plessis-next"
  },
+ "0x1d3c563647e2e44e28e6a0d8e89b0e962328877dce949f33788f2a1c7c1627fd": {
+  "created_at": "2026-11-18T21:08:02.826975Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Switzerland be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-switzerland-be-the-jury-winner-in-the-eurovision-2027-grand-final"
+ },
  "0x20a5be2b9fe7fc1123ac58cb12b3826f45b3b4eb4d9a4456bde8be204f25f4fd": {
   "created_at": "2026-10-09T16:32:47.617598Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -425,6 +434,7 @@
   "created_at": "2026-11-12T20:55:53.524927Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Anthropic sell 900M or more shares in its IPO?",
   "revisions": 1,
   "sha256": "ecfe7f994bb7704ef970912a1d8aa094412e754f4ea7ef60c882ab69f1084400",

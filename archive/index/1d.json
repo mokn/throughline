@@ -303,6 +303,7 @@
   "created_at": "2026-10-15T17:02:06.714272Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 3 - 5 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -974,6 +975,15 @@
   "revisions": 1,
   "sha256": "2e3c97df497600a521d9c93c591536485464a58d4fa1df29323bce749f5b7d3a",
   "slug": "will-the-republican-party-candidate-win-the-2026-va-06-house-election-by-15-20"
+ },
+ "0x87bb1e60c0bd68fd5c09d642668c2589165375133ca5c7a2d4376443fa48e01d": {
+  "created_at": "2026-11-18T21:07:47.203094Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Romania win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-romania-win-eurovision-2027"
  },
  "0x8aca984ca59531560394641826e9e5156e4518eb8901d0517bebae4c74fdce1d": {
   "created_at": "2026-09-13T08:45:34.026048Z",
@@ -1746,5 +1756,14 @@
   "revisions": 1,
   "sha256": "612577467fcea908a82e9784d02f825bb44ec9bd990c1d2157b88e82054bf052",
   "slug": "will-gimhae-fc-2008-be-promoted-to-k-league-2026"
+ },
+ "0xffe437a3fbf91ca46663b0ef06d61559c151310238bd84e7d7ebba0c5bb7b81d": {
+  "created_at": "2026-11-18T21:07:24.110911Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Albania be the Jury Winner in the Eurovision 2027 Grand Final?",
+  "revisions": 1,
+  "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
+  "slug": "will-albania-be-the-jury-winner-in-the-eurovision-2027-grand-final"
  }
 }

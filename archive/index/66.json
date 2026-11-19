@@ -62,6 +62,15 @@
   "sha256": "a2de755edd0da5702fe8d50823deac0d9fa8af90b37e540cac0855af7bd2108c",
   "slug": "will-kauno-zalgiris-score-the-most-goals-in-the-uecl-league-phase"
  },
+ "0x0922de0142fa90f1ff2c6c293470302a286e4488eb630856bc4212c7ffd22666": {
+  "created_at": "2026-11-19T15:47:36.613063Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Windah Basudara be the second of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "1d880ec34acf88b3801abcfeacb1db56ba0753146074bae220419d92696808ee",
+  "slug": "will-windah-basudara-be-the-second-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
  "0x099cbaafa0dbf6bf4ce32e9257753ef8d1695252ee66257297c40eed5d516766": {
   "created_at": "2026-06-11T16:51:28.006745Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -370,6 +379,15 @@
   "sha256": "3b0b458c80f28d407f04d1dbd9b3366c19b7b32365c26188d8466a06dfe1b19a",
   "slug": "will-xiaomi-be-the-third-best-ai-agent-lab-at-the-end-of-november-2026"
  },
+ "0x2f112a4ff0b74473ae04aa05d6b4f0aaa2cff34402efb312ded5e1cd5ccde966": {
+  "created_at": "2026-11-18T21:07:47.633546Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will France be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-france-be-in-the-top-5-at-eurovision-2027"
+ },
  "0x2f422ed9f0482c97fc8cfb2dca48f9afade5fcdc6d681b28d7cddc6e5df78466": {
   "created_at": "2026-10-31T11:30:42.372952Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -396,6 +414,15 @@
   "revisions": 1,
   "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
   "slug": "265-269-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
+ "0x30e8ee605f35872348d2ce212fb2b2ac3e1d4bfd0d2dc83db72e88bb0dccfa66": {
+  "created_at": "2026-11-18T21:07:30.010856Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Montenegro come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-montenegro-come-in-2nd-place-at-eurovision-2027"
  },
  "0x320840959cb2a69979737fff9bacfc3653656bedb510b7f24ae170f2f9f47b66": {
   "created_at": "2026-10-31T11:30:29.874992Z",
@@ -511,6 +538,7 @@
   "created_at": "2026-10-15T18:01:06.707939Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "c2be9a8a2222164287e16c909ce278fea573f6b5b9fd0b4d368a7e9498c94a40",
@@ -1084,6 +1112,7 @@
   "created_at": "2026-10-15T18:02:38.131206Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Club Portugalete vs. Real Uni\u00f3n Club: 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "c204957dffd3009d2cf1911f02b4ac2fa319ba561db0333f364e5d3c6164d2d7",
@@ -1303,6 +1332,7 @@
   "created_at": "2026-09-23T17:26:55.733793Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for Hanwha Life Esports in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",

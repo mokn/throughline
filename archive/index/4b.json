@@ -275,6 +275,7 @@
   "created_at": "2026-10-15T18:01:05.16354Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Reus FC Reddis vs. Barakaldo CF: O/U 1.5",
   "revisions": 1,
   "sha256": "38af2ca7f3a6a4e73478fc11745cd4d1ee297ab9cca79ce617670211fda061aa",
@@ -863,6 +864,7 @@
   "created_at": "2026-10-15T17:01:37.359143Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Badajoz 2 - 3 CD Tenerife?",
   "revisions": 1,
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
@@ -1245,6 +1247,15 @@
   "sha256": "daa47f6aa5b97d20e3c34c58e0bf69477579b487bb07ec60b33abd0dcbfe1a61",
   "slug": "will-primetime-win-best-motion-picture-musical-or-comedy-at-the-84th-golden-globes"
  },
+ "0xc72774d94c071c0354104363c380f3fac92baec02f6b567479f3551c2acdfe4b": {
+  "created_at": "2026-11-18T17:40:46.906155Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report less than 9 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-less-than-9m"
+ },
  "0xc9fccf87af2cb430cf5f97b5c25a6653f662c6bc8372fcaeece922f21f43ae4b": {
   "created_at": "2026-06-26T21:49:05.036888Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1514,6 +1525,7 @@
   "created_at": "2026-11-02T21:05:31.235816Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Alexandria Ocasio-Cortez be the next House Majority Leader?",
   "revisions": 1,
   "sha256": "51965843a44cb5fc21f88721c84656532d8876f8719a88e056d7e66ee3d44a2a",

@@ -390,6 +390,15 @@
   "sha256": "12338eb608824b08eb9a332c46bedc3275280cfaf9a8f9f012b015686d8a952c",
   "slug": "gavin-newsom-2028-presidential-odds-leader-on-november-30"
  },
+ "0x3f154a702a4cc35b48b2dc92bf519c4ac769e99cef9f8af657c792bf641a3939": {
+  "created_at": "2026-11-18T21:07:37.445077Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Cyprus win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-cyprus-win-the-public-vote-for-eurovision-2027"
+ },
  "0x3fa149ece67eba8a322209cfa94ea213b37ae8a8f9dc55bcd4ba79af0f3d4439": {
   "created_at": "2026-10-25T04:00:23.013137Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -935,6 +944,15 @@
   "sha256": "5522a374dd36bd0d4c0fbdef5807fc42d10b9d10ad15af3580ef5c7f78b13887",
   "slug": "el2-wal-cra-2026-10-03-total-3pt5"
  },
+ "0x9a3c5e3b063c0afae72e13d5c8179c376ae9a839982557e5ed01a041873e7739": {
+  "created_at": "2026-11-19T15:47:48.612571Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will N3on be the first of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-n3on-be-the-first-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
  "0x9a3ced6c422904e09cb6d1da8cec63ed4a498d7ff82a46a7aa2ef8d7966b5139": {
   "created_at": "2026-09-27T20:09:19.988007Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1177,6 +1195,7 @@
   "created_at": "2026-11-14T02:42:16.780769Z",
   "first_seen": "2026-11-14T13:31:33Z",
   "last_changed": "2026-11-14T13:31:33Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will the next Gemini model family be named Gemini Neon?",
   "revisions": 1,
   "sha256": "10473fbe18660f884f5a9f2b0081cb97883879c021939e04eea900ff40525204",
@@ -1435,6 +1454,15 @@
   "revisions": 1,
   "sha256": "0861b0917557ce5a0ed6c49a96f98e143913679ae466f13d386ea5eaf6cc3f3c",
   "slug": "will-pnv-win-exactly-4-seats-in-the-2026-spanish-general-election"
+ },
+ "0xf08a7ae92e64722e9e928078b0ace3b5b02eb548689b301dc7f44feebea09239": {
+  "created_at": "2026-11-18T18:17:29.019876Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be St. Louis Cardinals?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-stpt-louis-cardinals"
  },
  "0xf11606649c2f2e4d6f795e4e2306ea89d9d12a99976e219c87b4c23f805a5839": {
   "created_at": "2026-06-26T20:47:33.496546Z",

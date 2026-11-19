@@ -139,6 +139,7 @@
   "created_at": "2026-10-15T17:02:07.968585Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "FC Cartagena to score first vs. CD Minera?",
   "revisions": 1,
   "sha256": "f95edd7c6232283c00edc42bf21d809c92b32b07ae1dc721f2c66b48eaca2549",
@@ -569,6 +570,7 @@
   "created_at": "2026-10-15T17:01:03.424977Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 0 - 1 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -847,6 +849,15 @@
   "sha256": "c68f80fb6a732ff55972be1b72692465c9ec73f689374b5e497716c3537fde74",
   "slug": "will-lillestrom-finish-the-uel-league-phase-with-the-best-goal-differential"
  },
+ "0x6e7d0b41a2b31f0ae7afecd82257ea363d45a9c7af4affb4484597868d00b3a2": {
+  "created_at": "2026-11-18T18:16:31.739193Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will FC Schalke 04 lead the Bundesliga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "1c25d8ad2923e71afd3ff8177710b41757502d9158ee670ada313e3d483b456e",
+  "slug": "will-fc-schalke-04-lead-the-bundesliga-at-the-2026-27-winter-break"
+ },
  "0x6f14538957e0818c9b89f92cebc7b8021643b08d648e421f9d67ae548f32d9a2": {
   "created_at": "2026-05-27T21:15:50.375352Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -902,6 +913,15 @@
   "revisions": 1,
   "sha256": "c39995b81026889ab38537f9b279ba8820b8630638ae057bbfcb695384bf877d",
   "slug": "will-fredrikstad-finish-3rd-in-norway-eliteserien-2026"
+ },
+ "0x76fdc0359e6bfed42e5addc73634d37d0315168d77c7519e3be8337b5d5289a2": {
+  "created_at": "2026-11-18T21:07:55.914556Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Moldova be in the top 5 at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
+  "slug": "will-moldova-be-in-the-top-5-at-eurovision-2027"
  },
  "0x773dbb09f7595cca93d86d3ae38eed5318859092693f8d0579f14720e1e63fa2": {
   "created_at": "2026-11-12T20:20:12.852321Z",
@@ -966,6 +986,15 @@
   "revisions": 1,
   "sha256": "0ed4bbd3e337c88f73286cd4a6a816a7101297712901ada21704914b528cf286",
   "slug": "will-the-stpt-louis-blues-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657097"
+ },
+ "0x7cca7abfc3f1bd9f5e6745c66beba6bfdef37c901f8a24ceb6a360c82dbfa6a2": {
+  "created_at": "2026-11-18T18:51:37.174805Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Andy Beshear win the 2028 presidential election?",
+  "revisions": 1,
+  "sha256": "17ef098ce498f1d1de7a00b11bae45af02e0ecf49189ca43f4b90682ce6977d5",
+  "slug": "will-andy-beshear-win-the-2028-presidential-election-path"
  },
  "0x7de6283ea9dbf95b3e377566bc0145be808406f2d7aa57271736b10bf50261a2": {
   "created_at": "2026-08-07T20:16:49.466289Z",
@@ -1042,6 +1071,15 @@
   "revisions": 1,
   "sha256": "eb5ba77039e2cc468718ef6c9619744238371b91897f8da644c60743b9f2057b",
   "slug": "will-anwar-ibrahim-cease-to-be-prime-minister-of-malaysia-by-december-31-2026-20260625163926548"
+ },
+ "0x8635ded4e6e018e1acdbec98424e23ca67fb579edf9fe65673caa9008db029a2": {
+  "created_at": "2026-11-18T18:16:37.022537Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will VfB Stuttgart lead the Bundesliga at the 2026-27 winter break?",
+  "revisions": 1,
+  "sha256": "1c25d8ad2923e71afd3ff8177710b41757502d9158ee670ada313e3d483b456e",
+  "slug": "will-vfb-stuttgart-lead-the-bundesliga-at-the-2026-27-winter-break"
  },
  "0x887e438b33d47f26d39c422d5a086411b7d5e43e50a24c99645f854071dd2ba2": {
   "created_at": "2026-09-02T18:48:54.187418Z",
@@ -1261,6 +1299,15 @@
   "sha256": "af580f6e24e481b7fb249344673d3f0f75da3decf65be8face22d5b5772e133c",
   "slug": "will-farul-constanta-be-relegated-from-romania-superliga-2026-27"
  },
+ "0xa077bcf406db5cd4b7099b6a17b9550bb2ef2ab34edc37ecf0b9febade755da2": {
+  "created_at": "2026-11-18T19:51:47.196481Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Channing Tatum win Best Supporting Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "8659894cda157dbe70efa40b0afc0402af5f1a8dbef1828da039934be8f74d6b",
+  "slug": "will-channing-tatum-win-best-supporting-actor-at-the-32nd-critics-choice-awards"
+ },
  "0xa07d54cfddaad7e7d4c0b441901e3b91d70390fdf10e6674922b1a4f217cf0a2": {
   "created_at": "2026-09-09T22:10:21.615669Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1453,6 +1500,15 @@
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-flandre-have-the-most-kills-at-worlds-2026"
+ },
+ "0xbcd4aaba459d8890e46911f42b28a622fd781da046c6bf9dde0dcc9d6a4fdfa2": {
+  "created_at": "2026-11-18T18:50:40.270125Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Alexandria Ocasio-Cortez win the 2028 presidential election?",
+  "revisions": 1,
+  "sha256": "f145472826480aedaf7b0f688108e1b03baeb4ab258b52e0a3026d16235a9d67",
+  "slug": "will-alexandria-ocasio-cortez-win-the-2028-presidential-election-path"
  },
  "0xbd216f9afdd58fdcd853afff726691cf13b33d12a89877963182e9ecf8abd3a2": {
   "created_at": "2026-08-24T16:34:27.947259Z",

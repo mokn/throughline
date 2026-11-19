@@ -406,6 +406,7 @@
   "created_at": "2026-10-15T18:02:42.720311Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: CE Sabadell FC (-1.5)",
   "revisions": 1,
   "sha256": "32b0c486cf6f16c4c8cf0e7e9fdbecb8e62066e2c6db1c4e0d6c82bf4a6728a8",
@@ -555,6 +556,15 @@
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
   "slug": "scop-ran-abe-2026-10-31-exact-score-3-5"
+ },
+ "0x45e82521707e2dbf53b1e3af0df693049105ebbe318350cda82d3ff4cbfd7481": {
+  "created_at": "2026-11-19T15:47:46.105451Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will DjMaRiiO be the first of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-djmariio-be-the-first-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
  },
  "0x47a1b7c00ee8984200ffcce471182fd937203bd4f4e3eacdddec7774e2d83281": {
   "created_at": "2026-08-24T16:38:15.974003Z",
@@ -745,6 +755,15 @@
   "revisions": 1,
   "sha256": "69761543ddf6e385f1b7874f7dbc861b8240eb023d4b877047ef95c18df6581e",
   "slug": "will-the-season-series-between-the-panthers-and-buccaneers-end-in-a-tie-during-the-2026-27-nfl-regular-season-20260717194041985"
+ },
+ "0x6fcc8efeeeb4d0ba60ac16a2015bd3fd50dbb714cc96c81b9da0d8358a9f5781": {
+  "created_at": "2026-11-18T21:20:57.85879Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Zetod feat. hellika win Eesti Laul 2027?",
+  "revisions": 1,
+  "sha256": "46c106aa702eb18cb88a5d96df05fe0fcd80894a9f89d9e1cb75c2a19fb66623",
+  "slug": "will-zetod-feat-hellika-win-eesti-laul-2027"
  },
  "0x700282298a8db32e8c21cb0292471fadc175667a5928007e5ecfd45dcdf53681": {
   "created_at": "2026-08-21T17:37:07.815141Z",
@@ -1013,6 +1032,7 @@
   "created_at": "2026-09-23T17:26:57.121015Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Deft play for KT Rolster in 2027?",
   "revisions": 1,
   "sha256": "04e3795894b6c335d001287733503fdcd3e27f569ab214242bbb73e586f81637",
@@ -1094,6 +1114,7 @@
   "created_at": "2026-10-15T18:02:35.311649Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Spread: Club Portugalete (-4.5)",
   "revisions": 1,
   "sha256": "4116cd9e71c72f86a6c7f66900c75b12cac02622b0c1e6ec6acd9649e0f04198",

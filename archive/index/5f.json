@@ -523,6 +523,15 @@
   "sha256": "e9308f55c77b55f11c558a354f2ba80cc969aa398fbe47f2e6a5114ec6e86ad5",
   "slug": "will-the-democrats-win-north-carolina-in-the-2028-presidential-election"
  },
+ "0x43662ea30e923d93431102200a193c91362c4e48c9806ce8f0a71f6734dcab5f": {
+  "created_at": "2026-11-18T19:38:34.547231Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will \"GTA VI: The Album\" first week sales be at least 400k?",
+  "revisions": 1,
+  "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
+  "slug": "will-gta-vi-the-album-first-week-sales-be-at-least-400k"
+ },
  "0x440b2ce439d159e0891372c70c725a35bf7ce1112b1140832625116d8618615f": {
   "created_at": "2026-09-13T08:46:07.278049Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1298,6 +1307,15 @@
   "sha256": "e5dc67289dac10af66d47fbb178c8230e0841195e2e1ce50bad53a189afde3a8",
   "slug": "will-arvell-reese-win-the-2026-nfl-defensive-rookie-of-the-year-award-for-the-2026-27-nfl-season-20260716005218379"
  },
+ "0xabf1612018c9a1f5e038fb1deb55b85dd0db8af1023679c4d8421cff2c41f65f": {
+  "created_at": "2026-11-18T18:17:26.951252Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Teruaki Sato's next team be Pittsburgh Pirates?",
+  "revisions": 1,
+  "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
+  "slug": "will-teruaki-satos-next-team-be-pittsburgh-pirates"
+ },
  "0xad1aec1613c03601209eb3447ddfdec82cd97b75b70614a308a2e9b0e8f3b05f": {
   "created_at": "2026-10-20T01:09:36.55077Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1740,6 +1758,7 @@
   "created_at": "2026-10-15T17:00:59.029746Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Utebo FC 4 - 5 CE Sabadell FC?",
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",

@@ -140,6 +140,7 @@
   "created_at": "2026-11-02T21:05:28.308575Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Katherine Clark be the next House Majority Leader?",
   "revisions": 1,
   "sha256": "51965843a44cb5fc21f88721c84656532d8876f8719a88e056d7e66ee3d44a2a",
@@ -216,6 +217,15 @@
   "revisions": 1,
   "sha256": "b151fc07aa65618448072d4eb0bff1d10585eaebc5bcb21bc39b69bd36a39baf",
   "slug": "will-russia-enter-sloviansk-by-december-31-2027"
+ },
+ "0x2915f100b2b7ed81a1d28eec335118181eb12c07e827c120504f093624bdf8d2": {
+  "created_at": "2026-11-18T21:07:29.574763Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Germany come in 3rd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
+  "slug": "will-germany-come-in-3rd-place-at-eurovision-2027"
  },
  "0x29e17d5e6ec5d884673bc31002346d09ee8af03e33f99361bb9acd27403814d2": {
   "created_at": "2026-08-11T18:25:38.56575Z",
@@ -436,6 +446,15 @@
   "revisions": 1,
   "sha256": "c05a74ba8403fe2bf05da4b3e64616e059f8263a9592e1f9a84b22a1a18a47fd",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-01-house-election"
+ },
+ "0x44f89b4a4af8aa821e27d7ee6ec2914a70045b3907d03c082c96817802e797d2": {
+  "created_at": "2026-11-18T21:07:09.040797Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Armenia win Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
+  "slug": "will-armenia-win-eurovision-2027"
  },
  "0x45fe61df353a4193e929c5da12cfef4a10ba9f75e61cd38e6be3e8e9259b02d2": {
   "created_at": "2026-02-18T22:38:32.408427Z",
@@ -1268,6 +1287,7 @@
   "created_at": "2026-10-15T17:01:04.648984Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: Club Portugalete 1 - 5 Real Uni\u00f3n Club?",
   "revisions": 1,
   "sha256": "705408f18d9645634d792d12a8d6b9f8bade7c2cd6aa5ce32530abac7d686260",
@@ -1443,6 +1463,7 @@
   "created_at": "2026-09-17T23:52:39.850106Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will \u201cThe Fall\u201d by Cody Johnson win Single of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "6c935f3659d3f9cf70504fc73052bd7993553584b8fd6a76a6045af975df611a",
@@ -1601,6 +1622,15 @@
   "revisions": 1,
   "sha256": "e93be0f5fc74a200f2fb94c98c517404939483d185bdc22bedb06f82fb6db688",
   "slug": "will-sassuolo-be-relegated-from-serie-a-2026-27"
+ },
+ "0xfbb52a6fce2e17192549b62d15e8931a4d0af9335b2af0271ca33a4546835ad2": {
+  "created_at": "2026-11-19T15:47:50.239656Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Typical Gamer be the first of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
+  "slug": "will-typical-gamer-be-the-first-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
  },
  "0xfc4bbb4e66b872638c4b4271df5fa59d01a87636e02b7e51e516904b3fe458d2": {
   "created_at": "2026-08-26T21:46:50.386801Z",

@@ -999,6 +999,7 @@
   "created_at": "2026-09-17T23:52:20.202408Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Will Little Big Town win Vocal Group of the Year at the 2026 CMA Awards?",
   "revisions": 1,
   "sha256": "41fb556c60612b70a566e56498b1207e136a461f70590a20e507291162396188",
@@ -1394,6 +1395,15 @@
   "sha256": "e29ffdba0469a446479bec01cb055277e560773aac61962e24a718dbabf2db83",
   "slug": "will-cska-sofia-finish-first-in-uecl-league-phase"
  },
+ "0xb5be58643c7ca09774a795826542e0579452bc9f7a9c9a591a4cc363e326e8f3": {
+  "created_at": "2026-11-18T21:35:52.630924Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Anthropic IPO closing market cap above $1.1T?",
+  "revisions": 1,
+  "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
+  "slug": "anthropic-ipo-closing-market-cap-above-1pt1t"
+ },
  "0xb90a585d0af393cc034eb1f506cb6630e4f98003763dcf6e97cc8031eac9cdf3": {
   "created_at": "2026-08-07T00:14:14.075678Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1741,6 +1751,15 @@
   "revisions": 1,
   "sha256": "b718bad9f2c90d0caa29ee88b415afa3c14fd3f255c2d8fbb5a067a7c5577f01",
   "slug": "will-ai-be-charged-with-a-crime-before-2027"
+ },
+ "0xeefb045aabc5891210cf06577cbda9120fdfe3cacdea0e805f3d757fe9e5a5f3": {
+  "created_at": "2026-11-18T21:07:37.013992Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Switzerland come in 2nd place at Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "15e6839ef2a673f4f021455f597e5b9107bdfe1f6dfa2aa4d5e2cdeecb7faabf",
+  "slug": "will-switzerland-come-in-2nd-place-at-eurovision-2027"
  },
  "0xeefde7a534d37605f9e48b8859f3c710a8be82f0634b21b7dffbd62443cb16f3": {
   "created_at": "2026-09-28T17:44:05.811527Z",

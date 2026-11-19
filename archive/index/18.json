@@ -30,6 +30,7 @@
   "created_at": "2026-10-15T17:02:04.655145Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Minera leading at halftime?",
   "revisions": 1,
   "sha256": "80e607b3252544c58796e19617d5e83232ad90cb65d107137ceb815f53ec4a4c",
@@ -555,6 +556,7 @@
   "created_at": "2026-10-15T17:01:39.492956Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz to score first vs. CD Tenerife?",
   "revisions": 1,
   "sha256": "030b440c4a86a160cbcd15209d1bf23120ab8fb1d060fa9e4b32109f2fddd035",
@@ -1013,6 +1015,7 @@
   "created_at": "2026-10-15T17:02:06.272307Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Minera 1 - 5 FC Cartagena?",
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
@@ -1080,6 +1083,15 @@
   "revisions": 1,
   "sha256": "1b811de71c5b9320fc03e68b24adb1d5c77462efd9812c10a394e58b7b348637",
   "slug": "will-temperley-be-promoted-to-liga-profesional-argentina-2026"
+ },
+ "0xb41149b9c32998491ac85c96b380d6bf4f80c12b0e1101502da5a52d35b49318": {
+  "created_at": "2026-11-18T21:07:49.278406Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Montenegro win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-montenegro-win-the-public-vote-for-eurovision-2027"
  },
  "0xb455f26215ab2dcdea2c23739485ee2c420817d2fa29cb83ca2fe5221ec6a418": {
   "created_at": "2026-02-05T21:15:45.702352Z",
@@ -1379,6 +1391,15 @@
   "revisions": 1,
   "sha256": "d44ac45c5138635d12a4c097e39f483fdab16410efae873b0d1f9cdaff0ba7b0",
   "slug": "will-the-falcons-win-the-season-series-against-the-saints-during-the-2026-27-nfl-regular-season-20260717194040908"
+ },
+ "0xe1383242ca2d6fab381aeaae656891e7a8671ad32fdcca4ec9366d4fa3d90d18": {
+  "created_at": "2026-11-18T21:07:44.373834Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Italy win the public vote for Eurovision 2027?",
+  "revisions": 1,
+  "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
+  "slug": "will-italy-win-the-public-vote-for-eurovision-2027"
  },
  "0xe1c62f69fe135353e19d09f9ff4d5453dcb66edd3c153bbad37d5d6bb2504d18": {
   "created_at": "2026-08-26T21:46:40.502088Z",

@@ -21,6 +21,7 @@
   "created_at": "2026-10-15T17:01:22.975121Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Alcoyano vs. RCD Mallorca: Neither team to score first?",
   "revisions": 1,
   "sha256": "055e6a0e1255934a57fd2ada889dba7f95c8c5a42d7070a177283c21f9173e8b",
@@ -1089,6 +1090,15 @@
   "sha256": "1fdc92a20f9e9bb537b72d34ec4f616ee93041f908dd28cc1414391d44073daa",
   "slug": "will-brann-finish-13th-in-norway-eliteserien-2026"
  },
+ "0xb518a8d5722d07362a4aceb033cbccdfa8aa2d1ea9aa029d5681dd496de2ecc8": {
+  "created_at": "2026-11-18T17:40:50.547608Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Take-Two report between 30 million and 33 million GTA VI units sold before 2027?",
+  "revisions": 1,
+  "sha256": "34088fd5c77d0742f878941ae0f1b551a18eae0be569ed69bbaf329da1fd8810",
+  "slug": "how-many-gta-vi-units-sold-reported-before-2027-30m-to-33m"
+ },
  "0xb5d95bdde080a73e599095f2c248c9341fd4009c10343d444da73b9e1eb788c8": {
   "created_at": "2026-08-24T16:34:26.458458Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1174,6 +1184,7 @@
   "created_at": "2026-10-15T18:01:53.207669Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "CD Badajoz vs. CD Tenerife: CD Tenerife 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "68cc967b4d120e33be4d21158b1f8f0442b932f41392575ed023d959e0731056",
@@ -1306,6 +1317,15 @@
   "revisions": 1,
   "sha256": "f826ffa43ef1004eb0a21dcb9380d325e577171ba4b1bd718361faa7e7ace243",
   "slug": "will-fenerbahce-reach-the-2027-uefa-champions-league-round-of-16"
+ },
+ "0xd458d8fd575f26bc608c10da3018f54f63357a73c1330142ac02afc477baf2c8": {
+  "created_at": "2026-11-18T18:51:36.638757Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tucker Carlson run but lose the 2028 Republican nomination?",
+  "revisions": 1,
+  "sha256": "e8ed29bdb65bf237144a1c3861d8e35e900d721950eea208baf1e106220573f3",
+  "slug": "will-tucker-carlson-run-but-lose-the-2028-republican-nomination"
  },
  "0xd52d084ed57cebb9628f82d88217883c985268e11b1df3e725d8583be82601c8": {
   "created_at": "2026-10-02T19:44:15.546205Z",

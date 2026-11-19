@@ -129,6 +129,7 @@
   "created_at": "2026-10-15T13:14:19.473625Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Walmart (WMT) Q3 US comp sales (ex-fuel) growth <1%?",
   "revisions": 1,
   "sha256": "482099944ac47325b3b4b935ac0453850f7cbccc7f39e85b288cd6c7a2c1f8d3",
@@ -656,6 +657,7 @@
   "created_at": "2026-10-15T17:01:21.803892Z",
   "first_seen": "2026-11-06T14:17:12Z",
   "last_changed": "2026-11-06T14:17:12Z",
+  "last_seen_open": "2026-11-19T15:44:54Z",
   "question": "Exact Score: CD Alcoyano 4 - 4 RCD Mallorca?",
   "revisions": 1,
   "sha256": "111f351d56c9ea5ba28f722019b59bc517cbbbb8eba4299c10d021fecb165922",
@@ -1128,6 +1130,15 @@
   "revisions": 1,
   "sha256": "0285fab4b0da539a3ffd01e410fee12f730ebfe3f00b03f573fa612b85593c2c",
   "slug": "will-godzilla-minus-zero-win-best-visual-effects-at-the-99th-academy-awards-20260805190947194"
+ },
+ "0xaeb8f7c859b6e12d72507c5706748b35cf108f84ac0be94582599f7021a4778d": {
+  "created_at": "2026-11-18T18:17:19.680324Z",
+  "first_seen": "2026-11-19T15:44:54Z",
+  "last_changed": "2026-11-19T15:44:54Z",
+  "question": "Will Tarik Skubal's next team be Minnesota Twins?",
+  "revisions": 1,
+  "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
+  "slug": "will-tarik-skubals-next-team-be-minnesota-twins"
  },
  "0xafbaef9d883257ea870576480d1a3a5b0619ff3dc54d278c9363fd8ef085d88d": {
   "created_at": "2026-11-14T03:00:28.360798Z",
