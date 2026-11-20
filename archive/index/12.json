@@ -91,6 +91,15 @@
   "sha256": "b986d37ba900a5ee1d3ffa34cbfc15e610dacbb416720e44905fed848c9bddfc",
   "slug": "zuffa-billa-clark1-2026-11-07-ends-before-round-7"
  },
+ "0x0e5cd580b628567056e8cce96333511d87dde796ff5967952a25ac07bb021012": {
+  "created_at": "2026-11-18T19:51:28.14305Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Ryan Gosling win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-ryan-gosling-win-best-actor-at-the-32nd-critics-choice-awards"
+ },
  "0x101175149fdd66dd6736b0b2af5d5e4e4df31f773cea95513a2408938400f812": {
   "created_at": "2026-09-14T20:34:23.602634Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -232,6 +241,7 @@
   "created_at": "2026-09-02T19:14:12.162776Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 Minnesota Senate election by 15%-20%?",
   "revisions": 1,
   "sha256": "5cfd70f51480de938abc14471b21f2755f8d7c1c170e2a3badcd281655eb74a6",
@@ -264,6 +274,15 @@
   "sha256": "4c0a348e45e533ce5efb754760cffcc56762480d6ef2cc403443891a4364c2d5",
   "slug": "will-osasuna-finish-3rd-in-laliga-2026-27"
  },
+ "0x251661805e3064e437d6ab1de47696b742766b0053f133a6f556877799025812": {
+  "created_at": "2026-11-20T00:21:43.112062Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic's valuation hit (LOW) $1.25T by December 31?",
+  "revisions": 1,
+  "sha256": "40cc4b1c1591e8310a1db6419b4d06d79a98216f31c40ed270f34c21b899a05f",
+  "slug": "will-anthropics-valuation-hit-low-1pt25t-by-december-31"
+ },
  "0x25d72164573583b6fe77d02cb29381ce298fa54663980f528f9f276ad079bf12": {
   "created_at": "2026-11-12T21:06:36.996231Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -281,6 +300,15 @@
   "revisions": 1,
   "sha256": "47315ed203b5e7d122ad19e5a792db4d4d3cb02ca33460fe53ccdd03c78126b5",
   "slug": "will-openais-valuation-be-between-1pt10t-and-1pt20t-at-the-end-of-november-2026"
+ },
+ "0x27d8aca66462ecdb25fcec3e33c151c72d93d70d9b71d708da89f5ec8dc11412": {
+  "created_at": "2026-11-18T19:51:34.878522Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Pedro Pascal win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-pedro-pascal-win-best-actor-at-the-32nd-critics-choice-awards"
  },
  "0x27ecc94b25453388f6d283d7d77329c60ff321305de92d76a13ea9eed9cea512": {
   "created_at": "2026-10-16T18:05:24.901971Z",
@@ -995,6 +1023,7 @@
   "created_at": "2026-08-19T13:35:47.293439Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's initial public offering occur in October 2027 (ET)?",
   "revisions": 1,
   "sha256": "1937c1229ce0319cbd30411db670159abe67593c7e34f1403ddf148d8f5dee09",

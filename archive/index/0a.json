@@ -85,6 +85,7 @@
   "created_at": "2026-11-12T20:05:03.914648Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic not IPO by December 31, 2027?",
   "revisions": 1,
   "sha256": "4412f3b9b6e596c4d2683b06bca8cdd6ca8b4529f61f488e17662111fe03f45c",
@@ -766,6 +767,7 @@
   "created_at": "2026-10-24T11:30:39.64375Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 2 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "9dc50934f5a387ee355a8fb2dd25a23e0d8d0c228a1899cf92c8ad3084f01f97",
@@ -990,6 +992,15 @@
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-atlanta-falcons-have-more-than-5pt5-wins-during-the-2026-nfl-season"
  },
+ "0x94f11fa8fb9de7bc054e8c137bee5da105fa94fddbea2b1ae4fd9a934d667f0a": {
+  "created_at": "2026-11-19T23:07:38.750163Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Lisa Su publicly testify before Congress by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "bab36b12f8a99f5249008e8774cdcefff1c9cf107e18c31dd5609f4023208c7f",
+  "slug": "will-lisa-su-publicly-testify-before-congress-by-march-31-2027"
+ },
  "0x95feddfb444684affe3347fbe3c5af37092a6315ba2b389dc187ad5661527d0a": {
   "created_at": "2026-03-12T22:11:12.851817Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1141,6 +1152,7 @@
   "created_at": "2026-08-07T20:31:06.887775Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 ID-02 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "391f33ba1655a5d85c388b01e69e8ea7d7dfffb3fad5a77c744d90796be99e24",

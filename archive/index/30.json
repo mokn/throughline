@@ -809,6 +809,15 @@
   "sha256": "937f8fc6a4933d119b1cb0a60444dd6f1553609630286adf529186f7660ff137",
   "slug": "will-minnesota-vikings-advance-to-the-divisional-round-in-the-2027-nfl-playoffs"
  },
+ "0x5d0adcceef0930057e2c661ed75450cb44a2a2e165bb5979472d631ae4c91a30": {
+  "created_at": "2026-11-19T20:22:51.557648Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Howard Lutnick out as Secretary of Commerce by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "c37d203e4609bd28afb58d60ad7096f3032223514126900b99571dabd7da4453",
+  "slug": "howard-lutnick-out-as-secretary-of-commerce-by-march-31-2027"
+ },
  "0x60b7999480824e3cc06c4741b234392297b046750e27216b4e7e7fdb371e1430": {
   "created_at": "2026-10-02T23:00:28.280832Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1030,6 +1039,7 @@
   "created_at": "2026-09-17T22:37:23.128046Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will XXXTentacion be featured on GTA VI: The Album?",
   "revisions": 1,
   "sha256": "86cf3d37b6a61651666b58e05ed2b8b8c96d68299b68906aa21e7b5e8deb335c",
@@ -1458,6 +1468,7 @@
   "created_at": "2026-07-31T22:43:26.393573Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Bowling Green Falcons Win the 2026 MAC Championship?",
   "revisions": 1,
   "sha256": "c6a79fc9d7babd4be173503b175d44448a99402e6ce65c23cd45683b61ced0ea",
@@ -1485,6 +1496,7 @@
   "created_at": "2026-10-30T17:28:42.543661Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "US imposes new sanctions on China by November 30, 2026?",
   "revisions": 1,
   "sha256": "a3ba258655b9d8482a0dc3da490015d3d1d31b7c10583507f058fe3776c80696",
@@ -1684,6 +1696,7 @@
   "created_at": "2026-10-14T23:01:44.560525Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Trump pardon anyone by December 31?",
   "revisions": 1,
   "sha256": "6e8b7d236b70a066565443e3ddff6b2def055bc96839f1432a353e25c6801d96",
@@ -1781,6 +1794,15 @@
   "revisions": 1,
   "sha256": "edf665cffad448e3617d1ca47fb0529455cf1c45497311d745223579783d731f",
   "slug": "will-google-have-the-best-ai-model-on-livebench-overall-at-the-end-of-november-2026"
+ },
+ "0xf74418f64e1c50f3adce2bfce7fda92ed968df6640f51863c858c98a223cb930": {
+  "created_at": "2026-11-19T20:19:12.050185Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Matt Pottinger join NVIDIA's national security committee by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "ffe0a1229cd024fae7863abcac0d289b37b4411d38ebb5679a1e5eda97ba6dd6",
+  "slug": "will-matt-pottinger-join-nvidias-national-security-committee-by-march-31-2027"
  },
  "0xf7af5c3e1fd091451f11e4c0a71587322fed69f8705587a04fad21a1d3800c30": {
   "created_at": "2026-09-04T19:52:05.775622Z",

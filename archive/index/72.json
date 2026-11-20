@@ -585,6 +585,15 @@
   "sha256": "90b899b3b3bb531a6c99490ff6b3abe35c161029d5eda4068dd6b190e9e95cb3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-hi-02-house-election-by-30-35"
  },
+ "0x44a459cef5ce8aa7ce01b87823dfffae714de789446cc592d4067bc774460f72": {
+  "created_at": "2026-11-19T20:40:11.606566Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Pawe\u0142 Pawlikowski win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-pawe-pawlikowski-win-best-director-at-the-32nd-critics-choice-awards"
+ },
  "0x4517a7b4421283d0d7ca64419f51823ead7345b8f787c931f3d6ea265baf9772": {
   "created_at": "2026-08-07T19:09:15.061451Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1543,6 +1552,7 @@
   "created_at": "2026-10-30T22:14:06.8531Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic sell between 5% and 6% of its shares in its IPO?",
   "revisions": 1,
   "sha256": "e3f2c706bc0ea59697ccac21ff8ad15074607ade1a30b9d4b3deb47ca5354565",

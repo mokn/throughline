@@ -642,6 +642,7 @@
   "created_at": "2026-08-07T20:31:07.42745Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 ID-02 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "391f33ba1655a5d85c388b01e69e8ea7d7dfffb3fad5a77c744d90796be99e24",
@@ -961,6 +962,7 @@
   "created_at": "2026-08-18T14:19:18.760155Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Louisiana be less than 1,100,000?",
   "revisions": 1,
   "sha256": "690a346212d10fe5bc5aa9bad772469d93be0eac2c183c4017c43472d380974a",
@@ -974,6 +976,15 @@
   "revisions": 1,
   "sha256": "905c671c262f1af361858fbbe87f4c1466c08c15c47ff8ac8b63a75860aa0ee3",
   "slug": "ethereum-tapered-issuance-burn-implemented-by-december-31-2028"
+ },
+ "0x96d4d2a973ac8dae08dcfad655c358a4551abaf80fcfd0f4b2e607da1020cf8c": {
+  "created_at": "2026-11-19T20:52:13.278135Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will the next Israeli government be supported by another combination of blocs?",
+  "revisions": 1,
+  "sha256": "e4e0ac7c3d2d7b8ec74d93f581e70031b3bcad67b42cad97a946e93cc27599b4",
+  "slug": "israel-government-blocs-other"
  },
  "0x98b1da06ea9ffce03582196f8119ae0f92643a1a264f69b9455a66900854d08c": {
   "created_at": "2026-10-13T15:49:09.943163Z",
@@ -1251,6 +1262,7 @@
   "created_at": "2026-11-16T21:38:37.919518Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO first-day pop above 20%?",
   "revisions": 1,
   "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",

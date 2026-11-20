@@ -218,6 +218,15 @@
   "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
   "slug": "will-love-trapped-win-best-podcast-at-the-84th-golden-globes"
  },
+ "0x2a5cf66ce9f469050b68d93d5e2fdabaca84869238c253569e379a526053694e": {
+  "created_at": "2026-11-19T22:55:31.766609Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will the chopsticks catch the Starship for SpaceX Starship Flight Test 16?",
+  "revisions": 1,
+  "sha256": "4fae7baad9c7550d5254074f80b24135c13e0495a0b303b61933d1f76c6f4065",
+  "slug": "will-the-chopsticks-catch-spacex-starship-flight-test-16-starship"
+ },
  "0x2abb603afee9b5e6833e7007bb07f55943c152164b5df9b677fb68deefb3194e": {
   "created_at": "2026-10-09T16:34:27.200643Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1307,6 +1316,7 @@
   "created_at": "2026-09-17T22:37:25.872776Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Playboi Carti be featured on GTA VI: The Album?",
   "revisions": 1,
   "sha256": "86cf3d37b6a61651666b58e05ed2b8b8c96d68299b68906aa21e7b5e8deb335c",

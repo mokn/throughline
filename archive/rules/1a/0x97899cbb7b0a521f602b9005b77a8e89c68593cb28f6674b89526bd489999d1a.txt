@@ -1,0 +1,3 @@
+This market will resolve to "Yes" if the displayed Rotten Tomatoes "All Critics" Tomatometer score for Dune: Part Three is at least equal to the specified number at 10:00 AM ET on the Monday following the movie's wide theatrical release. Otherwise, this market will resolve to "No".
+
+If, for any reason, the resolution data is unavailable at this market's specified check time, the resolution source will be checked until the relevant data is available. This market will resolve to "No" if no data is available by the Friday of that same week, 11:59 PM ET, or the movie does not release by December 31, 2027.

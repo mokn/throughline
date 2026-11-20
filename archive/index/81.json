@@ -1399,6 +1399,7 @@
   "created_at": "2026-11-12T22:50:30.4654Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic stock be flat or rise less than 10% on IPO day?",
   "revisions": 1,
   "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",
@@ -1493,6 +1494,15 @@
   "revisions": 1,
   "sha256": "a180caac1a0afa8f3c31eb689422e7bfc026dbaecf64fd08ec5f21af755a4455",
   "slug": "alice-huang-federally-charged-by-march-31-2027"
+ },
+ "0xda4e6640568235cf4fab93576d557987e1cb15eb403525577efb3bd5888d9581": {
+  "created_at": "2026-11-19T20:22:29.284621Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic\u2019s market capitalization be at least $2.50T at the end of December 2026?",
+  "revisions": 1,
+  "sha256": "51da5e8edd8b5f8de23370baec1fbf62874f0b58ecb84d20049d075db6b6c209",
+  "slug": "will-anthropics-market-capitalization-be-at-least-2pt50t-at-the-end-of-december-2026"
  },
  "0xdb0b2d421b61ededb94955b16d90cd9d5d0a3ecde37e2736d96302e326247281": {
   "created_at": "2026-09-09T15:41:21.791234Z",

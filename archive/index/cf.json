@@ -392,6 +392,15 @@
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
   "slug": "f1-las-vegas-grand-prix-practice-3-fastest-lap-lando-norris-2026-11-20"
  },
+ "0x41d2c6ff5fe674871829ed90ffc2346721697b99977cc2a1a35c89c7c13372cf": {
+  "created_at": "2026-11-19T19:21:21.233444Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Chappell Roan be the #2 artist in the US for 2026?",
+  "revisions": 1,
+  "sha256": "a96e5e63c17007600c3d183f4f5ececad298deade1e45d7f878b153b20894ce8",
+  "slug": "will-chappell-roan-be-the-2-artist-in-the-us-for-2026"
+ },
  "0x428c74dd6fc71ba3c23485ec4fda02aa205ac18cdf3ebcb59459a66e3d3a79cf": {
   "created_at": "2026-08-10T23:57:35.623145Z",
   "first_seen": "2026-11-04T01:55:27Z",

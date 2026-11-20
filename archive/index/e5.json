@@ -138,6 +138,7 @@
   "created_at": "2026-11-18T21:35:00.279022Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO closing market cap above $1.45T?",
   "revisions": 1,
   "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
@@ -598,6 +599,15 @@
   "sha256": "09bc2d0d13a0cde7e9f028ebebef1320eb972909da8e312abc9b65bbe2e30f70",
   "slug": "will-the-democrats-win-georgia-in-the-2028-presidential-election"
  },
+ "0x5db24b3c35c11fab83cede5f5ad7350b9fd0f9cf1e04d7a9441d0268caff26e5": {
+  "created_at": "2026-11-19T16:28:49.462523Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will B.J. Callaghan be the next head coach of the USMNT?",
+  "revisions": 1,
+  "sha256": "220465823a4588ef3e7113263708752a4884f32e27fd0d983522de4634548157",
+  "slug": "will-bj-callaghan-be-the-next-head-coach-of-the-usmnt"
+ },
  "0x5dc21104910d157e31194d606603af606a6c0a081f7f3899fc30e91b82bd02e5": {
   "created_at": "2026-08-26T21:46:44.728522Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -739,6 +749,7 @@
   "created_at": "2026-08-06T21:37:59.433837Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-03 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "fa3c38d99171f85df0fa9d74a6a2c9ade78d4356f256eb338ec7de35edd3303c",
@@ -1148,6 +1159,7 @@
   "created_at": "2026-08-18T14:13:00.370098Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Minnesota be between 2,600,000 and 2,750,000?",
   "revisions": 1,
   "sha256": "fc705f44ae1309cc8bebc735e3c33c49daa65c91a302e410c9b2a324a22d25e7",

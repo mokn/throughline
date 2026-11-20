@@ -1006,6 +1006,7 @@
   "created_at": "2026-08-18T14:07:45.492772Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Arkansas be 1,050,000 or more?",
   "revisions": 1,
   "sha256": "d2b2351fad01e9bce215159052b3588d888406f522c90e537bf4a28d8921a151",
@@ -1176,6 +1177,15 @@
   "revisions": 1,
   "sha256": "45d0e3782c446d32add909d78977bec294475dbd0396f79e2c8ccc8f6f3c3fa6",
   "slug": "will-israel-katz-be-the-next-prime-minister-of-israel"
+ },
+ "0xb3dd9d2ac3e802fb87f8fb041f35286428424a217866b87840ce663f5ee26ce9": {
+  "created_at": "2026-11-19T22:59:58.255872Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Iran target Iraq by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "16ab3525a0158de9eaaa37a68398995442bf495040667a42746ba875fdb26ad3",
+  "slug": "will-iran-target-iraq-by-december-31-2026-20261119"
  },
  "0xb5a536a4eb39626c11b66ad358c02cff11cf4f9cb7ee714d8241945bb2b9f7e9": {
   "created_at": "2025-12-16T21:43:48.288805Z",

@@ -686,6 +686,15 @@
   "sha256": "c4c84fe0c24a02a29e6947516b033274fb1aa5a7739f9d018bff127c6d700e27",
   "slug": "will-scotus-accept-the-mahmoud-khalil-case-by-june-30-2027"
  },
+ "0x7a327780868fbebcf8377306ee896293eb1c108c2b6a518d76857c682205d598": {
+  "created_at": "2026-11-19T16:28:52.580576Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Julian Nagelsmann be the next head coach of the USMNT?",
+  "revisions": 1,
+  "sha256": "220465823a4588ef3e7113263708752a4884f32e27fd0d983522de4634548157",
+  "slug": "will-julian-nagelsmann-be-the-next-head-coach-of-the-usmnt"
+ },
  "0x7e50a1b54375e16d137a23fe33c143fbe3c070705fcb3d1beab6c916bd3d9f98": {
   "created_at": "2026-10-01T19:33:24.131971Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -935,6 +944,7 @@
   "created_at": "2026-10-24T11:30:41.922359Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Lance Stroll achieve the fastest lap in Practice 2 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "9dc50934f5a387ee355a8fb2dd25a23e0d8d0c228a1899cf92c8ad3084f01f97",

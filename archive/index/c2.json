@@ -366,6 +366,15 @@
   "sha256": "671af047318f88d1830c19e7f6b05e5df7b124c6a5422200a29b4a394e2194a9",
   "slug": "will-gen-be-number-1-on-the-end-of-year-global-power-rankings-20260729165154427"
  },
+ "0x2d56db073eecd88cad66f55b8c475d603b3bdbf0885bf7dd3c3471579d8101c2": {
+  "created_at": "2026-11-19T20:19:45.934864Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Avengers: Doomsday\" score at least 75 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "6da671919d32f057a21b66acf223bf5adb29a51a8b88509d1032d21cdb6bfd5b",
+  "slug": "will-avengers-doomsday-score-at-least-75-on-the-rotten-tomatoes-tomatometer"
+ },
  "0x2e5952a0bd1998977943da1c885925caa4e41042624717814ffdb607d75466c2": {
   "created_at": "2026-08-26T21:46:11.364791Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1790,6 +1799,15 @@
   "revisions": 1,
   "sha256": "afef1f29030cded4e654979400d7d1f5bef9c2b8afc1d2a1e422f6b0d12493d0",
   "slug": "will-the-republican-party-candidate-win-the-2026-kansas-senate-election-by-20-25"
+ },
+ "0xf2ec61aec7a53ab043868e5a0f4180486cc5a44296e67eb4e5b058f940b051c2": {
+  "created_at": "2026-11-19T19:21:19.961796Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"The Great Divide - Noah Kahan\" be the #2 album for 2026?",
+  "revisions": 1,
+  "sha256": "9ff85ea2805d86c1f1eaf5d31b64b13f5d9e812030ca7456a452c014a7064712",
+  "slug": "will-the-great-divide-noah-kahan-be-the-2-album-for-2026"
  },
  "0xf54f2b273f52beef58df12b268c4a73b272d91985a89d209836347097e6297c2": {
   "created_at": "2026-08-10T23:56:38.471219Z",

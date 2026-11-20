@@ -172,6 +172,15 @@
   "sha256": "1b77fde1dbb3cc6925927f8c70deca44ed799dcefeac52d148efbc3c94f11a88",
   "slug": "marvin-harrison-jrpt-30pt5-receptions-2026-27"
  },
+ "0x210a69c93972262ce67810e6508d3434473c45b938161020ee849cfc25a49a22": {
+  "created_at": "2026-11-19T22:49:55.770439Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will the next Gemini model family be named Gemini Xenon?",
+  "revisions": 1,
+  "sha256": "7e9720a1be7646dea8b3d40790f882663e23d892603b07cdaa2767d8a5be5050",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-xenon-20261119"
+ },
  "0x21e33a6a1a67605c3156a151bd2e6dd7ca0ae07cad63aa12073758c51fe4f522": {
   "created_at": "2026-09-09T15:52:58.6755Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -598,6 +607,7 @@
   "created_at": "2026-11-16T21:32:31.456999Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Ben Mann ring the bell at Anthropic's IPO?",
   "revisions": 1,
   "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
@@ -1045,6 +1055,7 @@
   "created_at": "2026-08-06T21:38:24.949364Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-04 House election by 55% or more?",
   "revisions": 1,
   "sha256": "c86866edffdd8e58ed9fca50b0f49e335bc454549c937034703a0ab614ee1020",
@@ -1301,6 +1312,7 @@
   "created_at": "2026-11-12T22:50:44.561629Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic stock rise 50% or more on IPO day?",
   "revisions": 1,
   "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",

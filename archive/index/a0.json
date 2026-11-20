@@ -328,6 +328,15 @@
   "sha256": "0204dcfea602ed642e866265327789cd564066f36616ab1c80e62a69022d41ad",
   "slug": "will-falkirk-keep-the-most-clean-sheets-in-scottish-premiership-2026-27"
  },
+ "0x2178b70877694848e736d1bf0189a1bf3d87c440f32825c855a1141390e0b4a0": {
+  "created_at": "2026-11-18T19:51:26.011095Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Sebastian Stan win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-sebastian-stan-win-best-actor-at-the-32nd-critics-choice-awards"
+ },
  "0x2194c879f53d71f79a204ce52123cba679c6e8037f9df68ba47ba889f8dfbca0": {
   "created_at": "2026-11-13T01:35:03.986082Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -651,6 +660,7 @@
   "created_at": "2026-11-12T22:50:37.555974Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic stock rise between 20% and 30% on IPO day?",
   "revisions": 1,
   "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",

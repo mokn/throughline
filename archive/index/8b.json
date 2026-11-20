@@ -629,6 +629,7 @@
   "created_at": "2026-08-10T15:43:18.185673Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 MN-04 House election by 0%-20%?",
   "revisions": 1,
   "sha256": "77e14b54138a6c263d14139f05911f5d48a087bc2fbbe0fd7fe894a12d584e4f",
@@ -990,6 +991,15 @@
   "sha256": "d8cab0d323f572341ef23846cefc22dbffa8c0116653e7b0c99397b31c94e6be",
   "slug": "will-cristiano-ronaldo-score-25-goals-in-the-2026-27-season"
  },
+ "0x8889f9d4ee9aa5f94ddf382a51279a209d78edca319bfe76f4f081bcc6e24d8b": {
+  "created_at": "2026-11-18T19:51:33.369002Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Robert Pattinson win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-robert-pattinson-win-best-actor-at-the-32nd-critics-choice-awards"
+ },
  "0x89ee083684f4aa858dc74b90da02fd9dd4f0256577e7c14bec4e8aff472ea18b": {
   "created_at": "2026-08-10T15:44:08.537012Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1264,6 +1274,7 @@
   "created_at": "2026-09-17T22:37:24.590995Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Osamason be featured on GTA VI: The Album?",
   "revisions": 1,
   "sha256": "86cf3d37b6a61651666b58e05ed2b8b8c96d68299b68906aa21e7b5e8deb335c",
@@ -1391,6 +1402,7 @@
   "created_at": "2026-10-25T04:01:43.541857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Gold (XAUUSD) hit (LOW) $3,600 in November?",
   "revisions": 1,
   "sha256": "badfadf3b38d8e2299ac8895cf304b8bc05ddede9b61c1a1cdb2e538964458f9",
@@ -1747,6 +1759,15 @@
   "revisions": 1,
   "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
   "slug": "will-sweden-be-in-the-top-5-at-eurovision-2027"
+ },
+ "0xfea02c48f3b455cb24cc4486f2508c53b4243922eb8fc239bbd460a20bd51f8b": {
+  "created_at": "2026-11-19T20:40:04.420742Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Christopher Nolan win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-christopher-nolan-win-best-director-at-the-32nd-critics-choice-awards"
  },
  "0xff8e50c807dd8e414ea7af6f440e7ad67fdccff6aef66c60366ea653242c4c8b": {
   "created_at": "2026-07-22T05:40:53.457508Z",

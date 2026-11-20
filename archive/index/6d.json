@@ -159,6 +159,7 @@
   "created_at": "2026-08-07T20:30:50.427062Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 ID-01 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "7a014bf118162aeaea4d65a862670150fbcee62c2239f6d90cb499b08e972ccb",
@@ -614,6 +615,7 @@
   "created_at": "2026-11-14T06:19:55.337035Z",
   "first_seen": "2026-11-14T13:31:33Z",
   "last_changed": "2026-11-14T13:31:33Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "No Anthropic IPO by December 31, 2027?",
   "revisions": 1,
   "sha256": "73d1571543e21022da39c5ed6255acc51b276a64c48ac155fb9706887f31472f",
@@ -1259,6 +1261,15 @@
   "revisions": 1,
   "sha256": "011e0ed5f670a07cbfea2e636adb953a3a4ec6cdc6ab2c7767b26471004b12d5",
   "slug": "omar-cooper-jr-99pt5-receiving-yards-2026-27"
+ },
+ "0xc5410ae499417f025cd60150079556aa8b4a2ea1fba7b58683cbbaf6472e4f6d": {
+  "created_at": "2026-11-19T20:40:06.665351Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Denis Villeneuve win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-denis-villeneuve-win-best-director-at-the-32nd-critics-choice-awards"
  },
  "0xc87854d800a2b82abd417dd5b62f2fbfc8dec2a1e516e9f949a504ef55312d6d": {
   "created_at": "2026-10-21T23:30:54.21186Z",

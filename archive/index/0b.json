@@ -596,6 +596,7 @@
   "created_at": "2026-11-13T00:21:27.275145Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO closing market cap above $1.0T?",
   "revisions": 1,
   "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
@@ -1252,6 +1253,15 @@
   "revisions": 1,
   "sha256": "153de33c52bc954bbe72a4a0a00ce8c5892edacc23eb5b64557822d710dc6b0d",
   "slug": "will-liang-wen-tao-win-the-next-kinmen-county-magistrate-election-202608131357161504"
+ },
+ "0xb5a793ce2c7d9df1424d1f9d8ffbd08907e4d2b15acf7755640adc490c6cfe0b": {
+  "created_at": "2026-11-19T20:22:27.216462Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic\u2019s market capitalization be between $1.50T and $1.75T at the end of December 2026?",
+  "revisions": 1,
+  "sha256": "51da5e8edd8b5f8de23370baec1fbf62874f0b58ecb84d20049d075db6b6c209",
+  "slug": "will-anthropics-market-capitalization-be-between-1pt50t-and-1pt75t-at-the-end-of-december-2026"
  },
  "0xb5dd631c5d351f0261cafdfa4246667cedda778b12ecaf85247d5bcf347e9c0b": {
   "created_at": "2026-11-18T21:07:21.879976Z",

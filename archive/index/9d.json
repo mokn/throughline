@@ -26,6 +26,15 @@
   "sha256": "9a1ce79f1545e1b9e40a7771f233e0c10b4bdf7a7ced7efc49e30309e52b61db",
   "slug": "will-chelsea-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0x0541ed9388ced6ff293bf21deb53cacbfda9c069ac2cd6151ac5cf3599f8609d": {
+  "created_at": "2026-11-19T22:56:07.336177Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Next Astra Model (6.3+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "75b24119a29d5e3ad42777ee6c46db204e310dd9a880bcfc47578dc6a7ea79a1",
+  "slug": "next-astra-model-6pt3-released-by-january-31-2027"
+ },
  "0x09ca265f228f618fe2dcba22324b1c9f7b4a16045eb64eb8f5a2cc7eb809eb9d": {
   "created_at": "2026-08-10T23:33:52.141089Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -976,6 +985,7 @@
   "created_at": "2026-08-06T21:37:59.200196Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-03 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "fa3c38d99171f85df0fa9d74a6a2c9ade78d4356f256eb338ec7de35edd3303c",
@@ -1344,6 +1354,7 @@
   "created_at": "2026-08-18T14:07:44.567345Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Arkansas be less than 600,000?",
   "revisions": 1,
   "sha256": "d2b2351fad01e9bce215159052b3588d888406f522c90e537bf4a28d8921a151",

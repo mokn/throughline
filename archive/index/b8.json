@@ -827,6 +827,7 @@
   "created_at": "2026-04-28T22:26:44.160846Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic not IPO by December 31 2027?",
   "revisions": 1,
   "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",
@@ -1379,6 +1380,15 @@
   "revisions": 1,
   "sha256": "39afe9f4555228c18e57ac6c4e0e6fdba09775d4fa44f6a45230fc8881615801",
   "slug": "will-the-democratic-party-win-the-va-05-house-seat"
+ },
+ "0xcf3af305f6b88bad7ca67a36d839e02e9063672d41e02d56a750e5a8cb85dcb8": {
+  "created_at": "2026-11-19T22:54:58.718045Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Next GPT Sol (6.3+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "af286be7157b3a4179f58225a9fbc00a99b2cd568e15bc1dbfebea479b11b34f",
+  "slug": "next-gpt-sol-6pt3-released-by-january-31-2027"
  },
  "0xcff0b21c1a619780b09ce8e78ebeddd96c3f66a6b36a62b511f3b972d84a87b8": {
   "created_at": "2026-10-25T04:00:10.340577Z",

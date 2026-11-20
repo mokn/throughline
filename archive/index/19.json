@@ -142,6 +142,7 @@
   "created_at": "2026-08-19T15:52:34.815931Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic list on another exchange?",
   "revisions": 1,
   "sha256": "10e9c49f035f1ad9309c2f9a80535b412263ebb6dad9532e3b05d708a7eb4039",
@@ -1003,6 +1004,7 @@
   "created_at": "2026-08-06T15:44:06.128746Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will FURIA make a roster change by December?",
   "revisions": 1,
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",
@@ -1152,6 +1154,15 @@
   "sha256": "e5cecb10f16500730333c425099a002340308e1f87f783e6782732af87669c41",
   "slug": "will-max-verstappen-finish-third-in-the-2026-f1-drivers-championship"
  },
+ "0x940cc0dfb64a5e729c9e98ea7267a6fc680bdd741ad110154095c15afe6c1c19": {
+  "created_at": "2026-11-19T23:05:54.08385Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "AMD hit with a BIS export-control penalty by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "9af609a04682b4a906e674205f4bf7c3a2692f694bc5dfc8e4b901241d47559e",
+  "slug": "amd-hit-with-a-bis-export-control-penalty-by-december-31-2026"
+ },
  "0x9431d297257083f360c886ba751a4e2e81c2f726fc323a6cef95a7cea5145d19": {
   "created_at": "2026-10-01T14:01:01.371476Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1174,6 +1185,7 @@
   "created_at": "2026-08-06T21:37:58.21156Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-03 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "fa3c38d99171f85df0fa9d74a6a2c9ade78d4356f256eb338ec7de35edd3303c",
@@ -1550,6 +1562,7 @@
   "created_at": "2026-08-06T21:37:56.692952Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-02 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "bb8119fb09ff0107dae6b1c127df939736760322d51697a4cd434937bf550457",

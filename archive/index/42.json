@@ -17,6 +17,15 @@
   "sha256": "1a54dadd10033a96ddfad81e38f55926f5421f30a8d8388fe3eaede02049c0a2",
   "slug": "will-no-church-in-the-wild-be-played-last-at-the-2027-big-game-halftime-show"
  },
+ "0x0569d420e26e7a1e62df2ee18da8ff7b6b5644ea7f05402e54e944495be8b042": {
+  "created_at": "2026-11-19T19:21:20.77673Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"I'm The Problem - Morgan Wallen\" be the #2 album for 2026?",
+  "revisions": 1,
+  "sha256": "9ff85ea2805d86c1f1eaf5d31b64b13f5d9e812030ca7456a452c014a7064712",
+  "slug": "will-im-the-problem-morgan-wallen-be-the-2-album-for-2026"
+ },
  "0x06490a306636bc4cbd2707c913664aaf202db85551ad54f51a5de263084af142": {
   "created_at": "2025-12-15T23:54:22.957531Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -104,6 +113,7 @@
   "created_at": "2026-08-18T14:56:56.982106Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Ernest Theron be the next mayor of Cape Town?",
   "revisions": 1,
   "sha256": "3c79fc453f14e0dd0f723eb027a339c0eb3f2b798d2f7f692f3005a955a7bb1b",
@@ -232,6 +242,7 @@
   "created_at": "2026-08-10T15:43:34.831921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 MN-07 House election?",
   "revisions": 1,
   "sha256": "f212e62c82af12dcfc004d03eec9f7d18bc27f176a9a02c6f0c5ea6da73c0004",
@@ -411,6 +422,15 @@
   "revisions": 1,
   "sha256": "8477b685657983468ab7cd237725fed521001cc429b00504f4f7eabe035d3a9b",
   "slug": "will-le-mans-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0x4450d9210e30b8b7c5b086b985bb040332674983f68e267af425bdb711475942": {
+  "created_at": "2026-11-19T22:54:58.013121Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Next GPT Sol (6.3+) released by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "af286be7157b3a4179f58225a9fbc00a99b2cd568e15bc1dbfebea479b11b34f",
+  "slug": "next-gpt-sol-6pt3-released-by-december-31-2026"
  },
  "0x4886eb0e7ba9429184fe01592ec2d01bc3b2c2957caa4039991dee7f0caab742": {
   "created_at": "2026-11-06T22:58:32.479145Z",
@@ -898,6 +918,7 @@
   "created_at": "2026-08-10T15:43:48.006098Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 MN-08 House election by 18%-21%?",
   "revisions": 1,
   "sha256": "d902db81bbbee656a0286e3fb77ae952cc2c455e228d2311c85cc97463479567",

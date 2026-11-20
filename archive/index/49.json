@@ -274,6 +274,15 @@
   "sha256": "14dd3449a69983c661a9658284445d5b1cb157c3f90c54257a1396ea1762ae09",
   "slug": "will-lee-sin-be-the-most-played-champion-at-worlds-2026"
  },
+ "0x23c97f5b3bc9c5ee4a61d21d9b3da3d72136268f8dae8306f6b3e017e97ae449": {
+  "created_at": "2026-11-19T20:19:51.720502Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Dune: Part Three\" score at least 92 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "0b01a1a56179f470331b7b066eb907b624e33762064b0812b5421ef3d398f135",
+  "slug": "will-dune-part-three-score-at-least-92-on-the-rotten-tomatoes-tomatometer"
+ },
  "0x254b47ca3a05a428e5073b93fb9a32d50ecf3f440af0b91b164db4cacbcdfb49": {
   "created_at": "2026-07-28T15:33:26.929129Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -458,6 +467,7 @@
   "created_at": "2026-06-01T18:35:06.869427Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will JPMorgan Chase or any of its underwriting affiliates serve as the lead underwriter in Anthropic's initial public offering?",
   "revisions": 1,
   "sha256": "1277001e5a34426a9d0cabc48723b241e04300b69deb0ebdca365032894a731c",
@@ -829,6 +839,7 @@
   "created_at": "2026-08-10T15:43:28.905057Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 MN-06 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "02a80c17234b6724d59c6d0a2b3286e5c68b3e5a8b9103b8740ba6f4bfaad279",

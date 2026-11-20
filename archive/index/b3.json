@@ -1,4 +1,13 @@
 {
+ "0x010959a0dc02a26610038d024375095c9d5c9b6e5727333f2eb57020263007b3": {
+  "created_at": "2026-11-19T20:12:18.27162Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"The Angry Birds Movie 3\" score at least 45 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "984d1a87e92551418946ae6fe084505d0fb6d72dbbea4ed0fa71fb5a0647ead3",
+  "slug": "will-the-angry-birds-movie-3-score-at-least-45-on-the-rotten-tomatoes-tomatometer-20261228"
+ },
  "0x019c72c802e4c472c3c0f76f2513f9e3b9567d4fa40b1c18cdf3315b1da02eb3": {
   "created_at": "2026-08-12T00:18:04.96003Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1271,6 +1280,15 @@
   "revisions": 1,
   "sha256": "81856e435a50c7e1d966b0c131fa93ac69df0d89c92cd340e69a5701e7b7dca0",
   "slug": "will-bod-glimt-be-relegated-from-norway-eliteserien-2026"
+ },
+ "0xc56d718308abfb93d6f1c0fd0a4b93739ae0696aa002f85469dba99073269eb3": {
+  "created_at": "2026-11-18T21:31:15.796895Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will GALE win Benidorm Fest 2027?",
+  "revisions": 1,
+  "sha256": "0445449ee9b30cbe4ae5db138a4d8f0942371a6e2e197afbec8c4a57cd03f6f3",
+  "slug": "will-gale-win-benidorm-fest-2027"
  },
  "0xc772e7c09d526816e7f842af9c2c1d05f744a1e524148cd8490ab80354337fb3": {
   "created_at": "2026-09-04T19:50:29.439358Z",

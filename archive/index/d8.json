@@ -196,6 +196,7 @@
   "created_at": "2026-06-01T18:35:06.535036Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Goldman Sachs or any of its underwriting affiliates serve as the lead underwriter in Anthropic's initial public offering?",
   "revisions": 1,
   "sha256": "1277001e5a34426a9d0cabc48723b241e04300b69deb0ebdca365032894a731c",
@@ -1168,6 +1169,15 @@
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
   "slug": "will-the-democratic-party-candidate-win-the-2026-north-carolina-senate-election-by-18-or-more"
  },
+ "0xaa4f3bbb810d9b6821ef844010fad2cf120274d8990c643a7d338aad12ae5bd8": {
+  "created_at": "2026-11-19T20:40:05.208076Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Javier Calvo or Javier Ambrossi win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-javier-calvo-or-javier-ambrossi-win-best-director-at-the-32nd-critics-choice-awards"
+ },
  "0xaa880f3657dfc13072b2e415f0c60b825955c2f00da6b2fe3c323e427a7697d8": {
   "created_at": "2026-08-18T14:07:13.317141Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1176,6 +1186,15 @@
   "revisions": 1,
   "sha256": "d1b58013f4c17dd6340e06bc5c70ec98eb84ed3b72e1c056e20bf6a383422b08",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-colorado-be-3000000-or-more"
+ },
+ "0xaac9c5659e7ea44cde5e2d92f8659c5d45b062c7e0b001c3d4216c1611cf52d8": {
+  "created_at": "2026-11-19T22:49:59.031623Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will the next Gemini model family be named Gemini Oxygen?",
+  "revisions": 1,
+  "sha256": "7e9720a1be7646dea8b3d40790f882663e23d892603b07cdaa2767d8a5be5050",
+  "slug": "will-the-next-gemini-model-family-be-named-gemini-oxygen-20261119"
  },
  "0xab3e1d5b55f1ca3098bd9dff519adce5a27daf8cdaaec4af172bfaaacd82ecd8": {
   "created_at": "2026-10-06T00:21:34.654129Z",

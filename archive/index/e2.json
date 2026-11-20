@@ -906,6 +906,7 @@
   "created_at": "2026-11-12T22:51:32.996889Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic close between $100 and $110 on its first trading day?",
   "revisions": 1,
   "sha256": "15be5d4cf027854e8cada2685bfcd729fca6ed5c9c13bf6505df41839ae82d74",
@@ -1359,6 +1360,15 @@
   "revisions": 1,
   "sha256": "81ed0b5840b95056df9b11c06a56cd6c84db51fec130e427e62642d417476bf4",
   "slug": "will-bukayo-saka-record-the-most-assists-in-the-2026-27-uefa-champions-league"
+ },
+ "0xfc4467df5239089594425da1401952ea56c3e6cc0287a2707db1ebdab7d412e2": {
+  "created_at": "2026-11-19T20:12:20.50125Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"The Angry Birds Movie 3\" score at least 75 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "984d1a87e92551418946ae6fe084505d0fb6d72dbbea4ed0fa71fb5a0647ead3",
+  "slug": "will-the-angry-birds-movie-3-score-at-least-75-on-the-rotten-tomatoes-tomatometer-20261228"
  },
  "0xfc5a08458c1805f127ab31191fae4223cd03a8b40a868003cf11f796dbb067e2": {
   "created_at": "2026-08-21T17:31:56.757305Z",

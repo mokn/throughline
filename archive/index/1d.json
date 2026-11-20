@@ -26,6 +26,15 @@
   "sha256": "2c1ababe2f127c94c66cd7d4a9cf9609bbada4b5dea683f3a551a40b41c4a40a",
   "slug": "will-sean-omalley-fight-song-yadong-next"
  },
+ "0x071651f33c87425fc7b70268a13f077ae321261b9b95cd6a599ace8658843a1d": {
+  "created_at": "2026-11-19T23:08:16.557597Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "DOJ criminally charges AMD by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "22ae38fa63b392ede4e55bec1c4e7e53b9698ec3150a4834ef7189f8fdad53a2",
+  "slug": "doj-criminally-charges-amd-by-december-31-2026"
+ },
  "0x082595bb976423faf7388d27f851532ba7439c5e4c170a55c91ac7907b4f4d1d": {
   "created_at": "2026-09-04T19:36:03.232034Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -225,6 +234,15 @@
   "revisions": 1,
   "sha256": "be71cb039f5705987b72f531206ce5e10a0a9a33d15aae21305951bebd3cfc3c",
   "slug": "ssi-public-model-released-by-december-31-2026"
+ },
+ "0x260e6ed1ceede2d9e4eded305732f16388e60dcba9df7c35243ef5e9457b551d": {
+  "created_at": "2026-11-19T23:00:39.809392Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Iran target Kuwait by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "48581e3aa328b32f4e4713876e8cdd60bba64a70a53f70cd7a0b86beca3dd65c",
+  "slug": "will-iran-target-kuwait-by-december-31-2026-20261119"
  },
  "0x262a9df20e05a59227a8e67fa3effe1e80d5498d7300844511ea714d45b7501d": {
   "created_at": "2026-09-09T15:41:25.656723Z",
@@ -515,6 +533,7 @@
   "created_at": "2026-06-01T18:14:00.05636Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's market cap be between $2.0T and $2.25T at market close on IPO day?",
   "revisions": 1,
   "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",

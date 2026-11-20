@@ -458,6 +458,15 @@
   "sha256": "d953d0c22030071991c5c225ce4b4b507efbd4e6ed1a8e5f5395f15ee998c9e3",
   "slug": "will-stepfun-be-the-third-best-math-ai-lab-at-the-end-of-december-2026"
  },
+ "0x465c2c75a9724471cc49605aaf3a30465f5270e25238ed08c7bb00f35bd11370": {
+  "created_at": "2026-11-18T21:31:14.480215Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Chema Rivas win Benidorm Fest 2027?",
+  "revisions": 1,
+  "sha256": "0445449ee9b30cbe4ae5db138a4d8f0942371a6e2e197afbec8c4a57cd03f6f3",
+  "slug": "will-chema-rivas-win-benidorm-fest-2027"
+ },
  "0x47bf7d4a8cbfe1d06146d7b7caafd6bdd39e0362f309cea5308cf3bbc80e5970": {
   "created_at": "2026-08-26T21:46:54.158722Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -952,6 +961,7 @@
   "created_at": "2026-02-03T19:06:14.856547Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic\u2019s market cap be between $400B and $600B at market close on IPO day by December 31, 2027?",
   "revisions": 1,
   "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",

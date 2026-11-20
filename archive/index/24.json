@@ -3,6 +3,7 @@
   "created_at": "2026-08-06T21:37:30.831561Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-01 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "f3bb9c35905b43a988683fbf4fbc268233162b6af2837e9a5faf9dc8e3281a8c",
@@ -1299,6 +1300,7 @@
   "created_at": "2026-11-12T20:04:59.289992Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's IPO price be between $66.00 and $69.99?",
   "revisions": 1,
   "sha256": "4412f3b9b6e596c4d2683b06bca8cdd6ca8b4529f61f488e17662111fe03f45c",
@@ -1523,6 +1525,15 @@
   "revisions": 1,
   "sha256": "0805723db46bc551e8563e83ba2ffeef70175f8308228637087e4822bc91bb9c",
   "slug": "el1-wim-ste-2026-10-03-first-to-score-away"
+ },
+ "0xd96db097df53e508ef6b20dd6003e02eab87ba7b060bf7c66e73bc401a484924": {
+  "created_at": "2026-11-19T19:21:32.390374Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"The Great Divide - Noah Kahan\" be the top album in the US for 2026?",
+  "revisions": 1,
+  "sha256": "e34c6a37d8149fee4042cea4949c38c43d52167bfba42824282b91ca056f10a4",
+  "slug": "will-the-great-divide-noah-kahan-be-the-top-album-in-the-us-for-2026"
  },
  "0xda3a93dd94e86137ce4df45d56eedd1d9f50aa51f9f8efc4b7f75f784e140024": {
   "created_at": "2026-01-29T21:08:16.367326Z",

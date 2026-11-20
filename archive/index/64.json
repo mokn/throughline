@@ -324,6 +324,7 @@
   "created_at": "2026-08-10T15:43:21.869616Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 MN-05 House election by 55%-60%?",
   "revisions": 1,
   "sha256": "eaf6939224e6b85b445bb30dca0c9568a0105d06885da97df7582a26a0c8fab5",
@@ -397,6 +398,7 @@
   "created_at": "2026-08-10T15:43:10.566441Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 MN-03 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "d3a03e1a5bc14932126a8f8bf75a2938646880b502873daad2223ef46505752f",
@@ -935,6 +937,7 @@
   "created_at": "2026-08-19T13:35:46.593829Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's initial public offering occur in July 2027 (ET)?",
   "revisions": 1,
   "sha256": "1937c1229ce0319cbd30411db670159abe67593c7e34f1403ddf148d8f5dee09",
@@ -1232,6 +1235,15 @@
   "revisions": 1,
   "sha256": "7c5dc64bb42c3abddfa3e2bc9ca5bd7d3a133fa806ed28ad63b56da554b01409",
   "slug": "will-hope-win-best-international-feature-film-at-the-99th-academy-awards-20260805190946431"
+ },
+ "0xc4e5283036e8769d151d2de54b0adb19966275fadf42ec993c6c1b0b6ae68a64": {
+  "created_at": "2026-11-19T19:21:11.245212Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Bruno Mars be the #2 artist in the US for 2026?",
+  "revisions": 1,
+  "sha256": "a96e5e63c17007600c3d183f4f5ececad298deade1e45d7f878b153b20894ce8",
+  "slug": "will-bruno-mars-be-the-2-artist-in-the-us-for-2026"
  },
  "0xc518748dd90adbce86bf9039b70efd2eb3bde09a34be5b47a3a574ca23581864": {
   "created_at": "2026-10-29T20:53:44.096284Z",

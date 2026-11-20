@@ -103,6 +103,7 @@
   "created_at": "2026-10-24T04:00:08.036921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Elon Musk post 760-779 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1472,6 +1473,15 @@
   "revisions": 1,
   "sha256": "6c1915ea4170a741daa97daf8f658beb1757b044479c1aabaff5dfb0c15a3ccb",
   "slug": "will-theodorah-mosala-leeuw-be-the-next-mayor-of-mangaung"
+ },
+ "0xf5ebdbb59917829d8f9a95b77ba9d1cbcec5e4e20efb243c657aaeaeebe47bf5": {
+  "created_at": "2026-11-19T19:21:14.93136Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Deb\u00ed Tirar M\u00e1s Fotos - Bad Bunny\" be the #2 album for 2026?",
+  "revisions": 1,
+  "sha256": "9ff85ea2805d86c1f1eaf5d31b64b13f5d9e812030ca7456a452c014a7064712",
+  "slug": "will-debi-tirar-mas-fotos-bad-bunny-be-the-2-album-for-2026"
  },
  "0xf664efcfa42039acb6d5ec687eb8385aa7f9bc9998c55df1e4ed02831da304f5": {
   "created_at": "2026-11-02T00:46:27.324386Z",

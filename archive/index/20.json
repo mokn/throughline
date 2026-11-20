@@ -309,6 +309,15 @@
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-logan-stankoven-win-the-2026-27-ted-lindsay-award"
  },
+ "0x294620fd9e2f3c6f57a392f007fa79b1d2d3fc0d7199c305aac8a37ba81bfc20": {
+  "created_at": "2026-11-19T22:54:08.131573Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Next Gemini Neon (4.1+) released by February 28, 2027?",
+  "revisions": 1,
+  "sha256": "fce298b1115d55f4cbe487b6cdda2b2e78d74109a996120ea4dd1fd511d8b0f9",
+  "slug": "next-gemini-neon-4pt1-released-by-february-28-2027"
+ },
  "0x296b0368def9d03f350d680abe8328e43083b4d92ce095b89195e89dcc777320": {
   "created_at": "2026-08-04T18:35:48.296544Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -584,6 +593,15 @@
   "revisions": 1,
   "sha256": "7c090859b1c1d69ffd9f1f0c06e0360d80d0376241bf7ea8f3832634b50538a2",
   "slug": "el1-bar-mkd-2026-10-03-spread-home-2pt5"
+ },
+ "0x4ceb618af33e16216c3687e5fdda59c78b7e0037eb826c47ad53d5a58c9f4220": {
+  "created_at": "2026-11-19T16:03:18.751825Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"The Better Part of Bravery\" from Wildwood be nominated for Best Original Song at the 99th Academy Awards?",
+  "revisions": 1,
+  "sha256": "ac615450af2a8d24cf136f669a237b47205d59012876c1a1dce66cc665eb5647",
+  "slug": "will-the-better-part-of-bravery-from-wildwood-be-nominated-for-best-original-song-at-the-99th-academy-awards"
  },
  "0x4d6c3559cf7c882d5c4c9d794f8b0dff4543b6e5ab0b7d725c6d3733d4977120": {
   "created_at": "2026-10-09T16:32:40.228485Z",
@@ -1560,6 +1578,7 @@
   "created_at": "2026-10-21T16:02:31.699583Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Another critical PHP security flaw in 2026?",
   "revisions": 1,
   "sha256": "bf520a00c2bd4ccfa14592ddfc83a5841d3c7722f70c44a761e83ce2da6191b0",
@@ -1672,6 +1691,7 @@
   "created_at": "2026-10-26T21:52:40.223245Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic IPO on November 25, 2026?",
   "revisions": 1,
   "sha256": "4c8d32ccaa0a7e96e7a5d4f37f9c74090178af6cbaad92cb36379597bd2e6821",

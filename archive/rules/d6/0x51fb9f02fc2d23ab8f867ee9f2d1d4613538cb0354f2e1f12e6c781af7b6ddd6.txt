@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if Anthropic's Class A common stock (Nasdaq: ANT) has an official closing price below $83.00, its initial public offering (IPO) price, on any trading day between market creation and the listed date (ET), inclusive. Otherwise, this market will resolve to "No".
+
+Anthropic's IPO priced at $83.00 per share of Class A common stock on November 18, 2026, as shown on the cover of its final prospectus filed with the SEC under Rule 424(b).
+
+The official closing price is Nasdaq's official closing price (NOCP) for ANT, as shown on Nasdaq's ANT historical NOCP page (https://www.nasdaq.com/market-activity/stocks/ant/historical-nocp). Intraday prices and pre-market, after-hours or other-venue trades will not count. If Nasdaq is not, or is no longer, the primary listing exchange for ANT, the official closing price published by its primary listing exchange will be used instead.
+
+If trading in ANT is halted or ends early on a trading day and no official closing price is published for that day, the last regular-session trade price on the primary listing exchange for that day will be used as that day's closing price.
+
+If Anthropic effects a stock split, reverse stock split or stock dividend, the $83.00 threshold will be adjusted by the same ratio for closing prices on and after the date the change takes effect.
+
+If ANT ceases trading before the listed date (for example, because Anthropic is acquired), only official closing prices published before it ceased trading will be considered.

@@ -314,6 +314,7 @@
   "created_at": "2026-08-19T13:45:05.246802Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's IPO valuation be between $1.50T and $1.75T?",
   "revisions": 1,
   "sha256": "601f3c0cb14a0e263a9a86c7e6796a2a921cf39df7cd63d30db93efb8811fb05",
@@ -998,6 +999,7 @@
   "created_at": "2026-09-02T19:14:13.564464Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 Minnesota Senate election by 5% or more?",
   "revisions": 1,
   "sha256": "5cfd70f51480de938abc14471b21f2755f8d7c1c170e2a3badcd281655eb74a6",
@@ -1501,6 +1503,7 @@
   "created_at": "2026-10-26T21:52:41.950027Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic not IPO by November 30, 2026?",
   "revisions": 1,
   "sha256": "4c8d32ccaa0a7e96e7a5d4f37f9c74090178af6cbaad92cb36379597bd2e6821",
@@ -1598,6 +1601,15 @@
   "revisions": 1,
   "sha256": "a114852b5d7bfaa0f2ad7791d194b679684565f7ced3d54f7eff2d897a82b065",
   "slug": "will-matt-gaetz-win-the-2028-republican-presidential-nomination"
+ },
+ "0xf43b443bb73c1176a2c6409976fdb2ca1409a814eff941c9bd4b9bfd173f2653": {
+  "created_at": "2026-11-19T16:03:18.833094Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"The Saddest Song\" from Artificial be nominated for Best Original Song at the 99th Academy Awards?",
+  "revisions": 1,
+  "sha256": "ac615450af2a8d24cf136f669a237b47205d59012876c1a1dce66cc665eb5647",
+  "slug": "will-the-saddest-song-from-artificial-be-nominated-for-best-original-song-at-the-99th-academy-awards"
  },
  "0xf51c57fdcc0cc81fb16fa92d155cc41d08f80ab9578d02f15553f8e9196ce753": {
   "created_at": "2026-10-13T19:55:53.105182Z",

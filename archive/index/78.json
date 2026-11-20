@@ -113,6 +113,7 @@
   "created_at": "2026-08-07T20:30:50.178749Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 ID-01 House election by 50% or more?",
   "revisions": 1,
   "sha256": "7a014bf118162aeaea4d65a862670150fbcee62c2239f6d90cb499b08e972ccb",
@@ -693,6 +694,15 @@
   "sha256": "f874aae0e7386ac84a7ca6125ec17ed282c5aa2477e992f4cc6237c08dd10fae",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-14-house-election-by-10-15"
  },
+ "0x6b1e24483a166e3e0b197003075f65a2e5c91b83e3293fb25990fdd379f6f878": {
+  "created_at": "2026-11-20T00:21:27.043408Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic's valuation hit (HIGH) $1.6T by December 31?",
+  "revisions": 1,
+  "sha256": "40cc4b1c1591e8310a1db6419b4d06d79a98216f31c40ed270f34c21b899a05f",
+  "slug": "will-anthropics-valuation-hit-high-1pt6t-by-december-31"
+ },
  "0x6da1ebfd01cd428de0f5720fb695b4cda8677e0dbfe3730338aa46f31ab7dc78": {
   "created_at": "2026-09-13T08:15:53.489077Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -816,6 +826,7 @@
   "created_at": "2026-08-05T18:34:53.843492Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 Arkansas gubernatorial election?",
   "revisions": 1,
   "sha256": "7d7192007a358d559f6566f811448731465aa24868b1d6d81dc0eb813b440136",
@@ -1097,6 +1108,7 @@
   "created_at": "2026-08-19T13:35:47.533921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's initial public offering occur in November 2027 (ET)?",
   "revisions": 1,
   "sha256": "1937c1229ce0319cbd30411db670159abe67593c7e34f1403ddf148d8f5dee09",

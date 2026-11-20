@@ -157,6 +157,7 @@
   "created_at": "2026-08-04T18:14:24.753709Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 Louisiana Senate election by 0%-5%?",
   "revisions": 1,
   "sha256": "3da92839387be6c9aebeef11ed58d77b4f4de49701c676f1aed716a7088f0ef5",
@@ -837,6 +838,15 @@
   "sha256": "848dd1ad960dd5710feb380849cadbd2aada0cd5e7822565ca34cc79c0c6d1b0",
   "slug": "2027-soccer-egypt-premier-league-winner-smouha"
  },
+ "0x892202da21159801e332580f2f6b642bf43e7d3ef12d93cfada439eda0aa7cff": {
+  "created_at": "2026-11-19T19:21:20.374321Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Petal - Ariana Grande\" be the #2 album for 2026?",
+  "revisions": 1,
+  "sha256": "9ff85ea2805d86c1f1eaf5d31b64b13f5d9e812030ca7456a452c014a7064712",
+  "slug": "will-petal-ariana-grande-be-the-2-album-for-2026"
+ },
  "0x8a3df07d1690088db25420cf169f2b593ce07870f7cffb225c5293f13bd886ff": {
   "created_at": "2026-10-13T19:39:36.875491Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1266,6 +1276,15 @@
   "sha256": "2c046d3975fac62dcd40d7644730b9a49da73d76387b3acfa006f140955d7354",
   "slug": "2027-womens-college-basketball-national-champion-duke"
  },
+ "0xb3f1710f09e4b5f40ed26d9784b86af123c90306977714b656cf3f5fee2a52ff": {
+  "created_at": "2026-11-18T19:51:29.813212Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Tom Cruise win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-tom-cruise-win-best-actor-at-the-32nd-critics-choice-awards"
+ },
  "0xb4f39dd74a4da924d0184205a96bf843009a8beaf27e7bbbf3836e922843e5ff": {
   "created_at": "2026-09-02T19:39:45.334657Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1344,6 +1363,7 @@
   "created_at": "2026-08-28T19:43:46.570115Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Orlando City SC win the 2026 MLS Eastern Conference?",
   "revisions": 1,
   "sha256": "eaf777950e049a2e80daac661f22587985e09b52d79dd38f53644ab7525d799c",

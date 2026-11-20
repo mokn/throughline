@@ -301,6 +301,15 @@
   "sha256": "46e3f42cb9a43eb76759c9a843c32b0a59e4c05b11db968b28e2bea3a7ddd362",
   "slug": "f1-las-vegas-grand-prix-driver-fastest-lap-bortoleto-2026-11-21"
  },
+ "0x3213913c40d28dd128717a040fb587812df3f6dd30c5590ad6ec497ef8ca7e6e": {
+  "created_at": "2026-11-19T19:21:21.177925Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Short n' Sweet - Sabrina Carpenter\" be the #2 album for 2026?",
+  "revisions": 1,
+  "sha256": "9ff85ea2805d86c1f1eaf5d31b64b13f5d9e812030ca7456a452c014a7064712",
+  "slug": "will-short-n-sweet-sabrina-carpenter-be-the-2-album-for-2026"
+ },
  "0x32e2c1c0c82fc330e1f88b3dba5a8ee36e3cb6b5767030ca6d2f6a900e2c046e": {
   "created_at": "2026-08-07T20:17:30.213618Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -433,6 +442,7 @@
   "created_at": "2026-10-24T11:30:41.640137Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Liam Lawson achieve the fastest lap in Practice 2 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "9dc50934f5a387ee355a8fb2dd25a23e0d8d0c228a1899cf92c8ad3084f01f97",
@@ -814,6 +824,7 @@
   "created_at": "2026-08-18T14:13:00.652439Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Minnesota be between 2,900,000 and 3,050,000?",
   "revisions": 1,
   "sha256": "fc705f44ae1309cc8bebc735e3c33c49daa65c91a302e410c9b2a324a22d25e7",

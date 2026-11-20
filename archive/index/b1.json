@@ -275,6 +275,15 @@
   "sha256": "85849a9577f78a00b106dae15533e5d3a5fdb0a7301e8b8c749e5648ef14b915",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-05-house-election-by-0-15"
  },
+ "0x31004e7066fb2e2cefec3b28f36a94869deb3d94a811256149bb9e68ad2d46b1": {
+  "created_at": "2026-11-19T19:21:24.428974Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Sabrina Carpenter be the #2 artist in the US for 2026?",
+  "revisions": 1,
+  "sha256": "a96e5e63c17007600c3d183f4f5ececad298deade1e45d7f878b153b20894ce8",
+  "slug": "will-sabrina-carpenter-be-the-2-artist-in-the-us-for-2026"
+ },
  "0x3116a273e27b49b957e936a6a4b0cbc0c3bbccd1009e43fff348209cc0b219b1": {
   "created_at": "2026-01-28T15:38:25.906803Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -487,6 +496,7 @@
   "created_at": "2026-08-25T21:28:56.402081Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO closing market cap above $1.75T?",
   "revisions": 1,
   "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
@@ -999,6 +1009,7 @@
   "created_at": "2026-08-06T21:37:57.465937Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 AR-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "bb8119fb09ff0107dae6b1c127df939736760322d51697a4cd434937bf550457",
@@ -1067,6 +1078,15 @@
   "revisions": 1,
   "sha256": "2ba2f5b98f7327821c7d461b3568906801375ca6f53720be17520a51afcee566",
   "slug": "will-trump-pardon-stefan-brodie-before-2027"
+ },
+ "0xa639fdd4c1e0dbb5177285ddc159b4ac39b6409623c970143d3ab79cbf4eaeb1": {
+  "created_at": "2026-11-19T16:28:53.756534Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Thierry Henry be the next head coach of the USMNT?",
+  "revisions": 1,
+  "sha256": "220465823a4588ef3e7113263708752a4884f32e27fd0d983522de4634548157",
+  "slug": "will-thierry-henry-be-the-next-head-coach-of-the-usmnt"
  },
  "0xa6695907270fbc6050813ace2963e1def470ce4d6428815a53629b7db6cfb8b1": {
   "created_at": "2026-07-30T19:07:46.515965Z",
@@ -1352,6 +1372,15 @@
   "sha256": "32d85d3df19bfe913dab5362d8eeabc4e437a48a9afb6576f9e524813b6c0034",
   "slug": "will-benfica-score-the-most-goals-in-the-uel-league-phase"
  },
+ "0xca5e9f12f848bb445478cfa6f731f4fcb78364aff4554a5a4e153baad70ac9b1": {
+  "created_at": "2026-11-18T19:51:42.532242Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Timoth\u00e9e Chalamet win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-timothee-chalamet-win-best-actor-at-the-32nd-critics-choice-awards"
+ },
  "0xcc1e4603342d8ada7e7fca9fcc198b0fcd2a5e33d59896968a300e5ccf7e59b1": {
   "created_at": "2026-01-30T23:22:59.104119Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1451,6 +1480,15 @@
   "revisions": 1,
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-jamal-murray"
+ },
+ "0xe1f85469858e6ec04896b97d73287dee7d62f58efec019d13f495b83b55252b1": {
+  "created_at": "2026-11-19T19:16:49.673465Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic be added to the S&P 500 by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "309a35d245851eba2fddb894f6a9903e0325728e9734378337d084bfddc57682",
+  "slug": "will-anthropic-be-added-to-the-sp-500-by-june-30-2027"
  },
  "0xe25eab4b0e7a17c7db1648927482591e0f2a4cf953c238e423eb44370b9627b1": {
   "created_at": "2026-11-06T22:31:39.26393Z",

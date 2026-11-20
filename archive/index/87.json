@@ -231,6 +231,7 @@
   "created_at": "2026-11-18T21:35:16.733616Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO closing market cap above $1.6T?",
   "revisions": 1,
   "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
@@ -340,6 +341,7 @@
   "created_at": "2026-08-18T14:07:44.691904Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Arkansas be between 600,000 and 675,000?",
   "revisions": 1,
   "sha256": "d2b2351fad01e9bce215159052b3588d888406f522c90e537bf4a28d8921a151",
@@ -1016,6 +1018,7 @@
   "created_at": "2026-08-19T13:35:47.810866Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's initial public offering occur in December 2027 (ET)?",
   "revisions": 1,
   "sha256": "1937c1229ce0319cbd30411db670159abe67593c7e34f1403ddf148d8f5dee09",
@@ -1204,6 +1207,15 @@
   "sha256": "805845482896243dbce7dc3a7f9bae8b7486509000729b6533897b82e8472584",
   "slug": "will-mika-biereth-monaco-be-the-top-goalscorer-of-the-2026-27-ligue-1-season"
  },
+ "0xc0c24c633a75fbb7573935e5742d18d0c2fec025c18905878ee0f011f74b8f87": {
+  "created_at": "2026-11-19T22:57:09.687158Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Moscow air traffic suspended by December 31?",
+  "revisions": 1,
+  "sha256": "f9540da11768691e20a3635d1ec0a8e165f6bde0361c5b3f81af537224981884",
+  "slug": "moscow-air-traffic-suspended-by-december-31-20261119"
+ },
  "0xc1ed85841e56e1267aa2bcbb6ffff6e00988c5bb87770de84357f9b291745087": {
   "created_at": "2026-08-10T23:57:18.015195Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1301,6 +1313,7 @@
   "created_at": "2026-10-26T21:43:41.586799Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic raise between $95B and $105B in its IPO?",
   "revisions": 1,
   "sha256": "149857b3d02e1e0c0580bc4198e9de904d192a6da982ef9469658ff681d6bb5b",

@@ -1294,6 +1294,7 @@
   "created_at": "2026-08-31T18:14:54.319498Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Ji\u0159\u00ed Veselka be the next Mayor of Liberec?",
   "revisions": 1,
   "sha256": "dadfbcc8e9fb0899e69395a2d2028d5ac187340cca4c5585e8ae3b9f9dee5caa",
@@ -1581,5 +1582,14 @@
   "revisions": 1,
   "sha256": "edf665cffad448e3617d1ca47fb0529455cf1c45497311d745223579783d731f",
   "slug": "will-tencent-have-the-best-ai-model-on-livebench-overall-at-the-end-of-november-2026"
+ },
+ "0xfa72a47a30429798f81160c840d152ac31688e9e3b7824940ec6034512f57c4d": {
+  "created_at": "2026-11-19T23:07:39.523482Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Lisa Su publicly testify before Congress by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "bab36b12f8a99f5249008e8774cdcefff1c9cf107e18c31dd5609f4023208c7f",
+  "slug": "will-lisa-su-publicly-testify-before-congress-by-june-30-2027"
  }
 }

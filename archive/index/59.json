@@ -448,6 +448,7 @@
   "created_at": "2026-08-19T13:35:44.5318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's initial public offering occur in November 2026 (ET)?",
   "revisions": 1,
   "sha256": "1937c1229ce0319cbd30411db670159abe67593c7e34f1403ddf148d8f5dee09",
@@ -1707,6 +1708,15 @@
   "revisions": 1,
   "sha256": "dc830ecd15d06429f059dad964112ae07599fbb6b7cdc4bd3003c50d1f561ad2",
   "slug": "will-nvda-dip-to-200-in-november-2026"
+ },
+ "0xfd6687a8169c22d1883a54732145acf6bfa21e6448a13c28c12cd19619b49659": {
+  "created_at": "2026-11-19T20:12:34.119225Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Jumanji: Open World\" score at least 60 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "c190b67579f072df34c8dca268c1434a53b4982045ef741128b753170da85ddc",
+  "slug": "will-jumanji-open-world-score-at-least-60-on-the-rotten-tomatoes-tomatometer-20261228"
  },
  "0xfead81ec1b8fbaf410ffae4697ab162d156df510fed1419b9850410a8e0dfe59": {
   "created_at": "2026-10-21T23:30:00.53732Z",

@@ -186,6 +186,7 @@
   "created_at": "2026-08-19T13:35:48.040725Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic not IPO before 2028?",
   "revisions": 1,
   "sha256": "1937c1229ce0319cbd30411db670159abe67593c7e34f1403ddf148d8f5dee09",
@@ -232,6 +233,7 @@
   "created_at": "2026-10-24T11:30:37.960112Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Fernando Alonso achieve the fastest lap in Practice 2 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "9dc50934f5a387ee355a8fb2dd25a23e0d8d0c228a1899cf92c8ad3084f01f97",
@@ -1319,6 +1321,15 @@
   "revisions": 1,
   "sha256": "fd46f61ebf054ec5de412aa699d7c1b2cfe038cb447b9a1ccbaf3d71a2704d81",
   "slug": "deepseek-added-to-the-entity-list-by-march-31-2027"
+ },
+ "0xd813b326b198500eb15b666ab9c43a9c7cd2c1c9b72f69b08d9d2062cbaa1bcb": {
+  "created_at": "2026-11-19T20:22:26.174406Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic\u2019s market capitalization be between $1.00T and $1.25T at the end of December 2026?",
+  "revisions": 1,
+  "sha256": "51da5e8edd8b5f8de23370baec1fbf62874f0b58ecb84d20049d075db6b6c209",
+  "slug": "will-anthropics-market-capitalization-be-between-1pt00t-and-1pt25t-at-the-end-of-december-2026"
  },
  "0xda2e9e8ad08e28d88e7906696f41e07e368781cf495da3896e58526b472b0acb": {
   "created_at": "2026-05-19T18:11:16.330277Z",

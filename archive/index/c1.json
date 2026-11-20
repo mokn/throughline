@@ -112,6 +112,7 @@
   "created_at": "2026-08-06T21:37:57.969942Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-03 House election by 40% or more?",
   "revisions": 1,
   "sha256": "fa3c38d99171f85df0fa9d74a6a2c9ade78d4356f256eb338ec7de35edd3303c",
@@ -200,6 +201,15 @@
   "revisions": 1,
   "sha256": "0c08ea78c7960cc37264f74c0fee595bf1e493d407bde9000a39a51bfffca469",
   "slug": "will-ricardo-alfredo-ramirez-del-villar-llosa-win-the-next-arequipa-mayoral-elections-20260811165718017"
+ },
+ "0x1ca4d2d9886d3da13c19e94312a06a2256889d2dab0871270b551ff281cfbac1": {
+  "created_at": "2026-11-19T23:05:30.231796Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "EU country blames Russia for new sabotage attack by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "59d62b4a4c13b840c6abec81f887c6d6215a3da4f291a056d57bc339f96cafa2",
+  "slug": "eu-country-blames-russia-for-new-sabotage-attack-by-january-31-2027-20261119"
  },
  "0x213db8fe83debe2a4d64d4e4247239bd9c8a53ef383d1996636721285f3f97c1": {
   "created_at": "2026-08-11T18:36:38.524958Z",
@@ -353,6 +363,7 @@
   "created_at": "2026-11-12T22:51:27.094767Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic close less than $70 on its first trading day?",
   "revisions": 1,
   "sha256": "15be5d4cf027854e8cada2685bfcd729fca6ed5c9c13bf6505df41839ae82d74",

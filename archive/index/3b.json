@@ -208,6 +208,7 @@
   "created_at": "2026-11-16T21:32:26.975638Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Daniela Amodei ring the bell at Anthropic's IPO?",
   "revisions": 1,
   "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
@@ -239,6 +240,15 @@
   "revisions": 1,
   "sha256": "50a18ec2e1b8d8c0fa8b360d4158e4825d7c667f7796be4a68e8cd466d560c7a",
   "slug": "will-spcx-dip-to-115-in-november-2026"
+ },
+ "0x2ad44a571f7ae331033acca2a78dffedc3a57e7fd9feee30e09af51cf36a9b3b": {
+  "created_at": "2026-11-19T22:54:07.657107Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Next Gemini Neon (4.1+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "fce298b1115d55f4cbe487b6cdda2b2e78d74109a996120ea4dd1fd511d8b0f9",
+  "slug": "next-gemini-neon-4pt1-released-by-january-31-2027"
  },
  "0x2b21d6ce0071420904eb33eda841e88f3ac775939560402276a8b4cc9eb8b63b": {
   "created_at": "2026-09-09T15:42:09.153887Z",
@@ -1098,6 +1108,15 @@
   "revisions": 1,
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-travis-konecny-win-the-2026-27-maurice-rocket-richard-trophy"
+ },
+ "0xb4f9612dfc350f888c5884cff9b7f6aa318abc65045b7d143e77f1b4bdcaf43b": {
+  "created_at": "2026-11-19T23:05:05.844156Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Iran target Oman by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "ee331e2a7f5736ecd87c05eed78798904fb81b40ffd04704e03e4f6a5bfc5982",
+  "slug": "will-iran-target-oman-by-december-31-2026-20261119"
  },
  "0xb6372707dbc758510853a76960998696e0278583cb630174d2cb03b5a2c9ed3b": {
   "created_at": "2026-11-18T21:08:04.094154Z",

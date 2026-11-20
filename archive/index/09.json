@@ -584,6 +584,15 @@
   "sha256": "0b90793838b009e36545ae48fd06362b594e8600f48bb802803c86644736a51d",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-03-house-election-by-35-40"
  },
+ "0x62e59699da7185f7fed042e977546caaf6296a375c61abf2e6055529d08e7709": {
+  "created_at": "2026-11-19T22:55:30.661744Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will the SpaceX Starship Flight Test 16 Super Heavy booster explode?",
+  "revisions": 1,
+  "sha256": "5ccbd4f09b89aeb46a1fe5e3e6fcdadcc4a6e7e5d1abb70e84c1026308950b83",
+  "slug": "will-spacex-starship-flight-test-16-superheavy-pop"
+ },
  "0x65b604f3b245bc16b8dc5d1646de2efcc0a56d0d543672e095ebba6b75ef1109": {
   "created_at": "2026-08-17T21:07:39.360258Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1184,6 +1193,7 @@
   "created_at": "2026-09-17T22:37:23.627388Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Drake be featured on GTA VI: The Album?",
   "revisions": 1,
   "sha256": "86cf3d37b6a61651666b58e05ed2b8b8c96d68299b68906aa21e7b5e8deb335c",
@@ -1522,6 +1532,7 @@
   "created_at": "2026-02-02T20:04:57.070731Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic have the highest IPO Market Cap 2026?",
   "revisions": 1,
   "sha256": "376db5314c9da0c2c218891f615850789b9adefc26b8bf9be59a24ac89d300ba",

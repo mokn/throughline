@@ -645,6 +645,15 @@
   "sha256": "7359483c754f67216cafc1d8f7ab5cace8693807012c8e7e0cc12dc8f9105fc9",
   "slug": "bryce-young-3324pt5-passing-yards-2026-27"
  },
+ "0x67ff15f0d802ae55292dfd12dac2dba8b7a794947755f7dd86ae0023ee484810": {
+  "created_at": "2026-11-19T20:22:25.411368Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic\u2019s market capitalization be between $750B and $1.00T at the end of December 2026?",
+  "revisions": 1,
+  "sha256": "51da5e8edd8b5f8de23370baec1fbf62874f0b58ecb84d20049d075db6b6c209",
+  "slug": "will-anthropics-market-capitalization-be-between-750b-and-1pt00t-at-the-end-of-december-2026"
+ },
  "0x6884682404d150ca5b265d786a7e205eb7e81cb92b6a9f7d934cc81220729110": {
   "created_at": "2026-07-20T19:43:54.441538Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1098,6 +1107,7 @@
   "created_at": "2026-11-16T21:32:30.053341Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Sam McCandlish ring the bell at Anthropic's IPO?",
   "revisions": 1,
   "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
@@ -1518,6 +1528,7 @@
   "created_at": "2026-09-07T03:58:08.827859Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic IPO by December 15, 2026?",
   "revisions": 1,
   "sha256": "e9b2133f0cfbb81c01abed0a2399a2626e8d2af8bb7aded66a37a9ca83db3190",
@@ -1769,6 +1780,7 @@
   "created_at": "2026-08-18T14:13:00.05818Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Minnesota be between 2,300,000 and 2,450,000?",
   "revisions": 1,
   "sha256": "fc705f44ae1309cc8bebc735e3c33c49daa65c91a302e410c9b2a324a22d25e7",

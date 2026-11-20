@@ -759,6 +759,15 @@
   "sha256": "69b4f546a4c7f851f5b5395d5839eb2d6a870a8fb94477903840e02651f050e9",
   "slug": "first-player-to-win-their-first-major-in-2027-tyrrell-hatton"
  },
+ "0x7adab6cfa153f47f1692c7495588444378df17b4cb90e9186f10fa00896852e6": {
+  "created_at": "2026-11-19T19:16:50.116095Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic be added to the S&P 500 by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "309a35d245851eba2fddb894f6a9903e0325728e9734378337d084bfddc57682",
+  "slug": "will-anthropic-be-added-to-the-sp-500-by-december-31-2027"
+ },
  "0x7c342db76c31728d95fbbae33ff0b12234beb3579fdee876ae4ffc0808ef20e6": {
   "created_at": "2026-08-11T19:09:56.663475Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -790,6 +799,7 @@
   "created_at": "2026-10-30T22:14:08.314498Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic sell between 8% and 9% of its shares in its IPO?",
   "revisions": 1,
   "sha256": "e3f2c706bc0ea59697ccac21ff8ad15074607ade1a30b9d4b3deb47ca5354565",
@@ -1139,6 +1149,7 @@
   "created_at": "2026-08-06T21:37:58.949651Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-03 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "fa3c38d99171f85df0fa9d74a6a2c9ade78d4356f256eb338ec7de35edd3303c",
@@ -1557,6 +1568,15 @@
   "revisions": 1,
   "sha256": "419d23705fec2a1b4692e78f953a0ffa619990b4c4f99c1ab65674356f743fdc",
   "slug": "spl-abh-kho-2026-10-19-exact-score-4-1"
+ },
+ "0xf29406bd9f45effb17a902125a7480b9e15fdc7c24f1a897f543ed3799876be6": {
+  "created_at": "2026-11-19T20:22:57.672553Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Jensen Huang rejoin NVIDIA by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "09e36ed825304152851c57651ca5860bb2ef9fad05efaf6df60e090c42a6afaf",
+  "slug": "will-jensen-huang-rejoin-nvidia-by-march-31-2027"
  },
  "0xf40b8571479f188ad74686fde831c9afb0161f253d14aa09b75b8602c51c78e6": {
   "created_at": "2026-10-29T20:58:02.923471Z",

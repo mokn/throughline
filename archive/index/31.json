@@ -285,6 +285,7 @@
   "created_at": "2026-08-19T13:45:06.229518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's IPO valuation be between $2.25T and $2.50T?",
   "revisions": 1,
   "sha256": "601f3c0cb14a0e263a9a86c7e6796a2a921cf39df7cd63d30db93efb8811fb05",
@@ -1289,6 +1290,7 @@
   "created_at": "2026-11-18T21:34:44.252423Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO closing market cap above $1.4T?",
   "revisions": 1,
   "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
@@ -1374,6 +1376,15 @@
   "revisions": 1,
   "sha256": "259ab7f4d6c1b06cb14b56f04ee0786a768ceaa5b48061e4e9fcd9559b8dc9eb",
   "slug": "will-the-boston-celtics-be-the-2027-nba-eastern-conference-champion-20260624155839404"
+ },
+ "0xe21cc44dc780344d04b3206772ddf7c9379226a0457f858492435065e8861e31": {
+  "created_at": "2026-11-19T20:22:28.857767Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic\u2019s market capitalization be between $2.25T and $2.50T at the end of December 2026?",
+  "revisions": 1,
+  "sha256": "51da5e8edd8b5f8de23370baec1fbf62874f0b58ecb84d20049d075db6b6c209",
+  "slug": "will-anthropics-market-capitalization-be-between-2pt25t-and-2pt50t-at-the-end-of-december-2026"
  },
  "0xe2d0b1c85b0d0983ee4f8c876c5a3156d9bc58b3236372308953849226c25a31": {
   "created_at": "2026-07-24T18:32:25.646464Z",

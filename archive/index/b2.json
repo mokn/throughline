@@ -1402,6 +1402,7 @@
   "created_at": "2026-10-25T04:01:48.008984Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Silver (XAGUSD) hit (LOW) $42 in November?",
   "revisions": 1,
   "sha256": "5652439fc155130d261ef845b9a88778a465008a0e335834acabe2f063b74c2a",
@@ -1442,6 +1443,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-rasmus-dahlin-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0xbfa517e781371ae38e58ba6aac37b4892a44d33b1cbb6028a451600d807c52b2": {
+  "created_at": "2026-11-18T21:31:12.868218Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Alba Morena win Benidorm Fest 2027?",
+  "revisions": 1,
+  "sha256": "0445449ee9b30cbe4ae5db138a4d8f0942371a6e2e197afbec8c4a57cd03f6f3",
+  "slug": "will-alba-morena-win-benidorm-fest-2027"
  },
  "0xc0a79b879e357c6c9989bc8acc09f743d15bd6b0024a855d3b683ebb04e85eb2": {
   "created_at": "2026-04-21T16:27:01.851787Z",

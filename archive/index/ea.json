@@ -1307,6 +1307,7 @@
   "created_at": "2026-11-16T21:32:26.374919Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Dario Amodei ring the bell at Anthropic's IPO?",
   "revisions": 1,
   "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
@@ -1347,6 +1348,15 @@
   "revisions": 1,
   "sha256": "46fdc625da20b0f940eeaa1fe393a74160d203fcd474a1a2047b01dff4e375fc",
   "slug": "spl-ith-sha-2026-10-16-corners-team-home-4pt5"
+ },
+ "0xec460051cfe0ac6036d55a770094b5c1b987d7393d6b6ced29aabd0547ac01ea": {
+  "created_at": "2026-11-18T19:51:27.188285Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will John Turturro win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-john-turturro-win-best-actor-at-the-32nd-critics-choice-awards"
  },
  "0xed053071403fe462738832aa1f5961e10de603663eb9c8f1e78867269cd6ecea": {
   "created_at": "2026-01-28T15:28:53.6481Z",
@@ -1434,6 +1444,7 @@
   "created_at": "2026-08-10T15:43:07.850582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 MN-02 House election?",
   "revisions": 1,
   "sha256": "c8bf913cbabac52bf06674528fc86766025b0f1e7a7240e00d926bc7df430e8d",

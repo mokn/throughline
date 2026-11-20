@@ -166,6 +166,15 @@
   "sha256": "f75b9de88fcb6edbb262e9bf17d91025679b7a40532c3aaa9a7d53409e8798cc",
   "slug": "brazilian-nbb-2027-champion-minas-tenis-clube"
  },
+ "0x1e862f5b73f4b854a5b0b8130319a290c0ae6e4ed820b44f3babfbe2006f3a2f": {
+  "created_at": "2026-11-18T21:31:13.457039Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Andr\u00e9s Koi win Benidorm Fest 2027?",
+  "revisions": 1,
+  "sha256": "0445449ee9b30cbe4ae5db138a4d8f0942371a6e2e197afbec8c4a57cd03f6f3",
+  "slug": "will-andres-koi-win-benidorm-fest-2027"
+ },
  "0x1ea2b1c0091848e75be823c039081f7db66ebb48af0e5d286da156fce773722f": {
   "created_at": "2026-07-17T22:44:57.715162Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -208,6 +217,7 @@
   "created_at": "2026-08-18T14:56:56.231784Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Fiona Abrahams be the next mayor of Cape Town?",
   "revisions": 1,
   "sha256": "3c79fc453f14e0dd0f723eb027a339c0eb3f2b798d2f7f692f3005a955a7bb1b",
@@ -354,6 +364,7 @@
   "created_at": "2026-10-26T21:43:42.066076Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic raise between $105B and $115B in its IPO?",
   "revisions": 1,
   "sha256": "149857b3d02e1e0c0580bc4198e9de904d192a6da982ef9469658ff681d6bb5b",
@@ -720,6 +731,7 @@
   "created_at": "2026-08-10T15:43:33.448471Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 MN-07 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "f212e62c82af12dcfc004d03eec9f7d18bc27f176a9a02c6f0c5ea6da73c0004",
@@ -1260,6 +1272,7 @@
   "created_at": "2026-08-06T21:38:25.34085Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-04 House election by 50%-55%?",
   "revisions": 1,
   "sha256": "c86866edffdd8e58ed9fca50b0f49e335bc454549c937034703a0ab614ee1020",

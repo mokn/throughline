@@ -221,6 +221,7 @@
   "created_at": "2026-11-16T21:38:38.681078Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO first-day pop above 30%?",
   "revisions": 1,
   "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
@@ -1053,6 +1054,15 @@
   "revisions": 1,
   "sha256": "f6e28ce3e554166d6f8da46e161360a9ac6cd9fa553abd47462ffaabcfeb41e1",
   "slug": "will-alibaba-have-the-1-ai-model-at-the-end-of-december-2026"
+ },
+ "0xa9384768da3e12ff1199ee1dc23688352597b577d53716be1efeae24f8cbdfee": {
+  "created_at": "2026-11-19T19:21:10.802009Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Taylor Swift be the #2 artist in the US for 2026?",
+  "revisions": 1,
+  "sha256": "a96e5e63c17007600c3d183f4f5ececad298deade1e45d7f878b153b20894ce8",
+  "slug": "will-taylor-swift-be-the-2-artist-in-the-us-for-2026"
  },
  "0xa93a6baa36b5a87fb9ccd80781cc3c5e65939b83ba2eac0003826343693332ee": {
   "created_at": "2026-07-31T22:45:21.263656Z",

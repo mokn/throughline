@@ -93,6 +93,7 @@
   "created_at": "2026-11-16T21:32:32.804396Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Mike Krieger ring the bell at Anthropic's IPO?",
   "revisions": 1,
   "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
@@ -475,6 +476,15 @@
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-colts-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
  },
+ "0x4156aa467ad7bddd28dbef4b4bcc00092efd1a2b3c3ff66ad24a876413bff037": {
+  "created_at": "2026-11-19T20:40:10.376453Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Sian Heder win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-sian-heder-win-best-director-at-the-32nd-critics-choice-awards"
+ },
  "0x44ee261bc56c4b2dae078bfb806ebd92d55aeeba596c679fd39346ec37e0c237": {
   "created_at": "2026-10-13T15:50:47.207173Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -528,6 +538,15 @@
   "revisions": 1,
   "sha256": "a191ef1c8dd8eec275715b9ab835b911a1665ca590291bf2e88f6ce62103c5a7",
   "slug": "will-justin-bieber-be-the-second-most-streamed-spotify-artist-for-2026-20260609190428838"
+ },
+ "0x4d54e710fdb028f46fae5f4b050b3cae7a5f8b13c55844bb795ad73064837737": {
+  "created_at": "2026-11-19T20:40:11.159264Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Curry Barker win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-curry-barker-win-best-director-at-the-32nd-critics-choice-awards"
  },
  "0x4dc8ad36c268566b731fb24dc2428ced6c966680133240c10db9660edb045037": {
   "created_at": "2026-10-15T13:14:22.273193Z",
@@ -793,6 +812,15 @@
   "sha256": "797f4246d1642c43fed811251c53ba5c92605b5361666d301c5427673bbb514c",
   "slug": "will-the-reserve-bank-of-india-increase-the-policy-repo-rate-by-50-bps-at-the-february-2027-meeting"
  },
+ "0x70c2b133bbbac3147ba2e522282fd844d875c1860fd1d8de2786bd208fdce337": {
+  "created_at": "2026-11-19T20:40:08.517515Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Peter Farrelly win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-peter-farrelly-win-best-director-at-the-32nd-critics-choice-awards"
+ },
  "0x7100c3957470f08bf32bdc74303de7deb3d362adb51289bb66e3e01bc6590637": {
   "created_at": "2026-09-14T20:32:32.314325Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -884,6 +912,15 @@
   "revisions": 1,
   "sha256": "66a8f9315a875fdbe75bb5d5e0d763db9a8f4f85dea1f51ccf7fd5fece85d92a",
   "slug": "will-the-democratic-party-win-the-fl-28-house-seat"
+ },
+ "0x7ee1567e16cd711826df65b8c7001009bf80ec41b734efefa79e817528f2e237": {
+  "created_at": "2026-11-18T19:51:23.782646Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Matt Damon win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-matt-damon-win-best-actor-at-the-32nd-critics-choice-awards"
  },
  "0x7f79c9bff9c32c03eea400c76fd32b480942814fc6379359be1cf4dcd468be37": {
   "created_at": "2025-11-19T15:53:30.081069Z",
@@ -1564,6 +1601,15 @@
   "revisions": 1,
   "sha256": "4bc356e5e07fa3f05f2aaf5069ea488250240ca9031ac917cffd377bf5624ad4",
   "slug": "will-cason-wallace-be-named-to-the-2027-nba-all-defensive-first-team"
+ },
+ "0xe44e24c4bfc8101cb887ce2a847c18c86a08c73861f962c4be1039752202e137": {
+  "created_at": "2026-11-19T20:40:07.011179Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Jesse Eisenberg win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-jesse-eisenberg-win-best-director-at-the-32nd-critics-choice-awards"
  },
  "0xe470c53e96d8cf7cde482522a51189b4ee1df60aa370b3f3d99b1909b331c437": {
   "created_at": "2026-09-18T09:46:19.018687Z",

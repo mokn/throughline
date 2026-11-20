@@ -242,6 +242,7 @@
   "created_at": "2026-08-28T19:43:53.93831Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Seattle Sounders FC win the 2026 MLS Western Conference?",
   "revisions": 1,
   "sha256": "4a90d1c2db75f71506fc1c06af80b3b34de1196dd77e8d2509aaaf525e038ab9",
@@ -768,6 +769,15 @@
   "sha256": "6c76e9d3e9497e489f690cfda78887a1a79f55ac3cdff4a751ab938469554b21",
   "slug": "will-kryvbas-kryvyi-rih-finish-12th-in-ukrainian-premier-league-2026-27"
  },
+ "0x80a9f36a40d497ad07dd5c787b42c05b3cc508128255cc90f2da0701b90a4423": {
+  "created_at": "2026-11-18T19:51:33.976282Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Jordan Firstman win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-jordan-firstman-win-best-actor-at-the-32nd-critics-choice-awards"
+ },
  "0x830fc841e63b8817c21964c464bbae9c2f6b5cf8c2336019fd43dcf401fde223": {
   "created_at": "2026-09-08T16:54:31.942332Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1039,6 +1049,7 @@
   "created_at": "2026-09-02T19:14:12.992183Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 Minnesota Senate election by 0%-5%?",
   "revisions": 1,
   "sha256": "5cfd70f51480de938abc14471b21f2755f8d7c1c170e2a3badcd281655eb74a6",

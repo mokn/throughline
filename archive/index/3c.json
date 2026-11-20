@@ -187,6 +187,7 @@
   "created_at": "2026-08-18T14:13:00.805538Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Minnesota be 3,050,000 or more?",
   "revisions": 1,
   "sha256": "fc705f44ae1309cc8bebc735e3c33c49daa65c91a302e410c9b2a324a22d25e7",
@@ -251,6 +252,7 @@
   "created_at": "2026-04-28T22:26:42.993Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic\u2019s market cap be between 0.9T and 1.2T at market close on IPO day by December 31 2027?",
   "revisions": 1,
   "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",
@@ -943,6 +945,15 @@
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",
   "slug": "will-oneil-cruz-win-the-2026-nl-comeback-player-of-the-year-award"
  },
+ "0x6f146e13d853df3843345211fb2f83d32cef5fb4490b48e0cd5afb42eb76053c": {
+  "created_at": "2026-11-19T22:57:46.521376Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Next Gemini Carbon (4.1+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "dd17860d27354ec7bf42c67fa81d60bc3c1a2f083f34856a4ae25c041e5e3356",
+  "slug": "next-gemini-carbon-4pt1-released-by-january-31-2027"
+ },
  "0x6f45052fdf7650b1fc245ee2a16d00477da8c6a1e261a1407496e8d2f147b63c": {
   "created_at": "2026-11-13T00:35:27.3787Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1613,6 +1624,7 @@
   "created_at": "2026-10-30T22:14:05.979479Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic sell between 4% and 5% of its shares in its IPO?",
   "revisions": 1,
   "sha256": "e3f2c706bc0ea59697ccac21ff8ad15074607ade1a30b9d4b3deb47ca5354565",

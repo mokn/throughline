@@ -460,6 +460,7 @@
   "created_at": "2026-08-06T21:37:57.7138Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 AR-02 House election by 5% or more?",
   "revisions": 1,
   "sha256": "bb8119fb09ff0107dae6b1c127df939736760322d51697a4cd434937bf550457",
@@ -578,6 +579,7 @@
   "created_at": "2026-08-19T15:52:34.528215Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic list on the NYSE?",
   "revisions": 1,
   "sha256": "10e9c49f035f1ad9309c2f9a80535b412263ebb6dad9532e3b05d708a7eb4039",
@@ -591,6 +593,15 @@
   "revisions": 1,
   "sha256": "d091208590b735cf3dd31c4a4ac6a1dcf9d5b2258dbb0ec3062993225971238e",
   "slug": "will-jordan-kyrou-win-the-2026-27-art-ross-trophy"
+ },
+ "0x58ca7a41319c80be3bf60a59a6c7532b66a437b491b1c582241d0004bba64162": {
+  "created_at": "2026-11-19T16:28:55.446773Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Marko Mitrovic be the next head coach of the USMNT?",
+  "revisions": 1,
+  "sha256": "220465823a4588ef3e7113263708752a4884f32e27fd0d983522de4634548157",
+  "slug": "will-marko-mitrovic-be-the-next-head-coach-of-the-usmnt"
  },
  "0x594dce16a9268036a9543ad60e40a74bef51f069615beab13ecc73974caf9f62": {
   "created_at": "2026-10-13T15:55:52.731399Z",
@@ -936,6 +947,7 @@
   "created_at": "2026-05-19T04:16:47.060349Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's valuation hit (HIGH) $1.5T by December 31?",
   "revisions": 1,
   "sha256": "40cc4b1c1591e8310a1db6419b4d06d79a98216f31c40ed270f34c21b899a05f",
@@ -1308,6 +1320,15 @@
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
   "slug": "will-boaster-play-for-trace-esports-in-2027-1788882258365"
  },
+ "0xc77e5aa3568d0ecc5d444b3ae741a1c25027009157e9eb3b851eb3af44f90062": {
+  "created_at": "2026-11-18T21:31:20.562698Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Suzete win Benidorm Fest 2027?",
+  "revisions": 1,
+  "sha256": "0445449ee9b30cbe4ae5db138a4d8f0942371a6e2e197afbec8c4a57cd03f6f3",
+  "slug": "will-suzete-win-benidorm-fest-2027"
+ },
  "0xc810af3639c6d98f915daa85e55cccd69d956f53f39b2cced14ce9027fa97462": {
   "created_at": "2026-10-24T04:00:04.942575Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1506,6 +1527,7 @@
   "created_at": "2026-10-26T21:43:38.81954Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic raise less than $65B in its IPO?",
   "revisions": 1,
   "sha256": "149857b3d02e1e0c0580bc4198e9de904d192a6da982ef9469658ff681d6bb5b",

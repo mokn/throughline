@@ -192,6 +192,15 @@
   "sha256": "4cb090c949ab3de1a78923bc9d368d14a8516c9769a931175f044c28e80a0441",
   "slug": "will-keri-russell-the-diplomat-win-best-actress-television-drama-at-the-84th-golden-globes"
  },
+ "0x26ea5ea2e06ea6aa6b224858f7923ea28edecbdabb67bca1cf6ddb6b7b6ec743": {
+  "created_at": "2026-11-19T16:28:51.949923Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Gareth Southgate be the next head coach of the USMNT?",
+  "revisions": 1,
+  "sha256": "220465823a4588ef3e7113263708752a4884f32e27fd0d983522de4634548157",
+  "slug": "will-gareth-southgate-be-the-next-head-coach-of-the-usmnt"
+ },
  "0x2c68820826af5b75605b51db33296dde93d700a691b16e4ed131dc7ddfd50043": {
   "created_at": "2026-08-07T19:11:50.606377Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -269,6 +278,7 @@
   "created_at": "2026-11-16T21:32:37.459747Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Andy Jassy ring the bell at Anthropic's IPO?",
   "revisions": 1,
   "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
@@ -425,6 +435,7 @@
   "created_at": "2026-10-26T21:43:44.111846Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic raise at least $135B in its IPO?",
   "revisions": 1,
   "sha256": "149857b3d02e1e0c0580bc4198e9de904d192a6da982ef9469658ff681d6bb5b",

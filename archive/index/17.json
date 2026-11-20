@@ -489,6 +489,7 @@
   "created_at": "2026-11-16T21:38:37.457979Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO first-day pop above 10%?",
   "revisions": 1,
   "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
@@ -512,10 +513,20 @@
   "sha256": "313cb50e7cccdaddf0b69d30f0ee34540799d76f542f7075d715e3d69300a96b",
   "slug": "will-david-pastrnak-record-40-goals-in-the-2026-27-regular-season"
  },
+ "0x646589321d29dbb579dc4d59047653ec32e6ff01de0ac94f05320c9c95393a17": {
+  "created_at": "2026-11-19T16:28:54.920133Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Thomas Christiansen be the next head coach of the USMNT?",
+  "revisions": 1,
+  "sha256": "220465823a4588ef3e7113263708752a4884f32e27fd0d983522de4634548157",
+  "slug": "will-thomas-christiansen-be-the-next-head-coach-of-the-usmnt"
+ },
  "0x65bc1b094722617782919d23dcc475981510fceeeafe7f96aa60e639a9af4617": {
   "created_at": "2026-08-18T14:19:19.616476Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Louisiana be between 1,600,000 and 1,700,000?",
   "revisions": 1,
   "sha256": "690a346212d10fe5bc5aa9bad772469d93be0eac2c183c4017c43472d380974a",
@@ -895,6 +906,15 @@
   "sha256": "8659894cda157dbe70efa40b0afc0402af5f1a8dbef1828da039934be8f74d6b",
   "slug": "will-antonio-banderas-win-best-supporting-actor-at-the-32nd-critics-choice-awards"
  },
+ "0xa6921721f635bc547499ec8d41c1f4450a3cbe786caf0399d07f99387e449117": {
+  "created_at": "2026-11-19T20:19:12.894104Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Matt Borman join NVIDIA's national security committee by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "ffe0a1229cd024fae7863abcac0d289b37b4411d38ebb5679a1e5eda97ba6dd6",
+  "slug": "will-matt-borman-join-nvidias-national-security-committee-by-march-31-2027"
+ },
  "0xa6de2bce79e4dc1523fe0c0ceaf5dd83b73c4b5a0db2298692188f6bdedd3f17": {
   "created_at": "2026-08-05T16:32:44.113256Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1058,6 +1078,15 @@
   "revisions": 1,
   "sha256": "585d390dbc98e768ee2a1852f58943710a9b7fc2484402ca6ce9d81a30e01edb",
   "slug": "will-parivision-make-a-dota-2-roster-change-before-2027"
+ },
+ "0xbedad9b1dc557724bee5a6447e2a3c0d038557ca03082164b36110f81df39017": {
+  "created_at": "2026-11-19T19:21:22.840062Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Kiss All the Time. Disco, Occasionally - Harry Styles\" be the #2 album for 2026?",
+  "revisions": 1,
+  "sha256": "9ff85ea2805d86c1f1eaf5d31b64b13f5d9e812030ca7456a452c014a7064712",
+  "slug": "will-kiss-all-the-time-disco-occasionally-harry-styles-be-the-2-album-for-2026"
  },
  "0xbee8b0450ec77509fa09b3bb27008fca9c899f2d261b2673064200feb240fa17": {
   "created_at": "2026-08-21T17:37:01.933958Z",

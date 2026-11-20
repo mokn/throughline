@@ -40,6 +40,7 @@
   "created_at": "2026-11-16T21:38:40.233062Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO first-day pop above 100%?",
   "revisions": 1,
   "sha256": "7cd1fd4d95034ae5fcf1abf93de51739f32b5d41b48c755a9deb44e23fafa860",
@@ -53,6 +54,15 @@
   "revisions": 1,
   "sha256": "a045889b124fc1fc8b1870a06355ca351e356d751297ca1e46c2edd9762fde25",
   "slug": "2027-soccer-2-bundesliga-runner-up-fc-st-pauli"
+ },
+ "0x0c09a7c7fab2674ceb40cc427cb823a220f6af5f14f55fd1588cf65e23518d34": {
+  "created_at": "2026-11-19T22:55:31.39417Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will the chopsticks catch SpaceX Starship Flight Test 16 Super Heavy booster?",
+  "revisions": 1,
+  "sha256": "8bc8b2642019689ad1576ffb8a5c99bf917fb8ffbcdad3eac5d835a86be9390a",
+  "slug": "will-the-chopsticks-catch-spacex-starship-flight-test-16-superheavy-booster"
  },
  "0x0e55d3186ef1c17e5fa42eb570e7feef16a3a56a79358ce910b91933d2985934": {
   "created_at": "2026-03-15T21:24:56.482341Z",
@@ -897,6 +907,7 @@
   "created_at": "2026-08-10T15:43:33.219446Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 MN-07 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "f212e62c82af12dcfc004d03eec9f7d18bc27f176a9a02c6f0c5ea6da73c0004",
@@ -1093,6 +1104,15 @@
   "sha256": "b66d92bcda8d23aacc6696b03ada2bba20df855eb7fb03a904fb06e3acc88462",
   "slug": "will-microsoft-ai-have-the-best-text-to-image-ai-at-the-end-of-november-2026"
  },
+ "0xa824ea45d1495c212fc20f7c9ce524f02004cfcd2b67fd3ff7a6c1f1a572f134": {
+  "created_at": "2026-11-18T21:31:18.131591Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Pipiolas win Benidorm Fest 2027?",
+  "revisions": 1,
+  "sha256": "0445449ee9b30cbe4ae5db138a4d8f0942371a6e2e197afbec8c4a57cd03f6f3",
+  "slug": "will-pipiolas-win-benidorm-fest-2027"
+ },
  "0xabcb7ac90f566f8b5ee66febebfae4b887fd28d85a6542c8125f90e530259734": {
   "created_at": "2026-10-26T20:06:22.814729Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1207,6 +1227,7 @@
   "created_at": "2026-08-10T15:43:17.919234Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 MN-04 House election by 20%-30%?",
   "revisions": 1,
   "sha256": "77e14b54138a6c263d14139f05911f5d48a087bc2fbbe0fd7fe894a12d584e4f",
@@ -1431,6 +1452,15 @@
   "revisions": 1,
   "sha256": "d0aaf65b8eb522999ea92fd10d22edc1e43ba6504fdbdb1fc46157c16cc4fa4d",
   "slug": "will-samsunspor-finish-15th-in-super-lig-2026-27"
+ },
+ "0xe090d6c42164dad366da50dccee57a97c0f08144aaf892833901a7f5b2cf6134": {
+  "created_at": "2026-11-19T20:40:10.77141Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Nathan Fielder or Lance Oppenheim win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-nathan-fielder-or-lance-oppenheim-win-best-director-at-the-32nd-critics-choice-awards"
  },
  "0xe2b249ecbf8827820b371e0c1d5a90ac6e9ba1c51d99b9a003f35b13af4d0634": {
   "created_at": "2026-08-05T19:51:49.609408Z",

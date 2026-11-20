@@ -903,6 +903,15 @@
   "sha256": "0bd4161737f4b7fafbc157bf1e8c126e30c780f854dd3afca5f2ff40e82300d1",
   "slug": "will-brian-mast-be-the-next-confirmed-army-secretary"
  },
+ "0x97899cbb7b0a521f602b9005b77a8e89c68593cb28f6674b89526bd489999d1a": {
+  "created_at": "2026-11-19T20:19:51.656796Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Dune: Part Three\" score at least 87 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "0b01a1a56179f470331b7b066eb907b624e33762064b0812b5421ef3d398f135",
+  "slug": "will-dune-part-three-score-at-least-87-on-the-rotten-tomatoes-tomatometer"
+ },
  "0x99c60203db7143382f9ea127fd64cd72fab913409941d04ff30e5c51fccbe31a": {
   "created_at": "2026-09-04T19:49:12.138032Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1247,6 +1256,15 @@
   "revisions": 1,
   "sha256": "3aec2152d3c251a9a2d7cfb1447821e5e34ca4db5afa818899329a189638a287",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-michigan-be-between-4600000-and-4800000"
+ },
+ "0xd8b630d5ceafd21cbf3fc006b2ae5f46342088a0a94dd588fdd7ffcfe1c7181a": {
+  "created_at": "2026-11-19T20:40:05.55011Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Martin McDonagh win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-martin-mcdonagh-win-best-director-at-the-32nd-critics-choice-awards"
  },
  "0xda9b82a1746ea72dc028ee25b6527bd5a11031edfd5280b215defb7bad8bb71a": {
   "created_at": "2026-08-05T16:18:04.269681Z",

@@ -609,6 +609,7 @@
   "created_at": "2026-08-18T14:56:56.087965Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Jeremiah Thuynsma be the next mayor of Cape Town?",
   "revisions": 1,
   "sha256": "3c79fc453f14e0dd0f723eb027a339c0eb3f2b798d2f7f692f3005a955a7bb1b",
@@ -807,6 +808,15 @@
   "revisions": 1,
   "sha256": "53f2cccdd30dbf0bb4cea2f99e8b9fc7d6214c4e1a9821a8454c8f513dd6f1b8",
   "slug": "will-granada-cf-be-promoted-to-laliga-2026-27"
+ },
+ "0x87e472becbb90b6068771bcb5958f83872919edc6f10e4c36ee69eb10c7d9ad4": {
+  "created_at": "2026-11-18T21:31:19.152822Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will ROSSA win Benidorm Fest 2027?",
+  "revisions": 1,
+  "sha256": "0445449ee9b30cbe4ae5db138a4d8f0942371a6e2e197afbec8c4a57cd03f6f3",
+  "slug": "will-rossa-win-benidorm-fest-2027"
  },
  "0x87ff544b9e66bf985eec5e811ae9315ca35edf581a64b112b9a09f5ebc05f3d4": {
   "created_at": "2026-08-04T18:35:47.23723Z",
@@ -1347,6 +1357,15 @@
   "revisions": 1,
   "sha256": "fa1430a4306b9f66afbb6f1cdff6df40bb57f62e940f14b7ed785a15ad669706",
   "slug": "will-roma-reach-the-2027-uefa-champions-league-semifinal"
+ },
+ "0xd6f384fe535634f3229fd86318b721ce8a75bcad1c5316e8624cf10f907bd9d4": {
+  "created_at": "2026-11-19T19:21:19.585714Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Iceman - Drake\" be the #2 album for 2026?",
+  "revisions": 1,
+  "sha256": "9ff85ea2805d86c1f1eaf5d31b64b13f5d9e812030ca7456a452c014a7064712",
+  "slug": "will-iceman-drake-be-the-2-album-for-2026"
  },
  "0xd8d3f093f38d6ecd536b4945a5b3c65e1ec7e1210bbc5f656c9fe7b4483bd3d4": {
   "created_at": "2026-09-04T19:51:52.869446Z",

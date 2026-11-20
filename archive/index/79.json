@@ -149,6 +149,7 @@
   "created_at": "2026-08-06T21:37:58.695347Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-03 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "fa3c38d99171f85df0fa9d74a6a2c9ade78d4356f256eb338ec7de35edd3303c",
@@ -1182,6 +1183,15 @@
   "sha256": "51510915166ad909abfa8ffc2626939387817604b32e58eb63aebf7702317aed",
   "slug": "will-the-republican-party-candidate-win-the-2026-nj-03-house-election"
  },
+ "0xc6f2f095af74b6f5b4d104f200fb03dc5a220fb3fcc8292c8345fe1d24041c79": {
+  "created_at": "2026-11-19T16:28:48.993307Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Pep Guardiola be the next head coach of the USMNT?",
+  "revisions": 1,
+  "sha256": "220465823a4588ef3e7113263708752a4884f32e27fd0d983522de4634548157",
+  "slug": "will-pep-guardiola-be-the-next-head-coach-of-the-usmnt"
+ },
  "0xc7ed127084bb2181e7f2715850ba5fb96d63a52fbc81c20969a36b5565c44379": {
   "created_at": "2026-10-09T16:30:57.135335Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1195,6 +1205,7 @@
   "created_at": "2026-02-03T19:06:15.416596Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic\u2019s market cap be $600B or greater at market close on IPO day by December 31, 2027?",
   "revisions": 1,
   "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",

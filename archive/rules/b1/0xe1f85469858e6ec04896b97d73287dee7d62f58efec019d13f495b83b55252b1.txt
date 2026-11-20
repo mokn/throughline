@@ -1,0 +1,9 @@
+The S&P 500 typically undergoes quarterly rebalancing on the third Friday of March, June, September, and December, and S&P Dow Jones Indices may also add companies outside those dates.
+
+This market will resolve to "Yes" if Anthropic, PBC becomes a constituent of the S&P 500 Index (SPX) effective prior to the open of trading on a trading day that is on or before the listed date. Otherwise, this market will resolve to "No".
+
+The effective time of an addition is the time stated by S&P Dow Jones Indices in its announcement (for example, "prior to the open of trading on" a given date). "Prior to the open of trading" refers to the start of the regular trading session of the U.S. equity markets (9:30 AM ET) on a day on which the New York Stock Exchange is open for trading, as stated by S&P Dow Jones Indices in its announcement. An addition stated as effective after the close of trading on a given date will be treated as effective prior to the open of trading on the next trading day. An announcement published by the listed date does not qualify if the addition becomes effective after that date. If S&P Dow Jones Indices postpones or cancels an announced addition before it becomes effective, the revised effective date, if any, will be used. If Anthropic publicly announces a definitive agreement to be acquired by or merged into another company before its addition becomes effective, this market will resolve to "No", regardless of whether that transaction is later completed or terminated.
+
+References to Anthropic, PBC include any holding company formed to hold all or substantially all of its business for the purpose of its initial public offering, and any successor by name change.
+
+The primary resolution source will be official announcements from S&P Dow Jones Indices or S&P Global Inc. (https://www.spglobal.com/en/press/press-release) and the published S&P 500 constituent list; however, a consensus of credible reporting may also be used.

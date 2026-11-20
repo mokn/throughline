@@ -27,6 +27,15 @@
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-greg-abbott-win-the-2028-us-presidential-election"
  },
+ "0x0245582780dfd9375857cd5a40ee33b2747ec7539c7a42a6574acc80157aa4d6": {
+  "created_at": "2026-11-19T23:05:54.480416Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "AMD hit with a BIS export-control penalty by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "9af609a04682b4a906e674205f4bf7c3a2692f694bc5dfc8e4b901241d47559e",
+  "slug": "amd-hit-with-a-bis-export-control-penalty-by-march-31-2027"
+ },
  "0x02461c754079dbbbd9fccbe63856d222c6b7f6bb3c9a0704b7e5316564898bd6": {
   "created_at": "2026-08-10T23:57:36.946Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -44,6 +53,15 @@
   "revisions": 1,
   "sha256": "d02b3ff0ffc634cc94bc32f029f8da16d5c634e710033aa777eb88b239746213",
   "slug": "will-trump-pardon-howard-lutnick-before-2027"
+ },
+ "0x0363dc7990364d33297906aef182e34b272ca5993841a70e391f143fdf7552d6": {
+  "created_at": "2026-11-19T19:21:25.729014Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Lady Gaga be the #2 artist in the US for 2026?",
+  "revisions": 1,
+  "sha256": "a96e5e63c17007600c3d183f4f5ececad298deade1e45d7f878b153b20894ce8",
+  "slug": "will-lady-gaga-be-the-2-artist-in-the-us-for-2026"
  },
  "0x06de48e80012e144d502ac5d3d1c83c50efd0c2084ea88e150f213a668edb9d6": {
   "created_at": "2026-08-10T15:33:15.633731Z",
@@ -348,6 +366,7 @@
   "created_at": "2026-08-19T13:35:46.343273Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's initial public offering occur in June 2027 (ET)?",
   "revisions": 1,
   "sha256": "1937c1229ce0319cbd30411db670159abe67593c7e34f1403ddf148d8f5dee09",
@@ -509,6 +528,15 @@
   "revisions": 1,
   "sha256": "beed2d39ef76e61264c952cf3a8f191f53b562c561d23eb8309e9d42ccc338bd",
   "slug": "will-trump-visit-north-korea-by-december-31"
+ },
+ "0x51fb9f02fc2d23ab8f867ee9f2d1d4613538cb0354f2e1f12e6c781af7b6ddd6": {
+  "created_at": "2026-11-20T15:16:59.910643Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Anthropic close below its IPO price by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "a3ec078bf989e8fadf940d5cf998e51dae838cb6a589ddeecb08a9f823e371bb",
+  "slug": "will-anthropic-close-below-its-ipo-price-by-march-31-2027"
  },
  "0x525e327dc3798a3226df488c5875f38e7e0377d5052ab8e64cb582d831812bd6": {
   "created_at": "2026-09-08T16:54:34.067686Z",

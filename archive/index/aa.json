@@ -99,6 +99,15 @@
   "sha256": "4f05d22add5cf732c3f746acf1d6967625b38133499bd062f0a0870e364d4805",
   "slug": "will-the-bank-of-korea-increase-the-base-rate-by-25-bps-at-the-april-2027-meeting"
  },
+ "0x149112bd16742d12705ecec4dbcbd3003de77151b2313c2466d71b87adaedfaa": {
+  "created_at": "2026-11-19T20:52:12.763249Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will the next Israeli government be a unity government?",
+  "revisions": 1,
+  "sha256": "e4e0ac7c3d2d7b8ec74d93f581e70031b3bcad67b42cad97a946e93cc27599b4",
+  "slug": "israel-government-blocs-unity-government"
+ },
  "0x166dc4c2f3c6b40869f45cda9033698e6489c0390fc7ce4c8c93127e74119daa": {
   "created_at": "2026-08-28T20:17:45.766436Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -220,6 +229,7 @@
   "created_at": "2026-08-10T15:43:18.468653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 MN-04 House election?",
   "revisions": 1,
   "sha256": "77e14b54138a6c263d14139f05911f5d48a087bc2fbbe0fd7fe894a12d584e4f",
@@ -389,6 +399,15 @@
   "revisions": 1,
   "sha256": "aec6cfbaf620e8a57d0824e2d3170a975f755cc7484dfc644510f5aa371dfb94",
   "slug": "will-maghreb-fes-be-relegated-from-morocco-botola-pro-2026-27"
+ },
+ "0x4101eec0ac980543dbd85e13eaaed598c0c1bbf83f5cbf26ce5a45c1d978bbaa": {
+  "created_at": "2026-11-19T19:21:13.907573Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Olivia Rodrigo be the #2 artist in the US for 2026?",
+  "revisions": 1,
+  "sha256": "a96e5e63c17007600c3d183f4f5ececad298deade1e45d7f878b153b20894ce8",
+  "slug": "will-olivia-rodrigo-be-the-2-artist-in-the-us-for-2026"
  },
  "0x414995d77917bec6b9a6e0e21ad97e002a7f117a21cf27e6fdd6f5177f8bd9aa": {
   "created_at": "2026-08-19T15:14:45.917023Z",
@@ -687,6 +706,7 @@
   "created_at": "2026-08-18T14:19:55.930972Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Idaho be between 640,000 and 680,000?",
   "revisions": 1,
   "sha256": "9d85614e87c410a74ac0ecb74e8869b6330715bef38577e49d664325c71b3d37",
@@ -815,6 +835,7 @@
   "created_at": "2026-08-21T20:05:57.116757Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Minnesota 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
@@ -1293,6 +1314,15 @@
   "revisions": 1,
   "sha256": "161df224a0b135dbeba439788bc97458152b5072428f86a5d2e62a46e33260d9",
   "slug": "will-the-republican-party-candidate-win-the-2026-va-05-house-election-by-25-or-more"
+ },
+ "0xc45ec173db9eafd49e3ccdb0a67927d82e933dbf183e1e5df20637a6988961aa": {
+  "created_at": "2026-11-19T20:40:06.288509Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Phil Lord or Christopher Miller win Best Director at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
+  "slug": "will-phil-lord-or-christopher-miller-win-best-director-at-the-32nd-critics-choice-awards"
  },
  "0xc48a8fed734e4821120d9327332ded047b7853918471332c5e7b8f259958f4aa": {
   "created_at": "2026-08-12T00:16:56.4526Z",

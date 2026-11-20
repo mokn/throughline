@@ -186,6 +186,7 @@
   "created_at": "2026-10-24T11:30:39.498708Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Franco Colapinto achieve the fastest lap in Practice 2 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "9dc50934f5a387ee355a8fb2dd25a23e0d8d0c228a1899cf92c8ad3084f01f97",
@@ -199,6 +200,15 @@
   "revisions": 1,
   "sha256": "34299c299b2bbe51bdb0c4c3397ee88eab9dd01f254043a5db5d3951a1dcff90",
   "slug": "saquon-barkley-699pt5-rushing-yards-2026-27"
+ },
+ "0x217034d2cce6a367cfa5d83888e1a5059224ce2ce641189c609b73b67ad4b6a5": {
+  "created_at": "2026-11-19T16:03:18.737722Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"One Right Here\" from Maserati: The Brothers be nominated for Best Original Song at the 99th Academy Awards?",
+  "revisions": 1,
+  "sha256": "ac615450af2a8d24cf136f669a237b47205d59012876c1a1dce66cc665eb5647",
+  "slug": "will-one-right-here-from-maserati-the-brothers-be-nominated-for-best-original-song-at-the-99th-academy-awards"
  },
  "0x21b0e13f74eac97bf5d0c60472ba48b8b766cae675b01ccc60404f3c46733da5": {
   "created_at": "2026-08-07T14:03:58.530175Z",
@@ -659,6 +669,7 @@
   "created_at": "2026-08-10T15:43:21.270431Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 MN-05 House election by 65%-70%?",
   "revisions": 1,
   "sha256": "eaf6939224e6b85b445bb30dca0c9568a0105d06885da97df7582a26a0c8fab5",
@@ -888,6 +899,7 @@
   "created_at": "2026-06-01T18:13:58.593126Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's market cap be less than $1.25T at market close on IPO day?",
   "revisions": 1,
   "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",

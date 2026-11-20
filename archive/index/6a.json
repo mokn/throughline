@@ -458,6 +458,7 @@
   "created_at": "2026-08-06T21:37:57.186369Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "bb8119fb09ff0107dae6b1c127df939736760322d51697a4cd434937bf550457",
@@ -599,6 +600,15 @@
   "revisions": 1,
   "sha256": "421153c0756436b90f40d44334b33bbf3bfca082c8daca6e92615a141501c972",
   "slug": "discord-ipo-before-2027"
+ },
+ "0x4db56e5709342a994997b0de98ad720aa4f445319f0ef109ac40c79e7ae7386a": {
+  "created_at": "2026-11-18T19:51:22.316687Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Andrew Scott win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-andrew-scott-win-best-actor-at-the-32nd-critics-choice-awards"
  },
  "0x4dcca2fd8ff5ef94e2d994de35c8172e9a13bd274807f95eecb5b48281d7316a": {
   "created_at": "2026-02-18T22:38:26.956366Z",
@@ -1466,6 +1476,7 @@
   "created_at": "2026-08-05T20:15:53.039289Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 Minnesota gubernatorial election by 15%-20%?",
   "revisions": 1,
   "sha256": "82279a9611221c71c26bb1f3d8e97e2c949e8752dc0913294d01b0f2036f5541",

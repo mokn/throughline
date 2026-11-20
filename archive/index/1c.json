@@ -87,6 +87,7 @@
   "created_at": "2026-11-16T21:32:29.207308Z",
   "first_seen": "2026-11-17T15:59:42Z",
   "last_changed": "2026-11-17T15:59:42Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Tom Brown ring the bell at Anthropic's IPO?",
   "revisions": 1,
   "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
@@ -810,6 +811,7 @@
   "created_at": "2026-08-05T18:43:09.13951Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho gubernatorial election by 10%-15%?",
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
@@ -1067,6 +1069,15 @@
   "revisions": 1,
   "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
   "slug": "will-martin-necas-record-50-goals-in-the-2026-27-regular-season"
+ },
+ "0xba4000413af3bebe35431cfd8e58f8b63d52260b6df241d1359fce73f0362a1c": {
+  "created_at": "2026-11-19T20:19:13.371261Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will John Aquilino join NVIDIA's national security committee by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "ffe0a1229cd024fae7863abcac0d289b37b4411d38ebb5679a1e5eda97ba6dd6",
+  "slug": "will-john-aquilino-join-nvidias-national-security-committee-by-march-31-2027"
  },
  "0xba905e70535304fe822775a0039bec8b68438189d7f94cadd9eab2cb37645f1c": {
   "created_at": "2026-08-26T21:46:51.896079Z",
@@ -1471,6 +1482,7 @@
   "created_at": "2026-08-10T15:43:17.083143Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 MN-04 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "77e14b54138a6c263d14139f05911f5d48a087bc2fbbe0fd7fe894a12d584e4f",

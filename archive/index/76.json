@@ -200,6 +200,15 @@
   "sha256": "3223acc7af0e127c03a18af2e83915aa1fc688b957a77f30ab83c1c042433b4a",
   "slug": "bitcoin-all-time-high-by-december-31-2026"
  },
+ "0x191ab3afd71ab7c38c87c5289754b89cf857b1deb08d7a8f56d44299641f4a76": {
+  "created_at": "2026-11-18T19:51:20.864739Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will John Malkovich win Best Actor at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "c34b9a42dc9cb281fff9cfeb10429cceda5b23b5bfdb43b9b1516c70009780fe",
+  "slug": "will-john-malkovich-win-best-actor-at-the-32nd-critics-choice-awards"
+ },
  "0x1c1128929499c326c38144a03e429b3cf3a39937ee71f7c41868de41c9662676": {
   "created_at": "2026-10-15T18:01:46.459912Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1197,6 +1206,7 @@
   "created_at": "2026-08-25T21:28:57.132412Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Anthropic IPO closing market cap above $2.25T?",
   "revisions": 1,
   "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",

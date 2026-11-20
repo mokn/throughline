@@ -112,6 +112,7 @@
   "created_at": "2026-07-22T05:38:55.817824Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the season series between the Texans and Colts end in a tie during the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "4a5c45f016e9d21c94ee9552473d642aacf27bcbb25586ab62c5e430ab2653d7",
@@ -404,6 +405,7 @@
   "created_at": "2026-02-03T19:06:13.145403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic\u2019s market cap be between $100B and $200B at market close on IPO day by December 31, 2027?",
   "revisions": 1,
   "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",
@@ -953,6 +955,7 @@
   "created_at": "2026-10-30T22:14:08.84614Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic sell between 9% and 10% of its shares in its IPO?",
   "revisions": 1,
   "sha256": "e3f2c706bc0ea59697ccac21ff8ad15074607ade1a30b9d4b3deb47ca5354565",
@@ -1641,6 +1644,15 @@
   "revisions": 1,
   "sha256": "25c7b8b7296bdf9282a6c5c4714e65c6823b4f32d5c59d6be3f54e89dbf51913",
   "slug": "ukraine-peace-referendum-scheduled-by-december-31-2027"
+ },
+ "0xfb3f387660102b7762067f06b484b76202a95900970c1ceb60507308e43c6fce": {
+  "created_at": "2026-11-18T21:31:16.951606Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Ladilla Rusa win Benidorm Fest 2027?",
+  "revisions": 1,
+  "sha256": "0445449ee9b30cbe4ae5db138a4d8f0942371a6e2e197afbec8c4a57cd03f6f3",
+  "slug": "will-ladilla-rusa-win-benidorm-fest-2027"
  },
  "0xfd7f7b68ea1b72331c1e46f969824e7cc6574c8ce009a9f5f6c90a2cadead0ce": {
   "created_at": "2026-08-11T18:37:08.872752Z",

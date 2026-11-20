@@ -1,0 +1,27 @@
+Parliamentary elections to elect the 26th Knesset took place on October 27, 2026.
+
+This market will resolve according to which blocs of parties support the first new Israeli government approved in a vote of confidence by the 26th Knesset.
+
+For the purposes of this market, the blocs are defined as follows:
+- Netanyahu bloc: Likud, RZP-Zehut (RZP), and Otzma Yehudit (Otzma)
+- Change bloc: Yashar, Together, The Democrats (Democrats), and Yisrael Beiteinu (YB)
+- Haredi parties: Shas and United Torah Judaism (UTJ)
+- Arab parties: Ra'am and Joint List
+
+A party will be considered to support the government if a majority of its Members of the Knesset vote "For" in that vote of confidence. A party's Members of the Knesset are defined as the members elected on that party's electoral list, as listed in the "List of members-elect" section of the 26th Knesset Wikipedia page (https://en.wikipedia.org/wiki/26th_Knesset#List_of_members-elect) as of 12:00 PM ET on November 3, 2026. A majority means more than half of these Members; Members who vote "Against", abstain, are absent, or otherwise do not vote "For" will not count toward the majority.
+
+A bloc will be considered to support the government if at least one of its parties supports the government. Parties will be identified by the electoral lists on which they contested the 2026 Knesset election; any subsequent split, merger, or renaming of a list will be disregarded.
+
+The listed options are defined as follows:
+- "Change bloc + Haredim": the change bloc and the Haredi parties support the government, and neither the Netanyahu bloc nor the Arab parties support the government.
+- "Change bloc + Arab parties": the change bloc and the Arab parties support the government, and neither the Netanyahu bloc nor the Haredi parties support the government.
+- "Change bloc + Arab parties + Haredim": the change bloc, the Arab parties, and the Haredi parties support the government, and the Netanyahu bloc does not support the government.
+- "Unity government": both the Netanyahu bloc and the change bloc support the government, regardless of whether any other parties support the government.
+
+If a government is approved in a vote of confidence but none of the listed options applies, this market will resolve to "Other".
+
+Only a government approved by the 26th Knesset, elected on October 27, 2026, will be considered. If the 26th Knesset does not approve a government in a vote of confidence, including if it is dissolved and a new election is called before a government is approved, or if no such government is approved by December 31, 2027, 11:59 PM ET, this market will resolve to "No government formed". Governments approved after any subsequent Knesset election will not be considered.
+
+This market may resolve once the result of this vote of confidence is officially confirmed.
+
+This market will resolve based on a consensus of credible reporting. In case of ambiguity, this market will resolve based on official information from the Government of Israel and the Knesset.

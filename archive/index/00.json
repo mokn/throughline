@@ -142,6 +142,7 @@
   "created_at": "2026-08-19T13:45:05.924805Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic's IPO valuation be between $2.00T and $2.25T?",
   "revisions": 1,
   "sha256": "601f3c0cb14a0e263a9a86c7e6796a2a921cf39df7cd63d30db93efb8811fb05",
@@ -1470,6 +1471,15 @@
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-victor-wembanyama"
  },
+ "0xe0e9758ff8668cb4a314155b674e4b097f47529b51fc3a7531d4cddbcc9d3c00": {
+  "created_at": "2026-11-19T19:21:18.806813Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"You Seem Pretty Sad for a Girl So in Love - Olivia Rodrigo\" be the #2 album for 2026?",
+  "revisions": 1,
+  "sha256": "9ff85ea2805d86c1f1eaf5d31b64b13f5d9e812030ca7456a452c014a7064712",
+  "slug": "will-you-seem-pretty-sad-for-a-girl-so-in-love-olivia-rodrigo-be-the-2-album-for-2026"
+ },
  "0xe1270b410bc21ca2e393baa40f2a322c773803bca7dbeb3c4e84113035f3d500": {
   "created_at": "2026-08-12T00:14:01.915692Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1619,6 +1629,7 @@
   "created_at": "2026-08-05T20:15:53.94025Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 Minnesota gubernatorial election by 30% or more?",
   "revisions": 1,
   "sha256": "82279a9611221c71c26bb1f3d8e97e2c949e8752dc0913294d01b0f2036f5541",

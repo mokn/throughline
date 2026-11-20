@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if, between market creation and the specified date, 11:59 PM ET, the US Department of Commerce’s Bureau of Industry and Security (BIS) or the Department of Commerce publicly announces or publishes a penalty imposed by BIS on Advanced Micro Devices, Inc. (AMD) or any of its subsidiaries or successors for violations of US export-control laws or regulations. Otherwise, this market will resolve to “No”.
+
+A qualifying penalty is a final administrative order imposing a civil monetary penalty, a denial or suspension of export privileges, or another administrative sanction, or a settlement agreement between BIS and AMD that includes a civil monetary penalty or a denial or suspension of export privileges. A temporary denial order against AMD will qualify.
+
+The date of the public announcement or publication will be used to determine whether a penalty falls within this market’s timeframe, regardless of the date on the underlying order or agreement.
+
+Charging letters or proposed charges that have not resulted in a final order or settlement, warning letters, “is-informed” letters, license denials or revocations, new export-control rules or license requirements that apply to AMD, Entity List additions, criminal charges, and penalties imposed by any other agency will not qualify.
+
+The primary resolution source for this market will be official information from BIS and the Department of Commerce, however a consensus of credible reporting will also be used.

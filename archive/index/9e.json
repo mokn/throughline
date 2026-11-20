@@ -303,6 +303,15 @@
   "sha256": "671af047318f88d1830c19e7f6b05e5df7b124c6a5422200a29b4a394e2194a9",
   "slug": "will-cfo-be-number-1-on-the-end-of-year-global-power-rankings-20260729165154441"
  },
+ "0x2b649d2c482e42bc99940fa70815dfaee38935266997dce34ce6dbf9ed3abc9e": {
+  "created_at": "2026-11-19T19:21:31.510951Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will \"Iceman - Drake\" be the top album in the US for 2026?",
+  "revisions": 1,
+  "sha256": "e34c6a37d8149fee4042cea4949c38c43d52167bfba42824282b91ca056f10a4",
+  "slug": "will-iceman-drake-be-the-top-album-in-the-us-for-2026"
+ },
  "0x2edf957e6c243ae67037b9884bf25b01921a5313e02e925a427e0f646457649e": {
   "created_at": "2026-09-28T17:20:08.92977Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -803,6 +812,7 @@
   "created_at": "2026-10-25T04:01:20.332496Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will SK hynix (SKHY) hit (LOW) $114 in November?",
   "revisions": 1,
   "sha256": "14489cc2c44ee2617afa674b4abcdec2af3340c5e4a892c3eae1e5eedd99f94c",
@@ -1140,6 +1150,7 @@
   "created_at": "2026-08-10T15:43:07.239485Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 MN-02 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "c8bf913cbabac52bf06674528fc86766025b0f1e7a7240e00d926bc7df430e8d",
@@ -1469,6 +1480,7 @@
   "created_at": "2026-08-06T21:37:32.57282Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-01 House election by 0%-15%?",
   "revisions": 1,
   "sha256": "f3bb9c35905b43a988683fbf4fbc268233162b6af2837e9a5faf9dc8e3281a8c",

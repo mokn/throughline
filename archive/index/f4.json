@@ -108,6 +108,15 @@
   "sha256": "0355b3c81139a0a2803642135c16fdcc099b05683f8eaf6327a3a271c08a47b4",
   "slug": "nba-2026-27-spg-leader-fred-vanvleet"
  },
+ "0x125a1835adcbb6eab0398a4dea9533643773c5d9158a3687b4b97fd9144648f4": {
+  "created_at": "2026-11-19T20:52:11.220531Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will the next Israeli government be supported by the change bloc and Haredi parties?",
+  "revisions": 1,
+  "sha256": "e4e0ac7c3d2d7b8ec74d93f581e70031b3bcad67b42cad97a946e93cc27599b4",
+  "slug": "israel-government-blocs-change-bloc-haredim"
+ },
  "0x14740b5c93a9a100561627a5b9fdaf5b36e57bebd1d410b64551be5ab5dae5f4": {
   "created_at": "2026-11-12T20:20:02.222852Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -666,6 +675,7 @@
   "created_at": "2026-08-12T17:26:54.114358Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Seattle Sounders FC be runner-up in the 2026 MLS?",
   "revisions": 1,
   "sha256": "5ff8ec7b015d01e1413ba7097b7d9b58266e938754d56aff0ba1ebfb52ea82fc",
@@ -684,6 +694,7 @@
   "created_at": "2026-08-18T14:19:19.179023Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Louisiana be between 1,300,000 and 1,400,000?",
   "revisions": 1,
   "sha256": "690a346212d10fe5bc5aa9bad772469d93be0eac2c183c4017c43472d380974a",
@@ -1372,6 +1383,7 @@
   "created_at": "2026-06-01T18:35:05.998259Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Morgan Stanley or any of its underwriting affiliates serve as the lead underwriter in Anthropic's initial public offering?",
   "revisions": 1,
   "sha256": "1277001e5a34426a9d0cabc48723b241e04300b69deb0ebdca365032894a731c",

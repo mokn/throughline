@@ -12,6 +12,7 @@
   "created_at": "2026-11-14T06:19:51.188809Z",
   "first_seen": "2026-11-14T13:31:33Z",
   "last_changed": "2026-11-14T13:31:33Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic open between $70 and $80 on its first trading day?",
   "revisions": 1,
   "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
@@ -426,6 +427,7 @@
   "created_at": "2026-09-02T19:14:11.730798Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Democratic Party candidate win the 2026 Minnesota Senate election by 20%-25%?",
   "revisions": 1,
   "sha256": "5cfd70f51480de938abc14471b21f2755f8d7c1c170e2a3badcd281655eb74a6",
@@ -792,6 +794,7 @@
   "created_at": "2026-11-12T22:50:24.226594Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic stock fall more than 10% on IPO day?",
   "revisions": 1,
   "sha256": "4aba6757ddef794c1ee9e7569ca2b6b2552e7f754b4ff062a201807fb3c8c17d",
@@ -1387,6 +1390,7 @@
   "created_at": "2026-08-06T21:37:56.452297Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 AR-02 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "bb8119fb09ff0107dae6b1c127df939736760322d51697a4cd434937bf550457",
@@ -1464,6 +1468,15 @@
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
   "slug": "will-claude-fable-5pt2-debut-with-an-hle-diamond-score-of-80-or-higher"
+ },
+ "0xf5382f3cef73bef5dba2e22791a398c1e47aff2392047aa4b84d17a9375bd555": {
+  "created_at": "2026-11-19T19:21:15.034136Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Will Beyonc\u00e9 be the #2 artist in the US for 2026?",
+  "revisions": 1,
+  "sha256": "a96e5e63c17007600c3d183f4f5ececad298deade1e45d7f878b153b20894ce8",
+  "slug": "will-beyonce-be-the-2-artist-in-the-us-for-2026"
  },
  "0xf5e9f76ea709566ed49ceb49734fd511a63734cbdd77c8191865a05c915a0a55": {
   "created_at": "2026-11-10T02:40:53.699638Z",

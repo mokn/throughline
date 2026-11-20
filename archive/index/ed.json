@@ -268,6 +268,7 @@
   "created_at": "2026-10-30T22:14:09.872279Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will Anthropic sell between 11% and 12% of its shares in its IPO?",
   "revisions": 1,
   "sha256": "e3f2c706bc0ea59697ccac21ff8ad15074607ade1a30b9d4b3deb47ca5354565",
@@ -525,6 +526,7 @@
   "created_at": "2026-08-18T14:13:00.207212Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Minnesota be between 2,450,000 and 2,600,000?",
   "revisions": 1,
   "sha256": "fc705f44ae1309cc8bebc735e3c33c49daa65c91a302e410c9b2a324a22d25e7",
@@ -1441,6 +1443,7 @@
   "created_at": "2026-08-04T18:14:24.493891Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-20T15:27:46Z",
   "question": "Will the Republican Party candidate win the 2026 Louisiana Senate election by 5%-10%?",
   "revisions": 1,
   "sha256": "3da92839387be6c9aebeef11ed58d77b4f4de49701c676f1aed716a7088f0ef5",
@@ -1518,6 +1521,15 @@
   "revisions": 1,
   "sha256": "51eb4ba54d635c7a11d31a75f960c43c37c63e8efa2df878b20dd6545ef42fd2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nj-05-house-election-by-35-or-more"
+ },
+ "0xe112fee834c914ea6c5325a4d43e4f74e9d6d5051ba4b42f600bef676bcaf2ed": {
+  "created_at": "2026-11-19T22:57:46.857893Z",
+  "first_seen": "2026-11-20T15:27:46Z",
+  "last_changed": "2026-11-20T15:27:46Z",
+  "question": "Next Gemini Carbon (4.1+) released by February 28, 2027?",
+  "revisions": 1,
+  "sha256": "dd17860d27354ec7bf42c67fa81d60bc3c1a2f083f34856a4ae25c041e5e3356",
+  "slug": "next-gemini-carbon-4pt1-released-by-february-28-2027"
  },
  "0xe164056224dce64487ffd5686783f0bd3b33fa4d1a7b19789b7f173c764c01ed": {
   "created_at": "2026-04-14T15:40:20.999884Z",
