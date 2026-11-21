@@ -627,6 +627,7 @@
   "created_at": "2026-10-01T19:30:28.904264Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
@@ -1102,6 +1103,7 @@
   "created_at": "2026-10-01T19:30:27.802911Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 1 - 4 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
@@ -1409,6 +1411,15 @@
   "revisions": 1,
   "sha256": "cf5e50bc6344b758d66c2b0847415d1d15e47df54579a37fbea57d1b46d438cb",
   "slug": "will-bytedance-have-the-best-text-to-image-ai-at-the-end-of-december-2026"
+ },
+ "0xcff767408613732ab883e15a95da3924c0484caf47c78ebd26ea268c97c67f82": {
+  "created_at": "2026-10-10T11:15:10.196555Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 2 - 2 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-2-2"
  },
  "0xd07f9579fe8e76a3fb7b845765ecf9c19fb260687b093cd60aa9f6b4613d5082": {
   "created_at": "2026-09-20T08:45:30.972539Z",

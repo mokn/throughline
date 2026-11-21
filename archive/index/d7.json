@@ -245,6 +245,15 @@
   "sha256": "345dd400340212ad1ddda839a7a40e3aa52b2c53e748726546ccee092a446a19",
   "slug": "will-north-texas-mean-green-win-the-2026-american-conference-20260731201100095"
  },
+ "0x22e5dfa3acc1de02b18eea5fdcf285e15257a1819ca37e45f1807cb947786cd7": {
+  "created_at": "2026-11-20T19:04:07.798006Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will the Nasdaq-100 close in a bear market by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "841e21251fbecbe2868b3e1fe2049d85ea41377a7f2edc435029153af46e1976",
+  "slug": "will-the-nasdaq-100-close-in-a-bear-market-by-march-31-2027"
+ },
  "0x23ff4c16600888f4e1b71294b03063ca8dd1998812bc413180741742bcd372d7": {
   "created_at": "2026-08-24T16:40:43.284754Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1427,6 +1436,7 @@
   "created_at": "2026-08-07T20:31:43.741468Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-03 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "3e6bfbd2a4a8fd34c5e7eefbe6c0a8cde629ee3b88db2658a65bfa4ba03885dd",
@@ -1619,6 +1629,7 @@
   "created_at": "2026-08-07T20:31:33.651911Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-02 House election?",
   "revisions": 1,
   "sha256": "2408f8ff007fe24abe7b6fa040628ce0c8900cee03a664dcf55f9a0ec64065a4",

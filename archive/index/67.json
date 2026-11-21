@@ -194,6 +194,7 @@
   "created_at": "2026-08-07T20:32:07.989842Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-05 House election by 45%-55%?",
   "revisions": 1,
   "sha256": "1df1678ccd4a12afff2cdd00f88e6b8eb49b3c5ffab86e32b9dec07850840131",
@@ -369,6 +370,7 @@
   "created_at": "2026-08-25T03:58:34.201882Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Hyperliquid dip to $60 by December 31, 2026?",
   "revisions": 1,
   "sha256": "ea4a0f0a8528b2e6b537f6195662305aa0ed2e83e0aff7f4d909b3bbdc98afb8",
@@ -663,6 +665,7 @@
   "created_at": "2026-07-31T22:39:59.584795Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Ole Miss Rebels Win the 2026 SEC Championship?",
   "revisions": 1,
   "sha256": "906c05b3a7d4d50d08bfe08cc4ecc161a1b78a487d924238b4f3f4bd1381b66e",
@@ -1848,6 +1851,15 @@
   "sha256": "b071fdc771af0aec7e6aedb3cc98b98975a543c49bb27c25de1f6628856432ca",
   "slug": "will-bytedance-have-the-best-text-to-video-ai-at-the-end-of-december-2026"
  },
+ "0xf8e8405bbc043aa11ad898527f2f02479131171359384383b9c940bd9c846b67": {
+  "created_at": "2026-10-10T11:45:15.066357Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Tamworth FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "46987abc06dcb0616ed8241ae189ab6a858c4b255386675700368c48eac9de23",
+  "slug": "enl-gat-tam-2026-10-23-team-total-away-5pt5"
+ },
  "0xf91ba9f7b7cc30a34cd6dea639fe60bb749f5c1d7ae580bf0245c922824f8e67": {
   "created_at": "2026-11-18T21:07:53.575188Z",
   "first_seen": "2026-11-19T15:44:54Z",
@@ -1916,6 +1928,7 @@
   "created_at": "2026-08-13T16:44:54.463971Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will S&P 500 (SPX) hit $7,000 (LOW) in December?",
   "revisions": 1,
   "sha256": "dbce2d6a1669874415416f6e077fb5eb29ca0b448d07cb7368af1f494f118aba",

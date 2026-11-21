@@ -523,6 +523,15 @@
   "sha256": "a640afca47232a58cfb93528d9cd90faa07fe828bf27eb3027f8cc625aee6a80",
   "slug": "ostium-fdv-above-1b-one-day-after-launch-133-944-452-855"
  },
+ "0x4f07764f25ed65c1e5745aa72a56a3563ca3fe70f731cf778f2048f4037472ac": {
+  "created_at": "2026-10-10T11:45:13.514656Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Gateshead FC O/U 4.5",
+  "revisions": 1,
+  "sha256": "03bb89199fcecba34df74ce989e773831f2811bc95370bec4881835a264fe88d",
+  "slug": "enl-gat-tam-2026-10-23-team-total-home-4pt5"
+ },
  "0x4f250c9428137f46a37243154a4bcd63f633c557602eeff106d21edeb3a6ceac": {
   "created_at": "2026-11-03T17:40:45.937403Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -791,6 +800,7 @@
   "created_at": "2026-10-01T23:00:12.050088Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Spread: Al Ahli Saudi Club (-3.5)",
   "revisions": 1,
   "sha256": "eef56063f00987edf618f57b8587a6480cd2a1ade4cbd977e04ec7a711ff76f0",
@@ -1127,6 +1137,7 @@
   "created_at": "2026-10-01T19:30:27.347429Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 2 - 1 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",

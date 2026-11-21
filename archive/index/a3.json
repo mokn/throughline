@@ -92,6 +92,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-julius-randle"
  },
+ "0x0d07628b25703a276140e314a29299d0a82dc3aa9e3467e2b27da218140852a3": {
+  "created_at": "2026-10-10T11:15:08.814506Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 0 - 1 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-0-1"
+ },
  "0x0d8711f5f475002d8236dcf4c848882aee7a2f34a515dda6ff0623906bf862a3": {
   "created_at": "2025-12-12T12:41:09.431924Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -235,6 +244,7 @@
   "created_at": "2026-10-24T11:30:47.332498Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Esteban Ocon achieve the fastest lap in Practice 3 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
@@ -919,6 +929,7 @@
   "created_at": "2026-10-01T23:00:20.454706Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "c0e496bd680ebd9ad8d131eb75957cc9f102d50793682c3399e03b02d430eae6",

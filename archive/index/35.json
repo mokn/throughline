@@ -86,6 +86,7 @@
   "created_at": "2026-08-04T17:59:23.09771Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the first round of the 2026 Georgia Senate election by 0%-3%?",
   "revisions": 1,
   "sha256": "fb3d7262dc964ddf797766a89bfeefc51b3632cd4577c72340ec6715a055b1aa",
@@ -1009,6 +1010,15 @@
   "sha256": "39c5070d4257549e52ccf92754709dfc1ddd882b0c796793a007062ca27b24b3",
   "slug": "will-the-republican-party-candidate-win-the-2026-ms-03-house-election-by-0-10"
  },
+ "0x978f8ebe84288ac164c3a14bc903e8df653f18401adf43bab32a69b1c7347a35": {
+  "created_at": "2026-10-10T11:45:11.179575Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Both Teams to Score in First Half",
+  "revisions": 1,
+  "sha256": "c32cc83207663b1250ac5b8a9295a4bdf1cfc168763036b742d9e306376dcf30",
+  "slug": "enl-gat-tam-2026-10-23-btts-first-half"
+ },
  "0x992747598aafd480529f9fbbaf0183ea75f9cf819da4552503752f8485577b35": {
   "created_at": "2026-08-27T23:06:47.987159Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1323,6 +1333,7 @@
   "created_at": "2026-08-04T17:59:24.060647Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the first round of the 2026 Georgia Senate election by 12%-15%?",
   "revisions": 1,
   "sha256": "fb3d7262dc964ddf797766a89bfeefc51b3632cd4577c72340ec6715a055b1aa",

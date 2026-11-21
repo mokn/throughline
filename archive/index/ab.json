@@ -754,6 +754,7 @@
   "created_at": "2026-10-01T19:30:27.95942Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 4 - 1 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
@@ -958,6 +959,15 @@
   "revisions": 1,
   "sha256": "9e6b527caea51ae884604df594ef6b4f23fd5ece6c6e8d0604e02942a9ac5684",
   "slug": "will-ukraine-agree-to-cede-territory-to-russia-by-june-30-2027"
+ },
+ "0x8fb6509d206d680187b1fa6b4f2ca268a124ff654e72f0693935a884d69485ab": {
+  "created_at": "2026-10-10T11:45:13.732032Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Gateshead FC O/U 5.5",
+  "revisions": 1,
+  "sha256": "594ffd1b145b3f49a69f7bcd66e0128223ec7b766421543e4930188443a7fe6d",
+  "slug": "enl-gat-tam-2026-10-23-team-total-home-5pt5"
  },
  "0x90eb3333e8172cdf1a400d0f23967c3990cd0c478ebd3c0f69113a45bfc655ab": {
   "created_at": "2026-08-12T17:25:32.817419Z",
@@ -1484,6 +1494,7 @@
   "created_at": "2026-10-01T19:30:28.348625Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 2 - 5 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",

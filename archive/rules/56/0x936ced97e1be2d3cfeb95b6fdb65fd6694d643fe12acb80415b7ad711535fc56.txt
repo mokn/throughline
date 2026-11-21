@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if the S&P 500 Index (SPX) closes in bear market territory on any trading day between market creation and the listed date (ET), inclusive. Otherwise, this market will resolve to "No".
+
+A close in bear market territory is an official closing value that is at least 20% below the index's highest official closing value on any earlier trading day (its record close). A close qualifies if it is less than or equal to 80% of the record close, with that threshold rounded to the nearest hundredth.
+
+As of market creation, the S&P 500's record close is 7,818.93, set on October 6, 2026, so a close at or below 6,255.14 would qualify. If the index sets a new record close after market creation, the 20% threshold will be measured from that new record close. Intraday values will not count.
+
+If a trading day is shortened (for example, due to a market-holiday schedule), the official closing value published for that shortened session will be used. If no official closing value is published for a trading day (for example, due to a trading halt or system issue), that day will not be considered.
+
+The resolution source for this market is Yahoo Finance, specifically the S&P 500 (^GSPC) "Close" values available at https://finance.yahoo.com/quote/%5EGSPC/history, published under "Historical Prices". ^GSPC is Yahoo Finance's symbol for the S&P 500 Index (SPX). If Yahoo Finance is unavailable or clearly in error, the S&P 500 Index (SPX) "Close" values published by the Wall Street Journal at https://www.wsj.com/market-data/quotes/index/SPX/historical-prices may be used.

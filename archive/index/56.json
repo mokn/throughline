@@ -615,6 +615,15 @@
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",
   "slug": "will-sandy-alcantara-win-the-2026-nl-comeback-player-of-the-year-award"
  },
+ "0x59e5e004df2b9c8ae7d91ce249358ddc18fb11fe876de05a03865c835d1d7456": {
+  "created_at": "2026-11-20T19:13:44.475727Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will \"Avengers: Doomsday\" score at least 90 on the Rotten Tomatoes Popcornmeter?",
+  "revisions": 1,
+  "sha256": "a8870027c636a1833a8f383ad1f51e029c6285b996bf2880bdae5a8ca0afb4ec",
+  "slug": "will-avengers-doomsday-score-at-least-90-on-the-rotten-tomatoes-popcornmeter-20261221"
+ },
  "0x5a8f1b65783facbd54f19ba7f0ed26fb6a90db4bbaf6dea6ff2e985c3339d756": {
   "created_at": "2026-07-15T00:39:55.185088Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -976,6 +985,7 @@
   "created_at": "2026-09-27T20:49:03.437872Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will \"Mask Off\" by Future be on the radio in GTA VI at launch?",
   "revisions": 1,
   "sha256": "604a099e2a930b2c77a589b350845e07121372cd98e12105fd87d39ceb2cb479",
@@ -1027,6 +1037,15 @@
   "revisions": 1,
   "sha256": "a398060371638d19ae06ee5696fb09b00aa7cf33a13f995002791f59aadc8b7b",
   "slug": "carnell-tate-first-to-1000-receiving-yards-2026-27"
+ },
+ "0x936ced97e1be2d3cfeb95b6fdb65fd6694d643fe12acb80415b7ad711535fc56": {
+  "created_at": "2026-11-20T19:24:11.773406Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will the S&P 500 close in a bear market by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "a6c62ec6bb03869e4ec4e1d1c47780691879906e0c97f672fec525c5fe4cf847",
+  "slug": "will-the-sp-500-close-in-a-bear-market-by-june-30-2027"
  },
  "0x944efc4b798bae8b9a94160ac5766c9ed97c1cf697f427f4bcf19aeffba1f456": {
   "created_at": "2026-11-07T12:30:35.538794Z",

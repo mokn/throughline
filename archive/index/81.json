@@ -561,6 +561,7 @@
   "created_at": "2026-11-19T15:47:46.105451Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will DjMaRiiO be the first of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
@@ -851,6 +852,7 @@
   "created_at": "2026-10-24T11:30:20.773833Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Mclaren Mastercard get pole position at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "a37bceb6514eb1374fa66d3d5202b89025c55663cd42837e001c603fd5e53cec",
@@ -1440,6 +1442,15 @@
   "revisions": 1,
   "sha256": "04d1acaf2efe4eb6692668e94f1df10b271546424f66ad3bb98a7b8ffb0ab682",
   "slug": "will-nicols-maduro-be-sentenced-to-at-least-60-years-in-prison"
+ },
+ "0xcf4763c28c567e58ecbe3ec3222163418ea54eb5582da82cafdfd17217f3fc81": {
+  "created_at": "2025-11-11T17:42:54.912502Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will Anthropic be the largest company in the world by market cap on December 31?",
+  "revisions": 1,
+  "sha256": "33f55ffe0f8d64220db0128ef4cf0e78bbd24c4860ccb95dade22702b61aa4ea",
+  "slug": "will-anthropic-be-the-largest-company-in-the-world-by-market-cap-on-december-31"
  },
  "0xd1256ca5c4501a52a0017aba39d837c8a854df5f1a09dfcd32782e6f5acd1481": {
   "created_at": "2026-09-04T20:09:37.712915Z",

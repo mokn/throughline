@@ -520,6 +520,15 @@
   "sha256": "cd003e258968191ae660fd9523107564331a232cb0c510526244fe1a363391b3",
   "slug": "spl-ith-sha-2026-10-16-exact-score-0-4"
  },
+ "0x69f315480f07929c6deaca8d9358fd8f8613403b4b5195ca19767ee83a023ba8": {
+  "created_at": "2026-10-10T11:45:16.017647Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Gateshead FC 1st Half O/U 3.5",
+  "revisions": 1,
+  "sha256": "44be8c9a139eda13555c7732d1a5d0cd7066826312d27befee7f2b1b4a3cab24",
+  "slug": "enl-gat-tam-2026-10-23-first-half-team-total-home-3pt5"
+ },
  "0x6cbfdd04ad2ca3becf6962195afd78f7e4e67d9b51920d71f9ddc3072b3a80a8": {
   "created_at": "2026-10-01T14:01:26.160393Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -528,6 +537,15 @@
   "revisions": 1,
   "sha256": "5742d4c50bf4305b8138f5f5275729554e10321f08f2fb455755b094c41d37a4",
   "slug": "will-meta-have-the-best-ai-agent-at-the-end-of-december-2026"
+ },
+ "0x6d4351f81d16ac112bc713facee583f562c121bf2451b3734f6633b34a88bca8": {
+  "created_at": "2026-10-10T11:45:06.656008Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Spread: Gateshead FC (-1.5)",
+  "revisions": 1,
+  "sha256": "36d6659a9dc5006baf3412bcc7e40ec45f0b289b7b34f041ca4e2689f48e4bb0",
+  "slug": "enl-gat-tam-2026-10-23-spread-home-1pt5"
  },
  "0x6d729bdbd44b333c9e7cfb62a60335bd32eac0ae194d8164eb8b6e910be256a8": {
   "created_at": "2026-10-13T15:48:40.847403Z",
@@ -684,6 +702,15 @@
   "sha256": "1c4315489ce4e8517d1206709ff5d9279d9942f8fc701a6e612a7c5936d15581",
   "slug": "saturn-fdv-above-50m-one-day-after-launch-20260623191424367"
  },
+ "0x8b707ccc0230e226d7fb756711d93e3089f2f6439a4cb1f0d05c5f22e5bcaca8": {
+  "created_at": "2026-10-10T11:45:12.370053Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: 1st Half O/U 4.5",
+  "revisions": 1,
+  "sha256": "2dbc5c82fb35fbf533a0e540077b0b80b377f347fe55b8f49befa398f15f5c17",
+  "slug": "enl-gat-tam-2026-10-23-first-half-total-4pt5"
+ },
  "0x8be80f50f04fc845a77001bedecab54f1198c47b61848706ed8c26c5d94de3a8": {
   "created_at": "2026-08-18T14:58:36.912323Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -716,6 +743,7 @@
   "created_at": "2026-10-01T23:00:20.917293Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "23ce97143b6b8256fbece25e118c43684eb8b4c4128ee59454a37c0372731923",
@@ -1057,6 +1085,15 @@
   "revisions": 1,
   "sha256": "ce3efa01f29eac860f206862006d35de657ac51d1b82208674088dc39c250e18",
   "slug": "will-brooklyn-nets-win-the-2027-nba-finals"
+ },
+ "0xb609639223daac97a3dc0e093d17c00cd724aca810b342e94d851f55e38dcaa8": {
+  "created_at": "2026-11-20T19:24:11.284899Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will the S&P 500 close in a bear market by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "a6c62ec6bb03869e4ec4e1d1c47780691879906e0c97f672fec525c5fe4cf847",
+  "slug": "will-the-sp-500-close-in-a-bear-market-by-march-31-2027"
  },
  "0xb64922daec1f9740f2602e4ece9aa04162894505dc67b11e64bddc2a4c9ef1a8": {
   "created_at": "2026-08-26T21:46:09.381167Z",

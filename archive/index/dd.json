@@ -127,6 +127,15 @@
   "sha256": "e650a824fa9b4af807614d18e6334af7c455e60dd8ec24abe06f4db864673c75",
   "slug": "will-the-republican-party-win-the-fl-07-house-seat"
  },
+ "0x1dddcaa3718e30c1b3e06b0db0dc61a8b825def352c566707a473547480684dd": {
+  "created_at": "2026-10-10T11:45:16.242244Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Tamworth FC 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "f9b85b03399161f7975a26006b844ec836291993dbf2ccc8b17bd09053002549",
+  "slug": "enl-gat-tam-2026-10-23-first-half-team-total-away-0pt5"
+ },
  "0x1e5df2a4c34bbb12154545d4813ddd7070a7c76a27e398f6f835ff3ded53aedd": {
   "created_at": "2026-08-24T16:33:59.287901Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -286,6 +295,7 @@
   "created_at": "2026-08-04T17:47:08.561194Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 Arkansas Senate election by 15%-20%?",
   "revisions": 1,
   "sha256": "9311c4c4d531687352f03bf9a6b02b2b77706637e2e88ec9cd6186ed1bc71c02",
@@ -995,6 +1005,7 @@
   "created_at": "2026-08-19T21:59:00.280653Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Charlotte Hornets win the 2026 NBA Cup?",
   "revisions": 1,
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",

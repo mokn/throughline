@@ -806,6 +806,15 @@
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
   "slug": "will-the-republican-party-candidate-win-the-2026-idaho-gubernatorial-election-by-40-45"
  },
+ "0x85400b2e328c6a94bd653414849156d65640e40467f908e5f0a0b00205ee259c": {
+  "created_at": "2026-10-10T11:15:11.327373Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 4 - 1 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-4-1"
+ },
  "0x8b3bb569e63cf15a51f3f211952551d050bbc0a533709efd53b62d3d4c143a9c": {
   "created_at": "2026-05-19T18:11:12.075209Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1451,6 +1460,7 @@
   "created_at": "2026-10-01T23:00:17.27132Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club O/U 4.5",
   "revisions": 1,
   "sha256": "1815fa9e0757489457e981e6ac2e9361e62aa3328cebc9dfd0a46a48c60075e8",

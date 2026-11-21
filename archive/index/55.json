@@ -73,6 +73,15 @@
   "sha256": "91b32188435ee4bf44585265616229f4d6fe49011856c94caeea02649a7277a5",
   "slug": "will-fc-luzern-be-relegated-from-swiss-super-league-2026-27"
  },
+ "0x0a87be816ba2c5a2b2b9be801691d58027045398659f8707a8f7ca7652b5ff55": {
+  "created_at": "2026-11-20T19:04:08.170596Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will the Nasdaq-100 close in a bear market by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "841e21251fbecbe2868b3e1fe2049d85ea41377a7f2edc435029153af46e1976",
+  "slug": "will-the-nasdaq-100-close-in-a-bear-market-by-june-30-2027"
+ },
  "0x0b732db96fe5df8fffb6e0b6b15d0fca7b7e3df72981e9695947b17f67c83a55": {
   "created_at": "2026-10-27T22:10:11.399596Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -290,6 +299,7 @@
   "created_at": "2026-08-07T20:28:51.500096Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-14 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "9453077c4bd01d6f522edda67e5fd22ebc3d5e90ad09715653f43bebfdbf569a",
@@ -1163,6 +1173,15 @@
   "revisions": 1,
   "sha256": "8912b00b8fa362b5a8d9a330e2eed2c919cc76e632ca04088eaca5ff90d1352b",
   "slug": "will-chelsea-finish-in-last-place-in-the-2026-27-english-premier-league-season"
+ },
+ "0xc44837cd113031ed2493cb643c183d0665470d14ecb43acec1e464175599bd55": {
+  "created_at": "2026-10-10T11:15:12.91264Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 4 - 4 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-4-4"
  },
  "0xc7b842a4c28574ccf35cbda6b0b6675b3539f5fc08f3848237d2291e168d9555": {
   "created_at": "2026-08-26T21:46:52.238627Z",

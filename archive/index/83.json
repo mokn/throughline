@@ -75,6 +75,7 @@
   "created_at": "2026-08-07T20:28:11.704477Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-13 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "5b8910c5c4a826d0fd915545d1280abde158efd2e7b42718ea29e256ac4d850b",
@@ -988,6 +989,15 @@
   "revisions": 1,
   "sha256": "ec38d3e8dff965325d40dfd7813f370ab4a85f85e6f0b25f64459d1bee2f8c15",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-48-house-election-by-12-15"
+ },
+ "0x98020018e3d3c707e66a8ee815a779fb593f7908185be7d545f2733a4fb15d83": {
+  "created_at": "2026-10-10T11:45:15.350596Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Gateshead FC 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "6ebd4fdc4b80372ca3fbe67a66da6aac571b0ade3119e341b36a35ab2184c64d",
+  "slug": "enl-gat-tam-2026-10-23-first-half-team-total-home-0pt5"
  },
  "0x98edcc6ab2196eaa1c0022f401f9921e0dfb3a8891013323f039cf7ecdd2ec83": {
   "created_at": "2026-01-28T04:54:30.71917Z",

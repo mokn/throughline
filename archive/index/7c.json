@@ -264,6 +264,7 @@
   "created_at": "2026-08-07T20:32:22.885148Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-06 House election by 30%-40%?",
   "revisions": 1,
   "sha256": "8ca47bbf77b48015ec8663b0517c2a5567c3e6fc8e187178f593e8b058c2db05",
@@ -695,6 +696,7 @@
   "created_at": "2026-10-24T11:30:50.741649Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Arvid Lindblad achieve the fastest lap in Practice 3 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
@@ -1339,6 +1341,15 @@
   "sha256": "27b2f9c58e92ae5fb021f7b572f177eb8c93e048ae1ca5077e1fe38d26bea611",
   "slug": "will-the-bank-of-brazil-decrease-the-target-for-the-selic-rate-by-25-bps-at-the-march-2027-meeting"
  },
+ "0xc3634d6a4cd74dd9fadaad2856841918958d6b2c488468266ac08949a11efd7c": {
+  "created_at": "2026-10-10T11:45:09.424708Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: O/U 2.5",
+  "revisions": 1,
+  "sha256": "89298ebea6f85f746b9fba12db3bfb6010a09e4878561e70b20d1b9aeaf99571",
+  "slug": "enl-gat-tam-2026-10-23-total-2pt5"
+ },
  "0xc3728d328eaccf0dc40bf10907ad697b278ca1982498feec4ba8c33d8a40f47c": {
   "created_at": "2026-11-01T15:01:16.169233Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1362,6 +1373,7 @@
   "created_at": "2026-08-05T18:38:22.656871Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 Georgia gubernatorial election by 3%-6%?",
   "revisions": 1,
   "sha256": "bbe5d7c7f01a9ba8e82aafa41725b88878e70c7c6fa85b3ce01606c9ea8425f7",
@@ -1668,6 +1680,7 @@
   "created_at": "2026-08-18T14:20:13.324205Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will total votes cast in the first round of the 2026 midterm election for Senator from Georgia be between 3,800,000 and 4,000,000?",
   "revisions": 1,
   "sha256": "871591bfb901be8968358d745aa82239616ac40a4dd54beb2769ddd549775ecc",

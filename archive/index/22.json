@@ -534,6 +534,7 @@
   "created_at": "2026-10-01T19:30:06.477243Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Al Ahli Saudi Club win on 2026-10-15?",
   "revisions": 1,
   "sha256": "15e11c1fbbc41fc6878c4f2f6fcd14a351efec698fbf048f55d965fb52eafd95",
@@ -1061,6 +1062,15 @@
   "sha256": "c86866edffdd8e58ed9fca50b0f49e335bc454549c937034703a0ab614ee1020",
   "slug": "will-the-republican-party-candidate-win-the-2026-ar-04-house-election-by-55-or-more"
  },
+ "0x8d2d4d102f082abe13cac560c58091616bce39371951900fe44cca389953d022": {
+  "created_at": "2026-10-10T11:45:14.828492Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Tamworth FC O/U 4.5",
+  "revisions": 1,
+  "sha256": "92219468e3d892715f4b18cf90c2702e92fcaa14fb11f0b57a96ca5a117fa49a",
+  "slug": "enl-gat-tam-2026-10-23-team-total-away-4pt5"
+ },
  "0x8d35d6f2f68eed57f8decba1447f01873ffc57c9043f20828d498e74df3db922": {
   "created_at": "2026-08-11T18:43:27.54152Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1202,6 +1212,7 @@
   "created_at": "2026-08-07T20:32:59.663407Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-09 House election?",
   "revisions": 1,
   "sha256": "7a24a14e0028b9730c6235ea3f91630556148abac9a82c869e48388d5f706979",

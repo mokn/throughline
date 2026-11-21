@@ -292,6 +292,15 @@
   "sha256": "f826ffa43ef1004eb0a21dcb9380d325e577171ba4b1bd718361faa7e7ace243",
   "slug": "will-galatasaray-reach-the-2027-uefa-champions-league-round-of-16"
  },
+ "0x24b7b98b6ac96b09246f0884e22486aa198eec2d0d79b2d1c2f08e6d66dfa34f": {
+  "created_at": "2026-10-10T11:45:11.491715Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "49b0da3d1773cc1351bf1487da3144c2f208a1dd8789e18580afeeeaf3680c8d",
+  "slug": "enl-gat-tam-2026-10-23-first-half-total-0pt5"
+ },
  "0x25f08ec5a7ed3389ff54eed6e329a1dbc799ba7e54cd8e6e0a048f012cb6744f": {
   "created_at": "2026-11-13T16:34:18.68473Z",
   "first_seen": "2026-11-14T13:31:33Z",
@@ -814,6 +823,7 @@
   "created_at": "2026-09-04T17:49:31.743263Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 Ohio Attorney General election?",
   "revisions": 1,
   "sha256": "998abaa686cf7a6b685c3eb2f584d3de2c23cfc36fac0e35dacccc5ff8e62f18",
@@ -1171,6 +1181,7 @@
   "created_at": "2026-08-07T20:32:22.631769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-06 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "8ca47bbf77b48015ec8663b0517c2a5567c3e6fc8e187178f593e8b058c2db05",
@@ -1203,6 +1214,15 @@
   "revisions": 1,
   "sha256": "df7f6da3e58d38dc651390e7b5937388142f5be2aae7eeb50b3e2568cc88551c",
   "slug": "will-jaycee-horn-finish-the-2026-27-nfl-regular-season-with-the-most-interceptions-20260715213239007"
+ },
+ "0x9c7f9a734591bfce8ef01262897a9adad0a1fb216b3c23b4fbf6f0312f90b24f": {
+  "created_at": "2026-10-10T11:45:07.732953Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Spread: Gateshead FC (-3.5)",
+  "revisions": 1,
+  "sha256": "9f1a6278b4e4d35301f540477bc261bd2b8970bf571cb111163856dd8e5831cf",
+  "slug": "enl-gat-tam-2026-10-23-spread-home-3pt5"
  },
  "0x9e5d87776497366e74958c002b1190656386fd5e9c85ce8f7e95d85f5cdf114f": {
   "created_at": "2026-09-02T21:58:06.956041Z",

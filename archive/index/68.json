@@ -82,6 +82,15 @@
   "sha256": "ed6afa8a002a543b173dcaa43be09024dcbd69cc6626b69a7d767032451943de",
   "slug": "will-cristiano-ronaldo-join-the-primeira-liga-next"
  },
+ "0x0b580ece7f733722fb39434818289fb694d7c21d407bf23587eaa19b43c4ac68": {
+  "created_at": "2026-10-10T11:45:14.453347Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Tamworth FC O/U 2.5",
+  "revisions": 1,
+  "sha256": "14745a4d75b5cd2593b954db6bdf1eec59b1b37e71dab6755a63cc2bdb238d71",
+  "slug": "enl-gat-tam-2026-10-23-team-total-away-2pt5"
+ },
  "0x0c3f99f78eb4548130be8a52b3848fc7bfd935828680f83ae64f473c3ae46768": {
   "created_at": "2026-10-13T15:48:44.250901Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1141,6 +1150,7 @@
   "created_at": "2026-09-27T20:49:08.512344Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will \"As It Was\" by Harry Styles be on the radio in GTA VI at launch?",
   "revisions": 1,
   "sha256": "604a099e2a930b2c77a589b350845e07121372cd98e12105fd87d39ceb2cb479",

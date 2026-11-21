@@ -649,6 +649,15 @@
   "sha256": "a7e0b987a1d9c93ef944bbe7194c0b6c67c73404c1273669106793d4e669fdd6",
   "slug": "will-austria-wien-be-relegated-from-austrian-bundesliga-2026-27"
  },
+ "0x578685dc0b6a1e500689ab1b3c6f65eac4f652d6088ddf251c4eed28e56e0beb": {
+  "created_at": "2026-10-10T11:15:05.122697Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will Tamworth FC win on 2026-10-23?",
+  "revisions": 1,
+  "sha256": "f00ac915f13f6814099431e5515de9d1c96022f57c1d257f6a72ac647846fa5a",
+  "slug": "enl-gat-tam-2026-10-23-tam"
+ },
  "0x5aeeed06929ae433ca4c4c8a2468455c5eafa108978a81b297f8201bb1db9feb": {
   "created_at": "2026-08-24T16:32:18.717302Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1598,6 +1607,7 @@
   "created_at": "2026-08-07T20:32:22.29259Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-06 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "8ca47bbf77b48015ec8663b0517c2a5567c3e6fc8e187178f593e8b058c2db05",

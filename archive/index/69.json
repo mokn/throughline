@@ -166,6 +166,7 @@
   "created_at": "2026-10-01T23:00:12.54884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Spread: Al Nassr Saudi Club (-4.5)",
   "revisions": 1,
   "sha256": "e94f1ba2d4677b773f9a4a1707bd026227d7ca2aeca54ba1296d8a29fc559d2b",
@@ -1036,6 +1037,15 @@
   "revisions": 1,
   "sha256": "e6b6c3d98fef208e9a76eb76f6159667d78f6387ea19ddc7ec88becca12c94db",
   "slug": "will-the-republican-win-the-arizona-governor-race-in-2026"
+ },
+ "0x8cf975e5e034472a3a12fdbb95a90baeba2b8c809842e2448ce1de389fbc6669": {
+  "created_at": "2026-10-10T11:45:08.761372Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Spread: Tamworth FC (-5.5)",
+  "revisions": 1,
+  "sha256": "449d88c39513d9941707230a19144d3a67f2fd809d1a2b0408074d1977b92e13",
+  "slug": "enl-gat-tam-2026-10-23-spread-away-5pt5"
  },
  "0x8d4b03bc93fa84c1fda0b25ee18b7ac1fee8a37f110230acac29cdcae6b8c169": {
   "created_at": "2026-11-14T02:40:18.014097Z",

@@ -236,6 +236,15 @@
   "sha256": "677af5ddc3a852ce54f526450a74af80b2cf016fe2e6ab087bd4428f2e02ba13",
   "slug": "valantis-fdv-above-150m-one-day-after-launch"
  },
+ "0x2228e667e2f54cdc02389a6fe5fbbb7bd1c34fbe46a2d506211f9da3cfc2c1ef": {
+  "created_at": "2026-10-10T11:15:10.778478Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 1 - 4 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-1-4"
+ },
  "0x22bd2815202041a8d7fe8d8052fa97fb66ef4407e817527f391532d87dcb12ef": {
   "created_at": "2026-08-05T10:50:14.07404Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -814,6 +823,15 @@
   "sha256": "528ad98672a03cae8c6451d320007ab93247a5541ff8d91aea9d68f5bf657513",
   "slug": "will-quentin-merlin-marseille-record-the-most-assists-in-the-2026-27-ligue-1-season"
  },
+ "0x813bc36b8602cd46ae257a1062672bcb83d1d89b4d51286c95483a490b0b50ef": {
+  "created_at": "2026-10-10T11:45:16.455034Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Tamworth FC 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "1c878a297e657ee00a49732694c570d17c55819843957b53ec796ed5381c1a28",
+  "slug": "enl-gat-tam-2026-10-23-first-half-team-total-away-1pt5"
+ },
  "0x815ad35ce954dd3e5fc4cf1f5c5a587489df38f6fc90bd536744842003e96fef": {
   "created_at": "2026-10-01T00:03:20.811674Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1064,10 +1082,20 @@
   "sha256": "c175a715d73f08c89077cd7de260f27a3371560ead836cffc184b1ba01fd707d",
   "slug": "will-chicago-white-sox-advance-to-the-world-series-in-the-2027-mlb-playoffs"
  },
+ "0xb18a03cc3e67f668a894068b39a848fbfabd3919702a50133682b3e5f8c80cef": {
+  "created_at": "2026-11-21T01:21:54.697139Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will US crude oil reserves fall to 260M by December 25, 2026?",
+  "revisions": 1,
+  "sha256": "7214d667320e865996e21e40d5ff5c41331b3a32d078a71cc2357c8e6f275f91",
+  "slug": "will-us-crude-oil-reserves-fall-to-260m-by-december-25-2026"
+ },
  "0xb2b3f28bae056046675c15cb3f51ae5dc43a6867eabac4ab0e3ef1b9cdbdd2ef": {
   "created_at": "2026-10-01T23:00:14.70288Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "d9b5951b1d0074c62a6cdbe56173bc69aed067e48eefd7b78d4ce0fd9b1ef656",
@@ -1563,6 +1591,7 @@
   "created_at": "2026-10-13T15:55:49.608866Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the New Orleans Pelicans reach the 2026 NBA Cup Knockout Rounds?",
   "revisions": 1,
   "sha256": "bac0be4c21405f3efe3a409c595b75d9c1f7609980201e1f8fdb7f17c7b01c66",

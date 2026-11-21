@@ -862,6 +862,7 @@
   "created_at": "2026-10-24T11:30:48.798738Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 3 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
@@ -1382,6 +1383,15 @@
   "sha256": "eb6ab207921e402274f9621f6344d555ab6abb7a26df38e0bafe962af2c7acb3",
   "slug": "will-mlada-boleslav-keep-the-most-clean-sheets-in-chance-liga-czechia-2026-27"
  },
+ "0xe42bf763d76cabbe6686afe7bf0a3351270507efcd443e3bb7f5e519b087744d": {
+  "created_at": "2026-11-20T19:13:43.113243Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will \"Avengers: Doomsday\" score at least 80 on the Rotten Tomatoes Popcornmeter?",
+  "revisions": 1,
+  "sha256": "a8870027c636a1833a8f383ad1f51e029c6285b996bf2880bdae5a8ca0afb4ec",
+  "slug": "will-avengers-doomsday-score-at-least-80-on-the-rotten-tomatoes-popcornmeter-20261221"
+ },
  "0xe454b7e75327a38e0831941eae7efafda555542e6ee772ce07f57789800a664d": {
   "created_at": "2026-08-04T18:12:40.326845Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1591,5 +1601,14 @@
   "revisions": 1,
   "sha256": "bab36b12f8a99f5249008e8774cdcefff1c9cf107e18c31dd5609f4023208c7f",
   "slug": "will-lisa-su-publicly-testify-before-congress-by-june-30-2027"
+ },
+ "0xfe4b63aef8e72a5762a90477d28851dc862686364477018226a511f69e05f84d": {
+  "created_at": "2026-11-21T01:21:54.188507Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will US crude oil reserves fall to 270M by December 25, 2026?",
+  "revisions": 1,
+  "sha256": "7214d667320e865996e21e40d5ff5c41331b3a32d078a71cc2357c8e6f275f91",
+  "slug": "will-us-crude-oil-reserves-fall-to-270m-by-december-25-2026"
  }
 }

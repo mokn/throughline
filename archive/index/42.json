@@ -782,6 +782,7 @@
   "created_at": "2026-10-22T17:32:50.697936Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the next GPT Terra model (5.7+) debut at a score of at least 1450 by June 30, 2027?",
   "revisions": 1,
   "sha256": "cb51de545b96de4f3e86d324e2df6ac1a80bac4ab31eaf630b7e4a69ac3f864c",
@@ -1399,6 +1400,15 @@
   "revisions": 1,
   "sha256": "94c85e893460516dd29364438df1d8eb10e02179d18bcc98d31dc087517d7832",
   "slug": "will-the-odyssey-win-the-award-for-cinematic-and-box-office-achievement-at-the-84th-golden-globes"
+ },
+ "0xe643b0ace7e85e19397e7fd04ac36ec033ffd4d951570d878f232de15b2fe942": {
+  "created_at": "2026-10-10T11:45:07.955303Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Spread: Tamworth FC (-3.5)",
+  "revisions": 1,
+  "sha256": "353d103b9848aa03a8a505a6d407073e6ca8596ba2fd180f266498b52fa009af",
+  "slug": "enl-gat-tam-2026-10-23-spread-away-3pt5"
  },
  "0xe9d6dbd759eabf839e3487cbe3989dfd0c48e990af7be808c8beef44ac17f142": {
   "created_at": "2026-08-07T16:02:00.147279Z",

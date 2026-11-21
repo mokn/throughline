@@ -296,6 +296,7 @@
   "created_at": "2026-08-07T20:28:51.260267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-14 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "9453077c4bd01d6f522edda67e5fd22ebc3d5e90ad09715653f43bebfdbf569a",
@@ -370,6 +371,7 @@
   "created_at": "2026-11-19T15:47:46.980118Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will IlloJuan be the first of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
@@ -1422,6 +1424,7 @@
   "created_at": "2026-10-24T11:30:16.706873Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Yuki Tsunoda get pole position at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
@@ -1684,6 +1687,15 @@
   "revisions": 1,
   "sha256": "5746ebc8b621544b6da91302f1f3469aec10c88d6bcb1a4df8d96cec7360cad1",
   "slug": "will-arkansas-win-the-2027-ncaa-mens-basketball-national-championship"
+ },
+ "0xfe8bb003853ef2c96e35a926978e1e83e69aacd2aa8d586c059642feabd659f4": {
+  "created_at": "2026-11-20T19:32:18.629218Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will Katie Zacharia be charged by December 31?",
+  "revisions": 1,
+  "sha256": "b06720b9c0d450882747bef88e28110612cfba87cdcc8c03169bda1a5c2c1fb9",
+  "slug": "will-katie-zacharia-be-charged-by-december-31"
  },
  "0xfeea203a1028c0998714d56dbdf4b8caf55fa0f0b602a6429dbd2d29393bf0f4": {
   "created_at": "2026-08-07T16:01:46.398698Z",

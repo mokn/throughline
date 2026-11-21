@@ -198,6 +198,15 @@
   "sha256": "a8bfe5716d32257da04cac55bff1c84003eadea69accc7be9975562d2a6cf348",
   "slug": "will-real-sociedad-be-relegated-from-laliga-2026-27"
  },
+ "0x10f0f8caf2a986b22d1b819baa795d24eafeca87ce5627b3c99e814678a0eb3f": {
+  "created_at": "2026-10-10T11:15:09.566181Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 1 - 2 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-1-2"
+ },
  "0x169d750200f8f6bc0c0bf2b4b7ca6ad47a3b80d9dd07610748372e13cd70b63f": {
   "created_at": "2026-07-29T21:11:26.687529Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -274,6 +283,7 @@
   "created_at": "2026-10-01T19:30:25.294159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club leading at halftime?",
   "revisions": 1,
   "sha256": "d007983eec1c903a90e42288d3015de6c295c6d78902a0f6749612e0bce25d0d",
@@ -620,6 +630,7 @@
   "created_at": "2026-08-07T20:31:56.615893Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-04 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "648e2f2ed525ed4c36b65d3bbc70574a39fd7294c3de46823ae4625d062073e1",
@@ -993,6 +1004,15 @@
   "revisions": 1,
   "sha256": "233b333eeb9de79162116f15ac3c9477a23b3c89314c4befcf21de4ef9f63cb9",
   "slug": "will-lovable-be-acquired-before-2027-423-881"
+ },
+ "0x8570e023f050d5600bd1dab12c1ea91eb4be4e06eefbcd1f1a162a644ea7ef3f": {
+  "created_at": "2026-10-10T11:45:12.597751Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Gateshead FC O/U 0.5",
+  "revisions": 1,
+  "sha256": "25ff8d4676abd3025dacde750ddc00ee1fb0bc9315f681715e075a398be023d5",
+  "slug": "enl-gat-tam-2026-10-23-team-total-home-0pt5"
  },
  "0x85cd10ef6c8fed0036b84be62a1bcb018a60023d7306548b86ebf73840f3ec3f": {
   "created_at": "2026-08-10T23:57:31.004501Z",
@@ -1421,6 +1441,7 @@
   "created_at": "2026-10-01T19:30:28.298428Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 5 - 1 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",

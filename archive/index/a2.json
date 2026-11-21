@@ -249,6 +249,7 @@
   "created_at": "2026-10-01T19:44:07.82672Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: O/U 11.5 Total Corners",
   "revisions": 1,
   "sha256": "a70dd3cf8ab155611e6600ddde58715dca8f9b943d742a0202d1cd167c60f77c",
@@ -339,6 +340,7 @@
   "created_at": "2026-10-28T21:53:40.132907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the next Fable model (5.2+) debut in the top 3 of the Text Arena leaderboard by June 30, 2027?",
   "revisions": 1,
   "sha256": "171dc5817e3525b0cb5438a2367175949ada98c8c896735929d5a77776e8af95",
@@ -1683,6 +1685,15 @@
   "revisions": 1,
   "sha256": "515cd57a913e8bedf3df5d6e6be4bf8e8f7a8bb590612d67ac2122471ddfadbf",
   "slug": "aba-league-2027-champion-u-bt-cluj-napoca"
+ },
+ "0xd422dd16f6be5995a59a09db23f34141aeca8638c05514d5a6a2943147b6c8a2": {
+  "created_at": "2026-11-20T19:13:47.930596Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will \"Dune: Part Three\" score at least 85 on the Rotten Tomatoes Popcornmeter?",
+  "revisions": 1,
+  "sha256": "8e4927a588f70714feb354eb1c59c82db4b805a85569849eeeacd0c250c012d9",
+  "slug": "will-dune-part-three-score-at-least-85-on-the-rotten-tomatoes-popcornmeter-20261221"
  },
  "0xd50e439f27487a6f4d65e8fead3188396cd4a296e10b8d42d613e90c291c20a2": {
   "created_at": "2026-05-22T18:33:44.014015Z",

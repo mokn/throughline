@@ -313,6 +313,7 @@
   "created_at": "2026-10-24T11:30:47.990435Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Kimi Antonelli achieve the fastest lap in Practice 3 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "5fee3b5a261d7c7c8a3b3ada544afdd53f86e111cbd20a46c4ffcb54f61cb646",
@@ -870,6 +871,7 @@
   "created_at": "2026-08-07T20:31:56.1127Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-04 House election by 50%-55%?",
   "revisions": 1,
   "sha256": "648e2f2ed525ed4c36b65d3bbc70574a39fd7294c3de46823ae4625d062073e1",
@@ -991,6 +993,15 @@
   "revisions": 1,
   "sha256": "61cf4e5c086e496555cf60eb8aec07ebd9162798117b79e842570f9e47137330",
   "slug": "will-linera-launch-a-token-by-december-31-2027"
+ },
+ "0x92abec34fc0a16d1a911e4fbfdc90b37ce817b4676736ba890769d5b86e56f1f": {
+  "created_at": "2026-10-10T11:45:10.078533Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: O/U 5.5",
+  "revisions": 1,
+  "sha256": "119a682f82b7bc1aa157dd1f3bf6f4386f0007b3bb7871750db8ab7f2b126824",
+  "slug": "enl-gat-tam-2026-10-23-total-5pt5"
  },
  "0x93ca48b2d8a3f5b3c933bd56351256140798de407a063f819895fa1fd6c24a1f": {
   "created_at": "2026-08-26T21:46:52.870377Z",
@@ -1376,6 +1387,15 @@
   "sha256": "4ad66f10fa479fbc69ca20b863954ff382fc5210de5fa1e9c0a3d01d4b3653fd",
   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-december-2026"
  },
+ "0xcb2cca9cc9902f5a3bf989b54a14ed740102c725ee236e079c9805d4ebc9481f": {
+  "created_at": "2026-10-10T11:45:16.702294Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Tamworth FC 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "0c9a72bb4272c7931b6b57de0445c657e2341036702cac02a8555aaa11184338",
+  "slug": "enl-gat-tam-2026-10-23-first-half-team-total-away-2pt5"
+ },
  "0xccb630592c07bc09aff54433b3b58543a45ec235604e24b62312e39bee4a8c1f": {
   "created_at": "2026-10-15T13:19:14.172533Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1620,6 +1640,7 @@
   "created_at": "2026-10-01T19:30:28.399297Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 3 - 4 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",

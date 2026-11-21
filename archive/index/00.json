@@ -110,6 +110,15 @@
   "sha256": "07b765b1d2f27c1ac9df39d5da7090f9c358ae17f27eafde18da8dadfe42b993",
   "slug": "will-aptjpt-brown-be-the-highest-scoring-wr-of-the-2026-27-nfl-season-20260806224130849"
  },
+ "0x17dee3d9de8787e1aa071e2b945c91bad99d1c2de051f5cabf6fd0ad46d50c00": {
+  "created_at": "2026-10-10T11:15:12.217229Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 2 - 5 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-2-5"
+ },
  "0x191fd6ff7f20d14a751142a47657533d10415d1338ea1b602e77b4038ab3de00": {
   "created_at": "2026-03-26T16:21:15.249309Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -519,6 +528,7 @@
   "created_at": "2026-08-04T17:59:23.344316Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the first round of the 2026 Georgia Senate election by 3%-6%?",
   "revisions": 1,
   "sha256": "fb3d7262dc964ddf797766a89bfeefc51b3632cd4577c72340ec6715a055b1aa",
@@ -1102,6 +1112,7 @@
   "created_at": "2026-08-07T20:31:21.498125Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-01 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "1edcfa7b6bdc1561c167c28d9c4b470806538ff3f8b4e6174a81087478bb27c2",

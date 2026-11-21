@@ -31,6 +31,7 @@
   "created_at": "2026-10-01T19:30:27.854531Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 2 - 3 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
@@ -49,6 +50,7 @@
   "created_at": "2026-10-28T21:53:24.472396Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will GPT Astra 6.1+ debut in the top 10 of the Text Arena leaderboard by June 30, 2027?",
   "revisions": 1,
   "sha256": "30691e80478652461ac07b43948816011b5b07e51c6a440e268df7f76eafb1b8",
@@ -923,6 +925,7 @@
   "created_at": "2026-11-19T15:47:51.646715Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will none of these streamers finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
@@ -1214,6 +1217,15 @@
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ri-01-house-election-by-30-35"
+ },
+ "0xb9ab957f134850fd637a1fb5df7284efc5b8505c4009626e98f4ffc2f8096207": {
+  "created_at": "2026-10-10T11:45:14.234757Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Tamworth FC O/U 1.5",
+  "revisions": 1,
+  "sha256": "67ba1c406cf24de1dc097cdc57ec16b2a09c4dffe06c6b4c365eea474b95a072",
+  "slug": "enl-gat-tam-2026-10-23-team-total-away-1pt5"
  },
  "0xbc22014d5377d4c8c81127ecd479a93151b68539cf1829f3eac1579a4da64507": {
   "created_at": "2026-09-09T15:51:22.566948Z",

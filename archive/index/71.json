@@ -361,6 +361,7 @@
   "created_at": "2026-08-07T20:33:17.531847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-11 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "0c8fd8e1336875ebcc95ecc766f46a4f8a0de551b2c9209ed20995ffc8eb535c",
@@ -1158,6 +1159,7 @@
   "created_at": "2026-08-07T20:31:21.241649Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-01 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "1edcfa7b6bdc1561c167c28d9c4b470806538ff3f8b4e6174a81087478bb27c2",
@@ -1559,6 +1561,7 @@
   "created_at": "2026-10-01T19:30:28.625287Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 4 - 4 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
@@ -1698,6 +1701,15 @@
   "revisions": 1,
   "sha256": "9ce3639a53a7702903bf3628ebd03eca0d510e79e38d11e80ba73bef46f8fdbc",
   "slug": "us-announces-cuba-oil-sanction-relief-by-december-31"
+ },
+ "0xf9f26c12f6ac7db9626f92cbcb1d6a236f26bf69bd86f194b1537ea7dc2d2a71": {
+  "created_at": "2026-10-10T11:15:09.836142Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 3 - 0 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-3-0"
  },
  "0xfaca737b782ef865f4dddec88b3113dc988cadf75c59e715e20cb3b5a6e22671": {
   "created_at": "2026-08-24T16:32:31.685988Z",

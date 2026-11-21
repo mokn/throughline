@@ -95,6 +95,7 @@
   "created_at": "2026-10-24T11:30:13.136241Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Fernando Alonso get pole position at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
@@ -123,6 +124,7 @@
   "created_at": "2026-10-24T11:30:20.085134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Audi Revolut get pole position at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "a37bceb6514eb1374fa66d3d5202b89025c55663cd42837e001c603fd5e53cec",
@@ -630,6 +632,7 @@
   "created_at": "2026-08-07T20:28:12.431754Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-13 House election?",
   "revisions": 1,
   "sha256": "5b8910c5c4a826d0fd915545d1280abde158efd2e7b42718ea29e256ac4d850b",
@@ -1105,6 +1108,15 @@
   "sha256": "aa033054bc4e6eee478381e2d05184e386602f7815f06580f02dfc1cac649bb5",
   "slug": "will-ewy-reach-166-in-november-2026"
  },
+ "0xae1f05e483270a0c55a9cdcda869b86408c75ac2a0f372233c8e0715a90d7870": {
+  "created_at": "2026-10-10T11:15:11.149075Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 3 - 2 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-3-2"
+ },
  "0xaef7915cb6ca00877f750251b9e0b21784cf5c722c3553091d4a3ad190ae0770": {
   "created_at": "2026-08-11T18:42:13.402034Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1483,6 +1495,7 @@
   "created_at": "2026-08-18T14:20:12.986265Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will total votes cast in the first round of the 2026 midterm election for Senator from Georgia be between 3,600,000 and 3,800,000?",
   "revisions": 1,
   "sha256": "871591bfb901be8968358d745aa82239616ac40a4dd54beb2769ddd549775ecc",

@@ -815,6 +815,7 @@
   "created_at": "2026-11-19T15:47:47.78535Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Kai Cenat be the first of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
@@ -1005,6 +1006,15 @@
   "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
   "slug": "will-tim-stutzle-record-50-goals-in-the-2026-27-regular-season"
  },
+ "0x89a0d3a7b400b88b706d79f431c5f18677c6b51368a331d80c86f0fc0e6c8ea5": {
+  "created_at": "2026-10-10T11:15:09.07971Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 0 - 2 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-0-2"
+ },
  "0x8e6a263fc5f4dd9433b4ccbc9bb9e0d89f4de8a91d3a82d6b437fe73fd847ea5": {
   "created_at": "2026-03-08T23:22:06.798923Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1185,6 +1195,15 @@
   "revisions": 1,
   "sha256": "a2cf5a67666d98154eea25f38b4918363037c31ed1ee1d77612bc9b7284f8447",
   "slug": "will-talleres-c-be-relegated-from-liga-profesional-argentina-2026"
+ },
+ "0xa1acab58525ed73b34e3a90ccf3d3ded53150b48cad6c18922671a0318df67a5": {
+  "created_at": "2026-10-10T11:15:07.605759Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC leading at halftime?",
+  "revisions": 1,
+  "sha256": "aaef118e66f6e4596e597a1d1771efb4ba88afe556bf33d09e30e112064faec4",
+  "slug": "enl-gat-tam-2026-10-23-halftime-result-home"
  },
  "0xa39a34dd96cab41960810dd224dabc62f2f232dd7ef79df6cadd173d271e3ca5": {
   "created_at": "2026-11-18T18:16:43.45789Z",
@@ -1520,6 +1539,15 @@
   "revisions": 1,
   "sha256": "41fa9e79b5b804f34e2e23bc763f0af3476a1aace9c5d405b98896bc6f9a4c58",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ne-03-house-election"
+ },
+ "0xcf391a979d77157b760efcbe29064d30f0b0cceb3ad300e4867685ecd12000a5": {
+  "created_at": "2026-10-10T11:15:12.348986Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 3 - 4 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-3-4"
  },
  "0xcf5b873071e09d7c129467c8d18b914acbefc5bae4c0f503b212a513782b5ca5": {
   "created_at": "2026-10-22T20:37:05.017767Z",

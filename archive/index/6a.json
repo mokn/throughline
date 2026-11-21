@@ -203,6 +203,7 @@
   "created_at": "2026-10-01T19:44:10.427554Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "a4c8cd25160095cba6a609062cf3df264fafcecfd8e106be4ab02848ad4abdb1",
@@ -293,6 +294,7 @@
   "created_at": "2026-08-07T20:28:51.728632Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-14 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "9453077c4bd01d6f522edda67e5fd22ebc3d5e90ad09715653f43bebfdbf569a",
@@ -560,6 +562,7 @@
   "created_at": "2026-10-01T19:30:28.121647Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 2 - 4 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
@@ -1517,6 +1520,15 @@
   "revisions": 1,
   "sha256": "d060a470e8773f7058552bec745c9e0334f3bc23e99e449289b7584aa98c5d50",
   "slug": "next-muse-wonder-1pt1-released-by-december-31-2026"
+ },
+ "0xcbd887b90d1cb3004c29c6d35f5f45ff480c7b777791d0931a4982ca3275b46a": {
+  "created_at": "2026-10-10T11:45:12.834683Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Gateshead FC O/U 1.5",
+  "revisions": 1,
+  "sha256": "2ce29091bbd652ea119d0530882bc80f98020584c382c9eae8bbb0efa5aa8070",
+  "slug": "enl-gat-tam-2026-10-23-team-total-home-1pt5"
  },
  "0xcd8e786f479edaa0ef31775e13d2fc75e0a18e6e6ef93ec17a1294d47b80136a": {
   "created_at": "2026-11-13T00:43:01.396275Z",

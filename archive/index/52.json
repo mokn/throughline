@@ -570,6 +570,7 @@
   "created_at": "2026-08-07T20:28:10.090476Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-13 House election by 60% or more?",
   "revisions": 1,
   "sha256": "5b8910c5c4a826d0fd915545d1280abde158efd2e7b42718ea29e256ac4d850b",
@@ -1506,6 +1507,15 @@
   "revisions": 1,
   "sha256": "d5bc11cfc552550730b17ba954963bafeb1c4dbd014b6d34ecae93819df6eb67",
   "slug": "will-glenn-cook-be-the-next-indianapolis-colts-general-manager"
+ },
+ "0xf5c7a7ea5dfb69bbe7bcc9d41c28730200bb7cda971d4f548e0aad733c528652": {
+  "created_at": "2026-10-10T11:45:13.281637Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Gateshead FC O/U 3.5",
+  "revisions": 1,
+  "sha256": "52e561751f309b2185d2fa7e6704fbc8ce4b79d7bef20dccada3b79de3c28b5f",
+  "slug": "enl-gat-tam-2026-10-23-team-total-home-3pt5"
  },
  "0xf96271ac9abe12ce54db5e34a6b0ad1abd604755ed13f85b67ecf729159bb352": {
   "created_at": "2026-10-15T18:01:10.04748Z",

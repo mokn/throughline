@@ -320,6 +320,7 @@
   "created_at": "2026-08-07T20:31:32.836459Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-02 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "2408f8ff007fe24abe7b6fa040628ce0c8900cee03a664dcf55f9a0ec64065a4",
@@ -670,6 +671,15 @@
   "revisions": 1,
   "sha256": "2801dbbe52a0202056d5ae4d1fa1a381595cc1fd189def5fbd5c7bded9a35982",
   "slug": "linera-fdv-above-100m-one-day-after-launch"
+ },
+ "0x7684b3f0d239be9f1213047dacca7d1c8ea3eec1386ae9021aa498bd3d2494f9": {
+  "created_at": "2026-11-20T19:13:43.881094Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will \"Avengers: Doomsday\" score at least 85 on the Rotten Tomatoes Popcornmeter?",
+  "revisions": 1,
+  "sha256": "a8870027c636a1833a8f383ad1f51e029c6285b996bf2880bdae5a8ca0afb4ec",
+  "slug": "will-avengers-doomsday-score-at-least-85-on-the-rotten-tomatoes-popcornmeter-20261221"
  },
  "0x7a6435b1c415ae5a2bfc555ee61802fe778ebbd01d4ec37dafe236dfa5366bf9": {
   "created_at": "2026-08-26T21:46:07.918315Z",

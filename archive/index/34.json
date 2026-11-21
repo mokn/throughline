@@ -358,6 +358,7 @@
   "created_at": "2026-10-01T23:00:15.308294Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "f53efb39d87de53a66b0995c6de888735ba73aaac33114f0bace5545d4b19731",
@@ -893,6 +894,15 @@
   "revisions": 1,
   "sha256": "0835ac2eadabadf1ce7cc1dec358ae4fb2c08ffbcb74aac5edf67f5cf85719e5",
   "slug": "will-the-next-gemini-flash-lite-model-3pt6-be-released-on-november-27-2026"
+ },
+ "0x8d2ddc8c1a4c4d83d7f32c68f9d8aed707c32e3b1fc5f51f392b4804bb297634": {
+  "created_at": "2026-10-10T11:15:11.699166Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 2 - 4 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-2-4"
  },
  "0x8dd5ac33cd5d2b942c3f51d519648f1bbd75e854fa77255973f034bcf51f6434": {
   "created_at": "2026-07-01T02:15:09.764917Z",

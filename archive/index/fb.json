@@ -230,6 +230,15 @@
   "sha256": "50359898c1d6f1b71c40c5592681bd9f5730a3b1fa8e0f7492c11323c536e860",
   "slug": "brock-bowers-105pt5-receptions-2026-27"
  },
+ "0x23111e3720742a0aa9eb7ef8a9df8972a22d1821f56c52baec7288af507f10fb": {
+  "created_at": "2026-10-10T11:15:12.61686Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 5 - 2 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-5-2"
+ },
  "0x2354617acf90e0568c3556e8cfe63d93eea08b451022753c2d7e61551da60ffb": {
   "created_at": "2026-08-26T08:44:16.739006Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -272,6 +281,7 @@
   "created_at": "2026-08-07T20:31:31.628695Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-02 House election by 30% or more?",
   "revisions": 1,
   "sha256": "2408f8ff007fe24abe7b6fa040628ce0c8900cee03a664dcf55f9a0ec64065a4",
@@ -652,6 +662,15 @@
   "sha256": "18e7d957415324e9b3c1152ed556ca18b358fea19d8a037f20d00e9ec631eef3",
   "slug": "will-mc-win-the-most-seats-in-the-2027-yucatan-congress-election"
  },
+ "0x5bfc34744b37825bb78cccf7e6e24336f858d42d0648b5c8b3e06c510d8409fb": {
+  "created_at": "2026-10-10T11:15:13.564097Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-any-other"
+ },
  "0x5bfded7606a212430b4bf493681da36f2a51f300c807e47a0973c568138a3dfb": {
   "created_at": "2026-09-18T00:08:49.528841Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -811,6 +830,7 @@
   "created_at": "2026-11-19T15:47:47.37539Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will IShowSpeed be the first of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "7822e1ff1c8a02db60767dd3acc1dacddb96f59d08140bd3ad419024e3915a33",
@@ -865,6 +885,7 @@
   "created_at": "2026-08-07T20:31:57.137671Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 GA-04 House election by 0%-30%?",
   "revisions": 1,
   "sha256": "648e2f2ed525ed4c36b65d3bbc70574a39fd7294c3de46823ae4625d062073e1",
@@ -1158,6 +1179,7 @@
   "created_at": "2026-10-24T11:30:15.177134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Valtteri Bottas get pole position at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "b9054aad4cb8f32d9fb62c1f99cde5918a82e7264dcbb72475214edd9e7fd718",
@@ -1400,6 +1422,7 @@
   "created_at": "2026-11-14T06:19:51.145019Z",
   "first_seen": "2026-11-14T13:31:33Z",
   "last_changed": "2026-11-14T13:31:33Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will 500M to 650M Anthropic shares trade on IPO day?",
   "revisions": 1,
   "sha256": "73d1571543e21022da39c5ed6255acc51b276a64c48ac155fb9706887f31472f",

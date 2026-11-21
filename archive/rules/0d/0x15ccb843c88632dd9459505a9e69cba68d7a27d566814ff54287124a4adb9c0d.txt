@@ -1,0 +1,20 @@
+On November 20, 2026, mathematician Levent Alpöge announced a Lean formalization claiming a proof of the Riemann Hypothesis, developed with Claude (https://alpo.ge/remark.pdf). The formalization was published as an archive at alpo.ge (joined archive sha256 9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc) and is mirrored unmodified at commit 40e56bab026552e089d7afcfeff08d2defb9c005 of the Deicyde/riemann-hypothesis repository (https://github.com/Deicyde/riemann-hypothesis).
+
+This market will resolve to "Yes" if, between November 20, 2026 and December 31, 2026, 11:59 PM ET, a verifier independent of Levent Alpöge and Anthropic publicly releases a report showing a successful verification of that formalization, as defined below. Otherwise, this market will resolve to "No".
+
+A successful verification is a run of Comparator (https://github.com/leanprover/comparator), including via "lake comparator", on the formalization exactly as published, using the Mathlib version it pins, that:
+- checks the theorems riemannHypothesis, riemannZeta_eq_zero_re, LFunction_ne_zero_of_half_lt_re, LFunction_eq_zero_re and LFunction_eq_zero_re_of_isPrimitive against the statements in src/Challenge.lean at commit 1f2beda145f7b7a9f6f6f6640a60f2e44920b7ba of the Deicyde/riemann-hypothesis repository, where riemannHypothesis is stated as Mathlib's RiemannHypothesis;
+- permits only the axioms propext, Quot.sound and Classical.choice; and
+- is accepted by Lean's kernel at version v4.36.0 or later and by at least one other publicly available proof checker for Lean, such as nanoda or Lean's hardened checker (leanchecker-paranoid), either of which counts.
+
+Comparator must be an official, unmodified release: the "lake comparator" included in an official Lean release, or a tagged release of leanprover/comparator. The build, export and sandbox steps, the other tool versions, and the set of any further checkers may differ from those described in the repository. Adding the challenge file and the configuration needed to run Comparator, as done in the Deicyde/riemann-hypothesis repository, does not count as modifying the formalization. A further checker that cannot read the formalization for reasons unrelated to its correctness, such as an unsupported inductive type or export format, will not prevent a qualifying verification.
+
+The report must include the Comparator output and enough detail, such as the commands, tool versions and hashes of the exported files, for the run to be reproduced. A successful build alone, an unsupported claim of verification, or a verification of a revised or otherwise different version of the formalization will not qualify. A report will not qualify if it is credibly shown that its output was fabricated or altered, or that its published hashes do not match what its stated inputs produce. A reported failed verification will not on its own resolve this market before December 31, 2026.
+
+This market will resolve as soon as a qualifying report is published. Apart from the case of fabricated or altered output described above, a rejection reported by any other verifier or checker will not invalidate a qualifying report.
+
+The report must name at least one author, and a verifier is independent if none of the report's named authors is Levent Alpöge or, at the time of the report, an employee or contractor of Anthropic. The report must be publicly available, with a public timestamp, between November 20, 2026 and December 31, 2026, 11:59 PM ET.
+
+This market concerns only whether this specific formalization passes the defined independent technical verification. It does not concern broader mathematical acceptance of the Riemann Hypothesis, peer review, or recognition by the Clay Mathematics Institute.
+
+The primary resolution source for this market will be qualifying public verification reports and their reproducible output; however, a consensus of credible technical reporting may also be used.

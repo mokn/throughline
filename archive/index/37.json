@@ -1060,6 +1060,15 @@
   "sha256": "2a1ebccf16b022fcafd1ccc2e9d1eafb4a2f42e97b22d2506b55dfb7c23330fd",
   "slug": "will-dominick-reyes-be-the-ufc-light-heavyweight-champion-on-december-31-2026"
  },
+ "0x9a55c382fd4f999665358baa7b24b0782e274141b490a7a7302d3c2ad0b64d37": {
+  "created_at": "2026-10-10T11:45:13.997193Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Tamworth FC O/U 0.5",
+  "revisions": 1,
+  "sha256": "c88d8679b56262b06e2a6d55ce014cb10af906c17f51f5052ba142f01a772979",
+  "slug": "enl-gat-tam-2026-10-23-team-total-away-0pt5"
+ },
  "0x9d58fefc0ab3d17e7a5f363dc97638525d9769a2637849a6a7b1a97ebc34b837": {
   "created_at": "2026-03-10T17:24:57.505388Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1706,6 +1715,7 @@
   "created_at": "2026-08-05T18:38:21.982813Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 Georgia gubernatorial election by 12% or more?",
   "revisions": 1,
   "sha256": "bbe5d7c7f01a9ba8e82aafa41725b88878e70c7c6fa85b3ce01606c9ea8425f7",
@@ -1778,6 +1788,7 @@
   "created_at": "2026-10-01T23:00:15.48924Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Ahli Saudi Club O/U 0.5",
   "revisions": 1,
   "sha256": "e7f61d98fda125bda2e5d35a8fa351be0d38e554cca2a3868a25905abb4c431b",

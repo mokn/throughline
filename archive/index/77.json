@@ -348,6 +348,7 @@
   "created_at": "2026-10-24T11:30:20.431921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Ferrari get pole position at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "a37bceb6514eb1374fa66d3d5202b89025c55663cd42837e001c603fd5e53cec",
@@ -429,6 +430,7 @@
   "created_at": "2026-10-28T21:53:41.089964Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the next Fable model (5.2+) debut in the top 10 of the Text Arena leaderboard by June 30, 2027?",
   "revisions": 1,
   "sha256": "171dc5817e3525b0cb5438a2367175949ada98c8c896735929d5a77776e8af95",
@@ -618,6 +620,15 @@
   "revisions": 1,
   "sha256": "955109b2c91e2314cc1ee4ca459947f93ed856268bbf51efb98ebb5ee45fda9c",
   "slug": "will-usdcad-hit-1pt60-high-in-2026"
+ },
+ "0x58eb6480e7748569d8742c6d5f95531eb815648e3e1b3a0220787bbaa55c6577": {
+  "created_at": "2026-10-10T11:45:08.15457Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Spread: Gateshead FC (-4.5)",
+  "revisions": 1,
+  "sha256": "0ed6d677e66fb73bac43f8831782d44f71e5f8ed2311bb028e95e19d4624143a",
+  "slug": "enl-gat-tam-2026-10-23-spread-home-4pt5"
  },
  "0x592ab3b7d30319a2fc17acb638525da499507f474669ec3e4ebaade88a29a477": {
   "created_at": "2026-11-10T02:39:26.184712Z",
@@ -1583,6 +1594,7 @@
   "created_at": "2026-08-18T14:20:14.334312Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will total votes cast in the first round of the 2026 midterm election for Senator from Georgia be between 4,400,000 and 4,600,000?",
   "revisions": 1,
   "sha256": "871591bfb901be8968358d745aa82239616ac40a4dd54beb2769ddd549775ecc",
@@ -1699,6 +1711,15 @@
   "revisions": 1,
   "sha256": "1bb1fa7571b38a440d22aad6e53c7a3f348a9cf4a67e609430c87dd3607a208a",
   "slug": "will-aster-reach-1pt40-by-december-31-2026"
+ },
+ "0xf6f79f66107e1a075d586711138f200412d6fbfc0e6dfbe5d297aac8ae370077": {
+  "created_at": "2026-10-10T11:15:13.26513Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 5 - 4 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-5-4"
  },
  "0xfb9e8c680b0c64eaacfbda9aee27fd234fc6c38bb723f018f97f8374e2417177": {
   "created_at": "2026-10-15T13:20:54.251099Z",

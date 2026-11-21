@@ -241,6 +241,7 @@
   "created_at": "2026-10-01T23:00:15.644217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Ahli Saudi Club O/U 1.5",
   "revisions": 1,
   "sha256": "52422f7cf106443611da7cc3eeffbcc1aff74e1684f5d46cb212dbc44e155105",
@@ -388,6 +389,7 @@
   "created_at": "2026-10-21T17:12:27.447253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will GPT Astra 6.1+ debut at a score of at least 1440 by June 30, 2027?",
   "revisions": 1,
   "sha256": "1246434b874a8b8a4700d1c73bc07aee8f2ef52bd84f45770e740a126fc38410",
@@ -711,6 +713,15 @@
   "sha256": "ac6b606d272cd988017523c6286c1adb2a060970a8ddd22fde4a408e39827997",
   "slug": "will-the-democrats-win-the-massachusetts-senate-race-in-2026"
  },
+ "0x6ff43de5bc294f235e813e1f70c4b02023e7562e99a099b855b7a87c664bdd32": {
+  "created_at": "2026-10-10T11:45:15.526103Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Gateshead FC vs. Tamworth FC: Gateshead FC 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "99339b20b436495041584a8b32648b78863228ddb33b8ab51e6a6074ccfbdf11",
+  "slug": "enl-gat-tam-2026-10-23-first-half-team-total-home-1pt5"
+ },
  "0x70428810c1f92d07e2fcb9fd8e438fcd8dc3041726deadf7621f3fb56859c732": {
   "created_at": "2026-08-12T14:55:58.00928Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -967,6 +978,15 @@
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-paolo-banchero"
  },
+ "0x93f9b629abe9899a622c1402e449697069d1b2d0c6000cf5dee003ed07ccd132": {
+  "created_at": "2026-10-10T11:15:09.945003Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 0 - 4 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-0-4"
+ },
  "0x9493f6ed7cda5225450336ab4e743ddf9a1b0ebcbdbb98c4341bb0132306e332": {
   "created_at": "2026-10-20T23:04:03.836673Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1161,6 +1181,7 @@
   "created_at": "2026-08-06T15:44:00.408338Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Hanwha Life Esports make a roster change by December?",
   "revisions": 1,
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",
@@ -1206,6 +1227,7 @@
   "created_at": "2026-10-01T23:00:19.994367Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Ahli Saudi Club 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "3326b61d7070d0df646d98a7a5dbc750f1c0e4a9b091eb8ea508c080c5f4bac5",

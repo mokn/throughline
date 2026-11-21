@@ -17,6 +17,15 @@
   "sha256": "1e8955d996d11bd6528a129a1e19773f989b021a9db11f740a4e4a273142ca8f",
   "slug": "will-tyra-hurricane-black-reach-the-semifinals-of-the-2027-ppa-tour-finals"
  },
+ "0x072d80f8d69076a002ed7b07319fdc91fc49a60b36591bb37564afbb1e8f90cc": {
+  "created_at": "2026-10-10T11:15:11.564814Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Exact Score: Gateshead FC 1 - 5 Tamworth FC?",
+  "revisions": 1,
+  "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
+  "slug": "enl-gat-tam-2026-10-23-exact-score-1-5"
+ },
  "0x0823486eefacb2053538c11dbb3df102259e70d02ecbadb4aaad373d07c5d2cc": {
   "created_at": "2026-09-14T22:15:51.16522Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -500,6 +509,7 @@
   "created_at": "2026-10-01T23:00:16.326274Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Ahli Saudi Club O/U 5.5",
   "revisions": 1,
   "sha256": "71bd370054775841baa192434ea745fda47723c6f1505e9d7bbcfce9b8141523",
@@ -1423,6 +1433,7 @@
   "created_at": "2026-08-07T20:31:41.775305Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 GA-03 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "3e6bfbd2a4a8fd34c5e7eefbe6c0a8cde629ee3b88db2658a65bfa4ba03885dd",

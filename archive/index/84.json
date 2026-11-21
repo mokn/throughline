@@ -280,6 +280,7 @@
   "created_at": "2026-10-24T11:30:19.747853Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will Aston Martin get pole position at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "a37bceb6514eb1374fa66d3d5202b89025c55663cd42837e001c603fd5e53cec",
@@ -602,6 +603,7 @@
   "created_at": "2026-10-01T19:30:27.575518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Exact Score: Al Ahli Saudi Club 2 - 2 Al Nassr Saudi Club?",
   "revisions": 1,
   "sha256": "d763d6b54be1657771298a38ed28dda96f7d1df2601632bab0452bc1350e5a36",
@@ -678,6 +680,15 @@
   "revisions": 1,
   "sha256": "68964fb86d9f09f22688b7e15974b63470029652859b042ea15337057c68261d",
   "slug": "barcelona-uefa-negreira-verdict-announced-by-january-31-2027"
+ },
+ "0x621f5cf37c7781befe30d316e54e90cc30b0ae2b3c668d9063fb8c35ac639984": {
+  "created_at": "2026-11-21T01:21:55.413356Z",
+  "first_seen": "2026-11-21T14:39:27Z",
+  "last_changed": "2026-11-21T14:39:27Z",
+  "question": "Will US crude oil reserves fall to 250M by December 25, 2026?",
+  "revisions": 1,
+  "sha256": "7214d667320e865996e21e40d5ff5c41331b3a32d078a71cc2357c8e6f275f91",
+  "slug": "will-us-crude-oil-reserves-fall-to-250m-by-december-25-2026"
  },
  "0x624186a9112d6238c8bf5e5b6135385e669407ddda10eb1ac8f32ab2c07e0e84": {
   "created_at": "2026-10-19T09:00:12.583264Z",
@@ -886,6 +897,7 @@
   "created_at": "2026-09-04T17:49:31.99264Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Republican Party candidate win the 2026 Ohio Attorney General election?",
   "revisions": 1,
   "sha256": "998abaa686cf7a6b685c3eb2f584d3de2c23cfc36fac0e35dacccc5ff8e62f18",
@@ -1178,6 +1190,7 @@
   "created_at": "2026-08-05T18:38:23.307914Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-21T14:39:27Z",
   "question": "Will the Democratic Party candidate win the 2026 Georgia gubernatorial election by 3%-6%?",
   "revisions": 1,
   "sha256": "bbe5d7c7f01a9ba8e82aafa41725b88878e70c7c6fa85b3ce01606c9ea8425f7",
