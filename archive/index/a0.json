@@ -634,6 +634,7 @@
   "created_at": "2026-09-02T21:58:29.402911Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Liberty Flames advance to the 2026 Conference USA Championship Game?",
   "revisions": 1,
   "sha256": "75664d9e4f3dd8d54a04056afa9e7af0f7ea10129c62b032620debf37b1443a2",
@@ -983,6 +984,7 @@
   "created_at": "2026-09-02T21:58:30.123638Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Western Kentucky Hilltoppers advance to the 2026 Conference USA Championship Game?",
   "revisions": 1,
   "sha256": "75664d9e4f3dd8d54a04056afa9e7af0f7ea10129c62b032620debf37b1443a2",
@@ -1476,6 +1478,15 @@
   "revisions": 1,
   "sha256": "bba4086cdbda56ab4ffd857fe33ae796d520c110b756969bfe356ca67678471d",
   "slug": "will-shane-steichen-win-the-2026-nfl-coach-of-the-year-award-for-the-2026-27-nfl-season-20260716005217094"
+ },
+ "0xd479ca05155e7a691df50002b70f7569195c0b1554ba7e4c6aa42bc83eb713a0": {
+  "created_at": "2026-11-21T15:49:21.463484Z",
+  "first_seen": "2026-11-22T14:34:48Z",
+  "last_changed": "2026-11-22T14:34:48Z",
+  "question": "Will HoneyMad be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-honeymad-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261121"
  },
  "0xd8659b58a90d0d69fb1170f25b2b896871a1328115fd11c6f4cfe2b01a2a8ba0": {
   "created_at": "2026-07-09T00:26:54.2029Z",

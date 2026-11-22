@@ -36,6 +36,15 @@
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",
   "slug": "will-omonia-record-the-most-clean-sheets-in-the-uel-league-phase"
  },
+ "0x05926b5039196260d95f1c9c276a24d79092bd5f35323769c3d363f6b54f44ee": {
+  "created_at": "2026-11-21T15:49:22.281254Z",
+  "first_seen": "2026-11-22T14:34:48Z",
+  "last_changed": "2026-11-22T14:34:48Z",
+  "question": "Will N3on be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-n3on-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261121"
+ },
  "0x05c6fd9d269db35a84685a078f9b12fc504ccc3274556b74c085bff89db997ee": {
   "created_at": "2026-11-01T15:01:20.776819Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -973,6 +982,7 @@
   "created_at": "2026-10-24T11:31:00.256285Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Who will finish higher: Hamilton or Piastri?",
   "revisions": 1,
   "sha256": "c0f72ed024383fa42a1e1b01f49a927532c92b6a3ca64ebb6a288f89cbb15204",

@@ -21,6 +21,7 @@
   "created_at": "2026-10-24T11:30:25.652892Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Arvid Lindblad achieve the fastest lap at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "46e3f42cb9a43eb76759c9a843c32b0a59e4c05b11db968b28e2bea3a7ddd362",
@@ -602,6 +603,7 @@
   "created_at": "2026-11-19T15:46:51.398247Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Lord Kebun be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "3e73804ca86e7cc59e9b255c304224cd2bcdf112fb89542945c386356af7c789",
@@ -702,6 +704,7 @@
   "created_at": "2026-11-11T00:51:33.339233Z",
   "first_seen": "2026-11-11T14:22:59Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Gemini Hydrogen debut with an HLE-Diamond score of 30% or higher?",
   "revisions": 1,
   "sha256": "5c75c2058420922fafb244b46e7b4df31e662bd02d943b39ea4c6b7e27e81adc",
@@ -945,6 +948,15 @@
   "revisions": 1,
   "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
   "slug": "will-franois-ruffin-be-on-the-ballot-for-the-2027-french-presidential-election"
+ },
+ "0x80a07ae5761f080947d94a2684334eb0b88ea86c5f205789426ce06cb131bf2b": {
+  "created_at": "2026-11-21T15:49:25.101768Z",
+  "first_seen": "2026-11-22T14:34:48Z",
+  "last_changed": "2026-11-22T14:34:48Z",
+  "question": "Will xQc be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-xqc-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261121"
  },
  "0x820984c1e1994d90449fcb9fd89b51f5e48b8ee0490ddf69a13b962b4db81c2b": {
   "created_at": "2026-09-04T19:52:08.773197Z",
@@ -1501,6 +1513,7 @@
   "created_at": "2026-11-19T15:46:51.007952Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Kaysan be the first of these Kick streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "3e73804ca86e7cc59e9b255c304224cd2bcdf112fb89542945c386356af7c789",

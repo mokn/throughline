@@ -692,6 +692,15 @@
   "sha256": "5f2ff6089f25e448ac2c188655f6ef23ad47c9560fffcb75c4998100c6b74f08",
   "slug": "slovenia-liga-nova-kbm-2027-champion-sentjur"
  },
+ "0x5b00ef44f75e14930aef41452d32faccb833fcedb1bf9a1afe54717ef6a0855a": {
+  "created_at": "2026-11-21T15:49:24.297465Z",
+  "first_seen": "2026-11-22T14:34:48Z",
+  "last_changed": "2026-11-22T14:34:48Z",
+  "question": "Will Typical Gamer be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-typical-gamer-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261121"
+ },
  "0x5b3131b398cf1832213358eff973ca9864f816e8e90e368c8673859b6eadcc5a": {
   "created_at": "2026-02-18T23:01:11.718198Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -787,6 +796,7 @@
   "created_at": "2026-10-24T11:30:24.732053Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Valtteri Bottas achieve the fastest lap at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "46e3f42cb9a43eb76759c9a843c32b0a59e4c05b11db968b28e2bea3a7ddd362",
@@ -1280,6 +1290,7 @@
   "created_at": "2026-10-24T11:30:10.552745Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Cadillac have the highest constructor score at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "a96a4328add66ad7dd33809111f1d13729ddeff9c472733861bf54d241cfade3",

@@ -1176,6 +1176,15 @@
   "sha256": "105678b6ef6aa21dff4caa6b12717132b1dc5b39df24ceb6f6a4129746d2c7a8",
   "slug": "will-the-2026-trade-deficit-be-less-than-500b"
  },
+ "0xabc8971c722d54df3a250fdba1c588f1df1911eed53e774d12f0dd86cf67757c": {
+  "created_at": "2026-11-21T15:49:25.542003Z",
+  "first_seen": "2026-11-22T14:34:48Z",
+  "last_changed": "2026-11-22T14:34:48Z",
+  "question": "Will none of these streamers finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-none-of-these-streamers-finish-gta-vi-by-december-31-2026-20261121"
+ },
  "0xacd7b2b94166a5e76f33f1f7a906ae0c413a1968023c5a0d4eba5dc40988ea7c": {
   "created_at": "2026-09-04T04:04:09.636525Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1208,6 +1217,7 @@
   "created_at": "2026-08-12T14:57:56.256403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Maryland have more than 5.5 wins during the 2026 CFB season?",
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",

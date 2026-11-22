@@ -162,6 +162,15 @@
   "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
   "slug": "will-tarik-skubals-next-team-be-new-york-mets"
  },
+ "0x2a82df66332a6e7f8202e5f38dd3b3453705d473091ca8a34aef0b8f9e0aee61": {
+  "created_at": "2026-11-21T15:49:23.914413Z",
+  "first_seen": "2026-11-22T14:34:48Z",
+  "last_changed": "2026-11-22T14:34:48Z",
+  "question": "Will TheBurntPeanut be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-theburntpeanut-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261121"
+ },
  "0x2d0d0159d0edd3511bf1aeef4ef53a74b0ef2dadcfc6b1019aa31ce74b664861": {
   "created_at": "2026-01-28T15:30:28.147586Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1049,6 +1058,7 @@
   "created_at": "2026-10-24T11:30:06.168025Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-22T14:34:48Z",
   "question": "Will Arvid Lindblad win the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "7a34bbe7728de91b348591c34b4a6404d821517c1b83e362ba76fec70cc3a431",
