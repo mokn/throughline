@@ -182,6 +182,15 @@
   "sha256": "1ea973316c61d846b86cce2afe3cd419e701282e35f92ffa74de0423ff3bc462",
   "slug": "will-the-democratic-party-win-the-il-08-house-seat"
  },
+ "0x23ac93e93d8f793c54d1e2678648a2b7fc22691297fa6988a6ff1a46ce884b50": {
+  "created_at": "2026-11-23T16:34:13.062179Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Karol\u00edna Muchov\u00e1 win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-karolina-muchova-win-the-2027-womens-australian-open"
+ },
  "0x23b1d1de0ea8cf6a697c9f7a6716daae32413e9f3e338bf80454c7bb0102b550": {
   "created_at": "2026-09-20T08:45:31.723839Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -223,6 +232,7 @@
   "created_at": "2026-11-12T21:16:47.864639Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang rejoin NVIDIA by December 31, 2026?",
   "revisions": 1,
   "sha256": "ee118a6a43e238956c571cf3239a2d5f4300b6e4e42942191e932705cd2f9b92",
@@ -825,6 +835,15 @@
   "sha256": "3fb53b5197a9ba0ae6c380f83df6141ac74b87d202fe37356bec654565603dc0",
   "slug": "will-the-democratic-party-win-the-ma-09-house-seat"
  },
+ "0x761ceb9a1dbb258f8583e7ad91256293a7f1a1b35972f1a06e9778c449649450": {
+  "created_at": "2026-11-23T02:21:53.405027Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2026 be above $2.70?",
+  "revisions": 1,
+  "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
+  "slug": "h100-average-rental-price-in-december-2026-above-2pt70"
+ },
  "0x7748ec970541401e0a3cfdda1bc0ed7054eb3af7c2ac5521396788645e5b3d50": {
   "created_at": "2026-06-10T17:49:13.335743Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1283,6 +1302,15 @@
   "revisions": 1,
   "sha256": "56569df419ee3e67c6f945a6feb32a25f1f6d437ceec56cc32bf6786c952506d",
   "slug": "2027-soccer-nb-i-hungary-winner-budapesti-vasas"
+ },
+ "0xaf9ff01ac4eabf94e08b712d07c23b8d01dc900dc23aa740fe665cc89d0ff050": {
+  "created_at": "2026-11-23T16:34:06.339113Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Novak Djokovic win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-novak-djokovic-win-the-2027-australian-open"
  },
  "0xb3c5e62f8aa16901bf553fd0c2ae73596275f970364544071cd75196d4d2bb50": {
   "created_at": "2026-08-12T00:11:27.69966Z",

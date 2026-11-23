@@ -118,6 +118,15 @@
   "sha256": "e2a0604ead96f6f5872b110cc9c7909881d1b494756a97f5626f245f7ee30e6a",
   "slug": "will-alphabets-market-capitalization-be-between-3pt50t-and-4pt00t-at-the-end-of-2026-1785882876118"
  },
+ "0x1220fa4f180897f2e33739dbfa3d9ea3ccb01dfac21ad9d6d0b3208512cb6451": {
+  "created_at": "2026-11-23T03:00:34.204567Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $12.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-12pt00"
+ },
  "0x1224c913485eaf130994b4c2354ec8473a14739603ae3da6d4aa2785fff85c51": {
   "created_at": "2026-11-07T12:30:32.045625Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1208,6 +1217,15 @@
   "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
   "slug": "will-teruaki-satos-next-team-be-miami-marlins"
  },
+ "0xc34e6d3e27a940281609fd81e64eb81e201408fd52078eb8ea97e53a1f41d951": {
+  "created_at": "2026-11-23T03:03:25.054089Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $5.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-5pt00"
+ },
  "0xc49f6b84d15554e3b8baf938e6e6c7a06fcb8556eb364c753f10d62f5d77df51": {
   "created_at": "2026-09-09T15:52:58.872309Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1420,6 +1438,7 @@
   "created_at": "2026-10-15T13:20:19.969898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will CrowdStrike Q3 net new ARR be above $360M?",
   "revisions": 1,
   "sha256": "1158d54a1df822312c0493f06bf36938e5eabd383b0a0387cde9f3f3006a9fa8",

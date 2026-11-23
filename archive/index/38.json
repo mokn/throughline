@@ -36,6 +36,15 @@
   "sha256": "86ceb3b75052d661856c223e5eedd1b2ec5af3ca16de30c4f357e231c62c36a1",
   "slug": "will-mina-the-hollower-win-best-game-direction-at-the-2026-game-awards-1785857784733"
  },
+ "0x06bbb6d2ed7fdd6e245e05ee8a10cfebedb1e814350c15b9d157439f57f4be38": {
+  "created_at": "2026-11-23T03:04:12.160261Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $3.20?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-3pt20"
+ },
  "0x091112001d689e057cbd5f17d3239e683c48138025659e784ff11fe7ba534e38": {
   "created_at": "2026-08-11T18:26:57.719127Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1269,6 +1278,7 @@
   "created_at": "2026-10-15T13:20:20.407597Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will CrowdStrike Q3 net new ARR be above $400M?",
   "revisions": 1,
   "sha256": "1158d54a1df822312c0493f06bf36938e5eabd383b0a0387cde9f3f3006a9fa8",

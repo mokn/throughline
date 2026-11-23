@@ -607,6 +607,15 @@
   "sha256": "8882574f077fb731a70f111a56bce512fb89f2b66a3b24a17f3967b237420762",
   "slug": "cdr-ca-mal1-2026-10-28-total-4pt5"
  },
+ "0x68f60785bf14a92b4c5a2efa2ff7e892071df848037df98742d91a169f158ebc": {
+  "created_at": "2026-11-23T03:00:50.663215Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $18.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-18pt00"
+ },
  "0x69f99fc2a8f1149845b4887fc92e77c06df91c5ff5e968bc06c563666adc59bc": {
   "created_at": "2026-05-07T20:33:53.091894Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -688,6 +697,15 @@
   "revisions": 1,
   "sha256": "d9f97b16ae0afd969c05250b7dfac66fb183765d8f9e2bdfefb70ee062abd67b",
   "slug": "will-micron-q1-dram-revenue-be-above-44b"
+ },
+ "0x712582bee9bdec7088a8c571fb42d109eea8ff6d531d7f15a0b7e23f095034bc": {
+  "created_at": "2026-11-23T16:34:09.059916Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Felix Auger Aliassime win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-felix-auger-aliassime-win-the-2027-australian-open"
  },
  "0x71dcc747b514f670c9e0000c1cf963a5cd3a04aeb67400bc1c35fe19b76997bc": {
   "created_at": "2025-11-19T22:51:36.043733Z",
@@ -1226,6 +1244,15 @@
   "revisions": 1,
   "sha256": "de3c698c0556cf751c4d334343c3805fdd838f94303f418b204fb5686f2f9202",
   "slug": "will-yariv-levin-be-the-next-israeli-minister-of-interior"
+ },
+ "0xc4387bff1919bcd2ff782ed91fa59f8a2a970d55216763516de06e4349c0a2bc": {
+  "created_at": "2026-11-23T16:34:14.307969Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Tomas Etcheverry win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-tomas-etcheverry-win-the-2027-australian-open"
  },
  "0xc4b6674d4b7cc5437a9ac30e826130f2cf2f94802b774ed248ab6035c51a77bc": {
   "created_at": "2026-09-13T08:44:20.50504Z",

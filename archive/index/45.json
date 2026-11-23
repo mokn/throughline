@@ -637,6 +637,7 @@
   "created_at": "2026-08-31T18:28:47.751373Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Yveta Tomkov\u00e1 be the next Mayor of \u00dast\u00ed nad Labem?",
   "revisions": 1,
   "sha256": "09afc953429a9ee94661975d479e32fcf5156379887b937e8c930ddd21dee282",
@@ -729,6 +730,7 @@
   "created_at": "2026-08-28T19:59:51.143654Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Marco Bezzecchi win the 2026 MotoGP World Championship?",
   "revisions": 1,
   "sha256": "14725aa33863999d5edb7ab28f1cae5cf57456359c631148111a5c0615ea79e7",
@@ -1064,6 +1066,15 @@
   "sha256": "6fc1dc7b05f1a91a06e4735acbe4a2bf1f7f04f594e432e056409600f274f1e8",
   "slug": "will-love-island-be-the-1-searched-tv-show-on-google-this-year-20260730185441022"
  },
+ "0x99dde2af1d58ee51c1924a7d6d5260c634931c684479efeef95f05d397a77445": {
+  "created_at": "2026-11-23T16:32:42.232281Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Aurora reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-aurora-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
  "0x9a240a568047146e9e67f8fdaa7991c4b5814dddffed33e83e7a9f8aef5a5245": {
   "created_at": "2026-02-26T15:39:38.673417Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1182,6 +1193,15 @@
   "revisions": 1,
   "sha256": "a2170e82eb75920eaa4e497efae1ff58ded97d56411beb1d471ba1e0cff9f4c2",
   "slug": "will-desean-bishop-be-the-2026-sec-rushing-tds-leader"
+ },
+ "0xb26a7f6d9bfe63913b0254b0cce64bfb1b87f2aa19623c3eabb01710ce4b9845": {
+  "created_at": "2026-11-23T03:01:10.657218Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $13.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-13pt00"
  },
  "0xb41d257808b5cc7908aacc7b93e9851a6e103e0814c6ddd3c794444061201f45": {
   "created_at": "2026-10-25T04:00:28.766463Z",

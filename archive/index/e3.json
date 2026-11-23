@@ -367,6 +367,7 @@
   "created_at": "2026-09-04T04:04:07.030265Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Miami Dolphins finish the 2026-27 NFL regular season with the best record?",
   "revisions": 1,
   "sha256": "32a94156792bdd186bd89f1336fed358178976b3bff69f78cc486b1853252c10",
@@ -1148,6 +1149,15 @@
   "revisions": 1,
   "sha256": "a80fcd0f1236519494fc7eb934fdf6ace5e94adb8f87da0d329a19e0eb478808",
   "slug": "will-the-republican-party-win-the-ar-01-house-seat"
+ },
+ "0x95803d25f094b672e37506ad3a40050afcddc0df28c3aeda5cac04c0f707dbe3": {
+  "created_at": "2026-11-23T15:58:55.815419Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Rubius be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-rubius-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261123"
  },
  "0x973ad92514f3e1b9afb24eb9dae5600644f375fb041833e0f457f4b684e4c9e3": {
   "created_at": "2026-11-01T15:01:36.350202Z",

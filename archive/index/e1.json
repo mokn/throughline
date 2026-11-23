@@ -1,4 +1,13 @@
 {
+ "0x01fa735880043ca5fe2472a7cedc387004872b231093d9a4c66adecb2b6ce3e1": {
+  "created_at": "2026-11-23T16:34:16.648424Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Alexandra Eala win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-alexandra-eala-win-the-2027-womens-australian-open"
+ },
  "0x030bfadf5ce9b75761d08dc7bfe6918fb3ae53836a1a77af3e5bbffcf25335e1": {
   "created_at": "2026-08-07T20:08:21.747689Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -229,6 +238,15 @@
   "revisions": 1,
   "sha256": "74358fa9735223cb326e7230b48307a8f45394688a57da6cf749a33020e43bbb",
   "slug": "cdr-cd17-car-2026-10-28-exact-score-1-4"
+ },
+ "0x248d1262cd9ee0d9622a26851762261cedcef7d6bdd5350613f8e90ee4cac2e1": {
+  "created_at": "2026-11-23T16:34:01.369178Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Miami Dolphins by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-miami-dolphins-by-january-11-2027"
  },
  "0x27125b38c94335d4f4fe770a94c285758cff76279a29b337f6e1f352d7eefee1": {
   "created_at": "2026-08-11T14:12:17.475709Z",

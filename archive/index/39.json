@@ -145,6 +145,15 @@
   "sha256": "aafb3e584a4faba63595393e779f834897775d5348987627313cf77be50ab006",
   "slug": "will-trey-mcbride-finish-as-a-top-5-te-in-the-2026-27-nfl-season"
  },
+ "0x15a3ebca2df681bd5d351de7f79b84f6ac43c468b55e9de90e5426b601bca039": {
+  "created_at": "2026-11-23T16:50:54.12331Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will regali have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-regali-have-the-most-awp-kills-at-pgl-major-singapore-2026"
+ },
  "0x16d41b8436b05a73a19606058f16f130f33d509cfffd32a5b91a1f01f60d1c39": {
   "created_at": "2026-08-07T14:04:32.219783Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -572,6 +581,15 @@
   "revisions": 1,
   "sha256": "84eaf53c7d8cda850ab134fb83b6c122534d397b075c494a5f6a288ea9cdade6",
   "slug": "will-dustin-hopkins-finish-as-a-top-5-k-in-the-2026-27-nfl-season"
+ },
+ "0x5c275b48d0530e1543d893a10ba14f8d9d1f07fe791f018e1b5fc7c49734f339": {
+  "created_at": "2026-11-23T02:21:52.330189Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2026 be above $2.80?",
+  "revisions": 1,
+  "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
+  "slug": "h100-average-rental-price-in-december-2026-above-2pt80"
  },
  "0x5c7c4efa10a5968c85f278afeab569d52ff32142d3003f5765db1c6b1e7b5139": {
   "created_at": "2026-08-27T18:17:20.824457Z",

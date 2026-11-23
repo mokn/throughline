@@ -598,6 +598,15 @@
   "sha256": "95faa9c0ecc57ddc6dddb806477d707db701126ef80f8f5d7fa6e12f792d296f",
   "slug": "will-psoe-win-the-most-seats-in-leon-in-the-2026-spanish-general-election"
  },
+ "0x708f844942a1f32e7da016631bf34bf50672f87a68063e6a74ecd3f3ef5d10f7": {
+  "created_at": "2026-11-23T16:34:04.602896Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Philadelphia Eagles by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-philadelphia-eagles-by-january-11-2027"
+ },
  "0x70ce44fa1b0cb995905a154d5be5ddcb1bd4567676ef673718a9a332f0aa66f7": {
   "created_at": "2026-09-02T21:57:45.696815Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1440,6 +1449,15 @@
   "revisions": 1,
   "sha256": "aa7aab4bd77abbb58cf53ed161d7488805bd00706f39c65685d96779f058b42a",
   "slug": "jeremiyah-love-1pt5-rushing-touchdowns-2026-27"
+ },
+ "0xfcd1dbed26ac8e53c02f876b30a43e1d18fdffbdb21a5d470694836b1d1b57f7": {
+  "created_at": "2026-11-23T17:52:18.136942Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "SCOTUS accepts sports event contract case by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "bd3eb97b4c2529a977f3dfae55ec534b178b9964811786b7124360c74eb4efb2",
+  "slug": "scotus-accepts-sports-event-contract-case-by-january-31-2027"
  },
  "0xfd34425f6004a1aa44b3daf957755f6009f1d825726c64f56e84f5f6a8593df7": {
   "created_at": "2026-04-02T15:16:19.534021Z",

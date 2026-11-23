@@ -256,6 +256,15 @@
   "sha256": "631016d26aad6e070a6f271154d454f7a3664a76a738a11dd29b015704063e52",
   "slug": "will-united-kingdom-win-eurovision-2027"
  },
+ "0x1e0cbe6d028f90ef98cf0f081c8ac5cf25a5278ca4f8b804c987ac79728a72c0": {
+  "created_at": "2026-11-23T02:55:28.582297Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2026 be above $13.50?",
+  "revisions": 1,
+  "sha256": "d49433624f63bbb44828fff4d88bdfb397fab6f8bd4b46dccac856cc22229150",
+  "slug": "b300-average-rental-price-in-december-2026-above-13pt50"
+ },
  "0x1e2d3195a2437dc949bfb3355e487db6c6f5919d461ce75ba08e69f842dcecc0": {
   "created_at": "2026-08-11T19:11:02.721254Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -296,6 +305,7 @@
   "created_at": "2026-11-12T22:43:28.719831Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join Meta next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -341,6 +351,7 @@
   "created_at": "2026-09-04T04:04:10.841445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Los Angeles Chargers finish the 2026-27 NFL regular season with the best record?",
   "revisions": 1,
   "sha256": "32a94156792bdd186bd89f1336fed358178976b3bff69f78cc486b1853252c10",
@@ -1003,6 +1014,7 @@
   "created_at": "2026-08-31T18:28:47.297826Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Radim Bzura be the next Mayor of \u00dast\u00ed nad Labem?",
   "revisions": 1,
   "sha256": "09afc953429a9ee94661975d479e32fcf5156379887b937e8c930ddd21dee282",
@@ -1017,6 +1029,15 @@
   "revisions": 1,
   "sha256": "cb56d5bca7f25bbedaa46fb82c0e4d4ea8a01978542280a9b393d785aabf268b",
   "slug": "anthropic-ipo-will-paul-smith-ring-the-bell"
+ },
+ "0x774e7d96c87ee0e3ada1214050f96ccec30d23fa292e689ebf3f8e179e5f68c0": {
+  "created_at": "2026-11-23T02:59:38.848693Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-10pt00"
  },
  "0x7cb275d0346871734db49a7a0adac681cebddb0e7a17364b9014dde98d19f1c0": {
   "created_at": "2026-08-12T14:58:43.824903Z",

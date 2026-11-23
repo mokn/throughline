@@ -163,6 +163,15 @@
   "sha256": "ef697cce15ffd241ee78cd15bc4a5746afea01d707e8942bf8d6bf8338be9966",
   "slug": "will-john-harbaugh-be-the-next-head-coach-fired-2026-27"
  },
+ "0x10f2a7cfbc376502b4a726b3d7ed26cdd5ab95f1caba67cf85ffad45cb841ed1": {
+  "created_at": "2026-11-23T03:02:50.446017Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $6.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-6pt00"
+ },
  "0x113d5feb11b89a44b3ae3ab162f0d2e30dff08ee72e9f7001c6cf30e485fe8d1": {
   "created_at": "2025-12-15T23:35:36.372321Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -350,6 +359,7 @@
   "created_at": "2026-10-15T23:09:46.500332Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will OpenRouter process between 725T and 775T tokens from Oct 26 to Nov 22?",
   "revisions": 1,
   "sha256": "7d0d0688c6b99b7a321f4ba4d1524f8b25f454794c06ee0696bde1021898b9e5",
@@ -598,6 +608,15 @@
   "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
   "slug": "por-est-csm-2026-11-08-exact-score-3-2"
  },
+ "0x4f2e9682a00d96d1b343ce0c9784618161e720e7d3273cb2b9d9ea4fc858add1": {
+  "created_at": "2026-11-23T16:12:49.006866Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Noticed have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-noticed-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x4ff99eb8799c25904fd2dad2f70540737248e78290dfa6f0929b9422d38629d1": {
   "created_at": "2026-11-01T15:01:14.511195Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -834,6 +853,15 @@
   "revisions": 1,
   "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
   "slug": "will-rachel-campos-duffy-be-the-next-white-house-press-secretary-2027"
+ },
+ "0x6fa1cfb9d9962e499cfc022d23d509cfb77b397c2373b51cb8abd68931e89dd1": {
+  "created_at": "2026-11-23T16:12:55.455841Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will rue have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-rue-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0x70b048c655cc563eeb9426d81323cc121ad2ee40ea9580f23be32415142f11d1": {
   "created_at": "2026-08-05T10:29:41.092805Z",
@@ -1247,6 +1275,15 @@
   "sha256": "04e987511a2c81e5fc39ce709f229278562ec7ca261c84e3494dc2d6a5bf5762",
   "slug": "nba-2026-27-defensive-player-of-the-year-dillon-brooks"
  },
+ "0xab393461ab5352ae8d7b65b66c02d80d56d212bb8057284b30666b337d76e8d1": {
+  "created_at": "2026-11-23T03:02:49.654138Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-8pt00"
+ },
  "0xab4b044b268358f064b80fb356d2bcceb5b6d81714a4eda0ba6fa43afd1202d1": {
   "created_at": "2026-10-13T19:52:15.771608Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1655,6 +1692,7 @@
   "created_at": "2026-08-12T16:52:18.095403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jesyka Guevara Villanueva win the next Cusco mayoral elections?",
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
@@ -1715,6 +1753,15 @@
   "sha256": "c33711f038e9d1607038809bb998b103d8132ad03c76ef3ad18e9dd51da444b7",
   "slug": "will-microsoft-be-the-second-best-ai-agent-lab-at-the-end-of-december-2026"
  },
+ "0xee80c6de01887754ab58b6977a3944cdfccacd6c16ed7cdae3a01cccd7e467d1": {
+  "created_at": "2026-11-23T16:32:46.984959Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Natus Vincere reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-natus-vincere-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
  "0xef87bffeec741bb28b1b66542ac6d2db7d27574fed2d7f50b2c23e02514838d1": {
   "created_at": "2026-08-10T15:01:32.862859Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1770,6 +1817,15 @@
   "revisions": 1,
   "sha256": "f80dfeefa46105a9a9fb0d53eb207384ac0ff09d5e4877a7b0496c326a176db6",
   "slug": "will-estudiantes-lp-finish-28th-in-liga-profesional-argentina-2026"
+ },
+ "0xf4a19715597c09ddf1321895bc5e631ead75d80899d61bee2ef5a76a9b96fcd1": {
+  "created_at": "2026-11-23T16:32:35.128171Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will DENDELE qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-dendele-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
  },
  "0xf7d69f5dd8485f0b30912c7af107e16d4894d9aa20033f9f5d7c68228b8fa8d1": {
   "created_at": "2026-08-24T16:34:44.559205Z",

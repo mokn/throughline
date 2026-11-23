@@ -1,4 +1,13 @@
 {
+ "0x01f4e7c403c69fa42077348e8378905bfeaf667da92aed51ea50f606cf8dff74": {
+  "created_at": "2026-11-23T03:03:08.127694Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $5.00?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-5pt00"
+ },
  "0x02440a4022c397a823d60aa1d59c9c8e958be466992c96fbf049e15b42071874": {
   "created_at": "2026-08-10T15:49:56.126128Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -794,6 +803,15 @@
   "revisions": 1,
   "sha256": "8084705a0cb67f1d16096007b40285d108439e387a695c4dd67ead5b44a04e25",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-11-house-election-by-9-12"
+ },
+ "0x7c147f3960beb4afd3c58e8cf9475e4714fe4b0a058dd3372c66aa149ce0a474": {
+  "created_at": "2026-11-23T16:32:09.435791Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Ninjas in Pyjamas qualify to Stage 2 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
+  "slug": "will-ninjas-in-pyjamas-qualify-to-stage-2-at-pgl-major-singapore-2026"
  },
  "0x7f17e7656636182a2ef5d310717074e1fa139c22c990bab4ecd1c606500d5874": {
   "created_at": "2026-08-05T16:45:06.469526Z",

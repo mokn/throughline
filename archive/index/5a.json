@@ -696,6 +696,7 @@
   "created_at": "2026-11-21T15:49:24.297465Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Typical Gamer be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -883,6 +884,15 @@
   "revisions": 1,
   "sha256": "569d6f941d93b4d1bbcff28b57973bdb505c9e7a52d45cb353f40fed1e7e7cd1",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-governor-of-maryland-be-between-1850000-and-2000000"
+ },
+ "0x6fa3631439eec86941cb431bca97f2ad6ecfbae941d4398376ced12c81f3685a": {
+  "created_at": "2026-11-23T03:01:26.500908Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $13.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-13pt00"
  },
  "0x6ffd1c90efbceff9160f0c60efe0218a906884b848b9a438c26e700d7e29b35a": {
   "created_at": "2026-09-04T19:31:03.226354Z",
@@ -1454,6 +1464,15 @@
   "sha256": "d2ca63a405e09abfaa1e5fa9fd46dab5647655ea7619f84dd7b806e79a9e00c6",
   "slug": "cze1-fsl-fbo-2026-10-24-first-half-total-0pt5"
  },
+ "0xcff15fd65f82424fc2deaab97f545a9a3bd36845b05bea03af1016d8901d965a": {
+  "created_at": "2026-11-23T16:12:20.42169Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Whitemon have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-whitemon-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0xd08b042f1aab8269ff2938701fa37364b958f7ddde271b21abfc85db727e9a5a": {
   "created_at": "2026-07-20T20:17:28.620255Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1727,6 +1746,15 @@
   "revisions": 1,
   "sha256": "a2b655569c56423acf227ec99cb4a514aba4101c8bd60138744cdaeaaf3d9525",
   "slug": "will-rockstar-release-gta-vi-on-pc-after-march-2027-20261021185317733"
+ },
+ "0xedbd645aa44a0c39a2b05a46918ce1bd450a2b7fb8f83a68ff8806f87ae2055a": {
+  "created_at": "2026-11-23T16:19:10.115292Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will any game last over 70 minutes at the BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "0846c9aa6417bba57d4ecb6e694524321195ca5ac6c6bc811515c5f682987a6d",
+  "slug": "will-any-game-last-over-70-minutes-at-the-blast-slam-ix-playoffs"
  },
  "0xedcedc6252f577744e70c78729eae7af9df5e61565fb3eceaf220f948b69b25a": {
   "created_at": "2026-08-11T19:08:32.013862Z",

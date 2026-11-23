@@ -521,6 +521,15 @@
   "sha256": "25855dd933091492b90010a6ac5079185942cfbf7f84f4a7a6dde526748c2d44",
   "slug": "abu-musa-island-no-longer-under-iranian-control-by-december-31"
  },
+ "0x4b161c9e7ad0ae952206b560f9a3649977f2efddb5e53907a0f2b9dcbff06405": {
+  "created_at": "2026-11-23T02:59:38.185316Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $11.00?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-11pt00"
+ },
  "0x4c13e499282b866c648804504eef7459fe1d657c3fcdb86cbf78fb47c4acaa05": {
   "created_at": "2026-09-02T19:40:07.430788Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -833,6 +842,15 @@
   "revisions": 1,
   "sha256": "2158518c9577f2db38c13b40dc708ad119ac3559b3e53f09fee981925991675a",
   "slug": "will-the-democrats-win-the-georgia-governor-race-in-2026"
+ },
+ "0x785127fcf1596ee4cf89bc2f2cab15f634c2dc43f6f98d7e7931a3b3b065ec05": {
+  "created_at": "2026-11-23T18:11:44.406814Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Xun's Worlds 2026 skin be Trundle?",
+  "revisions": 1,
+  "sha256": "20ef533063c8e078b2a0e008f8ef49ad3052669fbc1ff8c7ad9f54edfba362dd",
+  "slug": "will-xuns-worlds-2026-skin-be-trundle"
  },
  "0x785d7d26b268b8dd8a0f7a0df1f4d7c5ebcca7a7b4151eb1bd7ae73be3b24805": {
   "created_at": "2026-11-18T21:34:02.874715Z",

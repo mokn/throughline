@@ -91,6 +91,15 @@
   "sha256": "8066ac9dc9650c5e04439e7221d318e0f5379ff17f877cf8dcfc36f313d62805",
   "slug": "mexico-lnbp-2026-champion-mineros-de-zacatecas"
  },
+ "0x0da9c11ec6a6db33fc8d4e3b5581b1e9d869ec251cd2e461634b1e09fc15e0fd": {
+  "created_at": "2026-11-23T16:13:06.653194Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will zeal have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-zeal-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x0dc21bcb521263d1889ff474fcd0f26e61e5f897e03f0be87c6fc88f572338fd": {
   "created_at": "2026-08-17T21:22:55.638314Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -154,6 +163,15 @@
   "revisions": 1,
   "sha256": "419d23705fec2a1b4692e78f953a0ffa619990b4c4f99c1ab65674356f743fdc",
   "slug": "spl-abh-kho-2026-10-19-exact-score-2-0"
+ },
+ "0x195a84991ad6275e20f3905d7f0cc7704d2a5777766402bc68a58a9408f50bfd": {
+  "created_at": "2026-11-23T03:04:28.787799Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $2.80?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-2pt80"
  },
  "0x1a23deef3405571e80986c2af9fd87b3bab4c5c9ee05c96fd9f9d3b0612d67fd": {
   "created_at": "2026-09-01T16:40:58.336788Z",
@@ -289,6 +307,7 @@
   "created_at": "2026-08-25T21:10:10.646514Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Chicago Bears have more than 7.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
@@ -884,6 +903,7 @@
   "created_at": "2026-08-10T23:56:54.953192Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Saquon Barkley have 3.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "ade6ba54b6d38b18eb8870ab039e4d6c8539395209a1522b1dc6486e18280e76",
@@ -1407,6 +1427,7 @@
   "created_at": "2026-11-12T15:31:30.089008Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will no new permanent NVIDIA CEO be named by December 31, 2028?",
   "revisions": 1,
   "sha256": "e7f81b976b83376348af3eb8bd3425f0d56b858af834c5c86a29a567d99f2243",

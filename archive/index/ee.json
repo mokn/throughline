@@ -40,6 +40,7 @@
   "created_at": "2026-11-21T15:49:22.281254Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will N3on be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -325,6 +326,7 @@
   "created_at": "2026-08-10T23:57:52.81588Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Travis Kelce have 2.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "53255e8921d76fe9338ff6a332d74d960a6f67b496d68d61942b23cf0312a823",
@@ -717,6 +719,7 @@
   "created_at": "2026-08-28T20:17:45.342004Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Javonte Williams have 10+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "ccabce63861c0af40283d4c25cfe5faf7986ca3f138e7ad1c2960452a3b9b975",
@@ -848,6 +851,15 @@
   "revisions": 1,
   "sha256": "c7188d2df0c934030d5ba4bfe39d2035a1b8155d608f4ab080c48934d451f71b",
   "slug": "will-us-gdp-growth-in-q4-2026-be-less-than-1pt5pct"
+ },
+ "0x89cedc8a0518bf7c4e45b62eadea1a01bb066d832f183f05ee6cab65284fc2ee": {
+  "created_at": "2026-11-23T03:02:16.533377Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in March 2027 be above $12.50?",
+  "revisions": 1,
+  "sha256": "215983e1bd4d26eb976dcbdf6bc50abac6e2ec96a0c1b6b8d1af4d1a7aa5157f",
+  "slug": "b200-average-rental-price-in-march-2027-above-12pt50"
  },
  "0x8a396117de0e09772a3c139fbd3b358f188ded5d6fca64057d440eb4f544f3ee": {
   "created_at": "2026-01-28T15:39:14.756199Z",
@@ -1230,6 +1242,7 @@
   "created_at": "2026-10-08T00:13:34.007444Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" score at least 70 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "00b8434d735a2c0e9498c91cab6ad66e57f83f497f5714fb4f5f13bbb4105a10",
@@ -1618,6 +1631,15 @@
   "revisions": 1,
   "sha256": "5aef58ff64f30ba1c6241a8575e427567db05524a798a996b7a47d0d84e079a5",
   "slug": "next-gpt-image-model-2pt7-released-by-january-31-2027"
+ },
+ "0xf2b892a840fafa0cdfca78c44595df5f23e651118f9f0e38d3566349412d16ee": {
+  "created_at": "2026-11-23T03:03:55.25731Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in February 2027 be above $3.20?",
+  "revisions": 1,
+  "sha256": "fc964d78ede79e8203518ae6f98e4304b64181980325050efbb91233717a00a0",
+  "slug": "h100-average-rental-price-in-february-2027-above-3pt20"
  },
  "0xf314dd5583bf1d4dc9a1079ef55ba83e694146b5f1c94c805c965e2af699d2ee": {
   "created_at": "2026-09-08T16:53:04.469643Z",

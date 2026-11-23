@@ -98,6 +98,7 @@
   "created_at": "2026-10-15T23:09:45.980661Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will OpenRouter process between 675T and 725T tokens from Oct 26 to Nov 22?",
   "revisions": 1,
   "sha256": "7d0d0688c6b99b7a321f4ba4d1524f8b25f454794c06ee0696bde1021898b9e5",
@@ -912,6 +913,15 @@
   "sha256": "9fdd944b3cdf386a21d6b6ffde3ca50b450fd7a3545818e04d13f94bf6686f11",
   "slug": "will-jahmyr-gibbs-finish-as-a-top-12-flex-in-the-2026-27-nfl-season"
  },
+ "0x9445600e3dad7d09d3a7d052acdf7af6676fbf0f6b9f3ec0f33632f2b2fecc07": {
+  "created_at": "2026-11-23T16:33:58.578922Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Jacksonville Jaguars by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-jacksonville-jaguars-by-january-11-2027"
+ },
  "0x950ae84dd0900bc6995ff8463c5ce8a373b7b2d8b5831b0f70896c324a97bd07": {
   "created_at": "2026-04-29T16:27:16.037089Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1572,6 +1582,15 @@
   "revisions": 1,
   "sha256": "1fdc92a20f9e9bb537b72d34ec4f616ee93041f908dd28cc1414391d44073daa",
   "slug": "will-start-finish-13th-in-norway-eliteserien-2026"
+ },
+ "0xee3d675f098b42b33be312a2ef19f578fdd46b4968d2eb0ee9bf5953ae6c4107": {
+  "created_at": "2026-11-23T16:34:02.142007Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniil Medvedev win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-daniil-medvedev-win-the-2027-australian-open"
  },
  "0xefc3709f0ae11d758016a1027dc6fffb15cdb528276d6ad7b69d75c9bcf2d207": {
   "created_at": "2026-03-30T22:57:50.941583Z",

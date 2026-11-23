@@ -956,6 +956,15 @@
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
   "slug": "f1-brazilian-grand-prix-driver-fastest-lap-ocon-2026-11-08"
  },
+ "0x9fbd6d9153742459f85e0073a3457d3c08590fbd4c77191a407bda8799628549": {
+  "created_at": "2026-11-23T03:01:24.722436Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $16.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-16pt00"
+ },
  "0xa012fd387db1e66ac5bc1276208b6d00b84c37ac28346480193f118b8cca8849": {
   "created_at": "2026-08-18T14:57:24.106838Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1539,6 +1548,24 @@
   "revisions": 1,
   "sha256": "39322ae1ed513fd7becc93667f42efa4ef12792384318fc85fd04aa8e34d68da",
   "slug": "will-no-second-mandate-to-form-a-government-be-given-after-the-2026-israeli-election-20261105190000000"
+ },
+ "0xf479f41f6f35fea53fedccb2343e2370d1e409f2554c2411aa9ef796d32ffc49": {
+  "created_at": "2026-11-23T02:59:13.301993Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2026 be above $10.20?",
+  "revisions": 1,
+  "sha256": "ea2c95d11fa0e1076737efbd831304b1602a1f7e9f96726a05f60292b16d9f5b",
+  "slug": "b200-average-rental-price-in-december-2026-above-10pt20"
+ },
+ "0xf4f84b1f90e01de7611bdbd0f8dfa13e6d19cbcbf07931dd5c61169d25445d49": {
+  "created_at": "2026-11-23T03:00:33.807189Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $13.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-13pt00"
  },
  "0xf559c9bbb736dd84e38338acafef634b90b29eca082fe23ec5889bba23c23549": {
   "created_at": "2026-08-17T21:27:16.254595Z",

@@ -156,6 +156,15 @@
   "sha256": "a6df429abc2c0e54cad4479d71af6e7d071eee4f01b80ddef20448f3923a4198",
   "slug": "will-0-people-leave-the-trump-cabinet-by-december-31-2026"
  },
+ "0x128e8e725fff25f7ab942cbdae8eca9ed287ea8efc6cfa1cc9b1230f2fca2162": {
+  "created_at": "2026-11-23T15:02:01.821127Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Jensen Huang announced resignation or removal again by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "ff390968b8661e02eb81b49637034f2a19acbe2869e71a4afee26d5246b14e72",
+  "slug": "jensen-huang-announced-resignation-or-removal-again-by-march-31-2027"
+ },
  "0x130b8d217cb6cb1303bc3a1f1bb4967dc7f4bad551bd5032219489101da61c62": {
   "created_at": "2026-08-12T00:15:37.926441Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -411,6 +420,15 @@
   "revisions": 1,
   "sha256": "7e63926ae1b0a073fb268fe9b173555f27067d05eefdcea2c1ab26be0a40e8cc",
   "slug": "will-the-bengals-win-the-season-series-against-the-ravens-during-the-2026-27-nfl-regular-season-20260717194025245"
+ },
+ "0x39ed87a0567dee6ca3925ccccfe3ea550fa1cabb68ce0702b56f3a9adbd28c62": {
+  "created_at": "2026-11-23T03:04:26.57884Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-4pt00"
  },
  "0x3b7a2c949a56d508772545758afd2143c152e44ef3fa75cb2ff9757ae720c862": {
   "created_at": "2026-09-27T20:09:08.892217Z",
@@ -1076,6 +1094,15 @@
   "sha256": "b9ec30f5a5d07ec06334cf0c9eeced5a22f9cfb55ba2992f8b31c86557fb8b91",
   "slug": "nba-teams-40-plus-wins-2026-27-brooklyn-nets"
  },
+ "0xa9b761b133df24d9ae8bc118ae593024c4fe3a6dccdbac6cd0ab200b1fd8bf62": {
+  "created_at": "2026-11-23T03:05:16.565839Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2028 be above $4.50?",
+  "revisions": 1,
+  "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
+  "slug": "h100-average-rental-price-in-december-2028-above-4pt50"
+ },
  "0xa9d59411383a7961e19cfdff4087dd02a27dc649a82a89edb1f52a176b7c4762": {
   "created_at": "2026-09-02T21:53:44.292795Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1199,6 +1226,7 @@
   "created_at": "2026-09-23T14:07:37.740847Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Antanas \u0160akalis win the 2026 Northern Nal\u0161ia district by-election?",
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
@@ -1226,6 +1254,7 @@
   "created_at": "2026-08-31T18:18:41.111006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Pavel T\u016fma be the next Mayor of \u010cesk\u00e9 Bud\u011bjovice?",
   "revisions": 1,
   "sha256": "89357269e191b5ad5bc7e0c26a78fb053ed3f587f0b13867e06bbc4aeb0d11b4",

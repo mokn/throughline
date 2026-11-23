@@ -452,6 +452,24 @@
   "sha256": "5f6f23f83a010b48ef8d8b26c5a7c24ae3a82c7fadcf050c5df2b29439270bad",
   "slug": "jadarian-price-549pt5-rushing-yards-2026-27"
  },
+ "0x3babf0221676b9f2bf9e366ff2fa5e500612890591abd327cbebf820b89ef7eb": {
+  "created_at": "2026-11-23T03:02:47.527046Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $14.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-14pt00"
+ },
+ "0x3d1abef4bc788bc112a2bc4072748290f6788a56918716885087a3a70a8c11eb": {
+  "created_at": "2026-11-23T16:32:44.486201Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Legacy reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-legacy-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
  "0x3d47fd7503324551370faa080836bfe6e1dc781a3990bd81b5431432d6f8faeb": {
   "created_at": "2026-10-02T20:14:16.230286Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -834,6 +852,7 @@
   "created_at": "2026-08-31T18:28:47.532037Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Tom\u00e1\u0161 Vohryzka be the next Mayor of \u00dast\u00ed nad Labem?",
   "revisions": 1,
   "sha256": "09afc953429a9ee94661975d479e32fcf5156379887b937e8c930ddd21dee282",
@@ -894,6 +913,15 @@
   "sha256": "53213cd92f94bb50fc075d02837fb3b0030568fc65611b124d277187e8205d41",
   "slug": "will-bezalel-smotrich-be-the-next-israeli-minister-of-finance"
  },
+ "0x8a79981b82b699e2635c4e0142f8293c662396126d6e3a8cd3ee2f6ff18615eb": {
+  "created_at": "2026-11-23T03:03:07.10035Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-8pt00"
+ },
  "0x8afd12df2b6cb61e00f22cc3e4fb4dc611bb407aedc53025797da0330f3c16eb": {
   "created_at": "2026-11-01T15:06:17.547548Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -939,6 +967,15 @@
   "revisions": 1,
   "sha256": "eccb603c945976a90ff26f808c3b2bab6fffb2ef95179f6bba14eebc1f5c9576",
   "slug": "will-slavia-sofia-be-relegated-from-efbet-liga-bulgaria-2026-27"
+ },
+ "0x8e1c27cc1a2bfc7542e292b5018990c387277e44fb0984e3d1101adfd174d7eb": {
+  "created_at": "2026-11-23T16:32:17.606371Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Vitality qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-vitality-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
  },
  "0x8e8daa46c78d68043158ff91a153661e21a47bf72264391ff5261ce45ba8cceb": {
   "created_at": "2026-09-08T17:02:31.968855Z",
@@ -1298,6 +1335,15 @@
   "sha256": "e08babce92689a04acca444250c37fb862fa14f71bf274767a0705be9a10e737",
   "slug": "2027-soccer-sper-lig-runner-up-fenerbahe"
  },
+ "0xc3188e111f4f07a9be3fe09581374866447a0a98f148191497a46a1a244ee3eb": {
+  "created_at": "2026-11-23T16:34:14.149917Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Marta Kostyuk win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-marta-kostyuk-win-the-2027-womens-australian-open"
+ },
  "0xc31cbb1d5689f0f9cb5a8a1802954d36748729673f4484edf9af0a10afca62eb": {
   "created_at": "2026-08-12T16:51:49.676884Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1382,6 +1428,15 @@
   "revisions": 1,
   "sha256": "718e292e11aeef06462f7d1a4eea8797e1bd87a42edd447b83284bb27b6e4654",
   "slug": "2027-soccer-ligue-1-runner-up-le-havre"
+ },
+ "0xcee767953d11348fa13272bd6ddc1b2f1cc54b1a76bcc62d24df0000eaf489eb": {
+  "created_at": "2026-11-23T03:00:53.532636Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $15.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-15pt00"
  },
  "0xcf4c6f9defd379fd1c58bbad129cd3e62ef798cc29355cb236fca842a2f993eb": {
   "created_at": "2026-08-11T19:04:19.860086Z",

@@ -443,6 +443,7 @@
   "created_at": "2026-08-10T23:33:29.986985Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Brian Thomas Jr. have 2.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "dc850a91b545c3c3876685717f7188c7d6cd8dabfb5889736a6cbed162b8e9fd",
@@ -522,6 +523,15 @@
   "revisions": 1,
   "sha256": "d9b2b4a725abe5ef5a3a586412831cd1b977655ce60941b72db85679e0edad58",
   "slug": "baker-mayfield-25pt5-passing-touchdowns-2026-27"
+ },
+ "0x462256abfa7296067759fba9922a6b33f6287d07914e496563881ae631b0081f": {
+  "created_at": "2026-11-23T16:32:32.093546Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will M80 qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-m80-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
  },
  "0x4988788580db3a5cc86b187e38b6dae2232b5e7f2380fd7f31c620af2190a61f": {
   "created_at": "2026-10-01T00:10:30.268069Z",
@@ -1170,6 +1180,15 @@
   "sha256": "c4bc60fadbf2e552e057b3c65c9e799344392d95ea1a642540e9a36d753ef1ea",
   "slug": "uptspt-enacts-protect-college-sports-act-before-2027"
  },
+ "0xb383749c034dbf4a610c24dfbccd1f0d763c30894f82c1a2fa2528bc40368b1f": {
+  "created_at": "2026-11-23T16:34:10.835898Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Coco Gauff win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-coco-gauff-win-the-2027-womens-australian-open"
+ },
  "0xb3e1bd7c1beb4e884a984966b34acbd005219bfc7a337244a06402e565e1931f": {
   "created_at": "2026-09-20T08:45:31.372525Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1378,6 +1397,15 @@
   "revisions": 1,
   "sha256": "475e3dceb2f9e766fc52aa0ac2d65ef2c564d16fe0b9d8f85e04cfa306dfe6ba",
   "slug": "will-the-philadelphia-flyers-record-110-points"
+ },
+ "0xc85557d760d98f6d52d40cc8b8a9408b67a6650bcecc0a68e012320a825fa31f": {
+  "created_at": "2026-11-23T03:00:55.963631Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-10pt00"
  },
  "0xca48b1721622bfad2c69cebcb2bdbb7e06761cc7867818ce98674c2326f4061f": {
   "created_at": "2026-10-01T14:01:03.225163Z",
@@ -1745,6 +1773,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-mathew-barzal-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0xfc579d293857d2c3b35c7fbf56bead9b128ac908d127de038b8e18e88200061f": {
+  "created_at": "2026-11-23T16:12:58.273428Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Malady have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-malady-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0xfd290a2136e5508e8e6bddcf70ab2a11ed73e4be58f5fd7b7397e1d2a8bbaf1f": {
   "created_at": "2026-09-08T16:05:49.974318Z",

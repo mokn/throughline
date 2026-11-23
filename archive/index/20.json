@@ -36,6 +36,15 @@
   "sha256": "49b9bd7352a8446bebc01cba0fb4cbb7b4a14007d6bce637ec1e1dcba7560bd5",
   "slug": "will-the-republican-party-candidate-win-the-2026-nevada-gubernatorial-election-by-9-12"
  },
+ "0x037e860a7da63185b58c428f7ee30a4bf6a6d76578753e771d4dfb76e5b80320": {
+  "created_at": "2026-11-23T03:02:19.582177Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in March 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "215983e1bd4d26eb976dcbdf6bc50abac6e2ec96a0c1b6b8d1af4d1a7aa5157f",
+  "slug": "b200-average-rental-price-in-march-2027-above-9pt00"
+ },
  "0x061f66921aac26c11f3bd70623d89d6214b31932be07a43ef6abc647613d0e20": {
   "created_at": "2026-10-21T22:04:28.962044Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -327,6 +336,15 @@
   "revisions": 1,
   "sha256": "91686f2a7cbf07a2f010db91fb070674a18f4b4abd0440a2ff1d072767f38215",
   "slug": "will-the-democratic-party-candidate-win-the-2026-oregon-senate-election-by-20-25"
+ },
+ "0x2a45e983c66754fcf05be528784dbf9f4af1c47323e218ea4d4dfb2dae84b820": {
+  "created_at": "2026-11-23T16:32:38.570449Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will GOSH (BC.Game) qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-gosh-bc-game-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
  },
  "0x2b38bf46d89c1a5b808e4c9d21e8787bf4e09ab6cb25d9ecd7e573a142c4f920": {
   "created_at": "2026-08-05T16:09:54.316169Z",
@@ -687,6 +705,15 @@
   "revisions": 1,
   "sha256": "17be9a7fa000d2471f3aa47f0c769eea65e0775040f4b5266b25d959c6bacd3d",
   "slug": "enl-gat-tam-2026-10-23-gat"
+ },
+ "0x5f0567ddb2fbe03bf385d513b70b4fa553582e5aa8943bdea82db534c394b620": {
+  "created_at": "2026-11-23T16:12:48.510582Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will No[o]ne- have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-noone-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0x5f7f8f5f66f80cabb62fc7566a6f492b7b238f07a01933eb868a04cae03c9020": {
   "created_at": "2026-11-03T17:40:15.465469Z",

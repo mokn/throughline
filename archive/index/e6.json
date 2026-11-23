@@ -168,6 +168,15 @@
   "sha256": "a0243321d20b27b1b51aaca771605eb35378b3637a20e875c2b9ee21ef3861a6",
   "slug": "will-stravas-market-cap-be-between-3b-and-4b-at-market-close-on-ipo-day"
  },
+ "0x18e8595e0d1f2f06642ed008f20aa953fc9b5d1e8e5c5e5ab4f95e74a9f0f2e6": {
+  "created_at": "2026-11-23T15:58:53.798115Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will HoneyMad be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-honeymad-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261123"
+ },
  "0x1ae135d152228cf7948b2f525084fdc951bfc49ca622b6f6d35fcb53b81394e6": {
   "created_at": "2025-11-24T20:42:08.304165Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -221,6 +230,15 @@
   "revisions": 1,
   "sha256": "091e25de8f403223fc93f25c368b5bd458695c8b550276c4a4422f71e85a6a9e",
   "slug": "will-julian-alvarez-win-the-2027-ballon-dor"
+ },
+ "0x1fca04f082349adffc808230dcb00faf41f72a7958c0a7379f999ca8c9809de6": {
+  "created_at": "2026-11-23T16:33:52.425494Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Buffalo Bills by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-buffalo-bills-by-january-11-2027"
  },
  "0x21d1f672d258446a6be6d5c437418bb333b5ff51a0d94d61ca9aa0cfb96bafe6": {
   "created_at": "2026-08-13T18:31:41.553433Z",
@@ -404,6 +422,15 @@
   "revisions": 1,
   "sha256": "612577467fcea908a82e9784d02f825bb44ec9bd990c1d2157b88e82054bf052",
   "slug": "will-daegu-fc-be-promoted-to-k-league-2026"
+ },
+ "0x3e724f2473652dee8cfaa828e0509c12cca2e98c12ba1321b0ea0ec99ee906e6": {
+  "created_at": "2026-11-23T03:03:39.846027Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in January 2027 be above $3.20?",
+  "revisions": 1,
+  "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
+  "slug": "h100-average-rental-price-in-january-2027-above-3pt20"
  },
  "0x420a5919ce549d9c6043a476d0c77c2b7daaa75ea99193747eaa82ddf66648e6": {
   "created_at": "2026-07-31T17:28:21.738217Z",
@@ -786,6 +813,15 @@
   "revisions": 1,
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-john-tavares-win-the-2026-27-maurice-rocket-richard-trophy"
+ },
+ "0x7daef0ad54b6d4e20877b185c38a2e310572491c452d4fd1306fd3e90d6460e6": {
+  "created_at": "2026-11-23T16:33:56.240628Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Detroit Lions by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-detroit-lions-by-january-11-2027"
  },
  "0x7e2e93ec9291fe30077c861c4912f285d086f5a125df0b2ab2f02c1e3a71c7e6": {
   "created_at": "2026-08-06T21:37:15.914479Z",
@@ -1575,6 +1611,7 @@
   "created_at": "2026-11-19T20:22:57.672553Z",
   "first_seen": "2026-11-20T15:27:46Z",
   "last_changed": "2026-11-20T15:27:46Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang rejoin NVIDIA by March 31, 2027?",
   "revisions": 1,
   "sha256": "09e36ed825304152851c57651ca5860bb2ef9fad05efaf6df60e090c42a6afaf",

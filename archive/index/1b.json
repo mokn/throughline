@@ -302,6 +302,7 @@
   "created_at": "2026-08-10T23:57:28.491544Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Dak Prescott have 21.5+ passing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "f8bda84eee3187b5d9ac163988b0911b1073987ede30875e2b910a6691339ca6",
@@ -414,6 +415,15 @@
   "revisions": 1,
   "sha256": "3d1bf365dbb0d29449c28c4efbe3784069de8c0e226a4f5e2463707e4b137fd7",
   "slug": "will-michelle-obama-win-the-2028-democratic-presidential-nomination-777"
+ },
+ "0x3e2b2e23be5505b3cf0817e0ec3257a7424add280008ef20e77a06048b349d1b": {
+  "created_at": "2026-11-23T16:32:32.46866Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will G2 qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-g2-qualify-to-stage-3-at-pgl-major-singapore-2026"
  },
  "0x3ed70657470dc222e209f1f3e326894423e5f4471aeb6b3e166547e65a212b1b": {
   "created_at": "2026-08-24T16:33:24.313736Z",
@@ -938,6 +948,15 @@
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-enes-unal-score-the-most-goals-in-the-2026-27-uefa-conference-league"
  },
+ "0x810d1e7aa6d64a47dfc3d071a08fe5bb9d1635241863a16814a94d0b4228571b": {
+  "created_at": "2026-11-23T16:32:31.352048Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will FaZe qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-faze-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
+ },
  "0x82284e31d2fd17aa664222d110ad0c1042e1e53ca03813e118ad2cc157cd1d1b": {
   "created_at": "2026-08-04T18:30:47.909631Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1020,6 +1039,15 @@
   "revisions": 1,
   "sha256": "3c170dcc5f3fca53e887b0605a20ed60dc9fd4c4bcc0151bde5dd2c438976c45",
   "slug": "es2-cas-eib-2026-11-06-spread-home-5pt5"
+ },
+ "0x8b1f562e3fc03a24b9549ef6e17f7d5d0afba87a8611586d386fa1e5ee83df1b": {
+  "created_at": "2026-11-23T16:34:01.654797Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Ben Shelton win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-ben-shelton-win-the-2027-australian-open"
  },
  "0x8c3c1be8bccd2cb34c0a1e2112574cfd7c421cfe71307ba6eeacca8b4373a61b": {
   "created_at": "2026-06-26T15:45:55.780754Z",

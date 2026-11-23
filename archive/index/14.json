@@ -48,6 +48,7 @@
   "created_at": "2026-10-28T01:37:52.582289Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Next Z.ai GLM (5.4+) released by December 31, 2026?",
   "revisions": 1,
   "sha256": "ad47995f6a6e11b0691e70bfb4e3e41830377463d637b82bdee79b02d2ae1214",
@@ -704,6 +705,15 @@
   "sha256": "81ed0b5840b95056df9b11c06a56cd6c84db51fec130e427e62642d417476bf4",
   "slug": "will-bruno-fernandes-record-the-most-assists-in-the-2026-27-uefa-champions-league"
  },
+ "0x72cf8478aae31e78eb66ee535d331f2a3f327eb9af90d2757c1f73d6c58b0b14": {
+  "created_at": "2026-11-23T16:32:10.248795Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will HEROIC qualify to Stage 2 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
+  "slug": "will-heroic-qualify-to-stage-2-at-pgl-major-singapore-2026"
+ },
  "0x758f5079ef085671357eeba094aec1ae3c082f87b549ff1be0b8deb019660114": {
   "created_at": "2026-10-20T23:04:54.187341Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -777,6 +787,15 @@
   "revisions": 1,
   "sha256": "73c815263d70bc45e3917df10a9a8e769cbf2614806a180c2d8ac48ddbb643b2",
   "slug": "will-igor-paixao-win-the-2026-27-ligue-1-player-of-the-season-award"
+ },
+ "0x8355a0bedbdbb08befc1af05d43d9943f7c7bbead5ee0c8f6e5b987cc44e5014": {
+  "created_at": "2026-11-23T03:03:06.75975Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-9pt00"
  },
  "0x863d95584afa3833799bcaec04e88e1a877c1f4a21c7d7ba033d93cb25632514": {
   "created_at": "2026-08-28T20:24:12.700909Z",
@@ -852,6 +871,15 @@
   "revisions": 1,
   "sha256": "ecc437f8eb78bebd4220bf8d0a28788d234cc05ecdce33fe9b984b8d905a5329",
   "slug": "el1-lut-don-2026-10-03-corners-first-half-total-3pt5"
+ },
+ "0x8ea7e8871761aa6122fa6fda96409254bf8170b0ea9cc4e4d3787cd1dec7ff14": {
+  "created_at": "2026-11-23T18:11:51.810767Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Xun's Worlds 2026 skin be Nocturne?",
+  "revisions": 1,
+  "sha256": "20ef533063c8e078b2a0e008f8ef49ad3052669fbc1ff8c7ad9f54edfba362dd",
+  "slug": "will-xuns-worlds-2026-skin-be-nocturne"
  },
  "0x90ba5eeb935da5a2e7d16ee635ae441f95b5b62fd0db9336eb9f8a59645bf714": {
   "created_at": "2025-07-10T16:58:29.536404Z",
@@ -1018,6 +1046,15 @@
   "revisions": 1,
   "sha256": "3c5258022835e476c2395f10bb8486224eded53fc49f5c3ededf8a11c4de3f97",
   "slug": "liga-nacional-de-basquet-2027-champion-argentino"
+ },
+ "0xa15db4928bdf30d1f080ac6efccb2d0ea92ca9748158b53aa291b2b243701214": {
+  "created_at": "2026-11-23T03:03:42.291026Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in January 2027 be above $2.70?",
+  "revisions": 1,
+  "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
+  "slug": "h100-average-rental-price-in-january-2027-above-2pt70"
  },
  "0xa1c9de091263a338944333ce8563c940c13bea52dcbd00f849e6d5412c15bb14": {
   "created_at": "2026-09-13T08:45:26.229146Z",

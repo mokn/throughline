@@ -221,6 +221,15 @@
   "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
   "slug": "will-croatia-be-the-jury-winner-in-the-eurovision-2027-grand-final"
  },
+ "0x25766cc90022f89b7e928e837a46fef3afc0a36773ef6e6780e2ab792cc41c92": {
+  "created_at": "2026-11-23T16:32:45.535549Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will FUT reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-fut-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
  "0x280dccc43cc920a7f62c41d6223c5ae6ca0441aa7d307b586a415056d2639392": {
   "created_at": "2026-10-14T13:21:44.22092Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -568,6 +577,7 @@
   "created_at": "2026-08-31T18:28:47.96737Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Michal Mohr be the next Mayor of \u00dast\u00ed nad Labem?",
   "revisions": 1,
   "sha256": "09afc953429a9ee94661975d479e32fcf5156379887b937e8c930ddd21dee282",
@@ -609,6 +619,15 @@
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-arizona-have-more-than-9pt5-wins-during-the-2026-cfb-season-20260810194010929"
+ },
+ "0x719417ae45ad87a5aff42c9d76b89973ef874cd8238d95db253be734f0ab7892": {
+  "created_at": "2026-11-23T18:11:58.193405Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will ON's Worlds 2026 skin be Leona?",
+  "revisions": 1,
+  "sha256": "b2437481f9e78f8069706f34b0c1f08d4a1d9adce9306ea23e61b976c9ec63d7",
+  "slug": "will-ons-worlds-2026-skin-be-leona"
  },
  "0x71c41b40b92b39b68753dcc74d5ddd35f7951f7f209a5f0e600e73b28a031492": {
   "created_at": "2026-09-27T20:08:57.017124Z",

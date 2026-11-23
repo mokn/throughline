@@ -245,6 +245,15 @@
   "sha256": "682b9f7115073cce8307a39a3cf6bbcd48759051b5a181d1151f60486e2b6894",
   "slug": "iihf-world-championship-2027-champion-united-states"
  },
+ "0x254007eee0447219125c487e0269e941b8a21349c8fe471f93d5da963112d4e5": {
+  "created_at": "2026-11-23T16:32:39.819949Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Vitality reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-vitality-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
  "0x2805d92330d891435ecaefdc20263fcbc2320e5536fc8cd38581aba9591f46e5": {
   "created_at": "2026-07-08T21:29:05.679203Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -980,6 +989,7 @@
   "created_at": "2026-08-28T19:59:50.939398Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jorge Martin win the 2026 MotoGP World Championship?",
   "revisions": 1,
   "sha256": "14725aa33863999d5edb7ab28f1cae5cf57456359c631148111a5c0615ea79e7",
@@ -1330,6 +1340,15 @@
   "revisions": 1,
   "sha256": "f507b1d484afd0194e4d2e0f4761f2ef3cfb6975df4aebe3193bbc33a7844793",
   "slug": "will-miro-heiskanen-record-100-points"
+ },
+ "0xd0c6a1d51dc2e7731f20be77b135a049282368cb60bc011dee662908746c67e5": {
+  "created_at": "2026-11-23T03:03:06.025773Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $11.00?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-11pt00"
  },
  "0xd1d9c72da4ed36e09eb9019a0554451cb3a9e5681fc5d00ec94205f1d97a8ce5": {
   "created_at": "2025-11-27T17:26:36.367718Z",

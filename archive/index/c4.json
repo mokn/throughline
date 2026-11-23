@@ -58,6 +58,7 @@
   "created_at": "2026-10-15T23:09:46.923677Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will OpenRouter process at least 775T tokens from Oct 26 to Nov 22?",
   "revisions": 1,
   "sha256": "7d0d0688c6b99b7a321f4ba4d1524f8b25f454794c06ee0696bde1021898b9e5",
@@ -77,6 +78,7 @@
   "created_at": "2026-05-27T21:17:31.658732Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Russia capture Bilytske by December 31, 2026?",
   "revisions": 1,
   "sha256": "a4238777613fd10857fbb02976edf6411294d985bac3a546c75a443c98f602cc",
@@ -471,6 +473,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-matthew-tkachuk-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0x5ecaca7d01c6099d64ff43deb24ac2198b040375bb2f75270a88df02988c60c4": {
+  "created_at": "2026-11-23T16:32:35.513275Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Astralis qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-astralis-qualify-to-stage-3-at-pgl-major-singapore-2026"
  },
  "0x5f0b862f2cfba916769b85300291f2d5bb0be142740a025fa72f6dcf675d4ac4": {
   "created_at": "2026-08-12T17:31:27.572601Z",
@@ -890,6 +901,7 @@
   "created_at": "2026-08-12T16:52:19.879107Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Federico Huam\u00e1n Tapara win the next Cusco mayoral elections?",
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
@@ -1126,6 +1138,7 @@
   "created_at": "2026-08-10T23:33:21.770831Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Amon-Ra St. Brown have 7.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "535d03b0ea46880b2f44463164c2ca2bebfb66162986ce510cf9f06aabf14ce5",

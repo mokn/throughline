@@ -77,6 +77,7 @@
   "created_at": "2026-11-12T22:43:40.533936Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang found a new company next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -330,6 +331,15 @@
   "sha256": "ab321656e2e95c773936f36d5b32505e4b6fc09e948bbdbe4383332ada757b95",
   "slug": "will-the-democratic-party-candidate-win-the-2026-az-04-house-election-by-10-15"
  },
+ "0x34af9d4012320bd24a1077c31ea7429e654c8a70ade7464878ba0771462ebf93": {
+  "created_at": "2026-11-23T03:03:57.337344Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in February 2027 be above $2.20?",
+  "revisions": 1,
+  "sha256": "fc964d78ede79e8203518ae6f98e4304b64181980325050efbb91233717a00a0",
+  "slug": "h100-average-rental-price-in-february-2027-above-2pt20"
+ },
  "0x34ec5fb076a7e566c90901bace5ed08138b4d691e31f49784d81bf34f42fd193": {
   "created_at": "2026-09-01T17:34:37.268148Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -511,6 +521,15 @@
   "revisions": 1,
   "sha256": "127d915a73cf1c87e25fe4ca8831fd09901a89ff01f3684a365b7930693fc379",
   "slug": "stripchain-fdv-above-50m-one-day-after-launch-20260805194717735"
+ },
+ "0x5222f474233c6106f0f3c64561f5a51f42d3c3f6e0333ee0f9c688456b7c6093": {
+  "created_at": "2026-11-23T03:01:23.381367Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $18.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-18pt00"
  },
  "0x5250d8a037436886d5630e13f4e07751fb6cb6da4fd5fd5aaff4ce8693b16093": {
   "created_at": "2026-08-24T16:35:38.379964Z",
@@ -782,6 +801,7 @@
   "created_at": "2026-11-12T22:43:24.611348Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join Intel next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",

@@ -701,6 +701,15 @@
   "sha256": "a1cb01036580de0077dfd69774337412ac28f3104d07aefa808f529a09e7d9d4",
   "slug": "us-agrees-to-a-new-trade-deal-with-india-before-2027"
  },
+ "0x53a280561a220196cdbc9f01a3749ef2c7e389495a3261094f7dc1b583394d91": {
+  "created_at": "2026-11-23T03:03:41.105806Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in January 2027 be above $2.90?",
+  "revisions": 1,
+  "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
+  "slug": "h100-average-rental-price-in-january-2027-above-2pt90"
+ },
  "0x53adb623f2b1480000b95687948bdc0dbd94ab1df8c7145f00a38e01f155e291": {
   "created_at": "2026-09-13T09:44:19.588026Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1222,6 +1231,15 @@
   "revisions": 1,
   "sha256": "905399f4c4e446384b8537ce28a9991afc84b5ad63b0575408c7a4d4045c7471",
   "slug": "will-juventus-reach-the-2027-uefa-europa-league-round-of-16"
+ },
+ "0xa77e6446c84d18adab8a037db2ff9aaa6ca97b8bb69e6e4163c6fbb693fe8a91": {
+  "created_at": "2026-11-23T02:59:36.23363Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $14.00?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-14pt00"
  },
  "0xa908e117070f47bf94cb3374a0743e9b13bf8431d5bec67075bf6162b123e091": {
   "created_at": "2026-07-29T18:38:10.458785Z",

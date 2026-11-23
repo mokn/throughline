@@ -513,6 +513,15 @@
   "sha256": "bf6fe0337f81a5b07bed38de936056d6c96f05a65181ebf1e57619cb69c837e0",
   "slug": "will-the-democratic-party-win-the-ny-18-house-seat"
  },
+ "0x471a32ac0fbd34bad8319c6adc3f5d4e7867b0e5e7821e2091d440ff02d67888": {
+  "created_at": "2026-11-23T02:59:35.393471Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $15.00?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-15pt00"
+ },
  "0x4789dbd855c1702c3588de557cdc7808975a5036740164af4fde74f4c05d6a88": {
   "created_at": "2026-10-25T04:00:14.974666Z",
   "first_seen": "2026-11-04T01:55:27Z",

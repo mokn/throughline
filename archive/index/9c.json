@@ -89,6 +89,15 @@
   "sha256": "22bb5a64ccc914932805a2e449c66b588946704e7761ccc13412d35244394b6e",
   "slug": "will-the-swiss-national-bank-decrease-the-snb-policy-rate-by-50-bps-at-the-june-2027-meeting"
  },
+ "0x12a3794e06f068fc1dfbf29ae4046aee8d54fe8e97747a313f79e49783a86b9c": {
+  "created_at": "2026-11-23T16:34:02.653311Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Flavio Cobolli win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-flavio-cobolli-win-the-2027-australian-open"
+ },
  "0x141073a4c25f5df5e9ed9c85de441ee6592819f3e1631f46512464205b042b9c": {
   "created_at": "2026-08-11T19:03:30.373295Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -293,6 +302,7 @@
   "created_at": "2026-11-19T15:47:15.177351Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Omie be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "aab81579c2cb6b7de786ff0ee55952fbc5e2fd8591a8e70df5dadacfa221adc0",
@@ -1026,6 +1036,15 @@
   "revisions": 1,
   "sha256": "445c1f0f8b244fc9779f85b6dde1475b0b3a57f9125f54a0d1bf702f281240cc",
   "slug": "el1-lut-don-2026-10-03-corners-team-away-4pt5"
+ },
+ "0xa843a343c1863a62d2de9e852879655af13b06e54167e5bc8814198d7bd1149c": {
+  "created_at": "2026-11-23T03:02:48.655057Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $11.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-11pt00"
  },
  "0xa85a248bf6402b97e517ab8d9a980c3e496854fa94625ea4a2d9ed430a76e39c": {
   "created_at": "2026-08-14T12:55:03.108481Z",

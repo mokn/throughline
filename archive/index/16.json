@@ -587,6 +587,15 @@
   "sha256": "fa7860a19c7590b49f634a4d18e90c2cb02cd2bb05872d8d8747defb57efe231",
   "slug": "will-the-republican-party-candidate-win-the-2026-co-03-house-election-by-0-3"
  },
+ "0x6dfcb9b361853768edfee746361b45aa1df575bac4740151b567bc69634c8a16": {
+  "created_at": "2026-11-23T03:03:40.61105Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in January 2027 be above $3.00?",
+  "revisions": 1,
+  "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
+  "slug": "h100-average-rental-price-in-january-2027-above-3pt00"
+ },
  "0x6fd7a391c628178a8d79d441fcf60559d5d3595f921f9ed8859f02b61c914f16": {
   "created_at": "2026-08-24T16:38:23.582438Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1728,6 +1737,7 @@
   "created_at": "2026-08-10T23:57:32.061729Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Brock Purdy have 21.5+ passing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "1beb30bccbc97db65955f84babae26a51ae572101d120ca301d12adef179fbf7",

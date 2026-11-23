@@ -618,6 +618,15 @@
   "sha256": "1f3a2ad44845d2fc58bb63a159e7f9ecfda761705d7b25de691f53bdb2e1e685",
   "slug": "will-china-gdp-growth-in-q4-2026-be-at-least-5pt5-20261019"
  },
+ "0x53474a51f904292e963d5e01a2adeaff0142b46ff50f9727fb4ed3c8d8fe1659": {
+  "created_at": "2026-11-23T03:04:44.955045Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $3.20?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-3pt20"
+ },
  "0x55be9fea6f1668b3279852c20350c2d61073f75992e0ae9235cdb04eec95f559": {
   "created_at": "2026-09-20T08:45:25.004857Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -635,6 +644,15 @@
   "revisions": 1,
   "sha256": "2f3339326855d90caa5bd803304a143ca6f9d71ff1cba1aa7c0e75cc7268763f",
   "slug": "enl-gat-tam-2026-10-23-spread-home-2pt5"
+ },
+ "0x562aeb58282cb8c807185782fdab64fde328d6ca485975d07733139266ea0059": {
+  "created_at": "2026-11-23T03:01:12.814274Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-8pt00"
  },
  "0x5644a05d46f06c5fbbbb900c4f9f1fe6a3abd9356683ac1f06994ec04e5b5c59": {
   "created_at": "2026-01-30T23:20:24.837703Z",
@@ -820,6 +838,15 @@
   "revisions": 1,
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-cucho-hernandez-score-the-most-goals-in-the-2026-27-uefa-champions-league"
+ },
+ "0x731b3b82bb05ef74f03fcf67c758381dc47448d302688ad73d1fd2459ecf4c59": {
+  "created_at": "2026-11-23T03:05:00.081275Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $3.50?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-3pt50"
  },
  "0x747359dd74cd2e0c5e650c8443da215341515e0b16af6c1c0a35ba750bdf4159": {
   "created_at": "2026-09-09T21:07:19.66892Z",

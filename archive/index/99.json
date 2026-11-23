@@ -369,6 +369,7 @@
   "created_at": "2026-08-26T21:46:35.367954Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will IF Elfsborg finish 3rd in the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "e4df93d6040341dd05d996a49cb83ee995b6f5b0a26cf999df7f0fa82ef6356c",
@@ -614,6 +615,7 @@
   "created_at": "2026-11-12T22:43:23.121398Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join OpenAI next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -1181,6 +1183,15 @@
   "revisions": 1,
   "sha256": "dc057930c93edea9f8fb3d5a6795dd3588964cffdda91bd94430f7aac935c025",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-21-house-election-by-0-5"
+ },
+ "0xa770f1cb77f4f95a00c5016b713686d072a180c0b5802df1066344c9b0aab099": {
+  "created_at": "2026-11-23T03:05:00.831004Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $2.50?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-2pt50"
  },
  "0xa86594cc30a08748fbf8406af27473294bc927873cb90c89b6e233b4c3af7499": {
   "created_at": "2026-06-26T15:56:18.791009Z",

@@ -714,6 +714,15 @@
   "sha256": "a1af45da751cc1d8185b10fa1dca3ee905bc20d976aa3d3b678dbb07376aee27",
   "slug": "cma-2026-moty-rob-mcnelley"
  },
+ "0x64e619bf22c0b4a1edcc7ea3ab60e1eb7fa35be33aba8176e945ed810f7c5458": {
+  "created_at": "2026-11-23T16:32:26.599841Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will G2 qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-g2-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
+ },
  "0x6870ec3f3a6e4186b9180cbaf7b5a737ba8fee99e4194a82f6518fa51b180658": {
   "created_at": "2026-11-17T02:43:48.747954Z",
   "first_seen": "2026-11-21T14:39:27Z",
@@ -750,6 +759,15 @@
   "revisions": 1,
   "sha256": "2ba9e69fc2bde8a32ac5a200e6be870ede95ba7a25d204ce4c414d0277a25bde",
   "slug": "spl-riy-hil-2026-10-16-first-half-total-1pt5"
+ },
+ "0x6f31a4467a34b6b01362c5f2a3087db805becbc336619f97d3684d0b52ae2558": {
+  "created_at": "2026-11-23T16:32:34.42255Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will HEROIC qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-heroic-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
  },
  "0x72392126c005da0653de92256f8977b849ea29c5411899799fe04a4bdd1b6858": {
   "created_at": "2026-09-02T21:58:32.865465Z",

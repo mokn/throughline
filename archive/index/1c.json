@@ -304,6 +304,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-luka-doncic"
  },
+ "0x3cd7723967623ab418b5afa2a12e2f3fe9b948f6f6e6a289a2286ade9f2cdd1c": {
+  "created_at": "2026-11-23T02:55:33.631698Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2026 be above $10.00?",
+  "revisions": 1,
+  "sha256": "d49433624f63bbb44828fff4d88bdfb397fab6f8bd4b46dccac856cc22229150",
+  "slug": "b300-average-rental-price-in-december-2026-above-10pt00"
+ },
  "0x3cfa5770816041c6454ad3f90917944c586d30c2f6e70ba47120c3ef64b6171c": {
   "created_at": "2026-10-15T21:53:15.11334Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -755,6 +764,15 @@
   "sha256": "9f2113974b826ffb52a34b33ccb9a4e12bd245a95b55c8766a74e31fe8c3b7fa",
   "slug": "will-baker-mayfield-lead-the-nfl-in-completion-percentage-for-the-2026-regular-season"
  },
+ "0x8715e08c49db26dfdaa915c5bf9919e53c57d9ec5b20729f2b70514df3fbef1c": {
+  "created_at": "2026-11-23T02:21:49.515672Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2026 be above $3.20?",
+  "revisions": 1,
+  "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
+  "slug": "h100-average-rental-price-in-december-2026-above-3pt20"
+ },
  "0x87b45af0d4bd3325ed81991c6b698b9b5c3da3c8480bf8f44e268e2cc947d61c": {
   "created_at": "2026-08-07T20:08:55.780575Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -773,6 +791,15 @@
   "revisions": 1,
   "sha256": "de61c5accaa11cd09457f7e45640d967991b4247bd058aa5adbd16867ca2057f",
   "slug": "will-anthony-edwards-be-named-to-the-2027-all-nba-first-team"
+ },
+ "0x89a75d112112371f2a20507f328405f04f27bb315e402d9a87635898d5ecd11c": {
+  "created_at": "2026-11-23T03:04:11.474229Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $3.60?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-3pt60"
  },
  "0x8c47c9b3ac7f6467eac74d05ef19aa6408aa0bf94e25b8c81e73aa3007822b1c": {
   "created_at": "2026-09-04T19:47:50.301902Z",
@@ -910,6 +937,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-new-orleans-saints-have-more-than-6pt5-wins-during-the-2026-nfl-season"
+ },
+ "0x9d551916f5ff204a3d6a768a8cc16ea8d92728090f0ccb9283bed2885acaa11c": {
+  "created_at": "2026-11-23T16:12:17.871884Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will bzm have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-bzm-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0x9d59c0d8aa4a011e87c84bbf4d32f11831939a9acbb80046be2644783707ab1c": {
   "created_at": "2026-02-05T21:47:52.586855Z",
@@ -1133,6 +1169,7 @@
   "created_at": "2026-08-10T23:56:17.493606Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jameson Williams have 5.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "0ca036268e25318ffbb2bad08c6e049835c6287fcff672b7ec6295f76110a3c1",
@@ -1464,6 +1501,15 @@
   "sha256": "4b287b250abd3db8718d1fd7eed145980d1282f2fab0742a6e355640b303fb51",
   "slug": "will-opensea-launch-a-token-by-december-31-2027"
  },
+ "0xf047ca1e908e2e25128dd7272ec98f1a8c0ed0b151a419e3b0c6441bb94cfc1c": {
+  "created_at": "2026-11-23T18:11:45.942775Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Viper's Worlds 2026 skin be Kalista?",
+  "revisions": 1,
+  "sha256": "7bba0ae25526ac5c1b47a7b80f042ee9bb59843b3ad4714ffea75d8cf1292dae",
+  "slug": "will-vipers-worlds-2026-skin-be-kalista"
+ },
  "0xf24f3cddc9b6704ede387e44162219eb3491f9b645c596fd8e0bd454a98fe61c": {
   "created_at": "2026-01-02T21:10:23.41409Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1491,6 +1537,15 @@
   "revisions": 1,
   "sha256": "77e14b54138a6c263d14139f05911f5d48a087bc2fbbe0fd7fe894a12d584e4f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mn-04-house-election-by-40-45"
+ },
+ "0xf5ca243cd7d2c2a188c7cdaa6d08afa3fac8d72bd29fc92280b59bbfeb5f2e1c": {
+  "created_at": "2026-11-23T02:59:39.175417Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $9.50?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-9pt50"
  },
  "0xf6e7c89ec4b5d3c887ed9b70dfbcac9392e287367783ce475d32e8c16ed9f61c": {
   "created_at": "2026-07-30T00:37:27.93058Z",

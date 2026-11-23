@@ -250,6 +250,7 @@
   "created_at": "2026-09-04T04:02:24.276629Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Los Angeles Chargers be the AFC #1 seed for the 2027 NFL Playoffs?",
   "revisions": 1,
   "sha256": "58a9e34122f272beaa29ed6868faa72b485135546128c07766a0e64f6d5faf94",
@@ -336,6 +337,15 @@
   "revisions": 1,
   "sha256": "cc630ec01d3e4622f6d529d745c4b1f40bfec7cfeb28cfcf2fd6c7bedc4f83fa",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-alaska-be-between-305000-and-320000"
+ },
+ "0x2c430e4b32e264116f0c444448f58e6e39b0e6c86b67dce2f49c4369f0fecc82": {
+  "created_at": "2026-11-23T02:55:27.155764Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2026 be above $14.50?",
+  "revisions": 1,
+  "sha256": "d49433624f63bbb44828fff4d88bdfb397fab6f8bd4b46dccac856cc22229150",
+  "slug": "b300-average-rental-price-in-december-2026-above-14pt50"
  },
  "0x2d3b02f2b534f409e3e2e565cec96e287e6999163e27be35781fbc879f37af82": {
   "created_at": "2026-08-10T23:37:53.869843Z",
@@ -1403,6 +1413,15 @@
   "revisions": 1,
   "sha256": "ad4ac70a50fc9edf11bfa81c2d0ae35352b274523624ee984a48752561f96ef0",
   "slug": "will-denis-beirovi-be-the-next-chairman-of-the-council-of-ministers-of-bosnia-and-herzegovina"
+ },
+ "0xca61bb42de406a6712a3af21195157d2d4f02d24e76aa24ff79d00e7ce27e182": {
+  "created_at": "2026-11-23T16:34:00.685258Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Los Angeles Rams by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-los-angeles-rams-by-january-11-2027"
  },
  "0xccdd7811300177774bfe9740b8dca3a45e7594c6a70d5ef506bc20b54d352282": {
   "created_at": "2026-10-01T14:00:50.510092Z",

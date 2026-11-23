@@ -734,6 +734,7 @@
   "created_at": "2026-08-06T15:44:37.106353Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Sato leave LEVIAT\u00c1N in 2026?",
   "revisions": 1,
   "sha256": "602ba3a4c613fca6e07a8238b39b3855aaae958319a204d35eff4715c5dc75af",
@@ -1283,6 +1284,15 @@
   "sha256": "62c4f000b4a4432b57a39af7eca2739f4a8b7e253611a4f652cd8f5b596fbb6a",
   "slug": "will-blacklyte-win-the-2026-esports-commercial-partner-of-the-year-award"
  },
+ "0xb49e0fd3fe65416c7094336ffe9d6e30ca21e7062fcd6f37c82477b3077d5fbe": {
+  "created_at": "2026-11-23T03:05:16.16956Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2028 be above $5.00?",
+  "revisions": 1,
+  "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
+  "slug": "h100-average-rental-price-in-december-2028-above-5pt00"
+ },
  "0xb7dcf49181f719c0193c746bd9989ba56e5a70d35b4c4410aa905ac486985dbe": {
   "created_at": "2026-08-05T18:37:34.913847Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1645,6 +1655,15 @@
   "sha256": "b21eb88fedd03240a0fbc442c4ddc943466f764be59ef1d2d7628b62bf1d0790",
   "slug": "will-necaxa-win-the-2026-liga-mx-apertura-20260713222753226"
  },
+ "0xe29593d139176cc37afe078541430f6f6ec29cf4071792e65476dda733fba6be": {
+  "created_at": "2026-11-23T02:59:12.496941Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2026 be above $10.60?",
+  "revisions": 1,
+  "sha256": "ea2c95d11fa0e1076737efbd831304b1602a1f7e9f96726a05f60292b16d9f5b",
+  "slug": "b200-average-rental-price-in-december-2026-above-10pt60"
+ },
  "0xe2daabf65f47c942f073198499274cfdcc11704534c9dad69e1df0ab1e3243be": {
   "created_at": "2026-09-08T16:53:55.968439Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1734,6 +1753,15 @@
   "revisions": 1,
   "sha256": "9fdd944b3cdf386a21d6b6ffde3ca50b450fd7a3545818e04d13f94bf6686f11",
   "slug": "will-ceedee-lamb-finish-as-a-top-12-flex-in-the-2026-27-nfl-season"
+ },
+ "0xf3420d84a59fddd31dc17a887bca3e962efb20994e18a6793a6cda6043df48be": {
+  "created_at": "2026-11-23T03:02:01.685004Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in February 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "9a45dfa71c5302cbb2c92dfeee7a1ace2f5176ff1d86ea706457c55db3c79044",
+  "slug": "b200-average-rental-price-in-february-2027-above-10pt00"
  },
  "0xf34fa96bfa478b87e3208248eaf0bc9830bde20026fbb70d5701ea93b7eb2ebe": {
   "created_at": "2026-08-24T16:39:50.980295Z",

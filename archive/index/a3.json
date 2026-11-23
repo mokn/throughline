@@ -92,6 +92,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-julius-randle"
  },
+ "0x0cc9f68cd4c2da6fddf580fd3bd1085ea13336d6f9bf0eaac75e8c0a806bbfa3": {
+  "created_at": "2026-11-23T16:34:11.912341Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Elina Svitolina win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-elina-svitolina-win-the-2027-womens-australian-open"
+ },
  "0x0d07628b25703a276140e314a29299d0a82dc3aa9e3467e2b27da218140852a3": {
   "created_at": "2026-10-10T11:15:08.814506Z",
   "first_seen": "2026-11-21T14:39:27Z",
@@ -604,6 +613,15 @@
   "revisions": 1,
   "sha256": "1da42d5d9b7812d42e1df325ce68e0d9d5a5d89114084dff9bd12733efa8c81c",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-17-house-election-by-20-30"
+ },
+ "0x5c76f66ec8ab33af0c9309e94fd4abe81a1bbc0e485b57ff589b4f4882ea9fa3": {
+  "created_at": "2026-11-23T16:13:02.170539Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will No!ob have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-noob-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0x5c80526e376d31cd6d6920283dfb95e1a176c9e9e8218f4517b9ef12731df8a3": {
   "created_at": "2026-11-18T21:31:16.518751Z",
@@ -1172,6 +1190,15 @@
   "revisions": 1,
   "sha256": "8dcdc140afca595098dc3fda28e10d3308d734ad0357f78d56bc53119f5ed2e2",
   "slug": "australian-nbl-2027-champion-brisbane-bullets"
+ },
+ "0xba8b1bacd065e6dee50ddf2dffbf764a3a78c0b3385cac70b5c0a9f597d365a3": {
+  "created_at": "2026-11-23T03:00:55.060178Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $12.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-12pt00"
  },
  "0xbabbff2702408068c4bc3d23111c9d8c1527a2bfa2003edfe1115a2724efe7a3": {
   "created_at": "2026-07-31T23:03:33.063465Z",

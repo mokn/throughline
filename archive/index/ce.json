@@ -1037,6 +1037,15 @@
   "sha256": "482277ed0d1065d4256ae2a635889837e011e4d5dc12dcc2ee6b9c2cff7a0071",
   "slug": "will-nthabiseng-tshivenga-be-the-next-mayor-of-ekurhuleni"
  },
+ "0x99953a10227311473d90590d389af0f5530adb20f63295d5ee4ede1f9516dfce": {
+  "created_at": "2026-11-23T16:12:21.233573Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will rincyq have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-rincyq-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x9aacfa3a4fb27b2824dc02a540b174ec28f182de3d31667a05499b6976b023ce": {
   "created_at": "2026-10-27T20:50:36.11156Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1063,6 +1072,15 @@
   "revisions": 1,
   "sha256": "80d19345da85f7c5452d70000c7f2a92ad4ba3d31481b04f5fb5622b1477cf2e",
   "slug": "por-est-csm-2026-11-08-first-half-team-total-home-2pt5"
+ },
+ "0xa0b06d4fff7d211833a1e5630e1f170f132c32942b9bbeb818034b79ceb155ce": {
+  "created_at": "2026-11-23T03:02:16.061098Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in March 2027 be above $13.00?",
+  "revisions": 1,
+  "sha256": "215983e1bd4d26eb976dcbdf6bc50abac6e2ec96a0c1b6b8d1af4d1a7aa5157f",
+  "slug": "b200-average-rental-price-in-march-2027-above-13pt00"
  },
  "0xa479bedcf6edadd526dcaa8919fc551746946abaeb78fc61c9ccb3ebc503a9ce": {
   "created_at": "2026-10-01T23:13:33.033415Z",

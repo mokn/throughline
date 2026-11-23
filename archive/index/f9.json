@@ -546,6 +546,7 @@
   "created_at": "2026-10-15T23:09:45.528403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will OpenRouter process between 625T and 675T tokens from Oct 26 to Nov 22?",
   "revisions": 1,
   "sha256": "7d0d0688c6b99b7a321f4ba4d1524f8b25f454794c06ee0696bde1021898b9e5",
@@ -700,6 +701,15 @@
   "sha256": "bd52d5b72d3055f3ab287e696d3800416399994d7a891ed16f959ba4c8d2700c",
   "slug": "will-tsv-hartberg-keep-the-most-clean-sheets-in-austrian-bundesliga-2026-27"
  },
+ "0x7bd8f9d00f81e7ab692e61dfbde1918e31a7170d0d5ae6d6062a431a4a73b6f9": {
+  "created_at": "2026-11-23T16:32:30.918215Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Nemiga qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-nemiga-qualify-to-stage-3-at-pgl-major-singapore-2026"
+ },
  "0x7c3c3040af67661315f0022b3b15393ce0f39bfa1771eae148e58dfd678ffbf9": {
   "created_at": "2026-09-27T20:11:20.45625Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -789,6 +799,15 @@
   "revisions": 1,
   "sha256": "923f0e6c6a8604820c055a150af37c581739aa97458fb685f7a80c1bc0159089",
   "slug": "mike-evans-624pt5-receiving-yards-2026-27"
+ },
+ "0x8a9a62fa47add05d98e0fb7e4f273a590b54746d7b3134c0c01615e9e8c11bf9": {
+  "created_at": "2026-11-23T03:01:28.412261Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $9.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-9pt00"
  },
  "0x8c61f2f9e0fe8874791b11e5a6dc207ba7bfb4e890b18b81aee36b8ce78ca6f9": {
   "created_at": "2026-03-26T16:21:17.030743Z",
@@ -1204,6 +1223,15 @@
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
   "slug": "gtm-mun-aur-2026-11-07-exact-score-3-4"
  },
+ "0xc41ae1fe1d882e035fdea061cc8bea01cb97d87c78a98fee9f548d00b8bcbbf9": {
+  "created_at": "2026-11-23T16:12:44.676075Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Natsumi have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-natsumi-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0xc4271e84062dcf342b8004399cf35068833a55c0686e6405c0e2d2fef6db5ff9": {
   "created_at": "2026-10-13T19:55:28.740735Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1517,6 +1545,15 @@
   "revisions": 1,
   "sha256": "df2172ae6af90a5347208b99c6750d69bf013010f7d606b6637aaf31677f74e0",
   "slug": "will-kamala-harris-run-but-lose-the-2028-democratic-nomination"
+ },
+ "0xf42ab422fa6679ddeb018defa23965b793a2ad8d9c8d533d93af7bff36cc2bf9": {
+  "created_at": "2026-11-23T16:12:52.859564Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will tOfu have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-tofu-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0xf846274f6bb5e7a1248a7e32bf525e7563fd59f1562b78e2f564310ee850eff9": {
   "created_at": "2026-09-13T08:45:25.370025Z",

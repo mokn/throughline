@@ -154,6 +154,24 @@
   "sha256": "ed06588c89a77cbe87f782abaf1b319a956ed45a73e1d52c50543ab94ab75f9b",
   "slug": "will-mohsen-rezaei-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026"
  },
+ "0x1bdf85bc51c3f784f3de1be9582074b1dd9835ba049b5b53409c9d2cb759c047": {
+  "created_at": "2026-11-23T16:34:05.785539Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Alex De Minaur win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-alex-de-minaur-win-the-2027-australian-open"
+ },
+ "0x1e5703a401e2dc2b1c860e090c330a3aae590ace535899756f12d6f429721f47": {
+  "created_at": "2026-11-23T16:12:23.912785Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will OmaR have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-omar-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x2232f0c9135988f25dd8e6b2d12d3cd483d233e3ca9a7aa3c04afe0eef7bc647": {
   "created_at": "2026-01-08T01:34:15.173221Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -181,6 +199,15 @@
   "sha256": "4da6d08fb5fcbb5dc20b7dd273601b26fbe7cf205465018356db2394d2829f1e",
   "slug": "will-racing-santander-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0x2558f8a5db1c4c6cf215828dff3b20e5934570ed54ac177d052870931bac5447": {
+  "created_at": "2026-11-23T16:13:01.489576Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Shad have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-shad-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x26f021f7eed8dda3b99bcb4163cf1b28d1cdd921da4c8922799fb91541da8147": {
   "created_at": "2026-09-04T04:08:20.762475Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -189,6 +216,15 @@
   "revisions": 1,
   "sha256": "1324c7df383b06f822ca4dafa0a3f41be80c2553c25efce43a90806e228409dd",
   "slug": "will-chronicle-play-for-team-vitality-in-2027-1788364450495"
+ },
+ "0x27d2b964194f00079c274926d1fea12db40666c28f7748d75220e87f50369047": {
+  "created_at": "2026-11-23T03:04:59.02577Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $5.00?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-5pt00"
  },
  "0x286fbfb5366dfb7ec9299b2eb83c7a86f78e537ca4d6d14dc127413821492947": {
   "created_at": "2026-11-16T18:46:31.564541Z",
@@ -564,6 +600,15 @@
   "revisions": 1,
   "sha256": "f19fd7664aa26dbb9dc2f1ac499d95d3e33fcc9c80a5f36a947203930dbda288",
   "slug": "2027-soccer-slovenian-prvaliga-runner-up-nk-celje"
+ },
+ "0x60a67df5abd1ec4bd9fca28bd4cc0771640675d336462a860fb21e3882e10d47": {
+  "created_at": "2026-11-23T03:01:44.790631Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $10.50?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-10pt50"
  },
  "0x61945ed517402cf9088b7876cb400491242013bff77d427f65c6063dc5012d47": {
   "created_at": "2026-09-04T19:22:11.959983Z",
@@ -1154,6 +1199,7 @@
   "created_at": "2026-11-12T22:43:30.110018Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join Apple next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",

@@ -318,6 +318,15 @@
   "sha256": "e86bfd752c79af392100bd95d8445db924b014669645ad452d48b51242f8153e",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-paolo-banchero"
  },
+ "0x375588156a9895a27b86b569df61d4d91ba1409cf989eb5c695b75878daf0cb7": {
+  "created_at": "2026-11-23T16:51:03.870834Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will aliStair have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-alistair-have-the-most-awp-kills-at-pgl-major-singapore-2026"
+ },
  "0x3ad39433025c985091674adc327c61be2f2c73d74ddf6a527a226b8bd326dfb7": {
   "created_at": "2026-10-13T19:59:25.111715Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -458,6 +467,7 @@
   "created_at": "2026-10-15T23:09:45.092214Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will OpenRouter process less than 625T tokens from Oct 26 to Nov 22?",
   "revisions": 1,
   "sha256": "7d0d0688c6b99b7a321f4ba4d1524f8b25f454794c06ee0696bde1021898b9e5",
@@ -1223,6 +1233,15 @@
   "sha256": "a1cb01036580de0077dfd69774337412ac28f3104d07aefa808f529a09e7d9d4",
   "slug": "us-agrees-to-a-new-trade-deal-with-vietnam-before-2027"
  },
+ "0xd6221e1acf2e3b35cba5e5d1e1b62bf9abb99cb777e1b528ab7836970171d6b7": {
+  "created_at": "2026-11-23T16:12:52.379515Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Boxi have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-boxi-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0xd8ceb76ddb2bac8be4a0f0c95d1fd6d66fcf2f641379191ddd302e400672e4b7": {
   "created_at": "2026-07-29T20:35:15.476462Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1240,6 +1259,15 @@
   "revisions": 1,
   "sha256": "44a06029bfe49cba18cc51dd085244688121161aa07da3b7377a91f19688b790",
   "slug": "el1-pet-not-2026-10-03-exact-score-0-3"
+ },
+ "0xdac525800e437fb2f57dc93f72aba457670b0ee923713a64592357ea4f3bd7b7": {
+  "created_at": "2026-11-23T16:34:10.342689Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Brandon Nakashima win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-brandon-nakashima-win-the-2027-australian-open"
  },
  "0xdaf2f82c9fd33667af75aa558d34081100b4044fca58c8c76555bcd8d2dfb4b7": {
   "created_at": "2026-08-07T16:01:23.642515Z",

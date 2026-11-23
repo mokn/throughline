@@ -355,6 +355,15 @@
   "sha256": "08ff1ff0dcb0ac38a36f235ecf0e9f5a19850878e2dfe894dfc28bd815b50e96",
   "slug": "2026-soccer-venezuelan-primera-divisin-winner-metropolitanos"
  },
+ "0x2aac42f1888e32d9771a2c580585c54b245bd767af0a5a0cc0f67a644cad5e72": {
+  "created_at": "2026-11-23T16:12:39.513256Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Zayac have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-zayac-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x2bdaecfbe313ed39522807b3ab6c2342dadd24a4ef8148c76c49cc11ac4c7172": {
   "created_at": "2026-10-14T13:19:33.026929Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -611,6 +620,15 @@
   "revisions": 1,
   "sha256": "f0c5ccba3afc2dc8685136d0eabac92bc6092f4ebce1b9c1e66e44b987c52c71",
   "slug": "will-serbia-win-the-public-vote-for-eurovision-2027"
+ },
+ "0x460b2dfbac252986b5280ee2bc8a5d89b2301bf69f82ab122defe1b21240bf72": {
+  "created_at": "2026-11-23T03:04:29.122176Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $2.60?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-2pt60"
  },
  "0x4648a3fb0e9097b09fcb87f87a5e0bb996fdbf1a237f1318ef9f4cbdb08f5172": {
   "created_at": "2026-11-12T20:23:41.406267Z",
@@ -1300,6 +1318,7 @@
   "created_at": "2026-08-12T16:52:17.080329Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Delf\u00edn Kennedy Quispe Ccalla win the next Cusco mayoral elections?",
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
@@ -1359,6 +1378,15 @@
   "revisions": 1,
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-davante-adams-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
+ },
+ "0xc312c6b7ee3ffb870166543a37e4acf7c0dd58fc67e2f0569a6f3cd2aacd5672": {
+  "created_at": "2026-11-23T03:05:01.914798Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $1.00?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-1pt00"
  },
  "0xc4050a4930afe81fcb686c51c931ef47ade2f74a5cb793a981002ab03e481a72": {
   "created_at": "2026-09-04T04:02:10.447005Z",
@@ -1549,6 +1577,15 @@
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-alexander-lind-score-the-most-goals-in-the-2026-27-uefa-conference-league"
  },
+ "0xe2103eea3f4e9faafed1d3d64a710bf3654b6dd703790195bc1b7b5737f6ed72": {
+  "created_at": "2026-11-23T16:12:46.858316Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will OneJey have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-onejey-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0xe3fc4414dd4ba6f74b3adabf8135f649ecade0773ecb16d7d678aa54443abb72": {
   "created_at": "2026-10-30T22:14:06.8531Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1704,6 +1741,15 @@
   "revisions": 1,
   "sha256": "40c958b3c1c5a69218a603dd10b534850562b475d09bbc9344ac0fc5c271293d",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ohio-gubernatorial-election-by-3-6"
+ },
+ "0xf6f6a5454dc6a8ed9f8f89e0ed589102c3fc76968c1a9e3602a410ca696ce772": {
+  "created_at": "2026-11-23T16:12:50.097375Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Dukalis have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-dukalis-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0xf86c568c5037eac28376466968b37f3ba7e41391d21a11e866863a47d1a67d72": {
   "created_at": "2026-09-14T20:32:44.551064Z",

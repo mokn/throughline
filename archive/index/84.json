@@ -44,6 +44,15 @@
   "sha256": "c4552eb5ede32570bf3ae31b760401f1f14a4516b5a2f820639847aaff8ee8c9",
   "slug": "will-the-republican-party-candidate-win-the-2026-mt-02-house-election-by-25-30"
  },
+ "0x06e84eceacb904f76678e842533ea00fff0c7ab3779652674fb6ef2554491084": {
+  "created_at": "2026-11-23T03:00:35.531026Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-9pt00"
+ },
  "0x08326cf7e498904a75d4a1dc8aad97628c675507d4ca0e22b7f1771cf77a8c84": {
   "created_at": "2026-05-19T05:03:33.803057Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -591,6 +600,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-jalen-williams"
  },
+ "0x511578f2e8be71b3e3c228c97a069389f31b4112f869443f871249c08acef084": {
+  "created_at": "2026-11-23T16:12:19.311675Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Ari have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-ari-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x518e65cbab205c218873021ca5021df95dbf556163e8ca393594fb313de5bb84": {
   "created_at": "2026-08-26T21:46:36.369322Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -802,6 +820,15 @@
   "revisions": 1,
   "sha256": "2d40d97d81a71bdca275e26cd0eba17c903be49bdd305320bd46008c55dbb3ce",
   "slug": "will-the-montreal-canadiens-record-80-points"
+ },
+ "0x795ac0d0dd90cdbb569d90201addb2752af2591776e3b7dae4a2d62991f75a84": {
+  "created_at": "2026-11-23T16:32:23.913951Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will FUT qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-fut-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
  },
  "0x7b33896cd23e5a871443c0ac7c997509669ce73c5a2ec6b3c7f47b72ad61fb84": {
   "created_at": "2026-08-12T17:19:33.172011Z",
@@ -1427,6 +1454,15 @@
   "revisions": 1,
   "sha256": "daab78230d6894adbfcc3e2e608f0cbd8f72289f5802f4dd5d76526b41c2083c",
   "slug": "will-48-50-knesset-members-vote-for-new-israeli-government"
+ },
+ "0xd0069ffb71a08b9716c08c974abed4ea765edc688d2d9c395c78aa0aa60e6984": {
+  "created_at": "2026-11-23T16:51:01.235898Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will there be a 1v5 ace clutch in the PGL Major Singapore 2026 playoffs?",
+  "revisions": 1,
+  "sha256": "8d033c6996e7619d9245a7dd654949028506ffb5e48db02bf5739043778af037",
+  "slug": "will-there-be-a-1v5-ace-clutch-in-the-pgl-major-singapore-2026-playoffs"
  },
  "0xd057afb36a5d339a6a1a4093b6c445820f3b331965a0abe1b32641177a2b5284": {
   "created_at": "2026-08-24T16:35:30.358629Z",

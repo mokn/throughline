@@ -313,6 +313,15 @@
   "sha256": "5f5887e24e0e6001c07acfef73436be488fa70337059f0ed145b069edb066bd0",
   "slug": "f1-brazilian-grand-prix-driver-podium-leclerc-2026-11-08"
  },
+ "0x256dbbfd501d6fb8c7fd44cab284cf20edabf94841a35dacc9cf78f0e71609c2": {
+  "created_at": "2026-11-23T16:12:51.2588Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Malr1ne have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-malr1ne-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x25c9c6fcdb6470fccd479b4ca81dbf2db06a59bac712092784f4953b52b8d3c2": {
   "created_at": "2026-08-11T22:55:18.053748Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -638,6 +647,7 @@
   "created_at": "2026-08-31T18:28:48.186468Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Richard Matia\u0161ek be the next Mayor of \u00dast\u00ed nad Labem?",
   "revisions": 1,
   "sha256": "09afc953429a9ee94661975d479e32fcf5156379887b937e8c930ddd21dee282",
@@ -1001,6 +1011,15 @@
   "sha256": "4e96a674bedf1e2af4f6d1396c97c7200dd1c51e47db0860971fd65714ec48fe",
   "slug": "will-the-democrats-win-nevada-in-the-2028-presidential-election"
  },
+ "0x8adaf70148a9212cc65ee630dc8bf036236a042f80f62fa68b282ad83663e9c2": {
+  "created_at": "2026-11-23T03:02:49.321737Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-9pt00"
+ },
  "0x8bf79ba3215d634399b13df2c1a781dfc6f3513a63e45f6908317f9f05fff5c2": {
   "created_at": "2026-11-12T23:21:45.401781Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1309,6 +1328,15 @@
   "revisions": 1,
   "sha256": "f8b6ab6faabb7923e06a7a34ce2beedcbe7e887c4eb7a1079b105effba5c876f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-hi-01-house-election-by-0-15"
+ },
+ "0xace0b7360e5d96a076edbe1ceca080058c33656f4319356cb3fd3b3ad3c477c2": {
+  "created_at": "2026-11-23T16:34:04.885311Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Rafael Jodar win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-rafael-jodar-win-the-2027-australian-open"
  },
  "0xad22e3ca51a98525d4534cb956a39407bb95fd49a76c252e802211f5482b98c2": {
   "created_at": "2026-09-20T11:45:17.69094Z",
@@ -1656,6 +1684,7 @@
   "created_at": "2026-11-18T02:58:13.24265Z",
   "first_seen": "2026-11-18T15:39:44Z",
   "last_changed": "2026-11-18T15:39:44Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang not be named NVIDIA's next CEO and Nvidia's market cap be below $4T at the end of 2026?",
   "revisions": 1,
   "sha256": "a9d0573c4b2d05bb718f73d7a780a5873de33b00753b0f7fafe738e9d826eb7d",
@@ -1724,6 +1753,15 @@
   "revisions": 1,
   "sha256": "175e5715f65040dd74298ad9a1b2231e932428f2bf12dfd7e7c9cb61fe78219c",
   "slug": "will-lucy-powell-be-the-first-to-leave-the-burnham-cabinet-20260803162204123"
+ },
+ "0xe11096eb287e742fb7930cbd916efc5fc838ebc794d8e14ac2677a69d7280fc2": {
+  "created_at": "2026-11-23T03:01:29.54992Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $7.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-7pt00"
  },
  "0xe3d70c9fb06005f5fd913201b409356b157647a48062e050c2cb2c209562c2c2": {
   "created_at": "2026-08-12T00:10:40.741426Z",

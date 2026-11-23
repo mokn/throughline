@@ -255,6 +255,15 @@
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
   "slug": "will-cf-monterrey-finish-2nd-in-the-2026-liga-mx-apertura-20260722170637349"
  },
+ "0x2612f5d0c1ec01d9fb74cc42d746eb08af0bc4e6bd2995d232d4cbc45b2f4fa5": {
+  "created_at": "2026-11-23T16:12:56.556348Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will CHIRA_JUNIOR have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-chira-junior-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x263ab8a22dff2803fdc839c4893c69d7ab670e62f61be447fa8ab2b60cfed2a5": {
   "created_at": "2026-10-25T04:00:24.520375Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -624,6 +633,7 @@
   "created_at": "2026-09-23T14:07:38.128529Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Andrej \u0160ildiaj\u0117v win the 2026 Northern Nal\u0161ia district by-election?",
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
@@ -1432,6 +1442,15 @@
   "sha256": "9a3d2ef2bf6cdadb4d1edff83ef5eba1d2853f63d3e5e4835ddebd3cfde9f868",
   "slug": "2026-soccer-usl-league-one-winner-charlotte-independence"
  },
+ "0xc0d8ee3bc8194fe04694a232cbc762781623b1189dbbaf6535e2a89ba7fc48a5": {
+  "created_at": "2026-11-23T16:12:40.993628Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Wits have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-wits-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0xc0e02b2c2d76d185cce10628d3ca582ad9532f3348b12b12f545064d1fa0b1a5": {
   "created_at": "2026-06-26T04:43:20.924602Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1645,6 +1664,7 @@
   "created_at": "2026-02-26T16:00:35.289568Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Arizona Cardinals win the 2026 NFC West?",
   "revisions": 1,
   "sha256": "75352af95e70a1df73cc642b19396e06b9086ebfa3514d5bbd7b7bdf4733bd7b",

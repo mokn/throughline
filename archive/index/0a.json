@@ -22,6 +22,7 @@
   "created_at": "2026-08-12T16:52:16.57065Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jorge Rogelio Vargas Febres win the next Cusco mayoral elections?",
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
@@ -974,6 +975,15 @@
   "sha256": "1b278ee7a1a558845b1a507fd53521c041b5944801b6731deaee62b991ac24e2",
   "slug": "will-alfajer-play-for-team-liquid-in-2027"
  },
+ "0x9239550c4336e265e104ecaaef567acb5812db7300e8ffe5c99e3b9af4f0be0a": {
+  "created_at": "2026-11-23T16:32:45.649707Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will GOSH (BC.Game) qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-gosh-bc-game-qualify-to-stage-3-at-pgl-major-singapore-2026"
+ },
  "0x92e9b1560918589ebbc5253ff38041fb69ff4c261d0d502b12f73526ec8d9e0a": {
   "created_at": "2026-10-01T23:14:58.463853Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1102,6 +1112,24 @@
   "revisions": 1,
   "sha256": "cc33e62a2bb4c50e1d904dce0a2bfd6b6ab4da9b5ab7d7f1d5769d3f3831637a",
   "slug": "will-democrats-win-exactly-48-house-seats-in-california-in-the-2026-midterm-elections-20260811010741881"
+ },
+ "0x9fc8d0b0d25990cf00ada0a19df5e90ba7ced9eece360274fa4e37863e53030a": {
+  "created_at": "2026-11-23T02:55:30.099249Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2026 be above $12.50?",
+  "revisions": 1,
+  "sha256": "d49433624f63bbb44828fff4d88bdfb397fab6f8bd4b46dccac856cc22229150",
+  "slug": "b300-average-rental-price-in-december-2026-above-12pt50"
+ },
+ "0xa0aab7f25c97a7dab6e7c650ca28c834f73d77cd79b3d0319acd71a858f5a80a": {
+  "created_at": "2026-11-23T03:00:56.542621Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-9pt00"
  },
  "0xa0dc07e741fbed95c3363cc1acb13b62446634e19502d7627b9fda943e25af0a": {
   "created_at": "2026-08-18T18:58:30.167827Z",

@@ -57,6 +57,7 @@
   "created_at": "2026-08-12T00:15:10.152534Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Djurg\u00e5rdens IF win the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "e49dc1ecf4cc7f1c8827e7b1151e05dfc4150f96565b9129f29286fde5a83c90",
@@ -79,6 +80,15 @@
   "revisions": 1,
   "sha256": "370b113a31fb82a9db67a5a32dc9d7fd55aceae6e9020459e289ef92fa62a558",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mo-01-house-election-by-70-75"
+ },
+ "0x11b4fec5ac4b9fd8ceba84bbbf7f0d440d1033861976c020386e693e91993cb3": {
+  "created_at": "2026-11-23T03:02:35.400303Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in June 2027 be above $7.00?",
+  "revisions": 1,
+  "sha256": "9603b3620bf263d3b9e1c84d5c5294cb325a32571be770f6c04e847cfb9ec907",
+  "slug": "b200-average-rental-price-in-june-2027-above-7pt00"
  },
  "0x144e6a148c115652737760a9838ef7636fca10008d59e260a312bf0da43cabb3": {
   "created_at": "2026-07-31T03:39:53.204751Z",
@@ -1164,6 +1174,15 @@
   "sha256": "a85f4ab2ea125985cdaaa643e49376366cd877be3185ad65e301d9f5bdf9ffa5",
   "slug": "will-hradec-kralove-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0xae81fd1277a334157a8252d5b39135e9e7e9afc2f2e04bc54d602c8aa270d2b3": {
+  "created_at": "2026-11-23T03:01:08.646939Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $18.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-18pt00"
+ },
  "0xaed3d8865fc7b2bccabfaaf2eb3c869155724ffd897da4d0cc818af1609a55b3": {
   "created_at": "2026-10-31T11:30:27.750833Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1172,6 +1191,15 @@
   "revisions": 1,
   "sha256": "662d7bf1c0e3994252201e902c3f9f369267a8e863b260fb3ae9aacf2d248597",
   "slug": "f1-qatar-grand-prix-driver-fastest-lap-verstappen-2026-11-29"
+ },
+ "0xaf38a06e682e9650620fd7093ad66a81096ee16d3b6d4aafa5c2474135f1f6b3": {
+  "created_at": "2026-11-23T02:21:46.875321Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2026 be above $3.50?",
+  "revisions": 1,
+  "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
+  "slug": "h100-average-rental-price-in-december-2026-above-3pt50"
  },
  "0xaf874c80349379303164629c3962b1456f667ca1d44edf95e0474dd13483a4b3": {
   "created_at": "2025-10-09T21:48:38.980236Z",

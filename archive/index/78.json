@@ -460,6 +460,15 @@
   "sha256": "9cea4e0ec5218518b20c7156e24f68cb3ea836b094df8f49b2d8743c4e8d27de",
   "slug": "will-indiana-use-a-new-congressional-map-for-the-2026-united-states-midterm-elections"
  },
+ "0x490a267e263b287e2ba46a5538a5f13a37bdf6fa7c6b8ff73370a7e9be678a78": {
+  "created_at": "2026-11-23T18:11:22.930177Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Bin's Worlds 2026 skin be Gnar?",
+  "revisions": 1,
+  "sha256": "e21392917c009825ea9c8527206441950b5c22a2ed3c53f26ef5b6e5d25ea28c",
+  "slug": "will-bins-worlds-2026-skin-be-gnar"
+ },
  "0x4970d298760cfcd362033109df9c39ac47024262e5bc6d59d09b4f35ea5ce478": {
   "created_at": "2026-08-06T09:26:41.6728Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1462,6 +1471,15 @@
   "revisions": 1,
   "sha256": "40e6e904ed69f0b94d8d136fb4922ad0721564306cb9a647dd42ea5a27444d7c",
   "slug": "will-tama-shimabukuro-reach-the-semifinals-of-the-2027-ppa-tour-finals"
+ },
+ "0xd361bc9276a839f663087c50d0d4a7b13270b353d3d42cc937bd3042fa9f5078": {
+  "created_at": "2026-11-23T16:34:10.311322Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Aryna Sabalenka win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-aryna-sabalenka-win-the-2027-womens-australian-open"
  },
  "0xd3629e4fb3b739e1460afa30e5226a6fa5732c8a3e4f41d16f10912a16b2c678": {
   "created_at": "2026-09-28T17:21:43.785611Z",

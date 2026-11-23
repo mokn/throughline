@@ -270,6 +270,7 @@
   "created_at": "2026-11-12T15:31:29.172803Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will NVIDIA's next CEO be an internal candidate?",
   "revisions": 1,
   "sha256": "e7f81b976b83376348af3eb8bd3425f0d56b858af834c5c86a29a567d99f2243",
@@ -1276,6 +1277,7 @@
   "created_at": "2026-08-10T23:37:38.754313Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Christian McCaffrey have 10.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "4ec0125862cd9576f5089e672b50d9fc361b930785c629b9edd5b8c5812b0fb9",
@@ -1588,6 +1590,7 @@
   "created_at": "2026-11-12T22:43:31.529812Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join SoftBank next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -1657,6 +1660,15 @@
   "revisions": 1,
   "sha256": "aeac7acaf835dd63954e25aec3194b47fb9a4ae912bd54a50c51941b2cbd1556",
   "slug": "will-sam-rockwell-be-nominated-for-best-supporting-actor-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xf2cab167e145a9d4529897d8b45e445aec365971b3cc5942203eaf018b69b1d8": {
+  "created_at": "2026-11-23T03:04:30.264023Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $2.00?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-2pt00"
  },
  "0xf3e7446d35d2bbd97d43b82629ec3c6c3ff6e10e98a7aa9f29e6c6579c605ed8": {
   "created_at": "2026-10-15T17:01:05.226027Z",

@@ -272,6 +272,7 @@
   "created_at": "2026-09-23T14:07:39.265007Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Maksimas Pauk\u0161t\u0117 win the 2026 Northern Nal\u0161ia district by-election?",
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
@@ -1110,6 +1111,15 @@
   "revisions": 1,
   "sha256": "202967c756a66a22927cc0bef833b32dfe168d8f653fc51eff89f0a0a4bd85f8",
   "slug": "will-david-pastrnak-win-the-2026-27-maurice-rocket-richard-trophy"
+ },
+ "0xa52794dddd8b041505eca99a7028dcee28a165ea208b21dadfa6699fc7f5ee6d": {
+  "created_at": "2026-11-23T02:59:53.893641Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $15.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-15pt00"
  },
  "0xa5b47134d990bd98eb6ecd1f9cf09afdfc43dd88b3603612cb63358524261f6d": {
   "created_at": "2026-11-04T01:26:28.747966Z",

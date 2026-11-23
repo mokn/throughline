@@ -127,6 +127,15 @@
   "sha256": "edb5c305b1468557add60c85df6f481c6c209cc06ebff0c225fedb42ed2e60af",
   "slug": "will-xavier-robinson-be-the-2026-sec-rushing-yards-leader"
  },
+ "0x10ba7dee2c58725d4d1b37a35e7bb23f1e6a8e153228179e318cdf8b52e9504f": {
+  "created_at": "2026-11-23T03:01:45.632779Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $9.50?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-9pt50"
+ },
  "0x10eef7e3dce9779bdd201b2a2a8dee4f86aad3a2908aa90cf4e3621fc8b5374f": {
   "created_at": "2026-09-27T20:11:40.026266Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -656,6 +665,15 @@
   "sha256": "1ea268eab1c17a8ed4b4f285d3a0b256b7239d53baaeec9f504c5ec14732a9cc",
   "slug": "will-talib-ahmed-bensouda-win-the-2026-gambian-presidential-election"
  },
+ "0x5557b87464b287405a9836604943453f2d9ac0a29d84d4886e75472a624f044f": {
+  "created_at": "2026-11-23T03:05:01.208257Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $2.00?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-2pt00"
+ },
  "0x55bf1b1f599fa0863719922d4573bdf04debe875bf2e61ffaf6244347fe0844f": {
   "created_at": "2026-08-24T16:34:32.669835Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -992,6 +1010,15 @@
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-san-diego-state-reach-the-2027-ncaa-mens-basketball-final-four"
  },
+ "0x7ce4ba3038c92b0abd92f45ade30c5c45cc7f2c8d03394823fdaca19ebb87a4f": {
+  "created_at": "2026-11-23T03:03:23.939017Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $8.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-8pt00"
+ },
  "0x7d54a654ffcb71103cd1ced37a46d6e24754c394b9e65b7b7e46b60a0c28764f": {
   "created_at": "2026-10-05T23:00:47.569932Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1140,6 +1167,15 @@
   "revisions": 1,
   "sha256": "d1b58013f4c17dd6340e06bc5c70ec98eb84ed3b72e1c056e20bf6a383422b08",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-colorado-be-between-2100000-and-2250000"
+ },
+ "0x8d95c12e9eb7edb29c8d1b270a82088e2df4b11a9f196dd0c4134d5e3e4b074f": {
+  "created_at": "2026-11-23T03:04:11.818467Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $3.40?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-3pt40"
  },
  "0x8d9beb44db04e7e82942ffc06c512f04ff99b85395fc291738dee7004196a64f": {
   "created_at": "2026-09-27T20:12:34.966895Z",

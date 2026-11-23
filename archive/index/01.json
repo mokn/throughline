@@ -907,6 +907,15 @@
   "sha256": "fc4a8e2e185cf0638db9e5457961dd23d0f718c0690fa2a4eea7f6d50e676db9",
   "slug": "will-backrooms-be-the-1-searched-movie-on-google-this-year"
  },
+ "0x89acba2ccc0c97bf98eb52c4a83b0cdc59a010a9274cad06399b4b7d0248af01": {
+  "created_at": "2026-11-23T03:04:59.726159Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-4pt00"
+ },
  "0x8b69ebc4922bf8941390d5c25d5575170dd703a0925399a96d94a117cb31ab01": {
   "created_at": "2026-10-13T15:51:22.947538Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1016,6 +1025,15 @@
   "revisions": 1,
   "sha256": "601f3c0cb14a0e263a9a86c7e6796a2a921cf39df7cd63d30db93efb8811fb05",
   "slug": "will-anthropics-ipo-valuation-be-between-1pt75t-and-2pt00t-12"
+ },
+ "0x991e2727c3865e24c29bc9f7a141c6193ab10fa509c248b221a1090484a5c801": {
+  "created_at": "2026-11-23T18:11:38.64902Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Knight's Worlds 2026 skin be Galio?",
+  "revisions": 1,
+  "sha256": "cdb34b31bd2131ee9362a4d52c83982ef8744d52f0d2b36791903337e285146b",
+  "slug": "will-knights-worlds-2026-skin-be-galio"
  },
  "0x9c3b422a8210f0aacacbc7529c826309fa57aca88c392633ea98319de8945101": {
   "created_at": "2026-10-13T15:56:04.766639Z",

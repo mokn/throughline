@@ -747,6 +747,24 @@
   "sha256": "ec3dab1fba7a90cb882188ca92c01407a4e9eefbe8cf01de63e66fdf1a84cce6",
   "slug": "will-isaiah-horton-be-the-2026-sec-receiving-yards-leader"
  },
+ "0x71e7c79dbac1e45602dbf7eb656aba6b4c4479eefa0bcfa3718f565b0cd5ef46": {
+  "created_at": "2026-11-23T16:12:59.794815Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will pma have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-pma-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
+ "0x73a775a72840d53fb0bac04bae010c6f480eace641458a7158e2ffe90815cf46": {
+  "created_at": "2026-11-23T16:32:41.535199Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will HEROIC qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-heroic-qualify-to-stage-3-at-pgl-major-singapore-2026"
+ },
  "0x742a11abcf4b192a4544e94be66c97d30a7c39eb5b6a90e53d2aff4464107f46": {
   "created_at": "2026-08-21T20:08:37.95225Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1132,6 +1150,15 @@
   "sha256": "ccabce63861c0af40283d4c25cfe5faf7986ca3f138e7ad1c2960452a3b9b975",
   "slug": "rhamondre-stevenson-10-rushing-touchdowns-2026-27"
  },
+ "0xbb2393f7ee23029f61b6e2fd57c3cd42de4153522174db873abafab198497e46": {
+  "created_at": "2026-11-23T16:32:41.476691Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Chinggis Warriors qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-chinggis-warriors-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
+ },
  "0xbc3b577b334dde1ee0c49a35c2e5a908717415d314e4876048c920709e264d46": {
   "created_at": "2026-08-17T21:27:12.579962Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1338,6 +1365,7 @@
   "created_at": "2026-11-12T15:31:29.679174Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will NVIDIA's next CEO be an external candidate?",
   "revisions": 1,
   "sha256": "e7f81b976b83376348af3eb8bd3425f0d56b858af834c5c86a29a567d99f2243",
@@ -1351,6 +1379,15 @@
   "revisions": 1,
   "sha256": "7a89c6d8ee8c1be276e200dafb0c3f04ed479e0f14ddf585f364c2c10aaae2ab",
   "slug": "will-mohammed-abdullahi-abubakar-win-the-2027-bauchi-state-gubernatorial-election"
+ },
+ "0xe4eb4276ba74613719fcd98d80e893da51bcb0397ae6572a40ade83b81abbc46": {
+  "created_at": "2026-11-23T16:50:24.29929Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will molodoy have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-molodoy-have-the-most-awp-kills-at-pgl-major-singapore-2026"
  },
  "0xe5c094b68fca4e8402161080cd44b3ea0ec0747ae86884547495f9d2bbde0c46": {
   "created_at": "2026-09-08T16:53:59.638937Z",

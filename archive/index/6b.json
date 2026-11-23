@@ -98,6 +98,15 @@
   "sha256": "22dab41a9eb5ded5d3b75d2a43586fb3051a9356daf43054eaeb134cf2b1cf4f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-35-house-election-by-12-or-more"
  },
+ "0x0e5c871e4fd029ec6f551e3a53e0e8fe0ac73c3ae4b2a8b6b912f610e492b26b": {
+  "created_at": "2026-11-23T03:04:46.67891Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $2.20?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-2pt20"
+ },
  "0x1018483bfadc418b4b930126a636b54b373891b7dc2d012597b3e6449137a96b": {
   "created_at": "2026-05-20T18:37:58.102331Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -120,6 +129,7 @@
   "created_at": "2026-08-12T16:52:20.229002Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Eduardo Zans Loayza win the next Cusco mayoral elections?",
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
@@ -225,6 +235,15 @@
   "revisions": 1,
   "sha256": "99502ea85c1b381e085537f8bad98ec97107e0f88fd1d319f3ad78c80a0221b1",
   "slug": "gtm-ant-mun-2026-09-19-corners-first-half-total-4pt5"
+ },
+ "0x28f53da84435e00edb8d574dcd998f7401ad0c88844ce2bfa24c388005396a6b": {
+  "created_at": "2026-11-23T03:03:40.216122Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in January 2027 be above $3.10?",
+  "revisions": 1,
+  "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
+  "slug": "h100-average-rental-price-in-january-2027-above-3pt10"
  },
  "0x292b8c533eb75419e404f461b282eccfec876e6c945d24ee4e6fb38f61cc9f6b": {
   "created_at": "2026-10-30T00:21:57.594077Z",
@@ -941,6 +960,15 @@
   "revisions": 1,
   "sha256": "af8420ee9cd9806a902491393be02d27ae1ec8cd208a0a9535fa7db18b7d4536",
   "slug": "will-space-exploration-technologies-market-capitalization-be-between-2pt25t-and-2pt50t-at-the-end-of-november-2026"
+ },
+ "0x954c3966c1e3392d3140eabc29ee45d89429a9ac1094d8c124bb87056f24046b": {
+  "created_at": "2026-11-23T03:03:24.687852Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $6.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-6pt00"
  },
  "0x96367300cc5c04068c8ddb587dc0267d1fac7d091e5243bd7a93c175d048446b": {
   "created_at": "2026-11-03T17:43:04.647612Z",

@@ -127,6 +127,15 @@
   "sha256": "68964fb86d9f09f22688b7e15974b63470029652859b042ea15337057c68261d",
   "slug": "barcelona-uefa-negreira-verdict-announced-by-october-31-2027"
  },
+ "0x15555cc84e372d49d916303c50b1b8b346df55d4e9c07ac14be40e1fa993c4f0": {
+  "created_at": "2026-11-23T16:13:08.339125Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will BoBoKa have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-boboka-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x158837cfd47907e25ce4f6066e0bf1209add7cf287337efa77953ced0a20f0f0": {
   "created_at": "2026-08-24T16:40:25.821055Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -675,6 +684,15 @@
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
   "slug": "will-toluca-finish-2nd-in-the-2026-liga-mx-apertura-20260722170637352"
  },
+ "0x5c53588e577c28f64163135349979653fa255a23ea061ecda78bc2bb89ee38f0": {
+  "created_at": "2026-11-23T16:33:58.076843Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Indianapolis Colts by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-indianapolis-colts-by-january-11-2027"
+ },
  "0x5fddaeee11d92331c991b362106872c80675404d8c5e2e4e74644f379f2ec2f0": {
   "created_at": "2026-11-17T16:47:50.532475Z",
   "first_seen": "2026-11-18T15:39:44Z",
@@ -733,6 +751,7 @@
   "created_at": "2026-09-23T14:07:40.031393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Ignotas Adomavi\u010dius win the 2026 Northern Nal\u0161ia district by-election?",
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
@@ -773,6 +792,15 @@
   "revisions": 1,
   "sha256": "d318ca6356117ddfb8b1a5da1144bea77ac17691ab2c875673a591561a5396c7",
   "slug": "rhamondre-stevenson-624pt5-rushing-yards-2026-27"
+ },
+ "0x6a8bea827c595efee015137b931f8856d70226d30c7f9335a072a2d0568963f0": {
+  "created_at": "2026-11-23T16:34:04.404225Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Taylor Fritz win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-taylor-fritz-win-the-2027-australian-open"
  },
  "0x6cb12443f9d72a27c7437f52cfe02900630017e13ff49d9e617e39556f9bb6f0": {
   "created_at": "2026-11-03T17:43:39.473894Z",
@@ -836,6 +864,15 @@
   "revisions": 1,
   "sha256": "8840ac4333ed939eeb19925b1050821fa51fc02783f43eaf857110e41abe1548",
   "slug": "will-michigan-make-college-football-playoff-quarterfinals-20260803204558954"
+ },
+ "0x7e8b1c9922e61b7b34f4b196e4ba00681c13c8c8f511acaad69e220795e603f0": {
+  "created_at": "2026-11-23T02:59:54.219175Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $14.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-14pt00"
  },
  "0x81a26b1c90af7ca8b7e71fcdc56dc7b47c4dcfd01ef9694fa552cda8ddc37ef0": {
   "created_at": "2026-09-17T19:54:19.964948Z",
@@ -1567,6 +1604,7 @@
   "created_at": "2026-10-06T00:21:56.315704Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Nitto ATP Finals 2026: Unbeaten Champion?",
   "revisions": 1,
   "sha256": "3a5c0ada1a0c4dea20fae0fcf223806be46c149597677bb8c65ec9df28819bf5",
@@ -1701,6 +1739,15 @@
   "revisions": 1,
   "sha256": "e5d7dce37d188a83784c67b0f61788919119d6e4cd74d7d0d3ac2e0049d923ee",
   "slug": "will-coreweave-announce-bankruptcy-by-december-31-2029"
+ },
+ "0xf4bcd11ad2b25e531a607eb24338c6e622e433ae4df7810a8d859b98bbb337f0": {
+  "created_at": "2026-11-23T03:02:02.05086Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in February 2027 be above $9.50?",
+  "revisions": 1,
+  "sha256": "9a45dfa71c5302cbb2c92dfeee7a1ace2f5176ff1d86ea706457c55db3c79044",
+  "slug": "b200-average-rental-price-in-february-2027-above-9pt50"
  },
  "0xf7ae0eaf5f65ad70e01912a39bd9130b16701da9beaeb43c6e788b5e0f8c5ff0": {
   "created_at": "2026-08-10T23:37:41.349377Z",

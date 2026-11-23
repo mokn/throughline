@@ -89,6 +89,15 @@
   "sha256": "3aa5fced27bdcbebb40ca133fe34d3f87f9d0a8c42323d3bee9884ecf95deb5e",
   "slug": "will-the-philadelphia-flyers-make-the-2026-27-nhl-playoffs"
  },
+ "0x0ccf19d29ff44f4f191f03bbba1dc10c2c1bc770c448ebb3c3a97ea3e8e8eb94": {
+  "created_at": "2026-11-23T16:32:04.261892Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will 9z qualify to Stage 2 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
+  "slug": "will-9z-qualify-to-stage-2-at-pgl-major-singapore-2026"
+ },
  "0x115cc17de4e9a91c145f78136afadc96bc6349bc27633719d7d56462fcfb9c94": {
   "created_at": "2026-11-18T18:17:17.812768Z",
   "first_seen": "2026-11-19T15:44:54Z",
@@ -412,6 +421,15 @@
   "revisions": 1,
   "sha256": "91b9a0daae5d6de18d9feb7d793526c9dfc7cb1bc5db3074174e67ee0d7dc3d7",
   "slug": "will-robert-f-kennedy-jr-be-the-next-to-leave-the-trump-cabinet-before-2027-947"
+ },
+ "0x2f84f9336a2f01275049071fa405d13612a9db1ff4659d7c8075f74aa687b094": {
+  "created_at": "2026-11-23T16:34:09.190753Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Elena Rybakina win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-elena-rybakina-win-the-2027-womens-australian-open"
  },
  "0x2ff28a52b859006d3621979e9ae3fc35a28855eb366303624dfee1b9b7ccf694": {
   "created_at": "2026-11-19T19:21:14.469622Z",
@@ -824,6 +842,15 @@
   "sha256": "7a24a14e0028b9730c6235ea3f91630556148abac9a82c869e48388d5f706979",
   "slug": "will-the-republican-party-candidate-win-the-2026-ga-09-house-election-by-20-25"
  },
+ "0x6c992cb75dd13f6cda73002eb5cd450ac750efec8a83673a77e6d6becd6fb794": {
+  "created_at": "2026-11-23T03:01:46.841328Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-8pt00"
+ },
  "0x6da012c0cc37136532fabebbe6d723498e01d617fcc81b25483152e3526ec994": {
   "created_at": "2026-08-14T13:03:52.960386Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1106,6 +1133,15 @@
   "sha256": "1b811de71c5b9320fc03e68b24adb1d5c77462efd9812c10a394e58b7b348637",
   "slug": "will-colon-be-promoted-to-liga-profesional-argentina-2026"
  },
+ "0x9d8dbd0d32bc139de3f637bf34f361353593262e394ff248b442b1d9efb8a294": {
+  "created_at": "2026-11-23T15:03:13.300424Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Harvey Jones announced resignation or removal by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "81aedd5b181d8959cfcc03a5de7b8b4394283e7c946d540a09c93a67a131b98b",
+  "slug": "harvey-jones-announced-resignation-or-removal-by-december-31-2026"
+ },
  "0x9f399cfd5182add9f890156ebc44288fed918f6ded94ddca71e6bed48f5c7794": {
   "created_at": "2026-11-07T12:30:29.616615Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1321,6 +1357,7 @@
   "created_at": "2026-08-25T21:10:29.823221Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Baltimore Ravens have more than 10.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
@@ -1330,6 +1367,7 @@
   "created_at": "2026-11-12T22:43:17.041608Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join AMD next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -1634,6 +1672,15 @@
   "revisions": 1,
   "sha256": "41832a3886633fba3b06e3aa2cc6f1914803694d831253951243122ca1381063",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-tyrese-maxey"
+ },
+ "0xf2c9742f46956cdc63e89400b9c5d993749eeb9b57a69dadb14755674cc91694": {
+  "created_at": "2026-11-23T16:32:49.417357Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will THE ONE (1win) reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-the-one-1win-reach-the-grand-final-at-pgl-major-singapore-2026"
  },
  "0xf3233a75da0de4e80c3de26ca3ff74c3c69a7d77f137bf5ff425224574c1db94": {
   "created_at": "2025-11-26T00:17:20.576163Z",

@@ -790,6 +790,15 @@
   "sha256": "f55530c5241dc374db36ebeeb4092df7492274667945ff66dc396affb12314c1",
   "slug": "will-the-iea-ask-france-to-release-oil-stocks-by-december-31"
  },
+ "0x6bdc4219aa9df12600e4babc0ffab508062fb0570b9f8d430cc3b67fbeaa0d69": {
+  "created_at": "2026-11-23T02:59:53.097034Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $17.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-17pt00"
+ },
  "0x6d1216f30c156e990c2759aa1372ccf9ccd254bd8ab97d4eed5651c9d060b369": {
   "created_at": "2026-09-27T20:10:30.926826Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1069,6 +1078,7 @@
   "created_at": "2026-11-19T15:47:14.717763Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Lord Kebun be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "aab81579c2cb6b7de786ff0ee55952fbc5e2fd8591a8e70df5dadacfa221adc0",
@@ -1250,6 +1260,7 @@
   "created_at": "2026-09-23T14:07:38.914906Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Viktor Voronin win the 2026 Northern Nal\u0161ia district by-election?",
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
@@ -1263,6 +1274,15 @@
   "revisions": 1,
   "sha256": "e08babce92689a04acca444250c37fb862fa14f71bf274767a0705be9a10e737",
   "slug": "2027-soccer-sper-lig-runner-up-alanyaspor"
+ },
+ "0xb363c9c645250647f65d80dc7928e1095229ca90f3a570e70c2b8385414b5169": {
+  "created_at": "2026-11-23T03:04:47.68728Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $1.60?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-1pt60"
  },
  "0xb3c122a324cedb71e4496e2112a7784eba0bd034fe6293526e4b8cfe3371ef69": {
   "created_at": "2026-09-09T15:42:59.444896Z",

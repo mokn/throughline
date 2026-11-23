@@ -131,6 +131,7 @@
   "created_at": "2026-08-12T00:18:45.054102Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Louisville City FC win the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "17568a1deefe9d080c06e155ce4265ec9436c6c77d7ad392ea2ff0365b2cedad",
@@ -458,6 +459,15 @@
   "sha256": "81ed0b5840b95056df9b11c06a56cd6c84db51fec130e427e62642d417476bf4",
   "slug": "will-michal-sadilek-record-the-most-assists-in-the-2026-27-uefa-champions-league"
  },
+ "0x3c413fb1007855fb3c844cd6a8db3590ab03bb9d88ab1b0b0119dbe3bf10fa37": {
+  "created_at": "2026-11-23T02:59:54.546538Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $13.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-13pt00"
+ },
  "0x3d81d9ab181d0e3a4898daaef429bf0f13bd272987ae1b70a4af9f05a90fb737": {
   "created_at": "2026-09-27T20:10:42.928836Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -466,6 +476,15 @@
   "revisions": 1,
   "sha256": "a813ce376cc78c0d4cd09293bf8081eeab68f039e9b47e9591701007339c26a5",
   "slug": "will-shane-pinto-win-the-2026-27-frank-jpt-selke-trophy"
+ },
+ "0x3e85dfbe7effbc0636d3f07aa16b618e6b2dc207d924d6eb4becc0d4e6609137": {
+  "created_at": "2026-11-23T16:12:26.336406Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Mikoto have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-mikoto-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0x4021f61d3c5aa78195030ad47bf165d9f6bddd573260afa99f0a4654aa564737": {
   "created_at": "2026-08-21T17:37:06.390763Z",
@@ -912,6 +931,15 @@
   "revisions": 1,
   "sha256": "66a8f9315a875fdbe75bb5d5e0d763db9a8f4f85dea1f51ccf7fd5fece85d92a",
   "slug": "will-the-democratic-party-win-the-fl-28-house-seat"
+ },
+ "0x7e8ed353c68dee16c26cc33b5e40d89b88cb621695937eafcc7fc103bbe86037": {
+  "created_at": "2026-11-23T16:32:48.282629Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will MIBR reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-mibr-reach-the-grand-final-at-pgl-major-singapore-2026"
  },
  "0x7ee1567e16cd711826df65b8c7001009bf80ec41b734efefa79e817528f2e237": {
   "created_at": "2026-11-18T19:51:23.782646Z",
@@ -1611,6 +1639,15 @@
   "revisions": 1,
   "sha256": "4bc356e5e07fa3f05f2aaf5069ea488250240ca9031ac917cffd377bf5624ad4",
   "slug": "will-cason-wallace-be-named-to-the-2027-nba-all-defensive-first-team"
+ },
+ "0xe11271f3a46c029984048b1b18d7c6394f8683c433f9720c93fc9dd58181dd37": {
+  "created_at": "2026-11-23T16:33:55.738689Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Denver Broncos by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-denver-broncos-by-january-11-2027"
  },
  "0xe44e24c4bfc8101cb887ce2a847c18c86a08c73861f962c4be1039752202e137": {
   "created_at": "2026-11-19T20:40:07.011179Z",

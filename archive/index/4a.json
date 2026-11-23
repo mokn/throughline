@@ -593,6 +593,7 @@
   "created_at": "2026-05-27T21:08:10.852043Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Russia capture all of Bilytske by December 31?",
   "revisions": 1,
   "sha256": "dde9d51ee829afd859fe201c9cdb010046ed8accbef48b04849a2dc6829ab48f",
@@ -607,6 +608,15 @@
   "revisions": 1,
   "sha256": "55d812795069f77e2f25180dda11a57cf051d1c13b10ba315f87efe14c84c25b",
   "slug": "tom-hardy-announced-as-next-james-bond-891"
+ },
+ "0x67d2afbed93b549c47137961454c38a791a60022946d79af151baf0b945b6e4a": {
+  "created_at": "2026-11-23T18:11:50.941931Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Viper's Worlds 2026 skin be Lucian?",
+  "revisions": 1,
+  "sha256": "7bba0ae25526ac5c1b47a7b80f042ee9bb59843b3ad4714ffea75d8cf1292dae",
+  "slug": "will-vipers-worlds-2026-skin-be-lucian"
  },
  "0x68fc2c62dde81f3b76528291540d89c36b4169e505424d140605e3bdd7f53f4a": {
   "created_at": "2026-10-13T15:56:57.607653Z",
@@ -652,6 +662,15 @@
   "revisions": 1,
   "sha256": "db11d8ec73b372d475ed2d37df5c6684946cc8958de5a3e21741eb2dce2648f6",
   "slug": "will-gpt-astra-output-price-be-75-or-above-in-2026"
+ },
+ "0x6dbe01ed776c7182310d09a2b8887ee8c1674edce8c8eb975ff6329210c1ab4a": {
+  "created_at": "2026-11-23T16:34:12.425568Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Linda Noskov\u00e1 win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-linda-noskova-win-the-2027-womens-australian-open"
  },
  "0x6e26904c44dc16d1a7e3c8e2734fa17397e262357ac81156c17968355239f54a": {
   "created_at": "2026-01-02T21:19:56.46794Z",
@@ -947,6 +966,15 @@
   "revisions": 1,
   "sha256": "171dc5817e3525b0cb5438a2367175949ada98c8c896735929d5a77776e8af95",
   "slug": "will-the-next-fable-model-5pt2-debut-in-the-top-1-of-the-text-arena-leaderboard-by-june-30-2027"
+ },
+ "0x9b7ea4b6376db5c2aa7ed04b8b641aa17a26fee445a5af87e5a81543a675fe4a": {
+  "created_at": "2026-11-23T03:01:12.364185Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-9pt00"
  },
  "0x9c4b9d9cf6011c085bdfc567456c018968f38dcc7c571f7fe0b6fb1f8143f44a": {
   "created_at": "2026-07-23T15:42:27.904955Z",
@@ -1379,6 +1407,15 @@
   "revisions": 1,
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-heat-vs-jazz"
+ },
+ "0xd6bde0c29b3dfe1f32aff662543ae2024b4a6e6263bdb141006bfa8fd9a6424a": {
+  "created_at": "2026-11-23T03:03:07.791892Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $6.00?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-6pt00"
  },
  "0xd9b211093de01b12b87f5168f522200ad89397c7414bcdcad71b25a84242ff4a": {
   "created_at": "2026-09-04T19:37:58.781614Z",

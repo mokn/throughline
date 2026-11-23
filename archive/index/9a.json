@@ -84,6 +84,7 @@
   "created_at": "2026-10-24T04:00:08.685051Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Elon Musk post 880-919 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1245,6 +1246,15 @@
   "sha256": "b0d490c430ea2a37776e8f08bbe3e8a636f90d8b29131f4c7af62391fffd0b0a",
   "slug": "will-cam-ward-finish-the-2026-27-nfl-regular-season-with-the-most-interceptions-thrown"
  },
+ "0xb89e20d814ec0536b1d0711fa7f6fcbe491fcf8a249db1a630d526495ec3bf9a": {
+  "created_at": "2026-11-23T03:03:56.414708Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in February 2027 be above $2.60?",
+  "revisions": 1,
+  "sha256": "fc964d78ede79e8203518ae6f98e4304b64181980325050efbb91233717a00a0",
+  "slug": "h100-average-rental-price-in-february-2027-above-2pt60"
+ },
  "0xbafdc9749e8e3dd61eb0f40501d14566990cd2e926900ff5cb38dc3201e36a9a": {
   "created_at": "2026-08-05T11:09:16.90159Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1703,6 +1713,15 @@
   "revisions": 1,
   "sha256": "591a6f033bd94af41d74637af4a215a470e13069f2a95d2b704a6778808e2159",
   "slug": "will-be-by-you-luke-combs-win-best-country-song-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0xf9a9cfa51bb09b07cd205c1f7339478368fc9efefb7f334fdd1bcb15078b879a": {
+  "created_at": "2026-11-23T16:12:50.588757Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will m1CKe have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-m1cke-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0xf9b705789d02f9bbc7de623555916f8b6de1f0a651f7ad474a8881343ec66a9a": {
   "created_at": "2026-09-27T20:04:33.437162Z",

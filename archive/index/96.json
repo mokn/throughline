@@ -554,6 +554,15 @@
   "sha256": "73401b2fe72fa7badca2fcf1573a79dcaa2bf5349a8a4201ef4bba13a5de5c1a",
   "slug": "will-shameka-parrish-wright-win-the-2026-louisville-mayoral-election-20260626001838913"
  },
+ "0x63fa72dd96c85f2c6e84ce206b1849091fbf849882cafc10c0c6c446846d5196": {
+  "created_at": "2026-11-23T03:02:34.647349Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in June 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "9603b3620bf263d3b9e1c84d5c5294cb325a32571be770f6c04e847cfb9ec907",
+  "slug": "b200-average-rental-price-in-june-2027-above-9pt00"
+ },
  "0x64713716254aa0d1bc478e1670266574c78766fb4bc484a1bf455842273c9e96": {
   "created_at": "2026-10-26T20:06:21.187912Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -590,6 +599,15 @@
   "revisions": 1,
   "sha256": "c5136c0ead387fede5b056f6c0f81c50f27ce1ae36ad974671ab92d795b4b15d",
   "slug": "will-the-reserve-bank-of-india-decrease-the-policy-repo-rate-by-25-bps-at-the-december-2026-meeting"
+ },
+ "0x698af93b75cc089917f95cf668c5ae9520f2c00dd22d117c355ac85242568d96": {
+  "created_at": "2026-11-23T18:11:43.553959Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Xun's Worlds 2026 skin be Skarner?",
+  "revisions": 1,
+  "sha256": "20ef533063c8e078b2a0e008f8ef49ad3052669fbc1ff8c7ad9f54edfba362dd",
+  "slug": "will-xuns-worlds-2026-skin-be-skarner"
  },
  "0x6b0a6b7544c1d697fa4007fb83cb76b75467f33828bf946ac794d2e38d63ba96": {
   "created_at": "2026-08-04T19:27:28.564034Z",

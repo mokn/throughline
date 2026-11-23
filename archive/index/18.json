@@ -268,6 +268,7 @@
   "created_at": "2026-11-21T15:49:19.679043Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Adin Ross be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -968,6 +969,7 @@
   "created_at": "2026-08-10T23:57:03.10341Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Javonte Williams have 9.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "14491b78f0c28b51a08d4ee618ad502256ba7082f0d062461af715f404e7002c",
@@ -1147,6 +1149,15 @@
   "revisions": 1,
   "sha256": "d5d936809c1290d1aff2f7128a0580407a05785389c1e0e947bfff32aa304716",
   "slug": "will-the-10-year-treasury-yield-hit-6pt0-before-2027-269-656"
+ },
+ "0xb980c8d48dfabbcef78681923ef865cf072eab52419a73db2859ca1016a65b18": {
+  "created_at": "2026-11-23T16:32:39.031581Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will M80 qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-m80-qualify-to-stage-3-at-pgl-major-singapore-2026"
  },
  "0xb9ebfbe6c2082fcabb3000466779e14270a608314b4a315afb1a256042196318": {
   "created_at": "2026-10-15T20:35:55.63766Z",
@@ -1463,6 +1474,7 @@
   "created_at": "2026-10-08T00:13:33.375718Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" score at least 50 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "00b8434d735a2c0e9498c91cab6ad66e57f83f497f5714fb4f5f13bbb4105a10",

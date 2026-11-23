@@ -824,6 +824,15 @@
   "sha256": "dee7db4ccb37acb3221169f92c04d65bf0e57aeef252370c8028be32049b0565",
   "slug": "will-marine-le-pen-win-the-2027-french-presidential-election"
  },
+ "0x826b976a8ad9d2e84df4d0c642036acf6aca3cec711905c5e9d232c1a24873aa": {
+  "created_at": "2026-11-23T16:32:46.277252Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Imperial qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-imperial-qualify-to-stage-3-at-pgl-major-singapore-2026"
+ },
  "0x82cef3f95cab21134346c025b802ab8aa8f57a15df557f003828205eb8d146aa": {
   "created_at": "2026-09-08T17:03:07.624898Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1024,6 +1033,15 @@
   "revisions": 1,
   "sha256": "bb59a6e852160b5b61dd088a6bfffc30247c72ac3dc2b311ad05aa98e2f5efb4",
   "slug": "will-igor-thiago-score-14-or-more-goals-during-the-2026-27-english-premier-league-season"
+ },
+ "0xa099d73e7bc898b6694315460e69c9014158e19e6d1248d017ba2cdef9b11aaa": {
+  "created_at": "2026-11-23T03:04:12.858971Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $2.80?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-2pt80"
  },
  "0xa1c1353e54e4d091a0f53aa77c80c0cc3b4ee91434c101a004792ec8e3cf10aa": {
   "created_at": "2026-10-13T15:49:54.861613Z",
@@ -1431,6 +1449,7 @@
   "created_at": "2026-10-25T04:01:37.695253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will US Dollar Index (DXY) hit (HIGH) 104.00 in November?",
   "revisions": 1,
   "sha256": "08d2b061d4fa8b9799e948f4fff2cc2b7776a2ea3d26a544e009fcf1f9fc6a3e",

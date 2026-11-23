@@ -309,6 +309,15 @@
   "sha256": "71ed7b1b31672b6cd27bdc64c605f71c10bfca70ad530e33c37498e1ad4e9956",
   "slug": "will-jose-ramirez-win-the-2026-american-league-mvp-award"
  },
+ "0x2cb15f57a6e890604fc45ca5d82cf2728f206b5be892f06d50fdc0dc32c73e7e": {
+  "created_at": "2026-11-23T03:03:56.033684Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in February 2027 be above $2.80?",
+  "revisions": 1,
+  "sha256": "fc964d78ede79e8203518ae6f98e4304b64181980325050efbb91233717a00a0",
+  "slug": "h100-average-rental-price-in-february-2027-above-2pt80"
+ },
  "0x2e27604d359a17606844713c9a66d30286275f67f89b3b9a3f20b6465337777e": {
   "created_at": "2026-06-01T18:35:07.688208Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -715,6 +724,15 @@
   "sha256": "b48be2799d5ef917ec956889177e5dc7ad6854112822db6b6435d34d5fe14a17",
   "slug": "will-anthropics-valuation-be-between-1pt00t-and-1pt25t-at-the-end-of-november-2026"
  },
+ "0x65bab8275acb7293436ec15cf83ea08ada25d2611063d6f38b202fad6ac88f7e": {
+  "created_at": "2026-11-23T16:34:06.808806Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Tommy Paul win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-tommy-paul-win-the-2027-australian-open"
+ },
  "0x65d59c63efa02588c0647ca823610892bcd86ad262b6a47c4e20f84cc80c487e": {
   "created_at": "2026-08-12T00:17:12.813052Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -808,6 +826,15 @@
   "sha256": "e66c0d039bf96b51f5d71511b4ec02073b7271bbb3eab548c4c4fecf66441fd4",
   "slug": "will-fut-esports-win-an-international-event-in-2027"
  },
+ "0x79b74e1064263afa758a4f07ca1956522e199960b685896ed5318c776e73dd7e": {
+  "created_at": "2026-11-23T16:32:05.347445Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Liquid qualify to Stage 2 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
+  "slug": "will-liquid-qualify-to-stage-2-at-pgl-major-singapore-2026"
+ },
  "0x79e931da222e1f4062722aa211557cff31fd295194da7e10926d041eded6617e": {
   "created_at": "2026-08-21T21:07:59.462789Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -861,6 +888,15 @@
   "revisions": 1,
   "sha256": "a9cff39bf6efaa55dfda506497a3480e6634b24868d6c4ab5c5bdf26dd154290",
   "slug": "will-conor-mcgregor-fight-ian-garry-next-2026081022562509204"
+ },
+ "0x86415c4b0729eae7de7c75058bd8b4adee27df08c0c443d4a8c0143f2529d57e": {
+  "created_at": "2026-11-23T03:04:59.378417Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $4.50?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-4pt50"
  },
  "0x88581aa22803a52f8e46b7e9034c3892a356d22e200372902b79c9c85f7beb7e": {
   "created_at": "2026-08-06T08:29:22.466379Z",

@@ -279,6 +279,7 @@
   "created_at": "2026-08-28T20:17:44.895726Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will James Cook have 10+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "ccabce63861c0af40283d4c25cfe5faf7986ca3f138e7ad1c2960452a3b9b975",
@@ -518,6 +519,7 @@
   "created_at": "2026-11-12T22:43:21.59423Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join SpaceX next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -1043,6 +1045,15 @@
   "sha256": "a7c8b6ea21eba38f8f8bafae01726673b6e6b7c31f656332e73e514aa37c3780",
   "slug": "will-will-smith-win-the-2026-27-ted-lindsay-award"
  },
+ "0x86399e0b7b3caca90829002488eeb88b0f0755ca98be51cbfb7940bad6e18813": {
+  "created_at": "2026-11-23T18:11:36.610343Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Xun's Worlds 2026 skin be Pantheon?",
+  "revisions": 1,
+  "sha256": "20ef533063c8e078b2a0e008f8ef49ad3052669fbc1ff8c7ad9f54edfba362dd",
+  "slug": "will-xuns-worlds-2026-skin-be-pantheon"
+ },
  "0x8b42474c0a4bf507a35c122c29e52d5f50df1e6fcfaf59d2c6bbb83b4c6e1a13": {
   "created_at": "2026-08-06T09:26:37.431487Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1518,6 +1529,15 @@
   "sha256": "de61c5accaa11cd09457f7e45640d967991b4247bd058aa5adbd16867ca2057f",
   "slug": "will-jalen-brunson-be-named-to-the-2027-all-nba-first-team"
  },
+ "0xbf3d3d1fc31d5cb1bfdf0f3680a3a978be84682a8d40b4efa3c6eaae045b6b13": {
+  "created_at": "2026-11-23T18:11:52.146572Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will ON's Worlds 2026 skin be Renata Glasc?",
+  "revisions": 1,
+  "sha256": "b2437481f9e78f8069706f34b0c1f08d4a1d9adce9306ea23e61b976c9ec63d7",
+  "slug": "will-ons-worlds-2026-skin-be-renata-glasc"
+ },
  "0xc07dd495b7cc45d9861b487f7395d91b3d89cdbbd3c3f7ede15e672d874df013": {
   "created_at": "2025-11-24T21:34:35.118417Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1937,6 +1957,15 @@
   "revisions": 1,
   "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
   "slug": "will-natus-vincere-win-the-pgl-major-singapore-2026-1793811600000"
+ },
+ "0xfe4c68b580920ce1f5cdd6f2bc6cc353595033c2ef8aaf1c8153b003c55e8413": {
+  "created_at": "2026-11-23T03:03:21.540947Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $14.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-14pt00"
  },
  "0xfeb7b2b06d7d1bc7464994544e035761a668beb9ed851e7f9c9b8229cfcb9d13": {
   "created_at": "2026-11-03T17:39:22.038316Z",

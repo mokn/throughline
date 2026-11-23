@@ -1,4 +1,13 @@
 {
+ "0x00b687771a9e0e70be854e932c0451baf16f8dd91ea26d49da148a886ff3481a": {
+  "created_at": "2026-11-23T02:21:47.999511Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2026 be above $3.40?",
+  "revisions": 1,
+  "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
+  "slug": "h100-average-rental-price-in-december-2026-above-3pt40"
+ },
  "0x013f06c497ac738ed8dff2412b3c4165120393baf8bf1a680615355568bfd71a": {
   "created_at": "2026-05-26T18:53:59.019171Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -521,6 +530,15 @@
   "sha256": "aa3b4b725555f57fa57a2c7520a4c07497c41dc82829bc94a17d380fd4a4761d",
   "slug": "will-guadalajara-chivas-finish-the-2026-27-liga-mx-season-with-the-best-combined-goal-differential-20260722172229843"
  },
+ "0x58d51d6783dd935fd17e3d7f8a658edf39d8b59e1adee861158e24095f070a1a": {
+  "created_at": "2026-11-23T02:21:54.384594Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2026 be above $2.60?",
+  "revisions": 1,
+  "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
+  "slug": "h100-average-rental-price-in-december-2026-above-2pt60"
+ },
  "0x5b1d46c7f29397ca3a713ccdae49131bafdd0ff7f217895c3e7042a72d27ce1a": {
   "created_at": "2025-12-15T23:57:45.828648Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -904,6 +922,15 @@
   "sha256": "0bd4161737f4b7fafbc157bf1e8c126e30c780f854dd3afca5f2ff40e82300d1",
   "slug": "will-brian-mast-be-the-next-confirmed-army-secretary"
  },
+ "0x954bb4be2fdf69e9c4f711d9e80d02b60a6bb1529202dd5daf62c6bfca38b51a": {
+  "created_at": "2026-11-23T16:34:11.473037Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Lorenzo Musetti win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-lorenzo-musetti-win-the-2027-australian-open"
+ },
  "0x97899cbb7b0a521f602b9005b77a8e89c68593cb28f6674b89526bd489999d1a": {
   "created_at": "2026-11-19T20:19:51.656796Z",
   "first_seen": "2026-11-20T15:27:46Z",
@@ -1239,6 +1266,15 @@
   "revisions": 1,
   "sha256": "ed6afa8a002a543b173dcaa43be09024dcbd69cc6626b69a7d767032451943de",
   "slug": "will-cristiano-ronaldo-join-the-qatar-stars-league-next"
+ },
+ "0xd5154ec5782b392ff64881702d1db21208293aea3639e21b91ff8438661db61a": {
+  "created_at": "2026-11-23T16:32:47.673679Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will G2 reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-g2-reach-the-grand-final-at-pgl-major-singapore-2026"
  },
  "0xd73889c352c93db4126ace477d5c71ad811bb38f20747e10639940ab88ee0f1a": {
   "created_at": "2026-09-30T20:03:14.476677Z",

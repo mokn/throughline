@@ -469,6 +469,15 @@
   "sha256": "8fa4cacefc2f6e670fc1176ec4292908507e6fbd04365c84a16bde5b2ccd6314",
   "slug": "will-ranheim-be-promoted-to-norway-eliteserien-2026"
  },
+ "0x4ee59475775783108d2af7e8a64f550b9c7a77c0122fe2c8a36f47dc444bd753": {
+  "created_at": "2026-11-23T16:32:46.263741Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Nemiga reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-nemiga-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
  "0x5023397754fdd487b957e203cf55f8ba7cc412a096b6b9d110933e20753c2053": {
   "created_at": "2026-01-28T15:28:21.760092Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -923,6 +932,15 @@
   "sha256": "c210bb888d2984f49f7efac1d68a6d0bd43afa6203c5eddbf2cd66c0a11307ed",
   "slug": "polish-plk-2027-champion-stal-ostrow-wielkopolski"
  },
+ "0x935c27ac5a7d1f74ca660417abfae40d6f2e4cd36f661889614f96053ab00653": {
+  "created_at": "2026-11-23T16:50:35.576522Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will SunPayus have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-sunpayus-have-the-most-awp-kills-at-pgl-major-singapore-2026"
+ },
  "0x951eb5d48b026266bcb562395a5b10cd2f182074c18daf85602273892738f853": {
   "created_at": "2026-09-13T08:15:52.656084Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1285,6 +1303,7 @@
   "created_at": "2026-11-14T22:34:57.870547Z",
   "first_seen": "2026-11-15T13:56:47Z",
   "last_changed": "2026-11-15T13:56:47Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Jensen Huang rejoins NVIDIA before divorce?",
   "revisions": 1,
   "sha256": "da1eaf6973994fe3478eecfc11d5c2056806a5f948ef5d41f0771b012f624f64",

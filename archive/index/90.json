@@ -585,6 +585,15 @@
   "sha256": "40f07e1112dc500af8e80c14d4150285bb168268f2728b0b0fe73b67ab281855",
   "slug": "scop-ran-abe-2026-10-31-ran"
  },
+ "0x5a749d242ae7b550d9999b81876c32a92c56af9bbefd257eaf818b743e125690": {
+  "created_at": "2026-11-23T18:11:28.635771Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Bin's Worlds 2026 skin be Olaf?",
+  "revisions": 1,
+  "sha256": "e21392917c009825ea9c8527206441950b5c22a2ed3c53f26ef5b6e5d25ea28c",
+  "slug": "will-bins-worlds-2026-skin-be-olaf"
+ },
  "0x5f0de3842c840d3ccf9066ea65a073e7f77abdf8610627c308562e32d695ce90": {
   "created_at": "2026-08-26T08:44:17.702305Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -727,6 +736,7 @@
   "created_at": "2026-09-23T14:07:37.32314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Vladislav Kondratovi\u010d win the 2026 Northern Nal\u0161ia district by-election?",
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
@@ -1176,6 +1186,15 @@
   "revisions": 1,
   "sha256": "dd9b31c4f503a91d46498d92df588e86e1d688ed985b0bc73c28baa756ff7dc9",
   "slug": "jayden-daniels-27pt5-passing-touchdowns-2026-27"
+ },
+ "0xcb44354c8fc96b09375cf8b96cb8f9551edb54250bf1c1a8d639ff884bb64a90": {
+  "created_at": "2026-11-23T03:01:10.257834Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $14.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-14pt00"
  },
  "0xce09295b152bd6dfe771c1d334cc80a44515d2c4f99494390e77473444f9e390": {
   "created_at": "2026-11-13T00:31:02.528615Z",

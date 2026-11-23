@@ -157,6 +157,15 @@
   "sha256": "8e4acbde024ee91cde4ee466b9fb66b9a8866e0f49e0bc6530b7c575e67337cd",
   "slug": "will-marved-play-for-kru-esports-in-2027"
  },
+ "0x0fb311cd7702d5a0987a03b43131a9a7e5d067330b85c5481a42331612fb482a": {
+  "created_at": "2026-11-23T16:32:18.26096Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Spirit qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-spirit-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
+ },
  "0x12923582cca8ff08ea1bb23e4e042b80e11fae9974d528d9f19249e5ad131f2a": {
   "created_at": "2025-10-13T19:13:49.990935Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1477,6 +1486,15 @@
   "revisions": 1,
   "sha256": "40e6e904ed69f0b94d8d136fb4922ad0721564306cb9a647dd42ea5a27444d7c",
   "slug": "will-pablo-tellez-reach-the-semifinals-of-the-2027-ppa-tour-finals"
+ },
+ "0xef5f5536aa1053d6046722315563660d649b876ef289970dd02df2375056012a": {
+  "created_at": "2026-11-23T03:01:46.482986Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $8.50?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-8pt50"
  },
  "0xf252288311ec9c1101f5a7018c1e8b57b68c00b167732c0b873e3ab10f4ca42a": {
   "created_at": "2026-08-23T16:45:22.811436Z",

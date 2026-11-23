@@ -701,6 +701,15 @@
   "sha256": "d927b7f10022dc5c817ee902210b9e50e5f4bf862cd7bbe9a8b1dd0d23fd48ef",
   "slug": "will-waymo-launch-in-stpt-louis-mo-by-december-31-2026-20260626203025663"
  },
+ "0x5b7e8ea13004c4ed5f5e8051df9ebef4544df1c6bc47c11534c244acdeb55d76": {
+  "created_at": "2026-11-23T03:05:21.047515Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2028 be above $3.00?",
+  "revisions": 1,
+  "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
+  "slug": "h100-average-rental-price-in-december-2028-above-3pt00"
+ },
  "0x5d81b2d13c98901be39e565e22541cd3e42cd376c171dbfe65da93cbbf22c476": {
   "created_at": "2026-06-25T17:29:04.193171Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1148,6 +1157,15 @@
   "revisions": 1,
   "sha256": "be6363e8230799ccb0ea41d9d27f68c33aa35b04ae5994ee7cdce1b21df06669",
   "slug": "will-francisco-lindor-be-on-the-cover-of-mlb-the-show-27"
+ },
+ "0x9f54d2e01a634abf27f1dc2a1eadd1eb733bc2108ce5c534e259607690e02d76": {
+  "created_at": "2026-11-23T02:59:36.559026Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $13.50?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-13pt50"
  },
  "0xa03925feb62c995cc59c5371c1bb34522d8f87be7419a36da26dc524ce3ee276": {
   "created_at": "2026-11-18T18:50:47.287591Z",

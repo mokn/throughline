@@ -346,6 +346,15 @@
   "sha256": "f896d78b2ea7c7031256806c12b405f55cc8c9ec63aab9c62291fd12eb3457cf",
   "slug": "will-andy-kim-vote-yea-on-the-clarity-act-20260729190926668"
  },
+ "0x2e9ed2b4df638de9808219678a05d86e089d79247c607dc634343b1195b3666a": {
+  "created_at": "2026-11-23T16:32:32.849149Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Eternal Fire qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-eternal-fire-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
+ },
  "0x2f305639d8eacd0893498720ba95184b7b2ffe3b9c05f68e207e6bb003f01f6a": {
   "created_at": "2026-09-22T15:27:02.646455Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -818,6 +827,15 @@
   "sha256": "d73d6797d348ece7cf79d9daf367f0de7d45a7111020f24e961f8491b5289be2",
   "slug": "will-the-democratic-party-win-the-nv-01-house-seat"
  },
+ "0x6f3b779dcb8a7e9aefd25ff9b634f5cb1f509e9359edbc5a79df88a793d4b26a": {
+  "created_at": "2026-11-23T15:58:55.312698Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will RRaenee be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-rraenee-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261123"
+ },
  "0x6f431962a523363a7acff57ce905928ba4d94aefef86ccc84409bd14f2d2216a": {
   "created_at": "2026-09-27T20:04:23.81952Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1279,6 +1297,7 @@
   "created_at": "2026-08-12T00:18:48.232244Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Sacramento Republic FC win the 2026 USL Championship?",
   "revisions": 1,
   "sha256": "17568a1deefe9d080c06e155ce4265ec9436c6c77d7ad392ea2ff0365b2cedad",

@@ -832,6 +832,7 @@
   "created_at": "2026-08-31T18:18:39.886737Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Dagmar \u0160kodov\u00e1 Parmov\u00e1 be the next Mayor of \u010cesk\u00e9 Bud\u011bjovice?",
   "revisions": 1,
   "sha256": "89357269e191b5ad5bc7e0c26a78fb053ed3f587f0b13867e06bbc4aeb0d11b4",
@@ -984,6 +985,15 @@
   "sha256": "2400e1c5d44c3237f08de2f262fc6a769cf628dec7d245eab00f0a9892d48fe8",
   "slug": "will-az-finish-first-in-uel-league-phase"
  },
+ "0x72dde3280f9d7b8df3f4848f26205c1be2ac11f50e716eba1e3cca0140797165": {
+  "created_at": "2026-11-23T03:02:48.990836Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-10pt00"
+ },
  "0x74d50c0ddd3a720054fd3d50199a6fd2fbcd92bc778cd8ca2375fda0c9c19565": {
   "created_at": "2026-08-11T18:42:20.902146Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1120,6 +1130,15 @@
   "sha256": "8bb50e7fce7edcec50a9aebdc55fa9305093f23ce4165d442847bbecc400efd0",
   "slug": "will-sam-darnold-be-the-highest-scoring-qb-of-the-2026-27-nfl-season-20260806224129829"
  },
+ "0x8c1ab168dbf87db731e56db2cb7346ea38f326379f4e626452c1376f3b2cc965": {
+  "created_at": "2026-11-23T03:01:46.046522Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-9pt00"
+ },
  "0x8ddf7d641f94a99c7ec7b2c24ff8edfe64689687074113fa50f40255ff1af465": {
   "created_at": "2026-11-03T17:41:13.232757Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1155,6 +1174,15 @@
   "revisions": 1,
   "sha256": "984d1a87e92551418946ae6fe084505d0fb6d72dbbea4ed0fa71fb5a0647ead3",
   "slug": "will-the-angry-birds-movie-3-score-at-least-60-on-the-rotten-tomatoes-tomatometer-20261228"
+ },
+ "0x942ea7d47bbdfcd43505f06aea047d798bdcb4a8d4f715bb381c6f7567a9ae65": {
+  "created_at": "2026-11-23T03:04:43.572713Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-4pt00"
  },
  "0x945f24cae5ddf9ee0745dbad2c4ab947d9f68324e82cb119c9153273456d0265": {
   "created_at": "2026-10-13T15:51:22.449933Z",
@@ -1926,6 +1954,7 @@
   "created_at": "2026-09-02T21:58:06.645361Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Wake Forest Demon Deacons advance to the 2026 ACC Championship Game?",
   "revisions": 1,
   "sha256": "e4f5335639de7eac5d65af07ba2b61ba0c1733a198d7ef702d46e726bc0ecf6b",

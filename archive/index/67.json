@@ -376,6 +376,15 @@
   "sha256": "ea4a0f0a8528b2e6b537f6195662305aa0ed2e83e0aff7f4d909b3bbdc98afb8",
   "slug": "will-hyperliquid-dip-to-60-by-december-31-2026"
  },
+ "0x33ee3c9ccd9c3892017f50245eb339c955a95ed31e0bde6d6ea07e4f1677fe67": {
+  "created_at": "2026-11-23T16:12:36.354574Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Speeed have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-speeed-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x352c7dbc7c1937cdeea1179945bd596a06f4dc8a320ea88f45737652e887fb67": {
   "created_at": "2026-09-27T20:17:08.240964Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -643,6 +652,15 @@
   "sha256": "7df410fa309971b090b93b3910fcf4e71949a84f636e306dbb91fe09035fd0a6",
   "slug": "will-santiago-castro-win-the-2026-27-serie-a-player-of-the-season-award"
  },
+ "0x5986df0083b2b9abbc155fe2761710885ce30f93ac8861a776e281d5127d9967": {
+  "created_at": "2026-11-23T16:34:07.088982Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Tampa Bay Buccaneers by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-tampa-bay-buccaneers-by-january-11-2027"
+ },
  "0x59c232818d18dc18c01a4b8d9f0e04633fc0b18af23d4ded122d0d8486e2d567": {
   "created_at": "2026-01-06T22:33:25.967013Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -651,6 +669,15 @@
   "revisions": 1,
   "sha256": "f92ad479cd78859755c5a3b07f2e078e6fe8c4caa514e01f135aab0697346905",
   "slug": "spx-close-6500-7000-dec-2026"
+ },
+ "0x5aa2dcba8b3c592b509cc1d2987ee44853290f9fe84267bc668637f200f59267": {
+  "created_at": "2026-11-23T16:34:07.845034Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Jakub Mensik win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-jakub-mensik-win-the-2027-australian-open"
  },
  "0x5b26b79cc5911f6abfc7ebf95e88037235e7114ccdfe30ee8107480db028f367": {
   "created_at": "2026-09-04T19:04:38.658861Z",
@@ -882,6 +909,15 @@
   "sha256": "b8091d5dab7c4933f57aca2bee97f22f26f3f65c316a8cfe520855540cfde126",
   "slug": "2026-soccer-liga-profesional-argentina-winner-atltico-tucumn"
  },
+ "0x7bbb10fc848b4f99c44261c0e7cdaee90919a1cc90934fa73c3dbda45306fa67": {
+  "created_at": "2026-11-23T03:03:22.708588Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $11.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-11pt00"
+ },
  "0x7dd775b7ef0fd828c92a7feecfcd5725965c6415ed54b31b50e9a88a80c36967": {
   "created_at": "2026-09-30T20:03:53.201863Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -959,6 +995,7 @@
   "created_at": "2026-09-14T20:32:43.777953Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will there be 6+ NFL Scorigamis in the 2026-27 regular season?",
   "revisions": 1,
   "sha256": "7f05439af6df9ff9e98ea98370d6d769a61ca97b9ec7a2da977b415cb14314d6",

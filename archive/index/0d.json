@@ -158,6 +158,7 @@
   "created_at": "2026-11-20T19:57:12.810509Z",
   "first_seen": "2026-11-21T14:39:27Z",
   "last_changed": "2026-11-21T14:39:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Alp\u00f6ge's Lean proof of the Riemann Hypothesis pass independent verification by December 31, 2026?",
   "revisions": 1,
   "sha256": "c153e6d91834687741b41d481eac41061f59dd3fefd74364bff0154e21a45348",
@@ -1089,6 +1090,15 @@
   "sha256": "61aed669e4ef76ce73017fd3c4902abbf3140b366e324da069f06e3716ffbee6",
   "slug": "will-levante-lead-laliga-at-the-2026-27-winter-break"
  },
+ "0xb26f6f822a47ccc97b028c532dfe4c2109c05d97611dbf0a5918e34af1bdad0d": {
+  "created_at": "2026-11-23T03:00:23.343889Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in March 2027 be above $15.00?",
+  "revisions": 1,
+  "sha256": "9bd16262a6b3d9633e5288452c43f1fd58aac01c0212846901439c1421d30466",
+  "slug": "b300-average-rental-price-in-march-2027-above-15pt00"
+ },
  "0xb2e0a3302080557331ac08a4338325a39fcd6197be2a7b6af553e9e5ee09680d": {
   "created_at": "2026-09-08T16:56:06.445181Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1247,6 +1257,15 @@
   "revisions": 1,
   "sha256": "5eea11687e5f2ed662e9a000334b968453790e572cd274300cc7db114b452866",
   "slug": "will-inter-milan-finish-9th-24th-in-ucl-league-phase"
+ },
+ "0xc37b9aba714b1729d8ffbf7418bd40f237fe72cbfdaac4b3ccf596ab773c880d": {
+  "created_at": "2026-11-23T16:34:20.533054Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Amanda Anisimova win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-amanda-anisimova-win-the-2027-womens-australian-open"
  },
  "0xc7641adb4ed77fc6566f4d080e68b215086ab0da201a6fac50a0017bb51afc0d": {
   "created_at": "2026-07-20T20:08:33.568576Z",

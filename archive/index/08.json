@@ -301,6 +301,15 @@
   "sha256": "89b27f932bc89033b98545bae6c580b3f4bf58f251f893c0d8eb2ffd346b25d7",
   "slug": "geno-smith-400-passing-yards-game-2026-27"
  },
+ "0x2766cd5d139eb5c8d36e3be03399f0bedcc5221f0fd843793f5f50361dfc8708": {
+  "created_at": "2026-11-23T16:12:54.95611Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will not me have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-not-me-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x27ae03380ac93faeeff5ad732c2f18329de256fbdfbbdd22aba4540166cb9d08": {
   "created_at": "2026-08-07T16:01:50.947558Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -345,6 +354,15 @@
   "revisions": 1,
   "sha256": "a8ca05c74d47af86ea80334d7e726e09a75028adf528ec79e7e34db2ed688e77",
   "slug": "will-burkina-faso-win-afcon-2027"
+ },
+ "0x2d04011bc1fa3ef5042158b72f6c48001da4493a8e52104c08037086be7fd408": {
+  "created_at": "2026-11-23T16:50:31.479136Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will m0NESY have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-m0nesy-have-the-most-awp-kills-at-pgl-major-singapore-2026"
  },
  "0x2e251b826ee22fbdcd007a6b2ff9632abdb0a97c15b711d98fd34cef1a051408": {
   "created_at": "2026-09-08T16:02:58.04109Z",
@@ -711,6 +729,15 @@
   "sha256": "c753c246d0ec7b09d4c8dfb990d31f303ab448ada41afd36a2e7e4dc15bbffc1",
   "slug": "will-poland-be-in-the-top-5-at-eurovision-2027"
  },
+ "0x610193cc1b04c8446bcc8a51224b579801068b21db36e6ea1ae071eb77cf8408": {
+  "created_at": "2026-11-23T03:03:43.892181Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in January 2027 be above $2.40?",
+  "revisions": 1,
+  "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
+  "slug": "h100-average-rental-price-in-january-2027-above-2pt40"
+ },
  "0x62f5f96a0b50e5be808796c59e35cde5932cd8448917ffe8107f2abd0c7c0508": {
   "created_at": "2025-11-04T21:24:15.877017Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -913,6 +940,15 @@
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",
   "slug": "will-bnk-fearx-make-a-roster-change-by-december-20260805205516473"
  },
+ "0x79499b5eb0c094f0dbb7b4592846f7d10ce42e4fc8cf2e3882a841ccfbbc0b08": {
+  "created_at": "2026-11-23T18:11:34.219497Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Knight's Worlds 2026 skin be Orianna?",
+  "revisions": 1,
+  "sha256": "cdb34b31bd2131ee9362a4d52c83982ef8744d52f0d2b36791903337e285146b",
+  "slug": "will-knights-worlds-2026-skin-be-orianna"
+ },
  "0x7a29b253ce66e2a4e81e6ebcd665cda885a9eced4723d3835ff31d1bbd495808": {
   "created_at": "2026-08-11T19:11:00.758338Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1030,6 +1066,15 @@
   "revisions": 1,
   "sha256": "5742d4c50bf4305b8138f5f5275729554e10321f08f2fb455755b094c41d37a4",
   "slug": "will-moonshot-have-the-best-ai-agent-at-the-end-of-december-2026"
+ },
+ "0x81b63eaa5b6c67a76e7728741d2f3cd96d616181bcce05f8f158d0f9a5982d08": {
+  "created_at": "2026-11-23T16:12:43.899423Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Sneyking have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-sneyking-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0x89879a1a340bd442af550363505c9ef800cbf90f10b2d54a8cfad24476c88108": {
   "created_at": "2026-11-03T17:43:36.32627Z",
@@ -1158,6 +1203,15 @@
   "revisions": 1,
   "sha256": "9090ec3ea6a60cdef34839a75e2180a9e67d442a0a3fdf93d8d021a51ece9c6d",
   "slug": "will-basaksehir-finish-3rd-in-super-lig-2026-27"
+ },
+ "0x951ddd68c3a1ba981e2c49b94dc9435ec3e6aa0ca67c1823239a94f893d1d108": {
+  "created_at": "2026-11-23T16:32:46.995126Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will FlyQuest qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-flyquest-qualify-to-stage-3-at-pgl-major-singapore-2026"
  },
  "0x95edb7d7561438c463557b4dcd53663fad16147b9b8eb115388d1793c2011c08": {
   "created_at": "2026-02-18T23:32:37.810112Z",

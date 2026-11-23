@@ -1436,6 +1436,15 @@
   "sha256": "9b74dc5680f8c906c54c4e032c4211e36d4013bcbc4449ad412fff0e0ce6d992",
   "slug": "will-valve-add-first-cs2-operation-by-march-31-2027"
  },
+ "0xe0c7e3d557620f1d8e539c46d93520583f32f87d3ccdcbdb012331f867a8ac03": {
+  "created_at": "2026-11-23T03:02:00.673578Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in February 2027 be above $11.00?",
+  "revisions": 1,
+  "sha256": "9a45dfa71c5302cbb2c92dfeee7a1ace2f5176ff1d86ea706457c55db3c79044",
+  "slug": "b200-average-rental-price-in-february-2027-above-11pt00"
+ },
  "0xe0cf7aac512604ad960ad92b71222ff0215192e563e7d5c897efaa2b1cd44503": {
   "created_at": "2026-09-08T16:05:57.11182Z",
   "first_seen": "2026-11-04T01:55:27Z",

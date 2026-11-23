@@ -892,6 +892,15 @@
   "sha256": "05fedde8f25b1d6153633fc13285a57df5a5aeaac0a6325b8988ae9423ff312c",
   "slug": "will-femi-olaniyi-win-the-2027-lagos-state-gubernatorial-election"
  },
+ "0x87d9f8c5d6493d741a3ef93ab0fc2bb3028f938d4add3afe99da8b6a9bad917c": {
+  "created_at": "2026-11-23T02:59:54.874258Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $12.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-12pt00"
+ },
  "0x895341f63875842f023788721da11b7063743c3a535038c8318a06d90bc2fa7c": {
   "created_at": "2026-08-10T23:57:21.807588Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1180,6 +1189,7 @@
   "created_at": "2026-11-21T15:49:25.542003Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will none of these streamers finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -1746,6 +1756,7 @@
   "created_at": "2026-08-12T17:26:13.777467Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Djurg\u00e5rdens IF be runner-up in the 2026 Allsvenskan (Sweden)?",
   "revisions": 1,
   "sha256": "dc7f01ad57ab4c6b74e2696ace587dfefbb5452f8e415f0a1049e696eec73978",
@@ -1759,6 +1770,15 @@
   "revisions": 1,
   "sha256": "dee7db4ccb37acb3221169f92c04d65bf0e57aeef252370c8028be32049b0565",
   "slug": "will-christine-lagarde-win-the-2027-french-presidential-election"
+ },
+ "0xf298b5c08efd26e4234d7b7a89090db55e074d8dfc9e9091c35524242573737c": {
+  "created_at": "2026-11-23T16:13:05.676342Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Xm have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-xm-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0xf2adcff6e018ed3aa54e63251763b914b6c8d9021df6b05700942c243cd8a27c": {
   "created_at": "2026-09-20T08:47:21.933775Z",

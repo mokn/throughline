@@ -467,6 +467,15 @@
   "sha256": "c4248034b599587338c202a04c30e9f368a17db12fb154ff853036bd36440a74",
   "slug": "will-monaco-finish-3rd-in-ligue-1-2026-27"
  },
+ "0x461a9670e28e9586e56bbdca4d9e52e27da37020b1056846229e28a2d4116e79": {
+  "created_at": "2026-11-23T18:11:40.725043Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Knight's Worlds 2026 skin be Viktor?",
+  "revisions": 1,
+  "sha256": "cdb34b31bd2131ee9362a4d52c83982ef8744d52f0d2b36791903337e285146b",
+  "slug": "will-knights-worlds-2026-skin-be-viktor"
+ },
  "0x479bc9ba85a776ea3e3343282e10ffbb60322f7c272f83fcfc5e8b5c71cf8579": {
   "created_at": "2026-09-18T00:04:57.580785Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -624,6 +633,15 @@
   "revisions": 1,
   "sha256": "f4a6d8d916a927c854b5c9e4ed09f048c8663da857a8ab7211da19b67c92022c",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-08-house-election-by-25-30"
+ },
+ "0x602bf4a63f17aaccf05e62a9884f6abd6f01ca41c4ceb657d34957ed22b00179": {
+  "created_at": "2026-11-23T15:02:00.989896Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Jensen Huang announced resignation or removal again by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "ff390968b8661e02eb81b49637034f2a19acbe2869e71a4afee26d5246b14e72",
+  "slug": "jensen-huang-announced-resignation-or-removal-again-by-december-31-2026"
  },
  "0x61fe37d3b9a63012d72c7002670d72a2dde27208883f00fb0ddd5617b0d80279": {
   "created_at": "2026-08-26T21:46:10.923122Z",
@@ -818,6 +836,15 @@
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
   "slug": "scop-ran-abe-2026-10-31-exact-score-2-5"
+ },
+ "0x88e1d5ad6db792ea81e77ce1320d417eac212e72381052449b95b19221012a79": {
+  "created_at": "2026-11-23T03:04:43.231618Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $4.20?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-4pt20"
  },
  "0x8ccd6a1367d9abe8a01376c70c62519272119a32721b7f0f365160ef1175f479": {
   "created_at": "2026-10-20T06:00:08.114499Z",
@@ -1159,6 +1186,15 @@
   "sha256": "3b0281c0c76df9414164b6230157242f4af8e1ba285f5362dadbb70304983b12",
   "slug": "will-perena-launch-a-token-by-december-31-2027"
  },
+ "0xc0780e8f0e45579e030ed22c27160f2d9a3827cf21d90eefc8bbed5dc04efe79": {
+  "created_at": "2026-11-23T16:12:54.465048Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Batyuk have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-batyuk-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0xc2878a87c3f9173ff44645683a4a767a9ab793c19339109fd113049887435179": {
   "created_at": "2026-08-24T16:32:17.605818Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1299,6 +1335,7 @@
   "created_at": "2026-11-12T22:43:25.955425Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join TSMC next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -1387,6 +1424,15 @@
   "revisions": 1,
   "sha256": "4a90d1c2db75f71506fc1c06af80b3b34de1196dd77e8d2509aaaf525e038ab9",
   "slug": "will-houston-dynamo-fc-win-the-2026-mls-western-conference"
+ },
+ "0xe807338aef538a280a2f8793601319810d4ac8db17a5f981c7f341c939174479": {
+  "created_at": "2026-11-23T03:00:31.434879Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $18.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-18pt00"
  },
  "0xeb48749a5d9bcb4cc36387f36efd02a4c399ac1ec5b0ec4234e829bfed657d79": {
   "created_at": "2026-10-13T19:55:51.60664Z",

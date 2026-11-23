@@ -1310,6 +1310,7 @@
   "created_at": "2026-02-26T15:30:31.823188Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Miami Dolphins win the 2026 AFC East",
   "revisions": 1,
   "sha256": "d596a06194a7e85ea021b48b47f58981a4936cd7b0e7048de783e3daa5336141",
@@ -1478,6 +1479,15 @@
   "sha256": "fc4a8e2e185cf0638db9e5457961dd23d0f718c0690fa2a4eea7f6d50e676db9",
   "slug": "will-obsession-be-the-1-searched-movie-on-google-this-year-20260807202216369"
  },
+ "0xe9191152452218df4786e19346de9a4e452cce747eabf2b16ad62be6af080433": {
+  "created_at": "2026-11-23T18:11:44.681981Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Viper's Worlds 2026 skin be Jhin?",
+  "revisions": 1,
+  "sha256": "7bba0ae25526ac5c1b47a7b80f042ee9bb59843b3ad4714ffea75d8cf1292dae",
+  "slug": "will-vipers-worlds-2026-skin-be-jhin"
+ },
  "0xea69750f89bc158be8f3def82d0649b8016730a160c0c47e8a456cb6eb024b33": {
   "created_at": "2026-10-13T15:56:58.483281Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1601,6 +1611,7 @@
   "created_at": "2026-08-10T23:57:03.328512Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jahmyr Gibbs have 12.5+ rushing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "7aa916d56a05b4579ca93d686ef4d21df12f42366744d6401da5d96079b0dc85",

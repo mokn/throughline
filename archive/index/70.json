@@ -323,6 +323,15 @@
   "sha256": "fa3b2235cb5c5c5966ae39e16eea8e75928a8d8e9066891c3d625d5673516d7e",
   "slug": "will-voter-turnout-in-the-2026-serbian-parliamentary-election-be-70-or-more"
  },
+ "0x2b99d2d393affb0bcea1260167d950da893d9b3034f0e00e809d1d3daab5ad70": {
+  "created_at": "2026-11-23T16:34:12.563902Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Joao Fonseca win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-joao-fonseca-win-the-2027-australian-open"
+ },
  "0x2d29f41332fca9e772cfe9c4c0d2ce5a0193908ef2e5cbe0fe9813e70bc13b70": {
   "created_at": "2026-08-28T05:57:32.284744Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -845,6 +854,7 @@
   "created_at": "2026-08-24T16:40:43.803312Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Nacional Potos\u00ed keep the most clean sheets in the 2026 Bolivia LFPB?",
   "revisions": 1,
   "sha256": "6f1585b8d58c94223de75aaad0e97715aa5bf687e233a045771004dd144ef7c6",
@@ -1519,6 +1529,15 @@
   "revisions": 1,
   "sha256": "b05400ea6c544a8bde4aeeda16d00104d257594b0e06e9fa79e81d3f17ec1f86",
   "slug": "rome-odunze-1000-receiving-yards-2026-27"
+ },
+ "0xeb32add5b5a6fa8727cbecda62a2818729811a13456bd2359b65aa6d7f2bb670": {
+  "created_at": "2026-11-23T16:32:40.574222Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Spirit reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-spirit-reach-the-grand-final-at-pgl-major-singapore-2026"
  },
  "0xebcc5d191d000ef438ea99ca1be35e8540ca1e4475f8d18c5bb83b4ca1781270": {
   "created_at": "2026-09-08T17:02:48.17588Z",

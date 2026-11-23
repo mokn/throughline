@@ -17,6 +17,15 @@
   "sha256": "d14c95ef1e2cdb0abab7d4aff95a83268cc792d7075fcdf6481ad4e6cad17a3c",
   "slug": "will-azerbaijan-join-the-abraham-accords-before-2027"
  },
+ "0x01b773ad75711b24d94c5240833300de366f0b966b3c332127371a7ad10ed2d9": {
+  "created_at": "2026-11-23T02:59:53.56481Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $16.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-16pt00"
+ },
  "0x02c0fc50cf5cd5e301122974c8e8b1a1706a0f1820fb36d88f5447d809b305d9": {
   "created_at": "2026-08-28T19:39:44.433753Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -347,6 +356,15 @@
   "revisions": 1,
   "sha256": "6fea68a41ccb41f127cd507746441848fac76fd93c417d8cf7b3a55d2316a957",
   "slug": "will-minimax-be-the-second-best-chinese-ai-company-at-the-end-of-december-2026"
+ },
+ "0x2d2256fefdaebf9e3b3b09a912e3fb8e19eeec047f8663ec625330b6e03d3cd9": {
+  "created_at": "2026-11-23T03:00:32.422803Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $16.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-16pt00"
  },
  "0x2e8d801f3c9ad5c21310a97b36df89bcd91c88bcf7ccba6032ccbc7511d51dd9": {
   "created_at": "2026-10-13T15:49:22.659016Z",
@@ -1664,6 +1682,7 @@
   "created_at": "2026-11-21T15:49:21.899834Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will IlloJuan be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",

@@ -216,6 +216,7 @@
   "created_at": "2026-11-21T15:49:21.026502Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will DjMaRiiO be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -406,6 +407,15 @@
   "revisions": 1,
   "sha256": "d784690074a47bbf487a57b05a115a8ac22373a63e6982a4b72a24cd204f08e3",
   "slug": "will-the-ornn-rtx-5090-index-be-less-than-0pt55-on-november-30-2026"
+ },
+ "0x34f5934f8ef61f0464e88585be489445909545e064185bc0c3360a1c7dea8b11": {
+  "created_at": "2026-11-23T03:00:54.416482Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $13.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-13pt00"
  },
  "0x357ee5e692658d4dae5b7fe59bae12cef029f2ebffb5452f4d439a1934d84211": {
   "created_at": "2026-05-11T16:14:07.160514Z",
@@ -913,6 +923,15 @@
   "revisions": 1,
   "sha256": "b2ab5adee4a9156bf897e7a8f31c2b8772864a4bb7c565f2f5ca686e20c6531a",
   "slug": "will-pri-win-the-most-seats-in-the-2027-sinaloa-congress-election"
+ },
+ "0x82902f74a96a57693b7f329aba2af3f2c0e4f2e20f85b3a2ee4b9b4a9cded811": {
+  "created_at": "2026-11-23T16:32:34.821854Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will THE ONE (1win) qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-the-one-1win-qualify-to-stage-3-at-pgl-major-singapore-2026"
  },
  "0x8373279afcc0baaded24c89641005e925b753094331b5b112a9f0435b0551f11": {
   "created_at": "2026-10-20T06:00:13.085794Z",
@@ -1637,6 +1656,15 @@
   "revisions": 1,
   "sha256": "c331b78b376af1e407a91c87cdd28e6199bad8ba13f9c4d2bdb93c2749b80ed7",
   "slug": "will-the-republican-party-candidate-win-the-2026-ok-02-house-election-by-60-or-more"
+ },
+ "0xf2efe5c7267da8608efba14562cf09a4f7767aba78a03a2c3ea12a50e93a2711": {
+  "created_at": "2026-11-23T18:11:56.641003Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Viper's Worlds 2026 skin be Taliyah?",
+  "revisions": 1,
+  "sha256": "7bba0ae25526ac5c1b47a7b80f042ee9bb59843b3ad4714ffea75d8cf1292dae",
+  "slug": "will-vipers-worlds-2026-skin-be-taliyah"
  },
  "0xf33785b8395b26a1c4d2e2a120ad6fa07b033468aafe60de24297c2f88f71611": {
   "created_at": "2026-09-27T20:04:25.992452Z",

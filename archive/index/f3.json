@@ -8,6 +8,15 @@
   "sha256": "1c8593f0df96e157aa7652dacc4de1c2c35595989707cbe8d1904327d19361d4",
   "slug": "will-club-america-win-the-2027-concacaf-champions-cup"
  },
+ "0x05f833290eabae49d925d94b7827809a527b2e4d8fbc5bd7063c98cb3e9613f3": {
+  "created_at": "2026-11-23T03:04:26.915883Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $3.80?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-3pt80"
+ },
  "0x0715d2e9d4976053b6b2dea8e7272b842ac88586f640080dbf10c565ce5b4ff3": {
   "created_at": "2026-08-11T18:49:50.669626Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1044,6 +1053,15 @@
   "sha256": "2ffca77b8fab5ff42efce4c008e82b4df6160755692b30e3199ffd86d87e20fd",
   "slug": "will-the-odyssey-win-best-makeup-and-hairstyling-at-the-99th-academy-awards-20260805190946924"
  },
+ "0x861db74c15bc8d1b394bca6d283c03c0b7302cef24c2363a73616a715d9e42f3": {
+  "created_at": "2026-11-23T03:01:44.021665Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $11.50?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-11pt50"
+ },
  "0x873faf90e724149c5481aabab7217ed6e12cd34b7a353309675601fac7e682f3": {
   "created_at": "2026-07-24T01:47:43.856533Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1267,6 +1285,7 @@
   "created_at": "2026-08-25T21:06:47.269777Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Buffalo Bills have more than 8.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",

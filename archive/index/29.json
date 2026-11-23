@@ -1104,6 +1104,15 @@
   "sha256": "0e371585787e2597b8903abfbbc1e6b1656eb9095a83b9967ced59d4949ba58b",
   "slug": "will-astrid-alejandra-ortega-vazquez-win-the-2027-queretaro-governor-election-20260803173855627"
  },
+ "0xa8c94a9acc78cb308e622c650cb7287165a83ee34e18072d7a54ce1608224a29": {
+  "created_at": "2026-11-23T03:01:27.860977Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $10.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-10pt00"
+ },
  "0xabcc6d45cfa285d9791c7d9aa0fe607cdce96296c16fc8f5fb8fd32b47a77d29": {
   "created_at": "2026-08-21T17:31:56.945174Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1442,6 +1451,15 @@
   "revisions": 1,
   "sha256": "8dbac0416febdc32cbefbf940d06a60944ec16d17e9f0f5ac559688968ec582c",
   "slug": "will-bitcoin-dip-to-10000-by-december-31-2026-888-644-567-258-946-853-325-494-356-991"
+ },
+ "0xd8adb92ddbc6ae60c4f079a0abdbb19503670c5e178da676a8b5af92c1294229": {
+  "created_at": "2026-11-23T03:01:26.023153Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $14.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-14pt00"
  },
  "0xdc3a927c589c260780e48158d72d9abdf7ab071dd055a4a555b9232497117529": {
   "created_at": "2026-08-10T23:57:51.048264Z",

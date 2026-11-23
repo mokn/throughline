@@ -1514,6 +1514,7 @@
   "created_at": "2026-09-14T20:32:53.276038Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Scorigami in Week 11 of the 2026-27 NFL season?",
   "revisions": 1,
   "sha256": "9d60a03adab43892a2abde920587e0654b6723202a9c530b4efb89755c75a8a9",
@@ -1600,6 +1601,15 @@
   "revisions": 1,
   "sha256": "8a60270566909ae74966f84626a845c8ffece3e81fb37f1c78845baf510e8a03",
   "slug": "will-toulouse-finish-16th-in-ligue-1-2026-27"
+ },
+ "0xd8002e02e2e0595440ac63724263ac761abc8704c6102832381fbd31671c8d2e": {
+  "created_at": "2026-11-23T16:13:04.108948Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Kidaro have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-kidaro-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0xda7c28c59d2b7e8eb20eaec4793c130d6b35b474018cd728d7438c921de17c2e": {
   "created_at": "2026-09-13T08:45:35.107879Z",

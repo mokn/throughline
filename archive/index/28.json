@@ -210,6 +210,15 @@
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-noah-dobson-record-80-points-in-the-2026-27-regular-season"
  },
+ "0x277d708ed19d6c1e8c8eba109c8782966a54a53ce455a7d2160a84e4b6da1628": {
+  "created_at": "2026-11-23T03:03:42.87982Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in January 2027 be above $2.60?",
+  "revisions": 1,
+  "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
+  "slug": "h100-average-rental-price-in-january-2027-above-2pt60"
+ },
  "0x2925b54134e0349e7346fd2dc5ba5ae05385ebf90f69b01a331a303ec7417628": {
   "created_at": "2026-08-06T08:38:02.745019Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -719,6 +728,15 @@
   "revisions": 1,
   "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
   "slug": "will-mixtape-win-best-independent-game-at-the-2026-game-awards-1785857780320"
+ },
+ "0x7e62974d299be606e7bb75e4d4b830618111b097ab8f5cd0d42c98922e9abd28": {
+  "created_at": "2026-11-23T02:59:37.539488Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $12.00?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-12pt00"
  },
  "0x7e84967314bad94cf422139eeab94163c8337d61884ac515fb8c0864866e3a28": {
   "created_at": "2026-11-18T18:17:25.722291Z",

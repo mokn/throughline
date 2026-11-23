@@ -722,6 +722,15 @@
   "sha256": "689d92626844669bee5cc69b18caf96ad7a6599f11e03b61e62c19e7023c530f",
   "slug": "cdr-red-bar-2026-10-28-team-total-home-2pt5"
  },
+ "0x691b1905f6b2b7d461f777533880a1ed2f99a745ef4e686c2b54082ab862f6bf": {
+  "created_at": "2026-11-23T03:02:02.752438Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in February 2027 be above $8.50?",
+  "revisions": 1,
+  "sha256": "9a45dfa71c5302cbb2c92dfeee7a1ace2f5176ff1d86ea706457c55db3c79044",
+  "slug": "b200-average-rental-price-in-february-2027-above-8pt50"
+ },
  "0x6a063e27abbd4ede034912d70c16f6810c41c5cca6e50032a5f5399a33e976bf": {
   "created_at": "2026-10-30T01:18:38.920558Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1268,6 +1277,15 @@
   "sha256": "0c14d8e9c6ffc2940ab6a14ba7b02ff002d4514375a6624c8b1113674fc3e531",
   "slug": "nba-teams-30-plus-wins-2026-27-washington-wizards"
  },
+ "0xbc1f7ab218a8ae81c2b12265ef96911daf16c594626b4e9ba9f257137ed5a1bf": {
+  "created_at": "2026-11-23T16:32:40.420139Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will FlyQuest qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-flyquest-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
+ },
  "0xbd710c7677c4f2597b543b2f0b8e80d3cd397525af75dfa09adf04519e0fb5bf": {
   "created_at": "2026-10-13T19:55:51.335186Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1326,6 +1344,7 @@
   "created_at": "2026-10-08T00:13:33.681391Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" score at least 60 on the Rotten Tomatoes Tomatometer?",
   "revisions": 1,
   "sha256": "00b8434d735a2c0e9498c91cab6ad66e57f83f497f5714fb4f5f13bbb4105a10",
@@ -1444,6 +1463,7 @@
   "created_at": "2026-09-23T14:07:39.680676Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Giedrius Dainys win the 2026 Northern Nal\u0161ia district by-election?",
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
@@ -1676,6 +1696,7 @@
   "created_at": "2026-11-12T22:43:34.89848Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join NVIDIA next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",

@@ -3,6 +3,7 @@
   "created_at": "2026-09-04T20:19:43.246628Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the San Francisco 49ers finish the 2026-27 NFL regular season with the worst record?",
   "revisions": 1,
   "sha256": "502e1a2f146e176becb6a8cbba137f5ec11c20d65ad4a9a627e2e19081701da9",
@@ -248,6 +249,15 @@
   "revisions": 1,
   "sha256": "e4cd216b38b12696fee8e4625b3588e017877caa53b0ca75c604bf4bb605118e",
   "slug": "will-marvin-harrison-jrpt-win-the-2026-nfl-offensive-player-of-the-year-award-for-the-2026-27-nfl-season-20260716005216328"
+ },
+ "0x23a037c97a6432ecf67ddc2afa2d364e467f7e0aea36d3e71c2f44de197c6efe": {
+  "created_at": "2026-11-23T03:04:43.909597Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $3.80?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-3pt80"
  },
  "0x244b7c8f219948a898bc08a21ceca051ec381c4e67ff7e361c5b98edf3ca5bfe": {
   "created_at": "2026-07-08T21:29:05.911891Z",
@@ -568,6 +578,7 @@
   "created_at": "2026-09-23T14:07:40.372869Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Dalia \u0160traupait\u0117 win the 2026 Northern Nal\u0161ia district by-election?",
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
@@ -654,6 +665,15 @@
   "sha256": "a62152acda07d72e2b0817de093f32845fb1a09298ddeed94fc2fc8f2bda126e",
   "slug": "will-detroit-pistons-receive-the-first-overall-pick-at-the-2027-nba-draft-lottery"
  },
+ "0x659059f7e6a6d71c7110dab790f2ae8699ce28278bb419e31749b9e19c196efe": {
+  "created_at": "2026-11-23T03:03:22.30323Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $12.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-12pt00"
+ },
  "0x689ccada472592800ff03529230d7c14d0973c4620a40af69d03a199f2da67fe": {
   "created_at": "2026-10-25T10:15:19.647748Z",
   "first_seen": "2026-11-05T14:39:41Z",
@@ -726,6 +746,15 @@
   "revisions": 1,
   "sha256": "18c425994c6fcaf862c271f1828d8137c6f497258bef9247cebf1735ea903188",
   "slug": "nba-2026-27-apg-leader-jayson-tatum"
+ },
+ "0x770151cb17598659525b80ae8297ae9fa4b06720b8c160ccd64415121635b7fe": {
+  "created_at": "2026-11-23T03:03:56.967593Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in February 2027 be above $2.40?",
+  "revisions": 1,
+  "sha256": "fc964d78ede79e8203518ae6f98e4304b64181980325050efbb91233717a00a0",
+  "slug": "h100-average-rental-price-in-february-2027-above-2pt40"
  },
  "0x78890e331a287f7594bbca7dba09081126cba0288cfdeef2f0e6d999a6872cfe": {
   "created_at": "2026-01-29T17:02:21.931057Z",
@@ -1634,6 +1663,15 @@
   "revisions": 1,
   "sha256": "2a98b935a343d21a18d64f39baf52c861dff3b1e1d8f7b7ee99f3f38217e73a5",
   "slug": "will-at-least-10-ships-transit-the-strait-of-hormuz-on-any-day-by-october-31-2026"
+ },
+ "0xf00e6916fe5673c6738749ae48f96e0983de6a2bd9fc4258770ce671924c66fe": {
+  "created_at": "2026-11-23T16:13:07.562773Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will XinQ have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-xinq-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0xf2f8fe98ed981d087711861d69e68ec9161263e48ab8dfeda27c9ca8f0a52cfe": {
   "created_at": "2025-12-15T23:23:33.135378Z",

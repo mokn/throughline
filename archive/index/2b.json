@@ -953,6 +953,7 @@
   "created_at": "2026-11-21T15:49:25.101768Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will xQc be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -984,6 +985,15 @@
   "revisions": 1,
   "sha256": "b3706285f794baf06998414eb00dcfaf2c6b26854812a12db97d56d655353248",
   "slug": "will-erling-haaland-be-the-2-searched-person-on-google-this-year-20260914"
+ },
+ "0x838539c66463bea50b6f7a1ba6244cf61fce299f8fec54ed5fa15eb5825d7f2b": {
+  "created_at": "2026-11-23T18:11:27.732972Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Bin's Worlds 2026 skin be Jax?",
+  "revisions": 1,
+  "sha256": "e21392917c009825ea9c8527206441950b5c22a2ed3c53f26ef5b6e5d25ea28c",
+  "slug": "will-bins-worlds-2026-skin-be-jax"
  },
  "0x888a55163fff73cb438f021364480062ed29f4b1b7aae712548bdcdc978fab2b": {
   "created_at": "2025-12-30T20:33:55.551313Z",
@@ -1481,6 +1491,15 @@
   "revisions": 1,
   "sha256": "e61da17b033ffcd189b17db77cb78b0ec672570c86f9ad6a50f209f30abdbebd",
   "slug": "will-ceedee-lamb-finish-the-2026-27-nfl-regular-season-with-the-most-scrimmage-touchdowns-20260715212820967"
+ },
+ "0xce98ea79827ce94c3513eefbd8423e3221922a44b41ce71b59591b80348a7d2b": {
+  "created_at": "2026-11-23T16:34:03.855046Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Frances Tiafoe win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-frances-tiafoe-win-the-2027-australian-open"
  },
  "0xd234fc658bc22f3cb9b4b07b8055c077928674e9ec83caa85174774ea8a9582b": {
   "created_at": "2026-08-28T20:50:16.477214Z",

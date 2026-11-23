@@ -1,0 +1,11 @@
+This market will resolve to "Yes" if the average Ornn H100 index value in December 2027 is above the specified price. Otherwise, this market will resolve to "No".
+
+The average Ornn H100 index value in December 2027 is the arithmetic mean of the finalized daily settled values of the Ornn OCPI-H100 index dated within December 2027, as published by Ornn, rounded to the nearest cent. A daily settled value is considered finalized once the following day's settled value is published. Revisions made after a value has been finalized will not be considered.
+
+The resolution source for this market is Ornn (data.ornn.com), specifically the Ornn Compute Price Index for the H100 (OCPI-H100), currently displayed at https://data.ornn.com/markets/h100-sxm.
+
+In the case that the Resolution Source publishes data, sufficient to settle a Market, that is clearly erroneous and the result of technical or operational error, or of unauthorized interference with the Resolution Source or its data, the Market may remain open for a period of up to seven (7) calendar days (ET) from the time of the expected original release, in anticipation of a correction by the Resolution Source. If the Resolution Source publishes a corrected value within that period, that value will be eligible for resolution.
+
+If any value for December 2027 is not finalized by 11:59 PM ET on the 7th calendar day after December 2027 ends, this market will resolve using the finalized values available at that time.
+
+If Ornn discontinues the OCPI-H100 index, the page becomes unavailable, or Ornn materially changes the index methodology or unit of measure, and as a result no finalized OCPI-H100 values dated within December 2027 are available by 11:59 PM ET on January 7, 2028, another credible source of H100 rental price data will be considered. If no such source is available, this market will resolve 50-50.

@@ -133,6 +133,7 @@
   "created_at": "2026-11-12T22:43:33.228366Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join Oracle next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -511,6 +512,15 @@
   "revisions": 1,
   "sha256": "33a9fe47909e1a49de183427e46b4b198fc2f21065d962a1f9943ec2278f35a3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-va-04-house-election-by-30-35"
+ },
+ "0x4cae60742ebb8dbbe83b204cbaa1280af302060605929db217f9d92fa22c6d0c": {
+  "created_at": "2026-11-23T16:13:10.529732Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Jabz have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-jabz-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0x4d4efa6557ab60c1f1e36655f55bbdf5d34b401d12178b78afd9210b9a5e8b0c": {
   "created_at": "2026-08-26T21:46:08.69193Z",
@@ -1464,6 +1474,15 @@
   "revisions": 1,
   "sha256": "77e8a0dd6ddefc83c1bc23c44004ce5238970edc348cbdc0688e7b4723b4994c",
   "slug": "will-the-republican-party-win-the-fl-24-house-seat"
+ },
+ "0xee7b5306eb26cf005f0ae30e46ed00af14bf9c0c75b2551ec3c7ce5090043b0c": {
+  "created_at": "2026-11-23T03:02:01.121251Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in February 2027 be above $10.50?",
+  "revisions": 1,
+  "sha256": "9a45dfa71c5302cbb2c92dfeee7a1ace2f5176ff1d86ea706457c55db3c79044",
+  "slug": "b200-average-rental-price-in-february-2027-above-10pt50"
  },
  "0xf0873df69747ddefa90900b00bef3b39ec0de0034dc8d2c6cfa0f526af8ca40c": {
   "created_at": "2026-10-25T04:00:27.018046Z",

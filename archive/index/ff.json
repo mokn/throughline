@@ -17,6 +17,15 @@
   "sha256": "8fb4b4ab1a19b11f3670cbb4fb850caa1a67e918efc233825c645f7ceb72105f",
   "slug": "el1-bra-bar-2026-09-26-spread-away-2pt5"
  },
+ "0x016a1646678be0ac0935c22c48e14ae7377c9c711ce4d9b74f332833c72965ff": {
+  "created_at": "2026-11-23T16:32:48.87453Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will The MongolZ reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-the-mongolz-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
  "0x02b8c2d033b82be6b3fd6007016777dd4928fd166585a27d82dd5efca0767fff": {
   "created_at": "2026-10-13T20:02:46.028019Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -255,6 +264,15 @@
   "revisions": 1,
   "sha256": "eadf380f4059f434d37808330411966c87c49a60a5d1f8326903af4c9b8e92f3",
   "slug": "linera-listed-on-coinbase-within-30-days-of-tge"
+ },
+ "0x27a0394e8137e09c555f08668c2ec66ecac806bb3c1f9e5bcdef2dfdc65b4dff": {
+  "created_at": "2026-11-23T03:01:45.264512Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-10pt00"
  },
  "0x29d95bc55ce17c89feb2a79fad87b9ab3dcf93785b1d5ee72903152700210cff": {
   "created_at": "2026-10-13T15:49:46.819117Z",
@@ -739,6 +757,15 @@
   "sha256": "6b8b0cc857633ac061a3843541f2f5bd9dec84874eb3992c3a5114ecdbbd6dd0",
   "slug": "garrett-wilson-999pt5-receiving-yards-2026-27"
  },
+ "0x7b88c25f131215371ac69d0ac12acf2b1d7cf76f44b1f2f8bd4c47c4dbab0fff": {
+  "created_at": "2026-11-23T03:05:23.584421Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2028 be above $1.50?",
+  "revisions": 1,
+  "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
+  "slug": "h100-average-rental-price-in-december-2028-above-1pt50"
+ },
  "0x7c9a552a19bdbe7287c66bb5c2cedfe62e1949ccff648c286e078cbbd398ffff": {
   "created_at": "2026-03-25T22:06:56.253657Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -867,6 +894,15 @@
   "sha256": "bdea42cb943066ae8e7d6c2aafb9122e527dfcc6cbeaad435211f4d831eeae71",
   "slug": "will-usdbrl-hit-6pt75-high-in-2026"
  },
+ "0x8a6307c6466a069277423edbb5198345f078520b23e8399939da5e935ba871ff": {
+  "created_at": "2026-11-23T16:32:43.097199Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Falcons reach the Grand Final at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
+  "slug": "will-falcons-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
  "0x8cefd8a56d03ce1f41f029c3702e48b10aab99f3c2385b4de01b0bd5e634b0ff": {
   "created_at": "2026-09-29T15:58:03.852646Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -962,6 +998,7 @@
   "created_at": "2026-08-25T21:38:52.164855Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Tennessee Titans have more than 8.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",

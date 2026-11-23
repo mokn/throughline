@@ -749,6 +749,15 @@
   "sha256": "016fcccb97eb912e5612ccc01292e4b6f1901695b310e8b49e073faf64123571",
   "slug": "f1-brazilian-grand-prix-practice-2-fastest-lap-lando-norris-2026-11-06"
  },
+ "0x6d9f5b3171293fea2f50cc1e2737733c4d5d3fde9800fef723d1bf9f9587678d": {
+  "created_at": "2026-11-23T16:32:36.670366Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Wildcard qualify to the Playoffs at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
+  "slug": "will-wildcard-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
+ },
  "0x6e1fe2b560047747196d7942cd7b1b429c9a251366038f5589666d2f11843a8d": {
   "created_at": "2026-08-11T17:53:54.038991Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1178,6 +1187,15 @@
   "revisions": 1,
   "sha256": "ac615450af2a8d24cf136f669a237b47205d59012876c1a1dce66cc665eb5647",
   "slug": "will-your-god-is-sleeping-from-behemoth-be-nominated-for-best-original-song-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xb85113fb31cb736e73eaa9a86702e86a5d49505bab72012f0ee774f734c0df8d": {
+  "created_at": "2026-11-23T16:34:15.092312Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Maja Chwali\u0144ska win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-maja-chwalinska-win-the-2027-womens-australian-open"
  },
  "0xb90b30c5476273a315a6fc5e5150558a717320738ac1e553fef34c30109f4d8d": {
   "created_at": "2026-09-09T15:41:27.260978Z",

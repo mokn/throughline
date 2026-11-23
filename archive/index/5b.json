@@ -366,6 +366,15 @@
   "sha256": "e400e6bc73524c31d4c453bc4138590a03cde8a234342415c6f55e6d723201ff",
   "slug": "will-brandon-johnson-win-the-2027-chicago-mayoral-election"
  },
+ "0x40f491a479f8a4c4011aa5aaa21dd82e9b6a004eda8b1a7ee24b32d4ce43875b": {
+  "created_at": "2026-11-23T02:59:55.213234Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $11.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-11pt00"
+ },
  "0x43a6e300a999cc89735a3b9ceca01076759b3534e012b9386cf152c64921935b": {
   "created_at": "2026-09-04T19:28:55.564699Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -702,6 +711,15 @@
   "revisions": 1,
   "sha256": "9b182bb4c775a6602982c0b03c2a2cd679783ac3966f5fa812f4abd466d4d2ac",
   "slug": "will-pp-win-the-third-most-seats-in-the-2026-spanish-general-election"
+ },
+ "0x6d2307aa9176375bdde4ea7bf0cc0b9a5d37dc834595b357a7f0829b3e6d3b5b": {
+  "created_at": "2026-11-23T18:11:37.792243Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Knight's Worlds 2026 skin be Locke?",
+  "revisions": 1,
+  "sha256": "cdb34b31bd2131ee9362a4d52c83982ef8744d52f0d2b36791903337e285146b",
+  "slug": "will-knights-worlds-2026-skin-be-locke"
  },
  "0x700953ce7312190111c2f3f1ae605aff21c94b4fcf4cc66c3dc6f777d4ae6d5b": {
   "created_at": "2026-08-10T15:02:37.756879Z",

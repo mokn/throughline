@@ -209,6 +209,15 @@
   "sha256": "1e8955d996d11bd6528a129a1e19773f989b021a9db11f740a4e4a273142ca8f",
   "slug": "will-parris-todd-reach-the-semifinals-of-the-2027-ppa-tour-finals"
  },
+ "0x1aaed9f2188b5dd54851ebdf4979918559b1b41d4aaec551b930765cdeefcbd7": {
+  "created_at": "2026-11-23T16:12:25.75217Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will any player go Beyond Godlike at the BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "5c4f8a0b88bb2cda69a029782be2b1663bcd132210aa5a3930f8b9d8f1e97176",
+  "slug": "will-any-player-go-beyond-godlike-at-the-blast-slam-ix-playoffs"
+ },
  "0x1b6a768d6119055d082db70f90cb61acc6a690dfa887c7318186938599a837d7": {
   "created_at": "2026-08-24T16:35:18.584411Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -619,6 +628,15 @@
   "revisions": 1,
   "sha256": "effc1a214676c4b5f64d1e3523470016c5a82e5ac5bf91b1ebe6ce7f3b74616a",
   "slug": "will-the-republican-party-candidate-win-the-2026-sc-01-house-election-by-9-12"
+ },
+ "0x56cae106f3dd9e9d907703cc0362a356bd094f745eff6e4109d544e3f8b4e3d7": {
+  "created_at": "2026-11-23T18:11:41.629967Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Xun's Worlds 2026 skin be Naafiri?",
+  "revisions": 1,
+  "sha256": "20ef533063c8e078b2a0e008f8ef49ad3052669fbc1ff8c7ad9f54edfba362dd",
+  "slug": "will-xuns-worlds-2026-skin-be-naafiri"
  },
  "0x56edc6fefb6e8f5e806ae0d3e77f9bcd6e3a9fbbc06d79aea7edf1514663ced7": {
   "created_at": "2026-08-10T15:02:44.183285Z",
@@ -1150,6 +1168,15 @@
   "sha256": "1db8e8758a2be45a744f208931eded1a6775b4b98a18c59879047fe61952faee",
   "slug": "will-the-republican-party-candidate-win-the-2026-texas-gubernatorial-election-by-9-12"
  },
+ "0xa6edf46aad3023c3b440208d9760c4f253510c89cb63ed5a033570ddb7f663d7": {
+  "created_at": "2026-11-23T03:04:13.208753Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $2.60?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-2pt60"
+ },
  "0xa77bd61969076c16382f207d22a5d9c2e459b568b93defc6cad9e4f8657d99d7": {
   "created_at": "2026-11-03T17:40:49.569181Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1322,10 +1349,20 @@
   "sha256": "387206e7e6a25e2e9009b8841ebedbcda0429536c43be7cef3ac8e8bc825eaeb",
   "slug": "josh-downs-574pt5-receiving-yards-2026-27"
  },
+ "0xbab1d50ef4d1afed917d14666b55ffc4040a5a8effdc6c28be828baf20f173d7": {
+  "created_at": "2026-11-23T03:02:17.300558Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in March 2027 be above $11.50?",
+  "revisions": 1,
+  "sha256": "215983e1bd4d26eb976dcbdf6bc50abac6e2ec96a0c1b6b8d1af4d1a7aa5157f",
+  "slug": "b200-average-rental-price-in-march-2027-above-11pt50"
+ },
  "0xbab307d3a1c36e5b475e60ba91e478d6eea41c7eb340688dc824f24990050ad7": {
   "created_at": "2026-08-31T18:18:40.373861Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jan Tepl\u00fd be the next Mayor of \u010cesk\u00e9 Bud\u011bjovice?",
   "revisions": 1,
   "sha256": "89357269e191b5ad5bc7e0c26a78fb053ed3f587f0b13867e06bbc4aeb0d11b4",
@@ -1602,10 +1639,20 @@
   "created_at": "2026-08-12T16:52:18.595262Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Elizabeth M\u00f3nica Nieto \u00c1lvarez win the next Cusco mayoral elections?",
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
   "slug": "will-elizabeth-monica-nieto-alvarez-win-the-next-cusco-mayoral-elections-20260811162428009"
+ },
+ "0xe14a19354275ee2edd651a6965e93b64870f4365ac8a00af280eef19555423d7": {
+  "created_at": "2026-11-23T03:00:36.002083Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-8pt00"
  },
  "0xe163acc38d93a2f68760841a9036a09e634ada9c6d80a945bb02701ee3c000d7": {
   "created_at": "2026-08-12T17:19:21.279092Z",
@@ -1742,6 +1789,15 @@
   "revisions": 1,
   "sha256": "4e79a56e737d7baa161ebf057a43837b47c10fe35436da891317cf2879319730",
   "slug": "will-russia-capture-myropillia-by-december-31"
+ },
+ "0xf3abe3d995b23aa878e47b581311259278b0f3b80b820ef6735ec3a78857add7": {
+  "created_at": "2026-11-23T03:04:11.095879Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $3.80?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-3pt80"
  },
  "0xf50a7ef0b5b3f53be5fb5353dc6fc585c75bb002ef48b98c98e631aebd932cd7": {
   "created_at": "2026-11-06T19:54:30.416963Z",

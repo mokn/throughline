@@ -992,6 +992,15 @@
   "sha256": "0771e6b013826409006ab4bd850c199681202fa917f24f57b95c0a71135a63a9",
   "slug": "will-any-ai-model-reach-a-chatbot-arena-score-of-at-least-1600-by-december-31-569-131-613"
  },
+ "0x92af9c1fe6bacedd5a95534df68a1aa9bf1779cdf6152c6ab9decc43d35b2035": {
+  "created_at": "2026-11-23T03:03:21.914548Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $13.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-13pt00"
+ },
  "0x93e434e80c83498963847f0c8c1cee16768c84b76ad12ae30a63331a09f53835": {
   "created_at": "2026-09-20T08:45:48.811028Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1078,6 +1087,7 @@
   "created_at": "2026-11-19T15:47:16.276337Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will xQc be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "aab81579c2cb6b7de786ff0ee55952fbc5e2fd8591a8e70df5dadacfa221adc0",

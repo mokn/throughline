@@ -157,6 +157,24 @@
   "sha256": "a789608906c547f38af5d4830351c920e85fbbb8b1a8668046902b0afcd447a6",
   "slug": "el2-col-pvl-2026-10-03-team-total-home-3pt5"
  },
+ "0x1867062b235e4b2ceaad8ea36e23802cdc40348a11b8b2a0381cbdde9e8d70ad": {
+  "created_at": "2026-11-23T03:01:11.067839Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $12.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-12pt00"
+ },
+ "0x1870847121d21e2fd452b6751bc5cb4399429f10847b31f2b27483df0798e9ad": {
+  "created_at": "2026-11-23T16:34:05.388439Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Pittsburgh Steelers by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-pittsburgh-steelers-by-january-11-2027"
+ },
  "0x1ada88a781ee8d2e8f392dcba10216be82e7d2c7137d33f28c6029f733f13aad": {
   "created_at": "2025-12-10T18:05:32.997946Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -955,6 +973,7 @@
   "created_at": "2026-11-18T18:54:40.921166Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Trump call for Jensen Huang's return as NVIDIA CEO by December 31?",
   "revisions": 1,
   "sha256": "9caf5b93fe6ea682ac63b77518373e48707a4598d638de7dcb418699585953c0",

@@ -281,6 +281,7 @@
   "created_at": "2026-07-22T05:40:45.298028Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Dolphins win the season series against the Bills during the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "db3a3e3e3312343f5bdfbdcec2a70b0631473a2ba2c90f715acc047818bc7816",
@@ -1256,6 +1257,15 @@
   "sha256": "313cb50e7cccdaddf0b69d30f0ee34540799d76f542f7075d715e3d69300a96b",
   "slug": "will-travis-konecny-record-40-goals-in-the-2026-27-regular-season"
  },
+ "0xc09ea3607db7c7fecce828b61d5ec01835b2cfcac87b871b01be06653a43853b": {
+  "created_at": "2026-11-23T03:03:04.669516Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $14.00?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-14pt00"
+ },
  "0xc0f076bc4d90a44df34a729277e9d1f294f0cb60d2c3b1b3800908b1e15b923b": {
   "created_at": "2025-12-04T00:59:21.27224Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1264,6 +1274,15 @@
   "revisions": 1,
   "sha256": "e9f9a4f757975fed1b2cd7c50df7752dd947992a08f925fa3179395528a63e24",
   "slug": "will-kuomintang-kmt-win-the-most-head-of-local-government-elections-in-the-2026-taiwan-local-elections"
+ },
+ "0xc2f06bac7d0cca90da955eb02c9e726235ab42456e8ce88f1f0a3b50fb5d9e3b": {
+  "created_at": "2026-11-23T02:55:32.986883Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2026 be above $10.50?",
+  "revisions": 1,
+  "sha256": "d49433624f63bbb44828fff4d88bdfb397fab6f8bd4b46dccac856cc22229150",
+  "slug": "b300-average-rental-price-in-december-2026-above-10pt50"
  },
  "0xc4999bb58ae06e7f4e6500948c86ee17d7552e305a527e0c3d0828c4af45f83b": {
   "created_at": "2026-08-21T17:35:08.927536Z",

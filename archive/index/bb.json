@@ -8,6 +8,15 @@
   "sha256": "99f2919bd1462241fc3eb918013fb9741479d8afd7ab354b72238ef64395a66a",
   "slug": "extended-fdv-above-800m-one-day-after-launch-299-255-178"
  },
+ "0x005ccc04b2b8bb1e6551512e2ec63f9d4bab5eeaf83045971405a32b7061febb": {
+  "created_at": "2026-11-23T16:50:23.443933Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will ZywOo have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-zywoo-have-the-most-awp-kills-at-pgl-major-singapore-2026"
+ },
  "0x01480928618a1672fb09494235658e026e76a55e7bfb51d3b6b2f970422fd5bb": {
   "created_at": "2026-09-09T02:44:11.594403Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -756,6 +765,7 @@
   "created_at": "2026-08-25T21:36:56.271008Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Los Angeles Chargers have more than 8.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
@@ -1213,6 +1223,15 @@
   "revisions": 1,
   "sha256": "ca1782a77322d8471b9d1d04a14fb31e7c59a5f6999b0fb45d24adf5c0357d09",
   "slug": "will-odessa-a-zion-carrie-win-best-actress-limited-series-at-the-84th-golden-globes"
+ },
+ "0xaa2b06e26634e9dea7c29a4a549f280ec79245e014e74fa8e4101a8e97ce03bb": {
+  "created_at": "2026-11-23T16:32:14.28244Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Lynn Vision qualify to Stage 2 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
+  "slug": "will-lynn-vision-qualify-to-stage-2-at-pgl-major-singapore-2026"
  },
  "0xaa71c508264f1f20a3c967e22115a13cbade94e9b2843619b79ae513dcfb0cbb": {
   "created_at": "2026-11-03T17:11:22.593884Z",
@@ -1748,6 +1767,7 @@
   "created_at": "2026-08-25T21:25:33.542881Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Denver Broncos have more than 7.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",

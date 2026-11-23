@@ -256,6 +256,15 @@
   "sha256": "a65092c255fec8dd39c1de853d1900b15df5c66be6c87a3f2530bed670da1afe",
   "slug": "will-travis-etienne-jrpt-be-the-highest-scoring-flex-of-the-2026-27-nfl-season-20260806224131610"
  },
+ "0x273537c965f103c35be84e5a773593570a3d81e3a5631b7d03c5b140552ba341": {
+  "created_at": "2026-11-23T16:12:59.297729Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Niku have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-niku-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0x28ec0ce986f32fbf996216a5dcc0dad2cb6ea313a1841cd94fd225108a53fa41": {
   "created_at": "2026-10-25T19:00:16.413271Z",
   "first_seen": "2026-11-17T15:59:42Z",
@@ -309,6 +318,15 @@
   "revisions": 1,
   "sha256": "6b1f2e1a41d4a464718fc189bbc077ca8165b6bef669fe8e097fdee58d9a02be",
   "slug": "will-scottie-scheffler-record-2-3-pga-tour-wins-in-2027"
+ },
+ "0x2f20afd5f69a6e5e5fec1cca328a65343ab4b226f472a41b58e3d2eccb6a6d41": {
+  "created_at": "2026-11-23T03:02:22.290539Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in March 2027 be above $6.00?",
+  "revisions": 1,
+  "sha256": "215983e1bd4d26eb976dcbdf6bc50abac6e2ec96a0c1b6b8d1af4d1a7aa5157f",
+  "slug": "b200-average-rental-price-in-march-2027-above-6pt00"
  },
  "0x300be3ba82bea81ba9c2d555f23d7ca2495efce3bec7d7e136a74a7817a81b41": {
   "created_at": "2026-10-19T15:35:59.939529Z",
@@ -789,6 +807,7 @@
   "created_at": "2026-08-10T23:57:28.487369Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Aaron Rodgers have 15.5+ passing touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "3aa40799d33248b204a387b8899f5674063ef53f464179cf86b5d498813bcb15",

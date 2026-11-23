@@ -200,6 +200,15 @@
   "sha256": "b45e065869f0006c06bd024105cb359f1291b1892fc470049bd45390010affa7",
   "slug": "will-mohammed-ashiru-isa-win-the-2027-kaduna-state-gubernatorial-election"
  },
+ "0x2664a23cb8c514ff6fd6f7a57fa0e86d83542d7bb40c51ebca5b2f42be26ee80": {
+  "created_at": "2026-11-23T02:59:16.054674Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2026 be above $8.80?",
+  "revisions": 1,
+  "sha256": "ea2c95d11fa0e1076737efbd831304b1602a1f7e9f96726a05f60292b16d9f5b",
+  "slug": "b200-average-rental-price-in-december-2026-above-8pt80"
+ },
  "0x26a11b7ec9927e4f097aea5f8e35d8dcccd4b10b9478f673bdb37291ff60f880": {
   "created_at": "2026-11-03T17:43:28.380881Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1278,6 +1287,7 @@
   "created_at": "2026-10-28T01:37:52.808691Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Next Z.ai GLM (5.4+) released by November 30, 2026?",
   "revisions": 1,
   "sha256": "ad47995f6a6e11b0691e70bfb4e3e41830377463d637b82bdee79b02d2ae1214",
@@ -1563,6 +1573,7 @@
   "created_at": "2026-10-25T04:01:52.042394Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-14T13:31:33Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will WTI Crude Oil (WTI) hit (LOW) $80 in November?",
   "revisions": 2,
   "sha256": "56092790747bb767f35cf1c4c7d9fcc6d0dbd93e9fbcef5aaeae54efe02bf28c",

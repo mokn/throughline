@@ -8,6 +8,15 @@
   "sha256": "4bda331d1c268a5f7f6921a09cf0de94f727c6885e107a705248fc66a96fa4e8",
   "slug": "will-the-democratic-party-candidate-win-the-2026-in-07-house-election-by-35-40"
  },
+ "0x03be5159e0fb7b484d47e96c73fbec5f1d8b329af303cfb89be8cd620a688fc1": {
+  "created_at": "2026-11-23T03:02:49.988885Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $7.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-7pt00"
+ },
  "0x067974a7129dddd9fedb944ec73e9ed186cc002fc45052eec1716234aa6e04c1": {
   "created_at": "2026-08-07T20:31:55.158001Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -165,6 +174,15 @@
   "revisions": 1,
   "sha256": "a7cd60844bd1bc9031fd2f02f1e8c3ebed2a78a3c67b93142b19e8bb6238f50b",
   "slug": "will-jake-moody-be-the-highest-scoring-k-of-the-2026-27-nfl-season-20260806224131982"
+ },
+ "0x19b38cde980c2d4cfddbd48dc52558d9852033c7c9b0f1670f18f61ef66b09c1": {
+  "created_at": "2026-11-23T03:00:25.385532Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in March 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "9bd16262a6b3d9633e5288452c43f1fd58aac01c0212846901439c1421d30466",
+  "slug": "b300-average-rental-price-in-march-2027-above-10pt00"
  },
  "0x1a466c75bea8d436bb84b8b3e1becd57504d8c040b0f862df94dc85ddc83d9c1": {
   "created_at": "2026-09-13T08:15:33.11165Z",
@@ -370,6 +388,15 @@
   "revisions": 1,
   "sha256": "15be5d4cf027854e8cada2685bfcd729fca6ed5c9c13bf6505df41839ae82d74",
   "slug": "will-anthropic-close-less-than-70-on-its-first-trading-day"
+ },
+ "0x3fc0f8b759fc97b94d0a620a9555579c854d782daf7e04ad81c7bae4028752c1": {
+  "created_at": "2026-07-01T15:53:17.778695Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Nemanja Karovi\u0107 be the next Prime Minister of Serbia?",
+  "revisions": 1,
+  "sha256": "1f0ec6de7b3591563ecc808031d74ff0b25f9c198be54887ee79e5e9a9a4d42c",
+  "slug": "will-nemanja-karovic-be-the-next-prime-minister-of-serbia-20260629223938660"
  },
  "0x413c95a03d3622f21f28980c21b515aa27cde0bc16a9d87e73bb1b7b5ca400c1": {
   "created_at": "2026-09-04T19:04:34.958769Z",
@@ -733,6 +760,7 @@
   "created_at": "2026-08-28T19:59:51.454394Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Marc Marquez win the 2026 MotoGP World Championship?",
   "revisions": 1,
   "sha256": "14725aa33863999d5edb7ab28f1cae5cf57456359c631148111a5c0615ea79e7",
@@ -1066,6 +1094,24 @@
   "sha256": "d9bfb74e7925abe8b87729c2132036425a34083c29e67652afb010d83fe2bde8",
   "slug": "will-kathy-hochul-underperform-kamala-in-new-york"
  },
+ "0x9d36da0569f7b863d83ecf4953f292e14621b43232476af799d88f9d614db7c1": {
+  "created_at": "2026-11-23T15:58:57.900226Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will none of these streamers finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-none-of-these-streamers-finish-gta-vi-by-december-31-2026-20261123"
+ },
+ "0x9e5bb446e151ba4d5b3c220130cd72dfe5f1351347136811349ffea02cd827c1": {
+  "created_at": "2026-11-23T16:34:11.310846Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Jessica Pegula win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-jessica-pegula-win-the-2027-womens-australian-open"
+ },
  "0x9eb7ac1524fdacb46ceb8758454f0004c7b117eae76e6295852643644bb862c1": {
   "created_at": "2025-07-08T19:06:16.349469Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1084,6 +1130,15 @@
   "sha256": "a0d4d5f188f33ec280806014ee05b59f2fc38bd0e8c9067a3cc17b835225a289",
   "slug": "finland-korisliiga-2027-champion-tapiolan-honka"
  },
+ "0xa152ef0fdd91d06aa3a52440c50867b2fb95d56246540f37e6eef209ff30ccc1": {
+  "created_at": "2026-11-23T03:05:01.567293Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $1.50?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-1pt50"
+ },
  "0xa2866344e545b1e84ea5648623d13e380ffb489c65a3586931c6ef567655e6c1": {
   "created_at": "2026-11-12T20:22:48.745058Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1093,6 +1148,15 @@
   "revisions": 1,
   "sha256": "3d5108fc0a413bbb4d3ccdf1cf9b4c4373352c54eb1584181f342b0f1bc4db07",
   "slug": "will-bangaranga-dara-win-best-global-music-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0xa2f8eb2cf554d8f6166f2e808bfbcb63db59ecfcf39c3e8cab36e2fcdc07f9c1": {
+  "created_at": "2026-11-23T16:50:51.909537Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Jorko have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-jorko-have-the-most-awp-kills-at-pgl-major-singapore-2026"
  },
  "0xa38ce2c649998c3737fcb315c273cd30f5527e0a118728de363230d603367cc1": {
   "created_at": "2026-08-12T17:18:48.133134Z",

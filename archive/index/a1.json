@@ -272,6 +272,15 @@
   "sha256": "96bc0fdeff53e7468fb257ea8ebfe22e6632fee3cafc3e37764e4f6dd17f88c0",
   "slug": "el1-bra-bar-2026-09-26-halftime-result-away"
  },
+ "0x1c61241d8a95fc4b42f93d34b02bf3b288c65f76936a4f92a964d5aeb4a74da1": {
+  "created_at": "2026-11-23T18:11:42.891266Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Knight's Worlds 2026 skin be Twisted Fate?",
+  "revisions": 1,
+  "sha256": "cdb34b31bd2131ee9362a4d52c83982ef8744d52f0d2b36791903337e285146b",
+  "slug": "will-knights-worlds-2026-skin-be-twisted-fate"
+ },
  "0x1ce7e25df1db3927de35a835652c608dabf9f577e266b5c8b53fdca62b22f3a1": {
   "created_at": "2026-09-17T17:25:54.523864Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -952,6 +961,7 @@
   "created_at": "2026-10-06T00:22:19.801017Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Novak Djokovic play a match at the 2026 Nitto ATP Finals?",
   "revisions": 1,
   "sha256": "663ee9569083c33fc980c666bced324e1a35922542334347eb5df7f949d56c22",
@@ -1200,6 +1210,7 @@
   "created_at": "2026-10-15T13:20:20.966189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will CrowdStrike Q3 net new ARR be above $440M?",
   "revisions": 1,
   "sha256": "1158d54a1df822312c0493f06bf36938e5eabd383b0a0387cde9f3f3006a9fa8",
@@ -1232,6 +1243,15 @@
   "revisions": 1,
   "sha256": "7ab7ada8d01dc1940077138d1f10a4cefbffcc05ce952509c7fd15e8ba0b85d3",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-16-house-election-by-18-or-more"
+ },
+ "0xa86918b12e9b9d699a60b56a89177cfdc5b4e91b030a7a587bc8e300791310a1": {
+  "created_at": "2026-11-23T03:01:43.121091Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $12.00?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-12pt00"
  },
  "0xa86c6e1d41df25937c9fb5555694b31045c8ae10aece42d9fe80399bed87d7a1": {
   "created_at": "2026-10-30T22:00:50.641543Z",
@@ -1559,6 +1579,7 @@
   "created_at": "2026-11-21T15:49:24.727976Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Windah Basudara be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",

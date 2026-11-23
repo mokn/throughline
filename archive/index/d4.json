@@ -35,6 +35,15 @@
   "sha256": "f1f381a27d7ada3014a59471b4ce1bb79bf857729deeb18bd911e42b2d53c410",
   "slug": "will-zelenskyy-and-putin-not-meet"
  },
+ "0x038cc08fa589d481a3fbc9af2c4d7c2ae7b96aae7c3b27f7510f6c351b91e8d4": {
+  "created_at": "2026-11-23T02:59:36.881943Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $13.00?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-13pt00"
+ },
  "0x04025241bc4cb94e8f12889ead3e85b53367c419427d325dae185b794d34f8d4": {
   "created_at": "2026-09-04T19:40:18.908207Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -695,6 +704,15 @@
   "revisions": 1,
   "sha256": "5bc0ff7931af0f2a7e92fbfed108280b2326a84b576c4f2efb0dbf0c94afa4f3",
   "slug": "will-dante-gebel-win-the-most-votes-in-the-first-round-of-the-2027-argentina-presidential-election"
+ },
+ "0x70cc96f04fa389dd4a9446b47666e9da745ec1893e0a2c01936421df72e65ad4": {
+  "created_at": "2026-11-23T18:11:45.743143Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Xun's Worlds 2026 skin be Vi?",
+  "revisions": 1,
+  "sha256": "20ef533063c8e078b2a0e008f8ef49ad3052669fbc1ff8c7ad9f54edfba362dd",
+  "slug": "will-xuns-worlds-2026-skin-be-vi"
  },
  "0x712da1b055e10bf6885872fbb6d0ec5baa5f5da8da58ece8bec7462945aab4d4": {
   "created_at": "2026-01-28T15:31:03.143155Z",
@@ -1615,6 +1633,15 @@
   "revisions": 1,
   "sha256": "9a1ce79f1545e1b9e40a7771f233e0c10b4bdf7a7ced7efc49e30309e52b61db",
   "slug": "will-brentford-qualify-for-the-2027-28-uefa-conference-league"
+ },
+ "0xfc8333df531890205a59d854dd4b1294647f95a3fa3192711b31814cbed86bd4": {
+  "created_at": "2026-11-23T02:59:35.05781Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $15.50?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-15pt50"
  },
  "0xfcbc8e878762a0599bda65edefb8b21ebc438cfea024b4124b1e1a4dccb59cd4": {
   "created_at": "2025-11-17T18:39:17.193922Z",

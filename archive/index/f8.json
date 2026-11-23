@@ -8,6 +8,15 @@
   "sha256": "07b765b1d2f27c1ac9df39d5da7090f9c358ae17f27eafde18da8dadfe42b993",
   "slug": "will-devonta-smith-be-the-highest-scoring-wr-of-the-2026-27-nfl-season-20260806224130855"
  },
+ "0x096961377d74a7014436580668d38d25fcba754bff1f75b61f25abe91e4a54f8": {
+  "created_at": "2026-11-23T02:21:50.559887Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2026 be above $3.00?",
+  "revisions": 1,
+  "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
+  "slug": "h100-average-rental-price-in-december-2026-above-3pt00"
+ },
  "0x0a05e22ee88e6d55e70ae1a1e8528e975b576c5767bddeef47e7e530cee9e1f8": {
   "created_at": "2026-10-13T15:50:47.940127Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -16,6 +25,15 @@
   "revisions": 1,
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-jaylen-brown"
+ },
+ "0x0bb932ee2d75dd9f4aeb008b4f3ecc4767fe52c7df1c7a439d3b968e1a0c6af8": {
+  "created_at": "2026-11-23T16:34:06.561406Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the Seattle Seahawks by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-seattle-seahawks-by-january-11-2027"
  },
  "0x0dd51b0ace3ef3efe4e4fac544c600b95e95a0cfada8469c3bc5a597d88de3f8": {
   "created_at": "2026-08-12T17:22:42.113389Z",

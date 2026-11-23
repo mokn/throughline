@@ -817,6 +817,15 @@
   "sha256": "c175a715d73f08c89077cd7de260f27a3371560ead836cffc184b1ba01fd707d",
   "slug": "will-atlanta-braves-advance-to-the-world-series-in-the-2027-mlb-playoffs"
  },
+ "0x70258982c461c831fd8aeb1799624237ec7371fcbbaf4eb5b111ea472e1bbdfb": {
+  "created_at": "2026-11-23T03:01:11.827031Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-10pt00"
+ },
  "0x7036e1cfa8f7561532d52ed42a789d810ea3e352a02807cd01aa355697c810fb": {
   "created_at": "2026-09-02T21:51:33.303625Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1437,6 +1446,24 @@
   "revisions": 1,
   "sha256": "aa3b4b725555f57fa57a2c7520a4c07497c41dc82829bc94a17d380fd4a4761d",
   "slug": "will-atlas-finish-the-2026-27-liga-mx-season-with-the-best-combined-goal-differential-20260722172229855"
+ },
+ "0xd314c348e4508e4366ef20a295e38ea07af8b6a75163dbe54b9481547297ebfb": {
+  "created_at": "2026-11-23T03:01:09.024727Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $17.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-17pt00"
+ },
+ "0xd7bf9886a6a16f6ab3c5b4a39165ee4a446d2756f4c8c98d8b58e7266333d1fb": {
+  "created_at": "2026-11-23T18:11:41.94874Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Knight's Worlds 2026 skin be Cassiopeia?",
+  "revisions": 1,
+  "sha256": "cdb34b31bd2131ee9362a4d52c83982ef8744d52f0d2b36791903337e285146b",
+  "slug": "will-knights-worlds-2026-skin-be-cassiopeia"
  },
  "0xd8ed97c4b10ebcadf9ae7e2909ef27b6e78a158c7d9115c2d6d209230a9380fb": {
   "created_at": "2026-08-24T16:32:54.315354Z",

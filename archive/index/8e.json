@@ -44,6 +44,15 @@
   "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
   "slug": "scop-dun-hmi-2026-10-31-exact-score-4-3"
  },
+ "0x172c2a1315b55dcbf4bb48b895d852e84bf50eadd15df22f944be71c66be448e": {
+  "created_at": "2026-11-23T16:32:15.955299Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Imperial qualify to Stage 2 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
+  "slug": "will-imperial-qualify-to-stage-2-at-pgl-major-singapore-2026"
+ },
  "0x187d999c59f2c2af8b5c8611157998039a1df00d3a181f83506eb1c7cb47988e": {
   "created_at": "2026-07-28T01:45:06.743543Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -662,6 +671,15 @@
   "revisions": 1,
   "sha256": "a892f80669d74b1c15a9c1191690eaf74722d673eb7aa7d43df07a7f965c6cc7",
   "slug": "el1-ste-swe-2026-09-26-corners-total-10pt5"
+ },
+ "0x6a39c35c7807b574242f4bec474280584c0118a6a3086b635cf02664125f948e": {
+  "created_at": "2026-11-23T03:05:22.365546Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in December 2028 be above $2.50?",
+  "revisions": 1,
+  "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
+  "slug": "h100-average-rental-price-in-december-2028-above-2pt50"
  },
  "0x6c4bdc23ff1213f0998b936ab87156e4bb3f0b9b2fe30c96e6fd02b78ec45c8e": {
   "created_at": "2026-09-29T00:12:12.369914Z",
@@ -1302,6 +1320,7 @@
   "created_at": "2026-08-25T21:06:58.041242Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the New York Giants have more than 5.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",

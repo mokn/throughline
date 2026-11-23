@@ -501,6 +501,15 @@
   "sha256": "28269b03fac7e106f8e11ebed56851d4294be9e15411bd929744e43de7d827f4",
   "slug": "will-team-e-finish-the-2026-27-nfl-regular-season-with-the-fewest-total-yards-allowed-per-game-20260716001413304"
  },
+ "0x53a9d1dcd3a656f40819c31f63d622eb95b4cd5b28d6177ee6220cc3a742a53d": {
+  "created_at": "2026-11-23T16:32:42.282779Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will DENDELE qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-dendele-qualify-to-stage-3-at-pgl-major-singapore-2026"
+ },
  "0x5640279133cae1cff85ca541d10daf41212ed2659706e5163756361316a1933d": {
   "created_at": "2026-08-21T17:34:46.458746Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1314,6 +1323,7 @@
   "created_at": "2026-01-28T15:35:43.489043Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Republican Party win the NC-05 House seat?",
   "revisions": 1,
   "sha256": "454b2ed4a203cf06f03fb8f7138755dcaac6d97b3b67c779b529ed2bcf42fb93",
@@ -1373,6 +1383,15 @@
   "revisions": 1,
   "sha256": "2032e935874a6732811476afa78710bc408338ddd7f8f34f981193bce09edfa5",
   "slug": "will-asuna-play-for-nrg-in-2027"
+ },
+ "0xcf6b4db803fb555a882fec4e916c2442415f5252755d93c6bb9ffd528229ec3d": {
+  "created_at": "2026-11-23T03:04:27.298909Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $3.60?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-3pt60"
  },
  "0xd0a4cdae9e1bf187195863b172242ec3c4a9f0332b43cad2fb008753e560593d": {
   "created_at": "2026-08-14T12:53:03.929117Z",
@@ -1575,6 +1594,15 @@
   "revisions": 1,
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
   "slug": "cdr-ute-sab-2026-10-28-exact-score-3-4"
+ },
+ "0xe9c933058946afd5441d770a7c1727f83bdad875351ac405a172e9b3a244ec3d": {
+  "created_at": "2026-11-23T16:13:00.362584Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will daze have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-daze-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0xeae7a6c0d258b1441bdc8b59e0b14f18abce0131fb613f1cd61f70996582c13d": {
   "created_at": "2026-08-18T14:57:37.606233Z",

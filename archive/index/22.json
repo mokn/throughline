@@ -1016,6 +1016,15 @@
   "sha256": "1fd8d292c8f2dac727c8ce23c6a33d47b44474a8b4ec5ff2d31cfb1c7dc63ce8",
   "slug": "will-sudan-join-the-mecca-agreement-by-december-31-2026"
  },
+ "0x895bd170275affe0277c9502a9b70ac51ac24a09309e9e9bf2bf2bfa4140b322": {
+  "created_at": "2026-11-23T03:03:23.208492Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $10.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-10pt00"
+ },
  "0x89c6b113f657af5cb9e42d1f99a83c453ec4df6681190236b5b37f8077d91d22": {
   "created_at": "2026-08-05T16:09:55.340062Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1145,6 +1154,15 @@
   "sha256": "9f4015b580390564e88426dc4301b60492271d70eccda5b5d7f73ff77098242b",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-36-house-election-by-30-or-more"
  },
+ "0x9549a838e32c6a53b1f24b46580e5aca0bcbfde7f6e5df4ca3b6e80958258122": {
+  "created_at": "2026-11-23T18:11:34.969747Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Knight's Worlds 2026 skin be LeBlanc?",
+  "revisions": 1,
+  "sha256": "cdb34b31bd2131ee9362a4d52c83982ef8744d52f0d2b36791903337e285146b",
+  "slug": "will-knights-worlds-2026-skin-be-leblanc"
+ },
  "0x9a8e079bb989a7f4500ee58b8962540190f2b35c15476d83721bccfeed84f822": {
   "created_at": "2026-11-12T20:19:23.353872Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1231,6 +1249,7 @@
   "created_at": "2026-10-30T15:31:05.553033Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Russia capture all of Bilytske by November 30?",
   "revisions": 1,
   "sha256": "dde9d51ee829afd859fe201c9cdb010046ed8accbef48b04849a2dc6829ab48f",
@@ -1478,6 +1497,7 @@
   "created_at": "2026-09-07T15:49:40.027337Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Aave V3 USDC supply APY hit 8% in 2026?",
   "revisions": 1,
   "sha256": "cc94dc23748e4f7ac18d8ea7459e4ecdbfeda62282c33c973fcaf6260ebb970c",
@@ -1693,6 +1713,15 @@
   "revisions": 1,
   "sha256": "df66dc859098e2aea21864e85d74e3ec6b0c1efd533d45615875bcd4cba6a09d",
   "slug": "will-the-chiefs-win-the-season-series-against-the-raiders-during-the-2026-27-nfl-regular-season-20260717194033670"
+ },
+ "0xf962040244dd7fcd50046d0593587598539fea00f4b3ff98b6d9a2ea66669022": {
+  "created_at": "2026-11-23T16:34:12.060736Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Alexander Blockx win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-alexander-blockx-win-the-2027-australian-open"
  },
  "0xf9defdfbc645a8a06734f250fbfb37269b43ac50fbc03ff5dc260d90fffa3d22": {
   "created_at": "2026-05-26T18:54:02.960052Z",

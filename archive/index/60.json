@@ -429,6 +429,15 @@
   "sha256": "2fb4509b6de2a958edc2eca4dfc28cc3213e54c857eea43ac38adc1e7fddee2b",
   "slug": "will-david-de-gea-fiorentina-record-the-most-clean-sheets-in-the-2026-27-serie-a-season"
  },
+ "0x2e09753741d7ea06786f5c96aab1d94de80708ded146a8d475564e0b79f65160": {
+  "created_at": "2026-11-23T16:34:18.834391Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Madison Keys win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-madison-keys-win-the-2027-womens-australian-open"
+ },
  "0x3132b1599ecf8226fb99f02516a30a323264bceba766a7d27659a14e10eff660": {
   "created_at": "2026-07-20T20:01:13.595771Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -548,6 +557,15 @@
   "revisions": 1,
   "sha256": "13735aa596f3be6738c7ee76eefdf099836f3e179af2ad0f4b3de0bddc18af88",
   "slug": "f1-brazilian-grand-prix-driver-fastest-lap-jr-2026-11-08"
+ },
+ "0x4314a923ab0e95af416a3e6b76115935a24aa0e8d7d203d9d773ac7d5498c260": {
+  "created_at": "2026-11-23T16:12:40.235154Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Xakoda have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-xakoda-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
  "0x446bd7e676fa3a211640cd978e338e12c488f1faae9c3758c72d71b1473d3260": {
   "created_at": "2026-09-02T21:53:18.774072Z",

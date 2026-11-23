@@ -685,6 +685,15 @@
   "sha256": "8315b9fd86f99ef9e2442a41eea74e3fd6c6b328a8e9865bfd3cd43ff2ea4198",
   "slug": "jayden-higgins-574pt5-receiving-yards-2026-27"
  },
+ "0x648d2923c599233086a8b4aebf7755212c2c97a715e7994d88afc91c1d47fd7a": {
+  "created_at": "2026-11-23T15:02:02.932061Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Jensen Huang announced resignation or removal again by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "ff390968b8661e02eb81b49637034f2a19acbe2869e71a4afee26d5246b14e72",
+  "slug": "jensen-huang-announced-resignation-or-removal-again-by-december-31-2027"
+ },
  "0x652ef60db1cf0c729d12a66874ac67737704964b9ca10967e097d117f87bd67a": {
   "created_at": "2026-08-24T16:38:30.73468Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -763,6 +772,7 @@
   "created_at": "2026-08-12T16:52:15.234984Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Sergio Sullca Condori win the next Cusco mayoral elections?",
   "revisions": 1,
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
@@ -808,6 +818,7 @@
   "created_at": "2026-11-19T15:47:15.67025Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Ramee be the second of these Kick streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "aab81579c2cb6b7de786ff0ee55952fbc5e2fd8591a8e70df5dadacfa221adc0",
@@ -1448,6 +1459,15 @@
   "sha256": "f46155dc485204349bfab0b62492076cc5e5c838b6f71cf3bef59673eadf1562",
   "slug": "justin-herbert-30-passing-touchdowns-2026-27"
  },
+ "0xd55ea957ee2edbaaf7232fdd853c5372efe6b91453dd110eaf6e18fb22df387a": {
+  "created_at": "2026-11-23T16:12:43.189025Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Thiolicor have the most kills at BLAST Slam IX Playoffs?",
+  "revisions": 1,
+  "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
+  "slug": "will-thiolicor-have-the-most-kills-at-blast-slam-ix-playoffs"
+ },
  "0xd6cf69a22123bc5c18a47ed16de90cb97ef06224b1f232a95dafd657ea214b7a": {
   "created_at": "2026-08-26T21:46:07.739245Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1513,6 +1533,15 @@
   "revisions": 1,
   "sha256": "3cdea29edcf931a0571a27eb094c8fe0937f0b6a86a26f594b62a18e153c08a0",
   "slug": "will-anthony-davis-be-a-2027-nba-all-star"
+ },
+ "0xdc6a19897e86e944c5682e5daa1db9a7f87123361a091abb8cb427497297267a": {
+  "created_at": "2026-11-23T03:00:31.98742Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $17.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-17pt00"
  },
  "0xdeef19ec111d1a8443c2837e22b19616b9aba98c18f3c4657ebead62c0165e7a": {
   "created_at": "2026-08-12T16:51:57.339149Z",
@@ -1705,6 +1734,15 @@
   "revisions": 1,
   "sha256": "b8bcdd268b64d6cd19dc4bae92540f0d496c96aa6a840ae8b1485cfbfb3ddc2e",
   "slug": "will-ange-postecoglou-still-be-al-nassr-manager-at-the-end-of-the-season"
+ },
+ "0xf325bc33ff89bfb05cef1c06239ff014f5b714063d8b7dda64b555ea10c31e7a": {
+  "created_at": "2026-11-23T16:34:18.274024Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Leylah Fernandez win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-leylah-fernandez-win-the-2027-womens-australian-open"
  },
  "0xf398bac672f800abfb4578600c7d7d51f0b2d3a9b1e7c499b56cb890b9806b7a": {
   "created_at": "2026-08-25T21:06:58.261438Z",

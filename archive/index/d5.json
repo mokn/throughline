@@ -253,6 +253,7 @@
   "created_at": "2026-10-30T15:31:33.352246Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Russia capture Bilytske by November 30, 2026?",
   "revisions": 1,
   "sha256": "a4238777613fd10857fbb02976edf6411294d985bac3a546c75a443c98f602cc",
@@ -677,6 +678,15 @@
   "revisions": 1,
   "sha256": "682b9f7115073cce8307a39a3cf6bbcd48759051b5a181d1151f60486e2b6894",
   "slug": "iihf-world-championship-2027-champion-austria"
+ },
+ "0x5f6ce53fc294d527e7bbc3716cce7a001ff74e022d3bd65b243de69f2b371fd5": {
+  "created_at": "2026-11-23T16:34:09.748229Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Casper Ruud win the 2027 Australian Open?",
+  "revisions": 1,
+  "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
+  "slug": "will-casper-ruud-win-the-2027-australian-open"
  },
  "0x62da2b5589bc98c64789b82efc1b7827e8e2fc3053bf5f465229d2976a8faed5": {
   "created_at": "2026-08-24T16:39:32.447346Z",

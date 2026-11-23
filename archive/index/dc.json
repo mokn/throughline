@@ -201,6 +201,15 @@
   "sha256": "c15ade3ce40f348aef3124581daafc8a8397590f0fe660450e093e27763d8dd2",
   "slug": "spl-abh-kho-2026-10-19-total-4pt5"
  },
+ "0x1a8aed03d1fb1442af659b08d55e186ecea0df31d4a9dc94dfcd4c6a4a362bdc": {
+  "created_at": "2026-11-23T16:32:48.097603Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will PVISION (PARIVISION) qualify to Stage 3 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
+  "slug": "will-pvision-parivision-qualify-to-stage-3-at-pgl-major-singapore-2026"
+ },
  "0x1ce5717d3c95afa585f47e5ba1941da47b1dc859994f3557b914b9be38eb24dc": {
   "created_at": "2026-08-11T18:24:02.775508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -301,6 +310,15 @@
   "sha256": "ee54f97903bba9652760b23b2c2599826a11b7d06b38537ca424040f73399279",
   "slug": "will-pp-win-the-most-seats-in-a-coruna-in-the-2026-spanish-general-election"
  },
+ "0x2d56426b7524b5eb199bdb43fbab943eff88f7b9370acf04acfc0b411929dddc": {
+  "created_at": "2026-11-23T16:34:09.811248Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Mirra Andreeva win the 2027 Women's Australian Open?",
+  "revisions": 1,
+  "sha256": "0ba08cf7214a5937cc43cc6ec54421b79415f6e545bb6da5409bc0f6621d386b",
+  "slug": "will-mirra-andreeva-win-the-2027-womens-australian-open"
+ },
  "0x2f15cfc7d68c887c671f7e8726bf5ef1edd9b787827944f72e238f6bfcb56fdc": {
   "created_at": "2026-08-18T14:57:11.908963Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -314,6 +332,7 @@
   "created_at": "2026-10-13T19:55:45.874952Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Astros de Jalisco win the 2026 Mexico LNBP championship?",
   "revisions": 1,
   "sha256": "8066ac9dc9650c5e04439e7221d318e0f5379ff17f877cf8dcfc36f313d62805",
@@ -399,6 +418,15 @@
   "revisions": 1,
   "sha256": "8fc63d637eb4b834786d92a3edbfa36ad17ef4bb8f9b0b284a382e0a1e53a583",
   "slug": "will-david-harbour-dtf-st-louis-win-best-supporting-actor-television-at-the-84th-golden-globes"
+ },
+ "0x4470c8f06e1f159bfc43a173ec5b67848df69378fad85afbf7f3c951bb7044dc": {
+  "created_at": "2026-11-23T16:51:02.088178Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will fr3nd have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-fr3nd-have-the-most-awp-kills-at-pgl-major-singapore-2026"
  },
  "0x457d41cf64a4da372232528db758f6140d040d2d010ebca8968905bd4c1eb4dc": {
   "created_at": "2026-10-12T20:53:10.234202Z",
@@ -554,6 +582,15 @@
   "revisions": 1,
   "sha256": "45ec7c4f18a75592e2e7a46b78aa7ad1b8c8cc0aedb5ef107367b641903133e1",
   "slug": "will-lionel-messi-score-10-goals-during-the-2027-mls-sprint-season-window"
+ },
+ "0x5ce97c047bb011ea80c0cc8ff2f0d6a09691689a0202875d41ad846bbfec95dc": {
+  "created_at": "2026-11-23T03:02:47.989839Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $13.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-13pt00"
  },
  "0x5d3ccf89c5064fd4daea145cc8a663a580d940c7b92106ac65f1d8673b7bcbdc": {
   "created_at": "2026-09-02T19:31:24.141848Z",

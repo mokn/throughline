@@ -607,6 +607,15 @@
   "sha256": "7b46c4b7f522a28e2edacae6c277e2d7dcdff75894ff578403c675d5850858d7",
   "slug": "will-motherwell-finish-10th-in-scottish-premiership-2026-27"
  },
+ "0x6829c5d9a1943ab34032183b9f6cf3dfde5881a1c279049400ca833317aecd97": {
+  "created_at": "2026-11-23T16:50:54.877148Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will dev1ce have the most AWP kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "138996a2a44451e8a6b28117109fa74e6d7c02d23eb2c3b3ff99712ee42a2617",
+  "slug": "will-dev1ce-have-the-most-awp-kills-at-pgl-major-singapore-2026"
+ },
  "0x69125a6d302fbdc045ff91544ae9ddc8f527c5d11604f23487c8fbfe01b63597": {
   "created_at": "2026-10-25T04:00:22.844928Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1003,6 +1012,15 @@
   "revisions": 1,
   "sha256": "a5b056bd8ab89cffa6357a82b97b2c251993348adefa03061b2f7514dd2920af",
   "slug": "jaxson-dart-22pt5-passing-touchdowns-2026-27"
+ },
+ "0xa3597171731f91de926ca56df8eb6a99635bdfa097d9d4bc91c1ee17c302ce97": {
+  "created_at": "2026-11-23T16:32:08.477122Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Eternal Fire qualify to Stage 2 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
+  "slug": "will-eternal-fire-qualify-to-stage-2-at-pgl-major-singapore-2026"
  },
  "0xa39b291e207bbfbd53f8756f2fdee74877874d9cdf54c11a9e1bc42738e4a797": {
   "created_at": "2026-09-18T00:03:49.412157Z",

@@ -166,6 +166,7 @@
   "created_at": "2026-11-21T15:49:23.914413Z",
   "first_seen": "2026-11-22T14:34:48Z",
   "last_changed": "2026-11-22T14:34:48Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will TheBurntPeanut be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -227,6 +228,15 @@
   "revisions": 1,
   "sha256": "6094599d2f952d8f6c5be881d96d2a5ebdf2276710bd33fe66a0c964cd8058aa",
   "slug": "general-mills-q2-organic-net-sales-growth-1pt5-or-more"
+ },
+ "0x318a4eacbee70a0e4fa3c81559978e65918b5eff551d978e83f371690b7d1261": {
+  "created_at": "2026-11-23T02:59:17.843722Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn B200 rental price in December 2026 be above $8.20?",
+  "revisions": 1,
+  "sha256": "ea2c95d11fa0e1076737efbd831304b1602a1f7e9f96726a05f60292b16d9f5b",
+  "slug": "b200-average-rental-price-in-december-2026-above-8pt20"
  },
  "0x32c9802fd247d6049bd22b038b245d3d92be89c8bdc6e3c06760215643693461": {
   "created_at": "2026-01-08T19:31:08.283132Z",
@@ -1174,10 +1184,20 @@
   "sha256": "676ce0ebb7c2fdb4a8aff9b81377bc366653f04a5082509003f7e575242863c4",
   "slug": "will-lighter-reach-6-before-2027"
  },
+ "0xd59ddf4a43738147fd2232afc31608a669172b320ba4886feba5a18fe1eb9461": {
+  "created_at": "2026-11-23T16:34:06.071213Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will Daniel Jones sign with the San Francisco 49ers by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "9f19545cad3d9ba6a1831e94c3388b3ad78499e6d18dbbba79f85e8c15b2e7e2",
+  "slug": "will-daniel-jones-sign-with-the-san-francisco-49ers-by-january-11-2027"
+ },
  "0xd905164ea3dfa1da056ae0d785e8f8b30aafdf09836bae2f33e48269eefde961": {
   "created_at": "2026-11-12T22:43:36.207678Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will Jensen Huang join Anthropic next?",
   "revisions": 1,
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
@@ -1256,6 +1276,15 @@
   "revisions": 1,
   "sha256": "ac48111a9fb39e14458a58ff7cfe1c1ee4f696fe4170178f70ab64247ce8fdc5",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-01-house-election-by-5-15"
+ },
+ "0xe35ed4221101dcb9905ba92c65390ec07500400b1b1cec72596930446323f561": {
+  "created_at": "2026-11-23T16:32:17.110879Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will FlyQuest qualify to Stage 2 at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
+  "slug": "will-flyquest-qualify-to-stage-2-at-pgl-major-singapore-2026"
  },
  "0xe503c235e7a16ba8da25d9e4223ae1924a05db0f4d586b8da269323500a60161": {
   "created_at": "2026-10-14T01:54:52.702754Z",

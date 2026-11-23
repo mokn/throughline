@@ -209,6 +209,15 @@
   "sha256": "dedb1b631fe01ac6735c7427e8aead08efca8558f2a631e33ee9b65938dd42f3",
   "slug": "will-yan-diomande-real-madrid-be-the-top-goalscorer-of-the-2026-27-la-liga-season"
  },
+ "0x21773188f057f530821ba14daea089e1d228baa3607d9619d18ec2909b75b4ed": {
+  "created_at": "2026-11-23T03:04:44.604709Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $3.40?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-3pt40"
+ },
  "0x2391aa63093c13686c5aedec491b8c140840e564ccb30ba9ccfefb35f0e9a7ed": {
   "created_at": "2026-04-01T17:55:21.677751Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -783,6 +792,7 @@
   "created_at": "2026-08-24T16:40:43.534142Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will The Strongest keep the most clean sheets in the 2026 Bolivia LFPB?",
   "revisions": 1,
   "sha256": "6f1585b8d58c94223de75aaad0e97715aa5bf687e233a045771004dd144ef7c6",
@@ -1331,6 +1341,15 @@
   "sha256": "a605461467f332fcf230469d3ecbd9e0d326acca075c58643037aacb2cd5da2e",
   "slug": "will-al-shamal-win-the-2026-27-afc-champions-league-elite"
  },
+ "0xc89fccbe963778a719caf9a91f9ceee0c1273d4ce722d7bfa636e5a19781ceed": {
+  "created_at": "2026-11-23T18:11:55.21851Z",
+  "first_seen": "2026-11-23T18:08:26Z",
+  "last_changed": "2026-11-23T18:08:26Z",
+  "question": "Will ON's Worlds 2026 skin be Alistar?",
+  "revisions": 1,
+  "sha256": "b2437481f9e78f8069706f34b0c1f08d4a1d9adce9306ea23e61b976c9ec63d7",
+  "slug": "will-ons-worlds-2026-skin-be-alistar"
+ },
  "0xc9483dcab604306088261e2509e872be06a01362bc128ca40f0c83dfcb12e0ed": {
   "created_at": "2026-07-31T03:39:54.241311Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1390,6 +1409,7 @@
   "created_at": "2026-09-04T20:19:36.855619Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-23T18:08:26Z",
   "question": "Will the Buffalo Bills finish the 2026-27 NFL regular season with the worst record?",
   "revisions": 1,
   "sha256": "502e1a2f146e176becb6a8cbba137f5ec11c20d65ad4a9a627e2e19081701da9",
