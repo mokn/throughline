@@ -324,6 +324,15 @@
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
   "slug": "will-the-virginia-2026-senate-race-be-within-1"
  },
+ "0x37c96beadc98f0aff39d0a90f7273b1ac44e900dc337527f1555405734163e0d": {
+  "created_at": "2026-11-23T18:50:20.398867Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $6.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-6pt00"
+ },
  "0x38c879ba81e0475d0ed6249a5d65d392e8c4ba1d86c60f6ba7b63bfb38f2460d": {
   "created_at": "2026-08-05T15:35:12.604407Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -830,6 +839,15 @@
   "sha256": "70be3cc8bd07cfc7f1f9036661f00b612680fb4b2c0e3f88ac1e06982b291729",
   "slug": "will-the-2028-democratic-presidential-nominee-be-55-64-years-old"
  },
+ "0x800740809aa26981a5dd97cb89f34e6d19cdfe0c1f69dcdff8be217edea3400d": {
+  "created_at": "2026-11-23T23:01:28.924471Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will There be 230-249 HE Grenade Kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "65a81f8deb3b6c64ed914ef685b8df65c300181d7ebe29b114de979894c104d2",
+  "slug": "will-there-be-230-249-he-grenade-kills-at-pgl-major-singapore-2026"
+ },
  "0x8063a2c9fa21c4a1470b33fee132d6d61fb5b7dcd667dcac3bb82ae15ad70c0d": {
   "created_at": "2026-01-04T17:12:50.978122Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1180,6 +1198,7 @@
   "created_at": "2026-08-07T14:03:22.068248Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-07 House election?",
   "revisions": 1,
   "sha256": "f7848d61a87a01ff70269ce11d301e6ab2a6d388bd77b004f10bf417fb7949d2",
@@ -1397,6 +1416,15 @@
   "revisions": 1,
   "sha256": "e8d8b22c91f4ff74099365b99cfed0ae0abcfcc9a53b5543426eb61974dbc6f5",
   "slug": "will-turr4zo-trueno-win-best-musica-urbana-album-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0xd4600130c354ab85de74544cce6e90904bd758a767dbd5c96282ec55c0bdb00d": {
+  "created_at": "2026-11-23T22:40:04.202399Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Aleksib be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-aleksib-be-the-pgl-major-singapore-2026-mvp"
  },
  "0xd5aae7d176c26f72255b23d94c014bd75a579d9851d5efb95364c87d4f82020d": {
   "created_at": "2026-08-10T23:56:24.948705Z",

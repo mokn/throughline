@@ -223,10 +223,20 @@
   "created_at": "2026-08-10T15:33:48.906689Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-05 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "f9f99d6a2d467b91681d672b9a88900a09a8e5badda9f0c7a12455fc2f2bfcf2",
   "slug": "will-the-republican-party-candidate-win-the-2026-mi-05-house-election-by-15-20"
+ },
+ "0x1af08113f5ca3ec0c1825689944e5b4022430e432d737c75ed4c8b3e8aa5055a": {
+  "created_at": "2026-11-23T18:50:19.572216Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $19.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-19pt00"
  },
  "0x1b8487bb63d7308a0249d46057e93bc434e61a0b00c281165e9b6a143af36e5a": {
   "created_at": "2026-10-13T19:55:23.633723Z",
@@ -245,6 +255,15 @@
   "revisions": 1,
   "sha256": "671af047318f88d1830c19e7f6b05e5df7b124c6a5422200a29b4a394e2194a9",
   "slug": "will-dcg-be-number-1-on-the-end-of-year-global-power-rankings-20260729165154449"
+ },
+ "0x1e3e59470892f3c8749ccd8c1d93186da57df048f741301e07a67bfe9bb6485a": {
+  "created_at": "2026-11-23T22:43:45.519127Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Score be inducted into the Hall of Legends in 2027?",
+  "revisions": 1,
+  "sha256": "0b435579dd8c6fd15b6870fdffc132176265fccd1634c512f3a67b3ed96b6cca",
+  "slug": "will-score-be-inducted-into-the-hall-of-legends-in-2027"
  },
  "0x1f41a34d4b07d7501894f34abc88be98d4f491dc15a62448349a17ad87bfed5a": {
   "created_at": "2026-06-26T15:47:19.792602Z",
@@ -990,6 +1009,7 @@
   "created_at": "2026-08-07T14:05:21.222099Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-01 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "d5fd40be116ffb224405a79bca4fb54bb9bda2490d981ebd8a78d9572f7742e3",
@@ -1696,6 +1716,7 @@
   "created_at": "2026-08-11T19:04:25.664692Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 UT-04 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "153c5b9a0c4fb85610ab9a79a5d09ec1d561341b6e4765129c6bfd2b3faef39b",

@@ -286,6 +286,15 @@
   "sha256": "f874aae0e7386ac84a7ca6125ec17ed282c5aa2477e992f4cc6237c08dd10fae",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-14-house-election-by-20-25"
  },
+ "0x2a89e32d2fce7d9c2d76dec7ed630fb381036eacc71143a8ec226cca817cc6de": {
+  "created_at": "2026-11-23T18:39:51.243402Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $3.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-3pt00"
+ },
  "0x2a9ab86f4a3887ab9517a7a6c0a2745e5dbfc79e221f8467d0af082ef0e338de": {
   "created_at": "2026-10-29T20:52:20.634784Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -348,6 +357,15 @@
   "revisions": 1,
   "sha256": "07c906d5aaf0a49a700323a6f080c5598faa2b0218f9b05423145c97a89908f6",
   "slug": "will-an-f1-race-be-held-in-qatar-in-2026"
+ },
+ "0x2feeed126cb258da4d1dc25cf9693149ff8edfcffb3e4210c8e3f295644304de": {
+  "created_at": "2026-11-23T18:51:09.790757Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $20.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-20pt00"
  },
  "0x3044b79ba3a38ded6567910c283ac3c159142469970806d2145be1a7495825de": {
   "created_at": "2026-01-28T15:30:54.314427Z",
@@ -473,6 +491,7 @@
   "created_at": "2026-08-05T18:48:39.024106Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Maine gubernatorial election by 5%-10%?",
   "revisions": 1,
   "sha256": "618c5e75ec9a732021949745aaa6337c25541e14b0563ef3fda3d08890bd2a34",
@@ -627,10 +646,10 @@
  "0x4c8ceef9b9c0a27b6b4efa7c398ece4a5eeda76502f722de398c232abefe2ede": {
   "created_at": "2025-07-25T18:28:50.747813Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-24T17:44:50Z",
   "question": "Will Trump be impeached by December 31, 2026?",
-  "revisions": 1,
-  "sha256": "1fffe8a4d3168444495c8c29779989b91bb59b322b49d7339b77c1935e730c98",
+  "revisions": 2,
+  "sha256": "160d4560b9a64947bd31877c629548772e37c5635ff106ab2145341ed8fd8e30",
   "slug": "will-trump-be-impeached-by-december-31-2026"
  },
  "0x4e5d8ae510f99ee589f605d553fdf5d9a335ec91116f803c6bdb398609ca57de": {
@@ -723,6 +742,15 @@
   "revisions": 1,
   "sha256": "c1167c0c6b2a61baa3e28a0741724de69cb4f47c6b695b354603e4c5ad32dae2",
   "slug": "will-rennes-finish-top-8-in-uel-league-phase"
+ },
+ "0x578985f2f13099cfdd463a4bca68e0b62b8a48321b77350564f0ce30494c73de": {
+  "created_at": "2026-11-23T23:54:41.650321Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in February 2027 be above $3.50?",
+  "revisions": 1,
+  "sha256": "9a45dfa71c5302cbb2c92dfeee7a1ace2f5176ff1d86ea706457c55db3c79044",
+  "slug": "b200-average-rental-price-in-february-2027-above-3pt50"
  },
  "0x57b7b05597ce33296f06de626a36855099e4435fe0d4c68ed9cf9f6018858dde": {
   "created_at": "2026-09-08T16:53:11.766628Z",
@@ -932,6 +960,7 @@
   "created_at": "2026-08-18T14:14:46.290689Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Maine be between 800,000 and 850,000?",
   "revisions": 1,
   "sha256": "63cbb9886ce4c61ab03246ad7dba47f589b990161a3e9e3a1caf4253fa84fd12",
@@ -992,6 +1021,24 @@
   "revisions": 1,
   "sha256": "20033560e3d802d225da65ec3dea2af6a51624ed5dba037248fd7816d52ed598",
   "slug": "will-cam-coleman-be-the-2026-d1-receiving-tds-leader"
+ },
+ "0x7c901a72a74d20a454c6881a60b4f0925a68e0c9bfa2baca11c952c67e3aa4de": {
+  "created_at": "2026-08-06T08:20:19.964515Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the cure (Olivia Rodrigo) win Record of the Year at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "89bf80a94cd770ca0a3f60b864a7bc7da94a6de726f58037443839e62e43cff5",
+  "slug": "will-the-cure-olivia-rodrigo-win-record-of-the-year-at-the-69th-annual-grammy-awards-20260805190947454"
+ },
+ "0x7d21679fd52a6d6497bef40f37800609a9455c5356de23d130e956c048da07de": {
+  "created_at": "2026-11-23T22:40:03.194137Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will BELCHONOKK be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-belchonokk-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x7f33fd9cf4fe70ba2f36a6cc672cece511e95e37fe866d45e9ccc8428a10b7de": {
   "created_at": "2026-08-12T17:17:00.721108Z",
@@ -1201,6 +1248,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-pascal-siakam"
+ },
+ "0x92329e8396e3b007badd44febb2f6bf7dc3b100dd57794423d7292b431ba76de": {
+  "created_at": "2026-11-24T05:00:04.549568Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 140-159 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-140-159"
  },
  "0x9326af5aed820a0c29c152132e239dd631c2a9e79c8d48da3eba993f46e14fde": {
   "created_at": "2026-08-05T19:42:40.330399Z",
@@ -1779,6 +1835,15 @@
   "revisions": 1,
   "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
   "slug": "will-nico-hischier-record-50-goals-in-the-2026-27-regular-season"
+ },
+ "0xf11511e14873ba8742587c36a5ef1d9a6f4bab6f95142d4f97e19c6517fb4dde": {
+  "created_at": "2026-11-24T02:20:51.825133Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Poilievre announced resignation or removal by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "8c1a90ae891bac6e7c95a4e4fe9ad535b3c64df782042425daf02e0f840a85a7",
+  "slug": "poilievre-announced-resignation-or-removal-by-june-30-2027"
  },
  "0xf1763d885a23f4f0bad3ec6480e74096215c32a3aa162a763da7369633d401de": {
   "created_at": "2026-09-04T19:33:07.412212Z",

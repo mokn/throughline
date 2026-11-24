@@ -57,6 +57,7 @@
   "created_at": "2026-08-10T15:33:17.080471Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 ME-01 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "5646f9b81404244bd83e84f53bf0ac4a0ce688c49ae6b24d7a29e8532d7e20ae",
@@ -97,6 +98,15 @@
   "revisions": 1,
   "sha256": "849613631f1cf41f3bd9cdc1b4ea5c600e850b3594842464497e251cedd61696",
   "slug": "will-diable-play-for-lgd-gaming-in-2027"
+ },
+ "0x0e66f0b86965fd128061192ed09de23f79ce695b16c759de1f2b2e955c939ba2": {
+  "created_at": "2026-11-24T05:00:11.69304Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 800-839 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-800-839"
  },
  "0x0f1ba179a3f467e4fcb89fd8872390edfd32d97816706c5961376fde55cd62a2": {
   "created_at": "2026-05-21T20:28:09.319249Z",
@@ -304,6 +314,7 @@
   "created_at": "2026-08-10T15:34:12.455345Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-11 House election?",
   "revisions": 1,
   "sha256": "b133ebf606a92028b1613ac8a65adec0262cb4051d4d4fc7a68e79bd7538088b",
@@ -331,6 +342,7 @@
   "created_at": "2026-08-07T14:05:22.636948Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-01 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "d5fd40be116ffb224405a79bca4fb54bb9bda2490d981ebd8a78d9572f7742e3",
@@ -446,6 +458,15 @@
   "revisions": 1,
   "sha256": "b6a3468cf61a291c1848fd22bd29e303cde5a6960649161e088290f496e494de",
   "slug": "will-fc-flora-finish-3rd-in-premium-liiga-estonia-2026"
+ },
+ "0x38775c4157f2c400aa46ed8d2c40c082010b51ee415c9863f7705aa1e8d8cfa2": {
+  "created_at": "2026-11-23T22:39:51.974119Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will arT be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-art-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x38a1025bfc56539ed1ff8fdd468283d55cf9002412decd61aa8d6c578c7d01a2": {
   "created_at": "2025-10-10T18:55:03.219617Z",
@@ -802,6 +823,7 @@
   "created_at": "2026-08-10T15:33:44.867545Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-04 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "ae7934ff7df946a238ac29083d8b1886a6f2919f2a96773aa09c924f534aacc8",
@@ -1673,6 +1695,7 @@
   "created_at": "2026-10-15T13:16:54.148381Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will DICK'S Sporting Goods Q3 Dick's business comparable sales growth be between 2% and 3%?",
   "revisions": 1,
   "sha256": "cb3f717a955bda3998fd088ad2e16e1b2d1ec3cc63012e40f0f5b5c02dc9be9f",

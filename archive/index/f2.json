@@ -63,6 +63,15 @@
   "sha256": "25a89d04471a8f7162669d2b6396e9b8f4bfb69f96fdf43799cf75356c49087f",
   "slug": "will-pri-win-the-most-seats-in-the-2027-sonora-congress-election"
  },
+ "0x07209da2e44726f43182e8a3e39eef4aaefcfd43852dc263e51e29246f697df2": {
+  "created_at": "2026-11-23T22:23:28.657092Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Ninjas in Pyjamas go 3-1 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "85feade74e3e90721eada183e9a2680f4127811cbf6ee2e78d14a35143d7ad44",
+  "slug": "will-ninjas-in-pyjamas-go-3-1-in-stage-1-of-the-pgl-major-singapore-2026"
+ },
  "0x0f34c77b82c12f02d1a93599fe77d238fe7669cc10ca21353f345f2ad4f942f2": {
   "created_at": "2026-04-14T16:04:08.037129Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -154,6 +163,15 @@
   "sha256": "de9a5b5ef1b9b92af737dcce3871bbd52719e1c082f5c409e7a4c3ae42e4b0a7",
   "slug": "china-x-philippines-military-clash-before-2027-20260723214807932"
  },
+ "0x2229d8ea102c58fb747f74f674aff92e34f524586da4f83d467b5beedef726f2": {
+  "created_at": "2026-11-23T22:23:27.565649Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will M80 go 3-1 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "85feade74e3e90721eada183e9a2680f4127811cbf6ee2e78d14a35143d7ad44",
+  "slug": "will-m80-go-3-1-in-stage-1-of-the-pgl-major-singapore-2026"
+ },
  "0x22ea3fd30de6c69765adb943d520806de3fa6dda1d61b682ec1a591b73e6b1f2": {
   "created_at": "2026-06-25T21:14:53.398544Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -162,6 +180,15 @@
   "revisions": 1,
   "sha256": "259ab7f4d6c1b06cb14b56f04ee0786a768ceaa5b48061e4e9fcd9559b8dc9eb",
   "slug": "will-the-toronto-raptors-be-the-2027-nba-eastern-conference-champion-20260624155839408"
+ },
+ "0x27567728d4cc9a44f4190e9a63f609c89bca210b92cd8f3173c9552ce3b116f2": {
+  "created_at": "2026-11-24T02:15:49.591215Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Arknights: Endfield be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-arknights-endfield-be-the-1-searched-game-on-google-this-year-2026"
  },
  "0x28364d5f16176f63b7577f9dd3956335af848b8fdcf7be8d7007704d982517f2": {
   "created_at": "2026-09-28T20:21:53.910612Z",
@@ -721,6 +748,15 @@
   "revisions": 1,
   "sha256": "e08babce92689a04acca444250c37fb862fa14f71bf274767a0705be9a10e737",
   "slug": "2027-soccer-sper-lig-runner-up-gztepe"
+ },
+ "0x737929f4214b628263acec0bd1a336dffad6db1ba4842506248a90e0491ea0f2": {
+  "created_at": "2026-11-23T22:38:00.799218Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will iM record a 1v5 clutch at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "b58f9d79b2a7caf61d36707be1e55e742b6d89b37eaa8309f62ec3f3b908d1f3",
+  "slug": "will-im-record-a-1v5-clutch-at-the-pgl-major-singapore-2026"
  },
  "0x73ed496d4c87cde26e88e8f2efb2ac554bb43f2917314347580c29d263a414f2": {
   "created_at": "2026-10-01T00:10:46.173638Z",
@@ -1337,6 +1373,7 @@
   "created_at": "2026-09-17T18:29:43.815559Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Mary Peltola win the 2026 Alaska Senate first round by 0%-3%?",
   "revisions": 1,
   "sha256": "7461ee8833b68a8f5a01ce24254253a0703f3d1046c74b2e02962e3b0db61686",

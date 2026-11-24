@@ -30,6 +30,7 @@
   "created_at": "2026-08-07T14:03:58.752412Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-06 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "d193030ea0405545d9610cdb620300e29819bfbcdcdec470ee4eb7115d6a7e30",
@@ -85,6 +86,7 @@
   "created_at": "2026-07-30T20:45:50.178683Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Robert Morales (UNAM Pumas) be the top goalscorer of the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "8eb61db9408e0f4f32c1421e4762e4a41c9adc644fcbfcb87f8e9ee7afe18eba",
@@ -996,6 +998,7 @@
   "created_at": "2026-08-07T14:05:53.793532Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-02 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "f0033bd98b34438bb80886168e076311de4c13a0c2af8cfe7431c00276406266",
@@ -1390,6 +1393,15 @@
   "revisions": 1,
   "sha256": "42dc5438b4b50475d5e5c2b7d84e9c9dfda5199a60db786cd2bd7c67c996bd08",
   "slug": "gas-hits-4pt50-dollars-by-end-of-2026-dem-sweep-no"
+ },
+ "0xd5231f6df0d665950ec261e213c57ce937af1001a22118127092b9de1393c043": {
+  "created_at": "2026-11-23T22:43:46.642769Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Meiko be inducted into the Hall of Legends in 2027?",
+  "revisions": 1,
+  "sha256": "0b435579dd8c6fd15b6870fdffc132176265fccd1634c512f3a67b3ed96b6cca",
+  "slug": "will-meiko-be-inducted-into-the-hall-of-legends-in-2027"
  },
  "0xd55ce5412e02bd77dacd433529d2e7694484c359f76db14c53787022e9ed6b43": {
   "created_at": "2026-10-30T01:17:43.801474Z",

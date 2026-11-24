@@ -969,6 +969,7 @@
   "created_at": "2026-08-10T15:33:56.410968Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-07 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "b7dd9626f4826466df600ae4265c76b9f2d8a0f96fa604e3e06179b14d796e26",
@@ -1185,6 +1186,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-nick-suzuki-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0x918c01186027c300e00443979b738134cec350cd255dbc6076dfe33a8d31274f": {
+  "created_at": "2026-11-24T05:00:14.631504Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 1280-1319 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-1280-1319"
  },
  "0x92f82a28ca55efdf1235f07e4d5115c38bf54d323fc014c261f11d0da634fd4f": {
   "created_at": "2026-10-30T01:19:04.500409Z",
@@ -1536,6 +1546,15 @@
   "sha256": "849613631f1cf41f3bd9cdc1b4ea5c600e850b3594842464497e251cedd61696",
   "slug": "will-diable-play-for-team-liquid-in-2027"
  },
+ "0xbd3a1be82b43b72c6a1e03792755b062a0b9460476426ec994c587374f2a584f": {
+  "created_at": "2026-08-06T08:18:35.352125Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will everything is a lot. (Wale) win Best Rap Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "3f70b198ea2332ea13ca297f9ef28c5370f3f4912c051974865df612459b42e6",
+  "slug": "will-everything-is-a-lot-wale-win-best-rap-album-at-the-69th-annual-grammy-awards-20260805190947720"
+ },
  "0xbd8cd48424d6dd1c6044903a28994f244b82437cce63eab9f4c463cddaadb74f": {
   "created_at": "2026-08-11T18:43:40.399983Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1811,6 +1830,15 @@
   "sha256": "dd4f3f6b0fc04c799981a5732a66f968cc28e19d6a72df83c47f98b66225996e",
   "slug": "will-ropz-get-pulled-over-again-in-2026"
  },
+ "0xe588b20f89d74add5a1fe006ae1ff54144cd7f2f22135ff17044eee6b141ca4f": {
+  "created_at": "2026-11-23T23:55:53.625033Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in March 2027 be above $27.00?",
+  "revisions": 1,
+  "sha256": "9bd16262a6b3d9633e5288452c43f1fd58aac01c0212846901439c1421d30466",
+  "slug": "b300-average-rental-price-in-march-2027-above-27pt00"
+ },
  "0xe8419ecc5861a6047843160f54ea7905a0d2336a49874967bbc2e7ddf8e2e64f": {
   "created_at": "2026-08-11T19:04:22.216257Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1861,6 +1889,7 @@
   "created_at": "2026-08-05T16:44:09.603489Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Alabama gubernatorial election by 30% or more?",
   "revisions": 1,
   "sha256": "cf8cb864445d856b71b78782b836c1febedc1f39d3a5bf7b8fcc4ceabaf58f26",

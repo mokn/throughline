@@ -760,6 +760,7 @@
   "created_at": "2026-08-11T19:20:47.799206Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 UT-01 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "49a000f6a78daeb201239131715625eb362c183646e33f11f1b4ff3792ac5d40",
@@ -1311,6 +1312,15 @@
   "sha256": "1379d46da97dd1ab95bce751d685eb5ba3b678df2f174b9b3e1727b9e61fbce4",
   "slug": "will-grok-5-be-released-by-march-31-2027"
  },
+ "0xc8d2cb55a3e75f524dcf42a649948546605e340f925a2809ffb1c2ae9e6dafcf": {
+  "created_at": "2026-11-23T23:52:42.641816Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in January 2027 be above $4.50?",
+  "revisions": 1,
+  "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
+  "slug": "h100-average-rental-price-in-january-2027-above-4pt50"
+ },
  "0xc907bc82f6ed5cb2eff6f0ab0b4d6c237068f4cfbd36d2b2676017f5fac382cf": {
   "created_at": "2026-09-09T15:47:56.697787Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1383,6 +1393,15 @@
   "revisions": 1,
   "sha256": "24db1dd753b13416e756e4d99e915440c49da84f292fbf43f01857562b6b0dbe",
   "slug": "will-ujpest-fc-finish-3rd-in-nb-i-hungary-2026-27"
+ },
+ "0xd067e3b17746d23ad13cd61fa4704a0f159126c835140548ce1e756f28027bcf": {
+  "created_at": "2026-11-23T22:38:54.413758Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Eternal Fire record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-eternal-fire-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
  },
  "0xd252642e1b118340528b8f2844722eb0c922d8b35b6e034a98de77f78709eccf": {
   "created_at": "2026-11-18T21:07:50.132045Z",

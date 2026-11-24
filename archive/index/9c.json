@@ -44,6 +44,15 @@
   "sha256": "470ebb17c297a594def52b4c1044fdc6243398e5843e99ba2d476eaad1eb5cb7",
   "slug": "will-evan-dickens-be-the-2026-acc-rushing-tds-leader"
  },
+ "0x0521f7ccbb459a31d84172371eef37eee79701b9da5c763d68561c04cb65219c": {
+  "created_at": "2026-11-23T22:40:12.139669Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will LNZ be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-lnz-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0x05ba2df396739c06cde29c4ab7be9392954396a69bd3458f1d110f7075ebe89c": {
   "created_at": "2026-10-10T19:00:25.626287Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -530,6 +539,7 @@
   "created_at": "2026-08-11T19:04:30.206825Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 UT-03 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "24076dd6571d59a554b8102d42143624c324a43e3d33f424cf551bcd3786f515",
@@ -703,6 +713,7 @@
   "created_at": "2026-11-10T02:14:48.173851Z",
   "first_seen": "2026-11-13T14:35:32Z",
   "last_changed": "2026-11-13T14:35:32Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Nikesh Arora be the next CEO of NVIDIA?",
   "revisions": 1,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
@@ -1077,6 +1088,7 @@
   "created_at": "2026-08-11T19:20:50.027454Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 UT-01 House election?",
   "revisions": 1,
   "sha256": "49a000f6a78daeb201239131715625eb362c183646e33f11f1b4ff3792ac5d40",

@@ -77,6 +77,7 @@
   "created_at": "2026-11-20T19:04:08.170596Z",
   "first_seen": "2026-11-21T14:39:27Z",
   "last_changed": "2026-11-21T14:39:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Nasdaq-100 close in a bear market by June 30, 2027?",
   "revisions": 1,
   "sha256": "841e21251fbecbe2868b3e1fe2049d85ea41377a7f2edc435029153af46e1976",
@@ -461,6 +462,15 @@
   "revisions": 1,
   "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
   "slug": "b300-average-rental-price-in-june-2027-above-14pt00"
+ },
+ "0x3feb54302678287e809bddd84f7b787d37f979daa7469c0ed4128f34f44b5b55": {
+  "created_at": "2026-11-23T23:53:30.841976Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $0.60?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-0pt60"
  },
  "0x41310ceca3f11dfe4f6f58b97ca591eca34dcd490b1c868b01c38133bdfb4255": {
   "created_at": "2026-08-26T21:46:42.668715Z",
@@ -975,6 +985,15 @@
   "sha256": "6a79333faaa6fa91d327d59b88abd2853f036d66f6ccf4388c700afde2cd542b",
   "slug": "will-pt-win-the-most-seats-in-the-2027-colima-congress-election"
  },
+ "0x9e1b4066cb2bcb616b6c88397a5b9af52c912a6a59e11a69e4d65101a6681a55": {
+  "created_at": "2026-11-23T22:40:22.126818Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will jcobbb be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-jcobbb-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0x9e77f93936134f46e2c7901b907e08f8ac941e0f8a218271ab18ceaf950e1f55": {
   "created_at": "2026-09-20T08:15:28.143921Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1249,6 +1268,15 @@
   "revisions": 1,
   "sha256": "ef697cce15ffd241ee78cd15bc4a5746afea01d707e8942bf8d6bf8338be9966",
   "slug": "will-mike-mccarthy-be-the-next-head-coach-fired-2026-27"
+ },
+ "0xcc617621ff6415f3c8fb00d2e4dffa94c00e57007821e1d73a39db63dece4055": {
+  "created_at": "2026-11-24T05:00:14.397033Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 1240-1279 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-1240-1279"
  },
  "0xcdb2c273dafe454d5c8ba820fe9774a92e9cc078afbd491fdffff964b4e4e355": {
   "created_at": "2026-11-11T21:57:31.136856Z",
@@ -1574,6 +1602,15 @@
   "sha256": "9842e2670455f8cfbaa10bdcd392ee7c8f3ff3742d0cc1ba11e92fbd6bfb1dfc",
   "slug": "will-democrats-win-exactly-3-house-seats-in-nevada-in-the-2026-midterm-elections-20260811010753574"
  },
+ "0xfb526bd38e15ae0a18fa56bbd29a8f05937637fe4dc6de68d33d1ca6836a3a55": {
+  "created_at": "2026-11-24T01:43:25.801945Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Perplexity be acquired before 2028?",
+  "revisions": 1,
+  "sha256": "a92aaea4e030a9852cae3f6f4f1cb2161eb169e7e153eaa0d42a0fcea00d57a4",
+  "slug": "will-perplexity-be-acquired-before-2028"
+ },
  "0xfb948f8888af1209ae7a00a16a19e60119a682a1ea030c3da9dfb9844400b355": {
   "created_at": "2026-08-24T16:37:53.158853Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1587,6 +1624,7 @@
   "created_at": "2026-08-18T14:08:01.653677Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Arizona be 3,200,000 or more?",
   "revisions": 1,
   "sha256": "24e550ff45f2e9ba7df797d5adeddf517ffd14356154b8b4927ffffaf8a42d6f",

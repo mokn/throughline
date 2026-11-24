@@ -409,6 +409,15 @@
   "sha256": "f5e18d07fb0252bda5839ad194832dbb82af61634a6cfd060233dc6fccec8f9f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-va-01-house-election-by-12-or-more"
  },
+ "0x427f9d87c01fbd1be63469d6853fd551ee2761bc9eb07c5d29362276fdd74d5c": {
+  "created_at": "2026-11-23T22:38:45.259136Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will FUT record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-fut-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0x446fcdfd4fef8e9771287c61a7d7f48eaa1b0a33ddf74a445272c79d014e615c": {
   "created_at": "2026-09-13T08:16:10.458442Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -711,6 +720,15 @@
   "revisions": 1,
   "sha256": "528c79b4f4d0e52a2a16ae7442413f4c20697270820cfc2f77bc2d4b262fa169",
   "slug": "2027-soccer-premier-league-runner-up-manchester-city"
+ },
+ "0x690e730e0ad0b9760feae78860736aed4ef84e24b217cd442e5d8f6692f83f5c": {
+  "created_at": "2026-11-23T23:14:36.345963Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Fl\u00e1vio Bolsonaro rank in Google\u2019s Top 5 Most Searched People of 2026?",
+  "revisions": 1,
+  "sha256": "381fa4ba2ace428623c0b27d1b46d6dacece3de834031139fd52519aa461f571",
+  "slug": "will-flavio-bolsonaro-rank-in-googles-top-5-most-searched-people-of-2026"
  },
  "0x6aeea78067ce890428f4783774883117a89166b646201581146cf2f72a8fbe5c": {
   "created_at": "2026-11-12T00:30:42.216115Z",

@@ -333,6 +333,7 @@
   "created_at": "2026-08-18T14:09:32.368698Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Alaska be between 305,000 and 320,000?",
   "revisions": 1,
   "sha256": "cc630ec01d3e4622f6d529d745c4b1f40bfec7cfeb28cfcf2fd6c7bedc4f83fa",
@@ -1713,6 +1714,15 @@
   "sha256": "ad12c19800a084d891de990f82ff87c9d7f54e4db23abf1606406e3a9ff808f6",
   "slug": "will-ilhan-omar-be-deported-in-2026"
  },
+ "0xfcca301d52af7782c1e136d5c2b7f86f42c9408b38bde3f79b9f3dd4411c9582": {
+  "created_at": "2026-11-23T23:55:49.744302Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in March 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "9bd16262a6b3d9633e5288452c43f1fd58aac01c0212846901439c1421d30466",
+  "slug": "b300-average-rental-price-in-march-2027-above-4pt00"
+ },
  "0xfd1410b322f8a1c2e82e15a5a21a107698d5ca27c0dc7397f73029644ff5e282": {
   "created_at": "2026-10-13T15:57:27.421697Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1735,6 +1745,7 @@
   "created_at": "2026-11-10T02:14:36.403312Z",
   "first_seen": "2026-11-12T15:15:16Z",
   "last_changed": "2026-11-12T15:15:16Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will there be no new be CEO of NVIDIA by December 31, 2028?",
   "revisions": 1,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",

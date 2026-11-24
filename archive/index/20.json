@@ -1202,6 +1202,7 @@
   "created_at": "2026-08-10T15:33:48.660912Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-05 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "f9f99d6a2d467b91681d672b9a88900a09a8e5badda9f0c7a12455fc2f2bfcf2",
@@ -1252,6 +1253,15 @@
   "revisions": 1,
   "sha256": "6844079682818058d1de2c1476766359daa2122552d75828bf3e291a8d785023",
   "slug": "2026-soccer-peru-liga-1-runner-up-alianza-atltico-sullana"
+ },
+ "0xa81eca7c5bd8ca3bb1f714826160322d2d9d69cb0f99ee16cebc6057dc833a20": {
+  "created_at": "2026-11-24T05:00:10.236563Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 580-599 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-580-599"
  },
  "0xa826b905aaad3a30eba42fdcd76c4ef3e7c63fac8c42b93160d18e3e501daf20": {
   "created_at": "2026-08-21T17:31:52.117579Z",

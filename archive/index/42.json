@@ -8,6 +8,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-james-harden"
  },
+ "0x04d2d73e911144d515a87a0aa73ac0f33c1b66a07ee485204094f5746ef0e342": {
+  "created_at": "2026-11-23T18:46:45.203398Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in December 2026 be above $7.40?",
+  "revisions": 1,
+  "sha256": "ea2c95d11fa0e1076737efbd831304b1602a1f7e9f96726a05f60292b16d9f5b",
+  "slug": "b200-average-rental-price-in-december-2026-above-7pt40"
+ },
  "0x0568d33008d914fcc9543d7462be3a324e4e6f75807ef4a34831074aed5cc042": {
   "created_at": "2026-11-10T02:41:33.557554Z",
   "first_seen": "2026-11-10T14:52:55Z",
@@ -108,6 +117,15 @@
   "revisions": 1,
   "sha256": "0a353ba440d3bd30b0e3f3643f1fd8c9833f9f17214ac83095980ea53895a051",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-virginia-be-between-3750000-and-4000000"
+ },
+ "0x124fd6906d315c71be4cd470be77636e56fe4ce6e92ed5586efcfc0d14f89c42": {
+  "created_at": "2026-11-23T22:23:45.431112Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will GOSH (BC.Game) go 3-2 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "9f15992409677ff8dbdfa1e34b3e4ce2911d040a9c9274c42046435de9273b70",
+  "slug": "will-gosh-bcptgame-go-3-2-in-stage-1-of-the-pgl-major-singapore-2026"
  },
  "0x1353cae1d844da256910ca739cf421dd4a0e6c03fb8a907af30af9f5f7aa8042": {
   "created_at": "2026-08-18T14:56:56.982106Z",
@@ -307,10 +325,20 @@
   "created_at": "2026-07-30T20:45:50.335716Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Juninho (UNAM Pumas) be the top goalscorer of the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "8eb61db9408e0f4f32c1421e4762e4a41c9adc644fcbfcb87f8e9ee7afe18eba",
   "slug": "will-juninho-unam-pumas-be-the-top-goalscorer-of-the-2026-liga-mx-apertura-20260729164435043"
+ },
+ "0x3105b8e99e5895c33cfea5c8b69ca33047d967afa0738dc3efded65508fc0142": {
+  "created_at": "2026-11-23T22:39:48.925423Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will TeSeS be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-teses-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x314de4dba8b35d410a8c5403af084a395639cc54d75a5e2ae9d48666cd52cf42": {
   "created_at": "2026-10-22T22:20:18.43298Z",
@@ -718,6 +746,7 @@
   "created_at": "2026-08-05T16:45:11.598617Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Arizona gubernatorial election by 18% or more?",
   "revisions": 1,
   "sha256": "c4cb9014c53a5343f6f3d1ca773f865617304a7b3b50e53f65cc587a5770bfd0",
@@ -1008,6 +1037,15 @@
   "sha256": "1f2b7027491249fbf981b517edaf3e3a1a7563d543e3c7c40b94899a8cf0252f",
   "slug": "south-dakota-passes-ballot-measure-banning-noncitizens-from-voting"
  },
+ "0x9e5e9c7ae606901bd3e5de7414b7a6f2c5fc95ad80dd4e5fdf05d8730852f042": {
+  "created_at": "2026-11-23T22:39:05.868389Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will PVISION (PARIVISION) record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-pvision-parivision-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0xa1b48fb471a74b12ea0a9014b673974079cd63243776576bf1cfc8df84ac1242": {
   "created_at": "2026-09-09T15:41:45.193805Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1149,6 +1187,7 @@
   "created_at": "2026-08-10T15:34:16.75501Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-13 House election by 55%-60%?",
   "revisions": 1,
   "sha256": "1f09cb5cbaad6d567a08fcbed5afe52329852f0ce4329c73c850873d64d43e37",

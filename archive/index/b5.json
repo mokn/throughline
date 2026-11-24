@@ -312,6 +312,15 @@
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
   "slug": "will-the-boston-celtics-win-the-2026-nba-cup"
  },
+ "0x2854948f9ed0f6f3187a3e65a22a0ba75f891b40e210fb65fb99bc79aa41f0b5": {
+  "created_at": "2026-11-23T22:23:44.341512Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Wildcard go 3-2 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "9f15992409677ff8dbdfa1e34b3e4ce2911d040a9c9274c42046435de9273b70",
+  "slug": "will-wildcard-go-3-2-in-stage-1-of-the-pgl-major-singapore-2026"
+ },
  "0x29ca178ba9fec0f9556b8c47d93946cb0c0131bdba9e78dfb473730ecd56fbb5": {
   "created_at": "2026-08-12T14:59:09.981994Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -619,6 +628,15 @@
   "sha256": "49cb3a0d328cf1f0cee82bbbddee9679004edab6a92b19682e76ecfd8a3f674f",
   "slug": "will-the-republican-party-candidate-win-the-2026-ok-03-house-election-by-25-30"
  },
+ "0x4bcff840e022d5c828973b78a3e18a715d29db7cb180a6533617114a6f6684b5": {
+  "created_at": "2026-11-24T01:43:20.992668Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Reflection AI be acquired before 2028?",
+  "revisions": 1,
+  "sha256": "a92aaea4e030a9852cae3f6f4f1cb2161eb169e7e153eaa0d42a0fcea00d57a4",
+  "slug": "will-reflection-ai-be-acquired-before-2028"
+ },
  "0x4bdc4e8c5d6fdc0a6703fdc8ef9a4b7372d5121d1a8e03477b37855d9cbcddb5": {
   "created_at": "2026-09-02T21:55:59.825051Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -913,6 +931,7 @@
   "created_at": "2026-08-07T14:05:20.928044Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-01 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "d5fd40be116ffb224405a79bca4fb54bb9bda2490d981ebd8a78d9572f7742e3",
@@ -1370,6 +1389,7 @@
   "created_at": "2026-08-05T20:15:32.088235Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Michigan gubernatorial election by 6% or more?",
   "revisions": 1,
   "sha256": "a819203e4f9eceed3d50a12467077fa52bdeed4afb14de03fffc660f783b12a9",
@@ -1641,6 +1661,15 @@
   "sha256": "c2f2080e241dc797568141ceca7d0d9a6933c2ba9c878efdac48d2a231f1ad15",
   "slug": "will-the-republican-party-candidate-win-the-2026-va-02-house-election-by-0-3"
  },
+ "0xcf5368baba7f5a1f2180a0528ca6b85369019fb89b3f85c2661500619dfbd6b5": {
+  "created_at": "2026-11-24T02:20:41.247237Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Malawi be last in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "9b44f7bd9a965c1bb12716c988ae8f27d45425bee3d701e83da79b1c5056ac29",
+  "slug": "will-malawi-be-last-in-the-world-happiness-report-2027"
+ },
  "0xd05c2a8e0c6b0410de2bba4ab153b5f8ff2058166b86caa581582523aad33eb5": {
   "created_at": "2026-08-28T20:17:49.029092Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1846,6 +1875,7 @@
   "created_at": "2026-09-17T18:29:45.338485Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Mary Peltola win the 2026 Alaska Senate first round by at least 12%?",
   "revisions": 1,
   "sha256": "7461ee8833b68a8f5a01ce24254253a0703f3d1046c74b2e02962e3b0db61686",
@@ -1966,6 +1996,7 @@
   "created_at": "2026-08-05T18:48:39.484065Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Maine gubernatorial election by 15%-20%?",
   "revisions": 1,
   "sha256": "618c5e75ec9a732021949745aaa6337c25541e14b0563ef3fda3d08890bd2a34",

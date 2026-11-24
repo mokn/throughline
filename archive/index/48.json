@@ -176,6 +176,7 @@
   "created_at": "2026-08-18T14:08:00.841933Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Arizona be between 2,450,000 and 2,600,000?",
   "revisions": 1,
   "sha256": "24e550ff45f2e9ba7df797d5adeddf517ffd14356154b8b4927ffffaf8a42d6f",
@@ -456,6 +457,15 @@
   "revisions": 1,
   "sha256": "b260204508b17438238f372b7a965645cb2d62380101de1fbe1c528efd84ffd5",
   "slug": "will-chen-ting-fei-win-the-next-tainan-mayor-election-20260813125857502"
+ },
+ "0x3eced6da4c45e56e165f0c980e55300acb8b9707a90b812ca3b6c4522d703048": {
+  "created_at": "2026-11-23T18:58:57.45757Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $1.40?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-1pt40"
  },
  "0x4032d8531918d18f9391672d8a5c8bedbeacfd30e47617ac853f4efd119eec48": {
   "created_at": "2026-08-18T20:30:41.951843Z",
@@ -1500,6 +1510,15 @@
   "revisions": 1,
   "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
   "slug": "will-revisionist-history-win-best-podcast-at-the-84th-golden-globes"
+ },
+ "0xe78c8eab6396777821b66d03d77e732d7009ad4d54782110582d07aef7c61748": {
+  "created_at": "2026-11-23T22:39:36.840988Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will ropz be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-ropz-be-the-pgl-major-singapore-2026-mvp"
  },
  "0xe8515ecba05a1b8e308be45944c2ceb9b21dce20a21b9f05cd474068de332c48": {
   "created_at": "2026-08-21T20:01:57.107919Z",

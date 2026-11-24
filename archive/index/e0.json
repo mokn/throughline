@@ -777,6 +777,15 @@
   "sha256": "6dc17fda355894cdc6bac436ec8273beac375d77209a4e4ebf3f3701372e976d",
   "slug": "2027-soccer-bundesliga-runner-up-vfb-stuttgart"
  },
+ "0x70ec9e8015b277d314b2aeef180d96c71359d75babea59dbd16a6b009cd3fee0": {
+  "created_at": "2026-11-23T22:23:29.202872Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will HEROIC go 3-1 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "85feade74e3e90721eada183e9a2680f4127811cbf6ee2e78d14a35143d7ad44",
+  "slug": "will-heroic-go-3-1-in-stage-1-of-the-pgl-major-singapore-2026"
+ },
  "0x72ae578674d464b0180054ecc74b4ee35c9367b7a764e11d81ab5209a680ade0": {
   "created_at": "2026-10-01T00:10:46.977655Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -896,6 +905,15 @@
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
   "slug": "will-yunnan-yukun-be-relegated-from-chinese-super-league-2026"
+ },
+ "0x8062a7add7f884477a198f57f745fdb1637e61709316279ca453a409eb1653e0": {
+  "created_at": "2026-11-23T22:38:51.391058Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Astralis record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-astralis-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
  },
  "0x811c7a22311b8281253f66374e6b6755a67664763fd425b0f9a8badb8ad386e0": {
   "created_at": "2026-06-28T21:28:10.571027Z",
@@ -1199,6 +1217,24 @@
   "sha256": "4c35e7ea9c056a76c44483379e6250d9826639f9a5b301b630f80dc49ba4f167",
   "slug": "will-johnny-walker-fight-alexander-volkov-next"
  },
+ "0xae8338a3d26a84c7b562730fdabcc93373effd4b71766815bba3bf24a0720ae0": {
+  "created_at": "2026-11-23T22:40:15.5009Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Krimbo be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-krimbo-be-the-pgl-major-singapore-2026-mvp"
+ },
+ "0xb02e6e3519196ab1c1e31ec81f3d922664b2e707e71e57d8ad9fbba1cd6437e0": {
+  "created_at": "2026-11-23T22:37:52.309175Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will m0NESY record a 1v5 clutch at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "b58f9d79b2a7caf61d36707be1e55e742b6d89b37eaa8309f62ec3f3b908d1f3",
+  "slug": "will-m0nesy-record-a-1v5-clutch-at-the-pgl-major-singapore-2026"
+ },
  "0xb07e80b488b911f7775b204b1b293b3876b2b75c0d11ed518ea2f8c726a287e0": {
   "created_at": "2026-10-05T19:30:30.042281Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1464,6 +1500,15 @@
   "revisions": 1,
   "sha256": "00d756585611d14e319cdaa0c6abfc65c8adba0df2f50083d81843aa30515b91",
   "slug": "will-carson-beck-finish-the-2026-27-nfl-regular-season-with-the-most-passing-touchdowns-20260715212611284"
+ },
+ "0xd25e060cb34c6ac12cfe1a1e6b8c88eacc10e4fa0c9610a9ef48a5b8c69682e0": {
+  "created_at": "2026-11-23T22:40:21.590878Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will frozen be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-frozen-be-the-pgl-major-singapore-2026-mvp"
  },
  "0xd2c852aa9907e39c7152a8329d95728d34f1c356485631a76bc68e73fa8786e0": {
   "created_at": "2026-08-05T16:09:52.470968Z",
@@ -1825,6 +1870,15 @@
   "revisions": 1,
   "sha256": "f5ac8cdd31582eef2325c17deb8cf5ebc3412b25c26d829e90b706092f705e01",
   "slug": "will-tua-tagovailoa-finish-as-a-top-12-qb-in-the-2026-27-nfl-season"
+ },
+ "0xf7d1987ef3a3524a865d611f45764f7ce311a8bc30032691408c1b86dde928e0": {
+  "created_at": "2026-11-24T05:00:09.13035Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 500-519 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-500-519"
  },
  "0xf886c4877b00b087ba7f4a178bf2e81c1778c6e1a8e3175de8f4dd0515337ae0": {
   "created_at": "2026-09-20T08:44:43.314314Z",

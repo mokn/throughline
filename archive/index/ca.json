@@ -271,6 +271,7 @@
   "created_at": "2026-08-10T15:33:17.532365Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 ME-01 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "5646f9b81404244bd83e84f53bf0ac4a0ce688c49ae6b24d7a29e8532d7e20ae",
@@ -420,6 +421,15 @@
   "revisions": 1,
   "sha256": "c41741c4912299c0d05d11fcc2628f4d9953e5a1dfeba3c83c82269b8d110511",
   "slug": "will-the-2-year-treasury-yield-hit-5pt30-before-2027"
+ },
+ "0x38fbe417d233bc076bfb3d6ec863776ef2ef3d51ee12fc63d5ae4c29cd5c04ca": {
+  "created_at": "2026-11-23T22:43:40.99756Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Ruler be inducted into the Hall of Legends in 2027?",
+  "revisions": 1,
+  "sha256": "0b435579dd8c6fd15b6870fdffc132176265fccd1634c512f3a67b3ed96b6cca",
+  "slug": "will-ruler-be-inducted-into-the-hall-of-legends-in-2027"
  },
  "0x3a16ca90e79784afe9bfde760187ab335d2ea5220c4632fb21e2f4e7ab8c6cca": {
   "created_at": "2026-08-27T18:16:52.91632Z",
@@ -835,6 +845,15 @@
   "sha256": "aea9ec43ee5c0d06ec1837ee755c9411faad4b83a49ed8ef6e4e7d237bf6b3cc",
   "slug": "mex-que-mon1-2026-09-05-corners-total-7pt5"
  },
+ "0x7f490444f0a601fdfd92952fae6e92e1130d555dcf1c2367776bb787c8fd97ca": {
+  "created_at": "2026-11-23T18:57:19.401359Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $4.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-4pt00"
+ },
  "0x80bb9d0ead605524a13bb1c3c51e70b763b42551642e718898f745b3893efdca": {
   "created_at": "2026-08-28T05:57:35.010553Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -907,6 +926,15 @@
   "revisions": 1,
   "sha256": "c03d4e47b078143687d7aec5b37ee5a82a0ecf2f9172899af4fa2018a4d1858c",
   "slug": "will-cca-win-the-most-seats-in-santa-cruz-de-tenerife-in-the-2026-spanish-general-election"
+ },
+ "0x8ab08662641f87b70aa7f9cddeb1fcc4fe60ae5d7d3ed0f03c34fec84f4beaca": {
+  "created_at": "2026-11-12T20:22:51.618773Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Varuvaaiy - Devan Ekambaram feat. Susha win Best Global Music Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "3d5108fc0a413bbb4d3ccdf1cf9b4c4373352c54eb1584181f342b0f1bc4db07",
+  "slug": "will-varuvaaiy-devan-ekambaram-feat-susha-win-best-global-music-performance-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x8b613a7d20805fc8eba14edbbb0af371810b8a4c40cc41175c0f119d647cf2ca": {
   "created_at": "2026-09-14T21:41:48.304441Z",
@@ -1612,6 +1640,7 @@
   "created_at": "2026-08-05T18:48:38.342376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Maine gubernatorial election by 5% or more?",
   "revisions": 1,
   "sha256": "618c5e75ec9a732021949745aaa6337c25541e14b0563ef3fda3d08890bd2a34",

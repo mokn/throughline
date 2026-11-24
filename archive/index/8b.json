@@ -566,6 +566,7 @@
   "created_at": "2026-06-29T17:00:06.172567Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will $ANSEM dip to $0.02 before 2027?",
   "revisions": 1,
   "sha256": "be84d4eaec1241457f3396bb8735bf7ef633671b56168c882bb804dd78c29c57",
@@ -726,6 +727,15 @@
   "revisions": 1,
   "sha256": "8d10d5d0f683f040f262a9aca6c6847fb7ad2c093a2fb781879835b4bafdf3a5",
   "slug": "jordan-love-3500-passing-yards-2026-27"
+ },
+ "0x6751801334963eab42ad2c46b6cc91575ae124809f2b512acc17d679cddbd08b": {
+  "created_at": "2026-11-23T22:39:50.961506Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will latto be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-latto-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x67c2ed89f374e55d5e0e12c152985cb8e0e0e9086146b836115a4550c3dc958b": {
   "created_at": "2026-08-17T21:27:12.196396Z",
@@ -897,6 +907,7 @@
   "created_at": "2026-08-10T15:33:59.126403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-08 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "229658df6c15b2328aec0581d588301c0a8986a8d82e76467a404b9b097acf23",
@@ -979,6 +990,7 @@
   "created_at": "2026-08-10T15:34:18.609827Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-13 House election by 0%-25%?",
   "revisions": 1,
   "sha256": "1f09cb5cbaad6d567a08fcbed5afe52329852f0ce4329c73c850873d64d43e37",
@@ -1021,6 +1033,15 @@
   "sha256": "7e2f4e277f827f89b038e3aa331253cce8c1673238161c53909b87e1a74f7f3f",
   "slug": "will-aleksandar-repic-win-the-2026-ljubljana-mayoral-election"
  },
+ "0x8c5ebcd3e1282634d152fbcd192e046c0f1b1d5b2a5621fe0fc925136bb90b8b": {
+  "created_at": "2026-11-24T02:15:52.828245Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Roblox be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-roblox-be-the-1-searched-game-on-google-this-year-2026"
+ },
  "0x8d697e0ef239d705a504beab5da249feb7f339a198e0fb7671aa496ff610d08b": {
   "created_at": "2026-10-20T06:00:06.876413Z",
   "first_seen": "2026-11-11T14:22:59Z",
@@ -1038,6 +1059,15 @@
   "revisions": 1,
   "sha256": "fbb2b373cb5ac09fa924a66bf83717f3e93bc8c2bd10f43b268f112b3f3c9e8c",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-07-house-election-by-70-75"
+ },
+ "0x8f545c6f8673c8a26c6d8fe4071bedb07982e37a87889fe0c4e375b3749bf48b": {
+  "created_at": "2026-11-23T18:51:06.456055Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $22.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-22pt00"
  },
  "0x91d58748b270a4e8956c63e5be84a12ff8c293aa63a9de751b9dfd7bec9faf8b": {
   "created_at": "2026-08-18T14:56:54.195154Z",
@@ -1155,6 +1185,7 @@
   "created_at": "2026-08-10T15:33:52.094187Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-06 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "0a6ae216cc98492d6e4a805b021652c3681fb78b848abddc13394b459c469ff2",
@@ -1460,6 +1491,7 @@
   "created_at": "2026-08-07T14:03:04.017628Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-08 House election by 18%-21%?",
   "revisions": 1,
   "sha256": "4bb3c384633129b7302b57f977b19b0343d5eeb8c2e7859318326ad97d8f46f2",

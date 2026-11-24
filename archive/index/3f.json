@@ -139,6 +139,7 @@
   "created_at": "2026-08-18T14:14:46.454554Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Maine be between 850,000 and 900,000?",
   "revisions": 1,
   "sha256": "63cbb9886ce4c61ab03246ad7dba47f589b990161a3e9e3a1caf4253fa84fd12",
@@ -224,6 +225,15 @@
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
   "slug": "el2-cra-bar-2026-09-26-exact-score-3-0"
+ },
+ "0x1866ea31d393a28829a39529c9a1efd78dc2264865a7b45aa56a4e06d32a7a3f": {
+  "created_at": "2026-11-23T22:39:59.043454Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will HeavyGod be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-heavygod-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x1a57dc0377d03b961cf8454d38e2a9457b5ee3ed80c509dc23944f57d366ec3f": {
   "created_at": "2026-08-05T19:24:27.94261Z",
@@ -541,6 +551,7 @@
   "created_at": "2026-08-07T14:03:03.752497Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-08 House election by 21% or more?",
   "revisions": 1,
   "sha256": "4bb3c384633129b7302b57f977b19b0343d5eeb8c2e7859318326ad97d8f46f2",
@@ -844,6 +855,7 @@
   "created_at": "2026-10-14T23:18:04.08748Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-11T14:22:59Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will \"The Hunger Games: Sunrise on the Reaping\" Opening Weekend Box Office be between 65m and 75m?",
   "revisions": 2,
   "sha256": "57ab6cee00ffbf3d5021a8bd1a8388bcb13e02785fb7153d94e81c5f78481318",
@@ -1680,6 +1692,7 @@
   "created_at": "2026-08-06T21:34:47.957607Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-03 House election by 55% or more?",
   "revisions": 1,
   "sha256": "2369326350f4a2675b964f4fff2ac4b22ca057b880266050ad5350905ed94d2e",

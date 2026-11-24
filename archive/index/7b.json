@@ -227,6 +227,15 @@
   "sha256": "7b7d38b0b7bc389bd19313b6aa7ebec72ad0a14d821334c9c301af0d1a047596",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nj-10-house-election-by-75-or-more"
  },
+ "0x261f0187d8a54c0b8aaef088dd041db41e94d08789e2afff0f1cc8d7d17f637b": {
+  "created_at": "2026-11-24T02:15:51.965743Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Minecraft be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-minecraft-be-the-1-searched-game-on-google-this-year-2026"
+ },
  "0x26cb9e0d56a010ed3e7f839cdb8fb1240d5e1929a150e9702e5f084c6a3ee97b": {
   "created_at": "2026-09-28T17:19:47.976593Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -376,6 +385,15 @@
   "revisions": 1,
   "sha256": "a96a4328add66ad7dd33809111f1d13729ddeff9c472733861bf54d241cfade3",
   "slug": "f1-las-vegas-grand-prix-constructor-scores-1st-audi-revolut-2026-11-21"
+ },
+ "0x377dd8b8d9caa610ff57c5a83bc5be79a4220bc42b3ac205e60e8765da06c47b": {
+  "created_at": "2026-11-24T01:32:31.314171Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will \"Werwulf\" score at least 90 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "dc9b79300478787b40a7aaee086fdd926680fe50079252151dae3dbcc389acde",
+  "slug": "will-werwulf-score-at-least-90-on-the-rotten-tomatoes-tomatometer-20261228"
  },
  "0x3c3916a59c7ade07c3625faa417102882f3a2423b96ef09c41df41bb49b3f97b": {
   "created_at": "2026-09-20T08:44:18.145577Z",
@@ -598,6 +616,15 @@
   "sha256": "aa3b4b725555f57fa57a2c7520a4c07497c41dc82829bc94a17d380fd4a4761d",
   "slug": "will-santos-laguna-finish-the-2026-27-liga-mx-season-with-the-best-combined-goal-differential-20260722172229851"
  },
+ "0x56dffb258f701c82fe233896ad4bd1f40946cdb870a636951272edf076317c7b": {
+  "created_at": "2026-11-23T18:37:51.162373Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in September 2027 be above $3.00?",
+  "revisions": 1,
+  "sha256": "757bd3facb87f7703b7cbb295fc424426bc0bddcff843eed29d1afb4b459c1b4",
+  "slug": "b200-average-rental-price-in-september-2027-above-3pt00"
+ },
  "0x57112991a16021300671c1913202eb9f4350c6b1ba0928d68a084ddb0d98037b": {
   "created_at": "2026-09-08T16:54:38.42454Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -656,6 +683,7 @@
   "created_at": "2026-08-07T14:03:06.39399Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-08 House election by 3% or more?",
   "revisions": 1,
   "sha256": "4bb3c384633129b7302b57f977b19b0343d5eeb8c2e7859318326ad97d8f46f2",
@@ -986,6 +1014,7 @@
   "created_at": "2026-08-07T14:03:20.173925Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-07 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "f7848d61a87a01ff70269ce11d301e6ab2a6d388bd77b004f10bf417fb7949d2",
@@ -1188,6 +1217,24 @@
   "revisions": 1,
   "sha256": "5fc18db152a17903e1e6d83a2d0ec6cc13962826320d047b437bc1751c9492eb",
   "slug": "will-fulham-finish-3rd-in-premier-league-2026-27"
+ },
+ "0xa927d1666301c3cb62cf350c63b179f1b5e33e2008365fe5e057077dc110147b": {
+  "created_at": "2026-11-24T02:15:43.795085Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Forza Horizon 6 be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-forza-horizon-6-be-the-1-searched-game-on-google-this-year-2026"
+ },
+ "0xa9952f4137403489e53c1b451f27161e2062e0e7ef9089405609e3ba5deac07b": {
+  "created_at": "2026-11-23T23:54:14.594137Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in December 2028 be above $10.00?",
+  "revisions": 1,
+  "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
+  "slug": "h100-average-rental-price-in-december-2028-above-10pt00"
  },
  "0xaaae8abd1d0819e737729d88ee877a5bdd7914571b6d1cf4e62b39b7d9057c7b": {
   "created_at": "2026-10-13T15:56:40.632344Z",
@@ -1399,6 +1446,15 @@
   "revisions": 1,
   "sha256": "916e831eda1a0215716cdf39e83013421467f4388dc75b8c1b6d104813138feb",
   "slug": "will-trae-young-be-named-to-any-2027-all-nba-team"
+ },
+ "0xc47e07cb6e2e4dd59db3a845654387e86b1e86abecf709821d2aa885c376a37b": {
+  "created_at": "2026-11-23T23:55:11.346548Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $1.50?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-1pt50"
  },
  "0xc4e260b08380d833882b4c126d27666b2d44ee8bb6424dc25f8b460385b6e77b": {
   "created_at": "2026-11-03T21:32:52.253401Z",

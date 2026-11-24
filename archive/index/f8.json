@@ -89,6 +89,15 @@
   "sha256": "cea1b17da83899961f1b6f5c80041adaaa29aaab6ac182f08d06b8be778df5ab",
   "slug": "gtm-mun-aur-2026-11-07-spread-away-4pt5"
  },
+ "0x19321a40f486ccc6553c7e7a0dd1b1cc896b0d6a5893c20ac3bfe8a17343a0f8": {
+  "created_at": "2026-11-23T18:57:16.906784Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $2.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-2pt00"
+ },
  "0x22c6bc4d794564d751bab9f18a4902a750d8f936a6f0a6ee90614851e58927f8": {
   "created_at": "2026-08-12T17:16:52.420336Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -138,6 +147,7 @@
   "created_at": "2026-08-07T14:05:46.303062Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-04 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "ab321656e2e95c773936f36d5b32505e4b6fc09e948bbdbe4383332ada757b95",
@@ -265,6 +275,7 @@
   "created_at": "2026-08-10T15:33:40.940027Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-03 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "c92c6a8b0e78ba4caa1f5f9327e2de2b475868bc025eba6024046428cc034dab",
@@ -353,6 +364,15 @@
   "revisions": 1,
   "sha256": "68ada8f91f436aa6b725c08c105d181bb61861da1a565688add66bb7fe9d387c",
   "slug": "ukr1-kry-met-2026-09-12-corners-odd-even"
+ },
+ "0x4c1559e03125ccbdeb406f992e7ad1bbf3ea8af97c3842d5bc6ad3ffb2215af8": {
+  "created_at": "2026-11-23T22:39:46.303671Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will zorte be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-zorte-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x4f0e00d7356f76f54779c9228ea829008c65be0fb72912dafecfa4f01c061df8": {
   "created_at": "2026-08-05T10:30:11.793758Z",
@@ -476,6 +496,7 @@
   "created_at": "2026-08-04T18:21:26.589197Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Michigan Senate election by 9%-12%?",
   "revisions": 1,
   "sha256": "25cc674a64355e3cbee3503ec82f82ca65334fc05cdd5c56b41d0ed4353e26aa",

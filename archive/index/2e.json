@@ -853,6 +853,7 @@
   "created_at": "2026-08-04T18:16:21.245278Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the first round of the 2026 Maine Senate election by 12% or more?",
   "revisions": 1,
   "sha256": "df57028a781a3c707e9cde90306c636d51a87dfff0a90004c6b5b9131681c2af",
@@ -876,6 +877,15 @@
   "revisions": 1,
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-domantas-sabonis"
+ },
+ "0x700e7991371af821ed6590e3ba04d997e41f4dadb4a91a4d8788016c831d8c2e": {
+  "created_at": "2026-11-23T18:58:57.295844Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $4.40?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-4pt40"
  },
  "0x70931a3261479d383ed2b808e8ea209f29676264712e7584a9bc8427420d1f2e": {
   "created_at": "2026-01-28T15:37:44.373979Z",
@@ -937,6 +947,7 @@
   "created_at": "2026-09-02T17:44:47.725088Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Michigan Democrat perform best among these tossup Senate races?",
   "revisions": 1,
   "sha256": "6db0c3880a2b0ddc85692bbd5c36db563ba70e6107443a6f6ef872e5c818d44b",
@@ -1060,6 +1071,15 @@
   "revisions": 1,
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-carlos-forbs-score-the-most-goals-in-the-2026-27-uefa-champions-league"
+ },
+ "0x879aeef75898fa9f1a7738812bd3d6060cfe64990a9b22b7118f5ec46dc1ad2e": {
+  "created_at": "2026-11-23T22:39:58.514839Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will huNter- be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-hunter-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x87d348ca270db2db5ac7086be7692c1f5a899f7e4cae501fd00e3e4efc8f692e": {
   "created_at": "2026-08-10T14:53:51.837891Z",
@@ -1434,6 +1454,15 @@
   "revisions": 1,
   "sha256": "e5fbb95ad3371123568786d70b9ec71b39076da935a7ca3baafaa1bd9fbf57d5",
   "slug": "will-the-democrats-win-washoe-county-in-the-nevada-governor-race-in-2026"
+ },
+ "0xc6835780216581f9fdd18a5aa0fce22f534a1a97e4a93acacbf7322a357f502e": {
+  "created_at": "2026-11-23T22:37:56.775052Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will mezii record a 1v5 clutch at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "b58f9d79b2a7caf61d36707be1e55e742b6d89b37eaa8309f62ec3f3b908d1f3",
+  "slug": "will-mezii-record-a-1v5-clutch-at-the-pgl-major-singapore-2026"
  },
  "0xc97546785b5026aab902aef725b0041c9aedf4ce6ede4d1aaeece9da6034da2e": {
   "created_at": "2026-09-18T00:08:48.220229Z",

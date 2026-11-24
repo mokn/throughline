@@ -134,6 +134,15 @@
   "sha256": "69fbb1d3266ef9c4c1efd076d128e7794e5946673d3443de563863e16208bc4b",
   "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-25-on-december-31"
  },
+ "0x0de0915a7dd37af086d65a9ded5d796fd2d0d23a73fbb3247a8a4b3a16de96ea": {
+  "created_at": "2026-11-24T02:20:39.582323Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Lebanon be last in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "9b44f7bd9a965c1bb12716c988ae8f27d45425bee3d701e83da79b1c5056ac29",
+  "slug": "will-lebanon-be-last-in-the-world-happiness-report-2027"
+ },
  "0x10f89407d0e965b1d48b34f38360c13279bf02ef40f5158ea08725436eb465ea": {
   "created_at": "2026-07-20T20:02:39.223902Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -573,6 +582,7 @@
   "created_at": "2026-07-30T20:45:51.479482Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will \u00c1ngel Sep\u00falveda (Cruz Azul) be the top goalscorer of the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "8eb61db9408e0f4f32c1421e4762e4a41c9adc644fcbfcb87f8e9ee7afe18eba",
@@ -1427,6 +1437,7 @@
   "created_at": "2026-11-10T02:14:33.051485Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-12T15:15:16Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Jay Puri be the next CEO of NVIDIA?",
   "revisions": 2,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",

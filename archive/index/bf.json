@@ -158,6 +158,7 @@
   "created_at": "2026-08-10T15:33:47.731221Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-05 House election by 40% or more?",
   "revisions": 1,
   "sha256": "f9f99d6a2d467b91681d672b9a88900a09a8e5badda9f0c7a12455fc2f2bfcf2",
@@ -189,6 +190,15 @@
   "revisions": 1,
   "sha256": "f1d4347518fdc604fcfc1fc7338e20cebcc125f73eef7a077ce5a7e9b4234d66",
   "slug": "will-wildwood-win-best-production-design-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0x11c6def2d721e4899da7e821af9abd9edf7e4cb05a80b20964d065481d8d0fbf": {
+  "created_at": "2026-11-23T22:40:06.676794Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will phzy be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-phzy-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x12b5abaa10f7bfd0e6650b23ff53ebbeb94892b041819ca98069b3f94787c7bf": {
   "created_at": "2026-08-12T17:19:23.238142Z",
@@ -417,6 +427,15 @@
   "revisions": 1,
   "sha256": "115199cd0892bf7d629a8ab73f03d58f5e8f8b2b408f154f8676cd4788e70421",
   "slug": "will-mainz-05-finish-in-the-top-4-of-the-2026-27-bundesliga-season"
+ },
+ "0x2d00aca50a58702b4dd39b0b39c9b50ea228f1c9e0d188af45466ae9bc9ac1bf": {
+  "created_at": "2026-11-23T18:39:51.143283Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $20.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-20pt00"
  },
  "0x2d4a5c81a2ecae7d911e68d60973f66c5436afb8101141e0bcd9570a2888b3bf": {
   "created_at": "2026-09-20T08:47:26.145862Z",
@@ -821,6 +840,15 @@
   "sha256": "a707af50727de921c2cbe24d4e4642c1d4ab684307e41c422bca562e54dc1b29",
   "slug": "will-nicolo-barella-inter-record-the-most-assists-in-the-2026-27-serie-a-season"
  },
+ "0x71cc7ec313558d7da2b9ba45571f2b331206a9cf45ae8e6683543949ac3112bf": {
+  "created_at": "2026-11-24T15:38:25.423458Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will TheBurntPeanut be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-theburntpeanut-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261124"
+ },
  "0x74cbb97f087d33c1812ffc1707b7ba8d6663031f60998e4a137a5d2940f5debf": {
   "created_at": "2026-01-02T15:40:07.051206Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -874,6 +902,15 @@
   "revisions": 1,
   "sha256": "bd47000a5eb003a53225a2143cde8bfe54a614546fe8d48c7c66819d6062cb6d",
   "slug": "will-al-hazem-finish-3rd-in-saudi-professional-league-2026-27"
+ },
+ "0x7f13cd1161f2d162064f6535df583fbb54eb5f19c8d8eee767b6e6617518ecbf": {
+  "created_at": "2026-11-24T01:33:03.177843Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will \"Mr. Irrelevant\" score at least 80 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "4c44a537c778f6d603c740eab6fe5a19c17820468abb72396e50ad2a9e40adc6",
+  "slug": "will-mr-irrelevant-score-at-least-80-on-the-rotten-tomatoes-tomatometer-20261228"
  },
  "0x83dc444e8243373af7fb86d8cbb89aaa51e3c1a82a5552a5109c6842a77f45bf": {
   "created_at": "2026-09-27T20:12:25.893362Z",

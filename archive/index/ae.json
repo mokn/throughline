@@ -757,6 +757,7 @@
   "created_at": "2026-09-17T18:29:44.929281Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Mary Peltola win the 2026 Alaska Senate first round by 9%-12%?",
   "revisions": 1,
   "sha256": "7461ee8833b68a8f5a01ce24254253a0703f3d1046c74b2e02962e3b0db61686",
@@ -1514,6 +1515,7 @@
   "created_at": "2026-08-10T15:33:32.342703Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-01 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "4f850dbd85dee2928f0994fa0bce35c0463f76488e7a97a2c0fe9dc63f7b5238",
@@ -1658,6 +1660,15 @@
   "sha256": "96a3a2b0b9fb2738418a2c34a0137c6d9a30b2bd849a4966eeb546006438b5d3",
   "slug": "2027-soccer-egypt-premier-league-runner-up-modern-sport"
  },
+ "0xe75eb22b53178350c6dc017b2712520a94eb045fbddf198a9667a7e20d6635ae": {
+  "created_at": "2026-11-23T22:39:52.946334Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will ksloks be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-ksloks-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0xea203ebd8e3cc7170690dc3a337f86caae700be4d3eb75c09e4ed59e8536daae": {
   "created_at": "2026-09-04T19:23:13.144655Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1786,6 +1797,15 @@
   "revisions": 1,
   "sha256": "d367b97fa0476fb5edde9f2e4d0124da416050865764079ee0a73fe4d28b71c4",
   "slug": "will-gemini-hydrogen-debut-at-a-score-of-at-least-1540-by-june-30-2027"
+ },
+ "0xfe6cc589520882f3ce035626944e9a32c2ff8bfa9d17d5b52d2b8efdd60a18ae": {
+  "created_at": "2026-11-23T23:01:27.467926Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will There be 190-209 HE Grenade Kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "65a81f8deb3b6c64ed914ef685b8df65c300181d7ebe29b114de979894c104d2",
+  "slug": "will-there-be-190-209-he-grenade-kills-at-pgl-major-singapore-2026"
  },
  "0xfe7b02f5829a30e0975105ab1970f81a6812d87436cb41dd863c2f13eb3287ae": {
   "created_at": "2026-10-24T04:00:06.810605Z",

@@ -479,6 +479,7 @@
   "created_at": "2026-11-10T02:14:35.114909Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-12T15:15:16Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Debora Shoquist be the next CEO of NVIDIA?",
   "revisions": 2,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
@@ -684,6 +685,15 @@
   "revisions": 1,
   "sha256": "265cfdc6b1778e1a397a251f00ab9b4b5f9127584ff857dd5319f7152c4ffe35",
   "slug": "2027-soccer-j2-league-runner-up-ventforet-kofu"
+ },
+ "0x5a397669d7672b7a8af3fe4ba58c0ddb3e4bb62cec1e9a0b2b79b6f74fe8e058": {
+  "created_at": "2026-11-23T22:40:32.190902Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Gizmy be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-gizmy-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x5b4289a864973e04a35d9fc62c0eb4f5b9b37ded3b3e12584797dbdaca322158": {
   "created_at": "2026-08-11T19:04:24.801949Z",
@@ -1187,6 +1197,15 @@
   "sha256": "900d5ed6584b37681e14b703b23a1da6e812a9cc0dc1fa897eae5d87ff66743d",
   "slug": "will-the-season-series-between-the-bengals-and-browns-end-in-a-tie-during-the-2026-27-nfl-regular-season-20260717194027601"
  },
+ "0xb23fec4e6ff194cdf7372c8e093561d3e3b054008d039ab02002b9e0fd110358": {
+  "created_at": "2026-11-24T02:21:34.804052Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Possible Love win Best Picture at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "e3c0525e6a596b67781c3d65d909b4b347d909e71d07080d0563ffcfaf3581f3",
+  "slug": "will-possible-love-win-best-picture-at-the-32nd-critics-choice-awards"
+ },
  "0xb2ba3ad6d5c75f4174b76c82266b125faa50312080fd89b0f03c86c3c0a43558": {
   "created_at": "2026-09-20T08:15:10.08819Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1430,6 +1449,7 @@
   "created_at": "2026-08-05T16:45:08.58757Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Arizona gubernatorial election by 3%-6%?",
   "revisions": 1,
   "sha256": "c4cb9014c53a5343f6f3d1ca773f865617304a7b3b50e53f65cc587a5770bfd0",
@@ -1663,6 +1683,7 @@
   "created_at": "2026-08-10T15:33:36.67118Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-02 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "9ed5b147a9096e2aa18b854440f8078b25061ea80f9a26acde3b8151f6984d6a",

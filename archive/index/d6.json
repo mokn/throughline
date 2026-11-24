@@ -67,6 +67,7 @@
   "created_at": "2026-08-10T15:33:15.633731Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 ME-01 House election by 45% or more?",
   "revisions": 1,
   "sha256": "5646f9b81404244bd83e84f53bf0ac4a0ce688c49ae6b24d7a29e8532d7e20ae",
@@ -833,6 +834,15 @@
   "sha256": "719a5aae1ce500ebfd049ad6ecb5dedb4746015aeb86b315efd1745deaa8813b",
   "slug": "drake-london-1500-scrimmage-yards-2026-27"
  },
+ "0x79b775ef8055ec7375d4d6fe049bb606741ecb972e3cc7f9935287365d6ad5d6": {
+  "created_at": "2026-11-23T22:40:18.246371Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will a Stage 1 team win the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "c7dff8488f9193fba7357a1ff2072ae2272691ed29dfb1fa1cd9ce9bd38f7e13",
+  "slug": "will-a-stage-1-team-win-the-pgl-major-singapore-2026"
+ },
  "0x7ec78cf7be1d7508fde374ba1ff0a0ca3d5958aa614840f5d28bc82300e917d6": {
   "created_at": "2026-10-13T19:55:23.890619Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -985,6 +995,15 @@
   "revisions": 1,
   "sha256": "b8e6f416183f7d470f6173d01caa93782d96ff7dd5e1ecd3d8bf1f4dfc1acf6f",
   "slug": "lega-basket-serie-a-2027-champion-pallacanestro-trieste"
+ },
+ "0xa40e2d32d8e473d992cdced2286e4cc403142244249092dd8081e55f0a6306d6": {
+  "created_at": "2026-11-24T02:15:45.049796Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Crimson Desert be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-crimson-desert-be-the-1-searched-game-on-google-this-year-2026"
  },
  "0xa41fbcff6b7ef18f72b2fec57c45d7a7caa1f66554c5cda33524bb48d299f3d6": {
   "created_at": "2026-08-06T15:44:02.073142Z",
@@ -1347,6 +1366,15 @@
   "sha256": "c492ec56ef554ae5c374403387b63cc43381e9f695e7eadbd39dc71bc59008c2",
   "slug": "will-kyle-schwarber-win-the-2026-national-league-hank-aaron-award"
  },
+ "0xd475d87837888088d00a4ac013fb02f3d9ea22e1ea6bb7497e43494db51055d6": {
+  "created_at": "2026-11-23T22:39:45.771961Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will s1ren be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-s1ren-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0xd5f0a26839464dbe687b7f4a3322229ec636c107c3a42f7ad0e8e179e0096fd6": {
   "created_at": "2026-09-28T17:20:01.057356Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1387,6 +1415,7 @@
   "created_at": "2026-08-07T14:05:54.588445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-02 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "f0033bd98b34438bb80886168e076311de4c13a0c2af8cfe7431c00276406266",
@@ -1536,6 +1565,15 @@
   "revisions": 1,
   "sha256": "4527d31da8b100c48afb34693d17af2065bf58b76513c2e154c170190a64803b",
   "slug": "basketball-champions-league-2027-champion-juventus"
+ },
+ "0xf00855b369ca8d50f5016656dbd3e3be9ca0725ea810f3a0ef646d40a29567d6": {
+  "created_at": "2026-11-23T18:38:24.033881Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $18.00?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-18pt00"
  },
  "0xf0477eba99592cd663abf1423aac09c13be07087189b02374719aa88b03179d6": {
   "created_at": "2026-08-10T23:37:14.232702Z",

@@ -1,4 +1,13 @@
 {
+ "0x01210c23c28b9e6a0f05e214de2a1f6f2b03f34e69986dd6daef4af8b07a7266": {
+  "created_at": "2026-11-24T15:38:34.069884Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will none of these streamers finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-none-of-these-streamers-finish-gta-vi-by-december-31-2026-20261124"
+ },
  "0x0145b16b722160e10e4451d25dde3931e7db007677d238ae8878210f6a320166": {
   "created_at": "2026-10-13T15:50:45.178112Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -267,6 +276,7 @@
   "created_at": "2026-08-18T14:13:15.3299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Michigan be between 5,000,000 and 5,200,000?",
   "revisions": 1,
   "sha256": "3aec2152d3c251a9a2d7cfb1447821e5e34ca4db5afa818899329a189638a287",
@@ -678,6 +688,7 @@
   "created_at": "2026-10-15T13:16:47.991486Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Analog Devices' Q4 Industrial revenue be above $2.0B?",
   "revisions": 1,
   "sha256": "7b3e14cf426c620065b3a081a1ab8e0b67f75f2c7cb14b9c47af99497cd37add",
@@ -947,6 +958,24 @@
   "revisions": 1,
   "sha256": "8c802b1a99a2a4ec9d6eb61d52b9cb4e295480bb88ce43f894813c730e728468",
   "slug": "will-the-democratic-party-candidate-win-the-2026-texas-railroad-commissioner-election"
+ },
+ "0x8b015d755f0eb635a01e910310786aa6e5c8f523e243d0080fa64aadf6206066": {
+  "created_at": "2026-11-23T23:54:36.636937Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $15.50?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-15pt50"
+ },
+ "0x8c7a31117b019c5bacb475e8f1049c8799e96ed615d6ad2c31f45204120b2666": {
+  "created_at": "2026-11-24T05:00:09.967927Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 560-579 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-560-579"
  },
  "0x8cb89995b54def15f1c8719a6d293d2463a9f774b7994ef9e528f7bce332ab66": {
   "created_at": "2026-08-10T23:33:39.233032Z",
@@ -1403,6 +1432,7 @@
   "created_at": "2026-08-04T17:45:25.125391Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Alabama Senate election by 10%-15%?",
   "revisions": 1,
   "sha256": "12d638b50410daf3e6902b1c70353967fad3ba83dd9f32ed71b325691147ce3c",
@@ -1412,6 +1442,7 @@
   "created_at": "2026-08-05T16:45:10.518476Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Arizona gubernatorial election by 9%-12%?",
   "revisions": 1,
   "sha256": "c4cb9014c53a5343f6f3d1ca773f865617304a7b3b50e53f65cc587a5770bfd0",

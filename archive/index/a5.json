@@ -214,6 +214,7 @@
   "created_at": "2026-08-07T14:03:58.530175Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-06 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "d193030ea0405545d9610cdb620300e29819bfbcdcdec470ee4eb7115d6a7e30",
@@ -456,6 +457,15 @@
   "sha256": "d4c4618ce8ebfc9605beb6963bdcf4f6f6100bafac5e2caf4b63f52407f16e23",
   "slug": "will-the-bills-win-the-season-series-against-the-jets-during-the-2026-27-nfl-regular-season-20260717194022326"
  },
+ "0x3d9ed7f82f2d6672b5966bb1f3ea4325d66c757a4fed96d49c246d64e43453a5": {
+  "created_at": "2026-11-12T20:23:24.904085Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will MUDA - Car\u00edn Le\u00f3n win Best Latin Pop Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d2441f3a59afec9951e31f5439a10f2a5c64756135a599e4835a4e0254fde1bb",
+  "slug": "will-muda-carin-leon-win-best-latin-pop-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x3e5d91f5fe400f991d3831f6f1dce1f7f9d4c6e988b2b289e066e6facedb51a5": {
   "created_at": "2026-06-24T01:38:03.980507Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -469,6 +479,7 @@
   "created_at": "2026-08-10T15:33:52.550502Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-06 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "0a6ae216cc98492d6e4a805b021652c3681fb78b848abddc13394b459c469ff2",
@@ -520,6 +531,15 @@
   "revisions": 1,
   "sha256": "5aca71f294755237b293068f75671907cfa8182af82ac5e0af5bf96b3a347d0e",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-08-house-election-by-5-10"
+ },
+ "0x49bc26c51371e5369a267d4ba89e9a55606ce19231708c1dafa30fb70ce3efa5": {
+  "created_at": "2026-11-23T22:40:14.060074Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will sjuush be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-sjuush-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x4d724122d9ee175b0f869c8a7f9e2edccfeffdd36e493bbdae38449033e120a5": {
   "created_at": "2026-08-24T16:33:38.769917Z",
@@ -934,6 +954,15 @@
   "revisions": 1,
   "sha256": "165d08b4b8edb79303018141387bcc397b06529a21cc58925c1bcb211f20e3ef",
   "slug": "will-al-taawoun-be-relegated-from-saudi-professional-league-2026-27"
+ },
+ "0x826bee14a91b271add7263567d87076d0256ede956e24a0e269618ca8e13aca5": {
+  "created_at": "2026-11-23T18:59:19.589008Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $5.00?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-5pt00"
  },
  "0x82b9c28ceb79f3626c1038785382f5b99fa89775043ffaf396e86ecba454d4a5": {
   "created_at": "2026-11-03T22:14:20.679152Z",

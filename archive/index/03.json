@@ -173,6 +173,15 @@
   "sha256": "cf7eb93a32be91c77f87704cf9fe34cf0fb160ce422bf5485254b2ff48a72638",
   "slug": "will-the-republican-party-win-the-fl-03-house-seat"
  },
+ "0x1ec542db296dcf239b15fcf5afea6917af703a1ce51c16af07cab32edff26b03": {
+  "created_at": "2026-04-14T15:40:32.477984Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Tammy Duckworth be the 2028 Democratic Vice-Presidential nominee?",
+  "revisions": 1,
+  "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
+  "slug": "will-tammy-duckworth-be-the-2028-democratic-vice-presidential-nominee"
+ },
  "0x1f104d0e48afb2545c5ad1979ca6f0c74ac5f02453c74f5f0dbe3e2cf6bd7003": {
   "created_at": "2026-08-11T18:50:07.289617Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -182,6 +191,15 @@
   "revisions": 1,
   "sha256": "79545380f06f23f025558e12541bf1cb59f84eb48ef0aeeaa1f550487f751501",
   "slug": "will-the-republican-party-candidate-win-the-2026-sd-al-house-election-by-30-35"
+ },
+ "0x23e7bcaa800a8eb83b355e902b7f752039dff40c2e5c739cfeeb49ae8120dd03": {
+  "created_at": "2026-11-23T22:40:31.196716Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will sirah be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-sirah-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x262dae6ec60ec7c39b5b742b9188bffd99297c51013e36b6881e000671767803": {
   "created_at": "2026-11-12T20:22:31.534257Z",
@@ -673,6 +691,7 @@
   "created_at": "2026-08-10T15:33:17.304426Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 ME-01 House election by 5%-15%?",
   "revisions": 1,
   "sha256": "5646f9b81404244bd83e84f53bf0ac4a0ce688c49ae6b24d7a29e8532d7e20ae",
@@ -691,6 +710,7 @@
   "created_at": "2026-08-07T14:05:44.975188Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-04 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "ab321656e2e95c773936f36d5b32505e4b6fc09e948bbdbe4383332ada757b95",
@@ -864,6 +884,7 @@
   "created_at": "2026-08-06T21:34:48.911025Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-03 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "2369326350f4a2675b964f4fff2ac4b22ca057b880266050ad5350905ed94d2e",
@@ -1259,6 +1280,7 @@
   "created_at": "2026-08-06T21:37:15.655224Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-07 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "c27b309867417a131687fe025f0d6574c29203c78d32c2156951ab2465d793d6",
@@ -1327,6 +1349,15 @@
   "revisions": 1,
   "sha256": "67cdcf7861c3146a01c3ba52ba0e393195c9b3dd27a0bf98c339ed97423f1b7b",
   "slug": "will-joc-pederson-win-the-2026-edgar-martinez-outstanding-designated-hitter-award"
+ },
+ "0xd0b7cdd0700aa687275d851820b88a13b7a7cff102128a3cf7737786bfaeee03": {
+  "created_at": "2026-11-23T18:57:14.0198Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $20.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-20pt00"
  },
  "0xd141f6b76d009314b88e3e213db78c629ab882004022a38b028eebe62f716403": {
   "created_at": "2026-10-06T16:06:39.307983Z",

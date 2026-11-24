@@ -485,6 +485,15 @@
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
   "slug": "will-jack-elliott-win-2026-mls-defender-of-the-year"
  },
+ "0x61a481334ed95184ae26eb09bd0ded9f0fb2a4ed0a0d0a32f461e732a7250a16": {
+  "created_at": "2026-11-24T15:38:01.160139Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Adin Ross be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-adin-ross-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261124"
+ },
  "0x627d62bd06311aa754fbcca180355d57648982fd8ea208735026518b3dba4616": {
   "created_at": "2026-10-15T18:01:51.728319Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -886,6 +895,7 @@
   "created_at": "2026-06-29T17:00:06.549603Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will $ANSEM dip to $0.01 before 2027?",
   "revisions": 1,
   "sha256": "be84d4eaec1241457f3396bb8735bf7ef633671b56168c882bb804dd78c29c57",
@@ -1124,6 +1134,7 @@
   "created_at": "2026-08-07T14:02:59.214725Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-09 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "ad750639c7c8eeb66eb76e55b27f1d7c49a7039c753491b7a215e28f14b41e50",
@@ -1308,6 +1319,7 @@
   "created_at": "2026-08-07T14:04:32.922354Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-05 House election by 5% or more?",
   "revisions": 1,
   "sha256": "4b14b11d63b16983ecb4382141857abca443f5f727ac7e51c1790c9b56d7ec7d",
@@ -1460,6 +1472,15 @@
   "sha256": "a86cccf4f4dc383cd76bcc9f183b0cc0d13c8aa15e22c44c7e0ac5a33bf1d7b5",
   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-senate-election-by-0-3"
  },
+ "0xe03b616f9b4e193d1f2390ad5c6ac8e07076cf2adee8f500c7946ece8110e916": {
+  "created_at": "2026-11-23T22:39:37.329124Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will apEX be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-apex-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0xe13a5073976055c4cb76ed5e441522f8c3e1b758e0b45da722371c4af75c4e16": {
   "created_at": "2026-10-15T20:35:58.800549Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1514,6 +1535,15 @@
   "revisions": 1,
   "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
   "slug": "f1-abu-dhabi-grand-prix-winner-alonso-2026-12-06"
+ },
+ "0xe479ab8097179680e85c395680e359b1708881a11dbca5318eda67f9511d0616": {
+  "created_at": "2026-11-23T18:50:46.05661Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-4pt00"
  },
  "0xe77faaafd7c25fd0427e12422a4a8926af53af7b87fcf9cd30ce7b4dae67f416": {
   "created_at": "2026-10-28T03:00:11.801874Z",

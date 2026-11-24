@@ -17,6 +17,15 @@
   "sha256": "dcaf775df394a90245696592a4fb55e734d58746f2db3c8ddf3515522e093a66",
   "slug": "will-the-republican-party-candidate-win-the-2026-ny-17-house-election-by-0-3"
  },
+ "0x0207203636a52033eb1a6ec3d2f11035fba90ec8b925a4aec9aa24fef9e0b0e8": {
+  "created_at": "2026-11-24T02:21:30.110137Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Dune: Part Three win Best Picture at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "e3c0525e6a596b67781c3d65d909b4b347d909e71d07080d0563ffcfaf3581f3",
+  "slug": "will-dune-part-three-win-best-picture-at-the-32nd-critics-choice-awards"
+ },
  "0x02deb9538f5c123373adaa4ee6217b01745f1662bc902e46ac92f3fe6f8741e8": {
   "created_at": "2025-08-07T14:34:08.095389Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -484,6 +493,7 @@
   "created_at": "2026-08-10T15:34:04.294104Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-09 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "35854d04088964a75e3661c105650d217870c26b00620b9d8673b6456f1c3481",
@@ -1208,6 +1218,7 @@
   "created_at": "2026-08-05T20:15:33.436316Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Michigan gubernatorial election by 6%-9%?",
   "revisions": 1,
   "sha256": "a819203e4f9eceed3d50a12467077fa52bdeed4afb14de03fffc660f783b12a9",
@@ -1415,6 +1426,15 @@
   "revisions": 1,
   "sha256": "5a33c82239cf7c22e870897154fc597c476a70f3eacc7b28cbef5739655b1869",
   "slug": "will-fc-kuressaare-be-relegated-from-premium-liiga-estonia-2026"
+ },
+ "0xc2e7330a1ca6661fbed8f4815f0c08744b198bde4f111eeb0fe8ebde62e54ee8": {
+  "created_at": "2026-11-12T20:23:25.485408Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will \u00bfD\u00f3nde Es El After? - Rawayana win Best Latin Pop Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d2441f3a59afec9951e31f5439a10f2a5c64756135a599e4835a4e0254fde1bb",
+  "slug": "will-donde-es-el-after-rawayana-win-best-latin-pop-album-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xc2f28aa229ae412e6f6be73f1e44108fd0e1a2b10f683966cb1dfdc30c258ae8": {
   "created_at": "2026-08-12T17:21:43.387396Z",
@@ -1676,6 +1696,7 @@
   "created_at": "2026-08-06T21:36:17.284021Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-05 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "6ee9f81eb41d725f2899140c8b048ab605f87104d2d19ac4d3b7f86fc8524b23",
@@ -1752,6 +1773,7 @@
   "created_at": "2026-11-10T02:14:45.702254Z",
   "first_seen": "2026-11-12T15:15:16Z",
   "last_changed": "2026-11-12T15:15:16Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Michael Kagan be the next CEO of NVIDIA?",
   "revisions": 1,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",

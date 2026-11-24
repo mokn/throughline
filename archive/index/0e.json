@@ -214,6 +214,7 @@
   "created_at": "2026-08-18T19:00:42.356884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Uber Eats First Zipline Drone Delivery by November 30, 2026?",
   "revisions": 1,
   "sha256": "128b8ecadbe47bad84da14478362f5f040b1dc217611e16dce6f8b5dec8b31c6",
@@ -510,6 +511,15 @@
   "revisions": 1,
   "sha256": "719a5aae1ce500ebfd049ad6ecb5dedb4746015aeb86b315efd1745deaa8813b",
   "slug": "rachaad-white-1500-scrimmage-yards-2026-27"
+ },
+ "0x4afb8236706618a504db6f164c792ef698b25dd6ed605aa43354d31b9a1d610e": {
+  "created_at": "2026-11-23T22:38:40.789418Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Falcons record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-falcons-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
  },
  "0x4c1a018871e61a9f24201ea263483a889aa1139313c90b8f8178f6ac06b91e0e": {
   "created_at": "2026-09-14T20:21:15.301569Z",
@@ -1370,6 +1380,15 @@
   "revisions": 1,
   "sha256": "f54aef27bf35c35d0e1705d479016706e14615a4f0da24a7edc59bd338573913",
   "slug": "will-olivia-colman-elsinore-win-best-supporting-actress-motion-picture-at-the-84th-golden-globes"
+ },
+ "0xc9bd1a12bb3460b5e975f07c4bcf4c5d6340ffc322093cdb90fee725b5b5f70e": {
+  "created_at": "2026-11-23T22:40:15.985665Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will adamb be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-adamb-be-the-pgl-major-singapore-2026-mvp"
  },
  "0xcac75dc4dad4c1f68c4d9f947f95c2c64f261788dee27547d8de4c60b229e00e": {
   "created_at": "2026-09-27T20:11:56.679903Z",

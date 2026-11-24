@@ -1121,6 +1121,15 @@
   "sha256": "fc6b53e933cff7f9de66635fe576ae80ccd5557a8f30fc40226cf798d4eaa62f",
   "slug": "omarion-hampton-549pt5-rushing-yards-2026-27"
  },
+ "0xb36baa7d49c7a686c92e99fefccf531eaecdc5cd6828d66adadd25b10da10c75": {
+  "created_at": "2026-11-23T23:54:15.429447Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in December 2028 be above $0.25?",
+  "revisions": 1,
+  "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
+  "slug": "h100-average-rental-price-in-december-2028-above-0pt25"
+ },
  "0xb416661724979c8aba3b9c0cadaa65312d4b1dffed228090bc3356ed6762e675": {
   "created_at": "2026-09-04T19:04:36.00625Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1394,6 +1403,15 @@
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-creighton-reach-the-2027-ncaa-mens-basketball-final-four"
  },
+ "0xd7e5d700439dc80e56f1d59f956545c2c0328222163a46309a7ab4dd22b97b75": {
+  "created_at": "2026-11-24T04:22:08.77267Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Nscale IPO by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "4560204bb42ccd79e7e36e114c1c01d4ff333c5f7bd71dc6a102f29adf5fb8a0",
+  "slug": "will-nscale-ipo-by-june-30-2027"
+ },
  "0xd82c7a636d452a958264f750d707213cdbc9858f4c32dbdd024bb69a38fdbf75": {
   "created_at": "2026-09-09T22:11:10.187815Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1563,6 +1581,7 @@
   "created_at": "2026-08-10T15:34:08.377131Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-10 House election by 6% or more?",
   "revisions": 1,
   "sha256": "acb65f9629695a41b26ca28f42241ff39e15924dd69fcdaad535b3996bf4d13c",

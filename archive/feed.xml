@@ -5,9 +5,33 @@
   <id>https://mokn.github.io/throughline/feed.xml</id>
   <link rel="self" type="application/atom+xml" href="https://mokn.github.io/throughline/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://github.com/mokn/throughline"/>
-  <updated>2026-11-23T18:08:26Z</updated>
+  <updated>2026-11-24T17:44:50Z</updated>
   <author><name>throughline rules-watcher</name></author>
   <generator uri="https://github.com/mokn/throughline">feed.py</generator>
+  <entry>
+    <title>Will Trump be impeached by December 31, 2026?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0x4c8ceef9b9c0a27b6b4efa7c398ece4a5eeda76502f722de398c232abefe2ede/2</id>
+    <updated>2026-11-24T17:44:50Z</updated>
+    <published>2026-11-24T17:44:50Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-trump-be-impeached-by-december-31-2026"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/de/0x4c8ceef9b9c0a27b6b4efa7c398ece4a5eeda76502f722de398c232abefe2ede.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-24T17:44:50Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-trump-be-impeached-by-december-31-2026
+conditionId: 0x4c8ceef9b9c0a27b6b4efa7c398ece4a5eeda76502f722de398c232abefe2ede
+revision: 2
+seen: 2026-11-24T17:44:50Z
+sha256 before: 1fffe8a4d3168444495c8c29779989b91bb59b322b49d7339b77c1935e730c98
+sha256 after:  160d4560b9a64947bd31877c629548772e37c5635ff106ab2145341ed8fd8e30
+
+--- 0x4c8ceef9b9c0a27b6b4efa7c398ece4a5eeda76502f722de398c232abefe2ede (before)
++++ 0x4c8ceef9b9c0a27b6b4efa7c398ece4a5eeda76502f722de398c232abefe2ede (after)
+@@ -1,3 +1,3 @@
+-This market will resolve to “Yes“ if the US House of Representatives by simple majority vote to approve or pass one or more articles of impeachment of President Donald Trump, between July 24, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
++This market will resolve to “Yes“ if the US House of Representatives by simple majority vote to approve or pass one or more articles of impeachment of President Donald Trump, between July 24, 2025, and the specified date, 11:59 PM ET. Otherwise, this market will resolve to "No".
+ 
+ Neither trial nor conviction by the US Senate, nor removal from office, is necessary to resolve this market to “Yes“.
+</content>
+  </entry>
   <entry>
     <title>Will WTI Crude Oil (WTI) hit (HIGH) $105 in November?</title>
     <id>tag:throughline.markets,2026:polymarket/rules/0xfcfd63ed203575eefb78e4801a0d2a91af17ad89f472114cfd008e52071fdeeb/2</id>

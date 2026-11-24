@@ -106,6 +106,7 @@
   "created_at": "2026-08-11T19:04:30.94964Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 UT-03 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "24076dd6571d59a554b8102d42143624c324a43e3d33f424cf551bcd3786f515",
@@ -305,6 +306,15 @@
   "sha256": "48423072434b8e2c6386a05670168a6aabcaba41bfad1dda6e4f89f65fcd954a",
   "slug": "will-milan-iloski-win-the-2026-mls-golden-boot-385"
  },
+ "0x34ead7d8b344ba27b077a9fd225397c194e5c7e08f7d5d73550d4c8dc7defe23": {
+  "created_at": "2026-11-23T22:39:34.690266Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will PR be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-pr-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0x357319ded51afc8843eb0ddcf345c2de1f7613e97357f7942e1e228961f4e723": {
   "created_at": "2026-09-07T15:51:10.720251Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -313,6 +323,15 @@
   "revisions": 1,
   "sha256": "eafd5b41ca24c0f8a1ba6f9cfd04cfeb4929a9bbf56db685c59cbd22f21ffaa9",
   "slug": "russia-x-ukraine-ceasefire-agreement-by-january-31-2027"
+ },
+ "0x35fda45c0fb379b90114f66e9e5070879ee1092c76040c7dd40b5c35b23dae23": {
+  "created_at": "2026-11-23T23:53:31.56331Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in September 2027 be above $7.40?",
+  "revisions": 1,
+  "sha256": "75158646e857ca7cf9d977f214a2a986b62b0edb6cfa813cd4d587a8159d8e95",
+  "slug": "h100-average-rental-price-in-september-2027-above-7pt40"
  },
  "0x38c6731db014a8f3d1ba77ad007479a34680d6d18bac28136fdaba5ba3e92423": {
   "created_at": "2026-08-05T16:30:52.237745Z",
@@ -460,6 +479,15 @@
   "sha256": "7f1a461a69a9466d1779cc83fdae4a0e280062e7924a79d2f9304a7d490698b9",
   "slug": "will-cj-bailey-be-the-2026-d1-passing-tds-leader"
  },
+ "0x49e26769bd51acd6a5b18706f6b2850f7c524729a485f458ce3702ada71db023": {
+  "created_at": "2026-11-24T01:33:01.414275Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will \"Mr. Irrelevant\" score at least 75 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "4c44a537c778f6d603c740eab6fe5a19c17820468abb72396e50ad2a9e40adc6",
+  "slug": "will-mr-irrelevant-score-at-least-75-on-the-rotten-tomatoes-tomatometer-20261228"
+ },
  "0x4ae7a436b70cea63e34a201ebb42189980bf6205aa787ac7d67d945ca589ec23": {
   "created_at": "2026-10-28T21:52:34.704646Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -562,6 +590,15 @@
   "sha256": "a9250f7c6be8e82a58d0bf1bc9a938d253cb86732a34a80544744cdc1afafd32",
   "slug": "will-black-forest-labs-have-the-best-text-to-video-ai-at-the-end-of-november-2026"
  },
+ "0x576483a6bdecd35abc99014b507dc91f6a1d5d8915601da6a9440b4a5fe38f23": {
+  "created_at": "2026-11-23T22:38:43.697602Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Legacy record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-legacy-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0x57c6c65f8d3545cfcd6a94f04d0c604b02591b7bde5d3cec185d347079e67c23": {
   "created_at": "2026-09-20T08:45:49.923393Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -593,6 +630,7 @@
   "created_at": "2026-08-18T14:09:13.747277Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Alabama be between 1,300,000 and 1,400,000?",
   "revisions": 1,
   "sha256": "fdd064966e1538c6db128c9cab091bd4cc7563a9d5ac060330ee0523f6de77d3",

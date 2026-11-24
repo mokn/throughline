@@ -142,10 +142,20 @@
   "created_at": "2026-08-07T14:03:21.122799Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-07 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "f7848d61a87a01ff70269ce11d301e6ab2a6d388bd77b004f10bf417fb7949d2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-az-07-house-election-by-25-30"
+ },
+ "0x18864c175b71c1424427d833e4abb5b2ad5df9482beb18854bbf06e0361ce9c6": {
+  "created_at": "2026-11-23T22:39:50.456525Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will karrigan be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-karrigan-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x1dc9e9c3208dfac019743da39e3f47317f91d46b4e4b9719cbb1dd887580a4c6": {
   "created_at": "2026-09-27T19:59:11.807233Z",
@@ -1103,6 +1113,15 @@
   "sha256": "a79ea76f6f1f0167396be7b1d3831a8d288b7e0f5da3ac368682fe21f5e713c1",
   "slug": "will-tencent-be-the-third-best-chinese-ai-company-at-the-end-of-december-2026"
  },
+ "0x96da5e1e28e72bc2b5ce45fa4c9c8a771557e5489205f6f02c8f931868a8dbc6": {
+  "created_at": "2026-11-24T01:32:29.179134Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will \"Werwulf\" score at least 70 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "dc9b79300478787b40a7aaee086fdd926680fe50079252151dae3dbcc389acde",
+  "slug": "will-werwulf-score-at-least-70-on-the-rotten-tomatoes-tomatometer-20261228"
+ },
  "0x9738d4b0c01997b78e63bae39a3d1772da14ae506e9f2c4db636a07dfa6900c6": {
   "created_at": "2026-08-10T23:33:22.182812Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1846,6 +1865,15 @@
   "revisions": 1,
   "sha256": "4a0300f982673f62c12d806e89fc80053d2ac07a54a7241a0aefa9baf0d49172",
   "slug": "will-harky-win-worlds-2026-finals-mvp"
+ },
+ "0xf2ada0bcb327104d004940c22765cb530e3cbe73758c03b7a9ad072e978b00c6": {
+  "created_at": "2026-11-23T23:55:41.518415Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in February 2027 be above $25.00?",
+  "revisions": 1,
+  "sha256": "60c281c4821d9b84e940204ce2eefedc6483fcba17dcea46d59436ef3d0ae369",
+  "slug": "b300-average-rental-price-in-february-2027-above-25pt00"
  },
  "0xf3f64cd49bbe93efb860c87e1b08b705549149f5a22a9301e17f714662f3a5c6": {
   "created_at": "2026-08-10T14:52:35.492942Z",

@@ -78,6 +78,7 @@
   "created_at": "2026-08-18T14:57:57.748973Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Ncedo Kumbaca be the next mayor of Buffalo City?",
   "revisions": 1,
   "sha256": "a08c497c5e15d46e762947c01a0c96fd5b0349f8adf61571f6d33a80898bdf41",
@@ -119,10 +120,20 @@
   "sha256": "d269d74abc616648db513001af5dd5bfefe368f9672601a2149ba2b5b555cfa9",
   "slug": "will-emily-blunt-win-best-actress-at-the-32nd-critics-choice-awards"
  },
+ "0x153a5567b7df3c3a8be89b60c9eb9a59b8190ac86e0aeb17f8c48ff99984710f": {
+  "created_at": "2026-11-23T22:40:17.530514Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will zweih be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-zweih-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0x15a2dce66eccb2712c95432cebf8e946668e261485b5c76b20731294461c150f": {
   "created_at": "2026-08-07T14:03:21.355375Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-07 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "f7848d61a87a01ff70269ce11d301e6ab2a6d388bd77b004f10bf417fb7949d2",
@@ -862,6 +873,15 @@
   "sha256": "8528cdd6ec206c75a13490d8163182415e6f16d7e24ae2a0c23ed375acf096a2",
   "slug": "will-baltimore-ravens-finish-the-2026-27-nfl-regular-season-with-the-most-offensive-touchdowns-20260716001412469"
  },
+ "0x84aea38ea7a6bb28568ff8cf9d0b735214f7ef8abd61599cdbf705f665a2660f": {
+  "created_at": "2026-11-23T23:55:37.695497Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in January 2027 be above $18.50?",
+  "revisions": 1,
+  "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
+  "slug": "b300-average-rental-price-in-january-2027-above-18pt50"
+ },
  "0x87715b3014db99efa3108892e521d40e72d538c917b1e3b6919e12268d10fd0f": {
   "created_at": "2026-10-30T22:00:36.852217Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1210,6 +1230,15 @@
   "sha256": "378c7c93a0eb53dc2b10a004ac1810dd0c18bdaabdc33caa67cdbaadc4b547c9",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-01-house-election-by-0-3"
  },
+ "0xb44e67f3b6b3dd539908923c6639c1d70b1ed81a546da16d0a94e82a43b8a30f": {
+  "created_at": "2026-11-12T20:19:16.186776Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will A Question of Trust (Boys Noize Remix) - Nine Inch Nails & Boys Noize win Best Remixed Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "74b6d84d7a91f06a81d76631aaee5f8b4c95712374b44acf3eb5a043c68fa1cd",
+  "slug": "will-a-question-of-trust-boys-noize-remix-nine-inch-nails-and-boys-noize-win-best-remixed-recording-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xb4652099308b8ed46583d51e1f33ce745b667ee3c613027d29a0844696297b0f": {
   "created_at": "2026-11-06T22:34:19.798682Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1319,6 +1348,15 @@
   "revisions": 1,
   "sha256": "6e0ae26a06862d3adea7b58ebd2995048192772870f6561bacc4ebb153a2390c",
   "slug": "will-fortaleza-finish-3rd-in-brazil-serie-b-2026"
+ },
+ "0xc75b93cf7488d87485ed617b8bc73a900c3cf24a9047e732508c5fc8cea27a0f": {
+  "created_at": "2026-11-23T23:55:26.192477Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in December 2026 be above $6.50?",
+  "revisions": 1,
+  "sha256": "d49433624f63bbb44828fff4d88bdfb397fab6f8bd4b46dccac856cc22229150",
+  "slug": "b300-average-rental-price-in-december-2026-above-6pt50"
  },
  "0xce29182dda789dec9c32c3e9560d75b0e12dda6db46d7a59a4451b6fbf4e5e0f": {
   "created_at": "2026-09-08T16:52:41.584573Z",
@@ -1608,6 +1646,7 @@
   "created_at": "2026-08-10T15:33:55.461739Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-07 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "b7dd9626f4826466df600ae4265c76b9f2d8a0f96fa604e3e06179b14d796e26",

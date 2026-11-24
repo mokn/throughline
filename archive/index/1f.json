@@ -158,6 +158,7 @@
   "created_at": "2026-08-10T15:33:33.079946Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-01 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "4f850dbd85dee2928f0994fa0bce35c0463f76488e7a97a2c0fe9dc63f7b5238",
@@ -533,6 +534,15 @@
   "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
   "slug": "will-m80-qualify-to-the-playoffs-at-pgl-major-singapore-2026"
  },
+ "0x48c8db6b7e7ab89d9158cf284ae1ceb5e66e13acb9e598732fcc1dfe61f2cd1f": {
+  "created_at": "2026-11-23T22:40:25.340751Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will malbsMd be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-malbsmd-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0x4988788580db3a5cc86b187e38b6dae2232b5e7f2380fd7f31c620af2190a61f": {
   "created_at": "2026-10-01T00:10:30.268069Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -619,6 +629,7 @@
   "created_at": "2026-07-30T20:45:51.29791Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Gabriel Fern\u00e1ndez (Cruz Azul) be the top goalscorer of the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "8eb61db9408e0f4f32c1421e4762e4a41c9adc644fcbfcb87f8e9ee7afe18eba",
@@ -1415,6 +1426,15 @@
   "revisions": 1,
   "sha256": "4ad66f10fa479fbc69ca20b863954ff382fc5210de5fa1e9c0a3d01d4b3653fd",
   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-december-2026"
+ },
+ "0xcb17db7854e34da43e1d66e99bda326597b7198413fdd9bfc165daf46057691f": {
+  "created_at": "2026-11-12T20:19:14.912851Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will I Just Might (Austin Millz Remix) - Bruno Mars win Best Remixed Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "74b6d84d7a91f06a81d76631aaee5f8b4c95712374b44acf3eb5a043c68fa1cd",
+  "slug": "will-i-just-might-austin-millz-remix-bruno-mars-win-best-remixed-recording-at-the-69th-annual-grammy-awards-20261109"
  },
  "0xcb2cca9cc9902f5a3bf989b54a14ed740102c725ee236e079c9805d4ebc9481f": {
   "created_at": "2026-10-10T11:45:16.702294Z",

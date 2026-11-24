@@ -473,6 +473,7 @@
   "created_at": "2026-08-04T17:45:25.38258Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Alabama Senate election by 5%-10%?",
   "revisions": 1,
   "sha256": "12d638b50410daf3e6902b1c70353967fad3ba83dd9f32ed71b325691147ce3c",
@@ -623,6 +624,15 @@
   "revisions": 1,
   "sha256": "298b9d1c3050e34b60a7c43e10053b0c2967ab6d9309f47e550e7768a124342e",
   "slug": "el2-pvl-nth-2026-09-26-first-to-score-neither"
+ },
+ "0x54e49ee6a32ff53f5b0bba5bc55904936274495a3a5ba191f0f12d620a6545c2": {
+  "created_at": "2026-11-23T22:40:47.991859Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will There be 20-24 Knife Kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "61128e5657a79559af48b20a66d30d23a3ef28de4d9e73dad9cfc8361eda8dc9",
+  "slug": "will-there-be-20-24-knife-kills-at-pgl-major-singapore-2026"
  },
  "0x5729322bc449c27498f17b812b5f70af7d0762a7701267a653c48b95ab1a1ec2": {
   "created_at": "2026-11-03T22:16:34.603263Z",
@@ -1648,6 +1658,7 @@
   "created_at": "2026-08-11T19:20:47.340923Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 UT-01 House election by 40% or more?",
   "revisions": 1,
   "sha256": "49a000f6a78daeb201239131715625eb362c183646e33f11f1b4ff3792ac5d40",
@@ -1849,6 +1860,7 @@
   "created_at": "2026-08-10T15:33:23.791001Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 ME-02 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "7d6ec082c1a4c3e4327c225a8ab28e9c71624174d32dc8abd4c1ce0a28dd07cc",

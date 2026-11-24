@@ -530,6 +530,15 @@
   "sha256": "8d2ef4a46fb38bbdc3bf3f008166617a7b461aaa24b1dca3f19d91c87c53d7f3",
   "slug": "will-fernando-mendoza-win-the-2026-nfl-offensive-rookie-of-the-year-award-for-the-2026-27-nfl-season-20260716005217962"
  },
+ "0x48fa658a5c0a806efb8c2f709751007c3ddd8f5665f19ca5ee4705d0eb649962": {
+  "created_at": "2026-11-23T22:43:51.716781Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Mata be inducted into the Hall of Legends in 2027?",
+  "revisions": 1,
+  "sha256": "0b435579dd8c6fd15b6870fdffc132176265fccd1634c512f3a67b3ed96b6cca",
+  "slug": "will-mata-be-inducted-into-the-hall-of-legends-in-2027"
+ },
  "0x4975ec2b3651fe1cf47870db2d697ba440d3a515113f7e037ea88380f70fa562": {
   "created_at": "2026-10-31T00:24:10.211516Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -603,6 +612,15 @@
   "revisions": 1,
   "sha256": "10e9c49f035f1ad9309c2f9a80535b412263ebb6dad9532e3b05d708a7eb4039",
   "slug": "will-anthropic-list-on-the-nyse"
+ },
+ "0x55cea0f59d2814a09fe8ebc19fd1d08f473081b6ab90616e0b9d0f0ead3f3262": {
+  "created_at": "2026-11-23T23:52:54.486341Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $5.60?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-5pt60"
  },
  "0x56249378c8c23421fe406cc1e40eec469d4387e3bf31ad45aacc94ad530f4862": {
   "created_at": "2026-09-27T20:04:28.976924Z",
@@ -848,6 +866,7 @@
   "created_at": "2026-08-10T15:33:49.605707Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-05 House election?",
   "revisions": 1,
   "sha256": "f9f99d6a2d467b91681d672b9a88900a09a8e5badda9f0c7a12455fc2f2bfcf2",
@@ -1000,6 +1019,15 @@
   "revisions": 1,
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-22-house-election-by-12-or-more"
+ },
+ "0x98896616735f56c6b69fbf706d4dcf8e0f8724885403ff2d021b3c3f53cfdd62": {
+  "created_at": "2026-11-23T18:50:48.197534Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in June 2027 be above $20.00?",
+  "revisions": 1,
+  "sha256": "84a0cfc921da16baccfef2f5e53a45ae5411f9e4617d433c1fda57ec7b957059",
+  "slug": "b300-average-rental-price-in-june-2027-above-20pt00"
  },
  "0x98d0d5e39f52a717c12e6bd4f772a23f66cbd6cb347cd37758db0ad9db160262": {
   "created_at": "2026-06-26T15:57:38.391256Z",

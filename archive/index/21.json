@@ -1077,6 +1077,7 @@
   "created_at": "2026-08-05T18:48:39.254031Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Maine gubernatorial election by 10%-15%?",
   "revisions": 1,
   "sha256": "618c5e75ec9a732021949745aaa6337c25541e14b0563ef3fda3d08890bd2a34",
@@ -1252,6 +1253,7 @@
   "created_at": "2026-08-05T16:44:10.802481Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Alabama gubernatorial election by 5%-10%?",
   "revisions": 1,
   "sha256": "cf8cb864445d856b71b78782b836c1febedc1f39d3a5bf7b8fcc4ceabaf58f26",
@@ -1519,6 +1521,15 @@
   "revisions": 1,
   "sha256": "595347e0e70da50563a074cea28f19feeee17ae879fc69445b8832bf20c8b9bc",
   "slug": "will-fjord-win-best-motion-picture-non-english-language-at-the-84th-golden-globes"
+ },
+ "0xeed48a949341e2854a482df284c4814c52c3b6c9fef2ce2bd24a7a26547a0621": {
+  "created_at": "2026-11-23T18:57:14.114399Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $22.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-22pt00"
  },
  "0xefc2855b084d7d1634589e74e75c9b7bc88271cbfa4a28c4382814cfa004f621": {
   "created_at": "2026-10-29T20:58:07.568772Z",

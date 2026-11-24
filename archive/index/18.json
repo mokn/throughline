@@ -21,6 +21,7 @@
   "created_at": "2026-08-10T15:33:23.089409Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 ME-02 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "7d6ec082c1a4c3e4327c225a8ab28e9c71624174d32dc8abd4c1ce0a28dd07cc",
@@ -619,6 +620,15 @@
   "sha256": "067c810591e18fc9f63ee2f850e82c7fe14fc62578ff8e10f240ece3bd4372c2",
   "slug": "trump-renames-strait-of-hormuz-to-strait-of-trump-by-december-31"
  },
+ "0x52db49da290a839458efca1fe101d9e0f3e0a5b70d47036754fc0277687dc818": {
+  "created_at": "2026-11-24T02:14:33.273948Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Another Iranian diplomat expelled by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "9033d927b6587a78bfe47b7710ca50a0c78e437b3882812468509d25c89e8320",
+  "slug": "another-iranian-diplomat-expelled-by-december-31-2026"
+ },
  "0x55eed54159f4a4176f907559a08e55cde9a28dea48c02a2821a4374343a45518": {
   "created_at": "2026-08-24T16:40:22.48045Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -663,6 +673,15 @@
   "revisions": 1,
   "sha256": "e4cd216b38b12696fee8e4625b3588e017877caa53b0ca75c604bf4bb605118e",
   "slug": "will-bijan-robinson-win-the-2026-nfl-offensive-player-of-the-year-award-for-the-2026-27-nfl-season-20260716005216290"
+ },
+ "0x691c0c7dc2e7d2784796ac0294d24dc1037d14dd3bc36d74f9326890c254e118": {
+  "created_at": "2026-11-24T16:26:23.083922Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Kai or Speed: who reaches $1M in GTA VI first?",
+  "revisions": 1,
+  "sha256": "b473c995ea84aef0e8f30a272335d0f760cf488da3f6e1ce89da0af26a4f47da",
+  "slug": "kai-or-speed-first-to-1m-in-gta-vi"
  },
  "0x696f452c786fbb6017c29be17d0d91cdf504983acdc5e8a501e2736a155bba18": {
   "created_at": "2026-09-03T01:05:47.26605Z",
@@ -1262,6 +1281,7 @@
   "created_at": "2026-08-10T15:34:05.208048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-10 House election by 18% or more?",
   "revisions": 1,
   "sha256": "acb65f9629695a41b26ca28f42241ff39e15924dd69fcdaad535b3996bf4d13c",

@@ -171,6 +171,15 @@
   "sha256": "a7ff2a98ead93a910decb1e5b5f7c263aace3d2063831358a36623701f8ace3e",
   "slug": "will-mitch-mcconnell-resign-from-the-senate-before-his-term-ends"
  },
+ "0x1a51aa25457a7314a155a268f48cb55c4d636b6669fb6005ce63a5e1b4f3801b": {
+  "created_at": "2026-11-23T18:39:51.145603Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in December 2028 be above $18.00?",
+  "revisions": 1,
+  "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
+  "slug": "b200-average-rental-price-in-december-2028-above-18pt00"
+ },
  "0x1a551814263ea2c1b07b705bec986f62bf8fcdf61c1829a205a80f452e3dc01b": {
   "created_at": "2026-08-07T20:32:46.283841Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -234,6 +243,15 @@
   "revisions": 1,
   "sha256": "46d947a51ab27ca7521e12d58ec9eaa937abe1686d2d5a1d48992f927bfe8eb2",
   "slug": "treveyon-henderson-6pt5-rushing-touchdowns-2026-27"
+ },
+ "0x242f22c17dcb5a95944e0bff495eddbfa663776b65b60f37d8079a59a1d0491b": {
+  "created_at": "2026-11-23T18:58:30.09645Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in February 2027 be above $4.20?",
+  "revisions": 1,
+  "sha256": "fc964d78ede79e8203518ae6f98e4304b64181980325050efbb91233717a00a0",
+  "slug": "h100-average-rental-price-in-february-2027-above-4pt20"
  },
  "0x247ad87d8a38d3d31ecb63da335df50b0809b2928f84cab1104ac9e2a7a0e01b": {
   "created_at": "2026-07-02T18:12:51.366613Z",
@@ -558,6 +576,7 @@
   "created_at": "2026-08-06T21:36:31.509872Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-04 House election by 70%-75%?",
   "revisions": 1,
   "sha256": "2e266b22297a857cb0d984ad7e62fadd67e8550f3ac56c9529191357ec48aaf9",
@@ -1108,6 +1127,7 @@
   "created_at": "2026-08-10T15:34:02.21713Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-09 House election by 45% or more?",
   "revisions": 1,
   "sha256": "35854d04088964a75e3661c105650d217870c26b00620b9d8673b6456f1c3481",
@@ -1217,6 +1237,7 @@
   "created_at": "2026-08-10T15:33:59.364967Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-08 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "229658df6c15b2328aec0581d588301c0a8986a8d82e76467a404b9b097acf23",
@@ -1294,6 +1315,15 @@
   "revisions": 1,
   "sha256": "88a9ebc9b00f00a6ecb616edf77f9479d37709cf1e39556a678c086499aba3ef",
   "slug": "will-broad-front-fa-win-the-most-seats-in-caceres-in-the-2026-spanish-general-election"
+ },
+ "0xaaa78b69cde948c76a7c3e9c7a0da7da716cd092f92a0d3bba0bd15a37e77a1b": {
+  "created_at": "2026-11-23T22:39:45.303952Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will tN1R be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-tn1r-be-the-pgl-major-singapore-2026-mvp"
  },
  "0xaaf6aecfecfc22d5583867a03e703a009dc8f1e869aa0a7572435f07b8642b1b": {
   "created_at": "2026-10-21T23:30:44.336006Z",
@@ -1441,6 +1471,15 @@
   "revisions": 1,
   "sha256": "488551c9751675aa96f8965372d3610a2f8f08129c728df57adced328feb2899",
   "slug": "will-jetblue-announce-bankruptcy-by-june-30-2027"
+ },
+ "0xbd183680677b5bfb14eca853ecdaf7a78eda8c0f9f225147fcadb1e2c8d5b51b": {
+  "created_at": "2026-11-24T05:00:06.468132Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 300-319 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-300-319"
  },
  "0xc1fa16c04b5eae360f6810b341962165a263d5403ce8021150e729a70b5da01b": {
   "created_at": "2026-10-15T18:02:47.040233Z",
@@ -1701,10 +1740,20 @@
   "sha256": "08aa20d8ebb9efb0168414190ed93e09176720940fc50a6f7ea6665b3f3afbdc",
   "slug": "will-arirang-bts-win-album-of-the-year-at-the-69th-annual-grammy-awards-20260805190947329"
  },
+ "0xec23408520309ed18034600b6a4fbce5eebd2db9351ec80abe0810e31ac55c1b": {
+  "created_at": "2026-11-24T02:21:37.458329Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Digger win Best Picture at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "e3c0525e6a596b67781c3d65d909b4b347d909e71d07080d0563ffcfaf3581f3",
+  "slug": "will-digger-win-best-picture-at-the-32nd-critics-choice-awards"
+ },
  "0xed2373380b939cf891108d46a3fa00863d844ae6301e06d986f5113670c0891b": {
   "created_at": "2026-08-10T15:33:53.660781Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-06 House election?",
   "revisions": 1,
   "sha256": "0a6ae216cc98492d6e4a805b021652c3681fb78b848abddc13394b459c469ff2",
@@ -1718,6 +1767,15 @@
   "revisions": 1,
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-norman-powell"
+ },
+ "0xf078918f396139f474946bcf58be21aaf126fbea36d9236257067b8c5f16011b": {
+  "created_at": "2026-11-24T05:00:13.722928Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 1120-1159 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-1120-1159"
  },
  "0xf19e5c58c59c79bd128742ca7690e34f75cc1928c82c39ce61dbb274ed06cd1b": {
   "created_at": "2026-07-20T19:21:11.718812Z",
@@ -1755,6 +1813,15 @@
   "revisions": 1,
   "sha256": "87d76d5556f45d38363f4e7eedc9d7e2207170390a66ab86c0b373251a1159fa",
   "slug": "will-zaira-ivonne-villagrana-escareno-win-the-2027-zacatecas-governor-election-20260803173858836"
+ },
+ "0xf4140b77bbb47fac545d8de09eb392c2fe466ab34f57956be5fc6c775a12911b": {
+  "created_at": "2026-11-23T22:40:04.706697Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will iM be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-im-be-the-pgl-major-singapore-2026-mvp"
  },
  "0xf7ad42daf925d9331a3081babc637d3acafb7c0c1aaad3688a93c8009016e41b": {
   "created_at": "2026-08-05T11:06:53.268302Z",

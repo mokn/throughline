@@ -45,6 +45,15 @@
   "sha256": "1daa2134c3b03613234aca80d20c324859eb5c10ab17ccd06774c15541ca0337",
   "slug": "next-gpt-sol-6pt2-released-by-november-30-2026"
  },
+ "0x0fbede12ea929a3ac35803c5f6eb7a5c37f6fc4a8eeaa5e96f840acd60d3e100": {
+  "created_at": "2026-11-23T22:39:01.739693Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Imperial record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-imperial-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0x0fe36c8697eb838ba8b8c801417567c26ccbaf1392dc1d247037fc1d921d5900": {
   "created_at": "2026-09-02T19:39:13.42258Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -272,6 +281,7 @@
   "created_at": "2026-08-11T19:20:48.689671Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 UT-01 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "49a000f6a78daeb201239131715625eb362c183646e33f11f1b4ff3792ac5d40",
@@ -658,6 +668,7 @@
   "created_at": "2026-08-10T15:34:08.022259Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-10 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "acb65f9629695a41b26ca28f42241ff39e15924dd69fcdaad535b3996bf4d13c",
@@ -763,6 +774,15 @@
   "sha256": "c1d0604f9a3b2d2817e2ced58c5227d163572039b1a08d7d5537e99f43648df9",
   "slug": "will-amazons-market-capitalization-be-between-1pt50t-and-2pt00t-at-the-end-of-2026-1785882876096"
  },
+ "0x781ddb03c26800335e931c5ebc6a1053bdf984c9ee3a4a2dc675a120e2bd4500": {
+  "created_at": "2026-11-24T01:01:35.377244Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Ruben Gallego announce a presidential run before 2028?",
+  "revisions": 1,
+  "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
+  "slug": "will-ruben-gallego-announce-a-presidential-run-before-2028"
+ },
  "0x7aba4219ee814a62a94ee8557d4cf395760ff438c028f195cced16782212df00": {
   "created_at": "2026-09-04T19:45:05.421158Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -789,6 +809,15 @@
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-washington-commanders-have-more-than-6pt5-wins-during-the-2026-nfl-season"
+ },
+ "0x7d9c4e5d980c554c9384f9f2df052fd5aac93fde44c386423cc80f7588911700": {
+  "created_at": "2026-11-23T18:59:40.211459Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in December 2027 be above $6.00?",
+  "revisions": 1,
+  "sha256": "29635d9bbbcd7ec5ff31c6f51c57df87e00112f075464b058f52e150d06382cc",
+  "slug": "h100-average-rental-price-in-december-2027-above-6pt00"
  },
  "0x7de52959b131eaa64ddf027a5cc8adc9f3398fcfa8fb583b47ac82d532e01400": {
   "created_at": "2026-11-11T21:56:59.368041Z",
@@ -1041,6 +1070,7 @@
   "created_at": "2026-11-10T02:14:34.476446Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-12T15:15:16Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Bill Dally be the next CEO of NVIDIA?",
   "revisions": 2,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
@@ -1063,6 +1093,15 @@
   "revisions": 1,
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-mike-johnson-win-the-2028-us-presidential-election"
+ },
+ "0xa2c9f0b12cf2b99e5bd213647cd525992d1e14a75c756ba5a9f83a751afb1900": {
+  "created_at": "2026-04-14T15:40:30.400796Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Josh Stein be the 2028 Democratic Vice-Presidential nominee?",
+  "revisions": 1,
+  "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
+  "slug": "will-josh-stein-be-the-2028-democratic-vice-presidential-nominee"
  },
  "0xa5642e1ff4a1eab7a1752b3176bf8301ddeb6baee3c85f615e810d1b7eeedb00": {
   "created_at": "2026-07-10T22:35:12.497991Z",
@@ -1433,6 +1472,7 @@
   "created_at": "2026-11-10T02:14:37.063211Z",
   "first_seen": "2026-11-12T15:15:16Z",
   "last_changed": "2026-11-12T15:15:16Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Ian Buck be the next CEO of NVIDIA?",
   "revisions": 1,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",

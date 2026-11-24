@@ -26,6 +26,15 @@
   "sha256": "07b765b1d2f27c1ac9df39d5da7090f9c358ae17f27eafde18da8dadfe42b993",
   "slug": "will-amon-ra-stpt-brown-be-the-highest-scoring-wr-of-the-2026-27-nfl-season-20260806224130842"
  },
+ "0x051aa6fc3c71e6b0be8363b5a86deca42225ef96af151a025417706797ccb539": {
+  "created_at": "2026-11-23T22:23:47.685388Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Chinggis Warriors go 3-2 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "9f15992409677ff8dbdfa1e34b3e4ce2911d040a9c9274c42046435de9273b70",
+  "slug": "will-chinggis-warriors-go-3-2-in-stage-1-of-the-pgl-major-singapore-2026"
+ },
  "0x0597ab3abefd89865dad99782160899c8894ee8344777803a592e77aba6e7f39": {
   "created_at": "2026-10-18T09:00:08.625943Z",
   "first_seen": "2026-11-14T13:31:33Z",
@@ -158,6 +167,7 @@
   "created_at": "2026-08-07T14:04:32.219783Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-05 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "4b14b11d63b16983ecb4382141857abca443f5f727ac7e51c1790c9b56d7ec7d",
@@ -217,6 +227,15 @@
   "revisions": 1,
   "sha256": "c9c6a92dfad4e288881fae9ab32e06a24a517bb0d63cac6ddedde1c0f57aff78",
   "slug": "will-the-democratic-party-candidate-win-the-2026-oh-01-house-election-by-12-15"
+ },
+ "0x206530fd0e9314daefe1ef74dc7871cc796f9ece16fb372b5b868b719185c539": {
+  "created_at": "2026-11-23T22:43:48.29336Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Bjergsen be inducted into the Hall of Legends in 2027?",
+  "revisions": 1,
+  "sha256": "0b435579dd8c6fd15b6870fdffc132176265fccd1634c512f3a67b3ed96b6cca",
+  "slug": "will-bjergsen-be-inducted-into-the-hall-of-legends-in-2027"
  },
  "0x20a41ff7fc82213d4300e78113f0817c029547d1272266d9ede22c5eb5627439": {
   "created_at": "2026-07-29T14:49:18.067038Z",
@@ -1200,6 +1219,7 @@
   "created_at": "2026-08-07T14:05:22.367446Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-01 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "d5fd40be116ffb224405a79bca4fb54bb9bda2490d981ebd8a78d9572f7742e3",

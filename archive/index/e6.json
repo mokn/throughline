@@ -140,6 +140,15 @@
   "sha256": "135a5801fbd3cefbbd4014166ffa05dba4660da17d4fd37f5522a83a13e1014d",
   "slug": "will-mjallby-aif-record-the-most-clean-sheets-in-the-uecl-league-phase"
  },
+ "0x111d880221a43581b4aabfef3c17fc3c809ef07c38317dbd1346a85674357ae6": {
+  "created_at": "2026-11-24T05:00:04.084122Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 100-119 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-100-119"
+ },
  "0x123d554f9aa533ea4809869e7369577eae269f6a77488d7398eb2aa292eba7e6": {
   "created_at": "2026-08-28T19:59:08.889538Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -172,6 +181,7 @@
   "created_at": "2026-11-23T15:58:53.798115Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will HoneyMad be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -271,10 +281,20 @@
   "created_at": "2026-08-11T19:20:54.033851Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 UT-02 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "9e18e76582e1e1b1eb6fdf01c92e81688c5992ee1b5e3729e0943da527f967ac",
   "slug": "will-the-republican-party-candidate-win-the-2026-ut-02-house-election-by-20-25"
+ },
+ "0x289edea5fc9d8942e611d3696c034727936b9b6db146faa5560e263f1f3276e6": {
+  "created_at": "2026-11-24T05:00:05.722227Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 240-259 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-240-259"
  },
  "0x293220ead4160a6840d53b743978b0ac623410a204bc8e021e5f43c2a9e0d5e6": {
   "created_at": "2026-01-28T15:38:28.175454Z",
@@ -458,6 +478,15 @@
   "revisions": 1,
   "sha256": "fb89e078a0cf21f0ab99d481a390b940a7a837abe9a9e6d2e4be1513fe4a5dfb",
   "slug": "el1-bro-wyc-2026-10-03-total-4pt5"
+ },
+ "0x4615ed3485be51f0e55b2c54775b5e9c9a97e839cf33d067e162b789de791fe6": {
+  "created_at": "2026-11-12T20:18:56.624946Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Music - underscores win Best Dance/Electronic Recording at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "095956ddf8c5da2f78397d7eb3f0173d9970934b3218444d263be9be3a797462",
+  "slug": "will-music-underscores-win-best-dance-electronic-recording-at-the-69th-annual-grammy-awards-20261109"
  },
  "0x4642266f4e6e747366f833e8ff0e1e6f43904c9a0409df21710ddcad3e6b5fe6": {
   "created_at": "2026-08-10T14:52:45.725696Z",
@@ -664,6 +693,7 @@
   "created_at": "2026-09-02T19:34:13.053326Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-02 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "ce38d24d69a56aa2294f1fe7b71c95357d02512261de218aae6f13783fb83fa7",
@@ -682,6 +712,7 @@
   "created_at": "2026-08-18T14:14:46.603736Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Maine be 900,000 or more?",
   "revisions": 1,
   "sha256": "63cbb9886ce4c61ab03246ad7dba47f589b990161a3e9e3a1caf4253fa84fd12",
@@ -827,6 +858,7 @@
   "created_at": "2026-08-06T21:37:15.914479Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-07 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "c27b309867417a131687fe025f0d6574c29203c78d32c2156951ab2465d793d6",
@@ -1002,6 +1034,7 @@
   "created_at": "2026-08-10T15:34:16.326406Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-13 House election by 60%-65%?",
   "revisions": 1,
   "sha256": "1f09cb5cbaad6d567a08fcbed5afe52329852f0ce4329c73c850873d64d43e37",
@@ -1183,6 +1216,15 @@
   "sha256": "19baac10647ea16503151381dbeb4588426c8f9a7fa7d7cae74a6373eb0b00b2",
   "slug": "will-the-republican-party-candidate-win-the-2026-oh-15-house-election-by-18-or-more"
  },
+ "0xb75488cc62ae1233d74fb12f61cb3aa454f7ce3938eb694121ed9f7466b9c4e6": {
+  "created_at": "2026-11-23T22:38:53.826168Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will M80 record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-m80-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0xb76b3eead8ef02ce665a57c6bcb5f84b2b4bdeeeec1bfe7d747f1408b594cee6": {
   "created_at": "2026-08-06T21:37:58.949651Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1304,6 +1346,15 @@
   "sha256": "b14c1de67e3cc9bf80fd4d0d92994f8100f563b2d2db28567c4789a4b1b320af",
   "slug": "will-lionel-scaloni-be-the-next-permanent-manager-of-manchester-united"
  },
+ "0xc54a8a38857ba224cd4fec7fb94287d591db3be3d0f5d61e0a09a88a007715e6": {
+  "created_at": "2026-04-14T15:40:32.188466Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Lisa Blunt Rochester be the 2028 Democratic Vice-Presidential nominee?",
+  "revisions": 1,
+  "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
+  "slug": "will-lisa-blunt-rochester-be-the-2028-democratic-vice-presidential-nominee"
+ },
  "0xc6a2590da8128023b89b01c35fa229ffee89523aa9be031c94b1ecff2f78ede6": {
   "created_at": "2026-08-11T19:03:30.136955Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1390,6 +1441,7 @@
   "created_at": "2026-08-10T15:33:41.419335Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-03 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "c92c6a8b0e78ba4caa1f5f9327e2de2b475868bc025eba6024046428cc034dab",

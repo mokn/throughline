@@ -94,6 +94,7 @@
   "created_at": "2026-08-07T14:04:31.498472Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-05 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "4b14b11d63b16983ecb4382141857abca443f5f727ac7e51c1790c9b56d7ec7d",
@@ -150,6 +151,7 @@
   "created_at": "2026-08-06T21:34:45.261842Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-01 House election?",
   "revisions": 1,
   "sha256": "5b0ad4e08a7394a6e77bd76ebd652e90970f672cb8ebde86aedcd6837dc50723",
@@ -597,6 +599,7 @@
   "created_at": "2026-08-07T14:05:21.805045Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-01 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "d5fd40be116ffb224405a79bca4fb54bb9bda2490d981ebd8a78d9572f7742e3",
@@ -1336,6 +1339,15 @@
   "sha256": "6028aba581182fa172e09abf6b239cf656995ca7730551f10ff8d9c6fd6857a8",
   "slug": "will-south-african-inflation-be-between-2pt6-and-2pt9-in-2026"
  },
+ "0xb84b4a39b57106b1df62eda65a532f76f9421f58ef5f068f2688c57698e759f1": {
+  "created_at": "2026-11-23T22:40:18.175643Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will FL1T be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-fl1t-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0xb8684e9cb01d6239ebd262ef12e6c5bb60f0768b221126d87ee6978161d32cf1": {
   "created_at": "2026-10-13T15:50:44.145891Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1633,6 +1645,7 @@
   "created_at": "2026-08-10T15:33:45.091378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-04 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "ae7934ff7df946a238ac29083d8b1886a6f2919f2a96773aa09c924f534aacc8",

@@ -487,6 +487,7 @@
   "created_at": "2026-08-04T17:45:24.265577Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Alabama Senate election by 25%-30%?",
   "revisions": 1,
   "sha256": "12d638b50410daf3e6902b1c70353967fad3ba83dd9f32ed71b325691147ce3c",
@@ -717,6 +718,7 @@
   "created_at": "2026-08-10T15:34:12.705992Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-12 House election by 60%-65%?",
   "revisions": 1,
   "sha256": "d51b8c00e4d21555da441c63d6eddcd5a90bacce87075e008ef64f90fc157d74",
@@ -877,6 +879,15 @@
   "revisions": 1,
   "sha256": "9fdde45429eda4cef001aabdc1914beae001c2a94cef1dd2b7c397526f9581eb",
   "slug": "will-hyperliquid-dip-to-40-by-december-31-2026-from-june-8-272"
+ },
+ "0x6e258e963c6d364dcdf3c96e1bd992c4d40ada1382ff1d6ca94f4a619f312563": {
+  "created_at": "2026-11-23T22:40:33.775526Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Magisk be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-magisk-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x6e555afee85363d7d591bb2bb5d06d83072869589856ef114cb0a49531c9c763": {
   "created_at": "2026-09-18T09:46:22.13544Z",
@@ -1162,6 +1173,7 @@
   "created_at": "2026-08-10T15:33:53.432073Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-06 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "0a6ae216cc98492d6e4a805b021652c3681fb78b848abddc13394b459c469ff2",

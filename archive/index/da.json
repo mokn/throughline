@@ -27,6 +27,15 @@
   "sha256": "99f1b8dfbc2160f7723634f1e2787a968e4987f45b4ff152825fcb915aa2ce8a",
   "slug": "will-bng-win-the-most-seats-in-ourense-in-the-2026-spanish-general-election"
  },
+ "0x02c18eeed9e1b213773e3e1870ef3cd65e8a28568bdb47ba9cbc6f8dcc2100da": {
+  "created_at": "2026-11-24T01:33:00.31416Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will \"Mr. Irrelevant\" score at least 70 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "4c44a537c778f6d603c740eab6fe5a19c17820468abb72396e50ad2a9e40adc6",
+  "slug": "will-mr-irrelevant-score-at-least-70-on-the-rotten-tomatoes-tomatometer-20261228"
+ },
  "0x03074360686869c7eb6de9c951b172519ffedd4cda46390504e62b05a8d8eeda": {
   "created_at": "2026-08-05T16:27:43.722133Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -272,6 +281,15 @@
   "sha256": "2b4a8b461eb7afc95ff7e0b538f9a74f941d607bfb07fcec66422abfe05cc4e2",
   "slug": "christian-mccaffrey-574pt5-rushing-yards-2026-27"
  },
+ "0x2fe44a5dcbb3e630dc0a6a71820b9f868980d5b91fe4c1162a1938c97fe6b5da": {
+  "created_at": "2026-11-23T18:38:24.032028Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in December 2027 be above $20.00?",
+  "revisions": 1,
+  "sha256": "ecc21fb9e013abbd180e07d40c6fb33334cf1bd6317ea84ec4ae443c5aab9a93",
+  "slug": "b200-average-rental-price-in-december-2027-above-20pt00"
+ },
  "0x30e7a8de734f4319c0e886ac824e6e1cc081d7adde0db3f988ea237e30a32dda": {
   "created_at": "2026-08-06T08:30:23.998886Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -467,6 +485,15 @@
   "sha256": "ff07c38a6df5ec38b8c0e88e42adde1d026d011c52dcc1898c7fb64369fa6670",
   "slug": "2027-soccer-swiss-super-league-winner-fc-thun"
  },
+ "0x521e7ec03410fe89a61f67c44410b9540213f83db43b28370936a0f8671365da": {
+  "created_at": "2026-11-12T20:23:26.190638Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Bendito Verano - Elena Rose win Best Latin Pop Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "d2441f3a59afec9951e31f5439a10f2a5c64756135a599e4835a4e0254fde1bb",
+  "slug": "will-bendito-verano-elena-rose-win-best-latin-pop-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x56067fa8de6e22a0b5f9d932122c59d3a3f4b7ca63ab07374a54beb7045f0bda": {
   "created_at": "2026-09-09T15:41:26.61134Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -625,6 +652,7 @@
   "created_at": "2026-08-10T15:33:49.140682Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-05 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "f9f99d6a2d467b91681d672b9a88900a09a8e5badda9f0c7a12455fc2f2bfcf2",
@@ -1211,6 +1239,7 @@
   "created_at": "2026-11-10T02:14:50.634843Z",
   "first_seen": "2026-11-15T13:56:47Z",
   "last_changed": "2026-11-15T13:56:47Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Charlie Kawwas be the next CEO of NVIDIA?",
   "revisions": 1,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
@@ -1521,6 +1550,7 @@
   "created_at": "2026-09-02T19:34:12.209249Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-02 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "ce38d24d69a56aa2294f1fe7b71c95357d02512261de218aae6f13783fb83fa7",
@@ -1648,6 +1678,7 @@
   "created_at": "2026-11-23T15:58:54.819283Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will N3on be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",

@@ -220,6 +220,7 @@
   "created_at": "2026-08-07T14:05:53.542365Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-02 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "f0033bd98b34438bb80886168e076311de4c13a0c2af8cfe7431c00276406266",
@@ -830,6 +831,15 @@
   "sha256": "f232fb3a64fa2e3c3219120ee9592162580dbfa8766a0555773ebb9a10495103",
   "slug": "enl-scu-fgr-2026-10-03-exact-score-2-3"
  },
+ "0x7148d6ce9d646accc65c9816f2b78fe348e11bf2cde46b3d5a5aeab343e09159": {
+  "created_at": "2026-04-14T15:40:30.698817Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will David Crowley be the 2028 Democratic Vice-Presidential nominee?",
+  "revisions": 1,
+  "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
+  "slug": "will-david-crowley-be-the-2028-democratic-vice-presidential-nominee"
+ },
  "0x718dd518f427a7b3a854ea4ed5de934af07aa9b02d8489f82408b4d86fcfdd59": {
   "created_at": "2026-09-08T16:52:51.460167Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -838,6 +848,15 @@
   "revisions": 1,
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-cucho-hernandez-score-the-most-goals-in-the-2026-27-uefa-champions-league"
+ },
+ "0x72ff7733d557430c255a9c15c2d83c32735e7f5ab4b1c9b12223b46304d0ae59": {
+  "created_at": "2026-11-23T22:39:53.925547Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Krabeni be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-krabeni-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x731b3b82bb05ef74f03fcf67c758381dc47448d302688ad73d1fd2459ecf4c59": {
   "created_at": "2026-11-23T03:05:00.081275Z",
@@ -1529,6 +1548,7 @@
   "created_at": "2026-08-18T14:57:57.244933Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Yomelela Tyali be the next mayor of Buffalo City?",
   "revisions": 1,
   "sha256": "a08c497c5e15d46e762947c01a0c96fd5b0349f8adf61571f6d33a80898bdf41",

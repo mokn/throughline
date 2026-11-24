@@ -226,6 +226,15 @@
   "sha256": "ac807ec91557915b892e6bee51fbb7846efa1484143de863f0f50ba567f8979f",
   "slug": "austria-superliga-2027-champion-skn-stpt-polten"
  },
+ "0x1c05b67922f9e4d7ca6e1c895b513ea43b361ad44d21f997095dee2452c2577e": {
+  "created_at": "2026-11-24T01:51:00.966807Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will a GPU compute futures contract trade on a US exchange by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "b48a51bcc5c75f51d835e3fd02129b8954e7a0fc16acf3f97a097681c370328c",
+  "slug": "gpu-compute-futures-traded-in-the-us-by-march-31-2027"
+ },
  "0x1e63b2e647c4dc079230ebc48410af65bfa4656ab50d2ae210a96f1e3534d57e": {
   "created_at": "2026-08-04T17:47:07.325552Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -511,6 +520,15 @@
   "sha256": "2c7afe3d253f2e4487b2e746ebe825dd7642287362dcd2f54a77a02c95b126eb",
   "slug": "cdr-bad-cdt-2026-10-28-exact-score-2-5"
  },
+ "0x46300b0e01141e4552c3207e623e5b06f5c92d1ff8788a34ab95367085030c7e": {
+  "created_at": "2026-11-23T18:51:23.149785Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $22.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-22pt00"
+ },
  "0x470a9373bf5e7b342df106800c191e30f5071719082c4dde8b3bd1548bbca07e": {
   "created_at": "2026-08-12T00:16:47.72537Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -583,6 +601,15 @@
   "revisions": 1,
   "sha256": "3cd0b49dc8f2f90e1c410494822c3d5a06ab47cb74b3ae3740012c26e6e8cabd",
   "slug": "will-pp-win-the-most-seats-in-teruel-in-the-2026-spanish-general-election"
+ },
+ "0x51e05aa2ddea0bd516a2969fb3489cd9fb4937e602978d4d756ea300f0d3567e": {
+  "created_at": "2026-11-24T02:14:34.204515Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Another Iranian diplomat expelled by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "9033d927b6587a78bfe47b7710ca50a0c78e437b3882812468509d25c89e8320",
+  "slug": "another-iranian-diplomat-expelled-by-march-31-2027"
  },
  "0x52913325ba7bfe341c2a237f72b3ef5e9903f7f024c40a75829f0376ddffa17e": {
   "created_at": "2026-10-25T19:00:15.416922Z",
@@ -1291,6 +1318,15 @@
   "sha256": "591f8d4361c5c59a16aa263febadf163a31d2a39e95deab98358f974663d603e",
   "slug": "will-data-center-utility-cost-protection-become-law-this-year"
  },
+ "0xbea79eab68797590a4b12a8b467396a67143f4c48a1bf5f7082c2e2afbd5567e": {
+  "created_at": "2026-11-23T22:39:39.955388Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will YEKINDAR be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-yekindar-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0xbfc40c01252d9c9677859e9649eec406cae93e7866eda1b48b3b4b29da16027e": {
   "created_at": "2026-05-12T17:51:58.325109Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1299,6 +1335,15 @@
   "revisions": 1,
   "sha256": "ce3efa01f29eac860f206862006d35de657ac51d1b82208674088dc39c250e18",
   "slug": "will-detroit-pistons-win-the-2027-nba-finals"
+ },
+ "0xc5469e56b2c68507eba220b1dbe488c949006f566d6bd3ac27c732c9ce11f87e": {
+  "created_at": "2026-11-23T22:43:40.422642Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Rookie be inducted into the Hall of Legends in 2027?",
+  "revisions": 1,
+  "sha256": "0b435579dd8c6fd15b6870fdffc132176265fccd1634c512f3a67b3ed96b6cca",
+  "slug": "will-rookie-be-inducted-into-the-hall-of-legends-in-2027"
  },
  "0xc54e8da0ab01eebc8e7edd13208822187eae58b3438c801910136f2b6fc7ad7e": {
   "created_at": "2026-09-14T21:41:51.410639Z",
@@ -1614,6 +1659,7 @@
   "created_at": "2026-08-10T15:34:12.996907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-12 House election by 55%-60%?",
   "revisions": 1,
   "sha256": "d51b8c00e4d21555da441c63d6eddcd5a90bacce87075e008ef64f90fc157d74",

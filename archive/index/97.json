@@ -312,6 +312,15 @@
   "sha256": "d15d66aa6b9eeb0f3c27deba66141c0b5a66da3c9e41ecf3ee0fbb75478fc81b",
   "slug": "will-dog-alone-be-nominated-for-best-animated-short-film-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x33c3e91e00281ccfbd5e37f506e5f8833a0fece58000c0a5e9f4dc19058f2c97": {
+  "created_at": "2026-11-23T23:54:36.64043Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-4pt00"
+ },
  "0x35f18058ac9d1874df287a7d903fb177ca93817be3d8cfe5b687eaa38b88d897": {
   "created_at": "2026-07-13T23:01:28.97602Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -486,6 +495,15 @@
   "revisions": 1,
   "sha256": "6aa54b6c8ccad7ce85c5ab0eea6f4822f9451ea078d8479d50ebff635b7d4d3f",
   "slug": "will-the-republican-party-win-the-pa-04-house-seat"
+ },
+ "0x506c2887544416d8130086198ef1156fc6c54c42301578eab61805a3617a5c97": {
+  "created_at": "2026-11-23T23:56:02.01892Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in September 2027 be above $28.00?",
+  "revisions": 1,
+  "sha256": "3ba586bcfb1247af5ab56e286019368f4d3ffe05e4eba78e7548b74e580af58b",
+  "slug": "b300-average-rental-price-in-september-2027-above-28pt00"
  },
  "0x51894974d1aa56f369ab7497b51571318a3e93663f01faba8e8986bae7cd8497": {
   "created_at": "2026-09-23T18:06:36.011001Z",
@@ -768,6 +786,7 @@
   "created_at": "2026-08-11T19:04:26.224483Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 UT-04 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "153c5b9a0c4fb85610ab9a79a5d09ec1d561341b6e4765129c6bfd2b3faef39b",
@@ -1118,6 +1137,7 @@
   "created_at": "2026-08-10T15:34:11.172376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-11 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "b133ebf606a92028b1613ac8a65adec0262cb4051d4d4fc7a68e79bd7538088b",
@@ -1201,6 +1221,7 @@
   "created_at": "2026-08-05T16:44:09.827131Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Alabama gubernatorial election by 25%-30%?",
   "revisions": 1,
   "sha256": "cf8cb864445d856b71b78782b836c1febedc1f39d3a5bf7b8fcc4ceabaf58f26",
@@ -1316,6 +1337,15 @@
   "sha256": "48315a5bea81e4fe2e5fe41b3b640336b3fc85277fa2a71151a874d016f3b0d8",
   "slug": "el2-cra-bar-2026-09-26-team-total-away-5pt5"
  },
+ "0xd159ed4a20091d297e1b1476352bf3f3058ec0076f7eda595fca91688b55b797": {
+  "created_at": "2026-11-23T22:38:56.020329Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Ninjas in Pyjamas record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-ninjas-in-pyjamas-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0xd15cfb0902b0b4a3ea37125d6aeb5841a6b440488764fa5d4e0d81584e465597": {
   "created_at": "2026-08-24T16:34:06.355363Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1330,6 +1360,7 @@
   "created_at": "2026-08-10T15:34:10.877857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-11 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "b133ebf606a92028b1613ac8a65adec0262cb4051d4d4fc7a68e79bd7538088b",

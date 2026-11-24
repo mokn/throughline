@@ -699,6 +699,15 @@
   "sha256": "cb63f561a153f24065cc0406ccf7e8ef859abd89c145afa033ce0b9b05557dbd",
   "slug": "will-cercle-brugge-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0x7ee58352f4bf70786310c36301da8b2d7674115f67294bb749d106694407dcd0": {
+  "created_at": "2026-08-06T08:20:20.268683Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Berghain (ROSAL\u00cdA, Bj\u00f6rk & Yves Tumor) win Record of the Year at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "89bf80a94cd770ca0a3f60b864a7bc7da94a6de726f58037443839e62e43cff5",
+  "slug": "will-berghain-rosalia-bjork-and-yves-tumor-win-record-of-the-year-at-the-69th-annual-grammy-awards-20260805190947455"
+ },
  "0x7fe296a37e27b7b46d038e2877e0d8ec33f86c1c42574a90cb1e94396a5906d0": {
   "created_at": "2026-08-06T19:14:55.379548Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -867,6 +876,7 @@
   "created_at": "2026-08-11T19:20:48.361024Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 UT-01 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "49a000f6a78daeb201239131715625eb362c183646e33f11f1b4ff3792ac5d40",
@@ -1396,6 +1406,15 @@
   "revisions": 1,
   "sha256": "070cd0f5f73d51e56144985097f0e59f3e8401061317417d3183b24ba9dfc081",
   "slug": "variational-fdv-above-5b-one-day-after-launch-995-724-585"
+ },
+ "0xf6f7b6264dca439766e49131833e0a188c2b2a6290aa9ed33b01a967e6ca43d0": {
+  "created_at": "2026-11-24T01:43:21.709917Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Inception Labs be acquired before 2028?",
+  "revisions": 1,
+  "sha256": "a92aaea4e030a9852cae3f6f4f1cb2161eb169e7e153eaa0d42a0fcea00d57a4",
+  "slug": "will-inception-labs-be-acquired-before-2028"
  },
  "0xf7bd4c62fc423160016bc043bba3f89742eb4c039289072f973de69ca14318d0": {
   "created_at": "2026-08-12T17:23:03.215348Z",

@@ -26,6 +26,15 @@
   "sha256": "3062333111284e30067b5b18990c74d408c7eb99326029f740c874735e19d766",
   "slug": "el1-don-oxf-2026-09-26-exact-score-0-0"
  },
+ "0x02ac565825c3e96d36ff36a22f009add38ae5692bc7675b94163be466b52f71c": {
+  "created_at": "2026-11-23T22:38:59.06112Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will 100 Thieves record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-100-thieves-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0x0c97887b0844e8c843a29a43781b980b38c4ffc6424384065a1c9122cb9b651c": {
   "created_at": "2026-10-25T04:00:53.805305Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1092,6 +1101,15 @@
   "sha256": "1c911b994ea78df9c40505e0237f23fa6211c23cab03ddad7571a46b347087c2",
   "slug": "cdr-por-iru-2026-10-28-first-to-score-home"
  },
+ "0xb7af2f8c2607dad8d421b3aba2f767c9ba22adb92533d9859b337526034a051c": {
+  "created_at": "2026-11-24T05:00:07.818565Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 420-439 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-420-439"
+ },
  "0xb83b39ae2c55de30b3a3304341aaae989a5ee19d361c9e3c611e28a632cd4d1c": {
   "created_at": "2026-03-09T18:47:50.368134Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1391,6 +1409,15 @@
   "revisions": 1,
   "sha256": "2f8925e38fb2d5d88dcc71bc77fdebf820f33424eb53d6cc424e17eace1f6e5b",
   "slug": "will-washington-capitals-be-the-2027-nhl-eastern-conference-champion-20260630185127021"
+ },
+ "0xdb0b616d9f6b64475b659c70021080f259c0a0dc5ae06c17b9231e2e2351ec1c": {
+  "created_at": "2026-11-23T22:39:32.528907Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will torzsi be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-torzsi-be-the-pgl-major-singapore-2026-mvp"
  },
  "0xdcd29edc2588be4a05cd30e249ed11df61ba448364e3908984503a2f7909b81c": {
   "created_at": "2026-06-04T23:56:23.596328Z",

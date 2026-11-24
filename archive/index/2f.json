@@ -640,6 +640,7 @@
   "created_at": "2026-10-15T13:16:54.724857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will DICK'S Sporting Goods Q3 Dick's business comparable sales growth be between 3% and 4%?",
   "revisions": 1,
   "sha256": "cb3f717a955bda3998fd088ad2e16e1b2d1ec3cc63012e40f0f5b5c02dc9be9f",
@@ -1549,6 +1550,15 @@
   "revisions": 1,
   "sha256": "7dfbadc5c8719be6d5a2d8ff0a87ccc1576e6880aa8d34e7e36b425343e70141",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ma-06-house-election-by-5-15"
+ },
+ "0xf0b993ac5eb317351e0c24042ef306b2309db78adbddf826e2fe404676da4f2f": {
+  "created_at": "2026-11-23T22:39:43.362254Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will magixx be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-magixx-be-the-pgl-major-singapore-2026-mvp"
  },
  "0xf0fa83bd1efad05b505d180fd32bbc1d164c46e58e15a31b0e176831800cd42f": {
   "created_at": "2026-08-24T16:38:07.975413Z",

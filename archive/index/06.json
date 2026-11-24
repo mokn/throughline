@@ -536,6 +536,15 @@
   "sha256": "37b3384167d29b86601d12a125f80211fe6e9f2667022925790cc82e31617a5f",
   "slug": "f1-qatar-grand-prix-h2h-perez-vs-bottas-2026-11-29"
  },
+ "0x3c917775d374c71e898aad1bc75578a0bad002baa1b9bebf94337766d6e96b06": {
+  "created_at": "2026-11-23T22:38:53.199253Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will FaZe record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-faze-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0x3e6e1b6cb051cceb5c26e1613a658d6e33d0b5a1aede93e7fe9bc0c52fe65306": {
   "created_at": "2026-10-25T04:01:09.910086Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -766,6 +775,15 @@
   "sha256": "751b4c85932ff7d885e1fe9a2d0ca3a55cd21e7a3043b3e0ddb554b09cffb0d5",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-22-house-election-by-12-or-more"
  },
+ "0x63c195bbd23d5e3547a1138519be4796f37efee3d3fb17076f20ca7a1bc18d06": {
+  "created_at": "2026-11-24T01:01:35.757507Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will James Talarico announce a presidential run before 2028?",
+  "revisions": 1,
+  "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
+  "slug": "will-james-talarico-announce-a-presidential-run-before-2028"
+ },
  "0x684fd4038723072c0d0ed39532e6301cda1f634c06efd625eafdab0f2a747906": {
   "created_at": "2026-08-26T21:46:16.294789Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -902,6 +920,15 @@
   "revisions": 1,
   "sha256": "452e59e68dd0972f3841c3518e1858f3a4fd22132b9399e489932dd81ff9c980",
   "slug": "will-the-republican-party-candidate-win-the-2026-mo-03-house-election-by-20-25"
+ },
+ "0x7b0b3371eb5eec371569af0096ac7bbc7957ebac4deaa57df16875e7ae5c2306": {
+  "created_at": "2026-11-23T23:53:01.999756Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in June 2027 be above $6.80?",
+  "revisions": 1,
+  "sha256": "40941f1e4b622d7da816b8d841ad04bf79d47f1551cc640119d708d01883ec94",
+  "slug": "h100-average-rental-price-in-june-2027-above-6pt80"
  },
  "0x7b5f0a8789fc26a3e64195edb325ecfcfef88fe88006e36ea7aaef8561d33006": {
   "created_at": "2026-10-08T22:00:14.224621Z",
@@ -1091,6 +1118,7 @@
   "created_at": "2026-08-10T15:33:16.586033Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 ME-01 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "5646f9b81404244bd83e84f53bf0ac4a0ce688c49ae6b24d7a29e8532d7e20ae",

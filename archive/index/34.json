@@ -26,6 +26,15 @@
   "sha256": "f1ab27627126d6bd7d4020a9a37eb4880fb73d26726e6b4419e09b377a062371",
   "slug": "will-podemos-win-the-most-seats-in-zamora-in-the-2026-spanish-general-election"
  },
+ "0x08cf4fe86d5c5d6781957b3dc911978f6ec4286cf3afc1e1be01dcd5a5bcea34": {
+  "created_at": "2026-11-24T05:00:12.136187Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 880-919 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-880-919"
+ },
  "0x08fa906366719c767deaca0a3df7090d924c30dfe815bf2ab003ec9645468f34": {
   "created_at": "2026-01-28T15:38:52.880733Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -117,6 +126,15 @@
   "revisions": 1,
   "sha256": "ab070f9edbc6770f2f897c855b465fdf959964e6a752d252937c8ffc3e6e5afa",
   "slug": "will-biljana-djordjevic-win-the-next-serbia-presidential-election-20260629192336838"
+ },
+ "0x16a2b37a99d3c8698b824f638f21497492e1bad14ffa62e2ff45a519bcd75f34": {
+  "created_at": "2026-11-24T01:43:18.789649Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Safe Superintelligence (SSI) be acquired before 2028?",
+  "revisions": 1,
+  "sha256": "a92aaea4e030a9852cae3f6f4f1cb2161eb169e7e153eaa0d42a0fcea00d57a4",
+  "slug": "will-safe-superintelligence-ssi-be-acquired-before-2028"
  },
  "0x192b5ca357caffdba7aa576a1f2eedb17720f7e17923797a23eef08739cf8134": {
   "created_at": "2026-09-28T17:21:38.651158Z",
@@ -565,6 +583,15 @@
   "sha256": "fa63d078b59e8eeab94a79703f918c5957ed3880427a5ddb8b351d9a6a0b26b0",
   "slug": "will-hector-santana-garcia-win-the-2027-nayarit-governor-election-20260803173853871"
  },
+ "0x610b6b4397f4c1d733ef0e544732d88eda0cf1e216e3fbbdc7a2783e5b16f634": {
+  "created_at": "2026-11-24T02:15:46.074804Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Subnautica 2 be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-subnautica-2-be-the-1-searched-game-on-google-this-year-2026"
+ },
  "0x612f00a6245b30ff55ea8b95c3c5f488e1ad731c0cb8e575ee4d060db270d534": {
   "created_at": "2026-11-03T17:40:49.30871Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -758,6 +785,15 @@
   "sha256": "6da671919d32f057a21b66acf223bf5adb29a51a8b88509d1032d21cdb6bfd5b",
   "slug": "will-avengers-doomsday-score-at-least-80-on-the-rotten-tomatoes-tomatometer-20261221"
  },
+ "0x7806e191337d30ba138bfc99b2a4fd9ff8cdb500901e6e1f0ee8eaa00a76a934": {
+  "created_at": "2026-11-23T22:37:52.916146Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will sh1ro record a 1v5 clutch at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "b58f9d79b2a7caf61d36707be1e55e742b6d89b37eaa8309f62ec3f3b908d1f3",
+  "slug": "will-sh1ro-record-a-1v5-clutch-at-the-pgl-major-singapore-2026"
+ },
  "0x78c26539dda738303aed52ef9399ec7a645e4cc15c89d27b8c07d1a3bd622634": {
   "created_at": "2026-08-10T23:38:03.161577Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -800,6 +836,7 @@
   "created_at": "2026-08-04T18:16:20.629723Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the first round of the 2026 Maine Senate election by 6%-9%?",
   "revisions": 1,
   "sha256": "df57028a781a3c707e9cde90306c636d51a87dfff0a90004c6b5b9131681c2af",
@@ -1380,10 +1417,20 @@
   "sha256": "bcc9de1d51982c093a4255c0d9c27aaf006f9ac4b4ee319843a259811ffd29cc",
   "slug": "will-cj-bailey-be-the-2026-acc-passing-yards-leader"
  },
+ "0xce9a3e031b3909e0124526df7c77f9e524c31ca983ee478a399fd33413541834": {
+  "created_at": "2026-11-12T20:22:32.377165Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Once Upon a Second Time Around - Charlie Worsham win Best Traditional Country Album at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "45f1399e64dff42be95c9202a1e06d03188386301888513463b8aa7b4981ce2c",
+  "slug": "will-once-upon-a-second-time-around-charlie-worsham-win-best-traditional-country-album-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0xcf4dae8bbbefe81465a0cd5244b65f523a7012be166888dea29f15f4ec6d8134": {
   "created_at": "2026-08-10T15:34:05.264428Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-09 House election?",
   "revisions": 1,
   "sha256": "35854d04088964a75e3661c105650d217870c26b00620b9d8673b6456f1c3481",
@@ -1570,6 +1617,15 @@
   "revisions": 1,
   "sha256": "b45e065869f0006c06bd024105cb359f1291b1892fc470049bd45390010affa7",
   "slug": "will-auwal-tafoki-win-the-2027-kaduna-state-gubernatorial-election"
+ },
+ "0xe862d53755360e5cedf986d8f255f5ba4099be384c4983df27fa986bebc2aa34": {
+  "created_at": "2026-11-24T15:38:23.937619Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Rubius be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-rubius-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261124"
  },
  "0xe8d2d5b2ae6f9727bbf3c54c4f1e83f20a05df9810aa1f5c1ed87d46efd14634": {
   "created_at": "2026-09-08T16:53:04.010798Z",

@@ -620,6 +620,15 @@
   "sha256": "719e695fc5d46257f40e3b7172061b0a904af886e3d545f96824487f85539767",
   "slug": "cma-2026-eoty-luke-combs"
  },
+ "0x64a53455e8056894e9f630db2307a1b6a6fbacc8fc81ce93eac34f37d079f1ef": {
+  "created_at": "2026-11-23T22:37:55.21631Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will KSCERATO record a 1v5 clutch at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "b58f9d79b2a7caf61d36707be1e55e742b6d89b37eaa8309f62ec3f3b908d1f3",
+  "slug": "will-kscerato-record-a-1v5-clutch-at-the-pgl-major-singapore-2026"
+ },
  "0x64fc9d0bc759e5002c9994f6c7492e4e4ff5636d2f0254608c0761bb8623b1ef": {
   "created_at": "2026-08-24T16:35:12.083165Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -655,6 +664,15 @@
   "revisions": 1,
   "sha256": "5bc0ff7931af0f2a7e92fbfed108280b2326a84b576c4f2efb0dbf0c94afa4f3",
   "slug": "will-victoria-villarruel-win-the-most-votes-in-the-first-round-of-the-2027-argentina-presidential-election"
+ },
+ "0x68d126fa5b9944b9f56e5e54e707d63a207f10e2361524fd646de3da53bd57ef": {
+  "created_at": "2026-11-23T22:39:35.192178Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will ZywOo be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-zywoo-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x69059e2179c1307a305b5cfe401da214c78bfa9c502ad3414ad679301a6799ef": {
   "created_at": "2026-10-20T18:27:57.861571Z",
@@ -1192,6 +1210,15 @@
   "sha256": "7731b3e59d6053460ff31d00ef77968dcd081ddb06414c0cbd9e290977de49d6",
   "slug": "will-lingwei-kong-qualify-for-the-2027-ppa-tour-finals"
  },
+ "0xba120b320f36bb92a4883b966224eaf338a0b6cc77bcb1bb686bbe0cd3b5ebef": {
+  "created_at": "2026-11-23T22:23:32.553632Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Imperial go 3-1 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "85feade74e3e90721eada183e9a2680f4127811cbf6ee2e78d14a35143d7ad44",
+  "slug": "will-imperial-go-3-1-in-stage-1-of-the-pgl-major-singapore-2026"
+ },
  "0xba56073ca1bef35735c8c925d132b0961691189d6781fc4b5292be7c784f4eef": {
   "created_at": "2026-09-04T19:51:51.156304Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1297,6 +1324,7 @@
   "created_at": "2026-11-23T15:58:56.440606Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will TheBurntPeanut be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",

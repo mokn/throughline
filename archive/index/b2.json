@@ -493,6 +493,15 @@
   "sha256": "0bd4161737f4b7fafbc157bf1e8c126e30c780f854dd3afca5f2ff40e82300d1",
   "slug": "will-adam-telle-be-the-next-confirmed-army-secretary"
  },
+ "0x40b038f59a85f136586c7f141fff14a1a96aed6de58bc7dd49b8002efb2d7cb2": {
+  "created_at": "2026-11-24T02:21:36.914847Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Being Heumann win Best Picture at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "e3c0525e6a596b67781c3d65d909b4b347d909e71d07080d0563ffcfaf3581f3",
+  "slug": "will-being-heumann-win-best-picture-at-the-32nd-critics-choice-awards"
+ },
  "0x410531b18bce0d39c36c96ef98ab9fe74bf589d762f2bd3ec92aa4663e6c94b2": {
   "created_at": "2026-09-20T08:15:27.43471Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1252,6 +1261,7 @@
   "created_at": "2026-08-07T14:03:59.215071Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-06 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "d193030ea0405545d9610cdb620300e29819bfbcdcdec470ee4eb7115d6a7e30",

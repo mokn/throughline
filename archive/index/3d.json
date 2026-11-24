@@ -322,6 +322,7 @@
   "created_at": "2026-08-10T15:33:55.689552Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-07 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "b7dd9626f4826466df600ae4265c76b9f2d8a0f96fa604e3e06179b14d796e26",
@@ -547,6 +548,15 @@
   "revisions": 1,
   "sha256": "0fa6d2a30d26a378514e352b6351fd007985069be7a1ce05d4ffacb429ec1f51",
   "slug": "will-the-republican-party-candidate-win-the-2026-ky-06-house-election-by-9-12"
+ },
+ "0x58f71dc3037d571cf6114c819fae7e98a9b9fc6a23be4e0db0ede5ee1042143d": {
+  "created_at": "2026-11-23T22:40:24.813765Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will EliGE be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-elige-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x593cd7860ca198a530b7e769a56988f6b736e2a59e2b97ee66f991155855c03d": {
   "created_at": "2026-10-12T18:30:19.123355Z",

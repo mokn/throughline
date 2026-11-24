@@ -327,6 +327,15 @@
   "sha256": "b992eb3bb2e2f112a2292db5a5bf50e3fbab312ec5d190b0c2ef45979de2083b",
   "slug": "will-the-democrats-win-vermont-in-the-2028-presidential-election"
  },
+ "0x24fd36164fef7ef51fe33ad7aa2a35a11e6f1dcefb881b0f471f92633ca30372": {
+  "created_at": "2026-11-23T18:58:43.536914Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $1.60?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-1pt60"
+ },
  "0x2631d1e272645cea5592457a4fc43f981ba1d3547f09d8e6520412b0de85d872": {
   "created_at": "2026-10-01T14:01:07.081109Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -404,6 +413,7 @@
   "created_at": "2026-09-17T18:29:44.554606Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Mary Peltola win the 2026 Alaska Senate first round by 6%-9%?",
   "revisions": 1,
   "sha256": "7461ee8833b68a8f5a01ce24254253a0703f3d1046c74b2e02962e3b0db61686",
@@ -482,6 +492,15 @@
   "revisions": 1,
   "sha256": "7cc91dbb76193e8c614f530f6362df8eba06539b58946d050b0ad39983efe99b",
   "slug": "will-the-republican-party-win-the-tn-04-house-seat"
+ },
+ "0x397b3344e243900b12eca0239cb5738aceeaa8c0e939cdfff6fb4f0de4527072": {
+  "created_at": "2026-11-24T02:15:39.683535Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Pok\u00e9mon Pokopia be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-pokemon-pokopia-be-the-1-searched-game-on-google-this-year-2026"
  },
  "0x3a04fb258db4836f0915995c756b12062e579979f7cbe9c7855b6cfaa9726172": {
   "created_at": "2026-07-20T19:37:23.190896Z",
@@ -797,6 +816,7 @@
   "created_at": "2026-08-05T20:15:33.954682Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Michigan gubernatorial election by 12%-15%?",
   "revisions": 1,
   "sha256": "a819203e4f9eceed3d50a12467077fa52bdeed4afb14de03fffc660f783b12a9",
@@ -862,6 +882,7 @@
   "created_at": "2026-08-07T14:03:04.295691Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-08 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "4bb3c384633129b7302b57f977b19b0343d5eeb8c2e7859318326ad97d8f46f2",
@@ -931,6 +952,15 @@
   "revisions": 1,
   "sha256": "475e3dceb2f9e766fc52aa0ac2d65ef2c564d16fe0b9d8f85e04cfa306dfe6ba",
   "slug": "will-the-columbus-blue-jackets-record-110-points"
+ },
+ "0x7b82473069bb834c15e8be96ab6778fce5ed9dd793acd242b854a35ae7245c72": {
+  "created_at": "2026-11-23T18:51:17.20281Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in December 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "a89f5f0cb3dce5403c374f53eb76f1eaf8c334f4a289bcf9f45964f1049f6324",
+  "slug": "b300-average-rental-price-in-december-2027-above-4pt00"
  },
  "0x7e6e76f91984fdf3c9dc96e90bafbef33b9271333b1e3ff2fc15cd51d27fff72": {
   "created_at": "2026-10-10T11:30:17.670309Z",
@@ -1264,6 +1294,7 @@
   "created_at": "2026-08-10T15:34:10.543163Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-11 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "b133ebf606a92028b1613ac8a65adec0262cb4051d4d4fc7a68e79bd7538088b",
@@ -1410,6 +1441,7 @@
   "created_at": "2026-08-06T21:36:31.939929Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-04 House election by 65%-70%?",
   "revisions": 1,
   "sha256": "2e266b22297a857cb0d984ad7e62fadd67e8550f3ac56c9529191357ec48aaf9",
@@ -1714,6 +1746,15 @@
   "revisions": 1,
   "sha256": "e63327604f1ef113b322bf6240e1c49cf10fd2c807698600b8965dcd534439bc",
   "slug": "will-udo-di-fabio-be-the-next-president-of-germany"
+ },
+ "0xf233e4761b97de8b99ba33ca35fab3a0b2d6c73f984ad661aef55df886943a72": {
+  "created_at": "2026-11-24T05:00:07.36524Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 380-399 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-380-399"
  },
  "0xf32bd9e8e579e33f88eb3876b5761598d07d9c7b31ad27b5e37b948856ab7372": {
   "created_at": "2026-08-21T17:35:27.430865Z",

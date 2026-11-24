@@ -264,6 +264,15 @@
   "sha256": "37f0d637b8992c2a3ea63fa00901e4f872642e3bbfb4489ac26d460a081508a4",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ct-03-house-election-by-10-15"
  },
+ "0x2adcf3db38320d8f292775e9c144af34a561c6c832657e22aeb87e6cc1d7011a": {
+  "created_at": "2026-11-24T02:21:31.15656Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will La Bola Negra win Best Picture at the 32nd Critics Choice Awards?",
+  "revisions": 1,
+  "sha256": "e3c0525e6a596b67781c3d65d909b4b347d909e71d07080d0563ffcfaf3581f3",
+  "slug": "will-la-bola-negra-win-best-picture-at-the-32nd-critics-choice-awards"
+ },
  "0x2cb0c0f66ce14db625c9851247e1c3ce70366a8c15418e66bb4170b2f4d6e01a": {
   "created_at": "2026-09-30T14:02:12.340532Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -781,6 +790,7 @@
   "created_at": "2026-08-05T20:15:32.628539Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Michigan gubernatorial election by 0%-3%?",
   "revisions": 1,
   "sha256": "a819203e4f9eceed3d50a12467077fa52bdeed4afb14de03fffc660f783b12a9",
@@ -1088,6 +1098,7 @@
   "created_at": "2026-09-02T19:34:11.973837Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-02 House election by 25% or more?",
   "revisions": 1,
   "sha256": "ce38d24d69a56aa2294f1fe7b71c95357d02512261de218aae6f13783fb83fa7",
@@ -1289,6 +1300,7 @@
   "created_at": "2026-08-18T14:13:15.044588Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Michigan be between 4,600,000 and 4,800,000?",
   "revisions": 1,
   "sha256": "3aec2152d3c251a9a2d7cfb1447821e5e34ca4db5afa818899329a189638a287",
@@ -1481,6 +1493,7 @@
   "created_at": "2026-08-04T18:21:28.476327Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Michigan Senate election by 6%-9%?",
   "revisions": 1,
   "sha256": "25cc674a64355e3cbee3503ec82f82ca65334fc05cdd5c56b41d0ed4353e26aa",

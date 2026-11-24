@@ -389,6 +389,7 @@
   "created_at": "2026-08-10T15:34:04.983827Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-09 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "35854d04088964a75e3661c105650d217870c26b00620b9d8673b6456f1c3481",
@@ -558,6 +559,15 @@
   "revisions": 1,
   "sha256": "95bc62b50f9a58963e398ce3381b4436934bc5cee23dfbbe491689e629b3c62d",
   "slug": "will-sam-darnold-win-the-2026-nfl-mvp"
+ },
+ "0x448ac4bc572b4e417f294e2ab3d29e8a17d1bdf7dbfd8b85c5928425db741712": {
+  "created_at": "2026-11-23T22:14:16.589564Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will GOSH (BC.Game) go 0-3 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "52f565958895e9a7845ff1abc20bb9fc1f763bb88ce18e52fb51dacdff1d2674",
+  "slug": "will-gosh-bcptgame-go-0-3-in-stage-1-of-the-pgl-major-singapore-2026"
  },
  "0x48216def235fca80adf805c433f57c1f51d1abf87abe13b5ce2a1609f58f2d12": {
   "created_at": "2026-08-11T18:27:07.477347Z",
@@ -881,6 +891,7 @@
   "created_at": "2026-11-23T15:58:52.729843Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will CaseOh be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -1021,6 +1032,15 @@
   "revisions": 1,
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-andrew-nembhard"
+ },
+ "0x7ec9992bdc3d4f5318b868663a9072fbc001f8226aa55d2f350b9682a6bf9d12": {
+  "created_at": "2026-11-23T22:40:34.319523Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will mzinho be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-mzinho-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x7f7ff77be7c96211db464a7ebcd38e47aac14e09d7d930a8662c086cde4d6712": {
   "created_at": "2026-10-01T00:10:09.982025Z",

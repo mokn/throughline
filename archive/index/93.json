@@ -326,6 +326,7 @@
   "created_at": "2026-08-07T14:05:45.791304Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-04 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "ab321656e2e95c773936f36d5b32505e4b6fc09e948bbdbe4383332ada757b95",
@@ -816,6 +817,15 @@
   "sha256": "46c106aa702eb18cb88a5d96df05fe0fcd80894a9f89d9e1cb75c2a19fb66623",
   "slug": "will-panorama-vemka-hans-markus-win-eesti-laul-2027"
  },
+ "0x8889532f9e33b4fb8f52cb066ed1e7ada909750d229f4abb787473081039e193": {
+  "created_at": "2026-11-24T01:01:36.053062Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Shawn Fain announce a presidential run before 2028?",
+  "revisions": 1,
+  "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
+  "slug": "will-shawn-fain-announce-a-presidential-run-before-2028"
+ },
  "0x888f977a11c21cce076c0fe2d0be65074ac6836f75be85b9d8e8a90015c50e93": {
   "created_at": "2025-11-19T22:51:02.393218Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1152,6 +1162,15 @@
   "sha256": "9d0b89dae67b4941db2906b6d9e2c3d42670ae895ff3a4ce8410a5da8c6b7312",
   "slug": "will-jean-castex-be-on-the-ballot-for-the-2027-french-presidential-election"
  },
+ "0xafb0c720b44d3d319004e63c15ebf7343c885f1fe33d93ca02aecbe400933493": {
+  "created_at": "2026-11-24T02:15:48.324448Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Nioh 3 be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-nioh-3-be-the-1-searched-game-on-google-this-year-2026"
+ },
  "0xb2ca486c6913243e17f58207d9eb31beb52ea3fe4094ddf8c56c007403c58b93": {
   "created_at": "2026-09-09T15:42:43.837065Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1175,6 +1194,7 @@
   "created_at": "2026-09-17T18:29:41.928411Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Dan S. Sullivan win the 2026 Alaska Senate first round by at least 12%?",
   "revisions": 1,
   "sha256": "7461ee8833b68a8f5a01ce24254253a0703f3d1046c74b2e02962e3b0db61686",
@@ -1650,6 +1670,7 @@
   "created_at": "2026-08-10T15:34:18.281469Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-13 House election by 25%-35%?",
   "revisions": 1,
   "sha256": "1f09cb5cbaad6d567a08fcbed5afe52329852f0ce4329c73c850873d64d43e37",

@@ -26,6 +26,15 @@
   "sha256": "efdba01095622af45e8024ae32ff0b8c867036525cf0a717d6624aa449f95f5c",
   "slug": "2027-soccer-croatian-hnl-runner-up-hnk-gorica"
  },
+ "0x04858403192c2e9e79b4fb7a74748dfb444323d15efbe7b067115867f9ce5853": {
+  "created_at": "2026-11-23T23:56:16.223764Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B300 rental price in December 2028 be above $1.00?",
+  "revisions": 1,
+  "sha256": "d4ac95b1f078cb3d6e19fe546cc515751615b73ea118465349bc95fb060dba87",
+  "slug": "b300-average-rental-price-in-december-2028-above-1pt00"
+ },
  "0x0485af37b1db5cdb670c3420a7a1398c9354baa760200f5a40d2f575c6dbc653": {
   "created_at": "2026-06-25T17:29:06.738383Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -115,6 +124,15 @@
   "revisions": 1,
   "sha256": "07ffc7a5121248f9d0b76bc6327a329f186f8d3d506c909e8692970299187991",
   "slug": "el1-wim-ste-2026-10-03-first-half-team-total-away-2pt5"
+ },
+ "0x15e776c1f141e1aaa4765f8739ec0ebe22382026f28158638ac91d0f197ff753": {
+  "created_at": "2026-11-23T22:23:30.207793Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will 100 Thieves go 3-1 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "85feade74e3e90721eada183e9a2680f4127811cbf6ee2e78d14a35143d7ad44",
+  "slug": "will-100-thieves-go-3-1-in-stage-1-of-the-pgl-major-singapore-2026"
  },
  "0x1738b48f31565787e01ec81df6fc401b9a4087309569c457f2064d90f3070a53": {
   "created_at": "2026-11-12T20:22:12.944708Z",
@@ -249,6 +267,7 @@
   "created_at": "2026-08-21T20:05:52.75306Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Maine 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
@@ -958,6 +977,15 @@
   "revisions": 1,
   "sha256": "110acfd63269af5ccd7630da266e80b59003029bf7c1a6570a582b9333dcf540",
   "slug": "el1-don-oxf-2026-09-26-total-3pt5"
+ },
+ "0x98407e284dcc4119447afcd0049694aab156ffffa219e4aedfdb1d73f0ee4453": {
+  "created_at": "2026-11-23T22:40:18.642098Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will HObbit be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-hobbit-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x98a90174393a610c0f81288a1aadc37d677ff291f66ace8a6ff0027eaa04cf53": {
   "created_at": "2026-08-27T18:17:21.384839Z",

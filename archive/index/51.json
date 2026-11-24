@@ -12,6 +12,7 @@
   "created_at": "2026-08-18T14:07:59.770781Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Arizona be between 2,000,000 and 2,150,000?",
   "revisions": 1,
   "sha256": "24e550ff45f2e9ba7df797d5adeddf517ffd14356154b8b4927ffffaf8a42d6f",
@@ -256,6 +257,15 @@
   "revisions": 1,
   "sha256": "ff48277dbc2b9d6335ad55278e6965e99c16b36401aa02d889826f70e4ceb394",
   "slug": "anthropic-ipo-opening-price-100-110"
+ },
+ "0x229773c75c312297401e919b1521e1c694a5a88ca2f7ad458510cf6f94662c51": {
+  "created_at": "2026-11-24T05:00:03.564179Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 60-79 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-60-79"
  },
  "0x29b38f495680bc6818c55ee93d9cd5a455ba252b671480efc26a23bcb44f8651": {
   "created_at": "2026-08-24T16:35:56.314741Z",
@@ -970,6 +980,15 @@
   "revisions": 1,
   "sha256": "9f4015b580390564e88426dc4301b60492271d70eccda5b5d7f73ff77098242b",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-36-house-election-by-25-30"
+ },
+ "0x9144a0a800b110edffb8e22f59a696fafe4dc67442ec16f0fb349379f229a451": {
+  "created_at": "2026-11-23T23:55:02.051758Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in June 2027 be above $24.00?",
+  "revisions": 1,
+  "sha256": "9603b3620bf263d3b9e1c84d5c5294cb325a32571be770f6c04e847cfb9ec907",
+  "slug": "b200-average-rental-price-in-june-2027-above-24pt00"
  },
  "0x9517df3d2a0783030fbcbd3d6d4a79da4e85fa0ff07238eb6cf92178318cfc51": {
   "created_at": "2026-09-08T16:02:54.944129Z",

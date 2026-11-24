@@ -425,6 +425,7 @@
   "created_at": "2026-08-06T21:36:35.20348Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-04 House election?",
   "revisions": 1,
   "sha256": "2e266b22297a857cb0d984ad7e62fadd67e8550f3ac56c9529191357ec48aaf9",
@@ -790,6 +791,15 @@
   "sha256": "6e407418e46c8cb875fb5897335b3394c0b4bf0645705def74e1b1b25457edf5",
   "slug": "will-toronto-tempo-win-the-2027-wnba-finals"
  },
+ "0x7038ac59c27d72ddd819b439889e04ffae23613ca17076d2e6b6b511d3ae9c71": {
+  "created_at": "2026-11-23T22:40:08.874089Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will bLitz be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-blitz-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0x70efbe793f3349eeada5f44c73c6f6b888c49df9659b69c681eb44b5051a1d71": {
   "created_at": "2026-08-12T17:26:55.839488Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -866,6 +876,7 @@
   "created_at": "2026-08-07T14:03:20.889949Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-07 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "f7848d61a87a01ff70269ce11d301e6ab2a6d388bd77b004f10bf417fb7949d2",
@@ -1069,6 +1080,7 @@
   "created_at": "2026-08-10T15:33:49.372023Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-05 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "f9f99d6a2d467b91681d672b9a88900a09a8e5badda9f0c7a12455fc2f2bfcf2",
@@ -1210,6 +1222,15 @@
   "revisions": 1,
   "sha256": "28269b03fac7e106f8e11ebed56851d4294be9e15411bd929744e43de7d827f4",
   "slug": "will-baltimore-ravens-finish-the-2026-27-nfl-regular-season-with-the-fewest-total-yards-allowed-per-game-20260716001413272"
+ },
+ "0x9fc60c9a0ab8e829e9600b095885a768f596bdddb60225b0255f419653368171": {
+  "created_at": "2026-11-24T02:15:38.623764Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Resident Evil Requiem be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-resident-evil-requiem-be-the-1-searched-game-on-google-this-year-2026"
  },
  "0xa02772a5438d2e16342c6d5a9d7f27c5a977bca48abc5046f2dd5ccfb8bbae71": {
   "created_at": "2026-09-02T19:33:53.833268Z",
@@ -1400,6 +1421,7 @@
   "created_at": "2026-11-23T15:58:54.31636Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will IlloJuan be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -1599,6 +1621,7 @@
   "created_at": "2026-08-10T15:33:52.968642Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-06 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "0a6ae216cc98492d6e4a805b021652c3681fb78b848abddc13394b459c469ff2",

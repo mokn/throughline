@@ -49,6 +49,7 @@
   "created_at": "2026-08-10T15:34:11.514248Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-11 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "b133ebf606a92028b1613ac8a65adec0262cb4051d4d4fc7a68e79bd7538088b",
@@ -216,6 +217,15 @@
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
   "slug": "el2-pvl-nth-2026-09-26-exact-score-1-0"
+ },
+ "0x2476e52c0dd2c62f6925cf1dff85dee95f1c942dc08cddc50cca622b33689d22": {
+  "created_at": "2026-11-23T22:39:41.463343Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will woxic be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-woxic-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x257b182496b7f49787000094c4a8d515cbf59a5b67bf1e7a4cfac5e491d83c22": {
   "created_at": "2026-02-18T21:17:15.16579Z",
@@ -488,6 +498,7 @@
   "created_at": "2026-10-15T13:16:53.598253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will DICK'S Sporting Goods Q3 Dick's business comparable sales growth be between 1% and 2%?",
   "revisions": 1,
   "sha256": "cb3f717a955bda3998fd088ad2e16e1b2d1ec3cc63012e40f0f5b5c02dc9be9f",
@@ -525,6 +536,7 @@
   "created_at": "2026-08-10T15:33:57.094759Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-07 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "b7dd9626f4826466df600ae4265c76b9f2d8a0f96fa604e3e06179b14d796e26",
@@ -756,6 +768,7 @@
   "created_at": "2026-08-18T14:13:15.77868Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Michigan be 5,600,000 or more?",
   "revisions": 1,
   "sha256": "3aec2152d3c251a9a2d7cfb1447821e5e34ca4db5afa818899329a189638a287",
@@ -1125,6 +1138,15 @@
   "sha256": "e32d04df2626d6fefdf1a1f05a80f3d9fb949dfa945543f7d94786fa664ebb6e",
   "slug": "f1-abu-dhabi-grand-prix-winner-hirakawa-2026-12-06"
  },
+ "0x920f4569bdb796742511ae7497b2263ad06c7e6813a4d3dd8736b08fd20f6d22": {
+  "created_at": "2026-11-23T22:40:14.539652Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will xKacpersky be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-xkacpersky-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0x9235351ee3dd6313185e3b7d75730d3be90cf8c736985fa03ebb69cece650522": {
   "created_at": "2026-10-08T13:05:54.4508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1333,6 +1355,7 @@
   "created_at": "2026-08-18T14:09:32.497668Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Alaska be 320,000 or more?",
   "revisions": 1,
   "sha256": "cc630ec01d3e4622f6d529d745c4b1f40bfec7cfeb28cfcf2fd6c7bedc4f83fa",

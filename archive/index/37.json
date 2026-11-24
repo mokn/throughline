@@ -117,6 +117,15 @@
   "sha256": "a9bae1d904578f0d273a5dda3a4aafb02d62e1d9539ad7e85e9c37d51b3ae2f6",
   "slug": "us-x-cuba-diplomatic-meeting-by-october-31"
  },
+ "0x1138c2ef18aa85dc3b917b8b75da88abaea2930ac32c6a95867ea3f265471537": {
+  "created_at": "2026-11-24T05:00:10.976326Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 680-719 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-680-719"
+ },
  "0x1160e3f6612f030331bac94f2e59dcc3ec5cd1f66ba444031f587d63e8fc9937": {
   "created_at": "2026-08-04T18:33:46.08087Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -808,6 +817,7 @@
   "created_at": "2026-08-11T19:04:25.352367Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 UT-04 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "153c5b9a0c4fb85610ab9a79a5d09ec1d561341b6e4765129c6bfd2b3faef39b",
@@ -981,6 +991,7 @@
   "created_at": "2026-11-10T02:14:39.417214Z",
   "first_seen": "2026-11-12T15:15:16Z",
   "last_changed": "2026-11-12T15:15:16Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Nico Caprez be the next CEO of NVIDIA?",
   "revisions": 1,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
@@ -1068,6 +1079,15 @@
   "revisions": 1,
   "sha256": "87168cba95cfd1384c7e95a8bb24f7b5577e06ffaea9114d1a0c23329d82d354",
   "slug": "multiplifi-fdv-above-200m-one-day-after-launch"
+ },
+ "0x945175af04664f56268b44a242992edc5819db94f0ec307fbc6b284984ef1737": {
+  "created_at": "2026-11-24T05:00:15.308179Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 1400+ tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-1400plus"
  },
  "0x951ffdc4c2a43366b77f526f40695b14ddf7eaa4d81ebe569cb49cf5afa00f37": {
   "created_at": "2026-06-25T17:26:23.260929Z",
@@ -1586,10 +1606,20 @@
   "sha256": "fa367963e31df6a888fd2e79ac5ea488dd82689a2d66150cba0ec224054ead92",
   "slug": "arc-fdv-above-3b-one-day-after-launch"
  },
+ "0xd73525508afd5bfae44f34523dec7608d8becb915b4d85918cf9bfd6aed4f137": {
+  "created_at": "2026-11-23T22:38:39.686245Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will MOUZ record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-mouz-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0xd888ab6a0ed233b376658487b0596ff33a3ec8f8b7604790d4988d801339cd37": {
   "created_at": "2026-08-07T14:04:31.267824Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-05 House election by 25% or more?",
   "revisions": 1,
   "sha256": "4b14b11d63b16983ecb4382141857abca443f5f727ac7e51c1790c9b56d7ec7d",

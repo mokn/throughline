@@ -1,0 +1,9 @@
+This market will resolve to "Yes" if a GPU compute futures contract is traded on a federally regulated US exchange by June 30, 2027, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+A GPU compute futures contract means a futures contract listed on a designated contract market registered with the US Commodity Futures Trading Commission that settles based on a price or price index for graphics processing unit (GPU) compute, such as a GPU rental price per GPU-hour. Options on futures, perpetual futures, event contracts, binary contracts, and futures based on company share prices, electricity, or data center capacity do not qualify.
+
+A GPU compute futures contract is traded once at least one trade in the contract has been executed competitively on the exchange's centralized market on its live production venue. Block trades, exchange-for-related-position transactions, and other privately negotiated trades executed away from the centralized market do not qualify. Announcements, regulatory filings, regulatory approvals, listings with no executed trade, scheduled future launch dates, and test or simulation environments do not qualify.
+
+If a qualifying trade occurs by the deadline, this market will resolve to "Yes" even if the contract is later suspended or delisted.
+
+The primary resolution source for this market will be official information from the listing exchange; however, a consensus of credible reporting may also be used.

@@ -26,6 +26,15 @@
   "sha256": "73ba504fe803ad8205d6493fdb88a01e7c484d029ba33bdb1cb2f600744c9393",
   "slug": "us-treasury-announces-bitcoin-purchase-by-december-31-2027"
  },
+ "0x0622c788262989bf3403c60ee4b4e31357092db5de2e28148a6d93de1ef32ffa": {
+  "created_at": "2026-11-23T23:01:26.791506Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will There be 170-189 HE Grenade Kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "65a81f8deb3b6c64ed914ef685b8df65c300181d7ebe29b114de979894c104d2",
+  "slug": "will-there-be-170-189-he-grenade-kills-at-pgl-major-singapore-2026"
+ },
  "0x0654d68df3087e45626e85f147e4eefdcbde112a310f9fa7fbc60f4e005f20fa": {
   "created_at": "2026-04-21T18:02:00.269393Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -565,6 +574,15 @@
   "sha256": "2bcc69ba8991c8a71be8359e69398193ff07efba786c086d2a0dba16bae8abf5",
   "slug": "will-israel-be-2nd-in-the-world-happiness-report-2027"
  },
+ "0x633fc69dea7534d9d31aaee775eeba35b7d6de2f9d5c075278a9b3ae241732fa": {
+  "created_at": "2026-11-24T15:38:05.232385Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Alanzoka be the next of these streamers to finish GTA VI by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
+  "slug": "will-alanzoka-be-the-next-of-these-streamers-to-finish-gta-vi-by-december-31-2026-20261124"
+ },
  "0x63a1b1fc06a405cd3603de2ccb60d60b000145b7490e4818a2a538d97d4670fa": {
   "created_at": "2026-10-29T20:58:04.178269Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -780,6 +798,7 @@
   "created_at": "2026-08-10T15:33:39.98832Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-03 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "c92c6a8b0e78ba4caa1f5f9327e2de2b475868bc025eba6024046428cc034dab",
@@ -1232,6 +1251,15 @@
   "revisions": 1,
   "sha256": "aaf41ee99f56e726cff06adb35c2b9cb3a7f054e11e0c5adadc34d460a5a6e39",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-50-house-election-by-35-40"
+ },
+ "0xdbb2fe0c178b775b0b8f902d487cd0315fce1e1a62166f29d7001ad6560dedfa": {
+  "created_at": "2026-11-24T01:32:54.515513Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will \"Mr. Irrelevant\" score at least 45 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "4c44a537c778f6d603c740eab6fe5a19c17820468abb72396e50ad2a9e40adc6",
+  "slug": "will-mr-irrelevant-score-at-least-45-on-the-rotten-tomatoes-tomatometer-20261228"
  },
  "0xe09f3c53e03f1201d3a24c135fbcd9f88718e9dcac1232b4665562a8d28ce3fa": {
   "created_at": "2026-08-21T17:37:08.734186Z",

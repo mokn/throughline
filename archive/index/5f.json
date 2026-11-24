@@ -667,6 +667,7 @@
   "created_at": "2026-08-07T14:03:05.236251Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-08 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "4bb3c384633129b7302b57f977b19b0343d5eeb8c2e7859318326ad97d8f46f2",
@@ -1276,6 +1277,15 @@
   "sha256": "e349b13620441a4083dcb4228d2b968676539db424f46a651c3aebb526b63e53",
   "slug": "will-the-republicans-win-maryland-in-the-2028-presidential-election"
  },
+ "0xa7eca903e0ef4fdf663244851e63c46925b73a6fca58bf34e154ba362462565f": {
+  "created_at": "2026-11-23T23:01:26.049925Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will There be 0-169 HE Grenade Kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "65a81f8deb3b6c64ed914ef685b8df65c300181d7ebe29b114de979894c104d2",
+  "slug": "will-there-be-0-169-he-grenade-kills-at-pgl-major-singapore-2026"
+ },
  "0xa9189c805060423d3bb5ea7658ca5054cdcd8bea6d0929825fdd9a9e75ad815f": {
   "created_at": "2026-02-18T17:10:56.082089Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1787,6 +1797,15 @@
   "revisions": 1,
   "sha256": "3b22bd8a8ec1b164691e82c98a817e9e664367cc30d0f843ebc7100d5b871a34",
   "slug": "will-puntarenas-be-relegated-from-liga-fpd-costa-rica-2026-27"
+ },
+ "0xf1452700a376aa535f462cd9010033854786e05996a6a7e740c561169f44855f": {
+  "created_at": "2026-11-24T02:20:38.791324Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Zimbabwe be last in the World Happiness Report 2027?",
+  "revisions": 1,
+  "sha256": "9b44f7bd9a965c1bb12716c988ae8f27d45425bee3d701e83da79b1c5056ac29",
+  "slug": "will-zimbabwe-be-last-in-the-world-happiness-report-2027"
  },
  "0xf2447952276c81576a4645b9d8b379b830afdb11d57d57f77baad1c1a392c55f": {
   "created_at": "2026-06-26T21:48:27.913483Z",

@@ -410,6 +410,15 @@
   "sha256": "598749c8b1008738d6a8927ef568b3926e5a6aa4682ba8f8527357847f539360",
   "slug": "will-ben-affleck-appear-in-a-2027-big-game-commercial"
  },
+ "0x3efb4b8ee751ae863b91bde8c4892df3cdf503479fa1ecc4d9dd0000f0e7d78d": {
+  "created_at": "2026-11-24T02:15:07.36869Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Trump and Xi hug before 2028?",
+  "revisions": 1,
+  "sha256": "b89d1e463ca30867162681f2d5f7aa11ed6e5a1e5a23199a5cce1e8b8b55431e",
+  "slug": "will-trump-and-xi-hug-before-2028"
+ },
  "0x408d41fccaa94a40b0dfb3b786e379a138c9d87657953f64ef76827df599918d": {
   "created_at": "2026-08-10T20:04:58.39361Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -495,6 +504,7 @@
   "created_at": "2026-10-25T04:01:37.519182Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will US Dollar Index (DXY) hit (HIGH) 104.50 in November?",
   "revisions": 1,
   "sha256": "08d2b061d4fa8b9799e948f4fff2cc2b7776a2ea3d26a544e009fcf1f9fc6a3e",
@@ -1273,6 +1283,7 @@
   "created_at": "2026-07-29T18:38:08.648808Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Maine 2026 Senate race be within 5%?",
   "revisions": 1,
   "sha256": "8e4b8cf85bb30efcd93fdbe04059776f789b53eab18da598805d082a4d7a8ab5",

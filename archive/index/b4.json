@@ -74,6 +74,15 @@
   "sha256": "94041b0c51e84c0639361d466b91b50cce284c35ce923419b31066e7674ea76a",
   "slug": "will-the-highest-score-achieved-by-a-moonshot-kimi-model-on-humanitys-last-exam-in-2026-be-50-or-higher-20260723191206822"
  },
+ "0x0d09efe15f6b74ea1550b907edc736bfcb9e4bd5ff119e4a5f46e3217d434ab4": {
+  "created_at": "2026-11-23T22:39:02.673697Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will FlyQuest record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-flyquest-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0x0e4ade6df320ac6a452cb8bbed1e875ea29335b2d57e13df16f0d21e29ef3fb4": {
   "created_at": "2025-11-12T18:42:16.568833Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -471,6 +480,7 @@
   "created_at": "2026-08-10T15:34:17.663743Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-13 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "1f09cb5cbaad6d567a08fcbed5afe52329852f0ce4329c73c850873d64d43e37",
@@ -769,6 +779,15 @@
   "revisions": 1,
   "sha256": "aecd3e2110fb97051415d124abfbd77bb48d99749e28a8baede3b32740c8078e",
   "slug": "enl-scu-fgr-2026-10-03-corners-total-9pt5"
+ },
+ "0x76766cf13e6c0f3d1953402298392d636345a7419ea0f54e55166f6d766709b4": {
+  "created_at": "2026-11-23T22:40:20.602902Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Martinez be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-martinez-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x778ffa27033610e561de56a07d04f05d049da3b447005bb2e4712ca3777e65b4": {
   "created_at": "2026-10-13T15:51:14.288235Z",
@@ -1591,6 +1610,15 @@
   "revisions": 1,
   "sha256": "764f1301943f030b1c539fe5ae8149de97579496744a2c90384d7c529a8428d1",
   "slug": "will-trump-issue-25-29-vetoes-by-december-31-2027"
+ },
+ "0xeef4722f7b8608171afe036febad19af16a6b656b6a2895514b2156c769803b4": {
+  "created_at": "2026-11-23T22:38:45.878186Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Nemiga record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-nemiga-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
  },
  "0xef72585478b6b60d1b94c907fd38afc354302e7c9da33ec777d21b7123c8d2b4": {
   "created_at": "2026-10-13T12:45:47.72109Z",

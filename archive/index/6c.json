@@ -849,6 +849,7 @@
   "created_at": "2026-08-05T18:48:39.724591Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 Maine gubernatorial election by 20%-25%?",
   "revisions": 1,
   "sha256": "618c5e75ec9a732021949745aaa6337c25541e14b0563ef3fda3d08890bd2a34",
@@ -1156,6 +1157,15 @@
   "sha256": "b8248694c614ea00276994d3e36ac368e50ba188f166db822094aa2c938d32f3",
   "slug": "will-florian-thauvin-score-the-most-goals-in-the-2026-27-uefa-champions-league"
  },
+ "0xa67f19e4233f692da262b7eec89ef323be4b7f31de20c87a55a30e8d1bdb9f6c": {
+  "created_at": "2026-11-23T19:12:15.608145Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Off Campus rank in Google\u2019s Top 5 Most Searched TV Shows of 2026?",
+  "revisions": 1,
+  "sha256": "985d5311ad86f067e1de5929df742e374393b86acec53e959a5a2ea928c805c2",
+  "slug": "will-off-campus-rank-in-googles-top-5-most-searched-tv-shows-of-2026"
+ },
  "0xa6bdf8075c68d0d43c48d789d79bc1ef8fb0c59fb5caa9fa8d67b986f0ba766c": {
   "created_at": "2026-08-21T17:37:20.965197Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1319,6 +1329,15 @@
   "revisions": 1,
   "sha256": "6d9f012aa238805537850ef9804d5269dd6e4e5b55daacf8ca0f78b31ca73ae2",
   "slug": "will-iran-target-jordan-by-november-30-2026"
+ },
+ "0xb7b41b44a3a72820ee3897d3bb7be13bbf5c083c24d02960b8dd3d408e49126c": {
+  "created_at": "2026-11-24T01:32:30.305625Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will \"Werwulf\" score at least 80 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "dc9b79300478787b40a7aaee086fdd926680fe50079252151dae3dbcc389acde",
+  "slug": "will-werwulf-score-at-least-80-on-the-rotten-tomatoes-tomatometer-20261228"
  },
  "0xb95d0592047035c73ba29836e702d96813f39f7b82ad71808a849c854b77a06c": {
   "created_at": "2026-09-07T15:06:37.333445Z",

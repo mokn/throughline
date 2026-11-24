@@ -222,6 +222,7 @@
   "created_at": "2026-08-10T15:33:32.102961Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 MI-01 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "4f850dbd85dee2928f0994fa0bce35c0463f76488e7a97a2c0fe9dc63f7b5238",
@@ -472,6 +473,15 @@
   "revisions": 1,
   "sha256": "ed4802b85f507b60dcfef02360e14fa507444c5ec02783308482d5dbe5a2b1fa",
   "slug": "will-putin-and-zelenskyy-meet-next-in-brazil"
+ },
+ "0x4f4abc5a33f3254cdbb9fc5b3a4231ea48e85d516f9cb935ff010e0d4c2d8fe2": {
+  "created_at": "2026-11-23T22:23:42.945733Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will HEROIC go 3-2 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "9f15992409677ff8dbdfa1e34b3e4ce2911d040a9c9274c42046435de9273b70",
+  "slug": "will-heroic-go-3-2-in-stage-1-of-the-pgl-major-singapore-2026"
  },
  "0x5169318ff38c534ce578be979c8e60871ca8ffde211ec2d673be9412871a65e2": {
   "created_at": "2026-10-10T11:30:26.845295Z",
@@ -1085,6 +1095,7 @@
   "created_at": "2026-08-10T15:33:45.817988Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-04 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "ae7934ff7df946a238ac29083d8b1886a6f2919f2a96773aa09c924f534aacc8",

@@ -264,6 +264,15 @@
   "sha256": "0b6e033a12fea3709dc4d11ced366cfd9d702b657a6a95c0f3b1cc7aff647ece",
   "slug": "will-the-pittsburgh-penguins-win-the-2026-27-nhl-presidents-trophy"
  },
+ "0x2aed31ff51d73945c2cda2550bafcaf55e2536e30b11b7cd98cef226e66c3805": {
+  "created_at": "2026-11-23T22:39:47.894361Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will d1Ledez be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-d1ledez-be-the-pgl-major-singapore-2026-mvp"
+ },
  "0x2b59844690d81309d76f3c8690651368cbf8500092b59daae0e2ba7b45b65a05": {
   "created_at": "2026-07-22T16:33:42.45074Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -547,6 +556,15 @@
   "revisions": 1,
   "sha256": "5fa9ae6d4c24fdff920e2265b57e397fe5bc3dd2d5402d86b20a32e9649b4f62",
   "slug": "will-the-ornn-a100-index-be-between-0pt50-and-0pt75-on-november-30-2026"
+ },
+ "0x4e9a16fab2586067ed75c2c94273d6cc07ceb8bf85c25b84f80c891fff2c6805": {
+  "created_at": "2026-11-23T23:01:28.224909Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will There be 210-229 HE Grenade Kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "65a81f8deb3b6c64ed914ef685b8df65c300181d7ebe29b114de979894c104d2",
+  "slug": "will-there-be-210-229-he-grenade-kills-at-pgl-major-singapore-2026"
  },
  "0x4fe2e09d01fac05343a5538ba70199744370c66a769e786bc3ce5a18acc46005": {
   "created_at": "2026-08-11T18:36:08.026198Z",
@@ -866,6 +884,7 @@
   "created_at": "2026-07-30T20:45:50.012836Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Diber Cambindo (Le\u00f3n) be the top goalscorer of the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "8eb61db9408e0f4f32c1421e4762e4a41c9adc644fcbfcb87f8e9ee7afe18eba",
@@ -1331,6 +1350,15 @@
   "revisions": 1,
   "sha256": "e180e901b5eecb43bcaee1bd4dc428ece8dfa7de63480bb48aec8bb8418b684b",
   "slug": "2028-balance-of-power-r-president-r-senate-d-house"
+ },
+ "0xbab4ed7e3dba99e1f9f4359caa0696a5cc3ed6384c063a195811e322de0a0305": {
+  "created_at": "2026-11-23T18:58:43.680581Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in March 2027 be above $4.40?",
+  "revisions": 1,
+  "sha256": "d372536a6ff41a896bd6b64ce61cf8208a1449236f1c7c5f76389fcc112a0fcd",
+  "slug": "h100-average-rental-price-in-march-2027-above-4pt40"
  },
  "0xbb9c075b017c2fa0e41a6abfa1e8798a64031ab4a1ff6cf053adf551f5892c05": {
   "created_at": "2026-10-13T15:50:44.85974Z",

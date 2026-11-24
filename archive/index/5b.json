@@ -366,6 +366,15 @@
   "sha256": "e400e6bc73524c31d4c453bc4138590a03cde8a234342415c6f55e6d723201ff",
   "slug": "will-brandon-johnson-win-the-2027-chicago-mayoral-election"
  },
+ "0x4043f3373c2aadd7b3d885620dc76d0b95631c5f4d245c9dcd8086f9ab24a55b": {
+  "created_at": "2026-11-24T01:01:36.266752Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Jasmine Crockett announce a presidential run before 2028?",
+  "revisions": 1,
+  "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
+  "slug": "will-jasmine-crockett-announce-a-presidential-run-before-2028"
+ },
  "0x40f491a479f8a4c4011aa5aaa21dd82e9b6a004eda8b1a7ee24b32d4ce43875b": {
   "created_at": "2026-11-23T02:59:55.213234Z",
   "first_seen": "2026-11-23T18:08:26Z",
@@ -689,6 +698,7 @@
   "created_at": "2026-08-06T21:37:02.099082Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-06 House election?",
   "revisions": 1,
   "sha256": "2d9c2b6fa3f5954c5a6f828fce4c6dd8df5d8a840d3fbc557c2e4626a83ea421",
@@ -1039,6 +1049,7 @@
   "created_at": "2026-08-06T21:37:16.428299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-07 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "c27b309867417a131687fe025f0d6574c29203c78d32c2156951ab2465d793d6",

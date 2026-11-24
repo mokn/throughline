@@ -310,6 +310,15 @@
   "sha256": "f8974ad48b4d9288b9b290c1b7509e9f08f01b541b7e020c2c0926fa6612f229",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-victor-wembanyama"
  },
+ "0x2d7d66314e9271f1d7620750437fbc12db3d40131d2166114732825de78a1376": {
+  "created_at": "2026-11-24T02:20:50.92433Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Poilievre announced resignation or removal by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "8c1a90ae891bac6e7c95a4e4fe9ad535b3c64df782042425daf02e0f840a85a7",
+  "slug": "poilievre-announced-resignation-or-removal-by-march-31-2027"
+ },
  "0x2eaaa63ad1da64766d47683cf2dc03b5e81137f422766bf98d5750cefea90e76": {
   "created_at": "2026-09-04T19:22:10.653802Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -396,6 +405,7 @@
   "created_at": "2026-08-04T17:45:24.546018Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Alabama Senate election by 20%-25%?",
   "revisions": 1,
   "sha256": "12d638b50410daf3e6902b1c70353967fad3ba83dd9f32ed71b325691147ce3c",
@@ -636,6 +646,15 @@
   "revisions": 1,
   "sha256": "e403d49a450deb48a8a8a76f021f4b2f4ef531ce854904a2f9c5c933ed7a144a",
   "slug": "will-lille-finish-second-in-ucl-league-phase"
+ },
+ "0x5223d4c24a066267ded4d74a571fda621aecb9ee4fdc66e8f00f98971c4a3776": {
+  "created_at": "2026-11-24T02:15:39.176771Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Hytale be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-hytale-be-the-1-searched-game-on-google-this-year-2026"
  },
  "0x52555e8667fa0b216865d14458f97f1e94d5511f153110b6b1bf62b3a276d076": {
   "created_at": "2026-08-17T21:07:41.243032Z",
@@ -1189,6 +1208,7 @@
   "created_at": "2026-08-04T18:21:26.316793Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 Michigan Senate election by 12% or more?",
   "revisions": 1,
   "sha256": "25cc674a64355e3cbee3503ec82f82ca65334fc05cdd5c56b41d0ed4353e26aa",

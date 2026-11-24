@@ -31,6 +31,7 @@
   "created_at": "2026-08-07T14:05:55.110056Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 AZ-02 House election by 6% or more?",
   "revisions": 1,
   "sha256": "f0033bd98b34438bb80886168e076311de4c13a0c2af8cfe7431c00276406266",
@@ -113,6 +114,7 @@
   "created_at": "2026-08-10T15:33:45.354771Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-04 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "ae7934ff7df946a238ac29083d8b1886a6f2919f2a96773aa09c924f534aacc8",
@@ -127,6 +129,15 @@
   "revisions": 1,
   "sha256": "fa3c38d99171f85df0fa9d74a6a2c9ade78d4356f256eb338ec7de35edd3303c",
   "slug": "will-the-republican-party-candidate-win-the-2026-ar-03-house-election-by-40-or-more"
+ },
+ "0x10af013150cbd712c69f85794c4eb92f38339b5ca0c011cb8a8f3ffa27c891c1": {
+  "created_at": "2026-11-23T23:01:30.888725Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will There be 290+ HE Grenade Kills at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "65a81f8deb3b6c64ed914ef685b8df65c300181d7ebe29b114de979894c104d2",
+  "slug": "will-there-be-290-he-grenade-kills-at-pgl-major-singapore-2026"
  },
  "0x110e7e32dafd8e704862ae124593721fd45e5cb732254fc722420f1574564fc1": {
   "created_at": "2026-08-11T18:36:39.371986Z",
@@ -211,6 +222,15 @@
   "revisions": 1,
   "sha256": "5d69f7f9e5070e9b042e7d9ab1a231056fcaeae647b21a0a02ff75f5df56d88b",
   "slug": "will-the-democratic-party-win-the-nc-12-house-seat"
+ },
+ "0x1b7cfdeab0fe9258daf5492cd2da19a460aa029f47fc95be3ffefe96d48e7ec1": {
+  "created_at": "2026-11-24T02:14:44.619503Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "U.S. diplomat expelled by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "d9a5abfd419056934b10eb3015c99da19f962e5164e21dab32477887a90f4263",
+  "slug": "us-diplomat-expelled-by-december-31-2026"
  },
  "0x1c3c99868071eed99e8d39b2b94286b9de87643755bd278d5a182846580811c1": {
   "created_at": "2026-08-12T16:52:07.621394Z",
@@ -554,6 +574,15 @@
   "sha256": "0ed4bbd3e337c88f73286cd4a6a816a7101297712901ada21704914b528cf286",
   "slug": "will-the-montreal-canadiens-be-named-the-2026-27-nhl-stanley-cup-champion-20260612185657087"
  },
+ "0x581477771ee35b4e7146665d27000ec8cd5f6d1628040fd15350b66d0f617dc1": {
+  "created_at": "2026-11-23T22:23:40.695892Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will FaZe go 3-2 in Stage 1 of the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "9f15992409677ff8dbdfa1e34b3e4ce2911d040a9c9274c42046435de9273b70",
+  "slug": "will-faze-go-3-2-in-stage-1-of-the-pgl-major-singapore-2026"
+ },
  "0x5892e96c808e649001764735f5e8f0823a8c1ef96b05714813e6259327fa4fc1": {
   "created_at": "2026-08-10T23:57:14.754938Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -677,6 +706,7 @@
   "created_at": "2026-08-11T19:04:25.101764Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 UT-04 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "153c5b9a0c4fb85610ab9a79a5d09ec1d561341b6e4765129c6bfd2b3faef39b",
@@ -797,6 +827,7 @@
   "created_at": "2026-08-06T21:34:42.928061Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AL-01 House election by 50% or more?",
   "revisions": 1,
   "sha256": "5b0ad4e08a7394a6e77bd76ebd652e90970f672cb8ebde86aedcd6837dc50723",
@@ -1067,6 +1098,15 @@
   "sha256": "6a8781f0e00f862e060fa2aeb7f788020ef3d9964a61d138e230f922a220a82c",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-massachusetts-be-between-2950000-and-3100000"
  },
+ "0x968a485042eda7bc1953d946a4e3b4081e3f7dfa3113a16fa10cfe9b12cc09c1": {
+  "created_at": "2026-11-23T22:38:52.532464Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Liquid record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-liquid-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
  "0x976670cf89c8741a5a4953dac36683c54f7169233f8c5be9dcbf4f448252afc1": {
   "created_at": "2026-08-11T18:25:03.071386Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1098,6 +1138,7 @@
   "created_at": "2026-11-23T15:58:57.900226Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will none of these streamers finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -1492,6 +1533,7 @@
   "created_at": "2026-08-07T14:03:05.534277Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Republican Party candidate win the 2026 AZ-08 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "4bb3c384633129b7302b57f977b19b0343d5eeb8c2e7859318326ad97d8f46f2",

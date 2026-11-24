@@ -1,0 +1,13 @@
+[
+ {
+  "after": "This market will resolve to \u201cYes\u201c if the US House of Representatives by simple majority vote to approve or pass one or more articles of impeachment of President Donald Trump, between July 24, 2025, and the specified date, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nNeither trial nor conviction by the US Senate, nor removal from office, is necessary to resolve this market to \u201cYes\u201c.\n\nThe primary resolution source for this market will be information from the federal government of the United States, however a consensus of credible reporting will be used.",
+  "before": "This market will resolve to \u201cYes\u201c if the US House of Representatives by simple majority vote to approve or pass one or more articles of impeachment of President Donald Trump, between July 24, 2025, and December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nNeither trial nor conviction by the US Senate, nor removal from office, is necessary to resolve this market to \u201cYes\u201c.\n\nThe primary resolution source for this market will be information from the federal government of the United States, however a consensus of credible reporting will be used.",
+  "conditionId": "0x4c8ceef9b9c0a27b6b4efa7c398ece4a5eeda76502f722de398c232abefe2ede",
+  "question": "Will Trump be impeached by December 31, 2026?",
+  "revision": 2,
+  "seen": "2026-11-24T17:44:50Z",
+  "sha256_after": "160d4560b9a64947bd31877c629548772e37c5635ff106ab2145341ed8fd8e30",
+  "sha256_before": "1fffe8a4d3168444495c8c29779989b91bb59b322b49d7339b77c1935e730c98",
+  "slug": "will-trump-be-impeached-by-december-31-2026"
+ }
+]

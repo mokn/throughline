@@ -1022,6 +1022,7 @@
   "created_at": "2026-08-18T14:14:45.680248Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Maine be between 600,000 and 650,000?",
   "revisions": 1,
   "sha256": "63cbb9886ce4c61ab03246ad7dba47f589b990161a3e9e3a1caf4253fa84fd12",
@@ -1229,6 +1230,15 @@
   "revisions": 1,
   "sha256": "b3d217c9968a8616284daa35955d10914b06a1bf4503dcf2ff23d570c2b04c10",
   "slug": "will-cristiano-ronaldo-score-his-1000th-career-goal-by-march-7-2027"
+ },
+ "0xc9183089e06221c19b5c37b2b0d4416f9fc453f25afe8deb6c4aed015c537ccc": {
+  "created_at": "2026-11-23T19:12:15.826671Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Industry rank in Google\u2019s Top 5 Most Searched TV Shows of 2026?",
+  "revisions": 1,
+  "sha256": "985d5311ad86f067e1de5929df742e374393b86acec53e959a5a2ea928c805c2",
+  "slug": "will-industry-rank-in-googles-top-5-most-searched-tv-shows-of-2026"
  },
  "0xcdd4e23260df7e4615833c618e0c1d8e3ada6739e01420cf5d884cfda856c6cc": {
   "created_at": "2026-09-04T19:28:49.670175Z",
@@ -1448,6 +1458,15 @@
   "revisions": 1,
   "sha256": "7fe4339662a907e2ae3dbcdc3fa27f68ed9569910e2c24016d99eeb87acaa7f8",
   "slug": "will-microsoft-be-the-2-ai-lab-at-the-end-of-november-2026"
+ },
+ "0xf9f7994241021b8e81830989c60ad61826509b602854eea11b4b6f948a7a91cc": {
+  "created_at": "2026-11-23T18:47:00.882053Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn B200 rental price in January 2027 be above $13.00?",
+  "revisions": 1,
+  "sha256": "147e35e2c798f54d7435409a478eae668b36bc94e7b0672cf0bc3f9d6ba91f4b",
+  "slug": "b200-average-rental-price-in-january-2027-above-13pt00"
  },
  "0xfbb6d353dcbbf9d8d613adb4ac784f536fcade819045d44d1a6c573f1f06aecc": {
   "created_at": "2026-08-07T20:31:41.775305Z",

@@ -311,6 +311,15 @@
   "sha256": "82eab1c0b41a1d5784b9e3c94195fad9fe7a3dfca60c58e2ad655b09524d8743",
   "slug": "del-2027-champion-augsburger-panther"
  },
+ "0x2c02a6cd3c54d542e03f7a9001b6660079bbb5a6396419e770264bf79dc26dba": {
+  "created_at": "2026-11-12T20:22:53.708574Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Dai Dai - Shakira & Burna Boy win Best Global Music Performance at the 69th Annual GRAMMY Awards?",
+  "revisions": 1,
+  "sha256": "3d5108fc0a413bbb4d3ccdf1cf9b4c4373352c54eb1584181f342b0f1bc4db07",
+  "slug": "will-dai-dai-shakira-and-burna-boy-win-best-global-music-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
  "0x2ccdf3b607629cc4af9fd142168d344af8084dcd3dad243594e7ba4c8a322eba": {
   "created_at": "2026-11-07T12:30:55.04178Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -599,6 +608,7 @@
   "created_at": "2026-09-25T23:09:38.366736Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Abdul El-Sayed underperform Kamala in Michigan?",
   "revisions": 1,
   "sha256": "d9bfb74e7925abe8b87729c2132036425a34083c29e67652afb010d83fe2bde8",
@@ -640,6 +650,15 @@
   "revisions": 1,
   "sha256": "0879adb174379c9520e975588210f34450b694c0deccd9f9b66e93975d64df83",
   "slug": "mu-above-860-on-november-30-2026"
+ },
+ "0x63679c3d6f53db261f3e02e2c5bef38a98690c57a520babafd7b1a4d290005ba": {
+  "created_at": "2026-11-23T22:40:10.713931Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will cobrazera be the PGL Major Singapore 2026 MVP?",
+  "revisions": 1,
+  "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
+  "slug": "will-cobrazera-be-the-pgl-major-singapore-2026-mvp"
  },
  "0x640434fa75b62dc407da4b6825e7799d6c2050cde072a4a6fbfb0596bab59fba": {
   "created_at": "2026-10-13T18:06:23.551369Z",
@@ -807,6 +826,15 @@
   "revisions": 1,
   "sha256": "5b7c2c5428d745237e005aeccde87d523c249359bc8a5b58b4c595d1b96af2f6",
   "slug": "will-jeff-bezos-be-3rd-richest-person-on-december-31"
+ },
+ "0x7349bcf7620a5bc5fa3dd17c57c670836bb1d78c84e4f40f38dc35c39f5a35ba": {
+  "created_at": "2026-11-23T22:38:47.380287Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will MIBR record 3 or more aces at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
+  "slug": "will-mibr-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
  },
  "0x757ad18452b272d534a0bcede5ba0e207113433f155df85b10943476cfbcffba": {
   "created_at": "2026-08-10T23:57:32.305762Z",

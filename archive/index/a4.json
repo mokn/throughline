@@ -857,6 +857,15 @@
   "sha256": "675b441cea0473922b91fbd1ba948bf0eabe9499a0545ca958e5d4b47e950af1",
   "slug": "will-shavkat-rakhmonov-become-ufc-champion-in-2026"
  },
+ "0x7c13bca4da969fbf08a70f8d2b1c58dfdd2c3f04bc9f7bdbab1ebcedd10ff8a4": {
+  "created_at": "2026-11-23T22:37:55.741429Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Spinx record a 1v5 clutch at the PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "b58f9d79b2a7caf61d36707be1e55e742b6d89b37eaa8309f62ec3f3b908d1f3",
+  "slug": "will-spinx-record-a-1v5-clutch-at-the-pgl-major-singapore-2026"
+ },
  "0x822797fbdc04288a5f29da78def48e11c2e1fec827b218c5349a9676926058a4": {
   "created_at": "2026-11-19T20:52:13.811076Z",
   "first_seen": "2026-11-20T15:27:46Z",
@@ -997,6 +1006,15 @@
   "sha256": "26574a6e83de06d8d59e4558ade27ae1a02278900f5637ca42fb6e1d2b24ab25",
   "slug": "spl-riy-hil-2026-10-16-second-half-team-total-home-3pt5"
  },
+ "0xa32392acb13874fad4de2d514f10bc1905d1c9ae58f40ac493a44bc2a83d45a4": {
+  "created_at": "2026-11-23T23:07:52.887914Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "PGL Major Singapore 2026: Any map to go 13-0",
+  "revisions": 1,
+  "sha256": "24a6661086438d7a891e1087abf78970e063ac7fe48feebebb34346816eef6b3",
+  "slug": "pgl-major-singapore-2026-any-map-to-go-13-0"
+ },
  "0xa35edadd9cdea2c9371557eb8b8e8a1f50227889594992855a072e00ab67cea4": {
   "created_at": "2026-10-30T23:55:30.805528Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1055,6 +1073,7 @@
   "created_at": "2026-08-10T15:33:46.049561Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will the Democratic Party candidate win the 2026 MI-04 House election by 12% or more?",
   "revisions": 1,
   "sha256": "ae7934ff7df946a238ac29083d8b1886a6f2919f2a96773aa09c924f534aacc8",
@@ -1231,6 +1250,15 @@
   "revisions": 1,
   "sha256": "bbe9216d831efa297e56ea75528450918542fc2e16bf80901c5fe4b1ea1a403d",
   "slug": "will-detroit-lions-advance-to-the-nfc-championship-game-in-the-2027-nfl-playoffs"
+ },
+ "0xc0127a2cb8b10569772316dc002bf1f897ea35cc75eb81733c882614a8e6a4a4": {
+  "created_at": "2026-11-23T19:03:54.507738Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in December 2028 be above $6.00?",
+  "revisions": 1,
+  "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
+  "slug": "h100-average-rental-price-in-december-2028-above-6pt00"
  },
  "0xc02e24dda79bff27665a7d9bdb60e490491c3bc26a042a530707f0dd9f9cc8a4": {
   "created_at": "2026-08-12T17:23:26.654563Z",

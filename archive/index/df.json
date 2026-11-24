@@ -195,6 +195,7 @@
   "created_at": "2026-11-23T15:58:52.092418Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Alanzoka be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -318,6 +319,15 @@
   "revisions": 1,
   "sha256": "217eab5d357f2fc0b0e7ea200a7b4619e30daa36eb6bdc4c7baea72eef4fa657",
   "slug": "will-astralis-reach-the-grand-final-at-pgl-major-singapore-2026"
+ },
+ "0x28ed29ec7587ba20dfe0d47a68bf6cefa210c33af49d234a1e55a59278e0cadf": {
+  "created_at": "2026-11-24T05:00:05.946996Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Elon Musk post 260-279 tweets in December 2026?",
+  "revisions": 1,
+  "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
+  "slug": "elon-musk-of-tweets-december-2026-260-279"
  },
  "0x2dc165af52838a1cb0bc67416905237dd7576360187d84fe8186bb8a17b426df": {
   "created_at": "2026-07-31T22:45:19.994477Z",
@@ -464,6 +474,15 @@
   "revisions": 1,
   "sha256": "ebc89c0356b819f9e3f08c5f73fd98fb11c7a697fad69c1a99ad6e6848f8e429",
   "slug": "will-central-african-republic-win-afcon-2027-qualifying-group-f"
+ },
+ "0x489bb97a592e7da51b9c17e421db9606fddc6eb09d0c6b5c660edad70bfc59df": {
+  "created_at": "2026-11-23T18:57:57.385636Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will the average Ornn H100 rental price in December 2026 be above $2.40?",
+  "revisions": 1,
+  "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
+  "slug": "h100-average-rental-price-in-december-2026-above-2pt40"
  },
  "0x4935b075840fadd00a8b5076f912d93f5ad6091dc536f2648f9a6b24290cb9df": {
   "created_at": "2026-11-03T17:10:53.724219Z",
@@ -718,6 +737,7 @@
   "created_at": "2026-09-09T15:47:43.619682Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-24T17:44:50Z",
   "question": "Will Colombia host the 2028 Copa America?",
   "revisions": 1,
   "sha256": "b9b86989d5922243c18a1ff9291f492a8f20b346c2a7274b4c5a083a6a0ecf39",
@@ -1308,6 +1328,15 @@
   "revisions": 1,
   "sha256": "3443d51c1b2433d46b5c3a00c11b51e49fc4b0cc9d1b9f27d7eaf57a0f8585e4",
   "slug": "will-angie-craig-be-the-democratic-nominee-for-the-minnesota-senate-special-election"
+ },
+ "0xc8b6ba2efe163dccc4e4e86ef421c63755813ff6aa819fb491e9364dcf1f64df": {
+  "created_at": "2026-11-24T02:15:42.4282Z",
+  "first_seen": "2026-11-24T17:44:50Z",
+  "last_changed": "2026-11-24T17:44:50Z",
+  "question": "Will Marvel's Wolverine be the #1 searched game on Google this year?",
+  "revisions": 1,
+  "sha256": "9d0fd8b48272c03ebaba2e53e4bdcb0748aae8ad5261eecd7150da2539d33833",
+  "slug": "will-marvel-s-wolverine-be-the-1-searched-game-on-google-this-year-2026"
  },
  "0xc8c6d6d0829bb1592736ebc687f5792ff86718a0d7f97da2138fcc3508af6ddf": {
   "created_at": "2026-09-09T15:18:47.060451Z",
