@@ -277,6 +277,7 @@
   "created_at": "2026-11-23T22:14:13.791185Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will DENDELE go 0-3 in Stage 1 of the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "52f565958895e9a7845ff1abc20bb9fc1f763bb88ce18e52fb51dacdff1d2674",
@@ -625,6 +626,15 @@
   "sha256": "bd52d5b72d3055f3ab287e696d3800416399994d7a891ed16f959ba4c8d2700c",
   "slug": "will-sv-ried-keep-the-most-clean-sheets-in-austrian-bundesliga-2026-27"
  },
+ "0x5d495f7ba643e5a6ef8ef258367c4fffd9649474f957c88c39c8098292ea15ed": {
+  "created_at": "2026-11-25T05:00:56.760404Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $120 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-dip-to-120-in-december-2026"
+ },
  "0x5e3e9c16efd316d969484e10085e2bd2ab9ef96dcadf039ff2dca258126044ed": {
   "created_at": "2026-07-15T00:39:53.666118Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -774,6 +784,7 @@
   "created_at": "2026-08-11T17:53:10.53039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-05 House election by 18%-21%?",
   "revisions": 1,
   "sha256": "d47c070996fae6764cb7c92539bcfab712f59efe342104e94f3524155ae476e1",
@@ -967,6 +978,7 @@
   "created_at": "2026-09-02T06:01:12.214446Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kryvbas Kryvyi Rih O/U 1.5",
   "revisions": 1,
   "sha256": "adc0984a0753d5a40996a224b238ed7162b72ba974679436571b9661dfb0a91b",
@@ -1096,6 +1108,7 @@
   "created_at": "2026-08-11T17:53:22.106202Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-07 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "f0db4b7bddda0145ba14da708a1bb26d29d95c91f9df15c257634ba822aa54e2",
@@ -1301,6 +1314,7 @@
   "created_at": "2026-09-02T06:01:14.337189Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "87d0904877ce4cd69d45e5b52086ecea19b22b41db946044f280359e26666969",
@@ -1468,6 +1482,7 @@
   "created_at": "2026-09-09T15:17:46.351039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Lens finish first in UCL league phase?",
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
@@ -1555,6 +1570,15 @@
   "revisions": 1,
   "sha256": "51eb4ba54d635c7a11d31a75f960c43c37c63e8efa2df878b20dd6545ef42fd2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nj-05-house-election-by-35-or-more"
+ },
+ "0xde2eb34379ed59d0644738a39ad6c03cb8c92d4b86a32e1a501bbc5c319970ed": {
+  "created_at": "2026-11-25T03:00:43.691401Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Bank of Japan increase the uncollateralized overnight call rate by 25 bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "16aeb620e6885e7159531fb944b4ceac42d40dbe9da8abde7179908bee5b6104",
+  "slug": "will-the-bank-of-japan-increase-the-uncollateralized-overnight-call-rate-by-25-bps-at-the-april-2027-meeting"
  },
  "0xe112fee834c914ea6c5325a4d43e4f74e9d6d5051ba4b42f600bef676bcaf2ed": {
   "created_at": "2026-11-19T22:57:46.857893Z",
@@ -1665,6 +1689,15 @@
   "revisions": 1,
   "sha256": "1da42d5d9b7812d42e1df325ce68e0d9d5a5d89114084dff9bd12733efa8c81c",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-17-house-election-by-50-55"
+ },
+ "0xefe1657371f76af592b4499210a84c9c5f9a75bc41337db019c93bbf86bad3ed": {
+  "created_at": "2026-11-25T14:08:03.176452Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Thinking Machines have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-thinking-machines-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
  },
  "0xf0b7bc337ab62347f78938ffc83e60f8c3523640cc1ddd8fff4a3f0748d372ed": {
   "created_at": "2026-10-13T19:55:56.314461Z",

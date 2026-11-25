@@ -127,6 +127,15 @@
   "sha256": "63555ee9368c361f7b0061f107e9a1df68a820dafbfafe3a56d5e5721a00d58e",
   "slug": "2027-soccer-ligue-2-runner-up-fc-metz"
  },
+ "0x199f39a1722f790b61950a6a38dd71b8b934783b791ebff4a1d9ab0f1e321cd2": {
+  "created_at": "2026-11-25T14:08:09.323698Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alibaba be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-alibaba-be-the-best-ai-lab-at-the-end-of-january-2027"
+ },
  "0x19b1f7d41cba7e275de4e76cac9ce291997532e0814bcea7f7f3495ac11a64d2": {
   "created_at": "2026-08-10T23:56:05.562565Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -196,10 +205,20 @@
   "created_at": "2026-09-20T08:16:20.91153Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC to score first vs. Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "7d1d7c9f30de59ca2961b9ba20bc31752f168976853d11d602d71e1cd58bf694",
   "slug": "el1-bro-wyc-2026-10-03-first-to-score-home"
+ },
+ "0x2009369e8a3498ea620823fd2c2954bbb02974a62de463a3221157fb83f800d2": {
+  "created_at": "2026-11-24T22:21:30.847737Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Next Z.ai GLM (5.5+) released by February 28, 2027?",
+  "revisions": 1,
+  "sha256": "744d5621311147ef26926dc1aee8340e4ce325b5d57103333ceee4dd0334a6c4",
+  "slug": "next-zptai-glm-5pt5-released-by-february-28-2027"
  },
  "0x24825f790bc1494296efd57fd90b8667a175d0ff84a48d7be02c7a8b393a3fd2": {
   "created_at": "2026-08-18T18:59:33.728597Z",
@@ -306,6 +325,7 @@
   "created_at": "2026-09-20T08:47:25.123141Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "6f11bd794306721a712dd77c838ec4d1a2081c20ce85332b27a37bcc073da952",
@@ -737,6 +757,7 @@
   "created_at": "2026-09-13T08:16:13.746635Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bradford City AFC 2 - 2 Barnsley FC?",
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
@@ -1457,6 +1478,7 @@
   "created_at": "2026-09-20T08:47:20.753907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "116256ef59e440a86dc9963cbf4b2a356fa63a2150ea24688e7d263af1c61422",

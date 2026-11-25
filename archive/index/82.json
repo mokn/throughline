@@ -117,6 +117,15 @@
   "sha256": "be1356a8b1efee0be1dabe61a2d40624432fa5e4313e365b81e4b96af0c0bd5b",
   "slug": "f1-qatar-grand-prix-constructor-pole-position-aston-martin-2026-11-28"
  },
+ "0x0feec96924d0803f63d466bca754e5e35123b50052ceac18aeb9dce55cc12b82": {
+  "created_at": "2026-11-25T05:01:35.298499Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (LOW) $540 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-dip-to-540-in-december-2026"
+ },
  "0x0ff523ad210223ece860c203d670699010d6088b9c844ea2dc082c7e12f97b82": {
   "created_at": "2026-10-13T15:51:07.113011Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1327,6 +1336,7 @@
   "created_at": "2026-07-29T20:34:26.723791Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Ezequiel Bullaude (Santos Laguna) record the most assists in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "4235c4099ada5b88817c6090161c86b4cc1f514c177f7e3c148ca09bf9e4f0a3",
@@ -1385,6 +1395,15 @@
   "revisions": 1,
   "sha256": "ff2414323859352e8a264c72445136b7ca75e9ec2053d4314feb0d8b3ef6312a",
   "slug": "will-david-seymour-be-the-next-prime-minister-of-new-zealand-after-the-2026-elections-159"
+ },
+ "0xc3bfc31656f0f7680c67ffc3a81eb8a7bb28b057c8e2cb950a0adc1df149fe82": {
+  "created_at": "2026-11-25T05:01:53.384372Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceX (SPCX) hit (LOW) $115 in December?",
+  "revisions": 1,
+  "sha256": "980971399bdb4ff3e8996bfac1dd7c04cba7f6b22deb08cd4a5aa4523dcba66a",
+  "slug": "will-spcx-dip-to-115-in-december-2026"
  },
  "0xc411ca76644ed61d916cb8557168b949c402b69f821c999889d993c36c4bb882": {
   "created_at": "2026-01-28T15:39:17.449886Z",

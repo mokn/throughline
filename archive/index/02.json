@@ -548,6 +548,15 @@
   "sha256": "863a726d74076d902d0bfedf7cb4484d8363aacc2320f4ca2b012776bd5d92eb",
   "slug": "will-venezuelan-crude-oil-production-reach-1pt3m-barrels-per-day-in-2026"
  },
+ "0x5b523171eec1940f9c83ee4292769ccc0bf67222e9c3420dbffee5a915fefb02": {
+  "created_at": "2026-11-25T05:00:19.147707Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (LOW) $208 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-dip-to-208-in-december-2026"
+ },
  "0x5d731bb8f1e68bc634c8a95292c0ca42f084b06a1b922dc1662c389eb355b802": {
   "created_at": "2026-08-26T21:46:13.339917Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -842,6 +851,15 @@
   "sha256": "c8bf913cbabac52bf06674528fc86766025b0f1e7a7240e00d926bc7df430e8d",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mn-02-house-election-by-10-15"
  },
+ "0x9093284c79176bc72f575d8de217d1cf99e2943dd8e674c8de73969c3c42b502": {
+  "created_at": "2026-11-25T14:08:13.973468Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-amazon-be-the-best-ai-lab-at-the-end-of-january-2027"
+ },
  "0x93a3b80b1fb485057add882b55d12011ea011fedd9abededad86ac6cb53a2802": {
   "created_at": "2025-11-11T19:57:24.585221Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -882,6 +900,7 @@
   "created_at": "2026-09-20T08:47:23.1188Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "b54cce7652b9084d4ae0c38b1c680d6410dff8cba980d2cd6dc3fb2aa0e67f19",
@@ -1080,6 +1099,24 @@
   "sha256": "f1efb04609d46605b16e133c4b20383ff2664bd67fac65c3d9c711beee3f801a",
   "slug": "will-caleb-hawkins-be-the-2026-d1-rushing-tds-leader"
  },
+ "0xbed3d57e6744533332960a25465b60f15ab9db5d3dfabd9f803bd61e3eeeb602": {
+  "created_at": "2026-11-25T05:02:31.24859Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (LOW) $2.40 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-dip-to-2-40-in-december-2026"
+ },
+ "0xbfc4e6534383a1bea342404d5a9a6cc8e4311a2e640397b9f123f7fe74a74702": {
+  "created_at": "2026-11-25T05:01:10.792325Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $200 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-reach-200-in-december-2026"
+ },
  "0xc486a036e60c72571844001cad98048a68dd877695b3d84ac914e084ec05b102": {
   "created_at": "2026-08-10T14:52:11.362263Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1136,6 +1173,15 @@
   "revisions": 1,
   "sha256": "1246434b874a8b8a4700d1c73bc07aee8f2ef52bd84f45770e740a126fc38410",
   "slug": "will-gpt-astra-6pt1-debut-at-a-score-of-at-least-1460-by-june-30-2027"
+ },
+ "0xd61e28946a1e35425c7b4305fb7d13519a8e73b004b0c00f6f26cd6a27d07102": {
+  "created_at": "2026-11-25T05:01:36.330851Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (LOW) $360 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-dip-to-360-in-december-2026"
  },
  "0xd68929c13b6907cd6c0df7e58852c547d5f382b6bfdf4eae48b5c2dc2595a302": {
   "created_at": "2026-11-24T04:22:11.686267Z",
@@ -1334,6 +1380,7 @@
   "created_at": "2026-09-18T08:45:16.453488Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC O/U 3.5",
   "revisions": 1,
   "sha256": "b96557f8ba368217cbda5d718f30436ef18e9313cc48826c82d47f3db97d2a9f",

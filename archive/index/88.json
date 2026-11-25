@@ -236,6 +236,15 @@
   "sha256": "f0eabb925e13cb70f802323dc4c15a96f10c77d30dde9d1401f887c4da39221b",
   "slug": "nba-players-to-be-traded-before-the-2027-trade-deadline-jamal-murray"
  },
+ "0x1dbd321c96e10f0536c14a1fe4e30443818039a3e117a135a0b1d79a9e533b88": {
+  "created_at": "2026-11-25T05:00:25.303855Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (LOW) $210 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-dip-to-210-in-december-2026"
+ },
  "0x1eaa6a94633f49efc658a63430872f4e78c79fb2b8b67972cff3c39c200dbe88": {
   "created_at": "2026-11-12T20:21:53.537403Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -600,6 +609,7 @@
   "created_at": "2026-07-29T20:34:26.344163Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Juan Brunetta (Tigres UANL) record the most assists in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "4235c4099ada5b88817c6090161c86b4cc1f514c177f7e3c148ca09bf9e4f0a3",
@@ -809,6 +819,7 @@
   "created_at": "2026-09-18T09:45:17.379841Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 6.5",
   "revisions": 1,
   "sha256": "d48c3c28300ccbc47815b0f9fa76cecb51f1faed80c8356143e5f4b0e73673c8",
@@ -856,6 +867,7 @@
   "created_at": "2026-09-13T09:15:37.111072Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Barnet FC leading at halftime?",
   "revisions": 1,
   "sha256": "6d40aabbd17421a0f81776644bd4828fa607be845f4a1439d34b3bc63eca393c",
@@ -1092,6 +1104,7 @@
   "created_at": "2026-10-18T23:30:10.901403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: O/U 2.5",
   "revisions": 1,
   "sha256": "98b207db49087a67fd1f15d0464d8738adc9bba5130fd05c78b5ab857573d375",
@@ -1169,6 +1182,15 @@
   "revisions": 1,
   "sha256": "10473fbe18660f884f5a9f2b0081cb97883879c021939e04eea900ff40525204",
   "slug": "will-the-next-gemini-model-family-be-named-gemini-krypton-20261113"
+ },
+ "0xb0eb84896f95e7a64775826ae800b2a51cd15bd180b987a87df9c1ac29786a88": {
+  "created_at": "2026-11-25T05:02:16.764732Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (HIGH) $3,900 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-reach-3900-in-december-2026"
  },
  "0xb188aca910be0f672e2da5c95dd18e5912f1b6c26d4e12a1e6043fb8fc700a88": {
   "created_at": "2026-08-10T23:57:33.099277Z",
@@ -1530,6 +1552,7 @@
   "created_at": "2026-08-07T20:29:09.783679Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-01 House election by 15%-25%?",
   "revisions": 1,
   "sha256": "f8b6ab6faabb7923e06a7a34ce2beedcbe7e887c4eb7a1079b105effba5c876f",
@@ -1692,6 +1715,15 @@
   "sha256": "719a5aae1ce500ebfd049ad6ecb5dedb4746015aeb86b315efd1745deaa8813b",
   "slug": "parker-washington-1500-scrimmage-yards-2026-27"
  },
+ "0xf72d07997a6177f4c39a6ef3fef4e77bd7e9dc2fcfc7a2c0cf1f547d7e16c888": {
+  "created_at": "2026-11-25T05:00:35.585955Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tesla, Inc. (TSLA) hit (HIGH) $450 in December?",
+  "revisions": 1,
+  "sha256": "6ce1712027598d432cef08acea8ae93a1123d96e6955d7ecd603a17c5e93877a",
+  "slug": "will-tsla-reach-450-in-december-2026"
+ },
  "0xf7483262455459dfcbebb6e3badcaf8cc62ff3a22767592259f0b751e4957388": {
   "created_at": "2026-08-18T18:58:05.124324Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1718,5 +1750,14 @@
   "revisions": 1,
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-esa-lindell-win-the-2026-27-james-norris-memorial-trophy"
+ },
+ "0xff1dce5027923fd2e2f98216ff080d27ec0e0398590c09fa0597267a41750388": {
+  "created_at": "2026-11-25T13:18:56.129923Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Recep Tayyip Erdo\u011fan by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-recep-tayyip-erdogan-by-december-31-2026"
  }
 }

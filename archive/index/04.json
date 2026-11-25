@@ -141,6 +141,7 @@
   "created_at": "2026-09-18T08:45:15.260218Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Bradford City AFC (-5.5)",
   "revisions": 1,
   "sha256": "27626f3e6410a8ad2f2c697aef569104388c5c0d4a8462d20afddf0d87f24a8a",
@@ -299,6 +300,7 @@
   "created_at": "2026-08-11T17:53:15.963977Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-06 House election by 18% or more?",
   "revisions": 1,
   "sha256": "abaae569586364ab6dd011b43b5d7b85e1fc43981f1c9e9e44ee66b3f3d4906e",
@@ -580,6 +582,7 @@
   "created_at": "2026-09-13T08:45:19.880197Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Barnsley FC (-1.5)",
   "revisions": 1,
   "sha256": "2fccdf4b93b5d58edee63d087391b087e00014d3bbc8f8030f399d50c990492f",
@@ -640,6 +643,15 @@
   "revisions": 1,
   "sha256": "590fba2219bc837376e6323f31138d55620a90328cad743e5962cc9449f7513e",
   "slug": "scop-dun-hmi-2026-10-31-exact-score-4-2"
+ },
+ "0x478140c83f85eae902c180a5385ded1931501051865c1502d655b9da974f5204": {
+  "created_at": "2026-11-25T00:02:59.94839Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 35 and 44 on April 30?",
+  "revisions": 1,
+  "sha256": "5782d35ffe630cc71226c62499a2e2897fad675938cec0b6fe5e1a74215b703a",
+  "slug": "will-the-fear-greed-index-be-35-44-on-april-30-2027"
  },
  "0x49e085f51c46c820818e4cfc26e6409554c366af31054d39f5bd05aed58abc04": {
   "created_at": "2026-09-04T19:29:10.576652Z",
@@ -955,6 +967,7 @@
   "created_at": "2026-08-11T17:53:22.845856Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-07 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "f0db4b7bddda0145ba14da708a1bb26d29d95c91f9df15c257634ba822aa54e2",
@@ -1505,6 +1518,15 @@
   "sha256": "ecf93478eb84a164ad0383aaed5ce62310c5a2a0e535caafc6f4f86ba4ee311a",
   "slug": "ukr1-kry-met-2026-09-12-corners-team-home-4pt5"
  },
+ "0xbd9d03c797a82b927477d9bda122a5a42390695b68065b69a25c085e1b9c7c04": {
+  "created_at": "2026-11-25T13:18:42.951834Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Emmanuel Macron by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-emmanuel-macron-by-december-31-2026"
+ },
  "0xbf35de64863325394532b1d3e52fc0012b0ce1afcc5f00ddfe516c5e725b4104": {
   "created_at": "2026-10-21T17:33:47.34134Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1537,6 +1559,7 @@
   "created_at": "2026-08-11T17:54:00.108889Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-13 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "4ce80f7325d5fa7a64ffab64eaca64c42a7317250ee50686131ec7ae73207c87",
@@ -1689,6 +1712,15 @@
   "revisions": 1,
   "sha256": "4b7d2cae40c1a31ad2d840f5218b77e27c7f45ad0bdac333b9cc8dbf03fda925",
   "slug": "will-rachaad-white-finish-as-a-top-5-rb-in-the-2026-27-nfl-season"
+ },
+ "0xda9e82576b8c58d974958307a44d77c28dff93ae98109354f5ff801d64f6b304": {
+  "created_at": "2026-07-20T09:03:40.236431Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Livyi Bereh leading at halftime?",
+  "revisions": 1,
+  "sha256": "f982d7e451000851f91faebfe17e066218a3e12ec80f7b0f3f5ef08560d07c89",
+  "slug": "ukr1-dyn-liv-2026-08-02-halftime-result-away"
  },
  "0xdb98fe8cf3ee5e30e78bd1f6329c09a41f69f5291b4656fb59af980f62a5cf04": {
   "created_at": "2026-08-24T16:34:18.203874Z",

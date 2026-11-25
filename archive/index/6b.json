@@ -120,6 +120,7 @@
   "created_at": "2026-09-13T09:45:20.565311Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Port Vale FC (-1.5)",
   "revisions": 1,
   "sha256": "2bc0a4a90bde9f085d317fef82e8e3145fc20196ab3888d514f2f92c5da2139c",
@@ -135,6 +136,15 @@
   "sha256": "0b7bc81d20c9a97d3b30d4a45d6f257ab6662a8e46d77853405e36b62afe18ef",
   "slug": "will-eduardo-zans-loayza-win-the-next-cusco-mayoral-elections-20260811162428013"
  },
+ "0x143d0d1d4c0af44a9027ffd194386da41a449a694a99b3a2e26b4cef5188bb6b": {
+  "created_at": "2026-07-21T06:00:11.037084Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Dynamo Kyiv O/U 1.5",
+  "revisions": 1,
+  "sha256": "2db4894992b0d08210d1214d21f7923a5f49a034d57f7e3584de9a7aeb08d12b",
+  "slug": "ukr1-dyn-liv-2026-08-02-team-total-home-1pt5"
+ },
  "0x144d42788b6b3b2d25d48803a1a2ce4b1af9108be7a26528c49a06a48dd98a6b": {
   "created_at": "2026-09-02T21:51:28.380454Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -143,6 +153,15 @@
   "revisions": 1,
   "sha256": "937f8fc6a4933d119b1cb0a60444dd6f1553609630286adf529186f7660ff137",
   "slug": "will-atlanta-falcons-advance-to-the-divisional-round-in-the-2027-nfl-playoffs"
+ },
+ "0x14ab091f889f234fdd594e47ddc000777d777eec86e8d8777ae4bc1bbbee526b": {
+  "created_at": "2026-11-25T05:02:13.361185Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (LOW) 100.50 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-dip-to-100-50-in-december-2026"
  },
  "0x186421523dc702fa1dcead4114da407ecc9a0e61bf0d9cf629af945bf59d0a6b": {
   "created_at": "2026-09-28T17:19:50.749152Z",
@@ -433,6 +452,7 @@
   "created_at": "2026-08-11T17:53:32.557982Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-09 House election by 18% or more?",
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
@@ -541,6 +561,7 @@
   "created_at": "2026-02-18T17:37:52.222991Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Roman B\u00fcrki win 2026 MLS Goalkeeper of the Year?",
   "revisions": 1,
   "sha256": "0a8999885f4e29fe71887380f045853842351f75eeeccb3f426d134f3821b161",
@@ -605,10 +626,20 @@
   "created_at": "2026-10-25T04:01:48.19191Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Silver (XAGUSD) hit (LOW) $40 in November?",
   "revisions": 1,
   "sha256": "5652439fc155130d261ef845b9a88778a465008a0e335834acabe2f063b74c2a",
   "slug": "will-xagusd-dip-to-40-in-november-2026"
+ },
+ "0x5b9a112c9fc9246f7a7939499c64cc6f4fb6733e46bfd240bf4e10fb26cd116b": {
+  "created_at": "2026-11-25T05:00:05.106212Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (LOW) $312 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-dip-to-312-in-december-2026"
  },
  "0x5bb282cadf478a587d9605364f81eb110f63b0ad957e20ed540e5d2b267bcf6b": {
   "created_at": "2026-08-10T08:21:50.784016Z",
@@ -683,6 +714,15 @@
   "sha256": "178a95e9d9a96bbad381d3fdbb87f1b462a3e0ec0154532e5aeff958981dc045",
   "slug": "will-anthropic-be-the-2-ai-lab-at-the-end-of-january-2027"
  },
+ "0x6a1861cd942747d401f2a87ec87ab0b2d36180951d252a0c9da5a466fe51ff6b": {
+  "created_at": "2026-11-25T10:55:15.833988Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz reach 4+ by January 31?",
+  "revisions": 1,
+  "sha256": "41f60363a44d9f0e789df4f22e565e502ebb0d6a43c07766dbd1b28e0bf487eb",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-reach-4-by-january-31"
+ },
  "0x6d9494ca3be7a8ecc94067fe19cf3ececad453ad62c21e5f0ac2e95fb9d7bc6b": {
   "created_at": "2026-08-24T16:38:16.10161Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -743,6 +783,7 @@
   "created_at": "2026-09-13T09:45:26.295984Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC O/U 2.5",
   "revisions": 1,
   "sha256": "00cfa6e7edf896006bc5c43d1d7a2a40ff871a7c8c4857a21f615a401912c2c5",
@@ -997,6 +1038,15 @@
   "sha256": "0e4f1b9a77d734e9ba15e0c3a003875a230bfdc0d82166a610b1d66a5c825422",
   "slug": "b200-average-rental-price-in-december-2028-above-6pt00"
  },
+ "0x961051a45a2f954195f79b4ce182bb5f735aff2325f26b2606d0565d4090616b": {
+  "created_at": "2026-11-25T05:00:48.979679Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Netflix, Inc. (NFLX) hit (HIGH) $60 in December?",
+  "revisions": 1,
+  "sha256": "39328c60a168d0a570c8c48615ce2f22a8568ae464f72e2a1d996d3da6c72908",
+  "slug": "will-nflx-reach-60-in-december-2026"
+ },
  "0x96367300cc5c04068c8ddb587dc0267d1fac7d091e5243bd7a93c175d048446b": {
   "created_at": "2026-11-03T17:43:04.647612Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1065,6 +1115,7 @@
   "created_at": "2026-09-20T08:45:14.414486Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "a16e42eaee63d4796242c0228d24628f40639987277b3f7f6e1597584f83cb47",
@@ -1261,6 +1312,15 @@
   "revisions": 1,
   "sha256": "24db1dd753b13416e756e4d99e915440c49da84f292fbf43f01857562b6b0dbe",
   "slug": "will-nyiregyhaza-spartacus-finish-3rd-in-nb-i-hungary-2026-27"
+ },
+ "0xb58728233d43b576f7c4160db9f072fd8a2a6a9b4bde4e4d78b01971f505fe6b": {
+  "created_at": "2026-11-25T05:00:02.178243Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (HIGH) $400 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-reach-400-in-december-2026"
  },
  "0xb70a77faaa4183ff3e08dce2dc86dc5c6033123480f42ed1f3c184df5af38b6b": {
   "created_at": "2026-09-27T20:04:21.660931Z",
@@ -1508,6 +1568,15 @@
   "sha256": "7700111461687c11e0fbd54dad2e4d045c648522538eb76dddf9729bd9685076",
   "slug": "will-hong-kong-have-95mm-or-more-of-precipitation-in-november"
  },
+ "0xdf52084952d06f059cc76fe8fed6ceac005f98a958bdde12264ec21c5a08976b": {
+  "created_at": "2026-11-25T05:02:18.397258Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (LOW) $3,300 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-dip-to-3300-in-december-2026"
+ },
  "0xe0ff2980500fa45f0f76e11d48832e1dd4a635f9c6cf8e1360b4658ca0683a6b": {
   "created_at": "2026-10-13T20:02:11.345622Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1548,6 +1617,7 @@
   "created_at": "2026-09-02T06:01:14.522677Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kryvbas Kryvyi Rih 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "d61ebb751b0c55c38caeff4aeaf87ecd3bf41ddabf843a76d24d1f7e05deea91",
@@ -1709,6 +1779,15 @@
   "revisions": 1,
   "sha256": "afc8395fbd53b0f5e92010ba5091c2dec37f60baf6c0d39f79b5ffbdb51ec9c4",
   "slug": "will-the-cure-olivia-rodrigo-win-best-pop-solo-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0xf9ce811468e1f39a8d289f88df5e8890e896f3cc0ade86c836c2720628d5f56b": {
+  "created_at": "2026-11-25T05:00:43.394046Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (LOW) $144 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-dip-to-144-in-december-2026"
  },
  "0xfbed495c1c2dfe0ea4ef30c3bf4e8c676c590e82dd18ed4f3e6b740fc5668f6b": {
   "created_at": "2026-09-30T20:07:15.502655Z",

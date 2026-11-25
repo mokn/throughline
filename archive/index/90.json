@@ -77,6 +77,7 @@
   "created_at": "2026-08-06T21:36:17.516944Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 AL-05 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "6ee9f81eb41d725f2899140c8b048ab605f87104d2d19ac4d3b7f86fc8524b23",
@@ -360,6 +361,7 @@
   "created_at": "2026-08-11T18:49:09.273054Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-02 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "280d6e3e22e7477a19b15711eadf655f80f799cfa41662733f9c7919c3b16b6e",
@@ -469,6 +471,7 @@
   "created_at": "2026-10-18T23:30:12.812497Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "0ad37367b847044d7fa6ee702e18738c60cb1fdf135eff1dfac45331f472fef0",
@@ -580,6 +583,7 @@
   "created_at": "2026-10-18T09:00:25.833909Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Rangers FC win on 2026-10-31?",
   "revisions": 1,
   "sha256": "40f07e1112dc500af8e80c14d4150285bb168268f2728b0b0fe73b67ab281855",
@@ -709,6 +713,7 @@
   "created_at": "2026-09-20T08:47:17.795134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Leicester City FC (-2.5)",
   "revisions": 1,
   "sha256": "31d4e8c0d09da556a66fabb40ea609280f24e20b0fcf9386c8f6c4755b2ba01d",
@@ -877,6 +882,15 @@
   "revisions": 1,
   "sha256": "5fc18db152a17903e1e6d83a2d0ec6cc13962826320d047b437bc1751c9492eb",
   "slug": "will-liverpool-finish-3rd-in-premier-league-2026-27"
+ },
+ "0x8bbdee0521757e60898a5ee96580e54de84fb71bf5008d69d3e86a4e32ed5690": {
+  "created_at": "2026-07-20T09:03:41.172273Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 0 - 0 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-0-0"
  },
  "0x8c01c9f9e6fa6bce000985bee8d5445fd56d41931a13cc8fdb53d8205df13990": {
   "created_at": "2026-10-01T23:14:41.939864Z",
@@ -1241,6 +1255,15 @@
   "revisions": 1,
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
   "slug": "f1-brazilian-grand-prix-practice-1-fastest-lap-liam-lawson-2026-11-06"
+ },
+ "0xd7230d6dcd6d2bdbcd1503750b638e47b03679f4cab166d63a46d0a067792190": {
+  "created_at": "2026-11-25T05:00:28.243483Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (HIGH) $680 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-reach-680-in-december-2026"
  },
  "0xd728bca1d937500e4620b4efbe8b86fb18b35486d282c51b93eaf560ecc49590": {
   "created_at": "2026-09-27T20:17:19.602822Z",

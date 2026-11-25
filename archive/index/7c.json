@@ -54,6 +54,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-immanuel-quickley"
  },
+ "0x0d0d2258e7cdc65c14e429fd257bcfcdc4f2a7b735146f080703ba59072d6a7c": {
+  "created_at": "2026-11-25T00:02:40.80562Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 35 and 44 on January 8?",
+  "revisions": 1,
+  "sha256": "55b1f3ce73bd2ec1d29a3075c10339bf37432e2eeca6da3352804e301b5580cb",
+  "slug": "will-the-fear-greed-index-be-35-44-on-january-8-2027"
+ },
  "0x0d38da61cd5080c1a360c0db9292531bb6f6c8550f64b388a3e8dc3aa2428a7c": {
   "created_at": "2026-10-10T11:30:08.197052Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -138,6 +147,15 @@
   "revisions": 1,
   "sha256": "675b441cea0473922b91fbd1ba948bf0eabe9499a0545ca958e5d4b47e950af1",
   "slug": "will-manel-kape-become-ufc-champion-in-2026"
+ },
+ "0x1638145c4f2b6dff175f4e3de61aa5a0e3a1f60c28a4bad98d18c7cf36e0d77c": {
+  "created_at": "2026-11-25T05:02:31.013937Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (LOW) $2.60 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-dip-to-2-60-in-december-2026"
  },
  "0x1720a5a5561830cb66802800942c58565ba3ea0d80def44cc558f04c3b23cd7c": {
   "created_at": "2026-11-17T02:43:48.31054Z",
@@ -675,6 +693,15 @@
   "sha256": "49a98279f7c965a53766d094c28c3f7bc416f621c32c834370a5186c788b2076",
   "slug": "will-eagles-dst-be-the-highest-scoring-dst-of-the-2026-27-nfl-season-20260806224132349"
  },
+ "0x5fa4502442a0e0cb04abedb7dbab908460c5138c9e94d012201565703274d27c": {
+  "created_at": "2026-11-24T22:00:24.192673Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will an open-source model be ranked #1 on Arena by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "1f85f32342be219c25c7613bb57ad759d61d2f577bea16cd500931bb9d904db4",
+  "slug": "open-source-model-ranked-1-on-arena-by-december-31-2027"
+ },
  "0x614dd51ad915d825177a2bacd4127d0890a472321ee0cc93d517262b38cd087c": {
   "created_at": "2026-09-01T09:44:57.756108Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -688,6 +715,7 @@
   "created_at": "2026-08-07T20:29:35.240145Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-01 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "8e964e8d7a9bd29afa58aeb78ec3ee6fb31845f18ef48d9e3012997cc6a0c914",
@@ -1036,6 +1064,7 @@
   "created_at": "2026-09-13T09:44:20.090587Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC O/U 5.5 Corners",
   "revisions": 1,
   "sha256": "6e0c0119fb6b3387a8ef85e2d69ebe36c83c088d7998211f03de1827f1d852d0",
@@ -1391,6 +1420,15 @@
   "sha256": "6ed73371451eb368dbd1edb7d0b2d8f65ed4034667bd22fa7d78cb6ce26e270d",
   "slug": "will-the-republican-party-candidate-win-the-2026-wy-al-house-election-by-25-30"
  },
+ "0xc5850c84d9aa1e9ab353af24fa9bcd83bd1c4981f8a7ff3c935d5ca16249a77c": {
+  "created_at": "2026-11-25T13:41:05.056256Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Claude go down 8-10 times in December 2026?",
+  "revisions": 1,
+  "sha256": "eb9ea57f8fd600c7460d433d17124229a536f332e6323e2be175b85e9909c669",
+  "slug": "will-claude-go-down-8-10-times-in-december-2026"
+ },
  "0xc590310ada6770d01b8eecf28cad10d5ea28208a849d84e8ae84ddc27dab547c": {
   "created_at": "2026-08-05T18:38:22.656871Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1531,6 +1569,7 @@
   "created_at": "2026-07-14T02:36:16.021171Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Santos Laguna win the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "b21eb88fedd03240a0fbc442c4ddc943466f764be59ef1d2d7628b62bf1d0790",
@@ -1786,6 +1825,7 @@
   "created_at": "2026-09-20T08:47:21.933775Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC O/U 4.5",
   "revisions": 1,
   "sha256": "c7bc0857900353357762bb43a0d66b0b02c639b3e491d8f78b5aa8d8d32c6069",
@@ -1795,6 +1835,7 @@
   "created_at": "2026-08-07T20:29:56.465983Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-02 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "b698f2a66aacb47f446854d756cb105073cea07b03637234d81e8f0bdce6d6f7",

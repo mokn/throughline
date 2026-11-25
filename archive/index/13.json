@@ -95,10 +95,20 @@
   "created_at": "2026-09-18T09:46:20.05314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC O/U 4.5",
   "revisions": 1,
   "sha256": "edcf2ee776f0570e1d0d352addcf1831990bafc0ba375a62b488d3258591b1cf",
   "slug": "el2-cra-bar-2026-09-26-team-total-home-4pt5"
+ },
+ "0x0d88cb89e9ac96ee811ef5774953012e3eb8423564a8fc3a47e75b38b1ae7613": {
+  "created_at": "2026-11-25T13:41:10.787011Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will GitHub's longest critical incident in December 2026 be between 6 and 12 hours?",
+  "revisions": 1,
+  "sha256": "43114806b6ae3628198917aedd971d392759c5ccb203cb3b080fce42a0ea8f16",
+  "slug": "will-githubs-longest-critical-incident-in-december-2026-be-between-6-and-12-hours"
  },
  "0x0edcad91d9ab17cd8c1f668eb7a39baeca8edeec24cbff29c8a11c5acce55f13": {
   "created_at": "2026-10-13T15:50:07.30583Z",
@@ -474,6 +484,7 @@
   "created_at": "2026-09-18T09:45:20.625505Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "8f432ca7e8bf04268c02ce0ffeb396ed263f0123f55bace5be72761c609f804f",
@@ -1196,6 +1207,7 @@
   "created_at": "2026-08-04T18:30:48.214821Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 North Carolina Senate election by 3%-6%?",
   "revisions": 1,
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
@@ -1653,6 +1665,7 @@
   "created_at": "2026-09-13T09:15:02.901286Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Barnet FC win on 2026-09-26?",
   "revisions": 1,
   "sha256": "b5da9d62385bb13973b1f9104b640983c976027994f906445605b40143bd8050",
@@ -1757,6 +1770,15 @@
   "sha256": "89b27f932bc89033b98545bae6c580b3f4bf58f251f893c0d8eb2ffd346b25d7",
   "slug": "bryce-young-400-passing-yards-game-2026-27"
  },
+ "0xdda2ef65cdbf35c05fbad6e0cb024a9686a0f793579415798081d34973617e13": {
+  "created_at": "2026-11-25T05:00:43.15058Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (LOW) $152 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-dip-to-152-in-december-2026"
+ },
  "0xdde9344cd42a1bfdd2462480d5f8c201bda452fe8b3d432883043ba4b0722013": {
   "created_at": "2026-08-24T16:38:53.23327Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1829,6 +1851,15 @@
   "revisions": 1,
   "sha256": "1a8ef79b34ab52d38152c7b41ce2bc2d3ea63f8cb2b9eebdeb90dcfdbee8d7de",
   "slug": "will-xavier-reach-the-2027-ncaa-mens-basketball-final-four"
+ },
+ "0xe7f6485a9e1e1f7faa7068755bf750046e6b06fcb5b3cb187eb1333636153913": {
+  "created_at": "2026-11-25T02:33:15.742579Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Crusoe or any subsidiary default before 2028?",
+  "revisions": 1,
+  "sha256": "07469f898d7f961f2dc666e28cd359617beb19f4bf7bd6a0f2fcf09889968e5d",
+  "slug": "will-crusoe-or-any-subsidiary-default-before-2028"
  },
  "0xe88050060329c3d571f339eb020d58973f1a9116b7a1b5fb6f028341ddacf213": {
   "created_at": "2026-11-23T18:58:29.930618Z",
@@ -1939,6 +1970,15 @@
   "revisions": 1,
   "sha256": "d3a03e1a5bc14932126a8f8bf75a2938646880b502873daad2223ef46505752f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-mn-03-house-election-by-25-30"
+ },
+ "0xf30fe4600da5e8798a353c5e67bd95820e8df74b3d3df563f3dd0b54c46ee213": {
+  "created_at": "2026-11-25T00:02:55.448831Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 45 and 55 on February 26?",
+  "revisions": 1,
+  "sha256": "ef61cac4cf13afe60777198ad34294d8ef0b0f7fd088a65e218bcd036fc451d8",
+  "slug": "will-the-fear-greed-index-be-45-55-on-february-26-2027"
  },
  "0xf7e605bba74213009ffe601576191016a0ce63febb81b6f23d6e0a68ebb09713": {
   "created_at": "2026-10-02T20:14:25.066815Z",

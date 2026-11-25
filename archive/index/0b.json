@@ -397,6 +397,7 @@
   "created_at": "2026-08-18T14:19:42.424872Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Iowa be between 1,350,000 and 1,400,000?",
   "revisions": 1,
   "sha256": "c8c222344af4dfa899eb3444c02e6795718d1d2cb692f90b0dac1e98387ff2fd",
@@ -624,6 +625,7 @@
   "created_at": "2026-08-11T18:27:40.844803Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NM-03 House election by 35% or more?",
   "revisions": 1,
   "sha256": "17cbd9229f49473236e2e0dc28b834098f8fbdb24c9b499d95c156edd5b89f0b",
@@ -980,6 +982,7 @@
   "created_at": "2026-09-20T08:45:16.135994Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "1669e263f0a119d05586af83af862ac90066f5ab1579b7949127d6c29623ab1e",
@@ -989,6 +992,7 @@
   "created_at": "2026-09-13T08:45:27.567643Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "dc8267e631c9da9a715a406c2fec77b5a55a0b3ff071b0eb48d974563ec357e2",
@@ -1413,6 +1417,7 @@
   "created_at": "2026-09-13T09:44:20.43005Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Team to Take First Corner",
   "revisions": 1,
   "sha256": "2bceacc6d2af4f48edbd54f25f6368e2bf62d8fc123154bb8a4131c92dee607c",
@@ -1436,6 +1441,15 @@
   "revisions": 1,
   "sha256": "7c0c621e3e4d69731c96a524a7937d9458ffe0c6fe7df4bddec62915a0e859f3",
   "slug": "first-round-outright-winner-in-the-la-01-house-election"
+ },
+ "0xc33c06a57836dee36087f0c119ca5e9d447e750fa47543ca3e0498900984d10b": {
+  "created_at": "2026-11-25T13:18:47.034039Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Mark Carney by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-mark-carney-by-december-31-2026"
  },
  "0xc4fa44d43d205f4a811f9b09f660f1da087c0053753d696628a952e85711070b": {
   "created_at": "2026-08-06T15:44:04.046257Z",
@@ -1619,6 +1633,15 @@
   "revisions": 1,
   "sha256": "9e9526e6a4f91b079df86ebe5f3ed056d3ce102d38254b370d28cf0cd1b91f3d",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nh-01-house-election-by-10-15"
+ },
+ "0xd1fae86187e382c339535c262299309aef351439e2d2df8fea907b6e83ad1b0b": {
+  "created_at": "2026-11-25T05:02:29.296533Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (HIGH) $4.00 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-reach-4-00-in-december-2026"
  },
  "0xd2c704b5f3841d453d6d2ede1ff91e67ae893649365456c4c40dab8f586b9e0b": {
   "created_at": "2026-08-04T17:57:14.03601Z",

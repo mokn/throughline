@@ -712,6 +712,7 @@
   "created_at": "2026-09-18T09:46:20.896194Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "ece3fd10cc5185e2d0b1d6f66f987a2826119d2cd4c6ac96f1f25733b7040845",
@@ -725,6 +726,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-sebastian-aho-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0x5623942301ff3bec8988a2eff15ead677145030cf5c6a5bcd1df689b38768d3c": {
+  "created_at": "2026-11-25T05:02:31.490107Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (LOW) $2.20 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-dip-to-2-20-in-december-2026"
  },
  "0x57a3afeee7934e904e1e431232a8be7ff979595cf38807657606d6362adb6e3c": {
   "created_at": "2026-01-05T18:15:03.936445Z",
@@ -1180,6 +1190,7 @@
   "created_at": "2026-08-11T17:53:16.726402Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-06 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "abaae569586364ab6dd011b43b5d7b85e1fc43981f1c9e9e44ee66b3f3d4906e",
@@ -1270,6 +1281,15 @@
   "sha256": "3467870782b867e473a704442d038999648c393bcb082810d76f58c9780e7650",
   "slug": "cdr-ute-sab-2026-10-28-exact-score-2-3"
  },
+ "0x962a05013f59bf65a914b8d9f095911367a5e2b81e3267e1234b5a0d70396d3c": {
+  "created_at": "2026-11-25T05:00:10.762145Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (HIGH) $495 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-reach-495-in-december-2026"
+ },
  "0x969645695c96c4f9092c8855d996b5bc21bc474865bba8ba291cb0a62d2ec13c": {
   "created_at": "2026-10-13T15:49:41.856058Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1305,6 +1325,15 @@
   "revisions": 1,
   "sha256": "272b1e4e307373506d1280d48a3445cc963515adb9f4cfc26b5050f24c67a46e",
   "slug": "el1-wim-ste-2026-10-03-first-half-total-1pt5"
+ },
+ "0x9f5bbaf467193a8d5605c6d4258c4862f787abd61cc79abfdf65ebff565cb93c": {
+  "created_at": "2026-11-25T10:55:30.76318Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz be 3+ on January 31?",
+  "revisions": 1,
+  "sha256": "2c75897f8485a7508befd70cdd6589c767ce21c41fc1bfdb151bd6b812dbf40e",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-be-3-on-january-31"
  },
  "0xa0437a8cbe9bd685a4d3193f8521dffc8b770a6ae5cd9739121b2ec40c7b8f3c": {
   "created_at": "2026-10-13T19:55:50.357811Z",
@@ -1536,6 +1565,7 @@
   "created_at": "2026-09-13T09:45:31.140768Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC O/U 2.5 Corners",
   "revisions": 1,
   "sha256": "8fea86610d1ad4586032e1a5f9caeb5cafdd81b9869cada6ed35f41e7ae58161",
@@ -1600,6 +1630,7 @@
   "created_at": "2026-09-13T08:45:28.980949Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC O/U 5.5 Corners",
   "revisions": 1,
   "sha256": "2e10a96ee385764816497a4c36d7638fe3316a3cae0c12432aa5c82c72abcdc9",
@@ -1636,6 +1667,7 @@
   "created_at": "2026-10-18T23:30:10.263457Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Rangers FC (-5.5)",
   "revisions": 1,
   "sha256": "3bb009228d8b8c01bbd6d2132f2a1b987691c72b29c733abffe9983bdf5a954f",
@@ -1674,6 +1706,7 @@
   "created_at": "2026-09-20T08:47:24.967191Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Both Teams to Score in Second Half",
   "revisions": 1,
   "sha256": "00be42e99f9df15bb22edc35d5aa2999098a03e766c9576d89f274b669e9daf0",
@@ -1693,6 +1726,7 @@
   "created_at": "2026-08-07T20:29:36.256929Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-01 House election by 6% or more?",
   "revisions": 1,
   "sha256": "8e964e8d7a9bd29afa58aeb78ec3ee6fb31845f18ef48d9e3012997cc6a0c914",
@@ -1859,6 +1893,7 @@
   "created_at": "2026-09-20T08:16:15.260662Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 3 - 0 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",

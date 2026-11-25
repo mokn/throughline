@@ -711,6 +711,7 @@
   "created_at": "2026-04-23T13:42:19.723071Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Ciara Miller win Dancing With the Stars: Season 35?",
   "revisions": 1,
   "sha256": "f411786b1fea719b27401919375cf4ea0801def00f009f2f9ae64d4927410348",
@@ -1371,6 +1372,15 @@
   "sha256": "7ff5e74f25e39abd9c1fdcd85dd92ea3e044a1e5103855198620b8c6f429bb7d",
   "slug": "will-holstein-kiel-finish-3rd-in-2-bundesliga-2026-27"
  },
+ "0xd7f43d83ccf8605b423cfcc42e4a591044ee6eb1db16e7500e3017f9fa7a290c": {
+  "created_at": "2026-11-25T05:00:09.143088Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (HIGH) $555 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-reach-555-in-december-2026"
+ },
  "0xdafd520eda8c9cfc3a402b84bba29a0207f816aa760e5ad18cb471aabe5d7e0c": {
   "created_at": "2026-10-13T19:55:44.855963Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1564,6 +1574,15 @@
   "revisions": 1,
   "sha256": "6125876ce8ffab0fe9a64b1df8c4a3abad6a93c00deb0d47da84a073cdeb9bbc",
   "slug": "will-jon-jones-fight-for-another-promotion-by-december-31-2026"
+ },
+ "0xf8c04774010be3c59db39a100afbcc619eb5d9ec71d94147a708becf3e25090c": {
+  "created_at": "2026-07-20T09:03:40.678751Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv to win the second half?",
+  "revisions": 1,
+  "sha256": "3d69e2df415d516b5a01eb50872b5a055dc641baf370ff772d63ae8a9231f946",
+  "slug": "ukr1-dyn-liv-2026-08-02-second-half-result-home"
  },
  "0xfa020be984377876c0b4c2f94ea828f4804fc14195894675f1fa754dc129cf0c": {
   "created_at": "2026-10-01T14:00:51.592672Z",

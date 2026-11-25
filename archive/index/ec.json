@@ -464,10 +464,20 @@
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
   "slug": "will-the-michigan-2026-senate-race-be-within-1"
  },
+ "0x4fe096b48846b1fd8082b61a88824a06db3462d99d4278dc0116624fe1ecd0ec": {
+  "created_at": "2026-11-24T19:25:50.033677Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Ancient be the most played map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "c2266c7e117c3ca742fde840b8ff3e8e81a7937af863e53b6a88edf7d1cc855a",
+  "slug": "will-ancient-be-the-most-played-map-at-pgl-major-singapore-2026"
+ },
  "0x521f1d93a3e4c8661e6d0ffaacaae4ecc70635430a95cd37fcd6ce071b7178ec": {
   "created_at": "2026-08-07T20:29:18.659317Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-02 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "90b899b3b3bb531a6c99490ff6b3abe35c161029d5eda4068dd6b190e9e95cb3",
@@ -1111,6 +1121,15 @@
   "sha256": "923e029f4b5231c6ed6540cafbdc712ecf21730320671b67c1814907fbfc088c",
   "slug": "will-unai-simon-athletic-club-record-the-most-clean-sheets-in-the-2026-27-la-liga-season"
  },
+ "0xb3adb5663ebceb2a96f88b5bac4c31cd54c917b0af908f94d58c3e590cb279ec": {
+  "created_at": "2026-11-25T00:02:24.546956Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 25 and 34 on December 24?",
+  "revisions": 1,
+  "sha256": "4a478036e103677cc355d5d2d741f08e8b200243110482bcc61856cc003b9ce8",
+  "slug": "will-the-fear-greed-index-be-25-34-on-december-24-2026"
+ },
  "0xb4f3e2a5569ece202e5fc4f7dc935b6ff8d280341144e9cc191197d1bb7e97ec": {
   "created_at": "2026-11-06T22:34:25.510364Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1336,6 +1355,7 @@
   "created_at": "2026-08-11T17:53:54.969636Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-12 House election by 0%-25%?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -1546,6 +1566,7 @@
   "created_at": "2026-09-18T09:46:18.511445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Barnet FC (-4.5)",
   "revisions": 1,
   "sha256": "459c30548ba00570c8fb5e33b328cc931e3079f6f1da8f06ffa8e28499debe8b",

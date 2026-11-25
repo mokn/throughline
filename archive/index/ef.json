@@ -12,6 +12,7 @@
   "created_at": "2026-09-01T09:00:14.624048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 3 - 2 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -57,6 +58,7 @@
   "created_at": "2026-09-13T08:46:38.767382Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "b9c4213fa423150d1588cb12ba6701ff0cc354b2cdee7b3832104b6bc37be68e",
@@ -474,6 +476,15 @@
   "sha256": "33739024c74c5827c4bdd45b81eb7be05220ddf5459b8693417485289f565a4b",
   "slug": "will-malta-be-the-jury-winner-in-the-eurovision-2027-grand-final"
  },
+ "0x4e4762624c3a77f2a75ceb16507580f576bb7d74df03667558b7bf95798e58ef": {
+  "created_at": "2026-11-25T05:01:59.09272Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (LOW) $710 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-dip-to-710-in-december-2026"
+ },
  "0x4feedb39de15bb25dc4839328befb4abf21471776be759e7a6d090a65cfbb2ef": {
   "created_at": "2026-01-28T15:40:05.878665Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -497,6 +508,7 @@
   "created_at": "2026-10-18T23:30:11.220147Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: O/U 4.5",
   "revisions": 1,
   "sha256": "a94cd39f6c7f189d30b3b75c40412c9e45cf634cddb7e3889c91e2c6f4cfa5f4",
@@ -757,6 +769,15 @@
   "sha256": "7cc39590c9ad444046fb09169722e8c2631e2b078458f29acc2745fd570753b0",
   "slug": "gtm-mun-aur-2026-11-07-team-total-away-0pt5"
  },
+ "0x760c135ca49e3fc4af07a30a4f24ea1c81182faf1ec3587947c3c90ba7ebe9ef": {
+  "created_at": "2026-11-25T05:02:18.631003Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (LOW) $3,200 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-dip-to-3200-in-december-2026"
+ },
  "0x76a52e3e29b60d053ba2188a47802e8fdb59e549d054865fed9019f3601282ef": {
   "created_at": "2026-08-31T18:14:53.98524Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -881,6 +902,7 @@
   "created_at": "2026-08-11T17:53:12.038831Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-05 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "d47c070996fae6764cb7c92539bcfab712f59efe342104e94f3524155ae476e1",
@@ -900,6 +922,7 @@
   "created_at": "2026-10-18T09:00:29.807898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 5 - 3 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -1159,6 +1182,7 @@
   "created_at": "2026-09-08T16:05:54.743103Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Real Betis finish last in UCL league phase?",
   "revisions": 1,
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",
@@ -1485,6 +1509,15 @@
   "revisions": 1,
   "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
   "slug": "will-spencer-pratt-be-the-next-white-house-press-secretary-2027"
+ },
+ "0xdc17aa912b9fa843331a944673f6ef7d7dd53887eeb7a67d5d49da367638c1ef": {
+  "created_at": "2026-11-25T14:08:16.01841Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-microsoft-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
  },
  "0xdd6df6bc49de64cf38b2059cea20d00b86ef0c01b4c146e8930471d20f599cef": {
   "created_at": "2026-02-09T00:15:06.89084Z",

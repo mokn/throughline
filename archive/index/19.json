@@ -129,6 +129,15 @@
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-jake-guentzel-record-80-points-in-the-2026-27-regular-season"
  },
+ "0x0d804fadf3a268a2a59dcb82fa956055ca615e125e134f1eeaaa19ccc8f58019": {
+  "created_at": "2026-11-25T05:02:24.942379Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (LOW) $34 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-dip-to-34-in-december-2026"
+ },
  "0x0d96dd3a1b6572c267c190c62437bb255ef1f6a0113d13bd54a3531d7d979819": {
   "created_at": "2026-08-18T14:06:27.759653Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -568,6 +577,7 @@
   "created_at": "2026-09-13T08:16:13.298619Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bradford City AFC 1 - 1 Barnsley FC?",
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
@@ -1147,6 +1157,7 @@
   "created_at": "2026-10-18T09:00:28.162278Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 0 - 4 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",

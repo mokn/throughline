@@ -1,0 +1,13 @@
+This market will resolve to the number of calendar days during the specified month (ET) on which OpenAI's ChatGPT experiences any incident classified as 'Partial/Full Outage'.
+
+ChatGPT will be considered to have experienced a qualifying incident on a given day if the OpenAI Status Page for ChatGPT (status.openai.com) displays that day’s status box as a shade of red indicating Partial/Full Outage once all qualifying day’s status boxes are finalized. (green indicates "No incidents", yellow indicates "Degraded performance").
+
+Only incidents listing ChatGPT under 'Affected components' will be considered. Incidents labeled as affecting 'APIs,' 'Codex,' 'FedRamp,' or 'Ads Platform,' but not ChatGPT, will have no bearing on the resolution of this market.
+
+A day will be considered finalized once the following day’s status box is added on the Status Page.
+
+This market will remain open until all qualifying day’s status boxes are finalized. Revisions that change an incident’s impact classification to or from 'Partial/Full Outage' will be considered if the revision is published within this market’s timeframe.
+
+This market will resolve once all relevant days are finalized, provided no incident that began during the specified timeframe is ongoing. In case of an ongoing incident the market will remain open until the incident is marked as “Resolved” and all relevant data has been released. If the incident in question is not resolved or all relevant data has not been released by the end of the seventh day after the specified timeframe, this market will resolve based on the data available at that time.
+
+The primary resolution source for this market will be official system status information published by OpenAI on status.openai.com; however, a consensus of credible reporting may also be used.

@@ -468,6 +468,7 @@
   "created_at": "2026-09-09T15:47:44.250795Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Chile host the 2028 Copa America?",
   "revisions": 1,
   "sha256": "b9b86989d5922243c18a1ff9291f492a8f20b346c2a7274b4c5a083a6a0ecf39",
@@ -482,6 +483,15 @@
   "revisions": 1,
   "sha256": "83263075c131c6c47163e871cef6f0778e5e703560cc98c663d6fa72af9923f4",
   "slug": "will-the-republican-party-win-the-ca-04-house-seat"
+ },
+ "0x4c40801fb6e8d9711cad0f5ce114bdaf6648393ec595b293062e18ba652a033d": {
+  "created_at": "2026-11-25T05:00:55.443952Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $150 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-dip-to-150-in-december-2026"
  },
  "0x4dd6ae7ad5284525f17a160e2332a4187a3c6eed36e0d8c75ac0f0d76b27963d": {
   "created_at": "2026-08-11T18:50:08.833102Z",
@@ -506,6 +516,7 @@
   "created_at": "2026-11-23T16:32:42.282779Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will DENDELE qualify to Stage 3 at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
@@ -773,6 +784,7 @@
   "created_at": "2026-09-20T08:45:12.536441Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC O/U 0.5",
   "revisions": 1,
   "sha256": "6853118e7b0c0801859ce7c747e7578b394934612d46a67f00d61f00f4044c27",
@@ -1136,6 +1148,15 @@
   "revisions": 1,
   "sha256": "9d85614e87c410a74ac0ecb74e8869b6330715bef38577e49d664325c71b3d37",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-idaho-be-between-680000-and-720000"
+ },
+ "0xab2600faa2068cbc047326432662a0c7857ab5893088dde955cc54dc563f033d": {
+  "created_at": "2026-11-25T05:19:59.645428Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Military action against Crimean Bridge by December 31?",
+  "revisions": 1,
+  "sha256": "bca90efd064e1957bc97ae5b579b38aaa5bf53556decd4ee4a974f9469a04531",
+  "slug": "military-action-against-crimean-bridge-by-december-31"
  },
  "0xac7765bb414038b770f3ac550d318ec092d194a7a549aa337f720dca8998f73d": {
   "created_at": "2026-08-10T14:53:34.816403Z",
@@ -1535,6 +1556,7 @@
   "created_at": "2026-07-29T20:34:26.220476Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Brian Rodr\u00edguez (Club Am\u00e9rica) record the most assists in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "4235c4099ada5b88817c6090161c86b4cc1f514c177f7e3c148ca09bf9e4f0a3",
@@ -1557,6 +1579,15 @@
   "revisions": 1,
   "sha256": "9da907c543be6453bcbfddfdea1e2f5aa7bdeea128e6ee441a1a79b4b895a89c",
   "slug": "el1-don-oxf-2026-09-26-first-half-team-total-home-3pt5"
+ },
+ "0xe2329c1168ce4fa0f9b80e3ce1cd3db1278d69ad980ec8007877537a75dcd73d": {
+  "created_at": "2026-11-25T05:02:12.618606Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (LOW) 102.00 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-dip-to-102-in-december-2026"
  },
  "0xe582f17621e087da9aa9a0de8fcd9749e06160927142f2513ff9dce45575953d": {
   "created_at": "2026-09-20T08:45:49.138936Z",

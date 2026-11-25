@@ -67,6 +67,7 @@
   "created_at": "2026-09-13T08:46:36.624791Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC O/U 1.5",
   "revisions": 1,
   "sha256": "f3348a30e1773533e6a7118cf87b754d2eed6ecece5db24bf4ec8f4313bca053",
@@ -126,6 +127,15 @@
   "sha256": "8851925d939ca4e743dfbd3ab360f445307a81257e6f394d59ff4a24f2cef82e",
   "slug": "will-sao-paulo-be-relegated-from-brazil-serie-a-2026"
  },
+ "0x0aa8638f8907e1b9a0e8a5f4df667d16fb758bd628ce99b0b8ae6548deed6774": {
+  "created_at": "2026-11-25T05:00:16.104591Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $304 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-reach-304-in-december-2026"
+ },
  "0x0b36aacd995275ced94ac29895fe9c985d175eda1c888ed97d329fd5dc429e74": {
   "created_at": "2026-10-13T19:31:54.519004Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -148,6 +158,7 @@
   "created_at": "2026-09-01T09:00:14.118197Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 2 - 0 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -402,6 +413,15 @@
   "sha256": "b2cbc0e07614a1b5b25c30b63c5971154ecf4bac150efd5d982fb1ab9030cbde",
   "slug": "nba-playoffs-2027-finals-exact-matchup-76ers-vs-lakers"
  },
+ "0x4233eb2954508245825d0bc4bea2ad352a5da3e7375e39153f2fe317bd844e74": {
+  "created_at": "2026-11-25T05:00:36.382903Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tesla, Inc. (TSLA) hit (HIGH) $405 in December?",
+  "revisions": 1,
+  "sha256": "6ce1712027598d432cef08acea8ae93a1123d96e6955d7ecd603a17c5e93877a",
+  "slug": "will-tsla-reach-405-in-december-2026"
+ },
  "0x44fd0bbfff9600a36cda588914f3186a62389ef43624c1d464e6abc809a3de74": {
   "created_at": "2026-08-10T23:56:52.106966Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -461,6 +481,7 @@
   "created_at": "2026-09-13T08:45:27.149337Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "b6cac0375efbf58d13992c45b982c778b578a8efa655f44cf4fd87ac3df76f02",
@@ -581,6 +602,15 @@
   "sha256": "351172ee5b18d02e7a34cf747aa4848f1f99b7722984840ba59ed970bebd1899",
   "slug": "will-robin-fraser-win-2026-mls-coach-of-the-year"
  },
+ "0x5d649d8d4bf11a1bcce62198dc8557f88efadb7d9d7082e1afff2c7e1419e474": {
+  "created_at": "2026-11-25T14:07:43.752333Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will DeepSeek have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-deepseek-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
+ },
  "0x5ef79aea64149d905d4c666af142c0463c7421ae26a9c9130f558419a4507274": {
   "created_at": "2026-09-20T08:45:23.85843Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -669,6 +699,7 @@
   "created_at": "2026-09-13T09:16:13.172763Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC to score first vs. Northampton Town FC?",
   "revisions": 1,
   "sha256": "298b9d1c3050e34b60a7c43e10053b0c2967ab6d9309f47e550e7768a124342e",
@@ -808,6 +839,7 @@
   "created_at": "2026-08-11T17:53:47.494864Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-11 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "8084705a0cb67f1d16096007b40285d108439e387a695c4dd67ead5b44a04e25",
@@ -817,6 +849,7 @@
   "created_at": "2026-11-23T16:32:09.435791Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Ninjas in Pyjamas qualify to Stage 2 at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
@@ -1025,6 +1058,15 @@
   "revisions": 1,
   "sha256": "873dd76e47499c3cc04b433721eb98ed6280d8b98aaaf21c1bc665cf8625830a",
   "slug": "will-the-us-economy-be-in-stagflation-at-the-end-of-2026"
+ },
+ "0x9b5fa22ab900f26edfb265dbe4a4a90940619b732a9f7dea4fe499d50248bb74": {
+  "created_at": "2026-11-25T05:01:12.566462Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (LOW) $172 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-dip-to-172-in-december-2026"
  },
  "0x9bf22c2451daab2017ba08fc2f2fcc96a37e3f8c7c091d14fa7d719d2d8f6a74": {
   "created_at": "2026-02-25T17:02:35.151287Z",
@@ -1414,6 +1456,7 @@
   "created_at": "2026-08-18T14:19:42.93911Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Iowa be between 1,550,000 and 1,600,000?",
   "revisions": 1,
   "sha256": "c8c222344af4dfa899eb3444c02e6795718d1d2cb692f90b0dac1e98387ff2fd",
@@ -1627,6 +1670,15 @@
   "revisions": 1,
   "sha256": "cec6b26dce5ae6d054db9ae6ae9932ec0c4a9007e94217f09523054571074bd2",
   "slug": "will-vissel-kobe-keep-the-most-clean-sheets-in-japan-j-league-2026-27"
+ },
+ "0xf37dbd83ff0d9e619de2ac28f719d413c82bfc8c6f946b5b4c3cb49f6b055b74": {
+  "created_at": "2026-11-25T05:00:59.769109Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $4.00 in December?",
+  "revisions": 1,
+  "sha256": "8debd5f6e4f25d1f7bd96b6d5ad426da017abb9b14e6325a586ff8565c65e290",
+  "slug": "will-open-reach-4-00-in-december-2026"
  },
  "0xf3f7664c820c770aa0b256e285c0f57ef5172ffe05b86c226620b930fb50b374": {
   "created_at": "2026-10-13T15:48:35.274349Z",

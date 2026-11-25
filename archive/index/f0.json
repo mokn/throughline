@@ -210,10 +210,20 @@
   "sha256": "f507b1d484afd0194e4d2e0f4761f2ef3cfb6975df4aebe3193bbc33a7844793",
   "slug": "will-tom-wilson-record-100-points"
  },
+ "0x1f0b36ec5c06348f1a7df53afcd2ec1c145d9db9409a5aff3fe18a5298807ef0": {
+  "created_at": "2026-11-25T05:20:25.67774Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Ali al-Zaidi cease to be Prime Minister of Iraq by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "499f65c8fb2b1dd64ef4f1f3a12148cac9847cccfeef9f4dc4f8bcbf66e13628",
+  "slug": "will-ali-al-zaidi-cease-to-be-prime-minister-of-iraq-by-december-31-2026"
+ },
  "0x25562f3fdd8b9a84c706a3c1fe963d84fc62662a9fea6784d770e16ae6d6e5f0": {
   "created_at": "2026-09-08T16:05:50.856131Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Arsenal finish last in UCL league phase?",
   "revisions": 1,
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",
@@ -259,6 +269,7 @@
   "created_at": "2026-09-13T08:45:21.399863Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: O/U 4.5",
   "revisions": 1,
   "sha256": "261a2f47023039da0d622b4a20e5f52aade87874651a91bb4940f3da201d30bf",
@@ -466,6 +477,7 @@
   "created_at": "2026-08-04T18:04:00.969178Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho Senate election by 25%-30%?",
   "revisions": 1,
   "sha256": "a160b85d166d502d1fe30f03f16c63b5bc092c43623335ae128cd268fa485d5a",
@@ -513,6 +525,7 @@
   "created_at": "2026-08-18T14:22:54.923198Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Rhode Island be between 400,000 and 450,000?",
   "revisions": 1,
   "sha256": "4d40aa21f65099410b6216a448af243a4b0747010f944d9396b541c270950dd0",
@@ -531,6 +544,7 @@
   "created_at": "2026-09-13T09:16:11.493794Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 0 - 1 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -813,6 +827,15 @@
   "sha256": "51ea09b524b3d4fe827041de5f2d16efdcfccb0c0036b65f8769a618f4502e21",
   "slug": "will-taylor-fritz-win-the-2027-australian-open"
  },
+ "0x6ae144c17597baf26119ead4373b43b623a67a0b3cbef8a5e3a82bef2469a6f0": {
+  "created_at": "2026-11-25T05:00:03.220498Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (HIGH) $368 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-reach-368-in-december-2026"
+ },
  "0x6cb12443f9d72a27c7437f52cfe02900630017e13ff49d9e617e39556f9bb6f0": {
   "created_at": "2026-11-03T17:43:39.473894Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -950,6 +973,15 @@
   "revisions": 1,
   "sha256": "68a083d6dfc2f7b25c50cc489cef3eb89c23e48f0675bf4741b6a93c8a2ae8ee",
   "slug": "cma-2026-mvoty-luke-combs"
+ },
+ "0x89cb91b5256976491c83dec9c7400edd44efa6d5fb9b12f49c7aeb89e03c14f0": {
+  "created_at": "2026-11-25T14:08:11.772658Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Z.ai be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-zptai-be-the-best-ai-lab-at-the-end-of-january-2027"
  },
  "0x8a682286e32e2f83435d6308d90f4c982e1e10e2cf73b17735ba6fb535122bf0": {
   "created_at": "2026-08-07T20:17:36.876174Z",
@@ -1727,6 +1759,7 @@
   "created_at": "2026-09-13T08:16:13.248749Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bradford City AFC 0 - 2 Barnsley FC?",
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",

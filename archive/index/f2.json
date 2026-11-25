@@ -67,6 +67,7 @@
   "created_at": "2026-11-23T22:23:28.657092Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Ninjas in Pyjamas go 3-1 in Stage 1 of the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "85feade74e3e90721eada183e9a2680f4127811cbf6ee2e78d14a35143d7ad44",
@@ -112,6 +113,7 @@
   "created_at": "2026-09-01T09:00:13.471689Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kharkiv to win the second half?",
   "revisions": 1,
   "sha256": "541c34a4d152b07804e76be63b1ae8716c662d0e6e4e6742f6a0002cb81336c5",
@@ -539,6 +541,15 @@
   "sha256": "8d3ea8f511de283f0d6c475cb1748357d7aba438150093bc7b34f667e2c642b2",
   "slug": "el2-wal-cra-2026-10-03-corners-second-half-total-3pt5"
  },
+ "0x51e23e79c8299d28225ff27ae60127f6f542e252fbdf8b1c17eed3e7edd2faf2": {
+  "created_at": "2026-11-25T05:00:32.403485Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (LOW) $460 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-dip-to-460-in-december-2026"
+ },
  "0x52d82e5200b711859ef4ce6f144701b6249f526cfb51ad1f1a42d7437e5292f2": {
   "created_at": "2026-07-20T20:02:39.790564Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -597,6 +608,7 @@
   "created_at": "2026-08-07T20:29:55.419375Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-02 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "b698f2a66aacb47f446854d756cb105073cea07b03637234d81e8f0bdce6d6f7",
@@ -1271,6 +1283,7 @@
   "created_at": "2026-09-18T08:46:18.064313Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC O/U 5.5",
   "revisions": 1,
   "sha256": "76f1c2a38451c8b774a0a46aaaba1bec32297adaae2e5e8ea355c6fb662537bb",
@@ -1479,6 +1492,15 @@
   "sha256": "5db3c1c80d35e51749fd14762d9783e72cc6fb4bdb4a6520c4d9c626a796ff1f",
   "slug": "will-josh-shapiro-be-the-first-listed-democrat-to-announce-a-run-for-president-in-2028-20260709150125609"
  },
+ "0xd315ad749cc2d894e82b7d7221e974c9bbde475dd89a094c0df0a1b7c32404f2": {
+  "created_at": "2026-07-20T09:03:58.664243Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 3 - 3 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-3-3"
+ },
  "0xd38cde28a9332c59715ab2c0b97172c0aa3a450a9d5826ca467ece3677a080f2": {
   "created_at": "2026-09-27T20:12:40.652558Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1505,6 +1527,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-macklin-celebrini-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0xd876837e330b53eb5d598d5961b20f242e85511e84ddb31391605452949836f2": {
+  "created_at": "2026-11-25T05:01:41.090944Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (HIGH) $80 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-reach-80-in-december-2026"
  },
  "0xd9225e0d2c6938bda7725f16261e0d01befda58cd1b921f7cf7d43be085d52f2": {
   "created_at": "2026-08-24T16:33:18.838353Z",
@@ -1580,6 +1611,24 @@
   "revisions": 1,
   "sha256": "77bd0a675f20374dc35dd7868ab04464973da2686a186e739bab518ac4b79b81",
   "slug": "houthis-capture-taiz-city-by-november-30"
+ },
+ "0xe660639aa69a1a296350ecf3bd48fd4bc478d3d4c7bf1e44427d53de3ab425f2": {
+  "created_at": "2026-11-24T21:00:17.038794Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Central Bank of Chile increase the monetary policy rate by 50+ bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "babaab7bbc04475be6d5223cbdfe1b9226ca5cba79e2ca5d6f32e7135aaea77e",
+  "slug": "will-the-central-bank-of-chile-increase-the-monetary-policy-rate-by-50-bps-at-the-april-2027-meeting"
+ },
+ "0xe83155eecc66a72c7cbe2f8a25b38765f5f772dc4c410d444d91cf1c727ab7f2": {
+  "created_at": "2026-11-25T05:01:42.798119Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (LOW) $10 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-dip-to-10-in-december-2026"
  },
  "0xe8b5858052a0489cd31d4d873701561206084d0bf484b7fa48a8bed21f265bf2": {
   "created_at": "2026-10-11T11:46:11.797714Z",

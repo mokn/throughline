@@ -60,6 +60,7 @@
   "created_at": "2026-09-18T08:45:18.172014Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "491470b2570020eaa8c253f40bb1688aba05a2b9f69c2fad1ac8df398fc26b7c",
@@ -517,6 +518,15 @@
   "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
   "slug": "will-lionel-messi-attend-super-bowl-lxi"
  },
+ "0x56bae4d6b3d06ca50d8aba51853a89553364d2d6a174c13e9af65b2ce5559a3e": {
+  "created_at": "2026-11-25T14:07:10.278811Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Moonshot have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-moonshot-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
+ },
  "0x59130a178e803ede482d9ad17125cde6b17579233e24bbc7ad813dae47717f3e": {
   "created_at": "2026-11-10T02:45:19.779037Z",
   "first_seen": "2026-11-10T14:52:55Z",
@@ -722,6 +732,7 @@
   "created_at": "2026-09-01T09:00:01.123011Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will FK Kryvbas Kryvyi Rih win on 2026-09-12?",
   "revisions": 1,
   "sha256": "a86b20e2a043cd1a568a5f8910e11946cb4a7b2ce2523bbd00e6409ae8122588",
@@ -773,6 +784,15 @@
   "revisions": 1,
   "sha256": "c2afcb486b3a07c36b1a2c4502fb902a2d707648acbdfe24dda85ac4d18e9f99",
   "slug": "will-liverpool-finish-in-the-top-4-of-the-2026-27-english-premier-league-season"
+ },
+ "0x83ad0b62c0c1cc66487a8ff127ec52b553614b3c07ca943ffc175d0a7ebaeb3e": {
+  "created_at": "2026-07-22T19:55:43.814804Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: 1st Half O/U 4.5 Total Corners",
+  "revisions": 1,
+  "sha256": "38f61c963f42751f530829f064cab20e8d1c34fe28163caf8c0cdec49131730e",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-first-half-total-4pt5"
  },
  "0x85360317ad2767a32b412485f6311ed5dbfc131d9ed2295c90ff88fe1712333e": {
   "created_at": "2026-08-05T16:32:43.618611Z",
@@ -880,6 +900,7 @@
   "created_at": "2026-09-18T09:45:16.309631Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Port Vale FC (-3.5)",
   "revisions": 1,
   "sha256": "1fb182212ce0d404a30c551a7c1858c2202ff59b6dbc32607c6b530fdbcc6f76",
@@ -1067,6 +1088,15 @@
   "sha256": "dba1403a0bd57bde5dff8c052fedec288baa9849f932dd8c07465bba93e17c71",
   "slug": "h100-average-rental-price-in-january-2027-above-2pt80"
  },
+ "0xb211a299384d6a99159d10f2a8c571d17a1cae5dbeb756b1fa5cc625aaa3743e": {
+  "created_at": "2026-11-25T05:01:47.002093Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (HIGH) $120 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-reach-120-in-december-2026"
+ },
  "0xb3a02ffd1b28e3d0dcd5dc031e93ec95fd58965abb72ca59b1d4e0a565e99f3e": {
   "created_at": "2026-09-18T00:04:51.064132Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1145,6 +1175,7 @@
   "created_at": "2026-08-18T14:23:17.071673Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from North Carolina be between 4,500,000 and 4,700,000?",
   "revisions": 1,
   "sha256": "e52c2a554891faeaecba5a763932e6ab0fc42457d8c62ba72afbfee1c9868cda",
@@ -1418,6 +1449,15 @@
   "revisions": 1,
   "sha256": "7a63d105cc49757e66e1daf87155be2e7e215f3b02d8156919aaedb85b4cb9d4",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-20-house-election-by-25-30"
+ },
+ "0xe2f7245e31487327a868de5259d3f07bcb0bfdbd3140a10891e78841459c6f3e": {
+  "created_at": "2026-11-25T05:01:47.967054Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (LOW) $96 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-dip-to-96-in-december-2026"
  },
  "0xe6b0d7c70bd5ca41c84cb8b60f7c2f552e7a5ee6ead434aa4ef377cfaf5fe33e": {
   "created_at": "2026-08-26T21:46:17.295811Z",

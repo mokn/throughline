@@ -8,6 +8,15 @@
   "sha256": "af1ad4423a165a9a325165a12456144cabd3ba2694c0044e8ed22bbdbb418c19",
   "slug": "will-kingg-play-for-team-envy-in-2027"
  },
+ "0x0079b62209c9b8f3c394fea475924d061711609b806ba1cdd1befcb5686f712d": {
+  "created_at": "2026-11-25T05:01:33.77971Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (HIGH) $840 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-reach-840-in-december-2026"
+ },
  "0x02195193b0c9dfb42fd9e34127375acca73e2fd495f6fb60d04d898057b9fb2d": {
   "created_at": "2026-09-20T08:16:00.296589Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -166,6 +175,7 @@
   "created_at": "2026-09-20T08:16:12.395061Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 0 - 0 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",
@@ -333,6 +343,7 @@
   "created_at": "2026-09-20T08:15:26.691321Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Leicester City FC leading at halftime?",
   "revisions": 1,
   "sha256": "cc186411d7b6be2945a2c0369d7ab2256df93dea79339fd754cca38ccccd4ee2",
@@ -443,6 +454,7 @@
   "created_at": "2026-09-18T08:46:15.537836Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Sheffield Wednesday FC (-3.5)",
   "revisions": 1,
   "sha256": "3a87632ef95dc073f29e6803ee7f6aedb931653b090b0f94c38aea659aa8d793",
@@ -740,6 +752,7 @@
   "created_at": "2026-09-13T08:46:34.056538Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Sheffield Wednesday FC (-2.5)",
   "revisions": 1,
   "sha256": "2aadbb23e5f64fa08e7651dfb8dd2a68d9181e97ae657dea8faa604bac783466",
@@ -1086,6 +1099,15 @@
   "sha256": "f36e3d8a3021ec59613a202e435c002d2ceefd0ce4bd15d9e817d9f2f88c001a",
   "slug": "will-vitoria-de-guimaraes-be-relegated-from-primeira-liga-2026-27"
  },
+ "0xaa18fab1994ec00a57f0e036d0d665b1baa0f377d53a827a7ed194addd3d9f2d": {
+  "created_at": "2026-11-25T05:00:56.41968Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $126 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-dip-to-126-in-december-2026"
+ },
  "0xaa9dcf412d29d88cb70b9dce5cd5f49d7c25a37eba8608f983eb8109a460792d": {
   "created_at": "2026-10-13T15:49:51.400337Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1310,6 +1332,7 @@
   "created_at": "2026-09-18T08:45:18.692901Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "d2cef9f92719f76a50e181b9e770142021777cd5c7a58c8da6ab0d2ff4a7e862",
@@ -1499,6 +1522,15 @@
   "revisions": 1,
   "sha256": "8074626db691e8338de5b14a9e38aa0b6672b4cc8f297a007e8f3054bcb76b62",
   "slug": "will-san-jose-sharks-advance-to-the-second-round-of-the-2027-stanley-cup-playoffs"
+ },
+ "0xe41e8129b157bc104b3b527e91af89bd0612e74f830268cbd6f262fa20132a2d": {
+  "created_at": "2026-11-25T14:07:27.565965Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Z.ai have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-zptai-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
  },
  "0xe48a15327214f7835fb0eedc478e54322655e770593764e15f83ac191ab64d2d": {
   "created_at": "2026-08-06T09:26:40.887925Z",

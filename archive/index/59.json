@@ -239,6 +239,7 @@
   "created_at": "2026-09-02T06:01:10.989528Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: Both Teams to Score",
   "revisions": 1,
   "sha256": "9537adb5040a07cf2b2706bb9b416df89f78cbec0335668444efccf39ae32e16",
@@ -953,6 +954,7 @@
   "created_at": "2026-08-07T20:30:38.452233Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-04 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "3fc8f46216c8044f7d1f899aa3a912475e872c7fef56b3d4de99e00bd46e54dd",
@@ -1187,6 +1189,15 @@
   "sha256": "3e1ddc03cdfd3bce01dc8bf3ca6c099d7407cdfc8e0d73431f1cd3b650a3265a",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nj-07-house-election-by-9-12"
  },
+ "0xa8a5f62fea40bfd680cf1ab0381b34654c4891959134b777a1b8894185fd6459": {
+  "created_at": "2026-11-25T05:01:06.477424Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (LOW) $40 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-dip-to-40-in-december-2026"
+ },
  "0xa9921a86df6f3edaa832934d292db7ce21ac19017c4c446e4fd71e360327a859": {
   "created_at": "2026-08-10T23:38:15.267699Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1246,6 +1257,7 @@
   "created_at": "2026-09-20T08:44:16.278289Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "d088ab6afa2814106e22585f25a923ffb288c9539657ba47188c7c330c445ab4",
@@ -1341,6 +1353,15 @@
   "revisions": 1,
   "sha256": "69f954d85dccc4e67dbba87917dfd6eb2bc015297a1bef1288b82e80eb9b1063",
   "slug": "will-parempoolsed-win-the-most-seats-in-the-2027-estonian-parliamentary-election"
+ },
+ "0xbbe96ea0ff8ee7913e9e07af353f1868805994765b86bee132fb4fcacb736659": {
+  "created_at": "2026-11-25T13:08:02.047535Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be 2 US aircraft carriers in CENTCOM on December 31, 2026?",
+  "revisions": 1,
+  "sha256": "edc0698ee4ffdb93fa6992031c0eafec7f98ee0bf11928f113612158bb4ba96e",
+  "slug": "will-there-be-2-us-aircraft-carriers-in-centcom-on-december-31-2026"
  },
  "0xbd0ad64956dc61049cbb2d7ae7e895d21dc3317dce72e98e2d4325ff21d65359": {
   "created_at": "2026-09-09T22:09:35.744928Z",
@@ -1631,6 +1652,7 @@
   "created_at": "2026-08-05T18:43:07.891412Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho gubernatorial election by 30%-35%?",
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",

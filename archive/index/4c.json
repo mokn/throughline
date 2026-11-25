@@ -130,6 +130,7 @@
   "created_at": "2026-09-20T08:45:15.475825Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 2nd Half O/U 4.5",
   "revisions": 1,
   "sha256": "cbeff306e7669c6e4ca477dcbb5d38330d400a70c9ca39f9e594b52a84464a85",
@@ -198,6 +199,15 @@
   "sha256": "011302ed41ff1b9ee904a447a8a4f176648d3d8ba9745583885786d767d6c497",
   "slug": "will-pan-win-the-most-seats-in-the-2027-guanajuato-congress-election"
  },
+ "0x15c9217d1e0ffb15abb71438690691fada63acd17a03c9f0b23e6711ee72bd4c": {
+  "created_at": "2026-11-25T05:02:17.935045Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (LOW) $3,400 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-dip-to-3400-in-december-2026"
+ },
  "0x16523cc3d97b5ee623a1c434457be5ce37a83db57eae4fe4c7a54e5398ab394c": {
   "created_at": "2026-08-21T17:34:19.740997Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -221,6 +231,7 @@
   "created_at": "2026-10-18T23:30:12.010985Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Both Teams to Score",
   "revisions": 1,
   "sha256": "4ba47b289ab3ab61f1f7895fa3814f555f25108bdbc5e46a34a81472ad46c195",
@@ -470,6 +481,7 @@
   "created_at": "2026-09-01T09:00:14.178122Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 0 - 3 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -1086,6 +1098,7 @@
   "created_at": "2026-08-05T20:17:46.894035Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico gubernatorial election by 20%-25%?",
   "revisions": 1,
   "sha256": "ad9e2f9c895e6025fc9a4bd8490ad8162fad0a8a87aa285452fd446df566b329",
@@ -1196,6 +1209,7 @@
   "created_at": "2026-09-13T08:45:27.981346Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC O/U 5.5 Corners",
   "revisions": 1,
   "sha256": "fa6b1dbe6e14be9828187b9d4abad0c1e599a67ae25ebd54aed7749fae42a2e5",
@@ -1239,6 +1253,15 @@
   "revisions": 1,
   "sha256": "0a353ba440d3bd30b0e3f3643f1fd8c9833f9f17214ac83095980ea53895a051",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-virginia-be-4000000-or-more"
+ },
+ "0xb1d653274b7c05b83da222f8e1d0fa1a9f6def0b9d6a686cc21c2c222447b44c": {
+  "created_at": "2026-11-25T10:55:30.395078Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz reach 20+ by January 31?",
+  "revisions": 1,
+  "sha256": "41f60363a44d9f0e789df4f22e565e502ebb0d6a43c07766dbd1b28e0bf487eb",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-reach-20-by-january-31"
  },
  "0xb3ab7ede90a14bb34e6427e04eb590b84e85d0d5a64519b2f5303b7a2120174c": {
   "created_at": "2026-11-18T21:31:13.992621Z",
@@ -1718,10 +1741,20 @@
   "sha256": "b44627f87ba022d88732a1cbec5c901a8135b590eb388d66d6abfc376466117e",
   "slug": "probable-fdv-above-400m-one-day-after-launch"
  },
+ "0xf763e996193b3a0ed74b486617a802c9e85641a0000401b001b40d64527abe4c": {
+  "created_at": "2026-11-25T05:01:40.846524Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (HIGH) $90 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-reach-90-in-december-2026"
+ },
  "0xf956e1d0fd15a07d836638dddc559a8ff0f11bced99103f4be646c1f9777884c": {
   "created_at": "2026-08-07T20:30:40.553399Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-04 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "3fc8f46216c8044f7d1f899aa3a912475e872c7fef56b3d4de99e00bd46e54dd",

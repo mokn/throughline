@@ -30,6 +30,7 @@
   "created_at": "2026-09-13T09:44:19.925557Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "5c1ae9362f371402c6116793330f7ab2549ca397a990ac216f1e0b83a6ae6393",
@@ -186,6 +187,7 @@
   "created_at": "2026-04-23T13:42:22.136527Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Julia Stiles win Dancing With the Stars: Season 35?",
   "revisions": 1,
   "sha256": "f411786b1fea719b27401919375cf4ea0801def00f009f2f9ae64d4927410348",
@@ -273,6 +275,15 @@
   "sha256": "e3c0525e6a596b67781c3d65d909b4b347d909e71d07080d0563ffcfaf3581f3",
   "slug": "will-la-bola-negra-win-best-picture-at-the-32nd-critics-choice-awards"
  },
+ "0x2b8015c4361c88d7045d130c5fb2bd29edd64cd3fdd0eb06a5337a2a37d8971a": {
+  "created_at": "2026-11-24T19:26:29.863613Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Ancient be the most banned map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a1bf336b53694a4fdd93709799cec042c3935e2b368de088961b2892500248de",
+  "slug": "will-ancient-be-the-most-banned-map-at-pgl-major-singapore-2026"
+ },
  "0x2cb0c0f66ce14db625c9851247e1c3ce70366a8c15418e66bb4170b2f4d6e01a": {
   "created_at": "2026-09-30T14:02:12.340532Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -331,6 +342,7 @@
   "created_at": "2026-10-18T23:30:09.121334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Aberdeen FC (-1.5)",
   "revisions": 1,
   "sha256": "3179f981868d7a14faa0981b063f2f069f46512d257cc7e138f544ed367357a3",
@@ -399,6 +411,15 @@
   "revisions": 1,
   "sha256": "8a729154bd9719fcc828ed31ea6129546f0cc48674c779530d6ca6c0a584302b",
   "slug": "2027-soccer-efbet-liga-bulgaria-runner-up-dunav-ruse"
+ },
+ "0x44cda8d9589fb1f0b272e3309669de6aa0f16c8c6aea9162fcc63d048cf3bf1a": {
+  "created_at": "2026-11-25T10:56:54.588864Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will at least 5 ships transit the Strait of Hormuz on any day by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "0e0c89a09b1c17d730ab44bf005436d2676c341cdf660e9d6a239daa8e30a6aa",
+  "slug": "will-at-least-5-ships-transit-the-strait-of-hormuz-on-any-day-by-december-31-2026"
  },
  "0x4595144ad6fc87f8d78f27ee546ec47b5fa367e4f9e3869671e8464077cdb71a": {
   "created_at": "2026-10-05T03:29:20.936358Z",
@@ -516,6 +537,7 @@
   "created_at": "2026-09-20T08:44:10.453683Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: O/U 12.5 Total Corners",
   "revisions": 1,
   "sha256": "74c7fb4838eb3630963e0e9083b15f00f6c7e7936070b26ebf67e482ee8cdf09",
@@ -772,6 +794,7 @@
   "created_at": "2026-10-18T09:00:27.944251Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 1 - 2 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -795,6 +818,15 @@
   "revisions": 1,
   "sha256": "a819203e4f9eceed3d50a12467077fa52bdeed4afb14de03fffc660f783b12a9",
   "slug": "will-the-republican-party-candidate-win-the-2026-michigan-gubernatorial-election-by-0-3"
+ },
+ "0x7dc0582e813f6764b2a411324706bb3d953abd7b46bb7a152c3181e03c704e1a": {
+  "created_at": "2026-11-25T05:00:29.246007Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (HIGH) $600 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-reach-600-in-december-2026"
  },
  "0x7e5ae068dc12356ef9b5ad2ceccb065c878174b88d7af96383d249a7860f841a": {
   "created_at": "2026-08-11T18:33:37.789688Z",
@@ -1448,6 +1480,7 @@
   "created_at": "2026-09-20T08:45:15.895223Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC O/U 2.5 Corners",
   "revisions": 1,
   "sha256": "6d7f10b869bed57bf71cda810fe98a57abac759df61d825b53f8ee43e6317e84",

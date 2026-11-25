@@ -112,6 +112,7 @@
   "created_at": "2026-09-13T09:15:39.489874Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Crawley Town FC 2 - 0 Barnet FC?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
@@ -256,6 +257,7 @@
   "created_at": "2026-09-20T08:45:14.216455Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 13.5 Total Corners",
   "revisions": 1,
   "sha256": "429ffa30069b825e32a18a1fc898587b5902e2129c23030ffc642121b6994838",
@@ -316,6 +318,15 @@
   "sha256": "acc5a97e36836232513b0655223e67ce5fe6bcceabb03a5528ade46b113bd600",
   "slug": "will-lens-record-the-most-clean-sheets-in-the-ucl-league-phase"
  },
+ "0x360e2d1e59598ae0a109b0a839b03abe3a9c80d6c7a31205953f064aeacdc09a": {
+  "created_at": "2026-11-25T13:18:39.997465Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Mohammed bin Salman by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-mohammed-bin-salman-by-december-31-2026"
+ },
  "0x3629065fd5adc3f00dc0ee3d34dff5b9da56c0415a789e87a7cd2f85c00cdb9a": {
   "created_at": "2026-09-14T20:34:13.040739Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -324,6 +335,15 @@
   "revisions": 1,
   "sha256": "76828c0738dbd288f4cf8879e16943dbcb7fe4794cb690ed6920a1caf38d8168",
   "slug": "will-meghan-dizon-reach-the-final-of-the-2027-ppa-tour-finals"
+ },
+ "0x36615edb589c440c203fa922577bc0164ad1ba6337b22fa7ec38284a43a13c9a": {
+  "created_at": "2026-11-25T05:00:12.047399Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (LOW) $420 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-dip-to-420-in-december-2026"
  },
  "0x36c8f956116bc91e03d2b0d1fedd6f85f0483fb6262f9aa0cf8ce2a43a2d7e9a": {
   "created_at": "2026-09-08T16:55:42.463296Z",
@@ -575,6 +595,7 @@
   "created_at": "2026-08-11T17:52:18.815104Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-02 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "c74891c0560b6b33e0897fa1bc94c87687057ccad9e89000abf19c4a850eb83e",
@@ -906,6 +927,7 @@
   "created_at": "2026-08-07T20:29:19.120813Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-02 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "90b899b3b3bb531a6c99490ff6b3abe35c161029d5eda4068dd6b190e9e95cb3",
@@ -915,6 +937,7 @@
   "created_at": "2026-09-13T08:45:25.915321Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Barnsley FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "8c5ea925a09628bfa696950e99a7beba09520d7bfef6b885037abaeac07404a6",
@@ -1069,6 +1092,7 @@
   "created_at": "2026-09-13T09:16:10.933834Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Second half draw?",
   "revisions": 1,
   "sha256": "c28b2b55585bf759d713106fb43825e190c2ec9838bf432de9d5d36565cd7c2b",
@@ -1331,6 +1355,7 @@
   "created_at": "2026-09-13T08:15:35.675342Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Neither team to score first?",
   "revisions": 1,
   "sha256": "fed8b54969f0183e24f9fd8840f2362ec1ce4a30f14925e39ec3e5a91e354572",
@@ -1482,6 +1507,15 @@
   "sha256": "26e2ef2a794ef6f58802bda5c01b0f21528ddc950e341877c11bcb4224859f04",
   "slug": "will-danubio-keep-the-most-clean-sheets-in-uruguayan-primera-division-2026"
  },
+ "0xd3d430772b57d60fa68848f8a278c32f98b40d368de20bd58ea159dba839d69a": {
+  "created_at": "2026-11-25T05:00:04.841607Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (LOW) $320 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-dip-to-320-in-december-2026"
+ },
  "0xd6697f2db701f3defe42f936a96eb0dfa2d1ad459c60183bc22e4882fc88a69a": {
   "created_at": "2026-08-24T16:38:32.095396Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1606,6 +1640,7 @@
   "created_at": "2026-09-18T08:46:17.075214Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "88d79c94f6d7de2ec41b1db982208fc9d9729c80909d3647047bb2af91c787b3",
@@ -1698,6 +1733,7 @@
   "created_at": "2026-08-04T18:04:01.641377Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho Senate election by 15%-20%?",
   "revisions": 1,
   "sha256": "a160b85d166d502d1fe30f03f16c63b5bc092c43623335ae128cd268fa485d5a",
@@ -1740,6 +1776,15 @@
   "revisions": 1,
   "sha256": "25b2cfd47ad1f00c7c72db1622fa628d8b2e7b6479fe0b68efb07caf71dbbbb9",
   "slug": "will-xielo-be-the-pgl-major-singapore-2026-mvp"
+ },
+ "0xf82c92026b3c35fba8a784df66c1099ce4a01715e51e4ffb838976ab583c7b9a": {
+  "created_at": "2026-11-25T05:01:58.096302Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (HIGH) $750 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-reach-750-in-december-2026"
  },
  "0xf9a9cfa51bb09b07cd205c1f7339478368fc9efefb7f334fdd1bcb15078b879a": {
   "created_at": "2026-11-23T16:12:50.588757Z",

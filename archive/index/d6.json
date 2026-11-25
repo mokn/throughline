@@ -313,6 +313,7 @@
   "created_at": "2026-08-18T14:23:16.926407Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from North Carolina be between 4,300,000 and 4,500,000?",
   "revisions": 1,
   "sha256": "e52c2a554891faeaecba5a763932e6ab0fc42457d8c62ba72afbfee1c9868cda",
@@ -522,6 +523,15 @@
   "sha256": "ff751e58354066dd4bbdcb1cb0514d55dbe859720f4b34b830d47417b430b514",
   "slug": "will-nordsjaelland-finish-second-in-uecl-league-phase"
  },
+ "0x4dd7f3c444d4b9e41088bd9963e070a29bbcb437397e49ae2c684331356e43d6": {
+  "created_at": "2026-11-25T05:02:19.137114Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (LOW) $3,000 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-dip-to-3000-in-december-2026"
+ },
  "0x4e53d90b756b3820270df8c51acb5ddd48ce090c3c7fa05e162c9d897b8688d6": {
   "created_at": "2026-07-01T00:04:05.831596Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -535,6 +545,7 @@
   "created_at": "2026-11-20T15:16:59.910643Z",
   "first_seen": "2026-11-20T15:27:46Z",
   "last_changed": "2026-11-20T15:27:46Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Anthropic close below its IPO price by March 31, 2027?",
   "revisions": 1,
   "sha256": "a3ec078bf989e8fadf940d5cf998e51dae838cb6a589ddeecb08a9f823e371bb",
@@ -874,6 +885,7 @@
   "created_at": "2026-09-18T08:46:17.742403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC O/U 3.5",
   "revisions": 1,
   "sha256": "b1b069396a850e9d80480058d24ba59f3b84be0840fbead51fbf3a0a0a5405d4",
@@ -955,6 +967,7 @@
   "created_at": "2026-09-20T08:47:22.390795Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC O/U 1.5",
   "revisions": 1,
   "sha256": "196568ad30f3efef83093f150f137a21162aa3b86b46373966f396199b644822",
@@ -1057,6 +1070,7 @@
   "created_at": "2026-09-20T08:45:08.246518Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Bromley FC (-3.5)",
   "revisions": 1,
   "sha256": "a2a3ac8fdc502b94bc6a6919a9e560f88b4d047d03f0efadcae2ce0e307dec2b",
@@ -1180,6 +1194,15 @@
   "revisions": 1,
   "sha256": "06d83229be254e8e029555c368635177bdf523ea114b67aa207203af70d234b2",
   "slug": "cdr-red-bar-2026-10-28-red"
+ },
+ "0xb2c62017242208266d38bc1953aa7c62e690a18fd7952cf66917c393092e43d6": {
+  "created_at": "2026-11-25T05:01:51.530506Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceX (SPCX) hit (HIGH) $155 in December?",
+  "revisions": 1,
+  "sha256": "980971399bdb4ff3e8996bfac1dd7c04cba7f6b22deb08cd4a5aa4523dcba66a",
+  "slug": "will-spcx-reach-155-in-december-2026"
  },
  "0xb5ea8663d94aa8be290f18faafc8edbd9ff3615d1497458c78d9561df4717dd6": {
   "created_at": "2025-12-29T19:08:26.23257Z",

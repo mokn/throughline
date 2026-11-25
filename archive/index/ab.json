@@ -22,6 +22,7 @@
   "created_at": "2026-10-18T23:30:14.928789Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Aberdeen FC O/U 5.5",
   "revisions": 1,
   "sha256": "84e1e47c491cb4b4041c68da96dbdd30765d9fbb3041266b468ee29491aaa050",
@@ -35,6 +36,15 @@
   "revisions": 1,
   "sha256": "b4c8ecc68602a43aeeaab058adf531f84dca2596a2984613dcef598fd9370187",
   "slug": "will-the-republican-party-candidate-win-the-2026-co-06-house-election"
+ },
+ "0x0c977bc8546cdc733fd4bf331a605acee81aba00f20c79f026c448c40b03a9ab": {
+  "created_at": "2026-11-25T05:00:12.286147Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (LOW) $405 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-dip-to-405-in-december-2026"
  },
  "0x0ceaed6b1960ca3f28f787abebd6fe806845e06847db7156a7a0fd8d481370ab": {
   "created_at": "2026-10-13T15:56:05.89634Z",
@@ -221,6 +231,7 @@
   "created_at": "2026-09-20T08:45:15.160725Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "b6ef975edb48908cc972970ca29aa2a3ef734dc55a4b21154c241f7026fce4a9",
@@ -572,6 +583,7 @@
   "created_at": "2026-09-13T09:15:40.822403Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Neither team to score first?",
   "revisions": 1,
   "sha256": "172e71e207ae2f9afce3b6a254ea456f0f26b295f0d238696acf6207ebf3092c",
@@ -585,6 +597,15 @@
   "revisions": 1,
   "sha256": "bf8dd8cebe7e3c8751583632ae79e4ea65866e6edf5ec986fd1347c00606ef6b",
   "slug": "will-anthony-ippolito-i-play-rocky-win-best-actor-musical-or-comedy-at-the-84th-golden-globes"
+ },
+ "0x55a2168a260216d668a58fccf389eaa42a382c7befe05ff5e07c542075550dab": {
+  "created_at": "2026-11-25T05:01:33.19442Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (HIGH) $960 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-reach-960-in-december-2026"
  },
  "0x565f5cc56bab5517e2542991e9145f0da391ed7c21e7da135ce2618caf3794ab": {
   "created_at": "2026-07-27T15:02:12.35535Z",
@@ -819,6 +840,7 @@
   "created_at": "2026-09-20T08:16:17.246702Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 3 - 3 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",
@@ -865,6 +887,7 @@
   "created_at": "2026-10-18T23:30:15.419163Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Rangers FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "6ef6bf0d173f9847bba4f62c81138af33dee9efa81933ee3e353b6c69fc38966",
@@ -898,6 +921,15 @@
   "sha256": "bcb1384b6ef0eba629e787c6dd51182d69defac3c7b4a57ef350dae91b1f5823",
   "slug": "rashid-shaheed-99pt5-receiving-yards-2026-27"
  },
+ "0x86e29954934f3f522a2f0073a162d73f68372d927a93af714551e7e582e8eeab": {
+  "created_at": "2026-11-25T14:08:08.815578Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Google be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-google-be-the-best-ai-lab-at-the-end-of-january-2027"
+ },
  "0x8770cb0c2b337e01e2ce4a8d2eb9721199944093ed01d147a1bbe390564d68ab": {
   "created_at": "2026-10-01T14:00:55.933802Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -929,6 +961,7 @@
   "created_at": "2026-09-20T08:45:13.272143Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 7.5 Total Corners",
   "revisions": 1,
   "sha256": "d7563666f402054dff58cfe62fb55f7c48eab30e529cc2cf8316bda1ffa4f235",
@@ -1042,6 +1075,15 @@
   "revisions": 1,
   "sha256": "6dc17fda355894cdc6bac436ec8273beac375d77209a4e4ebf3f3701372e976d",
   "slug": "2027-soccer-bundesliga-runner-up-bayer-leverkusen"
+ },
+ "0x9c2cc320af3a1d080af9c2022eeb336e25b466c4c3f40fcd2ac7d5cbadae5cab": {
+  "created_at": "2026-11-25T05:01:05.176963Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $60 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-reach-60-in-december-2026"
  },
  "0x9c83da4cf87e00bd7d8ae525636ca5d00d4df1294bdcea9062d4c58ca90418ab": {
   "created_at": "2026-09-02T21:57:52.722644Z",
@@ -1368,6 +1410,7 @@
   "created_at": "2026-09-13T08:15:35.618057Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Sheffield Wednesday FC to score first vs. Stevenage FC?",
   "revisions": 1,
   "sha256": "fed8b54969f0183e24f9fd8840f2362ec1ce4a30f14925e39ec3e5a91e354572",

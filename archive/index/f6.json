@@ -349,6 +349,7 @@
   "created_at": "2026-08-11T17:53:53.608398Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-12 House election by 55%-60%?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -724,6 +725,7 @@
   "created_at": "2026-08-05T20:56:49.085159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 35% or more?",
   "revisions": 1,
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",
@@ -815,6 +817,7 @@
   "created_at": "2026-09-01T09:00:13.417427Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: Second half draw?",
   "revisions": 1,
   "sha256": "541c34a4d152b07804e76be63b1ae8716c662d0e6e4e6742f6a0002cb81336c5",
@@ -1041,6 +1044,15 @@
   "sha256": "d4fe05dce050b9310e4992d13fe77e9a28a6e4b0eac60228e86cfd7a1ed49a81",
   "slug": "will-plasma-reach-1pt60-by-december-31-2026"
  },
+ "0x9f893b1cfd96c7c48a65429d34cf8c9c401ca4e9da5894c5dbfb6dc72128eff6": {
+  "created_at": "2026-11-25T05:00:42.13397Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (HIGH) $184 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-reach-184-in-december-2026"
+ },
  "0xa2803f53115a3da955018e053c51c7138cb2d1fb2a3473102573cdd10a3ffff6": {
   "created_at": "2026-07-14T14:15:08.033497Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1239,6 +1251,7 @@
   "created_at": "2026-09-13T09:45:26.049378Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC O/U 1.5",
   "revisions": 1,
   "sha256": "6790889bc59b8195b3896e84c4c6cd48c8dc65488c6b760107f25df1789b5592",
@@ -1266,6 +1279,7 @@
   "created_at": "2026-10-18T23:30:10.419876Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Aberdeen FC (-5.5)",
   "revisions": 1,
   "sha256": "68178190da80e62a440ab458f51b1c95120c49ea32c68d7da98e62d2fbc64b25",
@@ -1443,6 +1457,7 @@
   "created_at": "2026-09-01T09:00:14.406839Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 1 - 3 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -1731,6 +1746,15 @@
   "revisions": 1,
   "sha256": "f43ad9bea1af9a790b77c6acaf3c01f2315f5ccdf3cc3c80a97d2735b01c0a3b",
   "slug": "will-taylor-swift-appear-at-the-2027-big-game-halftime-show"
+ },
+ "0xf7694509201ad1b22e363fd875f30767ca82d22f1b3bb36cd96bfcaa62236bf6": {
+  "created_at": "2026-11-25T05:01:05.706679Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $52 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-reach-52-in-december-2026"
  },
  "0xf9c00c203fd142ea419ed736c1bb3dc2092b2b72677d479251994d5e8b433ef6": {
   "created_at": "2026-10-13T15:56:14.356764Z",

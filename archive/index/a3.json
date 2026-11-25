@@ -769,6 +769,15 @@
   "sha256": "da9b44d2c90d7d265bf9bd5d9788d95a504e289f4f0d0386b8b231a9ca7a863c",
   "slug": "will-ian-strong-be-the-2026-d1-receiving-yards-leader-20260803213023219"
  },
+ "0x7de4fd73808d8327e3628402ff3e3880c2cdfc5081ce99f6519d72216c6562a3": {
+  "created_at": "2026-11-25T00:02:25.321404Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 35 and 44 on December 24?",
+  "revisions": 1,
+  "sha256": "4a478036e103677cc355d5d2d741f08e8b200243110482bcc61856cc003b9ce8",
+  "slug": "will-the-fear-greed-index-be-35-44-on-december-24-2026"
+ },
  "0x7f4b0fbef4dd858c234060843d9a255cc14313220717d4d22c785344dabdf1a3": {
   "created_at": "2026-08-18T14:53:23.592236Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -782,6 +791,7 @@
   "created_at": "2026-09-20T08:47:23.930146Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "eeb6d4e7933f15f9224a17c13eba36306d8e82e843112df0c8eaf8178f2c1e2b",
@@ -1008,6 +1018,15 @@
   "revisions": 1,
   "sha256": "c77fbcf5d46d7f34833f29567aa8bbd6487d4002bc23a0cbb9e3f55f86b5f153",
   "slug": "will-juan-schiaretti-win-the-2027-argentina-presidential-election"
+ },
+ "0xa21a143aa1492ec0c1782b4374ea83dcb12d89d8dbd3d7513475cf2882b87da3": {
+  "created_at": "2026-11-25T05:00:23.428586Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $280 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-reach-280-in-december-2026"
  },
  "0xa365519e2faba5d15fed1b4a5c9f2dc872aafad3b2a31707bfed64cca4621ca3": {
   "created_at": "2026-10-12T20:53:17.556899Z",
@@ -1652,6 +1671,7 @@
   "created_at": "2026-09-13T09:46:36.774971Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "c49584c59a17c65b939a0aaf92b1283ea1bf30b83d60b2c184b5eded82d32cf1",

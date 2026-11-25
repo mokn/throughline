@@ -173,6 +173,15 @@
   "sha256": "9762e425598deb8843640757888682027db4e77a0b1f2feecfa7aee051b1f342",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-34-house-election-by-12-or-more"
  },
+ "0x1377841c736489935458bb9e72ebfc61f21de2ee7b84f00efb1a2612bed0870a": {
+  "created_at": "2026-11-25T05:01:42.352873Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (LOW) $30 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-dip-to-30-in-december-2026"
+ },
  "0x14ae7de3ccafbc4e9bc52b63b791e342df1c41ed882806a98f45393474d0900a": {
   "created_at": "2026-06-24T16:07:05.665028Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -282,6 +291,15 @@
   "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
   "slug": "will-teruaki-satos-next-team-be-san-francisco-giants"
  },
+ "0x1eebc2882216cf8c5d0859a7ee502cb9f6ea576599201ac193fad1636a27ac0a": {
+  "created_at": "2026-11-25T05:00:25.049211Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (LOW) $220 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-dip-to-220-in-december-2026"
+ },
  "0x205bc75ca035634d71abd9231aa393926b2361f04f1a78c7480e0096ee1c920a": {
   "created_at": "2026-07-31T23:05:54.475291Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -359,6 +377,7 @@
   "created_at": "2026-08-07T20:29:57.226357Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-02 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "b698f2a66aacb47f446854d756cb105073cea07b03637234d81e8f0bdce6d6f7",
@@ -494,6 +513,7 @@
   "created_at": "2026-09-20T08:45:14.866214Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "d569ce624a11256eaff3fd0e0355608851693d05aea02e688dac05beb2f8b0f0",
@@ -997,6 +1017,7 @@
   "created_at": "2026-11-23T16:32:45.649707Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will GOSH (BC.Game) qualify to Stage 3 at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
@@ -1228,6 +1249,7 @@
   "created_at": "2026-08-06T21:34:49.449406Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 AL-03 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "2369326350f4a2675b964f4fff2ac4b22ca057b880266050ad5350905ed94d2e",
@@ -1614,6 +1636,7 @@
   "created_at": "2026-08-11T17:52:18.127432Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-02 House election by 50%-55%?",
   "revisions": 1,
   "sha256": "c74891c0560b6b33e0897fa1bc94c87687057ccad9e89000abf19c4a850eb83e",

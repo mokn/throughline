@@ -332,6 +332,15 @@
   "sha256": "53255e8921d76fe9338ff6a332d74d960a6f67b496d68d61942b23cf0312a823",
   "slug": "travis-kelce-2pt5-receiving-touchdowns-2026-27"
  },
+ "0x341dc7025dfc955c59f27c919216cf35f718b7cd255f9d6a7bc44c47cacea7ee": {
+  "created_at": "2026-11-25T05:01:18.761061Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (HIGH) $110 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-reach-110-in-december-2026"
+ },
  "0x348e67280ef52edd02429ed351ce4bc6cc7023331a8f5d9e8c35bdd1ad3b13ee": {
   "created_at": "2026-10-27T23:16:22.966922Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -455,6 +464,7 @@
   "created_at": "2026-09-13T08:46:37.955964Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "f3a8da1757da1e8afaeb40bcb6a9f5028553d32f49946ad5167bba3f3bd2f13a",
@@ -555,6 +565,7 @@
   "created_at": "2026-10-13T15:56:07.898825Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Houston Rockets reach the 2026 NBA Cup Championship game?",
   "revisions": 1,
   "sha256": "f6458c6f42de583a1efdb7f4b70a7a58a41cfbb1299bb6d55c592f734a26d25a",
@@ -568,6 +579,15 @@
   "revisions": 1,
   "sha256": "682b9f7115073cce8307a39a3cf6bbcd48759051b5a181d1151f60486e2b6894",
   "slug": "iihf-world-championship-2027-champion-czechia"
+ },
+ "0x56abc10ef01bd711df0c470bf7a735dd3ad522ab97e6ca5e7507921c2c3a85ee": {
+  "created_at": "2026-11-25T14:07:58.915321Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-meta-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
  },
  "0x5743feeacb568b289134f5557347fb2804fc335b55edc8412a3063672477b2ee": {
   "created_at": "2026-10-20T23:04:14.127103Z",
@@ -716,6 +736,15 @@
   "sha256": "87d76d5556f45d38363f4e7eedc9d7e2207170390a66ab86c0b373251a1159fa",
   "slug": "will-alfonso-ramirez-cuellar-win-the-2027-zacatecas-governor-election-20260803173858837"
  },
+ "0x6ddc8183e5438f0ced516f18efc3b72b679019f0edea2256e0054fc3e73efcee": {
+  "created_at": "2026-11-25T05:00:47.707919Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Netflix, Inc. (NFLX) hit (HIGH) $85 in December?",
+  "revisions": 1,
+  "sha256": "39328c60a168d0a570c8c48615ce2f22a8568ae464f72e2a1d996d3da6c72908",
+  "slug": "will-nflx-reach-85-in-december-2026"
+ },
  "0x6e172124618704902e5df141387d3a406528fa6fa05d8bbf44d4c62d04490cee": {
   "created_at": "2026-09-02T21:51:30.381401Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -779,6 +808,15 @@
   "revisions": 1,
   "sha256": "079bcd7c829e5697e61beb8bec1b4a0133388aa236cb18a4be5e78d521e151f2",
   "slug": "will-grasshopper-club-zurich-keep-the-most-clean-sheets-in-swiss-super-league-2026-27"
+ },
+ "0x7a601348119e6930bdf712349660eb91379d96bbba7036124b76cffdc06e6bee": {
+  "created_at": "2026-11-25T05:02:31.727315Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (LOW) $2.00 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-dip-to-2-00-in-december-2026"
  },
  "0x7c237af73467b5cc95fdac6a6793d6178b7b4fedd91e61e58160475612a7f0ee": {
   "created_at": "2026-09-08T19:56:39.925809Z",
@@ -885,6 +923,7 @@
   "created_at": "2026-08-11T17:53:54.540693Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-12 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -1123,6 +1162,7 @@
   "created_at": "2026-09-20T08:47:21.358553Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC O/U 1.5",
   "revisions": 1,
   "sha256": "e3cf93fa92c7703d00f56ad7c0ba684e81f2608b18c8bbeda130c0798b7a002b",
@@ -1325,6 +1365,7 @@
   "created_at": "2026-08-18T14:23:26.354812Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from New Mexico be between 750,000 and 800,000?",
   "revisions": 1,
   "sha256": "ed0af71c6556006f2e4c8d0ff52b473b7d2fb11135acdfa14b927fb54b88c3a4",
@@ -1633,6 +1674,15 @@
   "revisions": 1,
   "sha256": "96a3a2b0b9fb2738418a2c34a0137c6d9a30b2bd849a4966eeb546006438b5d3",
   "slug": "2027-soccer-egypt-premier-league-runner-up-el-gaish"
+ },
+ "0xf15df8d5f2781f07d31a33c458a3e04711943d4d6b3ba02af415336074239cee": {
+  "created_at": "2026-11-25T14:08:11.549354Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Thinking Machines be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-thinking-machines-be-the-best-ai-lab-on-january-15-2027"
  },
  "0xf28e052b3d121050647ea4c81c53032087735564e28a5ab0ebf5d768f40e0aee": {
   "created_at": "2026-11-07T04:04:27.72886Z",

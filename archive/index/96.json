@@ -27,6 +27,15 @@
   "sha256": "1a3c17e41f542689bdab987dd31b24b8e10bab9fa3874f687fd1f9179094f025",
   "slug": "will-ronn-perez-win-the-bachelorette-season-22"
  },
+ "0x11e3e7243a969e570c9b383f4e13b6e276c4a7e5e8408dc6ba60c8c437a84c96": {
+  "created_at": "2026-11-25T13:18:37.630897Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Kim Jong Un by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-kim-jong-un-by-december-31-2026"
+ },
  "0x1284b3bca7deb33912bfb7d4617031e5b449f3e580e234255a1416d799999996": {
   "created_at": "2026-11-13T00:28:32.192154Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -95,6 +104,7 @@
   "created_at": "2026-09-18T09:45:18.59905Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Port Vale FC O/U 5.5",
   "revisions": 1,
   "sha256": "72c0b17628ec21c1753d7387660cc7b639c7cd04ab511fd52333bba0c9b3372e",
@@ -544,6 +554,15 @@
   "sha256": "81bfc9c54ba54ca62b54f623b7d1bdfbdaf73fe5b1e5bf12250cbd71326d2010",
   "slug": "will-chelsea-record-68-or-more-points-during-the-2026-27-english-premier-league-season"
  },
+ "0x5cab6e1781f7012a7f837c843d1ba76b886c9b3df739d26ba22d5b30df21d696": {
+  "created_at": "2026-07-21T06:00:11.198343Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Dynamo Kyiv O/U 2.5",
+  "revisions": 1,
+  "sha256": "4f3cf5c5fc9d4bd7e7974289ff49ee96664a78caa63f13c94906cf6b7a2347f5",
+  "slug": "ukr1-dyn-liv-2026-08-02-team-total-home-2pt5"
+ },
  "0x5e032f731c8ccb521feca989c66768f2e9a2e6261f722030f90e3ac5e01b1796": {
   "created_at": "2026-06-26T16:01:17.825668Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -665,6 +684,15 @@
   "sha256": "3b4479dc8a1518f839d0968520e25371dc9dbb1accb32cf1a39c9c2cc808921b",
   "slug": "will-melania-trump-visit-ukraine-by-december-31-2026"
  },
+ "0x6e9aad7f609f102084b9044b9d9f4e7674fa692d690b3e0b3616d46c83f8c896": {
+  "created_at": "2026-11-25T05:01:08.025614Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (LOW) $20 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-dip-to-20-in-december-2026"
+ },
  "0x6f85174413a9f50c8509e94e09f59241267a9cbbf4c3a249e62804ba320c9d96": {
   "created_at": "2026-09-01T18:14:50.267928Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -715,6 +743,7 @@
   "created_at": "2026-10-18T09:00:29.067106Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 2 - 4 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -989,6 +1018,7 @@
   "created_at": "2026-07-29T20:34:25.588293Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Ramiro \u00c1rciga (Tijuana) record the most assists in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "4235c4099ada5b88817c6090161c86b4cc1f514c177f7e3c148ca09bf9e4f0a3",
@@ -1026,6 +1056,7 @@
   "created_at": "2026-09-18T09:45:18.424334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Port Vale FC O/U 4.5",
   "revisions": 1,
   "sha256": "24dc488da495ed51295baaa51c64f9212f89cfbeb0a4636082e9772560fa9edb",
@@ -1048,6 +1079,15 @@
   "revisions": 1,
   "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
   "slug": "elon-musk-of-tweets-december-2026-20-39"
+ },
+ "0xb3823f13e488f26145495136168dded9224e0c1a2c375b3c3121137c06569896": {
+  "created_at": "2026-11-25T05:02:24.679561Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (LOW) $36 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-dip-to-36-in-december-2026"
  },
  "0xb633b65f2c6dffc81145da7b8a0835aca10b4d1d8a35557135941834fcc11d96": {
   "created_at": "2026-10-26T06:00:09.195475Z",

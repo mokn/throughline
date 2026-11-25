@@ -83,6 +83,15 @@
   "sha256": "ae745739d244aa5fc45217a02435b67a640938caa881e84ca9267fd313c7a478",
   "slug": "abdul-malik-al-houthi-out-by-november-30"
  },
+ "0x0b94d97e2f1a1b374d0ef1f167208073a0afbae9086610f50cb4be3e0a0c79b0": {
+  "created_at": "2026-11-24T22:00:23.451683Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will an open-source model be ranked #1 on Arena by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "1f85f32342be219c25c7613bb57ad759d61d2f577bea16cd500931bb9d904db4",
+  "slug": "open-source-model-ranked-1-on-arena-by-june-30-2027"
+ },
  "0x0cd5db3225375fa72234f5ddbf84adc1f584caac80b05625cd0036d0cbc5b7b0": {
   "created_at": "2026-10-01T23:00:19.528159Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -353,6 +362,7 @@
   "created_at": "2026-08-11T17:53:33.331781Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-09 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
@@ -607,6 +617,7 @@
   "created_at": "2026-09-01T09:00:14.345708Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 3 - 0 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -908,6 +919,15 @@
   "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
   "slug": "will-teruaki-satos-next-team-be-los-angeles-angels"
  },
+ "0x8be1549a2c662e118c7e41f833654ce5734c38b7b2482601e31c13b1d6b474b0": {
+  "created_at": "2026-11-25T13:30:00.736829Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will OpenRouter process between 975T and 1025T tokens Nov 30 to Dec 27, 2026?",
+  "revisions": 1,
+  "sha256": "fe43d899c8713d5c57386944139cf3b30759c67cf02806b965e2db3adc917683",
+  "slug": "will-openrouter-process-between-975t-and-1025t-tokens-nov-30-to-dec-27-2026"
+ },
  "0x8da47c9ace8ceb2afe7046b2b7f766f7be11d59d23f27da4e747f02b1f9b15b0": {
   "created_at": "2026-08-05T15:23:47.092252Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -967,6 +987,7 @@
   "created_at": "2026-10-18T23:30:11.854442Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: O/U 8.5",
   "revisions": 1,
   "sha256": "fba30cbe3cdde512f2a77de485affac0f8a3bb3a3f5bbcc79d66062fa6b675ff",
@@ -1233,6 +1254,7 @@
   "created_at": "2026-09-20T08:16:16.088007Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 2 - 2 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",
@@ -1287,6 +1309,7 @@
   "created_at": "2026-09-20T08:47:19.159592Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 2.5",
   "revisions": 1,
   "sha256": "e7150400c5c2bb835643105a0855947891f2a4dd8e53ee24fd83d84d414cfcd0",
@@ -1318,6 +1341,15 @@
   "revisions": 1,
   "sha256": "ec3dab1fba7a90cb882188ca92c01407a4e9eefbe8cf01de63e66fdf1a84cce6",
   "slug": "will-lawson-luckie-be-the-2026-sec-receiving-yards-leader"
+ },
+ "0xc46faa7ed1d15acf1a238b8e655f303253bf8f323c6916492a1902bd66a60eb0": {
+  "created_at": "2026-11-25T13:29:59.449026Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will OpenRouter process less than 925T tokens Nov 30 to Dec 27, 2026?",
+  "revisions": 1,
+  "sha256": "fe43d899c8713d5c57386944139cf3b30759c67cf02806b965e2db3adc917683",
+  "slug": "will-openrouter-process-less-than-925t-tokens-nov-30-to-dec-27-2026"
  },
  "0xc574bd2c370e346f31f9138a6466ea9ca9398dfc7c14f9ff14e4bae1b5ad36b0": {
   "created_at": "2026-06-26T16:49:26.215841Z",
@@ -1378,6 +1410,7 @@
   "created_at": "2026-09-13T09:45:28.477707Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: O/U 8.5 Total Corners",
   "revisions": 1,
   "sha256": "498982a4c0eba994e0e503563f7fa678ffe260fcd9d50a57d6b6b75f3aabfb32",

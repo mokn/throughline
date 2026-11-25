@@ -123,6 +123,7 @@
   "created_at": "2026-08-05T18:39:10.547405Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Hawaii gubernatorial election by 10%-15%?",
   "revisions": 1,
   "sha256": "eab5cd5d40490d26779fd949cd0b305b7368a4c4fd74962a9666617edc407ffe",
@@ -197,6 +198,7 @@
   "created_at": "2026-09-13T09:15:37.050048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Draw at halftime?",
   "revisions": 1,
   "sha256": "589813a0eb37d207b3efa1617f842a8ecb0995fd78398d515bebe1b3a2175fca",
@@ -244,6 +246,7 @@
   "created_at": "2026-08-04T18:30:47.626644Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 North Carolina Senate election by 0%-3%?",
   "revisions": 1,
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
@@ -253,6 +256,7 @@
   "created_at": "2026-09-13T09:45:25.736445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC O/U 0.5",
   "revisions": 1,
   "sha256": "7f6ddf79e0a207605c5d9d66f5d2e87f439740d17d41bb1ad2be8b3b1655175a",
@@ -271,6 +275,7 @@
   "created_at": "2026-09-02T06:01:13.755318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: Both Teams to Score in Second Half",
   "revisions": 1,
   "sha256": "303c25879e13d7c9f4684a2e6e5fa939817af45abdc4e6f06fe21eaa8c3feefb",
@@ -1250,6 +1255,7 @@
   "created_at": "2026-09-20T08:45:14.81618Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: 2nd Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "8b77ac767086b8e101a6709b522e5e2b89748db95d7840b9447d2038d110b08c",
@@ -1318,6 +1324,15 @@
   "revisions": 1,
   "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
   "slug": "will-9z-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
+ },
+ "0xd928fdd6795abab07d87cea46d898101864985ebea5336776792b5f995d7a03a": {
+  "created_at": "2026-11-25T14:08:08.245184Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-meta-be-the-best-ai-lab-at-the-end-of-january-2027"
  },
  "0xd92bb1840a6173dd2b5534c608f701f116b97a920e34923cb894d8f7cfb4073a": {
   "created_at": "2026-10-21T23:29:43.217488Z",
@@ -1475,6 +1490,15 @@
   "revisions": 1,
   "sha256": "b9abfe91a175527508d53e4838ca91f9bb2e42a24131910dc063b7919528de35",
   "slug": "will-prime-intellect-launch-a-token-by-march-31-2027"
+ },
+ "0xf0ab6e3619563a31dbc0f490e75dd4cbfd41b055ab53ac2af1b5f3fa4b104d3a": {
+  "created_at": "2026-11-25T10:55:31.659124Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz be 4+ on January 31?",
+  "revisions": 1,
+  "sha256": "2c75897f8485a7508befd70cdd6589c767ce21c41fc1bfdb151bd6b812dbf40e",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-be-4-on-january-31"
  },
  "0xf2a1d529e46480e1e1c5df6c344b7ee1e7c751c3f519cdf64cd7756d7570d93a": {
   "created_at": "2026-02-03T22:50:35.23183Z",

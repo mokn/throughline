@@ -388,6 +388,15 @@
   "sha256": "12d638b50410daf3e6902b1c70353967fad3ba83dd9f32ed71b325691147ce3c",
   "slug": "will-the-republican-party-candidate-win-the-2026-alabama-senate-election-by-15-20"
  },
+ "0x3a6b6e52f20e127e8a83880778c4990a8633e230e8d4d71102354a9efdaa107a": {
+  "created_at": "2026-11-25T14:08:09.900934Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-amazon-be-the-best-ai-lab-on-january-15-2027"
+ },
  "0x3a727f784ed1feedb8046d83bf3f4285e9d3a09ca6eb9d4cf81068f3877cee7a": {
   "created_at": "2026-09-04T04:04:07.755303Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -438,6 +447,7 @@
   "created_at": "2026-09-18T09:45:16.648985Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Port Vale FC (-4.5)",
   "revisions": 1,
   "sha256": "dc90c6019b71c12ea4cf88093efbdaaa5a5a109db3903ec148a855634fbfcda8",
@@ -1069,6 +1079,7 @@
   "created_at": "2026-08-19T21:59:01.358009Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Houston Rockets win the 2026 NBA Cup?",
   "revisions": 1,
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
@@ -1432,6 +1443,7 @@
   "created_at": "2026-11-04T17:37:55.929643Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will BC.Game Win the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",

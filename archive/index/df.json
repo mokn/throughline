@@ -329,6 +329,15 @@
   "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
   "slug": "elon-musk-of-tweets-december-2026-260-279"
  },
+ "0x2d18831633a3d31c2a0ea5e17ca90d040067b8ec26fc6738d1deef43f49211df": {
+  "created_at": "2026-07-21T06:00:12.191872Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh 1st Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "1dd5c1bf6f267241dc717faf403ccb3b81e87d58cc42ee60ebb72a06e0611c42",
+  "slug": "ukr1-dyn-liv-2026-08-02-first-half-team-total-away-0pt5"
+ },
  "0x2dc165af52838a1cb0bc67416905237dd7576360187d84fe8186bb8a17b426df": {
   "created_at": "2026-07-31T22:45:19.994477Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -406,6 +415,7 @@
   "created_at": "2026-09-18T08:45:14.920545Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Bradford City AFC (-4.5)",
   "revisions": 1,
   "sha256": "849393027fd63fd19d9ac4a09d03f52a37f5afe186a8faf5bfb25a499166ed63",
@@ -452,6 +462,7 @@
   "created_at": "2026-10-18T09:00:28.829855Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 4 - 1 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -852,6 +863,15 @@
   "sha256": "b7d12afcfb02ced1f22715ca1268b13b53a7907f4931ca3fa5d689c00e504869",
   "slug": "will-the-republican-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-0-3"
  },
+ "0x7fd228dba1868539b68effd84aa99fcd280534d7837e0331f563d4c34d79eddf": {
+  "created_at": "2026-11-25T14:08:09.138318Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meituan have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-meituan-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
+ },
  "0x80e1e66cb2928069b51cceb16b673cfb8e84f2f0caca355fd742e5835e4259df": {
   "created_at": "2026-08-10T15:44:19.100223Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -892,6 +912,7 @@
   "created_at": "2026-08-11T17:53:46.612012Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-11 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "8084705a0cb67f1d16096007b40285d108439e387a695c4dd67ead5b44a04e25",
@@ -1229,6 +1250,15 @@
   "sha256": "2f92d33ca88c81ba453f59716c74d47fbfb1e04b6e069564fb00ae981702f0f3",
   "slug": "2027-soccer-slovak-nik-liga-runner-up-mfk-dukla-bansk-bystrica"
  },
+ "0xb4019ef44138ae04f9eb1512a1d4385f72e8cfa5f21fceac406a3a4d9e3307df": {
+  "created_at": "2026-07-20T09:03:40.198374Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: Draw at halftime?",
+  "revisions": 1,
+  "sha256": "b7e0dfd236d309763bf2fbb650338ef4d673ea8c71cb88ce7cc7c7ab546d7460",
+  "slug": "ukr1-dyn-liv-2026-08-02-halftime-result-draw"
+ },
  "0xb4044ee47468023087c2aa88fb9d1e3c4cc758d4222c0e059c047b875147cbdf": {
   "created_at": "2026-11-06T22:34:26.457309Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1242,6 +1272,7 @@
   "created_at": "2026-08-11T18:49:10.90784Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 RI-02 House election?",
   "revisions": 1,
   "sha256": "280d6e3e22e7477a19b15711eadf655f80f799cfa41662733f9c7919c3b16b6e",
@@ -1436,6 +1467,7 @@
   "created_at": "2026-10-18T09:00:27.488144Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 0 - 1 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -1695,6 +1727,7 @@
   "created_at": "2026-09-13T09:15:29.978882Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Northampton Town FC win on 2026-09-26?",
   "revisions": 1,
   "sha256": "3d5c4fda72e403f9ebdcf7ab776e348855aa5e68453cdd37bd7694346d633874",

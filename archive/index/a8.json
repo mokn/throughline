@@ -8,6 +8,15 @@
   "sha256": "860fa2c62e8848d1c0dc01feb7f834b3d606cad603a9585fc2a98716f7c943b4",
   "slug": "will-the-national-action-party-pan-win-the-second-most-seats-in-the-2027-mexico-legislative-election"
  },
+ "0x02f1ec3abf1c74714c38b7065452f1dd2dfd7141e0995bd39972f9e779d009a8": {
+  "created_at": "2026-07-21T06:00:14.690172Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh 2nd Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "9561f4f7ecacc767c8abc28f15e266c3a1f2296217eacaef5f9c7e0a83fe8fdc",
+  "slug": "ukr1-dyn-liv-2026-08-02-second-half-team-total-away-1pt5"
+ },
  "0x041265c1746b0e801835de4e7186f97ba8a17bfd82f2634278986757fc71e9a8": {
   "created_at": "2026-08-10T14:51:46.599684Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -375,6 +384,15 @@
   "sha256": "6e9137c6b8ad1af7611199771611c442730ceab7fb707c0d246e2f0acb40553c",
   "slug": "will-the-median-home-value-in-denver-metro-be-at-least-482000-on-december-31-2026"
  },
+ "0x4038c94a5278bd6f00b2a3d97e2d645dec2f9816d321403df1b24edbfea44aa8": {
+  "created_at": "2026-11-25T10:55:47.799098Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Panama Canal be 24+ on January 31?",
+  "revisions": 1,
+  "sha256": "fb9f18b45fcb4507a35ea16a65c85e493240907b82f69e31c6662d397c5ab2c6",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-24-on-january-31"
+ },
  "0x42683c56ee2ba321567a6b8922157b88159c829a0155ad1833ecc8620fc466a8": {
   "created_at": "2026-03-25T22:01:44.825052Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -576,6 +594,15 @@
   "sha256": "07fa6c93886e79a7dcc75aea4cd065793327718a75d9aa6d119a60769be0a057",
   "slug": "nba-2026-27-most-improved-player-ajay-mitchell"
  },
+ "0x704090966d023ab4574b08f7ea5b4be8fa7a3fa098deca44abdd8e77806983a8": {
+  "created_at": "2026-11-25T05:01:17.33958Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (HIGH) $130 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-reach-130-in-december-2026"
+ },
  "0x72d0c186a7ce609d0945abf247aa18112745c60da72f9d47ff65f9eb0b4a4fa8": {
   "created_at": "2026-10-14T20:19:09.950121Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -608,6 +635,7 @@
   "created_at": "2026-08-21T20:05:53.41801Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Iowa 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
@@ -814,6 +842,15 @@
   "revisions": 1,
   "sha256": "35f9b07997ce1e8d69a7211b849f2a94bb3d741d5c964c5a2ab70d0400e3a85b",
   "slug": "will-darius-acuff-jr-be-named-to-the-2027-nba-all-rookie-first-team"
+ },
+ "0x9380d308eea526ee20cb9a56b71a1d097f2f6d99afca10ee436cf5a72900dba8": {
+  "created_at": "2026-11-25T13:41:11.56154Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will GitHub's longest critical incident in December 2026 be at least 12 hours?",
+  "revisions": 1,
+  "sha256": "43114806b6ae3628198917aedd971d392759c5ccb203cb3b080fce42a0ea8f16",
+  "slug": "will-githubs-longest-critical-incident-in-december-2026-be-at-least-12-hours"
  },
  "0x9418f1d40c6c4d20cfeb7a19fb2e5195e2cda0a16f21564deaec29bd0ab278a8": {
   "created_at": "2026-09-27T20:17:17.937835Z",
@@ -1532,6 +1569,7 @@
   "created_at": "2026-09-13T08:16:13.963562Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bradford City AFC 3 - 3 Barnsley FC?",
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
@@ -1609,6 +1647,15 @@
   "sha256": "ec69fbebba20640ac5be1b4a468d112dc42768960aa5cff52092959ba3642c52",
   "slug": "will-fhenix-launch-a-token-by-march-31-2027"
  },
+ "0xef60ceb6162e2076602317419810efa8d60e58d0a0045f7716dab444ce27dfa8": {
+  "created_at": "2026-11-25T05:01:54.575488Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceX (SPCX) hit (LOW) $90 in December?",
+  "revisions": 1,
+  "sha256": "980971399bdb4ff3e8996bfac1dd7c04cba7f6b22deb08cd4a5aa4523dcba66a",
+  "slug": "will-spcx-dip-to-90-in-december-2026"
+ },
  "0xf0d26dca4ec8a2ba43ee6ff5b296e49afc051470efb3fabd6cc171f17c023ea8": {
   "created_at": "2026-08-24T16:36:07.02072Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1627,6 +1674,15 @@
   "revisions": 1,
   "sha256": "f9487facd8fe270d4386f58968fbc19d892783850bd9228948d3601d04ca1fc6",
   "slug": "will-the-republican-party-control-the-arizona-senate-after-the-2026-midterm-elections"
+ },
+ "0xf1332cceff8bf34b3c28dc47c711ff29e44bf33a34a7236868096b35c504e4a8": {
+  "created_at": "2026-07-21T06:00:09.379776Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 3.5",
+  "revisions": 1,
+  "sha256": "805a4ff884efae73e800f71422989936c627b2b2d29eeb5289a4cc8de305376e",
+  "slug": "ukr1-dyn-liv-2026-08-02-total-3pt5"
  },
  "0xf1f03384266b66e6a7355739b8a2f8f7fbdfb22112e231aa3cce39824935dca8": {
   "created_at": "2026-09-04T19:52:12.842294Z",

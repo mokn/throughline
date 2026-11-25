@@ -518,10 +518,20 @@
   "sha256": "ac77ec1e3c20b219557cd0e60b87fa18dcf64e51843da23330b46684f3176ad6",
   "slug": "will-forgotten-island-be-nominated-for-best-animated-feature-film-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x3fb80476769fddc84c5baf9691fde729943101fb47985ff44428f2ee090d6911": {
+  "created_at": "2026-11-25T05:01:59.571296Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (LOW) $690 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-dip-to-690-in-december-2026"
+ },
  "0x3ff66bd58b959983d9571937a0fc7641c36069735ae8bdb8b918a5ca1cd6af11": {
   "created_at": "2026-09-18T09:46:18.345038Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Crawley Town FC (-4.5)",
   "revisions": 1,
   "sha256": "5f28124e6107165c4a5194fa21fad5edb71d2b4279d00f039b18ad47114dffe6",
@@ -577,6 +587,7 @@
   "created_at": "2026-08-11T17:52:40.927497Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-03 House election by 18% or more?",
   "revisions": 1,
   "sha256": "69d8f3c63a25056d3d2e68fd72065bab26f44293183e36f762cf39cbd42540ba",
@@ -599,6 +610,15 @@
   "revisions": 1,
   "sha256": "7e5b92f6127a2b9139f7db38c4e9db9896ca6c8550f3fb9203c61dd760abde52",
   "slug": "will-patrik-laine-record-30-goals-in-the-2026-27-regular-season"
+ },
+ "0x52c8eded5cd15da4de6ec323dfc746600ee7c4f5531a9c5bcefb6a21bd102f11": {
+  "created_at": "2026-11-24T19:26:34.405992Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Nuke be the most banned map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a1bf336b53694a4fdd93709799cec042c3935e2b368de088961b2892500248de",
+  "slug": "will-nuke-be-the-most-banned-map-at-pgl-major-singapore-2026"
  },
  "0x530a6a8010d1a194aeff99c7c5de01f0624d3ad2e956142286ae848956592811": {
   "created_at": "2026-08-11T18:42:18.03036Z",
@@ -817,6 +837,7 @@
   "created_at": "2026-09-13T09:16:12.44275Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 3 - 3 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -826,6 +847,7 @@
   "created_at": "2026-09-20T08:15:29.314136Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Blackpool FC 3 - 2 Leicester City FC?",
   "revisions": 1,
   "sha256": "ba88224a2a5a9ef82d0b51c75a070666bfdacf62be0730b43529cac6c9dab826",
@@ -1170,6 +1192,15 @@
   "sha256": "6deda5064c45a0d0d0166210d63e29422e0e325016fef6da3978a012d5fa207d",
   "slug": "will-vox-win-the-most-seats-in-cadiz-in-the-2026-spanish-general-election"
  },
+ "0xa66fb13ea53c05a799cc3de180cad79b143ea9444959306a83d0ec3381483611": {
+  "created_at": "2026-11-25T13:41:08.367048Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will GitHub's longest critical incident in December 2026 be less than 1 hour?",
+  "revisions": 1,
+  "sha256": "43114806b6ae3628198917aedd971d392759c5ccb203cb3b080fce42a0ea8f16",
+  "slug": "will-githubs-longest-critical-incident-in-december-2026-be-less-than-1-hour"
+ },
  "0xa850e96d7c3967450d9882d90bf4bffd0ea4a6b279ee82343441b2040c99f311": {
   "created_at": "2026-08-07T14:05:45.234884Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1505,6 +1536,7 @@
   "created_at": "2026-09-13T08:16:14.851376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Neither team to score first?",
   "revisions": 1,
   "sha256": "2bed0822afcf4bde6f148ccfc831af55cfd545c7f57d7d9ea0bd3d033254fc81",

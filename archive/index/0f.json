@@ -491,6 +491,7 @@
   "created_at": "2026-09-13T09:45:28.270253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: O/U 7.5 Total Corners",
   "revisions": 1,
   "sha256": "90542ddeb752054a7791c41acbe12ca36b12de63a7c1117b536be3bc17f5c3d2",
@@ -595,6 +596,15 @@
   "revisions": 1,
   "sha256": "6b9575f296ddf11d837fe5b446675f800f90781357c9ae49f875f1ea980e22e2",
   "slug": "will-ukraine-recapture-crimean-territory-by-june-30-2027"
+ },
+ "0x58d4b31121d92e64692735187299ed822fafdcb26c4d46aae478c09fe9eb690f": {
+  "created_at": "2026-11-25T00:02:56.119243Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 56 and 65 on February 26?",
+  "revisions": 1,
+  "sha256": "ef61cac4cf13afe60777198ad34294d8ef0b0f7fd088a65e218bcd036fc451d8",
+  "slug": "will-the-fear-greed-index-be-56-65-on-february-26-2027"
  },
  "0x5978e9f3378aac2f872df57b05c750bb21907e81f174d634c65caacbacc43d0f": {
   "created_at": "2026-10-01T23:01:26.430531Z",
@@ -726,6 +736,15 @@
   "revisions": 1,
   "sha256": "e9d129f789e69d1ba37fe271223300d8457ae9d61cdd8aac4b4da059d7ca514d",
   "slug": "will-the-republican-party-candidate-win-the-2026-tn-01-house-election-by-20-30"
+ },
+ "0x675c2faf292bcded59cc16c9f9aa53553bb1237fa23018d19e7adb6581f0a70f": {
+  "created_at": "2026-11-25T05:01:39.610982Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (HIGH) $140 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-reach-140-in-december-2026"
  },
  "0x6aec8c045a82e8c85fdb23db903247bd94b9ceab06cd8ef46609b1736615980f": {
   "created_at": "2026-04-14T15:40:27.655681Z",
@@ -1778,6 +1797,7 @@
   "created_at": "2026-09-13T08:45:21.96946Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Both Teams to Score",
   "revisions": 1,
   "sha256": "d3c6c6d58e0152bd79b3029f69f620aa70fe91fa3c5c9ed617acead0191b4154",

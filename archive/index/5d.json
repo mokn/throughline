@@ -186,6 +186,15 @@
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-patrick-wimmer-record-the-most-assists-in-the-2026-27-uefa-europa-league"
  },
+ "0x1ccae287dc9a1c8d2c2854c213e711a15ccbd6ce8bd5bf5cc1a56a9d8460025d": {
+  "created_at": "2026-11-25T05:01:26.509995Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (HIGH) $75 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-reach-75-in-december-2026"
+ },
  "0x1fbe2dab82a52bc21f0cbed2aee2f40568f2c2c3839a80537a6b66d00d09285d": {
   "created_at": "2026-09-02T20:14:34.474476Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -326,6 +335,7 @@
   "created_at": "2026-08-18T14:22:54.777006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Rhode Island be between 350,000 and 400,000?",
   "revisions": 1,
   "sha256": "4d40aa21f65099410b6216a448af243a4b0747010f944d9396b541c270950dd0",
@@ -707,6 +717,15 @@
   "sha256": "719e695fc5d46257f40e3b7172061b0a904af886e3d545f96824487f85539767",
   "slug": "cma-2026-eoty-ella-langley"
  },
+ "0x6257cc781a6f968bf50a3566c447cd20656fd8d3746a426b90d092673dc1935d": {
+  "created_at": "2026-11-25T13:18:46.217633Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Friedrich Merz by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-friedrich-merz-by-december-31-2026"
+ },
  "0x65a44e63c8bfc6e95ec4c86b81119ced0266f52e9db71c068babb6f374cba05d": {
   "created_at": "2026-08-12T16:51:54.395955Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -941,6 +960,15 @@
   "sha256": "66446108ad784f94787831a57a473e43c4c79244e1b21bac9449eef982b87796",
   "slug": "liga-acb-2027-champion-basquet-girona"
  },
+ "0x8c6bc9b763c5b2e89e34c132cbf078f97fb16970c7cd2e821703a18fbdc5fa5d": {
+  "created_at": "2026-11-25T05:02:23.883298Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (HIGH) $42 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-reach-42-in-december-2026"
+ },
  "0x8c7a5307dda41e867b10200c8e8f48da19be6e2bc6a6036fbd0951ca5da3fc5d": {
   "created_at": "2026-11-05T02:10:07.529121Z",
   "first_seen": "2026-11-05T14:39:41Z",
@@ -1102,10 +1130,20 @@
   "created_at": "2026-08-18T14:23:26.089422Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from New Mexico be between 650,000 and 700,000?",
   "revisions": 1,
   "sha256": "ed0af71c6556006f2e4c8d0ff52b473b7d2fb11135acdfa14b927fb54b88c3a4",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-new-mexico-be-between-650000-and-700000"
+ },
+ "0xa9c2b66158b98d2dda9389ddca12615cf4d4891d05b5e25367174ac75ddac35d": {
+  "created_at": "2026-11-25T13:18:40.834595Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Vladimir Putin by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-vladimir-putin-by-december-31-2026"
  },
  "0xac5b5b3070325859411303d892e79d7818fe46138e08c02dd7f820173b73b75d": {
   "created_at": "2026-08-26T21:46:23.481682Z",
@@ -1272,6 +1310,15 @@
   "sha256": "8e6b635d0cf3693ff49bd4377a887ed07808848916203c784f39558555163acd",
   "slug": "el1-pet-not-2026-10-03-first-half-team-total-home-3pt5"
  },
+ "0xc456d2fa8937d25f0ec98a00461ab361ba7431ef0d967fb3ee61c3c49dda9a5d": {
+  "created_at": "2026-07-20T09:03:40.136576Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv leading at halftime?",
+  "revisions": 1,
+  "sha256": "d67d0dca82b2659196d50262199a3d7f000d724f2e22890c158081ac9a391eac",
+  "slug": "ukr1-dyn-liv-2026-08-02-halftime-result-home"
+ },
  "0xc686c5f23662c388b9b830a6ac29b5a4778e32fdec56e5e274b288a842bd165d": {
   "created_at": "2026-11-24T02:15:47.839237Z",
   "first_seen": "2026-11-24T17:44:50Z",
@@ -1344,6 +1391,15 @@
   "revisions": 1,
   "sha256": "b41bfafd9ee784432c8df82b208c47d286f22f78edb60eb57796eb9da8f86be6",
   "slug": "will-1200-to-1249-tornadoes-occur-in-the-united-states-in-2026"
+ },
+ "0xd1b40f8106b86aadea7f5d4e4ad616ea8efed50617661d3468ea622b20cbd85d": {
+  "created_at": "2026-11-25T05:02:12.854464Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (LOW) 101.50 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-dip-to-101-50-in-december-2026"
  },
  "0xd61de78c3ba477c9f1039a4fd45a55f1547a261a21b7cd87d0d221caf4e44d5d": {
   "created_at": "2026-10-13T15:50:16.822304Z",
@@ -1468,6 +1524,7 @@
   "created_at": "2026-09-13T09:46:37.447581Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "4dcf85d02e347e9b6543024e1005fcc1bf2ecfd8234695d083c2761c2b5fc7e4",

@@ -298,6 +298,7 @@
   "created_at": "2026-09-13T08:45:20.553402Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: O/U 0.5",
   "revisions": 1,
   "sha256": "2b1b6ca9af3c0ff49c5ff9c53039a1ab78ae9679911270d6a28c04ec7f138ff6",
@@ -928,6 +929,15 @@
   "sha256": "ef0c6b25ab8f74dd9ad4659878bcd9ba981e00040894f5625da5ba2315685423",
   "slug": "will-the-democratic-party-win-the-tx-17-house-seat"
  },
+ "0x9182ce83657e78da28f712177995f0c2387e6aca22b3aec8ff6c8e906b8f89b4": {
+  "created_at": "2026-11-25T00:02:56.725847Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 66 and 75 on February 26?",
+  "revisions": 1,
+  "sha256": "ef61cac4cf13afe60777198ad34294d8ef0b0f7fd088a65e218bcd036fc451d8",
+  "slug": "will-the-fear-greed-index-be-66-75-on-february-26-2027"
+ },
  "0x91ae7852082483ad22ab2329961e3ed084d323a31fb7be5c4abfd447795e61b4": {
   "created_at": "2026-09-27T20:02:41.397117Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1114,6 +1124,15 @@
   "revisions": 1,
   "sha256": "89b27f932bc89033b98545bae6c580b3f4bf58f251f893c0d8eb2ffd346b25d7",
   "slug": "jordan-love-400-passing-yards-game-2026-27"
+ },
+ "0xaca0a7d888efec86d37198b98923a011359b1c4fa026092b36ad02afaf19a3b4": {
+  "created_at": "2026-11-25T14:08:18.775371Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-microsoft-be-the-best-ai-lab-at-the-end-of-january-2027"
  },
  "0xaf90c008d734647320f4838d3d987322906de0df3608ca135ff143f0a22d33b4": {
   "created_at": "2026-10-31T11:30:42.538034Z",
@@ -1466,6 +1485,15 @@
   "revisions": 1,
   "sha256": "25269987ad42c5b43fc7494496bfc2ffede93fb401e1346821e1e488c6f8918a",
   "slug": "will-mali-win-afcon-2027-qualifying-group-k"
+ },
+ "0xdbc70a356a65f7a543bc09bdfa46f08f1d3caa7875a32b6435e99ae1abbbdfb4": {
+  "created_at": "2026-11-25T05:01:47.480593Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (LOW) $108 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-dip-to-108-in-december-2026"
  },
  "0xdea955e2197419bf77081078cda7c56b14d47aaebc14e99513b380133f90beb4": {
   "created_at": "2026-11-23T03:01:13.623282Z",

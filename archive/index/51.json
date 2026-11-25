@@ -82,6 +82,15 @@
   "sha256": "9f5ffc1e79b1228954979693901da5e47343dafbccdb0e017ebcf692a3524d92",
   "slug": "will-pittsburgh-steelers-finish-the-2026-27-nfl-regular-season-with-the-most-total-offensive-yards-per-game-20260716001412881"
  },
+ "0x0a098a68832a148542ad98fc45c9b23fed5f724e6d865b88f1791ac39fcdeb51": {
+  "created_at": "2026-11-25T05:00:22.358396Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $320 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-reach-320-in-december-2026"
+ },
  "0x0ca60496d6006ce8cbf60c2d8d3f2a2efa2f95ed6222e504303ee3805c127c51": {
   "created_at": "2026-11-18T21:07:52.297038Z",
   "first_seen": "2026-11-19T15:44:54Z",
@@ -170,6 +179,7 @@
   "created_at": "2026-09-02T06:01:10.829961Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: O/U 5.5",
   "revisions": 1,
   "sha256": "502f2fdeaa1fd6f943f1e8ded24936733fc32e1d7c8ddd368550844cbede9edb",
@@ -375,6 +385,15 @@
   "revisions": 1,
   "sha256": "a76989e67ad67dc3f3dfc705c331632d3942fc2919d9ed5b78393c294d6e8961",
   "slug": "will-adrien-rabiot-record-the-most-assists-in-the-2026-27-uefa-europa-league"
+ },
+ "0x3671a887a4933a0d9eeb6d7a7aead5513f093f6ecbb6bfa953da002f52000451": {
+  "created_at": "2026-11-25T05:00:36.657158Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tesla, Inc. (TSLA) hit (HIGH) $390 in December?",
+  "revisions": 1,
+  "sha256": "6ce1712027598d432cef08acea8ae93a1123d96e6955d7ecd603a17c5e93877a",
+  "slug": "will-tsla-reach-390-in-december-2026"
  },
  "0x380071a9a2bdfb20fae557202f3d87b4b42e892b69fdff0d53b1427a64ae9e51": {
   "created_at": "2026-09-28T15:12:28.198497Z",
@@ -675,6 +694,7 @@
   "created_at": "2026-09-13T09:46:37.278528Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "4d1d1c7dd8b7c797a6732ff909e00fda150228030a5446807db8673a86f0d288",
@@ -792,6 +812,15 @@
   "sha256": "f75b9de88fcb6edbb262e9bf17d91025679b7a40532c3aaa9a7d53409e8798cc",
   "slug": "brazilian-nbb-2027-champion-botafogo"
  },
+ "0x7558006ce2198d5ddf0a9ec1e46043e95e84241f2daf6910be48a042f778b451": {
+  "created_at": "2026-11-25T05:02:06.716801Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (LOW) $122 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-dip-to-122-in-december-2026"
+ },
  "0x7793e157de8504b63a63117a4ecdc4281698bbcecc2d1fb66e63c41c90731b51": {
   "created_at": "2026-08-05T10:50:08.71157Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -823,6 +852,7 @@
   "created_at": "2026-09-13T09:16:12.532153Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -1367,6 +1397,7 @@
   "created_at": "2026-08-06T21:34:44.716932Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 AL-01 House election by 10%-20%?",
   "revisions": 1,
   "sha256": "5b0ad4e08a7394a6e77bd76ebd652e90970f672cb8ebde86aedcd6837dc50723",
@@ -1412,6 +1443,7 @@
   "created_at": "2026-09-18T09:46:22.308495Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "11b2191ddf06307127c5e596470cedb73a6eefd27b205c34a163b1beb6169da6",

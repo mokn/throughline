@@ -35,6 +35,15 @@
   "sha256": "63bac57582f4e045fb16b0375bc7efe93a8ffdb9ce72c681a663a0530c266afb",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-01-house-election-by-3-or-more"
  },
+ "0x0169805cc746c78cbba76f31df2d11a69cd621aaa1e346eae1e2c62711849c86": {
+  "created_at": "2026-11-24T21:01:31.140278Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Vera Rubin be rentable on-demand by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "6d53f67c056704b6d4698ea2dd5f002065fbbf893dce3ec3e43f7f42f73c34b3",
+  "slug": "vera-rubin-rentable-on-demand-by-march-31-2027"
+ },
  "0x02e5464514b8fe29f9d6ae65389cfa13dd49055c099cd1dfdd3be579bb4ea586": {
   "created_at": "2026-08-26T21:46:31.411012Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -491,6 +500,15 @@
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-santiago-godoy-score-the-most-goals-in-the-2026-27-uefa-conference-league"
  },
+ "0x42a598451682a47efe0d8464995a851341cfa460702f5a42b1f253e4f51fb186": {
+  "created_at": "2026-11-25T05:02:11.837166Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (LOW) 103.50 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-dip-to-103-50-in-december-2026"
+ },
  "0x42a842fefa2f593e11dcb3fd2dad3c77a531a1cc419dff1d7b75e4de0704ea86": {
   "created_at": "2026-09-04T15:52:42.541793Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -705,6 +723,7 @@
   "created_at": "2026-08-18T14:19:42.807883Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Iowa be between 1,500,000 and 1,550,000?",
   "revisions": 1,
   "sha256": "c8c222344af4dfa899eb3444c02e6795718d1d2cb692f90b0dac1e98387ff2fd",
@@ -797,6 +816,7 @@
   "created_at": "2026-08-04T18:29:22.906241Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico Senate election by 6%-9%?",
   "revisions": 1,
   "sha256": "98d8a0e31e3806cfbf24113030ca9ac71f76b38df5fa6a26c34636690cc43ca9",
@@ -1280,6 +1300,7 @@
   "created_at": "2026-08-11T17:53:39.722048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-10 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "e89892fd7e186999eb1d7bf464b5e87dddd8f11457b5b84cab48976fb8428ce4",

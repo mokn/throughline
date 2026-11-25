@@ -12,6 +12,7 @@
   "created_at": "2026-08-11T17:53:34.795227Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-09 House election by 6% or more?",
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
@@ -401,6 +402,15 @@
   "sha256": "686f31bff4389afef6af391d347c7ac79e6802ea97fa6a1134c88a610b8834e2",
   "slug": "will-josh-hawley-win-the-iowa-republican-presidential-caucus-20261028213"
  },
+ "0x4037c116c61359cb73ec89078b51c4511fcfebdfa393052bf1f35cc3a319ce10": {
+  "created_at": "2026-11-25T10:55:48.308674Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Panama Canal be 25+ on January 31?",
+  "revisions": 1,
+  "sha256": "fb9f18b45fcb4507a35ea16a65c85e493240907b82f69e31c6662d397c5ab2c6",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-25-on-january-31"
+ },
  "0x42367d815f3691e4b5d66981a4bbb487260e4d2d430c60956ca3bf747cb5b610": {
   "created_at": "2026-10-15T18:02:44.988097Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -503,6 +513,15 @@
   "sha256": "0ee72253b8ed7287bd7fa27f272fbfbfa523585c7d1162a4977a6fceeb20b002",
   "slug": "2027-soccer-saudi-professional-league-winner-al-faisaly"
  },
+ "0x526dc318499060e3025d38102010355e372db41e0fa41eb198d853a886f22b10": {
+  "created_at": "2026-11-25T05:01:06.752276Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (LOW) $36 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-dip-to-36-in-december-2026"
+ },
  "0x52f06408c54d2a5b1cdb8b17ffe7b7483f7d4c2b7f5440d3e1469df414e1bc10": {
   "created_at": "2026-11-06T22:37:20.782562Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -527,6 +546,7 @@
   "created_at": "2026-08-11T17:52:41.761193Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-03 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "69d8f3c63a25056d3d2e68fd72065bab26f44293183e36f762cf39cbd42540ba",
@@ -567,6 +587,15 @@
   "revisions": 1,
   "sha256": "21268d5d05ea261a7e1b7d42706f2aa87e4fd3ce2de5efda81fc2ea3f2b59783",
   "slug": "nvda-above-190-on-november-30-2026"
+ },
+ "0x5c8a62b850d649023117f7229111b5a49963009a23dd4af850c3eb26da333f10": {
+  "created_at": "2026-11-25T05:01:12.07524Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $180 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-reach-180-in-december-2026"
  },
  "0x5cd2588a896a2c58a03875353ac7f818c83b7972c5ce4421924d151b3ac5de10": {
   "created_at": "2026-09-13T08:45:29.947665Z",
@@ -747,6 +776,7 @@
   "created_at": "2026-08-11T17:53:00.057472Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-04 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "b4b221e99a5852b252d7b0b668599bcd7d6def4b35218525b46e5b7ee696c037",
@@ -1012,6 +1042,7 @@
   "created_at": "2026-10-13T19:33:08.549346Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Team Falcons win another Tier 1 event before the Singapore Major?",
   "revisions": 1,
   "sha256": "5c915df0c0c96aab5e810cdb854e041d1ed36b28256111d9d5bccbe11403278b",
@@ -1278,6 +1309,7 @@
   "created_at": "2026-09-13T09:16:13.221523Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Northampton Town FC to score first vs. Port Vale FC?",
   "revisions": 1,
   "sha256": "298b9d1c3050e34b60a7c43e10053b0c2967ab6d9309f47e550e7768a124342e",

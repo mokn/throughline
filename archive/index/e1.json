@@ -67,6 +67,7 @@
   "created_at": "2026-09-13T09:15:39.53088Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Crawley Town FC 0 - 3 Barnet FC?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
@@ -145,10 +146,20 @@
   "sha256": "7af628088575f4f337d5bf66c3b37fb3380d36bca85512bddaab1948d30c2a6d",
   "slug": "will-manchester-city-qualify-for-the-2027-28-uefa-champions-league"
  },
+ "0x1703a0e667c8a4550473c197f9a57a1c59d8767a65d501c7fcf9415831324ce1": {
+  "created_at": "2026-11-25T05:01:29.198141Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $40 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-dip-to-40-in-december-2026"
+ },
  "0x18c3e8b40c09c5fe4a6d7e1a176ada5eca92b9b9f5d235c2fa12b4963ff68ae1": {
   "created_at": "2026-08-18T14:20:03.357558Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Hawaii be between 340,000 and 370,000?",
   "revisions": 1,
   "sha256": "280b303c057971d8b23be3d39817a6d175b3cf73bfd49bab9f53e8af62904ae9",
@@ -711,6 +722,15 @@
   "revisions": 1,
   "sha256": "f63125a5af81cec1962f3cb7635c3fe754e083bf65f16bc9b3336641d8bad186",
   "slug": "will-sns-win-50-55-percent-of-the-vote-in-the-2026-serbian-parliamentary-election"
+ },
+ "0x598f5e309aba3c4720d02da1c8006f8ee153fbb37acd44cff1ca09c3c544dfe1": {
+  "created_at": "2026-11-25T13:18:39.090363Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Xi Jinping by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-xi-jinping-by-december-31-2026"
  },
  "0x5a6515660bccc68b13c5b5ee032a7bcf1abae3633d3faf26edc54e018d8477e1": {
   "created_at": "2026-01-28T04:53:17.80389Z",
@@ -1396,6 +1416,7 @@
   "created_at": "2026-07-29T20:34:25.196268Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Nicol\u00e1s Castro (Toluca) record the most assists in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "4235c4099ada5b88817c6090161c86b4cc1f514c177f7e3c148ca09bf9e4f0a3",

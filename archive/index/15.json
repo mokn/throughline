@@ -177,6 +177,7 @@
   "created_at": "2026-09-13T08:15:32.465192Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Sheffield Wednesday FC leading at halftime?",
   "revisions": 1,
   "sha256": "5054a9c46390e65992d40696e01e6be6108094e564937ece1db322f910d18f03",
@@ -569,6 +570,7 @@
   "created_at": "2026-08-07T20:29:17.727413Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-02 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "90b899b3b3bb531a6c99490ff6b3abe35c161029d5eda4068dd6b190e9e95cb3",
@@ -661,6 +663,7 @@
   "created_at": "2026-09-20T08:16:21.233337Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Wycombe Wanderers FC to score first vs. Bromley FC?",
   "revisions": 1,
   "sha256": "7d1d7c9f30de59ca2961b9ba20bc31752f168976853d11d602d71e1cd58bf694",
@@ -698,6 +701,7 @@
   "created_at": "2026-08-11T17:53:27.937431Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-08 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",
@@ -711,6 +715,15 @@
   "revisions": 1,
   "sha256": "175fb8b665cecdf5567ab94999b5c449b49c4d0a95f7ac6a250877fe018958b9",
   "slug": "will-donald-trump-visit-india-in-2026"
+ },
+ "0x66ed5888b700f6b8a744b8417e29fce6a4acaca6f65e0f6a282e13388cf10e15": {
+  "created_at": "2026-11-25T14:08:08.907417Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceXAI be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-spacexai-be-the-best-ai-lab-on-january-15-2027"
  },
  "0x679d201d62cd0762426dc096c9ee4ec6ff7d863a1eaa3160d9b1aab701407815": {
   "created_at": "2026-08-11T19:11:13.752965Z",
@@ -835,6 +848,7 @@
   "created_at": "2026-08-07T20:29:08.58786Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-01 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "f8b6ab6faabb7923e06a7a34ce2beedcbe7e887c4eb7a1079b105effba5c876f",
@@ -956,6 +970,7 @@
   "created_at": "2026-09-20T08:45:09.020835Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Wycombe Wanderers FC (-5.5)",
   "revisions": 1,
   "sha256": "c64b747d1fd26de28d9e65371a2400ebcd809b2f3b654c37831c41767a88546b",
@@ -1117,6 +1132,15 @@
   "sha256": "1c43d3e17d6ea3046f68926483b138f6004ff81a3d159e564f7d7038caef7cd0",
   "slug": "will-the-democratic-party-candidate-win-the-2026-connecticut-gubernatorial-election-by-15-20"
  },
+ "0xa65caa6fec41faff838f1a41b939e5f0da05995562a0cc1a3aaa25ea23fbe315": {
+  "created_at": "2026-11-25T05:02:17.697979Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (LOW) $3,500 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-dip-to-3500-in-december-2026"
+ },
  "0xaaed46ef7c9c6e0595329b9ab52a1cccfcc6ca2607763104934e3059a3b06815": {
   "created_at": "2026-08-24T16:32:53.871091Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1277,6 +1301,7 @@
   "created_at": "2026-09-13T08:15:35.563449Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC to score first vs. Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "fed8b54969f0183e24f9fd8840f2362ec1ce4a30f14925e39ec3e5a91e354572",
@@ -1503,6 +1528,15 @@
   "sha256": "0ff76a799f8c2dce13cc25a2c0d8e425284e6d58dd2b536b8406d013c32da612",
   "slug": "will-gleisi-hoffmann-be-the-next-brazilian-chief-of-staff"
  },
+ "0xebe8181cabc28187eea4a5996f1d632b158f3496bd97ce6153110a0bcfdd0815": {
+  "created_at": "2026-11-25T05:01:01.27579Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Opendoor Technologies Inc. (OPEN) hit (LOW) $1.00 in December?",
+  "revisions": 1,
+  "sha256": "8debd5f6e4f25d1f7bd96b6d5ad426da017abb9b14e6325a586ff8565c65e290",
+  "slug": "will-open-dip-to-1-00-in-december-2026"
+ },
  "0xec1a0d3d7ec3de473b12c30b988ad1f5b3c32b9e936a64c214068aaf8f36f215": {
   "created_at": "2026-09-30T00:07:01.643985Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1585,6 +1619,15 @@
   "sha256": "08a3a48e4e4758efb8cce9ff4a74b4a9017b34988c1c33626c940f5e067143aa",
   "slug": "will-swiss-parliament-pass-the-ubs-capital-law-by-june-30-2027"
  },
+ "0xf7dd8432713d4da276599069bb541d147cb7ca3d92f8a4b39b653dfc0e695d15": {
+  "created_at": "2026-11-25T05:02:04.306655Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (HIGH) $138 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-reach-138-in-december-2026"
+ },
  "0xf8054f8f5e33aeb2aa9b0c3d063399f8c70efdd875e56b50810dda1262692215": {
   "created_at": "2026-10-03T12:12:04.566771Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1598,6 +1641,7 @@
   "created_at": "2026-08-05T20:56:48.110317Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 15%-20%?",
   "revisions": 1,
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",

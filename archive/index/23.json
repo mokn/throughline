@@ -563,6 +563,15 @@
   "sha256": "9b8d5b33cd5735643a112cf1ec68abec816a76b07c91661dfb371442af5d799e",
   "slug": "el2-col-pvl-2026-10-03-first-half-team-total-home-1pt5"
  },
+ "0x51ad81bcd4c522847b08bd7ce3b2496c5c07a1ecc6fd186e7f631f3ae6302e23": {
+  "created_at": "2026-11-25T05:16:38.550849Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Iran target Bahrain by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "58b18da21963745e8e75a7be63184e095ff9536feef1bb348ec6c12fba201bed",
+  "slug": "will-iran-target-bahrain-by-december-31-2026-20261124"
+ },
  "0x522d31efb7e0ea37ff6e55fa7f938cea4d8fc31c08c40b2744e2da0e17b92323": {
   "created_at": "2026-08-12T17:21:16.775001Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -763,6 +772,15 @@
   "sha256": "0af97a0ef490e58cf4f647de8792752ff7c1e69999cc5f5494d158ca1b0420ce",
   "slug": "will-real-betis-finish-17th-in-laliga-2026-27"
  },
+ "0x78d0270277dd0384a18d7bd84ffc4bffd96ed5c8d5634fae6e4884ffebac8623": {
+  "created_at": "2026-11-25T13:41:00.442937Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be exactly 3 ChatGPT outages in December 2026?",
+  "revisions": 1,
+  "sha256": "3eb8f8e3c8da375c82f8b7b9cd294d3cd24bc40ad0ef98117d5e0cdb4b611f8d",
+  "slug": "will-there-be-exactly-3-chatgpt-outages-in-december-2026"
+ },
  "0x791d91cd3f541d592625ca0362f39109ec4f79af190e4db396a66828af158823": {
   "created_at": "2026-08-11T18:25:24.440943Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -949,6 +967,7 @@
   "created_at": "2026-09-13T09:45:22.648997Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 4.5",
   "revisions": 1,
   "sha256": "3f603bc36d1d012ce7647a3d50aa401f6a6ea208db82ae1138a8bf7ac14b13d9",
@@ -1151,6 +1170,15 @@
   "sha256": "5d771146ac985febe6e1143308c8a8f87c7153d3343a28eb2ab3b24054a2d14c",
   "slug": "nba-2026-27-ppg-leader-tyrese-haliburton"
  },
+ "0xb2f411322c4e7a70eb58bc441c021b7520f0dde6390fb0d32087c9f77fba7a23": {
+  "created_at": "2026-11-25T05:01:19.447Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (LOW) $100 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-dip-to-100-in-december-2026"
+ },
  "0xb3d7fbd2101c18116db2461a99abfdead64f55cb42b486d74a48d7d47a8cd123": {
   "created_at": "2026-10-14T13:23:47.91337Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1200,6 +1228,7 @@
   "created_at": "2026-08-11T18:49:06.424803Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-01 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",

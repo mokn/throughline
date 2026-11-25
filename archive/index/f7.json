@@ -67,6 +67,7 @@
   "created_at": "2026-08-05T20:56:48.843441Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 30%-35%?",
   "revisions": 1,
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",
@@ -221,6 +222,7 @@
   "created_at": "2026-09-13T09:46:34.936133Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC O/U 2.5",
   "revisions": 1,
   "sha256": "49c90d49e85eae6bc774a455dbc44c60d9ad5ee4986e215f4a8431ef73955007",
@@ -234,6 +236,15 @@
   "revisions": 1,
   "sha256": "313cb50e7cccdaddf0b69d30f0ee34540799d76f542f7075d715e3d69300a96b",
   "slug": "will-john-tavares-record-40-goals-in-the-2026-27-regular-season"
+ },
+ "0x2c5048a1a13c418a1caee4cb196956da9fc26a27000a755d70713078750fbcf7": {
+  "created_at": "2026-11-25T05:00:22.085187Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $330 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-reach-330-in-december-2026"
  },
  "0x2c7aed4ebcb036c5c53ab2146aa7999ee804c64217b6a5eae712a87b64fdf2f7": {
   "created_at": "2026-08-12T16:51:35.011047Z",
@@ -384,6 +395,15 @@
   "sha256": "bcb2d43ff88d51f53a56a991675b637e38e1954fa54416671f32a6f19592b770",
   "slug": "cma-2026-vdoty-dan-and-shay"
  },
+ "0x49de6390491618104fe38d686407c014ddf72fb131e8140ba2e3a6e6a662d0f7": {
+  "created_at": "2026-11-25T02:33:13.608054Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Oracle or any subsidiary default before 2028?",
+  "revisions": 1,
+  "sha256": "ac228c39cc4c88cf6ea008c6f6dda11f4aa0572b0f83fd70060b087228938280",
+  "slug": "will-oracle-or-any-subsidiary-default-before-2028"
+ },
  "0x4ae7b7f9a9aece58a702b892f2961f5ef317b60056ed8d04e1ff5a44cd9c7df7": {
   "created_at": "2026-10-14T13:21:30.315826Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -410,6 +430,15 @@
   "revisions": 1,
   "sha256": "1dd93a2ed328338be39b74de88bb4683cc446dc8136c26236d8cc7bb3c21c129",
   "slug": "will-lebron-james-be-the-1-searched-person-on-google-in-the-us-this-year-20260730192940401"
+ },
+ "0x5251c76daabd1b2d55e65f2b6c03d37823388b55bcaab03d575079960b19d1f7": {
+  "created_at": "2026-11-25T00:02:28.727745Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be 76 or above on December 24?",
+  "revisions": 1,
+  "sha256": "4a478036e103677cc355d5d2d741f08e8b200243110482bcc61856cc003b9ce8",
+  "slug": "will-the-fear-greed-index-be-76-100-on-december-24-2026"
  },
  "0x550ab3b4b686259c5d36304a4a3f98995998ade2d699a3cb1de0ef2f261e34f7": {
   "created_at": "2026-01-07T19:30:36.304665Z",

@@ -219,6 +219,15 @@
   "sha256": "2d6b8cb1b356e3ea2c1f61a85aac0b618a9451946825b78d7898c82c693a8a0d",
   "slug": "nba-2026-27-3pm-leader-stephen-curry"
  },
+ "0x1c45ccfc1c11891ee51b73a0eae59acd32ca59039d2a093245aa51f8b8929348": {
+  "created_at": "2026-11-25T05:00:02.711767Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (HIGH) $384 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-reach-384-in-december-2026"
+ },
  "0x1d4a7761482a91a7865325181b9f37d5eb70f9cde1dadd91362076423bf04348": {
   "created_at": "2026-03-25T17:45:16.06217Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -421,6 +430,24 @@
   "sha256": "3c625dbd28e95c8d99c084483b0d655c44cd085d6e0b43e8a534c944ef6ea23f",
   "slug": "will-deepseek-be-the-third-best-ai-lab-at-the-end-of-november-2026"
  },
+ "0x34423a64d3ff0f378d0ba374fa6d6c1823d5f70522c92e722879fe8f99bd9e48": {
+  "created_at": "2026-11-25T05:20:26.435205Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Ali al-Zaidi cease to be Prime Minister of Iraq by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "499f65c8fb2b1dd64ef4f1f3a12148cac9847cccfeef9f4dc4f8bcbf66e13628",
+  "slug": "will-ali-al-zaidi-cease-to-be-prime-minister-of-iraq-by-june-30-2027"
+ },
+ "0x388e1289a2ce5bd0d8504c064b4e0890e4108906e93c85b58c582711477a2648": {
+  "created_at": "2026-11-25T00:02:39.840285Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 25 and 34 on January 8?",
+  "revisions": 1,
+  "sha256": "55b1f3ce73bd2ec1d29a3075c10339bf37432e2eeca6da3352804e301b5580cb",
+  "slug": "will-the-fear-greed-index-be-25-34-on-january-8-2027"
+ },
  "0x38cdb3b9d87c92835b31fb756551991d547919e4099a3b17fd16f8f379163448": {
   "created_at": "2026-09-04T19:37:48.968526Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -535,6 +562,7 @@
   "created_at": "2026-09-20T08:45:14.117762Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "b641119c72238a6d01d3fb53cd5ca559e56da44806d214812dda829e479c6f92",
@@ -618,6 +646,7 @@
   "created_at": "2026-08-05T18:43:06.894533Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho gubernatorial election by 45%-50%?",
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
@@ -703,6 +732,15 @@
   "revisions": 1,
   "sha256": "4df77b835ea9685189bf30feeb3855bd0f3c1d27418db63db11e5b52066b94d9",
   "slug": "standx-fdv-above-50m-one-day-after-launch"
+ },
+ "0x66c7cc7678f95670e80a09fb46284992c522658cdaa7335d0b0c257319f03a48": {
+  "created_at": "2026-11-25T00:02:42.793951Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 56 and 65 on January 8?",
+  "revisions": 1,
+  "sha256": "55b1f3ce73bd2ec1d29a3075c10339bf37432e2eeca6da3352804e301b5580cb",
+  "slug": "will-the-fear-greed-index-be-56-65-on-january-8-2027"
  },
  "0x69206486506f75aa687218143977bfd15c6f79ab511e7b2a38b7db6806df9048": {
   "created_at": "2026-08-07T15:58:38.596924Z",
@@ -1143,6 +1181,15 @@
   "sha256": "5742d4c50bf4305b8138f5f5275729554e10321f08f2fb455755b094c41d37a4",
   "slug": "will-anthropic-have-the-best-ai-agent-at-the-end-of-december-2026"
  },
+ "0xb835b6e7e144fe6db5dbdea0cf40aa3c8cc2cb002aee8d125d3335b129b63348": {
+  "created_at": "2026-11-25T05:01:36.614839Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (LOW) $300 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-dip-to-300-in-december-2026"
+ },
  "0xb90840ae1536104f09970f1d7e22a27e9b210aa891c2530263c59c9ba4b88548": {
   "created_at": "2026-10-29T20:58:02.458513Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1398,6 +1445,15 @@
   "sha256": "440836a60870c65717175ea661cce85ce6dde350aad715f5168c63ee4540e658",
   "slug": "pro-football-single-season-receiving-touchdowns-record-broken-2026-27"
  },
+ "0xd205694434b5dae517a140c561d21d29a760d8b16ed98d4215b356a51cdff148": {
+  "created_at": "2026-11-25T05:01:19.109135Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (HIGH) $105 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-reach-105-in-december-2026"
+ },
  "0xd3c14d2e45161407ebd9df34981115703d3d72eb2aaba22098661fe827cd8248": {
   "created_at": "2026-10-15T18:02:49.249017Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1569,6 +1625,7 @@
   "created_at": "2026-09-08T16:05:53.736498Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Real Madrid finish last in UCL league phase?",
   "revisions": 1,
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",
@@ -1578,6 +1635,7 @@
   "created_at": "2026-09-01T09:00:14.29117Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 2 - 1 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",

@@ -26,6 +26,15 @@
   "sha256": "6fb52db0e94d29cdccfde4c47f50da55724e9918f9eac36d5d24168c74fe748a",
   "slug": "will-this-american-life-win-best-podcast-at-the-84th-golden-globes"
  },
+ "0x024c0eee821f130d896b6c352272e592fc35aca38f18e7b0658ec05f33525958": {
+  "created_at": "2026-11-25T05:01:25.858874Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (HIGH) $85 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-reach-85-in-december-2026"
+ },
  "0x02db982ba80bf726040023e61e391a556bb779a92f4cb7b7210032476ac75f58": {
   "created_at": "2026-09-08T17:02:45.360389Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -704,6 +713,15 @@
   "sha256": "33a9fe47909e1a49de183427e46b4b198fc2f21065d962a1f9943ec2278f35a3",
   "slug": "will-the-democratic-party-candidate-win-the-2026-va-04-house-election-by-45-or-more"
  },
+ "0x6379ab1635f5991c827857b23ff959d9e75bd2b0fc0bae8bf404bda738be8a58": {
+  "created_at": "2026-11-25T05:00:37.474173Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tesla, Inc. (TSLA) hit (LOW) $345 in December?",
+  "revisions": 1,
+  "sha256": "6ce1712027598d432cef08acea8ae93a1123d96e6955d7ecd603a17c5e93877a",
+  "slug": "will-tsla-dip-to-345-in-december-2026"
+ },
  "0x63c6a1171b6a6a76d1191212c9a2a075d552daeb5844bf6a97ded61bbb295c58": {
   "created_at": "2026-10-05T18:42:07.934098Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -834,6 +852,15 @@
   "sha256": "fe83a2f5f6346d304426c403248d53d2ae314af635791af745282d163bf38d41",
   "slug": "will-fc-augsburg-record-44-or-more-points-in-the-2026-27-bundesliga-season"
  },
+ "0x75f22c9ab84e99ba2e2167b38525798830763d5937e7b274008e9ed7e7574b58": {
+  "created_at": "2026-11-25T05:02:16.299656Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (HIGH) $4,100 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-reach-4100-in-december-2026"
+ },
  "0x7643bde8d198fc0c74037c694679ef521ea5b5b2a2ad80a8af98e185f0e57b58": {
   "created_at": "2026-05-27T16:44:17.680928Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -955,6 +982,7 @@
   "created_at": "2026-08-05T18:43:09.435671Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho gubernatorial election by 0%-10%?",
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
@@ -1179,6 +1207,15 @@
   "sha256": "9b661d6a459b9913e288101eeb35881a4bfd6debeb900cf3f2f3f7b9632ed534",
   "slug": "will-the-pitt-win-best-television-series-drama-at-the-84th-golden-globes"
  },
+ "0xac68b266ee7782bbdced93e4842f3f17bd5c459f6af1acca83529623cfbfb158": {
+  "created_at": "2026-11-25T05:02:12.13984Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (LOW) 103.00 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-dip-to-103-in-december-2026"
+ },
  "0xae515ea2b1b95486007cff8aa4afbd5f677e2760dd8752c1068d9cc55afb6d58": {
   "created_at": "2026-03-09T21:30:41.313729Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1309,6 +1346,7 @@
   "created_at": "2026-08-11T18:28:09.123937Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NM-01 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "fc7b6e739ad06d4a9e77ea309f62832a451977e6f5c19c90d78b6d11b6eeb126",
@@ -1341,6 +1379,15 @@
   "revisions": 1,
   "sha256": "2c373e7eaa62444d08374675037b48f1840ec0062f785e8980bb52023b5d8216",
   "slug": "el1-oxf-rea-2026-09-08-exact-score-2-3"
+ },
+ "0xc88002af55631ae57b7df005e53ae19d7349ee4a8849c1017741a6de9d4b4458": {
+  "created_at": "2026-11-25T05:00:42.406347Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (HIGH) $176 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-reach-176-in-december-2026"
  },
  "0xcb1b17b11e423da229ec8c7b94e05710fa9eb39da620016c290b6dda984fd858": {
   "created_at": "2026-06-17T23:20:53.429883Z",
@@ -1459,6 +1506,7 @@
   "created_at": "2026-09-13T09:46:34.61651Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC O/U 0.5",
   "revisions": 1,
   "sha256": "8a9c5c3404136f7f95beba84e22cefa3c9815e61ca16d37683563626dfcb23d4",
@@ -1664,6 +1712,7 @@
   "created_at": "2026-09-20T08:16:12.988707Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 1 - 0 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",

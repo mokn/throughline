@@ -26,6 +26,15 @@
   "sha256": "d1bca6fa825f83b6e6f5ff5b9ac663663073ddd3dc1305f3b0bff7d3f84fdb37",
   "slug": "nba-2026-27-per-leader-jaylen-brown"
  },
+ "0x0abf100ed64f6480892678270a23521feb3599a846057a6fef205fdd0d0893f8": {
+  "created_at": "2026-11-25T05:02:05.65065Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (LOW) $128 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-dip-to-128-in-december-2026"
+ },
  "0x0bb932ee2d75dd9f4aeb008b4f3ecc4767fe52c7df1c7a439d3b968e1a0c6af8": {
   "created_at": "2026-11-23T16:34:06.561406Z",
   "first_seen": "2026-11-23T18:08:26Z",
@@ -193,6 +202,7 @@
   "created_at": "2026-08-04T18:09:31.861396Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Iowa Senate election by 0%-3%?",
   "revisions": 1,
   "sha256": "0ab5cdbb11451c9b59493acb05bec3489ad6e575e97f390e3fbb71a9b708ce7b",
@@ -419,10 +429,20 @@
   "sha256": "06087f46164bcbb9fd1a366aa133afc960ce9d5bda1bc7565014ad7fc50f0bd0",
   "slug": "will-us-births-in-2026-be-between-3pt50-million-and-3pt53-million"
  },
+ "0x5409c3055a531c6e0c48705740cf2d6e358515be7d55872ee1ea369e26d5bdf8": {
+  "created_at": "2026-11-25T05:00:23.986407Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (LOW) $260 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-dip-to-260-in-december-2026"
+ },
  "0x590dd7b042f31acbe0853775c104b4ce6879362932aa6b5948c5952e34f0f6f8": {
   "created_at": "2026-08-11T17:53:23.672907Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-07 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "f0db4b7bddda0145ba14da708a1bb26d29d95c91f9df15c257634ba822aa54e2",
@@ -615,6 +635,7 @@
   "created_at": "2026-09-13T09:15:39.946463Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Crawley Town FC 3 - 2 Barnet FC?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
@@ -897,6 +918,7 @@
   "created_at": "2026-09-20T08:47:26.303434Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "dba3ecdd85d4a052ef335ccccca76fd5c64163c53545eca2f8a635e5c937afe1",
@@ -1054,6 +1076,7 @@
   "created_at": "2026-09-20T08:45:16.807351Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "e8e0598d8d932eb26d1b17b54bbb7ec8e3bfdc2a3205e4580b1cf1ad6e9e9e93",
@@ -1085,6 +1108,15 @@
   "revisions": 1,
   "sha256": "7d9c9e96c71d8d60746880c4ef48f0acd4c22392712d31ac3cbc61c80023af6c",
   "slug": "lisa-su-announced-resignation-or-removal-by-march-31-2027"
+ },
+ "0xb9cc8d22351f9b8cfcfb184130f7a21a898f3cca358baf7f02c03b6e8391dcf8": {
+  "created_at": "2026-11-25T05:01:17.017323Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (HIGH) $135 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-reach-135-in-december-2026"
  },
  "0xbbded1cb6d6861c3fdcb829a8429d1d43ba6008584b0d9c809f6f4fbfd62cef8": {
   "created_at": "2026-10-25T10:45:17.016062Z",
@@ -1547,6 +1579,7 @@
   "created_at": "2026-09-13T09:16:10.878953Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC to win the second half?",
   "revisions": 1,
   "sha256": "c28b2b55585bf759d713106fb43825e190c2ec9838bf432de9d5d36565cd7c2b",

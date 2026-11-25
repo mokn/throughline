@@ -149,6 +149,7 @@
   "created_at": "2026-08-11T18:49:10.679139Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "280d6e3e22e7477a19b15711eadf655f80f799cfa41662733f9c7919c3b16b6e",
@@ -213,6 +214,7 @@
   "created_at": "2026-08-07T20:30:38.820404Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-04 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "3fc8f46216c8044f7d1f899aa3a912475e872c7fef56b3d4de99e00bd46e54dd",
@@ -383,6 +385,15 @@
   "sha256": "53f2cccdd30dbf0bb4cea2f99e8b9fc7d6214c4e1a9821a8454c8f513dd6f1b8",
   "slug": "will-sd-almeria-be-promoted-to-laliga-2026-27"
  },
+ "0x4ea15bc006c103e2f0ddda199a4990c1784231eddba88a55f0912b94bbcce0b7": {
+  "created_at": "2026-11-25T05:00:27.977505Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (HIGH) $700 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-reach-700-in-december-2026"
+ },
  "0x4eaa5a491251ab3e99882402a53e9416945d585db1752e10a182d4b1c26db2b7": {
   "created_at": "2026-08-10T23:56:41.43185Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -506,6 +517,7 @@
   "created_at": "2026-09-13T08:15:33.862404Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 1 - 0 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
@@ -972,6 +984,15 @@
   "sha256": "c7780813205dd3b16ebd8db3909b4771d993a9ed5c888ce4bbac27c0a697b284",
   "slug": "will-cryocells-play-for-mibr-in-2027"
  },
+ "0xac355b49e7638d6a25423836bb2efa8c1ad71bd7e08fee55e21ba2c7befa4bb7": {
+  "created_at": "2026-11-25T05:02:17.001645Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (HIGH) $3,800 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-reach-3800-in-december-2026"
+ },
  "0xaf86364d1ef39ae2adca675447ea9dd52400b1ab0f3f277a2bc1f8dba69944b7": {
   "created_at": "2026-08-11T18:37:24.317788Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1194,6 +1215,7 @@
   "created_at": "2026-09-13T08:45:24.918889Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 11.5 Total Corners",
   "revisions": 1,
   "sha256": "faf518b3c694da8e1a4c854ce82c6aabd4bb243be48c65b6424ada1194b5daea",

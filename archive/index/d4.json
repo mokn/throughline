@@ -338,6 +338,15 @@
   "sha256": "8e0e8db5eb18a247d1a9828b8035ce88dfc3388f89fa119d9ffe032d24b499e8",
   "slug": "f1-brazilian-grand-prix-h2h-leclerc-vs-piastri-2026-11-08"
  },
+ "0x32bfd44b608c7123686f1a6ffbc637fb58b901a8179f6d6db7edc1d8ae49ccd4": {
+  "created_at": "2026-11-25T05:01:05.965573Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $48 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-reach-48-in-december-2026"
+ },
  "0x32cb21d1c92e3538bec7e8efa2eaf13b9ace96361223ff5cdb20fdfdb62dbad4": {
   "created_at": "2026-08-05T12:00:14.961508Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -374,6 +383,15 @@
   "revisions": 1,
   "sha256": "8eb61db9408e0f4f32c1421e4762e4a41c9adc644fcbfcb87f8e9ee7afe18eba",
   "slug": "will-kevin-castaneda-guadalajara-be-the-top-goalscorer-of-the-2026-liga-mx-apertura-20260729164435044"
+ },
+ "0x3c0c97f66a747ed0ee99c181ad46c527643c6b47fceba5d5dd77563d0b9c9ad4": {
+  "created_at": "2026-11-25T05:00:56.169382Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $132 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-dip-to-132-in-december-2026"
  },
  "0x3cfdfce385e29dfb445c5eee4cd988da5c54047487dcb8e9384f20bf1ebf94d4": {
   "created_at": "2026-10-31T11:30:44.254456Z",
@@ -656,10 +674,20 @@
   "created_at": "2026-08-11T17:53:12.590299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-05 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "d47c070996fae6764cb7c92539bcfab712f59efe342104e94f3524155ae476e1",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-05-house-election-by-0-3"
+ },
+ "0x6890adebe994be15817d59e3ac07730da6af1015e28ef909a5b68257e63ab7d4": {
+  "created_at": "2026-11-25T06:26:15.646691Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Ali al-Zaidi visits Lebanon by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "bed2c5310e9d7c00d3d5eaae24379b174b01d125274e8f1b3197b7cb9ff48687",
+  "slug": "ali-al-zaidi-visits-lebanon-by-december-31-2026"
  },
  "0x6947d1e419f570b92a6aa509cbb2eaf137fa9a0a1618b669b87a0bb354af3bd4": {
   "created_at": "2025-12-24T20:53:38.516921Z",
@@ -779,6 +807,15 @@
   "revisions": 1,
   "sha256": "301a9cdf4043278dfdd2371b1ff551cf209d46b33506cb4fc8f47e8a8169ef52",
   "slug": "first-round-outright-winner-in-the-ga-09-house-election"
+ },
+ "0x7e6b57d6ccabec3414274f41811750b13a0e55fe0b3a1cfe734bf02f2f2a2ed4": {
+  "created_at": "2026-07-22T19:55:48.202041Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh O/U 3.5 Corners",
+  "revisions": 1,
+  "sha256": "632b1e3f5b867cb989e804f415082c86ea8c6a8f5e75cda0d94586ad5b208050",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-team-away-3pt5"
  },
  "0x7ff4e4b2f389acdd96ef18bb34684b9219a972b7ef0cde5856d28f5d5325f3d4": {
   "created_at": "2025-12-12T12:41:08.018734Z",
@@ -1153,6 +1190,7 @@
   "created_at": "2026-08-18T14:22:54.650514Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Rhode Island be between 300,000 and 350,000?",
   "revisions": 1,
   "sha256": "4d40aa21f65099410b6216a448af243a4b0747010f944d9396b541c270950dd0",
@@ -1171,6 +1209,7 @@
   "created_at": "2026-09-20T08:47:18.138503Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Leicester City FC (-3.5)",
   "revisions": 1,
   "sha256": "796442ed320690b244ae979b707a33aa68f8606de0f89f2c6b4cd9ec50380ad8",
@@ -1189,6 +1228,7 @@
   "created_at": "2026-09-20T08:47:22.679212Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC O/U 3.5",
   "revisions": 1,
   "sha256": "109516c656f27e3d6d0dd83f9a132c29ac8dfb53763b7485996bd7ce9879cc64",
@@ -1297,6 +1337,15 @@
   "sha256": "b3d3f9a68dc1edecaf29840f61f873072a7f5c6f080a94c6984d9e79ff804aba",
   "slug": "will-daniel-barreda-pavon-win-the-2027-campeche-governor-election-20260803173851241"
  },
+ "0xc746d49757447d3d4bde1d938c906e67d61ad01673524296430f2aab4f22f2d4": {
+  "created_at": "2026-11-25T14:08:14.939482Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Nvidia be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-nvidia-be-the-best-ai-lab-at-the-end-of-january-2027"
+ },
  "0xc7fc75c4a3f62242c8058b088ba5799730d264db4bb8178766b6037058401bd4": {
   "created_at": "2026-09-02T21:58:08.431894Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1338,6 +1387,7 @@
   "created_at": "2026-08-11T17:53:16.215762Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-06 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "abaae569586364ab6dd011b43b5d7b85e1fc43981f1c9e9e44ee66b3f3d4906e",
@@ -1452,6 +1502,15 @@
   "sha256": "0861b0917557ce5a0ed6c49a96f98e143913679ae466f13d386ea5eaf6cc3f3c",
   "slug": "will-pnv-win-exactly-5-seats-in-the-2026-spanish-general-election"
  },
+ "0xdcf3563fc468c0d894aa80414b95a93dc824d8104a78d992eb1de4fd569df9d4": {
+  "created_at": "2026-11-25T00:02:54.868824Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 35 and 44 on February 26?",
+  "revisions": 1,
+  "sha256": "ef61cac4cf13afe60777198ad34294d8ef0b0f7fd088a65e218bcd036fc451d8",
+  "slug": "will-the-fear-greed-index-be-35-44-on-february-26-2027"
+ },
  "0xdd0a7ba39f4f63700241b01fabe6b08e3a36ccb375d3b5ff05257321838cead4": {
   "created_at": "2026-10-01T23:14:42.294193Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1465,6 +1524,7 @@
   "created_at": "2026-09-13T08:15:34.834782Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 3 - 2 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
@@ -1487,6 +1547,15 @@
   "revisions": 1,
   "sha256": "a2de755edd0da5702fe8d50823deac0d9fa8af90b37e540cac0855af7bd2108c",
   "slug": "will-atalanta-score-the-most-goals-in-the-uecl-league-phase"
+ },
+ "0xe5023cb54d6435c64b8875477fb4bcda1488ac36b8cc135167feb6de456083d4": {
+  "created_at": "2026-07-20T09:03:47.262288Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 3 - 2 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-3-2"
  },
  "0xe6acc3f8d1596d3a1bd0bcdbc863d4229dc796553439c7b8aea17df8ae8b69d4": {
   "created_at": "2026-08-18T14:22:59.680583Z",
@@ -1626,6 +1695,15 @@
   "revisions": 1,
   "sha256": "12338eb608824b08eb9a332c46bedc3275280cfaf9a8f9f012b015686d8a952c",
   "slug": "jd-vance-2028-presidential-odds-leader-on-november-30"
+ },
+ "0xfa43fa02b3b0413206e35448449504d203e689a9dc33d71cc097e4848d2a24d4": {
+  "created_at": "2026-11-25T05:01:12.320196Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $176 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-reach-176-in-december-2026"
  },
  "0xfa527816f741f3bc46d267dc99146dd2c2e90afdc72e08faf932f154b35d3ad4": {
   "created_at": "2026-11-12T18:40:54.520539Z",

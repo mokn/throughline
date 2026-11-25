@@ -172,6 +172,15 @@
   "sha256": "08542b80934e954c40752cb74e1014419707c9103c93591bb83382b90037dfb2",
   "slug": "will-gilberto-loya-chavez-win-the-2027-chihuahua-governor-election-20260803173851753"
  },
+ "0x1b904e0f81060cbc589854262e0914661809fb661759574f25b81b6b33f3502b": {
+  "created_at": "2026-11-25T10:55:58.561969Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 200+ on January 31?",
+  "revisions": 1,
+  "sha256": "a8f8be8b1ee3505eecafcab9b3fd4c2526ed5af445182837f672925c18d0eb78",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-200-on-january-31"
+ },
  "0x1e9114ee34c0dd934d73b53f95f4a983246f8af81b33523ec54b4d9f8a5f502b": {
   "created_at": "2026-11-23T22:40:33.208182Z",
   "first_seen": "2026-11-24T17:44:50Z",
@@ -792,6 +801,15 @@
   "sha256": "d606587a2b65dc800216c059e0eb40f99dc8f8cf82a3138819e8682f2006792f",
   "slug": "will-bryan-woo-win-the-2026-al-cy-young-award"
  },
+ "0x65653e10e99de847e94a333215bd8028700e97250a7b9bcf6347e1cfbc637c2b": {
+  "created_at": "2026-07-20T09:03:41.59018Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 1 - 2 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-1-2"
+ },
  "0x669c8af4bf41cf25899ad46aa3a1473bfdd41c2f84bb7714a860ba8d2430f92b": {
   "created_at": "2026-08-11T18:25:51.019002Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1161,6 +1179,15 @@
   "sha256": "59097d6070ae27d464dfd9b59206721f26133aee7c7b249fef9de506af5787a6",
   "slug": "will-mikel-oyarzabal-real-sociedad-record-the-most-assists-in-the-2026-27-la-liga-season"
  },
+ "0x9a1632adabb8605e62a6aa5a6f3e5a265fdfe1ff99b122c93d77429c70bef52b": {
+  "created_at": "2026-07-22T19:55:44.948678Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: 2nd Half O/U 4.5 Total Corners",
+  "revisions": 1,
+  "sha256": "8ef3b30aca9fb447f3a3257cdc93c3be3d8e5242e4559e7e955959f62b0bf797",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-second-half-total-4pt5"
+ },
  "0x9e890e9f7a55782d992723ba35e186455a430c8adf14f84d0d937ead2dcc142b": {
   "created_at": "2026-08-11T18:13:42.416283Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1350,6 +1377,7 @@
   "created_at": "2026-10-18T09:00:27.418287Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 0 - 0 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -1644,6 +1672,7 @@
   "created_at": "2026-10-18T09:00:28.47144Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 4 - 0 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -1704,6 +1733,15 @@
   "revisions": 1,
   "sha256": "bdc901cd155eb3d0ee7afdc25f6ea01c67c9fe6e020feddb049d38f4787e4941",
   "slug": "will-beyonce-attend-super-bowl-lxi"
+ },
+ "0xe3f57fc21fa08a928bde14f6ac6d40260bd4422636913231b2340a58adb0482b": {
+  "created_at": "2026-11-25T10:55:32.176027Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait reach 40+ by January 31?",
+  "revisions": 1,
+  "sha256": "0eef4fc5bdf21eaa4480d57fddf4a996af8e6077cbca311893efc42d28d814ca",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-reach-40-by-january-31"
  },
  "0xe5b6626c2289a7aa8962f1f6e001119cd2c398a7160937416fe1c5a2c3671b2b": {
   "created_at": "2026-08-12T16:51:34.817036Z",

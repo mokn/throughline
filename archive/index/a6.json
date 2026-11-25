@@ -241,6 +241,7 @@
   "created_at": "2026-08-11T17:53:23.089869Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-07 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "f0db4b7bddda0145ba14da708a1bb26d29d95c91f9df15c257634ba822aa54e2",
@@ -866,6 +867,7 @@
   "created_at": "2026-09-13T09:46:32.308945Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Crawley Town FC (-2.5)",
   "revisions": 1,
   "sha256": "1d85e2ec7343ffcada42d058bf25a2043bfb2263a814a5c61253765ca864781a",
@@ -1404,6 +1406,7 @@
   "created_at": "2026-09-13T08:45:23.984631Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 8.5 Total Corners",
   "revisions": 1,
   "sha256": "77a475afdc9d3e48b36e851263f5285b5af662e01918e15a6bdd4df92d3e4503",
@@ -1498,6 +1501,15 @@
   "revisions": 1,
   "sha256": "a37b8bb0a085d057f9da75a55382b9874c0ef752a10ae51e53dd5089f8943df9",
   "slug": "h100-average-rental-price-in-december-2026-above-2pt90"
+ },
+ "0xeae9b190229db158a6d6c5963fbfdd8a6c6b70643189b4021ff81ab857a7fda6": {
+  "created_at": "2026-07-22T19:55:49.379741Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: Total Corners Odd or Even?",
+  "revisions": 1,
+  "sha256": "9707f6d06678a533aaebc28eb8c43ab18abd3cc41de2efaba4b9db2a7995a51c",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-odd-even"
  },
  "0xeb53e610c8d3a47ac1c64f83b92d366c373fc3ce46f6fa2d71bdcf616948dea6": {
   "created_at": "2026-09-20T08:15:50.912585Z",

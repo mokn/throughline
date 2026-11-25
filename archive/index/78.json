@@ -59,6 +59,7 @@
   "created_at": "2026-08-05T20:17:46.437404Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico gubernatorial election by 10%-15%?",
   "revisions": 1,
   "sha256": "ad9e2f9c895e6025fc9a4bd8490ad8162fad0a8a87aa285452fd446df566b329",
@@ -208,6 +209,7 @@
   "created_at": "2026-08-07T20:30:51.217908Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 ID-01 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "7a014bf118162aeaea4d65a862670150fbcee62c2239f6d90cb499b08e972ccb",
@@ -399,6 +401,7 @@
   "created_at": "2026-09-18T08:45:15.939332Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: O/U 8.5",
   "revisions": 1,
   "sha256": "9dc7fe2ac38bfb4975ffa74d8f2c662e2f527b289d0e8736c92cb92886f509d4",
@@ -699,6 +702,7 @@
   "created_at": "2026-08-11T17:54:05.867855Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-14 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "f874aae0e7386ac84a7ca6125ec17ed282c5aa2477e992f4cc6237c08dd10fae",
@@ -721,6 +725,15 @@
   "revisions": 1,
   "sha256": "025088b0e3e303dc37901f985f11d9335d7bedd478dba29b0855e581cde2f216",
   "slug": "el1-don-oxf-2026-09-26-first-to-score-home"
+ },
+ "0x6dcdcd3af1acacd0dc26e80c5f099a3bc7ac77da229f9b84e22fb1c0dbf42878": {
+  "created_at": "2026-11-25T05:19:25.972611Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "US imposes new sanctions on China by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "25fb95246c87a6148cd61d0297a58d2469939f417970e2c8c52215a483392b7c",
+  "slug": "us-imposes-new-sanctions-on-china-by-december-31-20261120"
  },
  "0x6ebec91cab4bb03f87c5b5884088c66a1ecd9c2968f5c4b0c41461b9c7571d78": {
   "created_at": "2026-10-13T19:55:49.033156Z",
@@ -1114,6 +1127,15 @@
   "sha256": "8be074edfc3a54868f95459bb19c9a527d23702e0a3254163523275aeb39e454",
   "slug": "will-the-national-action-party-pan-win-the-most-seats-in-the-2027-mexico-legislative-election"
  },
+ "0xa002166f4bca74a48864d7282d23ac7d0b3f28f0d1cfd825f49d45b74e995878": {
+  "created_at": "2026-11-25T05:01:20.155395Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (LOW) $90 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-dip-to-90-in-december-2026"
+ },
  "0xa0b41b691900bbec8012a96aea42289c5a6e1848a939a28bbdbd68a3a5c11f78": {
   "created_at": "2026-08-19T13:35:47.533921Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1201,6 +1223,7 @@
   "created_at": "2026-08-11T17:54:00.456187Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-13 House election by 5% or more?",
   "revisions": 1,
   "sha256": "4ce80f7325d5fa7a64ffab64eaca64c42a7317250ee50686131ec7ae73207c87",

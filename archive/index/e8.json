@@ -401,6 +401,7 @@
   "created_at": "2026-10-18T09:00:29.518715Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 4 - 3 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -749,6 +750,7 @@
   "created_at": "2026-09-20T08:45:13.91853Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 11.5 Total Corners",
   "revisions": 1,
   "sha256": "c06d099504f8ce5ccb611265d1187fa77a2669319c688aad53b9bf5a19f53203",
@@ -854,6 +856,15 @@
   "revisions": 1,
   "sha256": "14d713a70f92be9bee6edeb755faeaa75318b0842038808cae819025624c9c6b",
   "slug": "will-leo-da-silva-lopes-record-the-most-assists-in-the-2026-27-uefa-conference-league"
+ },
+ "0x7a8cb78573f8b7dd9438d156e6c5892d613540c7830f11507e67479ec0224ae8": {
+  "created_at": "2026-11-25T05:01:41.881606Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (LOW) $50 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-dip-to-50-in-december-2026"
  },
  "0x7be52087f397a99f0943922e08255c398cf4c84f41b4273ac2d423bf638695e8": {
   "created_at": "2026-08-10T15:50:23.755288Z",
@@ -1092,6 +1103,15 @@
   "sha256": "563ecc63bb23ec3a0c199caaf0aa2f23344c3e3e275dbf6814982a9373cf4892",
   "slug": "will-the-democratic-party-candidate-win-the-2026-pa-04-house-election-by-15-20"
  },
+ "0x94644d189975e8ca7e8b3bc921e4be2e4cd78c717a89446897958509b57c99e8": {
+  "created_at": "2026-11-24T18:12:11.847779Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Vatican III by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "90d84e9b7081bb68c7f7fd3bdf22666de292b9b4a0d2321012cc0cf7f3f69894",
+  "slug": "vatican-iii-by-december-31-2027"
+ },
  "0x959860856d5d5665a72651c96f2ab6a01f1352af685bacb60dcabf426c5c65e8": {
   "created_at": "2026-10-15T18:01:50.900265Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1250,6 +1270,15 @@
   "revisions": 1,
   "sha256": "f692ef8dacff6bf0bb75af37b44762982ff021d8b6883deadc6e97be2709ba9f",
   "slug": "will-the-green-bay-packers-win-more-than-10pt5-games-in-the-2026-nfl-regular-season"
+ },
+ "0xaa72031979216e40c55fb67f2303a1636fd6e2c91b7377c012dfa60058a346e8": {
+  "created_at": "2026-11-25T14:07:57.818021Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Z.ai have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-zptai-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
  },
  "0xad0e49d8a8f8ed1e11d2992bc90ba6a78473b1e65e9068ae4c23fea6d2ee45e8": {
   "created_at": "2026-08-06T09:00:27.586261Z",
@@ -1449,6 +1478,7 @@
   "created_at": "2026-09-20T08:45:13.665909Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "8864a890d3cee37f8e0d3a9bd30dd1d5a9d164573f2e7d9cc903e95a6a498e27",

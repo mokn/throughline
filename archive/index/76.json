@@ -200,6 +200,15 @@
   "sha256": "3223acc7af0e127c03a18af2e83915aa1fc688b957a77f30ab83c1c042433b4a",
   "slug": "bitcoin-all-time-high-by-december-31-2026"
  },
+ "0x18926a58de08063bbb3760039d25c25cd513bfdc95fc736c83bf511655d2c276": {
+  "created_at": "2026-11-25T10:55:28.892141Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait reach 30+ by January 31?",
+  "revisions": 1,
+  "sha256": "0eef4fc5bdf21eaa4480d57fddf4a996af8e6077cbca311893efc42d28d814ca",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-reach-30-by-january-31"
+ },
  "0x191ab3afd71ab7c38c87c5289754b89cf857b1deb08d7a8f56d44299641f4a76": {
   "created_at": "2026-11-18T19:51:20.864739Z",
   "first_seen": "2026-11-20T15:27:46Z",
@@ -251,6 +260,7 @@
   "created_at": "2026-09-18T09:45:18.258126Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Port Vale FC O/U 3.5",
   "revisions": 1,
   "sha256": "9980a8a5bda6a5c5f5057a1bd2f3a0f7a0047eb7df0fbe1419a7388828bafb8e",
@@ -624,6 +634,7 @@
   "created_at": "2026-09-20T08:45:16.327655Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "a4511600db2d13dd4323439608186ff3726d9746015181a05a142ebb3178775d",
@@ -692,6 +703,15 @@
   "revisions": 1,
   "sha256": "e05d9862ec79d2b38fc4750d01e9c0743a5a46e3dd3f7a8f04672921e88d8686",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-jaren-jackson-jr"
+ },
+ "0x5500d13a673ae70d61c7c94eb6ccf1739410f942f56a9d9613deeff57b577476": {
+  "created_at": "2026-11-25T05:01:52.461201Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceX (SPCX) hit (HIGH) $135 in December?",
+  "revisions": 1,
+  "sha256": "980971399bdb4ff3e8996bfac1dd7c04cba7f6b22deb08cd4a5aa4523dcba66a",
+  "slug": "will-spcx-reach-135-in-december-2026"
  },
  "0x55810a55f9c3c50db4d6d1674009b7e2b919ed47778d15eba36ddf20c4e2ff76": {
   "created_at": "2026-10-25T04:01:15.205631Z",
@@ -815,6 +835,7 @@
   "created_at": "2026-08-05T18:39:11.27607Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Hawaii gubernatorial election by 20%-25%?",
   "revisions": 1,
   "sha256": "eab5cd5d40490d26779fd949cd0b305b7368a4c4fd74962a9666617edc407ffe",
@@ -1354,6 +1375,15 @@
   "sha256": "8fe55ccd80d74a64fcd6306c947381871d0a7d9e79b154a376d6b384a5f238cc",
   "slug": "will-fatherland-win-best-picture-at-the-99th-academy-awards-20260727174029853"
  },
+ "0xbc3403f403302f11073f70b6b5031416ea067542767e6569bed4d4f56ec28776": {
+  "created_at": "2026-11-25T05:02:00.5613Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (LOW) $660 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-dip-to-660-in-december-2026"
+ },
  "0xbdb2364cad569a52bf2dc4d50c6b352882ddee3ac276fcd7474a5ddd6c897f76": {
   "created_at": "2026-06-25T15:09:59.215885Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1473,6 +1503,15 @@
   "revisions": 1,
   "sha256": "4c4a95340c6dbbf56d981210186fcfb72bb888e7a5d9e6f3885a73cf18fe02a3",
   "slug": "will-changchun-yatai-be-promoted-to-chinese-super-league-2026"
+ },
+ "0xccfaf449ee4f60bb56c0fc9dc5cf97860f45c7b156b6a258c309298145f33476": {
+  "created_at": "2026-11-25T05:02:06.960564Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (LOW) $120 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-dip-to-120-in-december-2026"
  },
  "0xcd941db23d092a8fb20a232380ba0575807585c74907d041a2250aa070746176": {
   "created_at": "2026-11-13T00:28:29.526917Z",
@@ -1802,6 +1841,15 @@
   "revisions": 1,
   "sha256": "c7d31f12e5635372c2b94dd3de1c32bdcc897a6e2098d08be13aa4e1d2d5cd5e",
   "slug": "will-jacksonville-jaguars-win-the-2027-nfl-afc-championship-539"
+ },
+ "0xf62e84e993010c7eb87fcda69759e337a43a539dca2828e3502271f90b782176": {
+  "created_at": "2026-11-24T21:01:30.179173Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Vera Rubin be rentable on-demand by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "6d53f67c056704b6d4698ea2dd5f002065fbbf893dce3ec3e43f7f42f73c34b3",
+  "slug": "vera-rubin-rentable-on-demand-by-december-31-2026"
  },
  "0xf64a8bcfe18fca883d6792f04e396699308299d9c661c30b8107df4a52345676": {
   "created_at": "2026-08-24T16:40:29.712901Z",

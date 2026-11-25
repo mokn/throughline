@@ -995,6 +995,7 @@
   "created_at": "2026-09-03T22:05:11.237726Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democrat win the North Carolina Supreme Court general election?",
   "revisions": 1,
   "sha256": "454f6fe30618a4809c4d6bc1df65996b332ad95cdab4458519a0d3ea6da8742c",
@@ -1347,6 +1348,7 @@
   "created_at": "2026-09-20T08:47:20.463697Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "6a1b3ecc83b4345f715755d5d4f0a7dc4ad5f32d1e80b0dcd6c0901b90703a10",
@@ -1648,6 +1650,15 @@
   "sha256": "c4248034b599587338c202a04c30e9f368a17db12fb154ff853036bd36440a74",
   "slug": "will-angers-finish-3rd-in-ligue-1-2026-27"
  },
+ "0xe4a741212b55ced0dcfac79ddc744cb586b599c34fbda9c9a7d7239087d118a0": {
+  "created_at": "2026-11-25T05:02:30.767809Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (LOW) $2.80 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-dip-to-2-80-in-december-2026"
+ },
  "0xe53868b94f61e68303f70182d3ebeb21d2e59a3dd973b33cef2c0d5e218659a0": {
   "created_at": "2026-10-15T17:01:36.6419Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -1680,6 +1691,7 @@
   "created_at": "2026-09-13T08:15:33.763277Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 0 - 1 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",

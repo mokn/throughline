@@ -48,6 +48,7 @@
   "created_at": "2026-09-13T08:45:23.655339Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC O/U 0.5",
   "revisions": 1,
   "sha256": "24f49f19b2ed7afbf7c0af70fe6b8828a3443d4a4bf7327f92006db67f4a37fa",
@@ -61,6 +62,15 @@
   "revisions": 1,
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",
   "slug": "will-lyon-record-the-most-clean-sheets-in-the-uel-league-phase"
+ },
+ "0x0a0f0204264e8b781fda86b9630a903d3c8fc1ff957ecff4382d96fd715e8ac0": {
+  "created_at": "2026-11-25T05:00:50.873085Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Netflix, Inc. (NFLX) hit (LOW) $25 in December?",
+  "revisions": 1,
+  "sha256": "39328c60a168d0a570c8c48615ce2f22a8568ae464f72e2a1d996d3da6c72908",
+  "slug": "will-nflx-dip-to-25-in-december-2026"
  },
  "0x0a2cfbea4659fc8d8bf095151e292a234f2864fd15e363297f9936b3327b9ac0": {
   "created_at": "2026-08-27T18:16:51.669829Z",
@@ -857,6 +867,7 @@
   "created_at": "2026-09-13T08:46:37.584831Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Both Teams to Score in Second Half",
   "revisions": 1,
   "sha256": "3008d5f23a6680446fd328253642c6836efc63a65a3d3273a8a1860e18281436",
@@ -893,6 +904,7 @@
   "created_at": "2026-09-18T08:46:16.733819Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 8.5",
   "revisions": 1,
   "sha256": "f8f8e27b42b51de040817fc99895736edde971cb8b4af668f6cb6c98913d921d",
@@ -958,6 +970,7 @@
   "created_at": "2026-08-18T14:22:55.049481Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Rhode Island be 450,000 or more?",
   "revisions": 1,
   "sha256": "4d40aa21f65099410b6216a448af243a4b0747010f944d9396b541c270950dd0",
@@ -1084,6 +1097,15 @@
   "revisions": 1,
   "sha256": "873f98771a395c3f20d9ff67f3210ca371405605ebdbf301fb8ce9f6a0b0e5df",
   "slug": "will-a-6pt0-magnitude-earthquake-occur-in-peru-this-month"
+ },
+ "0x81d08df658dfa3c9647f63e76e6c55b07d23fb6148d863903db448e0c7a189c0": {
+  "created_at": "2026-11-25T13:41:10.073494Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will GitHub's longest critical incident in December 2026 be between 3 and 6 hours?",
+  "revisions": 1,
+  "sha256": "43114806b6ae3628198917aedd971d392759c5ccb203cb3b080fce42a0ea8f16",
+  "slug": "will-githubs-longest-critical-incident-in-december-2026-be-between-3-and-6-hours"
  },
  "0x82928ab9e35c041842b7d6a6ca45a9722934967a4368c49c85152e3dc214f5c0": {
   "created_at": "2025-11-24T21:08:32.015171Z",
@@ -1747,6 +1769,7 @@
   "created_at": "2026-08-18T14:20:03.064669Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Hawaii be less than 310,000?",
   "revisions": 1,
   "sha256": "280b303c057971d8b23be3d39817a6d175b3cf73bfd49bab9f53e8af62904ae9",

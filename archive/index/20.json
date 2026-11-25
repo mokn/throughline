@@ -296,6 +296,7 @@
   "created_at": "2026-09-18T09:45:20.801542Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "ed6b802f10505d87598921e47337e6de82d1e10ad6f583b5bfd67582786888bd",
@@ -341,6 +342,7 @@
   "created_at": "2026-11-23T16:32:38.570449Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will GOSH (BC.Game) qualify to the Playoffs at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
@@ -461,6 +463,7 @@
   "created_at": "2026-09-18T09:46:21.24192Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "e8bc64978955a84f92009cf59bf4b4838ae627f9ae282e70ce5859e7dd4199d2",
@@ -479,6 +482,7 @@
   "created_at": "2026-09-13T09:46:32.496883Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Barnet FC (-2.5)",
   "revisions": 1,
   "sha256": "79da37cc3638b2020903e59c8565779a3cdea39854d7cb655e8c21bc36f41ba1",
@@ -678,6 +682,15 @@
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
   "slug": "will-the-cleveland-browns-have-more-than-8pt5-wins-during-the-2026-nfl-season"
  },
+ "0x58e8c3815143f679f252e61b5a994f6d06c3517f68aa88e3fbb7aca5be91f720": {
+  "created_at": "2026-11-25T14:08:12.568209Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Mistral be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-mistral-be-the-best-ai-lab-on-january-15-2027"
+ },
  "0x590f77d2dd20aceed6ab087cbf694290719cbba8f0dacf13a5f897edf445ea20": {
   "created_at": "2026-08-21T17:37:03.122048Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -737,6 +750,7 @@
   "created_at": "2026-09-20T08:44:09.465695Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: O/U 9.5 Total Corners",
   "revisions": 1,
   "sha256": "e55621ac263d64253b22cab24c164bdd74ca013e24f1ba8088ca91adcba5c0eb",
@@ -945,6 +959,7 @@
   "created_at": "2026-09-13T09:46:34.284804Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "b3a404113a2cc0f19de9f403c7b00d4ecdd0a79c5cb8a590f04479aaa1a7d89f",
@@ -1078,6 +1093,15 @@
   "revisions": 1,
   "sha256": "bc0baff55dd52810e9efb0af7d3ae7d56062eaf2fe32e0c4c7d5c055520aa2fe",
   "slug": "will-pakhtakor-be-relegated-from-uzbekistan-super-league-2026"
+ },
+ "0x8d5e5862becaa4f9d74cc9b70dd1274a47f7764bc15177016911a849f60e9320": {
+  "created_at": "2026-07-22T19:55:45.956911Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Dynamo Kyiv O/U 2.5 Corners",
+  "revisions": 1,
+  "sha256": "f2f783dbe9f067ac2fdd0ec460039abd3c966cab00845a43240efabb6b9ffa93",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-team-home-2pt5"
  },
  "0x8dd299e4a80cfe543e65beb741a6513a382d9821c1c8b73ffbb2747d850cea20": {
   "created_at": "2026-08-07T16:01:25.934346Z",
@@ -1345,6 +1369,15 @@
   "sha256": "fc361059ba9effa85b3f74a3643a9358726868c234c844bd86d381ecc4156c2d",
   "slug": "will-margaret-inusa-yahaya-win-the-2027-plateau-state-gubernatorial-election"
  },
+ "0xb21f165586a17f1b823ac4864bb83e1760f8005ff8848db5ab0f1cec20521220": {
+  "created_at": "2026-07-22T19:55:49.773779Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: Team to Take First Corner",
+  "revisions": 1,
+  "sha256": "4e7fafe10bef7d66ed97d54c21ab8ee9c98f7edcd59847f2c071b31f2358c84d",
+  "slug": "ukr1-dyn-liv-2026-08-02-first-corner"
+ },
  "0xb5ecd834af1dadd92073877ceae7e714e73aa8724f1869d1e5a6e6093b542820": {
   "created_at": "2026-08-11T19:20:38.941957Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1430,6 +1463,7 @@
   "created_at": "2026-09-20T08:44:11.06345Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 1st Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "24bd46539b7716eee31bd3fc39db8f680b765ab14d29ee6003e28092faff5007",

@@ -359,6 +359,7 @@
   "created_at": "2026-08-11T18:27:41.103172Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NM-03 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "17cbd9229f49473236e2e0dc28b834098f8fbdb24c9b499d95c156edd5b89f0b",
@@ -454,6 +455,15 @@
   "revisions": 1,
   "sha256": "f6e28ce3e554166d6f8da46e161360a9ac6cd9fa553abd47462ffaabcfeb41e1",
   "slug": "will-meituan-have-the-1-ai-model-at-the-end-of-december-2026"
+ },
+ "0x44e6c982b65cab5633fe27cbb0d809a4d24c73111f5b48f75821d8bd5b8eea05": {
+  "created_at": "2026-11-25T05:00:55.712096Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $144 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-dip-to-144-in-december-2026"
  },
  "0x452d2cb84594f0e63830b3e0f5748264d9911ba351468adf86f111385dfd0805": {
   "created_at": "2026-10-13T15:55:52.415845Z",
@@ -926,6 +936,15 @@
   "sha256": "d244041d96e0be5577acebe3439a8d08c6cbd872dca79d8c85ea7b0032316975",
   "slug": "will-amon-ra-stpt-brown-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-yards-20260715211950730"
  },
+ "0x82720c607a23093efb56ebe5d36fcf98e5e1c566dd800395bf09781fa8675605": {
+  "created_at": "2026-07-22T19:55:42.569811Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 12.5 Total Corners",
+  "revisions": 1,
+  "sha256": "785e1aa8b1af296ec425741c813fae1bd82300efab7c6f501c3438b8a17c8373",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-total-12pt5"
+ },
  "0x827f293f4951c9352e2811d4afb239513c542820ca1eed2983d7989467dd3b05": {
   "created_at": "2026-07-02T18:53:21.746497Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -994,6 +1013,7 @@
   "created_at": "2026-08-04T18:09:32.989013Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Iowa Senate election by 12% or more?",
   "revisions": 1,
   "sha256": "0ab5cdbb11451c9b59493acb05bec3489ad6e575e97f390e3fbb71a9b708ce7b",
@@ -1149,6 +1169,15 @@
   "sha256": "c7d31f12e5635372c2b94dd3de1c32bdcc897a6e2098d08be13aa4e1d2d5cd5e",
   "slug": "will-pittsburgh-steelers-win-the-2027-nfl-afc-championship-898"
  },
+ "0xa156cfc67fc9a3477e9caeb396819f7b8a963fde7d5df9707749178eba38b405": {
+  "created_at": "2026-11-25T02:33:14.731549Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Nebius or any subsidiary default before 2028?",
+  "revisions": 1,
+  "sha256": "ecbdc7ecc8889741c3cb9ce37bb6c6076dc9493ae2430a275e5eb4b5546e4fa4",
+  "slug": "will-nebius-or-any-subsidiary-default-before-2028"
+ },
  "0xa318795d1b408b0ebd857e0d314b9997834aa7276987fe2dacbf451b6e976305": {
   "created_at": "2026-06-26T19:20:53.238506Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1291,6 +1320,7 @@
   "created_at": "2026-09-20T08:15:29.240489Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Blackpool FC 2 - 3 Leicester City FC?",
   "revisions": 1,
   "sha256": "ba88224a2a5a9ef82d0b51c75a070666bfdacf62be0730b43529cac6c9dab826",
@@ -1493,6 +1523,7 @@
   "created_at": "2026-09-18T08:46:16.555665Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 7.5",
   "revisions": 1,
   "sha256": "db2246d05785935d5eacb1c26e5a74ee2659e3919ce42ebd18107c78b0b97e09",
@@ -1702,6 +1733,7 @@
   "created_at": "2026-10-18T09:00:28.388814Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 3 - 1 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",

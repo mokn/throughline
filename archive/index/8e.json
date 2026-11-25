@@ -8,6 +8,15 @@
   "sha256": "b30ea15a663b8f6988e41fbf1fdd242c2195673b5c45d9fe2fd2f25014e48432",
   "slug": "will-rio-ave-win-the-2026-27-primeira-liga-championship-20260701201425849"
  },
+ "0x0c00d820058d448e05d03d90b0fa3aa575bb732c8fc1a4e3f1895ece8366cb8e": {
+  "created_at": "2026-11-25T05:02:30.005905Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (HIGH) $3.40 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-reach-3-40-in-december-2026"
+ },
  "0x0fdf6f74117cb248f8bc13913b626e994005c6903be8895a188cde17a594f58e": {
   "created_at": "2026-09-27T20:17:06.640036Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -71,6 +80,15 @@
   "revisions": 1,
   "sha256": "aa3b4b725555f57fa57a2c7520a4c07497c41dc82829bc94a17d380fd4a4761d",
   "slug": "will-tijuana-finish-the-2026-27-liga-mx-season-with-the-best-combined-goal-differential-20260722172229858"
+ },
+ "0x1b74011ab9cbac3aba111fb9b48e9291175665661b3bdde742133508ac601d8e": {
+  "created_at": "2026-11-25T05:02:10.595868Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (HIGH) 106.00 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-reach-106-in-december-2026"
  },
  "0x1d6fd80ad4fc18fe9bb5d2eb9e550322c75445c54bcfe75602f17012a114ad8e": {
   "created_at": "2026-08-04T17:55:58.413299Z",
@@ -178,6 +196,7 @@
   "created_at": "2026-08-11T17:53:55.190778Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-12 House election?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -418,6 +437,7 @@
   "created_at": "2026-09-13T09:46:34.445132Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "5c940fd24f37ea66e5040cd98bc1d680889190299e0f85bc05d3191254a02355",
@@ -678,6 +698,7 @@
   "created_at": "2026-09-13T08:45:24.697541Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "a892f80669d74b1c15a9c1191690eaf74722d673eb7aa7d43df07a7f965c6cc7",
@@ -1195,6 +1216,7 @@
   "created_at": "2026-09-18T08:46:16.221623Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Sheffield Wednesday FC (-5.5)",
   "revisions": 1,
   "sha256": "1d558322e6e5a11c19dc0c94547c8e1bf654b3112f1114ba9f27353cf75ba389",
@@ -1396,6 +1418,7 @@
   "created_at": "2026-09-18T09:46:21.593735Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "1cbcc5ce100894b548ffdce20031034f5f5a19e6aa3d856b1448a3f64e5e911d",

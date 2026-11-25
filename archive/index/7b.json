@@ -399,6 +399,7 @@
   "created_at": "2026-09-20T08:44:18.145577Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Team to Take First Corner",
   "revisions": 1,
   "sha256": "66ab72723a595de56415ea45c8d44b4b6f2111c2ae1a7bcb2fed2c3f9b6c09dd",
@@ -1114,6 +1115,7 @@
   "created_at": "2026-08-18T14:19:42.017455Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Iowa be between 1,200,000 and 1,250,000?",
   "revisions": 1,
   "sha256": "c8c222344af4dfa899eb3444c02e6795718d1d2cb692f90b0dac1e98387ff2fd",
@@ -1308,6 +1310,15 @@
   "revisions": 1,
   "sha256": "12bf78e8df13dc24d97d7401925db8b539bd3e8e87121ede46897aa2efb7d043",
   "slug": "will-montevideo-city-torque-be-relegated-from-uruguayan-primera-division-2026"
+ },
+ "0xaf6150f8453caa20d2c0666e1cd3d5f853ab5ad0f35249f28ccbdbeed603ae7b": {
+  "created_at": "2026-11-25T05:00:29.488784Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (LOW) $580 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-dip-to-580-in-december-2026"
  },
  "0xb0de59c706bcca0c7fd04478db043d20577d55b24b49ce47d2915e96f645067b": {
   "created_at": "2026-08-11T18:26:13.295285Z",

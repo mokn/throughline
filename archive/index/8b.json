@@ -91,6 +91,15 @@
   "sha256": "eac28f8c8d03ce54d216b2a0ddeaf6057b1a7c44e480a997dfc8bda68ffd550f",
   "slug": "cdr-bad-cdt-2026-10-28-first-half-team-total-away-1pt5"
  },
+ "0x110e1e0ecca97943d61860bfe4dac57ad9122df9b841b5246d000b87a74fe98b": {
+  "created_at": "2026-07-21T06:00:10.590028Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: 1st Half O/U 2.5",
+  "revisions": 1,
+  "sha256": "5dc1ed4d040745c6cdcb62d3a387ebfd522d780149d30a540a621a2482e14a2c",
+  "slug": "ukr1-dyn-liv-2026-08-02-first-half-total-2pt5"
+ },
  "0x140827494436fe70b6ba9f8dbafb40a2541e8b55b2475e58b689ce095939978b": {
   "created_at": "2026-08-18T18:59:24.339774Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -104,6 +113,7 @@
   "created_at": "2026-09-13T09:45:27.681415Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Both Teams to Score in Second Half",
   "revisions": 1,
   "sha256": "3b9f31bd668bbc521bd23ec0bbc0691da6d7a057ff73647d11ec79f18fa83d93",
@@ -222,6 +232,7 @@
   "created_at": "2026-09-18T08:46:18.715692Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "61ebad08618526eb79cfecdc259ac7caf75bd09d4c83b510978af962addaef1d",
@@ -276,6 +287,7 @@
   "created_at": "2026-08-18T14:20:04.285196Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Governor of Hawaii be 490,000 or more?",
   "revisions": 1,
   "sha256": "280b303c057971d8b23be3d39817a6d175b3cf73bfd49bab9f53e8af62904ae9",
@@ -945,6 +957,7 @@
   "created_at": "2026-09-08T16:05:49.3118Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Paris Saint-Germain finish last in UCL league phase?",
   "revisions": 1,
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",
@@ -1051,6 +1064,15 @@
   "sha256": "6240f775130e9cbc888c2d271e056bf21cdc43b05682eff1bca5431bfa215671",
   "slug": "ukr1-kol-pol-2026-11-01-spread-away-3pt5"
  },
+ "0x8e362db2fb284ca5a9aaff81565f79e537b7f71250742d57daf91e943ecc6c8b": {
+  "created_at": "2026-07-21T06:00:10.843843Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Dynamo Kyiv O/U 0.5",
+  "revisions": 1,
+  "sha256": "a5d1ef0eb8ac779acfb87254a666f683367acd288d3e2ce321797d4bc6537472",
+  "slug": "ukr1-dyn-liv-2026-08-02-team-total-home-0pt5"
+ },
  "0x8e8c42281afb239bf4f4d574b72016a6bca1c13edbcb000bb7cce69d30ba208b": {
   "created_at": "2026-09-02T20:14:50.478563Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1120,6 +1142,7 @@
   "created_at": "2026-08-11T17:53:53.392687Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-12 House election by 60%-65%?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -1129,6 +1152,7 @@
   "created_at": "2026-09-18T08:46:19.553043Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "8c47d77287b38948d8683fb7944316dcf56fe261c6f5bec916f5963260ba8dd1",
@@ -1271,6 +1295,7 @@
   "created_at": "2026-10-18T09:00:26.787538Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Draw at halftime?",
   "revisions": 1,
   "sha256": "271c7cae31c43cb405321b90b54a36bd3a5b6faf36d5fde32e93c9e0bd87c5c9",
@@ -1326,6 +1351,7 @@
   "created_at": "2026-08-11T17:53:34.548853Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-09 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
@@ -1385,6 +1411,15 @@
   "revisions": 1,
   "sha256": "7d7ea6e10d53e4c87ddc9ccdae11431f0a3156cb48bc5d42b209425e3d8c8d94",
   "slug": "2027-french-presidential-election-knafo-or-zemmour-for-reconquete"
+ },
+ "0xc54e964102f42985c299a7922cc99b670fe3a8aef38fba4a84cd3966a427d18b": {
+  "created_at": "2026-11-25T05:01:06.225742Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (LOW) $44 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-dip-to-44-in-december-2026"
  },
  "0xc784d8619412d0630b16d1462eadd240280dc27aff344c29d1eaf5070055fd8b": {
   "created_at": "2026-08-05T10:38:46.78603Z",
@@ -1454,6 +1489,7 @@
   "created_at": "2026-09-13T09:46:36.099111Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "bbc1d4a683c38ca6a8ea3a15788d759e69d839db9c0003b025b1d2bd01ee7bde",
@@ -1630,6 +1666,7 @@
   "created_at": "2026-08-06T21:37:14.551998Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-07 House election by 40% or more?",
   "revisions": 1,
   "sha256": "c27b309867417a131687fe025f0d6574c29203c78d32c2156951ab2465d793d6",

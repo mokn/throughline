@@ -23,6 +23,7 @@
   "created_at": "2026-09-13T09:16:12.06708Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 3 - 0 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -206,6 +207,7 @@
   "created_at": "2026-09-20T08:45:07.73148Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Wycombe Wanderers FC (-1.5)",
   "revisions": 1,
   "sha256": "b2316b73a7315131810c994444d240e9dc587d83a86609b52f58cd34fea64306",
@@ -487,6 +489,15 @@
   "sha256": "6ca1d6274fbaa52a0a48c645e8536532afdfab119380c2749865dfc11dc37600",
   "slug": "betclic-elite-2027-champion-bcm-gravelines-dunkerque"
  },
+ "0x48810fc7f4969c3e3532c232ddaf6833669f5b817a9a2c2747c4bb05547d3909": {
+  "created_at": "2026-11-25T13:08:02.786506Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be 3 US aircraft carriers in CENTCOM on December 31, 2026?",
+  "revisions": 1,
+  "sha256": "edc0698ee4ffdb93fa6992031c0eafec7f98ee0bf11928f113612158bb4ba96e",
+  "slug": "will-there-be-3-us-aircraft-carriers-in-centcom-on-december-31-2026"
+ },
  "0x48a4e6f97ddfc4d896dea64450a9976123685c2c7e774e24413d722fdf1dc709": {
   "created_at": "2026-10-25T04:01:46.704907Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -701,6 +712,7 @@
   "created_at": "2026-08-18T14:23:16.643204Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from North Carolina be between 3,900,000 and 4,100,000?",
   "revisions": 1,
   "sha256": "e52c2a554891faeaecba5a763932e6ab0fc42457d8c62ba72afbfee1c9868cda",
@@ -1036,6 +1048,7 @@
   "created_at": "2026-08-05T20:56:47.144395Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Rhode Island gubernatorial election?",
   "revisions": 1,
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",
@@ -1270,6 +1283,15 @@
   "revisions": 1,
   "sha256": "46e3f42cb9a43eb76759c9a843c32b0a59e4c05b11db968b28e2bea3a7ddd362",
   "slug": "f1-las-vegas-grand-prix-driver-fastest-lap-alonso-2026-11-21"
+ },
+ "0xbc9edab52560781830625251f0363cc84bf6c97aae9515a1e6f2343175b5ae09": {
+  "created_at": "2026-11-25T05:02:28.592327Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (HIGH) $4.60 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-reach-4-60-in-december-2026"
  },
  "0xbcf4f492e81b81cc88479957a615054d46db80a0b35e736a18193949c62f2a09": {
   "created_at": "2026-04-14T16:04:13.670839Z",

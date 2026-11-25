@@ -315,6 +315,7 @@
   "created_at": "2026-08-11T17:53:27.703244Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-08 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",
@@ -396,6 +397,7 @@
   "created_at": "2026-08-06T21:34:49.707154Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 AL-03 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "2369326350f4a2675b964f4fff2ac4b22ca057b880266050ad5350905ed94d2e",
@@ -414,6 +416,7 @@
   "created_at": "2026-09-20T08:16:14.888217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 2 - 1 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",
@@ -1035,6 +1038,7 @@
   "created_at": "2026-09-13T09:45:31.310048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "c932b33442b4a6d140ea54d70066ced2cfbeb505e5bdf2ee55de27081e3c3e88",
@@ -1262,6 +1266,15 @@
   "revisions": 1,
   "sha256": "7b2c2331285860ee9fd4510aff0ee734a16a6300ebf67c57ef7ae15cb25b3ddd",
   "slug": "will-forgotten-island-win-best-motion-picture-animated-at-the-84th-golden-globes"
+ },
+ "0xae1822ee45c0a2265e1d0aa7540d03a743a28af862d2d203c132cd48df0d53c3": {
+  "created_at": "2026-11-25T05:01:28.487418Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $50 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-dip-to-50-in-december-2026"
  },
  "0xafc67b1f00c263b0189cbd3506fed054699ba738f62d093ebb9e0d3c229cc2c3": {
   "created_at": "2026-03-26T19:03:21.719272Z",
@@ -1524,6 +1537,15 @@
   "revisions": 1,
   "sha256": "848dd1ad960dd5710feb380849cadbd2aada0cd5e7822565ca34cc79c0c6d1b0",
   "slug": "2027-soccer-egypt-premier-league-winner-al-ahly"
+ },
+ "0xcfecabc76d3f4beb00729cd8362b11f488ddacc6eaffd8ede193d5298179f4c3": {
+  "created_at": "2026-11-25T05:00:53.776045Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (HIGH) $192 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-reach-192-in-december-2026"
  },
  "0xd11ac1f0784d2ebd33ee876e3e899d10c89687db8fd69a4d6632a7c6e97464c3": {
   "created_at": "2026-07-24T01:47:12.60115Z",

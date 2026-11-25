@@ -158,6 +158,7 @@
   "created_at": "2026-09-01T09:00:13.963701Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 1 - 0 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -446,6 +447,7 @@
   "created_at": "2026-08-04T18:29:24.004355Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico Senate election by 21% or more?",
   "revisions": 1,
   "sha256": "98d8a0e31e3806cfbf24113030ca9ac71f76b38df5fa6a26c34636690cc43ca9",
@@ -564,6 +566,7 @@
   "created_at": "2026-09-13T09:46:35.760369Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "f4ad72e1b46c33cc428d45e29b843a97f1c26a78c97c699a69866f9f499ab7ba",
@@ -950,6 +953,15 @@
   "sha256": "71e8beeabf186e1af17a77a9ea8b9e66f0cce38b51272cb1b8e43d590cc3a084",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-20-house-election-by-50-55"
  },
+ "0x965bb8f16d4ac452ff982261345ef626e0246992e452476fb6c9eca94d7d6025": {
+  "created_at": "2026-11-25T05:00:08.655522Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (HIGH) $570 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-reach-570-in-december-2026"
+ },
  "0x999b5511cb80e17cd5379e2617d20bf4fee9c1b4d7d27022e73302d0125d1825": {
   "created_at": "2026-10-02T19:44:09.692934Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1012,6 +1024,15 @@
   "revisions": 1,
   "sha256": "e1a85e236d7387863aa789f6538202f0c47f1bd644c05c6f36a382d8ec3ed15c",
   "slug": "will-islam-makhachev-remain-1-in-the-ufc-pound-for-pound-rankings-678"
+ },
+ "0xa0fc12b668c84c0c4412e3d5c1e3d50de8fc04305c1eb701739d2b17852eba25": {
+  "created_at": "2026-11-25T05:00:17.303026Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $264 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-reach-264-in-december-2026"
  },
  "0xa1e92bd8d5e561efb6f3c9e299b987c69647a702fd169e6dcd7f66d927d12c25": {
   "created_at": "2026-08-10T23:56:25.102299Z",
@@ -1349,6 +1370,15 @@
   "sha256": "5cda66ad81637be3e0ca8836c7609a36a7e6069ae52a304e1404debbaa9dd28a",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-delaware-be-475000-or-more"
  },
+ "0xd7354f4a40ec0a9d5e1cae1b7bda60a582a3b2e0dcb59b448a4bfccc6f28a525": {
+  "created_at": "2026-07-21T06:00:08.871075Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 0.5",
+  "revisions": 1,
+  "sha256": "c787b7cc08542301309452319a0cd86cb04bd44e287353a4d0eb47407bfbac8a",
+  "slug": "ukr1-dyn-liv-2026-08-02-total-0pt5"
+ },
  "0xd82f7dc629cbaac0e7888d1cf62ec676c9ed5c203f6e548b9895032be3889b25": {
   "created_at": "2026-08-05T20:16:51.810152Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1371,6 +1401,7 @@
   "created_at": "2026-08-07T20:30:39.646754Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-04 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "3fc8f46216c8044f7d1f899aa3a912475e872c7fef56b3d4de99e00bd46e54dd",
@@ -1452,6 +1483,7 @@
   "created_at": "2026-08-11T17:52:14.500517Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-01 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "b12775c2842c7a0e2a1f17ba53eda380aee2a8555e88a0ef7e196995245a10ed",

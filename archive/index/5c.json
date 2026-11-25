@@ -285,6 +285,7 @@
   "created_at": "2026-09-13T09:16:12.184576Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 2 - 2 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -689,6 +690,7 @@
   "created_at": "2026-09-13T09:15:38.795433Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Second half draw?",
   "revisions": 1,
   "sha256": "3c9dbd759228b202748b7b1737187af61006d7d36974a05694c3c7c8358cac3c",
@@ -819,6 +821,15 @@
   "revisions": 1,
   "sha256": "905399f4c4e446384b8537ce28a9991afc84b5ad63b0575408c7a4d4045c7471",
   "slug": "will-az-reach-the-2027-uefa-europa-league-round-of-16"
+ },
+ "0x7d73f7991a7bc1153d9fdc420a931d5a8dfd97f3dc70fc983791846c79816d5c": {
+  "created_at": "2026-11-25T10:55:33.836804Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz be 7+ on January 31?",
+  "revisions": 1,
+  "sha256": "2c75897f8485a7508befd70cdd6589c767ce21c41fc1bfdb151bd6b812dbf40e",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-be-7-on-january-31"
  },
  "0x7e7d09106b90c98194cbb7f8373a5611fcc679fc4ec95b4aa40ac0b20f84b45c": {
   "created_at": "2026-11-05T20:54:09.993946Z",
@@ -955,6 +966,15 @@
   "sha256": "81589217be82e07d0f9b026e346642833e0a0cc4aa5a4e12f47011117a238758",
   "slug": "openai-announces-a-full-training-pause-in-2026"
  },
+ "0x9a687b7952c4d8949006e9cd4a019409ca65149c68ea1a9996bfb6c56e83b05c": {
+  "created_at": "2026-11-25T13:18:52.393642Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Andy Burnham by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-andy-burnham-by-december-31-2026"
+ },
  "0x9bcdb6f10feecd4b3d386f1014365834ab268262fe8c15ba3db7da9e834cf55c": {
   "created_at": "2026-08-28T05:57:36.165884Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -995,6 +1015,7 @@
   "created_at": "2026-09-13T08:16:14.725679Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC to score first vs. Barnsley FC?",
   "revisions": 1,
   "sha256": "2bed0822afcf4bde6f148ccfc831af55cfd545c7f57d7d9ea0bd3d033254fc81",
@@ -1373,6 +1394,7 @@
   "created_at": "2026-08-07T20:29:07.933062Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-01 House election by 55% or more?",
   "revisions": 1,
   "sha256": "f8b6ab6faabb7923e06a7a34ce2beedcbe7e887c4eb7a1079b105effba5c876f",

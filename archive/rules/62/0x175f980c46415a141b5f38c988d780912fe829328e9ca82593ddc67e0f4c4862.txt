@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if the 7-day moving average of transit calls through the Panama Canal for January 31, 2027, according to IMF PortWatch, is at least the number specified in the title. Otherwise, this market will resolve to “No”.
+
+IMF PortWatch typically publishes a rounded 7-day moving average in the chart on its chokepoint page and an unrounded figure in its downloadable files. The figure shown in the chart will be used for settlement. If the chart is unavailable, the downloadable figure, rounded to the nearest whole number, will be used.
+
+This market will resolve once IMF PortWatch has published data for January 31, 2027. Revisions made after that point will not be considered, unless subject to the data integrity clause below. If that data is still unpublished 14 calendar days after January 31, 2027, this market will resolve on the most recent data published at that time.
+
+In the case that the Resolution Source publishes data, sufficient to settle a Market, that is clearly erroneous and the result of technical or operational error, or of unauthorized interference with the Resolution Source or its data, the Market may remain open for a period of up to seven (7) calendar days (ET) from the time of the original release, in anticipation of a correction by the Resolution Source. If the Resolution Source publishes a corrected value within that period, that value will be eligible for resolution. If no corrected value is published within that period, Polymarket will issue a Clarification to determine whether the originally published value may be eligible for resolution, or whether other action is required to preserve the orderly functioning of the Market.
+
+The resolution source for this market will be IMF PortWatch, specifically the Transit Calls data published for the Panama Canal at https://portwatch.imf.org/pages/44d73fd00bbc4f73a16d46d5beb11b4d.

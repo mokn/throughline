@@ -319,6 +319,15 @@
   "sha256": "aead6660634630c5af9e3cb1cff72348a760a3bd2e0dadd1fc4a52dc125a780f",
   "slug": "will-the-median-home-value-in-austin-metro-be-between-427000-and-437000-on-december-31-2026"
  },
+ "0x2f4a6095660ac5e36d1f86ec3bf97178d0965650afa5b7d4e8eb6ef6a8713531": {
+  "created_at": "2026-07-20T09:01:40.871801Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will FK Livyi Bereh win on 2026-08-02?",
+  "revisions": 1,
+  "sha256": "afd901453dc3e515cc02d5cd51cf1b5146f2deb5ebf0014907c492ebe8f620ed",
+  "slug": "ukr1-dyn-liv-2026-08-02-liv"
+ },
  "0x325e9fc7981b70861314fafc05edae7bd6f23bd95e6d89e43b06fdd025292b31": {
   "created_at": "2026-08-12T14:57:44.481134Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -441,6 +450,7 @@
   "created_at": "2026-09-18T08:46:19.050921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 2nd Half O/U 4.5",
   "revisions": 1,
   "sha256": "c1d0e63491ae7ae99d2889f6976f495b9b8a3db7b0fcde325287157dfc7932d0",
@@ -653,6 +663,7 @@
   "created_at": "2026-09-09T15:17:46.601421Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Lille finish first in UCL league phase?",
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
@@ -1020,6 +1031,7 @@
   "created_at": "2026-09-20T08:45:08.101928Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Wycombe Wanderers FC (-2.5)",
   "revisions": 1,
   "sha256": "57ea8c6f5505919f86b4894459f5a641e96e66e0d55be4fe6b0c9bb59fe5262c",
@@ -1085,6 +1097,7 @@
   "created_at": "2026-09-20T08:47:23.592513Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "6d964292ed2c208152560bd9c06f7043d28190a70d493bf02e754a0dff92c0c1",
@@ -1300,6 +1313,15 @@
   "revisions": 1,
   "sha256": "035fa49455a132726f1bfbf46d5445f816000ae6aa74a82ba4c146d0510c6155",
   "slug": "anthropic-ipo-closing-market-cap-above-1pt4t"
+ },
+ "0xd34cb8f979e67495773b33c43515241a18368fe9899ca77c0fd4c86b49d62031": {
+  "created_at": "2026-11-25T00:02:53.455102Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be 24 or below on February 26?",
+  "revisions": 1,
+  "sha256": "ef61cac4cf13afe60777198ad34294d8ef0b0f7fd088a65e218bcd036fc451d8",
+  "slug": "will-the-fear-greed-index-be-0-24-on-february-26-2027"
  },
  "0xd41d8c0b8f5ed02fb6564162c688dbcfeb37609d26537ead649d58b217500131": {
   "created_at": "2026-09-18T00:04:55.100538Z",
@@ -1572,6 +1594,7 @@
   "created_at": "2026-08-11T17:52:14.884618Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-01 House election by 12% or more?",
   "revisions": 1,
   "sha256": "b12775c2842c7a0e2a1f17ba53eda380aee2a8555e88a0ef7e196995245a10ed",

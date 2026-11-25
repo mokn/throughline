@@ -588,6 +588,7 @@
   "created_at": "2026-09-13T08:45:21.688616Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: O/U 5.5",
   "revisions": 1,
   "sha256": "761bceabc3b08f5f20acedcc49c4453724c797d71629008a6a481ffab6d38823",
@@ -1430,10 +1431,20 @@
   "created_at": "2026-09-20T08:45:16.326864Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "9524e479290633163bc5660e8bcd91bb7df79ac1f432d314fb868d9f5d025ea7",
   "slug": "el1-bro-wyc-2026-10-03-second-half-team-total-away-0pt5"
+ },
+ "0xd46e8954744da0660950b38cbbb232f98b6f549bddad26b7460eeb4adcff74da": {
+  "created_at": "2026-07-21T06:00:09.854381Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: Both Teams to Score",
+  "revisions": 1,
+  "sha256": "08beba6633fc489d7d59f0bb60115f2f9af340c3597cc5a685d24d4df7fd6548",
+  "slug": "ukr1-dyn-liv-2026-08-02-btts"
  },
  "0xd54aee538c7a10aae6be0a8bf545060ab3ce835c9f83a4686ca936ec7dfe44da": {
   "created_at": "2026-11-11T21:56:10.93509Z",
@@ -1637,6 +1648,15 @@
   "revisions": 1,
   "sha256": "686f31bff4389afef6af391d347c7ac79e6802ea97fa6a1134c88a610b8834e2",
   "slug": "will-rand-paul-win-the-iowa-republican-presidential-caucus-20261028214"
+ },
+ "0xeef848d03ac9b6e0a4e972c0f7133b815ec8e91d1e22ee3cad0c2fca7f3ab6da": {
+  "created_at": "2026-07-21T06:00:13.833764Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: 2nd Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "35304bc528a8576e401e51978266d2010ee953b1f14840e61fd16ffc1600e07a",
+  "slug": "ukr1-dyn-liv-2026-08-02-second-half-total-1pt5"
  },
  "0xefbf268c75ed23dbf22bdb6eb0d1b9c95965da9fb28cd316c1f0aa2213a940da": {
   "created_at": "2026-07-29T21:12:56.973378Z",

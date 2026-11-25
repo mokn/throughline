@@ -39,6 +39,7 @@
   "created_at": "2026-08-11T17:53:54.253678Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-12 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -238,6 +239,7 @@
   "created_at": "2026-09-01T09:00:14.236563Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 1 - 2 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -333,6 +335,15 @@
   "revisions": 1,
   "sha256": "b0ad0df7979bfbdce154873bbb69392967ea680cd700b56b2c57fb1b0437ec1a",
   "slug": "rome-odunze-7pt5-receiving-touchdowns-2026-27"
+ },
+ "0x33c7e21167c2b19652a0e2e69c854f788f1b1ac7242111bf82d1af94c628a9b8": {
+  "created_at": "2026-11-25T05:02:04.55236Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (HIGH) $136 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-reach-136-in-december-2026"
  },
  "0x34b2f2555d7b7cac5b41df683c12f3cdfd9189fe38bf2e82e8438b5e5f44c4b8": {
   "created_at": "2026-08-24T16:35:10.169348Z",
@@ -476,6 +487,7 @@
   "created_at": "2026-09-13T08:44:20.815693Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 1st Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "d4c20b812897e5c40ba57c947ca768c3dc6f69d1a3caa2d644c72e1935ee4a78",
@@ -913,6 +925,7 @@
   "created_at": "2026-09-13T09:45:32.720075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Team to Take First Corner",
   "revisions": 1,
   "sha256": "1cd19a1edadb0617b586efac0a8e92745967b332b1449f9ef49512bb20e620ff",
@@ -1301,6 +1314,15 @@
   "sha256": "ec3dab1fba7a90cb882188ca92c01407a4e9eefbe8cf01de63e66fdf1a84cce6",
   "slug": "will-isiah-canion-be-the-2026-sec-receiving-yards-leader"
  },
+ "0xc1a18548c8dabdaf0dbff30212178caf8b42b8e53bde8d19786121f9f9b6cdb8": {
+  "created_at": "2026-11-25T00:02:39.033175Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be 24 or below on January 8?",
+  "revisions": 1,
+  "sha256": "55b1f3ce73bd2ec1d29a3075c10339bf37432e2eeca6da3352804e301b5580cb",
+  "slug": "will-the-fear-greed-index-be-0-24-on-january-8-2027"
+ },
  "0xc1ba9e1dce5678bccef74cfbbd5037c282e2fcb7bc8cf0e4693cbb67a571efb8": {
   "created_at": "2026-08-20T21:43:29.124436Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1688,6 +1710,7 @@
   "created_at": "2026-09-20T08:45:11.470006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "13b838d00a48eb317002bf8ac19f5a4288fd0842ac306d3609851de22ff35df5",

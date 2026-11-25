@@ -49,6 +49,7 @@
   "created_at": "2026-11-23T22:13:42.476961Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Liquid go 3-0 in Stage 1 of the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "49b9ed0d03ccb498c5eaa1977225d38bbefd33d14792ccecf7e8afa2e2c74906",
@@ -161,6 +162,7 @@
   "created_at": "2026-08-11T17:53:10.243451Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-05 House election by 21% or more?",
   "revisions": 1,
   "sha256": "d47c070996fae6764cb7c92539bcfab712f59efe342104e94f3524155ae476e1",
@@ -188,6 +190,7 @@
   "created_at": "2026-08-04T18:09:32.306612Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Iowa Senate election by 3%-6%?",
   "revisions": 1,
   "sha256": "0ab5cdbb11451c9b59493acb05bec3489ad6e575e97f390e3fbb71a9b708ce7b",
@@ -350,6 +353,7 @@
   "created_at": "2026-08-04T18:36:21.917048Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island Senate election by 25%-30%?",
   "revisions": 1,
   "sha256": "115fdadb3d59a8617ce5d92e0a152f344a689308bc050ccaef8bd6041baff690",
@@ -477,6 +481,7 @@
   "created_at": "2026-09-13T08:45:27.566846Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "af66f1cd05d81bcafd21b49d4aa9afd999ec8b553c5cb24add2da2785c841441",
@@ -554,6 +559,15 @@
   "revisions": 1,
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-gavin-newsom-win-the-2028-us-presidential-election"
+ },
+ "0x480db222f41e70fc566f8dc36394eb8d61affad527cd19addd4b29fe2427e157": {
+  "created_at": "2026-11-25T13:12:55.534076Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be exactly 2 North Korea tests in December 2026?",
+  "revisions": 1,
+  "sha256": "1d304a63190516dc61774abbab5b269f22a475d18cf313c455798e9b1fd864a9",
+  "slug": "will-there-be-exactly-2-north-korea-tests-in-december-2026"
  },
  "0x48b0bb80ea0460eb7bb62d684681c186301de2423716c5cdebd605a09a0f7057": {
   "created_at": "2026-08-24T16:34:12.41464Z",
@@ -670,6 +684,7 @@
   "created_at": "2026-09-20T08:15:28.534463Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Blackpool FC 0 - 3 Leicester City FC?",
   "revisions": 1,
   "sha256": "ba88224a2a5a9ef82d0b51c75a070666bfdacf62be0730b43529cac6c9dab826",
@@ -787,6 +802,7 @@
   "created_at": "2026-09-20T08:45:11.161442Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "0abfc89be91189781f3d23e93c2128a75b68c1e2d65b8148c09f3e174a984739",
@@ -842,6 +858,7 @@
   "created_at": "2026-09-18T08:46:18.880036Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "f119c1b79f497431669c2e063f7d2dc56df051223f8f58c8d45a656dbf5f4406",
@@ -883,6 +900,15 @@
   "revisions": 1,
   "sha256": "18821f7cce977a6f071452c9ae0e4d8e6c01d6bc9adb6eacbad3c4a9af9ab843",
   "slug": "will-a-team-from-americas-win-the-pgl-major-singapore-2026"
+ },
+ "0x79f82f0759b1ec0f9c4dcc9bdee976ae2fffb28a3ac3df0a73789f2d82235c57": {
+  "created_at": "2026-11-25T10:55:59.275489Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 210+ on January 31?",
+  "revisions": 1,
+  "sha256": "a8f8be8b1ee3505eecafcab9b3fd4c2526ed5af445182837f672925c18d0eb78",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-210-on-january-31"
  },
  "0x7d57c35347ac6f323b628ca7f030a80240ed916c142044618150ac3102aa2457": {
   "created_at": "2026-09-17T18:18:45.567237Z",
@@ -1007,6 +1033,7 @@
   "created_at": "2026-09-13T09:45:21.905205Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 1.5",
   "revisions": 1,
   "sha256": "8cb714a7aaa96b7db5e6e01313fa707ed53ac9cbaa70dbd3a2a7316ec162fec4",
@@ -1120,6 +1147,15 @@
   "sha256": "d351261dd772e192647d9dc8fd7fadd9070b71ca6580415b2894d0f0d49ef248",
   "slug": "will-a-republican-party-candidate-win-the-2026-ca-22-house-election-by-6-or-more"
  },
+ "0x9da52a51a3160a3e299e80cb461d7d458513f299c8ff1cdc44667ed3f6238a57": {
+  "created_at": "2026-07-21T06:00:11.672607Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh O/U 2.5",
+  "revisions": 1,
+  "sha256": "ab3b97d4970ab0a86b58fb0996e1ec6dd95054153d8704b6e64bb5c3d561cf93",
+  "slug": "ukr1-dyn-liv-2026-08-02-team-total-away-2pt5"
+ },
  "0x9deeb93789e48f0f7786cd9932b6d7549082adadb0da6c519f191e16c6ac4057": {
   "created_at": "2026-08-05T16:18:00.597852Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1192,6 +1228,15 @@
   "sha256": "ea389334fc7b8d5da8598741d13ab519258f8bbe09c0f7902c2ca115f6b37097",
   "slug": "tyler-shough-3399pt5-passing-yards-2026-27"
  },
+ "0xa693284016260e5793c0d10f1ad1498c271dc5d4ece6a281c04badc519861857": {
+  "created_at": "2026-11-24T22:12:42.285415Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Trump declassifies new UFO files by January 31?",
+  "revisions": 1,
+  "sha256": "21792d32602e6bfefb5ac5970a853cb440c1f1367603eadd108e61aece80a926",
+  "slug": "trump-declassifies-new-ufo-files-by-january-31-20261120"
+ },
  "0xa6a03d04cc5562cc745af1d485a906dfa88148659f667d4e0699afd5daa8c357": {
   "created_at": "2026-10-13T15:43:47.174728Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1237,6 +1282,15 @@
   "revisions": 1,
   "sha256": "4e8d80b7eaaadd1b068a22af6919b03a353d8754960a6356ecc6ec84bf075292",
   "slug": "will-magans-fare-be-nominated-for-best-live-action-short-film-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xaa1c675c029c4996b4cbe1415fa28f48c138ed0346d2ca00b440794ad11da357": {
+  "created_at": "2026-11-25T00:02:54.081376Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 25 and 34 on February 26?",
+  "revisions": 1,
+  "sha256": "ef61cac4cf13afe60777198ad34294d8ef0b0f7fd088a65e218bcd036fc451d8",
+  "slug": "will-the-fear-greed-index-be-25-34-on-february-26-2027"
  },
  "0xaa45535cb562715b92811f9563704ae852954a708511caf9435fd77acf141b57": {
   "created_at": "2025-12-11T21:25:35.800387Z",
@@ -1291,6 +1345,15 @@
   "revisions": 1,
   "sha256": "95a7dea517c6be6d3dca99af88eeeb4022470398ff5ed77a1e96ff43e3841b2d",
   "slug": "will-surf-launch-a-token-by-june-30-2027"
+ },
+ "0xb5bc04cfe603712424b8bf654dd5a592fedceea1a23c74dfef67b1d70ff68657": {
+  "created_at": "2026-11-25T14:08:13.557115Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tencent be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-tencent-be-the-best-ai-lab-on-january-15-2027"
  },
  "0xb727430e8d6355c5baa79c084985da506ea99a92c373bcacf7c2a1f1af9c4e57": {
   "created_at": "2026-08-10T23:56:55.076543Z",
@@ -1749,6 +1812,15 @@
   "sha256": "89137a8e47b983f6bf96579df4586c9898318ad989d5780002d2cf452710cf33",
   "slug": "jayden-reed-849pt5-receiving-yards-2026-27"
  },
+ "0xefb3a5c544ee9380da4d2c676139f05bdb4137503a05ef90c8da156f2dbb4857": {
+  "created_at": "2026-11-25T05:01:21.351811Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (LOW) $75 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-dip-to-75-in-december-2026"
+ },
  "0xf02a5610c1d6efaa6c774ab5fbb358552771a21d58b7ff0c4b2e78c2885d8357": {
   "created_at": "2026-10-14T13:24:00.709184Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1762,6 +1834,7 @@
   "created_at": "2026-08-07T20:29:17.958795Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-02 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "90b899b3b3bb531a6c99490ff6b3abe35c161029d5eda4068dd6b190e9e95cb3",

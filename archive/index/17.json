@@ -1,4 +1,13 @@
 {
+ "0x01f89d5633cae586fde6ed875da1de48dabf6437eaa7075010653cbb02d27d17": {
+  "created_at": "2026-11-25T05:01:41.359017Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (LOW) $70 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-dip-to-70-in-december-2026"
+ },
  "0x08fec52b7894fd8dc27822f1e13944bb21eb6e769cca9e1e192c27610f8eb417": {
   "created_at": "2026-08-05T20:17:36.786734Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -237,6 +246,15 @@
   "sha256": "c39995b81026889ab38537f9b279ba8820b8630638ae057bbfcb695384bf877d",
   "slug": "will-valerenga-finish-3rd-in-norway-eliteserien-2026"
  },
+ "0x26e88e5a32d71200a82edad1fb79fb1cb73028e35cadc1c6a96ad1669c415617": {
+  "created_at": "2026-11-24T19:25:52.517049Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Dust II be the most played map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "c2266c7e117c3ca742fde840b8ff3e8e81a7937af863e53b6a88edf7d1cc855a",
+  "slug": "will-dust-ii-be-the-most-played-map-at-pgl-major-singapore-2026"
+ },
  "0x286d881a57be1a96ec1040e748bb56fb6016f3c49a3efbc5cc115f9d5927aa17": {
   "created_at": "2026-08-04T21:40:50.812441Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -287,6 +305,7 @@
   "created_at": "2026-09-18T08:46:15.882305Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Sheffield Wednesday FC (-4.5)",
   "revisions": 1,
   "sha256": "645c3893befb9a0c5f4d7d8f8b66c528171ca0efc41db3f0569928627090fd6c",
@@ -637,6 +656,7 @@
   "created_at": "2026-09-13T08:16:12.583748Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Barnsley FC to win the second half?",
   "revisions": 1,
   "sha256": "b827314f4e27265ebcdc05976147959c439e3ce108014e94c1d63c4d08a900be",
@@ -696,6 +716,15 @@
   "revisions": 1,
   "sha256": "832764c4dfec46b1ab3142ca4334d2d738d77378af3eccb8dabaa5af412cfb93",
   "slug": "will-claude-fable-5pt2-debut-with-an-hle-diamond-score-of-55-or-higher"
+ },
+ "0x7b9cf04ac16873b19ba3a8032047ee8bde4a9a14708e77bfba9613fcfc81ca17": {
+  "created_at": "2026-11-25T14:08:07.909223Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Z.ai be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-zptai-be-the-best-ai-lab-on-january-15-2027"
  },
  "0x7bec3361c613929e115c6abd4877a98da108559e9c58443f073ba6d9205e7617": {
   "created_at": "2026-02-09T20:45:34.252544Z",
@@ -952,6 +981,15 @@
   "revisions": 1,
   "sha256": "55c8fbfefb747543b840cceec2fefb848ffd87648cd3f9d729b1e981c6ca7535",
   "slug": "cze1-fsl-fbo-2026-10-24-spread-away-1pt5"
+ },
+ "0xa3b268b57b6ced38d35ffbc38e27ca6f0ef98d7fe607cb6dbeeb173cfddff217": {
+  "created_at": "2026-11-25T05:01:57.840022Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (HIGH) $760 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-reach-760-in-december-2026"
  },
  "0xa3d7014f6f5ebb338fb226f2e780b4d71a7d71959c05734f778a3de1f18f8517": {
   "created_at": "2026-08-10T23:56:16.855971Z",
@@ -1397,6 +1435,7 @@
   "created_at": "2026-08-11T18:49:05.147848Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-01 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",
@@ -1433,6 +1472,7 @@
   "created_at": "2026-09-13T09:44:17.258743Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 9.5 Total Corners",
   "revisions": 1,
   "sha256": "b0d9003a8abfe8ed03382b4ed12c57f849bc614e09d1564ea2c9ca4d5849e22d",
@@ -1451,6 +1491,7 @@
   "created_at": "2026-09-20T08:15:28.453393Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Blackpool FC 2 - 0 Leicester City FC?",
   "revisions": 1,
   "sha256": "ba88224a2a5a9ef82d0b51c75a070666bfdacf62be0730b43529cac6c9dab826",
@@ -1527,6 +1568,7 @@
   "created_at": "2026-09-13T09:15:39.994877Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Crawley Town FC 3 - 3 Barnet FC?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
@@ -1583,6 +1625,7 @@
   "created_at": "2026-09-18T08:46:15.366765Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Stevenage FC (-3.5)",
   "revisions": 1,
   "sha256": "8efe15fe10eaacb5f7529ae62afd98c2fbd6add4e2b631646936e74692db59d0",
@@ -1647,6 +1690,7 @@
   "created_at": "2026-11-23T16:32:11.607228Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will DENDELE qualify to Stage 2 at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",
@@ -1674,6 +1718,7 @@
   "created_at": "2026-09-13T09:46:33.97417Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "1cfb264e5794d081fe8bdd076f106a6e3d6d788cac8895f65fd7c5b913e7cfc8",

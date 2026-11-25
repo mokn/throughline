@@ -277,6 +277,7 @@
   "created_at": "2026-08-11T17:53:22.354262Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-07 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "f0db4b7bddda0145ba14da708a1bb26d29d95c91f9df15c257634ba822aa54e2",
@@ -410,6 +411,7 @@
   "created_at": "2026-08-11T18:27:50.52861Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NM-02 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "3eaa60e2f2b466c8a3a47850ed8eda206a861a4474eb4163bc3b8586d711b47a",
@@ -447,6 +449,7 @@
   "created_at": "2026-08-05T20:17:47.108991Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico gubernatorial election by 25% or more?",
   "revisions": 1,
   "sha256": "ad9e2f9c895e6025fc9a4bd8490ad8162fad0a8a87aa285452fd446df566b329",
@@ -724,6 +727,7 @@
   "created_at": "2026-09-13T09:44:19.588026Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC O/U 2.5 Corners",
   "revisions": 1,
   "sha256": "ad9e393388567cea2feb7afa1d01607ad205d00d86b35f851e17558e77543ae1",
@@ -1344,6 +1348,15 @@
   "sha256": "c3bbdd40e1dd3d062fca4f87b871648cec755558273e2114c273c986df8d93e3",
   "slug": "metamask-fdv-above-3b-one-day-after-launch-363-663-664-569-222"
  },
+ "0xb3309c1995b718e38cd1bb788b170fe4e938c4bacc34a938b460981fca382791": {
+  "created_at": "2026-11-25T00:03:00.191611Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be 76 or above on March 31?",
+  "revisions": 1,
+  "sha256": "8f3fed0e9e9325107e73e86a28ea0fe0035a7259973cc36ae5de74cc109b84f9",
+  "slug": "will-the-fear-greed-index-be-76-100-on-march-31-2027"
+ },
  "0xb40eb5cd3f4161149aa232e4d9aafb14dafb8e3312a69e94513dbb36df83fe91": {
   "created_at": "2026-08-06T19:25:05.104093Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1525,6 +1538,15 @@
   "revisions": 1,
   "sha256": "0b6e033a12fea3709dc4d11ced366cfd9d702b657a6a95c0f3b1cc7aff647ece",
   "slug": "will-the-carolina-hurricanes-win-the-2026-27-nhl-presidents-trophy"
+ },
+ "0xd270f8d6a0583995ac58f038132b85cfda9509a5a34f338b7fda7d72a21ef791": {
+  "created_at": "2026-11-25T05:02:05.961384Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (LOW) $126 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-dip-to-126-in-december-2026"
  },
  "0xd2812e59bd6fed210509d41594231dbdd9fc3f0de0f8312c0b671e9d43c51b91": {
   "created_at": "2025-10-10T19:31:03.309Z",

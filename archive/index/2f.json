@@ -456,6 +456,7 @@
   "created_at": "2026-08-11T17:53:39.481224Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-10 House election by 30% or more?",
   "revisions": 1,
   "sha256": "e89892fd7e186999eb1d7bf464b5e87dddd8f11457b5b84cab48976fb8428ce4",
@@ -483,6 +484,7 @@
   "created_at": "2026-08-07T20:30:17.028453Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-03 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "5f4dfac74b2eed837524b31ea291001fa3392bd7c44847a501ab792a0681f4a3",
@@ -492,6 +494,7 @@
   "created_at": "2026-09-20T08:15:30.64861Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Leicester City FC to score first vs. Blackpool FC?",
   "revisions": 1,
   "sha256": "f8c1c5a7ce8cbb96b85560ae034a0eaa70a5d540a4599f7bcaea21b2c26303b5",
@@ -646,6 +649,15 @@
   "sha256": "cb3f717a955bda3998fd088ad2e16e1b2d1ec3cc63012e40f0f5b5c02dc9be9f",
   "slug": "dicks-sporting-goods-q3-dicks-business-comparable-sales-growth-3-to-4"
  },
+ "0x74205c1e7253a4ea8f74a18a600f37959af00b6f244e60194557bf5f1269fd2f": {
+  "created_at": "2026-11-25T10:55:44.342575Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Suez Canal be 42+ on January 31?",
+  "revisions": 1,
+  "sha256": "ede58e76a6041a84a7c88e0233c7769d15ca944f86eade3e23fcd2f809c79b1d",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-suez-canal-be-42-on-january-31"
+ },
  "0x75e40489bba513fc996ae0f0f7d9b09083e2e8bc1967b1f25cd5bd64d9e4e92f": {
   "created_at": "2026-10-13T15:50:54.913785Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -668,6 +680,7 @@
   "created_at": "2026-09-20T08:45:10.550868Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Both Teams to Score",
   "revisions": 1,
   "sha256": "2bd7fb992f7fdc034cddd45bcf21105bb32d4940ebe86351e8d15075226a7995",
@@ -714,6 +727,7 @@
   "created_at": "2026-09-13T09:46:35.270752Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC O/U 1.5",
   "revisions": 1,
   "sha256": "dcaf723da101a811fc762500ed6f5736b9d0d883327051f6d177f6657c690b97",
@@ -1233,6 +1247,15 @@
   "sha256": "d56c5e351d86a1644f1006c899bafc8bd77b029ee5f3237ae59d127d765fc478",
   "slug": "will-the-republican-party-candidate-win-the-2026-florida-gubernatorial-election-by-18-or-more"
  },
+ "0xcacec08918cb7b373f96a30dfe0aca89ae2ead5e205c83999dd5a83fea44062f": {
+  "created_at": "2026-11-25T13:08:00.070785Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be 0 US aircraft carriers in CENTCOM on December 31, 2026?",
+  "revisions": 1,
+  "sha256": "edc0698ee4ffdb93fa6992031c0eafec7f98ee0bf11928f113612158bb4ba96e",
+  "slug": "will-there-be-0-us-aircraft-carriers-in-centcom-on-december-31-2026"
+ },
  "0xcc7fdd417dfb3e4e04b689b9f222fa96dccc001bae8b2746d964110b43e3542f": {
   "created_at": "2026-10-02T23:00:16.488054Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1300,6 +1323,7 @@
   "created_at": "2026-08-06T21:36:34.058916Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 AL-04 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "2e266b22297a857cb0d984ad7e62fadd67e8550f3ac56c9529191357ec48aaf9",
@@ -1333,6 +1357,15 @@
   "revisions": 1,
   "sha256": "734a82d00cd0ffdcb8b30ba15f83067e652d2b836bc7d4cc9693304fcb819909",
   "slug": "will-the-democratic-party-candidate-win-the-2026-fl-23-house-election-by-25-30"
+ },
+ "0xd562e64c37b8bfb515622725dc086aa03579644d5a5aae31d4da80edfa1b202f": {
+  "created_at": "2026-11-25T14:08:12.040788Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MiniMax be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-minimax-be-the-best-ai-lab-on-january-15-2027"
  },
  "0xd8d93bab4202e8cef6ffa6c8f81e349ea3e499cde6c7bad890814ee195618c2f": {
   "created_at": "2026-08-28T05:56:17.020751Z",
@@ -1424,6 +1457,15 @@
   "sha256": "acc5a97e36836232513b0655223e67ce5fe6bcceabb03a5528ade46b113bd600",
   "slug": "will-feyenoord-record-the-most-clean-sheets-in-the-ucl-league-phase"
  },
+ "0xdf7d77db23a2bfde0b749d4a162e548f331d5c9ae5a821248eb6f03588b79f2f": {
+  "created_at": "2026-11-25T00:03:01.30772Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 56 and 65 on April 30?",
+  "revisions": 1,
+  "sha256": "5782d35ffe630cc71226c62499a2e2897fad675938cec0b6fe5e1a74215b703a",
+  "slug": "will-the-fear-greed-index-be-56-65-on-april-30-2027"
+ },
  "0xdfbebfc807da1ee123c4d1961f0baf8ed70d083c7bb6f227202d8ea373dc3c2f": {
   "created_at": "2026-08-12T17:33:07.875964Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1491,6 +1533,7 @@
   "created_at": "2026-09-13T08:45:26.698323Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "9fd8cfbd32e817a063368a0e4641fb7479ec380a9f2dc8caa10a613c678182f0",

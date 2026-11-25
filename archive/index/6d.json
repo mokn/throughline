@@ -227,6 +227,7 @@
   "created_at": "2026-08-04T18:04:02.329705Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho Senate election by 5%-10%?",
   "revisions": 1,
   "sha256": "a160b85d166d502d1fe30f03f16c63b5bc092c43623335ae128cd268fa485d5a",
@@ -420,6 +421,7 @@
   "created_at": "2026-09-01T09:00:13.365926Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih to win the second half?",
   "revisions": 1,
   "sha256": "541c34a4d152b07804e76be63b1ae8716c662d0e6e4e6742f6a0002cb81336c5",
@@ -566,6 +568,7 @@
   "created_at": "2026-09-13T08:44:20.196302Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "f887bd344d34423d19fbb753fab7e6f46944f6faa47b794e81e9c01dc28fc777",
@@ -713,6 +716,7 @@
   "created_at": "2026-09-18T08:45:14.756628Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Barnsley FC (-3.5)",
   "revisions": 1,
   "sha256": "3e6d6de5a9465ac85d48af4531eddc2e17d6893da7e432d74b5d5d150a86db2f",
@@ -1002,10 +1006,20 @@
   "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
   "slug": "elon-musk-of-tweets-december-2026-0-19"
  },
+ "0x8887318f4d1924e4e4b8573550e349cbfcf90f4b0d9051ab28514dd9bc84e46d": {
+  "created_at": "2026-11-25T14:08:06.882553Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will OpenAI be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-openai-be-the-best-ai-lab-on-january-15-2027"
+ },
  "0x89bda6f8f6448b1d0b16cee3b60683a138a95306a5c44b2bc9025c01607c5f6d": {
   "created_at": "2026-09-20T08:45:08.859266Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Bromley FC (-5.5)",
   "revisions": 1,
   "sha256": "81a0db2a223e5b5b1395380a41a6e87562b8147e8548cd842688a1c61d074fe1",
@@ -1312,6 +1326,15 @@
   "sha256": "37dced8c98eaa0f33e3224de39e8d3d3beb333658774b30069449f73ef36e7cb",
   "slug": "will-denis-villeneuve-win-best-director-at-the-32nd-critics-choice-awards"
  },
+ "0xc8428e979073765465b01e182493dbe094922f8b30451404116485c725318d6d": {
+  "created_at": "2026-11-25T05:02:29.763365Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (HIGH) $3.60 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-reach-3-60-in-december-2026"
+ },
  "0xc87854d800a2b82abd417dd5b62f2fbfc8dec2a1e516e9f949a504ef55312d6d": {
   "created_at": "2026-10-21T23:30:54.21186Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1390,6 +1413,7 @@
   "created_at": "2026-09-20T08:15:28.61743Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Blackpool FC 1 - 2 Leicester City FC?",
   "revisions": 1,
   "sha256": "ba88224a2a5a9ef82d0b51c75a070666bfdacf62be0730b43529cac6c9dab826",

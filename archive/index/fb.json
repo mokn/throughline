@@ -198,6 +198,7 @@
   "created_at": "2026-09-13T08:45:28.212359Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC O/U 2.5 Corners",
   "revisions": 1,
   "sha256": "93058f3d42789650be8d6da3dbdbc0903c76ea98c678d51bc255363874d16ff4",
@@ -333,6 +334,15 @@
   "sha256": "f9cca596f70ad37c31b5b54872528a59e4ab808ed51c60666bb657a02d8e1780",
   "slug": "malik-willis-2449pt5-passing-yards-2026-27"
  },
+ "0x2b26706820757dabdabb611cdbfb085399e9baefe81bfdfee6cafd36d637acfb": {
+  "created_at": "2026-11-25T10:55:25.621942Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz reach 8+ by January 31?",
+  "revisions": 1,
+  "sha256": "41f60363a44d9f0e789df4f22e565e502ebb0d6a43c07766dbd1b28e0bf487eb",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-reach-8-by-january-31"
+ },
  "0x2d063e2b1f0f7c8e30bdb22b50684833e74d0c09abd7eab2bb474bbcd93aabfb": {
   "created_at": "2026-11-17T17:30:30.640247Z",
   "first_seen": "2026-11-18T15:39:44Z",
@@ -436,6 +446,7 @@
   "created_at": "2026-08-11T18:28:10.041787Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NM-01 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "fc7b6e739ad06d4a9e77ea309f62832a451977e6f5c19c90d78b6d11b6eeb126",
@@ -712,6 +723,7 @@
   "created_at": "2026-08-06T21:37:15.138654Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-07 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "c27b309867417a131687fe025f0d6574c29203c78d32c2156951ab2465d793d6",
@@ -725,6 +737,15 @@
   "revisions": 1,
   "sha256": "7ff5e74f25e39abd9c1fdcd85dd92ea3e044a1e5103855198620b8c6f429bb7d",
   "slug": "will-1-fc-kaiserslautern-finish-3rd-in-2-bundesliga-2026-27"
+ },
+ "0x5e8e5111062fb0aa8616bf0f3852352903cc82956e69c649c391f1d44c6fe6fb": {
+  "created_at": "2026-07-22T19:55:48.718132Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh O/U 4.5 Corners",
+  "revisions": 1,
+  "sha256": "4db2a6eeedd23dfadfb0b6503ddf3dd03fd04db2a6ed0f5a72c34ad818264875",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-team-away-4pt5"
  },
  "0x5fa20e9a7a359c469828c8479d853edb7563108681d1c06463d64636647f23fb": {
   "created_at": "2026-08-05T16:09:53.057092Z",
@@ -748,6 +769,7 @@
   "created_at": "2026-09-01T09:00:12.728115Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih leading at halftime?",
   "revisions": 1,
   "sha256": "0fa42096bb3aed526f5c7ccfae312c282d7de05b754b5e7d8e91f9fd1667e59e",
@@ -804,6 +826,7 @@
   "created_at": "2026-09-02T19:34:13.28331Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 AL-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "ce38d24d69a56aa2294f1fe7b71c95357d02512261de218aae6f13783fb83fa7",
@@ -1019,6 +1042,15 @@
   "revisions": 1,
   "sha256": "2d6b8cb1b356e3ea2c1f61a85aac0b618a9451946825b78d7898c82c693a8a0d",
   "slug": "nba-2026-27-3pm-leader-fred-vanvleet"
+ },
+ "0x82bb85f9e566346a163ea15e9a47635e11a4f3ed8f11545572dfaee53ffbbdfb": {
+  "created_at": "2026-07-20T09:03:59.208842Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Livyi Bereh to score first vs. FK Dynamo Kyiv?",
+  "revisions": 1,
+  "sha256": "3f3201e5cd205d2faeb719a04fe1d539484d9d281cf235535f965cfc35cef2d2",
+  "slug": "ukr1-dyn-liv-2026-08-02-first-to-score-away"
  },
  "0x82bf5d4b16775ded3694aed6aede9fdec7e6117c6cab12605c6a3217c4adc5fb": {
   "created_at": "2026-09-08T16:54:48.888429Z",
@@ -1771,6 +1803,7 @@
   "created_at": "2026-08-05T20:56:47.631852Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 5%-10%?",
   "revisions": 1,
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",
@@ -1784,6 +1817,15 @@
   "revisions": 1,
   "sha256": "41fa9e79b5b804f34e2e23bc763f0af3476a1aace9c5d405b98896bc6f9a4c58",
   "slug": "will-the-republican-party-candidate-win-the-2026-ne-03-house-election-by-35-40"
+ },
+ "0xf7e23301981ac48750fd35a9dec9bc3421997a8c7718460531d05b25895796fb": {
+  "created_at": "2026-11-25T05:01:40.610919Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (HIGH) $100 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-reach-100-in-december-2026"
  },
  "0xf9c091bb67900aeff731269fff9ce5c5845ed87ebbe5dbb873b2dde22ab334fb": {
   "created_at": "2026-10-01T14:00:58.972696Z",

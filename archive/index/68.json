@@ -68,6 +68,7 @@
   "created_at": "2026-04-23T13:42:21.052382Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Jackson Olson win Dancing With the Stars: Season 35?",
   "revisions": 1,
   "sha256": "f411786b1fea719b27401919375cf4ea0801def00f009f2f9ae64d4927410348",
@@ -287,6 +288,7 @@
   "created_at": "2026-08-11T17:53:41.315135Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-10 House election?",
   "revisions": 1,
   "sha256": "e89892fd7e186999eb1d7bf464b5e87dddd8f11457b5b84cab48976fb8428ce4",
@@ -546,6 +548,15 @@
   "sha256": "697290a2c59028f07cb1ee17878f11c1a4c550dd033c247a6cb0358288a813ea",
   "slug": "el2-wal-cra-2026-10-03-team-total-away-1pt5"
  },
+ "0x4ef40ee300529ce33ca2771039551ac4fa13995ee8cee943b0cc819a0fa93368": {
+  "created_at": "2026-11-24T19:26:33.268812Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Inferno be the most banned map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a1bf336b53694a4fdd93709799cec042c3935e2b368de088961b2892500248de",
+  "slug": "will-inferno-be-the-most-banned-map-at-pgl-major-singapore-2026"
+ },
  "0x4f6e6cef8a8311101c7e4837cdc80f7e0c3dace41ec6143b18dcff9231708d68": {
   "created_at": "2026-11-14T02:43:04.839878Z",
   "first_seen": "2026-11-14T13:31:33Z",
@@ -713,6 +724,7 @@
   "created_at": "2026-09-13T09:45:29.115641Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "6d26c0bb288560f0fd5d1bb7f47fa5d5236bfe7917bb3e7f11bc2dabf6ac3008",
@@ -950,6 +962,7 @@
   "created_at": "2026-09-20T08:45:11.917656Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC O/U 2.5",
   "revisions": 1,
   "sha256": "7596a3a6245886a24763ac6836625c6da68a41802cf9d34425ed3af2c5b8d26d",
@@ -1183,6 +1196,15 @@
   "revisions": 1,
   "sha256": "edb5c305b1468557add60c85df6f481c6c209cc06ebff0c225fedb42ed2e60af",
   "slug": "will-jadan-baugh-be-the-2026-sec-rushing-yards-leader"
+ },
+ "0xb7c41b17a92fab8101db724de9b26908c1fef02a91b136128293d928d47b6a68": {
+  "created_at": "2026-11-25T05:00:54.243064Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (HIGH) $180 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-reach-180-in-december-2026"
  },
  "0xb7e0652d2d55b7dc646dc84ffb097a82855a0c499cc1961d6e8d5fd779c80268": {
   "created_at": "2026-08-24T16:40:21.897556Z",

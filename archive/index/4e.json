@@ -3,6 +3,7 @@
   "created_at": "2026-09-20T08:47:20.022334Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 8.5",
   "revisions": 1,
   "sha256": "11a1d1db63f49ad2fb90de04830ce5f91b4a6172ecd38c653a045f12a2aaddb0",
@@ -476,6 +477,7 @@
   "created_at": "2026-08-11T17:54:06.149016Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-14 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "f874aae0e7386ac84a7ca6125ec17ed282c5aa2477e992f4cc6237c08dd10fae",
@@ -521,6 +523,7 @@
   "created_at": "2026-09-20T08:44:13.400091Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 2nd Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "3ed13fb762b262fc4bf67d18efb21ba2878f255ef6f9a68c0b6b166aff5634fb",
@@ -622,6 +625,7 @@
   "created_at": "2026-09-18T08:46:16.89935Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "c6ccc3311146d1f2a7d9afa8e45af4879174cc7a92f32ad4bae5dbfe3b4d7efa",
@@ -784,6 +788,15 @@
   "sha256": "a23e983199adaa17c362d9083e8125b00f0f2c87788203856ff96218b87b92d7",
   "slug": "will-pete-buttigieg-be-the-2028-democratic-vice-presidential-nominee"
  },
+ "0x7f54936973114652e6c7dd4f637c7cee7db1b4227903126d912573c5715fde4e": {
+  "created_at": "2026-11-25T05:00:01.924424Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (HIGH) $408 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-reach-408-in-december-2026"
+ },
  "0x7f5f070532dea3c8d00f8501bece3833ffa00294a712a47b38d1e5ee79cd7f4e": {
   "created_at": "2026-06-26T18:33:11.01835Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -820,6 +833,15 @@
   "sha256": "39390aa35ef4453a1db8b36a7810f52b158662621e3bd1e8525b32b8c82de011",
   "slug": "will-disclosure-day-be-nominated-for-best-original-score-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x8304e1e48410fa99c20eafe49849689cd16f9364bb13675f2b7f3623d748fb4e": {
+  "created_at": "2026-11-25T05:00:28.989925Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (HIGH) $620 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-reach-620-in-december-2026"
+ },
  "0x8a63f5533b90d7f6e6e873c938f9234f3ff65961404aa7eb4590bae51e6a444e": {
   "created_at": "2026-11-03T17:41:07.655175Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -846,6 +868,15 @@
   "revisions": 1,
   "sha256": "73e75395d7e04034b8dafc4e4da099b3fa2a9d7028696a70420734ec3fa92147",
   "slug": "kyren-williams-11pt5-rushing-touchdowns-2026-27"
+ },
+ "0x8ec12661c6853249fc8dec91904aa4a6a29067d4f1d89a21159625992190fa4e": {
+  "created_at": "2026-11-25T00:02:44.717176Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be 76 or above on January 8?",
+  "revisions": 1,
+  "sha256": "55b1f3ce73bd2ec1d29a3075c10339bf37432e2eeca6da3352804e301b5580cb",
+  "slug": "will-the-fear-greed-index-be-76-100-on-january-8-2027"
  },
  "0x8f391aba93b7a4b5a05f02f71a54ab05cc354d3be9348b96640b43e1c97f444e": {
   "created_at": "2026-08-12T17:20:42.176745Z",

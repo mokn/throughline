@@ -12,6 +12,7 @@
   "created_at": "2026-09-13T08:45:20.97666Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: O/U 2.5",
   "revisions": 1,
   "sha256": "7a276a2cca4b0bc38e536685447931fb74bd2a890535462947e800e79049f0af",
@@ -281,6 +282,7 @@
   "created_at": "2026-08-11T17:54:05.125301Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-14 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "f874aae0e7386ac84a7ca6125ec17ed282c5aa2477e992f4cc6237c08dd10fae",
@@ -656,6 +658,7 @@
   "created_at": "2026-09-08T16:05:51.569647Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Manchester City finish last in UCL league phase?",
   "revisions": 1,
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",
@@ -683,6 +686,7 @@
   "created_at": "2026-09-18T08:46:18.382898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "22bad374a1209fb94186d50679c7dbd3ff19d8af699cbcc278652f3e36a0aefc",
@@ -835,6 +839,15 @@
   "sha256": "6e4bff15c5a7af8a67a5c1527e1cf4b764e317d3d88e8d49213acd02b1496afa",
   "slug": "will-portugal-be-removed-as-a-host-nation-of-the-2030-world-cup-20260807013851004"
  },
+ "0x625a617cb1c2acaf7ba4646e994c93a4289e89e6e4bcb9c75c36c8760c26aede": {
+  "created_at": "2026-11-25T05:00:55.17987Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (LOW) $156 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-dip-to-156-in-december-2026"
+ },
  "0x650e8b52c6dc36e4ddbf994690b91e33b9df7ae34be11021673d009fd2f617de": {
   "created_at": "2026-08-06T09:26:41.154623Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -941,6 +954,7 @@
   "created_at": "2026-09-20T08:16:09.294129Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC to win the second half?",
   "revisions": 1,
   "sha256": "a438d480f30591f225f937dfe2b99c5fd11795ac7668c9c4df79f2867d85355d",
@@ -1608,6 +1622,15 @@
   "sha256": "be362f243be8722347db2c7019a182744c1101766993e6509d368c8be3ec3fa7",
   "slug": "will-mccormick-merge-with-unilever-foods-by-december-31-2026"
  },
+ "0xcce3f21b6ae4985516b460767a0ddbb987856517ee9d1b69ba6987898f2649de": {
+  "created_at": "2026-11-25T05:15:54.219771Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Iran target an Arab country by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "4a27b9270357c0960d8ee0ea29717233f31f3c9d01f7495f333e62353b7d45f9",
+  "slug": "will-iran-target-an-arab-country-by-december-31-2026-20261124"
+ },
  "0xcdb8a2e89e11e238b108859d956215138ce4a322b9771aacbc3748017adab8de": {
   "created_at": "2026-08-10T23:57:21.798953Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1714,6 +1737,7 @@
   "created_at": "2026-08-11T17:52:59.50313Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-04 House election by 45%-50%?",
   "revisions": 1,
   "sha256": "b4b221e99a5852b252d7b0b668599bcd7d6def4b35218525b46e5b7ee696c037",
@@ -1822,6 +1846,7 @@
   "created_at": "2026-08-07T20:29:34.982769Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-01 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "8e964e8d7a9bd29afa58aeb78ec3ee6fb31845f18ef48d9e3012997cc6a0c914",

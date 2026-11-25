@@ -183,6 +183,15 @@
   "sha256": "675857a592e91637acc04fbd558af401d50393e45023d163a6831f9b7920499a",
   "slug": "will-pri-win-the-most-seats-in-the-2027-hidalgo-congress-election"
  },
+ "0x181e8e04080156a1846c73b3acb54b3e2775ced26dcf3a71a7924c063d8db4f5": {
+  "created_at": "2026-11-25T05:02:05.164558Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (HIGH) $132 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-reach-132-in-december-2026"
+ },
  "0x19b29bc6b4f72c6ad9afc9c45223449dffaa6310c293828488c7d029ad7fe3f5": {
   "created_at": "2026-09-14T20:21:13.126342Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -397,6 +406,7 @@
   "created_at": "2026-09-01T09:00:14.015884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 0 - 2 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -557,6 +567,15 @@
   "revisions": 1,
   "sha256": "ac27f0768230cb80f6c12b37d7197652a5a96e87259b5de41c44a84dd4fce173",
   "slug": "will-atletico-f-c-be-promoted-to-colombia-primera-a-2026"
+ },
+ "0x57cb77fb5b959a42e9a9cf858414c7ac0d5dded640903ecd807b8de0186c41f5": {
+  "created_at": "2026-11-25T05:02:07.47901Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (LOW) $116 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-dip-to-116-in-december-2026"
  },
  "0x5810413d7c5675ecc6beda781ae08963b1386c5e80e02eee696e0bd5ae9c84f5": {
   "created_at": "2026-10-20T06:00:09.209807Z",
@@ -946,6 +965,7 @@
   "created_at": "2026-09-18T08:46:19.706459Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "88a40f717c173556e21c93afbd942ac8da4774cc16f08fd1824ad23006cc464a",
@@ -992,6 +1012,7 @@
   "created_at": "2026-08-11T18:27:51.020156Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NM-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "3eaa60e2f2b466c8a3a47850ed8eda206a861a4474eb4163bc3b8586d711b47a",
@@ -1010,6 +1031,7 @@
   "created_at": "2026-09-13T08:45:29.755726Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Team to Take First Corner",
   "revisions": 1,
   "sha256": "a9f99b6b35ac07a557157a4bc6d75524c189ebaf02fa0a36accd7a32c1f9acee",
@@ -1105,6 +1127,7 @@
   "created_at": "2026-08-11T17:53:16.465044Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-06 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "abaae569586364ab6dd011b43b5d7b85e1fc43981f1c9e9e44ee66b3f3d4906e",

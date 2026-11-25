@@ -23,6 +23,7 @@
   "created_at": "2026-09-20T08:15:15.217566Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Wycombe Wanderers FC win on 2026-10-03?",
   "revisions": 1,
   "sha256": "a7c3031624d2f4efbff5f1b17014008a70059a14f1cfb63bc304fbc04720593c",
@@ -269,6 +270,15 @@
   "sha256": "92f00a84b8e8f75bd9e98404818875a656b8a5f4723c9dcdec908912d8302bdd",
   "slug": "will-the-washington-wizards-make-the-2027-nba-play-in-tournament-20260708212312795"
  },
+ "0x246b81cc36357ec0294d78cb7c9a792a86608983dd835d993793eda8fa319cfe": {
+  "created_at": "2026-11-25T10:55:36.764222Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait be 26+ on January 31?",
+  "revisions": 1,
+  "sha256": "12b1a5fc1f398cb9a6d4767af04c8914075dc7d3a2366c1f7b3a3d752d17e602",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-be-26-on-january-31"
+ },
  "0x25a16c1b153201c5f5d9c35cabb44de63d01bd12a0a038835bcfe6171d3649fe": {
   "created_at": "2026-08-31T18:10:21.385171Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -283,6 +293,7 @@
   "created_at": "2026-09-20T08:45:15.30693Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "e1c5309df0e490b2ba531ab0c389bcb73df75fa5bb05f35475a010b0accc969c",
@@ -297,6 +308,15 @@
   "revisions": 1,
   "sha256": "3aec2152d3c251a9a2d7cfb1447821e5e34ca4db5afa818899329a189638a287",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-michigan-be-between-4200000-and-4400000"
+ },
+ "0x28ebf316e4fe624adc724a80d2659bf5e52657d6da61f6115bfe0f352ef907fe": {
+  "created_at": "2026-11-25T13:12:56.972043Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be 4 or more North Korea tests in December 2026?",
+  "revisions": 1,
+  "sha256": "1d304a63190516dc61774abbab5b269f22a475d18cf313c455798e9b1fd864a9",
+  "slug": "will-there-be-4-or-more-north-korea-tests-in-december-2026"
  },
  "0x2955f6f6f754108bde41fce0af77b40c17eb7a153a8aeee18fc0c62d6adc9ffe": {
   "created_at": "2026-07-29T22:58:54.762147Z",
@@ -388,6 +408,7 @@
   "created_at": "2026-09-13T08:45:26.704079Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 2nd Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "200009fffd0d8b3063b1a3041136302f2faecbd05914249e9d0ac685ad810cf2",
@@ -594,6 +615,15 @@
   "revisions": 1,
   "sha256": "c82d8d891e7b28949feb6b6ab79b02aab62eb49b3c7f81e222283e94bac4ff2f",
   "slug": "will-dalia-straupaite-win-the-2026-northern-nalsia-district-by-election"
+ },
+ "0x57d13dcb69d1324b9abd4144a470adf3f457bdbba823d1c6d1aac811e2e37cfe": {
+  "created_at": "2026-11-25T05:21:08.706987Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "US-China-Russia Nuclear Deal by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "11b373236f99e940000fe780d12a7a1137619532dfda88874c414c3d46be82a9",
+  "slug": "us-china-russia-nuclear-deal-by-june-30-2027"
  },
  "0x5a9f7345715079de0aec1d9ec2f119c6ba2861aa9054f5b0134ec79834a861fe": {
   "created_at": "2025-10-16T15:21:21.105719Z",
@@ -900,6 +930,7 @@
   "created_at": "2026-10-18T23:30:16.213609Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Aberdeen FC 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "30696bfcb99e96c4675a7a93e2073251b2ea8ef3b57cf76fe1cbfecef5555896",
@@ -1382,6 +1413,15 @@
   "sha256": "38881a55d801d664b95d5deabf50270db29a7823b88ec4bbe55e90b4df8a1aa3",
   "slug": "will-xiaomi-be-the-second-best-ai-agent-lab-at-the-end-of-november-2026"
  },
+ "0xc23fdf34eede9fb47841c4773c3937a56c1b6359b74da025979a32b9201e9afe": {
+  "created_at": "2026-11-25T10:55:29.880409Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait reach 32+ by January 31?",
+  "revisions": 1,
+  "sha256": "0eef4fc5bdf21eaa4480d57fddf4a996af8e6077cbca311893efc42d28d814ca",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-reach-32-by-january-31"
+ },
  "0xc36e249b992ccdd45e987bac1332b7b9af607859c130ab1396a8745023f2a9fe": {
   "created_at": "2026-10-14T02:19:13.865336Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1541,6 +1581,7 @@
   "created_at": "2026-08-11T17:53:24.164153Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-07 House election by 6% or more?",
   "revisions": 1,
   "sha256": "f0db4b7bddda0145ba14da708a1bb26d29d95c91f9df15c257634ba822aa54e2",

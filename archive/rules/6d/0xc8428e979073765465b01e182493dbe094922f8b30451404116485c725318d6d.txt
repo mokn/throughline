@@ -1,0 +1,19 @@
+This market will resolve to "Yes" if, at any point after market creation and during a trading session of December 2026, any Pyth 1-minute candle for the Active Month of ICE Futures U.S. Henry LD1 Fixed Price Future (denoted by Pyth as "HN") has a final "High" or "Low" price equal to or beyond (above for ↑ High Prices, below for ↓ Low Prices) the listed price. Otherwise, this market will resolve to "No".
+
+Prices will be used exactly as published by Pyth, without rounding.
+
+Only prices achieved during an applicable trading session of the specified timeframe's business days will be considered (See: "Trading Hours" at https://www.ice.com/products/6590258/Henry-LD1-Fixed-Price-Future). The trading session for a given business day typically begins at 7:50 PM ET on the prior calendar date, except for the session dated Monday, which begins at 5:50 PM ET on the preceding Sunday, and where modified by holiday or other special hours (See: https://www.ice.com/holiday-hours).
+
+The Active Month is the nearest listed contract, except during that contract's final three trading sessions. At the open of the third-to-last trading session, the next listed contract becomes the Active Month.
+
+Each contract's last trading day will be determined by ICE Futures U.S. per the Henry LD1 Fixed Price future contract specification (generally the third last business day of the month preceding the contract month). The last trading day for each contract is posted at https://www.ice.com/products/6590258/Henry-LD1-Fixed-Price-Future/expiry.
+
+For example, if the last trading session for the nearest listed contract is a Tuesday, the next listed contract becomes the Active Month at the start of the trading session for the Friday of the previous week (7:50 PM ET on Thursday), assuming a standard trading calendar.
+
+If the relevant Pyth data is unavailable due to a system outage, data failure, or other disruption that prevents verification of the required 1-minute candle data, the official daily high/low price published for the Active Month Henry LD1 Fixed Price Future may be used to determine whether the listed price was reached during the applicable trading session (See: https://www.ice.com/report/142 with "H-Henry LD1 Fixed Price Future" selected).
+
+In the event of a contract specification change, feed change, or similar structural modification affecting the underlying market during the listed time frame, this market will resolve based on adjusted prices as displayed on Pyth.
+
+If the Active Month contract does not trade at all during the listed time frame, this market will resolve to "No".
+
+The resolution source for this market is Pyth — specifically, the ICE Futures U.S. Henry LD1 Fixed Price Future Active Month "High" and "Low" prices available at https://app.pyth.com/explore?search=Commodities.HN, with the chart settings configured for 1-minute candles. Historical 1-minute candles may be accessed by appending a Unix timestamp (seconds) to the Pyth chart URL using the "t=" parameter.

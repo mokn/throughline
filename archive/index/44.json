@@ -560,6 +560,15 @@
   "sha256": "51ae3efc269d996d7df4ea1b814c088241c34ab84c2d8c7c437b0cd7ebfcc6ab",
   "slug": "nyse-marketwide-circuit-breaker-before-2027"
  },
+ "0x51eaa8d1bec715eacc14c9eeebf43ae2904d0afdf37de50c5fb7a5b854c41a44": {
+  "created_at": "2026-11-25T05:01:52.904486Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceX (SPCX) hit (HIGH) $125 in December?",
+  "revisions": 1,
+  "sha256": "980971399bdb4ff3e8996bfac1dd7c04cba7f6b22deb08cd4a5aa4523dcba66a",
+  "slug": "will-spcx-reach-125-in-december-2026"
+ },
  "0x5253e62025f7e971d2110ba32506519a4e991f6f74bbf54187bfff131d59c844": {
   "created_at": "2026-11-14T03:05:09.235082Z",
   "first_seen": "2026-11-14T13:31:33Z",
@@ -627,6 +636,7 @@
   "created_at": "2026-08-18T14:23:25.690797Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from New Mexico be less than 550,000?",
   "revisions": 1,
   "sha256": "ed0af71c6556006f2e4c8d0ff52b473b7d2fb11135acdfa14b927fb54b88c3a4",
@@ -1034,6 +1044,15 @@
   "sha256": "0775718f7dae7bb6640c33afaf1fe33374cd362a4d871beddf891ad46ac43088",
   "slug": "will-cardinals-dst-finish-as-a-top-12-dst-in-the-2026-27-nfl-season"
  },
+ "0x97150af0e1ab4e8fc0e76152dab6940f74775e056a846a8ae5a1e5b6689df644": {
+  "created_at": "2026-11-25T10:55:45.88068Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Suez Canal be 48+ on January 31?",
+  "revisions": 1,
+  "sha256": "ede58e76a6041a84a7c88e0233c7769d15ca944f86eade3e23fcd2f809c79b1d",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-suez-canal-be-48-on-january-31"
+ },
  "0x974fe0eef2713d7d85e13f931bd3523b79bd7f614ee7bbc677f516b34b512144": {
   "created_at": "2026-09-13T08:16:08.807052Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1330,6 +1349,15 @@
   "sha256": "80596c654b78da93350398688e6cb67da92f4474bb21fca93b27b6502a972bf6",
   "slug": "el1-not-bla-2026-09-26-spread-home-3pt5"
  },
+ "0xbe769c81caa802654e083d994d8f4c805ce72eeb3449ebb0bd38e656743f9144": {
+  "created_at": "2026-11-25T05:00:43.625564Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (LOW) $136 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-dip-to-136-in-december-2026"
+ },
  "0xc01fbda1d93dc34996f55c79261a42c1c1edbf2ca907b3996ee1cec94f4b8d44": {
   "created_at": "2026-08-17T21:07:37.43152Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1353,6 +1381,7 @@
   "created_at": "2026-11-04T17:37:53.451832Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will DENDELE Win the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
@@ -1471,6 +1500,7 @@
   "created_at": "2026-08-05T18:43:07.501301Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho gubernatorial election by 35%-40%?",
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
@@ -1607,6 +1637,7 @@
   "created_at": "2026-10-18T09:00:28.090884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 3 - 0 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -1730,6 +1761,15 @@
   "revisions": 1,
   "sha256": "5288e3bf2deaae1b00ea1949bde1d8441ecd5b27d92f60e2aeaccfa7bf223484",
   "slug": "will-bohemians-1905-finish-14th-in-chance-liga-czechia-2026-27"
+ },
+ "0xf5fc081f12f267454e4c45c9b399f5a3419916cdab4e245a355ba21bb2e52544": {
+  "created_at": "2026-11-25T05:00:16.802392Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $280 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-reach-280-in-december-2026"
  },
  "0xf6c2445f02248f1d5e9873dd082d2cf86df37b0fd9e303659ae2c38192d3f944": {
   "created_at": "2026-09-20T08:16:04.541888Z",

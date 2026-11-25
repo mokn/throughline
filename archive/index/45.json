@@ -256,6 +256,7 @@
   "created_at": "2026-08-07T20:29:55.113267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-02 House election by 12% or more?",
   "revisions": 1,
   "sha256": "b698f2a66aacb47f446854d756cb105073cea07b03637234d81e8f0bdce6d6f7",
@@ -360,6 +361,15 @@
   "revisions": 1,
   "sha256": "a5eb265ac6a10b07aa39cee7735ce35a56af0a459c56114d8b32c7eca60e3e0f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-va-03-house-election-by-50-55"
+ },
+ "0x360f402ddae9cdb1f4b3a2cbb4355fdf108e9086d8f961aacad2b1506a4be845": {
+  "created_at": "2026-11-25T14:08:15.517622Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Thinking Machines be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-thinking-machines-be-the-best-ai-lab-at-the-end-of-january-2027"
  },
  "0x3afe694204296a2db0ccba62d691bb10838ab871595588f027eed5eb04938045": {
   "created_at": "2026-08-05T10:53:30.196404Z",
@@ -1374,6 +1384,7 @@
   "created_at": "2026-09-13T09:16:12.374253Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 3 - 2 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -1397,6 +1408,15 @@
   "revisions": 1,
   "sha256": "382860652236dac36e4a780a1d068b62a228a3dce5e9108bda72e955f7fa5c1c",
   "slug": "will-psoe-win-the-most-seats-in-girona-in-the-2026-spanish-general-election"
+ },
+ "0xce60d891598becd2f75b9f29d5369f07da89acca7b50226c6f86305de4436345": {
+  "created_at": "2026-11-25T05:01:00.47367Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $2.50 in December?",
+  "revisions": 1,
+  "sha256": "8debd5f6e4f25d1f7bd96b6d5ad426da017abb9b14e6325a586ff8565c65e290",
+  "slug": "will-open-reach-2-50-in-december-2026"
  },
  "0xcf691e843611ea92a629b0ab1b8db577a4a962b66594527741defaacbab7a845": {
   "created_at": "2026-08-24T16:32:50.267988Z",
@@ -1430,6 +1450,7 @@
   "created_at": "2026-09-20T08:44:12.420095Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 2nd Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "783c9ae5a669390ed6a798cf9b488b3aae1c0cddd518fe7f5a7d1cdb619b99e0",
@@ -1541,6 +1562,7 @@
   "created_at": "2026-09-02T06:01:14.897483Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kharkiv 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "3d5e694dce0795b36b3288b26d164e4dbdc9c9e9a5b689a406a08ee5304da18c",
@@ -1725,6 +1747,7 @@
   "created_at": "2026-08-04T18:29:23.125439Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico Senate election by 9%-12%?",
   "revisions": 1,
   "sha256": "98d8a0e31e3806cfbf24113030ca9ac71f76b38df5fa6a26c34636690cc43ca9",

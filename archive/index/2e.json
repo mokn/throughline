@@ -12,6 +12,7 @@
   "created_at": "2026-08-07T20:29:18.421314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-02 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "90b899b3b3bb531a6c99490ff6b3abe35c161029d5eda4068dd6b190e9e95cb3",
@@ -544,6 +545,15 @@
   "revisions": 1,
   "sha256": "b6c283cc9d8bbd78d6d9bcbe3788d33df10786c93c6bb7cb08e755a2f10bf7c5",
   "slug": "will-the-us-30-year-fixed-rate-mortgage-hit-8pt00-high-by-december-31-2026-from-october-27"
+ },
+ "0x4e9c0ea8d099e51afab95e92d9541c922b4ebd052437b1ad550e0562a238b92e": {
+  "created_at": "2026-11-25T05:01:11.041323Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $196 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-reach-196-in-december-2026"
  },
  "0x4ea2a551a6c76a8c4358eb4285972cc5c33070381feb3cc1f6e0c4e120ed2b2e": {
   "created_at": "2026-11-02T23:50:44.205277Z",
@@ -1121,6 +1131,7 @@
   "created_at": "2026-09-13T08:16:12.475724Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC to win the second half?",
   "revisions": 1,
   "sha256": "b827314f4e27265ebcdc05976147959c439e3ce108014e94c1d63c4d08a900be",

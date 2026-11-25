@@ -84,6 +84,7 @@
   "created_at": "2026-09-18T08:45:16.62674Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC O/U 4.5",
   "revisions": 1,
   "sha256": "1d0df614027c96fb683a0dd948ad3a1c52094e2c4828e132232de948bde78a36",
@@ -679,6 +680,15 @@
   "sha256": "a114852b5d7bfaa0f2ad7791d194b679684565f7ced3d54f7eff2d897a82b065",
   "slug": "will-ron-desantis-win-the-2028-republican-presidential-nomination"
  },
+ "0x65ce2192e43aa41fac113345f5203400f40dd88b8862264c8c99fe7bd06965b6": {
+  "created_at": "2026-07-22T19:55:42.951802Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 13.5 Total Corners",
+  "revisions": 1,
+  "sha256": "7fc319513b48e45e7489a736dd65cc1a8462bf4ab9049ffb690edb10f991c66f",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-total-13pt5"
+ },
  "0x660948909b4d935771d3648e5647fd9c06948a551d9201ceedfc1c13d21915b6": {
   "created_at": "2026-08-24T16:34:07.996101Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -848,6 +858,7 @@
   "created_at": "2026-09-20T08:15:03.64636Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Blackpool FC vs. Leicester City FC end in a draw?",
   "revisions": 1,
   "sha256": "10d27bbf0ddba4178238c65cc86227c5019efb896f96c4b71c0613ca405f0ce3",
@@ -1086,6 +1097,15 @@
   "revisions": 1,
   "sha256": "def026c98df49d785f0326578242fc32c993648e836c259cb339db25d51a0843",
   "slug": "will-carson-carels-win-the-2026-27-calder-trophy-20260624213343999"
+ },
+ "0x9d2b15df3469d101c2a67604c94abad00955392e799f3a3d4c8209464c49a6b6": {
+  "created_at": "2026-11-25T05:01:32.929685Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (HIGH) $1,020 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-reach-1020-in-december-2026"
  },
  "0x9e90115baa7b9c446d3f5b51a570f30ca119716ed1dab41a5ecde5d2d570a1b6": {
   "created_at": "2026-08-04T18:19:22.501528Z",
@@ -1519,6 +1539,15 @@
   "sha256": "9e31d8ead43fdc2ce0d1228a11da7dc55b60a8da15d70f1d7729d6b258a5ec1c",
   "slug": "spl-abh-kho-2026-10-19-halftime-result-away"
  },
+ "0xd9b75663608343e5025d6a440379340e0c95829a9b1545daa87d4f04162064b6": {
+  "created_at": "2026-11-25T00:02:23.7287Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be 24 or below on December 24?",
+  "revisions": 1,
+  "sha256": "4a478036e103677cc355d5d2d741f08e8b200243110482bcc61856cc003b9ce8",
+  "slug": "will-the-fear-greed-index-be-0-24-on-december-24-2026"
+ },
  "0xda3358212ee94c07804f630815603d2b9708fa9819dfad4e36e5f377ce6d0db6": {
   "created_at": "2026-11-06T22:58:34.223965Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1682,5 +1711,14 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-clayton-keller-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0xfed2012ef1c3f8a2acdccb311e460700a90ee031a5047e5ee271254e7dd189b6": {
+  "created_at": "2026-11-25T14:07:59.449795Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will ByteDance have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-bytedance-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
  }
 }

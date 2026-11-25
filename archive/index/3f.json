@@ -221,6 +221,7 @@
   "created_at": "2026-09-13T09:15:39.685442Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Crawley Town FC 3 - 0 Barnet FC?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
@@ -312,6 +313,7 @@
   "created_at": "2026-10-18T09:00:27.71157Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 1 - 1 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -371,6 +373,15 @@
   "revisions": 1,
   "sha256": "eafd5b41ca24c0f8a1ba6f9cfd04cfeb4929a9bbf56db685c59cbd22f21ffaa9",
   "slug": "russia-x-ukraine-ceasefire-agreement-by-february-28-2027"
+ },
+ "0x2893b1947ecb19a395e9940204623709cd90c00737a4a8146a64ff3c50f11e3f": {
+  "created_at": "2026-07-20T09:03:59.243412Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: Neither team to score first?",
+  "revisions": 1,
+  "sha256": "3f3201e5cd205d2faeb719a04fe1d539484d9d281cf235535f965cfc35cef2d2",
+  "slug": "ukr1-dyn-liv-2026-08-02-first-to-score-neither"
  },
  "0x2afc378184138f77022fb03d6b755fb35366966e1db741b965c410ae988fdb3f": {
   "created_at": "2026-08-10T15:03:10.844062Z",
@@ -504,6 +515,7 @@
   "created_at": "2026-07-29T20:34:25.712179Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Richard Ledezma (Guadalajara) record the most assists in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "4235c4099ada5b88817c6090161c86b4cc1f514c177f7e3c148ca09bf9e4f0a3",
@@ -722,6 +734,15 @@
   "sha256": "1d873bb88649a6cf2818592997421548889ea40d08ec521ef936175278ec8311",
   "slug": "will-abdullahi-usman-maigida-win-the-2027-yobe-state-gubernatorial-election"
  },
+ "0x5e24664b06c0cfbc08d0c1dba82e415fda05005f428f572b7822265f18a6963f": {
+  "created_at": "2026-11-25T05:00:54.714796Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (HIGH) $168 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-reach-168-in-december-2026"
+ },
  "0x5f1e44d9d6b202ad8526781b22262604480908558b56c89e06ba190ef9421e3f": {
   "created_at": "2026-11-13T00:28:46.593626Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -871,6 +892,15 @@
   "sha256": "72dff87a647eb25830b3caf5872dcf47cb9ca1f4082e70bafb45313dcbbacc2e",
   "slug": "will-through-the-wall-rochelle-jordan-win-best-dance-electronic-album-at-the-69th-annual-grammy-awards-20261109"
  },
+ "0x700a45affd83533306c3e12fe040dee34466042057cb60f30b65bb5eadd2f03f": {
+  "created_at": "2026-11-25T14:07:06.025413Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Google have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-google-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
+ },
  "0x726d59efe5a1784916bf5a4d172d0553567e94f6de0f94c2c0998b63b76b303f": {
   "created_at": "2026-08-21T17:22:08.390891Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -884,6 +914,7 @@
   "created_at": "2026-08-04T18:29:23.341324Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico Senate election by 12%-15%?",
   "revisions": 1,
   "sha256": "98d8a0e31e3806cfbf24113030ca9ac71f76b38df5fa6a26c34636690cc43ca9",
@@ -1332,6 +1363,15 @@
   "sha256": "0aba46a10a8e08371f434af405f7f583a7e84dba8ef34c99f7df70b10b93f519",
   "slug": "will-masoud-pezeshkian-be-head-of-state-in-iran-end-of-2026"
  },
+ "0xb219526447c21482bd9640b69f8b62cbfa6a3198c6d8875fed97528ff6e2773f": {
+  "created_at": "2026-11-25T13:18:57.47671Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Sanae Takaichi by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-sanae-takaichi-by-december-31-2026"
+ },
  "0xb21d33a05ade767e6d927923518e5435a57e4611ed5c7021229a1d017e3bc63f": {
   "created_at": "2026-10-03T19:00:28.187977Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1373,6 +1413,7 @@
   "created_at": "2026-09-13T09:46:35.101857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC O/U 0.5",
   "revisions": 1,
   "sha256": "8ef03b6f97985f972122e94a3d51f050887a2a6fe2356b38bf1f771ad65ab9a9",
@@ -1642,6 +1683,15 @@
   "revisions": 1,
   "sha256": "505cf90b7abf2405bfb32974f51a1b410387f348133e3f4318e29717fa44fd5f",
   "slug": "reya-fdv-above-400m-one-day-after-launch-589-277-773-675"
+ },
+ "0xe65e298e3e252bad975fe370dce027d30914184adbac762ddb7e5ab24477b73f": {
+  "created_at": "2026-07-20T09:03:41.556835Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 0 - 3 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-0-3"
  },
  "0xe6a007972963087be2b1d18f5c78a43c45988da8ba3865392168a25d05ca683f": {
   "created_at": "2026-04-09T17:35:37.120242Z",

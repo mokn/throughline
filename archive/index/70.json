@@ -67,6 +67,7 @@
   "created_at": "2026-08-11T17:53:33.845596Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-09 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
@@ -281,6 +282,7 @@
   "created_at": "2026-09-13T09:16:12.002536Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 2 - 1 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -587,6 +589,7 @@
   "created_at": "2026-09-02T19:34:13.7632Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-02 House election by 5% or more?",
   "revisions": 1,
   "sha256": "ce38d24d69a56aa2294f1fe7b71c95357d02512261de218aae6f13783fb83fa7",
@@ -605,6 +608,7 @@
   "created_at": "2026-09-13T09:44:17.559262Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 11.5 Total Corners",
   "revisions": 1,
   "sha256": "8598518084374f3c7023360f72dd238b24aaae8a12a1b5a4cdebb9e60c1d15ad",
@@ -708,6 +712,7 @@
   "created_at": "2026-08-05T18:43:08.185361Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho gubernatorial election by 25%-30%?",
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
@@ -1000,6 +1005,15 @@
   "sha256": "a1fe1e47480656b77c37fef845d4585ed09dd0ccfe65e96a0d7aace54fa9cc1b",
   "slug": "will-tori-launch-a-token-by-december-31-2026"
  },
+ "0x9aa7a30152ededdd165e499feb581b8953dc66943a8f66dbdc689f8cf9167370": {
+  "created_at": "2026-11-25T02:03:44.514775Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Amazon 2026 capex above $230B?",
+  "revisions": 1,
+  "sha256": "e86a23e75dadfeff14eb0977fa96fe10eab6ad2c96cc3953d3c58c61b355bd98",
+  "slug": "amazon-2026-capex-above-230b"
+ },
  "0x9b03904763ad0e80806063061478a9d321bff12930270533bbab77eafc576470": {
   "created_at": "2026-09-09T15:52:47.760832Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1042,6 +1056,7 @@
   "created_at": "2026-09-13T09:46:32.105924Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Barnet FC (-1.5)",
   "revisions": 1,
   "sha256": "72c2866c0bbaa5891851013326d4d562788ce815fcb001499446c4ec9039c19d",
@@ -1235,6 +1250,7 @@
   "created_at": "2026-09-13T08:45:22.462254Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "b4fa5ce96fe885ce0ace625b5e708b75810d61db666042d5b29b823b5221337d",
@@ -1459,6 +1475,15 @@
   "sha256": "f9bf0ddbe1eec602a5f4791cfc690eea2624adbfe56ce75c2766cb308c3438c9",
   "slug": "will-deepseek-have-the-best-chinese-ai-model-at-the-end-of-january-2027"
  },
+ "0xdfeb5f7f457fb5d45c3218f767c72b42c8e77a42e80de8dc504440e7ed1fa770": {
+  "created_at": "2026-11-25T05:02:00.953666Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (LOW) $650 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-dip-to-650-in-december-2026"
+ },
  "0xe2c7c5cf180092ef78eb0725577f9dd5ba0b23622a622d1d61eca9ec4709e470": {
   "created_at": "2026-07-10T02:01:57.433997Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1533,6 +1558,15 @@
   "revisions": 1,
   "sha256": "ac6538e89d91ae3454454563d14199a2025b9b3073cb187d6bb8478d91d6d6ef",
   "slug": "will-tommy-lloyd-win-the-mens-2027-naismith-coach-of-the-year-award"
+ },
+ "0xea5f3b7fb535a3cf5e95d8c03a4694ffe0c3b9ff452e4f4362ac8200f5b77570": {
+  "created_at": "2026-11-25T05:01:45.792986Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (HIGH) $150 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-reach-150-in-december-2026"
  },
  "0xea914d7ca5b4ac38298b1dc0e02de8e71a3241a65571ccf9dc352dadb2955170": {
   "created_at": "2026-08-28T20:17:15.931193Z",
@@ -1639,6 +1673,7 @@
   "created_at": "2026-08-05T18:39:12.294874Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Hawaii gubernatorial election by 35%-40%?",
   "revisions": 1,
   "sha256": "eab5cd5d40490d26779fd949cd0b305b7368a4c4fd74962a9666617edc407ffe",

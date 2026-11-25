@@ -3,6 +3,7 @@
   "created_at": "2026-08-07T20:29:55.665325Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-02 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "b698f2a66aacb47f446854d756cb105073cea07b03637234d81e8f0bdce6d6f7",
@@ -272,6 +273,7 @@
   "created_at": "2026-08-11T17:52:42.3453Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-03 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "69d8f3c63a25056d3d2e68fd72065bab26f44293183e36f762cf39cbd42540ba",
@@ -332,6 +334,15 @@
   "sha256": "cf82ab6f9ef521d9ecb1dddc791b46b13796699b03530e7a34f662791b2b1e05",
   "slug": "zuffa-billa-clark1-2026-11-07-ends-before-round-9"
  },
+ "0x29bd098d9051726e469d2a6875a8e6896eb4c3b694a5bbf6386c888781eb4c6c": {
+  "created_at": "2026-11-25T13:18:51.685897Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Mojtaba Khamenei by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-mojtaba-khamenei-by-december-31-2026"
+ },
  "0x2dbe69a87dda50b43b0cd187ca20822bb7084be239755635cd6f9acfde842a6c": {
   "created_at": "2026-09-09T15:17:35.416296Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -346,6 +357,7 @@
   "created_at": "2026-09-09T15:17:49.770203Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will AEK Athens finish first in UCL league phase?",
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
@@ -630,6 +642,7 @@
   "created_at": "2026-08-11T17:53:59.793522Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-13 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "4ce80f7325d5fa7a64ffab64eaca64c42a7317250ee50686131ec7ae73207c87",
@@ -892,6 +905,15 @@
   "sha256": "27abafc7b456613501b64f01ab8bfc13de4feb71933a98b6f2d714223a6a26db",
   "slug": "will-the-next-governing-coalition-of-sweden-include-m-kd-l-sd"
  },
+ "0x7ce8288b2ab07ed818a7670bb81e017571a2e44c7cd3224579a850bb2cb1886c": {
+  "created_at": "2026-11-25T05:00:42.675548Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (HIGH) $168 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-reach-168-in-december-2026"
+ },
  "0x7df3ac6adf9e307b207e66b3e6c3a0f03d483009d7295cd916f1b33f72295e6c": {
   "created_at": "2026-11-07T12:30:49.971566Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -900,6 +922,15 @@
   "revisions": 1,
   "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
   "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-liam-lawson-2026-12-04"
+ },
+ "0x816891a859c298c552a00d1bb27644eb0c70a99fe33bda510c10477c9315906c": {
+  "created_at": "2026-07-20T09:03:41.689897Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 1 - 3 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-1-3"
  },
  "0x828225d13a89836d42f4d55a9118f5c05754aa184d191292f91add75b15e996c": {
   "created_at": "2026-08-28T05:57:35.627025Z",
@@ -1188,6 +1219,7 @@
   "created_at": "2026-09-13T09:46:36.945268Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "6f0837a8800c2b225d957749d6a56c2c62af18fe269cf02ba98b968e1b8380c8",

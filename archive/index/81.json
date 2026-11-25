@@ -158,6 +158,15 @@
   "sha256": "2c05bb10785a06f0864fefc7cf3b5e6ab7330433b173e3c3a69c283d93256fd1",
   "slug": "erdoan-out-before-2027"
  },
+ "0x167235ce1856a7388c1ec23357c0f36caae0da2154de05aa00a3383eef890281": {
+  "created_at": "2026-11-25T05:01:13.143371Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (LOW) $164 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-dip-to-164-in-december-2026"
+ },
  "0x16bf2bc7b1dfd4c384cd98cf5e035bcec83c6bd210afb4f43e577240f53ace81": {
   "created_at": "2026-10-25T04:01:39.307674Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -261,6 +270,7 @@
   "created_at": "2026-09-13T09:45:30.496676Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 2nd Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "924ccd426dd8bdc5a8d944e938af81db2dddebd90c77f2d3c9648dd50a1c4c39",
@@ -274,6 +284,15 @@
   "revisions": 1,
   "sha256": "e4c1b450b63385d1e345bab7ade430d532bf39e7a687bce1cff80e06ce2a4f66",
   "slug": "will-the-democrats-win-montana-in-the-2028-presidential-election"
+ },
+ "0x26d73a43662742c8332c76c2fa445c8991eeaecb188e7453ba13450489109b81": {
+  "created_at": "2026-11-25T05:02:30.259347Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (LOW) $3.20 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-dip-to-3-20-in-december-2026"
  },
  "0x27a25290f5a2e2ff16c95da4e5c6226b4a5065dfb9dc71d208bfc9194a120f81": {
   "created_at": "2026-10-05T19:30:04.518519Z",
@@ -499,6 +518,7 @@
   "created_at": "2026-10-18T23:30:09.278478Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Rangers FC (-2.5)",
   "revisions": 1,
   "sha256": "8ddf48041a39fbd0abaf75fe94486a4caf843febf488af609267c76d63f15e4c",
@@ -553,6 +573,7 @@
   "created_at": "2026-10-18T09:00:29.669868Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 3 - 5 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -613,6 +634,15 @@
   "sha256": "7215aa6d0b29da7e0c364380455af23ca238b2fba6ff6ac7575c593a79b547d4",
   "slug": "will-chornomorets-odesa-finish-3rd-in-ukrainian-premier-league-2026-27"
  },
+ "0x4d32e39a9b2f8073ac24fcd96abfbd25355a2caf1c78165660dfa50f04c70681": {
+  "created_at": "2026-11-25T05:00:54.009481Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (HIGH) $186 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-reach-186-in-december-2026"
+ },
  "0x4fb12f25f0f89eb0cf2072d5b4e287fd8ec3ea95b4260bc9465a397d08ab1c81": {
   "created_at": "2026-11-03T17:06:14.482798Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -626,6 +656,7 @@
   "created_at": "2026-08-18T14:19:43.076597Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Iowa be 1,600,000 or more?",
   "revisions": 1,
   "sha256": "c8c222344af4dfa899eb3444c02e6795718d1d2cb692f90b0dac1e98387ff2fd",
@@ -789,6 +820,7 @@
   "created_at": "2026-09-20T08:16:13.209892Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 0 - 2 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",
@@ -955,6 +987,7 @@
   "created_at": "2026-04-23T13:42:23.419281Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Tyler Cameron win Dancing With the Stars: Season 35?",
   "revisions": 1,
   "sha256": "f411786b1fea719b27401919375cf4ea0801def00f009f2f9ae64d4927410348",
@@ -968,6 +1001,15 @@
   "revisions": 1,
   "sha256": "d0e8e7d195e7adb0cababc5f928ade2b2941620d8e3c617127eb87ae0d809daa",
   "slug": "will-israel-strike-6-countries-in-2026"
+ },
+ "0x8758ce20cac255d3e45b7a227bd8494ca66d3ab0eafeb22e38191c020e926981": {
+  "created_at": "2026-11-25T05:00:23.172363Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $290 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-reach-290-in-december-2026"
  },
  "0x8bdeac60c92d3bc494792fd334ca181b0cf70355f23dca4098d558280b554c81": {
   "created_at": "2025-11-11T22:40:07.399679Z",
@@ -1000,6 +1042,7 @@
   "created_at": "2026-09-09T15:47:45.367791Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Mexico host the 2028 Copa America?",
   "revisions": 1,
   "sha256": "b9b86989d5922243c18a1ff9291f492a8f20b346c2a7274b4c5a083a6a0ecf39",

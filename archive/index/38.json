@@ -58,6 +58,7 @@
   "created_at": "2026-09-13T09:44:16.968192Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 7.5 Total Corners",
   "revisions": 1,
   "sha256": "3368347b1d3d6622b9f6cbc4f6f36ba04285a8aff5dac8b9f0e5949400b51ddb",
@@ -215,6 +216,7 @@
   "created_at": "2026-09-13T08:44:22.313508Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "bb152f841a271d115f219afc1938656e94958ee2897b298d39d5ed1d00a568ef",
@@ -242,6 +244,7 @@
   "created_at": "2026-08-11T17:53:28.167364Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-08 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",
@@ -426,6 +429,7 @@
   "created_at": "2026-11-20T15:16:58.852733Z",
   "first_seen": "2026-11-20T15:27:46Z",
   "last_changed": "2026-11-20T15:27:46Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Anthropic close below its IPO price by December 31, 2026?",
   "revisions": 1,
   "sha256": "a3ec078bf989e8fadf940d5cf998e51dae838cb6a589ddeecb08a9f823e371bb",
@@ -552,6 +556,7 @@
   "created_at": "2026-08-07T20:30:39.347555Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-04 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "3fc8f46216c8044f7d1f899aa3a912475e872c7fef56b3d4de99e00bd46e54dd",
@@ -589,6 +594,7 @@
   "created_at": "2026-10-18T23:30:12.970875Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "d5abb826ac63968a03b71d21b25462e4322fe2424d599385103072a49887e6cb",
@@ -854,10 +860,20 @@
   "created_at": "2026-09-18T08:45:17.140819Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Barnsley FC O/U 4.5",
   "revisions": 1,
   "sha256": "ca82f4437ce69ea01f4a80692336ee1f511a6f8b2dd87cb8a912870101eff2a5",
   "slug": "el1-bra-bar-2026-09-26-team-total-away-4pt5"
+ },
+ "0x84bca0be99e92a0eb37986a44f29557259619183408336bafe23aab216647938": {
+  "created_at": "2026-11-25T05:00:16.556179Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $288 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-reach-288-in-december-2026"
  },
  "0x868fd7b37987aae63ebaff52b3bef933aa44e96e92b8b4e2c4330b138ed2dc38": {
   "created_at": "2026-11-18T19:51:43.330363Z",
@@ -903,6 +919,15 @@
   "revisions": 1,
   "sha256": "277e436042b550ed4332d3ef43d3f748ca2c91565bacc9afc7dc95171fe3316f",
   "slug": "will-national-bank-be-relegated-from-egypt-premier-league-2026-27"
+ },
+ "0x8d1dc274cffe734487bb8948145b4b117bc696dc29fa20213f9c7c40dc829138": {
+  "created_at": "2026-11-25T14:08:05.543776Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Mistral have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-mistral-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
  },
  "0x8df377ee4ea043e135146aae0a63f80b5ed782cd105cf608689c28d400c1a638": {
   "created_at": "2026-08-26T21:46:23.730003Z",
@@ -1244,6 +1269,7 @@
   "created_at": "2026-08-05T20:17:45.542158Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 New Mexico gubernatorial election by 0%-5%?",
   "revisions": 1,
   "sha256": "ad9e2f9c895e6025fc9a4bd8490ad8162fad0a8a87aa285452fd446df566b329",
@@ -1404,6 +1430,15 @@
   "sha256": "c35a4f048bb74e1a06d74fc89a0dcb25742ed6263ef7ffe581000929f43e9941",
   "slug": "will-anna-leigh-waters-win-exactly-four-triple-crowns-in-the-2026-27-ppa-tour-season"
  },
+ "0xd8da65315b7ebebe36bf5744200b4b00d3367fba4de6a6c2fd288dd20b70c238": {
+  "created_at": "2026-07-21T06:00:12.351106Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "fdff3e72889f4df5f20d029b1ea4876297a3a2ad3acdbfe2e58697614114f241",
+  "slug": "ukr1-dyn-liv-2026-08-02-first-half-team-total-away-1pt5"
+ },
  "0xd8fbab0227c9c7e75c187bc9dceb0f2fd41e6450b3b9de04c301e10e94887638": {
   "created_at": "2026-09-30T13:35:37.557223Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1439,6 +1474,15 @@
   "revisions": 1,
   "sha256": "a5c1d3e0c6f1d0e5f38fae8cfd97a40b7046142d60476456613a0c65b677e1b2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-07-house-election-by-65-70"
+ },
+ "0xde37b1437931960dcc80f43bee2ad8052691d2536737311506ba8438b2936438": {
+  "created_at": "2026-11-25T05:00:35.316358Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tesla, Inc. (TSLA) hit (HIGH) $465 in December?",
+  "revisions": 1,
+  "sha256": "6ce1712027598d432cef08acea8ae93a1123d96e6955d7ecd603a17c5e93877a",
+  "slug": "will-tsla-reach-465-in-december-2026"
  },
  "0xdfefcc504799323adb2d3b2f19625544b4ab43f9fe12e5d00a6736c0c533b138": {
   "created_at": "2026-08-11T18:43:31.438548Z",
@@ -1627,6 +1671,7 @@
   "created_at": "2026-11-24T15:38:29.577538Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Typical Gamer be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -1654,6 +1699,7 @@
   "created_at": "2026-10-18T23:30:08.968926Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Rangers FC (-1.5)",
   "revisions": 1,
   "sha256": "2e5bec943dcb36665329089e2105f172b7598c224cbd94cf8f0436e2b1b65edd",
@@ -1677,6 +1723,15 @@
   "revisions": 1,
   "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
   "slug": "es2-gra-cdt-2026-11-07-exact-score-1-1"
+ },
+ "0xfe666364fb93b5d1aca50dfb806b1e9874fb2f5d1cf1b4455e0863442de1a038": {
+  "created_at": "2026-11-25T00:03:01.953318Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 66 and 75 on April 30?",
+  "revisions": 1,
+  "sha256": "5782d35ffe630cc71226c62499a2e2897fad675938cec0b6fe5e1a74215b703a",
+  "slug": "will-the-fear-greed-index-be-66-75-on-april-30-2027"
  },
  "0xfe8d6a8ac81248e84bdb4c33a681f252401120d885bb150ca952a79e009ce038": {
   "created_at": "2026-11-23T22:40:32.720929Z",

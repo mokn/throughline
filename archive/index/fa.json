@@ -12,6 +12,7 @@
   "created_at": "2026-08-18T14:22:54.373898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Rhode Island be less than 250,000?",
   "revisions": 1,
   "sha256": "4d40aa21f65099410b6216a448af243a4b0747010f944d9396b541c270950dd0",
@@ -87,6 +88,7 @@
   "created_at": "2026-08-06T21:36:17.988088Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-05 House election?",
   "revisions": 1,
   "sha256": "6ee9f81eb41d725f2899140c8b048ab605f87104d2d19ac4d3b7f86fc8524b23",
@@ -528,6 +530,15 @@
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",
   "slug": "will-viking-finish-last-in-ucl-league-phase"
  },
+ "0x5cf4f38ad3d9689b831c8ae45cd0234bf00578ec65944210fb4ad6b733d295fa": {
+  "created_at": "2026-11-25T05:01:13.38415Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (LOW) $160 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-dip-to-160-in-december-2026"
+ },
  "0x6087ebacf29405c7459078b2f984f6c796d8afd4f0502970211d7e1eade7f3fa": {
   "created_at": "2026-08-10T14:51:46.040541Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -578,6 +589,7 @@
   "created_at": "2026-11-24T15:38:05.232385Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Alanzoka be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -898,6 +910,7 @@
   "created_at": "2026-09-13T09:45:25.260931Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Port Vale FC O/U 2.5",
   "revisions": 1,
   "sha256": "65d7f77611504ea616f67099d31a7932dab9b657ea4e773700f9df358a010bb5",
@@ -1022,6 +1035,15 @@
   "sha256": "9cc5fe3803395f5262c35a1ac5cfac70be386d7a1e9dd62bfd556938bae2e72b",
   "slug": "will-florida-international-panthers-win-the-2026-conference-usa-championship-20260731204312699"
  },
+ "0xaca391aa1d661b15d7e31573589c3863a966e8606883fe9ab419d1d490774bfa": {
+  "created_at": "2026-11-25T05:00:22.918644Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $300 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-reach-300-in-december-2026"
+ },
  "0xae8a9fe3c9145d575584344b349edece5af08a8c02713d3167c335cf6d528bfa": {
   "created_at": "2026-09-04T15:59:49.320282Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1097,6 +1119,15 @@
   "revisions": 1,
   "sha256": "73e0affac0f2f4654d6b01ff88535fc7b190a48a4836318ac9d58a7b190ba4f2",
   "slug": "will-the-republican-party-win-the-in-04-house-seat"
+ },
+ "0xb9dfa4c1d711a891c51c8ac4e868eacfc1639c7e07744c16a56fbdace5be63fa": {
+  "created_at": "2026-11-25T05:01:21.73346Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (LOW) $70 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-dip-to-70-in-december-2026"
  },
  "0xbccbe57d54476a19b3e5315dd336d5a1cc3365ca1ea2daf5f13cc86b175629fa": {
   "created_at": "2026-08-17T21:08:16.880709Z",
@@ -1238,6 +1269,7 @@
   "created_at": "2026-09-18T09:46:21.961617Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "75b018baa27d7534456054f31b7ffd4414fdca3074074132d93db2be030d0f0c",
@@ -1283,6 +1315,7 @@
   "created_at": "2026-09-13T08:44:23.70089Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Team to Take First Corner",
   "revisions": 1,
   "sha256": "1ef58016a2e140e54685a2b64d739b9643df7910c6c80c5e47ff891aaae2d376",
@@ -1346,6 +1379,7 @@
   "created_at": "2026-04-23T13:42:22.441913Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Ezra Frech win Dancing With the Stars: Season 35?",
   "revisions": 1,
   "sha256": "f411786b1fea719b27401919375cf4ea0801def00f009f2f9ae64d4927410348",
@@ -1364,6 +1398,7 @@
   "created_at": "2026-08-05T20:17:46.656905Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico gubernatorial election by 15%-20%?",
   "revisions": 1,
   "sha256": "ad9e2f9c895e6025fc9a4bd8490ad8162fad0a8a87aa285452fd446df566b329",
@@ -1378,6 +1413,15 @@
   "revisions": 1,
   "sha256": "22fbf71e44bb333afa44042e75ed75545ce639ae1601678604cd7ade948c91bf",
   "slug": "2026-soccer-ligapro-serie-a-ecuador-runner-up-ldu-quito"
+ },
+ "0xf1fdd4cc9408c089de7e537e405e09c8835e38afdc36b9e4c3e5337985212ffa": {
+  "created_at": "2026-11-25T13:18:53.854287Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Jensen Huang by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-jensen-huang-by-december-31-2026"
  },
  "0xf29d968c8f41259205535042d734f76ca8e35a1bf169e2fa95a609ced0d0dcfa": {
   "created_at": "2026-01-28T15:35:00.959597Z",
@@ -1456,6 +1500,7 @@
   "created_at": "2026-09-18T08:45:16.96903Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Barnsley FC O/U 3.5",
   "revisions": 1,
   "sha256": "d8e60c020e88a92e221dc72046e958a876b42b6c269bacbd2d3f16a8909ea95b",

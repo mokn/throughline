@@ -251,6 +251,7 @@
   "created_at": "2026-09-20T08:45:13.758314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "87f0bd1884b18fc06171e34f77107f8ccc087b13b3486af0b18e9d5959d0d490",
@@ -564,6 +565,7 @@
   "created_at": "2026-11-23T22:14:16.589564Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will GOSH (BC.Game) go 0-3 in Stage 1 of the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "52f565958895e9a7845ff1abc20bb9fc1f763bb88ce18e52fb51dacdff1d2674",
@@ -718,6 +720,7 @@
   "created_at": "2026-09-13T09:44:19.759Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "358d57c3ccac896cd440510c460edeb4a82232b160343e73118fe8e3dbc249bf",
@@ -1014,6 +1017,15 @@
   "revisions": 1,
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-jack-eichel-win-the-2026-27-hart-memorial-trophy"
+ },
+ "0x771ef9b18c4dcf646e540d8764af32dd91d145ebeb2ed3d2bec6e0ebe255c112": {
+  "created_at": "2026-11-25T10:55:37.348047Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait be 28+ on January 31?",
+  "revisions": 1,
+  "sha256": "12b1a5fc1f398cb9a6d4767af04c8914075dc7d3a2366c1f7b3a3d752d17e602",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-be-28-on-january-31"
  },
  "0x795b790fe2cd5b930a34806197b687397b7c036d681a9fdd11a2619b3d029a12": {
   "created_at": "2026-02-24T20:10:18.049926Z",
@@ -1523,6 +1535,7 @@
   "created_at": "2026-09-18T08:45:14.590414Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Bradford City AFC (-3.5)",
   "revisions": 1,
   "sha256": "9ee2c9ab777ca6ec3abffbb97589e7302e54e51849479c57370d43c45b2c2ede",
@@ -1600,6 +1613,15 @@
   "revisions": 1,
   "sha256": "6e724543a95560bc57e2ee47471cc1e18c4f43e6f51aec77066f646559fbaa4e",
   "slug": "will-theo-launch-a-token-by-december-31-2026"
+ },
+ "0xcb5de467a27f78932c61eebaa2bc0d1b1ae4e2102d4d273e4b30ff751e7a2e12": {
+  "created_at": "2026-11-25T05:01:28.889381Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $45 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-dip-to-45-in-december-2026"
  },
  "0xd348bb99b8be51d290010b9d332152472a346ca007cd6b3b6ae39303af457012": {
   "created_at": "2026-10-24T11:30:49.937437Z",
@@ -1724,6 +1746,7 @@
   "created_at": "2026-08-04T18:09:30.984884Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Iowa Senate election by 12% or more?",
   "revisions": 1,
   "sha256": "0ab5cdbb11451c9b59493acb05bec3489ad6e575e97f390e3fbb71a9b708ce7b",
@@ -1897,6 +1920,7 @@
   "created_at": "2026-09-20T08:16:13.656164Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 1 - 1 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",

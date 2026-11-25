@@ -18,6 +18,15 @@
   "sha256": "4e080d067949d9bc2c7b45a225d20dbea8347057e61f410059c2b5d14ab17cab",
   "slug": "f1-brazilian-grand-prix-practice-1-fastest-lap-charles-leclerc-2026-11-06"
  },
+ "0x0376d627e96d7c38c7deaa309196745a6d18f615ca5f9f6e416b809ce04b32b1": {
+  "created_at": "2026-11-25T10:55:44.805331Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Suez Canal be 44+ on January 31?",
+  "revisions": 1,
+  "sha256": "ede58e76a6041a84a7c88e0233c7769d15ca944f86eade3e23fcd2f809c79b1d",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-suez-canal-be-44-on-january-31"
+ },
  "0x0386ff55ee904906ee4c78cd6a49999573d1e6169f4e0b0b63541d6ac2e470b1": {
   "created_at": "2026-09-13T08:44:26.182942Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -105,6 +114,7 @@
   "created_at": "2026-09-18T08:45:17.476309Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "c0a76aa30843cad6b47429ffeab91accd8342315555e6641fcaf098cb3809f18",
@@ -898,6 +908,15 @@
   "sha256": "f118da9ceef87885b4855920553613a0b742e4b2640eb5f091ec3cef320dd37d",
   "slug": "will-jacqueline-coleman-be-the-democratic-nominee-for-kentucky-governor"
  },
+ "0x8c67507b9f1b79c778d6326fad38374c5e1405eebd9a7c064b2a9a90b5dc4eb1": {
+  "created_at": "2026-07-21T06:00:14.362817Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Dynamo Kyiv 2nd Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "c809c630a318f18f3bbb70bb0365888e6be10c420cb60fafb9c77dfa7435c713",
+  "slug": "ukr1-dyn-liv-2026-08-02-second-half-team-total-home-1pt5"
+ },
  "0x8d3350266030a298cec019300b0bf56d715afd0084d3c8ba425b655e595b96b1": {
   "created_at": "2026-08-06T08:38:34.185019Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -947,6 +966,7 @@
   "created_at": "2026-08-11T17:53:12.303489Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-05 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "d47c070996fae6764cb7c92539bcfab712f59efe342104e94f3524155ae476e1",
@@ -1048,6 +1068,7 @@
   "created_at": "2026-09-13T08:46:35.172162Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Both Teams to Score",
   "revisions": 1,
   "sha256": "78b3d632be79f427a09890eff8e0d4b7a7bf536a949f0a502ebc6173359228db",
@@ -1355,6 +1376,15 @@
   "sha256": "0846fddd40ac668ae91d562401731d8d10c1cec0a024b1afebd704166a1249b5",
   "slug": "es2-gra-cdt-2026-11-07-exact-score-4-4"
  },
+ "0xc353af23ee340ab9a0e96b9d694138f3a524c9ecb2aed5751839371f482855b1": {
+  "created_at": "2026-11-25T02:33:18.814941Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Core Scientific or any subsidiary default before 2028?",
+  "revisions": 1,
+  "sha256": "52176e369fb717ed82ddffb4e09e30473d787d1f60e079d4d198ec1a9e8d4003",
+  "slug": "will-core-scientific-or-any-subsidiary-default-before-2028"
+ },
  "0xc3c59c8db954e598ded8294168193bf0ebe2d7dd4cab8f447b15a773d7c880b1": {
   "created_at": "2026-11-13T00:35:24.058205Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1450,6 +1480,7 @@
   "created_at": "2026-08-07T20:30:15.034887Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-03 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "5f4dfac74b2eed837524b31ea291001fa3392bd7c44847a501ab792a0681f4a3",

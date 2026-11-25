@@ -1,0 +1,9 @@
+This market will resolve according to the highest-ranked company in the "Labs" view of the arena.ai Text Arena leaderboard (category "Overall") with style control off, when the leaderboard is checked on January 15, 2027, 12:00 PM ET.
+
+Results from the "Lab Ranking" column at https://arena.ai/leaderboard/chat/text?rankBy=labs&scoring=raw, with the category set to "Overall", the "Labs" view selected, the "Adjustments" filter set to "None" (style control off), the "License" filter set to "All", and all other filters at their default settings, will be used to resolve this market.
+
+Note: Models marked “AutoEval” at the applicable check time will not be considered, regardless of whether they display a rank or score.
+
+AI companies will be ordered by their position in the "Lab Ranking" column at the market’s check time. If the lab ranking is ambiguous or unavailable, companies will be ordered by their highest-placed model in the "Model Ranking" column of the "Models" view (https://arena.ai/leaderboard/chat/text?scoring=raw). If a tie still remains, alphabetical order of AI lab/company names as listed in this market group will be used as a final tiebreaker (e.g., “Google” would be ranked ahead of “SpaceXAI”). This market will resolve based on the company that occupies first place under this ranking.
+
+The resolution source for this market is the arena.ai Text Arena leaderboard (https://arena.ai/leaderboard/chat/text). If this resolution source is unavailable at check time, this market will remain open until the leaderboard comes back online and will resolve based on the first check after it becomes available. If it becomes permanently unavailable, this market will resolve to "Other".

@@ -76,6 +76,7 @@
   "created_at": "2026-09-18T09:46:20.227646Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC O/U 5.5",
   "revisions": 1,
   "sha256": "7c6445b369898046dc16305a6cdcd93fb9f42ace9c42d5adb0e71ca50c6252eb",
@@ -90,6 +91,15 @@
   "revisions": 1,
   "sha256": "c492ec56ef554ae5c374403387b63cc43381e9f695e7eadbd39dc71bc59008c2",
   "slug": "will-shohei-ohtani-win-the-2026-national-league-hank-aaron-award"
+ },
+ "0x1406dae6e8a71d1ace0dfd038315e12e1a93e0e3dd27eb0584f69d50ceca22ac": {
+  "created_at": "2026-11-25T14:08:13.177149Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will StepFun have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-stepfun-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
  },
  "0x1604c4c0d254dcd80e2fd066c7b29435cdc83d53aa77a92d349fd283484ee0ac": {
   "created_at": "2026-09-09T15:47:15.368368Z",
@@ -452,6 +462,15 @@
   "sha256": "e9b6dc541a3dd8ff86ee908dddc3db8af083e9679f448f40241b11c239687841",
   "slug": "will-the-democratic-party-candidate-win-the-2026-illinois-senate-election-by-0-5"
  },
+ "0x4767cd0d059bc2f1b3efbd47bdb77c78cd10f825d4f65d89ffb11efe2fe124ac": {
+  "created_at": "2026-11-25T05:02:22.829506Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (HIGH) $50 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-reach-50-in-december-2026"
+ },
  "0x48e3d764baa18417e0c350d3a35251978b33f6ad6d62d2f8b8703d557074d6ac": {
   "created_at": "2026-10-09T16:30:18.244713Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -578,6 +597,15 @@
   "sha256": "c40913d913ce4e410f5288598383b08721e89a8d3d0c744e4e432f4f64ad7737",
   "slug": "will-ac-horsens-keep-the-most-clean-sheets-in-denmark-superliga-2026-27"
  },
+ "0x5308d50e8682501fb86afed6cc097fdec85e92e1a7d4781c79c59875b02955ac": {
+  "created_at": "2026-11-25T05:01:36.056941Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (LOW) $420 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-dip-to-420-in-december-2026"
+ },
  "0x5447699d333116713de6faa0dabcf443c00cb9176d7503ef34083b34c3ff9dac": {
   "created_at": "2026-08-28T20:17:08.210063Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -683,6 +711,7 @@
   "created_at": "2026-10-18T23:30:13.631441Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Rangers FC O/U 3.5",
   "revisions": 1,
   "sha256": "e8c842309964a5a77cb896435e1ea503673afff340a7d4c5dfd7f70562f194aa",
@@ -812,6 +841,7 @@
   "created_at": "2026-04-02T15:16:54.113622Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Sporting Cristal win Peru Liga 1?",
   "revisions": 1,
   "sha256": "e856666fdf6897e1e64561e5a585033b58d079375e5418212f3c689d515892ad",
@@ -987,6 +1017,7 @@
   "created_at": "2026-09-20T08:45:12.059167Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC O/U 3.5",
   "revisions": 1,
   "sha256": "53279371168d2b0327f6b5d4eb22b228bff7fa0aaeb8c6ebad2f408bfe5e662d",
@@ -1023,6 +1054,7 @@
   "created_at": "2026-09-20T08:44:09.024744Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: O/U 8.5 Total Corners",
   "revisions": 1,
   "sha256": "7055e7813281f159bab32a98a73fdd89c6788126c6c88867247867fe40533814",
@@ -1206,6 +1238,7 @@
   "created_at": "2026-08-07T20:30:14.759804Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-03 House election by 18% or more?",
   "revisions": 1,
   "sha256": "5f4dfac74b2eed837524b31ea291001fa3392bd7c44847a501ab792a0681f4a3",
@@ -1306,6 +1339,7 @@
   "created_at": "2026-08-04T18:04:01.315487Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho Senate election by 20%-25%?",
   "revisions": 1,
   "sha256": "a160b85d166d502d1fe30f03f16c63b5bc092c43623335ae128cd268fa485d5a",
@@ -1434,6 +1468,7 @@
   "created_at": "2026-09-20T08:45:13.199279Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC O/U 4.5",
   "revisions": 1,
   "sha256": "3583748f1fa0ce170741ecfc9852d4d3a0a1b911838e074be7ffbd3717998692",
@@ -1471,6 +1506,7 @@
   "created_at": "2026-09-20T08:44:14.257381Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "036a401782ec3ffed4326a71f5a2e44fcf01fcc142d352e8829b5809aee1bf84",
@@ -1605,6 +1641,15 @@
   "sha256": "30bf7340fe7a1a7712b6b573d3c17935f357061bf3657e4733c348e2f4213d33",
   "slug": "2026-soccer-usl-championship-runner-up-charleston-battery"
  },
+ "0xebbf59b48a5955a018d9e687a805fbf141371b18e1f2c09d7eed926509b0e1ac": {
+  "created_at": "2026-11-25T10:55:35.460271Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait be 22+ on January 31?",
+  "revisions": 1,
+  "sha256": "12b1a5fc1f398cb9a6d4767af04c8914075dc7d3a2366c1f7b3a3d752d17e602",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-be-22-on-january-31"
+ },
  "0xec241600562acbba206f8023facbf6c0a5a61368b75bbd7d7e29c4b6648b23ac": {
   "created_at": "2026-11-07T00:10:34.134437Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1683,6 +1728,7 @@
   "created_at": "2026-08-18T14:23:16.237467Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from North Carolina be less than 3,500,000?",
   "revisions": 1,
   "sha256": "e52c2a554891faeaecba5a763932e6ab0fc42457d8c62ba72afbfee1c9868cda",
@@ -1734,6 +1780,15 @@
   "sha256": "585d390dbc98e768ee2a1852f58943710a9b7fc2484402ca6ce9d81a30e01edb",
   "slug": "will-yakult-brothers-make-a-dota-2-roster-change-before-2027"
  },
+ "0xf550d2668962cf87c5979e12af984a2fdea1b51ec82fb1d35cc1a9b25ce178ac": {
+  "created_at": "2026-07-21T06:00:11.517398Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh O/U 1.5",
+  "revisions": 1,
+  "sha256": "c69a1fa6067aa054cd5a88e6992ce3c4659c2269e2edcc5d681aa3daa2bf0ebd",
+  "slug": "ukr1-dyn-liv-2026-08-02-team-total-away-1pt5"
+ },
  "0xf56fe1c53c6acec4bae2c7f221e2a6e4d2f5f1652e1a317deabba975067ca2ac": {
   "created_at": "2026-09-09T22:11:58.323438Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1774,6 +1829,7 @@
   "created_at": "2026-09-18T09:46:19.722385Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "f43815aafa29d19d9feaeb322bdb2666a2763b888b2156f287b8a0089dcb0e70",

@@ -147,6 +147,15 @@
   "sha256": "17ecc63402c8b7ef3861161dc27b2e72becf2036d67cafe384ac9615350a6309",
   "slug": "will-trump-meet-with-joseph-aoun-by-november-30-2026"
  },
+ "0x17fa6b1dafc60173b5ece0bb586fc06fa58572b4d47ec19dc620a912e78efcce": {
+  "created_at": "2026-07-21T06:00:09.69828Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 5.5",
+  "revisions": 1,
+  "sha256": "4c73b5bc67bb876627b40ddd0b5eaeb3549888a1b8d851ea829551a219906189",
+  "slug": "ukr1-dyn-liv-2026-08-02-total-5pt5"
+ },
  "0x19c3a012f759cc746e4373fd060e67853eb11a13f14db7f37f9c6c49246ea2ce": {
   "created_at": "2026-08-12T17:15:52.958032Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -197,6 +206,7 @@
   "created_at": "2026-08-11T18:49:05.675856Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-01 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",
@@ -343,6 +353,7 @@
   "created_at": "2026-09-02T06:01:15.08197Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kharkiv 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "61d4b0e21b19ee29c8aa9ee1b22d74c228ef98f9d8b4c8ef50ddcd721893b469",
@@ -385,6 +396,15 @@
   "sha256": "0d20795f21c0d9c0437fca8ce47de27b2fd39db17e71888884c1db73f1e97103",
   "slug": "will-fulham-finish-in-the-top-6-of-the-2026-27-english-premier-league-season"
  },
+ "0x38ceb13d650cb02fe859ad952d2a5c20bbf365642844e00cd2a3071a310c1ace": {
+  "created_at": "2026-07-21T06:00:13.668754Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: 2nd Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "9c2bc76b940123dc603787521af1d184301a4939d7db80407e30208d8f5b5b7e",
+  "slug": "ukr1-dyn-liv-2026-08-02-second-half-total-0pt5"
+ },
  "0x3d5c403f40cf705d71fa55ca0ef0acbe42b164f182312260a6376c939a33b7ce": {
   "created_at": "2026-08-26T21:46:03.675428Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -417,6 +437,7 @@
   "created_at": "2026-10-24T04:00:09.161601Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Elon Musk post 1000+ tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -554,6 +575,7 @@
   "created_at": "2026-09-13T08:45:24.346439Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Barnsley FC O/U 0.5",
   "revisions": 1,
   "sha256": "c7a61aaffd93cbce7bef016d3dd31374d2294a5dac3eeebb2de7df1cfb5af0b9",
@@ -572,6 +594,7 @@
   "created_at": "2026-08-11T18:49:04.873482Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-01 House election by 50% or more?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",
@@ -1349,6 +1372,15 @@
   "sha256": "c4f39e7c1836655bb22f4ec67e3f09271268171ca3731fa5a95894e837080abf",
   "slug": "will-the-democratic-party-candidate-win-the-2026-oh-12-house-election"
  },
+ "0xcb4e21a610b84356c6a55b973822ef503bdefef6e67b91ef3be2fd0385daa3ce": {
+  "created_at": "2026-11-25T05:01:20.494522Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (LOW) $85 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-dip-to-85-in-december-2026"
+ },
  "0xcb7448ad239de7e55e0e66b16242f68a8644485bbea95f694f111838f6ab08ce": {
   "created_at": "2026-09-20T09:44:56.455893Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1665,6 +1697,7 @@
   "created_at": "2026-09-13T08:46:36.934807Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "facc00f6407aad377999733a0f90116bfb42bf89c325c62f38a5af530a40bc25",
@@ -1720,6 +1753,7 @@
   "created_at": "2026-09-13T08:45:24.776352Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Barnsley FC O/U 1.5",
   "revisions": 1,
   "sha256": "e6d5488365d5c36c159dfa4a8fd76f5e06b6bfc3b52aa1028b4ef4d71b7c88e2",

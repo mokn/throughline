@@ -485,6 +485,7 @@
   "created_at": "2026-09-13T08:15:34.183855Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 0 - 3 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
@@ -642,6 +643,7 @@
   "created_at": "2026-09-02T06:01:10.512052Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: O/U 3.5",
   "revisions": 1,
   "sha256": "4805d524a0f681f3f130498dea0b2b7080137909a4bb295a8e6276cab8368e36",
@@ -761,6 +763,7 @@
   "created_at": "2026-10-18T23:30:09.593312Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Rangers FC (-3.5)",
   "revisions": 1,
   "sha256": "59978e73116731b03765e0ad885bfd36e465398eaec369b719779d5ad8b547f5",
@@ -801,6 +804,15 @@
   "revisions": 1,
   "sha256": "7731b3e59d6053460ff31d00ef77968dcd081ddb06414c0cbd9e290977de49d6",
   "slug": "will-mari-humberg-qualify-for-the-2027-ppa-tour-finals"
+ },
+ "0x83612d63be95811a13b940911029003f8f336ec30e85a9e64361927840c70e43": {
+  "created_at": "2026-11-25T05:00:17.562906Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $256 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-reach-256-in-december-2026"
  },
  "0x83e4e96adbc505289a84cf1fe410ae459f3f943f774c6c5d33195ae9541cf843": {
   "created_at": "2026-08-12T17:24:13.838221Z",
@@ -1149,6 +1161,7 @@
   "created_at": "2026-08-07T20:30:50.940616Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 ID-01 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "7a014bf118162aeaea4d65a862670150fbcee62c2239f6d90cb499b08e972ccb",
@@ -1416,6 +1429,7 @@
   "created_at": "2026-09-13T09:46:33.794774Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Both Teams to Score",
   "revisions": 1,
   "sha256": "c2ab20e8be360da7cd8a88713cb93cea4010a58657b7ed29583ae90158fadade",
@@ -1476,6 +1490,24 @@
   "sha256": "2bb52fef4d7501e48c3715df632edddc248e2ffbca9f4addacb9d36a2f395915",
   "slug": "will-renan-calheiros-be-the-next-president-of-the-brazilian-senate-20261106"
  },
+ "0xdd99b439bb43d391cdced17e7164d71a404b571dd5aa75f6c1567bb7a895e443": {
+  "created_at": "2026-11-25T05:00:47.446502Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Netflix, Inc. (NFLX) hit (HIGH) $90 in December?",
+  "revisions": 1,
+  "sha256": "39328c60a168d0a570c8c48615ce2f22a8568ae464f72e2a1d996d3da6c72908",
+  "slug": "will-nflx-reach-90-in-december-2026"
+ },
+ "0xdf46a01e7589fcec9d20be454f0070e27a116dc750180cd065a22c71337a3e43": {
+  "created_at": "2026-11-25T05:01:00.985343Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $1.50 in December?",
+  "revisions": 1,
+  "sha256": "8debd5f6e4f25d1f7bd96b6d5ad426da017abb9b14e6325a586ff8565c65e290",
+  "slug": "will-open-reach-1-50-in-december-2026"
+ },
  "0xdf8c3c10e9c6411ac99134e17bfa2822ec7edf75ff8e9efebc89a4cb5c88e443": {
   "created_at": "2026-08-28T20:24:39.807668Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1529,6 +1561,15 @@
   "revisions": 1,
   "sha256": "e08babce92689a04acca444250c37fb862fa14f71bf274767a0705be9a10e737",
   "slug": "2027-soccer-sper-lig-runner-up-kocaelispor"
+ },
+ "0xe66fe7497009dcc594007814c7001e6782caa137b810f49735db152eff5de543": {
+  "created_at": "2026-11-25T05:01:28.07004Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $55 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-dip-to-55-in-december-2026"
  },
  "0xea5c30cfab724603239a01a2b021cf4467f49b5470f7af2891de83f2fb7e1843": {
   "created_at": "2026-08-07T16:01:52.094038Z",
@@ -1589,10 +1630,20 @@
   "created_at": "2026-09-13T09:15:40.060887Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
   "slug": "el2-cra-bar-2026-09-26-exact-score-any-other"
+ },
+ "0xf25eaa055731b9f0833e179fc72ac296fbae191b1cebb72d771c46e786f21043": {
+  "created_at": "2026-11-25T13:08:00.742752Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be 1 US aircraft carrier in CENTCOM on December 31, 2026?",
+  "revisions": 1,
+  "sha256": "edc0698ee4ffdb93fa6992031c0eafec7f98ee0bf11928f113612158bb4ba96e",
+  "slug": "will-there-be-1-us-aircraft-carrier-in-centcom-on-december-31-2026"
  },
  "0xf27b59cecce4c52aff538ee906d4124726fa87340b54f6ded5c80992e9f1a843": {
   "created_at": "2026-10-01T14:00:59.293228Z",

@@ -946,6 +946,7 @@
   "created_at": "2026-08-05T18:43:08.77848Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho gubernatorial election by 15%-20%?",
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
@@ -1138,6 +1139,7 @@
   "created_at": "2026-08-11T17:53:46.829351Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-11 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "8084705a0cb67f1d16096007b40285d108439e387a695c4dd67ead5b44a04e25",
@@ -1198,6 +1200,15 @@
   "revisions": 1,
   "sha256": "8f3d947bad886ac6b62c9b9aeeb5c9022c43c9899afcb70f5b138b226e6a8c9b",
   "slug": "will-the-weeknd-be-the-billboard-1-top-artist-in-2026"
+ },
+ "0xc08da21f262a36730f54e26b380dad0a46504617cde198ff229813e29da78c9b": {
+  "created_at": "2026-11-25T05:02:10.142173Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (HIGH) 107.00 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-reach-107-in-december-2026"
  },
  "0xc19ea61c234ca3e7cfcecbf3e9adeb93049d63c8766336e38380fabed554b49b": {
   "created_at": "2026-10-11T11:46:10.714721Z",
@@ -1266,6 +1277,7 @@
   "created_at": "2026-09-20T08:15:28.307595Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Blackpool FC 0 - 2 Leicester City FC?",
   "revisions": 1,
   "sha256": "ba88224a2a5a9ef82d0b51c75a070666bfdacf62be0730b43529cac6c9dab826",
@@ -1707,6 +1719,7 @@
   "created_at": "2026-09-13T08:15:34.762448Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 2 - 3 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",

@@ -613,6 +613,7 @@
   "created_at": "2026-09-13T09:45:21.057758Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Port Vale FC (-2.5)",
   "revisions": 1,
   "sha256": "5895bca6896e5da0600202a8f1a420c7dedf8caffe49f9766f456570f491941d",
@@ -928,6 +929,7 @@
   "created_at": "2026-08-11T18:27:51.424425Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NM-02 House election by 5% or more?",
   "revisions": 1,
   "sha256": "3eaa60e2f2b466c8a3a47850ed8eda206a861a4474eb4163bc3b8586d711b47a",
@@ -1185,6 +1187,7 @@
   "created_at": "2026-09-20T08:45:10.695383Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "a27294d91f1cb2961d1def873e7838f1d1f7cb948660c59b2ca3419eb87f12ed",
@@ -1419,6 +1422,15 @@
   "revisions": 1,
   "sha256": "4360440d917e87e5c57bc6259e08eac7c006370c63d2d27d5f23e0a27c881f23",
   "slug": "dallas-goedert-574pt5-receiving-yards-2026-27"
+ },
+ "0xc3e39ff6c7da5325495d97f075ab68cef45a8096563f4f0a9d248344b3faea41": {
+  "created_at": "2026-11-25T05:01:54.052012Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceX (SPCX) hit (LOW) $100 in December?",
+  "revisions": 1,
+  "sha256": "980971399bdb4ff3e8996bfac1dd7c04cba7f6b22deb08cd4a5aa4523dcba66a",
+  "slug": "will-spcx-dip-to-100-in-december-2026"
  },
  "0xc44edcfdedb422bae8ff1803e2178d1ee025fc41efd81400ccbede709e018841": {
   "created_at": "2025-07-03T20:37:22.639481Z",
@@ -1674,6 +1686,15 @@
   "revisions": 1,
   "sha256": "413bf68b03043de04ed2a65042e142a97a6599bf3e9e4a8bef1905e84bb88aa4",
   "slug": "will-nioh-3-win-ultimate-game-of-the-year-golden-joystick-20261111"
+ },
+ "0xf4ed7cf286158642a94c2becfb39af8230247fecec5d70d6083d51cc560e2c41": {
+  "created_at": "2026-11-25T14:08:11.011009Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Baidu be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-baidu-be-the-best-ai-lab-at-the-end-of-january-2027"
  },
  "0xf5d02b8676d7ea047e838cae55d78ef6852ce59c93015ed4202b08896ba64e41": {
   "created_at": "2026-09-13T08:44:51.400183Z",

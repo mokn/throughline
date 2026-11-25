@@ -1,0 +1,9 @@
+This market will resolve according to the company that owns the highest-ranked model in the "Models" view of the arena.ai Code Arena | WebDev leaderboard (category "Overall"), when the leaderboard is checked on January 31, 2027, 12:00 PM ET.
+
+Results from the "Model Ranking" column at https://arena.ai/leaderboard/code/webdev, with the category set to "Overall", the "Models" view selected, the "License" filter set to "All", and all other filters at their default settings, will be used to resolve this market.
+
+Note: Models marked “AutoEval” at the applicable check time will not be considered, regardless of whether they display a rank or score.
+
+Models will be ordered by their position in the "Model Ranking" column at the market’s check time. If a tie still remains, alphabetical order of company names as listed in this market group will be used as a final tiebreaker (e.g., “Google” would be ranked ahead of “SpaceXAI”). This market will resolve based on the company that occupies first place under this ranking.
+
+The resolution source for this market is the arena.ai Code Arena | WebDev leaderboard (https://arena.ai/leaderboard/code/webdev). If this resolution source is unavailable at check time, this market will remain open until the leaderboard comes back online and will resolve based on the first check after it becomes available. If it becomes permanently unavailable, this market will resolve to "Other".

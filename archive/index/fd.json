@@ -67,6 +67,7 @@
   "created_at": "2026-09-13T08:15:32.350278Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Draw at halftime?",
   "revisions": 1,
   "sha256": "589813a0eb37d207b3efa1617f842a8ecb0995fd78398d515bebe1b3a2175fca",
@@ -76,6 +77,7 @@
   "created_at": "2026-09-13T09:44:19.245201Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Port Vale FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "2eb428c10a358dfb996cfa8c7c61c50a7a4abb219cd17c6d44e632e728399172",
@@ -227,6 +229,15 @@
   "revisions": 1,
   "sha256": "f507b1d484afd0194e4d2e0f4761f2ef3cfb6975df4aebe3193bbc33a7844793",
   "slug": "will-tim-stutzle-record-100-points"
+ },
+ "0x221e6c9279d5ca2554d9e6426259e90e07a620d6d06258f2dda78620210e49fd": {
+  "created_at": "2026-11-25T05:02:25.461669Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (LOW) $30 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-dip-to-30-in-december-2026"
  },
  "0x222c28d6289dad900e2dbdca4cb982ccf29f0882339711d33c747d55552536fd": {
   "created_at": "2026-10-10T19:00:26.924435Z",
@@ -474,6 +485,7 @@
   "created_at": "2026-08-04T18:09:32.084981Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Iowa Senate election by 0%-3%?",
   "revisions": 1,
   "sha256": "0ab5cdbb11451c9b59493acb05bec3489ad6e575e97f390e3fbb71a9b708ce7b",
@@ -635,6 +647,15 @@
   "revisions": 1,
   "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
   "slug": "will-arvid-soderblom-win-the-2026-27-vezina-trophy"
+ },
+ "0x53f14603146535bda0ee652e841aa77bfeb35056728a447c37693190ef83c5fd": {
+  "created_at": "2026-11-24T19:26:33.794632Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Mirage be the most banned map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a1bf336b53694a4fdd93709799cec042c3935e2b368de088961b2892500248de",
+  "slug": "will-mirage-be-the-most-banned-map-at-pgl-major-singapore-2026"
  },
  "0x5436712f0cbecb644f45cc390552375cff37419267c58c8989d1b94f70c140fd": {
   "created_at": "2026-08-07T20:31:33.140668Z",
@@ -1241,6 +1262,7 @@
   "created_at": "2026-08-07T20:29:56.728794Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-02 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "b698f2a66aacb47f446854d756cb105073cea07b03637234d81e8f0bdce6d6f7",
@@ -1650,6 +1672,15 @@
   "sha256": "8691d7538ab1556ba20fbc0a06c33fb1b9257e63e5bb45d58fd1ca94c0ff4f79",
   "slug": "anthropic-or-openai-higher-ipo-closing-market-cap"
  },
+ "0xe2c5c00abbd4d3fe554891350ba1930b636cce20c7290bbe0ae85af7c85155fd": {
+  "created_at": "2026-11-25T10:55:45.328779Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Suez Canal be 46+ on January 31?",
+  "revisions": 1,
+  "sha256": "ede58e76a6041a84a7c88e0233c7769d15ca944f86eade3e23fcd2f809c79b1d",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-suez-canal-be-46-on-january-31"
+ },
  "0xe374905b0808c770b5bb640b8cffc8d36922c3f7a717c6e71f9c4eeb4b1dbefd": {
   "created_at": "2026-10-29T20:58:07.166705Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1729,6 +1760,7 @@
   "created_at": "2026-09-20T08:47:24.53438Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "3aea0f23bf205c794b7280826498376c13071cc1254007acdd52cfbf7b44a4a6",
@@ -1785,6 +1817,7 @@
   "created_at": "2026-08-11T17:53:29.365143Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-08 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",

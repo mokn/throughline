@@ -1,4 +1,13 @@
 {
+ "0x01ecd708c6fadb2ed0c258d496651ca0c6febcc6aba99d4fb2f780bb23a43016": {
+  "created_at": "2026-11-25T05:02:11.328809Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (HIGH) 104.50 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-reach-104-50-in-december-2026"
+ },
  "0x02a3ba78400f466e421ba28882ec3fa1babcd21c087d7339c70960fc4e7ee216": {
   "created_at": "2026-10-30T00:18:20.996726Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -21,6 +30,7 @@
   "created_at": "2026-08-11T17:53:00.334172Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-04 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "b4b221e99a5852b252d7b0b668599bcd7d6def4b35218525b46e5b7ee696c037",
@@ -103,6 +113,7 @@
   "created_at": "2026-09-13T08:44:22.148335Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "ec7d5c521d40bf048e68b83bf3459b7fb85256232609ea4f3c5f2164114444f8",
@@ -489,6 +500,7 @@
   "created_at": "2026-11-24T15:38:01.160139Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Adin Ross be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -578,6 +590,15 @@
   "sha256": "c86866edffdd8e58ed9fca50b0f49e335bc454549c937034703a0ab614ee1020",
   "slug": "will-the-republican-party-candidate-win-the-2026-ar-04-house-election-by-35-40"
  },
+ "0x6c4d164a85b4ab28730b369c37e1a6bb22db1217b86922189ac98c40c2de4316": {
+  "created_at": "2026-07-22T19:55:41.825156Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 10.5 Total Corners",
+  "revisions": 1,
+  "sha256": "5b9cd6ac54154a0c410b7ea29df645f6d1ff968701cb8a71cf2a7430dfcabc23",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-total-10pt5"
+ },
  "0x6c92f1d14af6c2d3b54d26170384f19b190c4b90b180eeaf0fbedf7ce1e1d616": {
   "created_at": "2026-10-18T23:30:32.769706Z",
   "first_seen": "2026-11-14T13:31:33Z",
@@ -655,6 +676,7 @@
   "created_at": "2026-08-11T17:53:34.090116Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-09 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
@@ -789,6 +811,24 @@
   "revisions": 1,
   "sha256": "8dd6a7de966805f0d2d692f9be959ea071e7deade37120c18bf636b49e93e6f8",
   "slug": "will-ostium-launch-a-token-by-june-30-2027"
+ },
+ "0x869abe994dceca1bd15566bd7d2156e65c02f2390e2053580c5908ff27002216": {
+  "created_at": "2026-11-25T05:02:23.328184Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (HIGH) $46 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-reach-46-in-december-2026"
+ },
+ "0x87ce91447a7a4d841d7c3b85e25e01519fd1e49bea71226239b11e4550b45916": {
+  "created_at": "2026-07-22T19:55:41.106037Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 8.5 Total Corners",
+  "revisions": 1,
+  "sha256": "0c59a5b486b227582d658cbdcbda20b1b63c4ba18f852f8d9bb4e9b3d9f9a39b",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-total-8pt5"
  },
  "0x88045edf1a8081479b7cc9196f0f3208cfeee774c0556fda36f20a206ba15016": {
   "created_at": "2026-11-17T17:09:27.698756Z",
@@ -1369,6 +1409,15 @@
   "revisions": 1,
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-marko-arnautovic-score-the-most-goals-in-the-2026-27-uefa-conference-league"
+ },
+ "0xcb5ff35f37333ff209e30641f6f551dbebe3ee0e361f016f20dfbaeb1112eb16": {
+  "created_at": "2026-11-25T05:01:14.144131Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (LOW) $148 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-dip-to-148-in-december-2026"
  },
  "0xcc6c4f3de66da8abd4b35f1130c63fe74be7057e5599fb47178e49774b57c416": {
   "created_at": "2026-11-18T21:07:42.758232Z",

@@ -709,6 +709,15 @@
   "sha256": "b73bccbdb544d5772617ebefd04a4998d8877a3011eb5f3f1e6b778970bfb686",
   "slug": "el2-col-pvl-2026-10-03-team-total-away-0pt5"
  },
+ "0x7419a7a25e7a88d4a33031f3b54ad6083117018d536582050585ea4a83a63a9c": {
+  "created_at": "2026-11-25T05:01:41.619081Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (LOW) $60 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-dip-to-60-in-december-2026"
+ },
  "0x770f4fb78a642e47e0df450503f5150623ad4a54ab308bc9ae3b149d9b43759c": {
   "created_at": "2026-11-10T02:14:48.173851Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -822,6 +831,7 @@
   "created_at": "2026-08-05T18:43:07.141068Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Idaho gubernatorial election by 40%-45%?",
   "revisions": 1,
   "sha256": "8914e0f8119ba395cd74815d1ddd028bf3f046e488198c4d2001e584bea180ae",
@@ -835,6 +845,15 @@
   "revisions": 1,
   "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
   "slug": "enl-gat-tam-2026-10-23-exact-score-4-1"
+ },
+ "0x892788611df76e392248e430e3f26678f712583a7b26dbf2d66bc32223eaa19c": {
+  "created_at": "2026-11-25T02:33:12.358744Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will OpenAI or any subsidiary default before 2028?",
+  "revisions": 1,
+  "sha256": "66cb49f1098a27ab5fb14138f15ea55fb69157cf5665f50f328bf71a6b716989",
+  "slug": "will-openai-or-any-subsidiary-default-before-2028"
  },
  "0x8b3bb569e63cf15a51f3f211952551d050bbc0a533709efd53b62d3d4c143a9c": {
   "created_at": "2026-05-19T18:11:12.075209Z",
@@ -897,6 +916,7 @@
   "created_at": "2026-09-13T08:44:22.97463Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Barnsley FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "d12a5e478cac5b024ad11f95f862ad5aed1ee6b85b328db61785b7910f24fc12",
@@ -1125,6 +1145,7 @@
   "created_at": "2026-09-13T08:44:21.135049Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 1st Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "0c36a4acf89b8ce4a33905fb00f8af06e07ef2bc62a6750480fd04f109e51a53",

@@ -268,6 +268,7 @@
   "created_at": "2026-09-13T08:16:12.059037Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Barnsley FC leading at halftime?",
   "revisions": 1,
   "sha256": "96bc0fdeff53e7468fb257ea8ebfe22e6632fee3cafc3e37764e4f6dd17f88c0",
@@ -370,6 +371,7 @@
   "created_at": "2026-09-02T19:34:13.521451Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-02 House election by 0%-5%?",
   "revisions": 1,
   "sha256": "ce38d24d69a56aa2294f1fe7b71c95357d02512261de218aae6f13783fb83fa7",
@@ -525,6 +527,7 @@
   "created_at": "2026-09-18T09:46:21.760044Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 2nd Half O/U 4.5",
   "revisions": 1,
   "sha256": "7981d304d7d4da9f8aa3955307076068c555fe287c2fc5efa5371f6623427a91",
@@ -831,6 +834,15 @@
   "sha256": "4f65377e6d4989060b36101d8b431d52dfcace879779714891259e008b280f4e",
   "slug": "will-dallas-brodie-be-the-next-premier-of-british-columbia"
  },
+ "0x6b273b02dab18d1cce889e7ed88e3032c5828ee3e1675c6a1e14f3437446dea1": {
+  "created_at": "2026-11-24T19:26:31.597995Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Cache be the most banned map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "a1bf336b53694a4fdd93709799cec042c3935e2b368de088961b2892500248de",
+  "slug": "will-cache-be-the-most-banned-map-at-pgl-major-singapore-2026"
+ },
  "0x6c7d18c908eac1ca4808b730b19bba6274de8b56895f1eea4a6c16ace07ffba1": {
   "created_at": "2026-11-18T21:07:25.939441Z",
   "first_seen": "2026-11-19T15:44:54Z",
@@ -996,6 +1008,15 @@
   "revisions": 1,
   "sha256": "37d960f31e890f09ffbb33ddfd321ca8189779fd909e326ee58ebd32105577c0",
   "slug": "nba-2026-27-players-to-average-30-plus-ppg-nikola-jokic"
+ },
+ "0x853fcab854d60d1d455fdc1adb974158f8f22fb3564da6af41fe994c72e5fca1": {
+  "created_at": "2026-11-25T13:18:43.858352Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Ursula von der Leyen by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-ursula-von-der-leyen-by-december-31-2026"
  },
  "0x86e8f678e6cebb9596ffbb5a736b2ff9f36b12905d5b65b1556329c28533c7a1": {
   "created_at": "2026-07-02T18:03:48.759012Z",
@@ -1231,6 +1252,7 @@
   "created_at": "2026-09-20T08:47:17.651487Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Blackpool FC (-2.5)",
   "revisions": 1,
   "sha256": "042cb6965b8403b96b7a107ef6d4599870d274e1c1f5d7e8b21ca73e8d708c94",
@@ -1336,6 +1358,15 @@
   "revisions": 1,
   "sha256": "d0327b3eecd4cb627640116408b639451d908f2bdc2ea073fc019a1689c7e6e6",
   "slug": "basketbol-super-ligi-2027-champion-anadolu-efes"
+ },
+ "0xada5c68307b346bd5b85aa3142f4cdb05d5ec8a61a40f04b9e9a73b0408784a1": {
+  "created_at": "2026-07-20T09:03:40.82659Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Livyi Bereh to win the second half?",
+  "revisions": 1,
+  "sha256": "3d69e2df415d516b5a01eb50872b5a055dc641baf370ff772d63ae8a9231f946",
+  "slug": "ukr1-dyn-liv-2026-08-02-second-half-result-away"
  },
  "0xadd000b50f65882491c0550f873247c34992536552d6358c54adfab6ecfdcfa1": {
   "created_at": "2026-11-03T17:43:08.589554Z",
@@ -1756,6 +1787,7 @@
   "created_at": "2026-08-11T17:52:12.057209Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-01 House election by 9%-12%?",
   "revisions": 1,
   "sha256": "b12775c2842c7a0e2a1f17ba53eda380aee2a8555e88a0ef7e196995245a10ed",
@@ -1850,6 +1882,15 @@
   "revisions": 1,
   "sha256": "748af8c5909d124d62bef3c5aa85e110f7bd1c3b810d24f630a61715d712658c",
   "slug": "will-the-black-ball-win-best-original-score-at-the-99th-academy-awards-20260805190947063"
+ },
+ "0xf81186e63d4945a0a68d191c9794e74a6f34880a14f4787b3ec853cbec849fa1": {
+  "created_at": "2026-11-25T14:08:18.231715Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will StepFun be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-stepfun-be-the-best-ai-lab-at-the-end-of-january-2027"
  },
  "0xf901c05023d98a6e49f3cb931c4d8916e3d3783cf2d1702cf811e65cb07940a1": {
   "created_at": "2026-08-24T16:33:39.832657Z",

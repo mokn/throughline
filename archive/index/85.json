@@ -272,6 +272,7 @@
   "created_at": "2026-08-04T18:29:23.560125Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 New Mexico Senate election by 15%-18%?",
   "revisions": 1,
   "sha256": "98d8a0e31e3806cfbf24113030ca9ac71f76b38df5fa6a26c34636690cc43ca9",
@@ -281,6 +282,7 @@
   "created_at": "2026-09-02T06:01:09.70895Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: FK Kryvbas Kryvyi Rih (-2.5)",
   "revisions": 1,
   "sha256": "dd32138aee951f507afab44e819fbf3b21c4b4d1aaa41af720cb5e69f17a7a19",
@@ -398,6 +400,7 @@
   "created_at": "2026-09-13T09:45:29.362558Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: O/U 12.5 Total Corners",
   "revisions": 1,
   "sha256": "fbc82c783de31eddde73f9de2448f5228fb6c3a9bb6991536eb994b572c90750",
@@ -505,6 +508,15 @@
   "sha256": "8537551c9b3119014e67cd3bba0e6b2cd02829422578865cc08d74d6f6b8edd8",
   "slug": "will-the-great-divide-noah-kahan-be-the-top-spotify-album-for-2026"
  },
+ "0x58edddce9824b1f6f67d28cf0acd4f8fd53c2cffb5e835072a485d6d759cfe85": {
+  "created_at": "2026-11-25T05:00:10.219901Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (HIGH) $525 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-reach-525-in-december-2026"
+ },
  "0x5a5bfc55f7cd763e1c73ff05561b4d6c95d133fa6a2f5929afe7f54db54e0c85": {
   "created_at": "2026-08-10T15:49:56.589277Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -560,6 +572,15 @@
   "revisions": 1,
   "sha256": "5781dab2de389e32eed4b6751efdb4e58807a8c073e54174bf905a6bbd3443ca",
   "slug": "el1-hud-lut-2026-09-26-corners-total-10pt5"
+ },
+ "0x6256e53494097b69774c5f59327e577ec187c8e65bee7cd17344c4ab11d33485": {
+  "created_at": "2026-11-25T05:00:54.486882Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (HIGH) $174 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-reach-174-in-december-2026"
  },
  "0x65a6b3f6b45725b43a52dc7e3bb94dd4101b454ecb3715b4f726fa3d1785e485": {
   "created_at": "2026-09-28T17:18:52.399239Z",
@@ -749,6 +770,7 @@
   "created_at": "2026-09-13T08:15:33.944485Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 0 - 2 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
@@ -1129,6 +1151,15 @@
   "sha256": "e400e6bc73524c31d4c453bc4138590a03cde8a234342415c6f55e6d723201ff",
   "slug": "will-george-cardenas-win-the-2027-chicago-mayoral-election"
  },
+ "0xb8ad79b200e7a4e59bb8c372340a28a60f9a2b9eadd51301466ef8bcfd37d885": {
+  "created_at": "2026-11-25T05:00:59.518356Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Opendoor Technologies Inc. (OPEN) hit (HIGH) $4.50 in December?",
+  "revisions": 1,
+  "sha256": "8debd5f6e4f25d1f7bd96b6d5ad426da017abb9b14e6325a586ff8565c65e290",
+  "slug": "will-open-reach-4-50-in-december-2026"
+ },
  "0xba4fd9a865f276504c93226ba1c94cc588d2b5d3f51c574f34c35e5dd15dcd85": {
   "created_at": "2025-11-19T22:51:35.34283Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1205,6 +1236,7 @@
   "created_at": "2026-10-18T09:00:31.692376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Neither team to score first?",
   "revisions": 1,
   "sha256": "d3154a35108708388685e3742a43ce92717d12f0d108bc34e21c1d1db2a4f491",

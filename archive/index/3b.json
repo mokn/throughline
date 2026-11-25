@@ -172,6 +172,7 @@
   "created_at": "2026-09-13T08:15:34.590346Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 2 - 2 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
@@ -236,6 +237,7 @@
   "created_at": "2026-10-25T04:01:25.37879Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will SpaceX (SPCX) hit (LOW) $115 in November?",
   "revisions": 1,
   "sha256": "50a18ec2e1b8d8c0fa8b360d4158e4825d7c667f7796be4a68e8cd466d560c7a",
@@ -249,6 +251,15 @@
   "revisions": 1,
   "sha256": "fce298b1115d55f4cbe487b6cdda2b2e78d74109a996120ea4dd1fd511d8b0f9",
   "slug": "next-gemini-neon-4pt1-released-by-january-31-2027"
+ },
+ "0x2ae63c1ae9f6e621f748c203c80c4dae48d2a041a58437ab4dbe5069728eb83b": {
+  "created_at": "2026-11-25T05:00:18.309206Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (LOW) $232 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-dip-to-232-in-december-2026"
  },
  "0x2b21d6ce0071420904eb33eda841e88f3ac775939560402276a8b4cc9eb8b63b": {
   "created_at": "2026-09-09T15:42:09.153887Z",
@@ -496,6 +507,15 @@
   "revisions": 1,
   "sha256": "cd2a34b1828e0bbe294ed69d21a4e0437f610a41a05a8b219fcb71de6c3250e0",
   "slug": "will-trump-speak-to-maria-corina-machado-by-october-31"
+ },
+ "0x58261991fa00abf9d879c6a98a0217b6f365751c99e18f113359eabe6df37f3b": {
+  "created_at": "2026-11-25T05:00:21.793829Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $340 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-reach-340-in-december-2026"
  },
  "0x58333aa92be870712d3bd65dd709f4c4a89631624c0b269b6fabb54e0593d13b": {
   "created_at": "2026-08-20T09:36:10.250089Z",
@@ -745,6 +765,15 @@
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-desmond-bane"
  },
+ "0x7e7fc984165039c2b262b66fe4328234b4bd1804f71b3d1ff4036aa144d2d33b": {
+  "created_at": "2026-11-25T10:55:31.41666Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait reach 36+ by January 31?",
+  "revisions": 1,
+  "sha256": "0eef4fc5bdf21eaa4480d57fddf4a996af8e6077cbca311893efc42d28d814ca",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-reach-36-by-january-31"
+ },
  "0x7fc7a709acafb9eb433566a551746ba0e3a123c316840eefca9926a2cefc7c3b": {
   "created_at": "2026-08-05T18:16:59.672563Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -879,6 +908,7 @@
   "created_at": "2026-08-11T18:49:08.481267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-02 House election by 35% or more?",
   "revisions": 1,
   "sha256": "280d6e3e22e7477a19b15711eadf655f80f799cfa41662733f9c7919c3b16b6e",
@@ -888,6 +918,7 @@
   "created_at": "2026-11-23T22:13:48.222291Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Imperial go 3-0 in Stage 1 of the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "49b9ed0d03ccb498c5eaa1977225d38bbefd33d14792ccecf7e8afa2e2c74906",
@@ -1052,6 +1083,7 @@
   "created_at": "2026-04-23T13:42:23.735672Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Sarah Jane Nader win Dancing With the Stars: Season 35?",
   "revisions": 1,
   "sha256": "f411786b1fea719b27401919375cf4ea0801def00f009f2f9ae64d4927410348",
@@ -1162,6 +1194,7 @@
   "created_at": "2026-09-13T08:46:36.45914Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC O/U 0.5",
   "revisions": 1,
   "sha256": "a2a9c95f23e5980a52728685e28e91d9efa2081311ad697e77f5aad831e06a29",
@@ -1564,6 +1597,7 @@
   "created_at": "2026-09-20T08:15:28.988957Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Blackpool FC 1 - 3 Leicester City FC?",
   "revisions": 1,
   "sha256": "ba88224a2a5a9ef82d0b51c75a070666bfdacf62be0730b43529cac6c9dab826",

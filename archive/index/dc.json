@@ -646,6 +646,15 @@
   "sha256": "76828c0738dbd288f4cf8879e16943dbcb7fe4794cb690ed6920a1caf38d8168",
   "slug": "will-jessie-irvine-reach-the-final-of-the-2027-ppa-tour-finals"
  },
+ "0x5fbcd44645bff5ba9ea4bcaedc3d7b2b64f883fc1b70cfc14438afd3655b07dc": {
+  "created_at": "2026-11-25T00:02:58.803773Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 56 and 65 on March 31?",
+  "revisions": 1,
+  "sha256": "8f3fed0e9e9325107e73e86a28ea0fe0035a7259973cc36ae5de74cc109b84f9",
+  "slug": "will-the-fear-greed-index-be-56-65-on-march-31-2027"
+ },
  "0x606aac2287a4c155b0d258b12583559159887718d4a9f5249bf7be840a63badc": {
   "created_at": "2026-10-13T15:48:32.229527Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -659,6 +668,7 @@
   "created_at": "2026-09-13T08:46:38.290103Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "de3f6f8614fde43a82350dcba95ebdf54bb0780e58f53773fd9dd0696551c1fb",
@@ -776,6 +786,7 @@
   "created_at": "2026-09-13T08:16:13.186099Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bradford City AFC 1 - 0 Barnsley FC?",
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
@@ -877,6 +888,7 @@
   "created_at": "2026-10-18T09:00:29.946063Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 5 - 4 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -1453,6 +1465,7 @@
   "created_at": "2026-09-20T08:47:27.116455Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "9ef1d91d103cc4a3bc91b165308c8e0b915c46fbc050218f3f5b42d38bda5553",

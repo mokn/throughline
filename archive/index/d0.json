@@ -41,6 +41,7 @@
   "created_at": "2026-09-13T08:45:27.170886Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 2nd Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "c0a066d0b43659b9bc3f3d01f6946618a9823cd640ec857f517af402e007cab9",
@@ -73,6 +74,15 @@
   "revisions": 1,
   "sha256": "4088da5fc80aa6ba9cb5fade14bbbc1ce1a5062604ee6d044c7b8dd282972a78",
   "slug": "will-lecce-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0x0e59001ea981893250ee2e7befbf265bba4134879661b83fb8465026f33ef2d0": {
+  "created_at": "2026-11-25T05:02:22.091539Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (HIGH) $54 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-reach-54-in-december-2026"
  },
  "0x0e65050f7f561937ea258dbb28778446d0fe0b3ff914da62a903195c53b314d0": {
   "created_at": "2026-09-30T09:18:19.631536Z",
@@ -123,6 +133,7 @@
   "created_at": "2026-10-18T23:30:15.738269Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Aberdeen FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "55ca28e3a461f94a23b531aa00d35473f691abacd8b85caa70c15674377437cc",
@@ -234,6 +245,7 @@
   "created_at": "2026-08-05T20:56:48.349646Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 20%-25%?",
   "revisions": 1,
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",
@@ -904,6 +916,7 @@
   "created_at": "2026-08-07T20:29:57.492411Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-02 House election by 12% or more?",
   "revisions": 1,
   "sha256": "b698f2a66aacb47f446854d756cb105073cea07b03637234d81e8f0bdce6d6f7",
@@ -946,6 +959,15 @@
   "sha256": "58c4af905f02845dd7ca0b3f73825a4319a72866d3139f0db67d158b5c815221",
   "slug": "will-gustav-forsling-win-the-2026-27-james-norris-memorial-trophy"
  },
+ "0xa4df58ff3b00a1096835e693188ca328857d47061253b5d6da4a5db6bd3597d0": {
+  "created_at": "2026-11-25T05:01:57.320562Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (HIGH) $780 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-reach-780-in-december-2026"
+ },
  "0xa767ee78a6326ad344c3f900e306fbb10d92ceda200ee17edcf4f5cf24263ed0": {
   "created_at": "2026-06-26T04:30:21.19374Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -959,6 +981,7 @@
   "created_at": "2026-09-20T08:15:27.500429Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Leicester City FC to win the second half?",
   "revisions": 1,
   "sha256": "b5fae4c2bb0fab2623c89684a42dff3d7d40ebf67569e754a60e4e3ec449fb9e",
@@ -1024,6 +1047,7 @@
   "created_at": "2026-09-13T08:46:34.527376Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 2.5",
   "revisions": 1,
   "sha256": "986b97a25ec590baf0c8b916b8c8e068900997632d78ca559f0d37d008f8797c",
@@ -1064,6 +1088,15 @@
   "revisions": 1,
   "sha256": "0d05d89691fbae4e12439fb9871400166623d19b32a321ee91b60bd2dd3a9309",
   "slug": "will-dogecoin-reach-0pt16-by-december-31-2026"
+ },
+ "0xc522d583ccead74dba0b6e2a6ef6d78d5c65d30a142c55e816020671df75c5d0": {
+  "created_at": "2026-11-25T05:00:41.321009Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (HIGH) $208 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-reach-208-in-december-2026"
  },
  "0xc5270b5d9d94e541a9268e8c76c3e7cc465a5bdb7b1d66c4dae4cf7f6f7576d0": {
   "created_at": "2026-09-18T00:06:53.530846Z",
@@ -1192,6 +1225,7 @@
   "created_at": "2026-08-11T17:53:39.953713Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-10 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "e89892fd7e186999eb1d7bf464b5e87dddd8f11457b5b84cab48976fb8428ce4",
@@ -1458,6 +1492,7 @@
   "created_at": "2026-09-13T09:15:39.384082Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Crawley Town FC 0 - 2 Barnet FC?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",

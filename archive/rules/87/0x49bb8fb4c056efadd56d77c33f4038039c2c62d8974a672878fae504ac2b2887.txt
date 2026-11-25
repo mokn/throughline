@@ -1,0 +1,11 @@
+This market will resolve to “Yes” if an open-source model is ranked first on the arena.ai Text Arena (Overall) leaderboard at any point between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+An open-source model is any model listed on the Text Arena (Overall) leaderboard with the “License” filter set to “Open Source” and style control off (Adjustments: None), at https://arena.ai/leaderboard/chat/text?license=open-source&scoring=raw.
+
+To qualify, an open-source model must rank first among all models, open-source and proprietary alike, on the Text Arena (Overall) leaderboard with the “License” filter set to “All” and style control off (Adjustments: None), at https://arena.ai/leaderboard/chat/text?scoring=raw. Results from the “Rank” column of this leaderboard, filtered for “Models”, will be used to resolve this market.
+
+Note: Models marked “AutoEval” will not be considered, regardless of whether they display a rank or score.
+
+Models will be ordered primarily by their leaderboard rank. If two or more models are tied on rank, they will be ordered by their Arena score, including any underlying, unrounded, granular values reflected in the data below the leaderboard. If an open-source model is exactly tied for first place after this ordering, this market will resolve to “Yes”.
+
+The resolution source for this market is the arena.ai Text Arena (Overall) leaderboard. If this resolution source becomes permanently unavailable, this market will resolve based on another credible resolution source.

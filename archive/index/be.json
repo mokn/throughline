@@ -196,6 +196,7 @@
   "created_at": "2026-10-18T09:00:26.119799Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Aberdeen FC win on 2026-10-31?",
   "revisions": 1,
   "sha256": "adcd62de9bd8166814b28ae621a1a02b6e0879d8c7491195a4bfd14c84be4542",
@@ -296,6 +297,7 @@
   "created_at": "2026-09-13T09:45:27.949428Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "9ab1e4d2bce6bf4c766c1d1777eb367f492beb8a357dbdc1b32951ef1117e544",
@@ -336,6 +338,15 @@
   "revisions": 1,
   "sha256": "6d2dc3747e7a5bf30aade7cfcf0c3d2ba6af98e5bbe1d464f9096fadbf9a7d85",
   "slug": "will-southampton-be-promoted-to-premier-league-2026-27-copy"
+ },
+ "0x2ccb0dc5bd4627fcab0117a2af15085b13ceb9ea3336afb6e2754d288ddd13be": {
+  "created_at": "2026-11-25T05:01:40.378834Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (HIGH) $110 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-reach-110-in-december-2026"
  },
  "0x2ce3997e2589c801b57f543d193b704c9739456109101ee2cdfe27c0b75534be": {
   "created_at": "2026-10-01T00:10:05.203471Z",
@@ -423,6 +434,7 @@
   "created_at": "2026-09-13T09:45:25.02372Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Port Vale FC O/U 1.5",
   "revisions": 1,
   "sha256": "7c8b0847ea265d30f04ba65dedf87137eb0515c232cec7b45ab9e6a37c220a8b",
@@ -450,6 +462,7 @@
   "created_at": "2026-09-13T08:45:25.165422Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 12.5 Total Corners",
   "revisions": 1,
   "sha256": "6dcd5c59676fdb40457026d75373c581f64a9de84d6f5d00d9477bc4cfde281d",
@@ -547,6 +560,15 @@
   "sha256": "aa033054bc4e6eee478381e2d05184e386602f7815f06580f02dfc1cac649bb5",
   "slug": "will-ewy-dip-to-146-in-november-2026"
  },
+ "0x49e942db0bdfa9423313ba64bffc8d042ae9e969fdb65ccf04eb839e88ae50be": {
+  "created_at": "2026-11-25T14:07:00.841432Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Anthropic have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-anthropic-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
+ },
  "0x4c6f1eabfe9da54694b3c3a9adce026bd9ff7b8520346ba5ee281a029e8b80be": {
   "created_at": "2026-06-26T15:50:34.117286Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -601,6 +623,15 @@
   "revisions": 1,
   "sha256": "dd224082f3f91507564a87081654f91c29c90414d5d01556213faaa301ad55be",
   "slug": "will-nico-collins-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-touchdowns-20260715213028177"
+ },
+ "0x5163637951654f6998f8438b11ecc2161350a35fe3bb151c553419101f5877be": {
+  "created_at": "2026-11-25T13:30:01.27774Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will OpenRouter process between 1025T and 1075T tokens Nov 30 to Dec 27, 2026?",
+  "revisions": 1,
+  "sha256": "fe43d899c8713d5c57386944139cf3b30759c67cf02806b965e2db3adc917683",
+  "slug": "will-openrouter-process-between-1025t-and-1075t-tokens-nov-30-to-dec-27-2026"
  },
  "0x51ba92ce68860e45743ad6f6e60a251c83fe50d55ee7fda64b03c5504b37f2be": {
   "created_at": "2026-08-20T09:35:58.243072Z",
@@ -1067,6 +1098,7 @@
   "created_at": "2026-10-15T13:16:59.737218Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Dell Q3 Infrastructure Solutions Group revenue be above $33.5B?",
   "revisions": 1,
   "sha256": "46271ab93d239f7db3c3793d0e046ac0ba5aa0507599ed6324812c7fdf791c19",
@@ -1293,6 +1325,15 @@
   "sha256": "911b082b10eb6e6a030a3c6c0467f845d9359cb67404a6b96d50633e05939292",
   "slug": "h100-average-rental-price-in-december-2028-above-5pt00"
  },
+ "0xb53f0277d5ae36fb5ed5f7de6ada5dfe234c684307cd07599bf05690357fd5be": {
+  "created_at": "2026-11-25T05:00:42.923672Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (HIGH) $160 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-reach-160-in-december-2026"
+ },
  "0xb7dcf49181f719c0193c746bd9989ba56e5a70d35b4c4410aa905ac486985dbe": {
   "created_at": "2026-08-05T18:37:34.913847Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1338,6 +1379,15 @@
   "revisions": 1,
   "sha256": "95ba3de01bebd2d941019bcf54957ea00e652adb94de994e9a371210ae58b34c",
   "slug": "will-mistral-have-the-best-ai-model-on-livebench-mathematics-at-the-end-of-november-2026"
+ },
+ "0xbde42893c8c961a1615d157b6b650e1c4adcc936d113e831123e1dd3a97c75be": {
+  "created_at": "2026-11-25T05:01:46.533181Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (HIGH) $132 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-reach-132-in-december-2026"
  },
  "0xbe2d30624a6adbae5afa9b6c17e8cbeab42bff8e142be13915ac5fb574f0d5be": {
   "created_at": "2026-08-04T17:45:23.996904Z",
@@ -1457,6 +1507,7 @@
   "created_at": "2026-10-18T09:00:31.545336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC to score first vs. Aberdeen FC?",
   "revisions": 1,
   "sha256": "d3154a35108708388685e3742a43ce92717d12f0d108bc34e21c1d1db2a4f491",
@@ -1575,6 +1626,7 @@
   "created_at": "2026-09-13T09:45:30.043462Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 1st Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "cabde6dba7cc917bb46c0daa6fcdd8085de6beb59ce90568e1caeaa140179db0",
@@ -1788,6 +1840,7 @@
   "created_at": "2026-08-07T20:30:16.453684Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-03 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "5f4dfac74b2eed837524b31ea291001fa3392bd7c44847a501ab792a0681f4a3",

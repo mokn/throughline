@@ -1,0 +1,17 @@
+This market will resolve according to the duration of the longest qualifying incident that begins between December 1, 2026, 12:00 AM ET and December 31, 2026, 11:59 PM ET.
+
+If no qualifying incident begins during this period, this market will resolve to the lowest bracket (“<1 hour”).
+
+An incident will qualify if the official GitHub Status Page (githubstatus.com) or the official GitHub Status API (githubstatus.com/api) classifies the incident's impact as "critical," unless its affected components, once the incident is marked "Resolved," consist solely of Copilot and/or Copilot AI Model Providers. Incidents listing no affected components will qualify. GitHub classifies incident impact as None, Minor, Major, or Critical; only Critical will qualify. Component status labels (e.g. "Degraded Performance," "Partial Outage," or "Major Outage") will have no bearing on this market absent a qualifying critical incident.
+
+Revisions published after an incident is marked “Resolved” will not be considered.
+
+An incident's duration is the time between its official start timestamp and the time the incident is marked “Resolved,” as published by the GitHub Status Page or the GitHub Status API. An incident will be attributed to the month in which it begins, based on its official start timestamp converted to Eastern Time (ET); an incident that begins during the period and is resolved after the period ends will count in full.
+
+If the determined value falls exactly on the boundary between two brackets, this market will resolve to the higher bracket.
+
+If an incident that began during the period remains unresolved at the end of the period, this market will remain open and resolve at the earlier of: (i) when the incident is officially resolved, or (ii) the end of the seventh calendar day (ET) after the end of the period, at which point the market will resolve based on the official information available at that time, with any unresolved incident's duration measured from its official start timestamp to that time.
+
+Incidents whose affected components, once the incident is marked "Resolved," consist solely of Copilot and/or Copilot AI Model Providers will not qualify. Scheduled maintenance will not qualify.
+
+The primary resolution source for this market will be official GitHub system-status information published at https://www.githubstatus.com/, including the official GitHub Status API (https://www.githubstatus.com/api); however, a consensus of credible reporting may also be used.

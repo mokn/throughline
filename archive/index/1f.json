@@ -57,6 +57,7 @@
   "created_at": "2026-10-18T09:00:27.566421Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 1 - 0 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -135,6 +136,15 @@
   "revisions": 1,
   "sha256": "a544f23df45469c8a55b641bb406ebda82acc57a5a2d063839e822c948c55259",
   "slug": "will-the-republican-party-candidate-win-the-2026-nh-02-house-election"
+ },
+ "0x16eef7cbae62cb8a2e81a8e359a5bb8f3b38725cb1e715fda86c1b6ff1fae11f": {
+  "created_at": "2026-11-25T00:02:30.027999Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 25 and 34 on December 31?",
+  "revisions": 1,
+  "sha256": "0b21d3c83f93a0f8b3a85ae1fe46b1f478ba2e084a336b9060cff526c6042a4e",
+  "slug": "will-the-fear-greed-index-be-25-34-on-december-31-2026"
  },
  "0x171eb65e5bc8829cbd2fb67116afcc3240a59b3495740cdc17900e2e8cf6571f": {
   "created_at": "2026-07-22T05:36:45.470733Z",
@@ -352,6 +362,7 @@
   "created_at": "2026-08-06T21:36:17.757492Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 AL-05 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "6ee9f81eb41d725f2899140c8b048ab605f87104d2d19ac4d3b7f86fc8524b23",
@@ -389,6 +400,7 @@
   "created_at": "2026-08-04T18:30:49.255484Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 North Carolina Senate election by 12%-15%?",
   "revisions": 1,
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
@@ -483,6 +495,7 @@
   "created_at": "2026-09-20T08:47:17.966928Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Blackpool FC (-3.5)",
   "revisions": 1,
   "sha256": "495d0371ceb82193b1fe3000005158addf9fdc17aaa45cb9c1f5bdee4ec10b2e",
@@ -676,6 +689,7 @@
   "created_at": "2026-08-11T18:49:08.823186Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-02 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "280d6e3e22e7477a19b15711eadf655f80f799cfa41662733f9c7919c3b16b6e",
@@ -758,6 +772,7 @@
   "created_at": "2026-09-18T08:46:17.590533Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC O/U 5.5",
   "revisions": 1,
   "sha256": "5652a9721f4055a4510a00f77cccdec67a456f9f3dc1fc1084eec6579c433410",
@@ -803,6 +818,7 @@
   "created_at": "2026-08-24T16:36:04.119526Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Red Bull Bragantino finish 16th in the 2026 Brazil S\u00e9rie A?",
   "revisions": 1,
   "sha256": "f922c3fd03525828d7db129b005d56944f5d2acddc33f78940e4442df1b29d85",
@@ -861,6 +877,15 @@
   "revisions": 1,
   "sha256": "ed06588c89a77cbe87f782abaf1b319a956ed45a73e1d52c50543ab94ab75f9b",
   "slug": "will-rafael-grossi-attend-a-us-x-iran-diplomatic-meeting-by-december-31-2026-20260812154221279"
+ },
+ "0x7fcc0baedfb6eb0b9478d5876e4873fb19f568eece37bd4aa6ecd77b7898831f": {
+  "created_at": "2026-11-25T05:01:07.009715Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (LOW) $32 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-dip-to-32-in-december-2026"
  },
  "0x7feaed10f5e90c6c3ab17490522beec8d6262f98a772f82253e7b9b5126b241f": {
   "created_at": "2026-09-08T16:02:55.217559Z",
@@ -953,6 +978,15 @@
   "sha256": "123b695b249629a8988f879acc70a1c191e333e19e09a7c16dd4d5ff008887b9",
   "slug": "will-chris-cenac-jrpt-win-the-2026-27-nba-rookie-of-the-year-20260624161716906"
  },
+ "0x8bdd143048dace0045d4857463b3f3a655d68222f9aa3adc3e1fea0ae581051f": {
+  "created_at": "2026-07-21T06:00:12.031373Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Dynamo Kyiv 1st Half O/U 1.5",
+  "revisions": 1,
+  "sha256": "51f8798b98799f91a75b540db5506fe0c4aad07cd7124d3bdc1b2d9e882dba78",
+  "slug": "ukr1-dyn-liv-2026-08-02-first-half-team-total-home-1pt5"
+ },
  "0x8c167bd5ed8c173517f1266a460a1d27f4e94b428c1e4998aaecf87b3929951f": {
   "created_at": "2026-07-29T23:00:22.268066Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -966,6 +1000,7 @@
   "created_at": "2026-08-11T17:53:28.852535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-08 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",
@@ -997,6 +1032,15 @@
   "revisions": 1,
   "sha256": "5d7c94c04a794519c0b8fbf235081ce78be7ac7c94c3166a35ee260fe7ac758d",
   "slug": "will-the-season-series-between-the-texans-and-jaguars-end-in-a-tie-during-the-2026-27-nfl-regular-season-20260717194029305"
+ },
+ "0x91466fa57fe7437adfe6c808e9979a96b904c635027b5380bccb9ee77ffe641f": {
+  "created_at": "2026-11-25T05:00:43.944209Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (LOW) $128 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-dip-to-128-in-december-2026"
  },
  "0x926a0fb5114eac873f0c563ab426420cc78ea7cc5c056ec4897f76ec6dca711f": {
   "created_at": "2026-08-07T16:01:26.481694Z",
@@ -1127,6 +1171,15 @@
   "sha256": "653c0b0baec6251879fafd5ad875ca2123bc843cab0a88def10416ccc7cc8f0f",
   "slug": "f1-abu-dhabi-grand-prix-practice-1-fastest-lap-fernando-alonso-2026-12-04"
  },
+ "0xa214bb9f2e72eb0c0eb9c131cf7ba4b427a77d2deaec6341918be683885cb91f": {
+  "created_at": "2026-11-25T05:01:59.817873Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (LOW) $680 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-dip-to-680-in-december-2026"
+ },
  "0xa22ee1c9afa2b5ee6da62d06d0778aeefce982861bfffb21e964469ffed8b21f": {
   "created_at": "2026-11-07T00:10:43.155133Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1227,6 +1280,15 @@
   "sha256": "f033d3bcd98a7ff642d860255c4b35663bf0bc7a2304d6fb0e2ebe885370b4c5",
   "slug": "will-como-score-the-most-goals-in-the-ucl-league-phase"
  },
+ "0xb4df60c998c711a16556faaea7e19fbd3a43ddda4dc1504f51b28446b4ee221f": {
+  "created_at": "2026-11-25T13:30:02.09956Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will OpenRouter process at least 1075T tokens Nov 30 to Dec 27, 2026?",
+  "revisions": 1,
+  "sha256": "fe43d899c8713d5c57386944139cf3b30759c67cf02806b965e2db3adc917683",
+  "slug": "will-openrouter-process-at-least-1075t-tokens-nov-30-to-dec-27-2026"
+ },
  "0xb588ea997bd5e63252c3f1eb3de0ad3d9424884389e924f7bc9020e7f12c851f": {
   "created_at": "2026-10-13T19:48:19.249828Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1235,6 +1297,15 @@
   "revisions": 1,
   "sha256": "5a3ca9fd8c189440dbd42bfff0c8a7cfe69bcbc4e03f4ec8518d900d6e2ffb3a",
   "slug": "ahl-2027-champion-wilkes-barre-scranton-penguins"
+ },
+ "0xb682c72114559ab044ff44a0d57d4f71dd89890d0b87e4fc58a032a6ae48e91f": {
+  "created_at": "2026-07-22T19:55:45.391714Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: 2nd Half O/U 5.5 Total Corners",
+  "revisions": 1,
+  "sha256": "8aa61a5d6de696d07532b4f27cbe477b5bd0c1add0aa4059f6923ec4f8dd8386",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-second-half-total-5pt5"
  },
  "0xb6ae9c66455635c0e76828724d6ef33cc922b1e58ae605ad17bc6482dffec51f": {
   "created_at": "2026-08-24T16:32:35.265082Z",
@@ -1258,6 +1329,7 @@
   "created_at": "2026-09-20T08:47:19.304217Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 3.5",
   "revisions": 1,
   "sha256": "9341f82ea3555f0f462337eb97c25ad10ed7cf65fb59779614d6d58545f45c64",
@@ -1332,6 +1404,7 @@
   "created_at": "2026-09-13T09:45:27.43074Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "b082683a682e794b3e91439c4afcb9c91d2076cdc7c24f17cfdcd74bd6c27ba4",
@@ -1445,6 +1518,15 @@
   "sha256": "0c9a72bb4272c7931b6b57de0445c657e2341036702cac02a8555aaa11184338",
   "slug": "enl-gat-tam-2026-10-23-first-half-team-total-away-2pt5"
  },
+ "0xcc9a3620b1e657707e120e8a1b3390e31d7c003ac90d3d05128634dbf64f7e1f": {
+  "created_at": "2026-11-25T14:08:12.472667Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Xiaomi be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-xiaomi-be-the-best-ai-lab-at-the-end-of-january-2027"
+ },
  "0xccb630592c07bc09aff54433b3b58543a45ec235604e24b62312e39bee4a8c1f": {
   "created_at": "2026-10-15T13:19:14.172533Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1504,6 +1586,7 @@
   "created_at": "2026-08-11T17:53:40.42691Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-10 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "e89892fd7e186999eb1d7bf464b5e87dddd8f11457b5b84cab48976fb8428ce4",

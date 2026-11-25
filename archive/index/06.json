@@ -131,6 +131,7 @@
   "created_at": "2026-09-20T08:47:25.766107Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: 2nd Half O/U 3.5",
   "revisions": 1,
   "sha256": "e48235a8d3d5050b4198493ddc0b8107d839834a820ee98ac6a2541edf57040c",
@@ -144,6 +145,15 @@
   "revisions": 1,
   "sha256": "4b7d2cae40c1a31ad2d840f5218b77e27c7f45ad0bdac333b9cc8dbf03fda925",
   "slug": "will-zach-charbonnet-finish-as-a-top-5-rb-in-the-2026-27-nfl-season"
+ },
+ "0x0b067e98195bf7b28b1d8b5c0f6219c8b15f403a0800bc98c4d05ea7f1820d06": {
+  "created_at": "2026-11-25T05:00:17.053151Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $272 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-reach-272-in-december-2026"
  },
  "0x0b4fdc620f5aeafbfa8603a7fe9f3dd2dbae70e73aa157c8c94275676043ce06": {
   "created_at": "2025-11-12T20:05:17.42162Z",
@@ -321,6 +331,7 @@
   "created_at": "2026-09-20T08:16:12.662335Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bromley FC 0 - 1 Wycombe Wanderers FC?",
   "revisions": 1,
   "sha256": "442c9ffa790a59b0f39c0665247bbdb5268b8f49de910e01efce44d5aa2d3415",
@@ -348,6 +359,7 @@
   "created_at": "2026-09-13T09:45:32.541168Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Total Corners Odd or Even?",
   "revisions": 1,
   "sha256": "cf3925d169cda615e96f4fef3cec77a7b2ca1ef9f4cfb9f98f7b856df6d3eddf",
@@ -815,6 +827,7 @@
   "created_at": "2026-09-18T09:46:21.067073Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "11ef97022caefefc6b70cd24b3dbd64d880c11bfe3ab5f77da788cc949d03914",
@@ -1081,6 +1094,7 @@
   "created_at": "2026-09-20T08:47:25.599338Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "015d9da10b064052e2350916cc6ab5973f69d68bc1cb0ff1cf6d22033cc96589",
@@ -1159,6 +1173,15 @@
   "revisions": 1,
   "sha256": "f6e28ce3e554166d6f8da46e161360a9ac6cd9fa553abd47462ffaabcfeb41e1",
   "slug": "will-zptai-have-the-1-ai-model-at-the-end-of-december-2026"
+ },
+ "0xa4c1614f5f7de53116dcfa52ce7a9881794621efb357d1bfb6e816390f042606": {
+  "created_at": "2026-11-25T05:01:40.151361Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (HIGH) $120 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-reach-120-in-december-2026"
  },
  "0xa5ebb7bc7d97090ce6761cefda2900455436be114c5db9f9548ee1135d5e8a06": {
   "created_at": "2026-10-28T22:31:55.829113Z",
@@ -1448,6 +1471,7 @@
   "created_at": "2026-08-24T16:34:34.827579Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Remo be relegated from the 2026 Brazil S\u00e9rie A?",
   "revisions": 1,
   "sha256": "8851925d939ca4e743dfbd3ab360f445307a81257e6f394d59ff4a24f2cef82e",
@@ -1631,6 +1655,7 @@
   "created_at": "2026-09-20T08:47:21.50044Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC O/U 2.5",
   "revisions": 1,
   "sha256": "8e9dc1f4267a86164abdba4a59af937dc39c0a8ab6899f470734ef363943d193",

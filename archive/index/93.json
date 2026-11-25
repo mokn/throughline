@@ -142,6 +142,7 @@
   "created_at": "2026-09-27T20:49:09.111512Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will \"Mo Bamba\" by Sheck Wes be on the radio in GTA VI at launch?",
   "revisions": 1,
   "sha256": "604a099e2a930b2c77a589b350845e07121372cd98e12105fd87d39ceb2cb479",
@@ -186,6 +187,15 @@
   "sha256": "69b1176c4305941c093c36b170c829b71e6d27b7e63f76b1c11f6e0be420ae46",
   "slug": "will-the-democratic-party-win-the-or-02-house-seat"
  },
+ "0x194e4e0a4692318b71074b8c4b5aa064e52108d205c9d24450f924fda8b64393": {
+  "created_at": "2026-11-25T05:00:49.264792Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Netflix, Inc. (NFLX) hit (LOW) $55 in December?",
+  "revisions": 1,
+  "sha256": "39328c60a168d0a570c8c48615ce2f22a8568ae464f72e2a1d996d3da6c72908",
+  "slug": "will-nflx-dip-to-55-in-december-2026"
+ },
  "0x19e435cf10e58b144e2fee3b6f259163660cce0c9299019ae8ee84c45082e193": {
   "created_at": "2026-07-02T18:53:22.661425Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -208,6 +218,7 @@
   "created_at": "2026-09-13T08:45:26.922276Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 2nd Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "78716d4ee74ed973cb8a7a91e0d02c5720731702d4c25c668cc966382be8b0e9",
@@ -272,6 +283,7 @@
   "created_at": "2026-09-20T08:45:16.135756Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "1b97d3a2984933501a5cf286dfdc92a1f29ec924348556e66f8d0eed61f882e7",
@@ -450,6 +462,15 @@
   "revisions": 1,
   "sha256": "a5c1d3e0c6f1d0e5f38fae8cfd97a40b7046142d60476456613a0c65b677e1b2",
   "slug": "will-the-democratic-party-candidate-win-the-2026-md-07-house-election-by-75-80"
+ },
+ "0x47099ea7f798526afbee0bea3f1812bad263fe039ce3f69e7cf602102f25a093": {
+  "created_at": "2026-11-25T05:01:25.168525Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (HIGH) $95 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-reach-95-in-december-2026"
  },
  "0x475271944519411451b495bcb65d1ecebeafcabfc2640d5af85589c538096b93": {
   "created_at": "2026-11-05T20:54:13.217178Z",
@@ -706,6 +727,15 @@
   "sha256": "6715815be2b96b04b74abcf5ee54adb9eb86210b63181fa726edce22c47f65bc",
   "slug": "f1-qatar-grand-prix-driver-pole-position-bortoleto-2026-11-28"
  },
+ "0x712f1bc43cce03975914c754ded42dffdbf3b2e23f6e820908eea2781b7e2b93": {
+  "created_at": "2026-11-25T00:02:59.318818Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 25 and 34 on April 30?",
+  "revisions": 1,
+  "sha256": "5782d35ffe630cc71226c62499a2e2897fad675938cec0b6fe5e1a74215b703a",
+  "slug": "will-the-fear-greed-index-be-25-34-on-april-30-2027"
+ },
  "0x749728598deeb6d880a5f2891bb2737aa244cb84ec8b64da14c892b804a03f93": {
   "created_at": "2026-10-20T23:03:04.250186Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -944,6 +974,15 @@
   "sha256": "3c4ef9b0f8c351ab0325600ce576d3770dab747abb17b2f43edbcb0080721920",
   "slug": "will-the-democratic-party-win-the-al-02-house-seat"
  },
+ "0x9c00c483df03a376d4b5fba3d1470b356d4731c2083022d239eb8e09e19a6793": {
+  "created_at": "2026-11-25T05:00:31.854652Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (LOW) $500 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-dip-to-500-in-december-2026"
+ },
  "0x9cdf78bc4c86b6b327e7064c20b1bd6eb5ad66481f9eb12f509b7574ef11b093": {
   "created_at": "2026-08-21T17:35:32.632673Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1011,6 +1050,7 @@
   "created_at": "2026-09-18T09:45:19.108311Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC O/U 5.5",
   "revisions": 1,
   "sha256": "95ea9d88ea4acadbcf33d6b1e2884e222d6bfda6f546af0cfeb523cca8531d5d",
@@ -1076,6 +1116,7 @@
   "created_at": "2026-09-20T08:45:07.879735Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Bromley FC (-2.5)",
   "revisions": 1,
   "sha256": "077ae2ad7a32bcd31aa763c28a1570d1c71ca998c9b379d863a8bc22d790815c",
@@ -1189,6 +1230,15 @@
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
   "slug": "will-hotu-qualify-to-pgl-major-singapore-2026"
+ },
+ "0xb384093442d3b55a2c1127c7185715ade9a9ad00f870767e485637cc989b6893": {
+  "created_at": "2026-11-25T05:02:10.358089Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will US Dollar Index (DXY) hit (HIGH) 106.50 in December?",
+  "revisions": 1,
+  "sha256": "1a99106a7bd5c5e05cc8693f3405f024764e17d2c7d00a4d79b38ff6ae6d1a4c",
+  "slug": "will-dxy-reach-106-50-in-december-2026"
  },
  "0xb55ad3118e6a0978da85907b3ba4576e5308724301cdd86cbe3913b7e3b26593": {
   "created_at": "2026-09-17T18:29:41.928411Z",
@@ -1536,6 +1586,15 @@
   "revisions": 1,
   "sha256": "2ff3dfb5a92a5d40625646d1e6026c1a7da595a3281eb8a5535a8290b49e4746",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-west-virginia-be-less-than-400000"
+ },
+ "0xea94379982af1d0bb46232ad8a44bc4d48062f3211b285f2888714653e4cc093": {
+  "created_at": "2026-11-25T06:26:33.567796Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Iraqi government forces clash with Kataib Hezbollah by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "788032b348d805404e30fa7d05c4347779a068dfb2cc1d4b905c014fe221b080",
+  "slug": "iraqi-government-forces-clash-with-kataib-hezbollah-by-december-31-2026"
  },
  "0xeb48b9cb240186304ce4bdb23edc77131f95ba0f80b10b95b6ef0cbef671df93": {
   "created_at": "2026-09-04T19:42:30.256469Z",

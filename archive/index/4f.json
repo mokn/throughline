@@ -237,6 +237,15 @@
   "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
   "slug": "will-sydney-sweeney-be-the-1-searched-actor-on-google-this-year-20260717224316126"
  },
+ "0x1de8df7925a13c612bed406a32cf874c58f2b06087f3de148d0161777f34094f": {
+  "created_at": "2026-11-25T05:02:18.877045Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (LOW) $3,100 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-dip-to-3100-in-december-2026"
+ },
  "0x1eaa3169b6a2ff38e91b07e7306edcec6982b6ceb616d737f244423902f5774f": {
   "created_at": "2026-01-04T18:05:40.534326Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -678,6 +687,7 @@
   "created_at": "2026-08-24T16:34:32.669835Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Chapecoense be relegated from the 2026 Brazil S\u00e9rie A?",
   "revisions": 1,
   "sha256": "8851925d939ca4e743dfbd3ab360f445307a81257e6f394d59ff4a24f2cef82e",
@@ -1187,6 +1197,15 @@
   "sha256": "90509c216700473795b088878c5868988ed7c3fdcf9f6df2d4c19fb3b4c243dd",
   "slug": "will-nick-suzuki-win-the-2026-27-hart-memorial-trophy"
  },
+ "0x907a6b3c97c3d9ce094da95a7bf1449375eff9b6de32fd95ef918598adae4a4f": {
+  "created_at": "2026-11-25T10:55:48.949864Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Panama Canal be 26+ on January 31?",
+  "revisions": 1,
+  "sha256": "fb9f18b45fcb4507a35ea16a65c85e493240907b82f69e31c6662d397c5ab2c6",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-26-on-january-31"
+ },
  "0x918c01186027c300e00443979b738134cec350cd255dbc6076dfe33a8d31274f": {
   "created_at": "2026-11-24T05:00:14.631504Z",
   "first_seen": "2026-11-24T17:44:50Z",
@@ -1260,6 +1279,15 @@
   "revisions": 1,
   "sha256": "df7f6da3e58d38dc651390e7b5937388142f5be2aae7eeb50b3e2568cc88551c",
   "slug": "will-jaycee-horn-finish-the-2026-27-nfl-regular-season-with-the-most-interceptions-20260715213239007"
+ },
+ "0x9ac209312f5124dfee680e0096fe5d487839c2dd5686404dfcab652c926e5c4f": {
+  "created_at": "2026-11-25T05:02:17.485173Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Gold (XAUUSD) hit (HIGH) $3,600 in December?",
+  "revisions": 1,
+  "sha256": "9f72f971185c7c0531b9682dcbb307c2e231446300037dfe2a704e5bdda6676f",
+  "slug": "will-xauusd-reach-3600-in-december-2026"
  },
  "0x9c7f9a734591bfce8ef01262897a9adad0a1fb216b3c23b4fbf6f0312f90b24f": {
   "created_at": "2026-10-10T11:45:07.732953Z",
@@ -1359,6 +1387,7 @@
   "created_at": "2026-09-18T08:46:19.227149Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "29d38bd02c5ef78f9e5c9534069a2e22fb095b59a3b13d5e3513176c71e2f0f0",
@@ -1623,6 +1652,7 @@
   "created_at": "2026-09-13T08:46:37.264535Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "e0f3a1ed78e2c14bd44d1202c8bc53ca4dee7dc705595ce943069885eb6234f1",
@@ -1861,6 +1891,7 @@
   "created_at": "2026-09-13T08:44:22.810477Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Barnsley FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "8400a2fbc10209ea7fb662b437f7734697ff0b9354a60896e0291a0ba6acaeef",
@@ -1899,6 +1930,7 @@
   "created_at": "2026-09-13T09:15:39.735827Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Crawley Town FC 1 - 3 Barnet FC?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
@@ -1948,6 +1980,15 @@
   "revisions": 1,
   "sha256": "ce3efa01f29eac860f206862006d35de657ac51d1b82208674088dc39c250e18",
   "slug": "will-philadelphia-76ers-win-the-2027-nba-finals"
+ },
+ "0xf71e9381e229b61904e3d9c502b7c88a886a614976739bb7d53c0cad66b6a04f": {
+  "created_at": "2026-11-25T00:02:27.019631Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 56 and 65 on December 24?",
+  "revisions": 1,
+  "sha256": "4a478036e103677cc355d5d2d741f08e8b200243110482bcc61856cc003b9ce8",
+  "slug": "will-the-fear-greed-index-be-56-65-on-december-24-2026"
  },
  "0xf7c67280a65bed2e8a8d19581ca18912680c86c4901334f11da3a8315684954f": {
   "created_at": "2025-11-24T22:08:52.132146Z",

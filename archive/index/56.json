@@ -161,6 +161,7 @@
   "created_at": "2026-08-05T18:39:11.646488Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Hawaii gubernatorial election by 25%-30%?",
   "revisions": 1,
   "sha256": "eab5cd5d40490d26779fd949cd0b305b7368a4c4fd74962a9666617edc407ffe",
@@ -408,6 +409,7 @@
   "created_at": "2026-09-18T09:45:19.273463Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Port Vale FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "3ad43097445832e5b2d234daa1ed93b2b7190a42bf1125ce7d7a798662e40e98",
@@ -728,6 +730,7 @@
   "created_at": "2026-09-20T08:45:10.997183Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "1b662925d3679d8858ef6464e300e735b927e5b81f7032ef312a4e799f949f08",
@@ -1074,6 +1077,15 @@
   "sha256": "18243569d1649b6be13acb5c5e88bc209653f493d76c22f64f078d400582c9fc",
   "slug": "f1-abu-dhabi-grand-prix-constructor-fastest-lap-aston-martin-2026-12-06"
  },
+ "0x94a509d00fba5740a9ce8ab23aeeaff26d0ef155e1609bbae06786deca33ac56": {
+  "created_at": "2026-11-25T14:08:10.338045Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will OpenAI be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-openai-be-the-best-ai-lab-at-the-end-of-january-2027"
+ },
  "0x96a68620f4788fc5b54ea5d8149345198b7587977ef20a2b46e44d721fbc5a56": {
   "created_at": "2026-10-30T00:20:22.05274Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1192,6 +1204,15 @@
   "revisions": 1,
   "sha256": "1e46a9375e903460f9ac2225008bd5a576aadff98893bd6d7a3225e3e6a2635d",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-17-house-election-by-15-20"
+ },
+ "0xa08c652b424a5a0bb5ea1a884205f987431fd0b4a9e072cdcbd07845f43cdc56": {
+  "created_at": "2026-11-25T05:01:34.391387Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (HIGH) $720 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-reach-720-in-december-2026"
  },
  "0xa2cc0c098dad6f28c3d1042b0cf79f5e6513ffa62db9de3ffa4085e804662a56": {
   "created_at": "2026-09-02T19:40:16.252899Z",

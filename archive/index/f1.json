@@ -49,6 +49,7 @@
   "created_at": "2026-09-20T08:45:15.751732Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC O/U 5.5 Corners",
   "revisions": 1,
   "sha256": "780f8c311432a93c539775dfae076d3f394ae731ed01386a915736abcbf17226",
@@ -377,6 +378,7 @@
   "created_at": "2026-09-13T09:45:23.508138Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "490370f3fea38f64ff17b011edaee3b18162e78048a6310929c4e0143aa2a126",
@@ -409,6 +411,15 @@
   "revisions": 1,
   "sha256": "e757a45c10133e04dfcfa3ea188b2aff6ba0c3fda3a5d8266d23420f808af0d9",
   "slug": "will-aleix-garcia-leverkusen-record-the-most-assists-in-the-2026-27-bundesliga-season"
+ },
+ "0x3536ec803bc441bd759cb16ea0431a941a58f7cd7582f90f38d8e2e6899af6f1": {
+  "created_at": "2026-11-25T05:02:24.42567Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (LOW) $38 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-dip-to-38-in-december-2026"
  },
  "0x353f2c914fbb8a2a67cd4abac50151938cef609e310c51e12bbc202b01539df1": {
   "created_at": "2026-07-20T19:28:21.596288Z",
@@ -515,6 +526,7 @@
   "created_at": "2026-08-11T17:53:33.067404Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-09 House election by 12%-15%?",
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
@@ -636,6 +648,7 @@
   "created_at": "2026-10-18T09:00:28.23798Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 1 - 3 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -732,6 +745,15 @@
   "sha256": "51ef38e527f44300ea43dfc555a968baa51adafcf9018cd9334fecbee3b84d42",
   "slug": "will-iraq-join-the-mecca-agreement-by-december-31-2027"
  },
+ "0x5918b03540b105a2f2ef0a279e152a36522a07ca3af284cfe86109db789790f1": {
+  "created_at": "2026-07-20T09:03:58.709051Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: Any Other Score?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-any-other"
+ },
  "0x5b21384ca1ffe76edd18827db6da4750a662a6479b29ef6cc3c360b62437c3f1": {
   "created_at": "2026-08-05T10:44:33.917925Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -764,6 +786,7 @@
   "created_at": "2026-09-01T09:00:14.516318Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 3 - 1 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -1131,6 +1154,7 @@
   "created_at": "2026-09-20T08:15:30.718046Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Neither team to score first?",
   "revisions": 1,
   "sha256": "f8c1c5a7ce8cbb96b85560ae034a0eaa70a5d540a4599f7bcaea21b2c26303b5",
@@ -1388,6 +1412,7 @@
   "created_at": "2026-09-18T09:45:17.167224Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Northampton Town FC (-5.5)",
   "revisions": 1,
   "sha256": "caa091a952d180df5be3e587d84f1ec1e5ab708c2e007f70bba69162ca1483ed",
@@ -1476,6 +1501,15 @@
   "sha256": "7722579377965263e3f3e08752e1c80df737510c459a000a819dcedd2a407343",
   "slug": "will-larl-have-the-most-kills-at-blast-slam-ix-playoffs"
  },
+ "0xc53b5a1fb7bb1307b4cc50166b7c2c1e4bfba782a505c6b5c7598fbabcf35af1": {
+  "created_at": "2026-11-25T05:00:11.496738Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (LOW) $450 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-dip-to-450-in-december-2026"
+ },
  "0xc83b03aeafbea90e8c3111d0feb155833198615cce3940094f5e5c87b4f09ef1": {
   "created_at": "2026-08-23T17:44:20.363807Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1554,6 +1588,7 @@
   "created_at": "2026-09-20T08:44:10.743852Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: O/U 13.5 Total Corners",
   "revisions": 1,
   "sha256": "e999d6c5eaa061e97b84adce10f354fbdce61f06720a87b584f0412db8a3c0c8",
@@ -1585,6 +1620,15 @@
   "revisions": 1,
   "sha256": "5c222bf0953e494e428103111c6d3e797e729be167c0346dfb5304f1be638ef9",
   "slug": "will-jamarr-chase-finish-as-a-top-5-wr-in-the-2026-27-nfl-season"
+ },
+ "0xcd57a96931070d5c5cc581e7b4f2ba9934e15ca7484a748c1b7cd620440f14f1": {
+  "created_at": "2026-11-25T14:08:03.717095Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tencent have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-tencent-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
  },
  "0xcdc1bc4b74ebc0e9b9fa7868505d7d88efb3cf892eb59be481d278bfad59eaf1": {
   "created_at": "2026-08-11T18:43:27.267617Z",
@@ -1698,6 +1742,15 @@
   "revisions": 1,
   "sha256": "67f8ce51b1308e8ad7d5d2cebb6665ef435ee43ef18793c5c49eab7fe45c4154",
   "slug": "cdr-red-bar-2026-10-28-btts"
+ },
+ "0xe2ca1b7f0bc1fd9e2e54a6716e449e61c40e385d2449beff927504fefc654cf1": {
+  "created_at": "2026-11-25T14:08:14.056491Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will StepFun be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-stepfun-be-the-best-ai-lab-on-january-15-2027"
  },
  "0xe2cd7ef9917fd20bfc18f050bed426ffcaab351f3680dfa50600ec6898d51bf1": {
   "created_at": "2026-08-10T15:05:23.113987Z",

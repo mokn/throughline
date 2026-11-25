@@ -276,6 +276,7 @@
   "created_at": "2026-09-01T09:00:14.56948Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 2 - 3 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -698,6 +699,15 @@
   "sha256": "dee7db4ccb37acb3221169f92c04d65bf0e57aeef252370c8028be32049b0565",
   "slug": "will-michel-barnier-win-the-2027-french-presidential-election"
  },
+ "0x6ddf967baba752d86fa2b1642a14a04a8fd994779565d02856bf5e3dfaf72a21": {
+  "created_at": "2026-07-20T09:03:41.21091Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 0 - 1 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-0-1"
+ },
  "0x6f603051e6e5592f7509a355795a750df13f773de94cbd7ad33c9f9ab012c721": {
   "created_at": "2026-08-05T18:38:23.094005Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -795,6 +805,7 @@
   "created_at": "2026-09-20T08:15:14.878428Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Bromley FC win on 2026-10-03?",
   "revisions": 1,
   "sha256": "14c57915b024bdfb55c65076ace094ddc9766231426d199968d28600ffe0f4f3",
@@ -1244,6 +1255,7 @@
   "created_at": "2026-08-07T20:29:35.76714Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-01 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "8e964e8d7a9bd29afa58aeb78ec3ee6fb31845f18ef48d9e3012997cc6a0c914",
@@ -1479,6 +1491,7 @@
   "created_at": "2026-09-13T08:16:13.352122Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bradford City AFC 2 - 0 Barnsley FC?",
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",

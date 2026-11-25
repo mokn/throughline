@@ -101,6 +101,15 @@
   "sha256": "713af8f1a7db833afad164cbb52997349ba12a433d104607975a97817df353be",
   "slug": "amzn-above-270-on-november-30-2026"
  },
+ "0x0e66fd858f1ddd6fcc8e8d459b7e2f95ab6c4b984ec55f423d399561765608f3": {
+  "created_at": "2026-11-25T03:00:44.217736Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Bank of Japan increase the uncollateralized overnight call rate by 50+ bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "16aeb620e6885e7159531fb944b4ceac42d40dbe9da8abde7179908bee5b6104",
+  "slug": "will-the-bank-of-japan-increase-the-uncollateralized-overnight-call-rate-by-50-bps-at-the-april-2027-meeting"
+ },
  "0x0ed9df284cbde99e9922fcad2504815f75bf9e8fcea32b21bb22d01fed46d3f3": {
   "created_at": "2026-09-08T16:08:43.801904Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -141,6 +150,7 @@
   "created_at": "2026-08-07T20:30:40.872702Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-04 House election?",
   "revisions": 1,
   "sha256": "3fc8f46216c8044f7d1f899aa3a912475e872c7fef56b3d4de99e00bd46e54dd",
@@ -232,6 +242,7 @@
   "created_at": "2026-10-18T09:00:29.737487Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 4 - 4 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -547,6 +558,7 @@
   "created_at": "2026-10-18T09:00:31.621611Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Aberdeen FC to score first vs. Rangers FC?",
   "revisions": 1,
   "sha256": "d3154a35108708388685e3742a43ce92717d12f0d108bc34e21c1d1db2a4f491",
@@ -611,6 +623,7 @@
   "created_at": "2026-08-04T18:30:49.532921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 North Carolina Senate election by 15%-18%?",
   "revisions": 1,
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
@@ -765,6 +778,7 @@
   "created_at": "2026-10-18T23:30:14.590611Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Aberdeen FC O/U 3.5",
   "revisions": 1,
   "sha256": "b549da5f81351cdf1ba7d285a1343677b38032381af6cacabaaafbfa6b3e4604",
@@ -1000,6 +1014,15 @@
   "sha256": "dc5d8115e92aecd20532ad03e8dbfba7b621ca16cb0f75da84a18b05781f94e6",
   "slug": "will-tobias-bech-score-the-most-goals-in-the-2026-27-uefa-conference-league"
  },
+ "0x7efc59f3e69560761f02b5171d18a5812dbb36f11f12ac761c05e284cc5228f3": {
+  "created_at": "2026-11-25T05:00:44.21896Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (LOW) $120 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-dip-to-120-in-december-2026"
+ },
  "0x7f6ee19263ed5670524f27e0bec75f7e6217705bfff78a143e79c7b428d70df3": {
   "created_at": "2026-05-25T01:49:51.284812Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1045,6 +1068,15 @@
   "revisions": 1,
   "sha256": "9ef384fb2026598ef00e7538ca6c1d69f49b1c07f63651b2af84ce5af7a39708",
   "slug": "will-jahmyr-gibbs-finish-the-2026-27-nfl-regular-season-with-the-most-rushing-yards-20260715211637039"
+ },
+ "0x848ddece36493bd0aabcaee1deb48b75b37cf59bbbe18b77da7537872bca50f3": {
+  "created_at": "2026-11-25T10:56:55.326449Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will at least 8 ships transit the Strait of Hormuz on any day by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "0e0c89a09b1c17d730ab44bf005436d2676c341cdf660e9d6a239daa8e30a6aa",
+  "slug": "will-at-least-8-ships-transit-the-strait-of-hormuz-on-any-day-by-december-31-2026"
  },
  "0x84b10340acbc0ad85819a414b4177a8c3061253514bb9f1b907b69f51739bff3": {
   "created_at": "2026-08-10T15:02:26.344722Z",
@@ -1966,6 +1998,7 @@
   "created_at": "2026-04-23T13:42:24.360375Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Conner Leavitt win Dancing With the Stars: Season 35?",
   "revisions": 1,
   "sha256": "f411786b1fea719b27401919375cf4ea0801def00f009f2f9ae64d4927410348",

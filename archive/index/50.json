@@ -182,6 +182,15 @@
   "sha256": "1ea973316c61d846b86cce2afe3cd419e701282e35f92ffa74de0423ff3bc462",
   "slug": "will-the-democratic-party-win-the-il-08-house-seat"
  },
+ "0x22b3cb4a482b1acca9c6c02af9a6ee5e601810bbcf6b51b7dd16ed16c1dad550": {
+  "created_at": "2026-11-25T00:02:41.734026Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 45 and 55 on January 8?",
+  "revisions": 1,
+  "sha256": "55b1f3ce73bd2ec1d29a3075c10339bf37432e2eeca6da3352804e301b5580cb",
+  "slug": "will-the-fear-greed-index-be-45-55-on-january-8-2027"
+ },
  "0x23ac93e93d8f793c54d1e2678648a2b7fc22691297fa6988a6ff1a46ce884b50": {
   "created_at": "2026-11-23T16:34:13.062179Z",
   "first_seen": "2026-11-23T18:08:26Z",
@@ -242,6 +251,7 @@
   "created_at": "2026-09-13T09:46:34.131087Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "da4723312a4e0c873da61d979706a3085fe5e03a55237a1135539d926b723dfd",
@@ -283,6 +293,15 @@
   "revisions": 1,
   "sha256": "eb6ab207921e402274f9621f6344d555ab6abb7a26df38e0bafe962af2c7acb3",
   "slug": "will-teplice-keep-the-most-clean-sheets-in-chance-liga-czechia-2026-27"
+ },
+ "0x2af2ccdd5f20d4b3f301287a6b3e30c635c7f85eb8363408eafdd352a5a89950": {
+  "created_at": "2026-11-25T05:01:58.605808Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will S&P 500 (SPY) hit (HIGH) $730 in December?",
+  "revisions": 1,
+  "sha256": "f17464988fbd3e50380920fab6045f320aa64bcb54ef0504aec89ae94c9abf4e",
+  "slug": "will-spy-reach-730-in-december-2026"
  },
  "0x2bc2414f3e6d2171452339f8ea2ed5eaf5ad22e94a89f6fd08ef31db2dd43e50": {
   "created_at": "2026-11-14T21:51:07.82001Z",
@@ -507,6 +526,7 @@
   "created_at": "2026-11-23T22:13:48.736773Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will FlyQuest go 3-0 in Stage 1 of the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "49b9ed0d03ccb498c5eaa1977225d38bbefd33d14792ccecf7e8afa2e2c74906",
@@ -871,6 +891,15 @@
   "sha256": "37e76c3aa2f7383fc6ca11920ce57ffe3f2e345dd4a4707a9e8e4991a005cc06",
   "slug": "will-larissa-waters-be-prime-minister-of-australia-after-the-next-election-20260610170605303"
  },
+ "0x784e6e498e8d80ef30bd2742672e38127da07770bfbf97cab6a2a7591b555650": {
+  "created_at": "2026-11-25T00:02:27.830908Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 66 and 75 on December 24?",
+  "revisions": 1,
+  "sha256": "4a478036e103677cc355d5d2d741f08e8b200243110482bcc61856cc003b9ce8",
+  "slug": "will-the-fear-greed-index-be-66-75-on-december-24-2026"
+ },
  "0x789320cdfc68b5998451da337219016390614306936710a460f05416bec95c50": {
   "created_at": "2026-08-28T20:17:41.515271Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -885,6 +914,7 @@
   "created_at": "2026-08-11T17:53:28.623291Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-08 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",
@@ -976,6 +1006,7 @@
   "created_at": "2026-09-13T08:45:25.167132Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "57ceb4af990b90a842697d37b27e96fc90dbb8b95a565ad7e9a80c18add7c3c5",
@@ -1279,6 +1310,7 @@
   "created_at": "2026-09-13T08:45:23.088346Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "e363b09a571087c250b720e6ef992fda0268de4b71f48b56e2db85996bd3298b",
@@ -1600,6 +1632,7 @@
   "created_at": "2026-09-20T08:16:21.494058Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Neither team to score first?",
   "revisions": 1,
   "sha256": "7d1d7c9f30de59ca2961b9ba20bc31752f168976853d11d602d71e1cd58bf694",
@@ -1636,6 +1669,7 @@
   "created_at": "2026-09-01T09:00:12.781625Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: Draw at halftime?",
   "revisions": 1,
   "sha256": "498a710b0704e2f3d6827d816b13b715452c32ff137059de215668dbd7d897a3",
@@ -1801,6 +1835,7 @@
   "created_at": "2026-08-11T17:52:20.613617Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-02 House election?",
   "revisions": 1,
   "sha256": "c74891c0560b6b33e0897fa1bc94c87687057ccad9e89000abf19c4a850eb83e",
@@ -1819,6 +1854,7 @@
   "created_at": "2026-09-13T08:15:34.264304Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 1 - 2 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",

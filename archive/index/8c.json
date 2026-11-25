@@ -394,6 +394,7 @@
   "created_at": "2026-09-13T08:15:34.109011Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 2 - 0 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
@@ -565,6 +566,15 @@
   "revisions": 1,
   "sha256": "b9314ffdd245db77d513367f3580083f235dcae6b499ea4389aa8c2d3e4cb759",
   "slug": "2026-soccer-colombia-primera-a-finalizacion-winner-atltico-nacional"
+ },
+ "0x447a0176a8e47dfe4f2a00bf89d6e885a11f2c58c4a51cf3518a144d12e0c68c": {
+  "created_at": "2026-11-25T00:02:30.655912Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 35 and 44 on December 31?",
+  "revisions": 1,
+  "sha256": "0b21d3c83f93a0f8b3a85ae1fe46b1f478ba2e084a336b9060cff526c6042a4e",
+  "slug": "will-the-fear-greed-index-be-35-44-on-december-31-2026"
  },
  "0x44f93588c60461d4a69724103bd3f68251945706e15fd8fbe1a858c1d63c4f8c": {
   "created_at": "2026-02-18T17:37:36.662205Z",
@@ -952,6 +962,15 @@
   "sha256": "5a5682c8c58b74c2c887e01c7e58c30fc7e10bf6057309001e2c74edf7c891aa",
   "slug": "will-paris-fc-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0x8fbddd33590581c14e0526f4afe287f0064b4aa6ad20c5222d5978380e3d328c": {
+  "created_at": "2026-11-25T05:02:25.721688Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (LOW) $28 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-dip-to-28-in-december-2026"
+ },
  "0x8fc915900df3f73a7c4ce3f16e02c08a92fbc0d76693da98d2c798eeb19d048c": {
   "created_at": "2026-09-04T19:40:22.151544Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -996,6 +1015,15 @@
   "revisions": 1,
   "sha256": "18fe8a865d3c7a4a0c8222ef60d76aaf949aa89269a8cb5b48e699b98f006fcb",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nj-01-house-election-by-35-40"
+ },
+ "0x9537df12f7e11a23c5bc3b51f162e5af72cee69c8adb19f11bfe0cf47939cf8c": {
+  "created_at": "2026-11-25T05:00:04.594554Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (LOW) $328 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-dip-to-328-in-december-2026"
  },
  "0x962caa47cc27bb436ed067589318f003a2e9e23a08a4433890b6006a2c7e3a8c": {
   "created_at": "2026-08-18T14:19:18.760155Z",
@@ -1147,6 +1175,7 @@
   "created_at": "2026-09-20T08:47:18.86958Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 0.5",
   "revisions": 1,
   "sha256": "9d020fcc969ada985d8fc2f8f5177391ab8cd30e73c204d2f320a5f8c6b011a3",
@@ -1476,6 +1505,7 @@
   "created_at": "2026-10-25T04:00:11.159948Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Amazon.com, Inc. (AMZN) hit (LOW) $240 in November?",
   "revisions": 1,
   "sha256": "5451ae83f164cc796c03688dce3e406716c97de25afc55542c5925b4e1e1eb22",
@@ -1558,6 +1588,7 @@
   "created_at": "2026-10-25T04:01:43.701778Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Gold (XAUUSD) hit (LOW) $3,500 in November?",
   "revisions": 1,
   "sha256": "badfadf3b38d8e2299ac8895cf304b8bc05ddede9b61c1a1cdb2e538964458f9",

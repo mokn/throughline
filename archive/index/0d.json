@@ -545,6 +545,15 @@
   "sha256": "50b0ad2a637b87795c795a52c33f9348739a9c7bc9ec4ac80543535cc0527157",
   "slug": "will-a-democratic-party-candidate-win-the-2026-wa-10-house-election-by-30-35"
  },
+ "0x5d990fce812ef343ccc058628533a17706253797df0b85d544efa4a0ad21fa0d": {
+  "created_at": "2026-11-25T14:08:09.809775Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Moonshot be the best AI lab at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "9c9d9c22bf1339602988cecb945a0aae80dab89d5f73238b96845b615c5dc0aa",
+  "slug": "will-moonshot-be-the-best-ai-lab-at-the-end-of-january-2027"
+ },
  "0x5f5ae83c57cd321ec9f06e59f2ea3cc197607908e7e11fe3179403310e92ec0d": {
   "created_at": "2026-09-27T20:12:31.206718Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -913,6 +922,15 @@
   "sha256": "9257d173fce3ec1c6f014a795800d9e8a68317c05b5a0a3d0a848c355b03a089",
   "slug": "will-jan-dohnal-be-the-next-mayor-of-ostrava"
  },
+ "0x9221d2eb8a9241c1ff0e6e0b5262d7ec9766029788ce25762bbb9a37fc91120d": {
+  "created_at": "2026-11-25T10:55:59.86161Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 220+ on January 31?",
+  "revisions": 1,
+  "sha256": "a8f8be8b1ee3505eecafcab9b3fd4c2526ed5af445182837f672925c18d0eb78",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-220-on-january-31"
+ },
  "0x93a2d3be3aa6727a78cd5f7e6d70ce1eb1e387a3742dd137b666967d5df42b0d": {
   "created_at": "2026-08-24T16:39:20.847929Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -996,6 +1014,15 @@
   "revisions": 1,
   "sha256": "b114862edc6b8e925a8404e581db1c42fc2f8727d8e944885279dc4b246697af",
   "slug": "will-the-democratic-party-candidate-win-the-2026-tx-07-house-election-by-50-or-more"
+ },
+ "0xa49c0a4e6e9226147cfbfb961ed046e3dd8e4c9f38696cb8dc3218d09a34e50d": {
+  "created_at": "2026-11-25T05:01:12.904905Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (LOW) $168 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-dip-to-168-in-december-2026"
  },
  "0xa748f27e5bd58afd591669326516e4ff607b5b5301ddb60a13d08b462676df0d": {
   "created_at": "2026-10-13T15:50:15.577461Z",
@@ -1439,6 +1466,7 @@
   "created_at": "2026-09-20T08:45:15.404662Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "4694c1e58eb2e0147cd6f49687e99b3a71e67b4419ce5bc301af81127fb8a180",
@@ -1462,6 +1490,15 @@
   "revisions": 1,
   "sha256": "f826ffa43ef1004eb0a21dcb9380d325e577171ba4b1bd718361faa7e7ace243",
   "slug": "will-borussia-dortmund-reach-the-2027-uefa-champions-league-round-of-16"
+ },
+ "0xdcb3b7890793182ecafea853f13902408644d31078d9f6b40a4e199de6b8fc0d": {
+  "created_at": "2026-07-21T06:00:09.176955Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 2.5",
+  "revisions": 1,
+  "sha256": "0abeb998891f0138ae997831d30a86be75911f5e00fd3305d874f5feef55fb85",
+  "slug": "ukr1-dyn-liv-2026-08-02-total-2pt5"
  },
  "0xdf1c639b4e44860ae85fde551d827fc7668578412fe8e78e58992bc4bf20c90d": {
   "created_at": "2026-08-04T18:38:01.276876Z",
@@ -1512,6 +1549,7 @@
   "created_at": "2026-08-05T20:56:47.389977Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 0%-5%?",
   "revisions": 1,
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",

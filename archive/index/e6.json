@@ -319,6 +319,7 @@
   "created_at": "2026-09-18T09:46:20.560177Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC O/U 4.5",
   "revisions": 1,
   "sha256": "a108e2fcccd16811b334b936bf049188d1735dcc66eb3afe15472dafabf238f5",
@@ -474,6 +475,7 @@
   "created_at": "2026-09-20T08:45:09.801033Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: O/U 4.5",
   "revisions": 1,
   "sha256": "fb89e078a0cf21f0ab99d481a390b940a7a837abe9a9e6d2e4be1513fe4a5dfb",
@@ -511,6 +513,7 @@
   "created_at": "2026-09-01T09:00:15.459221Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kharkiv to score first vs. FK Kryvbas Kryvyi Rih?",
   "revisions": 1,
   "sha256": "b74cfdec876e70059068e75c87c0f8cac626a00acc99c4f6e8f1d5981c467dd4",
@@ -584,6 +587,7 @@
   "created_at": "2026-09-20T08:45:13.444598Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 8.5 Total Corners",
   "revisions": 1,
   "sha256": "995985e13de59842ee5ddc8ff8d4895239aa523cfabaa72527993457d1c2704a",
@@ -593,6 +597,7 @@
   "created_at": "2026-09-20T08:45:13.606282Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: O/U 9.5 Total Corners",
   "revisions": 1,
   "sha256": "eeffe76dddc1a61f981a0941e7b1d063d6b51abb85bc9fd230b7b428132a5cda",
@@ -989,6 +994,7 @@
   "created_at": "2026-08-11T18:27:42.881157Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NM-03 House election?",
   "revisions": 1,
   "sha256": "17cbd9229f49473236e2e0dc28b834098f8fbdb24c9b499d95c156edd5b89f0b",
@@ -1049,6 +1055,15 @@
   "revisions": 1,
   "sha256": "7bb30dd5500e3b1b77cc4e8ecb45a851840cd83f9c93136d5dca85c933eba43d",
   "slug": "will-the-republican-party-win-the-ca-03-house-seat"
+ },
+ "0x98a3a05fef6e636d1162ca7870ac8406aac46bf21817ecc2f2d9631a8fe345e6": {
+  "created_at": "2026-11-25T05:01:46.301182Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (HIGH) $138 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-reach-138-in-december-2026"
  },
  "0x9a0ff7a058aaf5cd2311fed2b504fae56c9896dd416541e8360d711de6d4cbe6": {
   "created_at": "2026-08-06T19:25:06.11745Z",
@@ -1558,6 +1573,15 @@
   "sha256": "5507d9281c5f249277249eef68a82a87e30f0df4d5534313bfa64cc8c8418d20",
   "slug": "will-jonathan-david-juventus-be-the-top-goalscorer-of-the-2026-27-serie-a-season"
  },
+ "0xe3d858fb116113a0cf708e193b8c241fa8db0bd630ff899d4df536f9a5b014e6": {
+  "created_at": "2026-11-25T05:02:05.403946Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will South Korea ETF (EWY) hit (HIGH) $130 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-reach-130-in-december-2026"
+ },
  "0xe426ad7983514c718f0882fac55c75a45a443668b6fc31bfbb050b7b7ebaabe6": {
   "created_at": "2026-10-13T19:48:14.252777Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1623,6 +1647,15 @@
   "sha256": "fbf35ca928089c9192477c621f704c97aab1dc6d359787203785d2f6fd788d0b",
   "slug": "will-trey-hendrickson-win-the-2026-nfl-defensive-player-of-the-year-award-for-the-2026-27-nfl-season-20260716005216714"
  },
+ "0xe9e386b4088e27e665a2ab180ed4e8501674afeb8801e76b894081fc2c23cfe6": {
+  "created_at": "2026-11-25T05:00:02.442334Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (HIGH) $392 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-reach-392-in-december-2026"
+ },
  "0xecb0039d1f66caf17ff078da786016b31198620734bcb25230ad5ba2d5f2d8e6": {
   "created_at": "2026-10-05T19:30:32.781603Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1636,10 +1669,20 @@
   "created_at": "2026-09-13T08:45:24.066125Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC O/U 2.5",
   "revisions": 1,
   "sha256": "dcf1b1f0bd31af78bb98a76729dc77451842ab22d6ad2c9479b6dc485347a20d",
   "slug": "el1-bra-bar-2026-09-26-team-total-home-2pt5"
+ },
+ "0xef377797a8a31c3629547f8119436ac504a642aba9f4571c8e60f09f4306dce6": {
+  "created_at": "2026-11-25T05:01:13.898501Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (LOW) $152 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-dip-to-152-in-december-2026"
  },
  "0xef4bede490c1f3e472619f55294ad792220b7189f46af54f9f3e3cfd458e2fe6": {
   "created_at": "2026-08-24T16:35:31.589661Z",

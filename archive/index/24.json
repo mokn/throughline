@@ -36,6 +36,15 @@
   "sha256": "534bc1568a01405b2a77a40a0448107ede4f578ad2b8f160ed9da8901a4f7fda",
   "slug": "will-japans-core-core-cpi-increase-by-at-least-4pt0-in-2026-20260617223730875"
  },
+ "0x048c3f63af88627b3fc0f2681a8d101ecbb859c52ca2dab927063124d87a3e24": {
+  "created_at": "2026-11-25T05:00:28.738593Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (HIGH) $640 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-reach-640-in-december-2026"
+ },
  "0x055c306cb0a50447ef2c63175dfc160ada72f288712bc166b572ea4d112da224": {
   "created_at": "2026-10-13T15:56:35.115868Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -362,6 +371,7 @@
   "created_at": "2026-09-18T09:45:20.293683Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Port Vale FC 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "24303d788c80feda3c6148086a8b1b370e9e536c05849bc84e032adcd65f4aa8",
@@ -707,6 +717,15 @@
   "sha256": "943aebe7fea85d6c63f470f653dccae21b411e56cb4eb0c8abd64e2de61a84f6",
   "slug": "aryeh-deri-out-as-shas-leader-by-december-31-mvtsmcct"
  },
+ "0x662323a89b5a50103dfa4d8b8898c6545ab5d610b543cdf0d98a13ee3e355824": {
+  "created_at": "2026-11-25T05:00:05.352625Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (LOW) $304 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-dip-to-304-in-december-2026"
+ },
  "0x6775046beeba4b837d37554debc867e1e5982efe47de53a047f8b17343675824": {
   "created_at": "2026-08-28T20:17:57.761505Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -815,6 +834,15 @@
   "revisions": 1,
   "sha256": "bc16288c0d933c568294a4cea4ad4edae2a20fcd3de449173c6c223efb8342cf",
   "slug": "will-jet-greaves-win-the-2026-27-vezina-trophy"
+ },
+ "0x6ed14e6607cbf907929ee277e1ac0bba0d8607431e1ce0730aec6ba53b439224": {
+  "created_at": "2026-11-25T05:00:35.853903Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tesla, Inc. (TSLA) hit (HIGH) $435 in December?",
+  "revisions": 1,
+  "sha256": "6ce1712027598d432cef08acea8ae93a1123d96e6955d7ecd603a17c5e93877a",
+  "slug": "will-tsla-reach-435-in-december-2026"
  },
  "0x6f455f293258e25ea6be71d33e64bff8928deadfd2b353d5647091a1acc6fc24": {
   "created_at": "2026-08-21T17:34:21.295749Z",
@@ -1045,6 +1073,7 @@
   "created_at": "2026-09-20T08:44:14.786961Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "375335488758a35635b7975ccd6cc1e0d5b28d1313fc3d9b65c2fdf26727bdcf",
@@ -1054,6 +1083,7 @@
   "created_at": "2026-09-02T06:01:09.513184Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: FK Kharkiv (-1.5)",
   "revisions": 1,
   "sha256": "65aa56539e1145b576dfa92254c3e2ee7846d8db8bfa65c45da58693ecccb0af",
@@ -1104,6 +1134,15 @@
   "revisions": 1,
   "sha256": "cd2f36cfa346ec6ed0d721c10b136d305a4e8c30bca69c6b7c81202470f063ae",
   "slug": "will-the-republican-party-candidate-win-the-2026-pa-11-house-election-by-15-20"
+ },
+ "0x925b1ec5c9f5a0fe41b62e5e2458bf3d027b670328f7698eaa76d6615eb31924": {
+  "created_at": "2026-07-20T09:03:41.383137Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 1 - 1 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-1-1"
  },
  "0x934abf98cbbaf656a9167e8f4331c880abe6b0880f910aa0710acb6c942fc024": {
   "created_at": "2026-08-07T15:59:26.530769Z",

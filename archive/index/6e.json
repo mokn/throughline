@@ -63,6 +63,15 @@
   "sha256": "4b6eac2b803259d29c96215d6a8b7b9a1ab0605a4e6b53740dc7cc4275cbefc4",
   "slug": "will-the-next-diplomatic-us-iran-meeting-be-in-italy-by-september-30-2026-20260622185050774-copy"
  },
+ "0x07ba2fa8ea60c39bf43fdb2d1f859a57770984727933671c2f92c85b9efb756e": {
+  "created_at": "2026-11-25T05:01:33.477791Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (HIGH) $900 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-reach-900-in-december-2026"
+ },
  "0x07d9dd90f4327be4478c7c3758241cff2570906257114e8349ac3aca81e9356e": {
   "created_at": "2026-10-01T19:30:27.523709Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -235,6 +244,7 @@
   "created_at": "2026-09-18T08:45:15.084477Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Barnsley FC (-4.5)",
   "revisions": 1,
   "sha256": "fe729991db155229c30aa4447600c8904e5cc2e18cb73cafc80cb3ad955bbf06",
@@ -275,6 +285,15 @@
   "revisions": 1,
   "sha256": "396e9b9a1c1e85cd902d97fe1b2ca73da8a3962fe92ac224ac11405597fce141",
   "slug": "will-choosin-texas-ella-langley-be-the-2-song-in-the-us-for-2026-20260729205600300"
+ },
+ "0x2e0a94b9211d2d11cb4b3a67e9d115c35f85b41cfe5223828d4f8aba3a23da6e": {
+  "created_at": "2026-11-25T10:55:37.845097Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Bab el-Mandeb Strait be 30+ on January 31?",
+  "revisions": 1,
+  "sha256": "12b1a5fc1f398cb9a6d4767af04c8914075dc7d3a2366c1f7b3a3d752d17e602",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-bab-el-mandeb-strait-be-30-on-january-31"
  },
  "0x2e94a058d55b12bbce76312a572e4246dbe0504f6373dc94263925deec75656e": {
   "created_at": "2026-11-03T17:40:17.202801Z",
@@ -1549,6 +1568,7 @@
   "created_at": "2026-09-18T08:45:16.108419Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "66f1111fc7f3366a7f08ef542099e46f7c96072ba04e82f01908e5cfe03a2091",
@@ -1580,6 +1600,15 @@
   "revisions": 1,
   "sha256": "014b2be8045315e125c7e1ee763a36d2fe43de29f9622b310e238db9fe4d06f5",
   "slug": "2027-soccer-ligue-2-winner-dijon-fco"
+ },
+ "0xfd1fea47f243cac26efdf48c190285d22568f987e16fb57b5615360d9c39266e": {
+  "created_at": "2026-11-25T14:07:54.517365Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will ByteDance have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-bytedance-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
  },
  "0xff0444b91192c6fa9ccc95e6fa225bcfb6f6a9ad421c7a0f22054da504a35c6e": {
   "created_at": "2026-10-26T23:55:05.599199Z",

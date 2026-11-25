@@ -21,6 +21,7 @@
   "created_at": "2026-09-13T08:44:20.35721Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: O/U 11.5 Total Corners",
   "revisions": 1,
   "sha256": "a2d63e69da3379d3b23bf1dbbdfe8697b06a49682849919dd885ece989514e39",
@@ -504,6 +505,15 @@
   "sha256": "61abb00f01eb902b15957ffed4f52616675daa5f874567da5e119211e2fd332e",
   "slug": "2027-soccer-denmark-superliga-winner-snderjyske"
  },
+ "0x60970ef5db98ce2257d04b35fcedb92c7ca2f2756d5ea4d9d8c365232baa2475": {
+  "created_at": "2026-07-20T09:01:40.40301Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will FK Dynamo Kyiv win on 2026-08-02?",
+  "revisions": 1,
+  "sha256": "143da1a7967ab2d887cbbb2e68040ddeeb5002d63e2130dcb3412a5be45b5836",
+  "slug": "ukr1-dyn-liv-2026-08-02-dyn"
+ },
  "0x62a5d0dc77c35d9882940c67312f1427091956f52947ee89cf3c0bceb7580c75": {
   "created_at": "2026-10-15T18:02:46.184778Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -654,6 +664,7 @@
   "created_at": "2026-09-13T08:45:28.44925Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Sheffield Wednesday FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "0723d7f09631667d64d388de0519b92f87633ead32933ec3d99ed11aa7a8aa63",
@@ -737,6 +748,7 @@
   "created_at": "2026-08-06T21:37:14.823224Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 AL-07 House election by 35%-40%?",
   "revisions": 1,
   "sha256": "c27b309867417a131687fe025f0d6574c29203c78d32c2156951ab2465d793d6",
@@ -810,6 +822,7 @@
   "created_at": "2026-08-05T20:17:45.234909Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 New Mexico gubernatorial election by 5% or more?",
   "revisions": 1,
   "sha256": "ad9e2f9c895e6025fc9a4bd8490ad8162fad0a8a87aa285452fd446df566b329",
@@ -939,6 +952,7 @@
   "created_at": "2026-09-13T08:44:21.984369Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC O/U 2.5 Corners",
   "revisions": 1,
   "sha256": "8f212d3c9554f92f88c93171ed653aa349541e4bb3a708c00a0f4d8d053e0de0",
@@ -1525,6 +1539,7 @@
   "created_at": "2026-08-18T14:22:54.500444Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Rhode Island be between 250,000 and 300,000?",
   "revisions": 1,
   "sha256": "4d40aa21f65099410b6216a448af243a4b0747010f944d9396b541c270950dd0",
@@ -1538,6 +1553,15 @@
   "revisions": 1,
   "sha256": "19b111f81117e8491df6f80d2b84a4a85791318e806f5fd8ef40aa9d6c20e38a",
   "slug": "f1-abu-dhabi-grand-prix-constructor-scores-1st-ferrari-2026-12-06"
+ },
+ "0xec609af22bd67e66abc3ac66fb2add8e98c4c541acb3597b7802cc0fa93ff675": {
+  "created_at": "2026-11-24T19:25:53.955956Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Mirage be the most played map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "c2266c7e117c3ca742fde840b8ff3e8e81a7937af863e53b6a88edf7d1cc855a",
+  "slug": "will-mirage-be-the-most-played-map-at-pgl-major-singapore-2026"
  },
  "0xf1b9cf7b7aa6192b11f580c9c3144b931ffa7276c2381b132d5005435bd07875": {
   "created_at": "2026-10-26T22:46:04.345705Z",

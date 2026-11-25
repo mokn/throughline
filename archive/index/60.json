@@ -197,6 +197,7 @@
   "created_at": "2026-09-20T08:45:13.817209Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "b4d9b1a6b749fd3a702bb18a43bb87e4713023a66552480d4d797af46c5fb628",
@@ -508,6 +509,7 @@
   "created_at": "2026-08-06T21:34:44.464828Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 AL-01 House election by 20%-25%?",
   "revisions": 1,
   "sha256": "5b0ad4e08a7394a6e77bd76ebd652e90970f672cb8ebde86aedcd6837dc50723",
@@ -526,6 +528,7 @@
   "created_at": "2026-08-11T17:53:10.801083Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-05 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "d47c070996fae6764cb7c92539bcfab712f59efe342104e94f3524155ae476e1",
@@ -729,6 +732,7 @@
   "created_at": "2026-08-05T18:39:12.598818Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Hawaii gubernatorial election by 40%-45%?",
   "revisions": 1,
   "sha256": "eab5cd5d40490d26779fd949cd0b305b7368a4c4fd74962a9666617edc407ffe",
@@ -751,6 +755,15 @@
   "revisions": 1,
   "sha256": "4fc86d6131db7c4dbde527f33f775bd815563d9affe362c3e227969da8d62191",
   "slug": "will-usdjpy-hit-120-low-in-2026-261"
+ },
+ "0x60b1752a1e13abafcafb2963797be269d999f7431b0a6ceb5c12b05d25707b60": {
+  "created_at": "2026-11-25T14:08:14.541714Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-microsoft-be-the-best-ai-lab-on-january-15-2027"
  },
  "0x6257ae7718a494bcb6d67249030b5fb256106a1a9a36fc63dfd739cce61cd660": {
   "created_at": "2026-10-14T13:24:28.397466Z",
@@ -809,6 +822,15 @@
   "sha256": "de20540a8f61fcb9b5ef7a2ed1a0cbdb75ef623c12ef50f71d3b42020dfa35d1",
   "slug": "will-sweden-be-promoted-to-nations-league-a-in-2026-27"
  },
+ "0x68cb05a182153ca7d9da7b528aa1168950cf432b7f8e51fbb07420e652a0fe60": {
+  "created_at": "2026-11-25T05:00:49.531621Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Netflix, Inc. (NFLX) hit (LOW) $50 in December?",
+  "revisions": 1,
+  "sha256": "39328c60a168d0a570c8c48615ce2f22a8568ae464f72e2a1d996d3da6c72908",
+  "slug": "will-nflx-dip-to-50-in-december-2026"
+ },
  "0x6ae26a29476e686cc6f1b880546b4238f4cd8534983edb10a588499ef29e5e60": {
   "created_at": "2026-07-15T17:56:22.882133Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -840,6 +862,7 @@
   "created_at": "2026-08-11T18:49:06.956026Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-01 House election by 0%-10%?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",
@@ -928,6 +951,15 @@
   "sha256": "cc3ba7b32524c9567bbccb378d10c01053fa5627dfc28f6d0823ef516524768d",
   "slug": "will-jeonbuk-hyundai-motors-be-relegated-from-k-league-2026"
  },
+ "0x811ab7ee0334cde1ca7461460212567e00734ce3ec02034cf38d5a02d0435960": {
+  "created_at": "2026-11-25T05:01:48.890212Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (LOW) $72 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-dip-to-72-in-december-2026"
+ },
  "0x815ee64d4d65bbd12c281d7d9a36070c341c94cba6a31134b8ced14c613e2a60": {
   "created_at": "2026-11-23T22:40:47.475307Z",
   "first_seen": "2026-11-24T17:44:50Z",
@@ -941,6 +973,7 @@
   "created_at": "2026-08-11T18:49:05.420267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-01 House election by 40%-45%?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",
@@ -1049,6 +1082,15 @@
   "revisions": 1,
   "sha256": "a5a70734d216d44cd3a42b202da2404d7e8c6231c6d1643f04501c714e2b270a",
   "slug": "greece-elite-league-2027-champion-chalkida-age-chalkidas"
+ },
+ "0x8f61c4eb1e882245caf0e07c8de9d4e8ccaf56d392f00a12b48c2cb8b4b19c60": {
+  "created_at": "2026-11-25T05:01:19.805034Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (LOW) $95 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-dip-to-95-in-december-2026"
  },
  "0x908ceb5af95513b2c18969447ec50a0d80328ac593aaee71bea447727383bd60": {
   "created_at": "2025-12-29T19:08:24.546802Z",
@@ -1238,6 +1280,7 @@
   "created_at": "2026-09-18T09:45:17.734157Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 8.5",
   "revisions": 1,
   "sha256": "576b94b15947b06f3bf25819c19fbaf4e1dfd297f37eab197c6aa8abfcfe2951",
@@ -1778,6 +1821,7 @@
   "created_at": "2026-09-20T08:45:15.797933Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "01495bacb6d3cac003ae285851731be6856984e1fe29a6cf367dc453cb436b90",
@@ -1800,6 +1844,15 @@
   "revisions": 1,
   "sha256": "ed69f361a34a9f3d6839d4e6659fd08954f34b80320635f2755f0eb7f2453474",
   "slug": "nba-teams-60-plus-wins-2026-27-new-york-knicks"
+ },
+ "0xfe58848722da8d1c4865b052df6b61b69d84963ae571603f98ca6c1ae39a8e60": {
+  "created_at": "2026-11-25T13:18:49.535268Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Elon Musk by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-elon-musk-by-december-31-2026"
  },
  "0xfef118468fead40f65fa8e4e522512f6470a3014b1ffd5abacb009dfdb887a60": {
   "created_at": "2026-09-04T20:09:36.359116Z",

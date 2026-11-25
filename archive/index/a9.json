@@ -141,6 +141,7 @@
   "created_at": "2026-10-18T09:00:27.85741Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 0 - 3 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -555,6 +556,7 @@
   "created_at": "2026-09-13T09:45:27.152408Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Northampton Town FC 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "a28fbef338831c98ad679a740770590ee2da2049ce02f804dbb49d41f5bec8bf",
@@ -728,6 +730,7 @@
   "created_at": "2026-08-18T14:23:16.778789Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from North Carolina be between 4,100,000 and 4,300,000?",
   "revisions": 1,
   "sha256": "e52c2a554891faeaecba5a763932e6ab0fc42457d8c62ba72afbfee1c9868cda",
@@ -1019,6 +1022,15 @@
   "sha256": "dff77c192d77c7615e35e04d57cdd426550e4b6b1cd396a46b58dab96b54a758",
   "slug": "will-thinky-be-the-third-best-code-arena-webdev-ai-lab-at-the-end-of-december-2026"
  },
+ "0xa77c0306c77a1746d6b2e9e9a8371e35498250e1527ea3757d18efecdc9dcba9": {
+  "created_at": "2026-11-25T14:07:09.160692Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alibaba have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-alibaba-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
+ },
  "0xa7c9dcef86f092af6e358ddea0dacfc29582e51638cd9b9d107f1b28db5ef7a9": {
   "created_at": "2026-08-24T16:34:07.301808Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1307,6 +1319,7 @@
   "created_at": "2026-09-01T09:00:01.312674Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will FK Kryvbas Kryvyi Rih vs. FK Kharkiv end in a draw?",
   "revisions": 1,
   "sha256": "1868951eb230e7d5963ec07653e00de93b1ad33bda90f496cb11e2c0b619f6b5",

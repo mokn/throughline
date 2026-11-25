@@ -71,6 +71,15 @@
   "sha256": "6b1739d8ddaddfbf538b1888a9068a73a319499f5db9a26d820f418c07a0aefb",
   "slug": "will-texas-tech-red-raiders-win-the-2026-big-12-championship-20260731203851995"
  },
+ "0x0ab62131a57ddefddb6717a604bd610733a7369437e68a62a7b944059f26ce5a": {
+  "created_at": "2026-11-25T05:00:18.654378Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (LOW) $224 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-dip-to-224-in-december-2026"
+ },
  "0x0c8507a2a73a810c13fe4e3dadb7e3bcb547974b91eb17d8b86b7102dc118e5a": {
   "created_at": "2026-08-06T15:43:58.951751Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -467,6 +476,15 @@
   "sha256": "1d4fb96a2395e4e980aa18419ebaf332499de7ee695425b40f24b6fba5460977",
   "slug": "will-marco-sturm-win-the-2026-27-jack-adams-award"
  },
+ "0x39527e7f9196fd26b00c8d7dae8cf82e36fa54a3957e7872c952e40dfa42b05a": {
+  "created_at": "2026-11-24T19:25:51.843924Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Cache be the most played map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "c2266c7e117c3ca742fde840b8ff3e8e81a7937af863e53b6a88edf7d1cc855a",
+  "slug": "will-cache-be-the-most-played-map-at-pgl-major-singapore-2026"
+ },
  "0x39f9c5306f9f9fdb26768aec74795087275577de796aaba7806998bcb76e575a": {
   "created_at": "2026-08-10T15:02:46.388844Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -536,6 +554,7 @@
   "created_at": "2026-09-13T09:44:18.427982Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: 2nd Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "8499c976cd5a40ca0ff0175f83c8904c78394f1a71afdbb24a9bf339d1fd71e2",
@@ -574,6 +593,7 @@
   "created_at": "2026-09-13T08:46:38.452582Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "ac8ac7f8d3337b930ec6cef36dbe4648276b4779a6a06e1c821e9e87c60d26cc",
@@ -702,6 +722,15 @@
   "sha256": "347cd5dfdd2c4c7446ef11bc2e855e5b4199ee5e9b1ba5967ea925f7016d8cc7",
   "slug": "will-tenebris-somnia-win-best-independent-game-at-the-2026-game-awards-1785857780327"
  },
+ "0x58d6cf879697bf4093c53c876f3d0953e9f19b4b93d03b4baa910088118c085a": {
+  "created_at": "2026-11-25T05:02:22.5656Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (HIGH) $52 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-reach-52-in-december-2026"
+ },
  "0x59003c306eb12bb7548992ef2359c8f8dd870ff606091a40aa5d63bbc57fc45a": {
   "created_at": "2026-10-13T19:55:54.877948Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -753,6 +782,7 @@
   "created_at": "2026-09-13T08:46:34.861019Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 4.5",
   "revisions": 1,
   "sha256": "31aaef6e5d706c2dbd081a9e43cedf2c2838746b852d4c0d1ddd0100fdc35e87",
@@ -1147,6 +1177,7 @@
   "created_at": "2026-08-11T17:53:59.178443Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-13 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "4ce80f7325d5fa7a64ffab64eaca64c42a7317250ee50686131ec7ae73207c87",
@@ -1656,6 +1687,15 @@
   "sha256": "76085ff27c488331f0a040636a758be637f5819654f7211a9f9f08a4433ec9f3",
   "slug": "el1-not-bla-2026-09-26-first-half-team-total-away-3pt5"
  },
+ "0xe20220aa65bee50f44f99668caad38a5b7b0d384a9ba3839ec4221a831ee995a": {
+  "created_at": "2026-11-25T05:01:30.015538Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (LOW) $30 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-dip-to-30-in-december-2026"
+ },
  "0xe3baa245e6ea1e88ecb18bf6a3178669fcf84e219f62bc32ecac20834f59e85a": {
   "created_at": "2026-11-12T19:34:22.768374Z",
   "first_seen": "2026-11-13T14:35:32Z",
@@ -1678,6 +1718,7 @@
   "created_at": "2026-09-13T09:16:11.71925Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 1 - 1 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",

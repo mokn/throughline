@@ -8,6 +8,15 @@
   "sha256": "7d0580befa3434fc95f34c788b4bdb29b4c9f591f6af5fdcc11302811d9d8fe1",
   "slug": "apyx-fdv-above-200m-one-day-after-launch"
  },
+ "0x002a0dd2fcf4181917d2bd7fd11af2087f2c10eb4133b5465d5323be34658eae": {
+  "created_at": "2026-11-25T10:56:01.337573Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 240+ on January 31?",
+  "revisions": 1,
+  "sha256": "a8f8be8b1ee3505eecafcab9b3fd4c2526ed5af445182837f672925c18d0eb78",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-240-on-january-31"
+ },
  "0x005f584619e5ffe2f36e9c0077ee2dcc351d193a640a921858d3a963916c53ae": {
   "created_at": "2026-10-30T21:49:06.866231Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -455,6 +464,7 @@
   "created_at": "2026-08-11T17:53:53.179288Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-12 House election by 65% or more?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -885,6 +895,7 @@
   "created_at": "2026-08-11T17:52:42.051406Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-03 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "69d8f3c63a25056d3d2e68fd72065bab26f44293183e36f762cf39cbd42540ba",
@@ -1380,6 +1391,7 @@
   "created_at": "2026-09-18T08:45:15.435098Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Barnsley FC (-5.5)",
   "revisions": 1,
   "sha256": "3de1dbc52b40228ac50a1772d83d4db72c2f397f70190fc8d2d00e3cb9e7c5f6",

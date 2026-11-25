@@ -85,6 +85,7 @@
   "created_at": "2026-09-13T08:16:13.070439Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bradford City AFC 0 - 0 Barnsley FC?",
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
@@ -167,6 +168,7 @@
   "created_at": "2026-09-13T08:45:26.481641Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Both Teams to Score in Second Half",
   "revisions": 1,
   "sha256": "f2c32dbf3b188467492cd720a1af6f17f916ac3b338e34bc01ed23006083b7a6",
@@ -1252,10 +1254,20 @@
   "sha256": "dd5d42e5bb28682220a6d1d22ada3ec94aa14f1d3e400c4b112b3635cb3f9329",
   "slug": "will-micael-win-2026-mls-defender-of-the-year"
  },
+ "0xc9a9e6ceefc2f93bc0f44af0cebea0348ab545cd08a084e008491ee15dfcc046": {
+  "created_at": "2026-11-25T05:02:30.51025Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Natural Gas (NG) hit (LOW) $3.00 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-dip-to-3-00-in-december-2026"
+ },
  "0xce05b04c7897cb0e8f8c0b2b40eec4bb7c18903ce3a756f9adcf80a80b78ac46": {
   "created_at": "2026-08-11T17:54:05.572324Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-14 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "f874aae0e7386ac84a7ca6125ec17ed282c5aa2477e992f4cc6237c08dd10fae",
@@ -1292,6 +1304,7 @@
   "created_at": "2026-09-20T08:47:18.729314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Leicester City FC (-5.5)",
   "revisions": 1,
   "sha256": "298b5ef9432045183c5c2d186369813926dee2ecfea122d3d370d7eba79a0f07",
@@ -1507,6 +1520,15 @@
   "sha256": "4e6f458b0a2a9a906e67d21c355403999f96136f01b1fc8c199c3568e90c9344",
   "slug": "hyperbeat-fdv-above-50m-one-day-after-launch-143"
  },
+ "0xf225e6c1361d2c4dec5c0147ba774d1c91847c819875919d3a6cbe411e208346": {
+  "created_at": "2026-11-25T05:01:53.138399Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceX (SPCX) hit (LOW) $120 in December?",
+  "revisions": 1,
+  "sha256": "980971399bdb4ff3e8996bfac1dd7c04cba7f6b22deb08cd4a5aa4523dcba66a",
+  "slug": "will-spcx-dip-to-120-in-december-2026"
+ },
  "0xf26ce2715f414e8858a0998c72d426d4d29b36ab0bd2b5c99ce3ce256c174746": {
   "created_at": "2026-08-10T15:33:23.545243Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1594,6 +1616,7 @@
   "created_at": "2026-09-02T06:01:12.561702Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kharkiv O/U 0.5",
   "revisions": 1,
   "sha256": "529da15724bdd623fee81eb950bc7bbf439a9afb277dff94100de4482557b07b",

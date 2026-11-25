@@ -804,6 +804,7 @@
   "created_at": "2026-09-20T08:44:11.825384Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 1st Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "c3d95dd0f2aa5e2ab290e2e816ca09f9bacf6d78f0608484553980d8a47dc786",
@@ -832,6 +833,7 @@
   "created_at": "2026-09-20T08:47:25.958575Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: 2nd Half O/U 4.5",
   "revisions": 1,
   "sha256": "1cf55cc4a104c02214a1be302d257e3822018d0c4d3fddf76fd8ac42543090ed",
@@ -1005,6 +1007,7 @@
   "created_at": "2026-08-11T17:52:20.000223Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-02 House election by 15%-25%?",
   "revisions": 1,
   "sha256": "c74891c0560b6b33e0897fa1bc94c87687057ccad9e89000abf19c4a850eb83e",
@@ -1455,6 +1458,7 @@
   "created_at": "2026-09-20T08:47:21.64039Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC O/U 3.5",
   "revisions": 1,
   "sha256": "c2326b820897be68d0f98a955374be922217f8a7953e6f06853b1f754eaf463a",
@@ -1807,6 +1811,15 @@
   "sha256": "9b44f7bd9a965c1bb12716c988ae8f27d45425bee3d701e83da79b1c5056ac29",
   "slug": "will-zimbabwe-be-last-in-the-world-happiness-report-2027"
  },
+ "0xf1f20e756bcaf2a851c1c5f2869959bdb7323ffad0eb084a1d18b355135a1e5f": {
+  "created_at": "2026-11-25T14:07:56.595606Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Anthropic have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-anthropic-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
+ },
  "0xf2447952276c81576a4645b9d8b379b830afdb11d57d57f77baad1c1a392c55f": {
   "created_at": "2026-06-26T21:48:27.913483Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1896,6 +1909,15 @@
   "revisions": 1,
   "sha256": "aec6cfbaf620e8a57d0824e2d3170a975f755cc7484dfc644510f5aa371dfb94",
   "slug": "will-union-de-touarga-be-relegated-from-morocco-botola-pro-2026-27"
+ },
+ "0xfc5600036ab6de454a393814b13486ba829eb41b660bca9363584371dcc6485f": {
+  "created_at": "2026-11-24T19:56:59.429953Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Navajo Stirling fight Khalil Rountree next?",
+  "revisions": 1,
+  "sha256": "02530ec7ebcf03ed56ce89843d87e5e7e8b3fa4a18203079e8affb1f3640a9c3",
+  "slug": "will-navajo-stirling-fight-khalil-rountree-next"
  },
  "0xfc818ed6b85ddbe3ad710f9b2d6814612d97868a33743011c99825c04efb725f": {
   "created_at": "2026-10-25T10:45:19.896119Z",

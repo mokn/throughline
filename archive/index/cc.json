@@ -728,6 +728,7 @@
   "created_at": "2026-09-18T08:46:17.431655Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC O/U 4.5",
   "revisions": 1,
   "sha256": "c3ca0f70db3503b1417630027b54f4d50e3c402f43f6ce1f8d5e486036e9652c",
@@ -833,6 +834,15 @@
   "revisions": 1,
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-tj-mcconnell"
+ },
+ "0x8347a35509fecc1a006d1b21129275ee0109ab9c86b03abdaa392e5cb8202ccc": {
+  "created_at": "2026-11-25T03:00:42.463375Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Bank of Japan decrease the uncollateralized overnight call rate by 25 bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "16aeb620e6885e7159531fb944b4ceac42d40dbe9da8abde7179908bee5b6104",
+  "slug": "will-the-bank-of-japan-decrease-the-uncollateralized-overnight-call-rate-by-25-bps-at-the-april-2027-meeting"
  },
  "0x841e855f309953641edfb5cf5c773996a5aab8b6532a6ac9a9bc6aae419024cc": {
   "created_at": "2026-08-04T18:04:48.608442Z",
@@ -1066,6 +1076,15 @@
   "sha256": "a65b00fe91a78ba993437b04ab21218a5defe2784e8957f72961b98a894fa105",
   "slug": "will-the-democratic-party-win-the-va-09-house-seat"
  },
+ "0xa8221f2f411230dffd898d0db53cf30d1d1e29e997d645dc90d81597ad7cc1cc": {
+  "created_at": "2026-11-25T13:41:03.161167Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be 7 or more ChatGPT outages in December 2026?",
+  "revisions": 1,
+  "sha256": "3eb8f8e3c8da375c82f8b7b9cd294d3cd24bc40ad0ef98117d5e0cdb4b611f8d",
+  "slug": "will-there-be-7-or-more-chatgpt-outages-in-december-2026"
+ },
  "0xac4478e0aff07ebc38d7e88eb99f07c35ab6af5746cccf48a26272e5bda3a4cc": {
   "created_at": "2026-07-17T22:44:59.988298Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1147,6 +1166,15 @@
   "revisions": 1,
   "sha256": "a7e0b987a1d9c93ef944bbe7194c0b6c67c73404c1273669106793d4e669fdd6",
   "slug": "will-tsv-hartberg-be-relegated-from-austrian-bundesliga-2026-27"
+ },
+ "0xb82a38a7755c042e63c3ae4b1ba53b98d9dc5b25d3cd02fa08b20c2f95ebb0cc": {
+  "created_at": "2026-07-21T06:00:11.351785Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh O/U 0.5",
+  "revisions": 1,
+  "sha256": "39a12d151613a7b405ebf90408faa45523898c709fc9f147f83c2a4614e898c0",
+  "slug": "ukr1-dyn-liv-2026-08-02-team-total-away-0pt5"
  },
  "0xb975f7284cfbb2c7b91edb9604a34c35d12e9807e63d910795abb66bf3de8fcc": {
   "created_at": "2026-08-21T17:37:17.438734Z",
@@ -1299,6 +1327,7 @@
   "created_at": "2026-09-09T15:47:42.93504Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will United States host the 2028 Copa America?",
   "revisions": 1,
   "sha256": "b9b86989d5922243c18a1ff9291f492a8f20b346c2a7274b4c5a083a6a0ecf39",

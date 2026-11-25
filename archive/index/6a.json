@@ -39,6 +39,7 @@
   "created_at": "2026-10-18T09:00:29.233996Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 4 - 2 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -58,6 +59,7 @@
   "created_at": "2026-09-13T08:44:21.635161Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 2nd Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "8edd5df7f2a12c4b28086055eb7c3cb0ab2bed88dc41762de9d8f79a8a2e3b64",
@@ -331,6 +333,7 @@
   "created_at": "2026-09-13T09:45:29.115105Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: O/U 11.5 Total Corners",
   "revisions": 1,
   "sha256": "47f7c82a7d0f68ee5a13668c56f98c33ff3fe898dc0daf7b3fb0543dbe6a7100",
@@ -507,6 +510,7 @@
   "created_at": "2026-08-05T20:56:48.600787Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island gubernatorial election by 25%-30%?",
   "revisions": 1,
   "sha256": "2c137567e23fca07fcb238b403dbfae262978406843eda45c74a302369cde538",
@@ -600,6 +604,7 @@
   "created_at": "2026-10-15T13:17:01.234149Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Dell Q3 Infrastructure Solutions Group revenue be above $38.0B?",
   "revisions": 1,
   "sha256": "46271ab93d239f7db3c3793d0e046ac0ba5aa0507599ed6324812c7fdf791c19",
@@ -622,6 +627,15 @@
   "revisions": 1,
   "sha256": "421153c0756436b90f40d44334b33bbf3bfca082c8daca6e92615a141501c972",
   "slug": "discord-ipo-before-2027"
+ },
+ "0x4c59e119802e8eb50d768a196a931ec85efd5586eb75f4df9e6d57bfa870a56a": {
+  "created_at": "2026-11-25T14:08:01.071068Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Google have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-google-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
  },
  "0x4db56e5709342a994997b0de98ad720aa4f445319f0ef109ac40c79e7ae7386a": {
   "created_at": "2026-11-18T19:51:22.316687Z",
@@ -683,6 +697,7 @@
   "created_at": "2026-09-20T08:47:23.419857Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "dc9b4f116da2ce8006569138cf2a9dfa22b878e4a5db7649bff801d8f9fbbb67",
@@ -877,6 +892,7 @@
   "created_at": "2026-09-20T08:45:11.620345Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC O/U 0.5",
   "revisions": 1,
   "sha256": "7ed58ffdd79003255deb3b6590b637722d5ae0a1b42887a644e258729d717d6e",
@@ -1000,6 +1016,15 @@
   "revisions": 1,
   "sha256": "15b7bdd1e034c01377c9db75a28977c474d4c2eb658d0e68c4a8897140929b97",
   "slug": "nba-2026-27-players-to-average-25-plus-ppg-trae-young"
+ },
+ "0x8792736a56c5cc5c5019ed32ba7722f2f688cf7d5eb7a83cb547404c04ed5c6a": {
+  "created_at": "2026-11-25T14:08:11.91929Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tencent have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-tencent-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
  },
  "0x87ae8354234bfc47cf90cd4f9471f1cbcef5d06653d682bbfc57522271d4426a": {
   "created_at": "2026-08-18T18:58:07.19639Z",
@@ -1252,6 +1277,7 @@
   "created_at": "2026-09-21T19:04:00.748234Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Trump's approval rating hit 36% in 2026?",
   "revisions": 1,
   "sha256": "a5b913e720a035577d031a6e51e6a217188e3315b10b4d6b3adf4b5488cdb0ec",
@@ -1662,6 +1688,15 @@
   "sha256": "308593f924e83ac8c67f30b9fc5cacc123bcc7a0947b2de1a62247bd0745f434",
   "slug": "zuffa-roehr-mcdon-2026-11-07-ends-before-round-2"
  },
+ "0xdaf43a575bbdbbc7cbbc2db80086683ef442e3c634ccb7873f9f2e742c13506a": {
+  "created_at": "2026-11-25T05:00:19.397215Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (LOW) $200 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-dip-to-200-in-december-2026"
+ },
  "0xdc7041bb827c0b8a6d5ba6fdd81371124a55e812933ef98a9c134fb0c91ca16a": {
   "created_at": "2026-09-27T20:12:21.923501Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1851,6 +1886,7 @@
   "created_at": "2026-09-13T08:46:33.576921Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Stevenage FC (-1.5)",
   "revisions": 1,
   "sha256": "a44068e2863a9474f0da378e16318b34c0a2a7e4e24115b1a4f017744c7d4fca",

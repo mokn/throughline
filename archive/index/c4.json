@@ -22,6 +22,7 @@
   "created_at": "2026-09-13T09:44:17.851495Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 13.5 Total Corners",
   "revisions": 1,
   "sha256": "f4a2dcb580e173b60922cc9496bb1b22a9c45613cbc94ee1a07e7dbfd319b342",
@@ -845,6 +846,15 @@
   "sha256": "e584b2aa79fb742d6d4aacbbd28b1375d06404f0bd5422fd130b8198be4d63b8",
   "slug": "will-the-new-england-patriots-win-the-2027-nfl-league-championship"
  },
+ "0x8197fe18cce777912c90d1a8f3eebfb0c0179abb679b38758441684f28d006c4": {
+  "created_at": "2026-11-25T05:00:48.471299Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Netflix, Inc. (NFLX) hit (HIGH) $70 in December?",
+  "revisions": 1,
+  "sha256": "39328c60a168d0a570c8c48615ce2f22a8568ae464f72e2a1d996d3da6c72908",
+  "slug": "will-nflx-reach-70-in-december-2026"
+ },
  "0x81eb287bded2b205240bdf5c5a3f50e89335e37d21bbbd6161aafc8bf29d36c4": {
   "created_at": "2026-09-28T17:18:46.287534Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -959,6 +969,7 @@
   "created_at": "2026-09-13T08:15:34.677822Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Stevenage FC 3 - 1 Sheffield Wednesday FC?",
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
@@ -1110,6 +1121,15 @@
   "sha256": "d2e814885e0f3b66ddc797d04215877bde5f0da4f1d07b493caa9bd026f6f8ef",
   "slug": "israel-military-action-against-iraq-by-october-31-2026-20260922"
  },
+ "0xa38a3951baf003da123fc51892beebd49dee1e2197089558d04e504a0064a0c4": {
+  "created_at": "2026-11-25T05:01:34.96329Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (LOW) $600 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-dip-to-600-in-december-2026"
+ },
  "0xa4885c37568836476b8931e0af07c561f840f6e93d0bbf8b68107558432f4dc4": {
   "created_at": "2026-09-04T19:35:26.956893Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1146,6 +1166,15 @@
   "revisions": 1,
   "sha256": "89787f96b0aab38cda0b5b2bd365bf0701a462cb400dec706c54548833285ad6",
   "slug": "will-conner-weigman-be-the-2026-big-12-passing-yards-leader"
+ },
+ "0xa8c540035d8e826614bf3c82a600349f89450f67d78bc64e89445e1a70cf26c4": {
+  "created_at": "2026-11-25T13:40:59.851944Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will there be fewer than 3 ChatGPT outages in December 2026?",
+  "revisions": 1,
+  "sha256": "3eb8f8e3c8da375c82f8b7b9cd294d3cd24bc40ad0ef98117d5e0cdb4b611f8d",
+  "slug": "will-there-be-fewer-than-3-chatgpt-outages-in-december-2026"
  },
  "0xa9ceaaa7df46268fdc7353b5b6b1b059ab06ab3bba6a864d77326b01ff8a49c4": {
   "created_at": "2026-08-10T23:33:21.770831Z",
@@ -1339,6 +1368,7 @@
   "created_at": "2026-09-20T08:45:14.564426Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "4053bd43b33b85e4e223695998569801c0b29104d63ec4c73dbbbcf886dde2b9",
@@ -1348,6 +1378,7 @@
   "created_at": "2026-09-20T08:47:25.310547Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "57db2c4879e155abcd2f46e4f45a358f6e32603d419e026ade5ef6bd865ac009",
@@ -1735,6 +1766,15 @@
   "revisions": 1,
   "sha256": "450896e892e967046e4b8b15d067739bbfad4ec3f0253e99251afbec3c1218ae",
   "slug": "will-rene-haas-be-the-next-ceo-of-nvidia"
+ },
+ "0xf48d7efe5343a75f8c92e251d2239b91a622539baa84dc7d5f822194e832e8c4": {
+  "created_at": "2026-11-25T05:00:11.729173Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (LOW) $435 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-dip-to-435-in-december-2026"
  },
  "0xf538f30b09416fcbf6683435a243829bd19a607289dc5b064d8e6be8146fc7c4": {
   "created_at": "2026-08-05T21:00:54.133841Z",

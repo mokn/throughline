@@ -90,6 +90,15 @@
   "sha256": "2852f73096e4acb71e2a87f3dbcb93ed07e1f542cb05a8729c418dcd7e9700ef",
   "slug": "will-ethereum-reach-6500-by-december-31-2026"
  },
+ "0x104327c5ae46df784ba3081ec4d1b31ab52d8ffae5943aa84bc4266cfd094480": {
+  "created_at": "2026-11-25T14:08:04.202858Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MiniMax have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-minimax-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
+ },
  "0x11d720f0d03db34abd8aadfbc7f52a37cdfcf4d46f60284813d40bd016706980": {
   "created_at": "2026-11-23T22:23:31.536819Z",
   "first_seen": "2026-11-24T17:44:50Z",
@@ -395,6 +404,7 @@
   "created_at": "2026-09-18T09:46:18.675567Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Crawley Town FC (-5.5)",
   "revisions": 1,
   "sha256": "182153e307cafd21867a39167677de6b9680ded846eb78867279333be5f6d290",
@@ -845,6 +855,15 @@
   "sha256": "53b2cb2d6912e84aca233ae83f057f02c67ffc4ed44b0b4f88519a1d45bc8b3e",
   "slug": "el2-col-pvl-2026-10-03-corners-odd-even"
  },
+ "0x8500197f25587f24ccbeaf6cbc2aa0728e1e82770ef5bef6cf453c314bb02880": {
+  "created_at": "2026-11-25T10:56:01.955937Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Malacca Strait be 250+ on January 31?",
+  "revisions": 1,
+  "sha256": "a8f8be8b1ee3505eecafcab9b3fd4c2526ed5af445182837f672925c18d0eb78",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-malacca-strait-be-250-on-january-31"
+ },
  "0x85dfa6060b2d7d08dbfa7380129525eb67a6131fde36c5edb724618b04f05580": {
   "created_at": "2026-08-24T16:34:30.423057Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1094,6 +1113,7 @@
   "created_at": "2026-08-11T17:53:53.824779Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-12 House election by 50%-55%?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -1140,6 +1160,7 @@
   "created_at": "2026-09-20T08:16:07.312859Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Wycombe Wanderers FC leading at halftime?",
   "revisions": 1,
   "sha256": "ec5c2ec810a7c6948e8417ef3fc2b94c7d28b3af25b63398398ad6ec5b7a412e",
@@ -1149,6 +1170,7 @@
   "created_at": "2026-08-11T17:54:04.850252Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-14 House election by 25% or more?",
   "revisions": 1,
   "sha256": "f874aae0e7386ac84a7ca6125ec17ed282c5aa2477e992f4cc6237c08dd10fae",
@@ -1168,6 +1190,7 @@
   "created_at": "2026-09-02T06:01:14.719989Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kryvbas Kryvyi Rih 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "03e353986efa82d959eabfd714630ce279c0e0a70359f844ffcd36414b899e9d",
@@ -1334,6 +1357,7 @@
   "created_at": "2026-08-11T18:28:09.427389Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NM-01 House election by 15%-20%?",
   "revisions": 1,
   "sha256": "fc7b6e739ad06d4a9e77ea309f62832a451977e6f5c19c90d78b6d11b6eeb126",

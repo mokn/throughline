@@ -129,6 +129,15 @@
   "sha256": "8baf1e9268c94f14f466723e14f59c121c5d4c87f721bba25549f1741c416a9d",
   "slug": "will-codex-launch-a-token-by-december-31-2026"
  },
+ "0x1bde70a74f50387d9562a0b9f31aa93fde10809ce83d01c85123ecf525690e35": {
+  "created_at": "2026-11-25T10:55:43.237574Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Suez Canal be 38+ on January 31?",
+  "revisions": 1,
+  "sha256": "ede58e76a6041a84a7c88e0233c7769d15ca944f86eade3e23fcd2f809c79b1d",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-suez-canal-be-38-on-january-31"
+ },
  "0x1fad2d0c1b61f89ae5841771c7dc27a4bb1bbc48fba867a6f50a1c63aab52835": {
   "created_at": "2026-10-15T17:01:03.659763Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -402,6 +411,15 @@
   "revisions": 1,
   "sha256": "93aeb190355546595a6ed0151006550d4d451a807839362667c8f61c0c4bffbd",
   "slug": "will-matt-gaetz-announce-a-presidential-run-before-2028-20260803143241661"
+ },
+ "0x415aa01128cd6bae11ae7bfa5b953a1ae2f005109975ecde0cc7a270c6747f35": {
+  "created_at": "2026-11-25T05:01:11.286826Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $192 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-reach-192-in-december-2026"
  },
  "0x438a34b76a03890bfe808ccfc1e4e996c81eb1df85bd9829d1bb53e2e3e60835": {
   "created_at": "2026-10-01T23:13:33.496117Z",
@@ -961,6 +979,7 @@
   "created_at": "2026-09-02T06:01:10.200818Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: O/U 1.5",
   "revisions": 1,
   "sha256": "8dd7bdd559e6291b681df2b3053c9e6ab4acaf67afa036f7482230408d4e0112",
@@ -1418,6 +1437,7 @@
   "created_at": "2026-09-13T08:46:35.469035Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "bff42bc42cebfb55dbd72d816dbdd195b2615b0ecb5725e690c3f990575f6613",
@@ -1445,6 +1465,7 @@
   "created_at": "2026-08-11T17:53:29.083103Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-08 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "6a2f4799cad5c1ed48d4aa183b61984286af969c8079da530086d7cac9d714fa",

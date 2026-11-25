@@ -75,6 +75,7 @@
   "created_at": "2026-09-18T08:45:15.776288Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: O/U 7.5",
   "revisions": 1,
   "sha256": "e969445147292ab3a168aaed8f63297bffe4568a63782b89061da82c3414ee96",
@@ -177,6 +178,7 @@
   "created_at": "2026-08-11T17:53:45.714948Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-11 House election by 12% or more?",
   "revisions": 1,
   "sha256": "8084705a0cb67f1d16096007b40285d108439e387a695c4dd67ead5b44a04e25",
@@ -508,10 +510,20 @@
   "created_at": "2026-08-11T17:52:59.230826Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-04 House election by 50%-55%?",
   "revisions": 1,
   "sha256": "b4b221e99a5852b252d7b0b668599bcd7d6def4b35218525b46e5b7ee696c037",
   "slug": "will-the-democratic-party-candidate-win-the-2026-nc-04-house-election-by-50-55"
+ },
+ "0x48a2675759c8929c0f62c9196489c6d69e707a7f76d25f8bf9cf7587c92a8bcd": {
+  "created_at": "2026-11-25T14:07:57.296438Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will OpenAI have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-openai-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
  },
  "0x4a4d0b5026559f63b90e492c293c58c805b40f28e05f70eb95396a30cca3c2cd": {
   "created_at": "2026-11-12T20:19:13.523636Z",
@@ -620,6 +632,15 @@
   "revisions": 1,
   "sha256": "4004e40a6899116042f9f41bb354069b95c0604cd93590f40ddcedf7d58b899d",
   "slug": "will-based-polymarket-revenue-hit-1m-before-2027"
+ },
+ "0x64264cc87b7786ec02c414d523e69e69099921ff34a61f170f6488be4cb233cd": {
+  "created_at": "2026-11-24T23:50:44.016401Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA resume China AI chip shipments by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "23a120d9f938d308a558049a57d690ece5ca0be5293633dc77a1185632e55991",
+  "slug": "nvidia-resumes-china-ai-chip-shipments-by-june-30-2027"
  },
  "0x679fcceb004ed813018ca473adf810f8480018f1ebb1bb086c42fa769ec08ecd": {
   "created_at": "2026-08-10T23:57:53.974429Z",
@@ -1120,10 +1141,20 @@
   "created_at": "2026-09-13T09:44:18.276185Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: 1st Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "808005ccfebef51ada83e4ed798a6dba0d67336f3946e44de5df6a94544c90a8",
   "slug": "el2-pvl-nth-2026-09-26-corners-first-half-total-5pt5"
+ },
+ "0xae6a1b7f009670e389749c3a243b9c8369fd00ac31f5f62e6f26fbe78b4b43cd": {
+  "created_at": "2026-11-25T00:03:00.560857Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 45 and 55 on April 30?",
+  "revisions": 1,
+  "sha256": "5782d35ffe630cc71226c62499a2e2897fad675938cec0b6fe5e1a74215b703a",
+  "slug": "will-the-fear-greed-index-be-45-55-on-april-30-2027"
  },
  "0xaf989e52c216afa6feab6099ff9d201d918c84244e1045b0bc057e0ff60d3ecd": {
   "created_at": "2026-10-02T20:14:27.31053Z",
@@ -1271,6 +1302,15 @@
   "revisions": 1,
   "sha256": "6f47ffc80d415da58edae19f21e38205b34c52fe6467262f11a69a6d4d082986",
   "slug": "quentin-johnston-849pt5-receiving-yards-2026-27"
+ },
+ "0xc0368f263fd66a266a2aacc5f3e567d587db9b4ab3f544fe3da582613d08a5cd": {
+  "created_at": "2026-11-25T14:08:06.385628Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Moonshot be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-moonshot-be-the-best-ai-lab-on-january-15-2027"
  },
  "0xc0e5c9c1b0d301341ef6e0ca4caa04f8ce475d085f73686c1b5cc82947a701cd": {
   "created_at": "2026-08-25T21:10:38.713311Z",
@@ -1628,6 +1668,7 @@
   "created_at": "2026-09-13T08:46:34.687448Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: O/U 3.5",
   "revisions": 1,
   "sha256": "236c60f7bead0b5d18d107ac4812082452c5d59cdb2d60fa07a2a11823cb32ef",
@@ -1637,6 +1678,7 @@
   "created_at": "2026-10-25T04:00:07.174238Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Microsoft Corporation (MSFT) hit (LOW) $480 in November?",
   "revisions": 1,
   "sha256": "05a8bbf7dd125285603e0ea468948b9b5ea1c1d2e5d3a15179a5cd0b4c605216",

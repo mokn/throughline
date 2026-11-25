@@ -341,6 +341,7 @@
   "created_at": "2026-08-11T17:52:43.015197Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-03 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "69d8f3c63a25056d3d2e68fd72065bab26f44293183e36f762cf39cbd42540ba",
@@ -624,6 +625,7 @@
   "created_at": "2026-08-04T18:36:20.780649Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island Senate election by 5%-10%?",
   "revisions": 1,
   "sha256": "115fdadb3d59a8617ce5d92e0a152f344a689308bc050ccaef8bd6041baff690",
@@ -864,6 +866,15 @@
   "sha256": "6b8f454e461adc1984296b9b0062454efe9e844a1e309770e0ece627a8d503c4",
   "slug": "will-jesse-eisenberg-win-best-director-at-the-99th-academy-awards-20260727173335240"
  },
+ "0x92f1a7edaf8fc8755f675ad3a7c268bc988aef3f1772867426d66ddafb5e9149": {
+  "created_at": "2026-11-25T05:01:17.746689Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Coinbase Global, Inc. (COIN) hit (HIGH) $125 in December?",
+  "revisions": 1,
+  "sha256": "5fc93ca09b2565991a56293de0be618115cdf6615af52d6e4cd2500240cbc63f",
+  "slug": "will-coin-reach-125-in-december-2026"
+ },
  "0x974933da3f2cd73ffa6ce21ee8d2a08b161ff0996f2d5b3d928a0287b6f7fe49": {
   "created_at": "2026-08-04T21:41:08.458035Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -946,6 +957,15 @@
   "revisions": 1,
   "sha256": "aa63b0a5cb91fa34ef9b44b6d6d64557ba95a07bfd5812b2c31446876651d7d0",
   "slug": "will-teruaki-satos-next-team-be-baltimore-orioles"
+ },
+ "0x9d8d54bf12c8ef63cba3efb740ac73ac52155990dc3c1ad3ee6c312f9ab14e49": {
+  "created_at": "2026-11-25T05:00:27.720379Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta Platforms, Inc. (META) hit (HIGH) $720 in December?",
+  "revisions": 1,
+  "sha256": "c0a79c250222d9a3fa8e3dd7eabf42e93b71ac1eac7f4478009dfec95ff92fbf",
+  "slug": "will-meta-reach-720-in-december-2026"
  },
  "0x9ecc11f4856bd97db7104a0c1fcd537db865b91f1829220ebad5e1bb9e0a1649": {
   "created_at": "2026-10-10T11:30:17.385907Z",
@@ -1088,6 +1108,7 @@
   "created_at": "2026-07-29T20:34:25.327843Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Lucas Ocampos (CF Monterrey) record the most assists in the 2026 Liga MX Apertura?",
   "revisions": 1,
   "sha256": "4235c4099ada5b88817c6090161c86b4cc1f514c177f7e3c148ca09bf9e4f0a3",
@@ -1097,6 +1118,7 @@
   "created_at": "2026-09-13T09:44:17.408829Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "b3eff2fd62b6437dcb1bebad74aa273b72a88572d2aebab2388f761c424fd9e1",

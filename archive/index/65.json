@@ -73,6 +73,15 @@
   "sha256": "4c0a348e45e533ce5efb754760cffcc56762480d6ef2cc403443891a4364c2d5",
   "slug": "will-real-madrid-finish-3rd-in-laliga-2026-27"
  },
+ "0x098636019ff98fdc169691ec3209c656460aba7b873be7d86d0582e192024065": {
+  "created_at": "2026-11-24T21:00:14.117804Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Central Bank of Chile decrease the monetary policy rate by 25 bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "babaab7bbc04475be6d5223cbdfe1b9226ca5cba79e2ca5d6f32e7135aaea77e",
+  "slug": "will-the-central-bank-of-chile-decrease-the-monetary-policy-rate-by-25-bps-at-the-april-2027-meeting"
+ },
  "0x099a9c3c128ef33564349021da75661b7ea38eabf0ab0609facffb26b380a265": {
   "created_at": "2026-10-31T00:26:38.799789Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -212,6 +221,15 @@
   "sha256": "7e6fdec190fe0725aee50e4c7e619a6f7bbefba4d6f4a779da7c64841412d7ed",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ct-04-house-election-by-35-40"
  },
+ "0x1e702a0d6257a2130c502d5d4a2eb3da44c61b89b2eb74f58326caed9fc15e65": {
+  "created_at": "2026-11-25T05:00:50.312463Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Netflix, Inc. (NFLX) hit (LOW) $35 in December?",
+  "revisions": 1,
+  "sha256": "39328c60a168d0a570c8c48615ce2f22a8568ae464f72e2a1d996d3da6c72908",
+  "slug": "will-nflx-dip-to-35-in-december-2026"
+ },
  "0x1f16326e5108dffc264d746d26b98b74712122914c1ebb23c22edaf847c95365": {
   "created_at": "2026-10-13T15:50:41.272276Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -225,6 +243,7 @@
   "created_at": "2026-09-20T08:44:11.367134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 1st Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "7cb1c475f124249dcdcfd99d65042f3995de016823ae102e94261bfb9ebdf566",
@@ -377,6 +396,15 @@
   "revisions": 1,
   "sha256": "007ed45116acc41203dd88d2d2a2c1c59812e1dd5fe6b266569563efc0525ff5",
   "slug": "ukr1-met-kar-2026-11-07-first-half-total-0pt5"
+ },
+ "0x2c05ea473c99847b2f779069e713cf46369fdeb179d4c262946bef60c753f665": {
+  "created_at": "2026-11-25T14:08:03.720325Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Anthropic be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-anthropic-be-the-best-ai-lab-on-january-15-2027"
  },
  "0x2c608c3253f59fcc563081dc3bab61694973f0e3ba22701c17f9d82a96511565": {
   "created_at": "2026-05-05T18:03:38.941421Z",
@@ -1109,6 +1137,7 @@
   "created_at": "2026-08-18T14:23:25.957537Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from New Mexico be between 600,000 and 650,000?",
   "revisions": 1,
   "sha256": "ed0af71c6556006f2e4c8d0ff52b473b7d2fb11135acdfa14b927fb54b88c3a4",
@@ -1149,6 +1178,15 @@
   "revisions": 1,
   "sha256": "916e831eda1a0215716cdf39e83013421467f4388dc75b8c1b6d104813138feb",
   "slug": "will-tyrese-haliburton-be-named-to-any-2027-all-nba-team"
+ },
+ "0x8e21cce43edaf40a21b13f89b55f7cad5d6e0124ca663e1c4507279c67fdfd65": {
+  "created_at": "2026-11-25T14:07:36.61952Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Xiaomi have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-xiaomi-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
  },
  "0x8fb3f3df5dd2c4590f2d3fe18f2adf20fe6caaf7f38e894f5b1b3a7aa1ab4865": {
   "created_at": "2026-07-08T23:32:20.557935Z",
@@ -1521,6 +1559,7 @@
   "created_at": "2026-09-20T08:44:12.848871Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: 2nd Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "3f86191943dd770e642959554139ad6243d3c619669e547c021e8763d3c09cb6",
@@ -1596,6 +1635,7 @@
   "created_at": "2026-08-11T18:49:07.194954Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 RI-01 House election?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",

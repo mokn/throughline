@@ -353,6 +353,7 @@
   "created_at": "2026-09-09T15:47:44.698273Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Paraguay host the 2028 Copa America?",
   "revisions": 1,
   "sha256": "b9b86989d5922243c18a1ff9291f492a8f20b346c2a7274b4c5a083a6a0ecf39",
@@ -402,6 +403,15 @@
   "revisions": 1,
   "sha256": "48e55764657c5a33adacf23201ecc84302a9da829908692fdcd4c7c2166af8ba",
   "slug": "will-the-republican-party-candidate-win-the-2026-ky-01-house-election-by-30-35"
+ },
+ "0x31d481650575ce4196f6ed1dd75002d3abce6ca5f3ca39d2c9273cf007584bc2": {
+  "created_at": "2026-11-25T05:00:38.559489Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tesla, Inc. (TSLA) hit (LOW) $285 in December?",
+  "revisions": 1,
+  "sha256": "6ce1712027598d432cef08acea8ae93a1123d96e6955d7ecd603a17c5e93877a",
+  "slug": "will-tsla-dip-to-285-in-december-2026"
  },
  "0x335e478f9675a4b72c98a586f8df5db4bdb3cac57a87a132166429bf0a7a53c2": {
   "created_at": "2026-07-20T20:08:32.726446Z",
@@ -620,6 +630,7 @@
   "created_at": "2026-09-13T09:16:13.283202Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Neither team to score first?",
   "revisions": 1,
   "sha256": "298b9d1c3050e34b60a7c43e10053b0c2967ab6d9309f47e550e7768a124342e",
@@ -699,6 +710,15 @@
   "sha256": "a7ad5eca4d7262d6f6d9ae02835fd5108e1bfb8ef1bf96815c8b6ee536b46b81",
   "slug": "will-ethereum-hit-6k-by-december-31-2027"
  },
+ "0x5bcc8c367b2eb7a78e0d79150968e0fb67a1ea9e6ead773e5846638d725efec2": {
+  "created_at": "2026-11-25T02:03:53.120922Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Amazon 2026 capex above $240B?",
+  "revisions": 1,
+  "sha256": "e86a23e75dadfeff14eb0977fa96fe10eab6ad2c96cc3953d3c58c61b355bd98",
+  "slug": "amazon-2026-capex-above-240b"
+ },
  "0x5cc8aa9f3caa05c07a4063f5240aa74c558eb29fceae93cc565301292f9806c2": {
   "created_at": "2026-08-07T20:28:51.970703Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -753,6 +773,15 @@
   "revisions": 1,
   "sha256": "eafd5b41ca24c0f8a1ba6f9cfd04cfeb4929a9bbf56db685c59cbd22f21ffaa9",
   "slug": "russia-x-ukraine-ceasefire-agreement-by-may-31-2027"
+ },
+ "0x61cfac0b390e9c8ed5f4b788175a059e5fbab862825b11a001a3f6e8eaa8b5c2": {
+  "created_at": "2026-11-25T14:07:55.913058Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Moonshot have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-moonshot-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
  },
  "0x6231089f4ea288201b55d3000b19ef8e56ce5edc50a2806067c8b2e4c6d43dc2": {
   "created_at": "2026-05-19T23:55:51.630313Z",
@@ -894,6 +923,7 @@
   "created_at": "2026-09-13T09:44:17.709002Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 12.5 Total Corners",
   "revisions": 1,
   "sha256": "a08186c1fbc6726e4f2d430204c327430ed81a041c4f5df60bacf3325d3bd9cf",
@@ -984,6 +1014,15 @@
   "revisions": 1,
   "sha256": "4f8838bff7bf5bc7404a05dad7388a7ae63c712669c4aa0ff34ac9727503f4b0",
   "slug": "will-exoborne-win-best-multiplayer-at-the-2026-game-awards-1785857785570"
+ },
+ "0x86ee65e32729cb08552fee793d870e97931793bdc4aaf488286d0f2abca97ec2": {
+  "created_at": "2026-11-25T00:03:05.555054Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be 76 or above on April 30?",
+  "revisions": 1,
+  "sha256": "5782d35ffe630cc71226c62499a2e2897fad675938cec0b6fe5e1a74215b703a",
+  "slug": "will-the-fear-greed-index-be-76-100-on-april-30-2027"
  },
  "0x8751fead9af6279626579d2ca0c753c14aed7632dd448be22c53ac5329fd05c2": {
   "created_at": "2026-09-02T21:55:47.126857Z",
@@ -1334,6 +1373,7 @@
   "created_at": "2026-08-07T20:29:10.023337Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-01 House election by 0%-15%?",
   "revisions": 1,
   "sha256": "f8b6ab6faabb7923e06a7a34ce2beedcbe7e887c4eb7a1079b105effba5c876f",
@@ -1436,6 +1476,7 @@
   "created_at": "2026-10-24T04:00:09.012869Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Elon Musk post 960-999 tweets in November 2026?",
   "revisions": 1,
   "sha256": "4f799ed3b30a7a65c00284c56b1115ac02e4802bd26ff6236d0fb7a10ba8ab60",
@@ -1631,6 +1672,7 @@
   "created_at": "2026-09-13T09:44:18.752927Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: 2nd Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "005563cfe83c46bc6dd603000da6d6ccc83c7dcc1ae6d926775b2b3acac22a74",
@@ -1751,6 +1793,7 @@
   "created_at": "2026-08-11T18:27:50.281621Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NM-02 House election by 10%-15%?",
   "revisions": 1,
   "sha256": "3eaa60e2f2b466c8a3a47850ed8eda206a861a4474eb4163bc3b8586d711b47a",
@@ -1787,6 +1830,7 @@
   "created_at": "2026-10-18T23:30:14.257058Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Aberdeen FC O/U 1.5",
   "revisions": 1,
   "sha256": "e345b86ed906feed411f27d789b04c6e53cba7595b18a18334253af312f6e68c",

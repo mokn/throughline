@@ -54,6 +54,15 @@
   "sha256": "79ec1830e24e8972853b80e4d487c1892fd8a98eadfeda4e10ec903d55f1a962",
   "slug": "el1-wim-ste-2026-10-03-corners-total-13pt5"
  },
+ "0x06497ec857009cc33d98e55ec058b453932fcc32a5483685227c8b7c80b7f3cf": {
+  "created_at": "2026-07-20T09:03:41.761969Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 3 - 1 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-3-1"
+ },
  "0x07d4883660832eb7b64be2f4dba5870eb3ff4ae764e79893d6f574eaa075f7cf": {
   "created_at": "2025-11-17T18:39:16.681218Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -132,6 +141,7 @@
   "created_at": "2026-08-11T18:49:10.450411Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-02 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "280d6e3e22e7477a19b15711eadf655f80f799cfa41662733f9c7919c3b16b6e",
@@ -159,6 +169,7 @@
   "created_at": "2026-10-25T04:01:20.705885Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will SK hynix (SKHY) hit (LOW) $102 in November?",
   "revisions": 1,
   "sha256": "14489cc2c44ee2617afa674b4abcdec2af3340c5e4a892c3eae1e5eedd99f94c",
@@ -515,6 +526,7 @@
   "created_at": "2026-08-04T18:30:47.323802Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 North Carolina Senate election by 3%-6%?",
   "revisions": 1,
   "sha256": "7c4d4990c9cbe865952da0cc2ced219349979306dad7b9ab2f226d58f5d85575",
@@ -587,6 +599,7 @@
   "created_at": "2026-09-18T09:45:18.092652Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "fa37c06d573c9f17d5a9d0321b75629df57b14ae8f97f9a92958d04138682118",
@@ -770,6 +783,7 @@
   "created_at": "2026-09-13T09:16:11.637772Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 0 - 2 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -882,6 +896,15 @@
   "revisions": 1,
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-cale-makar-record-80-points-in-the-2026-27-regular-season"
+ },
+ "0x93721f791e48926e13039ee5af06958f6c3376718275b3f6ca290b7c17f91dcf": {
+  "created_at": "2026-11-25T05:00:03.521155Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Apple (AAPL) hit (HIGH) $360 in December?",
+  "revisions": 1,
+  "sha256": "14a433d59bb4ce023b5ff79713220cc7865c9e7fe56139d49c9484add868e58e",
+  "slug": "will-aapl-reach-360-in-december-2026"
  },
  "0x93b8adcff2c28a1392b46cdef43df79baebc4beaee31672509a8abc2973750cf": {
   "created_at": "2026-08-26T21:46:20.197506Z",
@@ -1108,6 +1131,7 @@
   "created_at": "2026-09-20T08:47:22.96938Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC O/U 5.5",
   "revisions": 1,
   "sha256": "59a842e71e16ae3e8d23dd277f80d2aed8e76bfdf44aed241957fff34a5263ce",
@@ -1163,6 +1187,7 @@
   "created_at": "2026-09-02T06:01:12.398738Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kryvbas Kryvyi Rih O/U 2.5",
   "revisions": 1,
   "sha256": "7bda5525774c1968ee6b0f8b0b94a23485e34eb4c7c41fe6f182353906ecb90f",
@@ -1204,10 +1229,20 @@
   "sha256": "8d10d5d0f683f040f262a9aca6c6847fb7ad2c093a2fb781879835b4bafdf3a5",
   "slug": "jalen-hurts-3500-passing-yards-2026-27"
  },
+ "0xb900c58ef5c386fc7d195e1e010849067632108683ce1010b19baa345cd23dcf": {
+  "created_at": "2026-11-25T05:01:27.255171Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Robinhood Markets, Inc. (HOOD) hit (HIGH) $65 in December?",
+  "revisions": 1,
+  "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
+  "slug": "will-hood-reach-65-in-december-2026"
+ },
  "0xba845a4a2a874cedf61ad450e9ee1652857ded11066eee15f9dcac29e88cbdcf": {
   "created_at": "2026-09-13T09:46:37.118287Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Crawley Town FC 2nd Half O/U 1.5",
   "revisions": 1,
   "sha256": "b9a3a39ee38ed1e38868d9cd6d28de9ed9a8fca7ad500f88187ac35ee33543c1",
@@ -1240,10 +1275,20 @@
   "sha256": "3c625dbd28e95c8d99c084483b0d655c44cd085d6e0b43e8a534c944ef6ea23f",
   "slug": "will-google-be-the-third-best-ai-lab-at-the-end-of-november-2026"
  },
+ "0xbec79ec6fdd8fe109f8e7aaa29eca41a8798d9e9ef5feef0b0916aa9d6b017cf": {
+  "created_at": "2026-11-25T03:00:41.749555Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Bank of Japan decrease the uncollateralized overnight call rate by 50+ bps at the April meeting?",
+  "revisions": 1,
+  "sha256": "16aeb620e6885e7159531fb944b4ceac42d40dbe9da8abde7179908bee5b6104",
+  "slug": "will-the-bank-of-japan-decrease-the-uncollateralized-overnight-call-rate-by-50-bps-at-the-april-2027-meeting"
+ },
  "0xbf25918c137f6ee441be364b85a9d439c74ea4ac54ebbc82b2819c5e61319acf": {
   "created_at": "2026-09-20T08:44:15.770415Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC O/U 2.5 Corners",
   "revisions": 1,
   "sha256": "39cd58908dcace389cdce10f22bc9b5132e6f237d3a08c49a4914572849b12c2",
@@ -1280,6 +1325,7 @@
   "created_at": "2026-09-18T09:46:19.186312Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: O/U 7.5",
   "revisions": 1,
   "sha256": "0edc990015b34bdfc0f7f33e02587bc16b441e71f7d384fcd1bb726b733a11a0",
@@ -1371,6 +1417,7 @@
   "created_at": "2026-08-11T18:49:06.176343Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-01 House election by 25%-30%?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",
@@ -1449,6 +1496,15 @@
   "revisions": 1,
   "sha256": "1d2e3352795228cc1552e056242394d3da2214166625dbf092cee9a433a67693",
   "slug": "will-talleres-c-keep-the-most-clean-sheets-in-liga-profesional-argentina-2026"
+ },
+ "0xdce543a4c8ed2e37c69f87fc67b70246b523a86c24e0797e0f046462247524cf": {
+  "created_at": "2026-11-25T05:02:24.169296Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Silver (XAGUSD) hit (LOW) $40 in December?",
+  "revisions": 1,
+  "sha256": "cfe3af1b2a04f9e8771aef4b2a7db0f52babd364d40ccba0d9c1a290191fc11f",
+  "slug": "will-xagusd-dip-to-40-in-december-2026"
  },
  "0xdf5ac3a69612cc59c71c77e391674c84941d0e1e7b4dee18ac79b8f6a6baf9cf": {
   "created_at": "2026-10-18T09:00:06.981226Z",

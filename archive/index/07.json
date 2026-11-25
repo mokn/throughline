@@ -144,6 +144,7 @@
   "created_at": "2026-09-18T08:45:16.284893Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "77fa632810a49bf7775b8a2ab80c14b2145aa8845d58e0827ccf84e60e22eece",
@@ -171,6 +172,7 @@
   "created_at": "2026-11-24T15:38:10.602843Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will DjMaRiiO be the next of these streamers to finish GTA VI by December 31, 2026?",
   "revisions": 1,
   "sha256": "c24be42b7b832a46461e37ef3714d790017934b12024f6db395d90809d9d500d",
@@ -253,6 +255,7 @@
   "created_at": "2026-09-01T09:00:14.735836Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -280,6 +283,7 @@
   "created_at": "2026-09-18T09:45:16.999159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Spread: Port Vale FC (-5.5)",
   "revisions": 1,
   "sha256": "7b141a0503e2383f382761006a2266664503681ad2a34297730b8771bbd51cb1",
@@ -404,6 +408,15 @@
   "sha256": "6e407418e46c8cb875fb5897335b3394c0b4bf0645705def74e1b1b25457edf5",
   "slug": "will-houston-comets-win-the-2027-wnba-finals"
  },
+ "0x36bfd56fb28ee0bbf47f4ea2da0f98b18089ffebd8c93f3edd21d131d45ab907": {
+  "created_at": "2026-11-25T05:00:24.516187Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (LOW) $240 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-dip-to-240-in-december-2026"
+ },
  "0x36c0e4db50485a7a235e6b57dcb4f67d2ae011513a8a2870b5e9125e04322c07": {
   "created_at": "2026-09-04T19:06:41.059626Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -518,6 +531,7 @@
   "created_at": "2026-10-18T23:30:11.698965Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: O/U 7.5",
   "revisions": 1,
   "sha256": "b01f3decffd446c415daf8488831a839a2af09d08b594749c348dc0164c7aad2",
@@ -656,6 +670,7 @@
   "created_at": "2026-09-13T08:44:23.530415Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Total Corners Odd or Even?",
   "revisions": 1,
   "sha256": "0d1fa1413fb36a204420a2265b14ead7bf3f84b3146d7957774e6475014afcb5",
@@ -859,6 +874,15 @@
   "revisions": 1,
   "sha256": "711fec18718af09dc760086fdb2091076137381b4b295dc097d64f6bc9dffc73",
   "slug": "el2-wal-cra-2026-10-03-exact-score-1-1"
+ },
+ "0x898d79573d5f1aa12f9f38dc87ef1e5c19b0bb9834dcfcd36b10d3d0c1e0e107": {
+  "created_at": "2026-11-25T14:07:01.774332Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meta have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-meta-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
  },
  "0x8a5ebbd308531a23fc949d709ec3bc7305cb46e4a49ccd65ccb335920eaa5b07": {
   "created_at": "2026-11-12T20:20:19.27574Z",
@@ -1083,6 +1107,15 @@
   "sha256": "2c83490a840325bd6f83a94a096cf328d58b2fea5d9820164ba58f2bb7e582af",
   "slug": "will-kansas-state-wildcats-advance-to-the-2026-big-12-championship-game"
  },
+ "0xa133a8471a31758660a4fd66b1d804f98fc8bb90f9d1352c931128a8184d7607": {
+  "created_at": "2026-11-25T05:00:22.610984Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Alphabet Inc. (GOOGL) hit (HIGH) $310 in December?",
+  "revisions": 1,
+  "sha256": "ea2c5a6dfd7dc460f03eaab54f4978eb7f07f51c9749612a6dbf60a6e2098e14",
+  "slug": "will-googl-reach-310-in-december-2026"
+ },
  "0xa3cf2f907d0935b26aa7500ab1de4b255ad15a27e8a24bf99e04276b9d5b0c07": {
   "created_at": "2026-09-13T08:46:05.882919Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1187,6 +1220,7 @@
   "created_at": "2026-09-20T08:47:21.213367Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Blackpool FC O/U 0.5",
   "revisions": 1,
   "sha256": "40416790d8aad867e86956cdb027e53875de368f2dfe5055f416e378da2770fb",
@@ -1225,6 +1259,7 @@
   "created_at": "2026-08-07T20:30:16.179906Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 IA-03 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "5f4dfac74b2eed837524b31ea291001fa3392bd7c44847a501ab792a0681f4a3",
@@ -1243,6 +1278,7 @@
   "created_at": "2026-08-11T18:49:05.941409Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 RI-01 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "9fd7445b7cfc674365b7a55d522370e20748ae107713f0349b463eed8fc1ebac",
@@ -1361,6 +1397,7 @@
   "created_at": "2026-08-11T17:53:34.319268Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-09 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",

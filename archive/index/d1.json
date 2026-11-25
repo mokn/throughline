@@ -40,6 +40,7 @@
   "created_at": "2026-09-13T09:45:29.841239Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 1st Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "bdc04bb605eca3cd248856356e47b7f5b29e41fe6bac55b70aa1f7007b5f48ac",
@@ -149,6 +150,7 @@
   "created_at": "2026-09-09T15:47:45.193627Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Venezuela host the 2028 Copa America?",
   "revisions": 1,
   "sha256": "b9b86989d5922243c18a1ff9291f492a8f20b346c2a7274b4c5a083a6a0ecf39",
@@ -363,6 +365,15 @@
   "revisions": 1,
   "sha256": "14489cc2c44ee2617afa674b4abcdec2af3340c5e4a892c3eae1e5eedd99f94c",
   "slug": "will-skhy-reach-192-in-november-2026"
+ },
+ "0x2b6a213d7a21e8f7366ed1455b934d03ffddb8e85cfb9ea4b92cb288d22682d1": {
+  "created_at": "2026-11-25T05:01:42.583465Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will MicroStrategy (MSTR) hit (LOW) $20 in December?",
+  "revisions": 1,
+  "sha256": "33e34e125dcb1e785ab4371f373c917e6403e5cf39dfebf1e3a7d4299c6b538c",
+  "slug": "will-mstr-dip-to-20-in-december-2026"
  },
  "0x2bab2a211da1c807df54bc602bba6326237144bcad1bb6f347792cff01a860d1": {
   "created_at": "2026-09-14T20:21:19.639476Z",
@@ -919,6 +930,15 @@
   "sha256": "53cfe7e3de33a9211813f9b147efdcf515f7a3a8b9e3e7dc0728e2b0682e8b7e",
   "slug": "will-the-republican-party-candidate-win-the-2026-in-09-house-election-by-20-25"
  },
+ "0x755a829cbd06e843dba3f331b0f79342cb3c8d17d8d27d31066c03cdc8f790d1": {
+  "created_at": "2026-11-25T05:00:41.59075Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will NVIDIA (NVDA) hit (HIGH) $200 in December?",
+  "revisions": 1,
+  "sha256": "4b387451543e51040db4c7b56f145145aef32d8cf34fc6541309efc9db19d42b",
+  "slug": "will-nvda-reach-200-in-december-2026"
+ },
  "0x7754407565bec06a5756b206116024f349982d712ed251af52dc8d932fcf47d1": {
   "created_at": "2026-08-10T23:56:30.374186Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -992,6 +1012,15 @@
   "sha256": "3844894c4c65893db702dfe928adbe0367a1d62f171242d432b092107adf9375",
   "slug": "west-nile-neuroinvasive-cases-nyc-2026-50-or-more-20260820104404"
  },
+ "0x8183fa4f5139cfa4e8451aa59afb0d7b8f0f4a7469e60866b46766ed153104d1": {
+  "created_at": "2026-11-25T02:33:18.185745Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Applied Digital or any subsidiary default before 2028?",
+  "revisions": 1,
+  "sha256": "8e18e3cd8ec0666c57cc4136c0886e0c09eeda31f544dd062feac8beff38c60e",
+  "slug": "will-applied-digital-or-any-subsidiary-default-before-2028"
+ },
  "0x82b3db070cd76f0aa65c4e31503e939ad4cd3b9b71a05342194f89db98374bd1": {
   "created_at": "2026-08-06T21:37:56.18215Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1046,6 +1075,15 @@
   "revisions": 1,
   "sha256": "233b333eeb9de79162116f15ac3c9477a23b3c89314c4befcf21de4ef9f63cb9",
   "slug": "will-openai-be-acquired-before-2027-859"
+ },
+ "0x88b27951234c0b3b1b03eb3a6bad6a3dcd37b145a53104779b0473012a7e7ad1": {
+  "created_at": "2026-07-20T09:03:41.655686Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 3 - 0 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-3-0"
  },
  "0x890f9b8de730479549e95027f26aad5ce89ecc4a42a6fd6316d0b0aec9a5aad1": {
   "created_at": "2025-12-02T22:40:20.08376Z",
@@ -1409,6 +1447,7 @@
   "created_at": "2026-08-11T17:54:07.091705Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-14 House election by 5% or more?",
   "revisions": 1,
   "sha256": "f874aae0e7386ac84a7ca6125ec17ed282c5aa2477e992f4cc6237c08dd10fae",
@@ -1537,6 +1576,7 @@
   "created_at": "2026-08-11T17:52:13.16609Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-01 House election by 0%-3%?",
   "revisions": 1,
   "sha256": "b12775c2842c7a0e2a1f17ba53eda380aee2a8555e88a0ef7e196995245a10ed",
@@ -1859,6 +1899,7 @@
   "created_at": "2026-11-23T16:32:35.128171Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will DENDELE qualify to the Playoffs at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",

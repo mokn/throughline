@@ -179,6 +179,7 @@
   "created_at": "2026-09-13T09:46:33.257358Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: O/U 3.5",
   "revisions": 1,
   "sha256": "9969468a61d5fc4f82b320700dc9be42270a045e4bd2204cea9dc9ff7a57557e",
@@ -406,6 +407,15 @@
   "revisions": 1,
   "sha256": "1b811de71c5b9320fc03e68b24adb1d5c77462efd9812c10a394e58b7b348637",
   "slug": "will-almirante-brown-be-promoted-to-liga-profesional-argentina-2026"
+ },
+ "0x3a52f9888ec22fe7291cd8516b560da7b9c5f6b342516d2559365fd012f6a200": {
+  "created_at": "2026-07-22T19:55:49.057073Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Livyi Bereh O/U 5.5 Corners",
+  "revisions": 1,
+  "sha256": "674d4f6fb5dfa0b4a83377452e22520503314d64ef290dc225b32fd8364bcfed",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-team-away-5pt5"
  },
  "0x3b02cabaae4bb2b569e53f38789bd0e3aa3ac5cef8b7110398d56f7e6f199c00": {
   "created_at": "2026-09-08T23:35:26.991772Z",
@@ -760,6 +770,7 @@
   "created_at": "2026-08-11T17:52:41.184102Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-03 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "69d8f3c63a25056d3d2e68fd72065bab26f44293183e36f762cf39cbd42540ba",
@@ -979,6 +990,7 @@
   "created_at": "2026-09-01T09:00:15.398987Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "FK Kryvbas Kryvyi Rih to score first vs. FK Kharkiv?",
   "revisions": 1,
   "sha256": "b74cfdec876e70059068e75c87c0f8cac626a00acc99c4f6e8f1d5981c467dd4",
@@ -1129,6 +1141,15 @@
   "revisions": 1,
   "sha256": "aaffcddda56474ee7671fc20bc799596eec7fb24d1ef72fe183c8b14d1fc2dae",
   "slug": "es2-and-rm-2026-11-08-first-half-team-total-away-3pt5"
+ },
+ "0xa76ed2d78ebcee8a917dc029976250a1f52d6f9cd08659f03009280ff6629100": {
+  "created_at": "2026-11-25T05:01:04.602251Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Rocket Lab USA, Inc. (RKLB) hit (HIGH) $68 in December?",
+  "revisions": 1,
+  "sha256": "5c73255eb990f04b00ee2dd19fcb0591bb08cf0c80352e85effddbf286bdeb74",
+  "slug": "will-rklb-reach-68-in-december-2026"
  },
  "0xa7eaa696af2c4356628d13738f6b1c4e3073d14c350d94011ab2b8ffaaebe900": {
   "created_at": "2026-09-14T20:21:40.203048Z",
@@ -1463,6 +1484,7 @@
   "created_at": "2026-09-20T08:47:26.805391Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Blackpool FC vs. Leicester City FC: Leicester City FC 2nd Half O/U 0.5",
   "revisions": 1,
   "sha256": "bf90e2a3fb28d90ff3a8e3a9959635dc1199437b1b5131646159b065057b7530",
@@ -1500,6 +1522,7 @@
   "created_at": "2026-09-13T08:45:25.36898Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Bradford City AFC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "122014a0e1b42ad096c6c2859e7f607d0d7da77a76c3925c76e388128ca18020",
@@ -1617,6 +1640,7 @@
   "created_at": "2026-09-13T08:46:35.320614Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Both Teams to Score in First Half",
   "revisions": 1,
   "sha256": "a2e13702fd3408db75247021d8bb1755551739aee84367087c69c4ffbd430e55",

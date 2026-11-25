@@ -155,6 +155,15 @@
   "sha256": "4b2f4bb80a4ce21d1bab3fb9527d7dec0fc770e6f423b2986414d70ec68cf9af",
   "slug": "nba-2026-27-players-to-average-10-plus-rpg-evan-mobley"
  },
+ "0x1fada045dfdac2ea581f33e8d2b3e817911654772e224758ae9e3102f2f1d222": {
+  "created_at": "2026-11-24T21:00:15.220436Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Central Bank of Chile make no change to the monetary policy rate at the April meeting?",
+  "revisions": 1,
+  "sha256": "babaab7bbc04475be6d5223cbdfe1b9226ca5cba79e2ca5d6f32e7135aaea77e",
+  "slug": "will-the-central-bank-of-chile-make-no-change-to-the-monetary-policy-rate-at-the-april-2027-meeting"
+ },
  "0x20a7e8c2f5b04af3c51ffebcd8c98224117d7458fe9bf7a99c525272157c7622": {
   "created_at": "2026-08-18T14:14:23.792138Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -213,6 +222,7 @@
   "created_at": "2026-09-13T09:16:11.559144Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 1 - 0 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -369,6 +379,7 @@
   "created_at": "2026-09-13T08:16:13.538859Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Bradford City AFC 2 - 1 Barnsley FC?",
   "revisions": 1,
   "sha256": "81a78d7a0d4a6489001d47bb8864b87fa5a6b989d141119ca42e69535696943e",
@@ -471,6 +482,7 @@
   "created_at": "2026-08-04T18:29:22.033785Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 New Mexico Senate election by 3% or more?",
   "revisions": 1,
   "sha256": "98d8a0e31e3806cfbf24113030ca9ac71f76b38df5fa6a26c34636690cc43ca9",
@@ -1466,6 +1478,7 @@
   "created_at": "2026-09-13T09:45:32.028149Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "da3dd66eb0f1b2c951ca1ac6b5df858dba8fa449c6daa57c00d5570905c7d738",
@@ -1575,6 +1588,7 @@
   "created_at": "2026-09-13T09:16:11.789295Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Port Vale FC 2 - 0 Northampton Town FC?",
   "revisions": 1,
   "sha256": "942f99e203ded37443d4b4db30cc6dc4598f42d9a0a8429b41b3fa0859a4099f",
@@ -1618,6 +1632,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-smu-have-more-than-6pt5-wins-during-the-2026-cfb-season-20260810194038804"
  },
+ "0xe7b2363ceba4e827c3ed99aba1a33ab3dcadaafc485405ed5530229672626e22": {
+  "created_at": "2026-11-25T10:55:33.114547Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz be 6+ on January 31?",
+  "revisions": 1,
+  "sha256": "2c75897f8485a7508befd70cdd6589c767ce21c41fc1bfdb151bd6b812dbf40e",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-be-6-on-january-31"
+ },
  "0xee1135dbad5e5e8ab209e6d5f1bd0378d8982aaaae4ede5237d082a4b26ed222": {
   "created_at": "2026-10-13T15:57:24.729852Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1654,6 +1677,15 @@
   "revisions": 1,
   "sha256": "148f9c2e1d0820ec51fd43ce60a59b025fafbc8d6198a3ac104769b2c0a156c5",
   "slug": "will-mistral-be-the-3-ai-lab-at-the-end-of-december-2026-style-control-on"
+ },
+ "0xf1bf3837fa8ceddb0484550c73caf79e0b59ec43c94e6255006ff7dc3bb70a22": {
+  "created_at": "2026-11-25T10:55:49.476111Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Panama Canal be 27+ on January 31?",
+  "revisions": 1,
+  "sha256": "fb9f18b45fcb4507a35ea16a65c85e493240907b82f69e31c6662d397c5ab2c6",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-27-on-january-31"
  },
  "0xf2563fa6f78203bc964aeba12426acc9df0d1482e64c76d16426a17f14393322": {
   "created_at": "2026-08-12T17:16:31.714307Z",
@@ -1705,6 +1737,7 @@
   "created_at": "2026-08-04T18:36:22.217226Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 Rhode Island Senate election by 30% or more?",
   "revisions": 1,
   "sha256": "115fdadb3d59a8617ce5d92e0a152f344a689308bc050ccaef8bd6041baff690",

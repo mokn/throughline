@@ -1,0 +1,9 @@
+This market will resolve according to the number of days in December 2026 during which Claude (claude.ai) experiences any downtime.
+
+Claude will be considered to have experienced downtime on a given day if the Claude Status historical uptime page for the claude.ai component (https://status.claude.com/uptime/) displays that day’s status box as any color other than green once the day’s status box is finalized. Daily status boxes for Claude components other than claude.ai will not impact this market’s resolution.
+
+A day will be considered finalized once the following day’s status box has a display color other than the grey color used for days that have not yet begun.
+
+This market will resolve once the final day of the specified month is finalized. If the final day of the specified month has not been finalized by the end of the 7th calendar date after the specified month (ET), this market will resolve based on the days that have been finalized up to that time.
+
+The primary resolution source for this market will be the Claude Status historical uptime page for the claude.ai component (https://status.claude.com/uptime/).

@@ -90,6 +90,15 @@
   "sha256": "84993f61bf8f2e62eb70ed330357d7f9eca669649da2a1da059fc8be97824330",
   "slug": "will-gleans-valuation-hit-low-5b-by-december-31-20260701011238546"
  },
+ "0x106f71db2bfd42a0a0efe17423d45b7286df0cba028ab3555f0a08726029a10e": {
+  "created_at": "2026-11-25T05:00:11.011938Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (LOW) $480 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-dip-to-480-in-december-2026"
+ },
  "0x126e7616167c979f0cc0418846e66637690735ebf08b9bb1aed7dcb6381e220e": {
   "created_at": "2026-02-04T19:11:20.326526Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -228,6 +237,15 @@
   "revisions": 1,
   "sha256": "fa180281116e9f867f5596d8aee6c32f1e3db0894fe87254cc101a371009fc69",
   "slug": "will-croatia-win-the-uefa-euro-2028-20260720162754444"
+ },
+ "0x26c46f3b6073cbd7d773bae3b66b862ed8e183661c0ff4b456df9b41762d810e": {
+  "created_at": "2026-07-22T19:55:44.466184Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: 2nd Half O/U 3.5 Total Corners",
+  "revisions": 1,
+  "sha256": "4e15091e885fde09eea6c692765cf394bbe678a4bc8236616e7474e9d7e7212a",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-second-half-total-3pt5"
  },
  "0x27534825435d2ac5c1e379ac180c122a677e13a7b4fa148afc25350b5b7d770e": {
   "created_at": "2026-08-12T00:09:32.390842Z",
@@ -406,6 +424,7 @@
   "created_at": "2026-10-18T09:00:28.322113Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 2 - 2 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -521,6 +540,15 @@
   "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
   "slug": "will-falcons-record-3-or-more-aces-at-the-pgl-major-singapore-2026"
  },
+ "0x4c01206a47fbe585afead2234fa0bfb2217bffe875bafd6106668f5075e8c50e": {
+  "created_at": "2026-11-25T05:01:36.999858Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Micron Technology, Inc. (MU) hit (LOW) $240 in December?",
+  "revisions": 1,
+  "sha256": "f911bd04aa9b49f829443a73c3c39c776d51d2a96119dbed1c150bd77c20ce52",
+  "slug": "will-mu-dip-to-240-in-december-2026"
+ },
  "0x4c1a018871e61a9f24201ea263483a889aa1139313c90b8f8178f6ac06b91e0e": {
   "created_at": "2026-09-14T20:21:15.301569Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -566,6 +594,15 @@
   "sha256": "41d72bf9e67967021046dbd840555a2061fdacf8dac2150402d9e9e7371ebc31",
   "slug": "will-openai-have-the-best-ai-model-on-livebench-coding-at-the-end-of-november-2026"
  },
+ "0x51b0eaf9a9f3bf2cad893917fab7f4a10d9a283b92b34994c1436742c0e85c0e": {
+  "created_at": "2026-11-25T14:08:02.155051Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Xiaomi have the best Code Arena | WebDev AI at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "adf1d9a562bf54862bda591ee11fc78aa27ace0cd884c2ee363fd84dfe58d02a",
+  "slug": "will-xiaomi-have-the-best-code-arena-webdev-ai-at-the-end-of-january-2027"
+ },
  "0x5212d398df96497ab48a201f8212eee85cf67a4120a26608c7418d18e1eb8b0e": {
   "created_at": "2026-09-09T15:48:05.922647Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -602,6 +639,15 @@
   "revisions": 1,
   "sha256": "787430f77f352cc33980cd65c93bd7a7b80fad497ee6181eefd03ae56c773076",
   "slug": "will-labour-party-win-the-third-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election"
+ },
+ "0x554f43601cee6437aab54887bd06ddcaa26dbea39257b1e4c11e286cea03b70e": {
+  "created_at": "2026-11-25T00:02:43.587509Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the Fear & Greed Index be between 66 and 75 on January 8?",
+  "revisions": 1,
+  "sha256": "55b1f3ce73bd2ec1d29a3075c10339bf37432e2eeca6da3352804e301b5580cb",
+  "slug": "will-the-fear-greed-index-be-66-75-on-january-8-2027"
  },
  "0x5558880287ca64d43afa9d5baa9161ca09cb2b3eca9700922f9a6c91590e530e": {
   "created_at": "2026-09-02T21:56:00.552164Z",
@@ -1010,6 +1056,7 @@
   "created_at": "2026-09-20T08:45:15.952409Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Bromley FC 2nd Half O/U 2.5",
   "revisions": 1,
   "sha256": "e27b34d0ddf3b353d0d2b1f7c95ed6887461ce6ef5deb161ef9bc4c9f9dcdb97",
@@ -1197,6 +1244,15 @@
   "sha256": "977587c423692b8672be94ec1e339594d30c48be070f62e39db3e712fe746f66",
   "slug": "por-est-csm-2026-11-08-exact-score-4-4"
  },
+ "0xaddc6315759e8b7a8a58313d84dc880039511419cbf8151a4edfd24048ec210e": {
+  "created_at": "2026-11-25T05:01:11.541389Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Airbnb, Inc. (ABNB) hit (HIGH) $188 in December?",
+  "revisions": 1,
+  "sha256": "beb79b276d372d0ce53ebcea77350b752d5226cf44c32cb1db47923de4dc9bb1",
+  "slug": "will-abnb-reach-188-in-december-2026"
+ },
  "0xaec77a3d4b7107217bc3e268f3af671ddc419ff123212cdeb89f7fe8a94c300e": {
   "created_at": "2026-09-27T20:02:24.495878Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1307,6 +1363,15 @@
   "revisions": 1,
   "sha256": "64b0530d7f6eeca6feae06d18ecab60ffe75143263392437e0e70a1b64124c8c",
   "slug": "will-timo-meier-record-50-goals-in-the-2026-27-regular-season"
+ },
+ "0xbb06a62296190025fe30081ec77b53d270790e7e86575127b67bc5059b7c570e": {
+  "created_at": "2026-07-20T09:03:41.491281Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Exact Score: FK Dynamo Kyiv 2 - 0 FK Livyi Bereh?",
+  "revisions": 1,
+  "sha256": "cca76ff43a6c0983c651d7c6205507053933e96fc9b1a3c7ab82510d6fc980f7",
+  "slug": "ukr1-dyn-liv-2026-08-02-exact-score-2-0"
  },
  "0xbb379a14cd03f68c35c279ddbd928a6326f4fd2e21827f8cdaaf59715d6df50e": {
   "created_at": "2026-02-06T15:44:31.518528Z",
@@ -1502,6 +1567,7 @@
   "created_at": "2026-09-13T08:45:29.292492Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Total Corners Odd or Even?",
   "revisions": 1,
   "sha256": "5a06080228383615472d4f2fb8a6d287d29994f37e023071785a34b85806fc67",

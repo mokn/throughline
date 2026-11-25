@@ -86,6 +86,7 @@
   "created_at": "2026-09-13T08:46:37.089133Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: Stevenage FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "44d34849632c4bfcae754a07f5606839d8e03eabfd784325bd9738942659776d",
@@ -266,6 +267,15 @@
   "sha256": "9c958e7ce2e81d39efc976780db7c6773683e53938ab977f547f3d12f4c659e2",
   "slug": "will-amanda-seyfried-win-best-supporting-actress-at-the-99th-academy-awards-20260805190945896"
  },
+ "0x276f9c9cca093d0c3085f516098ee5208e097d92a1e1d3e274aed442d39054e4": {
+  "created_at": "2026-11-25T05:00:16.340736Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Amazon.com, Inc. (AMZN) hit (HIGH) $296 in December?",
+  "revisions": 1,
+  "sha256": "d87d0e44a15c1fb55c3211b60cf0051d4fa5979e67823b904e87565328c2eaf0",
+  "slug": "will-amzn-reach-296-in-december-2026"
+ },
  "0x27fffe9a2a5153c0a931e89890118ebaf6a3b9d46ca50b89ccec48f475cbe7e4": {
   "created_at": "2026-09-08T16:53:59.789165Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -372,6 +382,7 @@
   "created_at": "2026-09-20T08:45:12.686444Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC O/U 1.5",
   "revisions": 1,
   "sha256": "6d2efc5b08f4075a9260013d424e8203ec37817dcc91b7899d7f58acce1396ca",
@@ -589,6 +600,7 @@
   "created_at": "2026-10-18T09:00:27.784692Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Rangers FC 2 - 0 Aberdeen FC?",
   "revisions": 1,
   "sha256": "49518e5eb2b2b64a43a84f44294200e021249fe4e63ad53d8a582f840880e474",
@@ -878,6 +890,15 @@
   "revisions": 1,
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-karl-anthony-towns"
+ },
+ "0x8db86e033dd8dcb8474e668ae6cf3376b2dc7cc0751ece17a5ab1562ed9138e4": {
+  "created_at": "2026-07-22T19:55:46.966673Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Dynamo Kyiv O/U 4.5 Corners",
+  "revisions": 1,
+  "sha256": "b8b1b44e70a54cd63806919e1fe01e04b26131eacf6a97d91363d7c3ad8e6ace",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-team-home-4pt5"
  },
  "0x9024aec60885ab735876cb9619b0b8f3e3ac5fa1cc2a0de84437afb2ad8809e4": {
   "created_at": "2026-08-11T19:03:47.642154Z",

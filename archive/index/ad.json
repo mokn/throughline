@@ -510,6 +510,7 @@
   "created_at": "2026-08-07T20:30:38.162829Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 IA-04 House election by 30%-35%?",
   "revisions": 1,
   "sha256": "3fc8f46216c8044f7d1f899aa3a912475e872c7fef56b3d4de99e00bd46e54dd",
@@ -532,6 +533,15 @@
   "revisions": 1,
   "sha256": "23a2a22d6311394a8b987c636e9ffa1b14b2f3abbb9896c575cb6f774670c75a",
   "slug": "270-274-votes-for-hakeem-jeffries-to-be-speaker-on-first-ballot"
+ },
+ "0x4531511f6a88bb0c8f9cb3ec954fef2d3b7e8ce3e87a93aced94621baa89dead": {
+  "created_at": "2026-11-25T05:01:46.776022Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (HIGH) $126 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-reach-126-in-december-2026"
  },
  "0x454154b98ed0e7490f9996b0128eae65cdb766a4b3d356f036e02d0c36715fad": {
   "created_at": "2026-11-13T00:29:13.881937Z",
@@ -648,6 +658,7 @@
   "created_at": "2026-09-13T08:15:01.131407Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Stevenage FC win on 2026-09-26?",
   "revisions": 1,
   "sha256": "c55cedaf1fe57545e1abea1d1855dfda94b922b48ee677ebfaeb4bbb21a1a6e2",
@@ -692,6 +703,15 @@
   "sha256": "00d1f3f498c1f4380bad5e88c67c74b5fd696835795a4062ca127de0cbcf01e3",
   "slug": "el1-not-bla-2026-09-26-corners-team-home-3pt5"
  },
+ "0x5d938c956fccaba75d3bc4e2a0d9d5c6b99e82cd8e51459eab95afc0322ffcad": {
+  "created_at": "2026-11-24T22:21:30.095652Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Next Z.ai GLM (5.5+) released by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "744d5621311147ef26926dc1aee8340e4ce325b5d57103333ceee4dd0334a6c4",
+  "slug": "next-zptai-glm-5pt5-released-by-january-31-2027"
+ },
  "0x5ef7925e11203ebd524e69e6f7752a1ef26ed73d0237e38c2d7b66cb59ee02ad": {
   "created_at": "2026-08-05T16:23:28.657552Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -723,6 +743,7 @@
   "created_at": "2026-08-11T17:53:58.527578Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-13 House election by 25% or more?",
   "revisions": 1,
   "sha256": "4ce80f7325d5fa7a64ffab64eaca64c42a7317250ee50686131ec7ae73207c87",
@@ -1221,6 +1242,7 @@
   "created_at": "2026-08-11T17:53:46.165047Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-11 House election by 6%-9%?",
   "revisions": 1,
   "sha256": "8084705a0cb67f1d16096007b40285d108439e387a695c4dd67ead5b44a04e25",
@@ -1461,6 +1483,7 @@
   "created_at": "2026-08-07T20:29:17.260735Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 HI-02 House election by 50% or more?",
   "revisions": 1,
   "sha256": "90b899b3b3bb531a6c99490ff6b3abe35c161029d5eda4068dd6b190e9e95cb3",
@@ -1713,6 +1736,15 @@
   "revisions": 1,
   "sha256": "474df0f7ed1916e4121d1fc9365d84a2cf5eef49b4e7342c52d7a2c815c621ce",
   "slug": "will-mu-dip-to-480-in-november-2026"
+ },
+ "0xfe18dcba5d1892c3e2a7b701d41ed92d092642bcebe41b927f27f6015e7285ad": {
+  "created_at": "2026-11-24T19:25:50.846437Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Anubis be the most played map at PGL Major Singapore 2026?",
+  "revisions": 1,
+  "sha256": "c2266c7e117c3ca742fde840b8ff3e8e81a7937af863e53b6a88edf7d1cc855a",
+  "slug": "will-anubis-be-the-most-played-map-at-pgl-major-singapore-2026"
  },
  "0xfea31486bffd3767fa8461735b4287c7b4c3a72f288fb3da86e574454b897fad": {
   "created_at": "2026-08-10T15:43:10.834713Z",

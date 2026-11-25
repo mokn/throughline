@@ -13,6 +13,7 @@
   "created_at": "2026-09-13T08:45:25.915596Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Stevenage FC vs. Sheffield Wednesday FC: 1st Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "4458e6377658a89feb51baed3451a2c216484c7636939c1b460d49226de6310f",
@@ -310,6 +311,15 @@
   "sha256": "095956ddf8c5da2f78397d7eb3f0173d9970934b3218444d263be9be3a797462",
   "slug": "will-chica-305-john-summit-and-feid-win-best-dance-electronic-recording-at-the-69th-annual-grammy-awards-20261109"
  },
+ "0x37688b45cec9db48277e1cd4509868d79eedbe938049b9520b5b6ce3a296bd5b": {
+  "created_at": "2026-11-25T10:55:28.83274Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Strait of Hormuz reach 10+ by January 31?",
+  "revisions": 1,
+  "sha256": "41f60363a44d9f0e789df4f22e565e502ebb0d6a43c07766dbd1b28e0bf487eb",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-strait-of-hormuz-reach-10-by-january-31"
+ },
  "0x38b503e586f4eeaadf2e44e45bfcb6b1e1a4d50c08069d10642e12620dd0ef5b": {
   "created_at": "2026-01-28T15:29:18.688536Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -552,6 +562,7 @@
   "created_at": "2026-09-13T09:45:22.932537Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: O/U 5.5",
   "revisions": 1,
   "sha256": "70175a4903fcbb158d58e78ea1d46a3397662a854e293aa5edcffedc07f4dcd7",
@@ -634,6 +645,7 @@
   "created_at": "2026-04-23T13:42:24.68888Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Giada De Laurentiis win Dancing With the Stars: Season 35?",
   "revisions": 1,
   "sha256": "f411786b1fea719b27401919375cf4ea0801def00f009f2f9ae64d4927410348",
@@ -781,6 +793,7 @@
   "created_at": "2026-09-13T09:44:20.259627Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Port Vale FC vs. Northampton Town FC: Total Corners Odd or Even?",
   "revisions": 1,
   "sha256": "6b2a08946575ed49b51775786fc147883615d15301c92cc2b5198e71ff92ea8b",
@@ -817,6 +830,7 @@
   "created_at": "2026-08-18T14:19:42.155664Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Iowa be between 1,250,000 and 1,300,000?",
   "revisions": 1,
   "sha256": "c8c222344af4dfa899eb3444c02e6795718d1d2cb692f90b0dac1e98387ff2fd",
@@ -1138,6 +1152,15 @@
   "sha256": "3aa5fced27bdcbebb40ca133fe34d3f87f9d0a8c42323d3bee9884ecf95deb5e",
   "slug": "will-the-montreal-canadiens-make-the-2026-27-nhl-playoffs"
  },
+ "0xaceed599b9f48664f4ed45f79fae7ce82c0ca4c9d0e0f7fc0147a133fb23965b": {
+  "created_at": "2026-07-21T06:00:09.539792Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 4.5",
+  "revisions": 1,
+  "sha256": "cc36c4c7e40140cc554664d0f3c0b265c2fe081675ac486d04682d5d92912665",
+  "slug": "ukr1-dyn-liv-2026-08-02-total-4pt5"
+ },
  "0xad79bc935f4aa89d42f7fb27803b44e2eb9a13e2c93926d14833cae23478d05b": {
   "created_at": "2026-08-26T21:46:44.028781Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1182,6 +1205,15 @@
   "revisions": 1,
   "sha256": "035944bc70b1bb0d50ae775897c1eaf0905dfb8eb36d0432c7a3d1c558e37b6c",
   "slug": "will-armenia-come-in-3rd-place-at-eurovision-2027"
+ },
+ "0xb0004e19d95e842d3f5e5b15b72c662983ff45fa4a89f5c00c9d17aee85f485b": {
+  "created_at": "2026-11-25T05:00:08.146318Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (HIGH) $585 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-reach-585-in-december-2026"
  },
  "0xb031f5315f69a93cf6fe85f2d1a1d88d88afd24c86a2ad5c08fe619874f3b45b": {
   "created_at": "2026-03-27T21:26:06.923559Z",
@@ -1670,6 +1702,7 @@
   "created_at": "2026-09-18T09:46:19.533572Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "a964bf27b47359bf509b29d7b6b2bf27198f48a8c31a3870333b5d3f5ef5a0ba",

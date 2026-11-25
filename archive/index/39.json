@@ -82,6 +82,15 @@
   "sha256": "de20540a8f61fcb9b5ef7a2ed1a0cbdb75ef623c12ef50f71d3b42020dfa35d1",
   "slug": "will-israel-be-promoted-to-nations-league-a-in-2026-27"
  },
+ "0x0868fe43b96a4180a18487e89e0ef9537741f207cdde7b6bc781577918a28c39": {
+  "created_at": "2026-11-25T14:08:13.052856Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Meituan be the best AI lab on January 15, 2027?",
+  "revisions": 1,
+  "sha256": "789254a2ada8d649d1a071daba5be27647be486e8cb546f758f324d708f4ec2b",
+  "slug": "will-meituan-be-the-best-ai-lab-on-january-15-2027"
+ },
  "0x08764a8709f6d3df71111769a0d7f01df7fc954a2542460dd0f0e9509d5b7239": {
   "created_at": "2026-10-28T02:38:45.973487Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -484,6 +493,15 @@
   "sha256": "aa3b4b725555f57fa57a2c7520a4c07497c41dc82829bc94a17d380fd4a4761d",
   "slug": "will-another-team-finish-the-2026-27-liga-mx-season-with-the-best-combined-goal-differential-20260722172229860"
  },
+ "0x45f4e84ea3388a0c5d923ced65ab1a4b2e4efa71605f126db20e48bcffa4cd39": {
+  "created_at": "2026-11-25T05:00:54.952258Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Palantir Technologies Inc. (PLTR) hit (HIGH) $162 in December?",
+  "revisions": 1,
+  "sha256": "d127c8dda6c90db9ec3193c20aa3cdf91a57fe41e4e59dfda56bf1257a38a401",
+  "slug": "will-pltr-reach-162-in-december-2026"
+ },
  "0x480f132a5f47bcc32ec8642cb25f773a486954947d77d23aea328daf24cd6c39": {
   "created_at": "2026-09-09T19:44:35.365247Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -878,6 +896,7 @@
   "created_at": "2026-09-18T09:46:21.416471Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Crawley Town FC vs. Barnet FC: Barnet FC 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "6723b89f188bcd38bdcc2368da27c4ca34d4902ac0c8262885347397627fdfad",
@@ -1140,10 +1159,20 @@
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-jalen-johnson"
  },
+ "0xaf225c7e65e46adebd13d873e17454f2ee8a715c9a8a8513745e9104a857eb39": {
+  "created_at": "2026-11-25T05:00:10.520012Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Microsoft Corporation (MSFT) hit (HIGH) $510 in December?",
+  "revisions": 1,
+  "sha256": "4684b6ba8c911c980f6560e908c94fd61060bfab94aac976311a2565feef2cc3",
+  "slug": "will-msft-reach-510-in-december-2026"
+ },
  "0xafe1e1bc7c9cbc51c3de5d552fa2bd2e259cba2a0810e9b5fc4a63d0306bbd39": {
   "created_at": "2026-08-04T18:09:31.207983Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 Iowa Senate election by 9%-12%?",
   "revisions": 1,
   "sha256": "0ab5cdbb11451c9b59493acb05bec3489ad6e575e97f390e3fbb71a9b708ce7b",
@@ -1552,6 +1581,15 @@
   "revisions": 1,
   "sha256": "7731dabeae4415221a50ecd7f40b08ac87faf603211c4ed9326820445f28d021",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-10-house-election-by-30-or-more"
+ },
+ "0xf47a6c5a857d341ebad57667aa8d864d03d51237c918521010aa9d2eff7cfb39": {
+  "created_at": "2026-07-21T06:00:08.699107Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Spread: FK Livyi Bereh (-2.5)",
+  "revisions": 1,
+  "sha256": "b1b0e592d8cf002e9fbddcb1f93e47f3706b1162746cd0f6908b090ad4d7cf85",
+  "slug": "ukr1-dyn-liv-2026-08-02-spread-away-2pt5"
  },
  "0xf49f2688ae99ebff00d2f303080428ad49100c9217f5fb2bc605c9e969f76839": {
   "created_at": "2026-08-24T16:39:14.159577Z",

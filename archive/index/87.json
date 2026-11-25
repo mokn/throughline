@@ -177,6 +177,7 @@
   "created_at": "2026-09-20T08:44:16.651295Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: Wycombe Wanderers FC O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "a5aa1e0d61095b123e11eed75efc80ee0cc94cadc008d36e4b00bcba7e9197fd",
@@ -411,6 +412,15 @@
   "revisions": 1,
   "sha256": "718e292e11aeef06462f7d1a4eea8797e1bd87a42edd447b83284bb27b6e4654",
   "slug": "2027-soccer-ligue-1-runner-up-paris-saint-germain"
+ },
+ "0x49bb8fb4c056efadd56d77c33f4038039c2c62d8974a672878fae504ac2b2887": {
+  "created_at": "2026-11-24T22:00:22.744574Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will an open-source model be ranked #1 on Arena by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "1f85f32342be219c25c7613bb57ad759d61d2f577bea16cd500931bb9d904db4",
+  "slug": "open-source-model-ranked-1-on-arena-by-march-31-2027"
  },
  "0x49e0660b4b603a7dfb7ba42921c798c35778e8b519012b32e1441c9141c37c87": {
   "created_at": "2026-04-24T21:35:39.865956Z",
@@ -835,6 +845,15 @@
   "sha256": "f7c274bfb6b5de3108e1b069753ab050650be1e1fbe658696cbb2d3d6a549e26",
   "slug": "will-jablonec-qualify-for-the-2027-28-uefa-champions-league"
  },
+ "0x8e26fe9e1f485822b6f8ea57dcd5a07e55e22c508723c4689a23b5bd375beb87": {
+  "created_at": "2026-07-21T06:00:14.176585Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: FK Dynamo Kyiv 2nd Half O/U 0.5",
+  "revisions": 1,
+  "sha256": "70009484ea6c0f2c77f89208ac0276d06626dc88005d8f2d28168c4ad974dfdc",
+  "slug": "ukr1-dyn-liv-2026-08-02-second-half-team-total-home-0pt5"
+ },
  "0x8ebc02771e5b595d862ceedcf9d65727962c9faa29a0d3319d0306adff4c8387": {
   "created_at": "2026-10-22T17:47:00.461066Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -848,6 +867,7 @@
   "created_at": "2026-09-01T09:00:14.067795Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: FK Kryvbas Kryvyi Rih 1 - 1 FK Kharkiv?",
   "revisions": 1,
   "sha256": "ab45a142291580ba28eb2165aca9d7817851b86282cfd462168e6721e0976593",
@@ -1308,6 +1328,7 @@
   "created_at": "2026-09-13T09:15:02.135182Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Crawley Town FC win on 2026-09-26?",
   "revisions": 1,
   "sha256": "e8f3648a142c0ba2d61bc8290c8362f3536a1fe886af39839eec9eb92a1e7f1a",

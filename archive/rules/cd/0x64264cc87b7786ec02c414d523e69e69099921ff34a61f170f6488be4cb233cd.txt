@@ -1,0 +1,13 @@
+This market will resolve to “Yes” if NVIDIA or its authorized distributors resume shipping any Qualifying Chip to customers in mainland China or Hong Kong between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+Qualifying Chips are NVIDIA's Hopper (H100, H200, H800, H20, GH200), Blackwell (B200, B300, GB200, GB300, and China-specific Blackwell variants), and Vera Rubin (including Rubin Ultra) data center GPUs, and any future NVIDIA GPU designed primarily for use in data centers. Gaming, consumer, and workstation GPUs do not qualify. China-specific Blackwell variants marketed under NVIDIA’s RTX PRO brand, such as the RTX PRO 6000D/B40, do not qualify.
+
+A resumption requires at least one shipment of a Qualifying Chip by NVIDIA or one of its distributors to a customer in mainland China or Hong Kong after market creation and before the specified date. Export license approvals, import approvals, orders, contracts, announced plans, or chips awaiting customs clearance will not alone qualify; Qualifying Chips must have been delivered to or shipped to the customer.
+
+The delivery of shipments already in Hong-Kong as of market creation, to mainland China, will not qualify.
+
+The re-sale of Nvidia chips by entities not authorized by Nvidia will not qualify.
+
+A qualifying resumption must be confirmed by the specified date, 11:59 PM ET.
+
+The resolution source for this market will be official information from NVIDIA (including SEC filings, earnings calls, and press releases); however, a consensus of credible reporting will also be used.

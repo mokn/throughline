@@ -354,6 +354,7 @@
   "created_at": "2026-08-18T14:19:42.548809Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will total votes cast in the 2026 midterm election for Senator from Iowa be between 1,400,000 and 1,450,000?",
   "revisions": 1,
   "sha256": "c8c222344af4dfa899eb3444c02e6795718d1d2cb692f90b0dac1e98387ff2fd",
@@ -659,6 +660,7 @@
   "created_at": "2026-09-13T09:15:39.436299Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Exact Score: Crawley Town FC 1 - 1 Barnet FC?",
   "revisions": 1,
   "sha256": "177d18925e69b8cb3de07a73453106fb17cbb09512bf593369931dfd22e523f8",
@@ -763,6 +765,15 @@
   "revisions": 1,
   "sha256": "f3d1ef290f9a56e5a3b507157041da24e80a0c11d5fa0ce68027e4fe81c72fa8",
   "slug": "will-the-republican-party-candidate-win-the-2026-fl-09-house-election-by-25-30"
+ },
+ "0x71026595f68fc3843a70a1d11c1962f34a7133aa52efaed3b79b0649cef35884": {
+  "created_at": "2026-11-25T10:55:50.435051Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will the 7-day average ship traffic through the Panama Canal be 29+ on January 31?",
+  "revisions": 1,
+  "sha256": "fb9f18b45fcb4507a35ea16a65c85e493240907b82f69e31c6662d397c5ab2c6",
+  "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-29-on-january-31"
  },
  "0x73e0a83f934a95931a53b013a9f59430fe049b9116e9edc3f20270de25fd9884": {
   "created_at": "2026-08-28T20:17:48.014736Z",
@@ -1254,6 +1265,15 @@
   "sha256": "937b238cba4daad79a636e5b3465160a6803cb3f0d9003c13708cf39b8926fdd",
   "slug": "will-democrats-win-the-texas-and-maine-senate-seats-and-republicans-win-michigan"
  },
+ "0xb66229506945cc7aa26403284cd4e26b72f885c634abf00db8999013f9096d84": {
+  "created_at": "2026-07-22T19:55:42.242327Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: O/U 11.5 Total Corners",
+  "revisions": 1,
+  "sha256": "e6ee0fd5e798439e56e3611e1036376024d7b80f4456f3d37052e252435f163c",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-total-11pt5"
+ },
  "0xb886a1f91291f734bb97c150e8085787474cc06a53bc35300acccf9f3e726284": {
   "created_at": "2026-08-24T16:34:25.526844Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1496,6 +1516,7 @@
   "created_at": "2026-08-11T17:53:54.758075Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Democratic Party candidate win the 2026 NC-12 House election by 25%-35%?",
   "revisions": 1,
   "sha256": "82955b5c1f697f47d19801d3b17f36cfd57677aca95378ce87bb6630f6b6c4fa",
@@ -1568,6 +1589,7 @@
   "created_at": "2026-09-13T08:45:24.941895Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bradford City AFC vs. Barnsley FC: Barnsley FC O/U 2.5",
   "revisions": 1,
   "sha256": "4776a8bc53723fe424696f7b619226f6de526645a013a8156af5d22f94c8e1b1",

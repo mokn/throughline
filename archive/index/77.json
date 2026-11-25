@@ -135,6 +135,15 @@
   "sha256": "3c85c293bbaf9652dfe7859b6595fa8fcbec422e4ac6d5c76af7a37b1b11989b",
   "slug": "spl-riy-hil-2026-10-16-spread-home-3pt5"
  },
+ "0x0f22c6f1903602664fb40cc959a3125b3d4a889ac7fdab02cf33b87033b87e77": {
+  "created_at": "2026-11-25T13:18:45.521162Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Mark Rutte by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-mark-rutte-by-december-31-2026"
+ },
  "0x0f3bb45dc0f47d91a633d1fbd6775afcbb7809e1651e448c035d344c24dc3677": {
   "created_at": "2026-08-12T17:30:14.060901Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -227,6 +236,15 @@
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-marco-rubio-win-the-2028-us-presidential-election"
  },
+ "0x22b087523ac13e3ef6401eef23334a5c150b131e71b43bf50cf3051b27692f77": {
+  "created_at": "2026-11-25T05:01:46.071924Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SK hynix (SKHY) hit (HIGH) $144 in December?",
+  "revisions": 1,
+  "sha256": "47dca323a45b579b4a1b1355e8d467db19d2b086f6891165b055f4c49a590291",
+  "slug": "will-skhy-reach-144-in-december-2026"
+ },
  "0x231786227352e02f5d7506680ee41422e136f7b0843db1820146e08121838077": {
   "created_at": "2026-08-10T08:19:06.090932Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -303,6 +321,7 @@
   "created_at": "2026-08-11T17:53:01.179234Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-04 House election?",
   "revisions": 1,
   "sha256": "b4b221e99a5852b252d7b0b668599bcd7d6def4b35218525b46e5b7ee696c037",
@@ -901,6 +920,7 @@
   "created_at": "2026-08-11T17:53:40.671006Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will the Republican Party candidate win the 2026 NC-10 House election by 5%-10%?",
   "revisions": 1,
   "sha256": "e89892fd7e186999eb1d7bf464b5e87dddd8f11457b5b84cab48976fb8428ce4",
@@ -989,6 +1009,15 @@
   "sha256": "21268d5d05ea261a7e1b7d42706f2aa87e4fd3ce2de5efda81fc2ea3f2b59783",
   "slug": "nvda-above-260-on-november-30-2026"
  },
+ "0x89f6f77d289c6b7287c244cd77938d4c1ae83372dc054724f95851821f8a1777": {
+  "created_at": "2026-11-25T14:07:40.467415Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will SpaceXAI have the best AI model on LiveBench (Coding) at the end of January 2027?",
+  "revisions": 1,
+  "sha256": "fb623f690a62e22f11add7ba7939de264baa2e53a54d81a777830f7342667607",
+  "slug": "will-spacexai-have-the-best-ai-model-on-livebench-coding-at-the-end-of-january-2027"
+ },
  "0x8b4a1cbdf1a706c0bc8b804c0c53d0c9735ba121a3918f54a8ffbc5f5916e277": {
   "created_at": "2026-11-23T16:51:02.749212Z",
   "first_seen": "2026-11-23T18:08:26Z",
@@ -1029,6 +1058,7 @@
   "created_at": "2026-09-09T15:17:47.094443Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Will Feyenoord finish first in UCL league phase?",
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
@@ -1251,6 +1281,15 @@
   "revisions": 1,
   "sha256": "c34eb788af87a70ded0c29d7abd1e27211b9ab379c53f941d517f47326b9fdf5",
   "slug": "will-can-t-sit-still-lainey-wilson-win-best-country-solo-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0xab2d2f6056254d108bd131e1ecd176fabd611a2245631aa56f8c31870481af77": {
+  "created_at": "2026-11-25T13:18:50.855346Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Trump speak to Pope Leo XIV by December 31?",
+  "revisions": 1,
+  "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
+  "slug": "will-trump-speak-to-pope-leo-xiv-by-december-31-2026"
  },
  "0xaec9d106dc03b2ee5ba5fabdcb807dc034be465ae6c16bbc9a01cb9856f67a77": {
   "created_at": "2026-08-10T15:45:35.836031Z",
@@ -1636,6 +1675,15 @@
   "revisions": 1,
   "sha256": "91ba4bf35322e32b321f586e7ce093f1d35cff2362385debb056b8b35a5331a4",
   "slug": "will-italy-host-the-2027-uefa-nations-league-finals"
+ },
+ "0xdc3a73b7483b3a350c2b19b21d09ae8c80a237fbe2432fa5fc10a52a70ed7577": {
+  "created_at": "2026-11-24T23:59:59.275965Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will an open-source model be ranked #1 on Arena by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "1f85f32342be219c25c7613bb57ad759d61d2f577bea16cd500931bb9d904db4",
+  "slug": "open-source-model-ranked-1-on-arena-by-december-31-2026"
  },
  "0xdeda8623e295d261254e23d48b8855b9b580e16108feeb7f15704b81e1011f77": {
   "created_at": "2026-10-14T13:19:33.057825Z",

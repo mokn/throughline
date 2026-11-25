@@ -1,0 +1,7 @@
+This market will resolve to “Yes” if any of the following compute providers makes NVIDIA Vera Rubin GPUs rentable on-demand between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+The relevant compute providers are: Amazon Web Services, Microsoft Azure, Google Cloud, Oracle Cloud Infrastructure, CoreWeave, Nebius, Lambda, Crusoe, and Together AI.
+
+A provider makes Vera Rubin GPUs rentable on-demand if it publicly lists a specific on-demand hourly price for Vera Rubin GPUs (including Rubin Ultra) on its website or pricing page, and members of the public can rent them at that price through the provider's website, self-service console, or API. Standard account verification and quota limits do not prevent an offering from qualifying. Listings showing “contact sales”, a quote request, or no price will not count. Prices for reservations, capacity blocks, committed-use agreements, or offerings available only in preview, early access, or to selected customers will not count. A price announced with a later start date qualifies only once customers can rent at that price.
+
+The resolution source for this market will be official information from the listed providers, including their pricing pages and product documentation; however, a consensus of credible reporting will also be used.

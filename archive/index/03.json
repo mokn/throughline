@@ -866,6 +866,7 @@
   "created_at": "2026-10-18T23:30:15.580072Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Rangers FC vs. Aberdeen FC: Rangers FC 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "69dd400d1cd875a48d6907b1c722128ea4f142ba408a11c332e2c22d86bcab1f",
@@ -1095,6 +1096,7 @@
   "created_at": "2026-09-20T08:44:09.761252Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-25T17:14:03Z",
   "question": "Bromley FC vs. Wycombe Wanderers FC: O/U 10.5 Total Corners",
   "revisions": 1,
   "sha256": "f15cb705d313176b8f209b1f259b807a62fe8ad60f29c4c15ffd701d71975208",
@@ -1275,6 +1277,15 @@
   "revisions": 1,
   "sha256": "662d7bf1c0e3994252201e902c3f9f369267a8e863b260fb3ae9aacf2d248597",
   "slug": "f1-qatar-grand-prix-driver-fastest-lap-colapinto-2026-11-29"
+ },
+ "0xc709c7957b5bf4a5670381be821eea83a871b6d48c3481674bdebb0400325d03": {
+  "created_at": "2026-11-25T05:00:35.045747Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "Will Tesla, Inc. (TSLA) hit (HIGH) $480 in December?",
+  "revisions": 1,
+  "sha256": "6ce1712027598d432cef08acea8ae93a1123d96e6955d7ecd603a17c5e93877a",
+  "slug": "will-tsla-reach-480-in-december-2026"
  },
  "0xca1e9c38ae9098b219fa9cf2ce39851c18938ce216a8c50a4c7b68029c570803": {
   "created_at": "2026-08-06T21:37:15.655224Z",
@@ -1630,6 +1641,15 @@
   "revisions": 1,
   "sha256": "de88a60b19ce31d141aab26b385fe06bf50e51181824d28f3c7d70e839146104",
   "slug": "will-behemoth-win-best-original-score-motion-picture-at-the-84th-golden-globes"
+ },
+ "0xfd944e95502632c49f02fb100bd5f3e55d5ef6f2005abfd91d53b787e32d6403": {
+  "created_at": "2026-07-22T19:55:44.148476Z",
+  "first_seen": "2026-11-25T17:14:03Z",
+  "last_changed": "2026-11-25T17:14:03Z",
+  "question": "FK Dynamo Kyiv vs. FK Livyi Bereh: 1st Half O/U 5.5 Total Corners",
+  "revisions": 1,
+  "sha256": "449e6dd33681f734e20e7ccf00aa73a0e8b3aae866ad7245c0162908f529e172",
+  "slug": "ukr1-dyn-liv-2026-08-02-corners-first-half-total-5pt5"
  },
  "0xfddee6654d03f7087ab53864dfc8920d491a385d6cb839d60f9722f2198e8c03": {
   "created_at": "2026-08-17T21:27:17.154428Z",
