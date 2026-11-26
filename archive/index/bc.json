@@ -376,6 +376,15 @@
   "sha256": "40c79369f54fb1a8a493d0324ef0cde7b9d71242ccb7c85102346b9f3bde1ec2",
   "slug": "will-republicans-win-the-minnesota-governor-election-and-democrats-win-the-minnesota-senate-election"
  },
+ "0x48e383eff491dbb53344dca64475ce6a5aeb1b327195c1d62d03eb0dbd26a7bc": {
+  "created_at": "2026-11-25T21:15:28.094409Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the San Francisco 49ers by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-san-francisco-49ers-by-january-11-2027"
+ },
  "0x497f96b05b017be1a57c082cd2541e01bfc1659f92a06aeeb8ad68068f4fcbbc": {
   "created_at": "2026-10-29T20:53:13.63117Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -770,6 +779,15 @@
   "revisions": 1,
   "sha256": "18c425994c6fcaf862c271f1828d8137c6f497258bef9247cebf1735ea903188",
   "slug": "nba-2026-27-apg-leader-derrick-white"
+ },
+ "0x7f05bc3f37c036c234a15c450f11fe1a6d6e949c876cedfa4ce7233bdff144bc": {
+  "created_at": "2026-11-25T21:15:08.81321Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Green Bay Packers by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-green-bay-packers-by-january-11-2027"
  },
  "0x805f3b8c13f9f94dc122450c6c437fd8f1d7847476422b0a63e948a637aa0abc": {
   "created_at": "2026-11-23T22:39:54.425266Z",
@@ -1175,6 +1193,7 @@
   "created_at": "2026-10-25T10:45:16.283743Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Spread: CSD Municipal (-4.5)",
   "revisions": 1,
   "sha256": "bb39332df727980271dda0dab1440d0469259a31cc22af71a3e17a73fff75709",
@@ -1327,6 +1346,15 @@
   "revisions": 1,
   "sha256": "45ec7c4f18a75592e2e7a46b78aa7ad1b8c8cc0aedb5ef107367b641903133e1",
   "slug": "will-lionel-messi-score-18-goals-during-the-2027-mls-sprint-season-window"
+ },
+ "0xc7eff5cb63af3d5aef7bad56a628b0c200c1fc58b252cb168becb088c2f951bc": {
+  "created_at": "2026-11-25T23:31:08.849559Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI sell at least 10% of its shares in its IPO?",
+  "revisions": 1,
+  "sha256": "e9a724540fd87347eabcedf380534bcfffa50af5a08dfc7850aebda20fe440cb",
+  "slug": "will-openai-sell-at-least-10-of-its-shares-in-its-ipo"
  },
  "0xcb60710b52bea8c5acce558d40438a20f59b47ceb7dba34d79d6342d3e03edbc": {
   "created_at": "2026-09-27T20:25:41.075017Z",

@@ -263,6 +263,15 @@
   "sha256": "148f9c2e1d0820ec51fd43ce60a59b025fafbc8d6198a3ac104769b2c0a156c5",
   "slug": "will-openai-be-the-3-ai-lab-at-the-end-of-december-2026-style-control-on"
  },
+ "0x269b718b49a1700dd90aa96063eab159be423a85e36b1d91616e7e35603faf31": {
+  "created_at": "2026-11-25T17:43:06.046764Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Natural Gas (NG) hit (HIGH) $4.80 in December?",
+  "revisions": 1,
+  "sha256": "ba7da591eff36a2be58b77b8fa7ef6e45b10b09379b2f75eef03206e40b330d5",
+  "slug": "will-ng-reach-4-80-in-december-2026"
+ },
  "0x27b3ee00d7891a9f64b53eac60ca939e87eb326184177f9b5d75c498353def31": {
   "created_at": "2026-10-02T19:30:18.636809Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -754,6 +763,7 @@
   "created_at": "2026-09-09T02:37:39.790277Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Nova Esports in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -1435,6 +1445,7 @@
   "created_at": "2026-10-25T10:15:16.043599Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal leading at halftime?",
   "revisions": 1,
   "sha256": "848941c4a24f2094091605497a7e5a8568d90fee928bbdc2fc522aec17557084",
@@ -1623,6 +1634,7 @@
   "created_at": "2026-09-09T02:37:39.3408Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for FunPlus Phoenix in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",

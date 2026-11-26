@@ -736,6 +736,15 @@
   "sha256": "10fc1aab375723efdc55ebfe8a586bfcfd42d93a7448589bcd851ade0c9c8c87",
   "slug": "will-the-republican-party-candidate-win-the-2026-oh-14-house-election-by-30-or-more"
  },
+ "0x7937aa220f1ccb26606cafc77fdeb7c48739014a8228c1f6948d4d94f2aff987": {
+  "created_at": "2026-11-26T02:27:20.490157Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2028 be above $9.00?",
+  "revisions": 1,
+  "sha256": "f4fd47ab099e8d5bd1d97f12cee8e6c7af1210daa6bd3f642976d76b727076a2",
+  "slug": "h200-average-rental-price-in-december-2028-above-9pt00"
+ },
  "0x7a25a865f267a69fac7ecd3e1e8e9601607113070f9aaf13d327cb6b4c3b2c87": {
   "created_at": "2026-08-24T16:36:24.665083Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -845,6 +854,15 @@
   "sha256": "f7c274bfb6b5de3108e1b069753ab050650be1e1fbe658696cbb2d3d6a549e26",
   "slug": "will-jablonec-qualify-for-the-2027-28-uefa-champions-league"
  },
+ "0x8e157ed6c5265de2c1123d743419a36ba65d057a43c3e2f264b6817bbd129987": {
+  "created_at": "2026-11-26T10:45:38.315086Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Paul Chan be the next Chief Executive of Hong Kong?",
+  "revisions": 1,
+  "sha256": "2ebe2530b09a8bd8de8638ce0f70a2a9775690dc5849ea73f4397c42ac182355",
+  "slug": "will-paul-chan-be-the-next-chief-executive-of-hong-kong"
+ },
  "0x8e26fe9e1f485822b6f8ea57dcd5a07e55e22c508723c4689a23b5bd375beb87": {
   "created_at": "2026-07-21T06:00:14.176585Z",
   "first_seen": "2026-11-25T17:14:03Z",
@@ -951,6 +969,7 @@
   "created_at": "2026-10-24T11:30:33.982141Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Carlos Sainz Jr. achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",
@@ -1125,6 +1144,7 @@
   "created_at": "2026-10-25T10:15:18.005148Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 1 - 3 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -1358,6 +1378,7 @@
   "created_at": "2026-09-02T17:44:48.677516Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Maine Democrat perform best among these tossup Senate races?",
   "revisions": 1,
   "sha256": "6db0c3880a2b0ddc85692bbd5c36db563ba70e6107443a6f6ef872e5c818d44b",
@@ -1453,6 +1474,7 @@
   "created_at": "2026-08-06T15:44:07.564229Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will L\u00d8S make a roster change by December?",
   "revisions": 1,
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",

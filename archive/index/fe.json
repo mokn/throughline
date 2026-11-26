@@ -719,6 +719,7 @@
   "created_at": "2026-10-25T10:15:19.647748Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 3 - 5 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -973,6 +974,15 @@
   "revisions": 1,
   "sha256": "52066c77464cf03edefc063c4b48116823a76fd6d8e4d6b2c64e0f54d7f2f27f",
   "slug": "will-a-democratic-party-candidate-win-the-2026-ca-42-house-election-by-5-10"
+ },
+ "0x95b21ed3edbda39946a8f2f26b988a3327dea342ea89401daecd295d090300fe": {
+  "created_at": "2026-11-26T02:27:26.370006Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-4pt00"
  },
  "0x95e2b16825a5eaa0310096e79d56cfd574e613f7fb111aad78f29a79c99340fe": {
   "created_at": "2026-08-10T23:57:42.961707Z",

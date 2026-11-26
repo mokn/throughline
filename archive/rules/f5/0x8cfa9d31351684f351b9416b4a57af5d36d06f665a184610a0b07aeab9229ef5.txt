@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if NVIDIA Rubin Ultra GPUs are shipped to a customer between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+Rubin Ultra refers to the NVIDIA data center GPU announced as “Rubin Ultra”, in any system or rack configuration, including a product launched under a different name which is identified by a consensus of credible reporting as the data center GPU announced as “Rubin Ultra.”
+
+A shipment qualifies if Rubin Ultra GPUs, or systems containing them, are shipped or delivered to at least one NVIDIA-external entity for compute deployment, whether for its own purposes or to provide compute to others. Early-access, engineering-build, and other early shipments for compute deployment qualify. Such a shipment qualifies regardless of whether the shipment is conducted directly by NVIDIA or through a server manufacturer, distributor, or other partner. Shipments to server manufacturers, distributors, or other entities to build the GPUs into servers or resell them, rather than for compute deployment, do not qualify.
+
+A qualifying shipment must be publicly confirmed by the specified date, 11:59 PM ET.
+
+The primary resolution source for this market will be official information from NVIDIA; however, a consensus of credible reporting may also be used.

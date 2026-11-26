@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if the US government takes any legally effective policy action which approves the sale of NVIDIA's Blackwell data center GPUs to customers in mainland China or Hong Kong between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+An action approves the sale if it permits NVIDIA or any other exporter to lawfully export, reexport, or transfer NVIDIA's Blackwell data center GPUs to at least one customer in mainland China or Hong Kong. Actions that only permit remote or cloud access to these GPUs will not count.
+
+Qualifying actions include, but are not limited to, executive orders, the grant of export licenses, and the issuance of a rule or other final agency actions. Temporary actions qualify. The action must be legally effective, even if only temporarily: actions scheduled with a later effective date do not qualify until they become legally effective. Approvals with conditions, such as revenue sharing, export fees, or limits on quantity or customers, will count. Statements that approval is being considered or negotiated, license applications, and approvals limited to customers outside mainland China and Hong Kong will not count. An approval that is later revoked will still count.
+
+NVIDIA's Blackwell data center GPUs are the B200, B300, GB200, GB300, China-specific Blackwell variants such as the B30A, and other Blackwell chips manufactured specifically for use in data centers. Workstation, gaming, and consumer GPUs, including the RTX PRO 6000D, do not qualify.
+
+The resolution source for this market will be official information from the US government (including the Department of Commerce and the White House) and NVIDIA; however, a consensus of credible reporting may also be used.

@@ -400,6 +400,7 @@
   "created_at": "2026-09-09T15:41:33.112873Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Joel Pohjanpalo be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
@@ -1086,6 +1087,15 @@
   "sha256": "be0db033f9151f5f1e41cabc6d2b2791461d24d0ff8487fe1503b743095db86c",
   "slug": "es2-cas-eib-2026-11-06-first-half-team-total-away-3pt5"
  },
+ "0xa57849bb4227465f4ed7a06663f8b833253432dae771bd694b99c8ea22d9b7ee": {
+  "created_at": "2026-11-26T16:07:08.642651Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the total domestic gross for \"The Hunger Games: Sunrise on the Reaping\" be between $320M and $340M by December 31?",
+  "revisions": 1,
+  "sha256": "e7972bcfeb7af75236741a29154e3eddd344503fb47d67d00d68998506bedf17",
+  "slug": "will-the-total-domestic-gross-for-the-hunger-games-sunrise-on-the-reaping-be-between-320m-and-340m-by-december-31"
+ },
  "0xa5a1df12d9524ab179d1a460b3b280693f87cfae4513fbd0d5bf3a704f6823ee": {
   "created_at": "2026-08-11T18:27:34.142849Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1430,6 +1440,7 @@
   "created_at": "2026-10-24T11:30:34.807683Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Oscar Piastri achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",

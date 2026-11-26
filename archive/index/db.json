@@ -175,6 +175,7 @@
   "created_at": "2026-10-25T10:45:17.311864Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: O/U 3.5",
   "revisions": 1,
   "sha256": "0b1afdce3819616c2047a229622bfc95037265821e256cfe63ebbb1445a1019c",
@@ -550,6 +551,15 @@
   "sha256": "d011b15cae473145592c0b4a4e14f35fca0482732a8e3c5a8d5334ca44b90fd5",
   "slug": "will-the-next-israeli-coalition-be-y-t-b-d-s"
  },
+ "0x666e84861aa608891122c49c87519d9a2c88cfc6b2a571b8b66a5a70babd2cdb": {
+  "created_at": "2026-11-26T02:27:19.141587Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in June 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "01baf954b95edd731e518670c419fd699a485f7b2e09bfbf731d3b2fe43ac157",
+  "slug": "h200-average-rental-price-in-june-2027-above-10pt00"
+ },
  "0x6cf46e9550c1e51b99260966eb6ce50992c704dbf6a80d926421cfbcfc4c89db": {
   "created_at": "2026-08-12T00:18:01.210979Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -640,6 +650,15 @@
   "revisions": 1,
   "sha256": "1c8593f0df96e157aa7652dacc4de1c2c35595989707cbe8d1904327d19361d4",
   "slug": "will-guadalajara-win-the-2027-concacaf-champions-cup"
+ },
+ "0x76d9a5f8d6e70b5923d29232595a8094fd09bb662eb6b0015b24a4d9faf4cfdb": {
+  "created_at": "2026-11-25T23:27:53.543071Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Japan Q4 GDP growth (annualized) be between -3.2% and -2.4%?",
+  "revisions": 1,
+  "sha256": "3e2af402071d8515f26cccd02e87221a9a695061bd271614baac677f912a46e4",
+  "slug": "will-japan-q4-gdp-growth-annualized-be-between-3pt2-and-2pt4"
  },
  "0x775c1be78af281c21f80f0b87b5890ca27cff0ae5aa6d455eb7ca263ce6864db": {
   "created_at": "2026-09-09T15:48:32.023045Z",
@@ -901,6 +920,7 @@
   "created_at": "2026-10-25T10:45:17.456935Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: O/U 4.5",
   "revisions": 1,
   "sha256": "e6289982324df162b8d3305aa275295788cfb1d3b0e329ad1b5f5edcaad11b85",

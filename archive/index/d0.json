@@ -458,6 +458,15 @@
   "sha256": "8a60270566909ae74966f84626a845c8ffece3e81fb37f1c78845baf510e8a03",
   "slug": "will-le-havre-finish-16th-in-ligue-1-2026-27"
  },
+ "0x54e044faf63f3b5ac955c1e15d7c7af846ec1d372e2a1e18866e60f7ec833dd0": {
+  "created_at": "2026-11-26T00:15:51.921068Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Etched name a second customer by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "df83dd4e45a07020aebaa62bdf216b57695e36a657edcc6884dcae740b9f54e9",
+  "slug": "etched-names-a-second-customer-by-june-30-2027"
+ },
  "0x568bc2c4aa91577a02b6d426c95fbda44b8bee5fb146cbe2fe799f4bfb0ba9d0": {
   "created_at": "2026-08-07T20:31:06.522825Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -616,6 +625,7 @@
   "created_at": "2026-07-29T18:38:10.298959Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Colorado 2026 Senate race be within 5%?",
   "revisions": 1,
   "sha256": "8e4b8cf85bb30efcd93fdbe04059776f789b53eab18da598805d082a4d7a8ab5",
@@ -1473,6 +1483,7 @@
   "created_at": "2026-10-24T11:30:33.814937Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Franco Colapinto achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",

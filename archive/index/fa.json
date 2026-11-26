@@ -377,6 +377,15 @@
   "sha256": "788daf632993c30c4b220c561b635050bd412bce99a627cbdc73edec20992763",
   "slug": "will-luxembourg-be-top-5-in-the-world-happiness-report-2027"
  },
+ "0x43bc43f4a9f2f28cc7f664f54629b4b61cb9e8e18553f03aa40c8609ca51d5fa": {
+  "created_at": "2026-11-25T23:31:16.921369Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in March 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-march-2027-et"
+ },
  "0x44460b9910baca37a8400050b16489caa82b100e6b93d4121af4ce7f4be336fa": {
   "created_at": "2026-08-26T21:47:08.067387Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -870,6 +879,15 @@
   "sha256": "4f499e5443675a84a39f2ca53298881e98a49079e8a7f560e9734b1b03f4785b",
   "slug": "will-the-super-mario-galaxy-movie-have-the-3rd-best-domestic-opening-weekend-in-2026-20260722232204885"
  },
+ "0x97028b115e04c087572cb3c7cf6c44cf516bd222d713db50657e3d8c7649a1fa": {
+  "created_at": "2026-11-26T01:04:08.295046Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will SpaceX report more than 45 rocket launches in Q4 2026?",
+  "revisions": 1,
+  "sha256": "a8140d8cace5dce0e715e979e0d1d57f24809678eacbc20e0b93df6863eaef5f",
+  "slug": "spacex-q4-2026-rocket-launches-above-45"
+ },
  "0x97c0314e6d7c3d3126567c47e7749718f6515ffc952e0ffefda26b637b5f8dfa": {
   "created_at": "2026-08-25T23:59:53.199958Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -883,6 +901,7 @@
   "created_at": "2026-10-25T10:45:19.132974Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 4.5",
   "revisions": 1,
   "sha256": "9344ce68e6cf21f6f79e1e650a5183fbce4ff9748325c5722e981966860ba528",

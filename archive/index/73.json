@@ -490,10 +490,10 @@
  "0x43b3bc105e75c59d4745892067c57220702f869dc86296793a45429f1ad29773": {
   "created_at": "2026-10-02T12:06:57.921852Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-26T16:54:13Z",
   "question": "Will Russia invade another country by December 31, 2027?",
-  "revisions": 1,
-  "sha256": "e1646a20b258678f324a3a0392b386e4a428c02ee6efe3b0b09f8542aa36a396",
+  "revisions": 2,
+  "sha256": "b28365ad606915016f2f6255dd4b92d7469067443e96f6b63b68924fe3d87d98",
   "slug": "will-russia-invade-another-country-by-december-31-2027"
  },
  "0x440de65f84e13eacc8287c23c036c041ddd6924c491e48ae85259a1ece116173": {
@@ -1213,6 +1213,7 @@
   "created_at": "2026-11-20T00:21:54.079713Z",
   "first_seen": "2026-11-20T15:27:46Z",
   "last_changed": "2026-11-20T15:27:46Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Anthropic's valuation hit (LOW) $1.0T by December 31?",
   "revisions": 1,
   "sha256": "40cc4b1c1591e8310a1db6419b4d06d79a98216f31c40ed270f34c21b899a05f",
@@ -1557,6 +1558,15 @@
   "revisions": 1,
   "sha256": "9115ca914dc32c7b66f98dba8e1b2c3d9d606e68d811790bd7d5e0d2f7dc0f30",
   "slug": "b300-average-rental-price-in-january-2027-above-12pt50"
+ },
+ "0xc93f444d34cd6666fe75d815c93c1128dd3a52079883ff0084d22bfdc6d49c73": {
+  "created_at": "2026-11-26T10:45:36.188426Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will John Lee be the next Chief Executive of Hong Kong?",
+  "revisions": 1,
+  "sha256": "2ebe2530b09a8bd8de8638ce0f70a2a9775690dc5849ea73f4397c42ac182355",
+  "slug": "will-john-lee-be-the-next-chief-executive-of-hong-kong"
  },
  "0xcc18a06072cf974a0be3e45757420624faee819137a74a903e03e4f37222f373": {
   "created_at": "2026-08-10T15:04:26.223285Z",

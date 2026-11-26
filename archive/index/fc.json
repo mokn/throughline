@@ -467,6 +467,15 @@
   "sha256": "4139ab388e9d8006d81ed389847252aec077efde587d1c2b565eeafa1aec012e",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-tennessee-be-between-2000000-and-2200000"
  },
+ "0x3c41c5d6950ad117581d542ace3f44853f2e9de9c779da035400f59b7e9436fc": {
+  "created_at": "2026-11-25T21:15:10.828961Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Jacksonville Jaguars by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-jacksonville-jaguars-by-january-11-2027"
+ },
  "0x3ed9981457bce97422bd93b0375acaf08504dc341bed977ced211c864f3c8ffc": {
   "created_at": "2026-11-18T21:07:34.989952Z",
   "first_seen": "2026-11-19T15:44:54Z",
@@ -493,6 +502,15 @@
   "revisions": 1,
   "sha256": "7fed83610a709a5063b479cdd60233e90b815b1d68238f6c03bcefc5f4780c25",
   "slug": "will-spacexai-have-the-1-ai-model-at-the-end-of-january-2027"
+ },
+ "0x4159960bad3f08c7a19c715c9dc01cfc431890b961ae561d2f52134d1a61b1fc": {
+  "created_at": "2026-11-26T10:45:39.058421Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Chris Tang be the next Chief Executive of Hong Kong?",
+  "revisions": 1,
+  "sha256": "2ebe2530b09a8bd8de8638ce0f70a2a9775690dc5849ea73f4397c42ac182355",
+  "slug": "will-chris-tang-be-the-next-chief-executive-of-hong-kong"
  },
  "0x42945ea5657d6f6e77969a06661b29d6f6295083d1ef3479b42efd90647c9dfc": {
   "created_at": "2025-11-24T19:21:38.173282Z",
@@ -1051,6 +1069,15 @@
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-west-virginia-have-more-than-6pt5-wins-during-the-2026-cfb-season-20260810194053136"
+ },
+ "0x8b8ddf3809b83fb52d3514dc4a8f9db692de96b9e380da283a15e3d35eba1efc": {
+  "created_at": "2026-11-25T23:41:42.085404Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI list on another U.S. exchange in its IPO?",
+  "revisions": 1,
+  "sha256": "1b9dbceb0f8807d82315ad4595214a08291c73b79c42716034dba4202dec7fbe",
+  "slug": "will-openai-list-on-another-us-exchange-in-its-ipo"
  },
  "0x8b8f8165b1f294bf737b0a2102372f066dcec34a8d63bd62dbb6e729b1ed14fc": {
   "created_at": "2026-08-23T17:44:20.956476Z",

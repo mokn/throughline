@@ -313,6 +313,15 @@
   "sha256": "d03c3a3e46c836407c1f3ccdabfecb7c40fae6fec5d36462f9a300e124debc6a",
   "slug": "will-the-democratic-party-win-the-ok-04-house-seat"
  },
+ "0x328f35fec1881b6653f131419f100ae3b9bff2d1497969a78eca31e22162abb1": {
+  "created_at": "2026-11-26T16:08:34.975221Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will \"Avengers: Doomsday\" reach $1B domestic box office between January 16 and January 20?",
+  "revisions": 1,
+  "sha256": "0607c660ed8fad349756f17f701c90bc0ee59f90c2ec6aed7f2514f1792cee3a",
+  "slug": "will-avengers-doomsday-reach-1b-domestic-box-office-between-january-16-and-january-20"
+ },
  "0x32accb1a6cc6b6a5b718a1aa332433e58c896d6697ebcf4a29f9c643822b0eb1": {
   "created_at": "2026-08-17T21:23:01.110972Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -613,6 +622,24 @@
   "revisions": 1,
   "sha256": "6fbc92bdda6203abf8c2b82926e14b0fa8058ff4a49e7c20cb9e4dbd20593774",
   "slug": "will-reya-launch-a-token-by-december-31-2026"
+ },
+ "0x5dd950b53aa668a2e43b7f778cfa1a185dc8ff804a778b75281f7cc01e6be5b1": {
+  "created_at": "2026-11-26T16:17:59.44089Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Li Ganjie be the next member of China\u2019s Politburo Standing Committee?",
+  "revisions": 1,
+  "sha256": "2a0ceb9db0191b48dfdc2ffe3e5b919f907ad9dd0eba18689c9fb4b61c4c533d",
+  "slug": "will-li-ganjie-be-the-next-member-of-chinas-politburo-standing-committee"
+ },
+ "0x61debed0ca50b0c1e901004267d325321429e2190d4b1c096641c1bcd57547b1": {
+  "created_at": "2026-11-26T00:13:30.590886Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the US approve NVIDIA Blackwell sales to China by March 31, 2027?",
+  "revisions": 1,
+  "sha256": "1d25ab77d5d9bb7571091ede2113022c2c8a1974d99a43da721d4430bd192efd",
+  "slug": "us-approves-nvidia-blackwell-sales-to-china-by-march-31-2027"
  },
  "0x62ddf09bc1bc58e573b5c8440166e280184fe6deb1a9564c1d3fa7ac3fe94cb1": {
   "created_at": "2026-10-11T11:46:10.117194Z",
@@ -1215,6 +1242,7 @@
   "created_at": "2026-10-25T10:15:18.807239Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 5 - 0 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",

@@ -253,6 +253,7 @@
   "created_at": "2026-09-09T02:37:41.081108Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Dragon Ranger Gaming in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -394,6 +395,15 @@
   "revisions": 1,
   "sha256": "7731dabeae4415221a50ecd7f40b08ac87faf603211c4ed9326820445f28d021",
   "slug": "will-the-republican-party-candidate-win-the-2026-tx-10-house-election-by-0-5"
+ },
+ "0x5372c959ce11adbffcc21e6b9bbc6a9ccafc127cf6e3827a7445b95916791fc4": {
+  "created_at": "2026-11-26T02:27:14.584274Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2028 be above $23.00?",
+  "revisions": 1,
+  "sha256": "f4fd47ab099e8d5bd1d97f12cee8e6c7af1210daa6bd3f642976d76b727076a2",
+  "slug": "h200-average-rental-price-in-december-2028-above-23pt00"
  },
  "0x53f5fd8baae5f6ad2645ec8ad3ae87e0ef31ed8419aaf0304ff5dc111ed8b4c4": {
   "created_at": "2026-10-13T16:25:26.404889Z",
@@ -1421,6 +1431,15 @@
   "sha256": "5507d9281c5f249277249eef68a82a87e30f0df4d5534313bfa64cc8c8418d20",
   "slug": "will-artem-dovbyk-roma-be-the-top-goalscorer-of-the-2026-27-serie-a-season"
  },
+ "0xc93dabf8cb8b0ac02778566d7f221ddc1c8546d93ee546f8d4c7930794ed54c4": {
+  "created_at": "2026-11-26T02:27:18.370191Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "25df622737437fe93c96d691206b35671603fd0d2271ce7d2b1dcfd3b1bd05cc",
+  "slug": "h200-average-rental-price-in-december-2027-above-10pt00"
+ },
  "0xcb792ecb5271dd424565910af23824c15c175341ba39887b8f00edbadf35d4c4": {
   "created_at": "2026-11-01T15:01:04.457512Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1661,6 +1680,7 @@
   "created_at": "2026-10-25T10:15:18.721112Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 4 - 1 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",

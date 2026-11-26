@@ -431,6 +431,15 @@
   "sha256": "94897f5d89f57c8078659ad2e0493a72672fa4ba57320f01c7912073ffcbc4ae",
   "slug": "will-porter-hodge-win-the-2026-nl-comeback-player-of-the-year-award"
  },
+ "0x565c02f03e1a1947401731b63457b3eb47ca3d5f324e91e3df066f1f89d37775": {
+  "created_at": "2026-11-25T21:15:16.661058Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the New York Giants by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-new-york-giants-by-january-11-2027"
+ },
  "0x5924c127e5dd81f5e4a928739324d2e89fa0ebf843a9b560651f67e04cae4875": {
   "created_at": "2026-03-25T18:04:19.999485Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -482,6 +491,7 @@
   "created_at": "2026-10-13T15:55:47.260336Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Los Angeles Clippers reach the 2026 NBA Cup Knockout Rounds?",
   "revisions": 1,
   "sha256": "09e4d42f8e2d49a845b9fee5d540bb6561618ce4eec0d53e83c04f3cf9e4c6a1",
@@ -495,6 +505,15 @@
   "revisions": 1,
   "sha256": "6bcad4450230495be8f96f87b56e2c4a4f8a6827a09cb2014ba43dde85bf78de",
   "slug": "trump-declares-a-national-emergency-by-december-31-2026-20261027"
+ },
+ "0x5f8088ae2c9ba35c0499c43362cb1fc565a1b1d0a5bb88a548c7b36d86ce1175": {
+  "created_at": "2026-11-25T17:43:04.743794Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will South Korea ETF (EWY) hit (LOW) $114 in December?",
+  "revisions": 1,
+  "sha256": "2877f5dead960dea9c47d02143b560899f2d2ba94108c080703b3dee975287bf",
+  "slug": "will-ewy-dip-to-114-in-december-2026"
  },
  "0x5fe96e357f80e04eb4192a9c403f6a2ffa199b0a7ecdd308b79dfe6d0ea73975": {
   "created_at": "2026-08-12T00:10:21.81439Z",

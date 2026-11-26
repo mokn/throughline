@@ -1366,6 +1366,15 @@
   "sha256": "cc033e2b572da9e7f8592de8a84077475fb87fe10b15d54672321dee5046e72d",
   "slug": "spl-ith-sha-2026-10-16-corners-second-half-total-3pt5"
  },
+ "0xb6a8fa508f2141e753026d78c2e4e6a7af920f52d24c01429de6e895da7ead6a": {
+  "created_at": "2026-11-26T02:27:17.50712Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in June 2027 be above $14.00?",
+  "revisions": 1,
+  "sha256": "01baf954b95edd731e518670c419fd699a485f7b2e09bfbf731d3b2fe43ac157",
+  "slug": "h200-average-rental-price-in-june-2027-above-14pt00"
+ },
  "0xb75f9e655c24f3368da87c1a37bbd35e25471c123a03d544f6b1d8c6edd3056a": {
   "created_at": "2026-11-03T17:41:48.719609Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1568,6 +1577,15 @@
   "revisions": 1,
   "sha256": "452e59e68dd0972f3841c3518e1858f3a4fd22132b9399e489932dd81ff9c980",
   "slug": "will-the-republican-party-candidate-win-the-2026-mo-03-house-election-by-30-or-more"
+ },
+ "0xca11df505aed6755468d30e5277e4d8e3a20d53b17b75a400a7c470e0815c06a": {
+  "created_at": "2026-11-26T02:27:12.842962Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2026 be above $5.50?",
+  "revisions": 1,
+  "sha256": "631967a814ecdaf6508b8d3ce577bf59af8499fa9d2888ab41d932bc70b0db8e",
+  "slug": "h200-average-rental-price-in-december-2026-above-5pt50"
  },
  "0xcaa0aadfd0b372f0980770e8dd823b6aaa9fea4479f4903b2302eaf8d6f0036a": {
   "created_at": "2026-10-14T13:20:09.440382Z",

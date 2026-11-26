@@ -572,6 +572,7 @@
   "created_at": "2026-10-24T11:30:32.696307Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Gabriel Bortoleto achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",
@@ -1321,6 +1322,15 @@
   "sha256": "3ec2b4ef72a9029bae7771e5ac39bba1c1bdf3da16c988e50c3b57906c7b2207",
   "slug": "will-kolos-kovalivka-be-relegated-from-ukrainian-premier-league-2026-27"
  },
+ "0xc05ac11dfe257767410b327d1d8f81f50113bae3e4417ad1e32dd95940bb08cf": {
+  "created_at": "2026-11-26T16:13:00.456635Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Zohran Mamdani say \"Surgery\" during his next livestream?",
+  "revisions": 1,
+  "sha256": "5af4d222277d83623b4ce7707eaca102ee12bedb9833bfc160110414f36d2133",
+  "slug": "will-zohran-mamdani-say-surgery-during-his-next-livestream-20261126"
+ },
  "0xc1a4df3085c60a946a972800199fb879753c14fc9683dcbae77fc7c2943d5dcf": {
   "created_at": "2026-09-18T09:46:19.186312Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1718,6 +1728,7 @@
   "created_at": "2026-10-25T10:45:20.960336Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 5.5",
   "revisions": 1,
   "sha256": "48ef1673678a622f7791b06596dbeabd64e48bf3bcc7bde58e425025cc68567d",

@@ -649,6 +649,7 @@
   "created_at": "2026-10-25T10:15:19.812114Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 5 - 3 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -1492,6 +1493,15 @@
   "sha256": "51317429ad1789d192859e3f288ec56113307e8c39f99e2768baeb2d14a66951",
   "slug": "will-emmanuel-david-ombugadu-win-the-2027-nasarawa-state-gubernatorial-election"
  },
+ "0xb757749ec336fe7b2695602a4266d8cf7f0894439166c34c1d4ae1c796e596c0": {
+  "created_at": "2026-11-25T23:00:15.881278Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Sandisk (SNDK) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-sandisk-get-a-credit-rating-downgrade-before-2028"
+ },
  "0xb891ed6c2535a6679dfaf50b39b75c3b2a1374a01f4a80978dc8ee53a05389c0": {
   "created_at": "2026-08-11T18:25:02.282392Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1580,6 +1590,7 @@
   "created_at": "2026-10-25T10:45:15.381179Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Spread: CSD Municipal (-1.5)",
   "revisions": 1,
   "sha256": "d881f93e180b364154b85d03bbbfe76706af89d4850a3cc30ec894c8008aca82",
@@ -1593,6 +1604,15 @@
   "revisions": 1,
   "sha256": "39d71b59b6da72cbe24863bd588ac896f2c001ec0fcd6fe3b751d26122f6cb14",
   "slug": "will-the-median-home-value-in-the-dc-metro-be-between-519000-and-521000-on-december-31-2026"
+ },
+ "0xc56cf264a8b7b651587fd1c9189093fd191aee04a36c473bc938b30bb83f8bc0": {
+  "created_at": "2026-11-25T23:31:23.013949Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in December 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-december-2027-et"
  },
  "0xc5c07c8076ea5cfa8c4d761f1efe7206ba498a67f51fe149d3f8927f298f84c0": {
   "created_at": "2026-05-26T21:16:15.984088Z",

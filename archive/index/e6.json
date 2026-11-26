@@ -883,6 +883,7 @@
   "created_at": "2026-10-25T10:45:22.168728Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: Aurora FC 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "9b759f7f7b4cccab78799a9521163b7c2ef33b5ef6e6a33ef5d06bcbebaa676e",
@@ -1027,6 +1028,15 @@
   "sha256": "4f332d37820451194ce6e19aa0ff665bc5422c0ef7ebdf243a28ff7d1273ade3",
   "slug": "will-pedro-sanchez-be-the-next-prime-minister-of-spain-20260625005710096"
  },
+ "0x9224a4be2be43d7bb4db59bbf12d36eab765de175535b8741d62625a23e9d1e6": {
+  "created_at": "2026-11-25T21:15:07.47102Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Denver Broncos by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-denver-broncos-by-january-11-2027"
+ },
  "0x92a71ff2bb4eb6cff0953e2dd4ed44853c4636bcc4f83d864386791f0dd296e6": {
   "created_at": "2026-10-26T19:00:37.842694Z",
   "first_seen": "2026-11-17T15:59:42Z",
@@ -1153,6 +1163,7 @@
   "created_at": "2026-09-09T15:17:48.732869Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Shakhtar Donetsk finish first in UCL league phase?",
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
@@ -1162,6 +1173,7 @@
   "created_at": "2026-09-09T15:41:32.379469Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Viktor Gyokeres be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",

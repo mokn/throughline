@@ -140,6 +140,7 @@
   "created_at": "2026-08-06T15:44:01.825886Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Sentinels make a roster change by December?",
   "revisions": 1,
   "sha256": "c5a6d0450a1c1e01b2eba2c4c93140e732a6701907212bd722bc0fafc6357171",
@@ -249,6 +250,7 @@
   "created_at": "2026-09-09T02:37:37.193077Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Karmine Corp in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -808,6 +810,15 @@
   "revisions": 1,
   "sha256": "c5b21b34b7056bfe0921defa2b98e4ea225ea53760c3f962a365d28dc622a043",
   "slug": "f1-abu-dhabi-grand-prix-driver-pole-position-leclerc-2026-12-05"
+ },
+ "0x74fb29b6097ed9b0e29b8c544bf622190e48dfa691c9b36f4395c12cbfb8107b": {
+  "created_at": "2026-11-26T14:18:26.414454Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Next US-Iran senior diplomatic meeting by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "38af81f4ac24797aaaff70233c05332de558d96a7c25b5e0d5d7c221562a0a2b",
+  "slug": "next-us-iran-senior-diplomatic-meeting-by-january-31-2027"
  },
  "0x775b4ed03aa8aadcc90f12dbc751a66b212a00e703ccf4577f5ac17b0bab3a7b": {
   "created_at": "2026-09-30T20:03:12.361251Z",
@@ -1684,6 +1695,7 @@
   "created_at": "2026-10-25T10:45:21.871003Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: Aurora FC 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "c8142a948be7a791b9ca1622c785febd2146c7e004b4b49a7d2f4c5f2993398a",

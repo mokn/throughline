@@ -258,6 +258,7 @@
   "created_at": "2026-09-09T15:41:25.656723Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Che Adams be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
@@ -695,6 +696,15 @@
   "sha256": "2d8e30cd399fb10f4cec176eee39c1c678c68b7d4eed3ce157ccb84dc9f7f67d",
   "slug": "will-threadguy-appear-on-the-uponly-podcast-by-december-31-992"
  },
+ "0x5bb3c31c6a073faad4951293803f8e55e6d83b99a245a1d0c7fe0803a8c24c1d": {
+  "created_at": "2026-11-25T23:31:15.550326Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in January 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-january-2027-et"
+ },
  "0x5c1026484212715ce3d50f044d4241a30e1db42e0cbd0c6d29874f35e7e96a1d": {
   "created_at": "2026-01-07T21:59:29.577819Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -842,6 +852,15 @@
   "revisions": 1,
   "sha256": "b3706285f794baf06998414eb00dcfaf2c6b26854812a12db97d56d655353248",
   "slug": "will-jake-paul-be-the-2-searched-person-on-google-this-year-20260914"
+ },
+ "0x69003c82e90b42ce51009615c67eff895fda45841a70a82a5e8157a295f1f31d": {
+  "created_at": "2026-11-26T16:12:58.168873Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Zohran Mamdani say \"Jewish\" during his next livestream?",
+  "revisions": 1,
+  "sha256": "5af4d222277d83623b4ce7707eaca102ee12bedb9833bfc160110414f36d2133",
+  "slug": "will-zohran-mamdani-say-jewish-during-his-next-livestream-20261126"
  },
  "0x698156b812524829051f56d2225b110f4314bb11aa970c6f680638e80e4e7d1d": {
   "created_at": "2026-09-02T20:14:51.967203Z",
@@ -1345,6 +1364,15 @@
   "revisions": 1,
   "sha256": "af9cd72def46729474be5d335fdeb4a1efd342b1e1e4667817e83862fd5345d7",
   "slug": "will-the-boston-bruins-finish-the-2026-27-regular-season-with-the-fewest-points"
+ },
+ "0xb1343693263199bac33c3ea8558a3fd824301d3f255657cd5d1e8f391b05421d": {
+  "created_at": "2026-11-26T02:27:16.694743Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in March 2027 be above $12.00?",
+  "revisions": 1,
+  "sha256": "0974a5e7a1a92bd2238bb53f1712275489a78ecd7a9c8c98dbab5d57feb9c026",
+  "slug": "h200-average-rental-price-in-march-2027-above-12pt00"
  },
  "0xb2b45a011ad6fb862b0afaf751b2b0d84a2204a14371aa0f2adb36dd5ef0ff1d": {
   "created_at": "2026-08-07T20:29:09.545005Z",

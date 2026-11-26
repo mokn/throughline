@@ -457,6 +457,7 @@
   "created_at": "2026-11-10T00:39:06.105219Z",
   "first_seen": "2026-11-10T14:52:55Z",
   "last_changed": "2026-11-10T14:52:55Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "GitHub Git Operations critical incident by December 31, 2026?",
   "revisions": 1,
   "sha256": "f7416b00e0ba15942e61c4f42e850f83c0195b4269f966fe5d0ba122969587c9",
@@ -504,6 +505,7 @@
   "created_at": "2026-08-12T17:28:37.906112Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Aurora FC be runner-up in the 2026 Liga Nacional (Guatemala)?",
   "revisions": 1,
   "sha256": "7cba628d20d6c8f4e59e7c65267cb47c8391108f2e90676ac5e84d3eec1d4242",
@@ -1045,6 +1047,15 @@
   "revisions": 1,
   "sha256": "f7c274bfb6b5de3108e1b069753ab050650be1e1fbe658696cbb2d3d6a549e26",
   "slug": "will-hradec-kralove-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0x912b11dd8d8dadcf9ba9953852890ce3ee54c9288d8879f898f07c46ad969811": {
+  "created_at": "2026-11-26T02:27:19.647043Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in September 2027 be above $6.00?",
+  "revisions": 1,
+  "sha256": "8bbc276d288d0115972ba2efa31cdfffda911bc7405123a10c2de94b32697105",
+  "slug": "h200-average-rental-price-in-september-2027-above-6pt00"
  },
  "0x92d78c3d24eb774702d3a21b60d2c54ed608cdedeaf82b73a47f72cf2d6eb311": {
   "created_at": "2026-10-29T15:09:04.291614Z",
@@ -1749,6 +1760,7 @@
   "created_at": "2026-09-08T16:05:59.23808Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Sporting CP finish last in UCL league phase?",
   "revisions": 1,
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",

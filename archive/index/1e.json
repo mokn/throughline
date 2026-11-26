@@ -104,6 +104,7 @@
   "created_at": "2026-08-21T20:05:55.780267Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Colorado 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
@@ -1080,6 +1081,7 @@
   "created_at": "2026-10-31T00:26:36.434314Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Trump speak to Mark Rutte by November 30?",
   "revisions": 1,
   "sha256": "3188e2637b8b05d5741b3ed47c5acc66e2d36bf6a54f5ff8c49be478c7e2088e",
@@ -1938,6 +1940,15 @@
   "revisions": 1,
   "sha256": "760db3a207ae39894ee3749948b22449ef7a4565d8bba49c3906164bdc65c029",
   "slug": "will-the-republican-party-win-the-ny-13-house-seat"
+ },
+ "0xe26300b501454ac5b591fce0cd0e68ed4a7bcb5283c172871d24adeabe51241e": {
+  "created_at": "2026-11-25T21:15:29.452537Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Tampa Bay Buccaneers by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-tampa-bay-buccaneers-by-january-11-2027"
  },
  "0xe310575f3e6afc4adbe3c2526f716cb0e057eedf4454fb9dcb1d2284397b091e": {
   "created_at": "2026-10-21T17:55:23.75291Z",

@@ -389,6 +389,7 @@
   "created_at": "2026-10-20T23:04:40.772918Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Alfajer play for FUT Esports in 2027?",
   "revisions": 1,
   "sha256": "1b278ee7a1a558845b1a507fd53521c041b5944801b6731deaee62b991ac24e2",
@@ -476,6 +477,15 @@
   "revisions": 1,
   "sha256": "b7d12afcfb02ced1f22715ca1268b13b53a7907f4931ca3fa5d689c00e504869",
   "slug": "will-the-democratic-party-candidate-win-the-2026-new-hampshire-gubernatorial-election-by-6-or-more"
+ },
+ "0x45e7d0f24e0c8eef86919b71705e9c7b59b3493bd393c375e0511725baf300ed": {
+  "created_at": "2026-11-26T16:12:58.667346Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Zohran Mamdani say \"Governor\" or \"Hochul\" during his next livestream?",
+  "revisions": 1,
+  "sha256": "5af4d222277d83623b4ce7707eaca102ee12bedb9833bfc160110414f36d2133",
+  "slug": "will-zohran-mamdani-say-governor-or-hochul-during-his-next-livestream-20261126"
  },
  "0x485d45f76ae2e29aa82005aa3e1827bb2caa49959d0f1d48809f27831666f4ed": {
   "created_at": "2026-11-13T00:35:55.627396Z",
@@ -589,6 +599,15 @@
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-anthony-edwards"
  },
+ "0x5804602bff8b6857033f368e49a801441549f715c648f1fa59add6b804ac93ed": {
+  "created_at": "2026-11-25T21:34:00.649626Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Trump pardon anyone by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "6e8b7d236b70a066565443e3ddff6b2def055bc96839f1432a353e25c6801d96",
+  "slug": "will-trump-pardon-anyone-by-january-31-2027-20261124"
+ },
  "0x599d1c309af762d78ef21c3bedba221299e08443cc2edca0dbb7357398761fed": {
   "created_at": "2026-02-06T22:57:26.953834Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -597,6 +616,15 @@
   "revisions": 1,
   "sha256": "d6f522c00936c03b8c2049913f0da00091a5d704ee163919a2dedc8c2e2a932c",
   "slug": "will-st-louis-city-sc-win-the-2026-mls-cup"
+ },
+ "0x59beedbcde0445bef4db9462e675718c347b6e3dbcc0d78a62ecf2a611e56fed": {
+  "created_at": "2026-11-25T21:56:21.798485Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will AMD (AMD) beat Q4 2026 quarterly earnings?",
+  "revisions": 1,
+  "sha256": "d5fecd8f6f23e8ba3ba7c8afddad45ae387f599689b59ef470ab8c98a68b60a7",
+  "slug": "will-amd-amd-beat-q4-2026-quarterly-earnings"
  },
  "0x5ad7756609da59ffb359e37a16cc0b89285f4b823623e22e2900f054a77ed8ed": {
   "created_at": "2025-12-15T19:45:06.349182Z",
@@ -1250,6 +1278,7 @@
   "created_at": "2026-09-08T16:05:52.510557Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Liverpool finish last in UCL league phase?",
   "revisions": 1,
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",

@@ -95,6 +95,7 @@
   "created_at": "2026-09-09T15:41:33.360825Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Armando Broja be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
@@ -195,6 +196,7 @@
   "created_at": "2026-11-04T17:37:49.799074Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will 9z Win the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "da29d96ccccd91685879115e10bb340f67df70af1a3db1bd1c0529bda3121c4c",
@@ -603,6 +605,15 @@
   "sha256": "2e6f7a62e8474216b8c0a4f307bb289a661ea100875445fd085228060fd7749e",
   "slug": "elon-musk-of-tweets-december-2026-220-239"
  },
+ "0x58d0183862a6378692b35e92c635db28e5684eb47a552b9d26091fa1ba6b4fe3": {
+  "created_at": "2026-11-25T21:14:59.21323Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Arizona Cardinals by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-arizona-cardinals-by-january-11-2027"
+ },
  "0x5aff223320cdc7457d492484ebe21df377cfc3a193d7d959d4b85a6e442e68e3": {
   "created_at": "2026-08-10T15:43:29.164486Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -848,6 +859,15 @@
   "revisions": 1,
   "sha256": "6455d876d2b11114f3805b806e64d344b6e4201e22d98bafc0e4dcd47a0313a6",
   "slug": "cameron-ward-24pt5-passing-touchdowns-2026-27"
+ },
+ "0x73e38d187851a24e6f7dad07a3bcbdd44831e86519f93b113d609baada5029e3": {
+  "created_at": "2026-11-26T02:27:19.080145Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in September 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "8bbc276d288d0115972ba2efa31cdfffda911bc7405123a10c2de94b32697105",
+  "slug": "h200-average-rental-price-in-september-2027-above-8pt00"
  },
  "0x746ffd049cdf1eecbfce88e804ac1d4b2cb1e514184bc2967efbc5e2ba55afe3": {
   "created_at": "2026-01-14T21:55:00.259037Z",
@@ -1436,6 +1456,15 @@
   "sha256": "c3fe405c035fde2e1c392e246e05f38f6af21934841f1d92b8d7c3619d38ac27",
   "slug": "will-mexico-gdp-growth-in-q4-2026-be-between-1pt5-and-2pt0"
  },
+ "0xb11439e6c4a5b50f09238c4079c208f1c6e3abedafc3382277612e93dad14be3": {
+  "created_at": "2026-11-26T00:22:03.136323Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Advanced Micro Devices (AMD) Q4 Data Center revenue be above $12B?",
+  "revisions": 1,
+  "sha256": "e8e73549bdbbea0a4720e631fc9af867cde5e99e32d8f985395d09e54042d4f0",
+  "slug": "will-advanced-micro-devices-amd-q4-data-center-revenue-be-above-12b"
+ },
  "0xb30d1bfabebc10536bb8895003afff7f5e0c34f0966cc7a037ac99cc3dbb34e3": {
   "created_at": "2026-09-20T08:44:33.208442Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1742,6 +1771,15 @@
   "revisions": 1,
   "sha256": "fc7ce0cee91d17e813ee17eb77caf7541f6dabfcd9b6ccf458bae1b2a33f7ca2",
   "slug": "will-mistral-be-the-second-best-math-ai-lab-at-the-end-of-december-2026"
+ },
+ "0xe8a47449e487811f5de035d17550e9bbd32bd092da5316adf683144ad7439ee3": {
+  "created_at": "2026-11-25T21:15:30.156661Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Tennessee Titans by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-tennessee-titans-by-january-11-2027"
  },
  "0xe94ce3fa5b0fbf20f54bd9451e1bb8241803a1e186e1ba3dc9d174669dbb86e3": {
   "created_at": "2026-09-08T16:53:09.304656Z",

@@ -281,6 +281,15 @@
   "sha256": "b9b881c4e7669a1c6dac9bed110c4b96faf376663737654f7474179d3b86c3ce",
   "slug": "will-the-median-home-value-in-los-angeles-metro-be-between-1148000-and-1159000-on-december-31-2026"
  },
+ "0x2c42892d7abba2b81f8c3771227f986ae941b4df539828d4e349eb99c978ccb8": {
+  "created_at": "2026-11-26T00:13:31.275716Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the US approve NVIDIA Blackwell sales to China by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "1d25ab77d5d9bb7571091ede2113022c2c8a1974d99a43da721d4430bd192efd",
+  "slug": "us-approves-nvidia-blackwell-sales-to-china-by-december-31-2027"
+ },
  "0x2ca6024cdf7a5e3a18f7f1a7ef5bcc1dd1e444b91bfebe7ef28c79c356cb68b8": {
   "created_at": "2026-09-18T08:45:54.146112Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -980,6 +989,7 @@
   "created_at": "2026-10-24T11:30:31.834134Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will there be a red flag during the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "4b7d96227f311465590c4371bcf092176fc50f17168b5a0572483610d1f1b114",
@@ -1518,6 +1528,7 @@
   "created_at": "2026-09-01T09:44:57.576445Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: 1st Half O/U 4.5 Total Corners",
   "revisions": 1,
   "sha256": "ae8b8747cb74fdad2bbc4e78b1cf7edda35ccceb931142ed3f150f28bb71f4fc",

@@ -139,6 +139,7 @@
   "created_at": "2026-11-25T13:18:45.521162Z",
   "first_seen": "2026-11-25T17:14:03Z",
   "last_changed": "2026-11-25T17:14:03Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Trump speak to Mark Rutte by December 31?",
   "revisions": 1,
   "sha256": "bb45fa90a71e679f1c4ffb12732c9a59fd7337ff6a3ee85af823317835a88ff8",
@@ -1118,10 +1119,20 @@
   "sha256": "dbc6416b2892c8e5a9f6cfcfd1fe2eb96e256c8ab8b9261026e2eeb9cddc2bae",
   "slug": "will-leon-finish-2nd-in-the-2026-liga-mx-apertura-20260722170637354"
  },
+ "0x999fe2117508a13ac2786ecd1099106c7f1b71a1d8c1dca797af0679af01a977": {
+  "created_at": "2026-11-26T00:26:37.981375Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Anthropic announces it has achieved AGI before 2028?",
+  "revisions": 1,
+  "sha256": "f5836cf946e5bda5da58bab06deea0f580ca16bd6d0831cd3289f43b1a98f881",
+  "slug": "anthropic-announces-it-has-achieved-agi-before-2028"
+ },
  "0x9ab3129a834265af347ca68c90ead44794bad4cb6511753c4b726caa0602cc77": {
   "created_at": "2026-10-25T10:45:21.115084Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 0.5",
   "revisions": 1,
   "sha256": "7574c1dbc3ea50d33d409e6865fe36e0a9392ca7967e789bd4dc80daf660a8f8",
@@ -1735,6 +1746,7 @@
   "created_at": "2026-10-25T10:15:16.367265Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Aurora FC leading at halftime?",
   "revisions": 1,
   "sha256": "ad80b58cfb1de53332ba51d2ad01b012a3b022aad7641f399c5fd526e6521fdf",
@@ -1833,6 +1845,15 @@
   "revisions": 1,
   "sha256": "02b7e61d90e0d0ba282e855264696d74b257ad6ce19c6d5ed44cdfa38512ed86",
   "slug": "enl-gat-tam-2026-10-23-exact-score-5-4"
+ },
+ "0xf71db0bb98b6fff23881d70cab957a54576bd6d87cbb98d56281b0d52435a177": {
+  "created_at": "2026-11-26T00:00:24.447062Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will NVIDIA (NVDA) Q4 Data Center revenue be above $119B?",
+  "revisions": 1,
+  "sha256": "5a636451c0a545c1af21edb487dfae23d76a14b316717a5f8e18bb5975f9c1c8",
+  "slug": "will-nvidia-nvda-q4-data-center-revenue-be-above-119b"
  },
  "0xfb9e8c680b0c64eaacfbda9aee27fd234fc6c38bb723f018f97f8374e2417177": {
   "created_at": "2026-10-15T13:20:54.251099Z",

@@ -435,6 +435,15 @@
   "sha256": "f8ee655669af8304c9c1c5981ffe2d47e4ab8ada93e1493f8ba3733fab75f4b5",
   "slug": "will-total-votes-cast-in-the-2026-midterm-election-for-senator-from-montana-be-between-450000-and-500000"
  },
+ "0x3f2eaad7f1b390d2b7f95e0bf6dcf36b17b3d53e1d92f30f5842a7f6d1646009": {
+  "created_at": "2026-11-25T23:31:19.291071Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in June 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-june-2027-et"
+ },
  "0x4173330e3d955412d13f4c8ef40f24af10397b625ac9ddb0d30c65f0da2b0709": {
   "created_at": "2026-08-26T21:46:20.315922Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1149,6 +1158,7 @@
   "created_at": "2026-10-25T10:45:22.02319Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: Aurora FC 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "0125a8f68919beeb9a775bc2ea687b83ba92e65a929e6e56b7d664cbd0008e0b",
@@ -1645,6 +1655,7 @@
   "created_at": "2026-09-01T09:44:59.565784Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kharkiv O/U 3.5 Corners",
   "revisions": 1,
   "sha256": "7902598ebdfa9a51bc09df16ee3af52afb096efe9c22b87b2772b5b3cdb3b790",

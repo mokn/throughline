@@ -1019,6 +1019,15 @@
   "sha256": "3f426d24b9113d9c70ac71a61a008a5fea591680417aba687973dd65b834a2a4",
   "slug": "will-misti-cordell-be-the-republican-nominee-for-la-05"
  },
+ "0x95ab2e417aef1401ab49f63b7c782820aeec733f53a3b61bd0a6eda2ae66c38e": {
+  "created_at": "2026-11-25T21:15:03.609897Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Chicago Bears by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-chicago-bears-by-january-11-2027"
+ },
  "0x96707fbb585929ce5ff3a9b6604e54bc8d90c84799aefaf7997b5f256dd42b8e": {
   "created_at": "2026-01-28T15:34:05.609346Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1180,6 +1189,7 @@
   "created_at": "2026-09-28T19:34:03.480001Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Kansas 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
@@ -1424,6 +1434,15 @@
   "sha256": "1cbcc5ce100894b548ffdce20031034f5f5a19e6aa3d856b1448a3f64e5e911d",
   "slug": "el2-cra-bar-2026-09-26-second-half-total-3pt5"
  },
+ "0xdc8f7829aa186aa4b6c976815c4dbf1c6f94816b283ccad351ab2195d2697d8e": {
+  "created_at": "2026-11-26T02:27:25.123678Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $5.00?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-5pt00"
+ },
  "0xdd435e5e2fac35c9435a8fdbde204e9730d36828be7933902dc2b8e3e56a648e": {
   "created_at": "2026-08-24T16:39:13.627016Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1521,6 +1540,7 @@
   "created_at": "2026-10-25T10:45:21.420135Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "b3f9fa91ef00d891e45487698a30149dd7a7ff1d7060045c2e7f1ae3f800b395",

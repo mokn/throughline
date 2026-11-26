@@ -212,6 +212,7 @@
   "created_at": "2026-10-25T10:45:17.792843Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: O/U 6.5",
   "revisions": 1,
   "sha256": "a4ab3815b1e5ad9ec4eaf17561b38f7dd1789e709e671c2bfd3ef3c0a36c5cba",
@@ -282,6 +283,15 @@
   "revisions": 1,
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-texas-am-have-more-than-7pt5-wins-during-the-2026-cfb-season-20260810194043237"
+ },
+ "0x32fa80739934b9190e741cc769b2d7367728bc12fd8832f4ddd936957c293bdd": {
+  "created_at": "2026-11-25T23:00:14.015663Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Microsoft (MSFT) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-microsoft-get-a-credit-rating-downgrade-before-2028"
  },
  "0x342bfcb119bbbf5b92574d450ea539f8bb3701a0a617961c228560f38db921dd": {
   "created_at": "2026-08-24T16:40:40.381613Z",
@@ -1004,6 +1014,7 @@
   "created_at": "2026-10-20T23:04:43.295341Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Alfajer play for Natus Vincere in 2027?",
   "revisions": 1,
   "sha256": "1b278ee7a1a558845b1a507fd53521c041b5944801b6731deaee62b991ac24e2",

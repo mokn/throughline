@@ -1,0 +1,25 @@
+This market will resolve to "Yes" if S&P Global Ratings, Moody's Ratings, or Fitch Ratings publishes a rating action lowering its long-term credit rating for the company named in this market's question by one or more notches between market creation and December 31, 2027, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+A qualifying downgrade by any one of the three agencies is enough for a "Yes" resolution.
+
+For this market, "long-term credit rating" means S&P Global Ratings' long-term issuer credit rating, Moody's Ratings' long-term issuer rating or Corporate Family Rating (or, where Moody's Ratings has neither, its senior unsecured rating on the company), or Fitch Ratings' Long-Term Issuer Default Rating on the company named in this market's question. A "notch" is one step on the agency's rating scale (for example, AA to AA- on the S&P Global Ratings or Fitch Ratings scale, or Aa2 to Aa3 on the Moody's Ratings scale). Global-scale ratings count, in foreign or local currency; national-scale ratings do not. If Moody's Ratings replaces its issuer rating with a lower Corporate Family Rating in the same action, that counts as a downgrade. A move to a default designation (S&P Global Ratings 'SD' or 'D', or Fitch Ratings 'RD' or 'D') also counts as a downgrade.
+
+The following will not qualify: a change in outlook or CreditWatch/review status alone (for example, Stable to Negative outlook, or placement on review for downgrade); an affirmation, a withdrawal, or a change to a short-term rating; except as set out below, a downgrade of a specific debt issue, a subsidiary, or a financing vehicle that leaves the issuer-level rating unchanged; and rating actions by any agency other than S&P Global Ratings, Moody's Ratings, and Fitch Ratings, including Egan-Jones Ratings, Morningstar DBRS, and Scope Ratings.
+
+If an agency does not rate that company at market creation, only rating actions by the agencies that do rate it can resolve this market.
+
+The date of a rating action is the date the agency first publishes it, not any later effective date. Rating actions published before market creation do not count.
+
+If that company is acquired or merges into another company and its ratings are withdrawn, this market will resolve "No" unless a qualifying downgrade was published before the withdrawal or in the same rating action as the withdrawal.
+
+For this market, "the company" is the parent company named in this market's question (for example, NVIDIA Corporation for "Will NVIDIA (NVDA) get a credit rating downgrade before 2028?"), not any of its subsidiaries.
+
+If, at market creation, the company named in this market's question has no long-term credit rating (as defined above) from S&P Global Ratings, Moody's Ratings or Fitch Ratings, downgrades of its subsidiaries can resolve this market, notwithstanding the exclusion of subsidiary downgrades above.
+
+A qualifying subsidiary is any wholly owned subsidiary of that company that issues debt rated by one of these agencies, including any such subsidiary first rated after market creation.
+
+A downgrade by one or more notches of a qualifying subsidiary's long-term credit rating counts. If the subsidiary has no issuer-level rating, a downgrade of the rating on its senior secured notes counts instead. Other ratings on specific debt issues do not count.
+
+The following subsidiaries qualify in any case: WULF Compute LLC (TeraWulf); APLD ComputeCo LLC, APLD ComputeCo 2 LLC and APLD ComputeCo 3 LLC (Applied Digital); and Core Scientific Finance I LLC (Core Scientific).
+
+The resolution source for this market will be a consensus of credible reporting, including announcements published by the rating agencies themselves.

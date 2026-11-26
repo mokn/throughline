@@ -394,6 +394,15 @@
   "sha256": "5cf1205d0387de839d9f6b9a3398ae98245b6813b57a53fcc0b4c351261308cf",
   "slug": "will-the-republican-party-candidate-win-the-2026-in-03-house-election-by-20-25"
  },
+ "0x3fca88f267dd26af74e001f9a620638e01d5dc3aebc9fb6007fa1c2aea5ec622": {
+  "created_at": "2026-11-25T23:31:16.22036Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in February 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-february-2027-et"
+ },
  "0x40291651908a512bccbf3d109404ab70cd073651818bfbd161e912bfa89ee622": {
   "created_at": "2026-10-28T21:54:47.682586Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -525,6 +534,15 @@
   "revisions": 1,
   "sha256": "11893e01af4c77dee08d775884837b4d991e9ec2be021d19d75534268eb18867",
   "slug": "cdr-ute-sab-2026-10-28-first-half-team-total-home-2pt5"
+ },
+ "0x4b23afdee2cc1032cf6785ebbfae7b4d9910c1c92dd7f7d5efd712270cb4e022": {
+  "created_at": "2026-11-26T16:07:07.416695Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the total domestic gross for \"The Hunger Games: Sunrise on the Reaping\" be between $300M and $320M by December 31?",
+  "revisions": 1,
+  "sha256": "e7972bcfeb7af75236741a29154e3eddd344503fb47d67d00d68998506bedf17",
+  "slug": "will-the-total-domestic-gross-for-the-hunger-games-sunrise-on-the-reaping-be-between-300m-and-320m-by-december-31"
  },
  "0x4d81bcb3482598d1418ea473dfcc15078bdd3726ac429ea512279127e96a8522": {
   "created_at": "2026-10-14T20:18:58.569993Z",
@@ -803,6 +821,15 @@
   "revisions": 1,
   "sha256": "217e07a2116957372b16a623cec2ab01c641eb5db02b781d5cfc4816e9cb1faa",
   "slug": "will-the-democratic-party-candidate-win-the-2026-pa-02-house-election-by-30-35"
+ },
+ "0x71caee4a4d8ec21912a03b306d19ac59f3218d36978484f70d42621c5b955622": {
+  "created_at": "2026-11-26T10:45:37.248281Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Eric Chan be the next Chief Executive of Hong Kong?",
+  "revisions": 1,
+  "sha256": "2ebe2530b09a8bd8de8638ce0f70a2a9775690dc5849ea73f4397c42ac182355",
+  "slug": "will-eric-chan-be-the-next-chief-executive-of-hong-kong"
  },
  "0x7427b506dd42f41553bf34510618545bf2c32020a44fad6eb34f1fc7a7d79322": {
   "created_at": "2026-08-13T16:44:54.454597Z",
@@ -1414,6 +1441,7 @@
   "created_at": "2026-09-09T15:41:31.193948Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Krzysztof Piatek be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",

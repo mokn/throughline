@@ -120,6 +120,15 @@
   "sha256": "25cd15cd367f2ce711424cb36783fbdd662437bd9f78852d90dc87dd67a4e8dc",
   "slug": "will-the-republicans-win-the-alabama-governor-race-in-2026"
  },
+ "0x117a32aac2027722c262e8acdd43c3a85e7331a7d9b3936f491387510c4ff20b": {
+  "created_at": "2026-11-26T02:27:17.333473Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2028 be above $15.00?",
+  "revisions": 1,
+  "sha256": "f4fd47ab099e8d5bd1d97f12cee8e6c7af1210daa6bd3f642976d76b727076a2",
+  "slug": "h200-average-rental-price-in-december-2028-above-15pt00"
+ },
  "0x11dc3be8addaaef046552c6ea3598bd0d7b3479552713ca4cec43bcae773920b": {
   "created_at": "2026-07-20T19:24:15.25594Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1323,6 +1332,15 @@
   "sha256": "49a98279f7c965a53766d094c28c3f7bc416f621c32c834370a5186c788b2076",
   "slug": "will-falcons-dst-be-the-highest-scoring-dst-of-the-2026-27-nfl-season-20260806224132370"
  },
+ "0xba09216007509e240536d9c764492d82b3bd7088dc3b3642ea57969e789da60b": {
+  "created_at": "2026-11-26T00:25:46.50729Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "OpenAI vs. Anthropic: First to announce AGI?",
+  "revisions": 1,
+  "sha256": "4d21eef0e7a5ffd88869c0ce3234f285ba50a40e09ce543dc04e463bf06cb06d",
+  "slug": "openai-vs-anthropic-first-to-announce-agi"
+ },
  "0xbb73f07220bc985513bfaa55d71c9e15d6e18f841485004112969f40ccc0c80b": {
   "created_at": "2026-08-20T15:41:25.906889Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1546,6 +1564,7 @@
   "created_at": "2026-10-25T10:45:20.813384Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 4.5",
   "revisions": 1,
   "sha256": "30865d0a84ede726c88bd27f5af3d6f7c21960ae19e0de6df212b88a849c99d2",
@@ -1611,6 +1630,7 @@
   "created_at": "2026-09-08T16:05:53.488544Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Barcelona finish last in UCL league phase?",
   "revisions": 1,
   "sha256": "c827748d3bffd909603ce8a5611fee89352727c31de286b9d6045807806fe6aa",
@@ -1670,6 +1690,15 @@
   "revisions": 1,
   "sha256": "e5a8e4a9792994c905620fd8ce152d31ca72678b760f1347324ba4232957771d",
   "slug": "will-jaxon-smith-njigba-finish-the-2026-27-nfl-regular-season-with-the-most-receptions-20260715212154223"
+ },
+ "0xd7a9e054b1158d7225a2a35a6d95080a167d4af65aa855e418f7a7b2f535c50b": {
+  "created_at": "2026-11-26T00:24:18.470834Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the US and China announce an AI safety agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "af5f798b8275f782e0896ca17257961dadbb9cfbc6037d45475efec4317455d7",
+  "slug": "us-x-china-ai-safety-agreement-by-december-31-2027"
  },
  "0xd94c9c96fb71f8ea77906f44c650267aeb041de08c8e3ccf38b283a6686f5c0b": {
   "created_at": "2026-08-10T23:57:32.301714Z",

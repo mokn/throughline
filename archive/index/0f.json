@@ -203,6 +203,15 @@
   "sha256": "ff751e58354066dd4bbdcb1cb0514d55dbe859720f4b34b830d47417b430b514",
   "slug": "will-sc-freiburg-finish-second-in-uecl-league-phase"
  },
+ "0x1e9a7b9d0cd6828f3ab9a4aae24bc2bc0529a17126e29abfaaf8fab82baac00f": {
+  "created_at": "2026-11-26T02:27:19.72241Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in February 2027 be above $11.00?",
+  "revisions": 1,
+  "sha256": "54d8ac79bf27c7500af7a33ee763b1da8d0b5b35ee0e1102d8ae11044415f296",
+  "slug": "h200-average-rental-price-in-february-2027-above-11pt00"
+ },
  "0x1f1396a444b12c5f7cf0d840aae5fa8dee8984d9371b99bef2fd10e5143a890f": {
   "created_at": "2026-10-15T17:02:04.063281Z",
   "first_seen": "2026-11-06T14:17:12Z",
@@ -968,6 +977,7 @@
   "created_at": "2026-10-25T10:15:18.114221Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 2 - 2 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -1231,6 +1241,15 @@
   "sha256": "c02e69877e981955210e56682946e7eba83815efe1be0b109c7b00c016e64329",
   "slug": "enl-bar-fgr-2026-10-24-exact-score-4-1"
  },
+ "0xb2730d3b3b747cadd645f6bfa61b53b8a87ffed1965feeb6ac636d7ceac54b0f": {
+  "created_at": "2026-11-26T02:27:16.796361Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in June 2027 be above $16.00?",
+  "revisions": 1,
+  "sha256": "01baf954b95edd731e518670c419fd699a485f7b2e09bfbf731d3b2fe43ac157",
+  "slug": "h200-average-rental-price-in-june-2027-above-16pt00"
+ },
  "0xb36a95aeb6424022f3ca31f4eb35c7c046849abe1bea1765017927fa5c1d960f": {
   "created_at": "2026-11-03T17:43:08.974836Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1367,6 +1386,15 @@
   "revisions": 1,
   "sha256": "6e0ae26a06862d3adea7b58ebd2995048192772870f6561bacc4ebb153a2390c",
   "slug": "will-fortaleza-finish-3rd-in-brazil-serie-b-2026"
+ },
+ "0xc3be242173b7f5f210133adc47c1713d93acd9ce0763a2f8ea8ef8c2fcae650f": {
+  "created_at": "2026-11-26T02:27:20.829401Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in September 2027 be above $2.00?",
+  "revisions": 1,
+  "sha256": "8bbc276d288d0115972ba2efa31cdfffda911bc7405123a10c2de94b32697105",
+  "slug": "h200-average-rental-price-in-september-2027-above-2pt00"
  },
  "0xc75b93cf7488d87485ed617b8bc73a900c3cf24a9047e732508c5fc8cea27a0f": {
   "created_at": "2026-11-23T23:55:26.192477Z",

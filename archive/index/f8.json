@@ -93,6 +93,7 @@
   "created_at": "2026-10-25T10:45:16.428862Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Spread: Aurora FC (-4.5)",
   "revisions": 1,
   "sha256": "cea1b17da83899961f1b6f5c80041adaaa29aaab6ac182f08d06b8be778df5ab",
@@ -554,10 +555,20 @@
   "created_at": "2026-09-09T15:17:50.713697Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Sabah finish first in UCL league phase?",
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
   "slug": "will-sabah-finish-first-in-the-2026-27-ucl-league-phase"
+ },
+ "0x6b0c1a85f9912de089b7c4c9de07ac3175d26df1bb30c42a7a909506f0adcbf8": {
+  "created_at": "2026-11-26T02:27:17.927858Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2028 be above $13.00?",
+  "revisions": 1,
+  "sha256": "f4fd47ab099e8d5bd1d97f12cee8e6c7af1210daa6bd3f642976d76b727076a2",
+  "slug": "h200-average-rental-price-in-december-2028-above-13pt00"
  },
  "0x6b7a47551fdda75ac70c1da9e64a818761c9e76a15445001a3ac0f3997e648f8": {
   "created_at": "2026-10-21T23:29:58.459514Z",
@@ -731,6 +742,15 @@
   "sha256": "5e72e7a2a2ef09272e5ee18abf8e64dc1c896a880a075f09f61898661b8f97f2",
   "slug": "will-john-goodman-win-best-supporting-actor-at-the-99th-academy-awards-20260805190945738"
  },
+ "0x7c2200e26582a5fe1096618c59b669ea2934b2a36f064aa5e1154d513bf6fdf8": {
+  "created_at": "2026-11-26T00:10:49.491651Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "NVIDIA (NVDA) Q4 adjusted gross margin from 70.75% to under 71.25%?",
+  "revisions": 1,
+  "sha256": "69e99aa7ce2c959b690596c2fb7ecf9dba40f75d54f1d8be267a15a327901bce",
+  "slug": "nvidia-nvda-q4-adjusted-gross-margin-non-gaap-70pt75-to-71pt25"
+ },
  "0x7cc2bc8216569dcb0279f637e0616ace3c9162c59a76a782e227cb4e8f2c96f8": {
   "created_at": "2026-08-12T17:27:16.737957Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -763,6 +783,7 @@
   "created_at": "2026-09-17T17:23:22.677196Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Nebraska Republican perform worst among these tossup Senate races?",
   "revisions": 1,
   "sha256": "cea138b3481af1859b9171a9efd1aa7bcad032a9d76cf275404a0a1e66145674",
@@ -1122,6 +1143,7 @@
   "created_at": "2026-10-25T10:45:17.016062Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: O/U 1.5",
   "revisions": 1,
   "sha256": "7f7451b81f579002993d50bc802b2545bf1206e376e88743d6ee34b7ad27b427",
@@ -1241,6 +1263,7 @@
   "created_at": "2026-10-01T19:44:08.149863Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: O/U 13.5 Total Corners",
   "revisions": 1,
   "sha256": "54c27c84209c228c3775412ff2e765f3bf42e5d6d868b158bcf85556149aabb5",

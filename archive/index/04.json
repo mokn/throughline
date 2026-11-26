@@ -1204,6 +1204,7 @@
   "created_at": "2026-08-10T20:00:59.36186Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Anna Zelvin be the next Regional Board Chair of Region Kronoberg?",
   "revisions": 1,
   "sha256": "337a9845824e66122a9e62f75ab36836a4b9c9260a554b71726770cf1ae12e92",
@@ -1298,6 +1299,15 @@
   "revisions": 1,
   "sha256": "aeac7acaf835dd63954e25aec3194b47fb9a4ae912bd54a50c51941b2cbd1556",
   "slug": "will-michael-fassbender-be-nominated-for-best-supporting-actor-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xa031503a9748e0c665ad4173c8a783c44ba413e1485631d7e154f3d92b86b204": {
+  "created_at": "2026-11-26T16:07:11.406094Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the total domestic gross for \"The Hunger Games: Sunrise on the Reaping\" be at least $400M by December 31?",
+  "revisions": 1,
+  "sha256": "e7972bcfeb7af75236741a29154e3eddd344503fb47d67d00d68998506bedf17",
+  "slug": "will-the-total-domestic-gross-for-the-hunger-games-sunrise-on-the-reaping-be-at-least-400m-by-december-31"
  },
  "0xa26d1b29dba500b32e8ee514fdeeef7a64ba949cd9fcba4994357125f99a9204": {
   "created_at": "2026-11-03T17:05:56.384911Z",
@@ -1513,6 +1523,7 @@
   "created_at": "2026-09-01T09:44:58.947999Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: FK Kryvbas Kryvyi Rih O/U 4.5 Corners",
   "revisions": 1,
   "sha256": "ecf93478eb84a164ad0383aaed5ce62310c5a2a0e535caafc6f4f86ba4ee311a",

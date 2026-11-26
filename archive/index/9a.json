@@ -39,6 +39,7 @@
   "created_at": "2026-09-09T15:41:28.083104Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Artem Dovbyk be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
@@ -230,6 +231,7 @@
   "created_at": "2026-09-09T15:41:28.334573Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Roman Yaremchuk be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
@@ -295,6 +297,7 @@
   "created_at": "2026-10-25T10:15:17.33226Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 1 - 1 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -619,6 +622,15 @@
   "sha256": "44e9552af309b3777ae6469fe47754e212eadc00b7ea8f676d82e02ee6bc19f9",
   "slug": "will-puskas-akademia-fc-be-relegated-from-nb-i-hungary-2026-27"
  },
+ "0x5bfa38ded369d5a486eee25b8b31312bd53bc0b6dc6ab4dae7d3a4f98fb9e29a": {
+  "created_at": "2026-11-26T00:47:16.092879Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Anthropic (ANT) Q4 revenue be above $22B?",
+  "revisions": 1,
+  "sha256": "6be5973a8afa507a8d5eeeca96f85a80b4b921c435c2883c8381e16a1b9fdcee",
+  "slug": "will-anthropic-ant-q4-revenue-be-above-22b"
+ },
  "0x5d62566549908ff22300ca96bf882dcbed70e7613c849969880eb39fa1d6979a": {
   "created_at": "2026-08-21T17:31:54.500052Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -744,6 +756,7 @@
   "created_at": "2026-10-25T10:45:20.664547Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: Aurora FC O/U 3.5",
   "revisions": 1,
   "sha256": "69a667c5d26d2df5c8b8757018d1c0f89c129adaa366b5f41167d427466c8b71",
@@ -850,6 +863,15 @@
   "revisions": 1,
   "sha256": "3a95be94eba97c54c8e1bb5dba8778012bc5846b244853ec79bf2017fd4fb99a",
   "slug": "ukraine-recognizes-russian-sovereignty-over-its-territory-by-june-30-2027"
+ },
+ "0x878730f4ba1243e5ea73b4fbd939339a37c0fa55b1bcc439f5952b550d789e9a": {
+  "created_at": "2026-11-25T23:41:40.814795Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI list on Nasdaq in its IPO?",
+  "revisions": 1,
+  "sha256": "1b9dbceb0f8807d82315ad4595214a08291c73b79c42716034dba4202dec7fbe",
+  "slug": "will-openai-list-on-nasdaq-in-its-ipo"
  },
  "0x87f73009f39c40959acb470adbd05c18bc0877c3766d33c6a47274ff16cb849a": {
   "created_at": "2026-10-05T03:29:13.31149Z",
@@ -1152,6 +1174,15 @@
   "sha256": "07e67ab253eb85b0e06078d35baf06b7bc3420870ca0721e39e066ec0da42f83",
   "slug": "will-jacob-fowler-record-4-shutouts"
  },
+ "0xaf95bf2e76e17a221f0b1ca4532bf1c71f856338733deff54b2a83ef6de5af9a": {
+  "created_at": "2026-11-26T00:38:22.82717Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will CoreWeave (CRWV) Q4 revenue be above $4.95B?",
+  "revisions": 1,
+  "sha256": "722793f1769e9892fbf06383e3e4dc5335b10a526548bfa9b893d538c96eaa86",
+  "slug": "will-coreweave-crwv-q4-revenue-be-above-4pt95b"
+ },
  "0xb06fb2a00b13d505e6f05677c545745c3ce1622f8b890b4ec0751b27fda8759a": {
   "created_at": "2026-09-02T21:58:26.9334Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1206,6 +1237,15 @@
   "revisions": 1,
   "sha256": "c83d613acfdfe212b5ea098cf69d74b0be63eb8b4dc6f350585666186ad0573c",
   "slug": "will-the-las-vegas-nba-franchise-and-arena-price-be-between-12b-and-13b"
+ },
+ "0xb4920b79a49682eee760ebc10aaefce8a6813aaae909c7d03c3376a8d19ae59a": {
+  "created_at": "2026-11-25T21:15:15.804955Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the New Orleans Saints by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-new-orleans-saints-by-january-11-2027"
  },
  "0xb5125a7b717b8b814cc7ea48ffc235ce46df8fc4167de286b613d8dc4cab899a": {
   "created_at": "2026-11-07T00:06:38.216991Z",
@@ -1547,6 +1587,7 @@
   "created_at": "2026-09-09T02:37:36.348224Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Eternal Fire in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",

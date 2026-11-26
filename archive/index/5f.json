@@ -530,6 +530,7 @@
   "created_at": "2026-11-18T19:38:34.547231Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will \"GTA VI: The Album\" first week sales be at least 400k?",
   "revisions": 1,
   "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
@@ -691,6 +692,15 @@
   "revisions": 1,
   "sha256": "b1f04e1db5691eb712d926eb55321d72e95d39651658bf6a32c942ae888e3f0a",
   "slug": "will-shandong-taishan-be-relegated-from-chinese-super-league-2026"
+ },
+ "0x52c58b096852d011e34c431e18bbff1a65c25c6a850d6446e4c5ed400f65f25f": {
+  "created_at": "2026-11-26T02:27:20.58519Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in June 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "01baf954b95edd731e518670c419fd699a485f7b2e09bfbf731d3b2fe43ac157",
+  "slug": "h200-average-rental-price-in-june-2027-above-8pt00"
  },
  "0x53c288cea8d16a50fe4b0a92b7a959b1040cdb887ac9f65659274ff3fc49ad5f": {
   "created_at": "2026-07-29T19:31:55.042915Z",
@@ -1312,6 +1322,7 @@
   "created_at": "2026-10-03T11:32:33.515305Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Who will finish higher: Ocon or Bearman?",
   "revisions": 1,
   "sha256": "67e59a3a6288e73aaba21fbaef29a0471996c852dd850e93f0e80abbc47bffc0",
@@ -1700,6 +1711,15 @@
   "sha256": "b21eb88fedd03240a0fbc442c4ddc943466f764be59ef1d2d7628b62bf1d0790",
   "slug": "will-monterrey-win-the-2026-liga-mx-apertura-20260713222753214"
  },
+ "0xe6cf603980a4034b25c7e5bdac8874128627bfdf24146d096180607bc8de5a5f": {
+  "created_at": "2026-11-25T23:31:22.407621Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in November 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-november-2027-et"
+ },
  "0xe88435c1aa9a794cb25a55ced10846dd95c1ab24ea57b5a2ddb5724c06735d5f": {
   "created_at": "2026-09-18T00:08:44.748991Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1923,6 +1943,7 @@
   "created_at": "2026-10-25T10:45:19.896119Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 4.5",
   "revisions": 1,
   "sha256": "f687f349c05cf651400f7929c798250f65d6520c1935655cbf3471c882f72d5d",

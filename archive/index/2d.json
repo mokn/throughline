@@ -529,6 +529,7 @@
   "created_at": "2026-09-02T17:44:48.007625Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Texas Democrat perform best among these tossup Senate races?",
   "revisions": 1,
   "sha256": "6db0c3880a2b0ddc85692bbd5c36db563ba70e6107443a6f6ef872e5c818d44b",
@@ -928,6 +929,7 @@
   "created_at": "2026-07-29T18:38:11.111089Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Montana 2026 Senate race be within 5%?",
   "revisions": 1,
   "sha256": "8e4b8cf85bb30efcd93fdbe04059776f789b53eab18da598805d082a4d7a8ab5",
@@ -1281,6 +1283,15 @@
   "sha256": "4d0e126bfd8ed87e9fbeb93802811dd3c6297048960e5a1cf28efdc4eaa9fe51",
   "slug": "will-the-next-grok-model-4pt8-be-released-on-november-30-2026"
  },
+ "0xc50d91d018b8991318cf20fd28cb491bfa7a771eb0a7de429c0990690125102d": {
+  "created_at": "2026-11-26T00:00:29.025819Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will NVIDIA (NVDA) Q4 Data Center revenue be above $125B?",
+  "revisions": 1,
+  "sha256": "5a636451c0a545c1af21edb487dfae23d76a14b316717a5f8e18bb5975f9c1c8",
+  "slug": "will-nvidia-nvda-q4-data-center-revenue-be-above-125b"
+ },
  "0xc62070f9110be2e92d61c18e29c29e23623df92e771891000e292aa56c0be92d": {
   "created_at": "2026-08-24T16:38:51.927879Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1317,6 +1328,15 @@
   "revisions": 1,
   "sha256": "de438fa7cc03ef807e7b671336bb94399d4c2bf7535dd08685454077510c8ea0",
   "slug": "will-the-la-clippers-be-the-2027-nba-western-conference-champion-20260624160106899"
+ },
+ "0xc8c9bb38474cb14403bef3c5d24856e86c0278e25e3c92570a845a6d55b5d12d": {
+  "created_at": "2026-11-25T21:15:11.989959Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Las Vegas Raiders by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-las-vegas-raiders-by-january-11-2027"
  },
  "0xc8f2bd77e2b1f56293b349607df7375c9fdfc776dcb6d50aa44ecc4ec7ded32d": {
   "created_at": "2026-10-15T18:02:46.5475Z",
@@ -1601,6 +1621,7 @@
   "created_at": "2026-11-23T16:32:18.853264Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will PVISION (PARIVISION) qualify to Stage 2 at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "f79ff8679cb97ff76eefe88dcc67396a1543dd9876cb9f8fa33d92ed43fb7a7b",

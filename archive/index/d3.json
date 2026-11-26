@@ -1030,6 +1030,7 @@
   "created_at": "2026-10-01T19:44:10.600379Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Al Nassr Saudi Club O/U 5.5 Corners",
   "revisions": 1,
   "sha256": "32d00136d120afbe11a97aff7d068e11a97f4fc7758a2d3164e9e9c0ef26b230",
@@ -1522,6 +1523,15 @@
   "sha256": "d1e36ea1732f901147a38121d8454274bd5d60354c7d5a61ef5cacda2df67ddc",
   "slug": "will-cashcat-reach-0pt30-by-december-31-2026"
  },
+ "0xd28e745e4cc563289f10610a8ea80dac53f4bfcae15f2399edfc6f3784644fd3": {
+  "created_at": "2026-11-25T23:31:21.835653Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in October 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-october-2027-et"
+ },
  "0xd6863ae6d4b0383bab544eda45097cabbf0a3f7645a7bd8c9b43e4ae3c2c2ad3": {
   "created_at": "2026-08-11T18:42:13.151979Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1673,6 +1683,15 @@
   "revisions": 1,
   "sha256": "772bf0bf0d2090ae89453897c6b29781bb7257cc596cbd330e07bec4536c95b9",
   "slug": "will-the-republican-party-win-the-fl-21-house-seat"
+ },
+ "0xe7159a0082f3bbe5fe73618648cf17d1fda69aae9b5180c61fff6fc175149ed3": {
+  "created_at": "2026-11-26T02:27:23.477114Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in February 2027 be above $5.00?",
+  "revisions": 1,
+  "sha256": "54d8ac79bf27c7500af7a33ee763b1da8d0b5b35ee0e1102d8ae11044415f296",
+  "slug": "h200-average-rental-price-in-february-2027-above-5pt00"
  },
  "0xe7b075179141f212a5bad4c6608ca381971dfad7cda099b156d8aa0d6f77dfd3": {
   "created_at": "2026-08-11T19:04:21.963299Z",
@@ -1861,6 +1880,15 @@
   "revisions": 1,
   "sha256": "627501154c969ab6caff38f4adc11dc3c9cec91088b9481873aff160ebef17bc",
   "slug": "2027-year-end-world-no-1-golfer-cameron-young"
+ },
+ "0xfdec7991e27c1dafc0c9ab528cb3334a1a08565069da0548b10269bba2d0d3d3": {
+  "created_at": "2026-11-25T23:27:54.435528Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Japan Q4 GDP growth (annualized) be between -2.4% and -1.6%?",
+  "revisions": 1,
+  "sha256": "3e2af402071d8515f26cccd02e87221a9a695061bd271614baac677f912a46e4",
+  "slug": "will-japan-q4-gdp-growth-annualized-be-between-2pt4-and-1pt6"
  },
  "0xff9e350cd274f10e68810dda0f6b949af43aac94daf19696f8567515273d07d3": {
   "created_at": "2026-09-04T19:04:32.869565Z",

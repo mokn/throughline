@@ -21,6 +21,7 @@
   "created_at": "2026-10-25T10:15:22.63343Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Aurora FC to score first vs. CSD Municipal?",
   "revisions": 1,
   "sha256": "d74cad6e1d8784df8293357c82d06d201ec930c5c432bce2ad0d12725c5c92ec",
@@ -176,6 +177,7 @@
   "created_at": "2026-09-27T03:01:35.402509Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will there be at least 6000 measles cases in the U.S. in 2026?",
   "revisions": 1,
   "sha256": "aff22e838d8c514d1ed5bb653d1182c926a0bb95468faf559bcf2e26e6281b21",
@@ -456,6 +458,15 @@
   "revisions": 1,
   "sha256": "6de0a29a7e63e211f06af742af3410fccedd55aff27d3e689e7a0d34235fa0cc",
   "slug": "nba-2026-27-clutch-player-of-the-year-caleb-wilson"
+ },
+ "0x3e88a44a2d27ece84d43b8279da8eb9ea35732078611f98d7774b9a8126c1f4b": {
+  "created_at": "2026-11-26T02:27:21.614629Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in February 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "54d8ac79bf27c7500af7a33ee763b1da8d0b5b35ee0e1102d8ae11044415f296",
+  "slug": "h200-average-rental-price-in-february-2027-above-8pt00"
  },
  "0x3fdb66f066a9a597ddb16395020b0965b13f90058656d18cb0cb82d770baa24b": {
   "created_at": "2026-10-25T04:00:59.384658Z",
@@ -1031,6 +1042,7 @@
   "created_at": "2026-10-25T10:15:17.517022Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 0 - 3 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",

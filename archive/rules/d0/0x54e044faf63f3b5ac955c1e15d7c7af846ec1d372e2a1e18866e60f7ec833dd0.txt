@@ -1,0 +1,9 @@
+This market will resolve to “Yes” if a customer of Etched other than Jane Street is publicly named between market creation and the specified date, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+A customer is a company or organization that has purchased, ordered, leased, or entered into a contract to use Etched hardware or dedicated compute capacity running on Etched hardware. A cloud provider or other company that purchases or leases Etched hardware to offer to its own customers qualifies as a customer.
+
+A customer is publicly named when Etched or an authorized representative of Etched officially announces or confirms that the customer has purchased, ordered, leased, or contracted to use Etched hardware or dedicated compute capacity running on Etched hardware, or when the customer officially announces this and the announcement is confirmed by a consensus of credible reporting. References to unnamed customers (e.g., “a leading hyperscaler”, “multiple customers”) do not qualify.
+
+The following do not qualify: Jane Street and its subsidiaries; investments in Etched without a purchase, order, lease, or contract for its hardware or compute; and evaluations, pilots, or tests of Etched hardware, or plans to purchase or use Etched hardware in the future, which do not include a presently committed purchase, order, lease, or contract.
+
+The resolution source for this market will be official information from Etched and its customers; however, a consensus of credible reporting will also be used.

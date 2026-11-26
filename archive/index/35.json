@@ -68,6 +68,7 @@
   "created_at": "2026-09-09T02:37:36.149673Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for BBL Esports in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -975,6 +976,15 @@
   "sha256": "711fec18718af09dc760086fdb2091076137381b4b295dc097d64f6bc9dffc73",
   "slug": "el2-wal-cra-2026-10-03-exact-score-0-3"
  },
+ "0x8cb05b3709c8a73836dafa7563c1c94a10e0f71d78c7af61834bdbf9f7905935": {
+  "created_at": "2026-11-26T00:22:05.724335Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Advanced Micro Devices (AMD) Q4 Data Center revenue be above $14B?",
+  "revisions": 1,
+  "sha256": "e8e73549bdbbea0a4720e631fc9af867cde5e99e32d8f985395d09e54042d4f0",
+  "slug": "will-advanced-micro-devices-amd-q4-data-center-revenue-be-above-14b"
+ },
  "0x8d930fcb1da0c8e2765eccca31cadb027e505f331ff02295021e3a5d82ede035": {
   "created_at": "2026-09-02T06:01:10.200818Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1052,6 +1062,7 @@
   "created_at": "2026-08-27T23:06:47.987159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Bank of Korea cut by 50 bps or more at the November 2026 meeting?",
   "revisions": 1,
   "sha256": "7c0552963f8162bff6284a11470f05da8668a377191f647f70c4c4e35e632654",

@@ -1111,6 +1111,15 @@
   "sha256": "884c6e8e81433ab154a6687fd724dbc49935e9c0cc8fe78b4b9fc8753c1b87fc",
   "slug": "will-bytedance-be-the-second-best-ai-lab-at-the-end-of-november-2026"
  },
+ "0xb3ab1ba3193bde3426a8e0a214f595e477fcf0e5919606d53882da0d587ed717": {
+  "created_at": "2026-11-25T22:59:53.7701Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Applied Digital (APLD) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-applied-digital-get-a-credit-rating-downgrade-by-june-30-2027"
+ },
  "0xb5e9f2022d613d259f67b52838c8c0e21b9d94be0a3b5bebec7b96752fb89d17": {
   "created_at": "2026-08-28T05:57:29.185251Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1251,6 +1260,7 @@
   "created_at": "2026-10-20T23:03:03.710953Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will valyn play for Leviat\u00e1n Esports in 2027?",
   "revisions": 1,
   "sha256": "c357d9466bbaaf4c8a5f99e9f0349641c222010370794e86210cdf6b76761e5d",
@@ -1728,6 +1738,7 @@
   "created_at": "2026-10-25T10:15:17.061307Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 0 - 1 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",

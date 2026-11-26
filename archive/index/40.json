@@ -1288,6 +1288,7 @@
   "created_at": "2026-10-24T11:30:33.454151Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Kimi Antonelli achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",
@@ -1733,6 +1734,15 @@
   "revisions": 1,
   "sha256": "4c684ebaee96d69971101bb0bb97ac480c87429cf9018c937299dfef68f22829",
   "slug": "el1-ste-swe-2026-09-26-exact-score-2-1"
+ },
+ "0xfccd8edef86f208ed55fd914de988348920cce730816ce86e22c5e07240b1540": {
+  "created_at": "2026-11-25T23:00:12.897461Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Oracle (ORCL) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-oracle-get-a-credit-rating-downgrade-before-2028"
  },
  "0xfcdd75f1b3e0c646d044096058096016b0d43ed9aad31dff3b8373c1b35c6a40": {
   "created_at": "2026-11-25T13:18:53.111312Z",

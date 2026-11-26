@@ -807,6 +807,15 @@
   "sha256": "40e43f2d3d6f8092cacc89c4151bc6247d8d5e36e0618f999c77bdcaa433a667",
   "slug": "will-the-democratic-party-candidate-win-the-2026-iowa-attorney-general-election"
  },
+ "0x8d23001d212151dca90f761c038ff03ab77858e5158b23aabb9ea6b569a17c2f": {
+  "created_at": "2026-11-26T02:27:24.004076Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in June 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "01baf954b95edd731e518670c419fd699a485f7b2e09bfbf731d3b2fe43ac157",
+  "slug": "h200-average-rental-price-in-june-2027-above-4pt00"
+ },
  "0x8d66815535c3f999b02806f35e2c28bc187c4cbbf68c72471336aeee3024cf2f": {
   "created_at": "2025-11-24T21:21:38.118843Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1218,6 +1227,15 @@
   "revisions": 1,
   "sha256": "53a30c348b335b6b275715526734df38f9d660d236f6a4b8d1ac0a2b5883f4e0",
   "slug": "will-perpl-launch-a-token-by-december-31-2027-20260708174007611"
+ },
+ "0xc7155f5682cf0851ba3d4a95745bcce730d3ae1cc40629c4fc292f586f5d562f": {
+  "created_at": "2026-11-26T00:38:19.445863Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will CoreWeave (CRWV) Q4 revenue be above $4.70B?",
+  "revisions": 1,
+  "sha256": "722793f1769e9892fbf06383e3e4dc5335b10a526548bfa9b893d538c96eaa86",
+  "slug": "will-coreweave-crwv-q4-revenue-be-above-4pt70b"
  },
  "0xc84df3f58b7f1422c845c624d05010043421c067f35d305068c92715514ba22f": {
   "created_at": "2026-10-13T15:56:58.107301Z",

@@ -564,6 +564,15 @@
   "sha256": "d3154a35108708388685e3742a43ce92717d12f0d108bc34e21c1d1db2a4f491",
   "slug": "scop-ran-abe-2026-10-31-first-to-score-away"
  },
+ "0x4cbfc21a31b5826394494248cf18b0d03c612f12e0b6474c69b0aa01845dfff3": {
+  "created_at": "2026-11-25T23:27:55.597567Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Japan Q4 GDP growth (annualized) be between -0.8% and 0.0%?",
+  "revisions": 1,
+  "sha256": "3e2af402071d8515f26cccd02e87221a9a695061bd271614baac677f912a46e4",
+  "slug": "will-japan-q4-gdp-growth-annualized-be-between-0pt8-and-0pt0"
+ },
  "0x4d6c6ff42ea435092695670bffee22e8c2128031d78dc96edc17c48c5954b0f3": {
   "created_at": "2026-07-22T14:57:26.846494Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1260,6 +1269,15 @@
   "sha256": "23381dabfc057f9f0d4424097b463c850f7c3e4a56cd13f8d9fe02e37171f24d",
   "slug": "will-the-democratic-party-win-the-la-06-house-seat"
  },
+ "0x94b233209ddcd807a28e51828a2d6e2d916416a4ceaeabab6ea3cf33e7d97ff3": {
+  "created_at": "2026-11-26T16:12:59.19502Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Zohran Mamdani say \"Afford\" or \"Affordable\" or \"Affordability\" during his next livestream?",
+  "revisions": 1,
+  "sha256": "5af4d222277d83623b4ce7707eaca102ee12bedb9833bfc160110414f36d2133",
+  "slug": "will-zohran-mamdani-say-afford-or-affordable-or-affordability-during-his-next-livestream-20261126"
+ },
  "0x95160da4518267bf4e915a7796643f2d62581bde32dc60d3a5ed0a59a645f4f3": {
   "created_at": "2026-11-07T12:30:12.86427Z",
   "first_seen": "2026-11-07T13:00:35Z",
@@ -1655,6 +1673,15 @@
   "sha256": "a0176bf16a54ef2639db94b82f0a45f91e6bd8e56eb6ebb8f4b4a92460eaf025",
   "slug": "will-carolina-hurricanes-advance-to-the-eastern-conference-finals-of-the-2027-stanley-cup-playoffs"
  },
+ "0xd090acdd6723110e5cc33f7a8121519791d59802f6d6bd4e6086d3cb071f23f3": {
+  "created_at": "2026-11-25T23:27:56.841564Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Japan Q4 GDP growth (annualized) be between 0.8% and 1.6%?",
+  "revisions": 1,
+  "sha256": "3e2af402071d8515f26cccd02e87221a9a695061bd271614baac677f912a46e4",
+  "slug": "will-japan-q4-gdp-growth-annualized-be-between-0pt8-and-1pt6"
+ },
  "0xd10d96a4232c7a50a8347548c79526cae83c5e73621acaebe4d091bb797db2f3": {
   "created_at": "2026-08-07T15:58:34.480434Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1678,6 +1705,7 @@
   "created_at": "2026-09-09T02:37:37.962483Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Team Liquid in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -2017,6 +2045,7 @@
   "created_at": "2026-09-09T15:41:19.071473Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Moise Kean be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",

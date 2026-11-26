@@ -273,6 +273,7 @@
   "created_at": "2026-08-10T15:02:49.876159Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Republican Party candidate win the 2026 KY-06 House election by 3%-6%?",
   "revisions": 1,
   "sha256": "0fa6d2a30d26a378514e352b6351fd007985069be7a1ce05d4ffacb429ec1f51",
@@ -659,6 +660,7 @@
   "created_at": "2026-10-25T10:15:20.134157Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: Any Other Score?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -812,6 +814,15 @@
   "revisions": 1,
   "sha256": "00d756585611d14e319cdaa0c6abfc65c8adba0df2f50083d81843aa30515b91",
   "slug": "will-jalen-hurts-finish-the-2026-27-nfl-regular-season-with-the-most-passing-touchdowns-20260715212611270"
+ },
+ "0x67d4fff50ad850751c2ee34d1ed1da57b0c3253b3020d55fd61059b35e06a7fb": {
+  "created_at": "2026-10-16T18:05:42.199847Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Danielle Alvarez be the next White House Press Secretary?",
+  "revisions": 1,
+  "sha256": "1c3fafca01e3939b741bb2455b4b741dc33c89930ab31665c1a7716c8e25b7bb",
+  "slug": "will-danielle-alvarez-be-the-next-white-house-press-secretary-2027"
  },
  "0x6858a36c94e70f60dad95997d4f48442e9c0595d5819816cbd707e2bd44469fb": {
   "created_at": "2026-09-28T15:12:26.411542Z",
@@ -1219,6 +1230,15 @@
   "sha256": "3a2287c69794667bcccbf22f6c18173730051d89e5759498e6f05dc12ff50744",
   "slug": "will-cade-cunningham-win-the-2026-27-nba-mvp"
  },
+ "0x9b05b9b5a10ba924d028a372bd6664bcb8183fb3c580caeabffd0a8f021278fb": {
+  "created_at": "2026-11-26T16:08:37.365836Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will \"Avengers: Doomsday\" not reach $1B domestic box office by January 31?",
+  "revisions": 1,
+  "sha256": "0607c660ed8fad349756f17f701c90bc0ee59f90c2ec6aed7f2514f1792cee3a",
+  "slug": "will-avengers-doomsday-not-reach-1b-domestic-box-office-by-january-31"
+ },
  "0x9c2c36b4081dde2a130c1b6f37723d541c98b7a8a826c9d637a9d1e23130e8fb": {
   "created_at": "2026-10-13T20:02:19.917185Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1259,10 +1279,20 @@
   "created_at": "2026-10-13T15:55:43.745457Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Chicago Bulls reach the 2026 NBA Cup Knockout Rounds?",
   "revisions": 1,
   "sha256": "92d3fcfa93574a04b4b63b74b40ec4d75c933697e2d7606eb1e976572a86ae51",
   "slug": "nba-team-to-reach-2026-nba-cup-knockout-rounds-chicago-bulls"
+ },
+ "0xa2211d39b1fab8f058e3561234602dbd5c0bdf653a8fc8a01ad5041c64a55efb": {
+  "created_at": "2026-11-26T16:18:00.045215Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Yuan Jiajun be the next member of China\u2019s Politburo Standing Committee?",
+  "revisions": 1,
+  "sha256": "2a0ceb9db0191b48dfdc2ffe3e5b919f907ad9dd0eba18689c9fb4b61c4c533d",
+  "slug": "will-yuan-jiajun-be-the-next-member-of-chinas-politburo-standing-committee"
  },
  "0xa452c40308975f18f78daf5f877f55a49b451f787326232759ad9c8f060518fb": {
   "created_at": "2026-10-24T11:30:15.177134Z",

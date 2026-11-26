@@ -113,6 +113,7 @@
   "created_at": "2026-09-09T02:37:36.853122Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for GIANTX in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -586,6 +587,15 @@
   "sha256": "1a3afcc3aab85bbd335bee5505a0d93f78c3dd287b9948a6e08e1ba6615b50dc",
   "slug": "uptspt-anti-cartel-operation-outside-of-the-uptspt-by-december-31-20261103"
  },
+ "0x6485ae88cdb7cf01e0d907b19f2d61e5c821f45ed46f1864066b750690e81dcb": {
+  "created_at": "2026-11-26T01:04:06.743525Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will SpaceX report more than 39 rocket launches in Q4 2026?",
+  "revisions": 1,
+  "sha256": "a8140d8cace5dce0e715e979e0d1d57f24809678eacbc20e0b93df6863eaef5f",
+  "slug": "spacex-q4-2026-rocket-launches-above-39"
+ },
  "0x64d924caa0ac4a59c7dd99855e7946edc6a7b315cc45d7f42df62a25353dd1cb": {
   "created_at": "2026-10-13T15:49:31.709533Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -621,6 +631,15 @@
   "revisions": 1,
   "sha256": "585d390dbc98e768ee2a1852f58943710a9b7fc2484402ca6ce9d81a30e01edb",
   "slug": "will-1w-team-make-a-dota-2-roster-change-before-2027"
+ },
+ "0x6910f15e11189300e0884207b308e6604c9e90f2c29089bc3aa8bb295c0228cb": {
+  "created_at": "2026-11-26T16:07:10.838083Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the total domestic gross for \"The Hunger Games: Sunrise on the Reaping\" be between $380M and $400M by December 31?",
+  "revisions": 1,
+  "sha256": "e7972bcfeb7af75236741a29154e3eddd344503fb47d67d00d68998506bedf17",
+  "slug": "will-the-total-domestic-gross-for-the-hunger-games-sunrise-on-the-reaping-be-between-380m-and-400m-by-december-31"
  },
  "0x6947ce2cabb41567879f4354d7f032797489b99d1e7cb4db2810893f494d75cb": {
   "created_at": "2026-10-15T18:01:47.154316Z",
@@ -960,6 +979,15 @@
   "revisions": 1,
   "sha256": "bc8cb499fe09f2dff779394fd8cc975a1a1a92f91a6e547228b9be578feabc8e",
   "slug": "googl-above-260-on-november-30-2026"
+ },
+ "0xa0778faa19f241b6f67e8f085f43cba980e69765c07807e59036567211c63bcb": {
+  "created_at": "2026-11-26T02:27:23.977953Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in February 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "54d8ac79bf27c7500af7a33ee763b1da8d0b5b35ee0e1102d8ae11044415f296",
+  "slug": "h200-average-rental-price-in-february-2027-above-4pt00"
  },
  "0xa23467e95abf6544819a9dcb90b7719846aacf300b991ea07204e1f1649097cb": {
   "created_at": "2026-07-02T18:53:19.57902Z",

@@ -842,6 +842,15 @@
   "sha256": "f0b7b210f193bdac017bd7ec8975a5473454b9f5c5aa093e23a926f5d027dcb5",
   "slug": "will-nyc-have-between-2-and-3-inches-of-precipitation-in-november"
  },
+ "0x8b995a0a121591b8a0b9a369d4bed21e53ec507aac4f6505faba995e5cb8049b": {
+  "created_at": "2026-11-26T00:47:12.226166Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Anthropic (ANT) Q4 revenue be above $20.5B?",
+  "revisions": 1,
+  "sha256": "6be5973a8afa507a8d5eeeca96f85a80b4b921c435c2883c8381e16a1b9fdcee",
+  "slug": "will-anthropic-ant-q4-revenue-be-above-20pt5b"
+ },
  "0x8c04433069b96e0308135daceebd2942697f9e9f45ce80e2a44b296567c3999b": {
   "created_at": "2026-08-28T20:17:50.960036Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1048,6 +1057,7 @@
   "created_at": "2026-08-21T20:05:54.772981Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Nebraska 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",

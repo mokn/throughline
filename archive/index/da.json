@@ -254,6 +254,15 @@
   "sha256": "fa6468ca85b46a9aeff21e48bc905d6d40204fc94c1ad2e5fc6635272cdb7ac9",
   "slug": "will-catherine-lagaaia-be-the-1-searched-actor-on-google-this-year-20260717224316143"
  },
+ "0x287d66691916ea8e1bb809a2591dccb997b8517a7576f3e1b6bceaefa39ee3da": {
+  "created_at": "2026-11-25T23:00:18.381087Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Applied Digital (APLD) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-applied-digital-get-a-credit-rating-downgrade-before-2028"
+ },
  "0x2949247dcecfd404d508e20fdf1b0947977ae2e18eb98b3671c1b22752af0dda": {
   "created_at": "2026-09-02T19:41:12.900464Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -401,6 +410,15 @@
   "revisions": 1,
   "sha256": "68078656399b932e8ee135c2cfcb60c9ebfbe886c94a9fa625a126a80196f434",
   "slug": "will-the-republican-party-candidate-win-the-2026-wi-03-house-election-by-6-9"
+ },
+ "0x44411b4efc8205daebc83fe661ae40570bb9d54c17b8306cbce13aea1d2ae0da": {
+  "created_at": "2026-11-25T21:15:24.135733Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Philadelphia Eagles by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-philadelphia-eagles-by-january-11-2027"
  },
  "0x44db63f8e662ac5f6eb75091192c14f27368a4681b2a6e9c6cd8c56cb9375cda": {
   "created_at": "2026-10-22T17:47:52.735362Z",
@@ -710,6 +728,7 @@
   "created_at": "2026-09-21T23:10:23.87878Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will \"GTA VI: The Album\" first week sales be at least 200k?",
   "revisions": 1,
   "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
@@ -882,6 +901,7 @@
   "created_at": "2026-09-09T15:17:43.432787Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Roma finish first in UCL league phase?",
   "revisions": 1,
   "sha256": "8165aad76adbb2f51ee48ccafb1155b2ee881913ea14d68e46cf88abaa8432b9",
@@ -1213,6 +1233,7 @@
   "created_at": "2026-10-25T10:45:17.606181Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: O/U 5.5",
   "revisions": 1,
   "sha256": "d56906571aba341c4c5999edc53bc97b645e16d01e8e531ceebe618c1250ce22",

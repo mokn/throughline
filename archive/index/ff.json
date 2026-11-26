@@ -177,6 +177,7 @@
   "created_at": "2026-10-25T10:45:15.682582Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Spread: CSD Municipal (-2.5)",
   "revisions": 1,
   "sha256": "de4370a87f7f07d09fbac98ef7d90f89cf7cf9b843cb4936892a8843d2a0e027",
@@ -637,6 +638,7 @@
   "created_at": "2026-08-10T20:00:57.982599Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Magnus Carlberg be the next Regional Board Chair of Region Kronoberg?",
   "revisions": 1,
   "sha256": "337a9845824e66122a9e62f75ab36836a4b9c9260a554b71726770cf1ae12e92",
@@ -758,6 +760,15 @@
   "revisions": 1,
   "sha256": "e8730c763cda11043750fcef65cbcd79d101d90652b7565f73997e51ff8adddb",
   "slug": "will-atalanta-finish-9th-24th-in-uecl-league-phase"
+ },
+ "0x7941feae613438e2f3ed251a8a92af6444c337c4a6d49443e60c91b21b30a8ff": {
+  "created_at": "2026-11-25T17:42:35.21121Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will \"The Angry Birds Movie 3\" score at least 35 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "984d1a87e92551418946ae6fe084505d0fb6d72dbbea4ed0fa71fb5a0647ead3",
+  "slug": "will-the-angry-birds-movie-3-score-at-least-35-on-the-rotten-tomatoes-tomatometer"
  },
  "0x7b0e9a7cee43c23a221f69d6b20f3a38517bdd80b7eb7b282da9d19350f007ff": {
   "created_at": "2026-08-07T16:01:48.930101Z",
@@ -1179,6 +1190,7 @@
   "created_at": "2026-09-09T02:37:38.16429Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Team Vitality in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -1239,6 +1251,15 @@
   "revisions": 1,
   "sha256": "35f9b07997ce1e8d69a7211b849f2a94bb3d741d5c964c5a2ab70d0400e3a85b",
   "slug": "will-yaxel-lendeborg-be-named-to-the-2027-nba-all-rookie-first-team"
+ },
+ "0xa8d0a8f1641ab3b1d2c5e2b0dc78d1b06e7853b3fca99517f6d8d0cbed16a9ff": {
+  "created_at": "2026-11-25T21:15:11.42364Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Kansas City Chiefs by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-kansas-city-chiefs-by-january-11-2027"
  },
  "0xaa5911d0fa7a9a88ccac604f67610de9b90fd3bff9aac23ba15c4a8058215fff": {
   "created_at": "2026-07-02T20:41:30.813517Z",

@@ -368,6 +368,15 @@
   "sha256": "fae65a204087e806419ce168279cbb3c703751d59e8eb64b29fee174bb155a76",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-09-house-election-by-9-12"
  },
+ "0x3412ee9832ff4d363b082443c7aefca9aadfe1ef7ebc64b2fdf364cded1dd2b0": {
+  "created_at": "2026-11-26T02:27:15.343077Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-10pt00"
+ },
  "0x3602482e5bb623b3f287cedfcd632f39b23d9e7aae0c8aa0b7db8a32b40cb1b0": {
   "created_at": "2026-08-23T17:44:20.812801Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -563,10 +572,20 @@
   "created_at": "2026-09-09T02:37:36.546168Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for FUT Esports in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
   "slug": "will-boaster-play-for-fut-esports-in-2027-1788882258365"
+ },
+ "0x4fbd7c240031db81da8900bce7470c2fd92affb1229e1026c5b2df017b7b4bb0": {
+  "created_at": "2026-11-25T21:15:00.332807Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Atlanta Falcons by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-atlanta-falcons-by-january-11-2027"
  },
  "0x50f41fa64878e3a903ef0c1dc248b8cf1572f028d23439d02816211424793fb0": {
   "created_at": "2026-09-27T20:11:34.026447Z",
@@ -869,6 +888,7 @@
   "created_at": "2026-08-25T21:36:20.847409Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Green Bay Packers have more than 12.5 wins during the 2026 NFL season?",
   "revisions": 1,
   "sha256": "9bbf921365de254bf58b698698edda98ea277253f24f719b87c5fcdcc0bdf86e",
@@ -1453,6 +1473,15 @@
   "revisions": 1,
   "sha256": "a3536aab82bef52a149dd3d3d797bd9b38989a4d6a4635897ddd6c1bd26816df",
   "slug": "nba-2026-27-eff-leader-trae-young"
+ },
+ "0xd13f3f6eb3f466f0312c70f3b02e55abf1dcb1b91780bef65ab0d6a8dd7c9db0": {
+  "created_at": "2026-11-25T23:31:03.572966Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI sell less than 3% of its shares in its IPO?",
+  "revisions": 1,
+  "sha256": "e9a724540fd87347eabcedf380534bcfffa50af5a08dfc7850aebda20fe440cb",
+  "slug": "will-openai-sell-less-than-3-of-its-shares-in-its-ipo"
  },
  "0xd176104293ce5bd8b9f02c942b03c9cca535c110e8e30164a58b2748578aecb0": {
   "created_at": "2026-08-24T16:34:22.468801Z",

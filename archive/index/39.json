@@ -387,6 +387,7 @@
   "created_at": "2026-10-25T10:45:19.746596Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 3.5",
   "revisions": 1,
   "sha256": "a47a9b543a264c93f951b9401d1b4e5b0c0da1ae84dd25233f9175997b314593",
@@ -1093,6 +1094,15 @@
   "revisions": 1,
   "sha256": "13c5f6632abf6901e02a6c20828eb7cef5425971b75a2f655fe49a9611148ca1",
   "slug": "will-jalen-smith-be-the-2026-big-ten-receiving-tds-leader"
+ },
+ "0xa676a4958303ab9324e84741bed8986b1ece3e2e178ed81712427d986279e139": {
+  "created_at": "2026-11-26T00:47:14.735017Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Anthropic (ANT) Q4 revenue be above $21B?",
+  "revisions": 1,
+  "sha256": "6be5973a8afa507a8d5eeeca96f85a80b4b921c435c2883c8381e16a1b9fdcee",
+  "slug": "will-anthropic-ant-q4-revenue-be-above-21b"
  },
  "0xa8c65838bb872b5334771cf5d47ff98b471c78ce2302a719c53e15d0b1f85339": {
   "created_at": "2026-11-03T17:43:50.017329Z",

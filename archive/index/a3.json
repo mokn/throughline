@@ -180,6 +180,7 @@
   "created_at": "2026-08-10T15:02:48.803248Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Republican Party candidate win the 2026 KY-06 House election by 15%-18%?",
   "revisions": 1,
   "sha256": "0fa6d2a30d26a378514e352b6351fd007985069be7a1ce05d4ffacb429ec1f51",
@@ -677,6 +678,15 @@
   "revisions": 1,
   "sha256": "032a80ed0b8cb47f30f9761437126f3901c0442b05c99a080768a2903807d980",
   "slug": "will-obvious-chris-brown-win-best-randb-solo-performance-at-the-69th-annual-grammy-awards-20261109"
+ },
+ "0x6859f51af0266189037dbd2311a17b646e2ec4edb124e297f05d10e90b9d31a3": {
+  "created_at": "2026-11-25T22:59:50.223559Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Microsoft (MSFT) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-microsoft-get-a-credit-rating-downgrade-by-june-30-2027"
  },
  "0x702cecffc0096a11455bca0c4edc64f84d545f50a19065b310c103d83b5004a3": {
   "created_at": "2026-10-24T06:00:15.73908Z",
@@ -1507,6 +1517,7 @@
   "created_at": "2026-10-24T11:30:35.645735Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Lance Stroll achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",
@@ -1611,6 +1622,15 @@
   "revisions": 1,
   "sha256": "731c04e0dabefd7b18e6a015662aeffa1d8096797977ec331dae063f6c68068f",
   "slug": "will-the-democratic-party-candidate-win-the-2026-oh-07-house-election-by-6-9"
+ },
+ "0xf245fe79d01908a06a4aaf659ebbc46a497a9851b2156bdce35147a982e74ba3": {
+  "created_at": "2026-11-25T23:00:13.449654Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will AMD get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-amd-get-a-credit-rating-downgrade-before-2028"
  },
  "0xf452f3f0b7f7e7754136de7174e0394eeea73aebe6ef27e8620b5657a2c8caa3": {
   "created_at": "2026-08-11T18:25:54.230949Z",

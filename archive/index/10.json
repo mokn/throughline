@@ -184,6 +184,15 @@
   "sha256": "b04a55519c26a516295ee887c43b5b90fa6e31b1f193eac7ee04b5e4438c2cb5",
   "slug": "will-the-republican-party-candidate-win-the-2026-or-01-house-election"
  },
+ "0x1d1d67e6a00bed6f35639af9150c791b4d1e0d894d24b8a956d5deb5c349bd10": {
+  "created_at": "2026-11-25T21:15:31.645697Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers not sign with a team by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-not-sign-with-a-team-by-january-11-2027"
+ },
  "0x1d95a7c23a56e848d19f48e57ad4fc40b8ab02e6a8af8745eaf36be02544b310": {
   "created_at": "2026-10-13T20:02:48.951615Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -410,6 +419,15 @@
   "revisions": 1,
   "sha256": "fb9f18b45fcb4507a35ea16a65c85e493240907b82f69e31c6662d397c5ab2c6",
   "slug": "will-the-7-day-average-ship-traffic-through-the-panama-canal-be-25-on-january-31"
+ },
+ "0x404e71bdae75b10880cffc2972fae40c0860812e5bb4d14bf02076d093c5b810": {
+  "created_at": "2026-11-26T01:04:07.785168Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will SpaceX report more than 43 rocket launches in Q4 2026?",
+  "revisions": 1,
+  "sha256": "a8140d8cace5dce0e715e979e0d1d57f24809678eacbc20e0b93df6863eaef5f",
+  "slug": "spacex-q4-2026-rocket-launches-above-43"
  },
  "0x42367d815f3691e4b5d66981a4bbb487260e4d2d430c60956ca3bf747cb5b610": {
   "created_at": "2026-10-15T18:02:44.988097Z",
@@ -655,6 +673,7 @@
   "created_at": "2026-09-02T20:27:30.754542Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will it snow in Indianapolis, IN by November 30?",
   "revisions": 1,
   "sha256": "32ad3304c238e86144bc5d28e33963270b5719c2043840a72e9b8f09bd20180c",

@@ -369,6 +369,7 @@
   "created_at": "2026-09-09T02:37:40.899355Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Xi Lai Gaming in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -414,6 +415,7 @@
   "created_at": "2026-10-25T10:15:19.728544Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 4 - 4 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -847,6 +849,15 @@
   "revisions": 1,
   "sha256": "8fc63d637eb4b834786d92a3edbfa36ad17ef4bb8f9b0b284a382e0a1e53a583",
   "slug": "will-jason-bateman-dtf-st-louis-win-best-supporting-actor-television-at-the-84th-golden-globes"
+ },
+ "0x845a5134a913ca5572cbf26966acffcbcf1dd030fe3f5f9efe8f2714a853b9dc": {
+  "created_at": "2026-11-26T16:12:57.521821Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Zohran Mamdani say \"Five Borough\" during his next livestream?",
+  "revisions": 1,
+  "sha256": "5af4d222277d83623b4ce7707eaca102ee12bedb9833bfc160110414f36d2133",
+  "slug": "will-zohran-mamdani-say-five-borough-during-his-next-livestream-20261126"
  },
  "0x85e6702b5ce07a9d902fdfcf03796140f39c4e19a4dc6b7706c86fea5259e9dc": {
   "created_at": "2026-10-30T17:51:06.750778Z",
@@ -1385,6 +1396,15 @@
   "revisions": 1,
   "sha256": "f01ae3a9d0905379a61ac9eb8b5c33070e5c9ae84b6ec40f2c7d5b902cc91017",
   "slug": "will-chris-hunter-be-the-2026-big-12-receiving-yards-leader"
+ },
+ "0xef2074fc235c10b914782a670fa92c04780beb2b0bb4788f359175358096aedc": {
+  "created_at": "2026-11-26T02:27:25.687078Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $4.50?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-4pt50"
  },
  "0xf2aab71f624e1c647f4bf99c1288b1d480a01e417dc08ffd30ec843099c7dddc": {
   "created_at": "2026-02-04T19:11:22.765834Z",

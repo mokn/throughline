@@ -12,6 +12,7 @@
   "created_at": "2026-10-25T10:15:19.068888Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 3 - 3 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -963,6 +964,15 @@
   "sha256": "1d05dec27710d48ebaf8089fabbf1b577f7570642b4ebd8dac47987764b8c38d",
   "slug": "will-adam-fox-record-80-points-in-the-2026-27-regular-season"
  },
+ "0x7f487b1b233c6b88399c12db57a130685768c617d481d8e9c09501c2f6c5ce1b": {
+  "created_at": "2026-11-25T23:31:08.201528Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI sell between 9% and 10% of its shares in its IPO?",
+  "revisions": 1,
+  "sha256": "e9a724540fd87347eabcedf380534bcfffa50af5a08dfc7850aebda20fe440cb",
+  "slug": "will-openai-sell-between-9-and-10-of-its-shares-in-its-ipo"
+ },
  "0x803443ef310d0921ee145febe05d76b4544bd26746ea8a7cf47f9747d5fa6f1b": {
   "created_at": "2026-09-08T17:02:40.064481Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -976,6 +986,7 @@
   "created_at": "2026-11-23T16:32:31.352048Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will FaZe qualify to the Playoffs at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",

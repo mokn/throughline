@@ -885,6 +885,15 @@
   "sha256": "115199cd0892bf7d629a8ab73f03d58f5e8f8b2b408f154f8676cd4788e70421",
   "slug": "will-bayern-munich-finish-in-the-top-4-of-the-2026-27-bundesliga-season"
  },
+ "0x819cbd890b0a16447785df9cfb42a25ef995679e9ce1e512b8d71cbbf71821ca": {
+  "created_at": "2026-11-26T02:27:24.521054Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $5.50?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-5pt50"
+ },
  "0x82207ad02a5c3e2f7b0013b6f5d73933b87dddd095150aee1c690f9e23ad9aca": {
   "created_at": "2026-08-21T17:34:19.063591Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1029,6 +1038,15 @@
   "revisions": 1,
   "sha256": "67ed1e888ebc7282b95ec4d905cf3a2559d9a512ed39bdfa44e038f48aadcea5",
   "slug": "nba-2026-27-players-to-average-10-plus-rpg-walker-kessler"
+ },
+ "0x95fc9ef81c6f49444c8dab66075f11d7796d2fa1c4ba0de154a87de005dbdeca": {
+  "created_at": "2026-11-26T00:38:20.13837Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will CoreWeave (CRWV) Q4 revenue be above $4.75B?",
+  "revisions": 1,
+  "sha256": "722793f1769e9892fbf06383e3e4dc5335b10a526548bfa9b893d538c96eaa86",
+  "slug": "will-coreweave-crwv-q4-revenue-be-above-4pt75b"
  },
  "0x967afb38efbf238b7726ecce5f2f080b59b586be378cb1a97be5d6c04a104aca": {
   "created_at": "2026-10-19T14:32:08.058617Z",
@@ -1349,6 +1367,15 @@
   "revisions": 1,
   "sha256": "9c36e4f6e92ef27876ff93e7f3d7dd25c8d789e52256a6394a17c8dfdbac367d",
   "slug": "will-the-odyssey-win-best-film-editing-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xc02acbcbf154c69b8bf72e2ef63d1b74a7a262a8a396ee3fde38fba3977f98ca": {
+  "created_at": "2026-11-26T01:04:06.090482Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will SpaceX report more than 37 rocket launches in Q4 2026?",
+  "revisions": 1,
+  "sha256": "a8140d8cace5dce0e715e979e0d1d57f24809678eacbc20e0b93df6863eaef5f",
+  "slug": "spacex-q4-2026-rocket-launches-above-37"
  },
  "0xc08a06a5f6265a9911c2fb4c9bc0ab7b458d1a33c7e20ae68d0e540ef149c5ca": {
   "created_at": "2026-08-10T15:04:43.16459Z",

@@ -1,0 +1,24 @@
+[
+ {
+  "after": "This market will resolve to \"Yes\" if Russia commences a military offensive intended to establish control over any portion of any UN member state's territory, other than Ukraine's, by December 31, 2027, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by any UN member state, as of market creation, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "before": "This market will resolve to \"Yes\" if Russia commences a military offensive intended to establish control over any portion of any UN member state's territory, other than Ukraine's, by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, land de facto controlled by any UN member state, as of market creation, will be considered the sovereign territory of that country.\n\nThe resolution source for this market will be a consensus of credible reporting.",
+  "conditionId": "0x43b3bc105e75c59d4745892067c57220702f869dc86296793a45429f1ad29773",
+  "question": "Will Russia invade another country by December 31, 2027?",
+  "revision": 2,
+  "seen": "2026-11-26T16:54:13Z",
+  "sha256_after": "b28365ad606915016f2f6255dd4b92d7469067443e96f6b63b68924fe3d87d98",
+  "sha256_before": "e1646a20b258678f324a3a0392b386e4a428c02ee6efe3b0b09f8542aa36a396",
+  "slug": "will-russia-invade-another-country-by-december-31-2027"
+ },
+ {
+  "after": "This market will resolve to \"Yes\" if Donald Trump issues any executive order to, or signs any bill into law to, or otherwise takes action to officially rename any ocean by December 31, 2027, at 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nFor the purposes of this market, the oceans are defined as: the Atlantic Ocean, the Pacific Ocean, the Indian Ocean, the Arctic Ocean, and the Southern/Antarctic Ocean.\n\nOfficially renaming any one of these five oceans is sufficient for a \"Yes\" resolution, regardless of the new name chosen. Renaming a subdivision of one of these oceans, such as the North Atlantic Ocean or the South Pacific Ocean, will also qualify.\n\nIf the U.S. Board on Geographic Names (BGN) renames any of the five oceans accordingly this will qualify for a \"Yes\" resolution.\n\nRenaming any other body of water, including any sea, gulf, bay, strait, channel, or lake, will not qualify for a \"Yes\" resolution.\n\nThis market's resolution source will be official information from the Trump administration or the U.S. Board on Geographic Names, however a consensus of credible reporting stating that the US Government has renamed one of the five oceans will suffice.",
+  "before": "This market will resolve to \"Yes\" if Donald Trump issues any executive order to, or signs any bill into law to, or otherwise takes action to officially rename any ocean by December 31, 2026, at 11:59 PM ET. Otherwise, this market will resolve to \"No.\"\n\nFor the purposes of this market, the oceans are defined as: the Atlantic Ocean, the Pacific Ocean, the Indian Ocean, the Arctic Ocean, and the Southern/Antarctic Ocean.\n\nOfficially renaming any one of these five oceans is sufficient for a \"Yes\" resolution, regardless of the new name chosen. Renaming a subdivision of one of these oceans, such as the North Atlantic Ocean or the South Pacific Ocean, will also qualify.\n\nIf the U.S. Board on Geographic Names (BGN) renames any of the five oceans accordingly this will qualify for a \"Yes\" resolution.\n\nRenaming any other body of water, including any sea, gulf, bay, strait, channel, or lake, will not qualify for a \"Yes\" resolution.\n\nThis market's resolution source will be official information from the Trump administration or the U.S. Board on Geographic Names, however a consensus of credible reporting stating that the US Government has renamed one of the five oceans will suffice.",
+  "conditionId": "0x88fddc5e8589127397034ea18502ce969d4e6575f7bcd709c669e85a77909dce",
+  "question": "Will Trump rename an ocean by December 31, 2027?",
+  "revision": 2,
+  "seen": "2026-11-26T16:54:13Z",
+  "sha256_after": "ca4ddf7e166d47d16940f2a7e9e907b9e271bb268d629bf74bbd523dc9ebdd25",
+  "sha256_before": "d66dc3596957899345d7f9a77fa831c29eb82dbd98fe00b4d29831e71f4e69c6",
+  "slug": "will-trump-rename-an-ocean-by-december-31-2027"
+ }
+]

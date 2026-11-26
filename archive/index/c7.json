@@ -1009,6 +1009,15 @@
   "sha256": "be0b4a24b1554279bd6b42d548a10e6ea839a313520bcf96d3d1995efc2db85d",
   "slug": "f1-qatar-grand-prix-practice-3-fastest-lap-kimi-antonelli-2026-11-28"
  },
+ "0x950faba180fbc40e16d976d8898569ffad87cd47738bbd66e6f4007d65544ec7": {
+  "created_at": "2026-11-25T21:15:30.936694Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Washington Commanders by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-washington-commanders-by-january-11-2027"
+ },
  "0x959f46f791c776a9a3d40d6d4556927fc85b839c0f07a2c29f69af7bc9cbfac7": {
   "created_at": "2026-01-06T19:51:49.528502Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1531,6 +1540,15 @@
   "revisions": 1,
   "sha256": "3ba639a3a4a5cc68da4f62f2530636643263f0a4bf248b9fefa1fb7198b009b1",
   "slug": "nba-2026-27-sixth-man-of-the-year-luke-kennard"
+ },
+ "0xeb245c45c1ccccd45ec7f225f7d7d9661d6c872b7cfdc43d0314986875a834c7": {
+  "created_at": "2026-11-26T00:00:28.026883Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will NVIDIA (NVDA) Q4 Data Center revenue be above $123B?",
+  "revisions": 1,
+  "sha256": "5a636451c0a545c1af21edb487dfae23d76a14b316717a5f8e18bb5975f9c1c8",
+  "slug": "will-nvidia-nvda-q4-data-center-revenue-be-above-123b"
  },
  "0xee5e2f077e36497c5bdc35bd08ce715d37ccb34cb3ba9cb85a096810c40a39c7": {
   "created_at": "2026-11-24T01:01:35.958915Z",

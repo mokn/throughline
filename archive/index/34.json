@@ -491,6 +491,15 @@
   "sha256": "9bd16262a6b3d9633e5288452c43f1fd58aac01c0212846901439c1421d30466",
   "slug": "b300-average-rental-price-in-march-2027-above-12pt00"
  },
+ "0x4da60bd69e7ba3dc99877f85ce6d081c10f9b01d2932551085538dc9a7c9ed34": {
+  "created_at": "2026-11-26T02:27:17.145502Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in September 2027 be above $14.00?",
+  "revisions": 1,
+  "sha256": "8bbc276d288d0115972ba2efa31cdfffda911bc7405123a10c2de94b32697105",
+  "slug": "h200-average-rental-price-in-september-2027-above-14pt00"
+ },
  "0x4e911719e292fbd6070db385f8edfaa607fc0e9e1cd28e59453115d1f03f4c34": {
   "created_at": "2026-08-05T12:00:33.633427Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -805,6 +814,15 @@
   "revisions": 1,
   "sha256": "6da671919d32f057a21b66acf223bf5adb29a51a8b88509d1032d21cdb6bfd5b",
   "slug": "will-avengers-doomsday-score-at-least-80-on-the-rotten-tomatoes-tomatometer-20261221"
+ },
+ "0x77cc383ea01eaa3c0f2fe1f329a070e44286b03dbb458a9e8e070b5f8481fa34": {
+  "created_at": "2026-11-26T02:27:19.178515Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $7.50?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-7pt50"
  },
  "0x7806e191337d30ba138bfc99b2a4fd9ff8cdb500901e6e1f0ee8eaa00a76a934": {
   "created_at": "2026-11-23T22:37:52.916146Z",
@@ -1361,6 +1379,7 @@
   "created_at": "2026-09-01T09:44:58.342351Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: 2nd Half O/U 5.5 Total Corners",
   "revisions": 1,
   "sha256": "dde9432fa594ee92a4fedec8455aa761c4312c27ec48ac4f73ad1e4ee9cbef9b",

@@ -413,6 +413,15 @@
   "sha256": "277b519408e386c7f85bdc96d0a641cbfb3cfc437e9fbb3541c18981bf8547ab",
   "slug": "mark-andrews-924pt5-receiving-yards-2026-27"
  },
+ "0x2ed494a6314126498516983a61ffd3ffc3d29594baf52fc64e2c489e85da9e62": {
+  "created_at": "2026-11-26T10:59:44.900165Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Benjamin Netanyahu announced resignation or removal by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "9b5efedc21fd6d7364ff6445a7e99b999b9b671ca88ebaf57eb92c8b4b990906",
+  "slug": "benjamin-netanyahu-announced-resignation-or-removal-by-june-30-2027"
+ },
  "0x2ed9d3d891ea354d72a9e0ffdf55e5c0a36dfffb81b737073b33b57206655662": {
   "created_at": "2026-10-13T15:55:46.854501Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -536,6 +545,7 @@
   "created_at": "2026-11-18T19:38:34.711663Z",
   "first_seen": "2026-11-19T15:44:54Z",
   "last_changed": "2026-11-19T15:44:54Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will \"GTA VI: The Album\" first week sales be at least 150k?",
   "revisions": 1,
   "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
@@ -853,6 +863,15 @@
   "sha256": "e856666fdf6897e1e64561e5a585033b58d079375e5418212f3c689d515892ad",
   "slug": "2026-soccer-peru-liga-1-winner-fbc-melgar"
  },
+ "0x78d1ded65a296821d0c9da43451042fefd050ccb87eb5fdfdef9563c1cc4e062": {
+  "created_at": "2026-11-26T02:27:17.822474Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in September 2027 be above $12.00?",
+  "revisions": 1,
+  "sha256": "8bbc276d288d0115972ba2efa31cdfffda911bc7405123a10c2de94b32697105",
+  "slug": "h200-average-rental-price-in-september-2027-above-12pt00"
+ },
  "0x7b0a34af1fa60521b3b1b5d6ec83231957f36db75233454b6dc74907a07a4262": {
   "created_at": "2026-02-18T23:00:58.696283Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1119,6 +1138,7 @@
   "created_at": "2026-10-25T10:15:18.988331Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 2 - 4 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -1405,6 +1425,7 @@
   "created_at": "2026-09-09T02:37:40.245309Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Trace Esports in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",
@@ -1654,6 +1675,7 @@
   "created_at": "2026-10-25T10:45:17.162514Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: O/U 2.5",
   "revisions": 1,
   "sha256": "886ae5336220eef93c3a64530a0f2d801be0b49404dc3a5e000f283d68a2aeed",

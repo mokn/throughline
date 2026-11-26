@@ -242,6 +242,7 @@
   "created_at": "2026-10-25T10:15:22.705195Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: Neither team to score first?",
   "revisions": 1,
   "sha256": "d74cad6e1d8784df8293357c82d06d201ec930c5c432bce2ad0d12725c5c92ec",
@@ -440,6 +441,15 @@
   "revisions": 1,
   "sha256": "388a25a81c1615a8ef559b5ea9360a1b475edab41b8ee74bcfb50773ff348b83",
   "slug": "will-st-louis-city-sc-keep-the-most-clean-sheets-in-mls-2026"
+ },
+ "0x3e2fa92ec1c2a2b4f608ec40160ca48503fc587bee6ddbf4ab4b7218ac04d2a4": {
+  "created_at": "2026-11-26T02:27:18.449246Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in September 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "8bbc276d288d0115972ba2efa31cdfffda911bc7405123a10c2de94b32697105",
+  "slug": "h200-average-rental-price-in-september-2027-above-10pt00"
  },
  "0x43dce2639304ca1bfa2c1e86b5241d255bef19229f52b71c0340cbf3ae22c5a4": {
   "created_at": "2026-07-20T19:40:29.491667Z",
@@ -1157,6 +1167,7 @@
   "created_at": "2026-10-25T10:45:19.583414Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: CSD Municipal O/U 2.5",
   "revisions": 1,
   "sha256": "fd526d5db319a2352e2bfb7a423f3beb9f52377101e359b6ee4bda43c8630ec9",

@@ -319,6 +319,7 @@
   "created_at": "2026-08-21T20:05:55.098821Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Virginia 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
@@ -945,6 +946,7 @@
   "created_at": "2026-10-25T10:45:21.269074Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 1.5",
   "revisions": 1,
   "sha256": "70329d7a1d21060117043a319a914201ccf2be29f2b215185617957b1352a3e4",
@@ -1121,6 +1123,7 @@
   "created_at": "2026-10-20T23:04:44.128193Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Alfajer play for Team Heretics in 2027?",
   "revisions": 1,
   "sha256": "1b278ee7a1a558845b1a507fd53521c041b5944801b6731deaee62b991ac24e2",
@@ -1366,6 +1369,15 @@
   "revisions": 1,
   "sha256": "4bc356e5e07fa3f05f2aaf5069ea488250240ca9031ac917cffd377bf5624ad4",
   "slug": "will-bam-adebayo-be-named-to-the-2027-nba-all-defensive-first-team"
+ },
+ "0xcb2e074d28ebe46a5320b49e0f61f4983e5d95b29cd89a9279d61f0591c1d90d": {
+  "created_at": "2026-11-26T02:27:10.853266Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2026 be above $6.25?",
+  "revisions": 1,
+  "sha256": "631967a814ecdaf6508b8d3ce577bf59af8499fa9d2888ab41d932bc70b0db8e",
+  "slug": "h200-average-rental-price-in-december-2026-above-6pt25"
  },
  "0xcbfe1fd9f260609a6336b8127ed3cb7882afdc1828e67a503999f04d5e7d8a0d": {
   "created_at": "2026-08-10T23:56:20.127972Z",

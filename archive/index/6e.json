@@ -419,6 +419,7 @@
   "created_at": "2026-11-23T22:23:48.291541Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will PVISION (PARIVISION) go 3-2 in Stage 1 of the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "9f15992409677ff8dbdfa1e34b3e4ce2911d040a9c9274c42046435de9273b70",
@@ -746,6 +747,7 @@
   "created_at": "2026-09-02T20:27:33.220953Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will it snow in St. Louis, MO by November 30?",
   "revisions": 1,
   "sha256": "c3ba9e3a4ca2e52c8a8f892fccaf1bb13ceca1c34b8f796a33d09aa79767fd30",
@@ -1109,6 +1111,7 @@
   "created_at": "2026-08-21T20:05:54.106522Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Ohio Special 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",
@@ -1418,6 +1421,15 @@
   "sha256": "1693cbc192e4e4d8e981208da7de34c827ee12f1b0edb8536a4189495161ac88",
   "slug": "will-parma-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0xce6aa0816b2f3573149ca54ba00ed87dcb7b99158377274a64714f0ae2cf516e": {
+  "created_at": "2026-11-25T22:59:52.266805Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Intel (INTC) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-intel-get-a-credit-rating-downgrade-by-june-30-2027"
+ },
  "0xd01501f81fee57d8ad483b25f8ea3f03a677b934587712e0a690ac9ce5e4fa6e": {
   "created_at": "2026-11-18T18:16:37.43199Z",
   "first_seen": "2026-11-19T15:44:54Z",
@@ -1591,6 +1603,15 @@
   "revisions": 1,
   "sha256": "c175a715d73f08c89077cd7de260f27a3371560ead836cffc184b1ba01fd707d",
   "slug": "will-cincinnati-reds-advance-to-the-world-series-in-the-2027-mlb-playoffs"
+ },
+ "0xf1392b42c703a5046e17b86d717f901df73b5e7f9c1cae29f26467040609406e": {
+  "created_at": "2026-11-26T02:27:18.013802Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-8pt00"
  },
  "0xf4dd92db8b75645040661fe6f361bb18fef0dbd348b2cecee722f540a54cee6e": {
   "created_at": "2026-08-12T00:18:23.333282Z",

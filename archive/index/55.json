@@ -326,6 +326,15 @@
   "sha256": "a0e4f74f32f6dfc41003f81f3daa86220c6abb4163325788bf74850e0bb12b4c",
   "slug": "james-cook-1249pt5-rushing-yards-2026-27"
  },
+ "0x24caa8db38c72bbfb075c68d5396cdce6391c8b7d947d1550dfea4261db02955": {
+  "created_at": "2026-11-25T21:56:49.820107Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will CoreWeave (CRWV) beat Q4 2026 quarterly earnings?",
+  "revisions": 1,
+  "sha256": "57c3651fc90a427867960d98f9ee659351260c48bd1508a95e4ee042076773a7",
+  "slug": "will-coreweave-crwv-beat-q4-2026-quarterly-earnings"
+ },
  "0x2541e5158c7a7001a20ca857cae5b50faae2b54debca8d0c029a4ce1e9fc0155": {
   "created_at": "2026-08-12T17:16:52.038851Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1586,6 +1595,15 @@
   "revisions": 1,
   "sha256": "e683190f511228a1a46c5ee7c02d07c1c92a6ae360747fadfa7f5669f8f4cd02",
   "slug": "2026-soccer-liga-profesional-argentina-runner-up-tigre"
+ },
+ "0xf8b0259ff0dddabc60ffefe4268e3d7df6fcc5d3acbd8f9900a8689b87dbb155": {
+  "created_at": "2026-11-26T02:27:16.085167Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $9.50?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-9pt50"
  },
  "0xf8c45d902365927b3e74c2ab88b565bcd9c757f4ca522a321bd4f1e98f297855": {
   "created_at": "2026-08-31T03:37:42.297579Z",

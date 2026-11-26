@@ -228,6 +228,15 @@
   "sha256": "99d68244246b57a7421e979b2985e59806767cf3c6741014bb3ce551ba427a18",
   "slug": "will-the-republicans-win-the-tennessee-senate-race-in-2026"
  },
+ "0x1840036df8c56b68365d890ec28b473f54f3586da84591a4016a0589ae49330a": {
+  "created_at": "2026-11-25T17:42:34.290763Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will \"The Angry Birds Movie 3\" score at least 40 on the Rotten Tomatoes Tomatometer?",
+  "revisions": 1,
+  "sha256": "984d1a87e92551418946ae6fe084505d0fb6d72dbbea4ed0fa71fb5a0647ead3",
+  "slug": "will-the-angry-birds-movie-3-score-at-least-40-on-the-rotten-tomatoes-tomatometer"
+ },
  "0x185e8d8b6437875e6009e8ab8e35bfea0f77ccd3ef1fa06f47a322a0c3630e0a": {
   "created_at": "2026-08-10T15:05:37.56596Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -354,6 +363,15 @@
   "revisions": 1,
   "sha256": "9e1b10c3c660251f741e28d0d0f6e50c0fb694482e4451c58cb2f268b8b3f32e",
   "slug": "will-a-european-country-take-military-action-on-iran-by-october-31"
+ },
+ "0x2d8a49351b09e13c0e35ca9fe61f7aa3a40280906e03470560657419ee04e50a": {
+  "created_at": "2026-11-25T21:15:28.735808Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Seattle Seahawks by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-seattle-seahawks-by-january-11-2027"
  },
  "0x2f30de489be993fa285719f433713b1de45c22862b179b1196c964a0cd82700a": {
   "created_at": "2026-10-13T19:39:42.33899Z",
@@ -1008,6 +1026,7 @@
   "created_at": "2026-10-20T23:04:44.600279Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Alfajer play for Team Liquid in 2027?",
   "revisions": 1,
   "sha256": "1b278ee7a1a558845b1a507fd53521c041b5944801b6731deaee62b991ac24e2",

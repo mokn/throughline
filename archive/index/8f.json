@@ -82,6 +82,15 @@
   "sha256": "aa8e3ee6e70792c4feaaffe926bb067b04ce8a6e604388817ed8da39e5e22b40",
   "slug": "will-mississippi-rebels-win-the-2027-cfp-national-championship"
  },
+ "0x0fc8acc20b44692c5fd3263f788e7125e83579a5445408afede7cb84de71168f": {
+  "created_at": "2026-11-26T16:07:06.448728Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the total domestic gross for \"The Hunger Games: Sunrise on the Reaping\" be less than $300M by December 31?",
+  "revisions": 1,
+  "sha256": "e7972bcfeb7af75236741a29154e3eddd344503fb47d67d00d68998506bedf17",
+  "slug": "will-the-total-domestic-gross-for-the-hunger-games-sunrise-on-the-reaping-be-less-than-300m-by-december-31"
+ },
  "0x1042ba6eec3e79187a90faf2654f67c283f015efeab41dd133b52e15e4f36b8f": {
   "created_at": "2026-11-14T02:43:04.450031Z",
   "first_seen": "2026-11-14T13:31:33Z",
@@ -260,6 +269,7 @@
   "created_at": "2026-10-23T01:22:34.095343Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the 30-year Treasury yield dip below 5.25% before 2027?",
   "revisions": 1,
   "sha256": "b94d1a7b4c0159fe7dd5debf76484c0fe876569f9d456fd7743772d2b20430ab",
@@ -608,6 +618,7 @@
   "created_at": "2026-11-23T16:32:36.227967Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will 9z qualify to Stage 3 at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "a28bae23e9b320fa0ab5baf9114f96de68f7a7d5fbb8ed3c9bced2a612d91093",
@@ -1305,6 +1316,15 @@
   "revisions": 1,
   "sha256": "528c79b4f4d0e52a2a16ae7442413f4c20697270820cfc2f77bc2d4b262fa169",
   "slug": "2027-soccer-premier-league-runner-up-coventry-city"
+ },
+ "0xa8bc895a0abb2751d21eb12c5bcfc86afd3a54f186d863e363df0d04a4b9488f": {
+  "created_at": "2026-11-25T21:15:01.448419Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Baltimore Ravens by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-baltimore-ravens-by-january-11-2027"
  },
  "0xaa6b263a391797e1fc636378d14b2105c84b09ca810992f02572c6f42054f88f": {
   "created_at": "2026-09-04T19:25:49.520686Z",

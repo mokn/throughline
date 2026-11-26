@@ -774,6 +774,15 @@
   "sha256": "f94679c260a204693f8476892f5d3c073648c61459d5ba2e9f0e6aad40861559",
   "slug": "will-your-god-is-sleeping-from-behemoth-win-best-original-song-at-the-99th-academy-awards-20261013180153422"
  },
+ "0x66724ca682bb4d0380d325127cce2294fd76ad95711ea2b1e4e7649fc9d4dd20": {
+  "created_at": "2026-11-26T02:27:11.57789Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2026 be above $6.00?",
+  "revisions": 1,
+  "sha256": "631967a814ecdaf6508b8d3ce577bf59af8499fa9d2888ab41d932bc70b0db8e",
+  "slug": "h200-average-rental-price-in-december-2026-above-6pt00"
+ },
  "0x66992596c1aaed75d186e9acb62e452dc514b446d3eaee45677e8774a1960420": {
   "created_at": "2026-08-28T05:57:32.503946Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1010,6 +1019,15 @@
   "revisions": 1,
   "sha256": "8e77707aa27da22828b165d9e2ea410a91c1b1c9351d00a2ef3b984035c415ed",
   "slug": "greek-basket-league-2027-champion-aek"
+ },
+ "0x7ee638f74c63d14c57a57798a7346ef47ec64daea30aaa0241bec30c0f025f20": {
+  "created_at": "2026-11-26T00:10:50.087383Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "NVIDIA (NVDA) Q4 adjusted gross margin from 71.25% to under 71.75%?",
+  "revisions": 1,
+  "sha256": "69e99aa7ce2c959b690596c2fb7ecf9dba40f75d54f1d8be267a15a327901bce",
+  "slug": "nvidia-nvda-q4-adjusted-gross-margin-non-gaap-71pt25-to-71pt75"
  },
  "0x828aa92b92f4aab02b4f628634960dc2da7537fbae358c5973bd69f5b1c22a20": {
   "created_at": "2026-08-12T00:18:45.426292Z",
@@ -1263,6 +1281,7 @@
   "created_at": "2026-04-30T15:51:12.581541Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Alabama use a new congressional map for the 2026 United States midterm elections?",
   "revisions": 1,
   "sha256": "9cea4e0ec5218518b20c7156e24f68cb3ea836b094df8f49b2d8743c4e8d27de",

@@ -890,6 +890,7 @@
   "created_at": "2026-07-29T18:38:09.805188Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Nebraska 2026 Senate race be within 5%?",
   "revisions": 1,
   "sha256": "8e4b8cf85bb30efcd93fdbe04059776f789b53eab18da598805d082a4d7a8ab5",
@@ -912,6 +913,15 @@
   "revisions": 1,
   "sha256": "6518789b5b41409319e58574a8ad9ad96e5b58f0435233710e9272bb27f19b12",
   "slug": "will-perena-launch-a-token-by-december-31-2026"
+ },
+ "0x965de27043537569a806d8201faba0038306df1ba8e045790cd7fa2f99d89e96": {
+  "created_at": "2026-11-26T13:55:50.79136Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Houthis enter Aden by January 31, 2027?",
+  "revisions": 1,
+  "sha256": "43855a319a10351af84df8e1b0049ec486596b2662aa025025276d574545e322",
+  "slug": "houthis-enter-aden-by-january-31-2027"
  },
  "0x9743e4ef5cf8f4916ea80e4d7772b9ceb76f9cee874bd782195bffe6ba880296": {
   "created_at": "2026-09-30T20:03:43.608304Z",
@@ -1171,6 +1181,15 @@
   "sha256": "14d713a70f92be9bee6edeb755faeaa75318b0842038808cae819025624c9c6b",
   "slug": "will-ryotaro-araki-record-the-most-assists-in-the-2026-27-uefa-conference-league"
  },
+ "0xbd90e4e4febab05d23e4f4aa3567b4b7240d6e44178f0888cae70b26a8969a96": {
+  "created_at": "2026-11-25T23:00:16.459703Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Intel (INTC) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-intel-get-a-credit-rating-downgrade-before-2028"
+ },
  "0xbe07fd34437938a4a1b905daaef754c26f6115264f54f23d5e626b5d92392996": {
   "created_at": "2026-09-02T21:57:53.406725Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1421,6 +1440,15 @@
   "revisions": 1,
   "sha256": "24b955baf20f209d205a38999e1443a89a59235dab5f44993709e99f1933dd8d",
   "slug": "will-pan-win-the-most-seats-in-the-2027-michoacan-congress-election"
+ },
+ "0xe13ff750d7e8c1768e2aa057796a41b8686714d10cb4958a645469fb62035d96": {
+  "created_at": "2026-11-26T02:27:24.019088Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2028 be above $3.00?",
+  "revisions": 1,
+  "sha256": "f4fd47ab099e8d5bd1d97f12cee8e6c7af1210daa6bd3f642976d76b727076a2",
+  "slug": "h200-average-rental-price-in-december-2028-above-3pt00"
  },
  "0xe19c8e8b8c8d0a06381b333ed0d57f9e58d9385bb2b28ecb7882f5f5ca0ca596": {
   "created_at": "2026-08-12T00:09:33.43613Z",

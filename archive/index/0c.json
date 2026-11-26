@@ -614,6 +614,15 @@
   "sha256": "7ff5e74f25e39abd9c1fdcd85dd92ea3e044a1e5103855198620b8c6f429bb7d",
   "slug": "will-arminia-bielefeld-finish-3rd-in-2-bundesliga-2026-27"
  },
+ "0x56db8b48828134516af7fabd4f8d3ef25fcd2b489d8bc7be2f9f19116a4e1b0c": {
+  "created_at": "2026-11-25T21:15:13.850424Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Miami Dolphins by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-miami-dolphins-by-january-11-2027"
+ },
  "0x578b7fe36ee4c01f4b1d4f9c966da3d51913cb2b2d02250fd470819640c21f0c": {
   "created_at": "2026-10-30T00:18:38.64913Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1148,6 +1157,7 @@
   "created_at": "2026-10-24T11:30:32.561433Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Alexander Albon achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",
@@ -1180,6 +1190,15 @@
   "revisions": 1,
   "sha256": "44ea25cce9bc8bf3cdc77b2dc6d44f1c7120d2b3ef7128f9b184e3344c428b98",
   "slug": "will-twente-qualify-for-the-2027-28-uefa-champions-league"
+ },
+ "0xb443c839465506d3a85540e3ce3d7953dcbe39950b290bf100d291fd3026200c": {
+  "created_at": "2026-11-25T21:15:12.600572Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Los Angeles Chargers by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-los-angeles-chargers-by-january-11-2027"
  },
  "0xb44d403e1adad512cfab065fd2930b077fc38143fa27e0f13ba46bae67cc050c": {
   "created_at": "2026-01-30T23:22:58.101234Z",
@@ -1252,6 +1271,15 @@
   "revisions": 1,
   "sha256": "f1d4347518fdc604fcfc1fc7338e20cebcc125f73eef7a077ce5a7e9b4234d66",
   "slug": "will-the-black-ball-win-best-production-design-at-the-99th-academy-awards-20261013180153422"
+ },
+ "0xbc9257b3e136706c289b493da257a9f5ee7a5bc25e162281cb7b1a14b2f8f70c": {
+  "created_at": "2026-11-26T00:22:03.774714Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Advanced Micro Devices (AMD) Q4 Data Center revenue be above $12.5B?",
+  "revisions": 1,
+  "sha256": "e8e73549bdbbea0a4720e631fc9af867cde5e99e32d8f985395d09e54042d4f0",
+  "slug": "will-advanced-micro-devices-amd-q4-data-center-revenue-be-above-12pt5b"
  },
  "0xbccc29913dccae1de8751a452b27ec8cf24a030fa0c70bcaa7796ec141de3d0c": {
   "created_at": "2026-05-26T16:40:20.173255Z",

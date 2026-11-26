@@ -138,6 +138,15 @@
   "sha256": "891b17913517165d23a6dcb0264d27caaab10838c3b9a27d9ac787b47f8bd250",
   "slug": "will-the-democratic-party-candidate-win-the-2026-ny-16-house-election-by-20-30"
  },
+ "0x14de63dd584400fb27f30ed8abaef7044bd186891e1973710bb469b070a31293": {
+  "created_at": "2026-11-26T02:27:24.765155Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2028 be above $1.00?",
+  "revisions": 1,
+  "sha256": "f4fd47ab099e8d5bd1d97f12cee8e6c7af1210daa6bd3f642976d76b727076a2",
+  "slug": "h200-average-rental-price-in-december-2028-above-1pt00"
+ },
  "0x1555b2b39a09bb1023b27f08dbcbf55c21aa4f22da54529941b764cd00087d93": {
   "created_at": "2026-09-27T20:49:09.111512Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -204,6 +213,15 @@
   "revisions": 1,
   "sha256": "df692e49d5a09679ec69e6b7959bcd1f32f457558130b89eb3cf9176f319f375",
   "slug": "will-aek-athens-win-the-2026-27-uefa-champions-league-championship"
+ },
+ "0x1ac076076a00e998f2d7e31101ab62a644f15215e618dd7e44a0cd9c08c35a93": {
+  "created_at": "2026-11-26T02:27:21.712568Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2028 be above $7.00?",
+  "revisions": 1,
+  "sha256": "f4fd47ab099e8d5bd1d97f12cee8e6c7af1210daa6bd3f642976d76b727076a2",
+  "slug": "h200-average-rental-price-in-december-2028-above-7pt00"
  },
  "0x1be40a36c02784da9793a676628d0353369ef908afbe71616ff5c40f53145893": {
   "created_at": "2026-10-13T19:55:46.089605Z",
@@ -740,10 +758,20 @@
   "created_at": "2026-10-20T23:03:04.250186Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will valyn play for MIBR in 2027?",
   "revisions": 1,
   "sha256": "c357d9466bbaaf4c8a5f99e9f0349641c222010370794e86210cdf6b76761e5d",
   "slug": "will-valyn-play-for-mibr-in-2027"
+ },
+ "0x74beb8ce5145ced583e147e4e445d3ccb46e3e363edbe3c5eebd181352620b93": {
+  "created_at": "2026-11-25T23:27:58.554126Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Japan Q4 GDP growth (annualized) be at least 3.2%?",
+  "revisions": 1,
+  "sha256": "3e2af402071d8515f26cccd02e87221a9a695061bd271614baac677f912a46e4",
+  "slug": "will-japan-q4-gdp-growth-annualized-be-at-least-3pt2"
  },
  "0x767f09444058e1de351e33d6971d75df93f53ac8d09ca963859274f4de9ca493": {
   "created_at": "2026-10-13T15:49:44.305384Z",
@@ -772,6 +800,15 @@
   "revisions": 1,
   "sha256": "18771de5820ccac28d27e48dd7b2599c7ba20f357b660f0dfb877ab6db50385e",
   "slug": "will-magic-qualify-to-pgl-major-singapore-2026"
+ },
+ "0x799d6cdc7b3c6fa6058bebc0b8a8098fff8ef314dcab21c7cc97f69cb5272393": {
+  "created_at": "2026-11-26T00:24:17.753199Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the US and China announce an AI safety agreement by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "af5f798b8275f782e0896ca17257961dadbb9cfbc6037d45475efec4317455d7",
+  "slug": "us-x-china-ai-safety-agreement-by-june-30-2027"
  },
  "0x79eafcc70a5e054f00073e58b8db89611cca5cf1571b67b9ed4eb7ea46b95e93": {
   "created_at": "2026-08-10T15:45:36.122499Z",

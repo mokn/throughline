@@ -250,6 +250,7 @@
   "created_at": "2026-10-25T10:15:19.147244Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 4 - 2 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",
@@ -814,6 +815,15 @@
   "revisions": 1,
   "sha256": "a160b85d166d502d1fe30f03f16c63b5bc092c43623335ae128cd268fa485d5a",
   "slug": "will-the-republican-party-candidate-win-the-2026-idaho-senate-election-by-0-5"
+ },
+ "0x57a1451081b10a4f7f73fecd524a5785c35ca6fd68ceabfef21e9f5465f8cc30": {
+  "created_at": "2026-11-25T22:59:48.063972Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Amazon (AMZN) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-amazon-get-a-credit-rating-downgrade-by-june-30-2027"
  },
  "0x58df85652c919760be56056325c4fbb868f83eeaa6952f7c4a4c29cfe3c61f30": {
   "created_at": "2026-08-24T16:35:31.257556Z",

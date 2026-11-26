@@ -460,6 +460,7 @@
   "created_at": "2026-05-19T04:47:27.688764Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Neuralink's valuation hit (HIGH) $60B by December 31?",
   "revisions": 1,
   "sha256": "2a23c46427cffb4d51899af1e222de1c025b1ed81998d3c3422e43a55587dba7",
@@ -1449,6 +1450,15 @@
   "revisions": 1,
   "sha256": "5eef53589abbd87d1caa3393eb1761ebfea086c080b16761052333630f15e1ee",
   "slug": "will-broad-front-fa-win-the-most-seats-in-palencia-in-the-2026-spanish-general-election"
+ },
+ "0xc51d32bd6459f9a3fc40d7479428236a06bea8c7434f2cdb33311c52a1a59e41": {
+  "created_at": "2026-11-25T23:27:55.046599Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Japan Q4 GDP growth (annualized) be between -1.6% and -0.8%?",
+  "revisions": 1,
+  "sha256": "3e2af402071d8515f26cccd02e87221a9a695061bd271614baac677f912a46e4",
+  "slug": "will-japan-q4-gdp-growth-annualized-be-between-1pt6-and-0pt8"
  },
  "0xc56d9b6842d8989e0338e8c292c7252248910f0b7fa2ff85875977e4abb3e541": {
   "created_at": "2026-11-07T12:30:57.164071Z",

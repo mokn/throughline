@@ -1135,6 +1135,24 @@
   "sha256": "f033d3bcd98a7ff642d860255c4b35663bf0bc7a2304d6fb0e2ebe885370b4c5",
   "slug": "will-manchester-city-score-the-most-goals-in-the-ucl-league-phase"
  },
+ "0x96c2cb10cb08eeafa115ca69f261a271c1b0d106ebc19d7851f391f5d1ef1669": {
+  "created_at": "2026-11-26T16:07:09.490181Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the total domestic gross for \"The Hunger Games: Sunrise on the Reaping\" be between $340M and $360M by December 31?",
+  "revisions": 1,
+  "sha256": "e7972bcfeb7af75236741a29154e3eddd344503fb47d67d00d68998506bedf17",
+  "slug": "will-the-total-domestic-gross-for-the-hunger-games-sunrise-on-the-reaping-be-between-340m-and-360m-by-december-31"
+ },
+ "0x98b3d7fd5143e99c1d4f598725ddd8ee99b34c128177419b24387abfbeab4969": {
+  "created_at": "2026-11-26T00:47:19.345393Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Anthropic (ANT) Q4 revenue be above $23B?",
+  "revisions": 1,
+  "sha256": "6be5973a8afa507a8d5eeeca96f85a80b4b921c435c2883c8381e16a1b9fdcee",
+  "slug": "will-anthropic-ant-q4-revenue-be-above-23b"
+ },
  "0x99757abf52fcbc2e14f9f67e6d7e0fe72433b35170498c6d2e5dce74fc05cc69": {
   "created_at": "2026-10-11T11:15:32.169624Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1486,6 +1504,7 @@
   "created_at": "2026-10-25T10:15:19.310091Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 2 - 5 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",

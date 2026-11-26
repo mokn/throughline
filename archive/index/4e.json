@@ -565,6 +565,15 @@
   "sha256": "44ff1809172673a153da06536f5a959715c9117e615349a8bb9eefde4fb118ff",
   "slug": "will-thomas-massie-be-the-republican-nominee-for-kentucky-governor"
  },
+ "0x6319b53e99713dee0282bd46dc9329cbc6ada7f9d268dd64f769e1497431424e": {
+  "created_at": "2026-11-25T23:31:06.027908Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI sell between 6% and 7% of its shares in its IPO?",
+  "revisions": 1,
+  "sha256": "e9a724540fd87347eabcedf380534bcfffa50af5a08dfc7850aebda20fe440cb",
+  "slug": "will-openai-sell-between-6-and-7-of-its-shares-in-its-ipo"
+ },
  "0x63ac62e9673a52597d9c97e288f6bc97b9dd499dc06191bd762d31b13400414e": {
   "created_at": "2026-08-05T10:54:41.5943Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1367,6 +1376,7 @@
   "created_at": "2026-09-25T23:09:36.390678Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Chris Pappas underperform Kamala in New Hampshire?",
   "revisions": 1,
   "sha256": "d9bfb74e7925abe8b87729c2132036425a34083c29e67652afb010d83fe2bde8",

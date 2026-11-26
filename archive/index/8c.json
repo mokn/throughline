@@ -8,6 +8,15 @@
   "sha256": "1e654f5a64dad3a5e542fc932c418cd40197cab5af7a3a590d164c059b627aac",
   "slug": "2027-pga-tour-player-of-the-year-rory-mcilroy"
  },
+ "0x02eec30b1896d5d68705ea0b0f56ada4bdd7aeb8298b18713e9fc848ff2c438c": {
+  "created_at": "2026-11-26T02:27:14.6758Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2027 be above $20.00?",
+  "revisions": 1,
+  "sha256": "25df622737437fe93c96d691206b35671603fd0d2271ce7d2b1dcfd3b1bd05cc",
+  "slug": "h200-average-rental-price-in-december-2027-above-20pt00"
+ },
  "0x0552200445ecb1d63dfc354bb383842b7138360378664203a0d0552391895f8c": {
   "created_at": "2026-01-28T15:39:17.263897Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -875,6 +884,7 @@
   "created_at": "2026-10-25T10:15:14.861221Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will CSD Municipal win on 2026-11-07?",
   "revisions": 1,
   "sha256": "dca96d379138cbc154a91f413493751dd48af2affff53a197ff48f1d50127ff7",

@@ -555,6 +555,7 @@
   "created_at": "2026-10-24T11:30:34.31407Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Valtteri Bottas achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",
@@ -699,6 +700,15 @@
   "revisions": 1,
   "sha256": "1d880ec34acf88b3801abcfeacb1db56ba0753146074bae220419d92696808ee",
   "slug": "will-n3on-be-the-second-of-these-streamers-to-finish-gta-vi-by-december-31-2026"
+ },
+ "0x73a546bfda734eef04ee143b63b6505597629112338f9e39fa4bc8c23b7eebe4": {
+  "created_at": "2026-11-26T02:27:21.910962Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in March 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "0974a5e7a1a92bd2238bb53f1712275489a78ecd7a9c8c98dbab5d57feb9c026",
+  "slug": "h200-average-rental-price-in-march-2027-above-4pt00"
  },
  "0x73d959de813b519b41986e84b23155b421121a860996eca90105a44b31f248e4": {
   "created_at": "2026-07-28T03:01:37.688049Z",
@@ -1112,6 +1122,15 @@
   "sha256": "aab81579c2cb6b7de786ff0ee55952fbc5e2fd8591a8e70df5dadacfa221adc0",
   "slug": "will-fewer-than-two-of-these-kick-streamers-finish-gta-vi-by-december-31-2026"
  },
+ "0xa35568366c62faa999d31acbd0cf020fe91cd5a6d285a19a66c4b447e981a3e4": {
+  "created_at": "2026-11-25T23:00:17.7293Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will TeraWulf (WULF) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-terawulf-get-a-credit-rating-downgrade-before-2028"
+ },
  "0xa57bd9e9d16a58b519c604b554a8ee8bdfc9a41b10ee990f5182aad04539f3e4": {
   "created_at": "2026-10-26T19:00:43.194735Z",
   "first_seen": "2026-11-17T15:59:42Z",
@@ -1442,6 +1461,15 @@
   "revisions": 1,
   "sha256": "2ba2f5b98f7327821c7d461b3568906801375ca6f53720be17520a51afcee566",
   "slug": "will-trump-pardon-diddy-before-2027"
+ },
+ "0xe16fb2c19ff0f58622c717393f595fddddb0f81ab9880f6f68f4a2c56ceddce4": {
+  "created_at": "2026-11-25T23:00:07.441504Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will NVIDIA (NVDA) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-nvidia-get-a-credit-rating-downgrade-before-2028"
  },
  "0xe1cab0e9d2a30774ce2ceecd9752da3de439af148588599354f55d0f7a9fc4e4": {
   "created_at": "2026-08-18T14:23:30.456654Z",

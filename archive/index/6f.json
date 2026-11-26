@@ -209,6 +209,15 @@
   "sha256": "c40913d913ce4e410f5288598383b08721e89a8d3d0c744e4e432f4f64ad7737",
   "slug": "will-lyngby-keep-the-most-clean-sheets-in-denmark-superliga-2026-27"
  },
+ "0x1ccc8e5d7c88f31c0850d9d4bdef748832a3999489516f5ff50732bd0ed3106f": {
+  "created_at": "2026-11-25T23:31:17.751693Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in April 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-april-2027-et"
+ },
  "0x1e45067806197519cee98f3b7202d187fe78f50bfd028f8eace33e13fa64176f": {
   "created_at": "2026-08-05T16:18:06.474569Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -802,6 +811,7 @@
   "created_at": "2026-09-09T15:41:34.433897Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Gerson Rodrigues be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
@@ -1548,6 +1558,15 @@
   "revisions": 1,
   "sha256": "84eaf53c7d8cda850ab134fb83b6c122534d397b075c494a5f6a288ea9cdade6",
   "slug": "will-justin-tucker-finish-as-a-top-5-k-in-the-2026-27-nfl-season"
+ },
+ "0xc86f4dadc52e2f6fcec4881ac5c85361c7ff4b5427d44ba582ae6ca24a88c36f": {
+  "created_at": "2026-11-25T22:59:50.750104Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Micron (MU) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-micron-get-a-credit-rating-downgrade-by-june-30-2027"
  },
  "0xc8a0334e79c0e8aadac6c416cbeff93999ca14e0552cd41fd8546e13684bbf6f": {
   "created_at": "2026-08-26T21:46:52.302212Z",

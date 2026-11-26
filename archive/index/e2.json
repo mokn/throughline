@@ -389,6 +389,15 @@
   "sha256": "0bd94a27daa8e548254d7b93dc58c71cc0c8ff96764d8e78307f6bf884e50b6f",
   "slug": "will-ron-desantis-win-the-2028-us-presidential-election"
  },
+ "0x3383abd0ce212715ec8f591b278b6afd3b7ac1230111d57f8c368d617e3027e2": {
+  "created_at": "2026-11-26T16:18:00.5502Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Chen Wenqing be the next member of China\u2019s Politburo Standing Committee?",
+  "revisions": 1,
+  "sha256": "2a0ceb9db0191b48dfdc2ffe3e5b919f907ad9dd0eba18689c9fb4b61c4c533d",
+  "slug": "will-chen-wenqing-be-the-next-member-of-chinas-politburo-standing-committee"
+ },
  "0x3b9625f57d03eecabe481b3fef63ae5a41c402685875a9bb9cda65fd8250ace2": {
   "created_at": "2026-07-02T18:23:59.739542Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -457,6 +466,7 @@
   "created_at": "2026-07-29T18:38:08.398493Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Texas 2026 Senate race be within 5%?",
   "revisions": 1,
   "sha256": "8e4b8cf85bb30efcd93fdbe04059776f789b53eab18da598805d082a4d7a8ab5",

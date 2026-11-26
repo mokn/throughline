@@ -1,0 +1,13 @@
+As of market creation, AMD is estimated to release earnings on February 1, 2027. The Street consensus estimate for AMD’s non-GAAP EPS for the relevant quarter is $2.98 as of market creation. This market will resolve to "Yes" if AMD reports non-GAAP EPS greater than $2.98 for the relevant quarter in its next quarterly earnings release. Otherwise, it will resolve to "No." The resolution source will be the non-GAAP EPS listed in the company’s official earnings documents.
+
+If AMD releases earnings without non-GAAP EPS, then the market will resolve according to the non-GAAP EPS figure reported by SeekingAlpha. If no such figure is published within 96h of market close (4:00:00pm ET) on the day earnings are announced, the market will resolve according to the GAAP EPS listed in the company’s official earnings documents; or, if not published there, according to the GAAP EPS provided by SeekingAlpha. If no GAAP EPS number is available from either source at that time, the market will resolve to “No.” (For the purposes of this market, GAAP EPS refers to diluted GAAP EPS, unless it is not published, in which case it refers to basic GAAP EPS.)
+
+If the company does not release earnings within 45 calendar days of the estimated earnings date, this market will resolve to “No.”
+
+Note: Subsequent restatements, corrections, or revisions made to the initially announced non-GAAP EPS figure will not qualify for resolution, except in the case of obvious and immediate mistakes (e.g., fat finger errors, as with Lyft's (LYFT) earnings release in February 2024).
+Note: The strike prices used in these markets reflect the selected street consensus estimate for non-GAAP EPS as of market creation.
+Note: All figures will be rounded to the nearest cent using standard rounding.
+Note: For the purposes of this market, IFRS EPS will be treated as GAAP EPS.
+Note: If multiple versions of non-GAAP EPS are published, the market will resolve according to the primary headline non-GAAP EPS number, which is typically presented on a diluted basis. If diluted is not published, then basic non-GAAP EPS will qualify.
+Note: All figures are expressed in USD, unless otherwise indicated.
+Note: For primarily internationally listed companies, this market refers specifically to the shares traded in the United States on U.S. stock exchanges such as the NYSE or Nasdaq. In cases where the company trades in the U.S. through an American Depositary Receipt (ADR) or American Depositary Share (ADS), this market will refer to the ADR/ADS.

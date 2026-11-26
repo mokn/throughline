@@ -433,6 +433,15 @@
   "sha256": "2c663ce90df8ec63aabcd52c3c4d9af12545e80c726206441013ec6e4f1eab7a",
   "slug": "will-anthropics-market-cap-be-between-100b-and-200b-at-market-close-on-ipo-day-by-december-31-2027"
  },
+ "0x44bb8087ec8cd7041ed4c3f15d3adb815d001a5f62de5a18adfb08646be4adce": {
+  "created_at": "2026-11-26T16:18:08.138611Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will no one be appointed to China\u2019s Politburo Standing Committee by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "2a0ceb9db0191b48dfdc2ffe3e5b919f907ad9dd0eba18689c9fb4b61c4c533d",
+  "slug": "will-no-one-be-appointed-to-chinas-politburo-standing-committee-by-december-31-2027"
+ },
  "0x44ea2df300802f0ba92b3f996d29760d4cf9c84b9f677de94fc6b539c682ccce": {
   "created_at": "2026-10-24T04:00:09.161601Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -917,10 +926,10 @@
  "0x88fddc5e8589127397034ea18502ce969d4e6575f7bcd709c669e85a77909dce": {
   "created_at": "2026-10-12T15:16:44.807253Z",
   "first_seen": "2026-11-04T01:55:27Z",
-  "last_changed": "2026-11-04T01:55:27Z",
+  "last_changed": "2026-11-26T16:54:13Z",
   "question": "Will Trump rename an ocean by December 31, 2027?",
-  "revisions": 1,
-  "sha256": "d66dc3596957899345d7f9a77fa831c29eb82dbd98fe00b4d29831e71f4e69c6",
+  "revisions": 2,
+  "sha256": "ca4ddf7e166d47d16940f2a7e9e907b9e271bb268d629bf74bbd523dc9ebdd25",
   "slug": "will-trump-rename-an-ocean-by-december-31-2027"
  },
  "0x890fc3ba40458db0b67560691aa1597344c2a0560d18e80f586a4b35f510b4ce": {
@@ -1002,6 +1011,7 @@
   "created_at": "2026-08-27T23:06:48.287144Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Bank of Korea cut by 25 bps at the November 2026 meeting?",
   "revisions": 1,
   "sha256": "7c0552963f8162bff6284a11470f05da8668a377191f647f70c4c4e35e632654",

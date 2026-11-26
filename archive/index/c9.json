@@ -225,6 +225,7 @@
   "created_at": "2026-10-13T15:56:15.923421Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Phoenix Suns reach the 2026 NBA Cup Championship game?",
   "revisions": 1,
   "sha256": "d49a6d6a7dd1f96aea6bb72f7050aeaea32ccb86c12508937230c6c43fd15ea8",
@@ -294,6 +295,15 @@
   "sha256": "f43ad9bea1af9a790b77c6acaf3c01f2315f5ccdf3cc3c80a97d2735b01c0a3b",
   "slug": "will-drake-appear-at-the-2027-big-game-halftime-show"
  },
+ "0x285ff4473b9a9b576807b7636304fe63c42b11ee7a56a0af3474f021ccab5ac9": {
+  "created_at": "2026-11-26T02:27:08.388979Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2026 be above $7.00?",
+  "revisions": 1,
+  "sha256": "631967a814ecdaf6508b8d3ce577bf59af8499fa9d2888ab41d932bc70b0db8e",
+  "slug": "h200-average-rental-price-in-december-2026-above-7pt00"
+ },
  "0x28d1e71ea84111d16c9d5504bb7a9df4bca03a41594cf3ac25e5495b63d375c9": {
   "created_at": "2026-11-25T05:01:51.761383Z",
   "first_seen": "2026-11-25T17:14:03Z",
@@ -316,6 +326,7 @@
   "created_at": "2026-09-01T09:44:57.148602Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: O/U 13.5 Total Corners",
   "revisions": 1,
   "sha256": "8fffeb920483fa3960df0ad814ee9b49be8e601878464543997edcd4c92d7f55",
@@ -563,6 +574,15 @@
   "revisions": 1,
   "sha256": "ae998741eba57dc68fa5c691e85c6f6d7c1e2b257898c43fddab4a3ba3fa2759",
   "slug": "will-jean-pierre-gallati-win-the-swiss-federal-council-by-election"
+ },
+ "0x4a1d32fdd08a7db37c0ccdac6131b59e82f0f0893152626aeede563620baaec9": {
+  "created_at": "2026-11-26T10:59:44.429387Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Benjamin Netanyahu announced resignation or removal by February 28, 2027?",
+  "revisions": 1,
+  "sha256": "9b5efedc21fd6d7364ff6445a7e99b999b9b671ca88ebaf57eb92c8b4b990906",
+  "slug": "benjamin-netanyahu-announced-resignation-or-removal-by-february-28-2027"
  },
  "0x4afa6b6cf1c6206e623230f855cbd73bb1cd86d307d8fa2891a01f76fb50c9c9": {
   "created_at": "2026-08-26T21:46:11.566622Z",

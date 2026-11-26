@@ -5,9 +5,57 @@
   <id>https://mokn.github.io/throughline/feed.xml</id>
   <link rel="self" type="application/atom+xml" href="https://mokn.github.io/throughline/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://github.com/mokn/throughline"/>
-  <updated>2026-11-25T17:14:03Z</updated>
+  <updated>2026-11-26T16:54:13Z</updated>
   <author><name>throughline rules-watcher</name></author>
   <generator uri="https://github.com/mokn/throughline">feed.py</generator>
+  <entry>
+    <title>Will Trump rename an ocean by December 31, 2027?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0x88fddc5e8589127397034ea18502ce969d4e6575f7bcd709c669e85a77909dce/2</id>
+    <updated>2026-11-26T16:54:13Z</updated>
+    <published>2026-11-26T16:54:13Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-trump-rename-an-ocean-by-december-31-2027"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/ce/0x88fddc5e8589127397034ea18502ce969d4e6575f7bcd709c669e85a77909dce.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-26T16:54:13Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-trump-rename-an-ocean-by-december-31-2027
+conditionId: 0x88fddc5e8589127397034ea18502ce969d4e6575f7bcd709c669e85a77909dce
+revision: 2
+seen: 2026-11-26T16:54:13Z
+sha256 before: d66dc3596957899345d7f9a77fa831c29eb82dbd98fe00b4d29831e71f4e69c6
+sha256 after:  ca4ddf7e166d47d16940f2a7e9e907b9e271bb268d629bf74bbd523dc9ebdd25
+
+--- 0x88fddc5e8589127397034ea18502ce969d4e6575f7bcd709c669e85a77909dce (before)
++++ 0x88fddc5e8589127397034ea18502ce969d4e6575f7bcd709c669e85a77909dce (after)
+@@ -1,3 +1,3 @@
+-This market will resolve to "Yes" if Donald Trump issues any executive order to, or signs any bill into law to, or otherwise takes action to officially rename any ocean by December 31, 2026, at 11:59 PM ET. Otherwise, this market will resolve to "No."
++This market will resolve to "Yes" if Donald Trump issues any executive order to, or signs any bill into law to, or otherwise takes action to officially rename any ocean by December 31, 2027, at 11:59 PM ET. Otherwise, this market will resolve to "No."
+ 
+ For the purposes of this market, the oceans are defined as: the Atlantic Ocean, the Pacific Ocean, the Indian Ocean, the Arctic Ocean, and the Southern/Antarctic Ocean.
+</content>
+  </entry>
+  <entry>
+    <title>Will Russia invade another country by December 31, 2027?</title>
+    <id>tag:throughline.markets,2026:polymarket/rules/0x43b3bc105e75c59d4745892067c57220702f869dc86296793a45429f1ad29773/2</id>
+    <updated>2026-11-26T16:54:13Z</updated>
+    <published>2026-11-26T16:54:13Z</published>
+    <link rel="alternate" type="text/html" href="https://polymarket.com/market/will-russia-invade-another-country-by-december-31-2027"/>
+    <link rel="related" type="text/plain" href="https://github.com/mokn/throughline/blob/main/archive/rules/73/0x43b3bc105e75c59d4745892067c57220702f869dc86296793a45429f1ad29773.txt"/>
+    <summary>Revision 2 of the resolution rules, seen 2026-11-26T16:54:13Z.</summary>
+    <content type="text">Market: https://polymarket.com/market/will-russia-invade-another-country-by-december-31-2027
+conditionId: 0x43b3bc105e75c59d4745892067c57220702f869dc86296793a45429f1ad29773
+revision: 2
+seen: 2026-11-26T16:54:13Z
+sha256 before: e1646a20b258678f324a3a0392b386e4a428c02ee6efe3b0b09f8542aa36a396
+sha256 after:  b28365ad606915016f2f6255dd4b92d7469067443e96f6b63b68924fe3d87d98
+
+--- 0x43b3bc105e75c59d4745892067c57220702f869dc86296793a45429f1ad29773 (before)
++++ 0x43b3bc105e75c59d4745892067c57220702f869dc86296793a45429f1ad29773 (after)
+@@ -1,3 +1,3 @@
+-This market will resolve to "Yes" if Russia commences a military offensive intended to establish control over any portion of any UN member state's territory, other than Ukraine's, by December 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to "No".
++This market will resolve to "Yes" if Russia commences a military offensive intended to establish control over any portion of any UN member state's territory, other than Ukraine's, by December 31, 2027, 11:59 PM ET. Otherwise, this market will resolve to "No".
+ 
+ For the purposes of this market, land de facto controlled by any UN member state, as of market creation, will be considered the sovereign territory of that country.
+</content>
+  </entry>
   <entry>
     <title>Will Trump be impeached by December 31, 2026?</title>
     <id>tag:throughline.markets,2026:polymarket/rules/0x4c8ceef9b9c0a27b6b4efa7c398ece4a5eeda76502f722de398c232abefe2ede/2</id>

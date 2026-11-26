@@ -1,0 +1,13 @@
+As of market creation, CoreWeave is estimated to release earnings on February 26, 2027. The Street consensus estimate for CoreWeave's GAAP EPS for the relevant quarter is $-0.61 as of market creation. This market will resolve to "Yes" if CoreWeave reports GAAP EPS greater than $-0.61 for the relevant quarter in its next quarterly earnings release. Otherwise, it will resolve to "No." The resolution source will be the GAAP EPS listed in the company’s official earnings documents.
+
+If CoreWeave releases earnings without GAAP EPS, then the market will resolve according to the GAAP EPS figure reported by SeekingAlpha. If no such figure is published within 96h of market close (4:00:00pm ET) on the day earnings are announced, the market will resolve to “No”.
+
+If the company does not release earnings within 45 calendar days of the estimated earnings date, this market will resolve to “No.”
+
+Note: Subsequent restatements, corrections, or revisions made to the initially announced GAAP EPS figure will not qualify for resolution, except in the case of obvious and immediate mistakes (e.g., fat finger errors, as with Lyft's (LYFT) earnings release in February 2024).
+Note: The strike prices used in these markets reflect the selected street consensus estimate for GAAP EPS as of market creation.
+Note: All figures will be rounded to the nearest cent using standard rounding.
+Note: For the purposes of this market, IFRS EPS will be treated as GAAP EPS.
+Note: GAAP EPS refers to diluted GAAP EPS, unless this is not published, in which case it refers to basic GAAP EPS.
+Note: All figures are expressed in USD, unless otherwise indicated.
+Note: For primarily internationally listed companies, this market refers specifically to the shares traded in the United States on U.S. stock exchanges such as the NYSE or Nasdaq. In cases where the company trades in the U.S. through an American Depositary Receipt (ADR) or American Depositary Share (ADS), this market will refer to the ADR/ADS.

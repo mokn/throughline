@@ -767,6 +767,15 @@
   "sha256": "46af3b96f9569d79b1f360a9c6b7828cbb41aab6c4b0e9bc94cfe144f94dfaa3",
   "slug": "el1-lut-don-2026-10-03-first-corner"
  },
+ "0x7baa351f357c7c9c3cd28b58be15339d1e2d2557c535f5c5e8fb694f18450579": {
+  "created_at": "2026-11-26T00:10:50.630425Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "NVIDIA (NVDA) Q4 adjusted gross margin from 71.75% to under 72.25%?",
+  "revisions": 1,
+  "sha256": "69e99aa7ce2c959b690596c2fb7ecf9dba40f75d54f1d8be267a15a327901bce",
+  "slug": "nvidia-nvda-q4-adjusted-gross-margin-non-gaap-71pt75-to-72pt25"
+ },
  "0x7bbdd1da7d072e8edb1358702b4e629c3c154dfc9c1e4f433e283a46bc994779": {
   "created_at": "2026-07-23T22:46:18.154607Z",
   "first_seen": "2026-11-04T01:55:27Z",

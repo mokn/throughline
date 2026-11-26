@@ -1115,6 +1115,15 @@
   "sha256": "076178edff10b885e93a4c3d20f622b7e3fcac0bdea674f46f8a765873158d49",
   "slug": "nba-2026-27-players-to-average-10-plus-rpg-rudy-gobert"
  },
+ "0x81be86af727cae5f38da9c8c3239342ae8129703b4309f7f3bcd4d4551927665": {
+  "created_at": "2026-11-26T00:00:29.674835Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will NVIDIA (NVDA) Q4 Data Center revenue be above $127B?",
+  "revisions": 1,
+  "sha256": "5a636451c0a545c1af21edb487dfae23d76a14b316717a5f8e18bb5975f9c1c8",
+  "slug": "will-nvidia-nvda-q4-data-center-revenue-be-above-127b"
+ },
  "0x84d57c342034aa6a94cee568cbf78ff02d77c67e03bffc8b92ff124f379c3665": {
   "created_at": "2026-09-27T20:08:51.052283Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1306,6 +1315,15 @@
   "sha256": "364cf2b2ceac4146a941a94232d6882613839558f8f5fa5df63e03adc36c5f66",
   "slug": "will-sv-ried-finish-11th-in-austrian-bundesliga-2026-27"
  },
+ "0x9efa3ded1559ac74bc3083145861cd7a8c9093b8cb28fc2013694c41bc1feb65": {
+  "created_at": "2026-11-26T02:27:09.943501Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2026 be above $6.50?",
+  "revisions": 1,
+  "sha256": "631967a814ecdaf6508b8d3ce577bf59af8499fa9d2888ab41d932bc70b0db8e",
+  "slug": "h200-average-rental-price-in-december-2026-above-6pt50"
+ },
  "0xa0505a000efe9597154bc8990483d7a52c21544e86a1a1f9cdacc20f20fb2a65": {
   "created_at": "2026-08-24T16:32:13.282201Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1462,6 +1480,15 @@
   "revisions": 1,
   "sha256": "1a45f9c4775cfe79033cd5cadf4e2115c7207c44763b669bf5acb8bf384e7f9b",
   "slug": "will-pt-win-the-most-seats-in-the-2027-chihuahua-congress-election"
+ },
+ "0xae7a05f7c559f53de06bee5b017d5a6be525a19fbee93eae609bc78ca928a365": {
+  "created_at": "2026-11-26T02:27:18.73164Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in March 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "0974a5e7a1a92bd2238bb53f1712275489a78ecd7a9c8c98dbab5d57feb9c026",
+  "slug": "h200-average-rental-price-in-march-2027-above-9pt00"
  },
  "0xaf3cdf0c560b9b7503a602f8445586869b7b497f6a583e059101b7f057289665": {
   "created_at": "2026-09-14T20:21:42.348255Z",

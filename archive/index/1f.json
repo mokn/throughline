@@ -73,6 +73,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-lsu-have-more-than-8pt5-wins-during-the-2026-cfb-season-20260810194022886"
  },
+ "0x0aa22193bf6eee816e62761c63ed0a04feb106fb89f50475cfcb4dd7448bc81f": {
+  "created_at": "2026-11-26T00:10:48.817227Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "NVIDIA (NVDA) Q4 adjusted gross margin under 70.75%?",
+  "revisions": 1,
+  "sha256": "69e99aa7ce2c959b690596c2fb7ecf9dba40f75d54f1d8be267a15a327901bce",
+  "slug": "nvidia-nvda-q4-adjusted-gross-margin-non-gaap-less-than-70pt75"
+ },
  "0x0c5363afa7b9372a7f13c3ba7bb363275d00f181343e12adca9d36fb9332001f": {
   "created_at": "2026-10-02T19:30:27.350499Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -396,6 +405,15 @@
   "sha256": "89b27f932bc89033b98545bae6c580b3f4bf58f251f893c0d8eb2ffd346b25d7",
   "slug": "kirk-cousins-400-passing-yards-game-2026-27"
  },
+ "0x38876481dc2da682da1b7a79622bc37c23b7430fc799dd6a6329d1785d79af1f": {
+  "created_at": "2026-11-26T10:50:35.682083Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Google Year in Search 2026 released by December 31?",
+  "revisions": 1,
+  "sha256": "86394f254f829583f36bd020f6bba316f1606935c2b94daf5ba91bdf6c8a405a",
+  "slug": "google-year-in-search-2026-released-by-december-31"
+ },
  "0x39bbec1dc0efdb3c6e239d10cf586dbdba0a998f38269f97a1a3ecf30ae2141f": {
   "created_at": "2026-08-04T18:30:49.255484Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -605,6 +623,7 @@
   "created_at": "2026-09-01T09:44:56.363462Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: O/U 9.5 Total Corners",
   "revisions": 1,
   "sha256": "a1dde1d67ecee40c21e4d52bf4b5726de8ab0fbff8216174f1e830a3ed440537",
@@ -662,6 +681,7 @@
   "created_at": "2026-09-30T23:58:54.641536Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Closer Senate Race: Maine or Texas?",
   "revisions": 1,
   "sha256": "7291956541e0979712f39ba149302d6a71809aca4f16ca980dea246895183529",
@@ -1591,6 +1611,15 @@
   "revisions": 1,
   "sha256": "e89892fd7e186999eb1d7bf464b5e87dddd8f11457b5b84cab48976fb8428ce4",
   "slug": "will-the-republican-party-candidate-win-the-2026-nc-10-house-election-by-10-15"
+ },
+ "0xd8b4b009429648ef42bed8d668d758074701a102e54282bc5748baa8e039dc1f": {
+  "created_at": "2026-11-26T02:27:06.917566Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2026 be above $7.50?",
+  "revisions": 1,
+  "sha256": "631967a814ecdaf6508b8d3ce577bf59af8499fa9d2888ab41d932bc70b0db8e",
+  "slug": "h200-average-rental-price-in-december-2026-above-7pt50"
  },
  "0xdc8f045babfcacd35d70d9a27ae9b9c621477bf720159a7816560a34e84f2c1f": {
   "created_at": "2026-04-28T22:26:42.209044Z",

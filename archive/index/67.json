@@ -301,6 +301,15 @@
   "sha256": "ab114263aae2ff8c5fbda093579265315946cb30e201119cd897928467bcec48",
   "slug": "will-hood-dip-to-60-in-december-2026"
  },
+ "0x2d02a7bedb04344a1b7cb716f3ea788da2b82b69acf096daba85d6b0c9581867": {
+  "created_at": "2026-11-25T21:15:09.415414Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Houston Texans by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-houston-texans-by-january-11-2027"
+ },
  "0x2d7cbc7a65a552fa25c6e833ad505527ba5b8ed1f93ad5cf2f24e31c4bb0de67": {
   "created_at": "2026-05-08T15:41:29.133197Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -917,6 +926,15 @@
   "sha256": "d5918d49031b11e2f72f6e350da61677cb74733a2df84c4ac498c13374325bf3",
   "slug": "will-the-central-bank-of-chile-make-no-change-to-the-monetary-policy-rate-at-the-december-2026-meeting"
  },
+ "0x77fcad504c9331f2827728fe3bccb9c072ba06e5790f3e400fb4651ba419bb67": {
+  "created_at": "2026-11-25T21:15:02.159432Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Buffalo Bills by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-buffalo-bills-by-january-11-2027"
+ },
  "0x78a80655bf595ac2d7ac1c7cfc77c4821967859d76e0cfde242fc3749d9f2867": {
   "created_at": "2026-09-08T17:03:00.285102Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1144,6 +1162,7 @@
   "created_at": "2026-10-24T11:30:33.645602Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Max Verstappen achieve the fastest lap in Practice 1 at the 2026 F1 Las Vegas Grand Prix?",
   "revisions": 1,
   "sha256": "85aaf9874e159a0d7fd7004dc7821373350eadbb4e05f87b2f5b2000801cc519",
@@ -1691,6 +1710,15 @@
   "sha256": "9aa1fd14c80b31394f0689564845d6c870e911c26d3480481053de881e6217e7",
   "slug": "nba-2026-27-rpg-leader-derik-queen"
  },
+ "0xdcfbf1d88f2fd2913977b6ad23b5b5588bd5d3ef1fb4af091a38e39af5d0a067": {
+  "created_at": "2026-11-26T02:27:15.289008Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2028 be above $21.00?",
+  "revisions": 1,
+  "sha256": "f4fd47ab099e8d5bd1d97f12cee8e6c7af1210daa6bd3f642976d76b727076a2",
+  "slug": "h200-average-rental-price-in-december-2028-above-21pt00"
+ },
  "0xdf3043f20d4e8237b325bb1c9979fb7f2ec86f110880499d0217b2b6b23bf867": {
   "created_at": "2026-09-28T17:20:16.350554Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1718,6 +1746,15 @@
   "revisions": 1,
   "sha256": "364bd4d9950591963586fc0b860f471c424899e1ff149be31296a340b94d22aa",
   "slug": "will-the-democratic-party-win-the-nv-03-house-seat"
+ },
+ "0xe2c815f52d0cac3a956b4169aae21c21921b4e6ad9d75f1597664930953f9067": {
+  "created_at": "2026-11-25T22:59:49.678621Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will AMD get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-amd-get-a-credit-rating-downgrade-by-june-30-2027"
  },
  "0xe57eb427c6f08ae1c056fdbdc5f7973270d35980b03a8db4aa80b148995d2c67": {
   "created_at": "2026-07-30T18:55:08.450845Z",
@@ -2029,5 +2066,14 @@
   "revisions": 1,
   "sha256": "dbce2d6a1669874415416f6e077fb5eb29ca0b448d07cb7368af1f494f118aba",
   "slug": "spx-hit-7000-low-dec-2026"
+ },
+ "0xff3acd120bccd5893717ee7cc74143f166fbead7db3633ec987da1f4475ae567": {
+  "created_at": "2026-11-26T10:59:43.81397Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Benjamin Netanyahu announced resignation or removal by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "9b5efedc21fd6d7364ff6445a7e99b999b9b671ca88ebaf57eb92c8b4b990906",
+  "slug": "benjamin-netanyahu-announced-resignation-or-removal-by-december-31-2026"
  }
 }

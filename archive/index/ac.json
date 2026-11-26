@@ -175,6 +175,15 @@
   "sha256": "3a2287c69794667bcccbf22f6c18173730051d89e5759498e6f05dc12ff50744",
   "slug": "will-cooper-flagg-win-the-2026-27-nba-mvp"
  },
+ "0x1c910fcfd0880452036bf35bc69793e2f4f46daa46060a2d0ac9d76df0adf2ac": {
+  "created_at": "2026-11-26T16:08:34.367417Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will \"Avengers: Doomsday\" reach $1B domestic box office by January 15?",
+  "revisions": 1,
+  "sha256": "0607c660ed8fad349756f17f701c90bc0ee59f90c2ec6aed7f2514f1792cee3a",
+  "slug": "will-avengers-doomsday-reach-1b-domestic-box-office-by-january-15"
+ },
  "0x1cec129741dc0ebb21b8b58d46569d840a3a7513d79e96f18751e6b6e8b326ac": {
   "created_at": "2026-08-11T19:03:55.002234Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -683,6 +692,7 @@
   "created_at": "2026-10-01T19:44:10.770296Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Al Ahli Saudi Club vs. Al Nassr Saudi Club: Total Corners Odd or Even?",
   "revisions": 1,
   "sha256": "7b69e279f36e979ec5a6f5bb1e8f5452d0a011d6469ff28423e56e5d67ba900e",
@@ -1263,6 +1273,15 @@
   "sha256": "d74c25b49da07c7abd6948e222734ba4049c50214bcf25b90e9581e87367149f",
   "slug": "will-ricardo-eliseo-paulini-palacios-win-the-next-piura-mayoral-elections-20260811165718013"
  },
+ "0xb78d622692008133805e9f7f30471825b2a31e2c37caa33969bb605b07c88bac": {
+  "created_at": "2026-11-26T16:12:59.821235Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Zohran Mamdani say \"Christmas\" during his next livestream?",
+  "revisions": 1,
+  "sha256": "5af4d222277d83623b4ce7707eaca102ee12bedb9833bfc160110414f36d2133",
+  "slug": "will-zohran-mamdani-say-christmas-during-his-next-livestream-20261126"
+ },
  "0xb8ab081fd6d7eed05be0f5da6949e01ab8c05b7eeeb18a86764960022d3440ac": {
   "created_at": "2026-11-17T21:29:52.253654Z",
   "first_seen": "2026-11-18T15:39:44Z",
@@ -1598,6 +1617,7 @@
   "created_at": "2026-10-25T10:15:19.894376Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Exact Score: CSD Municipal 4 - 5 Aurora FC?",
   "revisions": 1,
   "sha256": "55ffee4257ec9b71636b7dafa924e28224f57c607577298bd183fee5132eb806",

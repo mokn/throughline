@@ -1196,6 +1196,15 @@
   "sha256": "799b6762cd663f36b81425a6622fa57cb743eeede2d41718ff1a65e18fb2abfa",
   "slug": "will-democrats-win-exactly-2-house-seats-in-alabama-in-the-2026-midterm-elections-20260811010754283"
  },
+ "0xa4bb44f4955cfd6c7286317ea39e1ed7510141ad7d2f5c068f974dace180b68b": {
+  "created_at": "2026-11-26T02:27:18.108431Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in March 2027 be above $10.00?",
+  "revisions": 1,
+  "sha256": "0974a5e7a1a92bd2238bb53f1712275489a78ecd7a9c8c98dbab5d57feb9c026",
+  "slug": "h200-average-rental-price-in-march-2027-above-10pt00"
+ },
  "0xa687ac97c1f6618c9a20808dccd14ad24bf5b4867f2aa10bb32f85ea2f4c8f8b": {
   "created_at": "2026-09-04T19:42:55.151855Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1565,6 +1574,7 @@
   "created_at": "2026-08-21T20:05:52.396129Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Texas 2026 Senate race be within 1%?",
   "revisions": 1,
   "sha256": "198a4976551c1c697a55d8532a24cdc0c25d551d08eb06f58b4f1d934d0ecd4e",

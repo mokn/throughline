@@ -801,6 +801,15 @@
   "sha256": "ae49a52662279851de0c5be36f1a133b93d2216b2668e7c19c108db739101b70",
   "slug": "will-sbastien-lecornu-advance-to-the-second-round-of-the-next-french-presidential-election"
  },
+ "0x83977ddb3edfe0338101db46c31cf7cce079965859448bbcf02d0770eac18a3a": {
+  "created_at": "2026-11-25T23:31:20.612543Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in August 2027?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-initial-public-offering-occur-in-august-2027-et"
+ },
  "0x8465829e252b95770004c520cffe52a332bad27d4fa4a868d9b49ff72fb9fb3a": {
   "created_at": "2026-11-18T18:17:27.428102Z",
   "first_seen": "2026-11-19T15:44:54Z",
@@ -891,6 +900,15 @@
   "revisions": 1,
   "sha256": "7cc9112477929624de52a931f16d72d6d9201995015c6127e1f6fa773d9986a7",
   "slug": "will-spacex-have-16-launches-in-november-2026"
+ },
+ "0x92348efa16c15682ff88104d8ce3a4ce23bb291ad5e8f6cd9e7cc572a8b26b3a": {
+  "created_at": "2026-11-25T23:31:09.519081Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI not IPO before 2028?",
+  "revisions": 1,
+  "sha256": "e9a724540fd87347eabcedf380534bcfffa50af5a08dfc7850aebda20fe440cb",
+  "slug": "will-openai-not-ipo-before-2028-pct-sold"
  },
  "0x960f934d7f76dda986cbbb596190c67bbca2f2f20f181667b49dccdefcbf6e3a": {
   "created_at": "2026-03-25T21:41:47.430651Z",
@@ -1140,6 +1158,15 @@
   "sha256": "f42de7786f2f9f79d7b09251930b73cfe9fe4cceaf4f0e6d0e34446f93efe476",
   "slug": "will-kuwait-win-group-a-at-the-2027-afc-asian-cup"
  },
+ "0xbc0319f632d033effae9ad7a626c3bb4b1ce4d1250647129878a9b7dfc500c3a": {
+  "created_at": "2026-11-25T23:27:58.001301Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Japan Q4 GDP growth (annualized) be between 2.4% and 3.2%?",
+  "revisions": 1,
+  "sha256": "3e2af402071d8515f26cccd02e87221a9a695061bd271614baac677f912a46e4",
+  "slug": "will-japan-q4-gdp-growth-annualized-be-between-2pt4-and-3pt2"
+ },
  "0xbc15022619d58c935dd783ee41ec8f278a17fda33807bcfb6a1b077d4bd8153a": {
   "created_at": "2026-10-20T18:27:56.489263Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1320,6 +1347,7 @@
   "created_at": "2026-11-23T22:38:52.021365Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will 9z record 3 or more aces at the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",

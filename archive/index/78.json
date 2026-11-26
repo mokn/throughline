@@ -1371,6 +1371,7 @@
   "created_at": "2026-11-23T22:39:00.733856Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will GOSH (BC.Game) record 3 or more aces at the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "aa423b3bca9401756817a32766f4788e9e8335b0a88bdc2c51b33d74066dc09a",
@@ -1612,6 +1613,15 @@
   "revisions": 1,
   "sha256": "07b996e634b29b3ac5f56815381bfa01f6bdc72338c6da5ef819910686ae6787",
   "slug": "will-goztepe-qualify-for-the-2027-28-uefa-europa-league"
+ },
+ "0xeb8147cef6d5b7675c46ca026bb6d0d52d56aff97c0f0b92f01b81afc6be2d78": {
+  "created_at": "2026-11-26T02:27:20.206308Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in September 2027 be above $4.00?",
+  "revisions": 1,
+  "sha256": "8bbc276d288d0115972ba2efa31cdfffda911bc7405123a10c2de94b32697105",
+  "slug": "h200-average-rental-price-in-september-2027-above-4pt00"
  },
  "0xed589ddf384f2f25185e2afc1cc5729309463980f2249e1f94b647dc7f1a7678": {
   "created_at": "2026-01-28T15:40:50.39952Z",

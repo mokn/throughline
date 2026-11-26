@@ -395,6 +395,15 @@
   "sha256": "e5542726942937d32cb4b304b41495f3b9e84f74102fd1d300cbfcabfc2eea3d",
   "slug": "will-chris-hunter-be-the-2026-big-12-receiving-tds-leader"
  },
+ "0x35cec01aa2cfb5f9b6edbb0fa3c4977f33e5f684b9f319a9738969a7ae3eccba": {
+  "created_at": "2026-11-25T23:00:12.32499Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Broadcom (AVGO) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-broadcom-get-a-credit-rating-downgrade-before-2028"
+ },
  "0x380e798f726a2cfd6427d7dc85f1fe7dfe2b4f34f83286d51489e858553507ba": {
   "created_at": "2026-11-10T02:45:17.432615Z",
   "first_seen": "2026-11-10T14:52:55Z",
@@ -644,6 +653,15 @@
   "sha256": "148f9c2e1d0820ec51fd43ce60a59b025fafbc8d6198a3ac104769b2c0a156c5",
   "slug": "will-alibaba-be-the-3-ai-lab-at-the-end-of-december-2026-style-control-on"
  },
+ "0x58149739ec2f0c0151fd01f9728e5c547a52804066c2a27e68fec63eb97a3aba": {
+  "created_at": "2026-11-26T00:12:11.768011Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will NVIDIA Rubin Ultra shipments begin by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "bf3557eecc069ee7edc314153e1aeb3fa650ecbb8538a2339a2c8ca84f9178ae",
+  "slug": "nvidia-rubin-ultra-shipments-begin-by-december-31-2027"
+ },
  "0x5b8264ac4866204c17993dc9d2f2fa652cca114def083f5fab47d1149032d7ba": {
   "created_at": "2026-08-10T15:03:11.609734Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -828,6 +846,15 @@
   "revisions": 1,
   "sha256": "0a4fb6456e85f40d63e7a06549c304a751ed36a38576699c53bf33456add69ae",
   "slug": "will-the-democratic-party-win-the-il-03-house-seat"
+ },
+ "0x6f0ca4e05bcb9e1e08476a3971655b1a42fb41e3439ab89fc6f10028ce1c75ba": {
+  "created_at": "2026-11-25T22:59:51.271411Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Core Scientific (CORZ) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-core-scientific-get-a-credit-rating-downgrade-by-june-30-2027"
  },
  "0x6f87a9ce2b5e45a22317fd7809894d287925abd2f8d843e7cb75641435c7feba": {
   "created_at": "2026-01-30T23:22:59.595115Z",
@@ -1061,6 +1088,7 @@
   "created_at": "2026-10-25T10:45:18.236479Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: Both Teams to Score",
   "revisions": 1,
   "sha256": "c647b38666fc6317917aa6109e7d27721e6ec7be685c3990451038f7775b3890",

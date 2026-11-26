@@ -39,6 +39,7 @@
   "created_at": "2026-10-25T10:45:18.828457Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: 1st Half O/U 2.5",
   "revisions": 1,
   "sha256": "ebbac79bae095632b6d0b9d643804f059ebc1e2c3941052466f4dce4bac27119",
@@ -164,6 +165,15 @@
   "sha256": "09a011f2093b6abacb1858d64475d4a0eb7a63f2ebd8c2bf33473d3363f9a401",
   "slug": "bulgaria-nbl-2027-champion-beroe-stara-zagora"
  },
+ "0x0dfefd65ebb2c7530aae9f444115cf7abf5ed75010148e8f673280004df492d9": {
+  "created_at": "2026-11-26T16:53:14.729264Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Russia x Ukraine energy ceasefire agreement by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "991ed0c602deb5dcac8e9ca1e6e63950356447a28b4a3494fcce773b23b021f6",
+  "slug": "russia-x-ukraine-energy-ceasefire-agreement-by-june-30-2027"
+ },
  "0x0e3d872d20c7d004adaf3ab897960c89328a86ebd8cd311822625269bdce5bd9": {
   "created_at": "2026-10-24T06:00:11.273784Z",
   "first_seen": "2026-11-17T15:59:42Z",
@@ -226,6 +236,15 @@
   "revisions": 1,
   "sha256": "d244041d96e0be5577acebe3439a8d08c6cbd872dca79d8c85ea7b0032316975",
   "slug": "will-ceedee-lamb-finish-the-2026-27-nfl-regular-season-with-the-most-receiving-yards-20260715211950744"
+ },
+ "0x1888bfc1aee485b66ea085214b9424610e15ed228794412703ae9160f7a03dd9": {
+  "created_at": "2026-11-26T02:27:04.941465Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2026 be above $8.00?",
+  "revisions": 1,
+  "sha256": "631967a814ecdaf6508b8d3ce577bf59af8499fa9d2888ab41d932bc70b0db8e",
+  "slug": "h200-average-rental-price-in-december-2026-above-8pt00"
  },
  "0x19d2ff72e389d190c183e6b114817301d29eba651d67d75a38ee201a05188fd9": {
   "created_at": "2025-10-13T19:02:21.267615Z",
@@ -951,6 +970,15 @@
   "sha256": "d902db81bbbee656a0286e3fb77ae952cc2c455e228d2311c85cc97463479567",
   "slug": "will-the-republican-party-candidate-win-the-2026-mn-08-house-election-by-21-or-more"
  },
+ "0x79be3f6cba78f6ead2d4a7fb2c93506a6c0226de137e42ea9c264c9e3c82e7d9": {
+  "created_at": "2026-11-25T23:00:10.287467Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Meta (META) get a credit rating downgrade before 2028?",
+  "revisions": 1,
+  "sha256": "c824d4724bc40e0e0f76995696f6e58100e91110ae8cf41b62686abf428487a7",
+  "slug": "will-meta-get-a-credit-rating-downgrade-before-2028"
+ },
  "0x79d585ade5c447610df8d0c8e5a9f2f9c526050726c13a2aa37cf38f03a9d0d9": {
   "created_at": "2026-10-15T10:17:34.279265Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -987,6 +1015,15 @@
   "revisions": 1,
   "sha256": "0a994d79f0c5d57726a76a54ebce869b8508cd5126dc2b81b2f18e84d0a9f204",
   "slug": "will-mtk-budapest-finish-10th-in-nb-i-hungary-2026-27"
+ },
+ "0x7e8d0780afca32a6f6ff649535517c534943889477c10dc4a3f7113b32eeecd9": {
+  "created_at": "2026-11-25T22:59:46.915916Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Meta (META) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-meta-get-a-credit-rating-downgrade-by-june-30-2027"
  },
  "0x80634cb8777f5d5d33de82673844c3f5debc3768b8facd3e207c4405898f12d9": {
   "created_at": "2026-09-04T19:48:54.16943Z",

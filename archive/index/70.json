@@ -1338,6 +1338,15 @@
   "sha256": "ab965a915401d9da99fdcedf380954dd27053e9f898cff4ca59e7b250a9912bb",
   "slug": "will-texas-tech-have-more-than-7pt5-wins-during-the-2026-cfb-season-20260810194044829"
  },
+ "0xc742eef5385c78a53322f9f193a43e6566f25b25dd4d4c331eda099b76da4370": {
+  "created_at": "2026-11-26T02:27:19.337852Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2027 be above $8.00?",
+  "revisions": 1,
+  "sha256": "25df622737437fe93c96d691206b35671603fd0d2271ce7d2b1dcfd3b1bd05cc",
+  "slug": "h200-average-rental-price-in-december-2027-above-8pt00"
+ },
  "0xcb8bea65b57120e08fd0c8b4ee39d2d2710e868efa6b04ccd342d284c2868d70": {
   "created_at": "2026-08-06T21:36:16.525811Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1520,6 +1529,15 @@
   "revisions": 1,
   "sha256": "b3ac4ecbdeeb256d2583233a9a2cb836ce396db0e1f21b86a8526f866701efdb",
   "slug": "will-oriente-petrolero-be-relegated-from-bolivia-lfpb-2026"
+ },
+ "0xe5fe861eca3509f7f1a6bdb94ce4a5a6d55af0f52bc58423b585786249cca870": {
+  "created_at": "2026-11-25T21:33:59.603763Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Trump pardon anyone by December 31, 2026?",
+  "revisions": 1,
+  "sha256": "6e8b7d236b70a066565443e3ddff6b2def055bc96839f1432a353e25c6801d96",
+  "slug": "will-trump-pardon-anyone-by-december-31-2026-20261124"
  },
  "0xe6ee5d805dad72cd35d9de71628b297700f03b405b3921e4a1ab9fc7bab9e670": {
   "created_at": "2026-11-13T00:28:45.816042Z",

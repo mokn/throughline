@@ -204,6 +204,7 @@
   "created_at": "2026-09-21T23:10:23.007682Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will \"GTA VI: The Album\" first week sales be at least 25k?",
   "revisions": 1,
   "sha256": "09e81f2c32866dfb0ec808a76daef2a99107fb54792137e80b9d2f8067118e48",
@@ -273,6 +274,15 @@
   "revisions": 1,
   "sha256": "6676d6e21537db5c5740f4d303ceed4c2f8f28a065fcdbd8163cfadab8ac9116",
   "slug": "jadarian-price-1000-rushing-yards-2026-27"
+ },
+ "0x2a27117efb94a4306534a2ab89e70327a74f31c54f071f765bb42265ef987464": {
+  "created_at": "2026-11-26T02:27:21.023445Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in February 2027 be above $9.00?",
+  "revisions": 1,
+  "sha256": "54d8ac79bf27c7500af7a33ee763b1da8d0b5b35ee0e1102d8ae11044415f296",
+  "slug": "h200-average-rental-price-in-february-2027-above-9pt00"
  },
  "0x2eaef39ede14019888687b8d087a0a91c876d1e75c3460e018a8f44244748964": {
   "created_at": "2026-10-20T06:00:07.120137Z",

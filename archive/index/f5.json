@@ -76,6 +76,7 @@
   "created_at": "2026-10-20T23:03:07.333608Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will valyn play for Team Envy in 2027?",
   "revisions": 1,
   "sha256": "c357d9466bbaaf4c8a5f99e9f0349641c222010370794e86210cdf6b76761e5d",
@@ -439,6 +440,15 @@
   "revisions": 1,
   "sha256": "46b6f6d0ac01c8f2579f836995b2c9b92650f26f1bdebff88fd863f801787c22",
   "slug": "pro-football-single-season-interceptions-record-broken-2026-27"
+ },
+ "0x425dc43e7b5fbf0998969faba68c42f5409105ef2e151fc4fd57a401f66aebf5": {
+  "created_at": "2026-11-25T23:31:07.354061Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI sell between 8% and 9% of its shares in its IPO?",
+  "revisions": 1,
+  "sha256": "e9a724540fd87347eabcedf380534bcfffa50af5a08dfc7850aebda20fe440cb",
+  "slug": "will-openai-sell-between-8-and-9-of-its-shares-in-its-ipo"
  },
  "0x436288d17ed6a2612933de3dbf53e22341a02b6a43ae4e116cea2fa16264a9f5": {
   "created_at": "2026-10-14T13:24:07.532793Z",
@@ -868,6 +878,15 @@
   "revisions": 1,
   "sha256": "396e9b9a1c1e85cd902d97fe1b2ca73da8a3962fe92ac224ac11405597fce141",
   "slug": "will-earrings-malcom-todd-be-the-2-song-in-the-us-for-2026-20260729205600301"
+ },
+ "0x8cfa9d31351684f351b9416b4a57af5d36d06f665a184610a0b07aeab9229ef5": {
+  "created_at": "2026-11-26T00:12:12.345496Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will NVIDIA Rubin Ultra shipments begin by June 30, 2028?",
+  "revisions": 1,
+  "sha256": "bf3557eecc069ee7edc314153e1aeb3fa650ecbb8538a2339a2c8ca84f9178ae",
+  "slug": "nvidia-rubin-ultra-shipments-begin-by-june-30-2028"
  },
  "0x8df013727b9e69b8f7ff9d3d8c56581fa2a3a498b6a67cc8b871411ff32b86f5": {
   "created_at": "2026-10-09T14:14:53.120737Z",

@@ -181,6 +181,15 @@
   "sha256": "1eb2ded67548885b65d6555a26e0b6706900363b07d79aa71c27292e00345b38",
   "slug": "will-tarik-skubals-next-team-be-new-york-mets"
  },
+ "0x2a713f6d83f231ddd41197c52614ab76c651c6e664f7631cc36ded0623ccac61": {
+  "created_at": "2026-11-26T02:27:15.487034Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in December 2027 be above $18.00?",
+  "revisions": 1,
+  "sha256": "25df622737437fe93c96d691206b35671603fd0d2271ce7d2b1dcfd3b1bd05cc",
+  "slug": "h200-average-rental-price-in-december-2027-above-18pt00"
+ },
  "0x2a82df66332a6e7f8202e5f38dd3b3453705d473091ca8a34aef0b8f9e0aee61": {
   "created_at": "2026-11-21T15:49:23.914413Z",
   "first_seen": "2026-11-22T14:34:48Z",
@@ -328,6 +337,15 @@
   "revisions": 1,
   "sha256": "8bafba166e35fa308997af8f9de1614528c0f4bf1d37d7a76d22c185f5b8c04d",
   "slug": "will-the-odyssey-get-the-most-oscar-nominations-at-the-99th-academy-awards"
+ },
+ "0x42ef33d8dc2415b8cde5f8221beb63d21194de0db55883fd58b626e39024de61": {
+  "created_at": "2026-11-25T21:15:06.65334Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Dallas Cowboys by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-dallas-cowboys-by-january-11-2027"
  },
  "0x433587daba653f972f1bf49d41712ff02a0e73196c3a498a1e9d8e80c6587861": {
   "created_at": "2025-10-09T19:56:26.00616Z",
@@ -632,6 +650,7 @@
   "created_at": "2026-09-01T09:44:57.385152Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "FK Kryvbas Kryvyi Rih vs. FK Kharkiv: 1st Half O/U 3.5 Total Corners",
   "revisions": 1,
   "sha256": "7499a65a517d9efeace3abf11e6109657f9bdf991bdaf20c92fcf601bacd273b",
@@ -1284,6 +1303,15 @@
   "sha256": "455b3eaf296974b0d73be9c71d50a7ba49216de028fd529e7fc9f2a6bc3298d1",
   "slug": "el-salvador-ends-haiti-deployment-by-december-31-2026"
  },
+ "0xdddc3991db34663cd6e2c92975c10e203671dfbcd76012857e599183ad110061": {
+  "created_at": "2026-11-26T01:04:07.289211Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will SpaceX report more than 41 rocket launches in Q4 2026?",
+  "revisions": 1,
+  "sha256": "a8140d8cace5dce0e715e979e0d1d57f24809678eacbc20e0b93df6863eaef5f",
+  "slug": "spacex-q4-2026-rocket-launches-above-41"
+ },
  "0xdf698435c599d271bc86ac50e0bf63d9354e7c901a7f7e7d32abc42fb79aae61": {
   "created_at": "2026-03-25T20:08:33.812637Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1427,6 +1455,7 @@
   "created_at": "2026-09-09T15:41:23.527733Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Patrik Schick be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",

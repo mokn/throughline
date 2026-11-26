@@ -341,6 +341,15 @@
   "sha256": "4da6d08fb5fcbb5dc20b7dd273601b26fbe7cf205465018356db2394d2829f1e",
   "slug": "will-rayo-vallecano-qualify-for-the-2027-28-uefa-conference-league"
  },
+ "0x2edec1cd482a9c7f7094a046a6fad2d6eb0b84a701937aab57e1363af453dd44": {
+  "created_at": "2026-11-25T22:59:49.109215Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Oracle (ORCL) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-oracle-get-a-credit-rating-downgrade-by-june-30-2027"
+ },
  "0x3198ab6f83478ba54c78fad89fb2c769cc862ea2e454e745092be9208aabfb44": {
   "created_at": "2026-10-14T13:24:28.686469Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -800,6 +809,7 @@
   "created_at": "2026-10-25T10:45:21.57519Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: CSD Municipal 1st Half O/U 3.5",
   "revisions": 1,
   "sha256": "0bbb5c19bab928a54fdbf6eabcc529ee34193b12dd8485a5b7e866fc490a1624",
@@ -861,6 +871,15 @@
   "sha256": "45eb826016c9476cc7fce4ab6fe9d7f493e4d2d87229345ddac3f8bd985520d8",
   "slug": "will-the-republican-party-candidate-win-the-2026-tn-08-house-election-by-5-10"
  },
+ "0x79ac62589fba74352332d356d93df5754e69b31cb579601fb41600a8796e7f44": {
+  "created_at": "2026-11-25T23:31:14.977671Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI IPO in December 2026 or earlier?",
+  "revisions": 1,
+  "sha256": "77296f88a3ac1bb2fb950237a39a8ca667b9d50e589c8cbc471c44a44becdc33",
+  "slug": "will-openais-ipo-date-fall-in-or-before-december-2026"
+ },
  "0x7da9d9adb1d7d809922e7b12795e88b689abd596596d5d222e59a8a2610ae444": {
   "created_at": "2026-10-30T23:37:40.216662Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -884,6 +903,7 @@
   "created_at": "2026-11-23T22:23:41.90294Z",
   "first_seen": "2026-11-24T17:44:50Z",
   "last_changed": "2026-11-24T17:44:50Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Eternal Fire go 3-2 in Stage 1 of the PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "9f15992409677ff8dbdfa1e34b3e4ce2911d040a9c9274c42046435de9273b70",
@@ -1550,6 +1570,15 @@
   "revisions": 1,
   "sha256": "7e64bf2cfc06796e5efe4876eb1b1f34725bf08d8d95bf2c451debd6f785de3e",
   "slug": "will-the-democratic-party-candidate-win-the-2026-oh-13-house-election-by-5-10"
+ },
+ "0xd5244e9f197fdac8ce49b5346855fc09ed184c209569dc595983f32a5ad56b44": {
+  "created_at": "2026-11-25T23:31:05.344175Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will OpenAI sell between 5% and 6% of its shares in its IPO?",
+  "revisions": 1,
+  "sha256": "e9a724540fd87347eabcedf380534bcfffa50af5a08dfc7850aebda20fe440cb",
+  "slug": "will-openai-sell-between-5-and-6-of-its-shares-in-its-ipo"
  },
  "0xd6539691b28d01bc1465a5110e02610a1bb165c9cfc59c952c2853fe9ceccb44": {
   "created_at": "2026-08-28T19:59:13.603914Z",

@@ -58,6 +58,7 @@
   "created_at": "2026-10-25T10:45:16.870376Z",
   "first_seen": "2026-11-05T14:39:41Z",
   "last_changed": "2026-11-05T14:39:41Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "CSD Municipal vs. Aurora FC: O/U 0.5",
   "revisions": 1,
   "sha256": "80a30a1859d04c3f5c0d25bb574bdc1bcdd9854983fbae90b4c7559afc4dc7fd",
@@ -744,6 +745,15 @@
   "sha256": "5e72e7a2a2ef09272e5ee18abf8e64dc1c896a880a075f09f61898661b8f97f2",
   "slug": "will-guitarricadelafuente-win-best-supporting-actor-at-the-99th-academy-awards-20260805190945759"
  },
+ "0x68bd0444663830870506e1e0cf05fa4cc91f2e34335e25e380d65cc4ce4f5624": {
+  "created_at": "2026-11-25T21:15:02.861237Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Aaron Rodgers sign with the Carolina Panthers by January 11, 2027?",
+  "revisions": 1,
+  "sha256": "edecc6970a2bf6c66eaa3493bdaaac116bef0eee7029beb81672c40564d075ce",
+  "slug": "will-aaron-rodgers-sign-with-the-carolina-panthers-by-january-11-2027"
+ },
  "0x68d905e2ecbbecf47e8caac5107a45798feec263e2236cea116fb4f2aa2c8e24": {
   "created_at": "2026-11-23T18:11:58.765213Z",
   "first_seen": "2026-11-23T18:08:26Z",
@@ -966,6 +976,15 @@
   "revisions": 1,
   "sha256": "f09604d1445d87a589baed7ecc3dc7c4183f1fe232872d83086db4bc7c61006a",
   "slug": "will-xun-have-the-most-kills-at-worlds-2026"
+ },
+ "0x7b80d0914b35a58a94382bddeee9aa5643275ff80852ce61a0efa4a2a26c2724": {
+  "created_at": "2026-11-26T16:07:10.120203Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the total domestic gross for \"The Hunger Games: Sunrise on the Reaping\" be between $360M and $380M by December 31?",
+  "revisions": 1,
+  "sha256": "e7972bcfeb7af75236741a29154e3eddd344503fb47d67d00d68998506bedf17",
+  "slug": "will-the-total-domestic-gross-for-the-hunger-games-sunrise-on-the-reaping-be-between-360m-and-380m-by-december-31"
  },
  "0x7bf30c90ce5061e0754a591db427bed6f9c037e04cb2e84737f98592902df924": {
   "created_at": "2026-10-18T23:30:34.812807Z",
@@ -1417,6 +1436,15 @@
   "revisions": 1,
   "sha256": "5b0d9e532ba3d5038380228ad3d37095bc909da643a9af16a8af106beec8f05f",
   "slug": "will-brazils-annual-inflation-in-2026-be-between-5pt00-and-5pt49"
+ },
+ "0xbf0627cfb7b486403a44a0f7ef353ff9e07b1b15ea4fc4a6c501a57853ba3a24": {
+  "created_at": "2026-11-26T02:27:22.580678Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will the average Ornn H200 rental price in January 2027 be above $6.50?",
+  "revisions": 1,
+  "sha256": "3193748426b40b7e48a58f9c69d1bc0c459cd8d4de5a241166b22e0bd2bca8cb",
+  "slug": "h200-average-rental-price-in-january-2027-above-6pt50"
  },
  "0xc00477c3fa98236eb2b18d6d7ca3f40e985b53534a85bcfd33aef051cfec6024": {
   "created_at": "2026-09-29T00:12:13.963334Z",

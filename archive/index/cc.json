@@ -492,6 +492,7 @@
   "created_at": "2026-08-19T21:59:00.448032Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will the Chicago Bulls win the 2026 NBA Cup?",
   "revisions": 1,
   "sha256": "41274b2ef0fa15629dc646e2298647a518309c6b32950746e9b61dbe326fd640",
@@ -520,6 +521,7 @@
   "created_at": "2026-11-23T16:32:29.936902Z",
   "first_seen": "2026-11-23T18:08:26Z",
   "last_changed": "2026-11-23T18:08:26Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will 9z qualify to the Playoffs at PGL Major Singapore 2026?",
   "revisions": 1,
   "sha256": "f020d664bb54e3af5de4a18c2decce3975a8e44c4ebaec671741ee74a523f163",
@@ -789,6 +791,15 @@
   "sha256": "e77bf11111f8382e14a78fdb66eddb10c6fe8d21cfc402319b4a8f394376d3ed",
   "slug": "magicblock-fdv-above-200m-one-day-after-launch"
  },
+ "0x78c74d2e1b5a8e70a6efcd6070d0030303b6a528faed6f1e346eb892b032fdcc": {
+  "created_at": "2026-11-25T22:59:51.75775Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Will Sandisk (SNDK) get a credit rating downgrade by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "c65e900dc010509ee94f69c0ecb90b5210753768e40d729e427e9d28e1144b41",
+  "slug": "will-sandisk-get-a-credit-rating-downgrade-by-june-30-2027"
+ },
  "0x7b8b684ee7e7b3303aa3d57dec5f343d1bed47929de9f5172380c287a9618dcc": {
   "created_at": "2026-08-12T17:24:09.418543Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -938,6 +949,7 @@
   "created_at": "2026-09-09T15:41:28.895663Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Isaac Price be the top scorer of the 2026-27 UEFA Nations League?",
   "revisions": 1,
   "sha256": "0db735ec46d387810a7fdc7d7e58b5d620a56f73ffbe66a068d96d6e7827a91c",
@@ -1429,6 +1441,7 @@
   "created_at": "2026-09-09T02:37:38.816366Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Will Boaster play for Bilibili Gaming in 2027?",
   "revisions": 1,
   "sha256": "a87b71d62011973172ff3f3feb1aac55c453594b206013cdfc3e3510a28458c7",

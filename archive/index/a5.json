@@ -1122,6 +1122,15 @@
   "sha256": "ce0668950e802893973cbee4d28a5b753829d8e6845a6e44a02a266e50e01ae4",
   "slug": "will-banksy-create-a-new-mural-or-street-artwork-by-december-31"
  },
+ "0x93d6395e25e80ebc6873c666597032348a2498302bca6e9e7cf9880490d535a5": {
+  "created_at": "2026-11-25T17:15:52.656973Z",
+  "first_seen": "2026-11-26T16:54:13Z",
+  "last_changed": "2026-11-26T16:54:13Z",
+  "question": "Variational FDV above $1.5B one day after launch?",
+  "revisions": 1,
+  "sha256": "070cd0f5f73d51e56144985097f0e59f3e8401061317417d3183b24ba9dfc081",
+  "slug": "variational-fdv-above-1pt5b-one-day-after-launch"
+ },
  "0x9487201198775b8d7a1ee31c24220c415fa6bb9cd44d5c36b1109e12694da6a5": {
   "created_at": "2026-10-15T20:36:05.840609Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1847,6 +1856,7 @@
   "created_at": "2026-09-28T20:15:08.016361Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-26T16:54:13Z",
   "question": "Closer Senate Race: Georgia or Kansas?",
   "revisions": 1,
   "sha256": "f7578bf8129230853ff5e4080109f8969f7e8292c658109ff79574e03b96a0eb",
