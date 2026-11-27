@@ -871,6 +871,7 @@
   "created_at": "2026-09-08T17:01:46.540662Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-27T16:40:07Z",
   "question": "Will Egnatia record the most clean sheets in the UECL league phase?",
   "revisions": 1,
   "sha256": "135a5801fbd3cefbbd4014166ffa05dba4660da17d4fd37f5522a83a13e1014d",
@@ -938,6 +939,15 @@
   "revisions": 1,
   "sha256": "4e129a0d1e87db076675b05bd9751735a7314cc73540735e8c74522762696340",
   "slug": "will-jake-browning-finish-as-a-top-5-qb-in-the-2026-27-nfl-season"
+ },
+ "0x7984413c06173ea743fda42cd724a1b54d004620aa03111d705b304c44afabfd": {
+  "created_at": "2026-11-27T11:01:54.147892Z",
+  "first_seen": "2026-11-27T16:40:07Z",
+  "last_changed": "2026-11-27T16:40:07Z",
+  "question": "Jensen Huang announced resignation or removal again by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "ff390968b8661e02eb81b49637034f2a19acbe2869e71a4afee26d5246b14e72",
+  "slug": "jensen-huang-announced-resignation-or-removal-again-by-june-30-2027"
  },
  "0x7af1fb355e9cdb12357d6a6ab3bbd8a40993c704135887b4168908232c29e7fd": {
   "created_at": "2026-08-10T23:56:54.953192Z",
@@ -1009,6 +1019,7 @@
   "created_at": "2026-08-18T14:57:37.897895Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-27T16:40:07Z",
   "question": "Will Maggie Govender be the next mayor of eThekwini?",
   "revisions": 1,
   "sha256": "2a88dcfbf172485b432bbd7e0b893c787443df69e0765abcbb511d861ee1e66f",

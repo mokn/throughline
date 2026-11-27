@@ -609,6 +609,7 @@
   "created_at": "2026-08-10T08:35:17.331896Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-27T16:40:07Z",
   "question": "Will Anders \u00d6berg be the next Regional Board Chair of Region Norrbotten?",
   "revisions": 1,
   "sha256": "9685d5d8f7fb7b5c03bb21d12b9ef6d38cf50bb0fffc54f29739777421b12999",
@@ -935,6 +936,15 @@
   "revisions": 1,
   "sha256": "688e0183466807127ccf0df91f24c97b89b0959a168e8b73ec054590a8d05429",
   "slug": "will-the-republican-party-candidate-win-the-2026-ga-12-house-election-by-20-25"
+ },
+ "0x769830a1219b5e7a34ebc83eff5b24c77899514523cbbdef5712da3ae714091b": {
+  "created_at": "2026-11-27T14:35:43.436227Z",
+  "first_seen": "2026-11-27T16:40:07Z",
+  "last_changed": "2026-11-27T16:40:07Z",
+  "question": "US-Iran Hormuz Agreement by June 30, 2027?",
+  "revisions": 1,
+  "sha256": "aee34068a360211847b2fc76df880548d15e9b9b204b996dfb8cc9b37d4b5d0f",
+  "slug": "us-iran-hormuz-agreement-by-june-30-2027"
  },
  "0x79e1efacfd504e66f7ade1363b80105c976d32c02826c31b5d2091e0a91bfb1b": {
   "created_at": "2026-07-22T05:41:17.364691Z",
@@ -1411,6 +1421,7 @@
   "created_at": "2026-08-10T23:56:00.302279Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-27T16:40:07Z",
   "question": "Will DeVonta Smith have 3.5+ receiving touchdowns in the 2026-27 NFL regular season?",
   "revisions": 1,
   "sha256": "3e23c74852898bf35e1a5fc76fe084b377ffdf7947dd9671ebf1a766a3c132c0",
@@ -1679,6 +1690,7 @@
   "created_at": "2026-08-10T15:02:39.095128Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-27T16:40:07Z",
   "question": "Will the Democratic Party candidate win the 2026 KY-04 House election?",
   "revisions": 1,
   "sha256": "7d9b46f6ae51aaef9b30aa93f417366e7a13a27b90b0121cc3cdb70433e1684c",

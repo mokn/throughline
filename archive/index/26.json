@@ -789,6 +789,15 @@
   "sha256": "91ba4bf35322e32b321f586e7ce093f1d35cff2362385debb056b8b35a5331a4",
   "slug": "will-greece-host-the-2027-uefa-nations-league-finals"
  },
+ "0x638f244b685099948bd336c9ce0003550d32857b52415b30865a656ced5bdf26": {
+  "created_at": "2026-11-27T15:09:17.540542Z",
+  "first_seen": "2026-11-27T16:40:07Z",
+  "last_changed": "2026-11-27T16:40:07Z",
+  "question": "Russia x Ukraine energy ceasefire agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "991ed0c602deb5dcac8e9ca1e6e63950356447a28b4a3494fcce773b23b021f6",
+  "slug": "russia-x-ukraine-energy-ceasefire-agreement-by-december-31-2027"
+ },
  "0x64791775483900e1231160aa242d1d9e8e4feaf190992a428295afd558c57b26": {
   "created_at": "2026-10-21T23:30:32.040546Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -1281,6 +1290,7 @@
   "created_at": "2026-08-18T14:58:36.288756Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-27T16:40:07Z",
   "question": "Will Siva Pillay be the next mayor of Nelson Mandela Bay?",
   "revisions": 1,
   "sha256": "c3b5a694b2828352d0cea281540ce41fefb305923c9e190e1742eb5d757d073b",
@@ -1696,6 +1706,7 @@
   "created_at": "2026-09-08T16:54:50.276556Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-27T16:40:07Z",
   "question": "Will Besiktas record the most clean sheets in the UEL league phase?",
   "revisions": 1,
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",

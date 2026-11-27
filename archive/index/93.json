@@ -83,6 +83,15 @@
   "sha256": "2517fc87d7f17b81d1db4b1992ce69ebf59ee968680235c55cfbb415a8df0af5",
   "slug": "will-jensen-huang-found-a-new-company-next"
  },
+ "0x0c463670f4c9c0feed86f64497bc4c6e1980e5b6974c1f805e724c27ec1b5693": {
+  "created_at": "2026-11-27T14:35:42.584788Z",
+  "first_seen": "2026-11-27T16:40:07Z",
+  "last_changed": "2026-11-27T16:40:07Z",
+  "question": "US-Iran Hormuz Agreement by December 31, 2027?",
+  "revisions": 1,
+  "sha256": "aee34068a360211847b2fc76df880548d15e9b9b204b996dfb8cc9b37d4b5d0f",
+  "slug": "us-iran-hormuz-agreement-by-december-31-2027"
+ },
  "0x0c850ba78ba995c9324706b69a63e774c0e0673fda8ee6fbc4de430b7b4b5393": {
   "created_at": "2026-08-19T20:01:25.3293Z",
   "first_seen": "2026-11-04T01:55:27Z",
@@ -124,6 +133,7 @@
   "created_at": "2026-09-08T16:54:49.630931Z",
   "first_seen": "2026-11-04T01:55:27Z",
   "last_changed": "2026-11-04T01:55:27Z",
+  "last_seen_open": "2026-11-27T16:40:07Z",
   "question": "Will Jagiellonia Bialystok record the most clean sheets in the UEL league phase?",
   "revisions": 1,
   "sha256": "d8a60d759c0784a24271e8f0cdbab708e53bf36aa8b957f557995aeceec8e5d5",
